@@ -109,7 +109,11 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
     > [!TIP] 
     > You can filter the list of triggers by entering “data” in the **Choose your flow’s trigger** box.
 
-3. In the **When a record is updated trigger**, select the environment where Dynamics 365 Guides is installed, select **Guides** as the entity name, and then select a scope. 
+3. In the **When a record is updated trigger**:
+
+    - In the ??? list, select **Update**.
+
+    - Select **Guides** as the entity name, and then select a scope. 
 
     ![When a record is updated trigger showing Guides entity selected](media/workflow1-when-record-updated-trigger.PNG "When a record is updated trigger showing Guides entity selected")
 
