@@ -111,7 +111,7 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
 
 3. In the **When a record is updated trigger**:
 
-    - In the ??? list, select **Update**.
+    - In the **Change type** field, select **Update**.
 
     - Select **Guides** as the entity name, and then select a scope. 
 
