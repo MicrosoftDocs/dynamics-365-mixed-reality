@@ -102,7 +102,7 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
 
     ![Power Automate screen with Automated cloud flow selected](media/workflow1-automated-cloud-flow.PNG "Power Automate screen with Automated cloud flow selected")
 
-2. Enter a name for your flow, and then under **Choose your flow’s trigger**, scroll the list, select the **When a record is updated** trigger, and then select **Create**. 
+2. Enter a name for your flow, and then under **Choose your flow’s trigger**, scroll the list, select the **When a row is added, modified, or deleted** trigger, and then select **Create**. 
 
     ![Power Automate screen with When a record is updated trigger selected](media/workflow1-when-record-updated-selection.PNG "Power Automate screen with When a record is updated trigger selected")
  
