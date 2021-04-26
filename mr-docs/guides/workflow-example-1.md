@@ -17,6 +17,9 @@ The resulting Excel Link Manager for this example looks like this:
 
 ![Screen shot of Excel Link Manager](media/workflow1-excel-link-manager.PNG "Screen shot of Excel Link Manager")
 
+> [!NOTE]
+> You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
+
 ## What you'll learn in this example
 
 In this example you’ll learn how to do three key things:
