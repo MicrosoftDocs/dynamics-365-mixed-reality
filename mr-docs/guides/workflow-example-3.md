@@ -191,8 +191,6 @@ Collecting response data in real time by using Power Automate requires four step
 
 2. To test the flow, in the upper-right corner of the screen, select **Test**, select **Manually**, and then select **Test**. 
 
-    ![Test flow pane in Power Automate](media/workflow3-test-flow.PNG "Test flow pane in Power Automate")
- 
 3. In the **Run flow** pane, select **Run flow**. 
 
 
