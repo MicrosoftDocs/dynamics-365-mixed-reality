@@ -142,7 +142,7 @@ Collecting response data in real time by using Power Automate requires four step
     ![Power Automate screen with When a record is created trigger selected](media/workflow3-when-record-created-selection.PNG "Power Automate screen with When a record is created trigger selected")
  
     > [!TIP]
-    > You can filter the list of triggers to just the Common Data Service triggers by entering the word **data** in the **Choose your flow’s trigger** box.
+    > You can filter the list of triggers to just the Microsoft Dataverse triggers by entering the word **data** in the **Choose your flow’s trigger** box.
 
 4. In the **When a record is created** trigger, select your environment, select **Guide Step Session Visits** for the **Entity Name** field, and then select a scope. 
  
