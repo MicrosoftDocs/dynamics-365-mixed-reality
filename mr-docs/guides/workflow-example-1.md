@@ -113,9 +113,9 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
 
     ![When a record is updated trigger showing Guides entity selected](media/workflow1-when-record-updated-trigger.PNG "When a record is updated trigger showing Guides entity selected")
 
-4. Select **New step**, and then under **Choose an operation**, select **Common Data Service** to filter the list of actions.
+4. Select **New step**, and then under **Choose an operation**, select **Microsoft Dataverse** to filter the list of actions.
 
-    ![Common Data Service item selected under Choose an operation](media/workflow1-common-data-service.PNG "Common Data Service item selected under Choose an operation")
+    ![Microsoft Dataverse item selected under Choose an operation](media/workflow1-common-data-service.PNG "Microsoft Dataverse item selected under Choose an operation")
   
 5. Select the **Get a row by ID** action. 
 
