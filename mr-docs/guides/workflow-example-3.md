@@ -17,6 +17,9 @@ If you have created a [non-linear (branching) guide](pc-app-branching.md) in Mic
 
 You can count the number of times the Step Id for each response is selected to know how often a particular issue occurs. 
 
+> [!NOTE]
+> You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
+
 ## What you’ll learn in this example
 
 - Find the Step Id for a response step
