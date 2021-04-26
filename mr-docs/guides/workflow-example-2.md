@@ -45,7 +45,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
     ![Add a new row action selected](media/workflow2-add-new-row-selection.PNG "Add a new row action selected")
  
     > [!TIP]
-    > You can filter the list of Common Data Service actions by selecting the **Common Data Service** button.
+    > You can filter the list of Microsoft Dataverse actions by selecting the **Microsoft Dataverse** button.
     
 5. In the **Add a new row** trigger, in the **Table name** field, select **3D Object Collections**, enter a name for your new collection in the **Name** field, and then select **Show advanced options** to see all the fields related to adding a new row.
 
