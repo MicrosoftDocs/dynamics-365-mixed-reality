@@ -15,6 +15,9 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
 
  ![Screen shot of PC app 3d toolkit with categories collapsed](media/workflow2-pc-app-category.PNG "Screen shot of PC app 3d toolkit with categories collapsed")
  
+ > [!NOTE]
+> You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
+ 
 ## What you'll learn in this example
 
 - How to get the Parent ID for a 3D object collection
