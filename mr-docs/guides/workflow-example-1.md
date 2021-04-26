@@ -113,7 +113,7 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
 
     1. In the **Change type** field, select **Update**.
 
-    2. Select **Guides** as the entity name.
+    2. In the **Table name** field, select **Guides**.
 
     3. Select a scope. 
 
