@@ -109,11 +109,13 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
     > [!TIP] 
     > You can filter the list of triggers by entering “data” in the **Choose your flow’s trigger** box.
 
-3. In the **When a record is updated trigger**:
+3. In the **When a row is added, modified, or deleted trigger**:
 
-    - In the **Change type** field, select **Update**.
+    1. In the **Change type** field, select **Update**.
 
-    - Select **Guides** as the entity name, and then select a scope. 
+    2. Select **Guides** as the entity name.
+
+    3. Select a scope. 
 
     ![When a record is updated trigger showing Guides entity selected](media/workflow1-when-record-updated-trigger.PNG "When a record is updated trigger showing Guides entity selected")
 
