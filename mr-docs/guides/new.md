@@ -37,8 +37,9 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="RP URL GOES HERE" target="_blank">Space-planning models</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
-| <a href="RP URL GOES HERE" target="_blank">Export/import folders</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
+| <a href="RP URL GOES HERE" target="_blank">Prefpare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
+| <a href="RP URL GOES HERE" target="_blank">Measure lengths and angles with new 3D toolkit shapes</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
+
 
 ## April 1, 2021
 
