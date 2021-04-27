@@ -74,8 +74,4 @@ To change the owner of a folder:
 
 4.	Select **Assign** to save the new owner. 
 
-## See also
-
-[Export and import folders between environments](admin-export-import-folders.md)
-
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
