@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Microsoft Power Automate to create a 3D object collection for Microsoft Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 04/01/2021
+ms.date: 04/26/2021
 ms.service: crm-online
 ms.topic: article
 title: Workflow example 2--Create a Dynamics 365 Guides 3D object collection and add objects to the collection
@@ -14,6 +14,9 @@ ms.reviewer: v-brycho
 In this workflow example, we’ll use Microsoft Power Automate to create a Microsoft Dynamics 365 Guides 3D object collection. 3D object collections appear as categories (**Arrows**, **Generic Tools**, and so on) in the Dynamics 365 Guides 3D toolkit. You can use Power Automate to create a new category for your 3D objects, and then add objects to the collection through the Dynamics 365 Guides model-driven app.
 
  ![Screen shot of PC app 3d toolkit with categories collapsed](media/workflow2-pc-app-category.PNG "Screen shot of PC app 3d toolkit with categories collapsed")
+ 
+ > [!NOTE]
+> You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
  
 ## What you'll learn in this example
 
@@ -45,7 +48,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
     ![Add a new row action selected](media/workflow2-add-new-row-selection.PNG "Add a new row action selected")
  
     > [!TIP]
-    > You can filter the list of Common Data Service actions by selecting the **Common Data Service** button.
+    > You can filter the list of Microsoft Dataverse actions by selecting the **Microsoft Dataverse** button.
     
 5. In the **Add a new row** trigger, in the **Table name** field, select **3D Object Collections**, enter a name for your new collection in the **Name** field, and then select **Show advanced options** to see all the fields related to adding a new row.
 
@@ -110,3 +113,8 @@ You can add new objects to the collection directly in the model driven-app.
 
 You could create a Power Automate flow that automatically adds any new 3D objects uploaded by users on your team to a 3D object collection.
 
+## See also
+
+- [Workflow integration example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
+
+- [Workflow integration example 3: Collect response data for a non-linear guide](workflow-example-3.md)

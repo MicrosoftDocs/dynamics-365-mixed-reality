@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Microsoft Power Automate and Microsoft Excel to collect response data for a non-linear guide created in Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 04/01/2021
+ms.date: 04/26/2021
 ms.service: crm-online
 ms.topic: article
 title: Workflow example 1--Collect response data for a non-linear guide created in Dynamics 365 Guides
@@ -16,6 +16,9 @@ If you have created a [non-linear (branching) guide](pc-app-branching.md) in Mic
  ![Example non-linear guide created in this workflow showing three temperature readings](media/workflow3-example-non-linear-guide.PNG "Example non-linear guide created in this workflow showing three temperature readings")
 
 You can count the number of times the Step Id for each response is selected to know how often a particular issue occurs. 
+
+> [!NOTE]
+> You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
 
 ## What you’ll learn in this example
 
@@ -127,7 +130,7 @@ Collecting response data in real time by using Power Automate requires four step
 
 2. After creating the columns, select them, and then select **Insert > Table**. You'll populate this table with the Power Automate flow.
 
-   ![Screen shot of Excel toolbar with Table item selected](media/workflow1-excel-insert-table.PNG "Screen shot of Excel toolbar with Table item selected")
+   ![Screenshot of Excel toolbar with Table item selected](media/workflow1-excel-insert-table.PNG "Screenshot of Excel toolbar with Table item selected")
 
 ### Create the flow
 
@@ -137,14 +140,20 @@ Collecting response data in real time by using Power Automate requires four step
 
     ![Power Automate screen with Automated cloud flow selected](media/workflow3-created-automated-flow.PNG "Power Automate screen with Automated cloud flow selected")
  
-3. Give your flow a name, select the **When a record is created** trigger, and then select **Create**.
+3. Give your flow a name, select the **When a row is added, modified, or deleted** trigger, and then select **Create**.
 
     ![Power Automate screen with When a record is created trigger selected](media/workflow3-when-record-created-selection.PNG "Power Automate screen with When a record is created trigger selected")
  
     > [!TIP]
-    > You can filter the list of triggers to just the Common Data Service triggers by entering the word **data** in the **Choose your flow’s trigger** box.
+    > You can filter the list of triggers to just the Microsoft Dataverse triggers by entering the word **data** in the **Choose your flow’s trigger** box.
 
-4. In the **When a record is created** trigger, select your environment, select **Guide Step Session Visits** for the **Entity Name** field, and then select a scope. 
+4. In the **When a row is added, modified or deleted** trigger:
+
+    1. In the **Change type** field, select **Create**.
+
+    2. In the **Table name** field, select **Guide Session Step Visits**.
+
+    3. Select a scope. 
  
     ![When a record is created trigger with Entity Name field highlighted](media/workflow3-when-record-created-trigger.PNG "When a record is created trigger with Entity Name field highlighted")
     
@@ -173,7 +182,7 @@ Collecting response data in real time by using Power Automate requires four step
     |**200 to 250 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
     |**250 to 300 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
 
-    The following screen shot shows the fields filled in for the Temperature gauge guide. 
+    The following screenshot shows the fields filled in for the Temperature gauge guide. 
 
     ![Add a row into a table action filled out with example data](media/workflow3-add-row-to-table-filled-in.PNG "Add a row into a table action filled out with example data")
  
@@ -191,9 +200,11 @@ Collecting response data in real time by using Power Automate requires four step
 
 2. To test the flow, in the upper-right corner of the screen, select **Test**, select **Manually**, and then select **Test**. 
 
-    ![Test flow pane in Power Automate](media/workflow3-test-flow.PNG "Test flow pane in Power Automate")
- 
 3. In the **Run flow** pane, select **Run flow**. 
 
+## See also
 
+- [Workflow integration example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
+
+- [Workflow integration example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
 

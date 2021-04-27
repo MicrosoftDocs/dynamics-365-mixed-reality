@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Microsoft Power Automate to automatically generate deeplinks for the Dynamics 365 Guides PC and HoloLens apps
 ms.author: mamaylya
-ms.date: 04/01/2021
+ms.date: 04/26/2021
 ms.service: crm-online
 ms.topic: article
 title: Workflow example 1--Automatically generate deeplinks for the Dynamics 365 Guides PC and HoloLens apps
@@ -16,6 +16,9 @@ This example shows how to create a Link Manager in Microsoft Excel to easily kee
 The resulting Excel Link Manager for this example looks like this:
 
 ![Screen shot of Excel Link Manager](media/workflow1-excel-link-manager.PNG "Screen shot of Excel Link Manager")
+
+> [!NOTE]
+> You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
 
 ## What you'll learn in this example
 
@@ -102,26 +105,32 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
 
     ![Power Automate screen with Automated cloud flow selected](media/workflow1-automated-cloud-flow.PNG "Power Automate screen with Automated cloud flow selected")
 
-2. Enter a name for your flow, and then under **Choose your flow’s trigger**, scroll the list, select the **When a record is updated** trigger, and then select **Create**. 
+2. Enter a name for your flow, and then under **Choose your flow’s trigger**, scroll the list, select the **When a row is added, modified or deleted** trigger, and then select **Create**. 
 
     ![Power Automate screen with When a record is updated trigger selected](media/workflow1-when-record-updated-selection.PNG "Power Automate screen with When a record is updated trigger selected")
  
     > [!TIP] 
     > You can filter the list of triggers by entering “data” in the **Choose your flow’s trigger** box.
 
-3. In the **When a record is updated trigger**, select the environment where Dynamics 365 Guides is installed, select **Guides** as the entity name, and then select a scope. 
+3. In the **When a row is added, modified, or deleted trigger**:
+
+    1. In the **Change type** field, select **Update**.
+
+    2. In the **Table name** field, select **Guides**.
+
+    3. Select a scope. 
 
     ![When a record is updated trigger showing Guides entity selected](media/workflow1-when-record-updated-trigger.PNG "When a record is updated trigger showing Guides entity selected")
 
-4. Select **New step**, and then under **Choose an operation**, select **Common Data Service** to filter the list of actions.
+4. Select **New step**, and then under **Choose an operation**, select **Microsoft Dataverse** to filter the list of actions.
 
-    ![Common Data Service item selected under Choose an operation](media/workflow1-common-data-service.PNG "Common Data Service item selected under Choose an operation")
+    ![Microsoft Dataverse item selected under Choose an operation](media/workflow1-microsoft-dataverse.PNG "Microsoft Dataverse item selected under Choose an operation")
   
 5. Select the **Get a row by ID** action. 
 
     ![Get a row by ID action selected](media/workflow1-get-row-by-ID-selection.PNG "Get a row by ID action selected")
 
-6. In the **Get a row by ID** action box, for the **Table name**, select **Users**, place your cursor in the **Row ID** field, and then select **Created By** from the dynamic list.
+6. In the **Get a row by ID** action box, for the **Table name**, select **Users**, place your cursor in the **Row ID** field, and then select **Created By (Value)** from the dynamic list.
 
     ![Created By field selected in Dynamic list](media/workflow1-created-by.PNG "Created By field selected in Dynamic list") 
 
@@ -158,4 +167,10 @@ Now you’re ready to set up the actions that populate the Excel spreadsheet col
 ## Idea for further customization
 
 To further customize the Link Manager, you could set conditions in the Power Automate flow to populate a specific spreadsheet with the guides from a specific user so all of your power users have their own Link Manager to work from. 
+
+## See also
+
+- [Workflow integration example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
+
+- [Workflow integration example 3: Collect response data for a non-linear guide](workflow-example-3.md)
 
