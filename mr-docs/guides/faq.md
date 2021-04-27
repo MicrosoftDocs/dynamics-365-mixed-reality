@@ -59,6 +59,10 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
 
+## How do I stream my HoloLens view to a PC using Miracast?
+
+The Connect app for wireless projection using Miracast is no longer installed by default, but is available as an optional feature. To install the app, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app. 
+
 ## The solution installation or update fails repeatedly
 
 To update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role AND you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
