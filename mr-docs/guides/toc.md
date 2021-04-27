@@ -127,7 +127,7 @@
 ### [Example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
 ### [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
 ### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
-### [Entity reference](developer-entity-reference.md)
+### [Dataverse tables reference](developer-entity-reference.md)
 ## Move content between environments
 ### [Migrate content from one environment to another](migrate.md)
 ### [Export and import folders between environments](admin-export-import-folders.md)
