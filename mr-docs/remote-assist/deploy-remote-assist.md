@@ -94,7 +94,7 @@ After assigning licenses, users can set up and use the app on their HoloLens, Ho
 
 4.	You'll be taken to your **Contacts** page. If you're using a free trial, you'll be prompted to start your **Free Trial of Dynamics 365 Remote Assist**. 
 
-5.	You can now use Dynamics 365 Remote Assist on your HoloLens or HoloLens 2. Next up, [Learn how make calls](making-taking-calls-hololens.md). 
+5.	You can now use Dynamics 365 Remote Assist on your HoloLens or HoloLens 2. Next up, [Learn how to make calls](making-taking-calls-hololens.md). 
 
 ### Steps for mobile devices
 
@@ -106,7 +106,7 @@ After assigning licenses, users can set up and use the app on their HoloLens, Ho
 
 4.	You'll be taken to your **Contacts** page. If you're using a free trial, you'll be prompted to start your **Free Trial of Dynamics 365 Remote Assist**.
 
-5.	You can now use Dynamics 365 Remote Assist on your mobile device. Next up, [Learn how make calls](mobile-app/making-calls-with-ar.md). 
+5.	You can now use Dynamics 365 Remote Assist on your mobile device. Next up, [Learn how to make calls](mobile-app/making-calls-with-ar.md). 
 
 >[!Note]
 > For Enterprise environments that manage application deployments using an MDM provider, please contact d365rafb@microsoft.com for assistance obtaining the Dynamics 365 Remote Assist mobile application binary.
