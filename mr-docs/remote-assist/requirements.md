@@ -99,10 +99,10 @@ If Dynamics 365 Remote Assist mobile autodetects that the technician is experien
 
 ### Dynamics 365 Remote Assist HoloLens
 
-When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30 fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5 Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
+When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD-quality video calling with resolution of HD 1080p at 30 fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD-quality video calling with resolution of HD 1080p, 4-5 Mbps up/down is required. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
 
 ### URLs and ports
-The following list contains the *minimum* URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist client. If you have specialized needs and/or scale, see the [Teams comprehensive list](https://docs.microsoft.com/microsoftteams/prepare-network) for specifics.
+The following list contains the *minimum* URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist app. If you have specialized needs and/or scale, see the [Teams comprehensive list](https://docs.microsoft.com/microsoftteams/prepare-network) for specifics.
 
 #### Teams
 - *.registrar.skype.com
@@ -162,8 +162,8 @@ The following tasks serve as a checklist for other potential optimizations for D
 - [Overview of Dynamics 365 Remote Assist](ra-overview.md)
 - [Try Dynamics 365 Remote Assist for free](try-remote-assist.md)
 - [Buy Dynamics 365 Remote Assist](deploy-remote-assist.md)
-- [Using Dynamics 365 Remote Assist on HoloLens](overview-hololens.md)
-- [Setup and use Microsoft Teams with Dynamics 365 Remote Assist](teams-pc-all.md)
+- [Use Dynamics 365 Remote Assist on HoloLens](overview-hololens.md)
+- [Set up and use Microsoft Teams with Dynamics 365 Remote Assist](teams-pc-all.md)
 - [How-to videos](videos.md)
 
 
