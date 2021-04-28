@@ -17,24 +17,24 @@ This article describes the technical requirements for deploying and using Micros
 
 ## Definitions
 
-**Dynamics 365 Remote Assist user:** Someone who uses the Remote Assist app on HoloLens or mobile devices.
+**Dynamics 365 Remote Assist user:** Someone who uses the Dynamics 365 Remote Assist app on HoloLens or mobile devices.
 
-**Teams user:** Someone who uses the Teams app on desktop or mobile devices.
+**Teams user:** Someone who uses the Teams app on the desktop or mobile devices.
 
 ## Device requirements
 
-Both Dynamics 365 Remote Assist users and Teams users can join a Dynamics 365 Remote Assist call. [Learn more about the different types of calls.](./mobile-app/making-calls-on-remote-assist-mobile.md)
+Both Dynamics 365 Remote Assist users and Teams users can join a Dynamics 365 Remote Assist call. [Learn more about the different types of calls](./mobile-app/making-calls-on-remote-assist-mobile.md).
 
 The Dynamics 365 Remote Assist app is available on HoloLens, HoloLens 2, and qualifying Android or iOS mobile devices.
 
-If an individual wants to join a Dynamics 365 Remote Assist call using the Teams app, they must use the Teams application on Windows 10 PC or mobile devices.
+If an individual wants to join a Dynamics 365 Remote Assist call using the Teams app, they must use the Teams app on Windows 10 PC or mobile devices.
 
 ### Device options and requirements for a Dynamics 365 Remote Assist user
 
 | Device                                   | OS requirements                                                                                                                                                                                                          | Details                                                                                                                                                                                                                  |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Dynamics 365 Remote Assist on HoloLens or HoloLens 2 | HoloLens or HoloLens 2 running 10.0.17134.0 (that is, Windows 10 April 2018) build or later. We recommend [updating](https://docs.microsoft.com/hololens/hololens-updates) HoloLens to newer versions when available. | See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
-| Dynamics 365 Remote Assist on mobile devices          | Dynamics 365 Remote Assist mobile is available on all devices, including ARCore-enabled Android phones or tablets, ARKit-enabled iOS iPhones or iPads, and mobile devices without AR support.                                                                               | These are the lists of AR-supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://developers.google.com/ar/discover/supported-devices#ios). For more information on how to use Dynamics 365 Remote Assist on devices without AR support, see the documentation [here](mobile-app/using-devices-without-AR.md).                                         |
+| Dynamics 365 Remote Assist on HoloLens or HoloLens 2 | HoloLens or HoloLens 2 running 10.0.17134.0 (Windows 10 April 2018) build or later. We recommend [updating](https://docs.microsoft.com/hololens/hololens-updates) HoloLens to newer versions when available. | See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
+| Dynamics 365 Remote Assist on mobile devices          | Dynamics 365 Remote Assist mobile is available on all devices, including ARCore-enabled Android phones or tablets, ARKit-enabled iOS iPhones or iPads, and mobile devices without AR support.                                                                               | See [Android AR-supported devices](https://developers.google.com/ar/discover/supported-devices) and [iOS AR-supported devices](https://developers.google.com/ar/discover/supported-devices#ios). For more information on how to use Dynamics 365 Remote Assist on devices without AR support, see [Dynamics 365 Remote Assist mobile calls on mobile devices without augmented reality support](mobile-app/using-devices-without-AR.md).                                         |
 
 ### Device options and requirements for a Teams user
 
