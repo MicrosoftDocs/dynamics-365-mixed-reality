@@ -33,7 +33,7 @@ Your organization must have:
 
 - A [free trial](try-remote-assist.md) of Dynamics 365 Remote Assist, or a [purchased license](buy-remote-assist.md). 
 
-- Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
+- An Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
 
 Make sure that users in your organization have the required licensing and devices. For more information, see [licensing and product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
