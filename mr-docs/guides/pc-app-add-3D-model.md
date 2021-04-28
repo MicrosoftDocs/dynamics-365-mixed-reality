@@ -8,7 +8,7 @@ title: Add a 3D model (arrow or hand, for example) to a step in the Dynamics 365
 ms.reviewer: v-bholmes
 ---
 
-# Add a 3D model to a step in the Dynamics 365 Guides PC app
+# Add a 3D model from the 3D toolkit to a step in the Dynamics 365 Guides PC app
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
