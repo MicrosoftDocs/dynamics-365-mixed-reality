@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # What's new in Dynamics 365 Guides
 
 > [!IMPORTANT]
-> The Dynamics 365 Guides HoloLens and PC apps released on April 27th will require a minimum April 1st version of the Microsoft Dataverse solution (version 600 or newer). 
+> The Dynamics 365 Guides HoloLens and PC apps released on May 4th will require a minimum April 1st version of the Microsoft Dataverse solution (version 600 or newer). 
 >
 > If you choose not to update the solution and your PC and HoloLens apps, there's no impact.  
 >
@@ -37,8 +37,12 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="RP URL GOES HERE" target="_blank">Prefpare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
+| <a href="RP URL GOES HERE" target="_blank">Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
 | <a href="RP URL GOES HERE" target="_blank">Measure lengths and angles with new 3D toolkit shapes</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
+
+### Bugs fixed
+
+Content to come.
 
 
 ## April 1, 2021
