@@ -2,7 +2,7 @@
 author: BryceHolmes
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist on Microsoft HoloLens.
 ms.author: soanigbo
-ms.date: 04/27/2021
+ms.date: 04/28/2021
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
