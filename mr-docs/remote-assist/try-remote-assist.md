@@ -52,43 +52,43 @@ This trial grants access only to the client application. Additional Dynamics 365
 4.	The app will prompt you to start your free trial of Dynamics 365 Remote Assist. Select **Continue**. You will then be taken to your **Contacts** page.  
 5.	You can now use Dynamics 365 Remote Assist on your mobile device! [Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile)](mobile-app/making-calls-with-ar.md).
 
-## Option 2: 30-day Dynamics 365 Remote Assist trial license
+## Option 2: 30-day Dynamics 365 Remote Assist trial license for organizations
 
 ### Prerequisites
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). For more information, [learn more about admin permissions](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
 
 IT admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
-1.	[Log into the M365 or O365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
+1.	[Log into the Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
 
-![Screenshot of the admin portal](./media/buy_1.png "Admin portal")
+    ![Screenshot of the admin portal](./media/buy_1.png "Admin portal")
 
 2. Make sure the **Try the new admin center** toggle is turned off.
 
 
 3.	In the left navigation bar, select **Billing > Purchase Services**. 
 
-![Screenshot of the purchase services option in the menu.](./media/buy_3.png "Purchase services")
+    ![Screenshot of the purchase services option in the menu.](./media/buy_3.png "Purchase services")
 
 4.	A list of services will appear. Scroll down until you find **Dynamics 365 Remote Assist**.
 
-5.	Hover over the plan and two options will appear: **Start free trial** or **Buy now**. Select **Start free trial**. Follow the next steps of the payment process. 
-![Screenshot of the start free trial option](./media/buy_5.png "Start free trial")
+5.	Hover your cursor over the plan until two options appear: **Start free trial** or **Buy now**. Select **Start free trial**. Follow the next steps of the payment process. 
+    ![Screenshot of the start free trial option](./media/buy_5.png "Start free trial")
 
 ## Option 3: Dynamics 365 Remote Assist Attach trial license (for Dynamics 365 Field Service customers)
 
 Dynamics 365 Remote Assist is integrated with Dynamics 365 Field Service to help users solve problems on-site. IT admins must acquire the 30-day Dynamics 365 Remote Assist Attach trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
-1.	[Log into the M365 or O365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
+1.	[Log into the Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
  
 2.	Make sure the **Try the new admin center** toggle is turned off.
   
 3.	In the left navigation bar, select **Billing** > **Purchase Services**. 
  
-4.	A list of services will appear. Scroll down until you find **Dynamics 365 Remote Assist Attach**.
+4.	A list of services will appear. Scroll down until you see **Dynamics 365 Remote Assist Attach**.
 
-5.	Hover over the plan and two options will appear: Start free trial or Buy now. Select **Start free trial**. Follow the next steps of the payment process. 
+5.	Hover your cursor over the plan until two options will appear: **Start free trial** or **Buy now**. Select **Start free trial**. Follow the next steps of the payment process. 
 
 ## Next steps
 - [Buy Dynamics 365 Remote Assist licenses for HoloLens and Mobile](buy-remote-assist.md). 
