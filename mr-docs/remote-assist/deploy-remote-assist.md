@@ -27,9 +27,11 @@ You can also learn how to [deploy to multiple tenants](multi-tenant-deployment.m
 
 ### Prerequisites
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+Your organization must have:
 
-- [Free trial](try-remote-assist.md) of Dynamics 365 Remote Assist, or a [purchased license](buy-remote-assist.md). 
+- A Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+
+- A [free trial](try-remote-assist.md) of Dynamics 365 Remote Assist, or a [purchased license](buy-remote-assist.md). 
 
 - Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
 
