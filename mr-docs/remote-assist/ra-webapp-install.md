@@ -3,7 +3,7 @@ title: Set up an environment and install the Microsoft Dynamics 365 Remote Assis
 author: dhgoelmsft
 description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
 ms.author: dhgoel
-ms.date: 04/20/2021
+ms.date: 04/28/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
