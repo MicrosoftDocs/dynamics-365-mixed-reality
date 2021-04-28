@@ -37,7 +37,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="RP URL GOES HERE" target="_blank">Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
+| <a href="RP URL GOES HERE" target="_blank">Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Organize guides into folders in Dynamics 365 Guides (for admins)</a>|
 | <a href="RP URL GOES HERE" target="_blank">Measure lengths and angles with new 3D toolkit shapes</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
 
 ### Bugs fixed
