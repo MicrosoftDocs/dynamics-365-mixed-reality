@@ -67,7 +67,7 @@ An Azure Active Directory account is also required for purchasing the Dynamics 3
 
 **With the following software, you can leverage even more capabilities.**
 
-| **If you have this service**                                                                                                          | **You can access these additional capabilities through Dynamics 365 Remote Assist:**                                                                                        |
+| **If you have this service:**                                                                                                          | **You can access these additional capabilities through Dynamics 365 Remote Assist:**                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [OneDrive for Business](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive                                                                           |
 | Dynamics 365 Field Service                                                                                                     | - Call an expert listed in your field service work order </br> - Save call artifacts (for example, call recording, files shared) to a Field Service work order |
