@@ -29,7 +29,7 @@ The Dataverse is the central location for customers to store their organization-
 
 After installing the Dynamics 365 Remote Assist model-driven app, you'll be able to use any of the following features:
 
-- Use the Remote Assist client app on HoloLens or Mobile to [capture and view asset data](asset-capture-overview.md).
+- Use the Dynamics 365 Remote Assist client app on HoloLens or mobile to [capture and view asset data](asset-capture-overview.md).
 
 - Create and share [one-time call links](one-time-call.md).
 
@@ -37,7 +37,7 @@ After installing the Dynamics 365 Remote Assist model-driven app, you'll be able
 
 ## Prerequisites
 
-To complete the installation steps, you need:
+To complete the installation steps for the model-driven app, you need:
 
 - **A Dynamics 365 Remote Assist subscription** to create environments and install the app.
 
@@ -55,9 +55,9 @@ To complete the installation steps, you need:
 
 You can install the Dynamics 365 Remote Assist app in two ways:
 
-- Create an entirely new Dynamics 365 environment for Dynamics 365 Remote Assist.
+- Create a new Dynamics 365 environment.
 
-- Use an existing environment to install the Dynamics 365 Remote Assist app in. This environment must be **Dynamics 365 apps&ndash;enabled**.
+- Use an existing environment. This environment must be **Dynamics 365 apps&ndash;enabled**.
 
 ### Create a new environment
 
@@ -65,11 +65,25 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
 2. In the left pane, select **Environments**, and then select **New**.
 
-3. Enter a name, choose **Production** or **Sandbox**, and choose **Yes** for **Create a database for this environment**. Select **Next**.\
+3. Do the following:
 
-    :::image type="content" source="media/PPAC_Environment_Create_Database.png" alt-text="Screenshot of a new environment create database.":::
+    1. Enter a name for the environment.
 
-4. Select **Yes** for **Enable Dynamics 365 apps**, select **Remote Assist** from the drop-down menu, and then select **Save**. This will create an environment and automatically install the Dynamics 365 Remote Assist app. If you encounter an issue, see [the troubleshooting](#troubleshooting) section in this article.\
+    2. Under **Type**, select **Production** or **Sandbox**.
+
+    3. Under **Create a database for this environment**, select **Yes**.
+
+    4. Select **Next**.
+
+       :::image type="content" source="media/PPAC_Environment_Create_Database.png" alt-text="Screenshot of a new environment create database.":::
+
+4. In the **Add database** pane:
+
+    1. Under **Enable Dynamics 365 apps**, select **Yes**.
+
+    2. In the **Automatically deploy these apps** list, select **Remote Assist**.
+
+    3. Select **Save**. This will create an environment and automatically install the Dynamics 365 Remote Assist app. If you encounter an issue, see [the troubleshooting](#troubleshooting) section in this article.
 
     :::image type="content" source="media/PPAC_Environment_Enable_D365_apps.png" alt-text="Screenshot of a new environment with enable Dynamics 365 apps.":::
 
@@ -92,17 +106,17 @@ More information: [Create and manage environments in the Power Platform admin ce
 
 ## Update the model-driven app to the latest version
 
-As new versions of the Dynamics 365 Remote Assist model-driven app are released, you will need to update the app by following the steps below to ensure that the latest features are available:
+As new versions of the Dynamics 365 Remote Assist model-driven app are released, you will need to update the app by following the steps below to ensure that the latest features are available.
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 
-2. In the left pane, select **Environments** and then click on the name of the environment where you wish to perform the update.
+2. In the left pane, select **Environments**, and then select the name of the environment that you want to update.
 
-3. From this view of environment details, you can select **Resources** > **Dynamics 365 apps** either from the top nav bar or from the card in the main view.
+3. From this view of environment details, you can select **Resources** > **Dynamics 365 apps** from the top nav bar or from the card in the main view.
 
     :::image type="content" source="media/PPAC_Environment_Details_D365_apps.png" alt-text="Screenshot of environment details in PPAC.":::
 
-4. You will see the appropriate status for applications which have an **Update available**. Select the status, which will show a pane with the details of the update. Follow the steps to start the update.
+4. You'll see the appropriate status for applications that have an **Update available**. Select the status, which will show a pane with the update details. Follow the steps to start the update.
 
     :::image type="content" source="media/PPAC_Update_Solution.png" alt-text="Screenshot of solution updates in PPAC":::
 
@@ -112,20 +126,17 @@ As new versions of the Dynamics 365 Remote Assist model-driven app are released,
 
 You've installed the Dynamics 365 Remote Assist app! You can get to the app by opening the environment and selecting the Dynamics 365 Remote Assist app or from [https://home.dynamics.com/](https://home.dynamics.com). More information: [About Unified Interface for model-driven apps in Power Apps](https://docs.microsoft.com/power-platform/admin/about-unified-interface)
 
-The next step is to add users to the model-driven app so they can interact with data in the Dataverse.
-
-> [!div class="nextstepaction"]
-> [Add users to the model-driven app](./asset-capture-add-users.md)
+The next step is to [add users to the model-driven app](asset-capture-add-users.md) so they can interact with data in the Dataverse.
 
 ## Troubleshooting
 
-### The Dynamics 365 Remote Assist model-driven app failed to be installed because of missing dependencies
+### The Dynamics 365 Remote Assist model-driven app failed to install because of missing dependencies
 
-This will occur if you try installing Dynamics 365 Remote Assist in an environment that isn't enabled for Dynamics 365 apps. Try installing the app in an environment where other Dynamics 365 apps&mdash;such as Field Service or Sales&mdash;are installed, or create a new environment that's enabled for Dynamics 365 apps. More information: [Create a new environment](#install-the-dynamics-365-remote-assist-model-driven-app)
+This will occur if you try to install Dynamics 365 Remote Assist in an environment that isn't enabled for Dynamics 365 apps. Try installing the app in an environment where other Dynamics 365 apps&mdash;such as Dynamics 365 Field Service or Dynamics 365 Sales&mdash;are installed, or create a new environment that's enabled for Dynamics 365 apps. More information: [Create a new environment](#install-the-dynamics-365-remote-assist-model-driven-app)
 
 ### Can't enable Dynamics 365 apps
 
-If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch when you create an environment, ensure that you have an active Dynamics 365 Remote Assist subscription. Subscriptions can be viewed in the [Microsoft 365 admin center](https://www.admin.microsoft.com).
+If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch when you create an environment, ensure that you have an active Dynamics 365 Remote Assist subscription. You can view your subscriptions in the [Microsoft 365 admin center](https://www.admin.microsoft.com).
 
 ### Not enough capacity to create environments
 
@@ -135,7 +146,7 @@ Environment creation requires at least 1 GB of available database capacity. Paid
 
 1. Check to ensure that you have an active Dynamics 365 Remote Assist subscription.
 
-2. Try assigning a Dynamics 365 Remote Assist license to your account from the [Microsoft 365 admin center](https://admin.microsoft.com) to force a license sync to occur. Wait five minutes and see whether the app appears in the [Power Platform admin center](https://admin.powerplatform.com).
+2. Try assigning a Dynamics 365 Remote Assist license to your account from the [Microsoft 365 admin center](https://admin.microsoft.com) to force a license sync to occur. Wait five minutes, and then see whether the app appears in the [Power Platform admin center](https://admin.powerplatform.com).
 
 3. If the steps above don't resolve the issue, file a support request by going to the [Power Platform admin center](https://admin.powerplatform.com) > **Help + support** > **New support request**.
 
