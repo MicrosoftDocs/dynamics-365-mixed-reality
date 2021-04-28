@@ -29,11 +29,11 @@ You can also learn how to [deploy to multiple tenants](multi-tenant-deployment.m
 
 - Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
 
-- You'll need a free trial of Dynamics 365 Remote Assist, or you'll need to purchase licenses. See [free trials](try-remote-assist.md) and [buying Dynamics 365 Remote Assist](buy-remote-assist.md) for more information.
+- [Free trial](try-remote-assist.md) of Dynamics 365 Remote Assist, or a [purchased license](buy-remote-assist.md). 
 
-- You'll also need an Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
+- Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
 
-- Make sure that users in your organization have the required licensing and devices. For more information, visit the article on [licensing and product requirement](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+Make sure that users in your organization have the required licensing and devices. For more information, see [licensing and product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 >[!Note] 
 > The Microsoft Teams license included with Dynamics 365 Remote Assist allows you to collaborate with Teams users and use *most* Dynamics 365 Remote Assist features. Additional features that use other products (for instance, OneDrive for file sharing) require an [Microsoft 365 Business Premium or Microsoft 365 Business Basic license](https://products.office.com/compare-all-microsoft-office-products?&activetab=tab:primaryr2). Learn more about how to [manage Microsoft 365 licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
