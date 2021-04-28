@@ -2,7 +2,7 @@
 author: xonatia
 description: Try Dynamics 365 Remote Assist for free 
 ms.author: xolee
-ms.date: 04/21/2021
+ms.date: 04/28/2021
 ms.service: crm-online
 ms.topic: article
 title: Try Dynamics 365 Remote Assist for free 
