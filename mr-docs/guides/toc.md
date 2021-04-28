@@ -48,7 +48,6 @@
 ##### [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
 ##### [Add a custom 3D part that you import](pc-app-add-3D-part.md)
 ##### [Add media (images or videos)](pc-app-add-media.md)
-##### [Add a space-planning model]()
 ##### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
 ##### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
