@@ -17,7 +17,7 @@ After you get your [free trial](try-remote-assist.md) or [purchase](buy-remote-a
 
 In this article, we’ll walk through how to deploy Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach (for Field Service customers). This includes:
 
--	Assiging licenses to users in your organization (for IT Admins)
+-	Assigning licenses to users in your organization (for IT Admins)
 
 -	Deploying Dynamics 365 Remote Assist on a device (for individuals in your organization) 
 
