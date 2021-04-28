@@ -139,7 +139,7 @@ No – you can only access the model-driven app through the desktop web browser 
 If you want to join the one-time call from your desktop, you might want to [embed the Remote Assist model-driven app in Teams](https://docs.microsoft.com/dynamics365/teams-integration/teams-install-app#in-microsoft-teams-set-up-the-personal-dashboard) to minimize switching between the Dynamics 365 Remote Assist model-driven app and the Teams desktop app.
 
 > [!NOTE]
-> You can't generate a link from the Teams desktop app. You can, however, select the **Go to website** command from the Teams desktop app, and then generate the link.
+> If you want to access the Dynamics 365 Remote Assist features from Teams (for example, to easily [access assets](assets-overview.md) or the [Calls Dashboard](calls-dashboard.md)), you can embed the Dynamics 365 Remote Assist model-driven app in Teams to minimize switching between the model-driven app and the Teams desktop app.
 > 
 > ![Go to website command highlighted](./media/go-to-website.PNG "Go to website command highlighted")
 
