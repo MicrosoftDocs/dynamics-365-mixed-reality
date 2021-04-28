@@ -10,24 +10,29 @@ ms.reviewer: krbjoran
 ---
 # Deploy Dynamics 365 Remote Assist
 
-Once you have either a [trial](try-remote-assist.md) or have [purchased](buy-remote-assist.md) for Dynamics 365 Remote Assist, you can assign licenses to users. Once assigned, users can deploy Dynamics 365 Remote Assist on their individual devices.
+After you get your [free trial](try-remote-assist.md) or [purchase](buy-remote-assist.md) Dynamics 365 Remote Assist, you can assign licenses to users. Once assigned, users can deploy Dynamics 365 Remote Assist on their individual devices.
 
 > [!Note]
-> There are two types of users for Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach: remote experts and field service technicians. Field service technicians require a Dynamics 365 Remote Assist **and** a Microsoft Teams license. When you buy Dynamics 365 Remote Assist licenses, Microsoft Teams licenses are included. However, remote experts (who aren't in the field) require only a Microsoft Teams license. For more information, visit the article on [deploying Microsoft Teams licenses in your organization](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist).
+> There are two types of users for Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach: remote experts and field service technicians. Field service technicians require a Dynamics 365 Remote Assist license **and** a Microsoft Teams license. When you buy a Dynamics 365 Remote Assist license, a Microsoft Teams license is included. However, remote experts (who aren't in the field) require only a Microsoft Teams license. For more information, see [deploying Microsoft Teams licenses in your organization](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist).
 
-In this article, we’ll walk through how to deploy Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach (for Field Service customers): 
--	Assign licenses to users in your organization (for IT Admins)
--	Deploying Dynamics 365 Remote Assist on your device (for individuals in your organization) 
+In this article, we’ll walk through how to deploy Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach (for Field Service customers). This includes:
 
-You can also learn how to configure [deploy multi-tenant company deployments](multi-tenant-deployment.md) or [enable vendors and contractors to use Dynamics 365 Remote Assist](vendor-use-RA.md).
+-	Assiging licenses to users in your organization (for IT Admins)
+
+-	Deploying Dynamics 365 Remote Assist on a device (for individuals in your organization) 
+
+You can also learn how to [deploy to multiple tenants](multi-tenant-deployment.md) or [enable vendors and contractors to use Dynamics 365 Remote Assist](vendor-use-RA.md).
 
 ## Add and assign licenses
 
 ### Prerequisites
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). For more information, [learn more about admin permission](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
-- You'll need either a free trial of Dynamics 365 Remote Assist, or have purchased licenses. Visit our articles on [free trials](try-remote-assist.md) and [buying Dynamics 365 Remote Assist](buy-remote-assist.md) for more information.
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+
+- You'll need a free trial of Dynamics 365 Remote Assist, or you'll need to purchase licenses. See [free trials](try-remote-assist.md) and [buying Dynamics 365 Remote Assist](buy-remote-assist.md) for more information.
+
 - You'll also need an Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
+
 - Make sure that users in your organization have the required licensing and devices. For more information, visit the article on [licensing and product requirement](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 >[!Note] 
