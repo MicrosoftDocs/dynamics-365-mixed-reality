@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-As an admin, you can organize guides into folders for easier permissions management. A folder can contain guides and subfolders, and each folder can be assigned an owner that is inherited by guides or subfolders in that folder. Folders are useful for managing groups of guides with the same permissions, such as guides for a specific team or product. When you delete a folder, all items in that folder are also deleted.
+As an admin, you can organize guides into folders for easier permissions management. A folder can contain guides and subfolders, and each folder can be assigned an owner that is inherited by guides or subfolders in that folder. When you delete a folder, all items in that folder are also deleted. Folders are useful for managing groups of guides with the same permissions, such as guides for a specific team or product. Permissions assigned to folders do not give permissions to guides within those folders, however. 
 
 > [!IMPORTANT]
 > For the May 4 release, you can create folders and set permissions for those folders if you're an admin. The folders won't appear in the HoloLens and PC apps, however, until a later release.
@@ -53,7 +53,7 @@ As an admin, you can organize guides into folders for easier permissions managem
 
 3.	At the top of the screen, select **Save** or **Save & Close**.
 
-> [TIP]
+> [!TIP]
 > To move a guide back to the root folder, return to the guide details and delete the contents of the **Parent Folder** field.
 
 ## Change the owner of a folder
