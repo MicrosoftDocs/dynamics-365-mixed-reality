@@ -44,7 +44,7 @@ If an individual wants to join a Dynamics 365 Remote Assist call using the Teams
 | Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with Dynamics 365 Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices. |
 
 > [!Note] 
-> Dynamics 365 Remote Assist may not be available in your country. For more information, visit our documentation about [Dynamics 365 Remote Assist mobile availability](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/faq-mobile#what-countries-is-dynamics-365-remote-assist-for-mobile-supported).
+> Dynamics 365 Remote Assist may not be available in your country. For more information, see [Dynamics 365 Remote Assist mobile availability](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/faq-mobile#what-countries-is-dynamics-365-remote-assist-for-mobile-supported).
 
 ## Licensing and product requirements per role
 
