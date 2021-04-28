@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 
 [!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
 
-The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist.
+This article describes the technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist.
 
 ## Definitions
 
