@@ -20,7 +20,7 @@ You can try Microsoft Dynamics 365 Remote Assist for free on your HoloLens, Holo
 |30-day Dynamics 365 Remote Assist Attach license|*Dynamics 365 Field Service customers* who want to integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist (provides licenses for up to 25 users)|
 
   > [!NOTE]
-  > The 30-day Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach licenses includes Microsoft Teams licenses. Learn how to set up Microsoft Teams for your organization [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist). 
+  > The 30-day Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach licenses include Microsoft Teams licenses. [Learn how to set up Microsoft Teams for your organization](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist). 
 
 In this article, we’ll walk through the three ways you can get a Dynamics 365 Remote Assist trial. 
 
