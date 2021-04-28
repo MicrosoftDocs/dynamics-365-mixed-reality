@@ -8,7 +8,7 @@ title: Add a custom 3D part to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-bholmes
 ---
 
-# Add a 3D part to a step in the Dynamics 365 Guides PC app
+# Add a custom 3D part that you import to a step in the Dynamics 365 Guides PC app
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
