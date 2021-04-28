@@ -82,7 +82,7 @@ After assigning licenses, users can set up and use the app on their HoloLens, Ho
 
 - Azure Active Directory [Premium trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only).
 
-- A HoloLens, HoloLens 2, or mobile device. See [Licensing and product requirements can be found](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+- A HoloLens, HoloLens 2, or mobile device. See [Licensing and product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 ### Steps for HoloLens and HoloLens 2
 
