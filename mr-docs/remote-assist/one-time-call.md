@@ -181,7 +181,7 @@ Yes.
 
 Depending upon the device and platform (iOS or Android), the download size of the app (data transferred) will be between 70 MB and 120 MB. Once the app is downloaded, the app package is decompressed and installed and the final size on the device may be larger.
 
-[Learn more about the mobile app](faq-mobile#what-is-the-size-of-the-dynamics-365-remote-assist-mobile-app).
+[Learn more about the mobile app](faq-mobile.md).
 
 **If the customer already has Dynamics 365 Remote Assist mobile downloaded, can they skip downloading the app and directly select the second link to join the call?**
 
