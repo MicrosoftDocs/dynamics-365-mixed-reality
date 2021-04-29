@@ -128,7 +128,7 @@ Security roles must be assigned to apps to ensure that users who have those role
 
 After end users have been assigned licenses and security roles, they must also select the correct environment with the Dynamics 365 Remote Assist model-driven app installed to use related features within the HoloLens or mobile app. You can do this by selecting the **Settings** menu of the respective client apps and selecting the environment. By default, there is no environment associated with the client app.
 
-### Selecting the right environment in HoloLens
+### Select the right environment in HoloLens
 
 1. Go to the **Settings** menu and select the **Dynamics 365 environment**.
 
@@ -138,22 +138,22 @@ After end users have been assigned licenses and security roles, they must also s
 
     :::image type="content" source="media/HololensSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu on the HoloLens":::
 
-### Selecting the right environment on Android or iOS
+### Select the right environment on Android or iOS
 
-1. Go to the settings menu and click on the **Dynamics 365 environment**.
+1. Go to the **Settings** menu and select the **Dynamics 365 environment**.
 
     :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection01.png" alt-text="Remote Assist settings in the Mobile app":::
 
-2. You will see a list of environments. To use Dynamics 365 Remote Assist related features, such as [asset capture](./asset-capture-photos.md) and [calls dashboard](./calls-dashboard.md), you will need to select an environment with Dynamics 365 Remote Assist installed. Click **Confirm** after selecting the right environment.\
+2. You'll see a list of environments. To use Dynamics 365 Remote Assist related features, such as [asset capture](./asset-capture-photos.md) and the [Calls dashboard](./calls-dashboard.md), you'll need to select an environment with Dynamics 365 Remote Assist installed. Select **Confirm** after selecting the right environment.
 
     :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu in the Mobile app":::
 
 ## Next steps
 
-After assigning security roles, you can check out the following articles to use the model-driven app:
+After assigning security roles, check out the following articles to use the model-driven app:
 
 - [Create asset records and import your existing asset catalog](./asset-capture-create-asset.md)
-- [Get insights with Calls Dashboard](./calls-dashboard.md)
+- [Get insights with the Calls dashboard](./calls-dashboard.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
