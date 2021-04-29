@@ -120,7 +120,7 @@ Security roles must be assigned to apps to ensure that users who have those role
 
     :::image type="content" source="media/06.25-d365-settings-manage-roles.png" alt-text="Screenshot of the Dynamics 365 Manage Roles for app menu.":::
 
-6. From the right side panel, select the **Remote Assist - App User** and **Remote Assist - Administrator** roles from the list, and then select **Save**.
+6. In the right side panel, select the **Remote Assist - Administrator** and **Remote Assist - App User** roles from the list, and then select **Save**.
 
     :::image type="content" source="media/06.26-d365-settings-manage-roles-set.png" alt-text="Screenshot of Dynamics 365 assigning app role":::
 
