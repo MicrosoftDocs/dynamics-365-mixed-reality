@@ -2,7 +2,7 @@
 author: BryceHolmes
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist on Microsoft HoloLens.
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 04/28/2021
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
@@ -28,6 +28,10 @@ There are several ways to [update your app](https://docs.microsoft.com/hololens/
 Dynamics 365 Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](https://docs.microsoft.com/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](https://docs.microsoft.com/hololens/hololens1-install-localized).
 
 Dynamics 365 Remote Assist on HoloLens 2 is available in the [following languages](https://docs.microsoft.com/hololens/hololens2-language-support).
+
+## How do I stream my HoloLens view to a PC using Miracast?
+
+The Connect app for wireless projection using Miracast is no longer installed by default, but is available as an optional feature. To install the app, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app.
 
 ## Why am I not getting incoming call notifications?
 
