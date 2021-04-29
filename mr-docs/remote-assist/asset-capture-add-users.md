@@ -35,10 +35,15 @@ To complete the steps in this article, you need:
 Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mobile or accessing the Dynamics 365 Remote Assist model-driven app will need a Dynamics 365 Remote Assist license. If these users already have a Dynamics 365 Remote Assist license, you can skip this step.
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com) as an admin (User admin or Global admin).
+
 2. Go to **Billing** > **Licenses**.
+
 3. Select **Dynamics 365 Remote Assist**.
+
 4. Select **Assign licenses**.
+
 5. In the **Assign licenses to users** pane, begin typing a name, and then choose it from the results to add it to the list. You can add up to 20 users at a time.
+
 6. When you're finished, select **Assign**, and then select **Close**.
 
 More information: [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
