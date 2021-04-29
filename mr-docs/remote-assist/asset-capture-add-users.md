@@ -12,13 +12,13 @@ ms.reviewer: krbjoran
 
 After you [install the Microsoft Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md), you'll need to add users so they can:
 
-- Use the Remote Assist client app on HoloLens or Mobile to [capture and view asset data](./asset-capture-overview.md)
+- Use the Dynamics 365 Remote Assist client app on HoloLens or mobile to [capture and view asset data](./asset-capture-overview.md).
 
-- Create and share [One-time call links](./one-time-call.md)
+- Create and share [one-time call links](./one-time-call.md).
 
-- Record call metrics for the [Calls dashboard](./calls-dashboard.md)
+- Record call metrics for the [Calls dashboard](./calls-dashboard.md).
 
-This article walks you through assigning users a Dynamics 365 Remote Assist license and security roles.
+This article shows you how to assign a Dynamics 365 Remote Assist license to users and set up security roles.
 
 ## Prerequisites
 
