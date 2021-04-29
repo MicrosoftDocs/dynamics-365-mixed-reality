@@ -10,9 +10,9 @@ ms.reviewer: krbjoran
 ---
 # Add users to the Dynamics 365 Remote Assist model-driven app
 
-After you [install the Microsoft Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md), you'll need to add users so they can:
+After you [install the Microsoft Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md), you'll need to add users so they can use the Dynamics 365 Remote Assist client app on HoloLens or mobile to:
 
-- Use the Dynamics 365 Remote Assist client app on HoloLens or mobile to [capture and view asset data](./asset-capture-overview.md).
+- [Capture and view asset data](./asset-capture-overview.md).
 
 - Create and share [one-time call links](./one-time-call.md).
 
