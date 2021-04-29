@@ -95,8 +95,6 @@ If you're joining the call using Teams desktop, you'll receive a notification th
 If you're joining the call using the Dynamics 365 Remote Assist mobile app, you'll receive a notification that looks like this when your customer is waiting in the lobby.  
 
 ![Admit into lobby](./media/OTC-C1-lobby.png "Admit")
-
-Select **Admit**.
  
 ## Your customer’s experience 
 
