@@ -90,7 +90,7 @@ After your customer launches the call and enters their name, they will enter the
 
 If you're joining the call using Teams desktop, you'll receive a notification that looks like this when your customer is waiting in the lobby.
 
-![Teams desktop with lobby notification](./media/join-call-with-teams-desktop.PNG Teams desktop with lobby notification")
+![Teams desktop with lobby notification](./media/join-call-with-teams-desktop.PNG "Teams desktop with lobby notification")
 
 If you're joining the call using the Dynamics 365 Remote Assist mobile app, you'll receive a notification that looks like the following image when your customer is waiting in the lobby.  
 
