@@ -21,7 +21,8 @@ In this tutorial, you'll learn how to use the Mobile app to view asset records c
 To complete this tutorial, you need:
 
 - **Access to the environment Dynamics 365 Remote Assist is installed in**. The account you used to sign in to Dynamics 365 Remote Assist needs access to the environment created in the first step and an active Dynamics 365 Remote Assist license.
-- **Dynamics 365 Remote Assist app on Mobile**. Ensure you have downloaded the latest update to Dynamics 365 Remote Assist through the app Store. Ensure that you've selected the [correct environment from the app settings](.././asset-capture-add-users.md#selecting-the-right-environment-on-android-or-ios).
+
+- **Dynamics 365 Remote Assist app on Mobile**. Ensure you have downloaded the latest update to Dynamics 365 Remote Assist through the app Store. Ensure that you've selected the [correct environment from the app settings](.././asset-capture-add-users.md#select-the-right-environment-on-android-or-ios).
 
 ## Capture asset conditions
 
