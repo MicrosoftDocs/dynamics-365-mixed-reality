@@ -28,7 +28,7 @@ To complete the steps in this article, you need:
 
 - **The ability to manage user licenses in the Microsoft 365 admin center**. To manage user licenses, you need to have an admin role for the Microsoft 365 admin center.
 
-- **Admin access to the environment Dynamics 365 Remote Assist is installed in**. You'll be managing security roles for users in the environment. A system administrator role (typically a Power Apps admin, Global admin, or Dynamics 365 admin) is required in the environment you're managing.
+- **Admin access to the environment that Dynamics 365 Remote Assist is installed in**. You'll be managing security roles for users in the environment. A system administrator role (typically a Power Apps admin, Global admin, or Dynamics 365 admin) is required in the environment you're managing.
 
 ## Assign Dynamics 365 Remote Assist licenses
 
