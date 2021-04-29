@@ -181,7 +181,7 @@ Yes.
 
 Depending upon the device and platform (iOS or Android), the download size of the app (data transferred) will be between 70 MB and 120 MB. Once the app is downloaded, the app package is decompressed and installed and the final size on the device may be larger.
 
-**If the customer already has Dynamics 365 Remote Assist mobile downloaded, can they skip downloading the app and directly select the second link to join the call?**
+**If the customer has already downloaded Dynamics 365 Remote Assist mobile, can they skip downloading the app and directly select the second link to join the call?**
 
 Yes.  
 
@@ -189,7 +189,7 @@ Yes.
 
 Yes.  
 
-**If the customer is signed into Teams when they select the call link using their computer, will they join the call as authenticated user?**
+**If the customer is signed into Teams when they select the call link using their computer, will they join the call as an authenticated user?**
 
 Yes.
 
@@ -221,7 +221,7 @@ If the customer has Chrome or Edge set as their default browser on their Android
 
 |     User action    |     Next step   |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|
-| User accidentally selects the second link (the call link) before downloading Dynamics 365 Remote Assist mobile app | The customer should select the first button on this page to download the Dynamics 365 Remote Assist mobile app. Then, they can select the second link in the agent’s message, or the second button on the page shown above, to join the call.| 
+| User accidentally selects the second link (the call link) before downloading the Dynamics 365 Remote Assist mobile app. | The customer should select the first button on this page to download the Dynamics 365 Remote Assist mobile app. Then they can select the second link in the agent’s message, or the second button on the page shown above to join the call.| 
 |User enters the call link into a Chrome or Edge browser, instead of selecting the link from the agent’s message. |The customer should select the second button on this page to join the call.|
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
