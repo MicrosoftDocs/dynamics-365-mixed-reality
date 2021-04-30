@@ -79,7 +79,7 @@
 
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
-### [FAQ: deployment](faq-deploy.md)
+### [FAQ: Deployment](faq-deploy.md)
 ### [FAQ: HoloLens](faq-hololens.md)
 ### [FAQ: Mobile app](./mobile-app/faq-mobile.md)
 
