@@ -29,9 +29,12 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|XXX|
-|HoloLens app|XXX|
-|Solution|XXX|
+|PC app|601.2104.29001.0|
+|HoloLens 2 app|601.2104.29001.0|
+|Solution|600.1.0.1|
+
+![!NOTE]
+Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state. The last update for HoloLens (1st gen) was April 1 (version 600.2103.19001.0).
 
 ### Features
 
@@ -43,7 +46,6 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 ### Bugs fixed
 
 Content to come.
-
 
 ## April 1, 2021
 
