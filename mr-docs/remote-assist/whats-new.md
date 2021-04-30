@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: BryceHolmes
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 04/30/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -14,6 +14,21 @@ ms.reviewer: v-bholmes
 This article describes new features for Dynamics 365 Remote Assist.
 
 For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/dynamics365/release-plans/).
+
+## April 29, 2021
+
+### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2021.4.3|
+|Android mobile app|2021.4.3|
+
+### Bug fixes
+
+-	Fix for some users not able to take and annotate snapshots during one-time-call sessions.
+-	Fix for Bluetooth headset – Dynamics 365 Remote Assist will now properly use the headset microphone. 
+
 
 ## April 1, 2021
 
