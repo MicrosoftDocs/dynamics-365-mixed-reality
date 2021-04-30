@@ -26,7 +26,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 ### Bug fixes
 
--	Fix for some users not able to take and annotate snapshots during one-time-call sessions.
+-	Fix for one-time-call sessions – for users who weren't able to take and annotate snapshots during sessions.
 -	Fix for Bluetooth headset – Dynamics 365 Remote Assist will now properly use the headset microphone. 
 
 
