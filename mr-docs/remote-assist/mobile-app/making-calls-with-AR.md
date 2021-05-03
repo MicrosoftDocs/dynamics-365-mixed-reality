@@ -26,9 +26,9 @@ Dynamics 365 Remote Assist mobile makes conducting repairs and remote inspection
 
 ## Prerequisites
 
-- In order to follow along with this guide, you must be using a mobile device with ARCore or ARKit support. Learn about Dynamics 365 Remote Assist's device [requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
-- Technicians must have a Dynamics 365 Remote Assist [free trial](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/try-remote-assist) or [subscription](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/buy-remote-assist).
-- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to set up Dynamics 365 Remote Assist with [Teams desktop](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all) and [Teams mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-mobile-all).
+- In order to follow along with this guide, you must be using a mobile device with ARCore or ARKit support. Learn about Dynamics 365 Remote Assist's device [requirements](../requirements.md).
+- Technicians must have a Dynamics 365 Remote Assist [free trial](../try-remote-assist.md) or [subscription](../buy-remote-assist.md).
+- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 
 ## How it works
 
@@ -61,8 +61,8 @@ If the remote collaborator answers the call on **Teams desktop**, the technician
 
 ## See also
 
-- Learn how to make calls on Dynamics 365 Remote Assist mobile **without** ARCore or ARKit support [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/using-devices-without-ar).
-- Learn how to place mixed reality annotations in the shared environment [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-your-environment).
+- Learn how to make calls on Dynamics 365 Remote Assist mobile **without** ARCore or ARKit support [here](./calls-using-devices-without-ar.md).
+- Learn how to place mixed reality annotations in the shared environment [here](./annotate-shared-environment.md).
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

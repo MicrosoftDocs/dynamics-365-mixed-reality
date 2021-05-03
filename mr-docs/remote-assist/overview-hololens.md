@@ -67,7 +67,7 @@ Finally, place the call window wherever you want in your world by toggling **Pin
 Dynamics 365 Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Dynamics 365 Remote Assist in [our FAQs](faq-hololens.md).
 
 > [!Note]
-> Dynamics 365 Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens gestures](https://docs.microsoft.com/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](https://docs.microsoft.com/hololens/hololens2-basic-usage) before reading the rest of this document. You may also watch how-to videos showing how to use Dynamics 365 Remote Assist features on HoloLens.
+> Dynamics 365 Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens gestures](/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](/hololens/hololens2-basic-usage) before reading the rest of this document. You may also watch how-to videos showing how to use Dynamics 365 Remote Assist features on HoloLens.
 
 ## Collaborating with a Teams desktop user versus a Teams mobile user
 
@@ -80,14 +80,14 @@ A Dynamics 365 Remote Assist HoloLens user can be in one-to-one call with a Team
 - Subscription to Dynamics 365 Remote Assist and Microsoft Teams.
 - HoloLens or HoloLens 2 running the [Windows 10 April 2018 update](requirements.md).
 - Remote collaborator using Teams desktop app or Teams mobile app.  
-- An internet connection. At least [1.5 mpbs of bandwidth is recommended](https://docs.microsoft.com/microsoftteams/upgrade-prepare-environment-prepare-network#bandwidth-planning).
+- An internet connection. At least [1.5 mpbs of bandwidth is recommended](/microsoftteams/upgrade-prepare-environment-prepare-network#bandwidth-planning).
 - (Optional) To connect to Dynamics 365 Field Service from within Dynamics 365 Remote Assist, you'll need a Dynamics 365 license.
 - Know your credentials for signing into the HoloLens and Dynamics 365 Remote Assist.
 - Dynamics 365 Remote Assist is installed on your HoloLens or HoloLens 2.
 
 ## Using HoloLens gestures in Dynamics 365 Remote Assist
 
-HoloLens offers several ways to interact with holograms as you navigate the device and various applications. Read [the HoloLens basics guide](https://docs.microsoft.com/hololens/hololens1-basic-usage) to learn how to:
+HoloLens offers several ways to interact with holograms as you navigate the device and various applications. Read [the HoloLens basics guide](/hololens/hololens1-basic-usage) to learn how to:
 
 - Navigate the Start menu using bloom
 - Select holograms with gaze, air tap, and voice
@@ -95,7 +95,7 @@ HoloLens offers several ways to interact with holograms as you navigate the devi
 
 ## Using HoloLens 2 gestures in Dynamics 365 Remote Assist
 
-Compared to HoloLens, HoloLens 2 offers more ways for you to navigate the device and various applications. Read [this HoloLens 2 basics guide](https://docs.microsoft.com/hololens/hololens2-basic-usage) to learn how to:
+Compared to HoloLens, HoloLens 2 offers more ways for you to navigate the device and various applications. Read [this HoloLens 2 basics guide](/hololens/hololens2-basic-usage) to learn how to:
 
 - Navigate the Start menu by tapping your wrist
 - Select holograms with gaze, air tap, voice, and touch

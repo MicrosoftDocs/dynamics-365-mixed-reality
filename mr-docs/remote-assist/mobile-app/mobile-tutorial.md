@@ -20,10 +20,10 @@ This guided tutorial addresses:
 
 ## Prerequisites
 
-- In order to follow along with this guide, you should have a using a **mobile device with ARCore or ARKit support**. Learn more about the device requirements [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+- In order to follow along with this guide, you should have a using a **mobile device with ARCore or ARKit support**. Learn more about the device requirements [here](../requirements.md).
 
 >[!Note]
-> No AR capabilities? No problem! Dynamics 365 Remote Assist mobile is available on unsupported AR mobile devices, too; learn more about using Dynamics 365 Remote Assist mobile on unsupported AR devices [here](../mobile-app/using-devices-without-AR.md).
+> No AR capabilities? No problem! Dynamics 365 Remote Assist mobile is available on unsupported AR mobile devices, too; learn more about using Dynamics 365 Remote Assist mobile on unsupported AR devices [here](./calls-using-devices-without-ar.md).
 
 ## How it works
 
