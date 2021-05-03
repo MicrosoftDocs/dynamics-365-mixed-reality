@@ -18,10 +18,10 @@ You can open a guide in Microsoft Dynamics 365 Guides by scanning a QR code that
  
 ## Open a guide by scanning a QR code
 
-1. On your HoloLens, go to [mixed reality home](https://docs.microsoft.com/hololens/hololens2-basic-usage#start-menu-mixed-reality-home-and-apps). This is the first thing you see when you start HoloLens.
+1. On your HoloLens, go to [mixed reality home](/hololens/hololens2-basic-usage#start-menu-mixed-reality-home-and-apps). This is the first thing you see when you start HoloLens.
 
     > [!NOTE]
-    > If you're not sure if you're at mixed reality home, [open the **Start** menu](https://docs.microsoft.com/hololens/hololens2-basic-usage#start-menu-mixed-reality-home-and-app), and then look for the **Home** button at the bottom of the menu. If the **Start** menu doesn't have a **Home** button, you're already at mixed reality home.
+    > If you're not sure if you're at mixed reality home, [open the **Start** menu](/hololens/hololens2-basic-usage#start-menu-mixed-reality-home-and-app), and then look for the **Home** button at the bottom of the menu. If the **Start** menu doesn't have a **Home** button, you're already at mixed reality home.
     
      ![Screenshot of mixed reality home](media/qr-code-open-mixed-reality-home.PNG "Screen shot of mixed reality home")
 

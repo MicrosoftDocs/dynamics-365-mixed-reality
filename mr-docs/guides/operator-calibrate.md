@@ -37,7 +37,7 @@ ms.reviewer: v-brycho
 
 7. Follow the on-screen instructions.
 
-[Learn more about HoloLens calibration](https://docs.microsoft.com/windows/mixed-reality/calibration).
+[Learn more about HoloLens calibration](/windows/mixed-reality/calibration).
 
 ## What's next?
 

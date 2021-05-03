@@ -426,9 +426,9 @@ To save time and effort, you can create a template. In this way, the settings th
 
 You can use any of the following Microsoft Dynamics 365 apps to view your 3D model in mixed reality:
 
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
+- [Dynamics 365 Product Visualize](../product-visualize/index.md)
 
-- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+- [Dynamics 365 Guides](../guides/index.md)
 
 ### More information
 
