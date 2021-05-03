@@ -6,7 +6,7 @@ ms.date: 02/05/2020
 ms.service: crm-online
 ms.topic: article
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
