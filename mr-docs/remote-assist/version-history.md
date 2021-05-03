@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 
 # Version history for Dynamics 365 Remote Assist
 
-This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the most recent features, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the most recent features, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 
 ## February 2021

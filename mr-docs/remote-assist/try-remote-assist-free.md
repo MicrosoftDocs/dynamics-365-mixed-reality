@@ -21,7 +21,7 @@ In this topic, we’ll walk through the three ways you can get a Dynamics 365 Re
 ## Prerequisites for a license-free 90-day trial for individuals
    - An [MSA account](https://account.microsoft.com/account)
    - A [Microsoft Teams Freemium](https://products.office.com/microsoft-teams/free) account
-   - A HoloLens 1, HoloLens 2, or a mobile device. Licensing and Product requirements can be found [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+   - A HoloLens 1, HoloLens 2, or a mobile device. Licensing and Product requirements can be found [here](./requirements.md).
 
 ## Option 1: License-free 90-day trial for individuals
 
@@ -43,7 +43,7 @@ With the license-free 90-day free trial, each individual user must download Dyna
 
 ## Prerequisites for a Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach 30-day trial license (for up to 25 seats in an organization)
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator](https://www.microsoft.com/microsoft-365/business/office-365-administration) account. Learn more about admin permissions [here](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator](https://www.microsoft.com/microsoft-365/business/office-365-administration) account. Learn more about admin permissions [here](/office365/admin/admin-overview/admin-overview?view=o365-worldwide). 
 
 ## Option 2: 30-day trial license (for up to 25 seats in an organization)
 
