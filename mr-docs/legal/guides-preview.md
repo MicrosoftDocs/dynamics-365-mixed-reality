@@ -39,7 +39,7 @@ or in any other country where Microsoft of its subcontractors operate.
 >> If you are the administrator for the organization and have authority to act on behalf of and to bind the organization, then by 
 installing or using the Preview, you consent to allow authorized users of Microsoft Dynamics 365 online services to activate, 
 configure and enable certain functionality which transmits Customer Data (as defined in the MLA) to external systems. Please 
-consult the feature technical documentation available at: [https://docs.microsoft.com/dynamics365/mixed-reality/guides/](https://docs.microsoft.com/dynamics365/mixed-reality/guides/).
+consult the feature technical documentation available at: [https://docs.microsoft.com/dynamics365/mixed-reality/guides/](../guides/index.md).
 
 > **c) Required Microsoft Applications.** The software requires a license to Microsoft Dynamics 365 CDS and Microsoft Power BI Pro and a 
 preview license to access and use such applications may be available to you in connection with this Preview. These license terms 
@@ -189,6 +189,3 @@ nature que ce soit, il se peut que la limitation ou l’exclusion ci-dessus ne s
 lois de votre pays. Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne 
 le permettent pas.** 
  
- 
-
-

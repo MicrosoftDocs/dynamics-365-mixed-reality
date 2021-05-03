@@ -17,7 +17,7 @@ ms.reviewer:
 > [!IMPORTANT]
 > - [!INCLUDE[cc_preview_features_definition](../includes/cc-preview-features-definition.md)]  
 > - [!INCLUDE[cc_preview_features_expect_changes](../includes/cc-preview-features-expect-changes.md)]
-> - Microsoft doesn't provide support for this preview feature. Microsoft Technical Support won't be able to help you with issues or questions. Preview features aren't meant for production use and are subject to a separate [supplemental terms of use](https://go.microsoft.com/fwlink/p/?linkid=870960).
+> - Microsoft doesn't provide support for this preview feature. Microsoft Technical Support won't be able to help you with issues or questions. Preview features aren't meant for production use and are subject to a separate [supplemental terms of use](/dynamics365/legal/supp-dynamics365-preview).
 
 Dynamics 365 Product Visualize empowers salespersons to showcase large and highly customizable products in a real-world environment. This helps create a shared understanding between buyer and seller to accelerate complex sales processes. In industries like manufacturing, healthcare, and automotive, where products are often complex and highly configurable or simply too cumbersome to carry around, product visualization is key. It builds a buyer's confidence early in the sales process, so costly change orders are reduced, and customer satisfaction is higher.
 

@@ -22,7 +22,7 @@ In this article, we’ll walk through the two types of Dynamics 365 Remote Assis
     
 ## Prerequisites 
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). For more information, [learn more about admin permission](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). For more information, [learn more about admin permission](/office365/admin/admin-overview/admin-overview?view=o365-worldwide). 
 
 ## Option 1: Dynamics 365 Remote Assist license 
 
@@ -43,7 +43,7 @@ Buy Dynamics 365 Remote Assist licenses through your Microsoft 365 or Microsoft 
 5.	Hover over the plan and two options will appear: **Start free trial** or **Buy now**. Select **Buy now**. Follow the next steps of the payment process. 
 
 > [!NOTE]
-> For more information, see this article on [assigning devices-based licenses](https://docs.microsoft.com/hololens/hololens2-deployment-guide#general-deployment-recommendations-and-instructions).
+> For more information, see this article on [assigning devices-based licenses](/hololens/hololens2-deployment-guide#general-deployment-recommendations-and-instructions).
  
 ## Option 2: Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers)
 

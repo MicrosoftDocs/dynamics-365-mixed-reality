@@ -17,7 +17,7 @@ Dynamics 365 Remote Assist enables technicians with mobile devices to connect to
 
 Dynamics 365 Remote Assist mobile is beneficial in scenarios where technicians may need physical access to confined or hard-to-reach spaces, or access to other mobile apps that are part of their organizations' workflows. With the availability and familiarity with mobile devices, technicians can use Dynamics 365 Remote Assist mobile during repairs and inspections with ease. Furthermore, Dynamics 365 Remote Assist mobile allows for easier broad-scale deployment in organizations.
 
-Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCore support](https://developers.google.com/ar/discover/supported-devices) and [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/discover/supported-devices#ios). Additionally, Dynamics 365 Remote Assist is available on mobile devices **without** ARCore or ARKit support, too! Visit our [documentation on product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements) to learn more.
+Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCore support](https://developers.google.com/ar/discover/supported-devices) and [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/discover/supported-devices#ios). Additionally, Dynamics 365 Remote Assist is available on mobile devices **without** ARCore or ARKit support, too! Visit our [documentation on product requirements](../requirements.md) to learn more.
 
 ## Features
 
@@ -41,7 +41,7 @@ Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune'
 
 ![Graphic showing Intune controls](./media/RAM_IntuneControls.png)
 
-For more information on Microsoft Intune's app protection policies, see [this article](https://docs.microsoft.com/mem/intune/apps/app-protection-policy).
+For more information on Microsoft Intune's app protection policies, see [this article](/mem/intune/apps/app-protection-policy).
 
 ## Videos
 
@@ -54,7 +54,7 @@ For more information on Microsoft Intune's app protection policies, see [this ar
 - [Buy Dynamics 365 Remote Assist licenses](../buy-remote-assist.md).
 - [Deploy Dynamics 365 Remote Assist to your workers' devices](../deploy-remote-assist.md).
 - [How-to videos for using Dynamics 365 Remote Assist on mobile](../videos.md).
-- [Dynamics 365 Remote Assist mobile - FAQs](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#using-remote-assist-on-mobile).
+- [Dynamics 365 Remote Assist mobile - FAQs](/dynamics365/mixed-reality/remote-assist/faq#using-remote-assist-on-mobile).
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

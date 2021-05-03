@@ -65,7 +65,7 @@ There are two ways to integrate your existing asset catalog for use in Dynamics 
 
 - Set up a data integration project to enable the flow of data between Dynamics 365 Remote Assist and your external data source (which automatically updates asset data).
 
-This tutorial will go through the steps of exporting existing asset data into the Microsoft Dataverse to use in Dynamics 365 Remote Assist. If you want to learn more about data integration projects, see [Integrate data into Microsoft Dataverse](https://docs.microsoft.com/power-platform/admin/data-integrator).
+This tutorial will go through the steps of exporting existing asset data into the Microsoft Dataverse to use in Dynamics 365 Remote Assist. If you want to learn more about data integration projects, see [Integrate data into Microsoft Dataverse](/power-platform/admin/data-integrator).
 
 #### Download the template
 
@@ -79,7 +79,7 @@ This tutorial will go through the steps of exporting existing asset data into th
 
 In the downloaded template file, you'll find a set of fields. The only required field is the **Name** field. This field is the name of the asset (for example, **Fabrikam Generator - 0039 - 4th Floor NW**) and is the primary way you'll search for and identify asset records. Other optional fields include account, product, and category. To use these fields in the template, the data must already exist in Microsoft Dataverse. For example, if you import an asset record with a category called **Pump**, the **Pump** category record must already exist; otherwise, the record won't be imported.
 
-For this tutorial, we'll leave fields blank and only use the asset name field. You can always go back and add or import the data later. More information: [Import data](https://docs.microsoft.com/powerapps/developer/common-data-service/import-data)
+For this tutorial, we'll leave fields blank and only use the asset name field. You can always go back and add or import the data later. More information: [Import data](/powerapps/developer/common-data-service/import-data)
 
 1. Open the downloaded Excel (.xlsx) file.
 2. Insert your existing asset record data into the sheet, and then save the file.

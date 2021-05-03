@@ -10,9 +10,9 @@ ms.reviewer: krbjoran
 ---
 # Join a meeting or live event on HoloLens
 
-A [Microsoft Teams meeting](https://docs.microsoft.com/microsoftteams/quick-start-meetings-live-events) is a meeting scheduled using Teams involving any number of participants. Meetings are useful for maintenance and repairs that are scheduled in advance. They are also useful for inspections and other recurring scenarios.
+A [Microsoft Teams meeting](/microsoftteams/quick-start-meetings-live-events) is a meeting scheduled using Teams involving any number of participants. Meetings are useful for maintenance and repairs that are scheduled in advance. They are also useful for inspections and other recurring scenarios.
 
-[Microsoft Teams live events](https://docs.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events) are an extension of Teams meetings, enabling users to broadcast video and meeting content to a large online audience. These events are meant for one-to-many communications where the host of the event is leading the interactions and audience participation is primarily to view the content shared by host.
+[Microsoft Teams live events](/microsoftteams/teams-live-events/what-are-teams-live-events) are an extension of Teams meetings, enabling users to broadcast video and meeting content to a large online audience. These events are meant for one-to-many communications where the host of the event is leading the interactions and audience participation is primarily to view the content shared by host.
 
 A Dynamics 365 Remote Assist HoloLens user can join a live event as a presenter or attendee in the same way they join a meeting.
 

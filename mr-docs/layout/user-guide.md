@@ -21,7 +21,7 @@ Need more help? [Check out the Dynamics 365 Layout FAQ](faq.md) for answers to c
 
 ## What you’ll need
 
--   [A subscription to Dynamics 365 Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC. 
+-   [A subscription to Dynamics 365 Layout.](/dynamics365/#pivot=mixed-reality-appspivot=mixed-reality-apps) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC. 
    
 -   A [HoloLens](https://www.microsoft.com/hololens) device running the [Windows 10 April 2018 Update](https://support.microsoft.com/help/12643) and/or a [Windows Mixed Reality immersive headset](https://www.microsoft.com/windows/windows-mixed-reality). 
 
