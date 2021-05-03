@@ -1,8 +1,8 @@
 ---
 author: Mamaylya
-description: This topic explains how to determine whether the Microsoft Dynamics 365 Guides solution that you're using is compatible with the version of the Dynamics 365 Guides PC and HoloLens apps.
+description: Explains how to determine whether the Microsoft Dynamics 365 Guides solution that you're using is compatible with the version of the Dynamics 365 Guides PC and HoloLens apps.
 ms.author: mamaylya
-ms.date: 04/19/2021
+ms.date: 05/04/2021
 ms.service: crm-online
 ms.topic: article
 title: Compatibility between Dynamics 365 Guides solutions and apps (PC and HoloLens)
