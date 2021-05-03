@@ -40,8 +40,8 @@ Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state.
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="RP URL GOES HERE" target="_blank">Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Organize guides into folders in Dynamics 365 Guides (for admins)</a>|
-| <a href="RP URL GOES HERE" target="_blank">Measure lengths and angles with new 3D toolkit shapes</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Add a 3D model from the 3D toolkit</a>|
+| Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-create-folders" target="_blank">Organize guides into folders in Dynamics 365 Guides (for admins)</a>|
+| Measure lengths and angles with new 3D toolkit shapes| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D model from the 3D toolkit</a>|
 
 ### Bugs fixed
 
