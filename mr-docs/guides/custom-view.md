@@ -29,7 +29,7 @@ To create a custom view, you must have the following prerequisites:
 
 - Dynamics 365 Guides PC and HoloLens app versions 104.1907.19001 or later
 
-You must also have the **System Administrator** role for the Dynamics 365 Guides instance that you're working with. Additionally, it's useful to have a general understanding of [Microsoft Dataverse](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), the database that Dynamics 365 Guides is based on.
+You must also have the **System Administrator** role for the Dynamics 365 Guides instance that you're working with. Additionally, it's useful to have a general understanding of [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro), the database that Dynamics 365 Guides is based on.
 
 ## Overview of creating a custom view
 

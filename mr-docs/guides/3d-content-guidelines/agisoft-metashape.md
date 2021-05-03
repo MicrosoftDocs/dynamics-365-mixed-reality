@@ -227,7 +227,7 @@ After you've prepared a 3D model, use the following links to learn more about us
 
 - [Dynamics 365 Guides](../index.md)
 
-- [Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
+- [Power Apps](/powerapps/maker/canvas-apps/mixed-reality-overview)
 
 ## More information
 

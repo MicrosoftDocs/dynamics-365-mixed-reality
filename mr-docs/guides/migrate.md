@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-The Content Migration Tool (Public Preview) for Microsoft Dynamics 365 Guides is a [Windows PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) script that copies content from one instance of Microsoft Dataverse to another. You can migrate all the content in an instance or just specific types of content (for example, 3D objects, images, and videos). After the migration is completed, the content exists in both instances. The content in the source instance isn't changed in any way.
+The Content Migration Tool (Public Preview) for Microsoft Dynamics 365 Guides is a [Windows PowerShell](/windows-server/administration/windows-commands/powershell) script that copies content from one instance of Microsoft Dataverse to another. You can migrate all the content in an instance or just specific types of content (for example, 3D objects, images, and videos). After the migration is completed, the content exists in both instances. The content in the source instance isn't changed in any way.
 
 The tool connects to two Microsoft Dataverse instances at the same time. It reads the content in the source instance and writes it to the destination instance. The instances can be part of the same tenant, or they can be in different tenants.
 
@@ -35,7 +35,7 @@ The tool supports the following types of migration.
 
 > [!NOTE]
 > - [Website and Power Apps links](pc-app-website-powerapps-link.md) are migrated when you migrate guides. However, for Power Apps, you must manually import the apps into the new instance and update the links in the appropriate steps.
-> - The Content Migration Tool doesn't support migration of guides that are based on schema v3 or v4. If you've updated your Dynamics 365 Guides solution to the latest version, but you still have a guide that is based on schema v3 or v4, you can [do a manual upgrade](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade#troubleshooting-you-receive-a-guide-cannot-be-opened-error-message).
+> - The Content Migration Tool doesn't support migration of guides that are based on schema v3 or v4. If you've updated your Dynamics 365 Guides solution to the latest version, but you still have a guide that is based on schema v3 or v4, you can [do a manual upgrade](./upgrade.md#troubleshooting-you-receive-a-guide-cannot-be-opened-error-message).
 > - For 3D objects that belong to a 3D object collection, the parent 3D object won't be migrated unless you have the **System Admin** role.
 
 ## Prerequisites
@@ -44,7 +44,7 @@ The tool supports the following types of migration.
 
 - You must be a system admin for the computer that you use to run the Windows PowerShell script.
 
-- You must use [Windows PowerShell](https://docs.microsoft.com/powershell/scripting/install/installing-windows-powershell?view=powershell-7#how-to-check-the-version-of-powershell) version 5.1.18362.752 or later.
+- You must use [Windows PowerShell](/powershell/scripting/install/installing-windows-powershell?view=powershell-7#how-to-check-the-version-of-powershell) version 5.1.18362.752 or later.
 
 - Both the source instance and the destination instance must use Dynamics 365 Guides solution version 500.0.0 or later. 
 
@@ -52,7 +52,7 @@ The tool supports the following types of migration.
 
 - You must have credentials to sign in to the destination instance in the **System Admin** role (preferable) or **Author** role (required).
 
-We also highly recommend that you [back up the contents](https://docs.microsoft.com/power-platform/admin/backup-restore-environments#create-a-manual-backup) of both instances before you start the migration process.
+We also highly recommend that you [back up the contents](/power-platform/admin/backup-restore-environments#create-a-manual-backup) of both instances before you start the migration process.
 
 > [!NOTE]
 > The Content Migration Tool doesn't support multi-factor authentication.
@@ -102,7 +102,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
 4. Go to the File Explorer location where you extracted the contents of the zipped folder, and then go to the **ContentMigrationTool\_D365Guides\_v500.3.1.x** \> **MigrationToolScripts** folder.
 
-5. Run Windows PowerShell [as an administrator](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831491(v=ws.11)#run-a-program-as-administrator-or-as-another-user) by following these steps:
+5. Run Windows PowerShell [as an administrator](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831491(v=ws.11)#run-a-program-as-administrator-or-as-another-user) by following these steps:
 
     1. On the **File** menu, select **Open Windows PowerShell** \> **Open Windows PowerShell as administrator**.
 

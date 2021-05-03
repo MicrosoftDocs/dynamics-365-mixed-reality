@@ -12,10 +12,10 @@ ms.reviewer: v-brycho
 # Table (entity) reference for Dynamics 365 Guides (for developers)
 
 When a guide is created with the Microsoft Dynamics 365 Guides PC app, content and information in that guide are stored by using the 
-Dynamics 365 Guides [tables](https://docs.microsoft.com/powerapps/maker/common-data-service/entity-overview) from [Microsoft Dataverse](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) that are listed later in this topic.
+Dynamics 365 Guides [tables](/powerapps/maker/common-data-service/entity-overview) from [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro) that are listed later in this topic.
 
 > [!IMPORTANT]
-> All tables that are installed as part of the Dynamics 365 Guides solution support the standard extensibility/programming model in Dynamics 365. You can access table information by using either the [Web application programming interface (API)](https://docs.microsoft.com/powerapps/developer/common-data-service/webapi/overview) or the [Microsoft Dataverse Organization Service](https://docs.microsoft.com/powerapps/developer/common-data-service/org-service/overview).
+> All tables that are installed as part of the Dynamics 365 Guides solution support the standard extensibility/programming model in Dynamics 365. You can access table information by using either the [Web application programming interface (API)](/powerapps/developer/common-data-service/webapi/overview) or the [Microsoft Dataverse Organization Service](/powerapps/developer/common-data-service/org-service/overview).
 >
 > Dynamics 365 Guides tables and columns can be used with the Web API, and in [Power Apps](https://powerapps.microsoft.com/) or a flow using [Power Automate](https://flow.microsoft.com/). However, we anticipate that these tables will evolve quickly in the near future. If you have an urgent need to do a business-critical integration, contact the Dynamics 365 Guides team directly for guidance, through your Microsoft Account team.
 >
@@ -50,7 +50,7 @@ Dynamics 365 Guides [tables](https://docs.microsoft.com/powerapps/maker/common-d
 
 ## See also
 
-[Entity reference for Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/about-entity-reference)
+[Entity reference for Dynamics 365](/dynamics365/customerengagement/on-premises/developer/about-entity-reference)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

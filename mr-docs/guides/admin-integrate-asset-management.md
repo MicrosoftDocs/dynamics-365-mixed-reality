@@ -23,31 +23,31 @@ When you integrate production processes from Supply Chain Management, first-line
 
 You can attach guides to various aspects of production control. Here are some examples:
 
-- [Resources](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#resources)
+- [Resources](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#resources)
 
-- [Resource groups](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#resource-groups)
+- [Resource groups](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#resource-groups)
 
-- [Released products](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#released-products)
+- [Released products](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#released-products)
 
-- [Formulas](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#formulas)
+- [Formulas](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#formulas)
 
-- [Formula versions](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#formula-versions)
+- [Formula versions](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#formula-versions)
 
-- [Bills of material (BOMs)](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#bom)
+- [Bills of material (BOMs)](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#bom)
 
-- [BOM versions](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#bom-versions)
+- [BOM versions](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#bom-versions)
 
-- [Routes](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#routes)
+- [Routes](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#routes)
 
-- [Route versions](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#route-versions)
+- [Route versions](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#route-versions)
 
-- [Route operation relations](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#route-operation-relations)
+- [Route operation relations](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#route-operation-relations)
 
-When a first-line worker selects a job on the shop floor through Supply Chain Management, the job card shows [the relevant guides](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic). When the worker selects a specific guide, a QR code for that guide is shown. The worker can then use their HoloLens to scan the QR code. At that point, Dynamics 365 Guides is opened and shows the required instructions. 
+When a first-line worker selects a job on the shop floor through Supply Chain Management, the job card shows [the relevant guides](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic). When the worker selects a specific guide, a QR code for that guide is shown. The worker can then use their HoloLens to scan the QR code. At that point, Dynamics 365 Guides is opened and shows the required instructions. 
 
 ![QR code used to open a guide from Supply Chain Management](media/scm-integration-qr-code-scan.PNG "QR code used to open a guide from Supply Chain Management")
  
-[Learn more about how to integrate Dynamics 365 Guides with various aspects of production control](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic).
+[Learn more about how to integrate Dynamics 365 Guides with various aspects of production control](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic).
 
 ## Asset management
 
@@ -55,7 +55,7 @@ You can integrate the **Asset Management** module in Supply Chain Management wit
 
 ![Integrated Asset Management guide](media/asset-management-integration.JPG "Integrated Asset Management guide")
 
-[Learn more about how to integrate asset management with Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/asset-management-guides-integration).
+[Learn more about how to integrate asset management with Dynamics 365 Guides](/dynamics365/supply-chain/asset-management/asset-management-guides-integration).
 
 ## See also
 

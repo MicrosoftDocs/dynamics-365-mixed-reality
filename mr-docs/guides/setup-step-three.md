@@ -51,11 +51,11 @@ Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to 
 
 Update the HoloLens app from the Microsoft Store as needed.
 
-We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](https://docs.microsoft.com/hololens/hololens-update-hololen). You can also manually update your HoloLens. 
+We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](/hololens/hololens-update-hololen). You can also manually update your HoloLens. 
 
 #### HoloLens 1
 
-1. Make sure that [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.17134 or later. We recommend that you update [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when they become available. For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates).
+1. Make sure that [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.17134 or later. We recommend that you update [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when they become available. For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](/HoloLens/hololens-updates).
 
 2. On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu. Then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app, and search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]."
 
@@ -68,15 +68,15 @@ We recommend that you update HoloLens to newer versions when they become availab
 
 1. Open [Microsoft Store for Business](https://businessstore.microsoft.com/store).
 
-2. [Get the apps](https://docs.microsoft.com/microsoft-store/acquire-apps-microsoft-store-for-business).
+2. [Get the apps](/microsoft-store/acquire-apps-microsoft-store-for-business).
 
 3. Select one of the following distribution methods:
 
-    - [Private store](https://docs.microsoft.com/microsoft-store/distribute-apps-from-your-private-store)
+    - [Private store](/microsoft-store/distribute-apps-from-your-private-store)
 
-    - [Email link](https://docs.microsoft.com/microsoft-store/assign-apps-to-employees)
+    - [Email link](/microsoft-store/assign-apps-to-employees)
 
-    - [Mobile device management](https://docs.microsoft.com/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
+    - [Mobile device management](/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ## What's next?
 

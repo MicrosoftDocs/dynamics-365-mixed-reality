@@ -27,14 +27,14 @@ For increased accuracy, most voice commands are contextual. In other words, they
     ![Microphone settings](media/microphone-permission.PNG "Microphone settings")
 
 > [!NOTE]
-> Voice commands are supported for [all languages that Dynamics 365 Guides supports](https://docs.microsoft.com/dynamics365/mixed-reality/guides/faq#what-languages-is-dynamics-365-guides-available-in). The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
+> Voice commands are supported for [all languages that Dynamics 365 Guides supports](./faq.md#what-languages-is-dynamics-365-guides-available-in). The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
 
 ## Use voice commands
 
 This section shows Dynamics 365 Guides pages and the voice commands that you can use for them.
 
 > [!NOTE]
-> Regardless of where you are in the app, the [Select](https://docs.microsoft.com/hololens/hololens-cortana#general-speech-commands) voice command works like an air tap.
+> Regardless of where you are in the app, the [Select](/hololens/hololens-cortana#general-speech-commands) voice command works like an air tap.
 
 ### Sign-in page
 
