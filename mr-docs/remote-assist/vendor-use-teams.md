@@ -32,7 +32,7 @@ Company ABC purchased equipment from an OEM. An ABC employee has trouble setting
 ## Prerequisites
 
 **Prerequisite for Company ABC tenant:**
-1.	[Allow anonymous users to join meetings](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
+1.	[Allow anonymous users to join meetings](/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
 
 **Prerequisites for the Company ABC employee who will use Dynamics 365 Remote Assist HoloLens:**
 1. Dynamics 365 Dynamics 365 Remote Assist app is installed on the HoloLens.

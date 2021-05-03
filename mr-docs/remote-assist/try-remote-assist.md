@@ -32,7 +32,7 @@ In this article, we’ll walk through the three ways you can get a Dynamics 365 
    - A [Microsoft account](https://account.microsoft.com/account).
    - A [Microsoft Teams freemium account](https://products.office.com/microsoft-teams/free).
    - Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only). Users will sign in to their accounts through Azure Active Directory. 
-   - A HoloLens, HoloLens 2, or a mobile device. [Learn about additional licensing and product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+   - A HoloLens, HoloLens 2, or a mobile device. [Learn about additional licensing and product requirements](./requirements.md).
 
 With the license-free 90-day free trial, each user must download Dynamics 365 Remote Assist from the appropriate app store to start the trial. 
 
@@ -56,7 +56,7 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 ### Prerequisites
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/office365/admin/admin-overview/admin-overview?view=o365-worldwide). 
 
 IT admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
