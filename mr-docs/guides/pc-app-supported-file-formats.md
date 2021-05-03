@@ -1,4 +1,12 @@
-
+---
+author: Mamaylya
+description: Learn about supported file formats for 3D models, images, and videos in Microsoft Dynamics 365 Guides.
+ms.date: 05/04/2021
+ms.service: crm-online
+ms.topic: article
+title: Supported file formats for 3D models, images, and videos in Dynamics 365 Guides
+ms.reviewer: v-bholmes
+---
 
 # Supported file formats for 3D models, images, and videos in Dynamics 365 Guides
 
