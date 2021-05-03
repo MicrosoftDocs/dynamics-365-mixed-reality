@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Learn how to add a custom 3D part to a step in the Dynamics 365 Guides PC app. 
+description: Learn how to add a custom 3D part to a step in the Microsoft Dynamics 365 Guides PC app. 
 ms.date: 05/04/2021
 ms.service: crm-online
 ms.topic: article
