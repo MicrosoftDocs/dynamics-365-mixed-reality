@@ -46,7 +46,7 @@ First, create a bookable resource that will serve as the technician or front lin
 > [!div class="mx-imgBorder"]
 > ![Screenshot of a bookable resource in Field Service on a desktop](./media/remote-assist-field-service-resource.png)
 
-The bookable resource must have a **Resource Type** set to **User**; the related user record will need licenses to use both Field Service Mobile and Dynamics 365 Remote Assist. To set up a field technician to use Field Service Mobile, see the Field Service docs article on [setting up Field Service users and security roles](https://docs.microsoft.com/dynamics365/field-service/view-user-accounts-security-roles#set-up-a-field-technician-user).
+The bookable resource must have a **Resource Type** set to **User**; the related user record will need licenses to use both Field Service Mobile and Dynamics 365 Remote Assist. To set up a field technician to use Field Service Mobile, see the Field Service docs article on [setting up Field Service users and security roles](/dynamics365/field-service/view-user-accounts-security-roles#set-up-a-field-technician-user).
 
 Verify you can log into Field Service Mobile successfully as the field technician user.
 
@@ -103,7 +103,7 @@ Like any typical day, the technician logs in to Field Service Mobile and sees th
 > ![Screenshot of four mobile devices showing Field Service Mobile, and the workflow that brings up the Dynamics 365 Remote Assist launching option.](./media/remote-assist-field-service-mobile.png)
 
 > [!Note]
-> The deep link from Field Service Mobile to the Dynamics 365 Remote Assist mobile app is available on iOS and Android devices. You will need to set up Field Service Mobile with the correct mobile project, [1.0.3482](https://docs.microsoft.com/dynamics365/field-service/field-service-version-history-mobile#103482) for Field Service Mobile on Android devices and [1.0.4847](https://docs.microsoft.com/dynamics365/field-service/field-service-version-history-mobile#104847) for Field Service Mobile on iOS. For more information on Field Service Mobile projects, see the article on [importing mobile projects](https://docs.microsoft.com/dynamics365/field-service/install-field-service#step-4-import-the-mobile-project-template).
+> The deep link from Field Service Mobile to the Dynamics 365 Remote Assist mobile app is available on iOS and Android devices. You will need to set up Field Service Mobile with the correct mobile project, [1.0.3482](/dynamics365/field-service/field-service-version-history-mobile#103482) for Field Service Mobile on Android devices and [1.0.4847](/dynamics365/field-service/field-service-version-history-mobile#104847) for Field Service Mobile on iOS. For more information on Field Service Mobile projects, see the article on [importing mobile projects](/dynamics365/field-service/install-field-service#step-4-import-the-mobile-project-template).
 
 
 ## Make a Dynamics 365 Remote Assist call
@@ -170,7 +170,7 @@ Technicians can:
 
 ### Set up Field Service for the HoloLens
 
-1. Ensure you're using Field Service v8.2 or later. [Upgrade](https://docs.microsoft.com/dynamics365/field-service/upgrade-field-service#field-service) your solution if necessary. 
+1. Ensure you're using Field Service v8.2 or later. [Upgrade](/dynamics365/field-service/upgrade-field-service#field-service) your solution if necessary. 
 2. Confirm the **My Bookings for Today** view on the **Bookable Resource Booking** entity is included:
 
      - Go to **Field Service** > **Settings** > **Customizations** > **Customize the System**.

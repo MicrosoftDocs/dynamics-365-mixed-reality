@@ -12,13 +12,13 @@ ms.reviewer: krbjoran
 
 Remote Assist mobile makes conducting repairs and remote inspections easy by providing technicians with the ability to launch one-to-one and group video calls with remote collaborators inside or outside of their organization, even if either or both users are using mobile devices **without** ARCore or ARKit support.
 
-Due to limitations of mobile devices without ARCore or ARKit support, technicians and remote collaborators are unable to provide instructions using 3D annotations on a live video feed. Instead, technicians can now share their live video feed of their environment and both the technicians and remote collaborators can provide instructions on **snapshots** using 2D annotations. Learn about the [snapshot feature capabilities](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-snapshot).
+Due to limitations of mobile devices without ARCore or ARKit support, technicians and remote collaborators are unable to provide instructions using 3D annotations on a live video feed. Instead, technicians can now share their live video feed of their environment and both the technicians and remote collaborators can provide instructions on **snapshots** using 2D annotations. Learn about the [snapshot feature capabilities](./annotate-snapshot.md).
 
 ## Prerequisites
 
-- In order to follow along with this guide, you must be using a mobile device without ARCore or ARKit support. Learn about Dynamics 365 Remote Assist's device [requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements). If your device is *not* listed on the [Android/ARCore supported devices](https://developers.google.com/ar/discover/supported-devices) or [iOS/ARKit supported devices](https://developers.google.com/ar/discover/supported-devices#ios), then your device does not support augmented reality.
-- Technicians must have a Dynamics 365 Remote Assist [free trial](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/try-remote-assist) or [subscription](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/buy-remote-assist).
-- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to set up Remote Assist with [Teams desktop](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all) and [Teams mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-mobile-all).
+- In order to follow along with this guide, you must be using a mobile device without ARCore or ARKit support. Learn about Dynamics 365 Remote Assist's device [requirements](../requirements.md). If your device is *not* listed on the [Android/ARCore supported devices](https://developers.google.com/ar/discover/supported-devices) or [iOS/ARKit supported devices](https://developers.google.com/ar/discover/supported-devices#ios), then your device does not support augmented reality.
+- Technicians must have a Dynamics 365 Remote Assist [free trial](../try-remote-assist.md) or [subscription](../buy-remote-assist.md).
+- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to set up Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 
 ## How it works
 
@@ -86,15 +86,15 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 > [!NOTE]
 > Annotations added on a still snapshot will *not* appear in the technician's environment after it has been saved or discarded.
 
-13. Both the technician and remote collaborator can send and receive messages and  files from their local device in the text chat. Learn more about the file sharing feature [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/file-sharing).
+13. Both the technician and remote collaborator can send and receive messages and  files from their local device in the text chat. Learn more about the file sharing feature [here](./file-sharing.md).
 
 ![Screenshot showing the text chat in Dynamics 365 Remote Assist mobile.](./media/06.21-chat-doc.png)
 
-14. Both the technician and remote collaborator can record the one-to-one Dynamics 365 Remote Assist call, as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft Stream and the link to the recording will be sent to the Microsoft Teams text chat. Learn more about the call recording feature [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/call-recording).
+14. Both the technician and remote collaborator can record the one-to-one Dynamics 365 Remote Assist call, as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft Stream and the link to the recording will be sent to the Microsoft Teams text chat. Learn more about the call recording feature [here](./call-recording.md).
 
 ![Screenshot of Dynamics 365 Remote Assist mobile showing the meeting recording appearing in text chat.](./media/11b.png)
 
-15. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. Learn more about Field Service integration [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
+15. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. Learn more about Field Service integration [here](./fs-integration.md).
 
 ![Screenshot of Dynamics 365 Remote Assist mobile when integrated with Field Service.](./media/12.png "Field Service")
 

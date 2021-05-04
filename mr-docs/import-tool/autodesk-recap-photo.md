@@ -110,7 +110,7 @@ The rest of the floor is now removed from your 3D model, and the mesh on the bot
 
 ## Decimate the 3D model to help increase performance
 
-After you've finished removing the parts of the mesh that you don't want to keep, you can decimate it to a polygon count that meets the [performance targets for Dynamics 365 mixed-reality applications](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+After you've finished removing the parts of the mesh that you don't want to keep, you can decimate it to a polygon count that meets the [performance targets for Dynamics 365 mixed-reality applications](./optimize-models.md#performance-targets).
 
 1. On the left side of the editor page, select the **Decimate mesh** tool.
 
@@ -205,9 +205,9 @@ The last step is to export the model as a .glb file, so that it can be used with
 
 After you've finished preparing your 3D model, you can use it in the following Dynamics 365 applications:
 
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
+- [Dynamics 365 Product Visualize](/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
 
-- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+- [Dynamics 365 Guides](../guides/index.md)
 
 ## More information
 

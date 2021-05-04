@@ -22,22 +22,22 @@
     },
     {
       "source_path": "mr-docs/remote-assist/mobile-app.md",
-      "redirect_url": "https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/remote-assist-mobile-overview",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/mobile-app/remote-assist-mobile-overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/remote-assist/mobile-app/making-calls.md",
-      "redirect_url": "https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/making-calls-with-ar",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/mobile-app/making-calls-with-ar",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/remote-assist/mobile-app/using-devices-without-AR.md",
-      "redirect_url": "https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/calls-using-devices-without-AR",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/mobile-app/calls-using-devices-without-AR",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/remote-assist/mobile-app/annotate-your-environment.md",
-      "redirect_url": "https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-shared-environment",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-shared-environment",
       "redirect_document_id": "false"
     },
     {

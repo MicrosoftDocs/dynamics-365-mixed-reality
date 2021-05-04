@@ -66,7 +66,7 @@ To place an audio-only call instead of video, use URI: “ms-voip-call:?contacti
 
 An additional ```returnto``` field can be included to have Dynamics 365 Remote Assist return to your application when a call ends. This enables users to both start and end their experience in your app without having to manually switch between them.
 
-To support the ```returnto``` field, you need to register your app with a custom URI (see [Register an app with a custom URI](<https://docs.microsoft.com/windows/uwp/launch-resume/handle-uri-activation#step-1-specify-the-extension-point-in-the-package-manifest>)).
+To support the ```returnto``` field, you need to register your app with a custom URI (see [Register an app with a custom URI](/windows/uwp/launch-resume/handle-uri-activation#step-1-specify-the-extension-point-in-the-package-manifest>)).
 
 Then include the optional ```returnto``` field along with the registered app name you completed in the previous step. In the example below, "helicoptor-maintenance-app" is the registered URI:
 
@@ -111,7 +111,7 @@ launchUriOperation.then([this](bool success)   
 4.  After the contacts panel is loaded, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] will place a call to the
     specified contact.
     
-For more information on launching an app with a URI, see [Launch an app with a URI](https://docs.microsoft.com/windows/uwp/launch-resume/launch-app-with-uri).
+For more information on launching an app with a URI, see [Launch an app with a URI](/windows/uwp/launch-resume/launch-app-with-uri).
 
 ## iOS and Android protocol activation
 

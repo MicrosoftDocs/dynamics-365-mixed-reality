@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 Some releases of Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. 
 
 > [!IMPORTANT]
-> To update the Guides solution, you must have a [System Administrator security group role](https://docs.microsoft.com/power-platform/admin/database-security) and an assigned Guides license. 
+> To update the Guides solution, you must have a [System Administrator security group role](/power-platform/admin/database-security) and an assigned Guides license. 
 
 When an update is required, the user will see a notification in the **What's new** panel. 
 
@@ -24,11 +24,11 @@ Keep the following in mind:
 
 - Updates to the solution must be done when the Guides model-driven app, PC app, and [!include[pn-hololens](../includes/pn-hololens.md)] app is not in use.  
 
-- [Make sure that you back up your environment](https://docs.microsoft.com/power-platform/admin/backup-restore-environments) before updating your solution. 
+- [Make sure that you back up your environment](/power-platform/admin/backup-restore-environments) before updating your solution. 
 
 To update the solution:
 
-1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the [System Administrator security role](https://docs.microsoft.com/power-platform/admin/database-security) permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Admins must also have a [Dynamics 365 Guides license assigned to their user account](https://docs.microsoft.com/dynamics365/mixed-reality/guides/add-users). 
+1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the [System Administrator security role](/power-platform/admin/database-security) permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Admins must also have a [Dynamics 365 Guides license assigned to their user account](./add-users.md). 
 
 2. To select the environment, select **Resources**, and then select **Dynamics 365 apps**. 
 
@@ -44,7 +44,7 @@ To update the solution:
 
 ## Troubleshooting
 
-If you encounter issues while you're upgrading the solution, make sure that you have the [System Administrator security role](https://docs.microsoft.com/power-platform/admin/database-security). You must have this role to update the solution.
+If you encounter issues while you're upgrading the solution, make sure that you have the [System Administrator security role](/power-platform/admin/database-security). You must have this role to update the solution.
 
 ### "Guide can't be opened" error message
 
@@ -90,7 +90,7 @@ To fix this issue, we recommend that you first try to update the guide schema fr
 
 ### Having trouble accessing an image, video, or 3D object through the Dataverse API or Power Apps after updating to Guides solution version 504.0.0.0?
 
-The 504.0.0.0 Guides solution update changes the way that guide content (images, videos, and 3D objects) is stored in the Microsoft Dataverse. With this update, each file is stored in the new **File** column instead of as an attachment in the **Note** column. This significantly improves performance when loading content in Dynamics 365 Guides and allows you to [access your files more easily on the Power Platform](https://docs.microsoft.com/powerapps/maker/canvas-apps/controls/control-attachments). 
+The 504.0.0.0 Guides solution update changes the way that guide content (images, videos, and 3D objects) is stored in the Microsoft Dataverse. With this update, each file is stored in the new **File** column instead of as an attachment in the **Note** column. This significantly improves performance when loading content in Dynamics 365 Guides and allows you to [access your files more easily on the Power Platform](/powerapps/maker/canvas-apps/controls/control-attachments). 
 
 If an image, video, or 3D object fails to convert correctly to the newest version when you update to the 504.0.0.0 solution (this can happen, for example, if the Dataverse was down during the solution update), it means that the related file is stored using the old method (attached to the **Note** column instead of stored in the new **File** column). This makes it harder to retrieve when using the Power Platform or the Dataverse API. You can check whether your media content has been updated correctly by checking the version number. If it hasn't been updated correctly, you can then do a manual update using the following procedure: 
 

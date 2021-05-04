@@ -22,7 +22,7 @@ You can use add a website link or a [!include[pn-powerapps](../includes/pn-power
    ![Power Apps example](media/powerapps-example.JPG "Power apps example")
 
    > [!NOTE]
-   > To run [!include[pn-powerapps](../includes/pn-powerapps.md)] from [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], operators need a [Power Apps license](https://powerapps.microsoft.com/pricing/). They must also have [permission](https://docs.microsoft.com/powerapps/maker/canvas-apps/share-app#share-an-app) to view the app that is created in [!include[pn-powerapps](../includes/pn-powerapps.md)].
+   > To run [!include[pn-powerapps](../includes/pn-powerapps.md)] from [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], operators need a [Power Apps license](https://powerapps.microsoft.com/pricing/). They must also have [permission](/powerapps/maker/canvas-apps/share-app#share-an-app) to view the app that is created in [!include[pn-powerapps](../includes/pn-powerapps.md)].
 
 ## Add a website link to a step
 

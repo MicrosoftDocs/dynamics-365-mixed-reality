@@ -19,9 +19,9 @@ before proceeding.
 
 > [!NOTE]
 > To take advantage of the new anchoring improvements, you must update the Dynamics 365 Guides (Preview) solution in the Dynamics 365 
-admin center. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides (Preview) solution</a> or contact your Dynamics 365 administrator.
+admin center. For more information, see <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides (Preview) solution</a> or contact your Dynamics 365 administrator.
 
-For more information on authoring a guide with the PC application, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring" target="_blank">Use the PC authoring application to create a guide</a>.
+For more information on authoring a guide with the PC application, see <a href="/dynamics365/mixed-reality/guides/pc-authoring" target="_blank">Use the PC authoring application to create a guide</a>.
 
 
 

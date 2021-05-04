@@ -46,7 +46,7 @@ Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mo
 
 6. When you're finished, select **Assign**, and then select **Close**.
 
-More information: [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+More information: [Assign licenses to users](/microsoft-365/admin/manage/assign-licenses-to-users)
 
 ## Assign Dynamics 365 security roles
 

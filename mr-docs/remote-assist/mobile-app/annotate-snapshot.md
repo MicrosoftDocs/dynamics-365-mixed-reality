@@ -10,11 +10,11 @@ ms.reviewer: krbjoran
 ---
 # Capture and annotate snapshots in Dynamics 365 Remote Assist mobile 
 
-Snapshots are critical in situations where a still image might help communicate what a technician is looking at. Hence, the addition of placing 2D annotations on snapshots provides emphasis on specific elements in the technicians' environment. These snapshots can be used later for reference or work validation, and can provide relief in **low-bandwidth scenarios** where live video just isn't cutting it or on **devices without AR support**; learn more about using snapshots in low-bandwidth scenarios [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity) and on devices without AR support [here](../mobile-app/using-devices-without-AR.md). 
+Snapshots are critical in situations where a still image might help communicate what a technician is looking at. Hence, the addition of placing 2D annotations on snapshots provides emphasis on specific elements in the technicians' environment. These snapshots can be used later for reference or work validation, and can provide relief in **low-bandwidth scenarios** where live video just isn't cutting it or on **devices without AR support**; learn more about using snapshots in low-bandwidth scenarios [here](./poor-network-connectivity.md) and on devices without AR support [here](./calls-using-devices-without-ar.md). 
 
 Dynamics 365 Remote Assist mobile users can capture and annotate snapshots of their environment during a call. Users can then save or discard the snapshot. Specifically, users can save snapshots to their mobile device's photo gallery, the in-call text chat, or both.
 
-If the technician is a Dynamics 365 Field Service customer, snapshots can also be posted to an associated work order. Learn more [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
+If the technician is a Dynamics 365 Field Service customer, snapshots can also be posted to an associated work order. Learn more [here](./fs-integration.md).
 
 ## How it works
 
@@ -49,7 +49,7 @@ If the technician is a Dynamics 365 Field Service customer, snapshots can also b
 
 1. If the technician successfully saved the snapshot, then the snapshots can be viewed in the **mobile device’s Photo Gallery** and/or **Microsoft Teams text chat** at the end of the call. 
 
-2.  If the technician is a Dynamics 365 Field Service customer and saved their snapshot to the text chat, after the call ends, the technician can post their snapshot(s) to an associated work order and view the snapshot there. Learn more about D365 Field Service integration [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
+2.  If the technician is a Dynamics 365 Field Service customer and saved their snapshot to the text chat, after the call ends, the technician can post their snapshot(s) to an associated work order and view the snapshot there. Learn more about D365 Field Service integration [here](./fs-integration.md).
 
 ![Screenshot of snapshots on Field Service work order.](./media/12.png "Field Service")
 

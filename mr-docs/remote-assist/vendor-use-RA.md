@@ -41,7 +41,7 @@ In Figure 1.2 below, Company ABC used Azure AD to create **service accounts** (S
 **Figure 1.2**
 ![Diagram showing Tenant ABC providing a Dynamics 365 Remote Assist license to users outside of Tenant ABC.](media/SA_2.png)
 
-In the previous figure, we described a configuration where any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. If you need to control search and collaboration, you can do so by adding information barriers. For example, Tenant ABC can configure information barriers such that Vendor1_A@Vendor1.com, Vendor1_B@Vendor1.com, and Vendor1_A@Vendor2.com can search and collaborate with the experts and vice versa, but cannot search and collaborate with Vendor@outlook.com and vice versa. Learn more about information barriers and how to configure them [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide).
+In the previous figure, we described a configuration where any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. If you need to control search and collaboration, you can do so by adding information barriers. For example, Tenant ABC can configure information barriers such that Vendor1_A@Vendor1.com, Vendor1_B@Vendor1.com, and Vendor1_A@Vendor2.com can search and collaborate with the experts and vice versa, but cannot search and collaborate with Vendor@outlook.com and vice versa. Learn more about information barriers and how to configure them [here](/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
 >[!Note] 
 > Because Teams users and Dynamics 365 Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search for by typing that user's name, rather than typing their entire email address.
@@ -62,23 +62,23 @@ Information barrier policies determine and prevent the following kinds of unauth
 
 2. If information barriers are necessary, plan how you segment users. 
 
-You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference). To see how an organization might approach defining segments and policies, consider the following [example](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Download the workbook (xlsx file).](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about information barriers can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide).
+You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference). To see how an organization might approach defining segments and policies, consider the following [example](/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Download the workbook (xlsx file).](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about information barriers can be found [here](/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
 3. Buy the correct licenses
 
 Learn about [licenses required to use Dynamics 365 Remote Assist](requirements.md).
 
-If you would like to control who the service account user can search and collaborate with, you will need to assign the service account an information barrier license. These [licensing suites](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide#required-licenses-and-permissions) include information barrier licenses.
+If you would like to control who the service account user can search and collaborate with, you will need to assign the service account an information barrier license. These [licensing suites](/microsoft-365/compliance/information-barriers?view=o365-worldwide#required-licenses-and-permissions) include information barrier licenses.
 
-4. [Create service accounts](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory).
+4. [Create service accounts](/azure/active-directory/fundamentals/add-users-azure-active-directory).
 
-5. [Assign licenses](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) to each service account user. 
+5. [Assign licenses](/azure/active-directory/fundamentals/license-users-groups) to each service account user. 
 
-6. If information barriers are necessary, [configure information barriers](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).
+6. If information barriers are necessary, [configure information barriers](/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).
 
->![Note] If you plan to send your vendor or customer a HoloLens to use Remote Assist, you can create a service account, [assign the necessary licenses](requirements.md), and set up a PIN to log in to HoloLens using that service account. Then, share the PIN with your vendor or customer. With [Single Sign-on](https://docs.microsoft.com/hololens/hololens-identity), your vendor or customer can use the PIN to log in to the HoloLens and then automatically log in to Remote Assist as well. This method provides two benefits. Your vendor or customer can quickly sign in to both the device and Remote Assist. Additionally, because you are providing a HoloLens-specific PIN instead of the service account password, your vendor or customer cannot use that service account on any other device.
+>![Note] If you plan to send your vendor or customer a HoloLens to use Remote Assist, you can create a service account, [assign the necessary licenses](requirements.md), and set up a PIN to log in to HoloLens using that service account. Then, share the PIN with your vendor or customer. With [Single Sign-on](/hololens/hololens-identity), your vendor or customer can use the PIN to log in to the HoloLens and then automatically log in to Remote Assist as well. This method provides two benefits. Your vendor or customer can quickly sign in to both the device and Remote Assist. Additionally, because you are providing a HoloLens-specific PIN instead of the service account password, your vendor or customer cannot use that service account on any other device.
 
->![Note] You may set up [kiosk mode](https://docs.microsoft.com/hololens/hololens-kiosk) for the HoloLens to limit the apps that your vendor or user can access. For example, you can limit them to only using two apps on the HoloLens: the Settings app to configure WiFi, and the Remote Assist app.
+>![Note] You may set up [kiosk mode](/hololens/hololens-kiosk) for the HoloLens to limit the apps that your vendor or user can access. For example, you can limit them to only using two apps on the HoloLens: the Settings app to configure WiFi, and the Remote Assist app.
 
 
 

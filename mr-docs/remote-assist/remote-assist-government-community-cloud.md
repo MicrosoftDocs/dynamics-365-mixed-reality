@@ -22,7 +22,7 @@ Dynamics 365 Remote Assist on HoloLens and mobile are *unavailable* for the Depa
 
 ### See also
 
-For more information, see the article on [Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government).
+For more information, see the article on [Dynamics 365 US Government](/power-platform/admin/microsoft-dynamics-365-government).
 
 
 

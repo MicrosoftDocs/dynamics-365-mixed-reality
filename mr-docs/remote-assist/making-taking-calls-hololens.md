@@ -48,11 +48,11 @@ If you don't see the contact you want, select Search and then use the holographi
 You can search, call, and receive a call from a Dynamics 365 Remote Assist user in another tenant if your tenant is federated with that tenant. To call a federated user, open the app, select **Search**, and then use the holographic keyboard to enter their full email address. You won't see any search results if you enter just a name or a partial email address. After you call them once, they will appear in your recent contacts list, so you will not have to search for them again.
 
 >[!Note]
-> If you're not able to find the contact you're looking for, it might be because Teams federation (that is, "[Teams external access](https://docs.microsoft.com/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.
+> If you're not able to find the contact you're looking for, it might be because Teams federation (that is, "[Teams external access](/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.
 
 ## Make a group call
 
-A group call can include Dynamics 365 Remote Assist HoloLens or HoloLens 2 users with Dynamics 365 Remote Assist mobile users and Teams desktop users. You can also switch between participants' video feeds and mute participants as needed. Learn more about joining group calls with Dynamics Remote Assist mobile users and Teams desktop users [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/group-calling).
+A group call can include Dynamics 365 Remote Assist HoloLens or HoloLens 2 users with Dynamics 365 Remote Assist mobile users and Teams desktop users. You can also switch between participants' video feeds and mute participants as needed. Learn more about joining group calls with Dynamics Remote Assist mobile users and Teams desktop users [here](./mobile-app/group-calling.md).
 
 Start by calling one person, and then select **Open Participants** (as seen here: ![Graphic showing the open participants icon.](media/RAHL_Participants.png)).
 
@@ -61,7 +61,7 @@ You'll see the first person you called on the left side of the video card, and a
 To mute a participant, select **Open Participants** or say "Remote Assist, Open Participants." Tap on a participant to see a video feed of them. Tap on a participant's mute button next to their name to mute them. A muted participant is the only one who can unmute themselves.
 
 > [!Note]
-> Learn more about the number of participants that can join a Microsoft Teams call [here](https://docs.microsoft.com/MicrosoftTeams/limits-specifications-teams#meetings-and-calls). However, with a large number of participants, you may experience some performance issues, such as delays in viewing annotations and lower video resolution.
+> Learn more about the number of participants that can join a Microsoft Teams call [here](/MicrosoftTeams/limits-specifications-teams#meetings-and-calls). However, with a large number of participants, you may experience some performance issues, such as delays in viewing annotations and lower video resolution.
 >
 > You can't mute another participant in a one-to-one call. You can only mute and unmute yourself.
 
@@ -83,7 +83,7 @@ When you join the call, remote collaborators will be able to see what you see in
 To end a call, select **End Call** (as seen here: ![Graphic showing the end call icon.](media/RAHL_EndCall.png)), or say "Remote Assist, End Call."
 
 ### Learn more 
-- View documentation on group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/group-calling).
+- View documentation on group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop [here](./mobile-app/group-calling.md).
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

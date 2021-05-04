@@ -29,13 +29,13 @@ You can also learn how to [deploy to multiple tenants](multi-tenant-deployment.m
 
 Your organization must have:
 
-- A Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+- A Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/office365/admin/admin-overview/admin-overview?view=o365-worldwide). 
 
 - A [free trial](try-remote-assist.md) of Dynamics 365 Remote Assist, or a [purchased license](buy-remote-assist.md). 
 
 - An Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
 
-Make sure that users in your organization have the required licensing and devices. For more information, see [licensing and product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+Make sure that users in your organization have the required licensing and devices. For more information, see [licensing and product requirements](./requirements.md).
 
 ### Adding and assigning licenses
 
@@ -55,7 +55,7 @@ Once prerequisites are met, you can now add and assign licenses to *individual u
 
     ![Screenshot showing assigning users](./media/deploy_4.png "Assign users")
 
-5. Select **Add a user**. For more information, see [Add users and assign licenses at the same time](https://docs.microsoft.com/office365/admin/add-users/add-users?view=o365-worldwide).
+5. Select **Add a user**. For more information, see [Add users and assign licenses at the same time](/office365/admin/add-users/add-users?view=o365-worldwide).
 
 6.	Find the users in your organization that you want to add. In the **Product licenses** section, make sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses. 
 
@@ -65,7 +65,7 @@ Once prerequisites are met, you can now add and assign licenses to *individual u
 
     ![Screenshot of adding multiple users.](./media/deploy_7.png "Add multiple users")
 
-8.	After you have added a user or users, you can assign licenses to them through the Microsoft 365 or Microsoft 365 administrator portal. See [Assing licenses to users](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+8.	After you have added a user or users, you can assign licenses to them through the Microsoft 365 or Microsoft 365 administrator portal. See [Assing licenses to users](/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
 At this point, users in your organization can set up Dynamics 365 Remote Assist on their devices, as described below. 
 
@@ -82,7 +82,7 @@ After assigning licenses, users can set up and use the app on their HoloLens, Ho
 
 - Azure Active Directory [Premium trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only).
 
-- A HoloLens, HoloLens 2, or mobile device. See [Licensing and product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+- A HoloLens, HoloLens 2, or mobile device. See [Licensing and product requirements](./requirements.md).
 
 ### Steps for HoloLens and HoloLens 2
 

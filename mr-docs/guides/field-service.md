@@ -78,7 +78,7 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
 
 ## See also
 
-[Overview of Dynamics 365 Field Service](https://docs.microsoft.com/dynamics365/field-service/overview)
+[Overview of Dynamics 365 Field Service](/dynamics365/field-service/overview)
       
       
    
