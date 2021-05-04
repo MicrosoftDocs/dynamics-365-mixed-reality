@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to add a website or Power Apps link to a step in Microsoft Dynamics 365 Guides to create a seamless workflow for operators.
 ms.author: mamaylya
-ms.date: 08/25/2020
+ms.date: 05/04/2021
 ms.service: crm-online
 ms.topic: article
 title: Add a website or Power Apps link to a step in Dynamics 365 Guides
@@ -96,7 +96,13 @@ To add a [!include[pn-powerapps](../includes/pn-powerapps.md)] link to a step, y
 
      ![Power Apps menu](media/powerapps-menu.PNG "Power Apps menu")
      
- 
+## What's next?
+
+[Step Editor overview](pc-app-step-editor-overview.md)<br>
+[Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)<br>
+[Add a 3D part](pc-app-add-3D-part.md)<br>
+[Add an image or video file](pc-app-add-media.md)<br>
+[How to make a great mixed-reality guide](great-guide.md) 
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

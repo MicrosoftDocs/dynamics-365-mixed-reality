@@ -33,7 +33,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 3. On the **Set up the basics** page, enter the user's first name, last name, display name, and user name.
 
-    ![Set up the basics page](media/set-up-basics.PNG "Set up the basics page")
+    ![Screenshot of the Set up the basics page](media/set-up-basics.PNG "Screenshot of the Set up the basics page")
 
 4. Under **Password settings**, follow these steps:
 

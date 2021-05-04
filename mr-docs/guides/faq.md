@@ -2,11 +2,11 @@
 author: Mamaylya
 description: FAQ about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 12/01/2020
+ms.date: 05/04/2021
 ms.service: crm-online
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
@@ -58,6 +58,10 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 ## Is there an out-of-the-box integration with Dynamics 365 Field Service?
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
+
+## How do I stream my HoloLens view to a PC using Miracast?
+
+The Connect app for wireless projection using Miracast is no longer installed by default, but is available as an optional feature. To install the app, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app. 
 
 ## The solution installation or update fails repeatedly
 

@@ -2,16 +2,14 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 02/05/2020
+ms.date: 05/04/2021
 ms.service: crm-online
 ms.topic: article
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
-
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 The Content Migration Tool (Public Preview) for Microsoft Dynamics 365 Guides is a [Windows PowerShell](/windows-server/administration/windows-commands/powershell) script that copies content from one instance of Microsoft Dataverse to another. You can migrate all the content in an instance or just specific types of content (for example, 3D objects, images, and videos). After the migration is completed, the content exists in both instances. The content in the source instance isn't changed in any way.
 
@@ -35,7 +33,7 @@ The tool supports the following types of migration.
 
 > [!NOTE]
 > - [Website and Power Apps links](pc-app-website-powerapps-link.md) are migrated when you migrate guides. However, for Power Apps, you must manually import the apps into the new instance and update the links in the appropriate steps.
-> - The Content Migration Tool doesn't support migration of guides that are based on schema v3 or v4. If you've updated your Dynamics 365 Guides solution to the latest version, but you still have a guide that is based on schema v3 or v4, you can [do a manual upgrade](./upgrade.md#troubleshooting-you-receive-a-guide-cannot-be-opened-error-message).
+> - The Content Migration Tool doesn't support migration of guides that are based on schema v3 or v4. If you've updated your Dynamics 365 Guides solution to the latest version, but you still have a guide that is based on schema v3 or v4, you can [do a manual upgrade](./upgrade.md).
 > - For 3D objects that belong to a 3D object collection, the parent 3D object won't be migrated unless you have the **System Admin** role.
 
 ## Prerequisites
@@ -177,6 +175,10 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 12.	When you're prompted to confirm your selection, enter **Y**, and then select **Enter**. To cancel the action, enter **N**, and then select **Enter**.
 
     ![Confirming your selection](media/migration-choice-confirmation.PNG "Confirming your selection")
+    
+## See also
+
+[Export and import your folder structure between environments](admin-export-import-folders.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
