@@ -121,7 +121,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![Import command highlighted](media/export-import-16.PNG "Import command highlighted")
 
-    After your solution has been imported, you should see it in the list.
+    After your solution has been imported, you'll see it in the **All Solutions** list.
  
     ![All Solutions view with new row highlighted](media/export-import-17.PNG "All Solutions view with new row highlighted")
 
