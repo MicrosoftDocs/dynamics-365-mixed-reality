@@ -24,6 +24,12 @@ The content associated with these folders (guides, 3D content, and media) will n
 > [!NOTE]
 > If you export and import your folders first, and then transfer the content, the relationships between the folders and the content will be reconstructed.
 
+For more info on solutions, see the following links:
+
+- [Introduction to solutions](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/introduction-solutions)
+
+- [Solution concepts](https://docs.microsoft.com/power-platform/alm/solution-concepts-alm)
+
 ## Prerequisites 
 
 - You must be a system administrator to access the Power Platform admin center.  
@@ -133,7 +139,12 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     
 ## See also
 
-[Migrate content between environments](migrate.md)
+- [Migrate content between environments](migrate.md)
+
+- [Introduction to solutions](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/introduction-solutions)
+
+- [Solution concepts](https://docs.microsoft.com/power-platform/alm/solution-concepts-alm)
+
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]     
 
