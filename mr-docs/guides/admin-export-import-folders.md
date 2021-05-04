@@ -99,7 +99,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     > [!NOTE]
     > Deactivated folders will appear in the list to be exported. They can be imported into a new environment and will remain deactivated.
       
-### Import the folders
+## Import the folders
 
 1. Go to [make.powerapps.com](https://make.preview.powerapps.com/) and **ensure you are in the environment where you want to import the folders**. You can check this in the top right corner of the screen under **Environment**.      
 
