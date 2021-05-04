@@ -30,7 +30,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 |Item|Version|
 |-------------------------|--------------------------------|
 |PC app|601.2104.29001.0|
-|HoloLens 2 app|601.2104.29001.0|
+|HoloLens app (HoloLens 2 only)|601.2104.29001.0|
 |Solution|600.1.0.1|
 
 > [!NOTE]
