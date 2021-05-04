@@ -178,7 +178,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
     
 ## See also
 
-[Export and import your folder structure](admin-export-import-folders.md)
+[Export and import your folder structure between environments](admin-export-import-folders.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
