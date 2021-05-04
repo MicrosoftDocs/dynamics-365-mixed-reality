@@ -45,7 +45,10 @@ Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state.
 
 ### Bugs fixed
 
-Content to come.
+- Fix for PC app crashing when selecting Cancel button after selecting anchor method
+-	Fix for Guide Session records not created in Restricted Operator mode 
+-	Fix for incorrect date shown in Date Modified field (All list)
+-	Fix for Power BI visual not appearing after guide run through and step deletion
 
 ## April 1, 2021
 
