@@ -48,13 +48,13 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     2. Enter a display name. This will be the name of your solution.  
 
-    3. Select **Default Publisher for {orgid}** from the drop-down menu.  
+    3. In the **Publisher** field, select **Default Publisher for {orgid}** from the drop-down menu.  
 
     4. In the **Version** field, enter **1** or **1.0.0.0**.
 
     4. Select **Save**.  
 
-       ![Default Publisher and Save command highlighted](media/export-import-5.PNG "Default Publisher and Save command highlighted")
+       ![Fields and Save command highlighted](media/export-import-5.PNG "Fields and Save command highlighted")
 
 4. Add the folders as components of your solution:  
 
