@@ -36,7 +36,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![Power Apps screen with Solutions command highlighted](media/export-import-2.PNG "Power Apps screen with Solutions command highlighted")
 
-3. An the top of the page, select **Switch to classic**.
+3. An the top of the Power Apps page, select **Switch to classic**.
 
     ![Power Apps screen with Switch to classic highlighted](media/export-import-3.PNG "Power Apps screen with Switch to classic highlighted")
 
