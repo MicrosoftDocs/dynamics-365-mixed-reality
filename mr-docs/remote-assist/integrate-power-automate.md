@@ -19,7 +19,7 @@ The asset capture feature in Remote Assist leverages Common Data Service (CDS). 
 To complete this article, you need:
 
 - **Access to the environment Dynamics 365 Remote Assist is installed in**.
-- **License and access to [Power Automate](https://docs.microsoft.com/power-automate/)**.
+- **License and access to [Power Automate](/power-automate/)**.
 
 ## Create Flows with Power Automate
 

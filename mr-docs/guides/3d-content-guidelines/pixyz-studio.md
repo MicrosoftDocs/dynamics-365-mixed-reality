@@ -11,10 +11,10 @@ ms.reviewer: v-brycho
 
 # Use Pixyz Studio to prepare 3D models for use in Dynamics 365 Guides or in mixed-reality components used in apps created with Power Apps
 
-This tutorial outlines a general process for using Pixyz Studio (2020.1 Update 2 r16) to convert Computer-Aided Design (CAD) parametric assets into polygon-based [.GLB](https://www.khronos.org/gltf/) files that perform well in Microsoft Dynamics 365 Guides or in mixed-reality components used in apps created with Microsoft Power Apps. (See [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you may need to adjust the process accordingly. 
+This tutorial outlines a general process for using Pixyz Studio (2020.1 Update 2 r16) to convert Computer-Aided Design (CAD) parametric assets into polygon-based [.GLB](https://www.khronos.org/gltf/) files that perform well in Microsoft Dynamics 365 Guides or in mixed-reality components used in apps created with Microsoft Power Apps. (See [Optimize your 3D models](../../import-tool/optimize-models.md#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you may need to adjust the process accordingly. 
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Pixyz Studio (2020.1 Update 2 r16) works with Dynamics 365 Guides or Power Apps. This document was last updated in November 2020. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of Pixyz’s products. There are [other content-creation apps](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Pixyz Studio (2020.1 Update 2 r16) works with Dynamics 365 Guides or Power Apps. This document was last updated in November 2020. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of Pixyz’s products. There are [other content-creation apps](../../import-tool/convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
 
 ## What is Pixyz Studio?
 
@@ -345,11 +345,11 @@ If the asset requires any additional editing or animation work in another stagin
 
 After preparing your 3D models, you can learn more about using the following Dynamics 365 apps to view your 3D models in mixed reality:
 
-- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+- [Dynamics 365 Guides](../index.md)
 
-- [Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/) via [Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+- [Dynamics 365 Layout](../../layout/index.md) via [Dynamics 365 Import Tool (Preview)](../../import-tool/import-tool.md)
 
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
+- [Dynamics 365 Product Visualize](../../product-visualize/index.md)
 
 ## More information
 

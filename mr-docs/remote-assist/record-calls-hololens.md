@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 
 Recording a call is great for training or record-keeping purposes. Cloud-based recordings are automatically uploaded to Microsoft Stream. When the recording finishes uploading, all call participants can find the Stream link via the Teams chat.
 
-Read about the [layout](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#cloud-based-recording-layout) of this type of call before deciding whether to record using this method. You may also consider [alternatives to cloud-based recordings](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#alternative-methods-for-recording).
+Read about the [layout](#cloud-based-recording-layout) of this type of call before deciding whether to record using this method. You may also consider [alternatives to cloud-based recordings](#alternative-methods-for-recording).
 
 ## Overview of cloud-based recording
 
@@ -27,8 +27,8 @@ The following chart explains which call participant can initiate a cloud-based c
 
 Exceptions include:
 * Unlicensed one-time call participant  
-* Call participant without the [required license](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
-* Additional exceptions described by [Microsoft Teams documentation](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+* Call participant without the [required license](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+* Additional exceptions described by [Microsoft Teams documentation](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
 
 Learn more about using [Teams desktop]( https://support.office.com/article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24) to record the call. 
 
@@ -43,7 +43,7 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
     
 2. You may see a loading notification.
     
-3. You'll see a reminder that the call recording only captures the middle vertical section of your field of view. This means that if there are procedures or assets that are critical for you to record, keep them in the middle of your field of view. For more context about this notification, learn about [Teams recording layout for calls with two participants](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#cloud-based-recording-layout). Select **OK** to start recording.
+3. You'll see a reminder that the call recording only captures the middle vertical section of your field of view. This means that if there are procedures or assets that are critical for you to record, keep them in the middle of your field of view. For more context about this notification, learn about [Teams recording layout for calls with two participants](#cloud-based-recording-layout). Select **OK** to start recording.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the notification that recording has started.](media/03.08-call-recording-started.png)
     
@@ -67,7 +67,7 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 
 At this time, the layout of the cloud-based recording depends on the number of call participants, and the layout cannot be configured. When using Dynamics 365 Remote Assist or Teams to record the call, the Dynamics 365 Remote Assist HoloLens user's view (that is, their outgoing video feed) never occupies the entire recording (unless the Dynamics 365 Remote Assist HoloLens user is the only person in a call or meeting).
 
-If it is imperative that your recording captures as much of the Dynamics 365 Remote Assist HoloLens user's view as possible and as little of the Teams user's outgoing video feed or avatars, consider using [one of the alternative recording methods](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#alternatives-to-cloud-based-recording).
+If it is imperative that your recording captures as much of the Dynamics 365 Remote Assist HoloLens user's view as possible and as little of the Teams user's outgoing video feed or avatars, consider using [one of the alternative recording methods](#alternatives-to-cloud-based-recording).
 
 Below are several examples of what the recording layout looks like when you use Teams or Dynamics 365 Remote Assist to record.
 
@@ -152,7 +152,7 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
 
       3. Copy your images or videos from this folder.
 
-    [Learn more about taking photos and videos, and getting them off the device](https://docs.microsoft.com/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
+    [Learn more about taking photos and videos, and getting them off the device](/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
 
 ### Ask a Teams desktop user to use the Windows Game Bar to capture a screen recording of a Dynamics 365 Remote Assist call from their perspective
 

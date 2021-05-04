@@ -28,7 +28,7 @@ create a free account. Or you can [sign up for a free Azure AD account at this w
 ### See also
 
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
-[Buy and deploy Dynamics 365 Layout and Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/layout/buy-and-deploy-layout)
+[Buy and deploy Dynamics 365 Layout and Dynamics 365 Import Tool (Preview)](../layout/buy-and-deploy-layout.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

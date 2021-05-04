@@ -68,13 +68,13 @@ see the [Dynamics 365 Layout user guide](../layout/user-guide.md). Users will ne
 
 1.  Go to [Microsoft Store for Business](https://businessstore.microsoft.com/store).
 
-2.  [Acquire the app](https://docs.microsoft.com/microsoft-store/acquire-apps-microsoft-store-for-business).
+2.  [Acquire the app](/microsoft-store/acquire-apps-microsoft-store-for-business).
 
 3.  Choose one of the following distribution methods:
 
-    -   [Private store](https://docs.microsoft.com/microsoft-store/distribute-apps-from-your-private-store)
-    -   [Email link](https://docs.microsoft.com/microsoft-store/assign-apps-to-employees)
-    -   [Mobile device management](https://docs.microsoft.com/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
+    -   [Private store](/microsoft-store/distribute-apps-from-your-private-store)
+    -   [Email link](/microsoft-store/assign-apps-to-employees)
+    -   [Mobile device management](/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
 [Overview of Dynamics 365 Layout](../layout/index.md)<br/>

@@ -38,7 +38,7 @@ You can [place and size a trigger](hololens-app-orientation.md#place-your-hologr
 
    - Avoid placing triggers in drawers or under counters. If you can't see your hand, HoloLens 2 can't see it either. 
 
-   - Avoid placing triggers on a flat surface, such as a table top. It's best to allow at least 5 cm between any flat surface and the trigger. [Learn more](https://docs.microsoft.com/hololens/hololens-troubleshooting#hololens-doesnt-respond-to-hand-input).
+   - Avoid placing triggers on a flat surface, such as a table top. It's best to allow at least 5 cm between any flat surface and the trigger. [Learn more](/hololens/hololens-troubleshooting#hololens-doesnt-respond-to-hand-input).
 
 - **Size.** It’s important to make the trigger cube the right size. If you make the trigger too big, the operator might activate the trigger unexpectedly at the wrong time. If you make the trigger too small, the operator might miss it completely. The trigger needs to be big enough to place hands inside. 
 

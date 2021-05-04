@@ -85,7 +85,7 @@ After launching Teams, select the **Calls** tab on your left to see suggested co
 You can search, call, and receive a call from a Dynamics 365 Remote Assist user in another tenant if your tenant is federated with that tenant. When searching for this Dynamics 365 Remote Assist user, you must enter their full email address.
 
 >[!Note]
-> If you're not able to find the contact you're looking for, it might be because Teams federation ([Teams external access](https://docs.microsoft.com/microsoftteams/manage-external-access)) has not been enabled. Contact your administrator for help.  
+> If you're not able to find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access)) has not been enabled. Contact your administrator for help.  
 
 ### Make a group call 
 
@@ -136,7 +136,7 @@ Teams tries to anticipate what you’ll want to see in a meeting, and you can al
 
 ![Screenshot showing five people in a Microsoft Teams call.](media/5call.png)
 
-If you want the recording to capture the exact layout of the call you configure, [use the Windows Game Bar](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#desktop-screen-recording-using-windows-game-bar) to capture a screen recording of your computer. 
+If you want the recording to capture the exact layout of the call you configure, [use the Windows Game Bar](#desktop-screen-recording-using-windows-game-bar) to capture a screen recording of your computer. 
 
 ## Use call controls
 
@@ -356,7 +356,7 @@ If it is imperative that your recording only captures as much of the Dynamics 36
 
 ### Record the HoloLens user's view using the HoloLens OS
 
-[Learn about how the HoloLens user can use the HoloLens OS to record what they see](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#use-the-hololens-os-to-record-only-what-you-see-in-the-hololens-what-you-hear-around-you-and-what-you-hear-through-the-hololens-speakers). 
+[Learn about how the HoloLens user can use the HoloLens OS to record what they see](./record-calls-hololens.md#use-the-hololens-os-to-record-only-what-you-see-in-the-hololens-what-you-hear-around-you-and-what-you-hear-through-the-hololens-speakers). 
 
 ## Send a text message 
 

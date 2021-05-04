@@ -21,13 +21,13 @@ In Remote Assist HoloLens, go to the **Settings tab**, and then find the version
 
 ## How can I use the newest version of Dynamics 365 Remote Assist?
 
-There are several ways to [update your app](https://docs.microsoft.com/hololens/holographic-store-apps#update-apps). [Learn about the newest version of Dynamics 365 Remote Assist.](version-history-remote-assist-hololens.md)
+There are several ways to [update your app](/hololens/holographic-store-apps#update-apps). [Learn about the newest version of Dynamics 365 Remote Assist.](version-history-remote-assist-hololens.md)
 
 ## What languages is Dynamics 365 Remote Assist HoloLens available in?
 
-Dynamics 365 Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](https://docs.microsoft.com/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](https://docs.microsoft.com/hololens/hololens1-install-localized).
+Dynamics 365 Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](/hololens/hololens1-install-localized).
 
-Dynamics 365 Remote Assist on HoloLens 2 is available in the [following languages](https://docs.microsoft.com/hololens/hololens2-language-support).
+Dynamics 365 Remote Assist on HoloLens 2 is available in the [following languages](/hololens/hololens2-language-support).
 
 ## How do I stream my HoloLens view to a PC using Miracast?
 
@@ -115,7 +115,7 @@ To improve hologram stability, complete eye calibration.
 
 ## Multiple people in my organization use Dynamics 365 Remote Assist on the same HoloLens. How do I clean my HoloLens?
 
-Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-maintenance). 
+Learn how to clean [HoloLens](/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](/hololens/hololens2-maintenance). 
 
 ## Can I save call artifacts to a Field Service work order?
 

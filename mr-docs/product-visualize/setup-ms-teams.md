@@ -96,7 +96,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
    
 11. From the list of Dynamics 365 entities, select a mixed-reality session, and then select **Save**.
 
-For more information about setting up Teams, see [Install and set up Microsoft Teams integration](https://docs.microsoft.com/dynamics365/teams-integration/teams-install-app).
+For more information about setting up Teams, see [Install and set up Microsoft Teams integration](/dynamics365/teams-integration/teams-install-app).
 
 ## Post notes from Dynamics 365 Product Visualize
 

@@ -170,7 +170,7 @@ The next step is to build the mesh.
     ![Build Mesh settings](media/agisoft-17.PNG "Build Mesh settings")
 
     > [!NOTE]
-    > These settings work for general cases. Experiment with other options to find the best combination for your needs. You might want to change the **Face count** setting to match the [performance requirements for your targeted platform](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+    > These settings work for general cases. Experiment with other options to find the best combination for your needs. You might want to change the **Face count** setting to match the [performance requirements for your targeted platform](./optimize-models.md#performance-targets).
 
 3. When you've finished, select **OK** to convert the point cloud into a 3D model.
 
@@ -226,9 +226,9 @@ The model is now completed and ready to be used in Dynamics 365 mixed-reality ap
 
 After you've finished preparing your 3D model, you can use it in the following applications:
 
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
+- [Dynamics 365 Product Visualize](/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
 
-- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+- [Dynamics 365 Guides](../guides/index.md)
 
 ## More information
 

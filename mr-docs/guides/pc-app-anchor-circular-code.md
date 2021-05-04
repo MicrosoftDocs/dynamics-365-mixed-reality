@@ -117,7 +117,7 @@ make sure that the anchor is flat. An anchor that is curved or distorted can aff
 
     - Take a photo or video to document the anchor placement, and add it to the guide instructions to help increase operator confidence. For 
     information about how to capture a photo or video from [!include[pn-hololens](../includes/pn-hololens.md)], see 
-    [Mixed reality capture](https://docs.microsoft.com/windows/mixed-reality/mixed-reality-capture).
+    [Mixed reality capture](/windows/mixed-reality/mixed-reality-capture).
 
 - **Scanning angle.** Make sure you're facing the anchor straight on at the correct distance when gazing at it. 
 

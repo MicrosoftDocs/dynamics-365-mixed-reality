@@ -54,7 +54,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 7. On the last page, review the settings, select **Finish adding**, and then select **Close** to close the wizard.
 
     > [!TIP]
-    > You can also [add several users at the same time](https://docs.microsoft.com/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88).
+    > You can also [add several users at the same time](/office365/enterprise/add-several-users-at-the-same-time).
 
 ## Create a security group and add members (users) to it
 
@@ -132,11 +132,11 @@ Note the following points about security groups:
 - Nested security groups aren't supported.
 
 > [!NOTE]
-> All licensed users, regardless of whether they are members of security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign security roles in the web application. Users can't access instances until they are assigned at least one security role for that instance. For more information, see [Grant users access](https://docs.microsoft.com/power-platform/admin/grant-users-access).
+> All licensed users, regardless of whether they are members of security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign security roles in the web application. Users can't access instances until they are assigned at least one security role for that instance. For more information, see [Grant users access](/power-platform/admin/grant-users-access).
 
 ## See also
 
-[Add several users at the same time](https://docs.microsoft.com/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88)
+[Add several users at the same time](/office365/enterprise/add-several-users-at-the-same-time)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

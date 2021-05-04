@@ -48,7 +48,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
     
     > [!TIP]
     > Use drill up/drill down. By default, this chart shows the session counts per day. However, you can use Power BI’s drill-up functionality to summarize session counts 
-    at the month or year level. [Learn more about how to use Drill mode in a Power BI visual](https://docs.microsoft.com/power-bi/consumer/end-user-drill).   
+    at the month or year level. [Learn more about how to use Drill mode in a Power BI visual](/power-bi/consumer/end-user-drill).   
 
 4.	Which guides have the most sessions, longest or shortest session times, or were operated most recently? 
 
@@ -101,8 +101,8 @@ Use the Process Time-Tracking report to analyze step-level run-time data for a s
     
     > [!TIP]
     > - To sort by multiple columns, hold the Control key down while you select to add another column to the sort order. This is useful if you want to sort by task and step 
-    number. [Learn more about how to change the sort order in a Power BI report](https://docs.microsoft.com/power-bi/consumer/end-user-change-sort).   
-    > - To use multiple rows as filters, hold down the Shift key while you select each row. [Learn more about how to multi-select data elements in Power BI Desktop](https://docs.microsoft.com/power-bi/create-reports/desktop-multi-select).
+    number. [Learn more about how to change the sort order in a Power BI report](/power-bi/consumer/end-user-change-sort).   
+    > - To use multiple rows as filters, hold down the Shift key while you select each row. [Learn more about how to multi-select data elements in Power BI Desktop](/power-bi/create-reports/desktop-multi-select).
     
 4. How many minutes do sets of steps take on average?
 
@@ -124,8 +124,8 @@ Use the Process Time-Tracking report to analyze step-level run-time data for a s
     ![Dot plot showing how long each step takes](media/process-time-tracking-report-session-time.PNG "Dot plot showing how long each step takes")   
     
     > [!TIP]
-    > - Use drill up/drill down. By default, this chart shows the time per step. However, you can use Power BI’s drill-up functionality to summarize time at the task level. [Learn more about how to use Drill mode in a Power BI visual](https://docs.microsoft.com/power-bi/consumer/end-user-drill).
-    > - Add a constant line. To easily compare step times to a standard target time, you can add a constant line to your step time dot plot. [Learn more about how to use the Analytics pane in Power BI](https://docs.microsoft.com/power-bi/transform-model/desktop-analytics-pane).      
+    > - Use drill up/drill down. By default, this chart shows the time per step. However, you can use Power BI’s drill-up functionality to summarize time at the task level. [Learn more about how to use Drill mode in a Power BI visual](/power-bi/consumer/end-user-drill).
+    > - Add a constant line. To easily compare step times to a standard target time, you can add a constant line to your step time dot plot. [Learn more about how to use the Analytics pane in Power BI](/power-bi/transform-model/desktop-analytics-pane).      
    
 7.	Filters. There are situations in which you might want to filter the report to show just a subset of sessions. For example: 
    

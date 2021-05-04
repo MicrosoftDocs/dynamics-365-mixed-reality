@@ -42,7 +42,7 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
  If you receive an incoming call on a device with both Dynamics 365 Remote Assist and Teams mobile installed, the call will be received on Teams mobile, unless you turn off incoming call notifications from the Teams mobile app.
 
 > [!NOTE] 
-> When a Dynamics 365 Remote Assist mobile calls a remote collaborator and the remote collaborator answers on Teams mobile, the remote collaborator will have the same capabilities as they would if they answered on Dynamics 365 Remote Assist mobile, except that the remote collaborator cannot share their space. Learn more [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/making-calls-on-remote-assist-mobile).
+> When a Dynamics 365 Remote Assist mobile calls a remote collaborator and the remote collaborator answers on Teams mobile, the remote collaborator will have the same capabilities as they would if they answered on Dynamics 365 Remote Assist mobile, except that the remote collaborator cannot share their space. Learn more [here](./making-calls-on-remote-assist-mobile.md).
 
 ## What is the size of the Dynamics 365 Remote Assist mobile app?
 
@@ -50,11 +50,11 @@ Depending upon the device and platform (iOS or Android), the download size of th
 
 ## Does Dynamics 365 Remote Assist mobile support external access (federation)? 
 
-No. External access (federation) is not supported for calls with Remote Assist mobile users at this time. Learn more about federation [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
+No. External access (federation) is not supported for calls with Remote Assist mobile users at this time. Learn more about federation [here](../multi-tenant-deployment.md).
 
 ## Can a Dynamics 365 Remote Assist mobile user join a call with a Teams user who is a guest in the Remote Assist user's tenant? 
 
-Yes. Learn more about guest access [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
+Yes. Learn more about guest access [here](../multi-tenant-deployment.md).
 
 ## Does Dynamics 365 Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera as well as the technician's face from the front-facing camera?
 
@@ -94,7 +94,7 @@ In the Dynamics 365 Remote Assist mobile app, you can provide feedback by:
 
 ## See also
 
-- [Overview of Dynamics 365 Remote Assist mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/remote-assist-mobile-overview)
+- [Overview of Dynamics 365 Remote Assist mobile](./remote-assist-mobile-overview.md)
 - [YouTube Video of Dynamics 365 Remote Assist mobile's features](https://www.youtube.com/watch?v=DQJWsCDNpb4)
 - [Requirements](../requirements.md)
 

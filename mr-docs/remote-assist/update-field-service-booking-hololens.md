@@ -59,7 +59,7 @@ You may update your booking status.
 ## Modify the default booking view
 
 To modify the default view of information in the **Booking** pane, [edit the view as
-you would any Dynamics 365 view](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-and-edit-views).
+you would any Dynamics 365 view](/dynamics365/customer-engagement/customize/create-and-edit-views).
 
 
 

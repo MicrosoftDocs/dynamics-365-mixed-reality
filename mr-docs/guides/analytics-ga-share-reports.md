@@ -17,15 +17,15 @@ a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the 
 interface accessible at https://powerbi.microsoft.com.
 
 Once you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, there are several mechanisms for sharing reports with others in your organization. 
-We recommend reading [Ways to collaborate and share in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. 
+We recommend reading [Ways to collaborate and share in Power BI](/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. 
 A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This 
 involves the following well-documented steps:
 
-1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/power-bi/collaborate-share/service-create-the-new-workspaces#:~:text=%20Create%20the%20new%20workspaces%20in%20Power%20BI,configure%20an%20Office%20365%20Group%20whose...%20See%20More.). 
+1.	[Create a workspace in the Power BI Service](/power-bi/collaborate-share/service-create-the-new-workspaces#:~:text=%20Create%20the%20new%20workspaces%20in%20Power%20BI,configure%20an%20Office%20365%20Group%20whose...%20See%20More.). 
 
-2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/power-bi/desktop-upload-desktop-files). 
+2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](/power-bi/desktop-upload-desktop-files). 
 
-3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-distribute-apps).  
+3.	[Publish the contents of your workspace as an app in the Power BI Service](/power-bi/service-create-distribute-apps).  
 
 ## See also
 
