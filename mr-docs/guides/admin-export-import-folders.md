@@ -97,7 +97,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     ![Zip file highlighted in lower-left corner of screen](media/export-import-12.PNG "Zip file highlighted in lower-left corner of screen")
       
     > [!NOTE]
-    > Deactivated folders will appear in the list to be exported. They can be imported into a new environment and will remain inactive there as well.
+    > Deactivated folders will appear in the list to be exported. They can be imported into a new environment and will remain deactivated there as well.
       
 ### Import the folders
 
