@@ -56,7 +56,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
        ![Fields and Save command highlighted](media/export-import-5.PNG "Fields and Save command highlighted")
 
-4. Add the folders as components of your solution:  
+4. To add the folders as components of your solution:  
 
     1. Select **Add Existing** > **Folder**.  
 
