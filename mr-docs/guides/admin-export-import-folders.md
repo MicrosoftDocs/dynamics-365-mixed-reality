@@ -111,7 +111,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![All Solutions view with Import command and Choose File command highlighted](media/export-import-14.PNG "All Solutions view with Import command and Choose File command highlighted")
 
-4. Find the .zip file you just downloaded when exporting the folders, select it, and then select **Open**.  
+4. Find the .zip file you downloaded when exporting the folders, select it, and then select **Open**.  
 
 5. Select **Next**.  
 
