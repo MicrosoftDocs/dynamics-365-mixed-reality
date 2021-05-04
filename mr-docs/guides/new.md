@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
-ms.date: 04/19/2021
+ms.date: 05/04/2021
 ms.service: crm-online
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # What's new in Dynamics 365 Guides
 
 > [!IMPORTANT]
-> The Dynamics 365 Guides HoloLens and PC apps released on April 27th will require a minimum April 1st version of the Microsoft Dataverse solution (version 600 or newer). 
+> The Dynamics 365 Guides HoloLens and PC apps released on May 4th will require a minimum April 1st version of the Microsoft Dataverse solution (version 600 or newer). 
 >
 > If you choose not to update the solution and your PC and HoloLens apps, there's no impact.  
 >
@@ -22,6 +22,33 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
+
+## May 4, 2021
+
+### Version info
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|601.2104.29001.0|
+|HoloLens app (HoloLens 2 only)|601.2104.29001.0|
+|Solution|600.1.0.1|
+
+> [!NOTE]
+> Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state. The last update for HoloLens (1st gen) was April 1 (version 600.2103.19001.0).
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-create-folders" target="_blank">Organize guides into folders in Dynamics 365 Guides (for admins)</a>|
+| Measure lengths and angles with new 3D toolkit shapes| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D model from the 3D toolkit</a>|
+
+### Bugs fixed
+
+- Fix for PC app crashing when selecting **Cancel** button after selecting anchor method
+-	Fix for Guide Session records not created in Restricted Operator mode 
+-	Fix for incorrect date shown in **Date Modified** field (**All** list)
+-	Fix for Power BI visual not appearing after guide run through and step deletion
 
 ## April 1, 2021
 

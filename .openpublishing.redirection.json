@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/guides/create-steps-assign-media.md",
+      "redirect_url": "pc-app-step-editor-overview",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/windows-device-portal.md",
       "redirect_url": "index",
       "redirect_document_id": "false"

@@ -1,15 +1,15 @@
 ---
 author: Mamaylya
-description: Learn about Microsoft Dynamics 365 Guides tables (entities) that you can use to extend Dynamics 365 if you're a developer.
+description: Learn about Microsoft Dynamics 365 Guides tables (entities) that you can use to extend Dynamics 365.
 ms.author: mamaylya
-ms.date: 04/01/2021
+ms.date: 05/04/2021
 ms.service: crm-online
 ms.topic: article
 title: Dataverse table (entity) reference for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Table (entity) reference for Dynamics 365 Guides (for developers)
+# Microsoft Dataverse table (entity) reference for Dynamics 365 Guides
 
 When a guide is created with the Microsoft Dynamics 365 Guides PC app, content and information in that guide are stored by using the 
 Dynamics 365 Guides [tables](/powerapps/maker/common-data-service/entity-overview) from [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro) that are listed later in this topic.
@@ -30,6 +30,7 @@ Dynamics 365 Guides [tables](/powerapps/maker/common-data-service/entity-overvie
 | msmrw\_assetcollection | Stores a group of 3D objects (asset collection). |
 | msmrw\_assetcollection\_localized | Stores localized information for an asset collection. |
 | msmrw\_audioasset | Stores an audio file and information associated with that audio file. |
+| msdyn\_mrfolder | A parent container for a group of guides.|
 | msmrw\_guide | Stores information about the content of a guide, including its anchor information. |
 | msmrw\_guidecompletionstepobject | Stores information about the 3D objects that have been added to the completion step of a guide. |
 | msmrw\_guidecompletionstepobjectplacement | Specifies which 3D objects have been placed in the world in the completion step of a guide. Other information about the 3D objects is also stored. |
