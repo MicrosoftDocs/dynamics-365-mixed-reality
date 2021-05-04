@@ -11,8 +11,6 @@ ms.reviewer: v-bholmes
 
 # Organize guides into folders in Dynamics 365 Guides (for admins)
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 As an admin, you can organize guides into folders for easier permissions management. A folder can contain guides and subfolders, and each folder can be assigned an owner that is inherited by guides or subfolders in that folder. When you delete a folder, all items in that folder are also deleted. Folders are useful for managing groups of guides with the same permissions, such as guides for a specific team or product. Permissions assigned to folders do not give permissions to guides within those folders, however. 
 
 > [!IMPORTANT]
@@ -23,7 +21,7 @@ As an admin, you can organize guides into folders for easier permissions managem
 1. Sign in to the instance by using your admin credentials.
 
     > [!TIP]
-    > To find the URL for the instance, select the **Analyze** tab in the PC app. The URL is shown in the **Instance URL** field at the bottom of the page. Copy this URL, and paste it into the Address bar of your web browser.
+    > To find the URL for the instance, select the **Analyze** tab in the PC app. The URL is shown in the **Instance URL** field at the bottom of the page. Copy this URL, and paste it into the address bar of your web browser.
     >
     > ![Instance URL field](media/instance-url.PNG "Instance URL field")
 

@@ -11,12 +11,24 @@ ms.reviewer: v-bholmes
 
 # Export and import Dynamics 365 Guides folders between environments
 
-You can export folders you have created in Microsoft Dynamics 365 Guides and import them into another environment to recreate your folder structure. The guides, 3D 
-content, and media associated with these folders will not be included in this process. However, you can use the [Content Migration tool](migrate.md) to migrate this content after 
-you’ve imported your folders.  
+You can export folders you have created in Microsoft Dynamics 365 Guides and import them into another environment to recreate your folder structure. You do this by:
+
+1. Creating a new solution in your environment
+
+2. Adding folders as components of the new solution
+
+3. Downloading a zip file that you can import into another environment.
+
+The content associated with these folders (guides, 3D content, and media) will not be included in this process. However, you can use the [Content Migration tool](migrate.md) to migrate this content after you’ve imported your folders.  
 
 > [!NOTE]
 > If you export and import your folders first, and then transfer the content, the relationships between the folders and the content will be reconstructed.
+
+For more info on solutions, see the following links:
+
+- [Introduction to solutions](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/introduction-solutions)
+
+- [Solution concepts](https://docs.microsoft.com/power-platform/alm/solution-concepts-alm)
 
 ## Prerequisites 
 
@@ -127,7 +139,12 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     
 ## See also
 
-[Migrate content between environments](migrate.md)
+- [Migrate content between environments](migrate.md)
+
+- [Introduction to solutions](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/introduction-solutions)
+
+- [Solution concepts](https://docs.microsoft.com/power-platform/alm/solution-concepts-alm)
+
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]     
 
