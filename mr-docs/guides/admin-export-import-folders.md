@@ -90,7 +90,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
        ![Package Type dialog with Export button highlighted](media/export-import-11.PNG "Package Type dialog with Export button highlighted")
        
        > [!NOTE]
-       > Select a managed solution if you want the rows to be permanently tied to the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder is cascading). This will also prevent you from re-exporting the rows. On the other hand, an unmanaged solutio can be eleted from the environment and the rows will persist. 
+       > Select a managed solution if you want the rows to be permanently tied to the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder is cascading). This will also prevent you from re-exporting the rows. On the other hand, if an unmanaged solution is deleted from the environment, the rows will persist. 
 
 7. Once the export is ready, it should automatically download as a .zip file. This might take a while. 
 
