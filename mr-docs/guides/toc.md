@@ -128,8 +128,8 @@
 ### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
 ### [Dataverse tables reference](developer-entity-reference.md)
 ## Move content between environments
-### [Use the Content Migration tool](migrate.md)
-### [Export/import folders](admin-export-import-folders.md)
+### [Export/import folder structure](admin-export-import-folders.md)
+### [Move content](migrate.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
 ## [Get Help and provide feedback](help.md)
 ## [Version history](version-history.md)
