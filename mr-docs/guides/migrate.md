@@ -32,6 +32,7 @@ The tool supports the following types of migration.
 | Only videos | Active videos only. You can migrate all existing videos at one time, or you can select specific videos to migrate. |
 
 > [!NOTE]
+> - If you have created a folder structure in your instance, [you can migrate it using the Power Platform's export/import functionality](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/admin-export-import-folders). Moving the folders first, and then the content will ensure that the folder and content hierarchy is retained. 
 > - [Website and Power Apps links](pc-app-website-powerapps-link.md) are migrated when you migrate guides. However, for Power Apps, you must manually import the apps into the new instance and update the links in the appropriate steps.
 > - The Content Migration Tool doesn't support migration of guides that are based on schema v3 or v4. If you've updated your Dynamics 365 Guides solution to the latest version, but you still have a guide that is based on schema v3 or v4, you can [do a manual upgrade](./upgrade.md).
 > - For 3D objects that belong to a 3D object collection, the parent 3D object won't be migrated unless you have the **System Admin** role.
@@ -44,7 +45,7 @@ The tool supports the following types of migration.
 
 - You must use [Windows PowerShell](/powershell/scripting/install/installing-windows-powershell?view=powershell-7#how-to-check-the-version-of-powershell) version 5.1.18362.752 or later.
 
-- Both the source instance and the destination instance must use Dynamics 365 Guides solution version 500.0.0 or later. 
+- Both the source instance and the destination instance must use Dynamics 365 Guides solution version 600.1.0.0 or later. 
 
 - You must have credentials to sign in to the source instance in the **System Admin** role (preferable) or **Operator/Author** role (required).
 
