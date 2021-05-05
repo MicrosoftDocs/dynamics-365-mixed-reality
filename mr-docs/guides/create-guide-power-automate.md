@@ -17,7 +17,7 @@ These tables must be created in order since each subsequent table refers to the 
 
 SCREEN SHOT GOES HERE
 
-## Fields required to create a Guides table
+## Fields required to create a Guide table
 
 The following fields are required to create a Guides table:
 
