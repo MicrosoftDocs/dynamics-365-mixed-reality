@@ -13,7 +13,7 @@ Any basic guide requires the following three Dataverse tables:
 - Task
 - Step
 
-These tables must be created in order since each subsequent table refers to the other tables. In Power Automate, you add a new row to create each table. You can trigger the flow manually or automatically, depending on your scenario. The following screen shot shows a manual flow that creates the three minimum required tables:
+These tables must be created in order since each subsequent table refers to the other tables. In Power Automate, you add a new row to create each table. You can trigger the flow manually or automatically, depending on your scenario. The following screen shot shows a manual flow that creates the three minimum required tables.
 
 ![Power Automate screenshot showing three Add a table rows for three required tables](media/power-automate-create-tables.PNG "Power Automate screenshot showing three Add a table rows for three required tables")
 
