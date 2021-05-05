@@ -25,8 +25,8 @@ The following fields are required to create a Guide table:
 |-------------------------------|-------------------------------------------------|
 |Table name|Select **Guides** from the list.|
 |Name|You can name the guide anything you want.|
-|Anchor Type|Select a specific anchor type from the list or select **Undecided** if you intend to choose the anchor type in the PC app|
-|Schema Version|Tracks the data schema version (currently 5), but this will need to be updated whenever Microsoft releases a new version.
+|Anchor Type|Select a specific anchor type from the list or select **Undecided** if you intend to choose the anchor type in the PC app.|
+|Schema Version|Used to track the data schema version (currently 5). You'll need to be update this field whenever Microsoft releases a new schema version.
 |Status Reason|Must be set to **Active**.|
 
 The following screen shot shows the required fields in the Power Automate UI.
