@@ -19,9 +19,9 @@ The following screen shot shows a manually triggered flow that creates the three
 
 ![Power Automate screenshot showing three Add a table rows for three required tables](media/power-automate-create-tables.PNG "Power Automate screenshot showing three Add a table rows for three required tables")
 
-## Fields required to create a Guide table
+## Fields required to create a Guides table
 
-The following fields are required to create a Guide table:
+The following fields are required to create a Guides table:
 
 |Field name|Description|
 |-------------------------------|-------------------------------------------------|
@@ -35,9 +35,9 @@ The following screen shot shows the required fields in the Power Automate UI.
 
 ![Power Automate screenshot with required fields for Guides table highlighted](media/power-automate-guide-creation-fields.PNG "Power Automate screenshot with required fields for Guides table highlighted")
 
-## Fields required to create a Task table
+## Fields required to create a Guide Tasks table
 
-The following fields are required to create a Task table:
+The following fields are required to create a Guide Tasks table:
 
 |Field name|Description|
 |-------------------------------|-------------------------------------------------|
@@ -50,9 +50,9 @@ The following screen shot shows the required fields in the Power Automate UI.
 
 ![Power Automate screenshot with required fields for Task table highlighted](media/power-automate-task-creation-fields.PNG "Power Automate screenshot with required fields for Task table highlighted")
 
-## Fields required to create a Step table
+## Fields required to create a Guide Steps table
 
-The following fields are required to create a Step table:
+The following fields are required to create a Guide Steps table:
 
 |Field name|Description|
 |-------------------------------|-------------------------------------------------|
