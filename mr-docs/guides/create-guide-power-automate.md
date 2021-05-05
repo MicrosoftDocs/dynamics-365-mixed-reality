@@ -1,13 +1,13 @@
 
 # Use Power Automate to create a guide in Dynamics 365 Guides
 
-When a guide is created in the Microsoft Dynamics 365 Guides PC app, all of the guide's content is stored in the Microsoft Dataverse. Using the out-of-the-box PC app makes it easy to get started with authoring, but you can also set up your own integration to create a guide programmatically with the Dataverse web API, or a Power Automate flow by adding your own content to the right places in the Dataverse. This method is useful for customers who have existing text instructions on other systems or documents – simply map the information to the appropriate Dataverse tables/fields to automatically generate a guide.
+When a guide is created in the Microsoft Dynamics 365 Guides PC app, all of the guide's content (instruction text, 3D models, 3D parts, and media) is stored in the Microsoft Dataverse. Using the out-of-the-box PC app makes it easy to get started with authoring, but you can also create a guide programmatically with the Dataverse web API or a Power Automate flow by adding your own content to the right places in the Dataverse. This method is useful if you have existing text instructions in other systems or documents. You can just map the information to the appropriate Dataverse tables/fields to automatically generate a guide.
 
 At minimum, the rows and fields listed in this article are required to create a guide that opens successfully in the PC app.
 
 ## Three tables required for any guide
 
-Any basic guide requires the following three Dataverse tables, at a minimum:
+Any basic guide requires the following three Dataverse tables:
 
 - Guide
 - Task
@@ -17,9 +17,9 @@ These tables must be created in order since each subsequent table refers to the 
 
 SCREEN SHOT GOES HERE
 
-## Fields required for Guides table
+## Fields required to create a Guides table
 
-The following fields are required to create any table:
+The following fields are required to create a Guides table:
 
 |Field name|Description|
 |-------------------------------|-------------------------------------------------|
@@ -33,7 +33,7 @@ The following screen shot shows the required fields in the Power Automate UI.
 
 SCREEN SHOT GOES HERE
 
-## Fields required to create the Task table
+## Fields required to create a Task table
 
 The following fields are required to create a Task table:
 
@@ -48,7 +48,7 @@ The following screen shot shows the required fields in the Power Automate UI.
 
 SCREEN SHOT GOES HERE
 
-## Fields required to create the Step table
+## Fields required to create a Step table
 
 The following fields are required to create a Step table:
 
