@@ -40,7 +40,7 @@ The following fields are required to create a Task table:
 |Field name|Description|
 |-------------------------------|-------------------------------------------------|
 |Table name|Select **Guide Tasks** from the list.|
-|Guide (Guides)|Select **Guide** from the dynamic list.|
+|Guide (Guides)|Select **Guide** from the dynamic lookup.|
 |Name|Enter any task name.|
 |Status Reason|Must be set to **Active**.|
 
