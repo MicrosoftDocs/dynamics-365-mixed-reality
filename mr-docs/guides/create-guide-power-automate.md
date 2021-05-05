@@ -1,5 +1,5 @@
 
-# Use Microsoft Power Automate to create a guide in Dynamics 365 Guides
+# Use Power Automate to create a guide in Dynamics 365 Guides
 
 When a guide is created in the Microsoft Dynamics 365 Guides PC app, all of the guide's content is stored in the Microsoft Dataverse. Using the out-of-the-box PC app makes it easy to get started with authoring, but you can also set up your own integration to create a guide programmatically with the Dataverse web API, or a Power Automate flow by adding your own content to the right places in the Dataverse. This method is useful for customers who have existing text instructions on other systems or documents – simply map the information to the appropriate Dataverse tables/fields to automatically generate a guide.
 
