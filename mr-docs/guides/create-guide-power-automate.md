@@ -54,7 +54,7 @@ The following fields are required to create a Step table:
 
 |Field name|Description|
 |-------------------------------|-------------------------------------------------|
-|Table name|Select the table to create|
+|Table name|Select **Guide Steps** from the list.|
 |Guide (Guides)|Select **Guide** from the dynamic lookup|
 |Task (Guide Tasks)|Select **Guide Task** from the dynamic lookup|
 
