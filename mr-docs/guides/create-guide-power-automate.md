@@ -19,7 +19,7 @@ These tables must be created in order since each subsequent table refers to the 
 
 ## Fields required to create a Guide table
 
-The following fields are required to create a Guides table:
+The following fields are required to create a Guide table:
 
 |Field name|Description|
 |-------------------------------|-------------------------------------------------|
