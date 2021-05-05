@@ -23,7 +23,7 @@ The following fields are required to create a Guide table:
 
 |Field name|Description|
 |-------------------------------|-------------------------------------------------|
-|Table name|Select the table to create|
+|Table name|Select **Guides** from the list.|
 |Name|You can name the guide anything you want|
 |Anchor Type|Set to a specific anchor type or select **Undecided** if you intend to choose the anchor type in the PC app|
 |Schema Version|Tracks the data schema version (currently 5), but this will need to be updated whenever Microsoft releases a new version.
