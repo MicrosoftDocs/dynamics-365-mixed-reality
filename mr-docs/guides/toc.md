@@ -126,7 +126,7 @@
 ### [Example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
 ### [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
 ### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
-### [Use Power Automate to create a guide](create-guide-power-automate.md)
+### [Tables and fields required to create a guide in Power Automate](create-guide-power-automate.md)
 ### [Dataverse tables reference](developer-entity-reference.md)
 ## Move content between environments
 ### [Export/import folder structure](admin-export-import-folders.md)
