@@ -42,7 +42,7 @@ The following fields are required to create a Task table:
 |Table name|Select **Guide Tasks** from the list.|
 |Guide (Guides)|Select **Guide** from the dynamic list.|
 |Name|Enter any task name.|
-|Status Reason|Must be set to **Active**|
+|Status Reason|Must be set to **Active**.|
 
 The following screen shot shows the required fields in the Power Automate UI.
 
