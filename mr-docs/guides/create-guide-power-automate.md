@@ -9,9 +9,9 @@ At minimum, the tables and fields listed in this article are required to create 
 
 Any basic guide requires the following three Dataverse tables:
 
-- Guide
-- Task
-- Step
+- Guides
+- Guide Tasks
+- Guide Steps
 
 These tables must be created in order since each subsequent table refers to the other tables. In Power Automate, you add a new row to create each table. You can trigger the flow manually or automatically, depending on your scenario. 
 
