@@ -15,7 +15,7 @@ Any basic guide requires the following three Dataverse tables:
 
 These tables must be created in order since each subsequent table refers to the other tables. In Power Automate, you create add a new row to create each table. You can trigger the flow manually or automatically, depending on your scenario. The following screen shot shows a manual flow that creates the three minimum tables:
 
-![XXX](media/power-automate-create-tables.PNG "XXX")
+![Power Automate screenshot showing three Add a table rows for three required tables](media/power-automate-create-tables.PNG "Power Automate screenshot showing three Add a table rows for three required tables")
 
 ## Fields required to create a Guide table
 
@@ -31,7 +31,7 @@ The following fields are required to create a Guides table:
 
 The following screen shot shows the required fields in the Power Automate UI.
 
-![XXX](media/power-automate-guide-creation-fields.PNG "XXX")
+![Power Automate screenshot with required fields for Guides table highlighted](media/power-automate-guide-creation-fields.PNG "Power Automate screenshot with required fields for Guides table highlighted")
 
 ## Fields required to create a Task table
 
@@ -46,7 +46,7 @@ The following fields are required to create a Task table:
 
 The following screen shot shows the required fields in the Power Automate UI.
 
-![XXX](media/power-automate-task-creation-fields.PNG "XXX")
+![Power Automate screenshot with required fields for Task table highlighted](media/power-automate-task-creation-fields.PNG "Power Automate screenshot with required fields for Task table highlighted")
 
 ## Fields required to create a Step table
 
@@ -58,7 +58,7 @@ The following fields are required to create a Step table:
 |Guide (Guides)|Select **Guide** from the dynamic lookup|
 |Task (Guide Tasks)|Select **Guide Task** from the dynamics lookup|
 
-![XXX](media/power-automate-step-creation-fields.PNG "XXX")
+![Power Automate screenshot with required fields for Step table highlighted](media/power-automate-step-creation-fields.PNG "Power Automate screenshot with required fields for Step table highlighted")
 
 ## Test your flow
 
