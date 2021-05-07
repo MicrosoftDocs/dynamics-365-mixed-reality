@@ -11,8 +11,6 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Guides US Government
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 In response to the unique and evolving requirements of the United States public sector, Microsoft has created Dynamics 365 Guides US Government, a plan for US government 
 organizations. We recommend that you read this supplementary section alongside the [Guides documentation](./index.md).
 
