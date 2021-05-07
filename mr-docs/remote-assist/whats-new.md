@@ -15,6 +15,18 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/).
 
+## May 7, 2021
+
+### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|303.2105.4005|
+
+### Bug fixes
+
+-	Fix for Calls dashboard to improve logging reliability
+
 ## April 29, 2021
 
 ### Version info
