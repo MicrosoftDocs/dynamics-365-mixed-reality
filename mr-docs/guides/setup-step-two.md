@@ -11,8 +11,6 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Guides setup, step 2: Install the solution
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 > [!NOTE]
 > Before you complete this step of the setup process, be sure to see step 1, [Buy a subscription or sign up for a free trial](setup-step-one.md).
 
