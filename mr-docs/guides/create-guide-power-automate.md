@@ -30,10 +30,10 @@ The following screen shot shows a manually triggered flow that creates the three
 ![Power Automate screenshot showing three Add a table rows for three required tables](media/power-automate-create-tables.PNG "Power Automate screenshot showing three Add a table rows for three required tables")
 
 > [!IMPORTANT]
-> The creation of some tables requires references to other tables for a gide to open properly on the PC app. For example, the 
+> The creation of some tables requires references to other tables for a guide to open properly in the PC app. For example, the 
 Guide Tasks table requires that you reference the Guides table. 
 >
-To add a table reference, you must enter the table name before adding the unique identifier as shown in the screenshot above. **Note that you must add an "s" at the end of the table name**. To determine the correct table name, see [Table (entity) reference for Dynamics 365 Guides](developer-entity-reference.md). 
+> To add a table reference, you must enter the table name before adding the unique identifier as shown in the screenshot above. **Note that you must add an "s" at the end of the table name**. To determine the correct table name, see [Table (entity) reference for Dynamics 365 Guides](developer-entity-reference.md). 
 
 ## Fields required to create the Guides table
 
