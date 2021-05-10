@@ -38,10 +38,10 @@ The following screen shot shows a manually triggered flow that creates the three
 
 The following fields are required to create the Guides table:
 
-|Field name|Description|
+|Field name|What to enter or select|
 |-------------------------------|-------------------------------------------------|
 |Table name|Select **Guides** from the list.|
-|Name|You can name the guide anything you want.|
+|Name|Enter any guide name.|
 |Anchor Type|Select a specific anchor type from the list or select **Undecided** if you intend to choose the anchor type in the PC app.|
 |Schema Version|Enter the data schema version (currently 5). You'll need to be update this field whenever Microsoft releases a new schema version.
 |Status Reason|Must be set to **Active**.|
@@ -54,10 +54,10 @@ The following screen shot shows the required fields in the Power Automate UI.
 
 The following fields are required to create the Guide Tasks table:
 
-|Field name|Description|
+|Field name|What to enter or select|
 |-------------------------------|-------------------------------------------------|
 |Table name|Select **Guide Tasks** from the list.|
-|Guide (Guides)|Select **Guide** from the dynamic lookup.|
+|Guide (Guides)|Enter the table name (**/msmrw_guides/**), and then select **Guide** from the dynamic lookup.|
 |Name|Enter any task name.|
 |Status Reason|Must be set to **Active**.|
 
@@ -69,11 +69,11 @@ The following screen shot shows the required fields in the Power Automate UI.
 
 The following fields are required to create the Guide Steps table:
 
-|Field name|Description|
+|Field name|What to enter or select|
 |-------------------------------|-------------------------------------------------|
 |Table name|Select **Guide Steps** from the list.|
-|Guide (Guides)|Select **Guide** from the dynamic lookup.|
-|Task (Guide Tasks)|Select **Guide Task** from the dynamic lookup.|
+|Guide (Guides)|Enter the table name (**/msmrw_guides/**), and then select **Guide** from the dynamic lookup.|
+|Task (Guide Tasks)|Enter the table name (**/msmrw_guidetasks/**), and then select **Guide Task** from the dynamic lookup.|
 
 ![Power Automate screenshot with required fields for Step table highlighted](media/power-automate-step-creation-fields.PNG "Power Automate screenshot with required fields for Step table highlighted")
 
