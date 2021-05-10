@@ -1,3 +1,13 @@
+---
+author: Mamaylya
+description: Learn about the tables and fields that are required to create a guide (in Microsoft Dynamics 365 Guides) using Microsoft Power Automate.
+ms.author: mamaylya
+ms.date: 05/10/2021
+ms.service: crm-online
+ms.topic: article
+title: Tables and fields required to create a guide in Power Automate
+ms.reviewer: v-bholmes
+---
 
 # Tables and fields required to create a guide in Power Automate
 
