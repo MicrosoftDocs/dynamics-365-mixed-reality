@@ -17,7 +17,7 @@ At minimum, the tables and fields listed in this article are required to create 
 
 ## Three tables required for any guide
 
-Any basic guide requires the following three Dataverse tables:
+Any basic guide requires the following three Microsoft Dataverse tables:
 
 - Guides
 - Guide Tasks
