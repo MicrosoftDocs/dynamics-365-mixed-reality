@@ -20,7 +20,7 @@ The following screen shot shows a manually triggered flow that creates the three
 ![Power Automate screenshot showing three Add a table rows for three required tables](media/power-automate-create-tables.PNG "Power Automate screenshot showing three Add a table rows for three required tables")
 
 > [!IMPORTANT]
-> When you add a new row for the Guide Tasks and Guide Steps tables, you must enter a table name (for example, **/msmrw_guides/**, as shown in the screen shot above). This is to tell Power Automate which table the tasks or steps belong to. The table name is required when you want to pass it as a variable. It's not required for the first row (to create the Guides table) because this row passes a text string, not a table reference. 
+> When you add a new row for the Guide Tasks and Guide Steps tables, you must enter a table name (for example, **/msmrw_guides/**, as shown in the screen shot above). This is to tell Power Automate which table the tasks or steps belong to. The table name is required when you want to pass it as a variable. It's not required for the first row (to create the Guides table) because this row passes a text string, not a table name. 
 > 
 > To determine the correct table name, see [Table (entity) reference for Dynamics 365 Guides](developer-entity-reference.md). Note that you must add an "s" at the end of the table name. 
 > 
