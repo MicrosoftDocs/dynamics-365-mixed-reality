@@ -68,4 +68,4 @@ When you run the flow/manually test it, a new guide will be created and visible 
 
 ## See also
 
-- [Table] (entity) reference for Dynamics 365 Guides](developer-entity-reference.md)
+- [Table (entity) reference for Dynamics 365 Guides](developer-entity-reference.md)
