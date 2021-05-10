@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 04/26/2021
 ms.service: crm-online
 ms.topic: article
-title: Workflow example 1--Collect response data for a non-linear guide created in Dynamics 365 Guides
+title: Workflow example 3--Collect response data for a non-linear guide created in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
