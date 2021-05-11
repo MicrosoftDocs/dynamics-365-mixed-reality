@@ -11,8 +11,6 @@ ms.reviewer: v-brycho
 
 # Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 A Microsoft Dynamics 365 admin can use [access teams](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to easily control who can see specific guides and guide content (3D models, images, or videos) in Dynamics 365 Guides. Access teams are useful when you want to grant different user permissions for specific records in [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro). For example, you might want access to some guides to be limited to a specific factory location, or you might want to limit access to guides that are in progress.
 
 > [!NOTE]
