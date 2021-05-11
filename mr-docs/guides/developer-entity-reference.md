@@ -51,7 +51,8 @@ Dynamics 365 Guides [tables](/powerapps/maker/common-data-service/entity-overvie
 
 ## See also
 
-[Entity reference for Dynamics 365](/dynamics365/customerengagement/on-premises/developer/about-entity-reference)
+- [Create a guide with Microsoft Power Automate](workflow-create-guide.md)
+- [Entity reference for Dynamics 365](/dynamics365/customerengagement/on-premises/developer/about-entity-reference)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

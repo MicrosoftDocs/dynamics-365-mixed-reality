@@ -6,7 +6,7 @@ ms.date: 05/18/2020
 ms.service: crm-online
 ms.topic: article
 title: Add additional user accounts to Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Add additional user accounts to Dynamics 365 Guides
