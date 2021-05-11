@@ -11,8 +11,6 @@ ms.reviewer: v-brycho
 
 # Assign an Author or Operator role to a user in Dynamics 365 Guides
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 If you're a Microsoft Dynamics 365 Guides admin, you can assign an **Author** or **Operator** role to users to limit what they can do in the apps. The following table describes the privileges that each role grants.
 
 | Role | Description |

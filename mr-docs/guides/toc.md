@@ -121,11 +121,12 @@
 #### SideFX Houdini
 ##### [Prepare 3D models](3d-content-guidelines/houdini.md)
 ##### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
-## Workflow integrations
+## Use Power Automate to create workflows
 ### [Workflow examples overview](workflow-examples-overview.md)
 ### [Example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
 ### [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
 ### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
+### [Tables and fields required to create a guide in Power Automate](workflow-create-guide.md)
 ### [Dataverse tables reference](developer-entity-reference.md)
 ## Move content between environments
 ### [Export/import folder structure](admin-export-import-folders.md)
