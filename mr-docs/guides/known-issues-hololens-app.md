@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
 ms.date: 04/01/2020
-ms.service: crm-online
 ms.topic: article
 title: Known Issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho

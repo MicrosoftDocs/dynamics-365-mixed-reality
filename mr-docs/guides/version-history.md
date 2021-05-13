@@ -3,7 +3,6 @@ author: Mamaylya
 description: Describes older features for Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
 ms.date: 04/19/2021
-ms.service: crm-online
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
 ms.reviewer: v-brycho

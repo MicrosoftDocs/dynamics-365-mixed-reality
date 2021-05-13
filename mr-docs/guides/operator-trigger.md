@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to use triggers as an operator in the Dynamics 365 Guides HoloLens app to move between steps
 ms.author: mamaylya
 ms.date: 10/01/2020
-ms.service: crm-online
 ms.topic: article
 title: Use a trigger in the Dynamics 365 Guides HoloLens app to move between steps
 ms.reviewer: v-brycho

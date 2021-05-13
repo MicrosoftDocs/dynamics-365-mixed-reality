@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to use Microsoft Power Automate to create a 3D object collection for Microsoft Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 04/26/2021
-ms.service: crm-online
 ms.topic: article
 title: Workflow example 2--Create a Dynamics 365 Guides 3D object collection and add objects to the collection
 ms.reviewer: v-brycho

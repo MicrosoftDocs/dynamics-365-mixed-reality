@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to change anchor types (QR code, circular, or holographic) in the Microsoft Dynamics 365 Guides PC app
 ms.author: mamaylya
 ms.date: 11/03/2020
-ms.service: crm-online
 ms.topic: article
 title: Change from one anchor type to another in the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho

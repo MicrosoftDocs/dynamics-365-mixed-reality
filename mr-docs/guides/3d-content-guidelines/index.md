@@ -3,7 +3,6 @@ author: keno-msft
 description: Overview of converting and optimizing 3D models to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 01/08/2020
-ms.service: crm-online
 ms.topic: overview
 title: Overview of preparing 3D models for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho

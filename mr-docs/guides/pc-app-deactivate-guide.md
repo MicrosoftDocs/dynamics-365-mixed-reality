@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to deactivate a guide or guide content (image, video, or 3D part) if you're a Microsoft Dynamics 365 Guides author.
 ms.author: mamaylya
 ms.date: 02/25/2021
-ms.service: crm-online
 ms.topic: article
 title: Deactivate a guide or specific guide content (image, video, or 3D part) in Dynamics 365 Guides (for authors)
 ms.reviewer: v-brycho
