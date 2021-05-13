@@ -33,7 +33,7 @@ When you deactivate an image, video, or 3D part in the PC app, the content is hi
 
 2. Select **Deactivate**.
 
-    ![Deactivate command](media/deactivate-content.PNG "Deactivate command")
+    ![Screenshot of Deactivate command](media/deactivate-content.PNG "Screenshot of Deactivate command")
 
 ## See also
 
