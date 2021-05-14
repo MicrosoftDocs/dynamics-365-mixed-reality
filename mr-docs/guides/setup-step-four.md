@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Set up Power BI reports in Dynamics 365 Guides
+title: Set up Power BI reports in Dynamics 365 Guides (last step in Setup process)
 ms.reviewer: v-brycho
 ---
 
