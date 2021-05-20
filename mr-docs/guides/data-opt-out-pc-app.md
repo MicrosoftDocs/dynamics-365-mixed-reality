@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Opt out of sending telemetry data to Microsoft in the Dynamics 365 Guides PC app
+title: Telemetry data opt out for the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
 ---
 

@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 02/25/2021
 ms.service: crm-online
 ms.topic: article
-title: Restrict access to an instance in Dynamics 365 Guides by using security groups
+title: Restrict access to an instance in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 

@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Get an overview of the setup process for Microsoft Dynamics 365 Guides. Steps include getting a subscription, creating an environment, installing the solution and apps, and setting up Power BI reports.
+description: Get an overview of the setup process for Microsoft Dynamics 365 Guides. 
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
