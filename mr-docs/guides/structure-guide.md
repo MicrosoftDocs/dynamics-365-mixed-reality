@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Use the Outline page to create the structure for a guide in the Dynamics 365 Guides PC app
+title: Use the Outline page to structure your guide in the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
 ---
 
