@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of authoring in Dynamics 365 Guides with the PC app and Hololens app
+title: Authoring overview--Dynamics 365 Guides PC and Hololens apps
 ms.reviewer: v-brycho
 ---
 
