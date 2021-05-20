@@ -5,7 +5,7 @@ ms.author: mehellmu
 ms.date: 04/06/2021
 ms.service: crm-online
 ms.topic: article
-title: Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
+title: Use access teams to limit access to specific guides in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
