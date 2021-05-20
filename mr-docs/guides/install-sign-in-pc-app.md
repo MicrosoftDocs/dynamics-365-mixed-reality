@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
-title: Install and sign in to the Dynamics 365 Guides PC app
+title: Install the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
 ---
 
