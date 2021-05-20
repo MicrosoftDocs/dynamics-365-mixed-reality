@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of authoring a guide in the Dynamics 365 Guides HoloLens app
+title: Authoring overview: Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 
