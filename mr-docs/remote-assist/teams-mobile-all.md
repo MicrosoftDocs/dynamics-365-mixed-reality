@@ -1,11 +1,11 @@
 ---
 author: sophiasysun
-description: Collaborate with a Remote Assist user via Microsoft Teams on mobile
+description: Collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams mobile app.
 ms.author: sopsun
 ms.date: 04/15/2020
 ms.service: crm-online
 ms.topic: article
-title: Collaborate with a Remote Assist user via Microsoft Teams on mobile
+title: Collaborate with a Dynamics 365 Remote Assist user via Microsoft Teams mobile
 ms.reviewer: krbjoran
 ---
 
