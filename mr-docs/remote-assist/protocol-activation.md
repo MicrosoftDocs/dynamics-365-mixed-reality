@@ -70,9 +70,9 @@ To support the ```returnto``` field, you need to register your app with a custom
 
 Then include the optional ```returnto``` field along with the registered app name you completed in the previous step. In the example below, "helicoptor-maintenance-app" is the registered URI:
 
-`
+```
 ms-voip-call:?contactids=<CONTACT_ID>&returnto=helicoptor-maintenance-app");
-`
+```
 
 #### Example of launching Dynamics 365 Remote Assist from your app with optional returnto field
 
@@ -121,14 +121,15 @@ The Dynamics 365 Remote Assist mobile application supports the two protocol acti
 -   "https://call.d365ra.com/link.html" is used if Remote Assist mobile is not confirmed to be installed on the device already.
 
 The argument schema for both methods accepts an optional ```contactSearch``` field, which is a JSON-formatted array of strings to use for finding a contact.
-
+```
     { "contactSearch":[ "supportContact@microsoft.com"] }
-
+```
 ### Example
 
 For this example, we will perform a contact search. We need to include the ```contactSearch``` parameter, which is an array of search strings.
 
 1. First we form a JSON string:
+
 ```
 	{
       "contactSearch":[
