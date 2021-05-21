@@ -1,6 +1,6 @@
 ---
 author: xonatia
-description: Learn how to buy Dynamics 365 Remote Assist for HoloLens and mobile
+description: Learn how to buy a subscription of the Dynamics 365 Remote Assist HoloLens and mobile apps.
 ms.author: xolee
 ms.date: 04/01/2020
 ms.service: crm-online
