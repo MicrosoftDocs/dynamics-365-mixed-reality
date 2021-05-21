@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 02/25/2021
 ms.service: crm-online
 ms.topic: article
-title: Activate, deactivate, or delete a guide or guide content (video, image, or 3D part) in Dynamics 365 Guides (for admins)
+title: Deactivate or delete a guide in Dynamics 365 Guides (admins)
 ms.reviewer: v-brycho
 ---
 

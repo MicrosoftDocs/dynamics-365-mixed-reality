@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: FAQ about Dynamics 365 Guides
+description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 05/04/2021
 ms.service: crm-online
