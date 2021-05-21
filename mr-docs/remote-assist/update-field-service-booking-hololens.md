@@ -6,6 +6,7 @@ ms.date: 03/15/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
+ms.author: soanigbo
 ---
 # Update a Dynamics 365 Field Service booking in Dynamics 365 Remote Assist on HoloLens
 
