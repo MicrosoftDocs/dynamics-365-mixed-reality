@@ -145,7 +145,7 @@ For this example, we will perform a contact search. We need to include the ```co
 
 When this link is selected, Remote Assist mobile will launch and search for the provided contact details and provide results to the user.
    
-3b. To use the https deeplink method, append the base64 encoded string as a value to the 'd' key.
+3b. To use the https deep link method, append the base64 encoded string as a value to the 'd' key.
    ```"https://call.d365ra.com/link.html?d=ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=";```
 
 When this link is selected and Remote Assist mobile is not installed a web browser will open, prompting the user to install Remote Assist mobile. Once installed, the user can click on another button to launch Remote Assist mobile and search for the provided contact details and provide results to the user. If Remote Assist mobile is already installed, Remote Assist mobile will launch and search for the provided contact details and provide results to the user.
