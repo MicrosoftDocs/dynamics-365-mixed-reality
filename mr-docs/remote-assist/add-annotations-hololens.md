@@ -1,7 +1,7 @@
 ---
 title: Add annotations in Dynamics 365 Remote Assist on HoloLens
 author: sophiasysun
-description: Adding and editing annotations in Dynamics 365 Remote Assist on HoloLens 
+description: Learn how to add and edit annotations in Dynamics 365 Remote Assist on HoloLens 
 ms.author: sopsun
 ms.date: 12/10/2020
 ms.service: crm-online
