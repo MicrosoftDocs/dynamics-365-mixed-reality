@@ -136,7 +136,7 @@ Teams tries to anticipate what you’ll want to see in a meeting, and you can al
 
 ![Screenshot showing five people in a Microsoft Teams call.](media/5call.png)
 
-If you want the recording to capture the exact layout of the call you configure, [use the Windows Game Bar](#desktop-screen-recording-using-windows-game-bar) to capture a screen recording of your computer. 
+If you want the recording to capture the exact layout of the call you configure, [use the Windows Game Bar](#record-your-teams-desktop-screen-using-windows-game-bar) to capture a screen recording of your computer. 
 
 ## Use call controls
 
