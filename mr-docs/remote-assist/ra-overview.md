@@ -1,6 +1,6 @@
 ---
 author: sophiasysun
-description: An overview of Dynamics 365 Remote Assist
+description: Get an overview of the capabilities of the Dynamics 365 Remote Assist HoloLens and mobile apps.
 ms.author: sopsun
 ms.date: 04/01/2020
 ms.service: crm-online
