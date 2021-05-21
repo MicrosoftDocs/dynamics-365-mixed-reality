@@ -1,11 +1,11 @@
 ---
 author: Mamaylya
-description: Known Issues with Dynamics 365 Guides
+description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: mamaylya
 ms.date: 05/18/2020
 ms.service: crm-online
 ms.topic: article
-title: Known Issues with Dynamics 365 Guides
+title: Known issues with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 

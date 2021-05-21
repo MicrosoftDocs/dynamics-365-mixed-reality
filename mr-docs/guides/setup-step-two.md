@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 02/23/2020
 ms.service: crm-online
 ms.topic: article
-title: Create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution as part of the setup process
+title: Install the Dynamics 365 Guides solution 
 ms.reviewer: v-brycho
 ---
 
