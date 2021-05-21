@@ -1,7 +1,7 @@
 ---
 author: BryceHolmes
 description: Learn how to install and use the Dynamics 365 Remote Assist mobile app.
-ms.author: isganotr
+ms.author: soanigbo
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
