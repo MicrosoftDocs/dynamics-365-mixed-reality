@@ -1,11 +1,11 @@
 ---
 author: sophiasysun
-description: Set up Microsoft Teams with Dynamics 365 Remote Assist 
+description: Set up Microsoft Teams so a Dynamics 365 Remote Assist worker can work collaboratively 
 ms.author: sopsun
 ms.date: 04/07/2020
 ms.service: crm-online
 ms.topic: article
-title: Set up Microsoft Teams with Dynamics 365 Remote Assist 
+title: Set up Microsoft Teams for Dynamics 365 Remote Assist 
 ms.reviewer: krbjoran
 ---
 
