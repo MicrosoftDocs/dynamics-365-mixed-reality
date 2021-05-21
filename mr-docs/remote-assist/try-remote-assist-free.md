@@ -1,11 +1,11 @@
 ---
 author: xonatia
-description: Try Dynamics 365 Remote Assist for free for up to 90 days.
+description: Get a free 90-day trial to test out Dynamics 365 Remote Assist. 
 ms.author: xolee
 ms.date: 02/27/2020
 ms.service: crm-online
 ms.topic: article
-title: Try Dynamics 365 Remote Assist for free for up to 90 days.
+title: Try Dynamics 365 Remote Assist for free 
 ms.reviewer: krbjoran
 ---
 
