@@ -5,7 +5,7 @@ ms.author: xolee
 ms.date: 02/27/2020
 ms.service: crm-online
 ms.topic: article
-title: Try Dynamics 365 Remote Assist for free 
+title: Try Microsoft Dynamics 365 Remote Assist for free 
 ms.reviewer: krbjoran
 ---
 
