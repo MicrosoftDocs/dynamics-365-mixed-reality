@@ -1,7 +1,7 @@
 ---
-title: Voice commands and gestures for Microsoft Dynamics 365 Remote Assist on HoloLens
+title: Voice commands and gestures for Dynamics 365 Remote Assist on HoloLens
 author: BryceHolmes
-description: Learn about voice commands and gestures for Microsoft Dynamics 365 Remote Assist on HoloLens
+description: Learn about voice commands and gestures for Microsoft Dynamics 365 Remote Assist on HoloLens.
 ms.author: soanigbo
 ms.date: 04/08/2021
 ms.service: crm-online
@@ -15,7 +15,7 @@ ms.reviewer: krbjoran
 
 You can navigate Dynamics 365 Remote Assist on HoloLens and HoloLens 2 using voice commands and gaze instead of gestures. Some voice commands are contextual, so they only work in particular areas of the user interface. For example, “Start inking” only works if the ink tool is already active.” You can also look at any button and say “Select.”
 
-At this time, voice commands and speech recognition are [available in specific languages for Hololens](./faq-hololens.md#what-languages-are-voice-commands-and-speech-recognition-available-for).
+At this time, voice commands and speech recognition are [available in specific languages for Hololens](./faq-hololens.md).
 
 When you’re in a call, a good way to learn the features of Dynamics 365 Remote Assist is to say, “Remote Assist.” The app will display what it believes you said by showing a check mark and “Remote assist.” Then, the app will display the name of each button, as you see in the image above. After a few seconds, these labels will automatically disappear. 
 
