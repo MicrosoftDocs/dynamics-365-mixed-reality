@@ -9,11 +9,11 @@ ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
-# Use Dynamics 365 Remote Assist mobile in low-bandwidth situations
+# Use the Dynamics 365 Remote Assist mobile app in low-bandwidth situations
 
 Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians might experience difficulty troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote collaborators even in low bandwidth scenarios.
 
-### What determines poor network connectivity
+## What determines poor network connectivity
 
 Poor network connectivity is determined by the following conditions:
 

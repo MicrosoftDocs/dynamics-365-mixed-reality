@@ -1,6 +1,6 @@
 ---
 author: xonatia
-description: Learn how to buy Dynamics 365 Remote Assist for HoloLens and mobile
+description: Learn how to buy a subscription of the Dynamics 365 Remote Assist HoloLens and mobile apps.
 ms.author: xolee
 ms.date: 04/01/2020
 ms.service: crm-online
@@ -14,9 +14,11 @@ ms.reviewer: krbjoran
 Dynamics 365 Remote Assist gives your workers tools to complete tasks more quickly, safely, and efficiently, whether they're using HoloLens 1, HoloLens 2, or their mobile devices.
 
 In this article, we’ll walk through the two types of Dynamics 365 Remote Assist licenses: 
+
 - Dynamics 365 Remote Assist license 
+
 - Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers only) 
-###
+
   > [!NOTE]
   > Dynamics 365 Remote Assist licenses include Microsoft Teams licenses. 
     
