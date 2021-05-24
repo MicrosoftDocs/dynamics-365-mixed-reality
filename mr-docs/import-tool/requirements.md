@@ -3,7 +3,6 @@ author: keno-msft
 description: Requirements for installing Dynamics 365 Import Tool (Preview)
 ms.author: keno
 ms.date: 06/20/2020
-ms.service: crm-online
 ms.topic: article
 title: Requirements for installing Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho

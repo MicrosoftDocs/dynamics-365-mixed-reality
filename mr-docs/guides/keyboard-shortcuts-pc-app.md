@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn about the keyboard shortcuts for the Dynamics 365 Guides PC app.
 ms.author: mamaylya
 ms.date: 04/06/2020
-ms.service: crm-online
 ms.topic: article
 title: Keyboard shortcuts for the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho

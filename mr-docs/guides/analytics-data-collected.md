@@ -3,7 +3,6 @@ author: BryceHo
 description: Learn about what data is collected in Dynamics 365 Guides and how you can use that data to analyze guide usage in your organization.
 ms.author: cynielse
 ms.date: 02/03/2021
-ms.service: crm-online
 ms.topic: article
 title: What data is collected in Dynamics 365 Guides and how can you use it?
 ms.reviewer: v-bholmes

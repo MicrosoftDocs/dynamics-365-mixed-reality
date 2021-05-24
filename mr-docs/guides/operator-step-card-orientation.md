@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to work with the Step card as an operator in Dynamics 365 Guides.
 ms.author: mamaylya
 ms.date: 10/01/2020
-ms.service: crm-online
 ms.topic: article
 title: Get oriented with the Step card as an operator in Dynamics 365 Guides
 ms.reviewer: v-brycho

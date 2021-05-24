@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to add a branch to a guide in Microsoft Dynamics 365 Guides to create a non-linear workflow
 ms.author: mamaylya
 ms.date: 04/01/2021
-ms.service: crm-online
 ms.topic: article
 title: Add a branch to a guide in Dynamics 365 Guides to create a non-linear workflow
 ms.reviewer: v-brycho

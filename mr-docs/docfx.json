@@ -79,6 +79,10 @@
           "Remote Assist",
           "Mixed Reality"
         ]
+      },
+      "ms.service": {
+        "guides/**/**.md": "dynamics-365-guides",
+        "import-tool/**/**.md": "dynamics-365-import-tool"
       }
     },
     "template": [],

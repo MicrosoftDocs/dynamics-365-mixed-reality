@@ -3,7 +3,6 @@ author: keno-msft
 description: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).  
 ms.author: keno
 ms.date: 01/08/2020
-ms.service: crm-online
 ms.topic: overview
 title: Overview of Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
