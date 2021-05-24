@@ -30,33 +30,33 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 **Remote Assist Mobile, quality improvements**
 
 - Fix for sharing files when there is a guest user on the call
-- 	One-time-call link should not ask for sign in due to missing special characters in the URL
-- 	Improvements for energy saver mode
-- 	Fix for annotations availability when user rejoins one time call
-- 	Fix for misleading “Annotations Unavailable” message in calls with devices without augmented reality support
-- 	Fix for user presence status that sometimes was not showing correctly
-- 	Support for France digital accessibility requirements
-- 	Fix for annotations after coming back from on hold
-- 	Fix for footer overlap in the post call screen
-- 	Fix for missing recording icon in the participants list
-- 	Fix for screen rotation after leaving Snapshot mode
-- 	Fix for camera and microphone buttons state when connecting to a call
-- 	Fix for duplicated assets in the assets capture
-- 	Fix for **Save to chat** button in a one time call
-- 	Accessibility and stability improvements
+- Fix for one-time-call link prompting for sign-in due to missing special characters in the url
+- Improvements to energy saver mode
+- Fix for annotations availability when user rejoins one-time-call
+- Fix for misleading “Annotations Unavailable” message in calls with devices without augmented reality support
+- Fix for user presence status that was not showing correctly at times
+- Support for France digital accessibility requirements
+- Fix for annotations after coming back from on hold
+- Fix for footer overlap in the post call screen
+- Fix for missing recording icon in the participants list
+- Fix for screen rotation after leaving Snapshot mode
+- Fix for camera and microphone buttons state when connecting to a call
+- Fix for duplicated assets in assets capture
+- Fix for **Save to chat** button in a one-time-call
+- Accessibility and stability improvements
 
 **Remote Assist on Hololens 2, quality improvements**
 
-- 	Fix for recent contacts sometimes disappearing unexpectedly
-- 	Fix for user not being able to navigate back from contact search in rare cases
-- 	Fix for file sharing issues (receiving files from other call/meeting participants)
-- 	Added voice commands for additional scenarios (saving a photo, navigating through hints)
-- 	Addressed issue causing windows not returning to the correct position after losing and re-gaining tracking
-- 	The pinned state of the main window stays in the correct position when the call is ended
-- 	Improved handling of menu panels when manipulated by user (grabbed and moved)
-- 	The button states representing the active tool (Arrow, Ink) now always reflect the current state
-- 	Visual improvements: addressed unexpected flickering of panels when user was interacting with their edges; fixed images loaded in 3D space appearing 'washed out' when overlaid on top of other panels
-- 	Various improvements to data logging, to make it easier to investigate issues reported by customers 
+- Fix for recent contacts sometimes disappearing unexpectedly
+- Fix for user not being able to navigate back from contact search in rare cases
+- Fix for file sharing issues (receiving files from other call/meeting participants)
+- Added voice commands for additional scenarios (saving a photo, navigating through hints)
+- Addressed issue causing windows not returning to the correct position after losing and re-gaining tracking
+- Fix for pinned state of the main window not staying in the correct position when the call is ended
+- Improved handling of menu panels when manipulated by user (grabbed and moved)
+- Fix for button states representing the active tool (Arrow, Ink) not always reflecting the current state
+- Visual improvements: addressed unexpected panel flickering when user interacted with panel edges; fixed images loaded in 3D space appearing washed out when overlaid on top of other panels
+- Various improvements to data logging to make it easier to investigate issues reported by customers 
 
 ## May 7, 2021
 
