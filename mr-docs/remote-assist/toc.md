@@ -82,6 +82,7 @@
 ### [FAQ: Deployment](faq-deploy.md)
 ### [FAQ: HoloLens](faq-hololens.md)
 ### [FAQ: Mobile app](./mobile-app/faq-mobile.md)
+### [Get support](file-support-ticket-hololens.md)
 
 ## Legal documents
 ### [Software license terms](../legal/remote-assist-license-terms.md)
