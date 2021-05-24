@@ -22,12 +22,41 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2 app|XXX|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
+|iOS mobile app|2021.6.1|
+|Android mobile app|2021.6.1|
 
 ### Bug fixes
 
--	XXX
+**Remote Assist Mobile, quality improvements**
+
+- Fix for sharing files when there is a guest user in the call
+- 	One Time Call link should not ask for sign-in due to missing special characters in the URL
+- 	Improvements for energy saver mode
+- 	Fix for annotations availability when user rejoins One Time Call
+- 	Fix for misleading “Annotations Unavailable” message in calls with devices without the augmented reality support
+- 	Fix for user presence status that sometimes was not showing correctly
+- 	Support for France digital accessibility requirements
+- 	Fix for annotations after combing back from on hold
+- 	Fix for footer being overlap in the post call screen
+- 	Fix for missing recording icon in the participants list
+- 	Fix for screen rotation after leaving snapshot mode
+- 	Fix for camera and microphone buttons state when connecting to a call
+- 	Fix for duplicated assets in the assets capture
+- 	Fix for “save to chat” button in a One Time Call
+- 	Accessibility and stability improvements
+
+**Remote Assist on Hololens 2, quality improvements**
+
+- 	Fixed issue with Recent Contacts sometimes disappearing unexpectedly
+- 	Fixed issue with user not being able to navigate back from Contact search in rare cases
+- 	Fixed issues with file sharing (receiving files from other call/meeting participants)
+- 	Added voice commands for additional scenarios (saving a photo, navigating through Hints)
+- 	Addressed issue causing the windows not to return to the correct position after losing and re-gaining tracking
+- 	The pinned state of main window is now being respected when ending the call
+- 	Improved handling of menu panels when being manipulated by user (grabbed and moved)
+- 	The button states representing active tool (Arrow, Ink) now always reflect the current state
+- 	Visual improvements: addressed unexpected flickering of the panels when user was interacting with their edges, fixed images loaded in 3D space appearing 'washed out' when overlaid on top of other panels
+- 	Various improvements to data logging, to help investigate issues reported by customers more effectively
 
 ## May 7, 2021
 
