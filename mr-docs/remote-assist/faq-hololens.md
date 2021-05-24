@@ -2,7 +2,7 @@
 author: BryceHolmes
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist on Microsoft HoloLens.
 ms.author: soanigbo
-ms.date: 04/28/2021
+ms.date: 06/02/2021
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
@@ -127,7 +127,7 @@ For more information, visit our article on [displaying and saving files](display
 
 ## How do I file a support ticket?
 
-If you encounter an issue that blocks you from using the application and you don't see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved.  
+If you encounter an issue that blocks you from using the application and you don't see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](https://docs.microsoft.com/dynamics365/get-started/support/).
 
 ## How do I report a bug?
 
