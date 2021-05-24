@@ -1,7 +1,7 @@
 ---
-title: Join a Dynamics 365 Remote Assist meeting or live event on HoloLens
+title: Join a Dynamics 365 Remote Assist meeting on HoloLens
 author: sophiasysun
-description: Learn how to join a Microsoft Teams meeting or live event in Dynamics 365 Remote Assist on HoloLens
+description: Learn how to join a Microsoft Teams meeting or live event in Dynamics 365 Remote Assist on HoloLens.
 ms.author: sopsun
 ms.date: 12/11/2020
 ms.service: crm-online

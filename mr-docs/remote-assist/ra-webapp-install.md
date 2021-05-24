@@ -10,8 +10,6 @@ ms.reviewer: krbjoran
 ---
 # Install the Dynamics 365 Remote Assist model-driven app
 
-## Overview
-
 The Dynamics 365 Remote Assist model-driven app is built on the Microsoft Dataverse. The model-driven app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and used by Dynamics 365 Remote Assist.
 
 More information: [What are model-driven apps in Power Apps?](/powerapps/maker/model-driven-apps/model-driven-app-overview)

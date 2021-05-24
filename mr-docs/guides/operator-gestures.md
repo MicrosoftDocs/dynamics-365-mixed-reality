@@ -4,7 +4,7 @@ description: Learn about gestures that you can use to navigate a guide as an ope
 ms.author: mamaylya
 ms.date: 12/08/2020
 ms.topic: article
-title: Gestures you can use to navigate a guide as an operator in Dynamics 365 Guides
+title: HoloLens 1 operator gestures for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 

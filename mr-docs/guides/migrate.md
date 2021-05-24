@@ -62,7 +62,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
     ![Register tab](media/migration-register.PNG "Register tab")
 
     > [!NOTE]
-    > Approval of an application for the Dynamics Insider Program might take up to a day. If you still don't have access after 24 hours, post a message on [the Dynamics 365 Guides community forum](https://community.dynamics.com/365/guides).
+    > Approval of an application for the Dynamics Insider Program might take up to a day. Be sure to complete the sign-up form as thoroughly as possible to avoid delays. If you still don't have access after 24 hours, post a message on [the Dynamics 365 Guides community forum](https://community.dynamics.com/365/guides).
 
 2. After you've registered, on the **Welcome Insider** page, under **Upcoming and Active Public Preview Programs**, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)**, and select it.
 

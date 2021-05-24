@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: This topic explains how to rename a guide in Microsoft Dynamics 365 Guides.
+description: How to rename a guide in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
 ms.date: 12/08/2020
 ms.topic: article

@@ -4,7 +4,7 @@ description: Install and sign in to the Microsoft Dynamics 365 Guides HoloLens a
 ms.author: mamaylya
 ms.date: 02/25/2020
 ms.topic: article
-title: Install and sign in to the Dynamics 365 Guides HoloLens app as an operator
+title: Install the Dynamics 365 Guides HoloLens app (operators)
 ms.reviewer: v-brycho
 ---
 

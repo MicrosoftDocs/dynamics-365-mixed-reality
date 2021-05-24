@@ -1,6 +1,6 @@
 ---
 author: sophiasysun
-description: An overview of Dynamics 365 Remote Assist
+description: Get an overview of the capabilities of the Dynamics 365 Remote Assist HoloLens and mobile apps.
 ms.author: sopsun
 ms.date: 04/01/2020
 ms.service: crm-online
@@ -33,7 +33,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 - **Scale expert knowledge**: Enable experts to effectively share their knowledge from anywhere in the world.
 - **Bring critical information into view**: Technicians and inspectors can pull in work order information from Dynamics 365 Field Service and call the resource assigned to support them. Furthermore, technicians and inspectors no longer need to carry around paper manuals to perform their repair or inspection. If the technician is using Remote Assist on HoloLens, remote collaborators can insert reference images, schematics, and other helpful information the technician's physical space so they can refer to the schematic while working heads-up and hands-free on HoloLens. If the technician is using Remote Assist on mobile, remote collaborators can share reference images, schematics, and other helpful information the technician can view in their mobile device.
 - **Combine video, screenshots, and annotations for more seamless workflows on the devices you already use**: Remote Assist is available on non-AR-capable mobile devices. 
-- **Navigate Remote Assist on HoloLens with your voice**: Remote Assist on HoloLens provides a hands-free experience by supporting [voice commands in these languages](./faq-hololens.md#what-languages-are-voice-commands-and-speech-recognition-available-for) for all features, even in a loud, industrial environment. 
+- **Navigate Remote Assist on HoloLens with your voice**: Remote Assist on HoloLens provides a hands-free experience by supporting [voice commands in these languages](./faq-hololens.md) for all features, even in a loud, industrial environment. 
 - **Asset capture & process automation via Microsoft Power Platform**: Store mixed reality photos and videos in CDS, then integrate data with business processes via Power Automate.  
 - **Offer best-in-class service via a click-to-join Remote Assist call**: Assist vendors and customers with a click-to-join mixed reality video call.
 

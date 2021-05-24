@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Learn about the keyboard shortcuts that you can use in the Microsoft Dynamics 365 Guides PC app.
+description: Learn about the keyboard shortcuts for the Dynamics 365 Guides PC app.
 ms.author: mamaylya
 ms.date: 04/06/2020
 ms.topic: article

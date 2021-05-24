@@ -4,7 +4,7 @@ description: Covers Guides Analytics--Power BI reports you can use in Dynamics 3
 ms.author: cynielse
 ms.date: 03/23/2021
 ms.topic: article
-title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides
+title: Overview of Guides Analytics for Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 

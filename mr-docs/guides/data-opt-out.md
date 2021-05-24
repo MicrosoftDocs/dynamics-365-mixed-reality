@@ -4,7 +4,7 @@ description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage
 ms.author: mamaylya
 ms.date: 02/03/2021
 ms.topic: article
-title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
+title: Microsoft Dataverse data opt out for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 

@@ -4,7 +4,7 @@ description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, a
 ms.author: mamaylya
 ms.date: 10/01/2020
 ms.topic: article
-title: Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
+title: Place holograms in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 

@@ -4,7 +4,7 @@ description: Overview of authoring in Dynamics 365 Guides, including PC authorin
 ms.author: mamaylya
 ms.date: 02/25/2020
 ms.topic: article
-title: Overview of authoring in Dynamics 365 Guides
+title: Authoring overview--Dynamics 365 Guides PC and Hololens apps
 ms.reviewer: v-brycho
 ---
 

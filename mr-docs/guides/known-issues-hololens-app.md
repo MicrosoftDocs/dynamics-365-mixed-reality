@@ -4,7 +4,7 @@ description: Learn about known issues with the Microsoft Dynamics 365 Guides Hol
 ms.author: mamaylya
 ms.date: 04/01/2020
 ms.topic: article
-title: Known Issues with the Dynamics 365 Guides HoloLens app
+title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 

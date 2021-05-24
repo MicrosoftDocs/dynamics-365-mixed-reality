@@ -1,11 +1,11 @@
 ---
 author: BryceHolmes
-description: Learn how to collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application
+description: Learn how to collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application.
 ms.author: soanigbo
 ms.date: 04/19/2021
 ms.service: crm-online
 ms.topic: article
-title: Collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application
+title: Collaborate with a Dynamics 365 Remote Assist user through Teams desktop
 ms.reviewer: v-bholmes
 ---
 
@@ -16,7 +16,7 @@ When you use the Teams desktop application on a PC running Windows 10, you can c
 However, the features you can use to collaborate differ depending on which platform the Dynamics 365 Remote Assist user is using.  
 
 ## Collaborating with Dynamics 365 Remote Assist HoloLens user versus Dynamics 365 Remote Assist mobile user
-|                                                                                                |Teams desktop features available when collaborating with Dynamics 365 Remote Assist HoloLens user                 |Teams desktop features available when collaborating with Dynamics 365 Remote Assist mobile user                   |
+|Task                                                                                            |Teams desktop features available when collaborating with Dynamics 365 Remote Assist HoloLens user                 |Teams desktop features available when collaborating with Dynamics 365 Remote Assist mobile user                   |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |                                                                                                     |                                                                                                     |                                                                                                     |
 |Make outgoing call                                                                                   |Yes                                                                                                  |Yes      |
@@ -136,7 +136,7 @@ Teams tries to anticipate what you’ll want to see in a meeting, and you can al
 
 ![Screenshot showing five people in a Microsoft Teams call.](media/5call.png)
 
-If you want the recording to capture the exact layout of the call you configure, [use the Windows Game Bar](#desktop-screen-recording-using-windows-game-bar) to capture a screen recording of your computer. 
+If you want the recording to capture the exact layout of the call you configure, [use the Windows Game Bar](#record-your-teams-desktop-screen-using-windows-game-bar) to capture a screen recording of your computer. 
 
 ## Use call controls
 

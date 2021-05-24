@@ -4,7 +4,7 @@ description: Learn about HoloLens 1 gestures that you can use to author and navi
 ms.author: Mamaylya
 ms.date: 12/08/2020
 ms.topic: article
-title: HoloLens 1 gestures you can use to author and navigate a guide in Dynamics 365 Guides 
+title: HoloLens 1 gestures for Dynamics 365 Guides 
 ms.reviewer: v-brycho
 ---
 

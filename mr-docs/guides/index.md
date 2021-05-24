@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Overview of Dynamics 365 Guides
+description: Overview of Dynamics 365 Guides capabilities and apps
 ms.author: Mamaylya
 ms.date: 03/02/2021
 ms.topic: overview

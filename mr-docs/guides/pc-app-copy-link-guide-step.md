@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Learn how to create and copy a link to a guide in Microsoft Dynamics 365 Guides, so that you can share it with a teammate, use it in another app, or embed it in a QR code.
+description: Create and copy a guide link in Dynamics 365 Guides to embed in a QR code.
 ms.author: mamaylya
 ms.date: 12/08/2020
 ms.topic: article

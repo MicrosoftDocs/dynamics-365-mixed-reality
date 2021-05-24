@@ -2,7 +2,7 @@
 author: Mamaylya
 ms.author: mamaylya
 description: Learn about supported file formats for 3D models, images, and videos in Microsoft Dynamics 365 Guides.
-ms.date: 05/04/2021
+ms.date: 05/21/2021
 ms.topic: article
 title: Supported file formats for 3D models, images, and videos in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -15,7 +15,7 @@ In Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], yo
 | Media | Supported formats | Best practice |
 |-------|-------------------|---------------|
 | 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](author-convert-3D-models.md). |
-| Images | PNG, JPG, JPEG, BMP, GIF, TIF | |
+| Images | PNG, JPG, JPEG, BMP, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV | Keep your videos less than two minutes long and focused on one step at a time. |
 
 > [!IMPORTANT]

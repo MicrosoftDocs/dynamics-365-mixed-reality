@@ -4,7 +4,7 @@ description: Learn how to anchor a guide in the Microsoft Dynamics 365 Guides Ho
 ms.author: mamaylya
 ms.date: 10/01/2020
 ms.topic: article
-title: Anchor a guide in the Dynamics 365 Guides HoloLens app as an operator
+title: Anchor a guide in the Dynamics 365 Guides HoloLens app (operators)
 ms.reviewer: v-brycho
 ---
 

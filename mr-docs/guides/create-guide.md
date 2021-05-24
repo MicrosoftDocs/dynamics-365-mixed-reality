@@ -4,7 +4,7 @@ description: Use the PC app in Microsoft Dynamics 365 Guides as the first step i
 ms.author: mamaylya
 ms.date: 12/08/2020
 ms.topic: article
-title: Create a guide by using the Dynamics 365 Guides PC app
+title: Create a guide in the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
 ---
 
