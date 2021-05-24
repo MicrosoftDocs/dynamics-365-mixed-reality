@@ -1,9 +1,9 @@
 ---
-title: File a support ticket for Dynamics 365 Remote Assist on HoloLens
+title: File a support ticket for Dynamics 365 Remote Assist 
 author: sophiasysun
-description: How to file a support ticket for the Dynamics 365 Remote Assist HoloLens app
+description: How to file a support ticket for Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 3/15/2020
+ms.date: 6/02/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
