@@ -81,6 +81,14 @@ An Azure Active Directory account is also required for purchasing the Dynamics 3
 | Teams                                                                                                                          | The Teams user’s experience is **_identical_** regardless of whether the Teams user is: </br> - A member in the Dynamics 365 Remote Assist user’s tenant </br> - [A guest](./multi-tenant-deployment.md#solution-2-guest-access) in the Dynamics 365 Remote Assist user’s tenant </br> - A member in a tenant that’s [federated](./multi-tenant-deployment.md#solution-1-external-access-federation) with the Dynamics 365 Remote Assist user’s tenant (Teams desktop only) </br> **_EXCEPT_** </br> -  Any differences described [here](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access). </br><br> Additional collaboration capabilities include: </br> -  Make a call </br> - Record a call |
 | [OneDrive for Business](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive    |
 
+## Other required software
+
+- OneDrive is required to: access files (and insert them into the 3D space on HoloLens); save photo captures; save photos received through chat.
+
+- Mail and Calendar are required to receive meeting invites to join meetings from Remote Assist.
+
+- Calendar is required for scheduling a one-time call.
+
 ### Administrator
 
 [Azure Active Directory (Azure AD)](/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in Microsoft 365 admin portal and distribute applications through Microsoft Store for Business. [Learn more about how to deploy Dynamics 365 Remote Assist](https://github.com/docs.microsoft.com/dynamics365/mixed-reality/remote-assist/deploy-remote-assist).
