@@ -5,7 +5,7 @@ ms.author: keno
 ms.date: 05/25/2021
 ms.topic: article
 title: Optimize your 3D models to use with Dynamics 365 Guides and Power Apps
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Optimize your 3D models to use with Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
