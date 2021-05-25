@@ -48,6 +48,7 @@ The following table lists some general conservative targets to aim for when acqu
 
 > [!NOTE]
 > Transparency in materials such as glass in 3D models is not supported.
+> 
 > Dynamics 365 Guides includes a GTLF loader that does not support alpha transparency in textures. However, you can set a single alpha value for an entire material.
 
 ### See also
