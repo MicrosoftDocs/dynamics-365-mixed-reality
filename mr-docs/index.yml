@@ -48,7 +48,7 @@ additionalContent:
     - title: Dynamics 365 Remote Assist
       # imageSrc: /dynamics365/images/Remote_Assist__color.svg
       links:
-        - url: /dynamics365/mixed-reality/ra-overview
+        - url: /dynamics365/mixed-reality/remote-assist/ra-overview
           text: Documentation
         - url: /learn/browse/?products=dynamics-remote-assist
           text: Learn Dynamics 365 Remote Assist
