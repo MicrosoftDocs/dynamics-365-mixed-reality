@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn about Microsoft Dynamics 365 Guides tables (entities) that you can use to extend Dynamics 365.
 ms.author: mamaylya
 ms.date: 05/04/2021
-ms.service: crm-online
 ms.topic: article
 title: Dataverse table (entity) reference for Dynamics 365 Guides
 ms.reviewer: v-brycho

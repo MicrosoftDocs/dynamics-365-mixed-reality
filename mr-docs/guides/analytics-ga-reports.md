@@ -3,7 +3,6 @@ author: BryceHo
 description: Take a tour of Guides Analytics Power BI reports for Microsoft Dynamics 365 Guides
 ms.author: cynielse
 ms.date: 02/03/2021
-ms.service: crm-online
 ms.topic: article
 title: Take a tour of Guides Analytics reports for Dynamics 365 Guides
 ms.reviewer: v-bholmes

@@ -3,7 +3,6 @@ author: keno-msft
 description: Describes, in tutorial format, how to use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 03/20/2020
-ms.service: crm-online
 ms.topic: article
 title: Use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho

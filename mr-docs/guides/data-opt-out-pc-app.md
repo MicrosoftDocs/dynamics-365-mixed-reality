@@ -3,7 +3,6 @@ author: Mamaylya
 description: To preserve privacy, you can opt out of sending telemetry data to Microsoft in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
 ms.date: 01/28/2020
-ms.service: crm-online
 ms.topic: article
 title: Telemetry data opt out for the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho

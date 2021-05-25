@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to organize guides into folders in Dynamics 365 Guides if you're an admin
 ms.author: mamaylya
 ms.date: 05/04/2021
-ms.service: crm-online
 ms.topic: article
 title: Organize guides into folders in Dynamics 365 Guides (for admins only)
 ms.reviewer: v-bholmes

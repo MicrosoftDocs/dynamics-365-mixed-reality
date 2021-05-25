@@ -3,7 +3,6 @@ author: keno-msft
 description: Describes, in tutorial format, how to use Autodesk Inventor to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.author: keno
 ms.date: 12/23/2019
-ms.service: crm-online
 ms.topic: article
 title: Prepare Autodesk Inventor 3D models for use in Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho

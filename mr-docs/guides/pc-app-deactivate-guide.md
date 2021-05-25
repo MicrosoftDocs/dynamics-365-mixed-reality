@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to deactivate a guide or guide content (Microsoft Dynamics 365 Guides authors).
 ms.author: mamaylya
 ms.date: 02/25/2021
-ms.service: crm-online
 ms.topic: article
 title: Deactivate a guide in Dynamics 365 Guides (authors)
 ms.reviewer: v-brycho
@@ -34,7 +33,7 @@ When you deactivate an image, video, or 3D part in the PC app, the content is hi
 
 2. Select **Deactivate**.
 
-    ![Deactivate command](media/deactivate-content.PNG "Deactivate command")
+    ![Screenshot of Deactivate command](media/deactivate-content.PNG "Screenshot of Deactivate command")
 
 ## See also
 

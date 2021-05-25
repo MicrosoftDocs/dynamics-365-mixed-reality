@@ -3,7 +3,6 @@ author: keno-msft
 description: Describes, in tutorial format, how to use Pixyz Studio to prepare 3D models for use in Microsoft Dynamics 365 Guides or Power Apps
 ms.author: keno
 ms.date: 11/25/2020
-ms.service: crm-online
 ms.topic: article
 title: Use Pixyz Studio to prepare 3D models for use in Dynamics 365 Guides or in mixed-reality components used in apps created with Power Apps
 ms.reviewer: v-brycho

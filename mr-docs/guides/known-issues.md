@@ -3,7 +3,6 @@ author: Mamaylya
 description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: mamaylya
 ms.date: 05/18/2020
-ms.service: crm-online
 ms.topic: article
 title: Known issues with Dynamics 365 Guides
 ms.reviewer: v-brycho
