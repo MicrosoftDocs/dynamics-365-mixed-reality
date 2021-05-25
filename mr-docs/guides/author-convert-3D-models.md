@@ -3,7 +3,6 @@ author: robutter
 description: Convert 3D models to use as holograms for 3D parts in Microsoft Dynamics 365 Guides
 ms.author: robutter
 ms.date: 03/16/2020
-ms.service: crm-online
 ms.topic: article
 title: Convert 3D models to use as holograms in Dynamics 365 Guides
 ms.reviewer: v-brycho

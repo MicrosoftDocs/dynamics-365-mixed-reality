@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to calibrate HoloLens 1 to use with the Microsoft Dynamics 365 Guides app.
 ms.author: mamaylya
 ms.date: 12/08/2020
-ms.service: crm-online
 ms.topic: article
 title: Calibrate HoloLens 1 for Dynamics 365 Guides (operators)
 ms.reviewer: v-brycho

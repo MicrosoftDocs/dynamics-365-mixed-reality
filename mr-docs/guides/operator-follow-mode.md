@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to turn Follow mode off or on in the Microsoft Dynamics 365 Guides HoloLens app
 ms.author: mamaylya
 ms.date: 08/25/2020
-ms.service: crm-online
 ms.topic: article
 title: Turn Follow mode off or on in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho

@@ -3,7 +3,6 @@ author: Mamaylya
 description: Get an overview of workflow examples for Microsoft Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 04/01/2021
-ms.service: crm-online
 ms.topic: article
 title: Overview of workflow examples for Dynamics 365 Guides
 ms.reviewer: v-brycho

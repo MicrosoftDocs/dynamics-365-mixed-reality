@@ -3,7 +3,6 @@ author: Mamaylya
 description: Install and sign in to the Microsoft Dynamics 365 Guides HoloLens app as an operator.
 ms.author: mamaylya
 ms.date: 02/25/2020
-ms.service: crm-online
 ms.topic: article
 title: Install the Dynamics 365 Guides HoloLens app (operators)
 ms.reviewer: v-brycho

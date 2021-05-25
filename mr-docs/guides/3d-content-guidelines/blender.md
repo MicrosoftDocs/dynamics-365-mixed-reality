@@ -3,7 +3,6 @@ author: keno-msft
 description: Describes in tutorial form how to use the Blender open-source 3D creation suite to prepare 3D models for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 10/22/2019
-ms.service: crm-online
 ms.topic: article
 title: Use Blender to prepare 3D models for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho

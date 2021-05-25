@@ -3,7 +3,6 @@ author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides in preview for the May 28, 2019 release.
 ms.author: mamaylya
 ms.date: 06/21/2019
-ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides in preview (May 28, 2019)
 ms.reviewer: v-brycho

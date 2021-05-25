@@ -3,7 +3,6 @@ author: Mamaylya
 description: For privacy reasons, you can opt out of sending telemetry data to Microsoft in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
 ms.date: 01/28/2020
-ms.service: crm-online
 ms.topic: article
 title: Telemetry data opt out for Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho

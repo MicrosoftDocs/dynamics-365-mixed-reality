@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn about gestures that you can use to navigate a guide as an operator in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
 ms.date: 12/08/2020
-ms.service: crm-online
 ms.topic: article
 title: HoloLens 1 operator gestures for Dynamics 365 Guides
 ms.reviewer: v-brycho

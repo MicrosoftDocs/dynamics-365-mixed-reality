@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to calibrate your HoloLens 2 device so that it can be used with Microsoft Dynamics 365 Guides and holograms appear in the correct place.
 ms.author: mamaylya
 ms.date: 01/28/2020
-ms.service: crm-online
 ms.topic: article
 title: Calibrate your HoloLens 2 device to use with Dynamics 365 Guides
 ms.reviewer: v-brycho
