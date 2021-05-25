@@ -92,7 +92,7 @@ The data is stored in Microsoft Dataverse in the tenant that you have admin priv
 
 ## What file formats are supported?
 
-For a list of formats that are supported for 3D content, images, and videos, see [Supported file formats](create-steps-assign-media.md#what-file-formats-are-supported-for-3d-models-images-and-videos).
+For a list of formats that are supported for 3D content, images, and videos, see [Supported file formats](pc-app-supported-file-formats.md).
 
 ## Will I lose any data if I close an app inadvertently?
 
