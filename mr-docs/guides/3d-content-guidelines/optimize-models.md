@@ -2,10 +2,10 @@
 author: keno-msft
 description: How to optimize your 3D (CAD) models to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
-ms.date: 09/11/2020
+ms.date: 05/25/2021
 ms.topic: article
 title: Optimize your 3D models to use with Dynamics 365 Guides and Power Apps
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Optimize your 3D models to use with Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
@@ -48,6 +48,8 @@ The following table lists some general conservative targets to aim for when acqu
 
 > [!NOTE]
 > Transparency in materials such as glass in 3D models is not supported.
+> 
+> Dynamics 365 Guides includes a GTLF loader that does not support alpha transparency in textures. However, you can set a single alpha value for an entire material.
 
 ### See also
 [Overview of preparing 3D models](index.md)<br>
