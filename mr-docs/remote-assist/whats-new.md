@@ -21,7 +21,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|XXX|
+|HoloLens 2 app|304.2105.24005.0|
 |iOS mobile app|2021.6.1|
 |Android mobile app|2021.6.1|
 
