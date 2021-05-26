@@ -79,7 +79,7 @@ For full list of voice commands, see the list below.
 |Post (post all)                               |Post call artifacts to associated work order                                      |
 |Discard (discard all)                               |Do not post call artifacts to associated work order                                                             |
 |Retry                               |Try posting again                                 |
-|**Teaching Moments tutorial (app launch)**||
+|**Teaching Moments tutorial (runs at app launch)**||
 |Next or Done                        |Move to next page in tutorial|
 |Close                               |Close Teaching Moments tutorial|
 
