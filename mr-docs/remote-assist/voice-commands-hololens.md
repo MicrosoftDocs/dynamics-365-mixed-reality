@@ -3,7 +3,7 @@ title: Voice commands and gestures for Dynamics 365 Remote Assist on HoloLens
 author: BryceHolmes
 description: Learn about voice commands and gestures for Microsoft Dynamics 365 Remote Assist on HoloLens.
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 06/02/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
