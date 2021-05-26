@@ -67,7 +67,8 @@ An Azure Active Directory account is also required for purchasing the Dynamics 3
 
 | **If you have this service:**                                                                                                          | **You can access these additional capabilities through Dynamics 365 Remote Assist:**                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [OneDrive for Business](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Access and share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive </br> - Save photos received through text chat.                                                                     |
+| [OneDrive for Business](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Access and share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive </br> - Save photos received through text chat                                                                     |
+| [Exchange Online]()| - Required to receive meeting invites to join meetings from Dynamics 365 Remote Assist.<br>- Required for scheduling a one-time call.|
 | Dynamics 365 Field Service                                                                                                     | - Call an expert listed in your field service work order </br> - Save call artifacts (for example, call recording, files shared) to a Field Service work order |
 | Power BI                                                                                                                       | - View a Power BI dashboard embedded in a Field Service work order                                                                                   |
 | Microsoft Stream                 | - [Record Remote Assist calls](./record-calls-hololens.md) either from within the Remote Assist app, or from the Teams app |
@@ -80,14 +81,6 @@ An Azure Active Directory account is also required for purchasing the Dynamics 3
 | None                                                                                                                           | - Teams desktop user can join a call using a [one-time call link](one-time-call.md) </br> - Teams desktop user can [join a meeting](./teams-pc-all.md) that allows anonymous participants </br> -  Use mixed-reality annotations                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Teams                                                                                                                          | The Teams user’s experience is **_identical_** regardless of whether the Teams user is: </br> - A member in the Dynamics 365 Remote Assist user’s tenant </br> - [A guest](./multi-tenant-deployment.md#solution-2-guest-access) in the Dynamics 365 Remote Assist user’s tenant </br> - A member in a tenant that’s [federated](./multi-tenant-deployment.md#solution-1-external-access-federation) with the Dynamics 365 Remote Assist user’s tenant (Teams desktop only) </br> **_EXCEPT_** </br> -  Any differences described [here](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access). </br><br> Additional collaboration capabilities include: </br> -  Make a call </br> - Record a call |
 | [OneDrive for Business](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive    |
-
-## Other required software
-
-- OneDrive is required to: 
-
-- Mail and Calendar are required to receive meeting invites to join meetings from Remote Assist.
-
-- Calendar is required for scheduling a one-time call.
 
 ### Administrator
 
