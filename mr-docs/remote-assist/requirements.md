@@ -67,7 +67,7 @@ An Azure Active Directory account is also required for purchasing the Dynamics 3
 
 | **If you have this service:**                                                                                                          | **You can access these additional capabilities through Dynamics 365 Remote Assist:**                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [OneDrive for Business](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive                                                                           |
+| [OneDrive for Business](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Access and share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive </br> - Save photos received through text chat.                                                                     |
 | Dynamics 365 Field Service                                                                                                     | - Call an expert listed in your field service work order </br> - Save call artifacts (for example, call recording, files shared) to a Field Service work order |
 | Power BI                                                                                                                       | - View a Power BI dashboard embedded in a Field Service work order                                                                                   |
 | Microsoft Stream                 | - [Record Remote Assist calls](./record-calls-hololens.md) either from within the Remote Assist app, or from the Teams app |
@@ -83,7 +83,7 @@ An Azure Active Directory account is also required for purchasing the Dynamics 3
 
 ## Other required software
 
-- OneDrive is required to: access files (and insert them into the 3D space on HoloLens); save photo captures; save photos received through chat.
+- OneDrive is required to: 
 
 - Mail and Calendar are required to receive meeting invites to join meetings from Remote Assist.
 
