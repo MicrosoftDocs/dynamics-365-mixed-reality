@@ -97,6 +97,6 @@ Let's take a look at the information that's provided by each of the visuals in t
 
 - The Calls Dashboard uses storage capacity in the Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
 
-- To make sure that all calls are logged to the Microsoft Dataverse, Microsoft recommends that users wait a few seconds after the call ends beore closing or minimizing the Dynamics 365 Remote Assist application. 
+- To make sure that all calls are logged to the Microsoft Dataverse, Microsoft recommends that users wait a few seconds after the call ends before closing or minimizing the Dynamics 365 Remote Assist application. 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
