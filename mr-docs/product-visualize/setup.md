@@ -1,11 +1,10 @@
 ---
-title: Set up Dynamics 365 Product Visualize on a new Dynamics 365 instance
+author: sbmjais
 description: Instructions to set up a Dynamics 365 instance and install the Dynamics 365 Product Visualize app
+ms.author: shjais
 ms.date: 08/20/2020
 ms.topic: article
-ms.service: dynamics-365-sales
-author: sbmjais
-ms.author: shjais
+title: Set up Dynamics 365 Product Visualize on a new Dynamics 365 instance
 manager: shujoshi
 ---
 

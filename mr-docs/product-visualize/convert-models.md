@@ -3,7 +3,6 @@ author: JBrentJ
 description: Everything you need to know about converting 3D models
 ms.author: v-jerja
 ms.date: 08/13/2020
-ms.service: crm-online
 ms.topic: article
 title: Convert your 3D (CAD) models for using with mixed-reality applications
 ms.reviewer: v-brycho

@@ -3,7 +3,6 @@ author: JBrentJ
 description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed-reality apps
 ms.author: v-jerja
 ms.date: 08/13/2019
-ms.service: crm-online
 ms.topic: article
 title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed-reality applications
 ms.reviewer: v-brycho

@@ -3,7 +3,6 @@ author: JBrentJ
 description: This tutorial explains how to use Agisoft Metashape to create 3D models for Microsoft Dynamics 365 mixed-reality apps.
 ms.author: v-jerja
 ms.date: 08/13/2020
-ms.service: crm-online
 ms.topic: article
 title: Use Agisoft Metashape to create 3D models for Dynamics 365 mixed-reality applications
 ms.reviewer: v-brycho

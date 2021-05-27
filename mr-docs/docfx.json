@@ -59,6 +59,9 @@
         "layout/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=86453d40-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Layout",
         "remote-assist/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist"
       },
+      "ms.service": {
+        "product-visualize/**/*.md": "dynamics-365-productvisualize"
+      },
       "searchScope": {
         "**.*": [
           "Dynamics 365",

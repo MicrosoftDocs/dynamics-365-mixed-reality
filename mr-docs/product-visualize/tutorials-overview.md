@@ -3,7 +3,6 @@ author: JBrentJ
 description: Describes the third-party tutorials available for converting 3D models for use with Dynamics 365 mixed-reality applications
 ms.author: v-jerja
 ms.date: 08/13/2020
-ms.service: crm-online
 ms.topic: article
 title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 mixed-reality applications
 ms.reviewer: v-brycho
