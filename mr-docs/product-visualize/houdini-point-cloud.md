@@ -1,11 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D models for Microsoft Dynamics 365 mixed-reality apps.
-ms.author: v-jerja
+ms.author: sbmjais
 ms.date: 08/13/2020
 ms.topic: article
 title: Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Use SideFX Houdini to turn point clouds into optimized 3D models
@@ -295,7 +295,7 @@ Texture coordinates (also known as *UVs*) are pairs of numbers (*U* and *V*) tha
 
 9. Select the **maps\_baker1** node, and then, in the options pane, select **Bake**.
 
-    ![Bake button](media/houdini-42-bake-command.PNG "Bake button")
+    ![Select the Bake button](media/houdini-42-bake-command.PNG "Select the Bake button")
 
 10. Right-click in the **Geometry** pane to open the **TAB menu**, and then select **Managers** \> **Material Network** to add a **matnet1** node to the scene.
 
