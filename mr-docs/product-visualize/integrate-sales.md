@@ -40,7 +40,7 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 7. Select the main form to open it.
 
-    ![Select main form](media/select-default-form.png "Select main form")
+    ![Select the main form](media/select-default-form.png "Select the main form")
 
 8. In the **Field Explorer** pane, select **New Field**.
 
@@ -48,7 +48,7 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 9. Enter the required details for the new field and select **Save and Close**.
 
-    ![New field details](media/new-field-details.png "New field details")
+    ![Enter details for the new field](media/new-field-details.png "Enter details for the new field")
 
 10. Go the entity's form you opened in step 7 and refresh the page. The new field is displayed in the **Field Explorer** pane.
 
@@ -56,7 +56,7 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 11. Select the field and drag it to the desired location on the form.
 
-    ![New field added to the form](media/new-field-added-form.png "New field added to the form")
+    ![Add new field to the form](media/new-field-added-form.png "Add new field to the form")
 
 12. Save and publish the changes.
 

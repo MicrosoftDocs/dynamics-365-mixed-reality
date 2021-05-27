@@ -1,11 +1,11 @@
 ---
-author: sbmjais
+author: JBrentJ
 description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D models for Microsoft Dynamics 365 mixed-reality apps.
-ms.author: shjais
+ms.author: v-jerja
 ms.date: 08/13/2020
 ms.topic: article
 title: Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 mixed-reality applications
-manager: shujoshi
+ms.reviewer: v-brycho
 ---
 
 # Use SideFX Houdini to turn point clouds into optimized 3D models
@@ -189,7 +189,7 @@ Both glTF and real-time rendering applications require that models be represente
 
 2. Drag to connect the output dot on the bottom of the **transform1** node to the input dot on the upper left of the **particlefluidsurface1** node. Then click on the right side of the **pariclefluidsurface1** node to activate the node in the main part of the window.
 
-    ![Connected nodes](media/houdini-21-connected-nodes.PNG "Connected nodes")
+    ![Connect the output dot of transform1 node to input dot of particlefluidsurface1 node](media/houdini-21-connected-nodes.PNG "Connect the output dot of transform1 node to input dot of particlefluidsurface1 node")
 
     In the main part of the window, the point cloud is rendered as a mesh. The **Surfacing** tab is selected in the upper-right pane above the **Geometry** pane.
 
@@ -213,7 +213,7 @@ Both glTF and real-time rendering applications require that models be represente
 
 7. Drag to connect the output dot on the bottom of the **particlefluidsurface1** node to the input dot on the upper left of the **remesh** node. Click in the middle of the **remesh** node to activate it in the pane above the **Geometry** pane. Then click on the right side of the **remesh** node to activate the model in the main part of the window. You can now edit the properties of the remesh, and the model in the main part of the window will reflect those edits.
 
-    ![Connected nodes](media/houdini-27-connected-nodes.PNG "Connected nodes")
+    ![Connect the output dot of particlefluidsurface1 node to input dot of remesh node](media/houdini-27-connected-nodes.PNG "Connect the output dot of particlefluidsurface1 node to input dot of remesh node")
 
 8. Experiment with the options under **Element Sizing** to get the results that you want. For the **Edge Lengths** field, you can keep the default value (**Uniform**), or you can select **Adaptive** and adjust the **Relative Density** slider (and other options) to produce the mesh that you want.
 
@@ -260,7 +260,7 @@ Texture coordinates (also known as *UVs*) are pairs of numbers (*U* and *V*) tha
 
 3. Drag to connect the output dot on the bottom of the **polyreduce1** node to the input dot on the top of the **autouv1** node.
 
-    ![Connected nodes](media/houdini-34-connected-nodes.PNG "Connected nodes")
+    ![Connect the output dot of polyreduce1 node to input dot of autouv1 node](media/houdini-34-connected-nodes.PNG "Connect the output dot of polyreduce1 node to input dot of autouv1 node")
 
 4. To view the "before" and "after" models side by side, select the **Viewport Layout** button, and then select **Two Views Side by Side**.
 
@@ -280,11 +280,11 @@ Texture coordinates (also known as *UVs*) are pairs of numbers (*U* and *V*) tha
 
 6. Drag to connect the output dot on the bottom of the **autouv1** node to the input dot on the upper left of the **maps\_baker1** node. (The upper-left dot is the **LOW Resolution input** node.)
 
-    ![Connected nodes](media/houdini-39-connected-nodes.PNG "Connected nodes")
+    ![Connect the output dot of autouv1 node to input dot of maps\_baker1 node](media/houdini-39-connected-nodes.PNG "Connect the output dot of autouv1 node to input dot of maps\_baker1 node")
 
 7. Drag to connect the output dot on the bottom of the **particlefluidsurface1** node to the input dot on the upper right of the **maps\_baker 1** node. (The upper-right dot is the **HIGH Resolution input** node.)
 
-    ![Connected nodes](media/houdini-40-connected-nodes.PNG "Connected nodes")
+    ![Connect the output dot of particlefluidsurface1 node to input dot of maps\_baker1 node](media/houdini-40-connected-nodes.PNG "Connect the output dot of particlefluidsurface1 node to input dot of maps\_baker1 node")
 
 8. Select the **maps\_baker1** node, and then, under **Bake**, change the value of the **Preview Channel** field to **diffuse**. Under **Bake Options**, set the **Diffuse Map** field to **diffuse**.
 
@@ -330,7 +330,7 @@ Texture coordinates (also known as *UVs*) are pairs of numbers (*U* and *V*) tha
 
 17. Drag to connect the output dot on the bottom of the **autouv1** node to the input dot on the top of the **material1** node.
 
-    ![Connected nodes](media/houdini-50-connected-nodes.PNG "Connected nodes")
+    ![Connect the output dot of autouv1 node to input dot of material1 node](media/houdini-50-connected-nodes.PNG "Connect the output dot of autouv1 node to input dot of material1 node")
 
 18. Select the **material1** node, and select the **Operator chooser** button. Then, in **Choose Operator** dialog box, select **file1** \> **matnet1** \> **principledshader1** to select the principled shader that you created earlier.
 
@@ -352,7 +352,7 @@ In this step, you will export the model to a .glb file so that it can be used wi
 
 2. Drag to connect the output dot on the bottom of the **material1** node to the input dot on the top of the **rop\_gltf1** node.
 
-    ![Connected nodes](media/houdini-54-connected-nodes.PNG "Connected nodes")
+    ![Connect the output dot of material1 node to input dot of rop\_gltf1 node](media/houdini-54-connected-nodes.PNG "Connect the output dot of material1 node to input dot of rop\_gltf1 node")
 
 3. In the upper pane, change the value of the **Export Type** field to **glb**.
 
