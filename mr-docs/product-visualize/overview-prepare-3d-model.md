@@ -1,11 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: Overview of converting and optimizing 3D models to use with mixed-reality applications.
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 08/13/2020
 ms.topic: overview
 title: Overview of preparing 3D models for Dynamics 365 mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Overview of preparing 3D models for Dynamics 365 mixed-reality applications

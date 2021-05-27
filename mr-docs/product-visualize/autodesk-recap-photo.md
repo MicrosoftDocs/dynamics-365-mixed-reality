@@ -1,11 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: This tutorial explains how to use Autodesk ReCap Photo to create 3D models for Microsoft Dynamics 365 mixed-reality apps.
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 08/13/2020
 ms.topic: article
 title: Use Autodesk ReCap Photo to create 3D models for Dynamics 365 mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Use Autodesk ReCap Photo to create 3D models
@@ -68,7 +68,7 @@ The following tips will help you take quality photos for photogrammetry:
 
 6. Select a location to save your model to, and then select **Select Folder**.
 
-    ![Select Folder button](media/recap-photo5.PNG "Select Folder button")
+    ![Select Folder](media/recap-photo5.PNG "Select Folder")
 
 7. You see a new 3D model that has the name that you entered. Select the model to open it in the editor.
 
@@ -203,7 +203,7 @@ The last step is to export the model as a GLB file, so that it can be used with 
 
 After you've finished preparing your 3D model, you can use it in the following Dynamics 365 applications:
 
-- [Dynamics 365 Product Visualize](./setup.md#add-a-model)
+- [Dynamics 365 Product Visualize](setup.md)
 
 - [Dynamics 365 Guides](../guides/index.md)
 
