@@ -1,7 +1,7 @@
 ---
 author: sbmjais
 description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D models for Microsoft Dynamics 365 mixed-reality apps.
-ms.author: sbmjais
+ms.author: shjais
 ms.date: 08/13/2020
 ms.topic: article
 title: Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 mixed-reality applications
