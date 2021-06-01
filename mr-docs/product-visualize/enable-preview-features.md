@@ -1,13 +1,12 @@
 ---
-title: Enable preview features in Dynamics 365 Product Visualize
-description: Learn how to enable preview features in Dynamics 365 Product Visualize.
 author: sbmjais
+description: Learn how to enable preview features in Dynamics 365 Product Visualize.
 ms.author: shjais
-manager: shujoshi
 ms.date: 07/29/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: Enable preview features in Dynamics 365 Product Visualize
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Enable preview features

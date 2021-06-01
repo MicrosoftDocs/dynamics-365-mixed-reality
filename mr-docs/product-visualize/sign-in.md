@@ -1,13 +1,12 @@
 ---
-title: Open and sign in to Dynamics 365 Product Visualize.
-description: Sign in to Dynamics 365 Product Visualize and connect to your Dynamics 365 instance
 author: sbmjais
+description: Sign in to Dynamics 365 Product Visualize and connect to your Dynamics 365 instance
 ms.author: shjais
-manager: shujoshi
 ms.date: 06/12/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: Open and sign in to Dynamics 365 Product Visualize.
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Install, open, and sign in to Dynamics 365 Product Visualize

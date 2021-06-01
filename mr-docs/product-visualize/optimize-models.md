@@ -1,12 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: How to optimize your 3D (CAD) models?
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 01/08/2020
-ms.service: crm-online
 ms.topic: article
 title: Optimize your 3D models for using with mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Optimize your 3D models to use with mixed-reality applications

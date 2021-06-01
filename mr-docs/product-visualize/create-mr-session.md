@@ -1,11 +1,10 @@
 ---
-title: Create mixed-reality sessions in Dynamics 365 Product Visualize Hub
+author: sbmjais
 description: Instructions for creating mixed-reality sessions in Dynamics 365 Product Visualize Hub.
+ms.author: shjais
 ms.date: 07/29/2020
 ms.topic: article
-ms.service: dynamics-365-sales
-author: sbmjais
-ms.author: shjais
+title: Create mixed-reality sessions in Dynamics 365 Product Visualize Hub
 manager: shujoshi
 ---
 
