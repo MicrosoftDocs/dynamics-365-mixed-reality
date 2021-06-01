@@ -1,12 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: Everything you need to know about converting 3D models
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 08/13/2020
-ms.service: crm-online
 ms.topic: article
 title: Convert your 3D (CAD) models for using with mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Convert your 3D (CAD) models to use with mixed-reality applications

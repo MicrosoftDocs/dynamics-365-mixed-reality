@@ -1,13 +1,12 @@
 ---
-title: User guide for Dynamics 365 Product Visualize Hub
-description: Guide for signing in to the Dynamics 365 Product Visualize Hub, creating products, adding models to a product, adding and managing notes, creating mixed-reality sessions, and adding products to mixed-reality sessions.
 author: sbmjais
+description: Guide for signing in to the Dynamics 365 Product Visualize Hub, creating products, adding models to a product, adding and managing notes, creating mixed-reality sessions, and adding products to mixed-reality sessions.
 ms.author: shjais
-manager: shujoshi
 ms.date: 07/29/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: User guide for Dynamics 365 Product Visualize Hub
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Dynamics 365 Product Visualize Hub user guide

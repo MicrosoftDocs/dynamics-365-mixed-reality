@@ -1,13 +1,12 @@
 ---
-title: Prepare 3D CAD models to use with Dynamics 365 Product Visualize
-description: Learn how to convert and optimize 3D models for use with Dynamics 365 Product Visualize.
 author: sbmjais
+description: Learn how to convert and optimize 3D models for use with Dynamics 365 Product Visualize.
 ms.author: shjais
-manager: shujoshi
 ms.date: 06/12/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: Prepare 3D CAD models to use with Dynamics 365 Product Visualize
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Prepare 3D CAD models to use with Dynamics 365 Product Visualize

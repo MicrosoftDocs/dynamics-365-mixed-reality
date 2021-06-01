@@ -1,13 +1,12 @@
 ---
-title: Explore sample 3D models in Dynamics 365 Product Visualize
-description: How to explore sample models without a Dynamics 365 subscription
 author: sbmjais
+description: How to explore sample models without a Dynamics 365 subscription
 ms.author: shjais
-manager: shujoshi
 ms.date: 06/12/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: Explore sample 3D models in Dynamics 365 Product Visualize
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Explore sample 3D models in Dynamics 365 Product Visualize

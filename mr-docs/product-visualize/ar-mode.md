@@ -1,13 +1,12 @@
 ---
-title: View 3D models without using your device's camera with Dynamics 365 Product Visualize
-description: Learn how to View 3D models without using your device's camera.
 author: sbmjais
+description: Learn how to View 3D models without using your device's camera.
 ms.author: shjais
-manager: shujoshi
 ms.date: 07/29/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: View 3D models without using your device's camera with Dynamics 365 Product Visualize
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # View 3D models without using your device's camera

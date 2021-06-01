@@ -1,13 +1,12 @@
 ---
-title: User guide for Dynamics 365 Product Visualize iOS app
-description: Guide for opening and signing in to the Dynamics 365 Product Visualize app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
 author: sbmjais
+description: Guide for opening and signing in to the Dynamics 365 Product Visualize app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
 ms.author: shjais
-manager: shujoshi
 ms.date: 09/14/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: User guide for Dynamics 365 Product Visualize iOS app
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Dynamics 365 Product Visualize iOS app user guide

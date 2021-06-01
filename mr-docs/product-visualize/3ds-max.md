@@ -1,12 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed-reality apps
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 08/13/2019
-ms.service: crm-online
 ms.topic: article
 title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Use Autodesk 3ds Max to prepare 3D content for Dynamics 365 mixed-reality applications
@@ -312,7 +311,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 1. Select **Rendering** > **Material Editor** > **Compact Material Editor** to open the Compact Material Editor.
 
-   ![Compact Material Editor](media/3ds-max-compact-material-editor1.PNG "Compact Material Editor")
+   ![Apply the texture from Compact Material Editor](media/3ds-max-compact-material-editor1.PNG "Apply the texture from Compact Material Editor")
 
 2. Set up a new material slot in the material editor.  
 

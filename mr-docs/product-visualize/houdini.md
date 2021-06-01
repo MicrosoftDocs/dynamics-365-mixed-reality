@@ -1,12 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: Describes, in tutorial format, how to use SideFX Houdini to prepare 3D models for use in Dynamics 365 mixed-reality apps
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 08/13/2020
-ms.service: crm-online
 ms.topic: article
 title: Use SideFX Houdini to prepare 3D models for use in Dynamics 365 mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Use SideFX Houdini to prepare 3D models for use in Dynamics 365 mixed-reality applications
@@ -44,7 +43,7 @@ This tutorial provides step-by-step instructions that show you how to:
 
 4. Double-click the **file1** icon (or press **I**) to drill down to the file selection part of this node. Select the **Open floating file chooser** button, and then choose the file you want to import.
 
-   ![File chooser button](media/3-houdini-file-chooser.PNG "File chooser button")
+   ![File chooser icon](media/3-houdini-file-chooser.PNG "File chooser icon")
 
 5. In the pop-up window, browse to the file you want to import, select it, and then select **Accept**.  
 
@@ -154,11 +153,11 @@ You need to export the model to a GLB file to use it with Dynamics 365 mixed-rea
 
 5.	Next to the **Output File** field, select the **File Chooser** button, and then choose a name and destination for the GLB file.  Make sure to add **.glb** to the end of the file name.
 
-    ![File chooser button](media/23-houdini-file-chooser.PNG "File chooser button")
+    ![File chooser](media/23-houdini-file-chooser.PNG "File chooser")
 
 6.	Select **Render to Disk** to finish the export and create the GLB file.
 
-    ![Render to Disk button](media/24-houdini-render-to-disk.PNG "Render to Disk button")
+    ![Select Render to Disk button](media/24-houdini-render-to-disk.PNG "Select Render to Disk button")
 
 ## Create a template
 

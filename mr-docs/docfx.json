@@ -82,7 +82,8 @@
       },
       "ms.service": {
         "guides/**/**.md": "dynamics-365-guides",
-        "import-tool/**/**.md": "dynamics-365-import-tool"
+        "import-tool/**/**.md": "dynamics-365-import-tool",
+        "product-visualize/**/*.md": "dynamics-365-productvisualize"
       }
     },
     "template": [],
