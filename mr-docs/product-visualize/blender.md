@@ -1,12 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: Describes in tutorial form how to use the Blender open-source 3D creation suite to prepare 3D models for use in Dynamics 365 mixed-reality apps
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 08/13/2020
-ms.service: crm-online
 ms.topic: article
 title: Use Blender to prepare 3D models for use in Dynamics 365 mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Use Blender to prepare 3D models for use in Dynamics 365 mixed-reality applications
@@ -150,7 +149,7 @@ To visualize the concept of UV unwrapping, imagine cutting out every surface of 
 
 ## Prepare materials for texture baking
 
-1. Select the duplicate model, and then select the **Materials** tab ![Materials tab](media/blender-materials-tab.PNG "Materials tab") to go the **Materials** panel.
+1. Select the duplicate model, and then select the **Materials** tab ![Materials icon](media/blender-materials-tab.PNG "Materials icon") to go the **Materials** panel.
 
    ![Materials tab](media/blender-materials-tab-full-screen.PNG "Materials tab")
 
@@ -170,7 +169,7 @@ To visualize the concept of UV unwrapping, imagine cutting out every surface of 
 
     ![New](media/blender-new.PNG "New")
 
-6. Hover over the viewport (the main window where the 3D model is shown), press the **Tab** key to enter **Edit Mode**, press **a** to select all, and then select **Assign** from the **Materials** tab ![Materials tab](media/blender-materials-tab.PNG "Materials tab").
+6. Hover over the viewport (the main window where the 3D model is shown), press the **Tab** key to enter **Edit Mode**, press **a** to select all, and then select **Assign** from the **Materials** tab ![Materials icon](media/blender-materials-tab.PNG "Materials icon").
 
     ![Assign](media/blender-assign.PNG "Assign")
 
@@ -232,7 +231,7 @@ After the texture and material are set up on the duplicate 3D model, it's time t
 
     To confirm that the bake was successful, you can select the eye icon ![Eye icon](media/blender-eye-icon.PNG "Eye icon") next to the original model to hide it. Now only the duplicate with one material and texture is visible.
 
-    ![Eye icon](media/blender-eye-icon-full-screen.PNG "Eye icon")
+    ![Eye icon on screen](media/blender-eye-icon-full-screen.PNG "Eye icon on screen")
 
 ## Export the model to a GLB file
 

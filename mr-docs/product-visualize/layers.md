@@ -1,13 +1,12 @@
 ---
-title: Show or hide layers in a 3D model in Dynamics 365 Product Visualize.
-description: Learn how to show, hide, and select layers in a 3D model in Dynamics 365 Product Visualize.
 author: sbmjais
+description: Learn how to show, hide, and select layers in a 3D model in Dynamics 365 Product Visualize.
 ms.author: shjais
-manager: shujoshi
 ms.date: 06/12/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: Show or hide layers in a 3D model in Dynamics 365 Product Visualize.
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Show or hide layers in a 3D model in Dynamics 365 Product Visualize

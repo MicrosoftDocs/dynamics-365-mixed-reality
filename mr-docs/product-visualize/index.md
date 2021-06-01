@@ -1,13 +1,12 @@
 ---
-title: Overview of Dynamics 365 Product Visualize
-description: Dynamics 365 Product Visualize empowers sellers to showcase and customize products in a real-world environment
 author: sbmjais
+description: Dynamics 365 Product Visualize empowers sellers to showcase and customize products in a real-world environment
 ms.author: shjais
-manager: shujoshi
 ms.date: 07/29/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: Overview of Dynamics 365 Product Visualize
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Overview of Dynamics 365 Product Visualize
