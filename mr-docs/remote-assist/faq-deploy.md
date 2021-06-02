@@ -2,7 +2,7 @@
 author: sophiasysun
 description: Answers to common questions about deploying Microsoft Dynamics 365 Remote Assist.
 ms.author: sopsun
-ms.date: 07/27/2020
+ms.date: 06/02/2021
 ms.service: crm-online
 ms.topic: article
 title: Frequently asked questions for deploying Dynamics 365 Remote Assist 
@@ -33,5 +33,8 @@ Yes. Anyone that can sign in and use the Teams application on a Windows 10 PC or
 
 No.  Dynamics 365 Remote Assist licenses must be assigned to an AAD account created in the tenant where Dynamics 365 Remote Assist will be used.
 
+## How do I file a support ticket?
+
+If you encounter an issue that blocks you from using the application and you don't see an answer on our user forum, please file a support ticket. Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](https://docs.microsoft.com/dynamics365/get-started/support/).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

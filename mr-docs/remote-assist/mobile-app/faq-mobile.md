@@ -2,7 +2,7 @@
 author: xonatia
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist mobile.
 ms.author: xolee
-ms.date: 10/01/2020
+ms.date: 06/02/2021
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist mobile frequently asked questions
@@ -91,6 +91,9 @@ In the Dynamics 365 Remote Assist mobile app, you can provide feedback by:
 
 >[!Note]
 > Dynamics 365 Remote Assist mobile users can also provide feedback to our team in the [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist) for Dynamics 365 Remote Assist or in the [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/list/?category=81a97e52-9c54-e911-a963-000d3a4f33c1&forum=4323c621-52bc-e811-a975-000d3a1bec70) for Dynamics 365 Remote Assist mobile.
+
+## How do I file a support ticket?
+If you encounter an issue that blocks you from using the application and you don't see an answer on our user forum, please file a support ticket. Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](https://docs.microsoft.com/dynamics365/get-started/support/).
 
 ## See also
 
