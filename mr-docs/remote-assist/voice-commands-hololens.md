@@ -3,7 +3,7 @@ title: Voice commands and gestures for Dynamics 365 Remote Assist on HoloLens
 author: BryceHolmes
 description: Learn about voice commands and gestures for Microsoft Dynamics 365 Remote Assist on HoloLens.
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 06/02/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -72,13 +72,16 @@ For full list of voice commands, see the list below.
 |Back (next)                            |When Files tab is open, go back                                                                                     |
 |Previous (next)                        |When viewing a PDF, return to previous page (go to next page)                                                      |
 |Set page                               |Open the PDF page-jump UI. Use "Select" to set page numbers.                                                       |
-|Reset                                  |Reset the newest received file to its original placement and size.                                                 |
+|Reset                                  |Reset the newest received file to its original placement and size. 
+|Save to booking                        |Save captured photo to Field Service booking|
+|Save to OneDrive                       |Save captured photo to OneDrive|
 |**Post-call**                               |                                          |
 |Post (post all)                               |Post call artifacts to associated work order                                      |
 |Discard (discard all)                               |Do not post call artifacts to associated work order                                                             |
 |Retry                               |Try posting again                                 |
-
-
+|**Teaching Moments tutorial (runs at app launch)**||
+|Next or Done                        |Move to next page in tutorial|
+|Close                               |Close Teaching Moments tutorial|
 
 ## Use the Narrator to announce incoming calls
 

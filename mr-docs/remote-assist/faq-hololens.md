@@ -2,7 +2,7 @@
 author: BryceHolmes
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist on Microsoft HoloLens.
 ms.author: soanigbo
-ms.date: 04/28/2021
+ms.date: 06/02/2021
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
@@ -125,10 +125,6 @@ To view the call log and files, sign into Field Service and select the work orde
 
 For more information, visit our article on [displaying and saving files](display-save-files.md).
 
-## How do I file a support ticket?
-
-If you encounter an issue that blocks you from using the application and you do not see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved.  
-
 ## How do I report a bug?
 
 If you encounter an issue, use the HoloLens Feedback Hub to let us know so we can resolve it in future releases.
@@ -181,5 +177,9 @@ When you're in the HoloLens Feedback Hub:
     > Optionally, check the "This is blocking me" box if the issue is blocking you from completing your work or tasks. 
     > 
     > To provide the best possible data for fixing issues, we recommend that you set your device telemetry to **Optional Diagnostic data** when you set up Dynamics 365 Remote Assist. You can also make this change through the **Settings** menu within the app (select **Start** > **Settings** > **Privacy** > **Diagnostics & feedback** > **Optional Diagnostic data**).
+
+## How do I file a support ticket?
+
+If you encounter an issue that blocks you from using the application and you don't see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](https://docs.microsoft.com/dynamics365/get-started/support/).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

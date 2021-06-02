@@ -3,7 +3,7 @@ title: Learn more about the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 author: BryceHolmes
 description: Overview, enablement and feature details for the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 06/02/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -89,12 +89,14 @@ Let's take a look at the information that's provided by each of the visuals in t
 
 ## Additional notes
 
-* Data is refreshed every 24 hours. The dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Note that Microsoft does not currently support a custom refresh schedule.
+- Data is refreshed every 24 hours. The dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Note that Microsoft does not currently support a custom refresh schedule.
 
-* If an organization has no active dashboard usage for two continuous weeks, the data refresh will be paused. When a user opens the dashboard, the data will be refreshed in the next refresh cycle.
+- If an organization has no active dashboard usage for two continuous weeks, the data refresh will be paused. When a user opens the dashboard, the data will be refreshed in the next refresh cycle.
 
-* Data is retained for 24 months.
+- Data is retained for 24 months.
 
-* The Calls Dashboard uses storage capacity in the Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
+- The Calls Dashboard uses storage capacity in the Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
+
+- To make sure that all calls are logged to the Microsoft Dataverse, Microsoft recommends that users wait a few seconds after the call ends before closing or minimizing the Dynamics 365 Remote Assist application. 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
