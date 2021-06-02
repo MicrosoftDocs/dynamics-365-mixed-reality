@@ -26,6 +26,8 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
    - [Optimize your 3D models](optimize-models.md)
    
    - [Best practices for converting and optimizing real-time 3D models](best-practices.md)
+   
+   - [Overview of self-serve tutorials](tutorials-overview.md)
 
 2. [Add the files to Dynamics 365 Product Visualize](/dynamics365/mixed-reality/product-visualize/setup-existing-instance#add-3d-models-to-your-products). 
 

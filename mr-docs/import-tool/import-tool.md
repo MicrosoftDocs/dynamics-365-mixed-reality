@@ -21,6 +21,7 @@ Before you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-impo
 - [Convert your 3D models](convert-models.md)
 - [Optimize your 3D models](optimize-models.md)
 - [Best practices for 3D models](best-practices.md)
+- [Overview of self-serve tutorials](tutorials-overview.md)
 
 ## Import your models with the Dynamics 365 Import Tool (Preview)
 
