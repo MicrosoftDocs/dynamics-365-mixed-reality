@@ -78,15 +78,13 @@ The following fields are required to create the Guide Steps table:
 ![Power Automate screenshot with required fields for Step table highlighted](media/power-automate-step-creation-fields.PNG "Power Automate screenshot with required fields for Step table highlighted")
 
 > [!NOTE]
-> If you programatically add more than one step to a guide, the following fields also need to be populated so that you can navigate between steps (store previous/next step information).
->
->- If you add multiple steps, you need to populate the **Response 1 Action Type** field for all steps.
+> If you programatically add more than one step to a guide, you need to populate the **Response 1 Action Type** and **Previous step** fields for navigating between steps. 
 >
 >- If it's a default step and not a question step, set the **Response 1 Action Type** field to **Go To Next Step**.
 >
 > ![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
 >
->- When adding multiple steps, also populate previous step info for the second and subsequent steps.
+>- When adding multiple steps, also populate the **Previous step** field for the second and subsequent steps.
 >
 > ![Screen shot of Previous step field](media/previous-step-field.PNG "Screen shot of Previous step field]")
 > 
