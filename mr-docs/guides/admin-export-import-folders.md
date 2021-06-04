@@ -12,8 +12,7 @@ ms.reviewer: v-bholmes
 # Export and import Dynamics 365 Guides folders between environments
 
 You can export the folders you have created in Microsoft Dynamics 365 Guides and import them into another environment to recreate your file structure. The guides, 3D 
-content, and media associated with these folders will not be included in this process. However, you can use the Migration Tool script to migrate this content after 
-you’ve imported your folders.  
+content, and media associated with these folders will not be included in this process. However, you can use the [Content Migration Tool](migrate.md) to migrate this content after you’ve imported your folders.  
 
 > [!NOTE]
 > If you export and import your folders first, and then migrate the content, the relationships between the folders and the content will be reconstructed.
