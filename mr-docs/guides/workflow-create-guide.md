@@ -80,14 +80,14 @@ The following fields are required to create the Guide Steps table:
 > [!NOTE]
 > If you programatically add more than one step to a guide, the following fields also need to be populated so that you can navigate between steps (store previous/next step information).
 >
->- If you add multiple steps, all steps should have the **Response 1 Action Type** field populated.
+>- If you add multiple steps, you need to populate the **Response 1 Action Type** field for all steps.
+>
+>- If it's a default step and not a question step, set the **Response 1 Action Type** field to **Go To Next Step**.
 >
 > ![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
 >
->- If it's a default step and not a question step, set **Go To Next Step**.
->
->- If adding multiple steps, the second step onwards should have previous step information populated.
- Add Guide Step Unique Identifier to this field, here I’ve passed in my identifier that I’ve stored in a variable as an example.
+>- When adding multiple steps, also populate previous step info for the second and subsequent steps.
+> Add Guide Step Unique Identifier to this field, here I’ve passed in my identifier that I’ve stored in a variable as an example.
 
 ## Test your flow
 
