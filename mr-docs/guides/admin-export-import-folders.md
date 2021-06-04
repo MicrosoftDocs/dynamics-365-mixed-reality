@@ -75,9 +75,9 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
        ![Export this solution pane with Managed option selected and Export button highlighted](media/export-folders-07.PNG "Export this solution pane with Managed option selected and Export button highlighted")
        
        > [!NOTE]
-       > Select a managed solution if you want the rows to be bundled with the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder cascades to its children). On the other hand, if you delete an unmanaged solution from the environment, the rows will persist.
+       > Select a managed solution if you want the rows to be bundled with the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder includes any subfolders). On the other hand, if you delete an unmanaged solution from the environment, the rows will persist.
 
-    3. Once the export is ready, it should automatically download as a .zip file and you’ll see a green notification saying it has been exported successfully. This might take a while.   
+    3. Once the export is ready, it's automatically downloaded as a .zip file. You’ll see a green notification saying it has been exported successfully. This might take a while.   
 
        ![Power Apps screen with green notification](media/export-folders-08.PNG "Power Apps screen with green notification")
       
@@ -108,24 +108,9 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![Import a solution pane with Import button highlighted](media/export-folders-13.PNG "Import a solution pane with Import button highlighted")
 
-    Once the import is ready, you should see a notification stating that the solution has been successfully imported. This might take a few minutes.
+    When the import is complete, you'll see a notification stating that the solution has been successfully imported. This might take a few minutes.
  
     ![Power Apps screen with notification showing solution successfully imported](media/export-folders-14.PNG "Power Apps screen with notification showing solution successfully imported")
-
-### Known issues 
-
-If you try to import a solution with missing parent folders, and subfolders still reference these parent folders, you'll see an error message like the one below. Select **Download details**  to see a detailed error message.
-
-![Import a solution pane with Download details link highlighted](media/export-folders-15.PNG "Import a solution pane with Download details link highlighted")
- 
-The download details will look something like this:
-
-**Log.txt** 
-
-[{"SolutionValidationResultType":"Error","Message":"The following solution cannot be imported: MTTestSource2. Some dependencies are missing. The missing dependencies are : <MissingDependencies><MissingDependency><Required key=\"0\" type=\"msdyn_MRFolder\" solution=\"Active\" id=\"{3a309204-0f89-eb11-a812-000d3a4f7b30}\" /><Dependent key=\"1\" type=\"msdyn_MRFolder\" id=\"{e8d4da0b-0f89-eb11-a812-000d3a4f7b30}\" /></MissingDependency></MissingDependencies> , ProductUpdatesOnly : False","ErrorCode":-2147188707,"AdditionalInfo":null}] 
- 
-> [!NOTE]
-> If you delete duplicate folders, make sure to refresh your screen after a successful deletion.   
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]     
 
