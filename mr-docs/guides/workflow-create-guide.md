@@ -87,6 +87,9 @@ The following fields are required to create the Guide Steps table:
 > ![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
 >
 >- When adding multiple steps, also populate previous step info for the second and subsequent steps.
+>
+> ![Screen shot of Previous step field](media/previous-step-field.PNG "Screen shot of Previous step field]")
+> 
 > Add Guide Step Unique Identifier to this field, here I’ve passed in my identifier that I’ve stored in a variable as an example.
 
 ## Test your flow
