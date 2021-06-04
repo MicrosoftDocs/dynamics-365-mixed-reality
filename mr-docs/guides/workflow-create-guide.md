@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the tables and fields that are required to create a guide (in Microsoft Dynamics 365 Guides) using Microsoft Power Automate.
 ms.author: mamaylya
-ms.date: 05/10/2021
+ms.date: 06/07/2021
 ms.topic: article
 title: Tables and fields required to create a guide in Power Automate
 ms.reviewer: v-bholmes
@@ -76,6 +76,18 @@ The following fields are required to create the Guide Steps table:
 |Task (Guide Tasks)|Enter the table name (**/msmrw_guidetasks/**), and then select **Guide Task** from the dynamic lookup.|
 
 ![Power Automate screenshot with required fields for Step table highlighted](media/power-automate-step-creation-fields.PNG "Power Automate screenshot with required fields for Step table highlighted")
+
+> [!NOTE]
+> If you programatically add more than one step to a guide, the following fields also need to be populated so that you can navigate between steps (store previous/next step information).
+>
+>- If you add multiple steps, all steps should have the **Response 1 Action Type** field populated.
+>
+> ![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
+>
+>- If it's a default step and not a question step, set **Go To Next Step**.
+>
+>- If adding multiple steps, the second step onwards should have previous step information populated.
+ Add Guide Step Unique Identifier to this field, here I’ve passed in my identifier that I’ve stored in a variable as an example.
 
 ## Test your flow
 
