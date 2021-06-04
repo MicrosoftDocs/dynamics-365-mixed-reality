@@ -2,7 +2,8 @@
 author: melissahellmund
 description: Learn how to export and import Dynamics 365 Guides folders between environments
 ms.author: mehellmu
-ms.date: 05/04/2021
+ms.date: 06/04/2021
+ms.service: crm-online
 ms.topic: article
 title: Export and import Dynamics 365 Guides folders between environments
 ms.reviewer: v-bholmes
@@ -10,24 +11,11 @@ ms.reviewer: v-bholmes
 
 # Export and import Dynamics 365 Guides folders between environments
 
-You can export folders you have created in Microsoft Dynamics 365 Guides and import them into another environment to recreate your folder structure. You do this by:
-
-1. Creating a new solution in your environment
-
-2. Adding folders as components of the new solution
-
-3. Downloading a zip file that you can import into another environment.
-
-The content associated with these folders (guides, 3D content, and media) will not be included in this process. However, you can use the [Content Migration tool](migrate.md) to migrate this content after you’ve imported your folders.  
+You can export the folders you have created in Microsoft Dynamics 365 Guides and import them into another environment to recreate your file structure. The guides, 3D 
+content, and media associated with these folders will not be included in this process. However, you can use the [Content Migration Tool](migrate.md) to migrate this content after you’ve imported your folders.  
 
 > [!NOTE]
-> If you export and import your folders first, and then transfer the content, the relationships between the folders and the content will be reconstructed.
-
-For more info on solutions, see the following links:
-
-- [Introduction to solutions](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/introduction-solutions)
-
-- [Solution concepts](https://docs.microsoft.com/power-platform/alm/solution-concepts-alm)
+> If you export and import your folders first, and then migrate the content, the relationships between the folders and the content will be reconstructed.
 
 ## Prerequisites 
 
@@ -39,111 +27,90 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 ## Export the folders
 
-1. Go to [make.powerapps.com](https://make.preview.powerapps.com/), and then sign into the environment that contains the folders you want to export. Make sure to check in the upper-right corner that the environment of your choice is selected. 
-
-    ![Power Apps screen with Environment highlighted](media/export-import-1.PNG "Power Apps screen with Environment highlighted")
+1. Go to [make.powerapps.com](https://make.preview.powerapps.com/), and then sign into the environment that contains the folders you want to export. 
 
 2. In the left navigation pane, select **Solutions**. 
 
-    ![Power Apps screen with Solutions command highlighted](media/export-import-2.PNG "Power Apps screen with Solutions command highlighted")
+    ![Power Apps screen with Solutions command selected](media/export-folders-01.PNG "Power Apps screen with Solutions command selected")
 
-3. An the top of the Power Apps page, select **Switch to classic**.
+3. Create a new solution by doing the following:  
 
-    ![Power Apps screen with Switch to classic highlighted](media/export-import-3.PNG "Power Apps screen with Switch to classic highlighted")
-
-4. Create a new solution by doing the following:  
-
-    1. At the top of the screen, select **New**.  
-
-       ![All Solutions view with New command highlighted](media/export-import-4.PNG "All Solutions view with New command highlighted")
+    1. In the command bar, select **New solution**.  
 
     2. Enter a display name. This will be the name of your solution.  
 
-    3. In the **Publisher** field, select **Default Publisher for {orgid}** from the drop-down menu.  
+    3. Select **Default Publisher for {orgid}** from the drop-down menu.  
 
-    4. In the **Version** field, enter **1** or **1.0.0.0**.
+    4. Select **Create**.  
 
-    4. Select **Save**.  
+       ![Power Apps screen with 4 choices highlighted](media/export-folders-02.PNG "Power Apps screen with 4 choices highlighted")
 
-       ![Fields and Save command highlighted](media/export-import-5.PNG "Fields and Save command highlighted")
+4. Add the folders as components of your solution:  
 
-4. To add the folders as components of your solution:  
+    1. Select the solution you just created.  
 
-    1. Select **Add Existing** > **Folder**.  
+    2. Select **Edit**.  
 
-       ![Add Existing > Folder highlighted](media/export-import-6.PNG "Add Existing > Folder highlighted")
+       ![Power Apps screen with solution and Edit button highlighted](media/export-folders-03.PNG "Power Apps screen with solution and Edit button highlighted")
 
-    2. Select the folders you want to include in your export, and then select **OK**.
+    3. Select **Add existing** > **Folder**.  
 
-       ![Selected folders and OK button highlighted](media/export-import-7.PNG "Selected folders and OK button highlighted")
+       ![Power Apps screen with Add existing and Folder highlighted](media/export-folders-04.PNG "Power Apps screen with Add existing and Folder highlighted")
 
+    4. Select the folders you want to include in your export, and then select **Add**.  
+
+       ![Power Apps screen with Add highlighted](media/export-folders-05.PNG "Power Apps screen with Add highlighted")
+ 
        > [!NOTE]
        > If you select a folder that includes subfolders, you'll need to select the parent folder and the child folder individually. However, if you select a subfolder, the parent folder will automatically be added to the list that will be exported. 
 
 5. To export your solution:  
 
-    1. Select **Save**.
+    1. Select **Export**, and then select **Next**. 
 
-    2. Select **Export Solution**.  
+       ![Power Apps screen with Export and Next highlighted](media/export-folders-06.PNG "Power Apps screen with Export and Next highlighted")
 
-       ![Save button and Export Solution command highlighted](media/export-import-8.PNG "Save button and Export Solution command highlighted")
-       
-    3. Select **Next**.
+    2. Select between a managed and an unmanaged solution, and then select **Export**.  
 
-       ![Publish Customizations dialog with Next button highlighted](media/export-import-9.PNG "Publish Customizations dialog with Next button highlighted")
-       
-    4. Select **Next**.
-
-       ![Export System Settings dialog with Next button highlighted](media/export-import-10.PNG "Export System Settings dialog with Next button highlighted")
-       
-    5. Select between a managed and an unmanaged solution, and then select **Export**.
-
-       ![Package Type dialog with Export button highlighted](media/export-import-11.PNG "Package Type dialog with Export button highlighted")
+       ![Export this solution pane with Managed option selected and Export button highlighted](media/export-folders-07.PNG "Export this solution pane with Managed option selected and Export button highlighted")
        
        > [!NOTE]
-       > Select a managed solution if you want the rows to be permanently tied to the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder is cascading). This will also prevent you from re-exporting the rows. On the other hand, if an unmanaged solution is deleted from the environment, the rows will persist. 
+       > Select a managed solution if you want the rows to be bundled with the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder includes any subfolders). On the other hand, if you delete an unmanaged solution from the environment, the rows will persist.
 
-7. Once the export is ready, it should automatically download as a .zip file. This might take a while. 
+    3. Once the export is ready, it's automatically downloaded as a .zip file. You’ll see a green notification saying it has been exported successfully. This might take a while.   
 
-    ![Zip file highlighted in lower-left corner of screen](media/export-import-12.PNG "Zip file highlighted in lower-left corner of screen")
+       ![Power Apps screen with green notification](media/export-folders-08.PNG "Power Apps screen with green notification")
       
-    > [!NOTE]
-    > Deactivated folders will appear in the list to be exported. They can be imported into a new environment and will remain deactivated.
+       > [!NOTE]
+       > Deactivated folders will appear on the list to be exported.
       
-## Import the folders
+### Import the folders
 
-1. Go to [make.powerapps.com](https://make.preview.powerapps.com/) and **ensure you are in the environment where you want to import the folders**. You can check this in the top right corner of the screen under **Environments**.      
+1. Go to [make.powerapps.com](https://make.preview.powerapps.com/) and **ensure you are in the environment where you want to import the folders**. You can check this in the top right corner of the screen under **Environment**.  
 
-2. In the left navigation pane, select **Solutions**, and then select **Switch to classic**.
+    ![Power Apps screen showing where to check for the correct environment](media/export-folders-09.PNG "Power Apps screen showing where to check for the correct environment")
 
-    ![Power Apps screen with Solutions command and Switch to classic command highlighted](media/export-import-13.PNG "Power Apps screen with Solutions command and Switch to classic command highlighted")
+2. In the left navigation pane, select **Solutions**.  
 
-3. At the top of the screen, select **Import**, and then select **Choose File**.  
+3. In the command bar, select **Import**, and then in the **Import a solution** pane, select **Browse**.  
 
-    ![All Solutions view with Import command and Choose File command highlighted](media/export-import-14.PNG "All Solutions view with Import command and Choose File command highlighted")
+    ![Power Apps screen with Import and Browse highlighted](media/export-folders-10.PNG "Power Apps screen with Import and Browse highlighted")
 
-4. Find the .zip file you downloaded when exporting the folders, select it, and then select **Open**.  
+4. In the **Open** dialog box, find the .zip file you just downloaded, select it, and then select **Open**.  
+
+    ![Open dialog box with Zip file and Open button highlighted](media/export-folders-11.PNG "Open dialog box with Zip file and Open button highlighted")
 
 5. Select **Next**.  
 
-    ![All Solutions view with zip file, Open command and Next command highlighted](media/export-import-15.PNG "All Solutions view with zip file, Open command and Next command highlighted")
+    ![Import a solution pane with Next button highlighted](media/export-folders-12.PNG "Import a solution pane with Next button highlighted")
 
 6. Select **Import**.  
 
-    ![Import command highlighted](media/export-import-16.PNG "Import command highlighted")
+    ![Import a solution pane with Import button highlighted](media/export-folders-13.PNG "Import a solution pane with Import button highlighted")
 
-    After your solution has been imported, you'll see it in the **All Solutions** list.
+    When the import is complete, you'll see a notification stating that the solution has been successfully imported. This might take a few minutes.
  
-    ![All Solutions view with new row highlighted](media/export-import-17.PNG "All Solutions view with new row highlighted")
-    
-## See also
-
-- [Migrate content between environments](migrate.md)
-
-- [Introduction to solutions](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/introduction-solutions)
-
-- [Solution concepts](https://docs.microsoft.com/power-platform/alm/solution-concepts-alm)
-
+    ![Power Apps screen with notification showing solution successfully imported](media/export-folders-14.PNG "Power Apps screen with notification showing solution successfully imported")
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]     
 
