@@ -105,7 +105,7 @@ These fields maps to the response buttons in the PC app.
 
 ![Screen shot of Question step fields in PC app](media/question-step-fields-pc-app.PNG "Screen shot of Question step fields in PC app]")
 
-#### Completion step
+#### Completion steps
 
 Set the **Step template Type** field to **Completion**.
 
