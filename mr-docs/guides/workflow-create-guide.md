@@ -91,13 +91,13 @@ Populate the **Previous Step** field for the second and subsequent steps by addi
 
 #### Default steps
 
-Set the **Step template Type** field to **Default** and set the **Response 1 Action Type** field to **Go To Next step**.
+Set the **Step Template Type** field to **Default** and set the **Response 1 Action Type** field to **Go To Next step**.
 
 ![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
 
 #### Question steps
 
-For Question steps, set the **Step template Type** field to **Question**. Response fields (for example, **Response 1**, **Response 2**, and so on) are not required, but this will lead to a question step that doesn't go anywhere. You can fill out the following fields to populate the Question step responses.
+For Question steps, set the **Step Template Type** field to **Question**. Response fields (for example, **Response 1**, **Response 2**, and so on) are not required, but this will lead to a question step that doesn't go anywhere. You can fill out the following fields to populate the Question step responses.
 
 ![Screen shot of Question step fields](media/question-step-fields.PNG "Screen shot of Question step fields]")
 
@@ -107,7 +107,7 @@ These fields maps to the response buttons in the PC app.
 
 #### Completion steps
 
-Set the **Step template Type** field to **Completion**.
+Set the **Step Template Type** field to **Completion**.
 
 ## Test your flow
 
