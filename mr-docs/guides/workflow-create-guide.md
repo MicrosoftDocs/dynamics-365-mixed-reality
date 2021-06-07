@@ -83,7 +83,7 @@ The following fields are required to create the Guide Steps table:
 
 ### Adding multiple steps
 
-If you programatically add more than one step to a guide, you need to populate the **Response 1 Action Type** (for next step) and **Previous Step** fields so users can navigate between steps. 
+If you add more than one step to a guide, you need to populate the **Response 1 Action Type** (for next step) and **Previous Step** fields so users can navigate between steps. 
 
 Populate the **Previous Step** field for the second and subsequent steps by adding the Guide Step Unique Identifier. You can find the ID for a specific guide step through the model-driven app, or you can fetch the ID from a Power Automate flow by storing it in a variable. For example, the following screen shot shows the identifier passed as a stored variable. 
 
