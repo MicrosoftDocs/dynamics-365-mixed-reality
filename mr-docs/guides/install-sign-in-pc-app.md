@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides PC app so you can start creating a guide.
 ms.author: mamaylya
-ms.date: 02/25/2020
+ms.date: 06/07/2020
 ms.topic: article
 title: Install the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
@@ -10,7 +10,7 @@ ms.reviewer: v-brycho
 
 # Install, open, and sign in to the Dynamics 365 Guides PC app
 
-Use these instructions to install the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app (if it hasn't already been installed for you) and to sign in.
+Use these instructions to install the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app (if it hasn't already been installed for you) and to sign in. For information on technical requirements for the PC app, see [Device and licensing requirements](requirements.md).
 
 > [!NOTE]
 > You must have a license to install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app. You can also sign up for a free trial. For more information, see [Setup overview](setup.md).
