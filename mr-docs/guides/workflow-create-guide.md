@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the tables and fields that are required to create a guide (in Microsoft Dynamics 365 Guides) using Microsoft Power Automate.
 ms.author: mamaylya
-ms.date: 05/10/2021
+ms.date: 06/07/2021
 ms.topic: article
 title: Tables and fields required to create a guide in Power Automate
 ms.reviewer: v-bholmes
@@ -65,6 +65,10 @@ The following screen shot shows the required fields in the Power Automate UI.
 
 ![Power Automate screenshot with required fields for Task table highlighted](media/power-automate-task-creation-fields.PNG "Power Automate screenshot with required fields for Task table highlighted")
 
+### Adding multiple tasks
+
+If you add multiple tasks, you need to populate the **Previous Task** field in the form: /msmrw_guidetasks/<*ID for Guide Task*>. You can find the ID for a specific guide task through the model-driven app, or you can fetch the ID from a Power Automate flow by storing it in a variable. 
+
 ## Fields required to create the Guide Steps table
 
 The following fields are required to create the Guide Steps table:
@@ -76,6 +80,34 @@ The following fields are required to create the Guide Steps table:
 |Task (Guide Tasks)|Enter the table name (**/msmrw_guidetasks/**), and then select **Guide Task** from the dynamic lookup.|
 
 ![Power Automate screenshot with required fields for Step table highlighted](media/power-automate-step-creation-fields.PNG "Power Automate screenshot with required fields for Step table highlighted")
+
+### Adding multiple steps
+
+If you add more than one step to a guide, you need to populate the **Response 1 Action Type** (for next step) and **Previous Step** fields so users can navigate between steps. 
+
+Populate the **Previous Step** field for the second and subsequent steps by adding the Guide Step Unique Identifier. You can find the ID for a specific guide step through the model-driven app, or you can fetch the ID from a Power Automate flow by storing it in a variable. For example, the following screen shot shows the identifier passed as a stored variable. 
+
+![Screen shot of Previous step field](media/previous-step-field.PNG "Screen shot of Previous step field]").  
+
+#### Default steps
+
+Set the **Step Template Type** field to **Default** and set the **Response 1 Action Type** field to **Go To Next Step**.
+
+![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
+
+#### Question steps
+
+Set the **Step Template Type** field to **Question**, and then fill out the following fields to populate the Question step responses.
+
+![Screen shot of Question step fields](media/question-step-fields.PNG "Screen shot of Question step fields]")
+
+These fields maps to the response buttons in the PC app. 
+
+![Screen shot of Question step fields in PC app](media/question-step-fields-pc-app.PNG "Screen shot of Question step fields in PC app]")
+
+#### Completion steps
+
+Set the **Step Template Type** field to **Completion**.
 
 ## Test your flow
 
