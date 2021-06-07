@@ -101,7 +101,7 @@ Set the **Step Template Type** field to **Question**, and then fill out the foll
 
 ![Screen shot of Question step fields](media/question-step-fields.PNG "Screen shot of Question step fields]")
 
-These fields maps to the response buttons in the PC app. 
+These fields map to the response buttons in the PC app. 
 
 ![Screen shot of Question step fields in PC app](media/question-step-fields-pc-app.PNG "Screen shot of Question step fields in PC app]")
 
