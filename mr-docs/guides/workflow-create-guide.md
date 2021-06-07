@@ -97,7 +97,7 @@ Set the **Step Template Type** field to **Default** and set the **Response 1 Act
 
 #### Question steps
 
-For Question steps, set the **Step Template Type** field to **Question**. Response fields (for example, **Response 1**, **Response 2**, and so on) are not required, but this will lead to a question step that doesn't go anywhere. You can fill out the following fields to populate the Question step responses.
+Set the **Step Template Type** field to **Question**. Response fields (for example, **Response 1**, **Response 2**, and so on) are not required, but this will lead to a question step that doesn't go anywhere. You can fill out the following fields to populate the Question step responses.
 
 ![Screen shot of Question step fields](media/question-step-fields.PNG "Screen shot of Question step fields]")
 
