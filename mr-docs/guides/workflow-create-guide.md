@@ -87,23 +87,23 @@ If you programatically add more than one step to a guide, you need to populate t
 
 You can populate the **Previous Step** field for the second and subsequent steps by adding the Guide Step Unique Identifier. For example, the following screen shot shows the identifier passed as a stored variable. 
 
-   ![Screen shot of Previous step field](media/previous-step-field.PNG "Screen shot of Previous step field]").  
+![Screen shot of Previous step field](media/previous-step-field.PNG "Screen shot of Previous step field]").  
 
 #### Default steps
 
 Set the **Step template Type** field to **Default** and set the **Response 1 Action Type** field to **Go To Next step**.
 
-![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")|
+![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
 
 #### Question steps
 
 For Question steps, set the **Step template Type** field to **Question**. Response fields (for example, **Response 1**, **Response 2**, and so on) are not required, but this will lead to a question step that doesn't go anywhere. You can fill out the following fields to populate the Question step responses.
 
-SCREEN SHOT GOES HERE
+![Screen shot of Question step fields](media/question-step-fields.PNG "Screen shot of Question step fields]")
 
 These fields maps to the response buttons in the PC app. 
 
-SCREEN SHOT GOES HERE
+![Screen shot of Question step fields in PC app](media/question-step-fields-pc-app.PNG "Screen shot of Question step fields in PC app]")
 
 #### Completion step
 
