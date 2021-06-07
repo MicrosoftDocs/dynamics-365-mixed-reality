@@ -91,7 +91,7 @@ Populate the **Previous Step** field for the second and subsequent steps by addi
 
 #### Default steps
 
-Set the **Step Template Type** field to **Default** and set the **Response 1 Action Type** field to **Go To Next step**.
+Set the **Step Template Type** field to **Default** and set the **Response 1 Action Type** field to **Go To Next Step**.
 
 ![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
 
