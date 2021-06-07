@@ -65,6 +65,10 @@ The following screen shot shows the required fields in the Power Automate UI.
 
 ![Power Automate screenshot with required fields for Task table highlighted](media/power-automate-task-creation-fields.PNG "Power Automate screenshot with required fields for Task table highlighted")
 
+### Adding multiple tasks
+
+If you add multiple tasks, you need to populate the **Previous Task** field in the form: /msmrw_guidetasks/<*ID for Guide Task*>. You can find the ID for a specific guide task through the model-driven app, or you can fetch the ID from a Power Automate flow by storing it in a variable. 
+
 ## Fields required to create the Guide Steps table
 
 The following fields are required to create the Guide Steps table:
@@ -77,16 +81,33 @@ The following fields are required to create the Guide Steps table:
 
 ![Power Automate screenshot with required fields for Step table highlighted](media/power-automate-step-creation-fields.PNG "Power Automate screenshot with required fields for Step table highlighted")
 
-> [!NOTE]
-> If you programatically add more than one step to a guide, you need to populate the **Response 1 Action Type** and **Previous Step** fields so users can navigate between steps. 
->
->- If it's a default step and not a question step, set the **Response 1 Action Type** field to **Go To Next Step**.
->
-> ![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
->
->- Populate the **Previous Step** field for the second and subsequent steps. Add the Guide Step Unique Identifier to this field. For example, the following screen shot shows the identifier passed as a stored variable. 
->
-> ![Screen shot of Previous step field](media/previous-step-field.PNG "Screen shot of Previous step field]").  
+### Adding multiple steps
+
+If you programatically add more than one step to a guide, you need to populate the **Response 1 Action Type** and **Previous Step** fields so users can navigate between steps. 
+
+You can populate the **Previous Step** field for the second and subsequent steps by adding the Guide Step Unique Identifier. For example, the following screen shot shows the identifier passed as a stored variable. 
+
+   ![Screen shot of Previous step field](media/previous-step-field.PNG "Screen shot of Previous step field]").  
+
+#### Default steps
+
+Set the **Step template Type** field to **Default** and set the **Response 1 Action Type** field to **Go To Next step**.
+
+![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")|
+
+#### Question steps
+
+For Question steps, set the **Step template Type** field to **Question**. Response fields (for example, **Response 1**, **Response 2**, and so on) are not required, but this will lead to a question step that doesn't go anywhere. You can fill out the following fields to populate the Question step responses.
+
+SCREEN SHOT GOES HERE
+
+These fields maps to the response buttons in the PC app. 
+
+SCREEN SHOT GOES HERE
+
+#### Completion step
+
+Set the **Step template Type** field to **Completion**.
 
 ## Test your flow
 
