@@ -67,7 +67,7 @@ Before you can modify user roles:
     ![Users selected](media/users-setting.PNG "Users selected")
 
     > [!IMPORTANT]
-    > You can access Dynamics 365 Guides data through the **Guides Hub** tile. However, we recommend that you not make changes in the Guides Hub. Any changes that you make there can have unintended consequences for the Dynamics 365 Guides apps.
+    > You can access Dynamics 365 Guides data through the **Guides Hub** tile.  The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, Guide modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
 
 5. Follow one of these steps:
 

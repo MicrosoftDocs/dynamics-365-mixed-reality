@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 # Assign Author and Operator roles to a Dynamics 365 group team linked to an Azure Active Directory group
 
-You can assign an **Operator** or **Author** role to a user in Microsoft Dynamics 365 Guides to specify whether that user can create and edit guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. **Restricted Authors** have access only to what they have created in the instance, while **Restricted Operators** have access only to what has been shared with or assigned to them.
+You can assign an **Operator** or **Author** role to a user in Microsoft Dynamics 365 Guides to specify whether that user can create and edit guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. **Restricted Authors** have access only to what they have created in the instance and what has been shared with them, while **Restricted Operators** have access only to what has been shared with or assigned to them.
 
 Users with the roles of **Restricted Author** and **Restricted Operator** will only have access to:
 
@@ -71,15 +71,15 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
     > [!NOTE]
     > The **Basic User** role must be added to the group to enable Dynamics 365 Guides for the users in this group team. 
 
-5. At the top of the screen, select **Add people**.
+4. At the top of the screen, select **Add people**.
 
     ![Add people command at top of Power Platform screen](media/Power-Platform-security-role-add-people.png "Add people command at top of Power Platform screen")
     
-6. Search for the Dynamics 365 group team created in Step 1 above, select it in the search results, and then select **Add** to confirm.
+5. Search for the Dynamics 365 group team created above, select it in the search results, and then select **Add** to confirm.
 
     ![add group](media/Power-Platform-security-add-group.png "Add group")
  
-7. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that is to be applied to this team. Guides roles include:
+6. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that is to be applied to this team. Guides roles include:
 
     - Dynamics 365 Guides Author
     
@@ -89,7 +89,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
     
     - Dynamics 365 Guides Restricted Operator
 
-8. Repeat the above steps for any additional roles that are applied to the group team.
+7. Repeat the above steps for any additional roles that are applied to the group team.
 
 ### Option 2: Assign a Dynamics 365 Guides role to a group team
 
@@ -125,7 +125,11 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
     ![select manage roles](media/D365-admin-center-advanced-settings-manage-roles.png "manage roles")
 
+9. Confirm that the "Basic User" role is selected.  Select any additional roles to apply to the group.
+    ![Select roles](media/select-role.png "Select roles")
+
 > [!NOTE]
 > The **MANAGE ROLES** command is not available on the group teams page if the check box to the left of a group team is selected.  **MANAGE ROLES** is available only in the context of a group team details page.  
+
 
 

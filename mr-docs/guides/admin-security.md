@@ -132,9 +132,9 @@ Note the following points about security groups:
 
 - When you remove a security group that is associated with an environment, either by editing the environment and removing the security group, or by deleting the security group, licensed users who were members of that security group will have the same access to model-driven apps in Dynamics 365.
 
-- When you assign a security group to an environment, the environment appears on the **Instances** tab in the Dynamics 365 admin center only for users who are members of the group.
+- When you assign a security group to an environment, the environment appears on the **Environments** tab in the Dynamics 365 admin center only for users who are members of the group.
 
-- If you don't assign a security group to an environment, the environment appears on the **Instances** tab in the Dynamics 365 admin center even for users who haven't been assigned a security role in that environment.
+- If you don't assign a security group to an environment, the environment appears on the **Environments** tab in the Dynamics 365 admin center even for users who haven't been assigned a security role in that environment.
 
 - Nested security groups aren't supported.
 
