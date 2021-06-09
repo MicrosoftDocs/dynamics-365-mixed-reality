@@ -1,4 +1,4 @@
-# About the Restricted Author and Restricted Operator roles in Dynamics 365 Guides
+# About the Author and Operator roles in Dynamics 365 Guides
 
 If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and 
 Restricted Operator roles provide an extra layer of control. The following table describes the privileges that each role grants.
