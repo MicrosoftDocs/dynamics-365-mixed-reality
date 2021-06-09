@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 
 # Assign Author and Operator roles to a Dynamics 365 group team linked to an Azure Active Directory group
 
-You can assign [Dynamics 365 Guides Author and Operator roles](admin-role-types.md) to a Dynamics 365 group team linked to an Azure Active Directory group to make it easier to organize and manage user roles. By linking Azure Active Directory Security or Office groups to a Dynamics 365 group team, Dynamics 365 Guides roles can be inherited by any user added to the Azure Active Directory group. To get an overview of Azure Active Directory groups and managing group teams, see the following links:
+You can assign [Dynamics 365 Guides Author and Operator roles](admin-role-types.md) to a Dynamics 365 group team linked to an Azure Active Directory group to make it easier to organize and manage user roles. By linking Azure Active Directory Security or Azure Active Directory Office groups to a Dynamics 365 group team, Dynamics 365 Guides roles can be inherited by any user added to the Azure Active Directory group. To get an overview of Azure Active Directory groups and managing group teams, see the following links:
 
 - [Groups in Microsoft 365 and Azure, and Which is Right for You](https://docs.microsoft.com/microsoft-365/community/all-about-groups)
 
