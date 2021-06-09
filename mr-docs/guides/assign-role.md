@@ -8,7 +8,10 @@ title: Assign an Author or Operator role to a user to control whether a user can
 ms.reviewer: v-bholmes
 ---
 
-# Assign an Author or Operator role to a user in Dynamics 365 Guides
+# Assign an Author or Operator role to an individual user in Dynamics 365 Guides
+
+If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and 
+Restricted Operator roles provide an extra layer of control. [Learn about the privileges provided by each role](admin-role-types.md).
 
 ## Prerequisites
 
