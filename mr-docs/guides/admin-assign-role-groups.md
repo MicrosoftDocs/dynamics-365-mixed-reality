@@ -60,7 +60,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
     ![Add people command at top of Power Platform screen](media/power-platform-security-role-add-people.PNG "Add people command at top of Power Platform screen")
     
-5. Search for the Dynamics 365 group team created above, select it in the search results, and then select **Add** to confirm.
+5. Search for the Dynamics 365 group team created above, select it in the search results, and then select **Add**.
 
     ![add group](media/power-platform-security-add-group.PNG "Add group")
  
