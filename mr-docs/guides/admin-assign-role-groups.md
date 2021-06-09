@@ -47,22 +47,22 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
 2. In the **Access** section, under **Security roles**, select **See all**.
 
-    ![power platform admin](media/Power-Platform-admin-center-env-setting.PNG "power platform admin")
+    ![power platform admin](media/power-platform-admin-center-env-setting.PNG "power platform admin")
  
 3. Under **Role**, select **Basic User**. 
 
-    ![basic user](media/Power-Platform-Enviro-Roles.PNG "basic users")
+    ![basic user](media/power-platform-Enviro-Roles.PNG "basic users")
     
     > [!NOTE]
     > The **Basic User** role must be added to the group to enable Dynamics 365 Guides for the users in this group team. 
 
 4. At the top of the screen, select **Add people**.
 
-    ![Add people command at top of Power Platform screen](media/Power-Platform-security-role-add-people.PNG "Add people command at top of Power Platform screen")
+    ![Add people command at top of Power Platform screen](media/power-platform-security-role-add-people.PNG "Add people command at top of Power Platform screen")
     
 5. Search for the Dynamics 365 group team created above, select it in the search results, and then select **Add** to confirm.
 
-    ![add group](media/Power-Platform-security-add-group.PNG "Add group")
+    ![add group](media/power-platform-security-add-group.PNG "Add group")
  
 6. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that is to be applied to this team. Guides roles include:
 
@@ -86,7 +86,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
 2. In the **Details** section, select the **Environment URL** link to access the details for the environment.  
 
-    ![Environment URL in the Details section](media/Power-Platform-admin-center-env-url.PNG "Environment URL in the Details section")
+    ![Environment URL in the Details section](media/power-platform-admin-center-env-url.PNG "Environment URL in the Details section")
 
 3. In the title bar, select the **Settings** button, and then select **Advanced Settings**.
 
