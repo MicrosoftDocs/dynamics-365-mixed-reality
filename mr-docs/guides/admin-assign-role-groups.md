@@ -113,7 +113,10 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
     ![select manage roles](media/D365-admin-center-advanced-settings-manage-roles.png "manage roles")
 
 9. Confirm that the "Basic User" role is selected.  Select any additional roles to apply to the group.
-    ![Select roles](media/select-role.png "Select roles")
+
+    ![Select roles](media/select-role.PNG "Select roles")
+    
+    [Learn more about the different Author and Operator roles](admin-role-types.md).
 
 > [!NOTE]
 > The **MANAGE ROLES** command is not available on the group teams page if the check box to the left of a group team is selected.  **MANAGE ROLES** is available only in the context of a group team details page.  
