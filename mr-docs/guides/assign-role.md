@@ -13,6 +13,9 @@ ms.reviewer: v-bholmes
 If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and 
 Restricted Operator roles provide an extra layer of control. [Learn about the privileges provided by each role](admin-role-types.md).
 
+> [!NOTE]
+> You can also assign user roles in bulk by using [Azure AD groups](admin-assign-role-groups.md).
+
 ## Prerequisites
 
 Before you can modify user roles:
@@ -82,7 +85,8 @@ If users don't appear on the **Security** page (**Dynamics 365** > **Settings** 
 ## See also
 
 [Add additional user accounts to Dynamics 365 Guides](add-users.md)<br>
-[Overview of authoring a guide](authoring-overview.md)<br>
-[Overview of operating a guide](operator-overview.md)
+[Learn about the Restricted Author and Restricted Operator roles](admin-role-types.md)<br>
+[Assign roles in bulk through Azure AD groups](admin-assign-role-groups.md)
+
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
