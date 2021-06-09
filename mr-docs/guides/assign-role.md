@@ -65,7 +65,7 @@ To assign user roles:
 
 8. In the **Manage User Roles** dialog box, make sure that the **Basic User** check box is selected.
 
-    ![Basic User check box](media/basic-user-role.png "Basic User check box")
+    ![Basic User check box](media/basic-user-role.PNG "Basic User check box")
 
     > [!NOTE]
     > You may see a **Common Data Service** check box instead of a **Basic User** check box. If so, select that check box.
