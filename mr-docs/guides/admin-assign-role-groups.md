@@ -112,7 +112,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
     ![select manage roles](media/D365-admin-center-advanced-settings-manage-roles.png "manage roles")
 
-9. Confirm that the "Basic User" role is selected.  Select any additional roles to apply to the group.
+9. Confirm that the "Basic User" role is selected, and then select any additional roles that you want to apply to the group.
 
     ![Select roles](media/select-role.PNG "Select roles")
     
