@@ -14,16 +14,18 @@
 ##### [4: Set up Power BI reports](setup-step-four.md)
 #### [Update the solution](upgrade.md)
 #### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
-### Add users, assign roles, and restrict access
+### Users, roles, ownership, and access
 #### [Add users](add-users.md)
-#### [Share the Guides model-driven app](admin-share-guides-hub.md)
-#### [Assign user roles to individual users](assign-role.md)
-#### [Assign user roles to a Dynamics 365 group team linked to an Azure AD group](admin-assign-role-groups.md)
+#### Assign user roles
+##### [About the Author and Operator roles](admin-role-types.md)
+##### [Assign to individual users](assign-role.md)
+##### [Assign using Azure AD groups](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
-#### [Assign ownership of a guide](admin-access-assign.md)
-#### [Share a guide or guide content by using an access team](admin-access-teams.md)
-#### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
-### Integrations with other Dynamics 365 apps
+#### Assign or share a guide
+#### [By changing ownership](admin-access-assign.md)
+#### [By sharing through an access team](admin-access-teams.md)
+#### [Share the Guides model-driven app](admin-share-guides-hub.md)
+#### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
