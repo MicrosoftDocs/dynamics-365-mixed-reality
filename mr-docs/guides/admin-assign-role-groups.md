@@ -74,7 +74,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
     
     - Dynamics 365 Guides Restricted Operator
 
-    [Learn more about the different Author and Operator roles](admin-role-types.md)
+    [Learn more about the different Author and Operator roles](admin-role-types.md).
 
 7. Repeat the above steps for any additional roles that you want to apply to the group team.
 
