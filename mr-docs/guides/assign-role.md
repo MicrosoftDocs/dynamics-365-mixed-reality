@@ -85,7 +85,7 @@ If users don't appear on the **Security** page (**Dynamics 365** > **Settings** 
 ## See also
 
 [Add additional user accounts to Dynamics 365 Guides](add-users.md)<br>
-[Learn about the Restricted Author and Restricted Operator roles](admin-role-types.md)<br>
+[Learn about the Author and Operator roles](admin-role-types.md)<br>
 [Assign roles in bulk through Azure AD groups](admin-assign-role-groups.md)
 
 
