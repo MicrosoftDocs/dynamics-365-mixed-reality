@@ -74,7 +74,7 @@ To assign user roles:
 
     ![Author and Operator check boxes](media/select-role.PNG "Author and Operator check boxes")
     
-    [Learn about the different Author and Operator roles](admin-role-types.md)
+    [Learn about the different Author and Operator roles](admin-role-types.md).
 
 10. If you want the user to have admin privileges, select the **System Administrator** check box.
 
