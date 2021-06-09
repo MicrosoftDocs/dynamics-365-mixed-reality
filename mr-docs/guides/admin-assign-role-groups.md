@@ -51,7 +51,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
  
 3. Under **Role**, select **Basic User**. 
 
-    ![basic user](media/power-platform-Enviro-Roles.PNG "basic users")
+    ![basic user](media/power-platform-enviro-roles.PNG "basic users")
     
     > [!NOTE]
     > The **Basic User** role must be added to the group to enable Dynamics 365 Guides for the users in this group team. 
