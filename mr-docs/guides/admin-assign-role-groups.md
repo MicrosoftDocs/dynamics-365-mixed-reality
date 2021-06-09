@@ -90,7 +90,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
 3. In the title bar, select the **Settings** button, and then select **Advanced Settings**.
 
-    ![Settings button](media/Power-Platform-admin-center-env-adv-settings.PNG "Settings button")  
+    ![Settings button](media/power-platform-admin-center-env-adv-settings.PNG "Settings button")  
 
 4. In the Dynamics 365 screen, select the down arrow next to **Settings**, and then under **System**, select **Security**.
 
