@@ -18,7 +18,7 @@ You can assign [Dynamics 365 Guides Author and Operator roles](admin-role-types.
 - [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams)
 
 > [!NOTE]
-> SharePoint groups are not supported by Dynamics 365. Only Azure Active Directory Office or Security groups are supported by Dynamics 365 group teams.
+> SharePoint groups are not supported by Dynamics 365. Only Azure Active Directory Security groups or Azure Active Directory Office groups are supported by Dynamics 365 group teams.
 
 ### Create an Azure Active Directory group
 
