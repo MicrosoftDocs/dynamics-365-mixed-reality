@@ -1,9 +1,8 @@
 ---
 title: "Share Guides model-driven app with users and groups using security roles to provide access to Dynamics 365 Guides | MicrosoftDocs"
-description: How to share Guides model-driven app
+description: Learn how to share the Guides model-driven app to provide access to other team members.
 author:  MattHoag-MS
 manager: tfehr
-ms.service: crm-online
 ms.topic: article
 ms.date: 06/10/2021
 ms.author: v-mhoag
