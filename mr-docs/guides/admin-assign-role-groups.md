@@ -80,7 +80,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
 ### Option 2: Assign a Dynamics 365 Guides role to a group team
 
-For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). See [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
+For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). For more information, see [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
 1. In the Power Platform admin center, select the environment that you want to update.
 
