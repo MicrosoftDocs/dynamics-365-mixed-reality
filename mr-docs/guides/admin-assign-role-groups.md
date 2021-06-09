@@ -41,7 +41,7 @@ You can assign roles to a team in two ways:
 
 ### Option 1: Assign a group team to a Dynamics 365 Guides role
 
-For this option, you'll update a role to include the Dynamics 365 group team that was created in the step above using the [Power Platform admin centre](https://admin.powerplatform.microsoft.com/environments).
+For this option, you'll update a role to include the Dynamics 365 group team that was created in the step above using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments).
 
 1. In the Power Platform admin center, select the environment that you want to update.
 
