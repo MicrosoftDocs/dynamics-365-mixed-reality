@@ -23,7 +23,7 @@ When you create a guide in the PC authoring app, the content is stored in the Mi
 
 1. In the PC authoring app, sign in to the Dynamics 365 instance that includes the guide.
 
-2. In the PC app, select the **Analyze** tab, and then under **Instance URL**, select **Copy**, and then paste the value into the address bar of a web browser.
+2. Select the **Analyze** tab, and then under **Instance URL**, select **Copy**, and then paste the value into the address bar of a web browser.
 
     ![Copy the Instance URL value](media/copy-instance-url.jpg "Copy the Instance URL value")
 
