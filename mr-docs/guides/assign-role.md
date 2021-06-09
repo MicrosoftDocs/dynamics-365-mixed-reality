@@ -18,7 +18,7 @@ Restricted Operator roles provide an extra layer of control. [Learn about the pr
 
 ## Prerequisites
 
-Before you can modify user roles:
+To assign user roles:
 
 - You must have an active Dynamics 365 Guides license. For more information, see [Try or buy, and deploy Dynamics 365 Guides](setup.md).
 
