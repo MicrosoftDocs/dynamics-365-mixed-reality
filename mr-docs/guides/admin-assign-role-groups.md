@@ -1,30 +1,17 @@
 ---
-title: Assign Author and Operator roles to a Dynamics 365 group team that's linked to an Azure Active Directory group to limit the actions of a group of users in  Dynamics 365 Guides
+title: Assign Dynamics 365 Guides Author and Operator roles to an Azure Active Directory group 
 description: Learn how to assign Author and Operator roles to a Dynamics 365 group team that's linked to an Azure Active Directory group.
 author:  MattHoag-MS
 manager: tfehr
-ms.service: crm-online
 ms.topic: article
-ms.date: 04/14/2021
+ms.date: 06/10/2021
 ms.author: v-mhoag
 ms.reviewer: v-bholmes
 ---
 
 # Assign Author and Operator roles to a Dynamics 365 group team linked to an Azure Active Directory group
 
-You can assign an **Operator** or **Author** role to a user in Microsoft Dynamics 365 Guides to specify whether that user can create and edit guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. **Restricted Authors** have access only to what they have created in the instance and what has been shared with them, while **Restricted Operators** have access only to what has been shared with or assigned to them.
-
-Users with the roles of **Restricted Author** and **Restricted Operator** will only have access to:
-
-- Guides/content that the user created (unless access was explicitly removed)
-
-- Guides that were explicitly shared with them or shared with an owner team they are a member of
-
-- Guides that were assigned to the user or assigned to an owner team that the user is a member of
-
-## Assign roles to groups of users
-
-You can use Azure Active Directory to organize users into logical groups for easier management. By linking Azure Active Directory Security or Office groups to a Dynamics 365 group team, Dynamics 365 Guides roles can be inherited by any user added to the Azure Active Directory group. To get an overview of Azure Active Directory groups and managing group teams, see the following links:
+You can assign [Dynamics 365 Guides Author and Operator roles](admin-role-types.md) to a Dynamics 365 group team linked to an Azure Active Directory group to make it easier to organize and manage user roles. By linking Azure Active Directory Security or Office groups to a Dynamics 365 group team, Dynamics 365 Guides roles can be inherited by any user added to the Azure Active Directory group. To get an overview of Azure Active Directory groups and managing group teams, see the following links:
 
 - [Groups in Microsoft 365 and Azure, and Which is Right for You](https://docs.microsoft.com/microsoft-365/community/all-about-groups)
 
@@ -131,5 +118,8 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 > [!NOTE]
 > The **MANAGE ROLES** command is not available on the group teams page if the check box to the left of a group team is selected.  **MANAGE ROLES** is available only in the context of a group team details page.  
 
+## See also
 
+[Learn about the different Author and Operator roles](admin-role-types.md)<br>
+[Assign an Author or Operator role to an individual user](assign-role.md)
 
