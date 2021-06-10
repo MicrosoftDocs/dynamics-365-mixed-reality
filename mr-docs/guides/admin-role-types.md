@@ -10,8 +10,8 @@ The following table describes the privileges that each role grants.
 |---|---|
 | Author | Use the PC app and HoloLens app to create, edit, and operate guides. Users who have the Author role can also rename and deactivate existing guides. |
 | Operator | Use the HoloLens app to view and operate a guide. Users who have the Operator role can also save time by skipping the **Select Mode** dialog box when they open a guide. |
-|Restricted Author| Use the PC app and HoloLens app to create, edit, and operate guides or use guides content that:<<br>- The user created<br>- Were explicitly shared with them or shared with an owner team they are a member of<br>- Were assigned to the user or assigned to an owner team that the user is a member of|
-|Restricted Operator|  Use the HoloLens app to view and operate a guide or access guides content that: <<br>- The user created<br>- Were explicitly shared with them or shared with an owner team they are a member of<br>- Were assigned to the user or assigned to an owner team that the user is a member of |
+|Restricted Author| Use the PC app and HoloLens app to create, edit, and operate guides or use guides content that:<br><br>- The user created<br>- Were explicitly shared with them or shared with an owner team they are a member of<br>- Were assigned to the user or assigned to an owner team that the user is a member of|
+|Restricted Operator|  Use the HoloLens app to view and operate a guide or access guides content that: <br><br>- The user created<br>- Were explicitly shared with them or shared with an owner team they are a member of<br>- Were assigned to the user or assigned to an owner team that the user is a member of |
 
 For more information on using the Restricted Author and Restricted Operator roles in access teams, see 
 [Share guides or guide content in Dynamics 365 Guides to expand access](admin-access-teams.md#assign-the-restricted-security-role).
