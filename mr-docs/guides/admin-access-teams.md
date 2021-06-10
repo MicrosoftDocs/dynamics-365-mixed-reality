@@ -10,8 +10,6 @@ ms.reviewer: v-brycho
 
 # Share a guide or guide content in Dynamics 365 Guides by using an access team
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 [Assigning the ownership of a guide](admin-access-assign.md) in Microsoft Dynamics 365 Guides to a user is the preferred method for controlling who can use specific guides. If teams change frequently, resulting in a need to create and delete access teams often, a Dynamics 365 admin (or other user with the Share privilege) can share guides with [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos).
 
 > [!NOTE]
