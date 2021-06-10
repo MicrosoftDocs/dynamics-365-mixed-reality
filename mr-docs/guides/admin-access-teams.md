@@ -1,51 +1,49 @@
 ---
 author: melissahellmund
-description: Learn how to use access teams to limit access to specific guides or guide content in Microsoft Dynamics 365 Guides.
+description: Learn how to expand access to a guide or guide content by sharing with an access team in Microsoft Dynamics 365 Guides.
 ms.author: mehellmu
-ms.date: 04/06/2021
+ms.date: 06/10/2021
 ms.topic: article
-title: Use access teams to limit access to specific guides in Dynamics 365 Guides
+title: Share guides or guide content with an access team in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
+# Share a guide or guide content in Dynamics 365 Guides by using an access team
 
-A Microsoft Dynamics 365 admin can use [access teams](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to easily control who can see specific guides and guide content (3D models, images, or videos) in Dynamics 365 Guides. Access teams are useful when you want to grant different user permissions for specific records in [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro). For example, you might want access to some guides to be limited to a specific factory location, or you might want to limit access to guides that are in progress.
+[Assigning the ownership of a guide](admin-access-assign.md) in Microsoft Dynamics 365 Guides to a user is the preferred method for controlling who can use specific guides. If teams change frequently, resulting in a need to create and delete access teams often, a Dynamics 365 admin (or other user with the Share privilege) can share guides with [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos).
 
 > [!NOTE]
 > Dynamics 365 offers additional ways to customize and configure access to specific records in Microsoft Dataverse. However, this topic doesn't cover advanced configuration, such as the creation of [owner teams](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information).
 
+For more information on how privileges and access works, see [How access to a record (guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
+
+For more information on the three types of teams (*owner* team, Azure Active Directory *group* team, or *access* team), see [Manage teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
+
 ## How access teams work with the Operator and Author user roles
 
-You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit guides or just use them. When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles that are already set up in your Guides solution. Users who are assigned one of these roles will have access only to guides that they create themselves or guides/content that is explicitly shared with them. 
+You can assign an Operator or Author role to a user to specify whether that user can create and edit guides as an author or use them as an operator. When you assign an Operator or Author role, that role automatically grants the user access to all guides in the environment. To limit access to specific guides or guide content (3D models, images, or videos), you can use the Restricted Operator and Restricted Author roles. A user who is assigned one of these roles does not have access to any guide created in the environment. The user has access only to:
 
-## Overall process for limiting access to a guide
+- Guides that the user creates (unless access is explicitly removed)
 
-The process for limiting access includes these basic steps:
+- Guides that were explicitly shared with the user or shared with an owner team they are a member of.
 
-1. Assign the restricted security role to a user or users.
+- Guides with ownerships that were assigned to the user or assigned to an owner team that the user is a member of.
 
-2. Create an access team, and add users to it.
+> [!IMPORTANT]
+> If you have already restricted access to guides or guides content by creating your own security role with reduced privileges, you’ll need to remove that security role and replace it with one of the built-in security roles as described in this article.
 
-3. Share the guide with the access team.
+## Assign a restricted security role
 
-This topic describes each of these steps in detail.
-
->[!IMPORTANT]
->If you have already restricted access to guides or guides content by creating your own security role with reduced privileges, you’ll need to remove that security role and replace it with one of the built-in security roles as described in this article.
-
-## Step 1: Assign the restricted security role
-
-To prevent a specific user from accessing all guides by default, change that user's security role to the **Dynamics 365 Guides Restricted Operator** role. Once assigned, they will be able to see only the guides that have been shared with them.
+To prevent a specific user from accessing all guides by default, you can update the user's security role to the **Dynamics 365 Guides Restricted Operator** role. Once assigned, they will be able to see only guides assigned or shared with them or teams they are members of.
 
 > [!NOTE]
-> The steps outlined in this procedure show how to restrict operator privileges. You can restrict author privileges in a similar way. This article also shows how to restrict access to the **Guides** entity. You can use the same steps to restrict access to other types of Dynamics 365 Guides records (3D models, images, or videos) to limit their visibility to certain users or teams. 
+> The steps outlined in this procedure show how to restrict operator privileges. You can restrict author privileges in a similar way. This article also shows how to restrict access to the **Guides** entity. You can use the same steps to restrict access to other types of Dynamics 365 Guides records (3D models, images, or videos) to limit their visibility to certain users or teams.
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the environment, select the **More environment actions** (**...**) button, and then select **Settings**.
 
     ![Settings command](media/access-teams-9.PNG "Settings command")
 
-2. On the **Settings** page, select **Users**.
+2. In the **Settings** page, select **Users**.
 
     ![Users button](media/access-teams-10.PNG "Users button")
 
@@ -56,27 +54,27 @@ To prevent a specific user from accessing all guides by default, change that use
 4. Select **Manage Roles** to open the **Manage User Roles** dialog box, and then do the following:
 
     1. If it's selected, clear the check box for the **Dynamics 365 Guides Operator** role.
-    
-    2. Select the check box for the **Common Data Service User** role.
 
-    3. Select the check box for the **Dynamics 365 Guides Operator Restricted** role.
+    2. Select the check box for the **Basic User** role.
+
+    3. Select the check box for the **Dynamics 365 Guides Restricted Operator** role.
 
     4. Select **OK**.
 
-    ![Clear and select roles](media/access-teams-12.PNG "Clear and select roles")
+    ![Clear and select roles](media/manage-user-basic-user-restricted-op.png "Clear and select roles")
 
-## Step 2: Create an access team and add users to it
+## Create an access team
 
 A user can be associated with more than one access team.
 
 > [!NOTE]
 > If you or someone else has already created an access team that you want to use, skip ahead to the next procedure.
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
 
     ![Settings command](media/access-teams-9.PNG "Settings command")
 
-2. On the **Settings** page, select **Teams**.
+2. In the **Settings** page, select **Teams**.
 
     ![Teams button](media/access-teams-14.PNG "Teams button")
 
@@ -84,7 +82,7 @@ A user can be associated with more than one access team.
 
     ![New button](media/access-teams-15.PNG "New button")
 
-4. On the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
+4. In the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
 
     ![New team settings](media/access-teams-16.jpg "New team settings")
 
@@ -94,23 +92,25 @@ A user can be associated with more than one access team.
 
 6. Enter the name of the user that you want to add, select the **Search** button, and then select the user's name.
 
-## Step 3: Share the guide with the access team
+## Share the guide with an access team
 
-1. Go to <https://make.powerapps.com/>.
+1. Go to <https://home.dynamics.com/>.
 
-2. Select **Apps**, and then select **Guides**.
+2. Select **Power Apps**.
+
+3. Under **Your Apps**, select **Guides**.
 
     ![Guides button](media/access-teams-22.PNG "Guides button")
 
-3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
+4. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
     ![Check box for specific guide selected](media/access-teams-19.PNG "Check box for specific guide selected")
 
-4. On the **Share guide** page, select **Add User/Team**.
+5. In the **Share guide** page, select **Add User/Team**.
 
     ![Screen shot of add User/Team command](media/access-teams-20.PNG "Screen shot of add User/Team command")
 
-5. In the **Look Up Records** dialog box, follow these steps:
+6. In the **Look Up Records** dialog box:
 
     1. In the **Look for** field, select **Team**.
 
@@ -122,9 +122,13 @@ A user can be associated with more than one access team.
 
     ![Add access teams](media/access-teams-21.PNG "Add access teams")
 
-### Share a guide with another user
+7. In the **Share guide** dialog box, select specific permissions (make sure the team has the **Read** permission), and then select **Share**.
 
-All users who have access to the Guides model-driven app can share the guides and guide records that they have access to with other users.
+    ![Update Permissions](media/access-teams-21B.png "Update Permissions")
+
+## Share a guide with a specific user
+
+Users who have the Share privilege can share guides and guide records that they own with other users.
 
 1. Go to <https://make.powerapps.com/>.
 
@@ -136,7 +140,7 @@ All users who have access to the Guides model-driven app can share the guides an
 
     ![Share a guide](media/access-teams-23.PNG "Share a guide")
 
-4. On the **Share guide** page, select **Add User/Team**.
+4. In the **Share guide** page, select **Add User/Team**.
 
     ![Add User/Team command](media/access-teams-24.PNG "Add User/Team command")
 
@@ -152,8 +156,7 @@ All users who have access to the Guides model-driven app can share the guides an
 
 [Use access teams and owner teams to collaborate and share information](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information)<br>
 [Assign an Operator or Author role to a user](assign-role.md)<br>
-[Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md)<br>
-[Learn more about Dynamics 365 security roles and privileges](/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)
-
+[Restrict access to an environment by using security groups](admin-security.md)<br>
+[Learn more about security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

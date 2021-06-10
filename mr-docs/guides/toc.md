@@ -14,16 +14,21 @@
 ##### [4: Set up Power BI reports](setup-step-four.md)
 #### [Update the solution](upgrade.md)
 #### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
-### Add users, assign roles, and restrict access
+### Users, roles, ownership, and access
 #### [Add users](add-users.md)
-#### [Assign user roles](assign-role.md)
-#### [Restrict access to a specific instance](admin-security.md)
-#### [Limit access to specific guides or guide content](admin-access-teams.md)
-#### [Organize guides into folders](admin-create-folders.md)
-#### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
+#### Assign user roles
+##### [About the Author and Operator roles](admin-role-types.md)
+##### [Assign to individual users](assign-role.md)
+##### [Assign using Azure AD groups](admin-assign-role-groups.md)
+#### [Restrict access to an environment by using security groups](admin-security.md)
+#### Assign or share a guide
+#### [By changing ownership](admin-access-assign.md)
+#### [By sharing through an access team](admin-access-teams.md)
+#### [Share the Guides model-driven app](admin-share-guides-hub.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
+### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)### Integrations with other Dynamics 365 apps
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
