@@ -66,7 +66,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
     ![add group](media/power-platform-security-add-group.PNG "Add group")
  
-6. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that is to be applied to this team. Guides roles include:
+6. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that you want to apply to this team. Dynamics 365 Guides roles include:
 
     - Dynamics 365 Guides Author
     
