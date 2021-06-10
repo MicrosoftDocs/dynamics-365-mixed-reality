@@ -28,7 +28,7 @@ You can assign an Operator or Author role to a user to specify whether that user
 
 ## Assign a restricted security role
 
-To prevent a specific user from accessing all guides by default, you can update the user's security role to the **Dynamics 365 Guides Restricted Operator** role. Once assigned, they will be able to see only guides assigned or shared with them or teams they are members of.
+To prevent a specific user from accessing all guides by default, you can update the user's security role to the Restricted Operator role. Once assigned, they will be able to see only guides assigned or shared with them or teams they are members of.
 
 > [!NOTE]
 > The steps outlined in this procedure show how to restrict operator privileges. You can restrict author privileges in a similar way. This article also shows how to restrict access to the **Guides** entity. You can use the same steps to restrict access to other types of Dynamics 365 Guides records (3D models, images, or videos) to limit their visibility to certain users or teams.
