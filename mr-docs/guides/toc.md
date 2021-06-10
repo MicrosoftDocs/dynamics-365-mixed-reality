@@ -28,7 +28,7 @@
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
-### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
+### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
