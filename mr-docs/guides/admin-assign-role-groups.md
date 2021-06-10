@@ -33,7 +33,7 @@ For more information on how to link an Azure Active Directory group to a Dynamic
 > [!NOTE] 
 > When setting a value for **membership type** by selecting one of the options (**Members**, **Members & Guests**, **Guests**, or **Owners**), be aware that this value determines which users in the group will flow into the Dynamics 365 group team. Setting the **membership type** is similar to setting a pass-through filter. For example, if **Members** is selected and a guest is added to the group, the guest will not flow down into the team and will not inherit the role from the Dynamics 365 group team.  
 
-## Two ways to assign roles
+## Two ways to assign roles to a team
 
 You can assign roles to a team in two ways: 
 
