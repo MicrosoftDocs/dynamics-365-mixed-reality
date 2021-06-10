@@ -25,7 +25,7 @@ The following table describes the privileges that each role grants.
 |Restricted Operator|  Use the HoloLens app to view and operate a guide or access guides content that: <br><br>- The user created<br>- Were explicitly shared with them or shared with an owner team they are a member of<br>- Were assigned to the user or assigned to an owner team that the user is a member of |
 
 For more information on using the Restricted Author and Restricted Operator roles in access teams, see 
-[Share guides or guide content in Dynamics 365 Guides to expand access](admin-access-teams.md#assign-the-restricted-security-role).
+[Share guides or guide content in Dynamics 365 Guides to expand access](admin-access-teams.md#assign-a-restricted-security-role).
 
 > [!IMPORTANT]
 > If you followed the instructions in the [Try or buy, and deploy Dynamics 365 Guides](setup-step-one.md) topic when you set up Dynamics 365 Guides, any users that you added were 
