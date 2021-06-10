@@ -61,7 +61,7 @@ To prevent a specific user from accessing all guides by default, you can update 
 
     4. Select **OK**.
 
-    ![Clear and select roles](media/manage-user-basic-user-restricted-op.png "Clear and select roles")
+    ![Clear and select roles](media/manage-user-basic-user-restricted-op.PNG "Clear and select roles")
 
 ## Create an access team
 
@@ -124,7 +124,7 @@ A user can be associated with more than one access team.
 
 7. In the **Share guide** dialog box, select specific permissions (make sure the team has the **Read** permission), and then select **Share**.
 
-    ![Update Permissions](media/access-teams-21B.png "Update Permissions")
+    ![Update Permissions](media/access-teams-21B.PNG "Update Permissions")
 
 ## Share a guide with a specific user
 
