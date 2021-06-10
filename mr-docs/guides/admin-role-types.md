@@ -23,4 +23,7 @@ For more information on using the Restricted Author and Restricted Operator role
 ## See also
 
 [Assign a role to an individual user](assign-role.md)<br>
-[Assign a role through Azure Active Directory groups](admin-assign-role-groups.md)
+[Assign a role through Azure Active Directory groups](admin-assign-role-groups.md)<br>
+[Limit access to an environment](admin-security.md)<br>
+[Assign or share a guide by changing ownership](admin-access-assign.md)<br>
+[Assign or share a guide through an access team](admin-access-teams.md)
