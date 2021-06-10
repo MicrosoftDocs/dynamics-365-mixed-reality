@@ -154,7 +154,7 @@ Users who have the Share privilege can share guides and guide records that they 
 
 ## See also
 
-[Use access teams and owner teams to collaborate and share information](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information?view=op-9-1)<br>
+[Use access teams and owner teams to collaborate and share information](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information?view=op-9-1)<br>
 [Assign an Operator or Author role to an individual user](assign-role.md)<br>
 [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)<br>
 [Restrict access to an environment by using security groups](admin-security.md)<br>
