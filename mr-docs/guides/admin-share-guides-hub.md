@@ -13,7 +13,7 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 # Share the Guides model-driven app to provide access
 
-When you create a guide in the PC authoring app, the content is stored in Microsoft Dataverse. The Guides model-driven app enables you to access and view guide content quickly from Microsoft Dataverse. You can also make modifications through the Guides model-driven app. For example, you can [deactivate a guide](admin-deactivate-guide.md), [share content](admin-access-teams.md), or [create a 3D object-collection](workflow-example-2.md).
+When you create a guide in the PC authoring app, the content is stored in Microsoft Dataverse. The Guides model-driven app enables you to access and view guide content quickly from Microsoft Dataverse. You can also make modifications through the Guides model-driven app. For example, you can [deactivate a guide](admin-deactivate-guide.md), [share content](admin-access-teams.md), or [create a 3D object collection](workflow-example-2.md).
 
 > [!CAUTION] 
 > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Dynamics 365 Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, guide modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
