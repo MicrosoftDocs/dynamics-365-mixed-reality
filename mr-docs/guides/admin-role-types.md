@@ -23,4 +23,4 @@ For more information on using the Restricted Author and Restricted Operator role
 ## See also
 
 [Assign a role to an individual user](assign-role.md)<br>
-[Assign a role through Azure AD groups](admin-assign-role-groups.md)
+[Assign a role through Azure Active Directory groups](admin-assign-role-groups.md)
