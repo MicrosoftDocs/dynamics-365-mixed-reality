@@ -20,11 +20,11 @@ You can assign [Dynamics 365 Guides Author and Operator roles](admin-role-types.
 > [!NOTE]
 > SharePoint groups are not supported by Dynamics 365. Only Azure Active Directory Security groups or Azure Active Directory Office groups are supported by Dynamics 365 group teams.
 
-### Create an Azure Active Directory group
+## Create an Azure Active Directory group
 
 To learn how to create an Azure Active Directory Security group or an Azure Active Directory Office group, see [Create a basic group and add members using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal).
 
-### Create a Dynamics 365 group team
+## Create a Dynamics 365 group team
 
 The type of group you create in Dynamics 365 depends on the type of Azure Active Directory group you're starting with (Security or Office). For more information, see [Create a group team](https://docs.microsoft.com/power-platform/admin/manage-group-teams#create-a-group-team).  
 
@@ -32,6 +32,8 @@ For more information on how to link an Azure Active Directory group to a Dynamic
 
 > [!NOTE] 
 > When setting a value for **membership type** by selecting one of the options (**Members**, **Members & Guests**, **Guests**, or **Owners**), be aware that this value determines which users in the group will flow into the Dynamics 365 group team. Setting the **membership type** is similar to setting a pass-through filter. For example, if **Members** is selected and a guest is added to the group, the guest will not flow down into the team and will not inherit the role from the Dynamics 365 group team.  
+
+## Two ways to assign roles
 
 You can assign roles to a team in two ways: 
 
