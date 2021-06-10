@@ -21,7 +21,7 @@ For more information on the three types of teams (*owner* team, Azure Active Dir
 
 ## How access teams work with the Operator and Author user roles
 
-You can assign an Operator or Author role to a user to specify whether that user can create and edit guides as an author or use them as an operator. When you assign an Operator or Author role, that role automatically grants the user access to all guides in the environment. To limit access to specific guides or guide content (3D models, images, or videos), you can use the Restricted Operator and Restricted Author roles. A user who is assigned one of these roles does not have access to any guide created in the environment. [Learn more about the different roles](admin-role-types.md).
+You can assign an Operator or Author role to a user to specify whether that user can create and edit guides as an author or use them as an operator. When you assign an Operator or Author role, that role automatically grants the user access to all guides in the environment. To limit access to specific guides or guide content (3D models, images, or videos), you can use the Restricted Operator and Restricted Author roles. [Learn more about the different roles](admin-role-types.md).
 
 > [!IMPORTANT]
 > If you have already restricted access to guides or guides content by creating your own security role with reduced privileges, you’ll need to remove that security role and replace it with one of the built-in security roles as described in this article.
