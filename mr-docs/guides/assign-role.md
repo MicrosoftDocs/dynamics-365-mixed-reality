@@ -14,7 +14,7 @@ If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Ope
 Restricted Operator roles provide an extra layer of control. [Learn about the privileges provided by each role](admin-role-types.md).
 
 > [!NOTE]
-> You can also assign user roles in bulk by using [Azure AD groups](admin-assign-role-groups.md).
+> You can also assign user roles in bulk by using [Azure Active Directory groups](admin-assign-role-groups.md).
 
 ## Prerequisites
 
