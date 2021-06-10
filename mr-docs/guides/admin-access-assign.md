@@ -3,9 +3,8 @@ title: Assign ownership of a guide in Dynamics 365 Guides
 description: Learn how to assign ownership of a guide in Microsoft Dynamics 365 Guides.
 author:  MattHoag-MS
 manager: tfehr
-ms.service: crm-online
 ms.topic: conceptual
-ms.date: 04/14/2021
+ms.date: 06/10/2021
 ms.author: v-mhoag
 ms.reviewer: v-bholmes
 ---
