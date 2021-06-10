@@ -17,5 +17,5 @@ For more information on using the Restricted Author and Restricted Operator role
 [Share guides or guide content in Dynamics 365 Guides to expand access](admin-access-teams.md#assign-the-restricted-security-role).
 
 > [!IMPORTANT]
-> If you followed the instructions in the [Try or buy, and deploy Dynamics 365 Guides](setup.md) topic when you set up Dynamics 365 Guides, any users that you added were 
+> If you followed the instructions in the [Try or buy, and deploy Dynamics 365 Guides](setup-step-one.md) topic when you set up Dynamics 365 Guides, any users that you added were 
 > automatically assigned the **Author** role. You must explicitly assign the **Operator** role to specific users if you don't want them to have **Author** role privileges.
