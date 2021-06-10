@@ -22,8 +22,8 @@
 ##### [Assign using Azure AD groups](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
 #### Assign or share a guide
-#### [By changing ownership](admin-access-assign.md)
-#### [By sharing through an access team](admin-access-teams.md)
+##### [By changing ownership](admin-access-assign.md)
+##### [By sharing through an access team](admin-access-teams.md)
 #### [Share the Guides model-driven app](admin-share-guides-hub.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
