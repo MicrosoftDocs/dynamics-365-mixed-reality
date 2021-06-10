@@ -31,7 +31,7 @@ To assign user roles:
 > [!NOTE]
 > Users can take up to one hour to appear in the Dynamics 365 admin center after the licenses are added in the Microsoft 365 admin center.
 
-1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in with your admin credentials.
+1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and then sign in with your admin credentials.
 
 2. If the **Environments** page doesn't appear, select **Environments** in the left pane to open it.
 
