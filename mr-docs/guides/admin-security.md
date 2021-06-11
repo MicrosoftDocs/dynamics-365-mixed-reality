@@ -1,24 +1,29 @@
 ---
 author: Mamaylya
-description: Learn how to use security groups to control which users can access which instances in Microsoft Dynamics 365 Guides.
+description: Learn how to use security groups to control which users can access which environments in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 02/25/2021
+ms.date: 06/10/2021
 ms.topic: article
-title: Restrict access to an instance in Dynamics 365 Guides
-ms.reviewer: v-brycho
+title: Restrict access to an environment in Dynamics 365 Guides by using security groups
+ms.reviewer: v-bholmes
 ---
 
-# Restrict access to an instance in Dynamics 365 Guides by using security groups
+# Restrict access to an environment in Dynamics 365 Guides by using security groups
 
-If your company has multiple instances of Microsoft Dynamics 365 Guides, you can use security groups to control which users can access each instance.
+If your company has multiple Microsoft Dynamics 365 Guides environments, you can use security groups to control which users can access each environment. A security group restricts access to the environment to people in the security group. If a Microsoft Dataverse environment does not have an associated security group, all users with a Dataverse license (Dynamics 365 Guides, Power Automate, Power Apps, and so on) will be created as users and enabled in the environment. 
 
-For example, you might want to create three security groups to control access to the following instances.
+Each environment can have just one security group. For example, you could create three security groups to control access to the following environments.
 
-| Instance                       | Security group  | Purpose |
+| Environment                    | Security group  | Purpose |
 |--------------------------------|-----------------|---------|
 | Coho Manufacturing Sales       | Sales\_SG       | Provide access to the organization that creates sales opportunities, handles quotations, and closes deals. |
 | Coho Manufacturing Maintenance | Maintenance\_SG | Provide access to the organization that does service and machinery maintenance. |
-| Coho Manufacturing Dev         | Developer\_SG   | Provide access to the sandbox instance that is used for development and testing. |
+| Coho Manufacturing Dev         | Developer\_SG   | Provide access to the sandbox environment that is used for development and testing. |
+
+[Learn more about controlling user access to environments with security groups](https://docs.microsoft.com/power-platform/admin/control-user-access). 
+
+> [!NOTE]
+> Environments are sometimes referred to as "organizations" or "instances." Each of these terms refers to the same concept. 
 
 ## Create a user and assign a license
 
@@ -32,7 +37,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 3. On the **Set up the basics** page, enter the user's first name, last name, display name, and user name.
 
-    ![Screenshot of the Set up the basics page](media/set-up-basics.PNG "Screenshot of the Set up the basics page")
+    ![Set up the basics page with user details](media/set-up-basics.PNG "Set up the basics page with user details")
 
 4. Under **Password settings**, follow these steps:
 
@@ -67,7 +72,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 3. On the **Set up the basics** page, enter a name and description for the group, and then select **Next**.
 
-    ![Set up the basics page](media/set-up-basics-2.PNG "Set up the basics page")
+    ![Set up the basics page with group name](media/set-up-basics-2.PNG "Set up the basics page with group name")
 
 4. On the **Review and finish adding group** page, review your changes, select **Create group**, and then, on the next page, select **Close** to close the wizard.
 
@@ -94,48 +99,49 @@ Use this procedure if you haven't already created users and assigned licenses. I
 >
 > ![Remove a member](media/remove-members-2.PNG "Remove a member")
 
-## Associate a security group with an instance
+## Associate a security group with an environment
 
 1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **All admin centers**, and then select **Power Apps**.
 
     ![Open the Dynamics 365 admin center](media/all-admin-centers.PNG "Open the Dynamics 365 admin center")
 
-2. In the Power Platform admin center, in the **Details** section, select **Edit**.
+2. In the **Environments** page, select the environment to edit by clicking the environment name.  
+
+3. In the Power Platform admin center, in the **Details** section, select **Edit**.
 
     ![Edit button in Power Platform admin center](media/security-groups-edit-details.PNG "Edit button in Power Platform admin center")
 
-3. On the **Edit Details** tab, select the pencil button, select the security group, and then select **Save**.
+4. In the **Edit details** pane, select the pencil button, select the security group, and then select **Save**.
 
-    ![Pencil button on Edit Details tab](media/security-groups-select-group.PNG "Pencil button on Edit Details tab")
+    ![Pencil button on Edit details tab](media/security-groups-select-group.PNG "Pencil button on Edit details tab")
 
 ## Additional information about security groups
 
 Note the following points about security groups:
 
-- When users are added to a security group, they are added to the instance.
+- When users are added to a security group, they are added to the environment.
 
-- When users are removed from a security group, they are disabled in the instance.
+- When users are removed from a security group, they are disabled in the environment.
 
-- When a security group is associated with an existing instance that has users, any users in that instance who aren't members of the security group will be disabled.
+- When a security group is associated with an existing environment that has users, any users in that environment who aren't members of the security group will be disabled.
 
-- If no security group is associated with an instance, all users who have a license will be created as users and enabled in that instance.
+- If no security group is associated with an environment, all users who have a license will be created as users and enabled in that environment.
 
-- If a security group is associated with an instance, only users who have a license and who are members of the security group will be created as users in that instance.
+- If a security group is associated with an environment, only users who have a license and who are members of the security group will be created as users in that environment.
 
-- When you remove a security group that is associated with an instance, either by editing the instance and removing the security group, or by deleting the security group, licensed users who were members of that security group will have the same access to model-driven apps in Dynamics 365.
+- When you remove a security group that is associated with an environment, either by editing the environment and removing the security group, or by deleting the security group, licensed users who were members of that security group will have the same access to model-driven apps in Dynamics 365.
 
-- When you assign a security group to an instance, the instance appears on the **Instances** tab in the Dynamics 365 admin center only for users who are members of the group.
+- When you assign a security group to an environment, the environment appears on the **Environments** tab in the Dynamics 365 admin center only for users who are members of the group.
 
-- If you don't assign a security group to an instance, the instance appears on the **Instances** tab in the Dynamics 365 admin center even for users who haven't been assigned a security role in that instance.
+- If you don't assign a security group to an environment, the environment appears on the **Environments** tab in the Dynamics 365 admin center even for users who haven't been assigned a security role in that environment.
 
 - Nested security groups aren't supported.
 
 > [!NOTE]
-> All licensed users, regardless of whether they are members of security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign security roles in the web application. Users can't access instances until they are assigned at least one security role for that instance. For more information, see [Grant users access](/power-platform/admin/grant-users-access).
+> All licensed users, regardless of whether they are members of security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign security roles in the web application. Users can't access environments until they are assigned at least one security role for that environment. For more information, see [Grant users access](https://docs.microsoft.com/power-platform/admin/grant-users-access).
 
 ## See also
 
 [Add several users at the same time](/office365/enterprise/add-several-users-at-the-same-time)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
