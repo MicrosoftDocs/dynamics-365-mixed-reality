@@ -116,7 +116,7 @@ There are three levels of access management:
 
 ### Control access to the Dataverse environment
 
-You can use [security groups](./admin-security.md#associate-a-security-group-with-an-instance) to control which users can access specific Dataverse environments. Security groups provide the highest level of access control and are intended for organizations that have multiple business units (for example, product divisions) that don't collaborate with each other or share content. You can also [use bulk processes to assign security groups](/power-platform/admin/manage-teams#using-azure-active-directory-groups-to-manage-a-users-app-and-data-access).
+You can use [security groups](./admin-security.md) to control which users can access specific Dataverse environments. Security groups provide the highest level of access control and are intended for organizations that have multiple business units (for example, product divisions) that don't collaborate with each other or share content. You can also [use bulk processes to assign security groups](/power-platform/admin/manage-teams#using-azure-active-directory-groups-to-manage-a-users-app-and-data-access).
 
 ### Control access to specific guides or content
 
