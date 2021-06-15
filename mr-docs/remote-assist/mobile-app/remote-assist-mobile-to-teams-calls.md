@@ -43,10 +43,10 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
     ![Screenshot of a Dynamics 365 Remote Assist mobile to Microsoft Teams call.](./media/ram-teams-video.png)
 
-5. Both call participants can place annotations in the shared environment either in their own environment or by selecting **Start Editing**. 
+5. Both call participants can place annotations in the shared environment either in their own environment or by selecting **Start editing**. 
 
     > [!NOTE] 
-    > After the remote collaborator selects **Start Editing**, they can add mixed-reality annotations on a frozen frame of the shared environment. When they select **Stop Editing**, the annotation appears in the technician's shared environment. 
+    > After the remote collaborator selects **Start editing**, they can add mixed-reality annotations on a frozen frame of the shared environment. When they select **Stop editing**, the annotation appears in the technician's shared environment. 
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-teams-remote-collab.png "Place Annotations")
 
