@@ -39,21 +39,21 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the Launch Call button.](./media/calls_3.png)
 
-4. If the remote collaborator answers the call on **Teams desktop or mobile**, the technician's live video feed will be shared to the remote collaborator's device screen.
+4. If the remote collaborator answers the call on **Teams desktop or mobile**, the technician's live video feed is shared with the remote collaborator's device screen.
 
     ![Screenshot of a Dynamics 365 Remote Assist mobile to Microsoft Teams call.](./media/ram-teams-video.png)
 
 5. Both call participants can place annotations in the shared environment either in their own environment or by selecting **Start Editing**. 
 
     > [!NOTE] 
-    > After the remote collaborator selects **Start Editing**, they can add mixed reality annotations on a frozen frame of the shared environment. Afterwards, they can select **Stop Editing** and then the annotation will appear in the technician's shared environment. 
+    > After the remote collaborator selects **Start Editing**, they can add mixed-reality annotations on a frozen frame of the shared environment. When they select **Stop Editing**, the annotation appears in the technician's shared environment. 
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-teams-remote-collab.png "Place Annotations")
 
-6. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, record the call, share their environment, or end the call. 
+6. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves, turn on their speakers, record the call, share their environment, or end the call. 
 
     ![Screenshot of the Dynamics 365 Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/call-controls-final.png)
 
-7. During the call, call participants capture and annotate on snapshots, send messages, share files, record the call, and more!
+7. During the call, call participants can capture and annotate snapshots, send messages, share files, record the call, and more.
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
