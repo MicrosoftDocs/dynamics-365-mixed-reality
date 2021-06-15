@@ -54,7 +54,7 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
     |Button|Description|
     |--------|--------------------------|
-    |![Video button](./media/ra-video-button.PNG)|Stop the video call and enter audio-only call|
+    |![Video button](./media/ra-video-button.PNG)|Stop video call to go to audio only|
     |![Microphone button](./media/ra-microphone-button.PNG)|Mute or unmute the microphone|
     |![Speakers button](./media/ra-speaker-button.PNG)|Adjust speaker volume|
     |![More menu button](./media/ra-more-menu.PNG)|Display the **More** menu to add participants, share spaces, or start a recording|
