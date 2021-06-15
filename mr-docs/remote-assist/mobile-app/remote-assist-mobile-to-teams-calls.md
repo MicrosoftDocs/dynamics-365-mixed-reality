@@ -25,7 +25,7 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 1. Launch and sign into Dynamics 365 Remote Assist on your iOS or Android phone or tablet.
 
     > [!IMPORTANT]
-    > The mixed reality toolbar does not appear if the Dynamics 365 Remote Assist user joins the call from two different devices, so Remote Assist users should avoid joining the call from two separate devices.
+    > The mixed reality toolbar will not appear if the Dynamics 365 Remote Assist user joins the call from two different devices.
 
 2. Search for the remote collaborator's name.
 
