@@ -13,12 +13,13 @@ ms.reviewer: krbjoran
 Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve issues with remote specialists or collaborators using Microsoft Teams desktop or the mobile app. Both call participants can place mixed-reality annotations in each other's space to effectively collaborate. 
 
 > [!NOTE]
-> This guide documents a one-to-one call between a Dynamics 365 Remote Assist mobile user and a Teams desktop or mobile user; learn about group calls with at least two Teams desktop users [here](group-calling.md).
+> This article shows how to make a one-to-one call between a Dynamics 365 Remote Assist mobile user and a Teams desktop or mobile user. [Learn about group calls with at least two Teams desktop users](group-calling.md).
 
 ## Prerequisites
 
-- Technicians must have a Dynamics 365 Remote Assist [free trial](../try-remote-assist.md) or [subscription](../buy-remote-assist.md).
-- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
+- Technicians must have a [Dynamics 365 Remote Assist free trial](../try-remote-assist.md) or a [subscription](../buy-remote-assist.md).
+
+- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or [Microsoft Teams free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 
 ## How it works
 
