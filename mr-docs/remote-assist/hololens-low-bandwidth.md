@@ -29,6 +29,9 @@ Dynamics 365 Remote Assist **autodetects** if the technician is experiencing poo
 
 Let's take a quick look at what happens in a field scenario when a technician encounters poor network connectivity. In this scenario, the technician is a field worker. The  remote collaborator is elsewhere with good network conditions. 
 
+> [!IMPORTANT]
+> A OneDrive license is required to take advantage of the Snapshot feature described in this procedure. 
+
 1. The technician launches a video call with a remote collaborator.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, launching a call.](./media/03.14-call-snapshot-poor-connection.png "Launch Call") 
