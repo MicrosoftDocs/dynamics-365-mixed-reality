@@ -42,7 +42,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the Poor Network notification and the Share Snapshot option on the HoloLens device screen.](./media/03.16-call-snapshot-poor-connection-tip.png "Share") 
     
     > [!Note]
-    > A OneDrive license is required to take advantage of the Snapshot tool. 
+    > A OneDrive license is required to share snapshots with the Snapshot tool. 
 
 4. The technician is instructed on how to use the **Snapshot** tool.
 
