@@ -52,5 +52,7 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
 7. During the call, call participants capture and annotate on snapshots, send messages, share files, record the call, and more!
 
+> [!NOTE]
+> The Dynamics 365 Remote Assist user should avoid joining the call from two different devices. In this situation, the mixed reality toolbar disappears so the participants on the call can't collaborate with the Remote Assist user.
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
