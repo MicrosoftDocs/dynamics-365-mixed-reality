@@ -50,7 +50,7 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-teams-remote-collab.png "Place Annotations")
 
-6. The technician can use the buttons in the call controls toolbar as shown in the following table.
+6. The technician can use the buttons in the call controls toolbar for the purposes shown in the following table.
 
     |Button|Description|
     |--------|--------------------------|
