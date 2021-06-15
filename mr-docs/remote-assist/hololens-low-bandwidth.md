@@ -3,7 +3,7 @@ title: Use Dynamics 365 Remote Assist HoloLens in low-bandwidth situations
 author: BryceHolmes
 description: How the Microsoft Dynamics 365 Remote Assist HoloLens app works in environments with poor network conditions. 
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 06/15/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -40,6 +40,9 @@ Let's take a quick look at what happens in a field scenario when a technician en
 3. The technician is prompted to use the **Snapshot** tool to share images with the expert.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the Poor Network notification and the Share Snapshot option on the HoloLens device screen.](./media/03.16-call-snapshot-poor-connection-tip.png "Share") 
+    
+    > [!Note]
+    > A OneDrive license is required to share snapshots with the **Snapshot** tool. 
 
 4. The technician is instructed on how to use the **Snapshot** tool.
 
