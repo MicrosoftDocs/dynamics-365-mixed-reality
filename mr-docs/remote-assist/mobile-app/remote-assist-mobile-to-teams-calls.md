@@ -50,7 +50,7 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-teams-remote-collab.png "Place Annotations")
 
-6. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves, turn on their speakers, record the call, share their environment, or end the call. 
+6. The technician can use the calls controls toolbar to disable the video call (enter an audio-only call), mute themselves, turn on their speakers, record the call, share their environment, or end the call. 
 
     ![Screenshot of the Dynamics 365 Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/call-controls-final.png)
 
