@@ -32,7 +32,7 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
     ![Screenshot of Dynamics 365 Remote Assist mobile, showing the contacts screen and highlighting the search icon.](./media/calls_2.png "Search")
 
-3. Select the remote collaborator's name and launch a call.
+3. Select the remote collaborator's name, and then select **Launch Call**.
 
     > [!NOTE]
     > If the remote collaborator receives the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. 
