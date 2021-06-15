@@ -53,7 +53,7 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 6. The technician can use the call controls toolbar.
 
     ![Call controls toolbar](./media/call-controls-toolbar.PNG "Call controls toolbar")
-
+    ![Call controls toolbar](./media/call-controls-toolbar.PNG "Call controls toolbar")
     The following table describes the buttons in the toolbar.
 
     |Button|Description|
