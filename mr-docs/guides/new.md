@@ -22,20 +22,6 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
-## June 29, 2021
-
-|Item|Version|
-|-------------------------|--------------------------------|
-|PC app|XXX|
-|HoloLens app (HoloLens 2 only)|XXX|
-|Solution|XXX|
-
-### Features
-
-| Feature | Solution update required? |How to|
-|----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="RP link goes here" target="_blank">Display text for RP link goes here</a>| Yes |<a href="Docs link goes here" target="_blank">Docs displaylink goes here</a>|
-
 ## May 4, 2021
 
 ### Version info
