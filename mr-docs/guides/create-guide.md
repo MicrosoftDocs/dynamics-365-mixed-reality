@@ -18,7 +18,7 @@ ms.reviewer: v-brycho
 
 2. Select **Create new guide**.
 
-    ![Create new guide button](media/create-guide.PNG "Create new guide button")
+    ![Create new guide button](media/create-guide-folders.PNG "Create new guide button")
 
 3. Enter a name for the guide, and then select **Create**.
 
