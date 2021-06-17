@@ -16,7 +16,7 @@ ms.reviewer: v-brycho
 
 1. [Open the PC app](install-sign-in-pc-app.md).
 
-2. Select **Create new guide**.
+2. Select **Create a guide**.
 
     ![Create new guide button](media/create-guide-folders.PNG "Create new guide button")
 
