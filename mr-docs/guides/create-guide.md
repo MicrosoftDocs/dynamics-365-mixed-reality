@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Create a guide in the Dynamics 365 Guides PC app
 
-In Microsoft Dynamics 365 Guides, you always create a guide in the PC app. After you create the guide, you can [structure it in the Outline page](structure-guide.md), and then [add instruction text and 2D media or 3D holograms](pc-app-step-editor-overview.md). 
+In Microsoft Dynamics 365 Guides, you always create a guide in the PC app. After you create the guide, you can [structure it in the Outline page](structure-guide.md), and then [add steps and 3D content or 2D media](pc-app-step-editor-overview.md). 
 
 1. [Open the PC app](install-sign-in-pc-app.md).
 
