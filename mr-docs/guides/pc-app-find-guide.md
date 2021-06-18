@@ -16,7 +16,7 @@ To find a guide in the Microsoft Dynamics 365 Guides PC app, you can:
 
 - Navigate the folder structure
 
-- Use the **All** or **Recent** tabs, and then sorting the resulting lists
+- Use the **All** or **Recent** tabs, and then sort the resulting lists
 
 ## Use the filter box
 
