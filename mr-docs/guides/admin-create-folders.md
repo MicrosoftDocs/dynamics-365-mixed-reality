@@ -8,7 +8,7 @@ title: Organize guides into folders in Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
-# Organize guides into folders in Dynamics 365 Guides (for admins)
+# Organize guides into folders in Dynamics 365 Guides
 
 If you're an admin or an author for Microsoft Dynamics 365 Guides, you can organize guides into folders. A folder can contain guides and subfolders, and each folder can be assigned an owner that is inherited by guides or subfolders in that folder. When you delete a folder, all items in that folder are also deleted. Folders are useful for managing groups of guides with the same permissions, such as guides for a specific team or product. Permissions assigned to folders do not give permissions to guides within those folders, however. 
 
