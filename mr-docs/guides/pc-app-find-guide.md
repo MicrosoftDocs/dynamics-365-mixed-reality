@@ -19,7 +19,7 @@ ms.reviewer: v-bholmes
     > [!TIP]    
     > You can also look for a guide by:
     > - Navigating the folder structure through the **All** tab or the folder breadcrumbs above the filter box. Note that folders never appear on the **Recent** tab. 
-    > - Selecting the **All** or **Recent** tabs, and then sorting the resulting list by selecting the **Name** and **Date Modified** column headers (**All** tab), or the **Name** and **Date Accessed** column headers (**Recent** tab).
+    > - Selecting the **All** or **Recent** tabs, and then sorting the resulting list by selecting the **Name** and **Date Modified** column headers (**All** tab), or the **Name** and **Date Accessed** column headers (**Recent** tab).<br>
     > To learn how to create folders with the Guides model-driven app, select the **Learn about folders** button on the **Home** page.
 
 ## See also
