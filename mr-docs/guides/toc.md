@@ -37,7 +37,7 @@
 ### [Authoring overview](authoring-overview.md)
 ### Author in the PC app
 #### Overview and basics
-##### [Overview](pc-app-overview.md)
+##### [PC app overview](pc-app-overview.md)
 ##### [Install the app and sign in](install-sign-in-pc-app.md)
 ##### [Create a guide](create-guide.md)
 ##### [Find a guide](pc-app-find-guide.md)
