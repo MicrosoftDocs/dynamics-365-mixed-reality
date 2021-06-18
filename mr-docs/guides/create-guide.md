@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Use the PC app in Microsoft Dynamics 365 Guides as the first step in creating a guide. 
 ms.author: mamaylya
-ms.date: 12/08/2020
+ms.date: 06/29/2021
 ms.topic: article
 title: Create a guide in the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
@@ -46,7 +46,7 @@ After you create your guide, the **Outline** page appears. To learn more about h
     ![Search box on the Home page](media/find-guide.PNG "Search box on the Home page")
     
     > [!TIP]    
-    > You can also select the **Recent** or **All** tabs to look for a guide. After you select one of these tabs, you can sort the resulting list by selecting the **Name** and **Date Modified** column headers (on the **All** tab), or the **Name** and **Date Accessed** column headers (on the **Recent** tab).
+    > You can also select the **Recent** or **All** tabs to look for a guide. After you select one of these tabs, you can sort the resulting list by selecting the **Name** and **Date Modified** column headers (**All** tab), or the **Name** and **Date Accessed** column headers (**Recent** tab).
 
 ## How changes are synced between the PC app and the HoloLens app
 
