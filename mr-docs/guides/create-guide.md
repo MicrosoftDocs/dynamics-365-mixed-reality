@@ -41,7 +41,7 @@ After you create your guide, the **Outline** page appears. To learn more about h
 
 1. [Open the PC app](install-sign-in-pc-app.md).
 
-2. Open the **Home** page, enter a name in the search box, and then select the **Search** button (magnifying glass).
+2. Open the **Home** page, enter a name in the filter box, and then select the **Filter** button.
 
     ![Search box on the Home page](media/find-guide.PNG "Search box on the Home page")
     
