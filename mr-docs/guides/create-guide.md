@@ -20,7 +20,7 @@ ms.reviewer: v-brycho
 
     ![Create new guide button](media/create-guide-folders.PNG "Create new guide button")
 
-3. Go to the folder that you want to save the guide in. You can use the folder breadcrumbs above the **Filter by name** box to navigate the folder structure. 
+3. Go to the folder that you want to save the guide in. You can use the folder breadcrumbs above the **Filter by name** box to navigate the folder structure or you can select the **All** tab and navigate the folder structure that way. Note that folders never appear on the **Recent** tab. 
 
     > [!NOTE]
     > To learn how to create a folder by using the Guides model-driven app, select **Learn about folders**. 
@@ -35,7 +35,7 @@ ms.reviewer: v-brycho
     > [!NOTE]
     > When you create a guide by using the PC app, a JavaScript Object Notation (JSON) data file is automatically created in Microsoft Dataverse. This file is for internal use only. We don't recommend that you build functionality on top of this file, because it might change over time.
 
-After you create your guide, the **Outline** page appears. To learn more about how to work on the **Outline** page, see [Structure your guide in the Outline page](structure-guide.md).
+After you create your guide, the **Outline** page appears. To learn more about how to work with the **Outline** page, see [Structure your guide in the Outline page](structure-guide.md).
 
 ## Find a guide
 
