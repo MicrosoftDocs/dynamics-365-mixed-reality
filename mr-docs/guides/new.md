@@ -35,7 +35,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Folders in PC and HoloLens apps</a>| Yes |<a href="Docs link goes here" target="_blank">Docs displaylink goes here</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="Docs link goes here" target="_blank">Docs displaylink goes here</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |None</a>|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Reworked notifications for accessibility</a>| Yes |None|
 
 ## May 4, 2021
