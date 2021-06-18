@@ -20,12 +20,12 @@ ms.reviewer: v-brycho
 
     ![Create new guide button](media/create-guide-folders.PNG "Create new guide button")
 
-3. Go to the folder that you want to save the guide in. You can use the folder breadcrumbs above the **Filter by name** box to navigate the folder structure or you can select the **All** tab and navigate the folder structure that way. Note that folders never appear on the **Recent** tab. 
+3. Go to the folder that you want to save the guide in. You can navigate the folder structure by going to the **All** tab or by using the breadcrumbs above the **Filter by name** box. Note that folders never appear on the **Recent** tab. 
 
     > [!NOTE]
     > To learn how to create a folder by using the Guides model-driven app, select **Learn about folders**. 
 
-4. Enter a name for the guide, and then select **Create**.
+4. Enter a name for the guide, and then select **Create**. The guide will be saved in the current folder. 
 
     > [!TIP]
     > If you're planning to create multiple versions of the guide, you might want to add **\_v2**, **\_v3**, and so on, as part of the name. You can also use the **Save a Copy** command on the **File** menu if you're creating multiple versions of the same guide.
