@@ -35,19 +35,6 @@ ms.reviewer: v-brycho
 
 After you create your guide, the **Outline** page appears. To learn more about how to work with the **Outline** page, see [Structure your guide in the Outline page](structure-guide.md).
 
-## Find a guide
-
-1. [Open the PC app](install-sign-in-pc-app.md).
-
-2. Open the **Home** page, enter a name in the filter box, and then select the **Filter** button.
-
-    ![Search box on the Home page](media/find-guide.PNG "Search box on the Home page")
-    
-    > [!TIP]    
-    > You can also look for a guide by:
-    > - Navigating the folder structure through the **All** tab or the folder breadcrumbs above the filter box. Note that folders never appear on the **Recent** tab. To learn how to create folders with the Guides model-driven app, select **Learn about folders**.
-    > - Selecting the **All** or **Recent** tabs, and then sorting the resulting list by selecting the **Name** and **Date Modified** column headers (**All** tab), or the **Name** and **Date Accessed** column headers (**Recent** tab).
-
 ## How changes are synced between the PC app and the HoloLens app
 
 The PC authoring app and the [!include[pn-hololens](../includes/pn-hololens.md)] app are connected through the cloud, where your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] files and content are stored.
