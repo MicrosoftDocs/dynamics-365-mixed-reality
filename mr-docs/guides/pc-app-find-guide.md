@@ -14,7 +14,7 @@ ms.reviewer: v-bholmes
 
 2. Open the **Home** page, enter a name in the filter box, and then select the **Filter** button.
 
-    ![Search box on the Home page](media/pc-app-find-guide.PNG "Search box on the Home page")
+    ![Filter box on the Home page](media/find-guide.PNG "Search box on the Home page")
     
     > [!TIP]    
     > You can also look for a guide by:
