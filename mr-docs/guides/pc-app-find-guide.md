@@ -34,7 +34,7 @@ You can navigate the folder structure by using the **All** tab or the folder bre
 
 Note that folders do not appear on the **Recent** tab. [Learn how to create folders with the Guides model-driven app](admin-create-folders.md).
     
-## Use the **All* or **Recent** tabs, and then sort the resulting lists   
+## Use the All or Recent tab, and then sort the resulting lists   
 
 1. Select the **All** or **Recent** tab.
 
