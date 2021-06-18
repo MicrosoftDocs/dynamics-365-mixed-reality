@@ -70,6 +70,6 @@ To change the owner of a folder:
 
 ## See also
 
-[Create a guide](create-guide.md)
+[Create or find a guide](create-guide.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
