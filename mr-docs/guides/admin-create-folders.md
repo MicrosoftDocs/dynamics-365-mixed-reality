@@ -74,4 +74,6 @@ To change the owner of a folder:
 
 [Create or find a guide](create-guide.md)
 
+[Move folder structure from one environment to another](admin-import-export-folders.md)
+
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
