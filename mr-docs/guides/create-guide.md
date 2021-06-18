@@ -51,10 +51,5 @@ You must be online to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
-[Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
-[Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
-[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-[Deactivate a guide](pc-app-deactivate-guide.md)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
