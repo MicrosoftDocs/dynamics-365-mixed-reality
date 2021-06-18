@@ -23,7 +23,7 @@ ms.reviewer: v-brycho
 3. Go to the folder that you want to save the guide in. You can use the folder breadcrumbs above the **Filter by name** box to navigate the folder structure. 
 
     > [!NOTE]
-    > To learn how to create a folder by using the model-driven app, select **Learn about folders**. 
+    > To learn how to create a folder by using the Guides model-driven app, select **Learn about folders**. 
 
 4. Enter a name for the guide, and then select **Create**.
 
