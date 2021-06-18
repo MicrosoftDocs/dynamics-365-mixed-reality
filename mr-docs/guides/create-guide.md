@@ -20,7 +20,7 @@ ms.reviewer: v-brycho
 
     ![Create new guide button](media/create-guide-folders.PNG "Create new guide button")
 
-3. Go to the folder that you want to save the guide in. 
+3. Go to the folder that you want to save the guide in. You can use the folder breadcrumbs above the Filter box to navigate the folder structure. 
 
     > [!NOTE]
     > To create a folder, you must use the Guides model-driven app. To learn how to use the model-driven app, Select **Learn about folders**. 
