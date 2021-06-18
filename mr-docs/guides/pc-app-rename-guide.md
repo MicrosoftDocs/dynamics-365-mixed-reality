@@ -26,7 +26,7 @@ From the **Home** page in the PC app, you can rename a guide that was created in
     The name is immediately updated for all users.
 
     > [!NOTE]
-    > Because the position of guides on the **Recent** tab is based on how recently you last opened a file, the position of the renamed guide on that tab won't change until you open the file. On the **All** tab, guides are arranged alphabetically. Therefore, the position of the renamed guide might change on that tab.
+    > Because the position of guides on the **Recent** tab is based on how recently you last opened a file, the position of the renamed guide on that tab won't change until you open the file. On the **All** tab, guides are arranged alphabetically, so the position of the renamed guide might change on that tab.
 
 ## See also
 
