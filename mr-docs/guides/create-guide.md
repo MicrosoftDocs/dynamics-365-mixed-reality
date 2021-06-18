@@ -5,12 +5,10 @@ ms.author: mamaylya
 ms.date: 06/29/2021
 ms.topic: article
 title: Create a guide in the Dynamics 365 Guides PC app
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
-# Create or find a guide in the Dynamics 365 Guides PC app
-
-## Create a guide
+# Create a guide in the Dynamics 365 Guides PC app
 
 1. [Open the PC app](install-sign-in-pc-app.md).
 
