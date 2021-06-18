@@ -10,8 +10,6 @@ ms.reviewer: v-brycho
 
 # Create or find a guide in the Dynamics 365 Guides PC app
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 ## Create a guide
 
 1. [Open the PC app](install-sign-in-pc-app.md).
