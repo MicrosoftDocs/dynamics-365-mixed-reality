@@ -38,6 +38,10 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign" target="_blank">Assign ownership of a guide</a>|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Reworked notifications for accessibility</a>| No |None|
 
+### Bugs fixed
+
+- List to come
+
 ## May 4, 2021
 
 ### Version info
