@@ -2,25 +2,28 @@
 author: Mamaylya
 description: Use the PC app in Microsoft Dynamics 365 Guides as the first step in creating a guide. 
 ms.author: mamaylya
-ms.date: 12/08/2020
+ms.date: 06/29/2021
 ms.topic: article
 title: Create a guide in the Dynamics 365 Guides PC app
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
-# Create or find a guide in the Dynamics 365 Guides PC app
+# Create a guide in the Dynamics 365 Guides PC app
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
-## Create a guide
+In Microsoft Dynamics 365 Guides, you always create a guide in the PC app. After you create the guide, you can [structure it in the Outline page](structure-guide.md), and then [add steps and 3D content or 2D media](pc-app-step-editor-overview.md). 
 
 1. [Open the PC app](install-sign-in-pc-app.md).
 
-2. Select **Create new guide**.
+2. Select **Create a guide**.
 
-    ![Create new guide button](media/create-guide.PNG "Create new guide button")
+    ![Create new guide button](media/create-guide-folders.PNG "Create new guide button")
 
-3. Enter a name for the guide, and then select **Create**.
+3. Go to the folder that you want to save the guide in. You can navigate the folder structure by going to the **All** tab or by using the breadcrumbs above the **Filter by name** box. Note that folders never appear on the **Recent** tab. 
+
+    > [!NOTE]
+    > To learn how to create a folder by using the Guides model-driven app, select **Learn about folders**. 
+
+4. Enter a name for the guide, and then select **Create**. The guide will be saved in the current folder. 
 
     > [!TIP]
     > If you're planning to create multiple versions of the guide, you might want to add **\_v2**, **\_v3**, and so on, as part of the name. You can also use the **Save a Copy** command on the **File** menu if you're creating multiple versions of the same guide.
@@ -30,18 +33,7 @@ ms.reviewer: v-brycho
     > [!NOTE]
     > When you create a guide by using the PC app, a JavaScript Object Notation (JSON) data file is automatically created in Microsoft Dataverse. This file is for internal use only. We don't recommend that you build functionality on top of this file, because it might change over time.
 
-After you create your guide, the **Outline** page appears. To learn more about how to work on the **Outline** page, see [Structure your guide in the Outline page](structure-guide.md).
-
-## Find a guide
-
-1. [Open the PC app](install-sign-in-pc-app.md).
-
-2. Open the **Home** page, enter a name in the search box, and then select the **Search** button (magnifying glass).
-
-    ![Search box on the Home page](media/find-guide.PNG "Search box on the Home page")
-    
-    > [!TIP]    
-    > You can also select the **Recent** or **All** tabs to look for a guide. After you select one of these tabs, you can sort the resulting list by selecting the **Name** and **Date Modified** column headers (on the **All** tab), or the **Name** and **Date Accessed** column headers (on the **Recent** tab).
+After you create your guide, the **Outline** page appears. To learn more about how to work with the **Outline** page, see [Structure your guide in the Outline page](structure-guide.md).
 
 ## How changes are synced between the PC app and the HoloLens app
 
@@ -59,10 +51,5 @@ You must be online to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
-[Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
-[Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
-[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-[Deactivate a guide](pc-app-deactivate-guide.md)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

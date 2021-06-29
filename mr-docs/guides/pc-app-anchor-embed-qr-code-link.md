@@ -32,7 +32,7 @@ to the same QR code.
 
 1. Create a guide link by right-clicking a guide and selecting **Copy link to this guide**.
 
-    ![Example QR code generator](media/embed-qr-code-link-copy-link.PNG "Example QR code generator")
+    ![Screenshot with Copy link to this guide highlighted](media/copy-guide-link.PNG "Screenshot with Copy link to this guide highlighted")
     
     > [!NOTE] 
     > You can also [copy a link to a step within a guide](pc-app-copy-link-guide-step.md).

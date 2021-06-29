@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to deactivate a guide or guide content (Microsoft Dynamics 365 Guides authors).
 ms.author: mamaylya
-ms.date: 02/25/2021
+ms.date: 06/29/2021
 ms.topic: article
 title: Deactivate a guide in Dynamics 365 Guides (authors)
 ms.reviewer: v-brycho

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a QR code anchor
 ms.author: mamaylya
-ms.date: 11/03/2020
+ms.date: 06/29/2020
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
 ms.reviewer: v-brycho
@@ -52,6 +52,8 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 3. In step 1 of the wizard, select **Download QR code** to create a PDF file that is named **Guides-QRCodeAnchor**. This file includes the anchor that you will print in step 5.
 
     ![Download QR code button](media/qr-code-download-button.PNG "Download QR code button")
+    
+    You can use the same QR code for any guide that uses a QR code anchor. 
 
 4. On your computer, open the **Guides-QRCodeAnchor** file.
 

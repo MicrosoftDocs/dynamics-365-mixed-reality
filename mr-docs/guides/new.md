@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 05/04/2021
+ms.date: 06/29/2021
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # What's new in Dynamics 365 Guides
@@ -21,6 +21,29 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
+
+## June 29, 2021
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|602.2106.19001|
+|HoloLens app (HoloLens 2 only)|602.2106.19001|
+|Solution|600.2.0.2|
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-guide" target="_blank">Create a guide</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign" target="_blank">Assign ownership of a guide</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Reworked notifications for accessibility</a>| No |None|
+
+### Bugs fixed
+
+- Space planning 3D collection is now fully localized
+- Accessibility bug fixes
+- Improvement to Restricted Author role to allow users to create guides from the Guides model-driven app and the PC app
+- Improvements to deep linking
 
 ## May 4, 2021
 
