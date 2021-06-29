@@ -2,7 +2,7 @@
 author: melissahellmund
 description: Learn how to export and import Dynamics 365 Guides folders between environments
 ms.author: mehellmu
-ms.date: 06/04/2021
+ms.date: 06/29/2021
 ms.service: crm-online
 ms.topic: article
 title: Export and import Dynamics 365 Guides folders between environments
@@ -111,6 +111,10 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     When the import is complete, you'll see a notification stating that the solution has been successfully imported. This might take a few minutes.
  
     ![Power Apps screen with notification showing solution successfully imported](media/export-folders-14.PNG "Power Apps screen with notification showing solution successfully imported")
+    
+## See also
+
+[Create folders](admin-create-folders.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]     
 

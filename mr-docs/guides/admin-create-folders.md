@@ -1,23 +1,22 @@
 ---
 author: Mamaylya
-description: Learn how to organize guides into folders in Dynamics 365 Guides if you're an admin
+description: Learn how to organize guides into folders in Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 05/04/2021
+ms.date: 06/29/2021
 ms.topic: article
-title: Organize guides into folders in Dynamics 365 Guides (for admins only)
+title: Organize guides into folders in Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
-# Organize guides into folders in Dynamics 365 Guides (for admins)
+# Create folders in Dynamics 365 Guides to organize your guides 
 
-As an admin, you can organize guides into folders for easier permissions management. A folder can contain guides and subfolders, and each folder can be assigned an owner that is inherited by guides or subfolders in that folder. When you delete a folder, all items in that folder are also deleted. Folders are useful for managing groups of guides with the same permissions, such as guides for a specific team or product. Permissions assigned to folders do not give permissions to guides within those folders, however. 
+If you're an admin or an author for Microsoft Dynamics 365 Guides, you can create folders to organize your guides. A folder can contain guides and subfolders, and each folder can be assigned an owner that is inherited by guides or subfolders in that folder. When you delete a folder, all items in that folder are also deleted. 
 
-> [!IMPORTANT]
-> For the May 4 release, you can create folders and set permissions for those folders if you're an admin. The folders won't appear in the HoloLens and PC apps, however, until a later release.
+Folders are useful for managing groups of guides with the same permissions, such as guides for a specific team or product. Permissions assigned to folders do not give permissions to guides within those folders, however. 
 
 ## Create a folder
 
-1. Sign in to the instance by using your admin credentials.
+1. Sign in to the instance by using your admin or author credentials.
 
     > [!TIP]
     > To find the URL for the instance, select the **Analyze** tab in the PC app. The URL is shown in the **Instance URL** field at the bottom of the page. Copy this URL, and paste it into the address bar of your web browser.
@@ -70,5 +69,11 @@ To change the owner of a folder:
     ![Assign Folder dialog box](media/folders-assign-to.PNG "Assign Folder dialog box")
 
 4.	Select **Assign** to save the new owner. 
+
+## See also
+
+[Create or find a guide](create-guide.md)
+
+[Move your folder structure from one environment to another](admin-export-import-folders.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
