@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 # What's new in Dynamics 365 Guides
 
 > [!IMPORTANT]
-> The Dynamics 365 Guides HoloLens and PC apps released on May 4th will require a minimum April 1st version of the Microsoft Dataverse solution (version 600 or newer). 
+> The Dynamics 365 Guides HoloLens and PC apps released on May 4th require a minimum April 1st version of the Microsoft Dataverse solution (version 600 or newer). 
 >
 > If you choose not to update the solution and your PC and HoloLens apps, there's no impact.  
 >
@@ -35,7 +35,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-guide" target="_blank">Create a guide</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign" target="_blank">Assign ownership of a guide</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign#share-a-guide-with-someone-else" target="_blank">Assign ownership of a guide</a>|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Reworked notifications for accessibility</a>| No |None|
 
 ### Bugs fixed
