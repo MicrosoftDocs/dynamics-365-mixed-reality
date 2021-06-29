@@ -26,9 +26,9 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|XXX|
-|HoloLens app (HoloLens 2 only)|XXX|
-|Solution|XXX|
+|PC app|602.2106.19001|
+|HoloLens app (HoloLens 2 only)|602.2106.19001|
+|Solution|600.2.0.2|
 
 ### Features
 
@@ -40,7 +40,10 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ### Bugs fixed
 
-- List to come
+- Space planning 3D collection is now fully localized
+- Accessibility bug fixes
+- Improvement to Restricted Author role to allow users to create guides from the Guides model-driven app and the PC app
+- Improvements to deep linking
 
 ## May 4, 2021
 
