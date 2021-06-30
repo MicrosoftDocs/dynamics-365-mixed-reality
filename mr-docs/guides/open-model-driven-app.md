@@ -16,7 +16,11 @@ If you're an admin or an author for Dynamics 365 Guides, you can use the Guides 
 
 2. Select the **Analyze** tab, and then under **Instance URL**, select **Copy**, and then paste the value into the address bar of a web browser.
 
+    ![Instance URL value highlighted](media/copy-instance-url.jpg "Instance URL value highlighted")
+
 3. Sign in, and then in the left pane of the Power Apps screen, select **Guides** to open the model-driven app.
+
+    ![Screen shot of Power Apps screen showing Guides model-driven app](media/Guides-Hub.png "Screen shot of Power Apps screen showing Guides model-driven app")
 
 ## See also
 
