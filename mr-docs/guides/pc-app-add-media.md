@@ -25,7 +25,7 @@ You can add an image or video in the Dynamics 365 Guides PC app to help an opera
 
 ## Change a video thumbnail
 
-When you add a video to a step, the thumbnail for the video is automatically created. If you want to change the thumbnail to an image of your choice, you can use the Guides model-driven app. 
+When you add a video to a step, the thumbnail for the video is automatically created. If you want to change the thumbnail to an image of your choice, you can use the Guides model-driven app. [Learn how to open the Guides model-driven app](open-model-driven-app.md). 
 
 1. In the Guides model-driven app, open the video that has the thumbnail you want to replace.
 
