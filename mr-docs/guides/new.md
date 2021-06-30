@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 # What's new in Dynamics 365 Guides
 
 > [!IMPORTANT]
-> The Dynamics 365 Guides HoloLens and PC apps released on May 4th require a minimum April 1st version of the Microsoft Dataverse solution (version 600 or newer). 
+> The Dynamics 365 Guides HoloLens and PC apps released on May 4th or later require an April 1 or later version of the Microsoft Dataverse solution (version 600 or later). 
 >
 > If you choose not to update the solution and your PC and HoloLens apps, there's no impact.  
 >
