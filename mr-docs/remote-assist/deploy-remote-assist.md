@@ -84,6 +84,9 @@ After assigning licenses, users can set up and use the app on their HoloLens, Ho
 
 - A HoloLens, HoloLens 2, or mobile device. See [Licensing and product requirements](./requirements.md).
 
+> [!NOTE]
+> If you want to enable or disable location services for all users on all devices, you can [set the **Let Apps Access Location** privacy policy](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
+
 ### Steps for HoloLens and HoloLens 2
 
 1.	Go to the **Start** menu, and then select **Microsoft Store**. 
