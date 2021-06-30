@@ -2,7 +2,7 @@
 author: Mamaylya
 ms.author: mamaylya
 description: Learn how to add an image or video to a step in the Microsoft Dynamics 365 Guides PC app to help operators with a complex step.
-ms.date: 05/04/2021
+ms.date: 07/01/2021
 ms.topic: article
 title: Add an image or video to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-bholmes
@@ -16,12 +16,28 @@ You can add an image or video in the Dynamics 365 Guides PC app to help an opera
 
     ![Images and Videos tabs](media/select-image-video.PNG "Images and Videos tabs")
 
-2. Drag the image or video to the **Media panel** box.
+2. Drag the image or video to the **Media panel** box. 
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
     
 > [!NOTE]
 > You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**. 
+
+## Update a video thumbnail
+
+Add scenario here and small intro to model-driven app. 
+
+1. In the Guides model-driven app, open the video that has the thumbnail you want to replace.
+
+2. At the top left of the screen, select the circle icon.
+
+    SCREEN SHOT GOES HERE
+    
+2. In the **Choose image** dialog box, select **Upload Image**, and then find the image you want to upload.
+
+    SCREEN SHOT GOES HERE
+
+3. Select the **Refresh^^ button. It might take a few seconds for the thumbnail to be replaced.
 
 ## What's next?
 
