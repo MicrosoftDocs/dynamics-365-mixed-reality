@@ -15,6 +15,18 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/).
 
+## June 24, 2021
+
+### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|304.2106.23002|
+
+### Bugs fixed
+
+Fix for video freezing in the HoloLens app 
+
 ## June 2, 2021
 
 ### Version info
