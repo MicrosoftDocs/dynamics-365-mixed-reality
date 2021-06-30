@@ -3,7 +3,7 @@ title: Deploy Dynamics 365 Remote Assist
 author: xonatia
 description: Dynamics 365 Remote Assist users can deploy and set up Dynamics 365 Remote Assist on their devices. 
 ms.author: xolee
-ms.date: 04/28/2021
+ms.date: 06/30/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -85,7 +85,7 @@ After assigning licenses, users can set up and use the app on their HoloLens, Ho
 - A HoloLens, HoloLens 2, or mobile device. See [Licensing and product requirements](./requirements.md).
 
 > [!NOTE]
-> If you want to enable or disable location services for all users on all devices, you can [set the **Let Apps Access Location** privacy policy](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
+> If you want to enable or disable location services for all users on all devices, you can [set the **LetAppsAccessLocation** privacy policy](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
 
 ### Steps for HoloLens and HoloLens 2
 
