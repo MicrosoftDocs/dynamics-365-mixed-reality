@@ -54,9 +54,12 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 * Microsoft Teams
 * Microsoft Dataverse
 
+> [!NOTE]
+> Dynamics 365 Remote Assist does not comply with Microsoft Teams policies. 
+
 | **Included with Dynamics 365 Remote Assist license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Dynamics 365 Remote Assist and Teams**             | Use calling features via the Dynamics 365 Remote Assist app on HoloLens or mobile devices. Features include: </br> - Make a call </br> - Use mixed-reality annotations <br>**Note:** Dynamics 365 Remote Assist does not comply with Teams policies.                                           |
+| **Dynamics 365 Remote Assist and Teams**             | Use calling features via the Dynamics 365 Remote Assist app on HoloLens or mobile devices. Features include: </br> - Make a call </br> - Use mixed-reality annotations                                            |
 | **Microsoft Dataverse**                 | - Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Remote Assist call </br> - Create and share one-time call links </br> - See analytics and insights based on your call records |
 
 An Azure Active Directory account is also required for purchasing the Dynamics 365 Remote Assist subscription and for assigning licenses. You'll need an Azure AD account for each licensed user. They'll use this account when signing in to the app. 
