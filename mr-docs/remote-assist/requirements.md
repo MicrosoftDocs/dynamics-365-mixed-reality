@@ -55,7 +55,7 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 * Microsoft Dataverse
 
 > [!NOTE]
-> Dynamics 365 Remote Assist does not comply with Microsoft Teams policies. 
+> Dynamics 365 Remote Assist does not currently comply with Microsoft Teams policies. 
 
 | **Included with Dynamics 365 Remote Assist license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
