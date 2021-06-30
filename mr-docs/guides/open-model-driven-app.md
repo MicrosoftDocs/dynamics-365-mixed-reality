@@ -4,11 +4,11 @@
 
 If you're an admin or an author for Dynamics 365 Guides, you can use the Guides model-driven app to do things that you can't do in the PC app or HoloLens app. For example, you can:
 
-- Create workflows in Microsoft Power Apps to automate Dynamics 365 Guides processes
+- [Create workflows in Microsoft Power Apps to automate Dynamics 365 Guides processes](workflow-examples-overview.md)
 
-- Create folders to organize your guides
+- [Create folders to organize your guides](admin-create-folders.md)
 
-- Change a thumbnail for a video associated with a step
+- [Change a thumbnail for a video associated with a step](pc-app-add-media.md#change-a-video-thumbnail)
 
 ## Access the model-driven app
 
@@ -20,6 +20,6 @@ If you're an admin or an author for Dynamics 365 Guides, you can use the Guides 
 
 ## See also
 
-[Create workflows in Microsoft Power Apps to automate Dynamics 365 Guides processes]()<br>
+[Create workflows in Microsoft Power Apps to automate Dynamics 365 Guides processes](workflow-examples-overview.md)<br>
 [Create folders to organize your guides](admin-create-folders.md)<br>
 [Change a thumbnail for a video associated with a step](pc-app-add-media.md#change-a-video-thumbnail)
