@@ -30,7 +30,7 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
 
 ## Send a file 
 
-1. The technician selects **text chat** to start sharing files with the remote collaborator. The **Attachment** and **Image** buttons appear at the bottom of the text chat window.
+1. The technician selects **text chat** to start sharing files with the remote collaborator. The **Attachment** and **Image** buttons appear at the bottom of the text chat.
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, highlighting the attachment and image icons.](./media/filesicons.PNG)
 
