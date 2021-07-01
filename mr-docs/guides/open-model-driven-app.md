@@ -24,6 +24,6 @@ If you're an admin or an author for Dynamics 365 Guides, you can use the Guides 
 
 ## See also
 
-[Create workflows in Microsoft Power Apps to automate Dynamics 365 Guides processes](workflow-examples-overview.md)<br>
-[Create folders to organize your guides](admin-create-folders.md)<br>
-[Change a thumbnail for a video associated with a step](pc-app-add-media.md#change-a-video-thumbnail)
+- [Create workflows in Microsoft Power Apps to automate Dynamics 365 Guides processes](workflow-examples-overview.md)
+- [Create folders to organize your guides](admin-create-folders.md)
+- [Change a thumbnail for a video associated with a step](pc-app-add-media.md#change-a-video-thumbnail)
