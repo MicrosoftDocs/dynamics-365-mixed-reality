@@ -44,7 +44,7 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
     - Selects the **Image** button to select images from the mobile device's photo gallery or files app. 
    
        > [!Note] 
-       > For iOS, the technician sees the photos app. On Android, sees a photo gallery or a menu to choose an app to use as the picture chooser.
+       > For iOS, the technician sees the photos app. On Android, the technician sees a photo gallery or a menu to choose an app to use as the picture chooser.
 
    The technician can select up to five files or images at a time to send to the remote collaborator. The technician sees a progress indicator until the files or images are ready to be sent.
 
