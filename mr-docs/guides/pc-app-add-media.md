@@ -31,7 +31,7 @@ When you add a video to a step, the thumbnail for the video is automatically cre
 
     ![Screen shot of video in model-driven app](media/model-driven-app-video.PNG "Screen shot of video in model-driven app")
 
-2. At the top left of the screen, select the circle icon.
+2. At the top left of the screen, select the video circle.
 
    ![Screen shot of circle icon highlighted](media/model-driven-app-video-change-thumbnail.PNG "Screen shot of circle icon highlighted")
     
