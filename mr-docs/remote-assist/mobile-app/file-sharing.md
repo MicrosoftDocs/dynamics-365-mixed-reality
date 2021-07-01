@@ -24,7 +24,7 @@ Both the technician and remote collaborators can send *any* file type to each ot
 - .pptx
 - .txt 
  
-They can upload files and images from their local device or OneDrive. Once the files and/or images are shared, they will be accessible in your [OneDrive account](https://onedrive.live.com/about/signin/) in the **Files** > **RemoteAssistMobile folder**. Also, once the user selects and opens a file or image, it will be downloaded to your local device's downloads folder. In order for technicians to open and access these different file types, they will need the corresponding app that supports the file type; in-app previews may be available, depending on the file type and size.
+They can upload files and images from their local device or OneDrive. Once the files and/or images are shared, they will be accessible in the [OneDrive account](https://onedrive.live.com/about/signin/) in the **Files** > **RemoteAssistMobile folder**. Also, once the user selects and opens a file or image, it will be downloaded to your local device's downloads folder. In order for technicians to open and access these different file types, they will need the corresponding app that supports the file type; in-app previews may be available, depending on the file type and size.
 
 If you're a Dynamics 365 Field Service customer, the files shared during your Dynamics 365 Remote Assist mobile call can be linked to your work order. For more information, visit this article on [Field Service integration](./fs-integration.md).
 
