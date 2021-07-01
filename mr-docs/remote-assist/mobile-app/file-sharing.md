@@ -28,13 +28,9 @@ They can upload files and images from their local device or OneDrive. Once the f
 
 For Dynamics 365 Field Service users, the files shared during the Dynamics 365 Remote Assist mobile call can be linked to a work order. For more information, see [Field Service integration](./fs-integration.md).
 
-## How it works
+## Send a file 
 
-### Sending files 
-
-1. The technician selects **text chat** to start sharing files with the remote collaborator. 
-
-2. In the text chat, the technician can see the **Attachment** and **Image** icons, as seen in the following screenshot.
+1. The technician selects **text chat** to start sharing files with the remote collaborator. The technician can see the **Attachment** and **Image** icons, as seen in the following screenshot.
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, highlighting the attachment and image icons.](./media/filesicons.PNG)
 
