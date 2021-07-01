@@ -40,7 +40,7 @@ When you add a video to a step, the thumbnail for the video is automatically cre
     ![Screen shot of Choose Image dialog box](media/model-driven-app-video-upload-image.PNG "Screen shot of Choose Image dialog box")
     
     > [!NOTE]
-    > The image will automatically update in the model-driven app. To refresh the image in the PC app, you need to open the **Outline** page, and then go back to the **Step Editor** page. 
+    > The image will automatically update in the model-driven app. To refresh the image in the PC app **Step Editor** page, open the **Outline** page, and then go back to the **Step Editor** page. 
 
 ## What's next?
 
