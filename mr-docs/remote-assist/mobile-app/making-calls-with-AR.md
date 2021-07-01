@@ -41,11 +41,11 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
 3. Select the remote collaborator's name, and then select **Launch Call**.
 
    > [!NOTE]
-   > If the remote collaborator receives the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities.
+   > If the remote collaborator receives the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities. The following screen shot shows the technician's screen on the left and the remote collaborator's screen on the right.
 
    ![Screenshot of Dynamics 365 Remote Assist mobile showing the Launch Call button.](./media/select-collaborator.PNG)
 
-   If the remote collaborator answers the call on **Dynamics 365 Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen.
+   If the remote collaborator answers the call on **Dynamics 365 Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen. The following screen shot shows the technician's screen on the left and the remote collaborator's screen on the right.
 
    ![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/remote-assist-mobile-both-share.PNG)
 
