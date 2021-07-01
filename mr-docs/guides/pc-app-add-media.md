@@ -29,15 +29,15 @@ When you add a video to a step, the thumbnail for the video is automatically cre
 
 1. In the Guides model-driven app, open the video that has the thumbnail you want to replace.
 
+    ![Screen shot of video in model-driven app](media/model-driven-app-video.PNG "Screen shot of video in model-driven app")
+
 2. At the top left of the screen, select the circle icon.
 
-    SCREEN SHOT GOES HERE
+   ![Screen shot of circle icon highlighted](media/model-driven-app-video-change-thumbnail.PNG "Screen shot of circle icon highlighted")
     
-2. In the **Choose image** dialog box, select **Upload Image**, and then find the image you want to upload.
+2. In the **Choose Image** dialog box, select **Upload Image**, and then find the image you want to upload.
 
-    SCREEN SHOT GOES HERE
-
-3. Select the **Refresh^^ button. It might take a few seconds for the thumbnail to be replaced.
+    ![Screen shot of Choose Image dialog box](media/model-driven-app-video-upload-image.PNG "Screen shot of Choose Image dialog box")
 
 ## What's next?
 
