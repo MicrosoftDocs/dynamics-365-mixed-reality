@@ -32,7 +32,7 @@ If you're a Dynamics 365 Field Service customer, the files shared during your Dy
 
 ### Sending files 
 
-1. The technician must select the **text chat** to start sharing files to the remote collaborator. 
+1. The technician selects **text chat** to start sharing files with the remote collaborator. 
 
 2. In the text chat, the technician can see the **Attachment** and **Image** icons, as seen in the following screenshot.
 
