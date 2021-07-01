@@ -50,7 +50,7 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, with a file upload in progress as designated by a progress bar.](./media/files_progress.PNG "Upload")
 
-3. If some of the files or images are not successfully uploaded in the text chat, the technician can select the **retry icon** to upload again or discard any files or images before sending. 
+3. If some of the files or images are not successfully uploaded in the text chat, the technician can select the **retry icon** to upload a file or image again or can discard any files or images before sending. 
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, showing a list of attachments ready to be sent or to try again.](./media/files_fail.PNG "Retry")
 
