@@ -60,15 +60,15 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, with a successfully uploaded attachment.](./media/files_view.PNG)
 
-### Receiving files 
+## Receive files 
 
-Once the remote collaborator sends a file or image to the technician, the technician can select the file's link or image preview to open it. After selecting and opening the file or image, it's automatically downloaded to the mobile device's **Downloads** folder. 
+- When the remote collaborator sends a file or image to the technician, the technician can select the file's link or image preview to open it. After selecting and opening the file or image, it's automatically downloaded to the mobile device's **Downloads** folder. 
 
-If the technician selects the remote collaborator's image preview, the default application opens the image. If more than one app supports this file type, there will be a menu to choose the application to open the image. 
+   If the technician selects the remote collaborator's image preview, the default application opens the image. If more than one app supports this file type, the technician can use a menu to choose the application to open the image. 
 
-If the technician selects the remote collaborator's file and the technician has an app that can open this file type, the default application will open the file. If more than one app supports this file type, there will be a menu to choose the application to open the image. 
+   If the technician selects the remote collaborator's file and the technician has an app that can open that file type, the default application opens the file. If more than one app supports this file type, the technician can use a menu to choose the application to open the image. 
  
-If the technician doesn't have an app that can open this file type, the technician can't view the file. The technician is prompted on how to open the file and the technician can download the corresponding app to open the file.
+   If the technician doesn't have an app that can open that file type, the technician can't view the file. The technician is prompted on how to open the file and can download the corresponding app to open the file.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
