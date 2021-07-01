@@ -38,7 +38,7 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
 
    ![Screenshot of Dynamics 365 Remote Assist mobile, showing the contacts screen and highlighting the search icon](./media/search-collaborator.PNG "Screenshot of Dynamics 365 Remote Assist mobile, showing the contacts screen and highlighting the search icon")
 
-3. Select the remote collaborator's name and launch a call.
+3. Select the remote collaborator's name, and then select **Launch Call**.
 
    > [!NOTE]
    > If the remote collaborator is receiving the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities.
