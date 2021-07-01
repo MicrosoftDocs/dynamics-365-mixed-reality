@@ -47,11 +47,11 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
 
 4. If the remote collaborator answers the call on **Dynamics 365 Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
-   ![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/ram-ram_toolbar.png)
+   ![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/remote-assist-mobile-both-share.PNG)
 
    If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
-   ![Screenshot of a Dynamics 365 Remote Assist mobile to Microsoft Teams call.](./media/ram-teams-video.png)
+   ![Screenshot of a Dynamics 365 Remote Assist mobile to Microsoft Teams call.](./media/remote-assist-mobile-teams-desktop-share.PNG)
 
 5. The technician can use the call controls toolbar to disable the video call (enter an audio-only call), mute themselves in a call, turn on their speakers, or end the call. 
 
