@@ -25,6 +25,7 @@
 ##### [By changing ownership](admin-access-assign.md)
 ##### [By sharing through an access team](admin-access-teams.md)
 #### [Share the Guides model-driven app](admin-share-guides-hub.md)
+### [Open the Guides model-driven app](open-mode-driven-app.md)
 ### [Create folders](admin-create-folders.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
