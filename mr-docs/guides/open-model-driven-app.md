@@ -1,4 +1,12 @@
-
+---
+author: Mamaylya
+description: Learn how to open the Dynamics 365 Guides model-driven app if you're an admin or an author
+ms.author: mamaylya
+ms.date: 07/01/2021
+ms.topic: article
+title: Open the model-driven app in Dynamics 365 Guides
+ms.reviewer: v-bholmes
+---
 
 # Open the model-driven app in Dynamics 365 Guides
 
