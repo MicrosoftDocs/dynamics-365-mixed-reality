@@ -38,12 +38,12 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, highlighting the attachment and image icons.](./media/filesicons.PNG)
 
-3. If the technician selects the **Attachment** icon, they'll have the option to **select files** from the mobile device's file chooser or files app. 
+3. If the technician selects the **Attachment** icon, they have the option to **select files** from the mobile device's file chooser or files app. 
 
    > [!Note]
    > For iOS, the technician is presented with the files app directly. On Android, it can either be a file chooser or a menu to choose which app to use as a file chooser.
 
-4. If the technician selects the **Image** icon, they'll get the option to **select images** from the mobile device's photo gallery or files app. 
+4. If the technician selects the **Image** icon, they have the option to **select images** from the mobile device's photo gallery or files app. 
    
    > [!Note] 
    > For iOS, the technician is presented with the photos app directly. On Android, it can either be a photo gallery or a menu to choose which app to use as your picture chooser.
