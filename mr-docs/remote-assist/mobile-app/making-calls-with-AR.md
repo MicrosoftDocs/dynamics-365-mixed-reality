@@ -36,7 +36,7 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
 
 2. Search for the remote collaborator's name.
 
-   ![Screenshot of Dynamics 365 Remote Assist mobile, showing the contacts screen and highlighting the search icon.](./media/calls_2.png "Search")
+   ![Screenshot of Dynamics 365 Remote Assist mobile, showing the contacts screen and highlighting the search icon](./media/search-collaborator.PNG "Screenshot of Dynamics 365 Remote Assist mobile, showing the contacts screen and highlighting the search icon")
 
 3. Select the remote collaborator's name and launch a call.
 
