@@ -58,7 +58,7 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
 
 7. Select the **Send** button.
 
-8. Once sent, the **file link** and **image preview** are sent to the remote collaborator through **OneDrive**, which sets the permission to share the file. Afterwards, the remote collaborator on Microsoft Teams receives a link to the document in OneDrive in the Microsoft Teams text chat. The remote collaborator has full access to the files and images sent. 
+8. Once sent, the file link and image preview are sent to the remote collaborator through **OneDrive**, which sets the permission to share the file. Afterwards, the remote collaborator on Microsoft Teams receives a link to the document in OneDrive in the Microsoft Teams text chat. The remote collaborator has full access to the files and images sent. 
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, with a successfully uploaded attachment.](./media/files_view.PNG)
 
