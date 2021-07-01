@@ -49,7 +49,7 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
 
    ![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/ram-ram_toolbar.png)
 
-If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen.
+   If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
    ![Screenshot of a Dynamics 365 Remote Assist mobile to Microsoft Teams call.](./media/ram-teams-video.png)
 
