@@ -51,7 +51,11 @@ To use the asset capture feature, see the following series of articles:
 
 - Dynamics 365 Remote Assist uses the same common solution for the asset entity as Dynamics 365 Field Service.
 
-- Video capture length is currently limited to 30-45 seconds depending upon device. Support for longer video captures is planned for a future release.
+- Video capture limitations:
+
+   - The length is currently limited to 30-45 seconds, depending on the device. Support for longer video captures is planned for a future release.
+   - The maximum size of the captured file is 16 MB.
+   - If the user answers a call while capturing video for an asset, the recording will stop.
 
 - After signing in to the client application, the user must select the environment where the Dynamics 365 Remote Assist model-driven app is installed. You can do this through **Settings**. This is the environment that the asset data will be fetched from and new assets and captures added to.
 
