@@ -3,7 +3,7 @@ title: Learn more about the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 author: BryceHolmes
 description: Overview, enablement and feature details for the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 ms.author: soanigbo
-ms.date: 06/02/2021
+ms.date: 07/06/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -55,6 +55,8 @@ To have access to the Calls Dashboard, you must have:
     ![Selecting the correct environment for the Calls Dashboard](media/02.07-contacts-call-prompt.png)
 
 - End users may or may not give location permissions to the Hololens or mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
+
+- If you want to enable or disable location services for all users on all devices, you can [set the **LetAppsAccessLocation** privacy policy](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
 
 ## Understand the Dynamics 365 Remote Assist Calls Dashboard
 
