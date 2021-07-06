@@ -32,6 +32,7 @@
 ### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### Make calls
 #### [Overview](mobile-app/making-calls-on-remote-assist-mobile.md)
+#### [Make calls with augmented reality](mobile-app/making-calls-with-AR.md)
 #### [Calls between Dynamics 365 Remote Assist mobile users](mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md)
 #### [Calls between Dynamics 365 Remote Assist mobile & Microsoft Teams users](mobile-app/remote-assist-mobile-to-teams-calls.md)
 #### [Group calls with Dynamics 365 Remote Assist mobile](mobile-app/group-calling.md)
