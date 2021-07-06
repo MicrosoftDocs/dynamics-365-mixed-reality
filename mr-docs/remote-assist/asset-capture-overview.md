@@ -53,7 +53,7 @@ To use the asset capture feature, see the following series of articles:
 
 - Video capture limitations:
 
-   - The length is currently limited to 30-45 seconds, depending on the device. Support for longer video captures is planned for a future release.
+   - The maximum video length on HoloLens 2 is 45 seconds. The maximum video length on HoloLens 1 is 72 seconds. Support for longer video captures is planned for a future release.
    - The maximum size of the captured file is 16 MB.
    - If the user answers a call while capturing video for an asset, the recording will stop.
 
