@@ -6,6 +6,7 @@ ms.date: 03/23/2021
 ms.topic: article
 title: Overview of Guides Analytics for Dynamics 365 Guides
 ms.reviewer: v-bholmes
+ms.custom: "intro-internal"
 ---
 
 # Overview of Guides Analytics Power BI templates for Dynamics 365 Guides

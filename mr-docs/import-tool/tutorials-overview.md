@@ -4,6 +4,7 @@ description: Describes the third-party tutorials available for converting 3D mod
 ms.author: keno
 ms.date: 11/25/2020
 ms.topic: article
+ms.custom: "intro-internal"
 title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
 robots: noindex, nofollow

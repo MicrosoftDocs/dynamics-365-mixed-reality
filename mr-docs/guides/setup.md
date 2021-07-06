@@ -6,6 +6,7 @@ ms.date: 01/28/2020
 ms.topic: article
 title: Overview of setting up Dynamics 365 Guides
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of setting up Dynamics 365 Guides

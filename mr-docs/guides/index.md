@@ -6,6 +6,7 @@ ms.date: 03/02/2021
 ms.topic: overview
 title: Overview of Dynamics 365 Guides
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of Dynamics 365 Guides
