@@ -6,6 +6,7 @@ ms.date: 04/01/2021
 ms.topic: article
 title: Overview of workflow examples for Dynamics 365 Guides
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of workflow examples for Dynamics 365 Guides
