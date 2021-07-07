@@ -20,18 +20,6 @@ When you create a guide in the PC authoring app, the content is stored in Micros
 > [!CAUTION] 
 > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Dynamics 365 Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, guide modification through the model-driven app isn't fully supported unless specifically written in our documentation and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
 
-## Open the Guides model-driven app
-
-1. In the PC authoring app, sign in to the Dynamics 365 instance that includes the guide.
-
-2. Select the **Analyze** tab, and then under **Instance URL**, select **Copy**, and then paste the value into the address bar of a web browser.
-
-    ![Copy the Instance URL value](media/copy-instance-url.jpg "Copy the Instance URL value")
-
-3. Sign in, and then in the left pane of the **Power Apps** screen, select **Guides** to open the Guides model-driven app.
-
-    ![Guides model-driven app example](media/Guides-Hub.png "Guides model-driven app example")
-
 ## Limit access to the model-driven app
 
 The Guides model-driven app is a type of app created in Microsoft Power Apps. It's common for organizations to limit users who can access the model-driven app. You can do this by sharing the app with individual users, or by sharing it with one or more Azure Active Directory Groups. See [Share a model-driven app using Power Apps](https://docs.microsoft.com/powerapps/maker/model-driven-apps/share-model-driven-app) for detailed steps on either option. 
