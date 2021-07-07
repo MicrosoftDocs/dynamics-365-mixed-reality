@@ -37,7 +37,7 @@ When you add a video to a step, the thumbnail for the video is automatically cre
     
 3. In the **Choose Image** dialog box, select **Upload Image**, and then find the image you want to upload.
 
-    ![Screen shot of Choose Image dialog box](media/model-driven-app-video-upload-image.PNG "Screen shot of Choose Image dialog box")
+    ![Screen shot of Choose Image dialog box](media/model-driven-app-upload-image.PNG "Screen shot of Choose Image dialog box")
     
     > [!NOTE]
     > The image will automatically update in the model-driven app. To refresh the image in the PC app **Step Editor** page, open the **Outline** page, and then go back to the **Step Editor** page. 
