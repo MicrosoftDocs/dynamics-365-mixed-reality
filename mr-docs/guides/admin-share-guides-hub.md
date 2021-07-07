@@ -4,7 +4,7 @@ description: Learn how to share the Guides model-driven app to provide access to
 author:  MattHoag-MS
 manager: tfehr
 ms.topic: article
-ms.date: 06/10/2021
+ms.date: 07/07/2021
 ms.author: v-mhoag
 ms.reviewer: v-bholmes
 ---
