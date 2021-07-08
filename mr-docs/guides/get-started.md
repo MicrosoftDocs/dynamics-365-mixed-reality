@@ -6,6 +6,7 @@ ms.date: 02/03/2021
 ms.topic: article
 title: Get started with Dynamics 365 Guides
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Get started with Dynamics 365 Guides

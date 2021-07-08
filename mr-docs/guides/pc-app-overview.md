@@ -6,6 +6,7 @@ ms.date: 01/28/2020
 ms.topic: article
 title: Overview of using the PC authoring app to create a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of authoring a guide with the Dynamics 365 Guides PC app

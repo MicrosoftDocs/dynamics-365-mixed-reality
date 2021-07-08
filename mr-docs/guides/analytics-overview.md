@@ -6,6 +6,7 @@ ms.date: 03/23/2021
 ms.topic: article
 title: Overview of analyzing guides created with Dynamics 365 Guides
 ms.reviewer: v-bholmes
+ms.custom: "intro-internal"
 ---
 
 # Overview of analyzing and integrating Dynamics 365 Guides operations data

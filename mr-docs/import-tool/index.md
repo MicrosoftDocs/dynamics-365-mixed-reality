@@ -4,6 +4,7 @@ description: Overview of converting and optimizing 3D models to use with Dynamic
 ms.author: keno
 ms.date: 01/08/2020
 ms.topic: overview
+ms.custom: "intro-internal"
 title: Overview of Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
 robots: noindex, nofollow

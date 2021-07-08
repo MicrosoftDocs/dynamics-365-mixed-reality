@@ -6,6 +6,7 @@ ms.date: 05/04/2021
 ms.topic: article
 title: Overview of the Step Editor in the Dynamics 365 Guides PC app
 ms.reviewer: v-bholmes
+ms.custom: "intro-internal"
 ---
 
 # Overview of the Step Editor in the Dynamics 365 Guides PC app

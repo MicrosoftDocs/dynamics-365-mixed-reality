@@ -6,6 +6,7 @@ ms.date: 02/25/2020
 ms.topic: article
 title: Overview of operating a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of operating a guide in Dynamics 365 Guides

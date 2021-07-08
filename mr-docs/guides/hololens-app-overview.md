@@ -6,6 +6,7 @@ ms.date: 02/25/2020
 ms.topic: article
 title: Authoring overview--Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of authoring a guide in the Dynamics 365 Guides HoloLens app
