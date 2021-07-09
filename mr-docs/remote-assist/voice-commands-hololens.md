@@ -30,9 +30,12 @@ For full list of voice commands, see the list below.
 |Voice command|Description |
 | ------------- | -----|
 |**General**| | 
-|Start listening (stop listening)       |Put Dynamics 365 Remote Assist into (out of) state expecting a list of commands to follow                  |
-|Settings                               | Switch to Settings tab                                                                     |
-|Sign out                               | Sub menu available from the user's avatar picture, sign out                                                                                 |
+|Start listening (stop listening)       |Put Dynamics 365 Remote Assist into (out of) state expecting a list of commands to follow                          |
+|Settings                               | Switch to Settings tab                                                                                            |
+|Sign out                               | Sub menu available from the user's avatar picture, sign out                                                       |
+|Toggle hand rays                       | Turn hand rays on or off                                                                                          |
+|Hand rays on                           | Show hand rays                                                                                                    |
+|Hand rays off                          | Hide hand rays                                                                                                    |
 |**Call management**  | | 
 |Call                                   |Call a contact                                                                                                     |
 |Video                                  | Answer an incoming call with video.                                                                               |
