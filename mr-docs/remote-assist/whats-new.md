@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: BryceHolmes
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 07/06/2021
+ms.date: 08/04/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -14,6 +14,18 @@ ms.reviewer: v-bholmes
 This article describes new features for Dynamics 365 Remote Assist.
 
 For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/).
+
+## August 4, 2021
+
+### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|XXX|
+
+### Bugs fixed
+
+XXX
 
 ## June 24, 2021
 
