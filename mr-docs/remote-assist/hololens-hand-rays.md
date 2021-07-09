@@ -10,7 +10,7 @@ If you use features that require hand rays (inking and arrows, for example), han
 
 1. In the HoloLens app, select **Settings**.
 
-2. Under **Hand Rays**, select **On** or **Off**.
+2. Under **Hand Rays**, select **Off** or **On**.
 
    ![Graphic showing the PV camera render setting](media/hololens-hand-rays-setting.PNG).
 
