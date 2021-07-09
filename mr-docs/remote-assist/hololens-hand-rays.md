@@ -9,7 +9,7 @@ If you use features that require hand rays (inking and arrows, for example), han
 
 |Voice command|Description |
 | ------------- | -----|                                                   
-|Toggle hand rays                       | Turn hand rays on or off                                                                                         |
+|Toggle hand rays                       | Turn hand rays off or on                                                                                       |
 |Hand rays on                           | Show hand rays                                                                                                    |
 |Hand rays off                          | Hide hand rays          |
 
