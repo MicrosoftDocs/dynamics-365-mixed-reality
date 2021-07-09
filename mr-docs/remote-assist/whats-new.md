@@ -27,7 +27,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|Turn hand rays on or off through Settings or voice commands|- [Settings]()<br>- [Voice commands]()|
+|Turn hand rays on or off through Settings or voice commands|- [Settings]()<br>- [Voice commands](voice-commands-hololens.md)|
 
 ### Bugs fixed
 
