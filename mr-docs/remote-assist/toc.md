@@ -28,6 +28,7 @@
 ### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
 ### [Voice commands, narrator, and gestures](voice-commands-hololens.md)
+### [Turn hand rays on or off](hololens-hand-rays.md)
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
 
 ## Mobile app
