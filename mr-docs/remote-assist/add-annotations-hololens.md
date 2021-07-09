@@ -55,7 +55,7 @@ The above video shows how to place an arrow using HoloLens gestures. If you’re
 
 ## Draw in your space
 
-1. Select the **Ink tool** (![Graphic showing the ink icon.](media/RAHL_Ink.png)).
+1. Select the **Ink tool** (![Graphic showing the ink icon.](media/ink-tool.PNG)).
 
 2. To determine where to start drawing: 
 
@@ -79,13 +79,13 @@ The above video shows how to draw using HoloLens gestures. If you’re using Hol
 
 ## Change arrow or ink color
 
-Select Colors ![Color](media/RAHL_Color.png "Color") (or say “Remote Assist, colors”), and then select the color you want (or say “Remote Assist, <color>”, for example, say "Remote Assist, Red"). The next annotation you place will be that color.
+Select Colors ![Color](media/color-tool.PNG "Color") (or say “Remote Assist, colors”), and then select the color you want (or say “Remote Assist, <color>”, for example, say "Remote Assist, Red"). The next annotation you place will be that color.
 
 ## Erase annotations
 
-To erase all the arrows and ink you add during a video call, select **Erase all** (![Graphic showing the "erase all" icon, which looks like a trash can.](media/RAHL_Trash.png)) at the top of the call window (or say "Erase all").
+To erase all the arrows and ink you add during a video call, select **Erase all** (![Graphic showing the "erase all" icon, which looks like a trash can.](media/erase-all-tool.PNG)) at the top of the call window (or say "Erase all").
 
-To undo your most recent action, including **Erase All**, select **Undo** ![Graphic showing the undo icon.](media/RAHL_Undo.png) at the top of the call window (or say "Undo").
+To undo your most recent action, including **Erase All**, select **Undo** ![Graphic showing the undo icon.](media/undo-tool.PNG) at the top of the call window (or say "Undo").
 
 ## PV camera render
 
