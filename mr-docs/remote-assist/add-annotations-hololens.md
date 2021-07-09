@@ -87,7 +87,7 @@ To undo your most recent action, including **Erase All**, select **Undo** ![Grap
 
 ## PV camera render
 
-Enabling the **PV Camera Render** setting improves the alignment accuracy of annotations as seen by Microsoft Teams users in a Dynamics 365 Remote Assist session. This will ensure that annotations placed by the HoloLens 2 Remote Assist user are represented accurately in their environment for the remote expert. When this setting is turned off, the Microsoft Teams user may notice the annotations placed by the HoloLens 2 user to be slightly out of place.
+Enabling the **PV Camera Render** setting improves the alignment accuracy of annotations as seen by Microsoft Teams users in a Dynamics 365 Remote Assist session. This ensures that annotations placed by the HoloLens 2 Remote Assist user are represented accurately in their environment for the remote expert. When this setting is turned off, the Microsoft Teams user may notice the annotations placed by the HoloLens 2 user to be slightly out of place.
 
 ![Graphic showing the PV camera render setting](media/RAHL_PVSetting.png).
 
