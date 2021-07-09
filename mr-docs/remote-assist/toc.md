@@ -19,7 +19,7 @@
 #### [Join a meeting](join-meeting-hololens.md)
 #### [Calls in low-bandwidth situations](hololens-low-bandwidth.md)
 ### [Add annotations](add-annotations-hololens.md)
-#### Capture photos, videos, and asset conditions
+### Capture photos, videos, and asset conditions
 #### [Take a photo and save to OneDrive or Field Service booking](take-snapshot-save-booking-hololens.md)
 #### [Record calls](record-calls-hololens.md)
 #### [File sharing and saving](display-save-files.md)
