@@ -9,22 +9,25 @@
 ### [Deploy in your tenant](deploy-remote-assist.md)
 
 ## HoloLens app
-### [Overview](overview-hololens.md)
-### [Start Dynamics 365 Remote Assist](launch-hololens.md)
-### [Make and take calls](making-taking-calls-hololens.md)
-### [Join a meeting](join-meeting-hololens.md)
-### [Adjust what you see](adjust-what-you-see-hololens.md)
+### Overview and basics
+#### [Overview](overview-hololens.md)
+#### [Start Dynamics 365 Remote Assist](launch-hololens.md)
+#### [Close the app](close-app-hololens.md)
+### Calls, texting, and meetings
+#### [Make and take calls](making-taking-calls-hololens.md)
+#### [Send text messages](send-texts-hololens.md)
+#### [Join a meeting](join-meeting-hololens.md)
+#### [Calls in low-bandwidth situations](hololens-low-bandwidth.md)
 ### [Add annotations](add-annotations-hololens.md)
-### [Take a photo and save to OneDrive or Field Service booking](take-snapshot-save-booking-hololens.md)
-### [File sharing and saving](display-save-files.md)
-### [Capture asset conditions](asset-capture-photos.md)
-### [Record calls](record-calls-hololens.md)
-### [Send text messages](send-texts-hololens.md)
-### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
+#### Capture photos, videos, and asset conditions
+#### [Take a photo and save to OneDrive or Field Service booking](take-snapshot-save-booking-hololens.md)
+#### [Record calls](record-calls-hololens.md)
+#### [File sharing and saving](display-save-files.md)
+#### [Capture asset conditions](asset-capture-photos.md)
 ### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
-### [Close the app](close-app-hololens.md)
-### [Calls in low-bandwidth situations](hololens-low-bandwidth.md)
-### [Review tutorial of Dynamics 365 Remote Assist](review-tutorial-hololens.md)
+### [Adjust what you see](adjust-what-you-see-hololens.md)
+### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
+### [Review the Dynamics 365 Remote Assist tutorial](review-tutorial-hololens.md)
 ### [Voice commands, narrator, and gestures](voice-commands-hololens.md)
 
 ## Mobile app
