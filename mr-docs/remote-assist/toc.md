@@ -17,7 +17,7 @@
 ### [Add annotations](add-annotations-hololens.md)
 ### [Take a photo (and save it to a Dynamics 365 Field Service booking)](take-snapshot-save-booking-hololens.md)
 ### [File sharing and saving](display-save-files.md)
-### [Capture asset conditions on Hololens](asset-capture-photos.md)
+### [Capture asset conditions](asset-capture-photos.md)
 ### [Record calls](record-calls-hololens.md)
 ### [Send text messages](send-texts-hololens.md)
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
