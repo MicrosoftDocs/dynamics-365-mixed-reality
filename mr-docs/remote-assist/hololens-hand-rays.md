@@ -1,9 +1,13 @@
 
 # Turn hand rays off or on in the Dynamics 365 Remote Assist HoloLens app
 
-You might want to turn hand rays off at times in the Dynamics 365 Remote Assist HoloLens app if hand rays get in the way of other interactions (for example, working with a keyboard). When you turn hand rays off, you disable near-field communications, which means you have to use touch or voice to use the menus. You can easily turn hand rays back on again whenever you need them. 
+You might want to turn hand rays off at times in the Dynamics 365 Remote Assist HoloLens app if they get in the way of other interactions (for example, working with a keyboard). When you turn hand rays off, you disable near-field communications, which means you have to use touch or voice to use the menus. You can easily turn hand rays back on again using voice commands or settings whenever you need them. 
 
 If you use features that require hand rays (inking and arrows, for example), hand rays are automatically turned back on when you select those tools. Hand rays are also turned on automatically whenever you start the HoloLens app. 
+
+## Turn hand rays off or on through voice commands
+
+
 
 ## Turn hand rays off or on
 
