@@ -3,7 +3,7 @@ title: Add annotations in Dynamics 365 Remote Assist on HoloLens
 author: sophiasysun
 description: Learn how to add and edit annotations in Dynamics 365 Remote Assist on HoloLens 
 ms.author: sopsun
-ms.date: 12/10/2020
+ms.date: 08/04/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -29,11 +29,12 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 
 ## Add an arrow 
 
-Select the **Arrow** (seen here: ![Graphic showing the arrow icon.](media/RAHL_Arrow.png)). 
+Select the **Arrow** tool (![Graphic showing the arrow icon.](media/RAHL_Arrow.png)). 
 
 To position the arrow in space:
 
 - If you're using HoloLens, use your gaze cursor to position the arrow. You'll see a ghost arrow on your gaze cursor.  
+
 - If you're using HoloLens 2, use your hand ray to position the arrow. You'll see a ghost arrow at the end of your hand ray.
 
 To control the direction of the arrow, air tap, hold, and move your hand in a circle until the ghost arrow appears at the desired direction. Release the air tap to place the arrow.
@@ -51,10 +52,12 @@ The previous video shows how to place an arrow using HoloLens gestures. If youâ€
 
 ## Draw in your space
 
-Select the **Ink tool** (as shown here: ![Graphic showing the ink icon.](media/RAHL_Ink.png)).
+Select the **Ink tool** (![Graphic showing the ink icon.](media/RAHL_Ink.png)).
 
-To determine where you start drawing,
+To determine where you start drawing: 
+
 - If you're using HoloLens, use your gaze cursor to determine where to start drawing.
+
 - If you're using HoloLens 2, use your hand ray to determine where to start drawing.  
 
 Then, air tap, keep your index finger and thumb together, and start drawing in space. Release the air tap to stop drawing. 
