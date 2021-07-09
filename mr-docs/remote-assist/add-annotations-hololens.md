@@ -50,28 +50,30 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qy" frameborder="0" allowfullscreen=""></iframe></div>
 <br>
 
-The previous video shows how to place an arrow using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and  position the arrow in space by using your hand ray. 
+The above video shows how to place an arrow using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and  position the arrow in space by using your hand ray. 
 
 ## Draw in your space
 
-Select the **Ink tool** (![Graphic showing the ink icon.](media/RAHL_Ink.png)).
+1. Select the **Ink tool** (![Graphic showing the ink icon.](media/RAHL_Ink.png)).
 
-To determine where to start drawing: 
+2. To determine where to start drawing: 
 
-- If you're using HoloLens, use your gaze cursor.
+   - If you're using HoloLens, use your gaze cursor.
 
-- If you're using HoloLens 2, use your hand ray.  
+   - If you're using HoloLens 2, use your hand ray.  
 
-Then, air tap, keep your index finger and thumb together, and start drawing in space. Release the air tap to stop drawing. 
+    > [!NOTE]
+    > If [hand rays are turned off](hololens-hand-rays.md) in the HoloLens app, they're automatically turned back on again when you select the **Ink** tool.
 
-To use voice commands, select the ink tool by saying "Remote Assist, Ink." Then use "Remote Assist, Start inking" and "Remote Assist, Stop inking" to start and stop inking with head gaze. 
+3. Air tap, keep your index finger and thumb together, and start drawing in space. Release the air tap to stop drawing. 
+
+> [!TIP]
+> To use voice commands, select the **Ink** tool by saying "Remote Assist, Ink." Then say "Remote Assist, Start inking" and "Remote Assist, Stop inking" to start and stop inking with your head gaze. 
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qs" frameborder="0" allowfullscreen=""></iframe></div>
+<br>
 
-The previous video shows how to draw using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Ink tool** by touching it directly, and you determine where you start your drawing using your hand ray. 
-
-> [!NOTE]
-> If [hand rays are turned off](hololens-hand-rays.md) in the HoloLens app, they're automatically turned back on again when you select the **Ink** tool.
+The above video shows how to draw using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Ink tool** by touching it directly, and you can use your hand rays to determine where to start your drawing. 
 
 ## Change arrow or ink color
 
