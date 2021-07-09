@@ -14,7 +14,7 @@ If you use features that require hand rays (inking and arrows, for example), han
 |Hand rays off                          | Hide hand rays          |
 
 > [!TIP]
-> [See the full list of HoloLens voice commands](hololens-voice-commands.md).
+> [See the full list of HoloLens voice commands](voice-commands-hololens.md).
 
 ## Turn hand rays off or on through Settings
 
