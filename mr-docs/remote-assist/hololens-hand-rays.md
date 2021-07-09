@@ -7,9 +7,11 @@ which means you have to use touch or voice to use the menus. You can easily turn
 
 ## Turn hand rays on or off 
 
-1. xxx
+1. In the HoloLens app, select **Settings**.
 
-2. xxx
+2. Do this
+
+   ![Graphic showing the PV camera render setting](media/hololens-hand-rays-setting.PNG).
 
 You can also [use voice commands to turn hand rays on or off](hololens-voice-commands.md).
 
