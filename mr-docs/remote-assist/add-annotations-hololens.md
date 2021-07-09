@@ -29,7 +29,7 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 
 ## Add an arrow 
 
-1. Select the **Arrow** tool (![Graphic showing the arrow icon.](media/RAHL_Arrow.png)). 
+1. Select the **Arrow** tool (![Graphic showing the arrow icon.](media/arrow-tool.PNG)). 
 
 2. To position the arrow in space:
 
