@@ -23,6 +23,12 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2 app|XXX|
 
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|Turn hand rays on or off through Settings or voice commands|- [Settings]()<br>- [Voice commands]()|
+
 ### Bugs fixed
 
 XXX
