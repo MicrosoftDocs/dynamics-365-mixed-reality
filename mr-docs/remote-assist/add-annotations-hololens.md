@@ -27,9 +27,6 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 > - Group calls with one or more Dynamics 365 Remote Assist HoloLens/HoloLens 2 users and one or more Teams desktop or mobile users
 > - Meetings with one or more Dynamics 365 Remote Assist HoloLens/HoloLens 2 users and one or more Teams desktop or mobile users
 
-> [!NOTE]
-> If [hand rays are turned off](hololens-hand-rays.md) in the Dynamics 365 Remote Assist HoloLens app, they're automatically turned back on again when you select the **Arrow** or **Ink** tools.
-
 ## Add an arrow 
 
 Select the **Arrow** (seen here: ![Graphic showing the arrow icon.](media/RAHL_Arrow.png)). 
@@ -49,6 +46,9 @@ Once you place the arrow, you can't adjust its location or direction. To redo, s
 
 The previous video shows how to place an arrow using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and you position your arrow in space using your hand ray. 
 
+> [!NOTE]
+> If [hand rays are turned off](hololens-hand-rays.md) in the HoloLens app, they're automatically turned back on again when you select the **Arrow** tool.
+
 ## Draw in your space
 
 Select the **Ink tool** (as shown here: ![Graphic showing the ink icon.](media/RAHL_Ink.png)).
@@ -64,6 +64,9 @@ To use voice commands, select the ink tool by saying "Remote Assist, Ink." Then 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qs" frameborder="0" allowfullscreen=""></iframe></div>
 
 The previous video shows how to draw using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Ink tool** by touching it directly, and you determine where you start your drawing using your hand ray. 
+
+> [!NOTE]
+> If [hand rays are turned off](hololens-hand-rays.md) in the HoloLens app, they're automatically turned back on again when you select the **Ink** tool.
 
 ## Change arrow or ink color
 
