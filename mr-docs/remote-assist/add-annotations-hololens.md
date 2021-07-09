@@ -77,7 +77,7 @@ The above video shows how to draw using HoloLens gestures. If you’re using Hol
 
 ## Change arrow or ink color
 
-Select Colors ![Color](media/RAHL_Color.png "Color") (or say “Remote Assist, colors”), and then select the color you want (or say “Remote Assist, Red”). The next annotation you place will be that color.
+Select Colors ![Color](media/RAHL_Color.png "Color") (or say “Remote Assist, colors”), and then select the color you want (or say “Remote Assist, <color>”, for example, say "Remote Assist, Red"). The next annotation you place will be that color.
 
 ## Edit annotations
 
