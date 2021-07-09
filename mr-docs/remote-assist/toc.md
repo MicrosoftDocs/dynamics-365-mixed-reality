@@ -11,6 +11,7 @@
 ## HoloLens app
 ### Overview and basics
 #### [Overview](overview-hololens.md)
+#### [Review the Dynamics 365 Remote Assist tutorial](review-tutorial-hololens.md)
 #### [Start Dynamics 365 Remote Assist](launch-hololens.md)
 #### [Close the app](close-app-hololens.md)
 ### Calls, texting, and meetings
@@ -26,27 +27,28 @@
 #### [Capture asset conditions](asset-capture-photos.md)
 ### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
-### [Review the Dynamics 365 Remote Assist tutorial](review-tutorial-hololens.md)
 ### [Voice commands, narrator, and gestures](voice-commands-hololens.md)
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
 
 ## Mobile app
-### [Overview](mobile-app/remote-assist-mobile-overview.md)
-### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
-### Make calls
-#### [Overview](mobile-app/making-calls-on-remote-assist-mobile.md)
-#### [Make calls with augmented reality](mobile-app/making-calls-with-AR.md)
+### Overview and basics
+#### [Overview](mobile-app/remote-assist-mobile-overview.md)
+#### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
+### Make calls and send text messages
+#### [Overview of making calls](mobile-app/making-calls-on-remote-assist-mobile.md)
+#### [Calls in augmented reality](mobile-app/making-calls-with-AR.md)
 #### [Calls between Dynamics 365 Remote Assist mobile users](mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md)
 #### [Calls between Dynamics 365 Remote Assist mobile & Microsoft Teams users](mobile-app/remote-assist-mobile-to-teams-calls.md)
-#### [Group calls with Dynamics 365 Remote Assist mobile](mobile-app/group-calling.md)
-#### [Calls using a mobile device without AR support](mobile-app/calls-using-devices-without-AR.md)
+#### [Calls without augmented reality support](mobile-app/calls-using-devices-without-AR.md)
+#### [Group calls](mobile-app/group-calling.md)
+#### [Calls in low-bandwidth situations](mobile-app/low-bandwidth-mode.md)
+#### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
-### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
-### [Send chat messages](mobile-app/send-chat-messages.md)
-### [Share files](mobile-app/file-sharing.md)
-### [Capture asset conditions on Mobile](mobile-app/asset-capture-mobile.md)
-### [Record calls](mobile-app/call-recording.md)
-### [Calls in low-bandwidth situations](mobile-app/low-bandwidth-mode.md)
+### Capture photos, videos, and asset conditions
+#### [Capture and annotate snapshots](mobile-app/annotate-snapshot.md)
+#### [Record calls](mobile-app/call-recording.md)
+#### [Capture asset conditions](mobile-app/asset-capture-mobile.md)
+#### [Share files](mobile-app/file-sharing.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
