@@ -26,9 +26,9 @@
 #### [Capture asset conditions](asset-capture-photos.md)
 ### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
-### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
 ### [Review the Dynamics 365 Remote Assist tutorial](review-tutorial-hololens.md)
 ### [Voice commands, narrator, and gestures](voice-commands-hololens.md)
+### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
 
 ## Mobile app
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
