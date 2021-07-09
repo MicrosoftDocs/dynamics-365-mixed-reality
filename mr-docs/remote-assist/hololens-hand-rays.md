@@ -7,9 +7,13 @@ If you use features that require hand rays (inking and arrows, for example), han
 
 ## Turn hand rays off or on through voice commands
 
+|Voice command|Description |
+| ------------- | -----|                                                   |
+|Toggle hand rays                       | Turn hand rays on or off                                                                                         |
+|Hand rays on                           | Show hand rays                                                                                                    |
+|Hand rays off                          | Hide hand rays          |
 
-
-## Turn hand rays off or on
+## Turn hand rays off or on through Settings
 
 1. In the HoloLens app, select **Settings**.
 
