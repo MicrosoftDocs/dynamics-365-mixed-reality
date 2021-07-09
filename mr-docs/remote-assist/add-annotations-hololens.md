@@ -79,9 +79,9 @@ The above video shows how to draw using HoloLens gestures. If you’re using Hol
 
 Select Colors ![Color](media/RAHL_Color.png "Color") (or say “Remote Assist, colors”), and then select the color you want (or say “Remote Assist, <color>”, for example, say "Remote Assist, Red"). The next annotation you place will be that color.
 
-## Edit annotations
+## Erase annotations
 
-To erase all the arrows and ink you’ve added during a video call, select **Erase all** (as seen here: ![Graphic showing the "erase all" icon, which looks like a trash can.](media/RAHL_Trash.png)) at the top of the call window (or say "Erase all").
+To erase all the arrows and ink you add during a video call, select **Erase all** (![Graphic showing the "erase all" icon, which looks like a trash can.](media/RAHL_Trash.png)) at the top of the call window (or say "Erase all").
 
 To undo your most recent action, including **Erase All**, select **Undo** ![Graphic showing the undo icon.](media/RAHL_Undo.png) at the top of the call window (or say "Undo").
 
