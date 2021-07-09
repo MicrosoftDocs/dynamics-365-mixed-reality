@@ -91,9 +91,9 @@ Enabling the **PV Camera Render** setting improves the alignment accuracy of ann
 
 ![Graphic showing the PV camera render setting](media/RAHL_PVSetting.png).
 
-In order to accommodate the additional system resources required for utilizing the PV camera render, turning on the PV camera render setting will limit the maximum outgoing video resolution of the HoloLens 2 to 720p. Turning off the PV camera render setting will allow the maximum outgoing video resolution to be 1080p.
+To accommodate the additional system resources required for utilizing the PV camera render, turning on the **PV Camera Render** setting limits the maximum outgoing video resolution of the HoloLens 2 to 720p. Turning off the **PV Camera Render** setting increases the maximum outgoing video resolution to 1080p.
 
-For more information, see this [article on rendering from the PV camera](/windows/mixed-reality/develop/platform-capabilities-and-apis/mixed-reality-capture-for-developers#render-from-the-pv-camera-opt-in).
+[Learn more about rendering from the PV camera](/windows/mixed-reality/develop/platform-capabilities-and-apis/mixed-reality-capture-for-developers#render-from-the-pv-camera-opt-in).
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
