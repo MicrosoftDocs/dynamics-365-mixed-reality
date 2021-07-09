@@ -17,48 +17,49 @@ Annotations are useful for pointing out different parts of your space, including
 The gestures for adding arrows or drawing are the same for HoloLens and HoloLens 2.
 
 > [!Note]
-> Multiple Teams users (desktop or mobile) can join but only Teams desktop users can add annotations in a Dynamics 365 Remote Assist call, regardless of whether the Dynamics 365 Remote Assist user is using HoloLens, HoloLens 2, or mobile.
+> Multiple Teams users (desktop or mobile) can join a Dynamics 365 Remote Assist call, but only Teams desktop users can add annotations, regardless of whether the Dynamics 365 Remote Assist user is using HoloLens, HoloLens 2, or the mobile app.
 >
-> In other words, the following calls are supported:
+> The following combinations are supported:
 >
-> - One-to-one calls with one Dynamics 365 Remote Assist HoloLens/HoloLens 2 user and one Teams desktop user
-> - One-to-one calls with one Dynamics 365 Remote Assist HoloLens/HoloLens 2 user and one Teams mobile user
-> - One-to-one calls with one Dynamics 365 Remote Assist HoloLens/HoloLens 2 user and one Dynamics 365 Remote Assist mobile user
-> - Group calls with one or more Dynamics 365 Remote Assist HoloLens/HoloLens 2 users and one or more Teams desktop or mobile users
-> - Meetings with one or more Dynamics 365 Remote Assist HoloLens/HoloLens 2 users and one or more Teams desktop or mobile users
+> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Teams desktop user
+> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Teams mobile user
+> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Dynamics 365 Remote Assist mobile user
+> - Group call with one or more Dynamics 365 Remote Assist HoloLens users and one or more Teams desktop or mobile users
+> - Meetings with one or more Dynamics 365 Remote Assist HoloLens users and one or more Teams desktop or mobile users
 
 ## Add an arrow 
 
-Select the **Arrow** tool (![Graphic showing the arrow icon.](media/RAHL_Arrow.png)). 
+1. Select the **Arrow** tool (![Graphic showing the arrow icon.](media/RAHL_Arrow.png)). 
 
-To position the arrow in space:
+2. To position the arrow in space:
 
-- If you're using HoloLens, use your gaze cursor to position the arrow. You'll see a ghost arrow on your gaze cursor.  
+    - If you're using HoloLens, use your gaze cursor to position the arrow. You'll see a ghost arrow on your gaze cursor.  
 
-- If you're using HoloLens 2, use your hand ray to position the arrow. You'll see a ghost arrow at the end of your hand ray.
+    - If you're using HoloLens 2, use your hand ray to position the arrow. You'll see a ghost arrow at the end of your hand ray.
 
-To control the direction of the arrow, air tap, hold, and move your hand in a circle until the ghost arrow appears at the desired direction. Release the air tap to place the arrow.
+    > [!NOTE]
+    > If [hand rays are turned off](hololens-hand-rays.md) in the HoloLens app, they're automatically turned back on again when you select the **Arrow** tool.
 
-To use voice commands, select the arrow tool by saying "Remote Assist, Arrow." Then say "Remote Assist, Place arrow" to place the arrow. You won't be able to use voice commands to rotate the arrow before placing it.
+3. To control the direction of the arrow, air tap, hold, and move your hand in a circle until the ghost arrow appears at the desired direction. Release the air tap to place the arrow.
 
-Once you place the arrow, you can't adjust its location or direction. To redo, select **Undo** (or say "Remote Assist, Undo") and place the arrow again.
+4. Once you place the arrow, you can't adjust its location or direction. To redo, select **Undo**, and then place the arrow again.
+
+> [!TIP]
+> To use voice commands, select the arrow tool by saying "Remote Assist, Arrow." Then say "Remote Assist, Place arrow". You can't use voice commands to rotate the arrow before placing it. To redo, say "Remote Assist, Undo", and then place the arrow again.
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qy" frameborder="0" allowfullscreen=""></iframe></div>
 <br>
 The previous video shows how to place an arrow using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and you position your arrow in space using your hand ray. 
 
-> [!NOTE]
-> If [hand rays are turned off](hololens-hand-rays.md) in the HoloLens app, they're automatically turned back on again when you select the **Arrow** tool.
-
 ## Draw in your space
 
 Select the **Ink tool** (![Graphic showing the ink icon.](media/RAHL_Ink.png)).
 
-To determine where you start drawing: 
+To determine where to start drawing: 
 
-- If you're using HoloLens, use your gaze cursor to determine where to start drawing.
+- If you're using HoloLens, use your gaze cursor.
 
-- If you're using HoloLens 2, use your hand ray to determine where to start drawing.  
+- If you're using HoloLens 2, use your hand ray.  
 
 Then, air tap, keep your index finger and thumb together, and start drawing in space. Release the air tap to stop drawing. 
 
