@@ -34,9 +34,9 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-guide" target="_blank">Create a guide</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign#share-a-guide-with-someone-else" target="_blank">Assign ownership of a guide</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Reworked notifications for accessibility</a>| No |None|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/folders-pc-hololens-apps" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-guide" target="_blank">Create a guide</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/consolidated-content-view-guides-model-driven-app" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign#share-a-guide-with-someone-else" target="_blank">Assign ownership of a guide</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/reworked-notifications-accessibility" target="_blank">Reworked notifications for accessibility</a>| No |None|
 
 ### Bugs fixed
 
