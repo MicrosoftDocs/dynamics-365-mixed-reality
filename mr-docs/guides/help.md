@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 
 Need help with Microsoft Dynamics 365 Guides? Select the **Help** (question mark) button in the upper-right corner of the PC app to find the help that you need.
 
-![Help menu](media/help-menu.PNG "Help menu") 
+![Help menu.](media/help-menu.PNG "Help menu") 
 
 | Menu item | Description |
 |---|---|

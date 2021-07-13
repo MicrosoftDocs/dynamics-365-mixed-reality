@@ -25,7 +25,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
 4. Search for **Microsoft 365 Business Standard**, and hover over the **Microsoft 365 Business Standard** tile, and then select **Start free trial**.
 
-    ![Microsoft 365 Business Standard](media/ms-business-standard.png "Microsoft 365 Business Standard")
+    ![Microsoft 365 Business Standard.](media/ms-business-standard.png "Microsoft 365 Business Standard")
 
 5. Verify yourself and start the free trial. 
 
@@ -69,13 +69,13 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
 5. Select the **Open** menu, and then select **Add to a team.**
 
-   ![Add to a team](media/add-to-team.PNG "Add to a team")
+   ![Add to a team.](media/add-to-team.PNG "Add to a team")
 
     a. Select an environment. This will be the organization name for the instance.
 
     b. Select **Sales Hub**.
 
-      ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
+      ![Sales Hub.](media/select-sales-hub.PNG "Sales Hub")
 
     c. Select a mixed-reality session, and then select **Save**.
 

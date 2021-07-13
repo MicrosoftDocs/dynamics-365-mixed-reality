@@ -76,9 +76,9 @@ If you would like to control who the service account user can search and collabo
 
 6. If information barriers are necessary, [configure information barriers](/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).
 
->![Note] If you plan to send your vendor or customer a HoloLens to use Remote Assist, you can create a service account, [assign the necessary licenses](requirements.md), and set up a PIN to log in to HoloLens using that service account. Then, share the PIN with your vendor or customer. With [Single Sign-on](/hololens/hololens-identity), your vendor or customer can use the PIN to log in to the HoloLens and then automatically log in to Remote Assist as well. This method provides two benefits. Your vendor or customer can quickly sign in to both the device and Remote Assist. Additionally, because you are providing a HoloLens-specific PIN instead of the service account password, your vendor or customer cannot use that service account on any other device.
+>![Note.] If you plan to send your vendor or customer a HoloLens to use Remote Assist, you can create a service account, [assign the necessary licenses](requirements.md), and set up a PIN to log in to HoloLens using that service account. Then, share the PIN with your vendor or customer. With [Single Sign-on](/hololens/hololens-identity), your vendor or customer can use the PIN to log in to the HoloLens and then automatically log in to Remote Assist as well. This method provides two benefits. Your vendor or customer can quickly sign in to both the device and Remote Assist. Additionally, because you are providing a HoloLens-specific PIN instead of the service account password, your vendor or customer cannot use that service account on any other device.
 
->![Note] You may set up [kiosk mode](/hololens/hololens-kiosk) for the HoloLens to limit the apps that your vendor or user can access. For example, you can limit them to only using two apps on the HoloLens: the Settings app to configure WiFi, and the Remote Assist app.
+>![Note.] You may set up [kiosk mode](/hololens/hololens-kiosk) for the HoloLens to limit the apps that your vendor or user can access. For example, you can limit them to only using two apps on the HoloLens: the Settings app to configure WiFi, and the Remote Assist app.
 
 
 

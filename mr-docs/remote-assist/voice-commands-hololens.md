@@ -91,7 +91,7 @@ To turn on the Narrator for incoming calls:
 
 - Go to Settings, and then select the **On** button for the Narrator.
 
- ![Open Narrator](media/08.00-settings.png "Open Narrator")
+ ![Open Narrator.](media/08.00-settings.png "Open Narrator")
 
 ## Gestures
 

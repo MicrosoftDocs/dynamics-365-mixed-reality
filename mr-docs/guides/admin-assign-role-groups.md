@@ -49,22 +49,22 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
 2. In the **Access** section, under **Security roles**, select **See all**.
 
-    ![power platform admin](media/power-platform-admin-center-env-setting.PNG "power platform admin")
+    ![power platform admin.](media/power-platform-admin-center-env-setting.PNG "power platform admin")
  
 3. Under **Role**, select **Basic User**. 
 
-    ![basic user](media/power-platform-enviro-roles.PNG "basic users")
+    ![basic user.](media/power-platform-enviro-roles.PNG "basic users")
     
     > [!NOTE]
     > The **Basic User** role must be added to the group to enable Dynamics 365 Guides for the users in this group team. 
 
 4. At the top of the screen, select **Add people**.
 
-    ![Add people command at top of Power Platform screen](media/power-platform-security-role-add-people.PNG "Add people command at top of Power Platform screen")
+    ![Add people command at top of Power Platform screen.](media/power-platform-security-role-add-people.PNG "Add people command at top of Power Platform screen")
     
 5. Search for the Dynamics 365 group team created above, select it in the search results, and then select **Add**.
 
-    ![add group](media/power-platform-security-add-group.PNG "Add group")
+    ![add group.](media/power-platform-security-add-group.PNG "Add group")
  
 6. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that you want to apply to this team. Dynamics 365 Guides roles include:
 
@@ -88,35 +88,35 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
 2. In the **Details** section, select the **Environment URL** link to access the details for the environment.  
 
-    ![Environment URL in the Details section](media/power-platform-admin-center-env-url.PNG "Environment URL in the Details section")
+    ![Environment URL in the Details section.](media/power-platform-admin-center-env-url.PNG "Environment URL in the Details section")
 
 3. In the title bar, select the **Settings** button, and then select **Advanced Settings**.
 
-    ![Settings button](media/power-platform-admin-center-env-adv-settings.PNG "Settings button")  
+    ![Settings button.](media/power-platform-admin-center-env-adv-settings.PNG "Settings button")  
 
 4. In the Dynamics 365 screen, select the down arrow next to **Settings**, and then under **System**, select **Security**.
 
-    ![select security](media/D365-admin-center-advanced-settings-security.PNG "select security")
+    ![select security.](media/D365-admin-center-advanced-settings-security.PNG "select security")
 
 5. In the **Security** screen, select **Teams**.
 
-    ![Teams item selected in the Security screen](media/D365-admin-center-advanced-settings-teams.PNG "Teams item selected in the Security screen")
+    ![Teams item selected in the Security screen.](media/D365-admin-center-advanced-settings-teams.PNG "Teams item selected in the Security screen")
 
 6. At the top of the page, select the team type (**All AAD Office Group Teams** or **All AAD Security Group Teams**).
 
-    ![select groups dropdown](media/D365-admin-center-advanced-settings-groups.PNG "select groups dropdown")
+    ![select groups dropdown.](media/D365-admin-center-advanced-settings-groups.PNG "select groups dropdown")
  
 7. Select the team name to modify the team.
 
-    ![select group name](media/D365-admin-center-advanced-settings-groupname.PNG "select group name")
+    ![select group name.](media/D365-admin-center-advanced-settings-groupname.PNG "select group name")
 
 8. At the top of the page, select **MANAGE ROLES**.
 
-    ![select manage roles](media/D365-admin-center-advanced-settings-manage-roles.PNG "manage roles")
+    ![select manage roles.](media/D365-admin-center-advanced-settings-manage-roles.PNG "manage roles")
 
 9. Confirm that the **Basic User** role is selected, and then select any additional roles that you want to apply to the group.
 
-    ![Select roles](media/select-role.PNG "Select roles")
+    ![Select roles.](media/select-role.PNG "Select roles")
     
     [Learn more about the different Author and Operator roles](admin-role-types.md).
 

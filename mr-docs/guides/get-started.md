@@ -19,7 +19,7 @@ Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 
 This resource is where you are right now. We've organized the documentation by role, so that you can quickly find the content that you need, depending on whether you're an admin, author, or operator.
 
-![Table of contents organized by role](media/organized-by-role.PNG "Table of contents organized by role")
+![Table of contents organized by role.](media/organized-by-role.PNG "Table of contents organized by role")
 
 ### Video tutorials
 
@@ -47,7 +47,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select **Try the demo**.
 
-![Try the demo button](media/try-demo-2.PNG "Try the demo button")
+![Try the demo button.](media/try-demo-2.PNG "Try the demo button")
 
 ## Understand concepts
 
@@ -77,7 +77,7 @@ Here are the most important pages for admins:
 
 We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to include the top features that customers have requested. To find out what's new, check out our [What's new](new.md) page. This page is also available by selecting the **Help** (question mark) button in the upper-right corner of the PC app, so it's always at your fingertips.
 
-![What's New command](media/what-new.PNG "What's New command")
+![What's New command.](media/what-new.PNG "What's New command")
 
 To learn when features were introduced, or to learn about upcoming features, see the Release plan:
 

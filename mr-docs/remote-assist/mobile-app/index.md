@@ -63,7 +63,7 @@ A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account i
 
 2.	Sign in with your [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account.
 
-    ![Sign-in screen](../media/sign-in.png "Sign-in screen")
+    ![Sign-in screen.](../media/sign-in.png "Sign-in screen")
   
     > [!TIP]
     > The sign-in address will be in the form: username@company
@@ -71,7 +71,7 @@ A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account i
 3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)], or 
 select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
-    ![Field Service screen](../media/field-service.PNG "Field Service screen")
+    ![Field Service screen.](../media/field-service.PNG "Field Service screen")
    
 4. If you don't have a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license, another dialog box will prompt you to get a license or to sign up for a free trial.
 
@@ -80,32 +80,32 @@ select **Skip** if you don’t want to link the apps at this time. You can alway
 
 Dynamics 365 Remote Assist for mobile includes a tutorial that you can use to jumpstart your learning curve. You can start the tutorial by selecting the **Try It** button when you sign in.
 
-![Try the tutorial](media/try-it.png "Try the tutorial")
+![Try the tutorial.](media/try-it.png "Try the tutorial")
 
 You can also start the tutorial by selecting the Main menu button, and selecting **Learn the tools**.
 
-![Learn the tools item](media/learn-the-tools.png "Learn the tools item")
+![Learn the tools item.](media/learn-the-tools.png "Learn the tools item")
 
 ## Make a call
 After signing in, you’ll see the **Contacts** page, which is the main page in [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. On the **Contacts** page, 
 your contacts are organized by the most recent calls.
 
-![Contacts screen](media/contacts.png "Contacts screen")
+![Contacts screen.](media/contacts.png "Contacts screen")
 
 To make a call:
 
-1.	Select ![Search button](../media/search-icon.PNG "Search button"), enter the name of the contact to search for, and then select the contact from the resulting list.
+1.	Select ![Search button.](../media/search-icon.PNG "Search button"), enter the name of the contact to search for, and then select the contact from the resulting list.
        
-    ![Search for a contact](../media/search-contact.PNG "Search for a contact")
+    ![Search for a contact.](../media/search-contact.PNG "Search for a contact")
     
 2.	In the contact card, select **Launch Call**.
 
-    ![Launch Call screen](media/launch-call.png "Launch Call screen")
+    ![Launch Call screen.](media/launch-call.png "Launch Call screen")
   
     Use the buttons in the bar at the bottom of the screen to mute the call, pause the video feed, turn on the speaker phone, or 
     end the call.
     
-    ![Call controls](media/call-controls.PNG "Call controls")
+    ![Call controls.](media/call-controls.PNG "Call controls")
     
     A. Pause video feed<br>
     B. Mute call<br>
@@ -117,7 +117,7 @@ To make a call:
 You can add annotations to your screen to share with an expert on the call. To create annotations, your phone or tablet needs to recognize 
 at least one plane (vertical or horizontal) in your work area. You do this by scanning your work area with the phone or tablet. When a plane has been recognized, you’ll see a confirmation visualization and the annotation toolbar will appear at the top of the screen:
 
-![Add annotations](media/annotation-bar-full-screen.PNG "Add annotations")
+![Add annotations.](media/annotation-bar-full-screen.PNG "Add annotations")
   
 > [!NOTE] 
 > If you lock your phone or tablet, or minimize [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile, the recognized planes will reappear automatically as soon as your phone or tablet recognizes the environment.
@@ -126,7 +126,7 @@ at least one plane (vertical or horizontal) in your work area. You do this by sc
 
 You can add an augmented-reality annotation by using the buttons on the annotation toolbar:
 
-![Annotation bar](media/annotation-bar.PNG "Annotation bar")
+![Annotation bar.](media/annotation-bar.PNG "Annotation bar")
 
 A. Add arrow<br>
 B. Add ink<br>
@@ -140,11 +140,11 @@ For example, to add an arrow, tap the arrow tool and drag your finger to the spo
 
 You can also annotate in 2D by toggling augmented reality off or by taking a picture.
 
-![Camera button](media/camera-button.PNG "Camera button")
+![Camera button.](media/camera-button.PNG "Camera button")
 
 When augmented reality is turned off, the **Camera** button turns into a check mark. 
 
-![2D check mark](media/2d-checkmark.png "2D check mark")
+![2D check mark.](media/2d-checkmark.png "2D check mark")
 
 You might want to use 2D:
 
@@ -159,7 +159,7 @@ You might want to use 2D:
 When you call an expert, the expert’s video feed appears in the lower-right corner of your phone or tablet screen. To make the expert’s 
 video feed bigger, tap the feed. Tap the feed again to return to the original size.
 
-![Expert video feed](media/expert-annotating.PNG "Expert video feed")
+![Expert video feed.](media/expert-annotating.PNG "Expert video feed")
   
 If the expert is annotating, a notification icon will appear on the expert's feed.  
 
@@ -171,7 +171,7 @@ You can switch the orientation of the camera view from portrait to landscape whi
 
 You can also communicate through Teams chat with the person you're calling. A pop-up window appears for any messages you receive or you can open the text chat window to send a message to the other person. 
 
-![Chat window](media/chat.png "Chat window")
+![Chat window.](media/chat.png "Chat window")
    
 
 ## Use Dynamics 365 Remote Assist together with Dynamics 365 Field Service
@@ -183,39 +183,39 @@ When you sign in to [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-36
 
 ### Link Dynamics 365 Remote Assist for mobile to Dynamics 365 Field Service
 
-1.	Select the **Main menu** ![Main menu button](../media/main-menu-button.PNG "Main menu button") button.
+1.	Select the **Main menu** ![Main menu button.](../media/main-menu-button.PNG "Main menu button") button.
 
 2.  Select the **Settings** button.  
 
 3.	In the **Settings** dialog box, move the slider to on.
 
-    ![Settings screen](../media/settings.PNG "Settings screen")
+    ![Settings screen.](../media/settings.PNG "Settings screen")
   
 ### Save call data to a Dynamics 365 Field Service work order
 
 1.	When you end the call, the following dialog box will appear:
 
-    ![Post to Work Order screen](media/post-to-work-order.jpg "Post to Work Order screen")
+    ![Post to Work Order screen.](media/post-to-work-order.jpg "Post to Work Order screen")
   
 2.	Select **Post**.
 
 3.	In the **Select one of today's bookings** screen, select the appropriate booking to post the call data to.
 
-    ![Select a Booking screen](media/bookings-today.jpg "Select a Booking screen")
+    ![Select a Booking screen.](media/bookings-today.jpg "Select a Booking screen")
   
     > [!NOTE]
     > If you don’t see the booking you’re looking for, it might be because you have access to multiple instances (organizations). 
-    To switch to a different instance, select the ellipsis button (...), and then select the instance you want.<br>![Select instance](../media/select-instance.PNG "Select instance")
+    To switch to a different instance, select the ellipsis button (...), and then select the instance you want.<br>![Select instance.](../media/select-instance.PNG "Select instance")
     
 ## Sign out of the app
 
-1.	Select the **Main menu** ![Main menu button](../media/main-menu-button.PNG "Main menu button") button.
+1.	Select the **Main menu** ![Main menu button.](../media/main-menu-button.PNG "Main menu button") button.
 
 2.	Select **Sign Out**.
 
 ## Get help
 
-1.	Select the **Main menu** ![Main menu button](../media/main-menu-button.PNG "Main menu button") button.
+1.	Select the **Main menu** ![Main menu button.](../media/main-menu-button.PNG "Main menu button") button.
 
 2.	Select **Help**.
 
@@ -225,7 +225,7 @@ If you’d like access to the product forum or to leave feedback on the app, go 
 
 You can also provide feedback directly from the app by using the following procedure:
 
-1.	Select the **Main menu** ![Main menu button](../media/main-menu-button.PNG "Main menu button") button.
+1.	Select the **Main menu** ![Main menu button.](../media/main-menu-button.PNG "Main menu button") button.
 
 2.	Select **Feedback**.
 

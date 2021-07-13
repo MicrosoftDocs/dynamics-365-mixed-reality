@@ -20,17 +20,17 @@ After you've created a mixed-reality session, you add products to it. A product 
 
 2.  In the left pane, select **Mixed-reality sessions**.
 
-    ![Select Mixed Reality Sessions from the left pane](media/mr-session.png "Select Mixed Reality Sessions from the left pane")
+    ![Select Mixed Reality Sessions from the left pane.](media/mr-session.png "Select Mixed Reality Sessions from the left pane")
 
 3.  On the **My Active Mixed Reality Sessions** page, select your mixed-reality session.
 
-4.  Under **3D Products**, select **More Commands** ![More Commands icon](media/more-commands-icon.png "More Commands icon"), and then select **Add Existing 3D Product**.
+4.  Under **3D Products**, select **More Commands** ![More Commands icon.](media/more-commands-icon.png "More Commands icon"), and then select **Add Existing 3D Product**.
 
-    ![Add a product to a mixed-reality session](media/add-prod-mr-session.png "Add a product to a mixed-reality session")
+    ![Add a product to a mixed-reality session.](media/add-prod-mr-session.png "Add a product to a mixed-reality session")
 
 5.  In the **Lookup Records** panel, search for and select the product.
 
-    ![Lookup product](media/prod-lookup.png "Lookup product")
+    ![Lookup product.](media/prod-lookup.png "Lookup product")
 
 6.  Add more products, if you need.
 
@@ -38,7 +38,7 @@ After you've created a mixed-reality session, you add products to it. A product 
 
 8.  On the **Mixed Reality Session** page, select **Save**. The selected product is added under **3D Products**.
 
-    ![Product added to a mixed-reality session created](media/prod-added-mr-session.png "Product added to a mixed-reality session created")
+    ![Product added to a mixed-reality session created.](media/prod-added-mr-session.png "Product added to a mixed-reality session created")
 
 ### See also
 

@@ -66,7 +66,7 @@ The Connect app for wireless projection using Miracast is no longer installed by
 
 To update the solution, you must have the [System Administrator](/power-platform/admin/database-security) role AND you must have a [Power Apps license](/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
 
-![Dynamics 365 Guides license selected](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
+![Dynamics 365 Guides license selected.](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
 
 When you have a Power Apps license, the Access Mode security property is set to Read-Write, which is required for updating the solution. 
 

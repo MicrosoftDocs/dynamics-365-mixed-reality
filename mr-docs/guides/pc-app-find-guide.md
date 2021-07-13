@@ -24,13 +24,13 @@ To find a guide in the Microsoft Dynamics 365 Guides PC app, you can:
 
 2. Open the **Home** page, enter a name in the filter box, and then select the **Filter** button.
 
-    ![Filter box on the Home page](media/find-guide.PNG "Search box on the Home page")
+    ![Filter box on the Home page.](media/find-guide.PNG "Search box on the Home page")
     
 ## Navigate the folder structure
 
 You can navigate the folder structure by using the **All** tab or the folder breadcrumbs above the filter box. 
 
-![Folder breadcrumbs](media/find-guide-folder-structure.PNG "Folder breadcrumbs")
+![Folder breadcrumbs.](media/find-guide-folder-structure.PNG "Folder breadcrumbs")
 
 Note that folders do not appear on the **Recent** tab. [Learn how to create folders with the Guides model-driven app](admin-create-folders.md).
     

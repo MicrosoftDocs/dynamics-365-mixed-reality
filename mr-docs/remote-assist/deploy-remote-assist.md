@@ -49,17 +49,17 @@ Once prerequisites are met, you can now add and assign licenses to *individual u
 
 3.	In the left navigation bar, select **Billing** > **Subscriptions**. 
 
-    ![Screenshot showing billing subscriptions](./media/deploy_3.png "Billing subscriptions")
+    ![Screenshot showing billing subscriptions.](./media/deploy_3.png "Billing subscriptions")
 
 4.	Select **Assign to users**. 
 
-    ![Screenshot showing assigning users](./media/deploy_4.png "Assign users")
+    ![Screenshot showing assigning users.](./media/deploy_4.png "Assign users")
 
 5. Select **Add a user**. For more information, see [Add users and assign licenses at the same time](/office365/admin/add-users/add-users?view=o365-worldwide).
 
 6.	Find the users in your organization that you want to add. In the **Product licenses** section, make sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses. 
 
-    ![Screenshot of product licenses](./media/deploy_6.png "Product licenses")
+    ![Screenshot of product licenses.](./media/deploy_6.png "Product licenses")
 
 7. To add multiple users, go to **More** > **Import multiple users**. Fill out the CSV file, set user options, and view your results. 
 

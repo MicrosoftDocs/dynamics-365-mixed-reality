@@ -39,7 +39,7 @@ In the October 1 release, code for hologram positions was refactored to enhance 
 ## The Create account link doesn't work when I try to use a new account to sign in
 When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
 
-![Sign-in screen](media/sign-in-screen.PNG "Sign-in screen")
+![Sign-in screen.](media/sign-in-screen.PNG "Sign-in screen")
  
 Please do not use this link to create an account–it doesn't work.
 

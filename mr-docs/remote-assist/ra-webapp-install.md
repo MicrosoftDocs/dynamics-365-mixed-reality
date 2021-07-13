@@ -16,7 +16,7 @@ More information: [What are model-driven apps in Power Apps?](/powerapps/maker/m
 
 The Dataverse is the central location for customers to store their organization-specific data. The Dynamics 365 Remote Assist client apps on HoloLens or mobile can send and receive data to the Dataverse, which can then be accessed through the model-driven app in a browser. This also allows other applications, such as Dynamics 365 Field Service, to share the same organizational data so you can gain further insights. You can even use [Microsoft Power Automate to create flows that use Microsoft Dataverse](/power-automate/common-data-model-intro) and make them available for third-party apps. The high-level architecture diagram below shows the various possible components for these scenarios. 
 
-:::image type="content" source="media/ra-cds-architecture-diagram-2.PNG" alt-text="Architecture Diagram of a Remote Assist with CDS and companion apps" :::
+:::image type="content" source="media/ra-cds-architecture-diagram-2.PNG" alt-text="Architecture Diagram of a Remote Assist with CDS and companion apps." :::
 
 > [!NOTE]
 > The Dynamics 365 Remote Assist model-driven app has been deployed to the following regions: SAM, CAN, FRA, IND, FRA, UAE, GER, ZAF, JPN, APJ, GBR, OCE, EUR, NAM, GCC, USG. Other regions are not supported at this time. For more information, see:
@@ -93,9 +93,9 @@ More information: [Create and manage environments in the Power Platform admin ce
 
 2. In the left pane, select **Resources** > **Dynamics 365 apps**.
 
-3. Find the Dynamics 365 Remote Assist app, select the ellipsis button ![ellipsis icon](./media/ellipsis.png), and then select **Install**.
+3. Find the Dynamics 365 Remote Assist app, select the ellipsis button ![ellipsis icon.](./media/ellipsis.png), and then select **Install**.
 
-    ![Power Platform admin center](./media/AC_PPAC_InstallApp.png "Power Platform admin center")
+    ![Power Platform admin center.](./media/AC_PPAC_InstallApp.png "Power Platform admin center")
 
 4. Select an environment, review the packages to be installed, agree to the terms of service, and then select **Install**. This process might take a while.
 
@@ -116,7 +116,7 @@ As new versions of the Dynamics 365 Remote Assist model-driven app are released,
 
 4. You'll see the appropriate status for applications that have an **Update available**. Select the status, which will show a pane with the update details. Follow the steps to start the update.
 
-    :::image type="content" source="media/PPAC_Update_Solution.png" alt-text="Screenshot of solution updates in PPAC":::
+    :::image type="content" source="media/PPAC_Update_Solution.png" alt-text="Screenshot of solution updates in PPAC.":::
 
 5. After initiating the update, the environment details will show a status of **Installing** next to the **Dynamics 365 Remote Assist** app. This process might take a while. Once the update has been completed, the status will change to **Installed**.
 

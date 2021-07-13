@@ -14,7 +14,7 @@ This example shows how to create a Link Manager in Microsoft Excel to easily kee
 
 The resulting Excel Link Manager for this example looks like this:
 
-![Screen shot of Excel Link Manager](media/workflow1-excel-link-manager.PNG "Screen shot of Excel Link Manager")
+![Screen shot of Excel Link Manager.](media/workflow1-excel-link-manager.PNG "Screen shot of Excel Link Manager")
 
 > [!NOTE]
 > You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
@@ -57,7 +57,7 @@ Creating the Link Manager requires two basic steps:
 
 2. After creating the columns, select them, and then select **Insert > Table**. You'll populate this table later using the Power Automate flow.
 
-   ![Screen shot of Excel toolbar with Table item selected](media/workflow1-excel-insert-table.PNG "Screen shot of Excel toolbar with Table item selected")
+   ![Screen shot of Excel toolbar with Table item selected.](media/workflow1-excel-insert-table.PNG "Screen shot of Excel toolbar with Table item selected")
 
 ### Create the concatenated value for the PC app link
 
@@ -65,11 +65,11 @@ To create the deep link for the PC app, you need to concatenate the deep link pr
 
 1.	To get the deeplink prefix for your instance URL, right-click any guide in the PC app, and then select **Copy link to this guide**.
 
-    ![Copy link to this guide selected](media/workflow1-copy-link-guide.PNG "Copy link to this guide selected")
+    ![Copy link to this guide selected.](media/workflow1-copy-link-guide.PNG "Copy link to this guide selected")
  
 2.	Copy just the prefix part of the URL to a cell in your spreadsheet (outside the area for the designated columns). For example, for the following instance URL, the yellow highlighted text is the prefix.
 
-    ![Deeplink showing highlighted prefix](media/workflow1-deeplink-concatenation.PNG "Deeplink showing highlighted prefix")
+    ![Deeplink showing highlighted prefix.](media/workflow1-deeplink-concatenation.PNG "Deeplink showing highlighted prefix")
 
 3.	In the **Guide Link (PC App)** column of the spreadsheet, add a formula that concatenates the deep link prefix with the Guide ID. For example, if you add the URL prefix in cell K1, and the Guide ID is populated in column F, the formula for the **Guide Link (PC App) column** is: 
 
@@ -102,11 +102,11 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
 
 1. In Power Automate, select **Create**, and then select **Automated cloud flow**. Automated cloud flows are used to create an automation that’s triggered by an event.
 
-    ![Power Automate screen with Automated cloud flow selected](media/workflow1-automated-cloud-flow.PNG "Power Automate screen with Automated cloud flow selected")
+    ![Power Automate screen with Automated cloud flow selected.](media/workflow1-automated-cloud-flow.PNG "Power Automate screen with Automated cloud flow selected")
 
 2. Enter a name for your flow, and then under **Choose your flow’s trigger**, scroll the list, select the **When a row is added, modified or deleted** trigger, and then select **Create**. 
 
-    ![Power Automate screen with When a record is updated trigger selected](media/workflow1-when-record-updated-selection.PNG "Power Automate screen with When a record is updated trigger selected")
+    ![Power Automate screen with When a record is updated trigger selected.](media/workflow1-when-record-updated-selection.PNG "Power Automate screen with When a record is updated trigger selected")
  
     > [!TIP] 
     > You can filter the list of triggers by entering “data” in the **Choose your flow’s trigger** box.
@@ -119,19 +119,19 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
 
     3. Select a scope. 
 
-    ![When a record is updated trigger showing Guides entity selected](media/workflow1-when-record-updated-trigger.PNG "When a record is updated trigger showing Guides entity selected")
+    ![When a record is updated trigger showing Guides entity selected.](media/workflow1-when-record-updated-trigger.PNG "When a record is updated trigger showing Guides entity selected")
 
 4. Select **New step**, and then under **Choose an operation**, select **Microsoft Dataverse** to filter the list of actions.
 
-    ![Microsoft Dataverse item selected under Choose an operation](media/workflow1-microsoft-dataverse.PNG "Microsoft Dataverse item selected under Choose an operation")
+    ![Microsoft Dataverse item selected under Choose an operation.](media/workflow1-microsoft-dataverse.PNG "Microsoft Dataverse item selected under Choose an operation")
   
 5. Select the **Get a row by ID** action. 
 
-    ![Get a row by ID action selected](media/workflow1-get-row-by-ID-selection.PNG "Get a row by ID action selected")
+    ![Get a row by ID action selected.](media/workflow1-get-row-by-ID-selection.PNG "Get a row by ID action selected")
 
 6. In the **Get a row by ID** action box, for the **Table name**, select **Users**, place your cursor in the **Row ID** field, and then select **Created By (Value)** from the dynamic list.
 
-    ![Created By field selected in Dynamic list](media/workflow1-created-by.PNG "Created By field selected in Dynamic list") 
+    ![Created By field selected in Dynamic list.](media/workflow1-created-by.PNG "Created By field selected in Dynamic list") 
 
 At this point, we’ve created a Power Automate flow that’s triggered whenever someone adds a record to the Guides table. The flow then uses the ID in the Guides table to look up the user who created the guide from the Users table. 
 
@@ -141,7 +141,7 @@ Now you’re ready to set up the actions that populate the Excel spreadsheet col
 
 1. In the same flow, select **New step**, select **Excel Online (Business)** to filter the actions in the **Choose an operation** box, and then select **Add a row into a table**.
 
-    ![Excel Online (Business) selected](media/workflow1-add-row-into-table-selection.PNG "Excel Online (Business) selected")
+    ![Excel Online (Business) selected.](media/workflow1-add-row-into-table-selection.PNG "Excel Online (Business) selected")
   
 2. In the **Add a row into a table** action, make the following selections:
  
@@ -161,7 +161,7 @@ Now you’re ready to set up the actions that populate the Excel spreadsheet col
 
     The following screen shot shows values filled in for the **Add a row into a table** action. 
 
-    ![Add a row into a table action with values filled in](media/workflow1-add-row-into-table-action.PNG "Add a row into a table action with values filled in")
+    ![Add a row into a table action with values filled in.](media/workflow1-add-row-into-table-action.PNG "Add a row into a table action with values filled in")
 
 ## Idea for further customization
 

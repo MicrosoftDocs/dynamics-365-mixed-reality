@@ -18,7 +18,7 @@ To author and navigate through a guide in [!include[cc-microsoft](../includes/cc
 ## Gaze
 The easiest way to get around a guide is to gaze at an item (menu or button, for example). If the item has a selection box or circle (gaze/dwell button), you can select the item just by gazing at the button hit zone. The item is selected when the box or circle is filled. 
 
-![Gaze gesture](media/gaze_fill_2.gif "Gaze gesture")
+![Gaze gesture.](media/gaze_fill_2.gif "Gaze gesture")
  
 In other cases, you use gaze to target an item, and then act on that selection by using a gesture. When you gaze, turn your whole head—not just your eyes. The cursor will follow. 
 
@@ -32,7 +32,7 @@ To do the bloom gesture:
 1.	Hold out your hand with your palm up and your fingertips together. 
 2.	Open your hand.
 
-![Bloom gesture](media/bloom-gesture.PNG "Bloom gesture")
+![Bloom gesture.](media/bloom-gesture.PNG "Bloom gesture")
  
 ### Air tap
 Use air tap, along with gaze, to select holograms and any gaze/dwell buttons. To do an air tap:
@@ -40,7 +40,7 @@ Use air tap, along with gaze, to select holograms and any gaze/dwell buttons. To
 2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don't need to raise your whole arm—keep your elbow low and comfortable.
 3.	Tap your finger down, then quickly raise it back up again.
 
-![Air tap gesture](media/air-tap-gesture.PNG "Authoring overview")
+![Air tap gesture.](media/air-tap-gesture.PNG "Authoring overview")
  
 ### Air tap and hold
 Use air tap and hold to move, rotate, or scale holograms when authoring. To air tap and hold, start with an air tap, but keep your finger down instead of raising it back up again. 

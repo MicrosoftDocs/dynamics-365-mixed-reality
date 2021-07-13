@@ -13,7 +13,7 @@ ms.custom: "intro-internal"
 
 When you create a guide with the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, one of the first steps is to select an anchoring method. When you anchor a guide, you spatially synchronize it with your real-world environment (for example, a factory floor). Anchors help holograms determine where they are in the real world. You must create an anchor for your guide before it will work on [!include[pn-hololens](../includes/pn-hololens.md)].
 
-![Worker attaching a QR code anchor to machine](media/anchor-overview.PNG "Worker attaching a QR code anchor to machine")
+![Worker attaching a QR code anchor to machine.](media/anchor-overview.PNG "Worker attaching a QR code anchor to machine")
 
 It's crucial to ensure that holograms are aligned as precise as possible. If holograms are misaligned, your instructions may show actions at incorrect locations, which can result in operator confusion or damage to parts.
 

@@ -44,7 +44,7 @@ You can attach guides to various aspects of production control. Here are some ex
 
 When a first-line worker selects a job on the shop floor through Supply Chain Management, the job card shows [the relevant guides](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic). When the worker selects a specific guide, a QR code for that guide is shown. The worker can then use their HoloLens to scan the QR code. At that point, Dynamics 365 Guides is opened and shows the required instructions. 
 
-![QR code used to open a guide from Supply Chain Management](media/scm-integration-qr-code-scan.PNG "QR code used to open a guide from Supply Chain Management")
+![QR code used to open a guide from Supply Chain Management.](media/scm-integration-qr-code-scan.PNG "QR code used to open a guide from Supply Chain Management")
  
 [Learn more about how to integrate Dynamics 365 Guides with various aspects of production control](/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic).
 
@@ -52,7 +52,7 @@ When a first-line worker selects a job on the shop floor through Supply Chain Ma
 
 You can integrate the **Asset Management** module in Supply Chain Management with Dynamics 365 Guides to take advantage of mixed-reality guides in your day-to-day service and maintenance workflows. If a guide is associated with an Asset Management work order, when a worker opens the work order's Maintenance Checklist in the Finance and Operations (Dynamics 365) mobile app (1), the line details show that a guide is available (2). The worker can then find and open the guide in the Dynamics 365 Guides HoloLens app (3).
 
-![Integrated Asset Management guide](media/asset-management-integration.JPG "Integrated Asset Management guide")
+![Integrated Asset Management guide.](media/asset-management-integration.JPG "Integrated Asset Management guide")
 
 [Learn more about how to integrate asset management with Dynamics 365 Guides](/dynamics365/supply-chain/asset-management/asset-management-guides-integration).
 

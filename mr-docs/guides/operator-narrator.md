@@ -24,7 +24,7 @@ If you turn narration on or off in Settings, narration will stay on or off for t
 
 - In the **Settings** dialog box, move the **Narration** slider to the on position.
 
-   ![Narration setting](media/narration-setting.PNG "Narration setting")
+   ![Narration setting.](media/narration-setting.PNG "Narration setting")
 
 ## Use voice commands to turn narration on or off or to select a response in a question card
 

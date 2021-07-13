@@ -18,7 +18,7 @@ If you're an author for Microsoft [!include[pn-dyn-365-guides](../includes/pn-dy
 
 2. Select **Deactivate**.
 
-    ![Deactivate command](media/author-deactivate-guide.PNG "Deactivate command")
+    ![Deactivate command.](media/author-deactivate-guide.PNG "Deactivate command")
 
     > [!IMPORTANT]
     > After a guide is deactivated, it will continue to appear in the **Recent** list, because this list always shows the 12 most recently opened guides. However, neither you nor your operators will be able to open the guide.
@@ -33,7 +33,7 @@ When you deactivate an image, video, or 3D part in the PC app, the content is hi
 
 2. Select **Deactivate**.
 
-    ![Screenshot of Deactivate command](media/deactivate-content.PNG "Screenshot of Deactivate command")
+    ![Screenshot of Deactivate command.](media/deactivate-content.PNG "Screenshot of Deactivate command")
 
 ## See also
 

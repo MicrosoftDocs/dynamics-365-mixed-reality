@@ -16,7 +16,7 @@ In Microsoft Dynamics 365 Guides, you always create a guide in the PC app. After
 
 2. Select **Create a guide**.
 
-    ![Create new guide button](media/create-guide-folders.PNG "Create new guide button")
+    ![Create new guide button.](media/create-guide-folders.PNG "Create new guide button")
 
 3. Go to the folder that you want to save the guide in. You can navigate the folder structure by going to the **All** tab or by using the breadcrumbs above the **Filter by name** box. Note that folders never appear on the **Recent** tab. 
 
@@ -28,7 +28,7 @@ In Microsoft Dynamics 365 Guides, you always create a guide in the PC app. After
     > [!TIP]
     > If you're planning to create multiple versions of the guide, you might want to add **\_v2**, **\_v3**, and so on, as part of the name. You can also use the **Save a Copy** command on the **File** menu if you're creating multiple versions of the same guide.
 
-    ![Naming the guide](media/name-guide.PNG "Naming the guide")
+    ![Naming the guide.](media/name-guide.PNG "Naming the guide")
 
     > [!NOTE]
     > When you create a guide by using the PC app, a JavaScript Object Notation (JSON) data file is automatically created in Microsoft Dataverse. This file is for internal use only. We don't recommend that you build functionality on top of this file, because it might change over time.

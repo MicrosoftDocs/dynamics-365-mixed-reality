@@ -42,11 +42,11 @@ For the most part, you can use the default preferences. However, there are a few
 
 1. On the **Tools** menu, select **Preferences**.
 
-    ![Preferences command](media/agisoft-1.PNG "Preferences command")
+    ![Preferences command.](media/agisoft-1.PNG "Preferences command")
 
 2. In the **Metashape Preferences** dialog box, on the **GPU** tab, select the check box for any graphics processing units (GPUs) that are available. If only one GPU is available, select the **Use CPU when performing GPU accelerated processing** check box at the bottom of the dialog box. When you've finished, select **Apply**.
 
-    ![GPU tab settings](media/agisoft-3.PNG "GPU tab settings")
+    ![GPU tab settings.](media/agisoft-3.PNG "GPU tab settings")
 
 3. On the **Advanced** tab, in the **Miscellaneous** section, follow these steps:
 
@@ -56,7 +56,7 @@ For the most part, you can use the default preferences. However, there are a few
 
     3. Select **OK** to apply your changes and close the **Metashape Preferences** dialog box.
 
-    ![Advanced tab settings](media/agisoft-4.PNG "Advanced tab settings")
+    ![Advanced tab settings.](media/agisoft-4.PNG "Advanced tab settings")
 
     > [!NOTE]
     > If the camera that you're using has extensive metadata about location, orientation, and so on, you might also want to experiment with the options in the **Export/Import** section of the **Advanced** tab.
@@ -67,7 +67,7 @@ After you've finished setting up your preferences, the first step is to import t
 
 - On the **Workflow** menu, select **Add Photos**, and then select the photos to import.
 
-    ![Add Photos command](media/agisoft-5.PNG "Add Photos command")
+    ![Add Photos command.](media/agisoft-5.PNG "Add Photos command")
 
 ## Mask your photos
 
@@ -75,19 +75,19 @@ You can "mask out" any irrelevant elements in your source photos that might be c
 
 1. Double-click an image to open it, and then select a selection tool, such as **Intelligent Scissors**.
 
-    ![Intelligent Scissors tool](media/intelligent-scissors.png "Intelligent Scissors tool")
+    ![Intelligent Scissors tool.](media/intelligent-scissors.png "Intelligent Scissors tool")
 
 2. Outline your 3D model subject, and then select **Add Selection** to create the mask.
 
-    ![Add Selection button](media/agisoft-6.PNG "Add Selection button")
+    ![Add Selection button.](media/agisoft-6.PNG "Add Selection button")
 
     Your model should now resemble the following illustration.
 
-    ![Mask created](media/agisoft-7.PNG "Mask created")
+    ![Mask created.](media/agisoft-7.PNG "Mask created")
 
 3. For the best results, repeat this procedure in multiple photos, from multiple angles.
 
-    ![Refined model](media/agisoft-8.PNG "Refined model")
+    ![Refined model.](media/agisoft-8.PNG "Refined model")
 
 ## Align the photos
 
@@ -95,15 +95,15 @@ Photogrammetry uses objects that are consistently present in multiple images to 
 
 1. On the **Workflow** menu, select **Align Photos**.
 
-    ![Align Photos command](media/agisoft-9.PNG "Align Photos command")
+    ![Align Photos command.](media/agisoft-9.PNG "Align Photos command")
 
 2. In the **Align Photos** dialog box, use the default settings (see the following illustration), or change the settings as you require. When you've finished, select **OK**.
 
-    ![Align Photos default settings](media/agisoft-10.PNG "Align Photos default settings")
+    ![Align Photos default settings.](media/agisoft-10.PNG "Align Photos default settings")
 
 3. Select the **Model** menu to view the results. Your model should now resemble the following illustration.
 
-    ![Photo alignment outcome](media/model-view.png "Photo alignment outcome")
+    ![Photo alignment outcome.](media/model-view.png "Photo alignment outcome")
 
 ## Align the region
 
@@ -114,11 +114,11 @@ After you've finished aligning the photos, you can use the bounding box to trim 
 
 1. On the toolbar, select the **Resize Region** tool.
 
-    ![Resize Region tool](media/agisoft-12.PNG "Resize Region tool")
+    ![Resize Region tool.](media/agisoft-12.PNG "Resize Region tool")
 
 2. Drag the spheres at the edge of the region to select the area that you want to convert.
 
-    ![Area to convert selected](media/agisoft-13.PNG "Area to convert selected")
+    ![Area to convert selected.](media/agisoft-13.PNG "Area to convert selected")
 
 ## Build a dense point cloud
 
@@ -126,7 +126,7 @@ The next step is to generate a point cloud. You can then use the point cloud to 
 
 1. On the **Workflow** menu, select **Build Dense Cloud**.
 
-    ![Build Dense Cloud command](media/agisoft-14.PNG "Build Dense Cloud command")
+    ![Build Dense Cloud command.](media/agisoft-14.PNG "Build Dense Cloud command")
 
 2. In the **Build Dense Cloud** dialog box, use the following settings:
 
@@ -139,7 +139,7 @@ The next step is to generate a point cloud. You can then use the point cloud to 
 
     - **Calculate point colors:** Select the check box.
 
-    ![Build Dense Cloud settings](media/agisoft-15.PNG "Build Dense Cloud settings")
+    ![Build Dense Cloud settings.](media/agisoft-15.PNG "Build Dense Cloud settings")
 
     These settings are good settings to start from. Experiment with other options to see the different results that they produce. Your results might vary, depending on the subject matter and surface characteristics of the object that you're working with.
 
@@ -151,7 +151,7 @@ The next step is to build the mesh.
 
 1. On the **Workflow** menu, select **Build Mesh**.
 
-    ![Build Mesh command](media/agisoft-16.PNG "Build Mesh command")
+    ![Build Mesh command.](media/agisoft-16.PNG "Build Mesh command")
 
 2. In the **Build Mesh** dialog box, use the following settings:
 
@@ -165,7 +165,7 @@ The next step is to build the mesh.
 
     - **Calculate vertex colors:** Select the check box.
 
-    ![Build Mesh settings](media/agisoft-17.PNG "Build Mesh settings")
+    ![Build Mesh settings.](media/agisoft-17.PNG "Build Mesh settings")
 
     > [!NOTE]
     > These settings work for general cases. Experiment with other options to find the best combination for your needs. You might want to change the **Face count** setting to match the [performance requirements for your targeted platform](optimize-models.md#performance-targets).
@@ -189,11 +189,11 @@ By adding a texture map to your 3D model, you can significantly increase the vis
 
 1. On the **Workflow** menu, select **Build Texture**.
 
-    ![Build Texture command](media/agisoft-18.PNG "Build Texture command")
+    ![Build Texture command.](media/agisoft-18.PNG "Build Texture command")
 
 2. Use the default settings (see the following illustration). When you've finished, select **OK**.
 
-    ![Build Texture default settings](media/agisoft-19.PNG "Build Texture default settings")
+    ![Build Texture default settings.](media/agisoft-19.PNG "Build Texture default settings")
 
     > [!NOTE]
     > Depending on the platform that you're targeting, you might want to reduce the texture size.
@@ -204,21 +204,21 @@ The last step is to convert the model to the GLB file format, so that you can us
 
 1. On the **File** menu, select **Export** \> **Export Model**.
 
-    ![Export Model command](media/agisoft-20.PNG "Export Model command")
+    ![Export Model command.](media/agisoft-20.PNG "Export Model command")
 
 2. In the **Save As** dialog box, specify a name and location for the 3D model. Then, in the **Save as type** field, select **Binary glTF (\*.glb**). When you've finished, select **Save**.
 
-    ![Save As dialog box](media/agisoft-21.PNG "Save As dialog box")
+    ![Save As dialog box.](media/agisoft-21.PNG "Save As dialog box")
 
 3. In the **Export Model** dialog box, in the **Export texture** field group, we recommend that you select **PNG**. Leave the other default settings.
 
-    ![Export Model settings](media/agisoft-22.PNG "Export Model settings")
+    ![Export Model settings.](media/agisoft-22.PNG "Export Model settings")
 
 4. When you've finished, select **OK**.
 
 The model is now completed and ready to be used in Dynamics 365 Guides and Power Apps.
 
-![Finished model](media/agisoft-23.PNG "Finished model")
+![Finished model.](media/agisoft-23.PNG "Finished model")
 
 ## View a 3D model in Dynamics 365 Guides or Power Apps
 

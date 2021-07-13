@@ -38,7 +38,7 @@ Buy Dynamics 365 Remote Assist licenses through your Microsoft 365 or Microsoft 
 
 3.	In the left navigation bar, select **Billing** > **Purchase Services**. 
 
-![Screenshot of the billing Tab](./media/buy_3.png "Billing Tab")
+![Screenshot of the billing Tab.](./media/buy_3.png "Billing Tab")
 
 4.	A list of services will appear. Search for or scroll down until you find **Dynamics 365 Remote Assist**.
 

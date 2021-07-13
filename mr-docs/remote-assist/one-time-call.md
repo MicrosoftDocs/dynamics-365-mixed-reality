@@ -50,11 +50,11 @@ To generate links for one-time calls:
 
 ### Before selecting Generate a link in the model-driven app
 
-![Before selecting Generate a link on the desktop web app](./media/otc-before-generate-link.PNG "Before")
+![Before selecting Generate a link on the desktop web app.](./media/otc-before-generate-link.PNG "Before")
 
 ### After selecting Generate a link and Copy in the model-driven app 
 
-![After selecting Generate a link and Copy on the desktop web app  ](./media/otc-after-generate-link.PNG "After")
+![After selecting Generate a link and Copy on the desktop web app  .](./media/otc-after-generate-link.PNG "After")
 	 
 ### Step 1: Generate a call link
 
@@ -90,11 +90,11 @@ After your customer launches the call and enters their name, they will enter the
 
 If you're joining the call using Teams desktop, you'll receive a notification that looks like this when your customer is waiting in the lobby.
 
-![Teams desktop with lobby notification](./media/join-call-with-teams-desktop.PNG "Teams desktop with lobby notification")
+![Teams desktop with lobby notification.](./media/join-call-with-teams-desktop.PNG "Teams desktop with lobby notification")
 
 If you're joining the call using the Dynamics 365 Remote Assist mobile app, you'll receive a notification that looks like this when your customer is waiting in the lobby.  
 
-![Admit into lobby](./media/OTC-C1-lobby.png "Admit")
+![Admit into lobby.](./media/OTC-C1-lobby.png "Admit")
  
 ## Your customer’s experience 
 
@@ -106,15 +106,15 @@ Note that [Dynamics 365 Remote Assist device requirements](./requirements.md#lic
 
 **Step 3**: Your customer is prompted to enter their name. 
 
-![Enter name](./media/otc-enter-name.PNG "Enter name")
+![Enter name.](./media/otc-enter-name.PNG "Enter name")
 
 **Step 4**: Your customer waits for you to admit them into the call.
 
-![Wait to join call](./media/otc-in-lobby.PNG "Wait to join call")
+![Wait to join call.](./media/otc-in-lobby.PNG "Wait to join call")
  
 **Step 5**: After your customer selects **End call**, they are prompted to confirm that they want to leave the call.
 
-![Confirm to leave](./media/otc-leave-call.PNG "Confirm to leave")
+![Confirm to leave.](./media/otc-leave-call.PNG "Confirm to leave")
 
 After your customer leaves the call, they will not be able to rejoin the call or view the chat history.
 
@@ -138,7 +138,7 @@ No – you can only access the model-driven app through the desktop web browser 
 
 If you want to access the Dynamics 365 Remote Assist features from Teams (for example, to easily [access assets](asset-capture-overview.md) or the [Calls dashboard](calls-dashboard.md)), you can [embed the Dynamics 365 Remote Assist model-driven app in Teams](/dynamics365/teams-integration/teams-install-app#in-microsoft-teams-set-up-the-personal-dashboard) to minimize switching between the model-driven app and the Teams desktop app.
 
-![Go to website command highlighted](./media/go-to-website.PNG "Go to website command highlighted")
+![Go to website command highlighted.](./media/go-to-website.PNG "Go to website command highlighted")
 
 **When the agent selects “Generate a link,” no pop-ups appear, and the agent is unable to copy the link to send to their customer**
 
@@ -217,7 +217,7 @@ Your customer must fully close the app and select the new link again.
 
 If the customer has Chrome or Edge set as their default browser on their Android mobile device, in some circumstances, they may see this screen and need to take an extra step to join the call.
 
-![Edge case landing page](./media/otc-edge-case.PNG "Edge case landing page")
+![Edge case landing page.](./media/otc-edge-case.PNG "Edge case landing page")
 
 |     User action    |     Next step   |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|

@@ -29,15 +29,15 @@ This guided tutorial addresses:
 
 1. To launch the tutorial, select **Try It** on the **Sign in** screen.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the try it button](./media/13.png "Try It")
+![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the try it button.](./media/13.png "Try It")
 
 2. If you're already signed in and wish to launch the tutorial, you can also go to **Menu** > **Learn the Tools**. 
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the Learn the Tools option in the menu](./media/14b.png "Try Tools")
+![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the Learn the Tools option in the menu.](./media/14b.png "Try Tools")
 
 3. Once you have begun the tutorial, you're prompted with an animation to move your phone side-to-side for better surface detection. Complete this action. 
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space](./media/15.png "Map Space")
+![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space.](./media/15.png "Map Space")
 
 4. Select the **Arrow tool** to place the arrow tool.
 
@@ -49,7 +49,7 @@ This guided tutorial addresses:
 
 6. Tap and drag to **rotate** the arrow. 
 
-![Rotate arrow](./media/04.05-oobe.png)
+![Rotate arrow.](./media/04.05-oobe.png)
 
 7. Select the **Inking tool**.
 
@@ -86,19 +86,19 @@ Throughout the tutorial or during the call, technicians may be prompted that the
 
 1. Move your device from **side-to-side** to better detect your surroundings or surfaces.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space](./media/15.png "Map Space")
+![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space.](./media/15.png "Map Space")
 
 2. Move your device **further away**.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move further away](./media/22.png "Far Away")
+![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move further away.](./media/22.png "Far Away")
 
 3. Move your device **closer**.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move closer](./media/23.png "Closer")
+![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move closer.](./media/23.png "Closer")
 
 4. Try **turning on some lights** to brighten dimly lit spaces.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt that light is needed](./media/24.png "More light needed")
+![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt that light is needed.](./media/24.png "More light needed")
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -33,7 +33,7 @@ Use the PC app to complete these tasks:
 
     - 2D media (images and videos)
 
-![PC authoring](media/pc-authoring.PNG "PC authoring")
+![PC authoring.](media/pc-authoring.PNG "PC authoring")
 
 ## What's next?
 

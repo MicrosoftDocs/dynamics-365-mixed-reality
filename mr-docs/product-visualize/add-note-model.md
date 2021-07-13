@@ -23,7 +23,7 @@ ms-reviewer:
 
 5.  Under **Product details**, select **Add note**.
 
-    ![Add note button](media/add-note-button.png "Add note button")
+    ![Add note button.](media/add-note-button.png "Add note button")
 
 6.  To attach a PDF, an image, or a short video, select **Attach file**, and then select the file by using your file browser. 
 
@@ -39,11 +39,11 @@ ms-reviewer:
 
 9.  To add a text message, enter the message in the text field.
 
-    ![Note added](media/note-added.png "Note added")
+    ![Note added.](media/note-added.png "Note added")
 
 10. Select **Submit**. The added note is displayed under **Product details**.
 
-    ![Note submitted](media/note-submitted.png "Note submitted")
+    ![Note submitted.](media/note-submitted.png "Note submitted")
 
 ## Manage notes
 
@@ -57,9 +57,9 @@ After you've added notes to your model, you can edit or delete them.
 
 4.  Under **3D viewer**, select the model that has the note you want to edit or delete.
 
-    - To edit a note, select **Edit note** ![Edit note](media/edit-icon.png "Edit note") beside the corresponding note.
+    - To edit a note, select **Edit note** ![Edit note.](media/edit-icon.png "Edit note") beside the corresponding note.
 
-    - To delete a note, select **Delete note** ![Delete note](media/delete-icon.png "Delete note") beside the corresponding note.
+    - To delete a note, select **Delete note** ![Delete note.](media/delete-icon.png "Delete note") beside the corresponding note.
 
 ### See also
 
