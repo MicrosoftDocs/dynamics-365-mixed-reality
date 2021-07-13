@@ -34,7 +34,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="DOCS URL GOES HERE" target="_blank">Anchor a guide by using Azure Object Anchors</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically align your guide content to real-world objects</a>| No |<a href="DOCS URL GOES HERE" target="_blank">Anchor a guide by using Azure Object Anchors</a>|
 
 ### Bugs fixed
 
