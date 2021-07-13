@@ -14,7 +14,7 @@ You can work offline with a guide on HoloLens 1 or HoloLens 2 (for example, when
 
 You don't need to do anything to set up **Offline** mode. When you open a guide when you're connected to the internet, the guide is automatically downloaded for offline use. If you lose your internet connection or turn off your Wi-Fi connection, the guide will automatically be available and you'll see the **Offline** banner at the top of your screen.
 
-![Offline mode](media/offline-mode.PNG "Offline mode")
+![Offline mode.](media/offline-mode.PNG "Offline mode")
 
 Any guide that's available for offline use will appear under the **All** tab. If no guides are available offline, you'll see this message: 
 
@@ -62,34 +62,34 @@ You can clear the content and settings cached on a HoloLens by resetting it.
 
 1. From the **Start** screen, select **Settings**.
 
-    ![Settings button in Start menu](media/start-menu-cache.PNG "Settings button in Start menu")
+    ![Settings button in Start menu.](media/start-menu-cache.PNG "Settings button in Start menu")
     
 2. Select **System**.
 
-    ![System command selected](media/system-cache.PNG "System command selected")
+    ![System command selected.](media/system-cache.PNG "System command selected")
 
 3. Select **Storage**.
 
-    ![Storage command selected](media/storage-cache.PNG "Storage command selected")
+    ![Storage command selected.](media/storage-cache.PNG "Storage command selected")
     
 4. Select **Show more categories**.
 
-    ![Show more categories command selected](media/show-more-categories-cache.PNG "Show more categories command selected")
+    ![Show more categories command selected.](media/show-more-categories-cache.PNG "Show more categories command selected")
     
     > [!NOTE]
-    > If you don't see the **Show more categories** command, select the storage bar to move to the next step.<br>![Blue Storage bar](media/storage2-cache.PNG "Blue Storage bar")
+    > If you don't see the **Show more categories** command, select the storage bar to move to the next step.<br>![Blue Storage bar.](media/storage2-cache.PNG "Blue Storage bar")
     
 5. Select **Apps & features**.
 
-    ![Apps & features command selected](media/apps-features-cache.PNG "Apps & features command selected")
+    ![Apps & features command selected.](media/apps-features-cache.PNG "Apps & features command selected")
 
 6. Select **Dynamics 365 Guides**, and then select **Advanced options**.
 
-    ![Advanced systems command selected](media/advanced-systems-cache.PNG "Advanced systems command selected")
+    ![Advanced systems command selected.](media/advanced-systems-cache.PNG "Advanced systems command selected")
 
 7. Scroll down on the page, and then select **Reset**.
 
-    ![Reset command selected](media/reset-cache.PNG "Reset command selected")
+    ![Reset command selected.](media/reset-cache.PNG "Reset command selected")
 
 8. In the pop-up message, select **Reset**. A check mark will appear next to the **Reset** button.
 

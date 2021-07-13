@@ -15,7 +15,7 @@ manager: shujoshi
 
 The home page of Dynamics 365 Product Visualize is the **My Active Mixed Reality Sessions** page. Each session typically has multiple products within it, and each product can have multiple 3D models.
 
-![Mixed-reality sessions, products, and 3D models](media/manipulating-3D-models.PNG "Mixed-reality sessions, products, and 3D models")
+![Mixed-reality sessions, products, and 3D models.](media/manipulating-3D-models.PNG "Mixed-reality sessions, products, and 3D models")
 
 ## View (place) a 3D model in mixed reality 
 
@@ -23,17 +23,17 @@ The home page of Dynamics 365 Product Visualize is the **My Active Mixed Reality
 
 2.	Tap a product within that mixed-reality session.
 
-    ![Products screen showing multiple products](media/products-screen.PNG "Products screen showing multiple products")
+    ![Products screen showing multiple products.](media/products-screen.PNG "Products screen showing multiple products")
 
 3.	In a brightly lit environment, point your device down toward a flat surface like the floor or a desk. Move your device around slowly to allow Dynamics 365 Product Visualize to find the surface. After you find a suitable surface, you'll see the model-loading indicator and a message that a surface has been found.
 
     > [!div class=mx-imgBorder]
-    > ![Find a surface](media/preface-find-surface.png "Find a surface")
+    > ![Find a surface.](media/preface-find-surface.png "Find a surface")
 
 4.  To place the model, tap **Place** at the bottom of the screen. The model is placed at the surface.
 
     > [!div class=mx-imgBorder]
-    > ![Place model item](media/model-placed.png "Place model item")
+    > ![Place model item.](media/model-placed.png "Place model item")
     
     > [!TIP]
     > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product dimensions](product-dimensions.md). After enabling the feature, tap **Dimensions** at the bottom of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
@@ -52,7 +52,7 @@ Scaling your model means to increase or decrease the model's size. To scale your
 > - Be careful not to rotate your fingers as you scale, to avoid accidentally rotating the model.
 
 > [!div class=mx-imgBorder]
-> ![Resize a model](media/resize.png "Resize a model")
+> ![Resize a model.](media/resize.png "Resize a model")
 
 ### Rotate your model  
 
@@ -64,7 +64,7 @@ To rotate your model around the vertical axis, use two fingers placed anywhere o
 > - Be careful to keep your fingers the same distance apart as you rotate them, to avoid accidentally scaling the model up or down.
 
 > [!div class=mx-imgBorder]
-> ![Rotate a model](media/rotate.png "Rotate a model")
+> ![Rotate a model.](media/rotate.png "Rotate a model")
 
 ### Move your model
 
@@ -76,7 +76,7 @@ To move your model left or right, away or toward you, just drag it with one fing
 > - Be careful to avoid touching a second finger to the screen while you're trying to move or place your model. If the model is difficult to move or not behaving as expected, check that you aren't touching any other part of the screen at the same time that you perform the manipulation. 
 
 > [!div class=mx-imgBorder]
-> ![Move a model](media/move.png "Move a model")
+> ![Move a model.](media/move.png "Move a model")
 
 ### Lift your model up or down
 
@@ -87,7 +87,7 @@ To lift your model in a vertical direction up or down, use two fingers placed si
 > - Just as with moving your model, it's possible to lift or lower the model so far away that it suddenly appears tiny and difficult to manipulate. Simply use two fingers to drag the model back up or down until it appears to be back where you originally placed it.
 
 > [!div class=mx-imgBorder]
-> ![Lift a model](media/lift.png "Lift a model")
+> ![Lift a model.](media/lift.png "Lift a model")
 
 ## Switch to a different model
 
@@ -96,12 +96,12 @@ After placing a model, you can easily switch to view a different model.
 1.	Tap **Models** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
-    > ![Switch models](media/select-models.png "Switch models")
+    > ![Switch models.](media/select-models.png "Switch models")
  
 2.	Tap the model you want to view.
 
     > [!div class=mx-imgBorder]
-    > ![Models screen](media/3D-models.png "Models screen")
+    > ![Models screen.](media/3D-models.png "Models screen")
  
 3.	Place the model as [described previously](#view-place-a-3d-model-in-mixed-reality). 
 

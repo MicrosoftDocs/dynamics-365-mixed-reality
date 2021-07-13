@@ -14,7 +14,7 @@ After you anchor your guide in the [!include[cc-microsoft](../includes/cc-micros
 
 You and your operators can move through a guide by gazing at the **Next** and **Back** buttons. If you select the **Back** button, it returns you to the most-recently-visited step (similar to a web browser **Back** button). You can also use gestures such as air tap. 
 
-![Moving through a guide](media/navigate-example.PNG "Moving through a guide")
+![Moving through a guide.](media/navigate-example.PNG "Moving through a guide")
 
 > [!TIP]
 > When you switch between the PC app and the HoloLens app, select **Refresh** to make sure that you have the latest version of the guide.
@@ -23,24 +23,24 @@ You and your operators can move through a guide by gazing at the **Next** and **
 
 The following illustration shows the different user interface (UI) elements of the Step card page in the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
-![HoloLens buttons](media/step-card-orientation-2.PNG "HoloLens buttons")
+![HoloLens buttons.](media/step-card-orientation-2.PNG "HoloLens buttons")
 
 Here's what each button or UI element is used for.
 
 | Number | UI element | Name | Purpose |
 |---|---|---|---|
-| 1 | ![Save button](media/save-button.png "Save button") | Save | Save the guide. |
-| 2 | ![Undo button](media/undo-button.png "Undo button") | Undo | Undo the last change. You can undo up to 100 changes. |
-| 3 | ![Redo button](media/redo-button.png "Redo button") | Redo | Redo the last change. You can redo up to 100 changes. |
-| 4 | ![Home button](media/home-button.PNG "Home button") | Home | Select a different guide. |
+| 1 | ![Save button.](media/save-button.png "Save button") | Save | Save the guide. |
+| 2 | ![Undo button.](media/undo-button.png "Undo button") | Undo | Undo the last change. You can undo up to 100 changes. |
+| 3 | ![Redo button.](media/redo-button.png "Redo button") | Redo | Redo the last change. You can redo up to 100 changes. |
+| 4 | ![Home button.](media/home-button.PNG "Home button") | Home | Select a different guide. |
 | 5 | ![Follow Mode button](media/follow-button.PNG "Follow Mode button") | Follow mode | Have the Step card follow you, or lock it to a location.<p>[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a feature that is called **Follow** mode. Wherever you look, the Step card follows your gaze. Therefore, you never have to worry where your instructions are. When you turn off **Follow** mode, the Step card stays where it is. You can move the Step card wherever you want at any time. Just grab it by using the navigation bar.</p> |
 | 6 | ![Anchor button](media/anchor-button.PNG "Anchor button") | Anchor | Re-anchor (realign) your guide.<p>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this issue, you must re-anchor the guide by gazing at the anchor again.</p> |
-| 7 | ![Settings button](media/settings-button.PNG "Settings button") | Settings | Access the following setting:<ul><li>**Build number**. See the build that you're using.</li></ul> |
-| 8 | ![Profile button](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
-| 9 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
-| 10 | ![Step counter](media/step-progress.PNG "Step progress") | Step counter | See what step you're on in the task. |
-| 11 | ![Task name](media/task-name-hololens-app.PNG "Task name") | Task name | The name of the task you're on. |
-| 12 | ![Gem button for dragging a dotted line](media/gem.png "Gem button for dragging a dotted line") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
+| 7 | ![Settings button.](media/settings-button.PNG "Settings button") | Settings | Access the following setting:<ul><li>**Build number**. See the build that you're using.</li></ul> |
+| 8 | ![Profile button.](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
+| 9 | ![Outline button.](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
+| 10 | ![Step counter.](media/step-progress.PNG "Step progress") | Step counter | See what step you're on in the task. |
+| 11 | ![Task name.](media/task-name-hololens-app.PNG "Task name") | Task name | The name of the task you're on. |
+| 12 | ![Gem button for dragging a dotted line.](media/gem.png "Gem button for dragging a dotted line") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
 | 13 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (models) that can be added for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
 
 > [!NOTE]
@@ -54,7 +54,7 @@ After you're oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we
 
 You can add a dotted line to link a Step card to the area where the work is done. Dotted lines are a very simple but powerful feature; they show operators where to focus.
 
-![Holographic dotted line](media/dotted-line.PNG "Holographic dotted line")
+![Holographic dotted line.](media/dotted-line.PNG "Holographic dotted line")
 
 ### Add a dotted line
 
@@ -62,7 +62,7 @@ You can add a dotted line to link a Step card to the area where the work is done
 
 2. Drag it to the real-world location that you want.
 
-    ![Placing a dotted line](media/place-tether.PNG "Placing a dotted line")
+    ![Placing a dotted line.](media/place-tether.PNG "Placing a dotted line")
 
     > [!TIP]
     > Placement isn't exact. Therefore, if you're connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (for example, a number) at the end of the dotted line.
@@ -71,7 +71,7 @@ You can add a dotted line to link a Step card to the area where the work is done
 
 - Select the "X" where the dotted line originates. The gem is restored to the bottom of the Step card.
 
-    ![Remove a dotted line animation](media/remove-dotted-line.gif "Remove a dotted line animation")
+    ![Remove a dotted line animation.](media/remove-dotted-line.gif "Remove a dotted line animation")
 
 ## Place your holograms
 
@@ -95,7 +95,7 @@ You can place a 3D model from the 3D toolkit in the same way that you place a 3D
 
 2. Air tap a category (for example, **Arrows** or **Hands**), and then air tap the specific 3D model that you want to add.
 
-    ![Categories](media/step-card-hands.PNG "Categories")
+    ![Categories.](media/step-card-hands.PNG "Categories")
 
     The item is added to your bin, and you can then place it in the same way that you place a 3D part.
 
@@ -149,15 +149,15 @@ The following illustrations show how to use the different rotation controls.
 
 **Free rotation**
 
-![Free rotation](media/free-rotation.PNG "Free rotation")
+![Free rotation.](media/free-rotation.PNG "Free rotation")
 
 **Left/right rotation**
 
-![Left/right rotation](media/left-right-rotation.PNG "Left/right rotation")
+![Left/right rotation.](media/left-right-rotation.PNG "Left/right rotation")
 
 **Up/down rotation**
 
-![Up/down rotation](media/up-down-rotation.PNG "Up/down rotation")
+![Up/down rotation.](media/up-down-rotation.PNG "Up/down rotation")
 
 > [!TIP]
 > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can operate the rotation controls with your hands. Pinch one of the available rotation controls with your hand, and rotate the hologram the way that you want. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
@@ -166,7 +166,7 @@ The following illustrations show how to use the different rotation controls.
 
 - Air tap and hold the **Scale Hologram** control, and then move your hand up or down.
 
-    ![Scale Hologram control](media/scale-hologram.png "Scale Hologram control")
+    ![Scale Hologram control.](media/scale-hologram.png "Scale Hologram control")
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can pinch the **Scale Hologram** control with your hand, and then move it up or down to change the size of the hologram.
@@ -184,18 +184,18 @@ To add a style, follow these steps.
 
 2. Select the **Edit Hologram** (pencil) button.
 
-    ![Edit Hologram button](media/edit-hologram.png "Edit Hologram button")
+    ![Edit Hologram button.](media/edit-hologram.png "Edit Hologram button")
 
 3. Select **Styles**.
 
-    ![Styles button](media/edit-styles1.PNG "Styles button")
+    ![Styles button.](media/edit-styles1.PNG "Styles button")
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Styles** and subsequent menu items directly with your finger. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
 
 4. Select the style that you want to use.
 
-    ![List of styles](media/styles.png "List of styles")
+    ![List of styles.](media/styles.png "List of styles")
 
 Here's a list of the styles that are included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] and information about when to use each.
 
@@ -211,7 +211,7 @@ Here's a list of the styles that are included in [!include[pn-dyn-365-guides](..
 | X-ray | Show things that occur inside something. | A pulse that appears through it |
 | Metal | Provide a realistic metal finish for an object. | Metallic |
 
-![All styles](media/all-styles.PNG "All styles")
+![All styles.](media/all-styles.PNG "All styles")
 
 ### Best practices for styles
 
@@ -229,11 +229,11 @@ To duplicate a model, follow these steps.
 
 2. Air tap the **Edit Hologram** (pencil) button.
 
-    ![Edit Hologram button](media/edit-hologram.png "Edit Hologram button")
+    ![Edit Hologram button.](media/edit-hologram.png "Edit Hologram button")
 
 3. Select **Duplicate**.
 
-    ![Duplicate button](media/edit-duplicates1.PNG "Duplicate button")
+    ![Duplicate button.](media/edit-duplicates1.PNG "Duplicate button")
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Duplicate** directly with your finger. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
@@ -248,11 +248,11 @@ To replicate the 3D position properties (position, orientation, and scale) of a 
 
 2. Select the **Edit Hologram** (pencil) button.
 
-    ![Edit Hologram button](media/edit-hologram.png "Edit Hologram button")
+    ![Edit Hologram button.](media/edit-hologram.png "Edit Hologram button")
  
 3. Select **Copy 3D position**. 
  
-    ![Copy 3D position command](media/copy-3D-position.PNG "Copy 3D position command")
+    ![Copy 3D position command.](media/copy-3D-position.PNG "Copy 3D position command")
 
     > [!TIP]
     > The 3D position parameters are copied to the Clipboard so you can paste them as many times as you want in the same or a different step or guide. The Clipboard is cleared when you close the HoloLens app.
@@ -261,7 +261,7 @@ To replicate the 3D position properties (position, orientation, and scale) of a 
 
 5. Select the **Edit Hologram** button again, and then select **Paste 3D position**.
 
-    ![Paste 3D position command](media/paste-3D-position.PNG "Paste 3D position command")
+    ![Paste 3D position command.](media/paste-3D-position.PNG "Paste 3D position command")
  
 > [!TIP]
 > You can also use voice commands (say **copy 3D position** and **paste 3D position**) at any time to speed up the process. [See a full list of voice commands that you can use in the HoloLens app](voice-commands.md).
@@ -274,7 +274,7 @@ The reference point used by **Copy 3D position** is the pivot point of the objec
 
 If you're using animated 3D models in your guide, you can turn off animation if you plan to show a model with the animation in one step but without the animation in another step. This option is available from the **Edit** menu when you select the model.
 
-![Animation option turned off](media/edit-animations1.PNG "Animation option turned off")
+![Animation option turned off.](media/edit-animations1.PNG "Animation option turned off")
 
 You can also use this option when you place animated models in space. Turn animation off, place the model, and then turn animation back on. In this way, the animation won't interfere with your ability to place the model.
 

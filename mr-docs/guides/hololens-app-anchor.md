@@ -18,15 +18,15 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 2. On the **Scan QR Code Anchor** page, select **Initiate Scan**.
 
-    ![Initiate Scan button on the Scan QR Code Anchor page](media/qr-code-scan.PNG "Initiate Scan button on the Scan QR Code Anchor page")
+    ![Initiate Scan button on the Scan QR Code Anchor page.](media/qr-code-scan.PNG "Initiate Scan button on the Scan QR Code Anchor page")
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the QR code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
-    ![Aligning with the QR code anchor](media/qr-code-green-outline.PNG "Aligning with the QR code anchor")
+    ![Aligning with the QR code anchor.](media/qr-code-green-outline.PNG "Aligning with the QR code anchor")
 
 4. On the **QR Code Anchor Found** page, select **Confirm**.
 
-    ![Confirm button on the QR Code Anchor Found page](media/qr-code-confirm.PNG "Confirm button on the QR Code Anchor Found page")
+    ![Confirm button on the QR Code Anchor Found page.](media/qr-code-confirm.PNG "Confirm button on the QR Code Anchor Found page")
     
     >[!TIP]
     >You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using a QR code anchor, a good way to control hologram offset is to make sure the green outline aligns with the QR code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
@@ -37,19 +37,19 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 2. On the **Scan Circular Code Anchor** page, select **Initiate Scan**.
 
-    ![Initiate Scan button on the Scan Circular Code Anchor page](media/circular-code-scan.PNG "Initiate Scan button on the Scan Circular Code Anchor page")
+    ![Initiate Scan button on the Scan Circular Code Anchor page.](media/circular-code-scan.PNG "Initiate Scan button on the Scan Circular Code Anchor page")
 
     On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a holographic image that looks like the following illustration.
 
-    ![Holographic image of circular code](media/circular-code-hologram.PNG "Holographic image of circular code")
+    ![Holographic image of circular code.](media/circular-code-hologram.PNG "Holographic image of circular code")
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the circular code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
-    ![Aligning with the circular code anchor](media/circular-code-green-outline.PNG "Aligning with the circular code anchor")
+    ![Aligning with the circular code anchor.](media/circular-code-green-outline.PNG "Aligning with the circular code anchor")
 
 4. On the **Circular Code Anchor Found** page, select **Confirm**.
 
-    ![Confirm button on the Circular Code Anchor Found page](media/circular-code-confirm.PNG "Confirm button on the Circular Code Anchor Found page")
+    ![Confirm button on the Circular Code Anchor Found page.](media/circular-code-confirm.PNG "Confirm button on the Circular Code Anchor Found page")
     
     >[!TIP]
     >You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using a circular code anchor, a good way to control hologram offset is to make sure the green outline aligns with the circular code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
@@ -58,7 +58,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 - Use air tap and hold to move the holographic anchor and align it to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres. On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a digital anchor when you author a guide.
 
-    ![Rotating a holographic anchor](media/rotate-digital-anchor.PNG "Rotating a holographic anchor")
+    ![Rotating a holographic anchor.](media/rotate-digital-anchor.PNG "Rotating a holographic anchor")
 
     >[!TIP]
     >You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using a holographic anchor, select the **Anchor** button to make sure the digital version of the real object and the object itself are still aligned. 

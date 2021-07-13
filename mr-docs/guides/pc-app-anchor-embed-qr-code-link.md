@@ -19,11 +19,11 @@ An operator can access the QR code in two different ways:
 launch a guide quickly by gazing at a contextual printed QR code attached to the area where they need to do their work, and anchor their holographic content 
 to the same QR code.
 
-    ![Example of printed QR code](media/embed-qr-code-printed.PNG "Example of printed QR code")
+    ![Example of printed QR code.](media/embed-qr-code-printed.PNG "Example of printed QR code")
     
 - **Digital QR code**. Operators can use a digital QR code to open a guide without anchoring the guide. Using a digital QR code is useful if you want to assign a guide to digital work instructions, or if you need a quick way for an operator to launch a guide when they don't have access to a printed QR code. For example, you could use a digital QR code to include Dynamics 365 Guides in the flow of your existing online/web training modules.
 
-    ![Example of digital QR code](media/embed-qr-code-digital.PNG "Example of digital QR code")
+    ![Example of digital QR code.](media/embed-qr-code-digital.PNG "Example of digital QR code")
 
     > [!NOTE]
     > With digital QR codes, authors must provide another anchoring method for operators to align their holograms.      
@@ -32,7 +32,7 @@ to the same QR code.
 
 1. Create a guide link by right-clicking a guide and selecting **Copy link to this guide**.
 
-    ![Screenshot with Copy link to this guide highlighted](media/copy-guide-link.PNG "Screenshot with Copy link to this guide highlighted")
+    ![Screenshot with Copy link to this guide highlighted.](media/copy-guide-link.PNG "Screenshot with Copy link to this guide highlighted")
     
     > [!NOTE] 
     > You can also [copy a link to a step within a guide](pc-app-copy-link-guide-step.md).

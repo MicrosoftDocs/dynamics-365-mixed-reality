@@ -19,7 +19,7 @@ From the **Home** page in the PC app, you can rename a guide that was created in
     > [!NOTE]
     > If you recently opened the guide, it should appear on the **Recent** tab. Otherwise, select the **All** tab to view the complete list of guides.
 
-   ![Rename command](media/rename-guide.PNG "Rename command")
+   ![Rename command.](media/rename-guide.PNG "Rename command")
 
 3. In the **Rename guide** dialog box, enter the new name, and then select **OK**. The names of Dynamics 365 Guides files have a limit of 58 characters.
 

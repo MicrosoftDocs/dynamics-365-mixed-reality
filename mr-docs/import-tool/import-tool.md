@@ -14,7 +14,7 @@ robots: noindex, nofollow
 Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models to use in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications. 
 
 > [!div class="mx-imgBorder"]
-> ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
+> ![Import Tool flow.](media/import-tool-flow.PNG "Import Tool flow") 
 
 Before you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], you need to convert and optimize your models. For more information, see these topics:
 
@@ -38,7 +38,7 @@ Before you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-impo
 3D models sometimes reference other files in your file system, such as textures and materials files. Your imported 3D model might not look correct if Dynamics 365 Import Tool (Preview) can’t access these files, in which case, you might see this error dialog box:
 
 > [!div class="mx-imgBorder"]
-> ![File access errors dialog box](media/file-access-errors.PNG "File access errors dialog box") 
+> ![File access errors dialog box.](media/file-access-errors.PNG "File access errors dialog box") 
 
 There are two primary reasons why Dynamics 365 Import Tool (Preview) might not have access to these files:
 
@@ -55,7 +55,7 @@ Files created with [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-impo
 2.	Right-click a model, and then select **Open file location**.
 
     > [!div class="mx-imgBorder"]
-    > ![Locate model](media/locate-model.PNG "Locate model")
+    > ![Locate model.](media/locate-model.PNG "Locate model")
 
 ## Provide feedback on the quality of processed 3D models
 
@@ -66,7 +66,7 @@ You can provide feedback on the quality of processed 3D models if you're not sat
 2.	At the bottom of the **Properties** tab, under **How does the model look?**, select **Looks good** or **Looks broken** to record your feedback.
 
     > [!div class="mx-imgBorder"]
-    > ![Provide feedback](media/feedback.PNG "Provide feedback") 
+    > ![Provide feedback.](media/feedback.PNG "Provide feedback") 
 
     > [!NOTE] 
     > You can't update feedback after you submit it.

@@ -16,7 +16,7 @@ manager: shujoshi
 
 2.  In the left pane, select **3D product catalog**.
 
-    ![Select 3D Product Catalog from the left pane](media/product-catalog-nav.png "Select 3D Product Catalog from the left pane")
+    ![Select 3D Product Catalog from the left pane.](media/product-catalog-nav.png "Select 3D Product Catalog from the left pane")
 
 3.  On the toolbar at the top of the page, select **New**.
 
@@ -24,7 +24,7 @@ manager: shujoshi
 
 5.  Select **Save**.
 
-    ![Product added](media/product-added.png "Product added")
+    ![Product added.](media/product-added.png "Product added")
 
 ### See also
 

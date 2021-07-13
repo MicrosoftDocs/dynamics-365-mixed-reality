@@ -53,8 +53,8 @@ If you'd like to see the button labels after they disappear:
 
 You have many options for communicating with remote collaborators. Everyone in the call can:
 
-- Annotate your world with arrows with this icon ![Graphic showing the annotate with arrows icon](media/RAHL_Arrow.png "Arrow").
-- Annotate your world with drawings with this icon ![Graphic showing the pencil or ink icon](media/RAHL_Ink.png "Ink").
+- Annotate your world with arrows with this icon ![Graphic showing the annotate with arrows icon.](media/RAHL_Arrow.png "Arrow").
+- Annotate your world with drawings with this icon ![Graphic showing the pencil or ink icon.](media/RAHL_Ink.png "Ink").
 - Change annotation colors with this icon ![Graphic showing the colors icon.](media/RAHL_Color.png "Colors").
 - Undo their actions with this icon ![Graphic showing the undo icon.](media/RAHL_Undo.png "Undo").
 - Delete all their annotations with this icon ![Graphic showing the delete icon.](media/RAHL_Trash.png "Delete").
@@ -62,7 +62,7 @@ You have many options for communicating with remote collaborators. Everyone in t
 
 You can also take a photo of what you see using the Camera icon, as seen here: ![Graphic showing the camera icon.](media/RAHL_Camera.png "Camera").
 
-Finally, place the call window wherever you want in your world by toggling **Pin** and **Unpin** ![Pin](media/RAHL_Pin.png "Pin").
+Finally, place the call window wherever you want in your world by toggling **Pin** and **Unpin** ![Pin.](media/RAHL_Pin.png "Pin").
 
 Dynamics 365 Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Dynamics 365 Remote Assist in [our FAQs](faq-hololens.md).
 

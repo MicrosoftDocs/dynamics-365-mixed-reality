@@ -21,22 +21,22 @@ To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, 
 
 - **Touch**. With [!include[pn-hololens](../includes/pn-hololens.md)] 2 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can reach out and touch or grab holograms. This approach is the easiest and most intuitive way to author guides. As the following animation shows, when [!include[pn-hololens](../includes/pn-hololens.md)] sees your hand, a floating pointer (similar to a mouse pointer) appears near the tip of your index finger to help you target elements.
 
-    ![Touch dwell animation](media/touch-dwell-animation.gif "Touch dwell animation")
+    ![Touch dwell animation.](media/touch-dwell-animation.gif "Touch dwell animation")
 
     > [!IMPORTANT]
     > Use touch interaction to work with parts that you've placed in the world. In [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], instruction cards (Step cards) are meant to be kept out of the way so that they are out of reach for touch interaction.
 
 - **Hand ray**. To use a hand ray, hold your hand in front of you, with your palm facing away. A laser pointer (hand ray) appears. After you target an item with your hand ray, you can act on that target in different ways, as described later in this topic.
 
-    ![Hand ray example](media/hand-rays-example.PNG "Hand ray example")
+    ![Hand ray example.](media/hand-rays-example.PNG "Hand ray example")
 
 - **Gaze**. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. Often, you will use gaze and air tap together. When you gaze, turn your whole head, not just your eyes. The pointer will follow.
 
-    ![Gaze animation](media/gaze-animation.gif "Gaze animation")
+    ![Gaze animation.](media/gaze-animation.gif "Gaze animation")
 
 - **Air tap**. Hold your hand straight out in front of you in a loose fist, point your index finger straight up toward the ceiling, tap your finger down, and then quickly raise it back up again.
 
-    ![Air tap animation](media/air-tap-animation.gif "Air tap animation")
+    ![Air tap animation.](media/air-tap-animation.gif "Air tap animation")
 
 - **Air tap and hold**. Start by air tapping, but keep your finger down instead of raising it back up.
 
@@ -56,13 +56,13 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 
 - Touch the hologram with your index finger. The controls will appear.
 
-    ![Touch dwell animation](media/touch-dwell-animation.gif "Touch dwell animation")
+    ![Touch dwell animation.](media/touch-dwell-animation.gif "Touch dwell animation")
 
 ### Move a hologram
 
 - Grab the large white sphere in the center of the controls with your hands, and move it where you want. The sphere will light up based on where your index finger is in relation to it.
 
-    ![Move a hologram by using touch](media/touch-move.gif "Move a hologram by using touch")
+    ![Move a hologram by using touch.](media/touch-move.gif "Move a hologram by using touch")
 
 ### Rotate a hologram
 
@@ -70,27 +70,27 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 
     **Left/right rotation**
 
-    ![Rotate right by using touch](media/touch-rotate-right.gif "Rotate right by using touch")
+    ![Rotate right by using touch.](media/touch-rotate-right.gif "Rotate right by using touch")
 
     **Up/down rotation**
 
-    ![Rotate up and down by using touch](media/touch-rotate-up-down.gif "Rotate up and down by using touch")
+    ![Rotate up and down by using touch.](media/touch-rotate-up-down.gif "Rotate up and down by using touch")
 
     **Free rotation**
 
-    ![Free rotate by using touch](media/touch-free-rotate.gif "Free rotate by using touch")
+    ![Free rotate by using touch.](media/touch-free-rotate.gif "Free rotate by using touch")
 
 ### Change the size of a hologram
 
 - Pinch the blue dial (**Scale** control) on the right side of the part. A slider track appears above and below the **Scale** control to show scaling up or down.
 
-    ![Change the size by using touch](media/touch-scale-hologram.gif "Change the size by using touch")
+    ![Change the size by using touch.](media/touch-scale-hologram.gif "Change the size by using touch")
 
 ### Edit a hologram
 
 - Touch the **Edit hologram** button with your finger, and then touch the command that you want.
 
-    ![Edit a hologram by using touch](media/touch-edit-menu.gif "Edit a hologram by using touch")
+    ![Edit a hologram by using touch.](media/touch-edit-menu.gif "Edit a hologram by using touch")
 
 ## Work with far-away UI elements and holograms by using hand rays and gaze
 
@@ -109,37 +109,37 @@ You can use hand rays to work with UI elements and holograms from a distance. Yo
 
     - If there is a selection box or circle, hold your hand ray on it until it's selected.
 
-        ![Hand ray dwell on an instruction card animation](media/hand-ray-dwell-instruction-card-animation.gif "Hand ray dwell on an instruction card animation")
+        ![Hand ray dwell on an instruction card animation.](media/hand-ray-dwell-instruction-card-animation.gif "Hand ray dwell on an instruction card animation")
 
 ### Manipulate a hologram by using a hand ray
 
 1. Point your hand ray at the object to target it. Controls appear around the hologram.
 
-    ![Hand ray dwell animation](media/hand-ray-dwell-animation.gif "Hand ray dwell animation")
+    ![Hand ray dwell animation.](media/hand-ray-dwell-animation.gif "Hand ray dwell animation")
 
 2. Follow one of these steps:
 
     - To move the hologram, air tap and hold the hand ray, move the hologram where you want it, and then release.
 
-        ![Hand ray move animation](media/hand-ray-move-animation.gif "Hand ray move animation")
+        ![Hand ray move animation.](media/hand-ray-move-animation.gif "Hand ray move animation")
 
     - To rotate the hologram, air tap and hold one of the blue spheres, rotate the hologram, and then release.
 
         **Left/right rotation**
 
-        ![Hand ray rotate left or right animation](media/hand-ray-rotate-left-right-animation.gif "Hand ray rotate left or right animation")
+        ![Hand ray rotate left or right animation.](media/hand-ray-rotate-left-right-animation.gif "Hand ray rotate left or right animation")
 
         **Free rotation**
 
-        ![Hand ray free rotate animation](media/hand-ray-free-rotate-animation.gif "Hand ray free rotate animation")
+        ![Hand ray free rotate animation.](media/hand-ray-free-rotate-animation.gif "Hand ray free rotate animation")
 
     - To change the size of a hologram, air tap and hold the **Scale** control. While you hold the control, move it up or down along the slider track.
 
-        ![Hand ray scale animation](media/hand-ray-scale-animation.gif "Hand ray scale animation")
+        ![Hand ray scale animation.](media/hand-ray-scale-animation.gif "Hand ray scale animation")
 
     - To edit the hologram, air tap the **Edit** button, and then air tap the selections that you want.
 
-        ![Hand ray edit a hologram animation](media/hand-ray-edit-hologram-animation.gif "Hand ray edit a hologram animation")
+        ![Hand ray edit a hologram animation.](media/hand-ray-edit-hologram-animation.gif "Hand ray edit a hologram animation")
 
 ### Select an item on the instruction card by using gaze
 
@@ -147,7 +147,7 @@ You can use hand rays to work with UI elements and holograms from a distance. Yo
 
 2. Continue to gaze until the button is filled.
 
-    ![Gaze animation](media/gaze-animation.gif "Gaze animation")
+    ![Gaze animation.](media/gaze-animation.gif "Gaze animation")
 
 ## Open the Start menu
 
@@ -165,7 +165,7 @@ On HoloLens 2, you can use either one hand or two hands to open the **Start** me
 
 2. With the index finger of your other hand, touch the Windows logo.
 
-    ![Video camera graphic](media/video-camera.PNG) [Watch a video about opening the Start menu with two hands](https://www.microsoft.com/videoplayer/embed/RE3Wxng)
+    ![Video camera graphic.](media/video-camera.PNG) [Watch a video about opening the Start menu with two hands](https://www.microsoft.com/videoplayer/embed/RE3Wxng)
 
 ## Need a tutorial on gestures?
 

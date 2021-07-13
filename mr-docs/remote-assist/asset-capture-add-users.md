@@ -59,11 +59,11 @@ More information: [Assign licenses to users](/microsoft-365/admin/manage/assign-
 
 3. Select the environment that you want to work with, select the **More environment actions** (**...**) button, and then select **Settings**.
 
-    ![Settings command](media/power-platform-environment-settings.PNG "Settings command")
+    ![Settings command.](media/power-platform-environment-settings.PNG "Settings command")
 
 4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics 365, be sure to use your admin credentials.
 
-    ![Users command selected](media/user-permissions-users.PNG "Users command selected")
+    ![Users command selected.](media/user-permissions-users.PNG "Users command selected")
     
 5. Follow one of these steps:
 
@@ -76,15 +76,15 @@ More information: [Assign licenses to users](/microsoft-365/admin/manage/assign-
     
 6. Select **Manage users in Dynamics 365** at the top of the page. 
 
-   ![Manage users in Dynamics 365 command](media/manage-user-roles.PNG "Manage users in Dynamics 365 command")
+   ![Manage users in Dynamics 365 command.](media/manage-user-roles.PNG "Manage users in Dynamics 365 command")
 
 7. Select one or more users, and then select **Manage Roles** at the top of the page.
 
-    ![Manage Roles button](media/manage-roles.PNG "Manage Roles button")
+    ![Manage Roles button.](media/manage-roles.PNG "Manage Roles button")
 
 8. In the **Manage User Roles** dialog box, select the **Basic User** check box.
 
-    ![Basic User check box](media/basic-user.PNG "Basic User check box")
+    ![Basic User check box.](media/basic-user.PNG "Basic User check box")
     
     > [!NOTE]
     > You may see a **Common Data Service** check box instead of a **Basic User** check box. If so, select that check box. 
@@ -97,7 +97,7 @@ More information: [Assign licenses to users](/microsoft-365/admin/manage/assign-
 
 If users don't appear on the **Security** page (**Dynamics 365** \> **Settings** \> **Security**), in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. This operation triggers synchronization, so the user is added to the instance within a few minutes.
 
-![Adding a user in Power Platform admin center](media/add-users-troubleshooting.PNG "Adding a user in Power Platform admin center")
+![Adding a user in Power Platform admin center.](media/add-users-troubleshooting.PNG "Adding a user in Power Platform admin center")
 
 ## Manage app roles
 
@@ -108,7 +108,7 @@ Security roles must be assigned to apps to ensure that users who have those role
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 
-2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select !["More environment actions"](./media/ellipsis.png "More environment actions").
+2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select !["More environment actions."](./media/ellipsis.png "More environment actions").
 
 3. Select **Open environment**.
 
@@ -122,7 +122,7 @@ Security roles must be assigned to apps to ensure that users who have those role
 
 6. In the right side panel, select the **Remote Assist - Administrator** and **Remote Assist - App User** roles from the list, and then select **Save**.
 
-    :::image type="content" source="media/06.26-d365-settings-manage-roles-set.png" alt-text="Screenshot of Dynamics 365 assigning app role":::
+    :::image type="content" source="media/06.26-d365-settings-manage-roles-set.png" alt-text="Screenshot of Dynamics 365 assigning app role.":::
 
 ## Selecting the right environment from the client app
 
@@ -132,21 +132,21 @@ After end users have been assigned licenses and security roles, they must also s
 
 1. Go to the **Settings** menu and select the **Dynamics 365 environment**.
 
-    :::image type="content" source="media/HololensSettingsEnvironmentSelection01.png" alt-text="Remote Assist settings in the HoloLens":::
+    :::image type="content" source="media/HololensSettingsEnvironmentSelection01.png" alt-text="Remote Assist settings in the HoloLens.":::
 
 2. You'll see a list of environments with either Dynamics 365 Remote Assist or Dynamics 365 Field Service (or both) installed. To use Dynamics 365 Remote Assist related features, such as [asset capture](./asset-capture-photos.md) and the [Calls dashboard](./calls-dashboard.md), you'll need to select an environment with Dynamics 365 Remote Assist installed. To update [Field Service bookings](./update-field-service-booking-hololens.md), you'll need to select an environment with Dynamics 365 Field Service installed.
 
-    :::image type="content" source="media/HololensSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu on the HoloLens":::
+    :::image type="content" source="media/HololensSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu on the HoloLens.":::
 
 ### Select the right environment on Android or iOS
 
 1. Go to the **Settings** menu and select the **Dynamics 365 environment**.
 
-    :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection01.png" alt-text="Remote Assist settings in the Mobile app":::
+    :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection01.png" alt-text="Remote Assist settings in the Mobile app.":::
 
 2. You'll see a list of environments. To use Dynamics 365 Remote Assist related features, such as [asset capture](./asset-capture-photos.md) and the [Calls dashboard](./calls-dashboard.md), you'll need to select an environment with Dynamics 365 Remote Assist installed. Select **Confirm** after selecting the right environment.
 
-    :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu in the Mobile app":::
+    :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu in the Mobile app.":::
 
 ## Next steps
 

@@ -82,7 +82,7 @@ Tap and hold the blue outline, and move it up or down until it exactly overlaps 
  
 As the following illustration shows, the media panel visually indicates what you must do.
 
-![Adjusting the offset of the circular code anchor](media/adjust-marker-offset.png "Adjusting the offset of the circular code anchor")
+![Adjusting the offset of the circular code anchor.](media/adjust-marker-offset.png "Adjusting the offset of the circular code anchor")
 
 After you've verified that the blue outline and the anchor are aligned, select **Confirm** to complete the process. 
 

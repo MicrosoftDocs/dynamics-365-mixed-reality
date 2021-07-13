@@ -33,11 +33,11 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 2. In the left pane, select **Users** \> **Active users**, and then select **Add a user** to open the **Add user** wizard.
 
-    ![Add a user](media/add-user-3.PNG "Add a user")
+    ![Add a user.](media/add-user-3.PNG "Add a user")
 
 3. On the **Set up the basics** page, enter the user's first name, last name, display name, and user name.
 
-    ![Set up the basics page with user details](media/set-up-basics.PNG "Set up the basics page with user details")
+    ![Set up the basics page with user details.](media/set-up-basics.PNG "Set up the basics page with user details")
 
 4. Under **Password settings**, follow these steps:
 
@@ -51,7 +51,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 5. On the **Assign product licenses** page, select a location, select the **Dynamics 365 Guides** check box if it isn't already selected, and then select **Next**.
 
-    ![Dynamics 365 Guides check box](media/guides-check-box.PNG "Dynamics 365 Guides check box")
+    ![Dynamics 365 Guides check box.](media/guides-check-box.PNG "Dynamics 365 Guides check box")
 
 6. On the **Optional settings** page, add any roles or profile information that you want to add, and then select **Next**.
 
@@ -64,56 +64,56 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **Groups** \> **Groups**, and then select **Add a group** to open the **Add group** wizard.
 
-    ![Add a group](media/add-group-command.PNG "Add a group")
+    ![Add a group.](media/add-group-command.PNG "Add a group")
 
 2. On the **Choose a group type** page, select **Security**, and then select **Next**.
 
-    ![Choose a group type page](media/choose-group-type.PNG "Choose a group type page")
+    ![Choose a group type page.](media/choose-group-type.PNG "Choose a group type page")
 
 3. On the **Set up the basics** page, enter a name and description for the group, and then select **Next**.
 
-    ![Set up the basics page with group name](media/set-up-basics-2.PNG "Set up the basics page with group name")
+    ![Set up the basics page with group name.](media/set-up-basics-2.PNG "Set up the basics page with group name")
 
 4. On the **Review and finish adding group** page, review your changes, select **Create group**, and then, on the next page, select **Close** to close the wizard.
 
-    ![Review and finish adding group page](media/review-group.PNG "Review and finish adding group page")
+    ![Review and finish adding group page.](media/review-group.PNG "Review and finish adding group page")
 
 5. On the **Groups** page, select **Refresh** if you don't see your new group.
 
 6. Select the group that you created, and then, in the pane that appears on the right, select the **Members** tab.
 
-    ![Members tab](media/members-tab.PNG "Members tab")
+    ![Members tab.](media/members-tab.PNG "Members tab")
 
 7. On the **Members** tab, select **View all and manage owners**.
 
-    ![View all and manage members button](media/view-members.PNG "View all and manage members button")
+    ![View all and manage members button.](media/view-members.PNG "View all and manage members button")
 
 8. In the dialog box that appears, select **Add members**.
 
-    ![Add members button](media/add-members-2.PNG "Add members button")
+    ![Add members button.](media/add-members-2.PNG "Add members button")
 
 9. Select the users to add to the security group, select **Save**, and then select **Close** two times to return to the **Groups** page.
 
 > [!NOTE]
 > To remove users from a security group, repeat this procedure, but select the **X** next to any member that you want to remove.
 >
-> ![Remove a member](media/remove-members-2.PNG "Remove a member")
+> ![Remove a member.](media/remove-members-2.PNG "Remove a member")
 
 ## Associate a security group with an environment
 
 1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **All admin centers**, and then select **Power Apps**.
 
-    ![Open the Dynamics 365 admin center](media/all-admin-centers.PNG "Open the Dynamics 365 admin center")
+    ![Open the Dynamics 365 admin center.](media/all-admin-centers.PNG "Open the Dynamics 365 admin center")
 
 2. In the **Environments** page, select the environment to edit by clicking the environment name.  
 
 3. In the Power Platform admin center, in the **Details** section, select **Edit**.
 
-    ![Edit button in Power Platform admin center](media/security-groups-edit-details.PNG "Edit button in Power Platform admin center")
+    ![Edit button in Power Platform admin center.](media/security-groups-edit-details.PNG "Edit button in Power Platform admin center")
 
 4. In the **Edit details** pane, select the pencil button, select the security group, and then select **Save**.
 
-    ![Pencil button on Edit details tab](media/security-groups-select-group.PNG "Pencil button on Edit details tab")
+    ![Pencil button on Edit details tab.](media/security-groups-select-group.PNG "Pencil button on Edit details tab")
 
 ## Additional information about security groups
 

@@ -26,7 +26,7 @@ Both the Guides Analytics Template and Guides Analytics Demo files contain both 
 
 The Guides Usage report provides an overview of all the guides used in your organization. The following graphic illustrates the parts of the report.
 
-![Guides Usage report](media/guides-usage-report.PNG "Guides Usage report") 
+![Guides Usage report.](media/guides-usage-report.PNG "Guides Usage report") 
  
 1.	Which guides are included in the report?
 
@@ -75,7 +75,7 @@ step visits not being correctly recorded or the guide session being interrupted.
 
 Use the Process Time-Tracking report to analyze step-level run-time data for a single guide. The following graphic illustrates the parts of the report.
 
-![Process Time-Tracking report](media/process-time-tracking-report.PNG "Process Time-Tracking report")
+![Process Time-Tracking report.](media/process-time-tracking-report.PNG "Process Time-Tracking report")
  
 1.	Which guides are included in the report?
 
@@ -120,7 +120,7 @@ Use the Process Time-Tracking report to analyze step-level run-time data for a s
     variability in time. If a step is visited multiple times in the same session, the sum of the step visit times is displayed. Each guide session is shown in a separate 
     color. Sessions may have the same color if there are many sessions displayed. 
     
-    ![Dot plot showing how long each step takes](media/process-time-tracking-report-session-time.PNG "Dot plot showing how long each step takes")   
+    ![Dot plot showing how long each step takes.](media/process-time-tracking-report-session-time.PNG "Dot plot showing how long each step takes")   
     
     > [!TIP]
     > - Use drill up/drill down. By default, this chart shows the time per step. However, you can use Power BI’s drill-up functionality to summarize time at the task level. [Learn more about how to use Drill mode in a Power BI visual](/power-bi/consumer/end-user-drill).

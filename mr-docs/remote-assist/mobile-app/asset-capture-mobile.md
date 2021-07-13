@@ -36,16 +36,16 @@ Select the **Assets** tab. The list of assets entered through the Dynamics 365 R
 ### Capture photos or videos with spatial markup
 
 1. On the **Assets** tab, select an asset from the list. You can also use the search icon at the top of the app.\
-![Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile](./media/08.01-assets-list.png "Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile")
+![Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile.](./media/08.01-assets-list.png "Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile")
 
 2. Once you have selected an asset, you will a list of previously captured photos or videos associated with that asset. You can click on any of the captures to view photos or playback videos. You can also delete the captures form this list view. To record a new capture, click on the camera tool towards the bottom.\
-![Asset media list in Dynamics 365 Remote Assist Mobile](./media/08.07-asset-media.png "Asset media list in Dynamics 365 Remote Assist Mobile")
+![Asset media list in Dynamics 365 Remote Assist Mobile.](./media/08.07-asset-media.png "Asset media list in Dynamics 365 Remote Assist Mobile")
 
 3. While recording a new capture, you can use ink or arrow tools to mark up the asset in your environment. For example, you can circle an area of defect on an asset. When you're done annotating, you can tap on the capture button to take a photo capture of the asset, which will include the mixed-reality annotations you added.\
-![Take photo capture in Dynamics 365 Remote Assist Mobile](./media/08.15-asset-capture-photo-mr.png "Take photo capture in Dynamics 365 Remote Assist Mobile")
+![Take photo capture in Dynamics 365 Remote Assist Mobile.](./media/08.15-asset-capture-photo-mr.png "Take photo capture in Dynamics 365 Remote Assist Mobile")
 
 4. You can also switch to the video capture view, and tap the capture button to initiate video recording. The capture button will change and show a countdown timer from the maximum video length available. You can add further mixed reality mark-up during the video capture. Tap the capture button again to stop recording.\
-![Take video capture in Dynamics 365 Remote Assist Mobile](./media/08.18-asset-capture-video-mr-recording.png "Take video capture in Dynamics 365 Remote Assist Mobile")
+![Take video capture in Dynamics 365 Remote Assist Mobile.](./media/08.18-asset-capture-video-mr-recording.png "Take video capture in Dynamics 365 Remote Assist Mobile")
 
 > [!NOTE]
 > Captured photos and videos are saved both locally to the Mobile device and to Common Data Service, where they're viewable from the Dynamics 365 Remote Assist model-driven app.

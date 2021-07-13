@@ -15,7 +15,7 @@ ms.custom: "intro-internal"
 
 Steps are the central building block for creating a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. After you create the [structure for your guide in the **Outline** page](structure-guide.md), you use the Step Editor to add instructional text and 3D models or media to support those steps. The instructions that you create in the what-you-see-is-what-you-get (WYSIWYG) Step Editor match what the operator will see on the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following illustration shows the Step Editor in the PC app and the Step card that the user sees on [!include[pn-hololens](../includes/pn-hololens.md)].
 
-![Step Editor and Step card](media/step-editor-step-card.PNG "Step Editor and Step card")
+![Step Editor and Step card.](media/step-editor-step-card.PNG "Step Editor and Step card")
 
 ## Open the Step Editor and add instructions
 
@@ -23,11 +23,11 @@ You open the **Step Editor** page from the **Outline** page.
 
 1. Select any step in the **Outline** page, or select **Step** in the left navigation.
 
-    ![Step on the Outline page and Step command in the left navigation](media/left-nav-step.PNG "Step on the Outline page and Step command in the left navigation")
+    ![Step on the Outline page and Step command in the left navigation.](media/left-nav-step.PNG "Step on the Outline page and Step command in the left navigation")
 
 2. Enter your instructional text in the blue rectangle in the middle of the page.
 
-    ![Step Editor](media/step-editor.PNG "Step Editor")
+    ![Step Editor.](media/step-editor.PNG "Step Editor")
 
 3. When you're ready to add another step, select **Add step** in the upper-right corner of the page.
 
@@ -50,11 +50,11 @@ Use the buttons in the navigation pane on the left side of the **Step Editor** p
 
 | Button | Name | Action |
 |---|---|---|
-| ![Open Navigation button](media/open-navigation-button.png "Open Navigation button") | Open Navigation | Expand the navigation pane so that it includes a description for each button. |
-| ![Home button](media/home-button-pc-app.png "Home button") | Home | Go to the **Welcome** page, where you can create a new guide or open an existing guide. |
-| ![Analyze button](media/analyze-button-pc-app.png "Analyze button") | Analyze | Go to the **Analyze** page, where you can set up Microsoft Power BI reports (Guides Analytics) to analyze your guides. |
-| ![Anchor button](media/anchor-button-pc-app.png "Anchor button")| Anchor | Open the **Choose an anchor method** wizard, where you can select different anchor methods for your guide or change the type of anchoring method. |
-| ![Outline button](media/outline-button-pc-app.png "Outline button")| Outline | Go to the **Outline** page, where you can structure or restructure your guide. You can also open the **Choose an anchor method** wizard from that page. |
+| ![Open Navigation button.](media/open-navigation-button.png "Open Navigation button") | Open Navigation | Expand the navigation pane so that it includes a description for each button. |
+| ![Home button.](media/home-button-pc-app.png "Home button") | Home | Go to the **Welcome** page, where you can create a new guide or open an existing guide. |
+| ![Analyze button.](media/analyze-button-pc-app.png "Analyze button") | Analyze | Go to the **Analyze** page, where you can set up Microsoft Power BI reports (Guides Analytics) to analyze your guides. |
+| ![Anchor button.](media/anchor-button-pc-app.png "Anchor button")| Anchor | Open the **Choose an anchor method** wizard, where you can select different anchor methods for your guide or change the type of anchoring method. |
+| ![Outline button.](media/outline-button-pc-app.png "Outline button")| Outline | Go to the **Outline** page, where you can structure or restructure your guide. You can also open the **Choose an anchor method** wizard from that page. |
 
 ## Best practices for instructional text and supporting content
 

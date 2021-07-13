@@ -24,7 +24,7 @@ Autodesk 3ds Max is 3D modeling and rendering software for design visualization,
 
 1. Open a new scene in 3ds Max, and then on the **File** menu, select **Import** > **Import** to import your 3D model.
 
-   ![Import file](media/3ds-max-file-import.png "Import file")
+   ![Import file.](media/3ds-max-file-import.png "Import file")
 
 2. Check the import options to ensure the scene will be imported as expected. Import settings might differ depending on the type of file you import. You can usually keep the default values, with the following exceptions:
 
@@ -34,7 +34,7 @@ Autodesk 3ds Max is 3D modeling and rendering software for design visualization,
 
    - If your model is imported sideways, import it again with **Up Axis** set to **Y-Up**.
 
-   ![Import file settings](media/3ds-max-import-settings.png "Import file settings")
+   ![Import file settings.](media/3ds-max-import-settings.png "Import file settings")
 
 ## Optimize a 3D model
 
@@ -44,19 +44,19 @@ If the polygon count is too high (see [Performance targets](optimize-models.md#p
 
 1. To view the number of polygons in your scene, select **+** in the upper-left corner of any viewport window to open the **Configure Viewports** options.  
 
-   ![Plus sign](media/3ds-max-plus-sign.png "Plus sign")
+   ![Plus sign.](media/3ds-max-plus-sign.png "Plus sign")
 
-   ![Configure viewports](media/3ds-max-configure-viewports.png "Configure viewports")
+   ![Configure viewports.](media/3ds-max-configure-viewports.png "Configure viewports")
 
 2. In the **Viewport Configuration** screen, select the **Statistics** tab.
 
 3. Under **Setup**, select the **Polygon Count** check box, and then select the **Total + Selection** option. Under **Application**, select the **Show Statistics in Active View** check box. When you're done, select **OK**.
 
-   ![Viewport settings](media/3ds-max-viewport-settings.png "Viewport settings")
+   ![Viewport settings.](media/3ds-max-viewport-settings.png "Viewport settings")
 
    You'll see the total polygon count of your model and the total polygon count of any objects that you've selected.
 
-   ![Total poly count](media/3ds-max-total-poly-count.png "Total polygon count")
+   ![Total poly count.](media/3ds-max-total-poly-count.png "Total polygon count")
 
 ### Add an Edit Poly modifier
 
@@ -64,7 +64,7 @@ Adding an **Edit Poly** modifier helps eliminate shading issues that occur durin
 
 - Select all parts of your 3D model, and then apply the **Edit Poly** modifier.
 
-   ![Edit Poly modifier](media/3ds-max-edit-poly-modifier.png "Edit Poly modifier")
+   ![Edit Poly modifier.](media/3ds-max-edit-poly-modifier.png "Edit Poly modifier")
 
 ### Select objects with high polygon counts
 
@@ -72,15 +72,15 @@ The best way to reduce the size of your model&mdash;while maintaining visual fid
 
 1. Select the **Name** button to open the **Select from Scene** window.
 
-   ![Select from Scene](media/3ds-max-select-from-scene.png "Select from Scene")
+   ![Select from Scene.](media/3ds-max-select-from-scene.png "Select from Scene")
 
 2. Select **Customize** > **Configure Columns**.
 
-   ![Configure Columns](media/3ds-max-configure-columns.png "Configure Columns")
+   ![Configure Columns.](media/3ds-max-configure-columns.png "Configure Columns")
 
 3. Drag **Faces** next to **Name** to activate the column.
 
-   ![Drag Faces](media/3ds-max-drag-faces.png "Drag Faces")
+   ![Drag Faces.](media/3ds-max-drag-faces.png "Drag Faces")
 
 4. Select the **Faces** tab a few times so that your objects are now sorted from the highest face count to the lowest.
 
@@ -89,26 +89,26 @@ The best way to reduce the size of your model&mdash;while maintaining visual fid
 
 5. Select the objects that have the highest face counts, and then select **OK**.
 
-   ![Face counts](media/3ds-max-face-counts.png "Face counts")
+   ![Face counts.](media/3ds-max-face-counts.png "Face counts")
 
 You now have selected the objects with the highest polygon counts. For the example model, about 123,000 of the 195,000 total polygons exist in five objects. The next section in this topic shows how to reduce the polygon count of these objects.
 
-   ![Selected objects](media/3ds-max-selected-objects.PNG "Selected objects")
+   ![Selected objects.](media/3ds-max-selected-objects.PNG "Selected objects")
 
 ### Reduce the polygon count
 
 1. Open the **Modifier List** located on the right side of the viewport.  
-   ![Modifier List](media/3ds-max-modifier-list.png "Modifier List")
+   ![Modifier List.](media/3ds-max-modifier-list.png "Modifier List")
 
 2. Select **ProOptimizer** from the list.
   
 3. Select **Calculate** to unlock the **Optimization Level** value adjustments. Try different values for **Vertex %** that range from **10%** through **30%** until you find the highest level of reduction that still maintains a visual fidelity that meets your standards.
 
-   ![ProOptimizer](media/3ds-max-prooptimize.png "ProOptimizer")
+   ![ProOptimizer.](media/3ds-max-prooptimize.png "ProOptimizer")
 
 4. On the **Edit** menu, select **Select Invert**, and then add a **ProOptimizer** to the rest of your model. Follow the same steps as you did before, but don't go as low as 10% through 30%. Reduce these other objects until you reach a polygon count that matches the recommended [performance targets](optimize-models.md#performance-targets) for your specific use case and still provides good visual fidelity.
 
-   ![Select Invert](media/3ds-max-select-invert.png "Select Invert")
+   ![Select Invert.](media/3ds-max-select-invert.png "Select Invert")
 
    > [!TIP]
    > You can be as granular with what you reduce as you like. If you want specific parts of your model to have higher fidelity, select them and raise the percentage value to meet your needs. Try different techniques until you find one that works best for you.
@@ -119,11 +119,11 @@ When curved surfaces are present on 3D models, they might appear faceted. You ca
 
 1. On the **Edit** menu, select **Select All** to select all 3D models in the scene.
 
-   ![Select All](media/3ds-max-select-all.png "Select All")
+   ![Select All.](media/3ds-max-select-all.png "Select All")
 
 2. In the **Modifier List**, select **Smooth**.
 
-   ![Smooth](media/3ds-max-smooth.png "Smooth")
+   ![Smooth.](media/3ds-max-smooth.png "Smooth")
 
 3. Under **Parameters**, select the **Auto Smooth** check box, and then adjust the **Threshold** value until the faceted surfaces appear smooth.  The default threshold is 30.0, which is usually pretty good.
 
@@ -141,11 +141,11 @@ Not all CAD materials are compatible with real-time apps, so they must be conver
 
 1. On the **Rendering** menu, select **Scene Converter**.
 
-   ![Scene Converter](media/3ds-max-scene-converter.png "Scene Converter")
+   ![Scene Converter.](media/3ds-max-scene-converter.png "Scene Converter")
 
 2. In the **Scene Converter** dialog box, expand **Materials**, and then select **Standard Material to Physical Material**.
 
-   ![Standard Material to Physical Material](media/3ds-max-standard-to-physical.PNG "Standard Material to Physical Material")
+   ![Standard Material to Physical Material.](media/3ds-max-standard-to-physical.PNG "Standard Material to Physical Material")
 
 3. Select **Convert Scene**.
 
@@ -155,17 +155,17 @@ In cases where you want fine control over materials, you can apply and change ma
 
 1. On the **Rendering** menu, select **Material Editor** > **Compact Material Editor**. This gives you control over how the materials will look.
 
-   ![Compact Material Editor](media/3ds-max-compact-material-editor.png "Compact Material Editor")
+   ![Compact Material Editor.](media/3ds-max-compact-material-editor.png "Compact Material Editor")
 
 2. The **Material Editor** window includes blank material slots that appear as grey spheres. To load a slot for inspection, select the eye dropper, and then select the 3D model you want to look at.
 
-   ![Material color](media/3ds-max-material-color.png "Material Color")
+   ![Material color.](media/3ds-max-material-color.png "Material Color")
 
    The important parameters to look at are **Base Color** and **Reflections**. **Reflections** is controlled by the **Metalness** and **Roughness** values&mdash;the surface finish of the material.
 
    - To apply a material to another 3D model, drag the active material ball on top of the 3D model you want to change.
 
-     ![Apply material](media/3ds-max-apply-material.png "Apply material")
+     ![Apply material.](media/3ds-max-apply-material.png "Apply material")
 
    - To inspect another material, either use the eyedropper again to overwrite the current material slot, or select a new slot to easily switch back and forth between materials.
 
@@ -187,19 +187,19 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 3. Attach all the 3D models by selecting one object and adding another **Edit Poly** modifier to it. It doesn't matter which 3D model you select.
 
-  	![Edit Poly](media/3ds-max-add-edit-poly.png "Edit Poly")
+  	![Edit Poly.](media/3ds-max-add-edit-poly.png "Edit Poly")
 
 4. Under the **Tool** menu, select the button to the right of the **Attach** button. This button shows the available models in the scene that you can combine together.
 
-   ![Attach list button](media/3ds-max-attach-list-button.PNG "Attach list button")
+   ![Attach list button.](media/3ds-max-attach-list-button.PNG "Attach list button")
 
 5. Select all the 3D models in the attach list, and then select **Add**. 
 
-   ![Add models](media/3ds-max-add-models.png "Add models")
+   ![Add models.](media/3ds-max-add-models.png "Add models")
 
 6. When prompted, select **Match Material IDs to Material**, and then select **OK**.
 
-   ![Match Material IDs](media/3ds-max-material-IDs.png "Match Material IDs")
+   ![Match Material IDs.](media/3ds-max-material-IDs.png "Match Material IDs")
 
    All the individual meshes are now combined into one.
 
@@ -209,19 +209,19 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 1. Unwrap the duplicate 3D model by selecting and applying the **Unwrap UVW** modifier from the **Modifier List** for your original mesh. Select **Polygon** in the drop-down list, to edit the UV faces.
 
-   ![Unwrap UVW](media/3ds-max-unwrap-UVW.png "Unwrap UVW")
+   ![Unwrap UVW.](media/3ds-max-unwrap-UVW.png "Unwrap UVW")
 
 2. Under **Edit UVs**, select **Open UV Editor**.
 
-   ![Open UV Editor](media/3ds-max-open-UV-editor.png "Open UV Editor")
+   ![Open UV Editor.](media/3ds-max-open-UV-editor.png "Open UV Editor")
 
 3. In the **Edit UVWs** window, select **Mapping** > **Flatten Mapping**.
 
-   ![Flatten Mapping](media/3ds-max-flatten-mapping.png "Flatten Mapping")
+   ![Flatten Mapping.](media/3ds-max-flatten-mapping.png "Flatten Mapping")
 
 4. In the option box that appears, give the UVs some padding by setting **Spacing** to **0.003**, select the check box for **By Material IDs**, and then select **OK**.
 
-   ![Spacing](media/3ds-max-spacing.png "Spacing")
+   ![Spacing.](media/3ds-max-spacing.png "Spacing")
 
 ### Create a copy of the original mesh
 
@@ -229,11 +229,11 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 1. To clone the 3D model, select it, and then select **Edit** > **Clone**.
 
-   ![Clone meshes](media/3ds-max-clone-meshes.png "Clone meshes")
+   ![Clone meshes.](media/3ds-max-clone-meshes.png "Clone meshes")
 
 2. Select **Copy**, and then rename the object so that you know it's the cloned object.
 
-   ![Copies](media/3ds-max-copies.png "Copies")
+   ![Copies.](media/3ds-max-copies.png "Copies")
 
 <!--note from editor: I renamed this H3 so we wouldn't have two identical headings in this topic.-->
 ### Bake texture onto the cloned mesh
@@ -242,77 +242,77 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 2. On the **Rendering** menu, select **Render To Texture**.
 
-   ![Render to Texture](media/3ds-max-render-to-texture.PNG "Render to Texture")
+   ![Render to Texture.](media/3ds-max-render-to-texture.PNG "Render to Texture")
 
 3. Set up the **Render to Texture** menu in the following ways:
 
    a. Under **Output**, set **Path** to the location where the map will bake. You can leave the default setting if you don't have a specific destination in mind.
 
-     ![Output path](media/3ds-max-output-path.PNG "Output path")
+     ![Output path.](media/3ds-max-output-path.PNG "Output path")
 
    b. Change the **Render Settings** to **3dsmax.scanline.no.advanced.lighting.high**.
 
-     ![Render settings](media/3ds-max-render-settings.PNG "Render settings")
+     ![Render settings.](media/3ds-max-render-settings.PNG "Render settings")
 
    c. When you're prompted to **Select Preset Categories**, leave the entries all highlighted, and then select **Load**.
 
-      ![Load](media/3ds-max-load.PNG "Load")
+      ![Load.](media/3ds-max-load.PNG "Load")
 
    d. Under **Projection Mapping**, do the following:
 
 >>>i. Select the **Enabled** check box, select **Pick**, select the original source 3D models you want to bake the color from, and then select **Add**.
 
->>>![Projection mapping](media/3ds-max-projection-mapping.PNG "Projection mapping")
+>>>![Projection mapping.](media/3ds-max-projection-mapping.PNG "Projection mapping")
 
 >>>ii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** option, clear the **Use Cage** check box, and close the window.
  
->>>![Clear Cage](media/3ds-max-clear-cage.PNG "Clear Cage")
+>>>![Clear Cage.](media/3ds-max-clear-cage.PNG "Clear Cage")
 
    d. Under **Mapping Coordinates**, select the **Use Existing Channel** option, and then set the channel to **1**.
 
-   ![Mapping Coordinates](media/3ds-max-mapping-coordinates.PNG "Mapping Coordinates")
+   ![Mapping Coordinates.](media/3ds-max-mapping-coordinates.PNG "Mapping Coordinates")
 
    e. Under **Output**, select **Add**, select **DiffuseMap**, and then select **Add Elements**.
 
-   ![Output](media/3ds-max-output.PNG "Output")
+   ![Output.](media/3ds-max-output.PNG "Output")
 
    f. Select the three dots next to **File Name and Type**, and then select **.png**.
 
-   ![File Name and Type](media/3ds-max-file-name-and-type.PNG "File Name and Type")
+   ![File Name and Type.](media/3ds-max-file-name-and-type.PNG "File Name and Type")
 
    g. In the pop-up menu, select the **RGB 24 bit** option, clear the **Alpha channel** check box, and then select **OK**.
 
-   ![Alpha channel](media/3ds-max-alpha-channel.PNG "Alpha channel") 
+   ![Alpha channel.](media/3ds-max-alpha-channel.PNG "Alpha channel") 
  
    h. In the **Target Map Slot** field, select **Diffuse Color**.
 
-   ![Target Map Slot](media/3ds-max-target-map-slot.PNG "Target Map Slot") 
+   ![Target Map Slot.](media/3ds-max-target-map-slot.PNG "Target Map Slot") 
 
    i. Select the **Use Automatic Map Size** check box.
 
-   ![Use Automatic Map Size](media/3ds-max-use-automatic-map-size.PNG "Use Automatic Map Size")
+   ![Use Automatic Map Size.](media/3ds-max-use-automatic-map-size.PNG "Use Automatic Map Size")
 
    j. Under **Automatic Map Size**, select the **Nearest power of 2** check box.
 
-   ![Automatic Map Size](media/3ds-max-automatic-map-size.PNG "Automatic Map Size")
+   ![Automatic Map Size.](media/3ds-max-automatic-map-size.PNG "Automatic Map Size")
 
    k. After everything is set correctly, select **Render** to bake the diffuse color map. A preview window might appear, but the final map is automatically saved to the output location.
 
-   ![Render button](media/3ds-max-render-button.PNG "Render") 
+   ![Render button.](media/3ds-max-render-button.PNG "Render") 
 
    The full group of settings for the **Rendering** menu looks like this:
 
-   ![All Rendering settings](media/3ds-max-render2.png "All Rendering settings")
+   ![All Rendering settings.](media/3ds-max-render2.png "All Rendering settings")
  
 4. If you go to the location where your .png was saved and open it, the baked map might look something like this:
  
-   ![Baked map](media/3ds-max-baked-map2.PNG "Baked map")
+   ![Baked map.](media/3ds-max-baked-map2.PNG "Baked map")
 
 ## Apply the texture
 
 1. Select **Rendering** > **Material Editor** > **Compact Material Editor** to open the Compact Material Editor.
 
-   ![Compact Material Editor](media/3ds-max-compact-material-editor1.PNG "Compact Material Editor")
+   ![Compact Material Editor.](media/3ds-max-compact-material-editor1.PNG "Compact Material Editor")
 
 2. Set up a new material slot in the material editor.  
 
@@ -320,31 +320,31 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 4. Select the **Standard** button to open **Material/Map Browser**.
 
-   ![Standard button](media/3ds-max-standard-button.PNG "Standard button")
+   ![Standard button.](media/3ds-max-standard-button.PNG "Standard button")
 
 5. Select **Materials** > **General** > **Physical Material**.
 
-   ![Physical Material](media/3ds-max-physical-material.PNG "Physical Material")
+   ![Physical Material.](media/3ds-max-physical-material.PNG "Physical Material")
 
 6. Set the **Roughness** value to **0.1** and the **Metalness** value to **0.9**.
 
-   ![Roughness and Metalness](media/3ds-max-roughness-metalness.png "Roughness and Metalness")
+   ![Roughness and Metalness.](media/3ds-max-roughness-metalness.png "Roughness and Metalness")
 
-7. To attach the baked color map, select the option box ![Option button](media/3ds-max-option-button.PNG "Option button") next to the **Base Color and Reflections** color selector, and then select **Maps** > **General** > **Bitmap** from the list of options.
+7. To attach the baked color map, select the option box ![Option button.](media/3ds-max-option-button.PNG "Option button") next to the **Base Color and Reflections** color selector, and then select **Maps** > **General** > **Bitmap** from the list of options.
 
-   ![Bitmap](media/3ds-max-bitmap.png "Bitmap")
+   ![Bitmap.](media/3ds-max-bitmap.png "Bitmap")
 
 8. When prompted to **Select Bitmap Image File**, select the texture you created earlier.
 
-   ![Bitmap image file](media/3ds-max-bitmap-image-file.PNG "Bitmap image file")
+   ![Bitmap image file.](media/3ds-max-bitmap-image-file.PNG "Bitmap image file")
 
 9. To view the new texture on the model, in the viewport, go to: **User Defined** > **Materials** > **Shaded Materials with Maps**.
 
-   ![Shaded Materials with Maps](media/3ds-max-shaded-materials-with-maps.PNG "Shaded Materials with Maps")
+   ![Shaded Materials with Maps.](media/3ds-max-shaded-materials-with-maps.PNG "Shaded Materials with Maps")
 
 10. Hide the original 3D model so you can see the optimized 3D model with its texture.
 
-    ![Optimized model](media/3ds-max-optimized-model.png "Optmized model")
+    ![Optimized model.](media/3ds-max-optimized-model.png "Optmized model")
 
 <a name="export-the-3d-model"></a>
 
@@ -354,11 +354,11 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 2. On the **Babylon** menu, select [Babylon File Exporter](https://doc.babylonjs.com/resources/3dsmax).
 
-   ![Babylon menu](media/3ds-max-babylon.png "Babylon menu")  
+   ![Babylon menu.](media/3ds-max-babylon.png "Babylon menu")  
 
 3. Make sure **glb** is selected under **Output format**, and then select the **Export only selected** check box so all necessary or selected 3D models are exported.  
 
-   ![Export model](media/3ds-max-export-model.png "Export model")
+   ![Export model.](media/3ds-max-export-model.png "Export model")
 
 4. Select **Export**.
 

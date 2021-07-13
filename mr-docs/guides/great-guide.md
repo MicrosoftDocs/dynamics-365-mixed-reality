@@ -60,7 +60,7 @@ to someone in person?
 
 - To provide overall context, add an Overview and/or Welcome task at the beginning of the guide. 
 
-  ![Overview example](media/overview.PNG "Overview example")
+  ![Overview example.](media/overview.PNG "Overview example")
 
   This task can include the following steps:
 
@@ -108,11 +108,11 @@ to take before starting the guide.
    
      Bad example:
      
-     ![Multiple sentences](media/bad-example.PNG "Multiple sentences")
+     ![Multiple sentences.](media/bad-example.PNG "Multiple sentences")
      
      Good example:
      
-     ![Single idea](media/good-example.PNG "Single idea")     
+     ![Single idea.](media/good-example.PNG "Single idea")     
        
      In this example, many operators might miss the second sentence and continue onto the next step.
 
@@ -157,11 +157,11 @@ to create separate steps to make sure the operator completes the correct sequenc
        
      Good example:
      
-     ![Warning, good example](media/good-example2.PNG "Warning, good example")
+     ![Warning, good example.](media/good-example2.PNG "Warning, good example")
      
      Bad example:
      
-     ![Warning, bad example](media/bad-example2.PNG "Warning, bad example")
+     ![Warning, bad example.](media/bad-example2.PNG "Warning, bad example")
             
 - Add a step at the end of each task to let the operator know that they're ending a task and to introduce them to the following 
        task. This helps the operator form a mental model of the guide structure, leading to better retention.
@@ -225,13 +225,13 @@ We recommend using 2D images in the following scenarios:
 
 - What to do and what not to do. When operators do something the wrong way consistently, it's useful to have an image that shows the correct way next to an image that shows the incorrect way. Highlight the key difference.
 
-  ![Example of what to do and not to do](media/to-do-and-not-to-do.PNG "Example of what to do and not to do") 
+  ![Example of what to do and not to do.](media/to-do-and-not-to-do.PNG "Example of what to do and not to do") 
 
 - Validation
 
   –	Orientation validation. Using an image is a clear way to make sure parts or machinery have the correct orientation. This can be critically important if subsequent steps are based on correct orientation for a specific part or piece. Make sure to give enough environmental context to visually communicate to operators the correct orientation in the environment.
       
-   ![Example of orientation validation](media/orientation-validation.PNG "Example of orientation validation")  
+   ![Example of orientation validation.](media/orientation-validation.PNG "Example of orientation validation")  
 
   –	Part validation. Use images for part identification in cases where a workstation has multiple parts that could be confused with one another visually. This is especially useful when two or more parts looks very similar with one tiny difference.      
 
@@ -259,11 +259,11 @@ We recommend using 2D images in the following scenarios:
 
    Good example:
 
-   ![Good example of referring to an image](media/good-example3.PNG "Good example of referring to an image")  
+   ![Good example of referring to an image.](media/good-example3.PNG "Good example of referring to an image")  
 
    Bad example:
 
-   ![Bad example of referring to an image](media/bad-example3.PNG "Bad example of referring to an image") 
+   ![Bad example of referring to an image.](media/bad-example3.PNG "Bad example of referring to an image") 
 
 ## Videos
 
@@ -281,7 +281,7 @@ Only show how to do something one way. Showing multiple ways to complete a step 
 
 Shoot videos from a third-person or first-person perspective.
    
-![Example of third person vs. first person](media/third-vs-first.PNG "Example of third person vs. first person") 
+![Example of third person vs. first person.](media/third-vs-first.PNG "Example of third person vs. first person") 
 
 - Third-person videos work best to:
      
@@ -323,7 +323,7 @@ Shoot videos from a third-person or first-person perspective.
 
     –	You can use arrows in combination with other 3D holograms (for example, checks and cross) to show where to put something and where not to put something.    
     
-    ![Arrows combined](media/arrows-combined.PNG "Arrows combined") 
+    ![Arrows combined.](media/arrows-combined.PNG "Arrows combined") 
 
       
 #### Hands
@@ -346,7 +346,7 @@ Shoot videos from a third-person or first-person perspective.
 
 - Zones are a good way to communicate areas to place items.
 
-   ![Zones example](media/zones-example.PNG "Zones example")
+   ![Zones example.](media/zones-example.PNG "Zones example")
 
 - Zones can be used to show the orientation and location of objects.
 
@@ -486,11 +486,11 @@ Shoot videos from a third-person or first-person perspective.
 
   Good example:
 
-  ![Good example of anchoring](media/good-example-anchoring.PNG "Good example of anchoring")
+  ![Good example of anchoring.](media/good-example-anchoring.PNG "Good example of anchoring")
 
   Bad example:
 
-  ![Bad example of anchoring](media/bad-example-anchoring.PNG "Bad example of anchoring")
+  ![Bad example of anchoring.](media/bad-example-anchoring.PNG "Bad example of anchoring")
 
 - Important orientation that could impact alignment of future steps can be coupled with visual guides via photos or custom holograms and text reminders to check their positioning.
 

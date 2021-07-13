@@ -14,7 +14,7 @@ We recommend that you always update the Microsoft Dynamics 365 Guides solution a
 
 To find the app and solution versions that you're using, in the PC app, select the **About** command. You must be signed in to see both version numbers.
 
-![Version numbers on the About page](media/about-command.PNG "Version numbers on the About page")
+![Version numbers on the About page.](media/about-command.PNG "Version numbers on the About page")
 
 ## App/solution compatibility
 

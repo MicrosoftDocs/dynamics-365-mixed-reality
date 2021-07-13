@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 
 Step cards in Microsoft Dynamics 365 Guides are linked by holographic dotted lines to physical areas in your work area. These dotted lines help you find the area where you need to take action.
 
-![Holographic dotted line](media/dotted-line.PNG "Holographic dotted line")
+![Holographic dotted line.](media/dotted-line.PNG "Holographic dotted line")
 
 ## Dotted line tips and tricks
 

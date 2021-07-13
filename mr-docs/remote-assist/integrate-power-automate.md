@@ -42,7 +42,7 @@ To complete this article, you need:
 10. Now we can go back to the **"Send an email notification"** step. This time, when searching for name in the dynamic content, we have the option of selecting the customer entity name, because we fetched the associated customer entity in the previous step. Go ahead and include that in the subject. Select **Save**. Your flow is now complete!
 ![Screenshot of the Power Automate email subject step.](media/PowerAutomate010-EmailSubject.png)
 11. You can use the **Flow Checker** and **Test** options to validate your newly created flow.
-![Screenshot of the Power Automate flow checker](media/PowerAutomate011-flowChecker.png)
+![Screenshot of the Power Automate flow checker.](media/PowerAutomate011-flowChecker.png)
 
 ## Test your flow
 

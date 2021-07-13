@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a library of predefined 3D objects that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following illustration shows an example where holographic numbers, arrows, and zones are used to help operators complete a step.
 
-![Example of holographic numbers, arrows, and zones](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and zones")
+![Example of holographic numbers, arrows, and zones.](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and zones")
 
 You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you want in a step.
 
@@ -20,15 +20,15 @@ To add a model from the 3D toolkit, follow these steps.
 
 1. On the right side of the page, select the **3D toolkit** tab, and then select the category for the type of item that you want to add.
 
-    ![3D toolkit tab](media/select-3D-toolkit.PNG "3D toolkit tab")
+    ![3D toolkit tab.](media/select-3D-toolkit.PNG "3D toolkit tab")
 
 2. Drag the 3D model that you want to one of the **3D parts** boxes.
 
-    ![Dragging a 3D model to a 3D parts box](media/select-arrow.PNG "Dragging a 3D model to a 3D parts box")
+    ![Dragging a 3D model to a 3D parts box.](media/select-arrow.PNG "Dragging a 3D model to a 3D parts box")
     
 3. To preview the model, select (click or double-click) the model in the **Library**.
 
-    ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
+    ![Properties tab for previewing image, video, or 3D model.](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
     
     The image and its properties are displayed on the right side of the screen.   
 

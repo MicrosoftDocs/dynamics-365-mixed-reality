@@ -35,7 +35,7 @@ At this time, Dynamics 365 Product Visualize doesn't support remote capabilities
 
 ## Why is the "Need admin approval" message displayed after I sign in?
 
-![Admin approval message](media/admin-approval.PNG "Admin approval message")
+![Admin approval message.](media/admin-approval.PNG "Admin approval message")
 
 This message indicates that your organization requires administrator approval before any new apps can be used to access organizational resources. Talk to your system administrator to get approval to use Dynamics 365 Product Visualize in your organization. In the meantime, you can set up a [free trial version](setup.md).
 
@@ -74,7 +74,7 @@ Point the device down so that it's parallel to the surface you want. Hold it the
  
 ## What should I do if I lose tracking during a presentation? 
 
-Initially, you should try pointing the device down so it's parallel to the surface, and then slowly tilting it up. If that doesn't restore tracking, tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Mixed Reality Sessions**. Tap the mixed-reality session that contains the product, and then tap the product that contains the model you were viewing. You'll then need to go through the placement process again by using the initial model in the product. After placing the initial model, tap **Models** on the right side of the screen to open the model menu. From the model menu, find the model you want, and then tap it to place it on the selected surface. 
+Initially, you should try pointing the device down so it's parallel to the surface, and then slowly tilting it up. If that doesn't restore tracking, tap **Main** ![Main menu.](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Mixed Reality Sessions**. Tap the mixed-reality session that contains the product, and then tap the product that contains the model you were viewing. You'll then need to go through the placement process again by using the initial model in the product. After placing the initial model, tap **Models** on the right side of the screen to open the model menu. From the model menu, find the model you want, and then tap it to place it on the selected surface. 
  
 ## What surfaces and locations are best to track on? 
 
@@ -95,7 +95,7 @@ If the model you want is in the current product:
 2. Scroll left or right to find the model you want (you can also use search if there are a large number of models in the browser). Tap the model to load it. 
  
 If the model you want is in another product or mixed-reality session: 
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Mixed Reality Sessions**.
+1. Tap **Main** ![Main menu.](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Mixed Reality Sessions**.
 2. Tap the mixed-reality session. 
 3. Tap the product that includes the model you want.  
 4. Go through the placement process, and place the initial model. 
@@ -104,11 +104,11 @@ If the model you want is in another product or mixed-reality session:
  
 ## How do I export the text and image in my note to send in email? 
 
-Go to the note you want to export. Tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu") on the note. Tap **Export note** on the pop-up menu, and then tap **Email**. Tap the app that you use for email.  
+Go to the note you want to export. Tap the overflow menu ![Overflow menu.](media/overflow-button.png "Overflow menu") on the note. Tap **Export note** on the pop-up menu, and then tap **Email**. Tap the app that you use for email.  
  
 ## How do I download and retain a model locally? 
 
-First, you must enable offline mode. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen. Tap **Preview features**. Turn on the **Download products to view offline** toggle. 
+First, you must enable offline mode. Tap **Main** ![Main menu.](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen. Tap **Preview features**. Turn on the **Download products to view offline** toggle. 
 
 Go to your mixed-reality session, and tap the one that has the product you want to save. Locate the icon that shows a cloud with a down-pointing arrow in the lower-right corner of each product. Tap the cloud icon in the product that has the model you want. This starts a download process that changes the icon to a square and a loading circle. After every model in the product has been downloaded, a blue circle with a check mark will appear. Those models are now available on your device. 
  
@@ -123,7 +123,7 @@ Notes are currently saved to the mixed-reality session they were made in. If som
 Currently, you can only make new notes or delete notes.
 
 -  To make a new note, on the **Notes** menu, tap **Add**.
--  To delete a note, tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu") in the upper-right corner of the note, tap **Delete note**, and then confirm.
+-  To delete a note, tap the overflow menu ![Overflow menu.](media/overflow-button.png "Overflow menu") in the upper-right corner of the note, tap **Delete note**, and then confirm.
 
 ## If I delete a note, how can I recover it? 
 

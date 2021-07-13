@@ -49,7 +49,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 2. In the call, Dynamics 365 Remote Assist mobile autodetects if the technician is experiencing poor network conditions. 
 
-![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions](./media/network_2.png "Detection") 
+![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions.](./media/network_2.png "Detection") 
 
 3. It prompts the technician to use the **snapshot tool** to share images to the expert.
 

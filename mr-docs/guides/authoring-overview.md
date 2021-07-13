@@ -27,7 +27,7 @@ Supporting assets include:
 
 - **[!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode.** After creating the guide with the PC app, use the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
 
-    ![Authoring overview](media/authoring-overview.PNG "Authoring overview")
+    ![Authoring overview.](media/authoring-overview.PNG "Authoring overview")
     
 > [!TIP]
 > You can use both apps to edit the same guide simultaneously for the fastest workflow. Create the structure and text in the PC app, do the 3D placement in the HoloLens app, and then work back and forth until you have your guide just the way you want it.  

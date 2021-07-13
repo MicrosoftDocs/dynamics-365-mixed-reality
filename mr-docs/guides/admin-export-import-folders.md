@@ -31,7 +31,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 2. In the left navigation pane, select **Solutions**. 
 
-    ![Power Apps screen with Solutions command selected](media/export-folders-01.PNG "Power Apps screen with Solutions command selected")
+    ![Power Apps screen with Solutions command selected.](media/export-folders-01.PNG "Power Apps screen with Solutions command selected")
 
 3. Create a new solution by doing the following:  
 
@@ -43,7 +43,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     4. Select **Create**.  
 
-       ![Power Apps screen with 4 choices highlighted](media/export-folders-02.PNG "Power Apps screen with 4 choices highlighted")
+       ![Power Apps screen with 4 choices highlighted.](media/export-folders-02.PNG "Power Apps screen with 4 choices highlighted")
 
 4. Add the folders as components of your solution:  
 
@@ -51,15 +51,15 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     2. Select **Edit**.  
 
-       ![Power Apps screen with solution and Edit button highlighted](media/export-folders-03.PNG "Power Apps screen with solution and Edit button highlighted")
+       ![Power Apps screen with solution and Edit button highlighted.](media/export-folders-03.PNG "Power Apps screen with solution and Edit button highlighted")
 
     3. Select **Add existing** > **Folder**.  
 
-       ![Power Apps screen with Add existing and Folder highlighted](media/export-folders-04.PNG "Power Apps screen with Add existing and Folder highlighted")
+       ![Power Apps screen with Add existing and Folder highlighted.](media/export-folders-04.PNG "Power Apps screen with Add existing and Folder highlighted")
 
     4. Select the folders you want to include in your export, and then select **Add**.  
 
-       ![Power Apps screen with Add highlighted](media/export-folders-05.PNG "Power Apps screen with Add highlighted")
+       ![Power Apps screen with Add highlighted.](media/export-folders-05.PNG "Power Apps screen with Add highlighted")
  
        > [!NOTE]
        > If you select a folder that includes subfolders, you'll need to select the parent folder and the child folder individually. However, if you select a subfolder, the parent folder will automatically be added to the list that will be exported. 
@@ -68,18 +68,18 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     1. Select **Export**, and then select **Next**. 
 
-       ![Power Apps screen with Export and Next highlighted](media/export-folders-06.PNG "Power Apps screen with Export and Next highlighted")
+       ![Power Apps screen with Export and Next highlighted.](media/export-folders-06.PNG "Power Apps screen with Export and Next highlighted")
 
     2. Select between a managed and an unmanaged solution, and then select **Export**.  
 
-       ![Export this solution pane with Managed option selected and Export button highlighted](media/export-folders-07.PNG "Export this solution pane with Managed option selected and Export button highlighted")
+       ![Export this solution pane with Managed option selected and Export button highlighted.](media/export-folders-07.PNG "Export this solution pane with Managed option selected and Export button highlighted")
        
        > [!NOTE]
        > Select a managed solution if you want the rows to be bundled with the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder includes any subfolders). On the other hand, if you delete an unmanaged solution from the environment, the rows will persist.
 
     3. Once the export is ready, it's automatically downloaded as a .zip file. You’ll see a green notification saying it has been exported successfully. This might take a while.   
 
-       ![Power Apps screen with green notification](media/export-folders-08.PNG "Power Apps screen with green notification")
+       ![Power Apps screen with green notification.](media/export-folders-08.PNG "Power Apps screen with green notification")
       
        > [!NOTE]
        > Deactivated folders will appear on the list to be exported.
@@ -88,29 +88,29 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 1. Go to [make.powerapps.com](https://make.preview.powerapps.com/) and **ensure you are in the environment where you want to import the folders**. You can check this in the top right corner of the screen under **Environment**.  
 
-    ![Power Apps screen showing where to check for the correct environment](media/export-folders-09.PNG "Power Apps screen showing where to check for the correct environment")
+    ![Power Apps screen showing where to check for the correct environment.](media/export-folders-09.PNG "Power Apps screen showing where to check for the correct environment")
 
 2. In the left navigation pane, select **Solutions**.  
 
 3. In the command bar, select **Import**, and then in the **Import a solution** pane, select **Browse**.  
 
-    ![Power Apps screen with Import and Browse highlighted](media/export-folders-10.PNG "Power Apps screen with Import and Browse highlighted")
+    ![Power Apps screen with Import and Browse highlighted.](media/export-folders-10.PNG "Power Apps screen with Import and Browse highlighted")
 
 4. In the **Open** dialog box, find the .zip file you just downloaded, select it, and then select **Open**.  
 
-    ![Open dialog box with Zip file and Open button highlighted](media/export-folders-11.PNG "Open dialog box with Zip file and Open button highlighted")
+    ![Open dialog box with Zip file and Open button highlighted.](media/export-folders-11.PNG "Open dialog box with Zip file and Open button highlighted")
 
 5. Select **Next**.  
 
-    ![Import a solution pane with Next button highlighted](media/export-folders-12.PNG "Import a solution pane with Next button highlighted")
+    ![Import a solution pane with Next button highlighted.](media/export-folders-12.PNG "Import a solution pane with Next button highlighted")
 
 6. Select **Import**.  
 
-    ![Import a solution pane with Import button highlighted](media/export-folders-13.PNG "Import a solution pane with Import button highlighted")
+    ![Import a solution pane with Import button highlighted.](media/export-folders-13.PNG "Import a solution pane with Import button highlighted")
 
     When the import is complete, you'll see a notification stating that the solution has been successfully imported. This might take a few minutes.
  
-    ![Power Apps screen with notification showing solution successfully imported](media/export-folders-14.PNG "Power Apps screen with notification showing solution successfully imported")
+    ![Power Apps screen with notification showing solution successfully imported.](media/export-folders-14.PNG "Power Apps screen with notification showing solution successfully imported")
     
 ## See also
 

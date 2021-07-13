@@ -21,19 +21,19 @@ Folders are useful for managing groups of guides with the same permissions, such
     > [!TIP]
     > To find the URL for the instance, select the **Analyze** tab in the PC app. The URL is shown in the **Instance URL** field at the bottom of the page. Copy this URL, and paste it into the address bar of your web browser.
     >
-    > ![Instance URL field](media/instance-url.PNG "Instance URL field")
+    > ![Instance URL field.](media/instance-url.PNG "Instance URL field")
 
 2. In Power Apps, select the **Guides** app tile.
 
-    ![Guides app tile](media/guides-app-tile.PNG "Guides app tile")
+    ![Guides app tile.](media/guides-app-tile.PNG "Guides app tile")
     
 3.	In the left pane, select **Folders** to view all folders created in the instance.
 
-    ![Folders command highlighted in left pane](media/folders-command.PNG "Folders command highlighted in left pane")
+    ![Folders command highlighted in left pane.](media/folders-command.PNG "Folders command highlighted in left pane")
 
 4.	At the top of the screen, select **New** to create a new folder.
 
-    ![New command highlighted at top of Power Apps screen](media/folders-new.PNG "New command highlighted at top of Power Apps screen") 
+    ![New command highlighted at top of Power Apps screen.](media/folders-new.PNG "New command highlighted at top of Power Apps screen") 
 
 5.	Enter the name and owner of the folder. You can select an existing folder in the **Parent Folder** field, or leave the **Parent Folder** field blank to create a folder at the root level.
 
@@ -45,7 +45,7 @@ Folders are useful for managing groups of guides with the same permissions, such
 
 2.	On the **General** tab, in the **Parent Folder** field, enter the parent folder name or search for it.
 
-    ![General tab and Parent Folder field highlighted](media/folders-general-tab.PNG "General tab and Parent Folder field highlighted")
+    ![General tab and Parent Folder field highlighted.](media/folders-general-tab.PNG "General tab and Parent Folder field highlighted")
 
 3.	At the top of the screen, select **Save** or **Save & Close**.
 
@@ -62,11 +62,11 @@ To change the owner of a folder:
 
 2.	Go to the desired folder, and then at the top of the screen, select **Assign** to display the folder information.
 
-    ![Assign command highlighted at top of screen](media/folders-assign.PNG "Assign command highlighted at top of screen")
+    ![Assign command highlighted at top of screen.](media/folders-assign.PNG "Assign command highlighted at top of screen")
 
 3.	In the **Assign Folder** dialog box, select the box to the right of the **Assign to** label to toggle between **Me** and **User or team**. If **Me** is selected, the folder is assigned to you. If **User or team** is selected, you can enter the owner in the **User or team** field or search for an owner.
 
-    ![Assign Folder dialog box](media/folders-assign-to.PNG "Assign Folder dialog box")
+    ![Assign Folder dialog box.](media/folders-assign-to.PNG "Assign Folder dialog box")
 
 4.	Select **Assign** to save the new owner. 
 

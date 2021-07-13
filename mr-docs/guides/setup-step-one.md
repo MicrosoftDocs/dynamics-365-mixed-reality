@@ -35,21 +35,21 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
 1. Open the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
-    ![Microsoft 365 admin center](media/microsoft-365-admin-center-5.PNG "Microsoft 365 admin center")
+    ![Microsoft 365 admin center.](media/microsoft-365-admin-center-5.PNG "Microsoft 365 admin center")
 
 2. Make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license is assigned to a user. In the left pane, select **Users**, select **Active users**, and then select the check box for the user that you want to add.
 
 3. Select **Manage product licenses**.
 
-    ![Manage product licenses button](media/manage-product-licenses.PNG "Manage product licenses button")
+    ![Manage product licenses button.](media/manage-product-licenses.PNG "Manage product licenses button")
 
 4. In the dialog box, under **Licenses**, select the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** check box.
 
-    ![Adding a user license](media/guides-license.PNG "Adding a user license")
+    ![Adding a user license.](media/guides-license.PNG "Adding a user license")
     
 5. In the **Apps** list, make sure that the following apps are selected: Common Data Service, Dynamics 365 Guides, Power Apps for Guides.    
     
-    ![Apps list](media/guides-apps-list.PNG "Apps list")
+    ![Apps list.](media/guides-apps-list.PNG "Apps list")
 
 ## What's next?
 

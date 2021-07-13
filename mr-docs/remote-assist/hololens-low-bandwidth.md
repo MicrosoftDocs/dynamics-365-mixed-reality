@@ -35,7 +35,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 2. In the call, Dynamics 365 Remote Assist autodetects if the technician is experiencing poor network conditions. 
 
-    ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing a low-quality image in the chat window because of poor network conditions](./media/03.15-call-snapshot-poor-connection-message.png "Detection") 
+    ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing a low-quality image in the chat window because of poor network conditions.](./media/03.15-call-snapshot-poor-connection-message.png "Detection") 
 
 3. The technician is prompted to use the **Snapshot** tool to share images with the expert.
 

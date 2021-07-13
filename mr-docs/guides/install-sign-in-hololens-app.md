@@ -36,15 +36,15 @@ After you've made sure that your [HoloLens is correctly calibrated](hololens-app
 
 1. Select **All Apps**.
 
-    ![All Apps button](media/hololens-apps.PNG "All Apps button")
+    ![All Apps button.](media/hololens-apps.PNG "All Apps button")
 
 2. Select the down arrow button.
 
-    ![Down arrow button](media/hololens-down-arrow.PNG "Down arrow button")
+    ![Down arrow button.](media/hololens-down-arrow.PNG "Down arrow button")
 
 3. Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
-    ![Dynamics 365 Guides button](media/open-guides-application.PNG "Dynamics 365 Guides button")
+    ![Dynamics 365 Guides button.](media/open-guides-application.PNG "Dynamics 365 Guides button")
 
 4. On the **Welcome** page, select **Sign in**.
 
@@ -52,17 +52,17 @@ After you've made sure that your [HoloLens is correctly calibrated](hololens-app
 
 6. On the **Work or school account** page, enter the credentials that you created during sign-up for the trial, or the credentials that the admin who installed the app provided to you.
 
-    ![Work or school account page](media/sign-in-hololens.PNG "Work or school account page")
+    ![Work or school account page.](media/sign-in-hololens.PNG "Work or school account page")
 
 7. Select an instance to use, if you have more than one instance. Then select **Continue**.
 
 8. On the **Select Guide** page, gaze at the guide that you want to open until the circle is filled. When the circle is filled, the guide is selected.
 
-    ![Select Guide page](media/select-guide.png "Select Guide page")
+    ![Select Guide page.](media/select-guide.png "Select Guide page")
 
 9. In the **Select Mode** dialog box, gaze at the circle to the left of **Author** to select it.
 
-    ![Select Mode dialog box](media/select-mode.png "Select Mode dialog box")
+    ![Select Mode dialog box.](media/select-mode.png "Select Mode dialog box")
 
 ## What's next?
 

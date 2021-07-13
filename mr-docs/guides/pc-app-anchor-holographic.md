@@ -31,25 +31,25 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 1. On the **Outline** page, select **Set your anchor now**.
 
-    ![Set your anchor now button](media/outline-page-3.PNG "Set your anchor now button")
+    ![Set your anchor now button.](media/outline-page-3.PNG "Set your anchor now button")
 
 2. On the **Choose an anchor method** page, select **Select** for the **Holographic** anchor method.
 
-    ![Select button for the Holographic anchor method](media/holographic-anchor-choose-method.PNG "Select button for the Holographic anchor method")
+    ![Select button for the Holographic anchor method.](media/holographic-anchor-choose-method.PNG "Select button for the Holographic anchor method")
 
 3. In step 1 of the wizard, select **Import**, find your custom 3D model, and then select **Open** to import it. The model is added to the **3D parts** tab in the gallery.
 
-    ![Import button](media/holographic-anchor-import-button.PNG "Import button")
+    ![Import button.](media/holographic-anchor-import-button.PNG "Import button")
 
 4. Drag the 3D model from the **3D parts** tab to the **Assign holographic anchor** box. The 3D model is assigned as the holographic anchor for the guide. When you've finished, 
 select **Next** to move to the next step.
 
-    ![Assign holographic anchor box](media/holographic-anchor-drag-model.PNG "Assign holographic anchor box")
+    ![Assign holographic anchor box.](media/holographic-anchor-drag-model.PNG "Assign holographic anchor box")
 
 5. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open the guide, and then use air tap and hold to move the holographic anchor directly over a physical 
 object in your work environment. If you must rotate the object, use air tap and hold to move the blue spheres.
 
-    ![Blue spheres](media/blue-spheres-digital-anchor.PNG "Blue spheres")
+    ![Blue spheres.](media/blue-spheres-digital-anchor.PNG "Blue spheres")
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a holographic anchor when you author a guide. For more 
@@ -62,12 +62,12 @@ object in your work environment. If you must rotate the object, use air tap and 
 8. In step 4 of the wizard, select the **Import** button to import the photo that you took in step 6. Then drag it to the **Import photo of anchor location** box. When you've 
 finished, select **Next** to move to the next step.
 
-    ![Import photo of anchor location box](media/holographic-anchor-import-photo.PNG "Import photo of anchor location box")
+    ![Import photo of anchor location box.](media/holographic-anchor-import-photo.PNG "Import photo of anchor location box")
 
 9. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit Step card text**, and then enter your instructions. When you've 
 finished, select **Next** to move to the next step, and then select **Confirm**.
 
-    ![Edit Step card text button](media/holographic-anchor-operator-instructions.PNG "Edit Step card text button")
+    ![Edit Step card text button.](media/holographic-anchor-operator-instructions.PNG "Edit Step card text button")
 
 ## Best practices for holographic anchors
 

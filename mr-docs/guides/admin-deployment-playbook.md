@@ -19,7 +19,7 @@ which provides end-to-end control over your deployment, from the server side to 
 
 The following illustration shows the overall architecture.
 
-![Dynamics 365 Guides architecture](media/dynamics-365-guides-architecture.PNG "Dynamics 365 Guides architecture")
+![Dynamics 365 Guides architecture.](media/dynamics-365-guides-architecture.PNG "Dynamics 365 Guides architecture")
 
 Dynamics 365 Guides includes two client-side applications: the PC app (a Universal Windows Platform \[UWP\] app) and the HoloLens app. Server-side data is stored in Dataverse in your customer tenant.
 
@@ -38,7 +38,7 @@ A basic Dynamics 365 Guides deployment should consist of at least two Dataverse 
 
 You can use the test environment to validate any major updates before you push them to your production environment, where Dynamics 365 Guides is being used by your users.
 
-![Test vs. production environments](media/test-production-instances.png "Test vs. production environments")
+![Test vs. production environments.](media/test-production-instances.png "Test vs. production environments")
 
 > [!NOTE]
 > In this case, the term "production environment" refers generally to the environment that your users access to do their daily work. It isn't the same as the Dataverse "production environment" that you select when you [install the Dynamics 365 Guides Dataverse solution](setup-step-two.md).
@@ -70,7 +70,7 @@ When you update the solution, schedule downtime with your team, and make sure th
 
 Every release of Dynamics 365 Guides includes an update to the solution. The PC and HoloLens apps will always be backward compatible with their "major" version numbers. For example, version 4.0 of the PC app will always work with version 4.0 of the solution. If you're ever in doubt, [check the app/solution compatibility table](admin-apps-solution-compatibility.md).
 
-![Apps/solution compatibility table](media/app-solution-compatibility-table.PNG "Apps/solution compatibility table")
+![Apps/solution compatibility table.](media/app-solution-compatibility-table.PNG "Apps/solution compatibility table")
 
 ### Major and minor updates – When you must update the solution
 
@@ -78,7 +78,7 @@ The Dynamics 365 Guides team updates the version numbers of the apps and solutio
 
 Minor updates are listed in [What's new](./new.md), through in-app notifications, and through the [Dynamics 365 Guides forum](https://community.dynamics.com/365/guides). Some features in minor updates might require an update to the solution. Although the PC and HoloLens apps will continue to work if you don't update the solution, you won't be able to use the new features. Features that require a solution update are listed in [What's new](./new.md).
 
-![What's new page that shows when a solution update is required for a specific feature](media/solution-update-required.PNG "What's new page that shows when a solution update is required for a specific feature")
+![What's new page that shows when a solution update is required for a specific feature.](media/solution-update-required.PNG "What's new page that shows when a solution update is required for a specific feature")
 
 To [update the solution](./upgrade.md), a Dataverse **System Admin** security role and a valid Dynamics 365 Guides or Power Apps license must be assigned to you.
 
@@ -86,7 +86,7 @@ To [update the solution](./upgrade.md), a Dataverse **System Admin** security ro
 
 The PC and HoloLens apps are managed through Microsoft Store, which is pre-installed on HoloLens and most PCs. As a best practice, keep the **Update apps automatically** option turned on to ensure that you're using the latest and most stable versions of the apps.
 
-![Microsoft Store page, where the Update apps automatically option is turned on](media/update-apps-automatically.PNG "Microsoft Store page, where the Update apps automatically option is turned on")
+![Microsoft Store page, where the Update apps automatically option is turned on.](media/update-apps-automatically.PNG "Microsoft Store page, where the Update apps automatically option is turned on")
 
 If Microsoft Store isn't available to you, you can request that your IT department add Dynamics 365 Guides to Microsoft Store for Business. If this approach isn't feasible, contact your Dynamics 365 Guides team or sales representative, and request engineering support to facilitate direct installation of the applications.
 
@@ -134,7 +134,7 @@ The following table describes the different roles and when you should use each.
 
 The example in the following illustration shows how Dataverse environments, access teams, and user roles can be used to manage access to environments and guides.
 
-![Using environments, access teams, and user roles for different levels of security access](media/security-access-methods-diagram.PNG "Using environments, access teams, and user roles for different levels of security access")
+![Using environments, access teams, and user roles for different levels of security access.](media/security-access-methods-diagram.PNG "Using environments, access teams, and user roles for different levels of security access")
 
 > [!TIP]
 > You can use Azure AD security groups to [assign Dynamics 365 Guides security roles to batches of users](https://powerusers.microsoft.com/t5/Common-Data-Service-for-Apps/How-to-assign-security-roles-to-Microsoft-365-Groups-Security/m-p/648584). This capability is useful when you're deploying Dynamics 365 Guides to many operators. It lets you use a bulk operation instead of having to assign roles individually.
