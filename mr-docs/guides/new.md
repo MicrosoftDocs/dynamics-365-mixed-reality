@@ -22,6 +22,24 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
+## July 27, 2021
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|XXX|
+|HoloLens app (HoloLens 2 only)|XXX|
+|Solution|XXX|
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="DOCS URL GOES HERE" target="_blank">Anchor a guide by using Azure Object Anchors</a>|
+
+### Bugs fixed
+
+- XXX
+
 ## June 29, 2021
 
 |Item|Version|
