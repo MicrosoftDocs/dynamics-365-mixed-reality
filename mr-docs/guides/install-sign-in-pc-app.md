@@ -29,17 +29,17 @@ Use these instructions to install the [!include[cc-microsoft](../includes/cc-mic
 
 2. On the **Welcome to Guides** page, select **Sign in**.
 
-    ![Welcome to Guides page](media/welcome.PNG "Welcome to Guides page")
+    ![Welcome to Guides page.](media/welcome.PNG "Welcome to Guides page")
 
 3. In the **Sign in** dialog box, select **Work or school account**, and then select **Continue**.
 
 4. On the **Sign in** page, enter the user account and password that your organization assigned to you.
 
-    ![Sign in page](media/sign-in-pc.PNG "Sign in page")
+    ![Sign in page.](media/sign-in-pc.PNG "Sign in page")
 
 5. Select the instance that you want to use, if there is more than one instance. Then select **OK**.
 
-    ![Selecting an instance](media/choose-instance-pc.PNG "Selecting an instance")
+    ![Selecting an instance.](media/choose-instance-pc.PNG "Selecting an instance")
 
 ## What's next?
 

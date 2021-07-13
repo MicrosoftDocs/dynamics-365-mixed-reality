@@ -14,7 +14,7 @@ robots: noindex, nofollow
 
 Three-dimensional models come in all shapes and sizes. Sometimes they're complex and require preparation before you can use them in mixed-reality scenarios. To make it easier to prepare your 3D models, we've created tutorials for several third-party computer-aided design (CAD) and digital content creation (DCC) programs. The goal of these tutorials isn't for you to become an expert at using these programs, but to guide you through the process of preparing your 3D models so you can achieve more with mixed reality.
 
-![Example of a 3D model](media/overview-cad2poly.PNG "Example of a 3D model") 
+![Example of a 3D model.](media/overview-cad2poly.PNG "Example of a 3D model") 
 
 ## CAD tutorials
 

@@ -32,16 +32,16 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 1. On the **Outline** page, select **Set your anchor now**.
 
-    ![Set your anchor now button](media/outline-page-3.PNG "Set your anchor now button")
+    ![Set your anchor now button.](media/outline-page-3.PNG "Set your anchor now button")
 
 2. On the **Choose an anchor method** page, select **Select** for the **Circular Code** anchor method.
 
-    ![Select button for the Circular Code anchor method](media/circular-code-choose-method.PNG "Select button for the Circular Code anchor method")
+    ![Select button for the Circular Code anchor method.](media/circular-code-choose-method.PNG "Select button for the Circular Code anchor method")
 
 3. In step 1 of the wizard, select **Download circular code** to create a PDF file that is named **Guides-CircularCodeAnchor**. This file includes the anchor that you will 
 print in step 6.
 
-    ![Download circular code button](media/circular-code-download-code.PNG "Download circular code button")
+    ![Download circular code button.](media/circular-code-download-code.PNG "Download circular code button")
 
 4. On your computer, in Adobe Acrobat Reader, open the **Guides-CircularCodeAnchor** file.
 
@@ -51,7 +51,7 @@ print in step 6.
 
 5. Select **File** \> **Print**, and then, under **Page Sizing & Handling**, select the **Actual size** option.
 
-    ![Actual size option](media/adobe-actual-size.PNG "Actual size option")
+    ![Actual size option.](media/adobe-actual-size.PNG "Actual size option")
 
 6. Print the last page of the document on matte stock and don't laminate it. Glossy materials can affect scanning and will decreaes the anchor detection rate. Bubble jet printers produce a better matte finish.
 
@@ -60,7 +60,7 @@ print in step 6.
 
 7. Make sure that the printed marker spacing matches the measurements shown in the following illustration as the size of the anchor can change depending on the printer used. The anchor measurements must be exact.
 
-    ![Circular code anchor measurements](media/circular-code-measurements.PNG "Circular code anchor measurements")
+    ![Circular code anchor measurements.](media/circular-code-measurements.PNG "Circular code anchor measurements")
 
     > [!NOTE]
     > If the anchor spacing isn't within +/– 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the 
@@ -74,16 +74,16 @@ step.)
 10. In step 3 of the wizard, select **Import** to import the picture that you took in step 8. Then drag it to the **Import anchor placement photo** box. When you've finished, 
 select **Next** to move to the next step.
 
-    ![Import button](media/circular-code-import-photo.PNG "Import button")
+    ![Import button.](media/circular-code-import-photo.PNG "Import button")
 
 11. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit Step card text**, and then enter your instructions. When you've 
 finished, select **Next** to move to the next step.
 
-    ![Edit Step card text button](media/circular-code-operator-instructions.PNG "Edit Step card text button")
+    ![Edit Step card text button.](media/circular-code-operator-instructions.PNG "Edit Step card text button")
 
 12. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open your guide, and then gaze at the circular code anchor to anchor the guide.
 
-    ![Align HoloLens](media/circular-code-align-hololens.PNG "Align HoloLens")
+    ![Align HoloLens.](media/circular-code-align-hololens.PNG "Align HoloLens")
 
 ## Best practices for circular code anchors
 

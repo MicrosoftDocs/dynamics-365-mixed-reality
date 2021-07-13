@@ -26,7 +26,7 @@ Modeling tools in most CAD applications use sets of adjustable mathematical para
 
 The following illustration shows a model visualized in Autodesk Inventor and [!include[cc-microsoft](../includes/cc-microsoft.md)] 3D Viewer.
 > [!div class="mx-imgBorder"]
-> ![Parametric versus polygonal geometry](media/compare-geometry.PNG "Parametric versus polygonal geometry")
+> ![Parametric versus polygonal geometry.](media/compare-geometry.PNG "Parametric versus polygonal geometry")
 
 **A.**	Parametric 3D model ready for simulation and manufacturing<br>
 **B.**	Polygonal surface 3D model ready for real-time rendering

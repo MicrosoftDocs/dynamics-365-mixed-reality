@@ -22,11 +22,11 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 2. Enter your Dynamics 365 instance credentials, and sign in to see a list of published apps. The **Sales Hub** app must be listed to continue.
 
-    ![Apps list](media/apps-list.png "Apps list")
+    ![Apps list.](media/apps-list.png "Apps list")
 
 3. Select the **Settings** icon, and then select **Advanced Settings**.
 
-    ![Advance settings](media/advance-settings.png "Advance settings")
+    ![Advance settings.](media/advance-settings.png "Advance settings")
 
     The **Business Management** page opens in a new browser tab.
 
@@ -36,27 +36,27 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 6. Under **Components** in the solution explorer, expand **Entities**, then expand an entity to you want to connect to, and then select **Forms**. For example, **Entities** > **Opportunity** > **Forms**.
 
-    ![Expand an entity and select Forms in the solution explorer](media/opportunity-forms.png "Expand an entity and select Forms in the solution explorer")
+    ![Expand an entity and select Forms in the solution explorer.](media/opportunity-forms.png "Expand an entity and select Forms in the solution explorer")
 
 7. Select the main form to open it.
 
-    ![Select the main form](media/select-default-form.png "Select the main form")
+    ![Select the main form.](media/select-default-form.png "Select the main form")
 
 8. In the **Field Explorer** pane, select **New Field**.
 
-    ![New field button in Field Explorer](media/new-field-button.png "New field button in Field Explorer")
+    ![New field button in Field Explorer.](media/new-field-button.png "New field button in Field Explorer")
 
 9. Enter the required details for the new field and select **Save and Close**.
 
-    ![Enter details for the new field](media/new-field-details.png "Enter details for the new field")
+    ![Enter details for the new field.](media/new-field-details.png "Enter details for the new field")
 
 10. Go the entity's form you opened in step 7 and refresh the page. The new field is displayed in the **Field Explorer** pane.
 
-    ![New field displayed in Field Explorer](media/new-field-created.png "New field displayed in Field Explorer")
+    ![New field displayed in Field Explorer.](media/new-field-created.png "New field displayed in Field Explorer")
 
 11. Select the field and drag it to the desired location on the form.
 
-    ![Add new field to the form](media/new-field-added-form.png "Add new field to the form")
+    ![Add new field to the form.](media/new-field-added-form.png "Add new field to the form")
 
 12. Save and publish the changes.
 
@@ -66,7 +66,7 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 15. In the **Mixed-reality session** field, search for the mixed-reality session to link and select it.
 
-    ![Use the new field added to enter data](media/use-new-field.png "Use the new field added to enter data")
+    ![Use the new field added to enter data.](media/use-new-field.png "Use the new field added to enter data")
 
 16. Follow steps 6 through 15 to add and link to other Product Visualize entities.
 
@@ -76,11 +76,11 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 2. Enter your Dynamics 365 instance credentials, and sign in to see a list of published apps. The **Sales Hub** app must be listed to continue.
 
-    ![Apps list](media/apps-list.png "Apps list")
+    ![Apps list.](media/apps-list.png "Apps list")
 
 3. Select the **Settings** icon, and then select **Advanced Settings**.
 
-    ![Advance settings](media/advance-settings.png "Advance settings")
+    ![Advance settings.](media/advance-settings.png "Advance settings")
 
     The **Business Management** page opens in a new browser tab.
 
@@ -90,35 +90,35 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 6. Select **Try new experience** on the notification bar.
 
-    ![Try new experience](media/try-new-experience.png "Try new experience")
+    ![Try new experience.](media/try-new-experience.png "Try new experience")
 
 7. In the left pane, expand **Data** and select **Entities**.
 
-    ![Expand Data and select Entities in the left pane](media/left-pane-entities.png "Expand Data and select Entities in the left pane")
+    ![Expand Data and select Entities in the left pane.](media/left-pane-entities.png "Expand Data and select Entities in the left pane")
 
 8. In the search box at the upper-right corner, search for the entity, and then select it. For example, Opportunity. 
 
-    ![Search and select the Opportunity entity](media/select-opportunity-entity.png "Search and select the Opportunity entity")
+    ![Search and select the Opportunity entity.](media/select-opportunity-entity.png "Search and select the Opportunity entity")
 
 9. Go to the **Forms** tab, and select the main form to open it.
 
-    ![Select main form](media/entity-main-form.png "Select main form")
+    ![Select main form.](media/entity-main-form.png "Select main form")
 
 10. In the **Fields** pane, select **New field**.
 
-    ![New field button on the Fields pane](media/new-field-button-pane.png "New field button on the Fields pane")
+    ![New field button on the Fields pane.](media/new-field-button-pane.png "New field button on the Fields pane")
 
 11. In the **New Field** panel, enter the required details for the new field and select **Done**.
 
-    ![New field details](media/field-details.png "New field details")
+    ![New field details.](media/field-details.png "New field details")
 
 12. In the **Fields** pane, search for the new field added.
 
-    ![Search for the new field](media/search-new-field.png "Search for the new field")
+    ![Search for the new field.](media/search-new-field.png "Search for the new field")
 
 13. Select the field and drag it to the desired location on the form.
 
-    ![New field added to the form](media/new-field-added-opp-form.png "New field added to the form")
+    ![New field added to the form.](media/new-field-added-opp-form.png "New field added to the form")
 
 14. Save and publish the changes.
 
@@ -128,7 +128,7 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 17. In the **Mixed-reality session** field, search for the mixed-reality session to link and select it.
 
-    ![Use the new field added to enter data](media/use-new-field.png "Use the new field added to enter data")
+    ![Use the new field added to enter data.](media/use-new-field.png "Use the new field added to enter data")
 
 18. Follow steps 10 through 17 to add and link to other Product Visualize entities.
 

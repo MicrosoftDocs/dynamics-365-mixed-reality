@@ -43,15 +43,15 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 1. On the **Outline** page, select **Set your anchor now**.
 
-    ![Set your anchor now button](media/outline-page-3.PNG "Set your anchor now button")
+    ![Set your anchor now button.](media/outline-page-3.PNG "Set your anchor now button")
 
 2. On the **Choose an anchor method** page, select **Select** for the **QR Code** anchor method.
 
-    ![Select button for the QR Code anchor method](media/qr-code-choose-method.PNG "Select button for the QR Code anchor method")
+    ![Select button for the QR Code anchor method.](media/qr-code-choose-method.PNG "Select button for the QR Code anchor method")
 
 3. In step 1 of the wizard, select **Download QR code** to create a PDF file that is named **Guides-QRCodeAnchor**. This file includes the anchor that you will print in step 5.
 
-    ![Download QR code button](media/qr-code-download-button.PNG "Download QR code button")
+    ![Download QR code button.](media/qr-code-download-button.PNG "Download QR code button")
     
     You can use the same QR code for any guide that uses a QR code anchor. 
 
@@ -70,22 +70,22 @@ previous step.)
 8. In step 3 of the wizard, select **Import** to import the picture that you took in step 6. Then drag it to the **Import anchor placement photo** box. When you've finished, 
 select **Next** to move to the next step.
 
-    ![Import button](media/qr-code-import-photo.PNG "Import button")
+    ![Import button.](media/qr-code-import-photo.PNG "Import button")
 
 9. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've 
 finished, select **Next** to move to the next step.
 
-    ![Edit step card text button](media/qr-code-operator-instructions.PNG "Edit step card text button")
+    ![Edit step card text button.](media/qr-code-operator-instructions.PNG "Edit step card text button")
 
 10. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open your guide, and then gaze at the QR code anchor to anchor the guide.
 
-    ![Align HoloLens](media/qr-code-align-hololens.PNG "Align HoloLens")
+    ![Align HoloLens.](media/qr-code-align-hololens.PNG "Align HoloLens")
 
 ## QR code anchor configuration
 
 The following illustration shows the different parts of the QR code anchor (see step 3 in the previous procedure) provided with Dynamics 365 Guides:
 
-![QR code illustration](media/qr-code-anchor-dissected.PNG "QR code illustration")
+![QR code illustration.](media/qr-code-anchor-dissected.PNG "QR code illustration")
 
 1. **Anchor origin.** This location is used as the guide origin point for all the content in your guide.
 

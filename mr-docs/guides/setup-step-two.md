@@ -34,13 +34,13 @@ The type of environment that you create depends on whether you purchased a [!inc
 > [!IMPORTANT]
 > To install or update the solution, you must have the [System Administrator](/power-platform/admin/database-security) role, **and** you must have a [Power Apps license](/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
 >
-> ![Dynamics 365 Guides license selected](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
+> ![Dynamics 365 Guides license selected.](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
 >
 > When you have a Power Apps license, the **Access Mode** security property is set to **Read-Write**. This setting is required to update the solution. 
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Environments** if it isn't already selected, and then select **New**.
 
-    ![New button](media/add-new-environment.PNG "New button")
+    ![New button.](media/add-new-environment.PNG "New button")
 
     The **New environment** dialog box appears on the right side of the page.
 
@@ -50,7 +50,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     2. In the **Type** field, select **Production**.
 
-        ![New environment dialog box](media/new-environment-pane.PNG "New environment dialog box")
+        ![New environment dialog box.](media/new-environment-pane.PNG "New environment dialog box")
 
     3. In the **Region** field, keep the default setting.
 
@@ -60,14 +60,14 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 3. In the **Add database** dialog box that appears on the right side of the page, select your language and currency, and set the **Enable Dynamics 365 apps** option to **Yes**. Keep the default values for the other fields. Then select **Save**.
 
-    ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
+    ![Add database dialog box.](media/add-database-pane.PNG "Add database dialog box")
     
     > [!NOTE]
     > If you plan to run Dynamics 365 Remote Assist in this environment, you'll need to obtain a paid Dynamics 365 Remote Assist license, and then set the **Enable Dynamics 365 apps** option when creating this environment. Or you can migrate to a joint environment when you decide to purchase Dynamics 365 Remote Assist.    
 
     A message is shown that explains that the production environment is being prepared.
 
-    ![Environment preparation message](media/environment-message.PNG "Environment preparation message")
+    ![Environment preparation message.](media/environment-message.PNG "Environment preparation message")
     
     > [!NOTE]
     > For information about security groups, see [Restrict access to an instance](admin-security.md).
@@ -84,7 +84,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 > [!IMPORTANT]
 > To install or update the solution, you must have the [System Administrator](/power-platform/admin/database-security) role, **and** you must have a [Power Apps license](/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
 >
-> ![Dynamics 365 Guides license selected](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
+> ![Dynamics 365 Guides license selected.](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
 >
 > When you have a Power Apps license, the **Access Mode** security property is set to **Read-Write**. This setting is required to update the solution. 
 
@@ -92,7 +92,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 2. In the left pane, select **Environments**.
 
-    ![Environments page](media/powerapps-environments.PNG "Environments page")
+    ![Environments page.](media/powerapps-environments.PNG "Environments page")
 
 3. Select the default environment (for example, Contoso).
 
@@ -101,14 +101,14 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 4. Select **Add database**.
 
-   ![Add database command](media/select-add-database.PNG "Add database command")
+   ![Add database command.](media/select-add-database.PNG "Add database command")
 
 5. In the **Add database** pane that appears on the right side of the screen, select your language and currency, keep the default settings for the other fields, and then select **Add**.
 
    > [!NOTE]
    > If you see a warning that says, "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps," ignore it.
    
-   ![Add command and warning message](media/select-add.PNG "Add command and warning message")
+   ![Add command and warning message.](media/select-add.PNG "Add command and warning message")
 
 6. Go to the next procedure: **Install and configure the solution**.
 
@@ -119,22 +119,22 @@ The type of environment that you create depends on whether you purchased a [!inc
     > [!NOTE]
     > It might take a few minutes for **Dynamics 365 Guides** to appear in the list.
 
-    ![Select Dynamics 365 Guides](media/select-dynamics-365-guides.PNG "Dynamics 365 Guides")
+    ![Select Dynamics 365 Guides.](media/select-dynamics-365-guides.PNG "Dynamics 365 Guides")
 
 2. In the **Install Dynamics 365 Guides** dialog box, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
 
-    ![Install Dynamics 365 Guides dialog box](media/solution-install.PNG "Install Dynamics 365 Guides dialog box")
+    ![Install Dynamics 365 Guides dialog box.](media/solution-install.PNG "Install Dynamics 365 Guides dialog box")
 
     In the Power Platform admin center, the following message is shown: "Dynamics 365 Guides installation started at \<*time*\>, \<*date*\> by \<*name*\> Account."
 
-    ![Installation message](media/installing-solution-message.PNG "Installation message")
+    ![Installation message.](media/installing-solution-message.PNG "Installation message")
 
     While the solution is being installed, **Installing** appears in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
 
     > [!NOTE]
     > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try to install again, in the **Error details** dialog box, under **How to troubleshoot**, select the **retry installation** link.
     >
-    > ![Error details dialog box](media/failed-solution-install.PNG "Error details dialog box")
+    > ![Error details dialog box.](media/failed-solution-install.PNG "Error details dialog box")
 
 ## What's next?
 

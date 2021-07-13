@@ -21,11 +21,11 @@ After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-
 
 2. In the **Asset gallery**, select the **Triggers** category.
 
-    ![Trigger category in the Asset gallery](media/trigger-category-hololens-app.PNG "Trigger category in the Asset gallery")
+    ![Trigger category in the Asset gallery.](media/trigger-category-hololens-app.PNG "Trigger category in the Asset gallery")
 
 3. Select the type of trigger (**Back**, **Invisible**, or **Next**) you want to create. For information on types of triggers, see [Create a trigger with the PC app](pc-app-trigger.md).
 
-    ![Three types of triggers in Asset gallery](media/triggers-asset-gallery.PNG "Three types of triggers in Asset gallery")
+    ![Three types of triggers in Asset gallery.](media/triggers-asset-gallery.PNG "Three types of triggers in Asset gallery")
  
 3. The item is added to the bin and is ready to place in the real world.
 
@@ -56,11 +56,11 @@ You can edit a trigger the same way you edit any other hologram in the HoloLens 
 
 2. Select the **Edit Hologram** (pencil) button.
 
-    ![Edit Hologram button](media/edit-hologram.png "Edit Hologram button")
+    ![Edit Hologram button.](media/edit-hologram.png "Edit Hologram button")
  
 3. Select **Duplicate** or **Delete**.
 
-    ![Edit Trigger dialog box](media/trigger-edit.PNG "Edit Trigger dialog box")
+    ![Edit Trigger dialog box.](media/trigger-edit.PNG "Edit Trigger dialog box")
  
     > [!NOTE]
     > You can’t use styles or animations with visible or invisible triggers.

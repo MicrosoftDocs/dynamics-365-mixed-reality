@@ -21,7 +21,7 @@ There are two ways to get to the HoloLens Feedback Hub application to report a b
 
 When you're in the HoloLens Feedback Hub: 
 
-1. From the home tab (represented by this icon![Graphic showing the home icon](media/RAHL_FeedbackHubHome.png), select **Report a problem**, as seen in the following screenshot.
+1. From the home tab (represented by this icon![Graphic showing the home icon.](media/RAHL_FeedbackHubHome.png), select **Report a problem**, as seen in the following screenshot.
 
 ![Screenshot of the "Report a problem" option, represented by a bug-looking icon.](media/RAHL_FeedbackHubReport.png)
 

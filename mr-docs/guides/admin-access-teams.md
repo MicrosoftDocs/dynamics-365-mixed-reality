@@ -35,15 +35,15 @@ To prevent a specific user from accessing all guides by default, you can update 
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the environment, select the **More environment actions** (**...**) button, and then select **Settings**.
 
-    ![Settings command](media/access-teams-9.PNG "Settings command")
+    ![Settings command.](media/access-teams-9.PNG "Settings command")
 
 2. In the **Settings** page, select **Users**.
 
-    ![Users button](media/access-teams-10.PNG "Users button")
+    ![Users button.](media/access-teams-10.PNG "Users button")
 
 3. Select a specific user by selecting the user's full name.
 
-    ![Select a user](media/access-teams-11.PNG "Select a user")
+    ![Select a user.](media/access-teams-11.PNG "Select a user")
 
 4. Select **Manage Roles** to open the **Manage User Roles** dialog box, and then do the following:
 
@@ -55,7 +55,7 @@ To prevent a specific user from accessing all guides by default, you can update 
 
     4. Select **OK**.
 
-    ![Clear and select roles](media/manage-user-basic-user-restricted-op.PNG "Clear and select roles")
+    ![Clear and select roles.](media/manage-user-basic-user-restricted-op.PNG "Clear and select roles")
 
 ## Create an access team
 
@@ -66,23 +66,23 @@ A user can be associated with more than one access team.
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
 
-    ![Settings command](media/access-teams-9.PNG "Settings command")
+    ![Settings command.](media/access-teams-9.PNG "Settings command")
 
 2. In the **Settings** page, select **Teams**.
 
-    ![Teams button](media/access-teams-14.PNG "Teams button")
+    ![Teams button.](media/access-teams-14.PNG "Teams button")
 
 3. Select **New**.
 
-    ![New button](media/access-teams-15.PNG "New button")
+    ![New button.](media/access-teams-15.PNG "New button")
 
 4. In the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
 
-    ![New team settings](media/access-teams-16.jpg "New team settings")
+    ![New team settings.](media/access-teams-16.jpg "New team settings")
 
 5. To add users to the team, select the plus sign (**+**) next to the **Team members** list.
 
-    ![Plus sign button](media/access-teams-17.jpg "Plus sign button")
+    ![Plus sign button.](media/access-teams-17.jpg "Plus sign button")
 
 6. Enter the name of the user that you want to add, select the **Search** button, and then select the user's name.
 
@@ -94,15 +94,15 @@ A user can be associated with more than one access team.
 
 3. Under **Your Apps**, select **Guides**.
 
-    ![Guides button](media/access-teams-22.PNG "Guides button")
+    ![Guides button.](media/access-teams-22.PNG "Guides button")
 
 4. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
-    ![Check box for specific guide selected](media/access-teams-19.PNG "Check box for specific guide selected")
+    ![Check box for specific guide selected.](media/access-teams-19.PNG "Check box for specific guide selected")
 
 5. In the **Share guide** page, select **Add User/Team**.
 
-    ![Screen shot of add User/Team command](media/access-teams-20.PNG "Screen shot of add User/Team command")
+    ![Screen shot of add User/Team command.](media/access-teams-20.PNG "Screen shot of add User/Team command")
 
 6. In the **Look Up Records** dialog box:
 
@@ -114,11 +114,11 @@ A user can be associated with more than one access team.
 
     4. Select **Select**, and then select **Add**.
 
-    ![Add access teams](media/access-teams-21.PNG "Add access teams")
+    ![Add access teams.](media/access-teams-21.PNG "Add access teams")
 
 7. In the **Share guide** dialog box, select specific permissions (make sure the team has the **Read** permission), and then select **Share**.
 
-    ![Update Permissions](media/access-teams-21B.PNG "Update Permissions")
+    ![Update Permissions.](media/access-teams-21B.PNG "Update Permissions")
 
 ## Share a guide with a specific user
 
@@ -128,23 +128,23 @@ Users who have the Share privilege can share guides and guide records that they 
 
 2. Select **Apps**, and then select **Guides**.
 
-    ![Guides button](media/access-teams-22.PNG "Guides button")
+    ![Guides button.](media/access-teams-22.PNG "Guides button")
 
 3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
-    ![Share a guide](media/access-teams-23.PNG "Share a guide")
+    ![Share a guide.](media/access-teams-23.PNG "Share a guide")
 
 4. In the **Share guide** page, select **Add User/Team**.
 
-    ![Add User/Team command](media/access-teams-24.PNG "Add User/Team command")
+    ![Add User/Team command.](media/access-teams-24.PNG "Add User/Team command")
 
 5. In the **Look Up Records** dialog box, select the check box next to a specific user, select **Select**, and then select **Add**.
 
-    ![Add a user](media/access-teams-25.PNG "Add a user")
+    ![Add a user.](media/access-teams-25.PNG "Add a user")
 
 6. Make sure that the user has the **Read** and **Append** privileges, and then select **Share**.
 
-    ![Read privilege selected](media/access-teams-26.PNG "Read privilege selected")
+    ![Read privilege selected.](media/access-teams-26.PNG "Read privilege selected")
 
 ## See also
 

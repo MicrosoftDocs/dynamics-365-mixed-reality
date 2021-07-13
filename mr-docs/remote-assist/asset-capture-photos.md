@@ -35,22 +35,22 @@ Select the **Assets** tab. The list of assets entered through the Dynamics 365 R
 
 1. On the **Assets** tab, select an asset from the list. You can also use the search bar at the bottom of the window.
 
-    ![Screenshot of the Assets tab in Dynamics 365 Remote Assist](./media/06.05-assets-list.png "Screenshot of the Assets tab in Dynamics 365 Remote Assist")
+    ![Screenshot of the Assets tab in Dynamics 365 Remote Assist.](./media/06.05-assets-list.png "Screenshot of the Assets tab in Dynamics 365 Remote Assist")
 
 2. Select the ink or arrow tools to mark up the asset in your environment. For example, you can circle an area of corrosion on a pipe.
 
 3. Enable the **Camera** tool to start capturing photos or the **Video** tool to start capturing videos. The camera or video tool remains enabled after you take a photo or video.
 
-    ![Screenshot of the asset detail view in Dynamics 365 Remote Assist](./media/06.14-asset.png "Screenshot of the asset detail view in Dynamics 365 Remote Assist")
+    ![Screenshot of the asset detail view in Dynamics 365 Remote Assist.](./media/06.14-asset.png "Screenshot of the asset detail view in Dynamics 365 Remote Assist")
 
 4. If taking a photo capture, Air-tap or say the **Snap** voice command to take a picture of the asset with the spatial markup. The photo will be previewed for several seconds, and then saved to Microsoft Dataverse.
 
-    ![Screenshot of the camera mode enabled in Dynamics 365 Remote Assist](./media/06.10-photo-ready.png "Screenshot of the camera mode enabled in Dynamics 365 Remote Assist")
+    ![Screenshot of the camera mode enabled in Dynamics 365 Remote Assist.](./media/06.10-photo-ready.png "Screenshot of the camera mode enabled in Dynamics 365 Remote Assist")
 
     If taking a video capture, Air-tap or say the **Start capture** voice command to take a picture of the asset with the spatial markup. There will be a timer displayed counting down from the maximum video-length available. There will also be a red video icon to indicate that a video is being recorded. To stop recording the video capture, Air-tap or say the **Stop capture**.
 
-    ![Screenshot of the video mode enabled in Dynamics 365 Remote Assist](./media/06.13-video-ready.png "Screenshot of the video mode enabled in Dynamics 365 Remote Assist")
-    ![Screenshot of stopping video capture in Dynamics 365 Remote Assist](./media/06.17-video-recording-hand-raise.png "Screenshot of stopping video capture in Dynamics 365 Remote Assist")
+    ![Screenshot of the video mode enabled in Dynamics 365 Remote Assist.](./media/06.13-video-ready.png "Screenshot of the video mode enabled in Dynamics 365 Remote Assist")
+    ![Screenshot of stopping video capture in Dynamics 365 Remote Assist.](./media/06.17-video-recording-hand-raise.png "Screenshot of stopping video capture in Dynamics 365 Remote Assist")
 
     Any existing photo can be selected in the asset view to preview in the HoloLens environment. If the current user took the photo, they can also delete that photo in the preview window.
 

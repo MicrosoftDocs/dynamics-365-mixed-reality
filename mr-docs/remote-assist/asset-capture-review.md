@@ -24,31 +24,31 @@ To complete this tutorial, you need:
 
 1. From the main menu of your environment, select **Remote Assist** > **Assets**, and then select an existing asset.
 
-    ![Screenshot of the asset record list in Dynamics 365 Remote Assist](./media/06.19-asset-list.png "Screenshot of the asset record list in Dynamics 365 Remote Assist")
+    ![Screenshot of the asset record list in Dynamics 365 Remote Assist.](./media/06.19-asset-list.png "Screenshot of the asset record list in Dynamics 365 Remote Assist")
 
 2. Select the **Attachments** tab on the asset form.
 
-    ![Screenshot of the asset record form](./media/06.20-asset-record.png "Screenshot of the asset record form")
+    ![Screenshot of the asset record form.](./media/06.20-asset-record.png "Screenshot of the asset record form")
 
 3. Select a capture record from the captures subgrid.
 
-    ![Screenshot of the asset capture subgrid](./media/06.21-asset-capture-list.png "Screenshot of the asset capture subgrid")
+    ![Screenshot of the asset capture subgrid.](./media/06.21-asset-capture-list.png "Screenshot of the asset capture subgrid")
 
 4. Scroll down to view the image preview. The image can be expanded by selecting the **Full-screen view** button in the upper-right corner of the image preview control.
 
-    ![Screenshot of the asset capture image preview](./media/06.22-asset-capture-image-preview.png "Screenshot of the asset capture image preview")
+    ![Screenshot of the asset capture image preview.](./media/06.22-asset-capture-image-preview.png "Screenshot of the asset capture image preview")
 
 5. The image can be annotated by drawing directly on the image with your mouse. This is helpful for calling attention to objects or defects in the scene.
 
-    ![Screenshot of an annotated image capture](./media/06.27-asset-capture-image-preview-annotated.png "Screenshot of an annotated image capture")
+    ![Screenshot of an annotated image capture.](./media/06.27-asset-capture-image-preview-annotated.png "Screenshot of an annotated image capture")
 
 6. Captures can be downloaded by selecting **Download** below the image preview control.
 
-    ![Screenshot of the asset capture image download](./media/06.23-asset-capture-image-preview-expanded.png "[Screenshot of the asset capture image download")
+    ![Screenshot of the asset capture image download.](./media/06.23-asset-capture-image-preview-expanded.png "[Screenshot of the asset capture image download")
 
 7. Quickly switch between captures by selecting the **Open Record set** button to the left of the **Save** button. The captures related to the asset appear on the left.
 
-    ![Screenshot of the open record set control](./media/06.28-asset-capture-switcher.png "Screenshot of the open record set control")
+    ![Screenshot of the open record set control.](./media/06.28-asset-capture-switcher.png "Screenshot of the open record set control")
 
 ## Next step
 

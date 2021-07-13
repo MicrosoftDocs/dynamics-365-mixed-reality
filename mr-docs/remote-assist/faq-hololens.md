@@ -17,7 +17,7 @@ Here are some answers to common questions about using Dynamics 365 Remote Assist
 
 In Remote Assist HoloLens, go to the **Settings tab**, and then find the version number in the bottom left of the **Settings** page.
 
-![Version number](media/hl-version-number.png "Version number")
+![Version number.](media/hl-version-number.png "Version number")
 
 ## How can I use the newest version of Dynamics 365 Remote Assist?
 
@@ -139,7 +139,7 @@ There are two ways to get to the HoloLens Feedback Hub application to report a b
 
 When you're in the HoloLens Feedback Hub: 
 
-1. From the home tab (represented by this icon![Graphic showing the home icon](media/RAHL_FeedbackHubHome.png), select **Report a problem**, as seen in the following screenshot.
+1. From the home tab (represented by this icon![Graphic showing the home icon.](media/RAHL_FeedbackHubHome.png), select **Report a problem**, as seen in the following screenshot.
 
     ![Screenshot of the "Report a problem" option, represented by a bug-looking icon.](media/RAHL_FeedbackHubReport.png)
 

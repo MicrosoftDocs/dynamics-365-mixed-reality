@@ -62,7 +62,7 @@ IT admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up
 
 1.	[Log into the Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
 
-    ![Screenshot of the admin portal](./media/buy_1.png "Admin portal")
+    ![Screenshot of the admin portal.](./media/buy_1.png "Admin portal")
 
 2. Make sure the **Try the new admin center** toggle is turned off.
 
@@ -74,7 +74,7 @@ IT admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up
 4.	A list of services will appear. Scroll down until you find **Dynamics 365 Remote Assist**.
 
 5.	Hover your cursor over the plan until two options appear: **Start free trial** or **Buy now**. Select **Start free trial**. Follow the next steps of the payment process. 
-    ![Screenshot of the start free trial option](./media/buy_5.png "Start free trial")
+    ![Screenshot of the start free trial option.](./media/buy_5.png "Start free trial")
 
 ## Option 3: Dynamics 365 Remote Assist Attach trial license (for Dynamics 365 Field Service customers)
 

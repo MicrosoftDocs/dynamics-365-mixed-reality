@@ -37,11 +37,11 @@ To assign user roles:
 
 3. Select the environment that you want to work with, select the **More environment actions** (**...**) button, and then select **Settings**.
 
-    ![Settings command](media/environment-settings.PNG "Settings command")
+    ![Settings command.](media/environment-settings.PNG "Settings command")
 
 4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics 365, be sure to use your admin credentials.
 
-    ![Users selected](media/users-setting.PNG "Users selected")
+    ![Users selected.](media/users-setting.PNG "Users selected")
 
     > [!IMPORTANT]
     > You can access Dynamics 365 Guides data through the **Guides Hub** tile.  The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, Guide modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
@@ -57,22 +57,22 @@ To assign user roles:
 
 6. Select **Manage users in Dynamics 365** at the top of the page.
 
-   ![Manage Users in Dynamics 365 command](media/select-manage-users.png "Manage Users in Dynamics 365 command")
+   ![Manage Users in Dynamics 365 command.](media/select-manage-users.png "Manage Users in Dynamics 365 command")
 
 7. Select one or more users, and then select **Manage Roles** at the top of the page.
 
-    ![Manage Roles button](media/select-manage-roles.PNG "Manage Roles button")
+    ![Manage Roles button.](media/select-manage-roles.PNG "Manage Roles button")
 
 8. In the **Manage User Roles** dialog box, make sure that the **Basic User** check box is selected.
 
-    ![Basic User check box](media/basic-user-role.PNG "Basic User check box")
+    ![Basic User check box.](media/basic-user-role.PNG "Basic User check box")
 
     > [!NOTE]
     > You may see a **Common Data Service** check box instead of a **Basic User** check box. If so, select that check box.
 
 9. Select the check box for the appropriate role for the selected users, and then select **OK**.
 
-    ![Author and Operator check boxes](media/select-role.PNG "Author and Operator check boxes")
+    ![Author and Operator check boxes.](media/select-role.PNG "Author and Operator check boxes")
     
     [Learn about the different Author and Operator roles](admin-role-types.md).
 
@@ -82,7 +82,7 @@ To assign user roles:
 
 If users don't appear on the **Security** page (**Dynamics 365** > **Settings** > **Security**), in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. Users added to the instance should appear in the user list within a few minutes.
 
-![Adding a user in Power Platform admin center](media/add-user-4.PNG "Adding a user in Power Platform admin center")
+![Adding a user in Power Platform admin center.](media/add-user-4.PNG "Adding a user in Power Platform admin center")
 
 ## See also
 

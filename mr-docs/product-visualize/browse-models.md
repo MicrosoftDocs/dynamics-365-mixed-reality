@@ -18,23 +18,23 @@ You don't have to have a Dynamics 365 account to view 3D models in Dynamics 365 
 > [!NOTE]
 > The cloud storage app must be installed on your iPhone or iPad.
 
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Import model**.
+1. Tap **Main** ![Main menu.](media/hamburger-icon.png "Main menu"), and then tap **Import model**.
 
    > [!div class=mx-imgBorder]
-   > ![Import model](media/import-model.png "Import model")
+   > ![Import model.](media/import-model.png "Import model")
 
 2. Tap **Continue**.
 
     > [!div class=mx-imgBorder]
-    > ![Confirmation message](media/confirm-import-model.png "Confirmation message")
+    > ![Confirmation message.](media/confirm-import-model.png "Confirmation message")
 
 3.	Select a model from the list of recently used models or tap **Browse** to search for models stored on your device or in any cloud storage.
 
     > [!div class=mx-imgBorder]
-    > ![Select a model to be imported](media/recent-models.png "Select a model to be imported")
+    > ![Select a model to be imported.](media/recent-models.png "Select a model to be imported")
 
     > [!div class=mx-imgBorder]
-    > ![Browse a model to be imported](media/browse-models.png "Browse a model to be imported")
+    > ![Browse a model to be imported.](media/browse-models.png "Browse a model to be imported")
 
 4.	Point your device down toward a flat surface like the floor or a desk, and then tap **Place** to place the model.
 

@@ -55,11 +55,11 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
     |Button|Description|
     |--------|--------------------------|
-    |![Video button](./media/ra-video-button.PNG)|Change between video call and audio-only call|
-    |![Microphone button](./media/ra-microphone-button.PNG)|Mute or unmute the microphone|
-    |![Speakers button](./media/ra-speaker-button.PNG)|Turn the speaker on or off|
-    |![More menu button](./media/ra-more-menu.PNG)|Display the **More** menu to add participants, share spaces (environment), or start/stop a recording|
-    |![End call button](./media/ra-end-call.PNG)|End the call|
+    |![Video button.](./media/ra-video-button.PNG)|Change between video call and audio-only call|
+    |![Microphone button.](./media/ra-microphone-button.PNG)|Mute or unmute the microphone|
+    |![Speakers button.](./media/ra-speaker-button.PNG)|Turn the speaker on or off|
+    |![More menu button.](./media/ra-more-menu.PNG)|Display the **More** menu to add participants, share spaces (environment), or start/stop a recording|
+    |![End call button.](./media/ra-end-call.PNG)|End the call|
     
 7. During the call, call participants can capture and annotate snapshots, send messages, share files, and more.
 

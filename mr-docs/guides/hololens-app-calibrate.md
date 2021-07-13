@@ -27,7 +27,7 @@ If you don't configure the IPD for each user:
 
 1. When you turn on the device for the first time, the following system prompt automatically appears: "Let's adjust [!include[pn-hololens](../includes/pn-hololens.md)] for your eyes." To begin calibration, select **Adjust**.
 
-    ![Adjust prompt](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
+    ![Adjust prompt.](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
 
 2. Use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for navigating Dynamics 365 Guides](authoring-gestures-HL2.md).
 
@@ -55,7 +55,7 @@ If you don't configure the IPD for each user:
 
 2. Air tap **Calibration**.
 
-    ![Calibration button](media/hololens-calibration.PNG "Calibration button")
+    ![Calibration button.](media/hololens-calibration.PNG "Calibration button")
 
 3. Follow the instructions on your [!include[pn-hololens](../includes/pn-hololens.md)].
 

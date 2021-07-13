@@ -12,7 +12,7 @@ manager: shujoshi
 
 To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. 
 
-![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
+![Convert flow highlighted.](media/convert-flow.PNG "Convert flow highlighted") 
 
 ## Tools for exporting CAD models
 

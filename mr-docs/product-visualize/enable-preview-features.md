@@ -27,15 +27,15 @@ Following are the preview features available in Product Visualize:
 
 **To enable preview features**
 
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
+1. Tap **Main** ![Main menu.](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
 
     > [!div class=mx-imgBorder]
-    > ![Preview features](media/preview-features.png "Preview features")
+    > ![Preview features.](media/preview-features.png "Preview features")
 
 2. In the **Feature Settings** screen, turn on the preview feature toggle.
 
     > [!div class=mx-imgBorder]
-    > ![Feature settings screen](media/feature-settings-screen.png "Feature settings screen")
+    > ![Feature settings screen.](media/feature-settings-screen.png "Feature settings screen")
 
 ### See also
 

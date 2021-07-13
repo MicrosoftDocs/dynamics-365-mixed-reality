@@ -64,7 +64,7 @@ The previous video shows how to draw using HoloLens gestures. If you’re using 
 
 ## Change arrow or ink color
 
-Select Colors ![Color](media/RAHL_Color.png "Color") (or say “Remote Assist, colors”), and then select the color you want (or say “Remote Assist, Red”). The next annotation you place will be that color.
+Select Colors ![Color.](media/RAHL_Color.png "Color") (or say “Remote Assist, colors”), and then select the color you want (or say “Remote Assist, Red”). The next annotation you place will be that color.
 
 ## Edit annotations
 
@@ -76,7 +76,7 @@ To undo your most recent action, including **Erase All**, select **Undo** ![Grap
 
 Enabling the PV camera render setting will improve the alignment accuracy of annotations as seen by Microsoft Teams users in a Dynamics 365 Remote Assist session. This will ensure that annotations placed by the HoloLens 2 Remote Assist user are represented accurately in their environment for the remote expert. When this setting is turned off, the Microsoft Teams user may notice the annotations placed by the HoloLens 2 user to be slightly out of place.
 
-![Graphic showing the PV camera render setting](media/RAHL_PVSetting.png).
+![Graphic showing the PV camera render setting.](media/RAHL_PVSetting.png).
 
 In order to accommodate the additional system resources required for utilizing the PV camera render, turning on the PV camera render setting will limit the maximum outgoing video resolution of the HoloLens 2 to 720p. Turning off the PV camera render setting will allow the maximum outgoing video resolution to be 1080p.
 
