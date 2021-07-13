@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 06/29/2021
+ms.date: 07/27/2021
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
