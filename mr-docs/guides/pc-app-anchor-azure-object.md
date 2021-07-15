@@ -4,7 +4,7 @@
 You can use an object anchor to align a guide to a real-world object instead of using a printed anchor (QR code or circular code). 
 
 > [!Note]
-> Object anchors are available on HoloLens 2 only.  
+> Object anchors are available on HoloLens 2 only. To create an object anchor, you must have the required privileges to open the Guides model-driven app. 
 
 Since object anchors are a preview feature and are not fully supported at this time, we recommend that you use a test Microsoft Dataverse environment separate from your production environment. [Learn how to set up a test Microsoft Dataverse environment](). 
 
@@ -13,6 +13,10 @@ You can use any 3D model of a real-world object or you can capture the object wi
 For more information on the ideal conditions for an object anchor candidate, see [Best practices for object anchors]()
 
 ## Convert a 3D model into an object anchor  
+
+To convert a 3D model into an object anchor, you start with the Anchor wizard to select the anchor type, and then you use the Guides model-driven app to convert the 3D model.
+
+### Chose the anchor type in the Anchor wizard
 
 1. In the PC app, on the **Outline** page, select **Anchor**.
 
@@ -25,52 +29,45 @@ For more information on the ideal conditions for an object anchor candidate, see
     > [!NOTE]
     > If you see **Try Preview**, contact your administrator for access. The Object anchor preview is available for all regions except the GCC region.   
 
-3. 
-In step 1 of the wizard, you can assign the Object Anchor to your guide. If you would like to add your 3D model as an Object Anchor, select Create from the Library and you will be directed to the Guides Model Driven App in a web browser.  
+3. If you haven't already done so, you'll need to update the solution to use the object anchor feature. To get instructions on updating the solution, select **Update solution**.
 
-Note: restricted authors may not be able to access the Model Driven App  
+4. In step 1 of the wizard, to add your 3D model as an object anchor, select **Create from the Library**. ???WHERE IS THIS IN THE WIZARD??? This opens the Guides model-driven app in your web browser.   
 
-[screenshot of Library create/ Assign page] 
+    > [!NOTE]
+    > If you're prompted for credentials, sign in with the credentials for your environment. You must be signed in as an author or administrator with the appropriate permissions to access the model-driven app. You must have the XXX privileges to access the Guides model-driven app.   
+    > 
+    > [screenshot of Library create/ Assign page] 
 
- 
+### Convert the file in the Guides model-driven app
 
-From the Guides Model Driven App, you will be able to create a new Object Anchor.  
+You can use the instructions on the right in the Guides model-driven app to select and convert your 3D file.
 
-Graphical user interface, application, email
+1. Name your object anchor [screenshot of name field] 
 
-Description automatically generated (If you see an error message to assign to an app, select Guide Portal – need confirmation and screenshot) 
+2. Select **Save**. [screenshot of save button] 
+    
+   > [!NOTE]
+   > You can't upload a 3D source file until you select **Save**.
 
-If you see an error message in your web browser for permission, sign into your browser with the credentials from your environment. Make sure you are signed in as an author or administrator with appropriate permissions to access the Model Driven App.  
+3. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it. The following file types are supported:
+    
+      - List of file types goes here.
 
- 
+4. Under **Conversion**, enter the details. -Y is the default to set the object anchor in right orientation compared to the floor. [need to add more details/ tips for orientation and measurements]  
 
-In the Guides Model Driven App, there are instructions on the right to create new Object Anchors.  
+5. Select **Convert 3D File**. [screenshot of button] This starts the conversion process. You can use the **Conversion Status** field to check on status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide. If the conversion fails, start the process again. 
 
-Step 1: Name your object anchor [screenshot of name field] 
+6. When it's done, you'll see "Completed" in **Conversion Status** field. You can then go back to the Anchor wizard to complete the anchoring process.
 
-Step 2: Select ‘Save’. [screenshot of save button] 
+### Assign a thumbnail to the object anchor
 
-Step 3: Upload your Source 3D file. Note: button will not appear until you select Save after naming the Object Anchor [screenshot of button] 
+You can also assign a thumbnail to your object anchor to distinguish it in the PC app library. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned.  
 
-Note: supported file types 
+1. In the model-driven app, select the circle next to the object anchor name [screenshot] 
 
-Step 4: Enter the ‘Conversion’ details. Note: confirm gravity direction and length unit. -Y is default to set the Object Anchor in right orientation compared to the floor. [need to add more details/ tips for orientation and measurements]  
+2. Select **Upload **Image**, and then select the image you want. The preview will change to the image after it has finished uploading. 
 
-Step 5: Select ‘Convert 3D File’ [screenshot of button] 
-
-The 3D model is now being converted into an Object Anchor. The status of the conversion will update from New to Requested to Started. You can also select Refresh to refresh status on the page. During conversion you can create other Object Anchors or return to the PC application to edit your guide.  
-
-When conversion has moved to Succeeded you can return to the PC application to complete anchoring. If conversion has Failed, please try again [screenshot of + New button] 
-
-You can also assign a thumbnail to your Object Anchor so it can be distinguished in the PC app library. If you do not assign a thumbnail, a default object anchor thumbnail will appear.  
-
-Select the circle next to the Object Anchor name [screenshot] 
-
-Select Upload image and select the desired image as the thumbnail from your window explorer  
-
-The image will upload and the preview will change to the image once it has finished uploading. Confirm the image by selecting Change or cancel by selecting Cancel 
-
-Assign Object Anchor in PC app 
+## Assign the object anchor in PC app 
 
 Return to the PC app to assign your Object Anchor. The Library will have updated with the new Object Anchor under the Object Anchor tab [screenshot]. Note: select Next and then Back to refresh Library in the Anchor wizard 
 
