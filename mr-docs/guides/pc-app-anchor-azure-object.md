@@ -73,7 +73,7 @@ You can use the instructions on the right in the Guides model-driven app to sele
 
 6. When it's done, you'll see "Completed" in **Conversion Status** field. You can then go back to the Anchor wizard to complete the anchoring process.
 
-### Assign a thumbnail to the object anchor
+### Assign a thumbnail to the object anchor (optional)
 
 You can also assign a thumbnail to your object anchor in the model-driven app to make it easier to find in the PC app library. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned.  
 
