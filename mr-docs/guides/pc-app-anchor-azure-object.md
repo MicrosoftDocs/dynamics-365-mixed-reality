@@ -65,7 +65,11 @@ You can use the instructions on the right in the Guides model-driven app to sele
 
 3. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it. The following file types are supported:
     
-      - List of file types goes here.
+      - .obj   
+      - .fbx   
+      - .glb   
+      - .gltf   
+      - .ply 
 
 4. Under **Conversion**, enter the details. -Y is the default to set the object anchor in right orientation compared to the floor. [need to add more details/ tips for orientation and measurements]  
 
@@ -144,15 +148,15 @@ To achieve accurate detection and alignment, the target object should be 1-10 me
 
 ### Scanning 
 
-For larger objects such as cars, it’s advisable to move around the object while the initial detection is underway so that AOA is able to work with a larger span of sensed data for its detection and alignment. Standing in one spot may give very little surface information and AOA detection might not go above the detection threshold. 
+For larger objects such as cars, we recommend moving around the object while the initial detection is underway so that HoloLens is able to work with a larger span of sensed data for detection and alignment. Standing in one spot may doesn't provide very much surface information/might not go above the detection threshold. 
 
 ### Materials 
 
-Highly reflective and dark materials are difficult to detect with HoloLens. If HoloLens is unable to detect the surface, AOA will not be able to use sensor data for alignment and detection. 
+Highly reflective and dark materials are difficult to detect with HoloLens. If HoloLens is unable to detect the surface, the object anchor will not be able to use sensor data for alignment and detection. 
 
 ### Topology 
 
-AOA works best on larger objects that have unique topology and asymmetric features. 
+Object anchors work best on larger objects that have unique topology and asymmetric features. 
 
 • Do not use symmetrical objects as this can cause confusion about the orientation of the object. 
 
@@ -162,65 +166,55 @@ AOA works best on larger objects that have unique topology and asymmetric featur
 
 • Use objects that won’t change shape across your process. An updated shape will require a new 3D model.  
 
-Known Issues 
+## Known issues 
 
-Azure Object Anchor is a preview anchor method in Guides and has certain limitations to the experience.  
+Object anchors are a preview feature and have the following limitations: 
 
-Migration tool is not supported for Azure Object Anchor in Guides Preview 
+- The Content Migration tool is not supported.
 
-Region support is limited in the preview stage [GCC region not supported, data flow to East US2?] 
+- The GCC region is not supported.
 
-[Switching anchor type will not migrate over the saved position information?] 
+- [Switching anchor type does not migrate saved position information] 
 
-Offline mode not supported  
+- Offline mode is not supported.  
 
- 
+## FAQ
 
- 
+### What 3D file formats can you use for object anchors? 
 
- 
+The following 3D file formats are supported:
 
- 
+- .obj   
+- .fbx   
+- .glb   
+- .gltf   
+- .ply 
 
-Page Break
- 
+### What are the recommended object parameters for object anchors? 
 
-For internal reference: 
+- 1-6 meters for each dimension. 
 
-FAQ 
+- Non-symmetric, with sufficient variations in geometry. 
 
-What 3D file formats does the Azure Object Anchor service support? 
+- Low reflectivity (matte surfaces) with bright color. 
 
-.obj   .fbx   .glb   .gltf   .ply 
+- Stationary or occasional movement; no or small amounts of articulation. 
 
-What are the recommended object parameters when creating an object anchor? 
+- Clear backgrounds with no or minimal clutter. 
 
-1-6 meters for each dimension. 
+- Object layout close to the layout of its model. 
 
-Non-symmetric, with sufficient variations in geometry. 
+### What is the maximum file size for the 3D model? 
 
-Low reflectivity (matte surfaces) with bright color. 
+The maximum file size is 1 GB. 
 
-Stationary or occasional movement, no or small amounts of articulation. 
+### How long does it take to convert a model in the Guides model-driven app?
 
-Clear backgrounds with no or minimal clutter. 
+For a .ply model, the conversion process typically takes 3-15 minutes. For other formats, the conversion process takes 15-60 minutes depending on the file size. 
 
-Object layout close to the layout of its model. 
+### How accurate is an estimated pose? 
 
-What is the maximum file size allowed to be ingested? 
-
-1 GB 
-
-How long does ingestion take? 
-
-For a ply model, typically 3-15 minutes. If submitting models in other formats, expect 
-
-to wait 15-60 minutes depending on file size 
-
-How accurate is an estimated pose? 
-
-It depends on object size, material, environment, etc. For small objects, the estimated 
-
-pose can be within 1-cm error. For large objects, like a car, the error can be up to 2-8 cm. 
+It depends on the object size, material, environment, and so on. For small objects, the estimated pose can be within 1-cm error. For large objects, like a car, 
+the error can be up to 2-8 cm. 
 
 
