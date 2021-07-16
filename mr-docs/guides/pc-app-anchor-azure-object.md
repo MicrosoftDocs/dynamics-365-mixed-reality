@@ -180,7 +180,7 @@ Object anchors are a preview feature and have the following limitations:
 
 ## FAQ
 
-### What 3D file formats can you use for object anchors? 
+### What 3D file formats are supported for object anchors? 
 
 The following 3D file formats are supported:
 
