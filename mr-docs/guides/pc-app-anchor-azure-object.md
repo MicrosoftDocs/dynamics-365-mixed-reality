@@ -20,7 +20,7 @@ Converting a 3D model into an object anchor and assigning it to a guide involves
 
 2. Convert the 3D model in the Guides model-driven app.
 
-3. Go back to the Anchor wizard to assign the anchor to your guide.
+3. Go back to the Anchor wizard to assign the anchor to the guide.
 
 4. Assign the object anchor in the HoloLens app.
 
