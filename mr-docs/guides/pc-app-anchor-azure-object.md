@@ -12,6 +12,20 @@ You can use any 3D model of a real-world object or you can capture the object wi
 
 For more information on the ideal conditions for an object anchor candidate, see [Best practices for object anchors]()
 
+## Overall process for converting and assigning an object anchor
+
+Converting a 3D model into an object anchor and assigning it to a guide involves the following steps:
+
+1. Start with the Anchor wizard in the PC app.
+
+2. Convert the 3D model in the Guides model-driven app.
+
+3. Go back to the Anchor wizard to assign the anchor to your guide.
+
+4. Assign the object anchor in the HoloLens app.
+
+Each of these steps is described in detail below.
+
 ## Convert a 3D model into an object anchor  
 
 To convert a 3D model into an object anchor, you start with the Anchor wizard to select the anchor type, and then you use the Guides model-driven app to convert the 3D model.
@@ -61,11 +75,15 @@ You can use the instructions on the right in the Guides model-driven app to sele
 
 ### Assign a thumbnail to the object anchor
 
-You can also assign a thumbnail to your object anchor to distinguish it in the PC app library. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned.  
+You can also assign a thumbnail to your object anchor in the model-driven app to make it easier to find in the PC app library. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned.  
 
-1. In the model-driven app, select the circle next to the object anchor name [screenshot] 
+1. In the model-driven app, select the circle next to the object anchor name.
 
-2. Select **Upload **Image**, and then select the image you want. The preview will change to the image after it has finished uploading. 
+    SCREENSHOT GOES HERE
+
+2. Select **Upload **Image**, and then select the image you want. The preview will change to the image after it has finished uploading.
+
+    SCREENSHOT GOES HERE
 
 ## Assign the object anchor in the Anchor wizard 
 
