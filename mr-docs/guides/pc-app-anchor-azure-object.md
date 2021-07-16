@@ -12,7 +12,7 @@ You can use any 3D model of a real-world object or you can capture the object wi
 
 For more information on the ideal conditions for an object anchor candidate, see [Best practices for object anchors]()
 
-## Overall process for converting and assigning an object anchor
+## Overall process for converting a 3D model to use as an object anchor and assigning to a guide
 
 Converting a 3D model into an object anchor and assigning it to a guide involves the following steps:
 
