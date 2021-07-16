@@ -107,31 +107,34 @@ Next, you'll go back to the PC app to assign the object anchor to your guide.
 
 The final step happens in the HoloLens app.
 
-1. Open your guide with the Object Anchor in the HoloLens app  
+1. Open the appropriate guide in the HoloLens app.  
 
-2. Locate your target object  
+2. Locate the target object used for the anchor.
 
-3. Initiate scan  
+3. In the xxx dialog box, select **Initiate Scan**.  
 
-Move around the object to scan it and the HoloLens will automatically recognize the object based on the Object Anchor  
+4. Move around the object to scan it. The HoloLens will automatically recognize the object based on the object anchor.  
 
-[Potential errors] 
+    > [!NOTE]
+    > If you're prompted to XXX, continue to move around the object. ???What does error message say???
 
-Continue to move around the object if you are prompted to [capture of movement prompt] 
+5. If the scan is successful, you'll see the following message.
 
-Once the scan is successful, [mesh…] 
+    SCREEN SHOT GOES HERE
 
-[Observe the object and confirm it is accurately aligned – potential here to recommend users to put arrow in first step to test alignment]  
+6. [Observe the object and confirm it is accurately aligned – potential here to recommend users to put arrow in first step to test alignment]  
 
-Note: If you have issues with object detection and content alignment, try clearing the mesh and all holograms from the HoloLens Settings menu. Go to System > Holograms > select the Remove all holograms button. 
+    > [!NOTE]
+    > If you have issues with object detection and content alignment, try clearing the mesh and all holograms from the HoloLens **Settings** menu (**System** > **Holograms** > **Remove all holograms**). 
 
-Your guide is now successfully anchored to the Object Anchor 
+    At this point, your guide should be successfully anchored to the object anchor. 
 
-You can also switch your anchor method between Object Anchor and QR, Circular, or Holographic, but object placements within that guide will need to be re-authored.  
+    > [!NOTE]
+    > You can switch the anchoring method to a QR code, circular, or holographic anchor, but if you do so, the placement of objects within the guide will need to be re-authored.  
 
-Using Object Anchor as an Operator 
+## Anchor the guide as an operator 
 
-Operators will be able to scan the target object and use the guide automatically aligned. […] Rescan the object if alignment is not correct to the target object. [example photos of misaligned object anchors?] 
+Operators can scan the target object in the same way to automatically align the guide. If the guide is misaligned, operators should rescan the target object. [example photos of misaligned object anchors?] 
 
 ## Best practices for object anchors
 
