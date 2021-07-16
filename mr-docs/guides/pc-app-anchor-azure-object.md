@@ -22,7 +22,7 @@ Converting a 3D model into an object anchor and assigning it to a guide involves
 
 3. Go back to the Anchor wizard to assign the anchor to the guide.
 
-4. Assign the object anchor in the HoloLens app.
+4. Anchor the guide in the HoloLens app.
 
 Each of these steps is described in detail below.
 
@@ -103,15 +103,15 @@ Next, you'll go back to the PC app to assign the object anchor to your guide.
 
 6. Select **Complete**. 
 
-## Assign the object anchor in the HoloLens app 
+## Anchor the guide in the HoloLens app 
 
 The final step happens in the HoloLens app.
 
-Open your guide with the Object Anchor in the HoloLens app  
+1. Open your guide with the Object Anchor in the HoloLens app  
 
-Locate your target object  
+2. Locate your target object  
 
-Initiate scan  
+3. Initiate scan  
 
 Move around the object to scan it and the HoloLens will automatically recognize the object based on the Object Anchor  
 
