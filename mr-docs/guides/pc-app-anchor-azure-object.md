@@ -67,23 +67,27 @@ You can also assign a thumbnail to your object anchor to distinguish it in the P
 
 2. Select **Upload **Image**, and then select the image you want. The preview will change to the image after it has finished uploading. 
 
-## Assign the object anchor in PC app 
+## Assign the object anchor in the Anchor wizard 
 
-Return to the PC app to assign your Object Anchor. The Library will have updated with the new Object Anchor under the Object Anchor tab [screenshot]. Note: select Next and then Back to refresh Library in the Anchor wizard 
+Next, you'll go back to the PC app to assign the object anchor to your guide.
 
-Drag and drop the Object Anchor to assign it to the guide  
+1. In the PC app Anchor wizard, select **Next** and then **Back** to refresh the library. ???Where is Object Anchor tab???
 
-The next three steps in the Anchor wizard are optional.  
+    SCREENSHOT GOES HERE
 
-Select Next and optionally, take a photo of the target object you wish to anchor to  
+2. Drag and drop the object anchor to assign it to the guide, and then select **Next**. 
 
-Select Next and optionally, import the photo of the target object location. This will help operators preview the object.  
+3. Take a photo of the target object location (optional) to make it easy for the operator to find the target object. Select **Next**. 
 
-Select Next and add custom instructions as needed to help the operator find the target object.  
+4. Import the photo, and then select **Next**. 
 
-Complete the Anchor wizard on the PC app. In order to complete assignment of the Object Anchor, move to the HoloLens app.  
+5. Add custom instructions (optional) as needed to help the operator find the target object. Select **Next**.  
 
-Assign Object Anchor in HL app 
+6. Select **Complete**. 
+
+## Assign the object anchor in the HoloLens app 
+
+The final step happens in the HoloLens app.
 
 Open your guide with the Object Anchor in the HoloLens app  
 
