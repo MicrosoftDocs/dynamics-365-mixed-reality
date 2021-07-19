@@ -47,7 +47,7 @@ With Dynamics 365 Remote Assist on HoloLens, you can collaborate with:
     ![Select environment button highlighted](media/select-environment-2.PNG)
     
     > [!NOTE]
-    > You don't have to select an environment to make a call. To start a call without selecting an environment, select **Launch Call**. [Learn about storing data for the Calls dashboard](calls-dashboard.md).
+    > You don't have to select an environment to make a call. To start a call without selecting an environment, select **Launch call**. [Learn about storing data for the Calls dashboard](calls-dashboard.md).
 
 3. While you're on a call, you can mute yourself at any point if you need to. You can't mute the other participant in a one-to-one call. 
 
