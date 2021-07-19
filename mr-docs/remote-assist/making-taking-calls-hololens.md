@@ -64,7 +64,7 @@ A group call can include Dynamics 365 Remote Assist HoloLens or HoloLens 2 users
 
 To make a group call:
 
-1. Start by calling one person, and then select **Open Participants** (![Graphic showing the open participants icon.](media/RAHL_Participants.png)).
+1. Start by calling one person, and then select **Open Participants** (![Graphic showing the open participants icon.](media/RAHL_Participants.png)) or say "Remote Assist, Open Participants."
 
     You'll see the first person you called on the left side of the video card, and a list of participants on the right side. 
 
@@ -72,7 +72,7 @@ To make a group call:
 
 To mute a participant in a group call:
 
-1. Select **Open Participants** or say "Remote Assist, Open Participants." 
+1. Select **Open Participants** (![Graphic showing the open participants icon.](media/RAHL_Participants.png)) or say "Remote Assist, Open Participants." 
 
 2. Tap a participant to see their video feed. 
 
