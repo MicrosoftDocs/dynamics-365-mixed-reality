@@ -42,7 +42,7 @@ With Dynamics 365 Remote Assist on HoloLens, you can collaborate with:
     >
     > ![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/07.01-dynamics-booking.png)
     
-2. Select the environment where you want to store the call information.
+2. You may see the following screen that you can use to select an environment to store the call information.
 
     ![Select environment button highlighted](media/select-environment-2.PNG)
     
