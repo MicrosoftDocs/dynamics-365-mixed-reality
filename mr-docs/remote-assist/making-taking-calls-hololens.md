@@ -91,21 +91,17 @@ You can do any of the following when you receive a call:
 
 - Select **Ignore** (or say "Remote Assist, Ignore") to decline the call.
 
-> [!Note]
-> To receive calls when you're using other apps on HoloLens, first open the Dynamics 365 Remote Assist app. Then use the **Start** gesture to go to the start menu, and select another app to use. This keeps Dynamics 365 Remote Assist running in the background.
->
-> You'll get a notification if a Dynamics 365 Remote Assist call comes in, and you'll be able to select **Accept** to initiate an audio call, **Video** to initiate a video call, and **Ignore** to ignore the call.
->
-> In other words, you can receive a call in two scenarios – if Dynamics 365 Remote Assist is the app you have open and if it's running in the background.
+If you join the call, remote collaborators will be able to see what you see in your space, including holograms.
 
-When you join the call, remote collaborators will be able to see what you see in your space—including holograms.
+> [!Note]
+> In you're using another HoloLens app, you can have Dynamics 365 Remote Assist run in the background to receive any incoming calls. To do this, first open Dynamics 365 Remote Assist. Then use the Start gesture to go to the **Start** menu and select another app to use. You'll get a notification if a Dynamics 365 Remote Assist call comes in, and you'll be able to select **Accept** to initiate an audio call, **Video** to initiate a video call, or **Ignore** to ignore the call.
 
 ## End a call
 
-To end a call, select **End Call** (as seen here: ![Graphic showing the end call icon.](media/RAHL_EndCall.png)), or say "Remote Assist, End Call."
+- Select **End Call** (![Graphic showing the end call icon.](media/RAHL_EndCall.png)), or say "Remote Assist, End Call."
 
 ### Learn more 
-- View documentation on group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop [here](./mobile-app/group-calling.md).
+- [Group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop](./mobile-app/group-calling.md).
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
