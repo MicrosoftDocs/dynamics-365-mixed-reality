@@ -76,7 +76,7 @@ To mute a participant in a group call:
 
 2. Tap a participant to see their video feed. 
 
-3. Tap the mute button next to a participant's name to mute them. Muted participants can unmute themselves.
+3. Tap the mute button next to the participant's name to mute them. Muted participants can unmute themselves. Other people on the call can't unmute a muted participant.
 
 > [!Note]
 > If the call includes a large number of participants, you might experience performance issues, such as delays in viewing annotations and lower video resolution. [Learn more about the number of participants that can join a Microsoft Teams call](/MicrosoftTeams/limits-specifications-teams#meetings-and-calls). 
