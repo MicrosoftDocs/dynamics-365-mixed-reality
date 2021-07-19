@@ -83,7 +83,13 @@ To mute a participant in a group call:
 
 ## Accept a call
 
-Select **Video** (or say "Remote Assist, Video") to accept the call as a video call or **Audio** (or say "Remote Assist, Audio") to accept it as a voice-only call. To decline the call, select **Ignore** (or say "Remote Assist, Ignore").
+You can do any of the following when you receive a call:
+
+- Select **Video** (or say "Remote Assist, Video") to accept the call as a video call.
+
+- Select **Audio** (or say "Remote Assist, Audio") to accept the call as a voice-only call. 
+
+- To decline the call, select **Ignore** (or say "Remote Assist, Ignore").
 
 > [!Note]
 > To receive calls when you're using other apps on HoloLens, first open the Dynamics 365 Remote Assist app. Then use the **Start** gesture to go to the start menu, and select another app to use. This keeps Dynamics 365 Remote Assist running in the background.
