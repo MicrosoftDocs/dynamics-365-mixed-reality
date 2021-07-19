@@ -62,9 +62,13 @@ You can search, call, and receive a call from a Dynamics 365 Remote Assist user 
 
 A group call can include Dynamics 365 Remote Assist HoloLens or HoloLens 2 users with Dynamics 365 Remote Assist mobile users and Teams desktop users. You can also switch between participants' video feeds and mute participants as needed. [Learn more about joining group calls with Dynamics Remote Assist mobile users and Teams desktop users](./mobile-app/group-calling.md).
 
-Start by calling one person, and then select **Open Participants** (![Graphic showing the open participants icon.](media/RAHL_Participants.png)).
+To make a group call:
 
-You'll see the first person you called on the left side of the video card, and a list of participants on the right side. On the bottom of the video card, select the text field, to pop out a holographic keyboard with a list of your recent contacts. If the person you want to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
+1. Start by calling one person, and then select **Open Participants** (![Graphic showing the open participants icon.](media/RAHL_Participants.png)).
+
+    You'll see the first person you called on the left side of the video card, and a list of participants on the right side. 
+
+2. On the bottom of the video card, select the text field to pop out a holographic keyboard with a list of your recent contacts. If the person you want to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
 
 To mute a participant:
 
