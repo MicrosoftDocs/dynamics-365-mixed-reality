@@ -8,15 +8,15 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Making and taking calls in Dynamics 365 Remote Assist on HoloLens
+# Make or take calls in Dynamics 365 Remote Assist on HoloLens
 
-## Definitions
+With Microsoft Dynamics 365 Remote Assist, you can make or take the following types of calls:  
 
-A **one-to-one call** includes two participants. For example, if you're repairing a machine and need help on-the-go, you can make a one-to-one call to a remote collaborator who uses Teams.
+- **One-to-one calls**. One-to-one calls include two participants. For example, if you're repairing a machine and need help on-the-go, you can make a one-to-one call to a remote collaborator who uses Microsoft Teams.
 
-A **group call** includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, any participant can add the third person to the call to form a group call.  
+- **Group calls**. Group calls include three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, any participant can add the third person to the call to form a group call.  
 
-A **meeting** is a call scheduled using Teams or Outlook. It can include any number of participants. For example, if you want to have a weekly inspection with your team, you can create a meeting so that everyone receives notifications about the meeting and can join the meeting.
+- **Meeting**. A meeting is a scheduled call using Teams or Outlook. Meetings can include any number of participants. For example, if you want to have a weekly inspection with your team, you can create a meeting so that everyone receives notifications about the meeting and can join the meeting.
 
 ## Supported scenarios
 
