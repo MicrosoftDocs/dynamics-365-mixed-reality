@@ -70,7 +70,7 @@ To make a group call:
 
 2. On the bottom of the video card, select the text field to pop out a holographic keyboard with a list of your recent contacts. If the person you want to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
 
-To mute a participant:
+To mute a participant in a group call:
 
 1. Select **Open Participants** or say "Remote Assist, Open Participants." 
 
