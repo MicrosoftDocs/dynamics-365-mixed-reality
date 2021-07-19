@@ -89,7 +89,7 @@ You can do any of the following when you receive a call:
 
 - Select **Audio** (or say "Remote Assist, Audio") to accept the call as a voice-only call. 
 
-- To decline the call, select **Ignore** (or say "Remote Assist, Ignore").
+- Select **Ignore** (or say "Remote Assist, Ignore") to decline the call.
 
 > [!Note]
 > To receive calls when you're using other apps on HoloLens, first open the Dynamics 365 Remote Assist app. Then use the **Start** gesture to go to the start menu, and select another app to use. This keeps Dynamics 365 Remote Assist running in the background.
