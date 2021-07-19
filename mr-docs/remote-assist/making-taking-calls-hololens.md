@@ -31,20 +31,21 @@ The following scenarios are supported when using Dynamics 365 Remote Assist on H
 
 ## Make a one-to-one call to a contact in your company
 
-![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen.](media/02.00-contacts.png)
+1. When you open Dynamics 365 Remote Assist, you'll see your recent contacts list in the **Call** tab. To call one of the contacts you see, select the contact. If you don't see the contact you want, select **Search**, and then use the holographic keyboard to enter a name or email address. 
 
-When you open Dynamics 365 Remote Assist, you'll see your recent contacts list in the **Call** tab. To call one of the contacts you see, select the contact.
+    ![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen.](media/02.00-contacts.png)
+    
+    > [!NOTE]
+    > If your organization has enabled integration with Dynamics 365 Field Service, you can view and call the contact assigned to your Field Service booking. Select the Dynamics 365 Field Service icon (or say, "Remote Assist, Dynamics"), go to your instance and booking, then select the **Support Contact** listed.
+    >
+    > ![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/07.01-dynamics-booking.png)
+    
+2. Select the environment where you want to store the call information.
 
-If your organization has enabled integration with Dynamics 365 Field Service, you can view and call the contact assigned to your Field Service booking. Select the Dynamics 365 Field Service icon (or say, "Remote Assist, Dynamics"), go to your instance and booking, then select the **Support Contact** listed.
-
-![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/07.01-dynamics-booking.png)
-
-If you don't see the contact you want, select Search and then use the holographic keyboard to enter a name or email address. 
-
->[!Note]
-> After the intended contact pops up, select the contact to call them.  
-
-![Screenshot showing the contacts search results screen on Dynamics 365 Remote Assist for HoloLens.](media/02.06-contacts-search-results.png)
+    ![Select environment button highlighted](media/select-environment-2.PNG)
+    
+    > [!NOTE]
+    > You don't have to select an environment to make a call. [Learn about storing data for the Calls dashboard](calls-dashboard.md).
 
 ## Make a one-to-one call to a Teams user outside your tenant
 
