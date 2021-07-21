@@ -1,5 +1,5 @@
 
-# Anchor a guide in Dynamics 365 Guides by using an Object anchor (Preview)
+# Anchor a guide in Dynamics 365 Guides by using an object anchor (Preview)
 
 You can use an object anchor to align a guide to a real-world object instead of using a printed anchor (QR code or circular code). 
 
