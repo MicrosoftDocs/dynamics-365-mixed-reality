@@ -26,8 +26,8 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|XXX|
-|HoloLens app (HoloLens 2 only)|XXX|
+|PC app|603.2107.20001.0|
+|HoloLens app (HoloLens 2 only)|603.2107.20001.0|
 |Solution|XXX|
 
 ### Features
