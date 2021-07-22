@@ -64,7 +64,7 @@ Highly reflective and dark materials are difficult to detect with HoloLens. If H
 
 ### Limitations
 
-If the target object is moved, for absolute accuracy, the author or operator needs to clear the SR mesh when you rescan the anchor. To clear the SR mesh, on HoloLens, go to **Settings**, select **Holograms**, and then select **Clear all holograms**. 
+If the target object is moved, for absolute accuracy, the author or operator needs to clear the SR mesh when rescanning the anchor. To clear the SR mesh, on HoloLens, go to **Settings**, select **Holograms**, and then select **Clear all holograms**. 
 
 > [!NOTE]
 > This will clear all cached locations of all holograms you may have placed in other running HoloLens applications.
