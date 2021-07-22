@@ -72,7 +72,7 @@ Ragardless of which type of anchor you want to create, you always start with the
 
 - [Create a holographic anchor](pc-app-anchor-holographic.md)
 
-- [Create an Azure Object anchor (Preview)](pc-app-anchor-azure-object.md)
+- [Create an Azure Object Anchor (Preview)](pc-app-anchor-azure-object.md)
 
 After creating the anchor in the PC app, you use the HoloLens app to anchor your guide in the real world, whether you're an author or operator. Use the following links to learn how to anchor a guide, depending on whether you're an author or an operator:
 
