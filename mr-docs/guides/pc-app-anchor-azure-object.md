@@ -40,7 +40,7 @@ For best results, target objects should be fixed and stationary during the scann
 
 To achieve accurate detection and alignment, the target object should be 1–10 meters for each dimension, as shown below.
 
-SCREEN SHOT GOES HERE
+![XXX](media/AOA-.PNG "XXX")
 
 ### Topology
 
@@ -64,7 +64,7 @@ Highly reflective and dark materials are difficult to detect with HoloLens. If H
 
 ### Limitations
 
-If the target object is moved, for absolute accuracy, the author or operator needs to clear the SR mesh when you rescan the anchor. To clear the SR mesh, on HoloLens, go to Settings, select Holograms, and then select Clear all holograms. 
+If the target object is moved, for absolute accuracy, the author or operator needs to clear the SR mesh when you rescan the anchor. To clear the SR mesh, on HoloLens, go to **Settings**, select **Holograms**, and then select **Clear all holograms**. 
 
 > [!NOTE]
 > This will clear all cached locations of all holograms you may have placed in other running HoloLens applications.
@@ -87,20 +87,20 @@ Each of these steps is described in detail below.
 
 1. In the PC app, on the **Outline** page, select **Anchor** to open the Anchor wizard.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/AOA-.PNG "XXX")
 
 2. On the **Choose an anchor method** page, under **Object Anchor (Preview)**, select **Select**.
 
-    SCREEN SHOT GOES HERE 
+    ![XXX](media/AOA-.PNG "XXX") 
 
     > [!NOTE]
     > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the AOA preview.   
     > 
-    > SCREEN SHOT GOES HERE
+    > ![XXX](media/AOA-.PNG "XXX")
 
 3. To add your 3D model as an object anchor, in the Anchor wizard, on the **Library** tab, select **Create**. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/AOA-.PNG "XXX")
 
     This opens the Guides model-driven app in your web browser.   
 
@@ -113,14 +113,14 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 1. In the **Name** field, enter a name your object anchor, and then select **Save** at the top of the screen. 
 
-    [SCREEN SHOT GOES HERE] 
+    ![XXX](media/AOA-.PNG "XXX") 
     
    > [!Important]
    > The **Choose File** button won't appear until you select **Save**.
 
 3. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it. 
 
-    [SCREEN SHOT GOES HERE]
+    ![XXX](media/AOA-.PNG "XXX")
 
     > [!NOTE]
     > The following file types are supported: .obj, .fbx, .glb, .gltf, .ply. The maximum file size is 150 MB.  
@@ -131,13 +131,13 @@ Use the instructions on the right side of the screen in the Guides model-driven 
     
     ii. Verify the measurement type for the **Length Unit** field.
 
-     SCREEN SHOT GOES HERE        
+     ![XXX](media/AOA-.PNG "XXX")       
 
 5. Select **Convert 3D File**. 
 
     This starts the conversion process. The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide. 
 
-    [SCREEN SHOT GOES HERE]
+    ![XXX](media/AOA-.PNG "XXX")
 
 6. When the conversion is done, “Completed” appears in the **Conversion Status** field. You can then go back to the Anchor wizard in the PC app to assign the object anchor to the guide. If the conversion fails, start the process again.
 
@@ -147,11 +147,11 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 1. Select the circle next to the object anchor name.
 
-    SCREENSHOT GOES HERE
+    ![XXX](media/AOA-.PNG "XXX")
 
 2. Select **Upload **Image**, and then select the image to use for the thumbnail.
 
-    SCREENSHOT GOES HERE
+    ![XXX](media/AOA-.PNG "XXX")
 
     The preview image changes after the image has finished uploading. 
     
@@ -161,7 +161,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Object Anchor** tab.
 
-    SCREENSHOT GOES HERE
+    ![XXX](media/AOA-.PNG "XXX")
 
 2. Drag and drop the object anchor to assign it to the guide, and then select **Next**. 
 
@@ -189,7 +189,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
     When the scan is successful, the object will have a green overlay. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/AOA-.PNG "XXX")
 
 6. Confirm that the scan is accurately aligned to the target object. If not, select rescan to try again. 
 
