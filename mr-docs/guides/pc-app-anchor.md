@@ -52,14 +52,13 @@ There are four ways to anchor a guide:
 
 - **Azure Object Anchor (Preview)**. With an Azure Object Anchor, you use the Guides model-driven app to convert an online 3D model to an object anchor, and then assign it to a guide. An Azure Object Anchor offers the following advantages:
 
-- You don’t have to attach a physical marker to an object; the object is the anchor  
+    - You don’t have to attach a physical marker to an object; the object is the anchor  
 
-- Avoids potential human error when placing markers or with wear and tear of a marker over time 
+    - Avoids potential human error when placing markers or with wear and tear of a marker over time 
 
-- You can convert an existing 3D object model into an object anchor 
+    - You can convert an existing 3D object model into an object anchor 
 
-- Improved alignment accuracy and reliability 
- 
+    - Improved alignment accuracy and reliability  
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
 
