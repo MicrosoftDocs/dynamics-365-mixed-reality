@@ -50,15 +50,17 @@ There are four ways to anchor a guide:
 
     - A part is too small to attach a QR code anchor or circular code anchor.
 
-- **Azure Object Anchor (Preview)**. With an Azure Object Anchor, you use the Guides model-driven app to convert an online 3D model to an object anchor, and then assign it to a guide. An Azure Object Anchor offers the following advantages:
+- **Azure Object Anchor (Preview)**. Azure Object Anchors uses sensing and processing on HoloLens 2 to detect a digital model and align it to a physical object. You use the Guides model-driven app to convert an online 3D model to an object anchor, and then assign it to a guide. 
 
-    - You don’t have to attach a physical marker to an object; the object is the anchor  
+An Azure Object Anchor offers the following advantages over other types of anchors:
 
-    - Avoids potential human error when placing markers or with wear and tear of a marker over time 
+   - You don’t have to attach a physical marker to an object; the object is the anchor  
 
-    - You can convert an existing 3D object model into an object anchor 
+   - Avoids potential human error when placing markers or with wear and tear of a marker over time 
 
-    - Improved alignment accuracy and reliability  
+   - You can convert an existing 3D object model into an object anchor 
+
+   - Improved alignment accuracy and reliability  
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
 
