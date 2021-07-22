@@ -9,7 +9,7 @@ There are four basic steps required to create an anchor with AOA:
 
 2.	The author converts a digital 3D model that matches the physical object into an object anchor through the Guides model-driven app. 
 
-3.	The author assigns the model to a specific guide by using the Anchor wizard in the Dynamics 365 Guides PC app. 
+3.	The author assigns the object anchor to a specific guide by using the Anchor wizard in the Dynamics 365 Guides PC app. 
 
 4.	After the operator opens the guide on HoloLens 2, the device searches for the object in the real-world environment. Once HoloLens recognizes the real-world object, the operator is automatically taken to the first step of the guide.
 
