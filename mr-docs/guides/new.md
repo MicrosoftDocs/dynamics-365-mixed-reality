@@ -22,6 +22,9 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
+> [!NOTE]
+> HoloLens (1st gen) is no longer supported on the latest versions of Dynamics 365 Guides. The last app version that supports HoloLens (1st gen) is 600.2103.19001. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, released on April 1, 2021. If you want to continue to use HoloLens (1st gen), don’t upgrade to a solution version later than 600.0.0.1.
+
 ## June 29, 2021
 
 |Item|Version|
@@ -54,9 +57,6 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 |PC app|601.2104.29001.0|
 |HoloLens app (HoloLens 2 only)|601.2104.29001.0|
 |Solution|600.1.0.1|
-
-> [!NOTE]
-> Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state. The last update for HoloLens (1st gen) was April 1 (version 600.2103.19001.0).
 
 ### Features
 
