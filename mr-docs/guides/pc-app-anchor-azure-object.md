@@ -28,7 +28,7 @@ To use AOA in Dynamics 365 Guides, you’ll need:
 > [!NOTE]
 > Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product. 
 
-## Best practices for choosing a target object for an object anchor
+## Best practices for choosing a target object for your object anchor
 
 Keep the following recommendations in mind when choosing a target object for your object anchor.
 
