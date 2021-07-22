@@ -1,5 +1,5 @@
 
-# Anchor a guide in Dynamics 365 Guides by using an object anchor (Preview)
+# Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 
 Anchoring a guide with Azure Object Anchors (AOA) is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. The preview release supports larger static objects as anchors; subsequent releases will include support for sporadically moving objects.
 
