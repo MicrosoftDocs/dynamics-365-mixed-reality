@@ -21,12 +21,12 @@ To use AOA in Dynamics 365 Guides, you’ll need:
 
 - Dynamics 365 Guides solution version 600.3.0.1 (July 27, 2021) or later
 
-- A test Microsoft Dataverse environment separate from your production environment. Learn how to set up a Microsoft Dataverse environment.
+- A test Microsoft Dataverse environment separate from your production environment. [Learn how to set up a Microsoft Dataverse environment](https://docs.microsoft.com/power-platform/admin/environments-overview).
 
 - A digital 3D model of your target object. You can start with any 3D model or you can capture the object by using third-party scanning applications. 
 
 > [!NOTE]
-> Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use ofany third-party products. 
+> Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product. 
 
 ## Best practices for choosing a target object for an object anchor
 
