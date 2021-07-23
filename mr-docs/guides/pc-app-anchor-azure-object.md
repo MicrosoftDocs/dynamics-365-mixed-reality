@@ -169,9 +169,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
     b. Import the photo of the target object location, and then select **Next**.
 
-    c. Add custom instructions as needed to help the operator find the target object. 
-
-4.	Select **Complete**.  
+    c. Add custom instructions as needed to help the operator find the target object, and then complete the wizard.  
 
 ## Assign the object anchor in the HoloLens app 
 
