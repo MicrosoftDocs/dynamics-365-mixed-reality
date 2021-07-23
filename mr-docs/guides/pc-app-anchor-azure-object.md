@@ -149,7 +149,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 2. Select **Upload **Image**, and then select the image to use for the thumbnail.
 
-    ![XXX](media/AOA-upload-thumbnail-image.PNG "XXX")
+    ![XXX](media/AOA-select-thumbnail-image.PNG "XXX")
 
     The preview image changes after the image has finished uploading. 
     
