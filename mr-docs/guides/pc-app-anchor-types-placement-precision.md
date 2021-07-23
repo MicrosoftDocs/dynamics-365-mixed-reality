@@ -48,7 +48,7 @@ Each of these suggestions is covered in more detail in this article.
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
 
-## Object anchors
+## Azure Object Anchors
 
 The Azure Object Anchors (Preview) feature uses a 3D model of an object to automatically detect and anchor to the real-world object. Use this anchor type as an alternative for cases where you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.   
 
