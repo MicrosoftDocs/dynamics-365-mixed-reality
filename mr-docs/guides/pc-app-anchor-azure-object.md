@@ -147,7 +147,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
     ![XXX](media/AOA-select-thumbnail.PNG "XXX")
 
-2. Select **Upload Image**, and then select the image to use for the thumbnail.
+2. In the **Choose Image** dialog box, select **Upload Image**, and then select the image to use for the thumbnail.
 
     ![XXX](media/AOA-select-thumbnail-image.PNG "XXX")
 
