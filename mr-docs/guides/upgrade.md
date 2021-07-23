@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
-ms.date: 03/26/2021
+ms.date: 07/23/2021
 ms.topic: article
 title: Update the Dynamics 365 Guides solution
 ms.reviewer: v-brycho
@@ -24,6 +24,9 @@ Keep the following in mind:
 - Updates to the solution must be done when the Guides model-driven app, PC app, and [!include[pn-hololens](../includes/pn-hololens.md)] app is not in use.  
 
 - [Make sure that you back up your environment](/power-platform/admin/backup-restore-environments) before updating your solution. 
+
+> [!IMPORTANT]
+> HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
 
 To update the solution:
 
