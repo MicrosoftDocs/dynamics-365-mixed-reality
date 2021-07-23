@@ -225,7 +225,7 @@ AOA is a preview feature for Dynamics 365 Guides and has the following limitatio
 
 - The Content Migration tool is not supported. 
 
-- The GCC region is not supported. 
+- The Government Community Cloud (GCC) region is not supported. 
 
 - If you switch from an object anchor to another anchor using Change anchor method, the saved position information for holograms is not migrated. Authors will need to check hologram placements.
 
