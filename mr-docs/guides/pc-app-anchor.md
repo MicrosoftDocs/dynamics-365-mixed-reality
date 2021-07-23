@@ -45,7 +45,7 @@ There are four ways to anchor a guide:
 
    - Improved alignment accuracy and reliability  
 
-- **QR code anchor (recommended)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended, because it's the most accurate method, and you can print the anchor at different sizes. 
+- **QR code anchor (recommended for small to medium size objects and spaces)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended for small to medium size objects and spaces because it's the most accurate method, and you can print the anchor at different sizes. 
 
     > [!NOTE]
     > QR code anchoring isn't available on HoloLens 1 devices.
