@@ -190,7 +190,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
     When the scan is successful, the object will have a green overlay. 
 
-    ![GIF of green overlay](media/aoa.gif "GIF of green overlay")
+    ![GIF of green overlay](media/AOA.gif "GIF of green overlay")
     
 6. Confirm that the scan is accurately aligned to the target object. If not, select **Rescan** to try again. 
 
