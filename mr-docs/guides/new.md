@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 06/29/2021
+ms.date: 07/23/2021
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -21,9 +21,6 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
-
-> [!NOTE]
-> HoloLens (1st gen) is no longer supported on the latest versions of Dynamics 365 Guides. The last app version that supports HoloLens (1st gen) is 600.2103.19001. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, released on April 1, 2021. If you want to continue to use HoloLens (1st gen), don’t upgrade to a solution version later than 600.0.0.1.
 
 ## June 29, 2021
 
@@ -75,7 +72,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 ## April 1, 2021
 
 > [!IMPORTANT]
-> Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state. Future updates for HoloLens (1st gen) will focus on issues and security fixes, while maintaining feature parity with the April 1, 2021 release.
+> HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
 
 ### Version info
 
