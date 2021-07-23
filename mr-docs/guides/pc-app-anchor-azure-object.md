@@ -85,7 +85,7 @@ Each of these steps is described in detail below.
 
 ## Choose the anchor type in the Anchor wizard
 
-1. In the PC app, on the **Outline** page, select **Set anchor now** to open the Anchor wizard.
+1. In the PC app, on the **Outline** page, select **Set your anchor now** to open the Anchor wizard.
 
     ![XXX](media/AOA-outline-anchor.PNG "XXX")
 
