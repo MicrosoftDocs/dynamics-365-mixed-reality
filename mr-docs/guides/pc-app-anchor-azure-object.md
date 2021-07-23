@@ -221,7 +221,7 @@ For operators, anchoring a guide with an object anchor is similar to anchoring w
 
 ## Known issues 
 
-AOA is a preview feature in Dynamics 365 Guides and has the following limitations:
+AOA is a preview feature for Dynamics 365 Guides and has the following limitations:
 
 - The Content Migration tool is not supported. 
 
