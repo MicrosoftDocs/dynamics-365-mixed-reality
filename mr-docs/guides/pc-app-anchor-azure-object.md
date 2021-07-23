@@ -164,7 +164,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
     ![XXX](media/AOA-drag-object.PNG "XXX")
     
     > [!TIP]
-    > To preview the object anchor, in the Anchor wizard, select the object anchor thumbnail to open the **Properties** tab, or view the record in the Guides model-driven app.
+    > To preview the object anchor, in the Anchor wizard, select the object anchor thumbnail to open the **Properties** tab. You can also view the object anchor in the Guides model-driven app.
     > 
     > ![XXX](media/AOA-preview-object-anchor.PNG "XXX")
 
