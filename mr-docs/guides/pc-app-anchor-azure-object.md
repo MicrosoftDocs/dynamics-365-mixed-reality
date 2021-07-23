@@ -210,7 +210,7 @@ For operators, anchoring a guide with an object anchor is similar to anchoring w
 
 1.	Open the guide in the HoloLens app using HoloLens 2. 
 
-2.	Select Initiate scan. 
+2.	Select **Initiate Scan**. 
 
 3.	Scan the environment for the target object.
 
