@@ -157,7 +157,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 ## Assign the object anchor to a guide in the Anchor wizard 
 
-1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Object Anchor** tab.    
+1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Properties** tab.    
 
 2. Drag and drop the object anchor to assign it to the guide, and then select **Next**. 
 
