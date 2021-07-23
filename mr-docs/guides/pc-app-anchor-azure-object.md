@@ -98,7 +98,7 @@ Each of these steps is described in detail below.
     > 
     > ![XXX](media/AOA-try-preview-button.PNG "XXX")
 
-3. To add your 3D model as an object anchor, in the Anchor wizard, on the **Library** tab, select **Create**. 
+3. To add your 3D model as an object anchor, on the **Library** tab, select **Create**. 
 
     ![XXX](media/AOA-create-anchor.PNG "XXX")
 
