@@ -127,7 +127,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 4. Under **Conversion**:
 
-    i. Confirm the gravity direction. The default value for Gravity is **-Y**. This sets the object anchor in the right orientation compared to the floor.
+    i. Confirm the gravity direction. The default value for **Gravity** is **-Y**. This sets the object anchor in the right orientation compared to the floor.
     
     ii. Verify the measurement type for the **Length Unit** field.
 
