@@ -50,7 +50,7 @@ Each of these suggestions is covered in more detail in this article.
 
 ## Object anchors
 
-The Azure Object Anchors (Preview) features uses a 3D model of an object to automatically detect and anchor to the real-world object. Use this anchor type as an alternative for cases where you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.   
+The Azure Object Anchors (Preview) feature uses a 3D model of an object to automatically detect and anchor to the real-world object. Use this anchor type as an alternative for cases where you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.   
 
 [Learn more about Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md).
 
