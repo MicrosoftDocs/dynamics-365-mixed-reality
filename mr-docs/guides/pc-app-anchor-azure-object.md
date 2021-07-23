@@ -1,3 +1,12 @@
+---
+author: Mamaylya
+description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
+ms.author: mamaylya
+ms.date: 07/27/2021
+ms.topic: article
+title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
+ms.reviewer: v-bholmes
+---
 
 # Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 
