@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 05/04/2021
+ms.date: 07/23/2021
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -21,6 +21,10 @@ If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 2. Under **Customer Engagement help + support**, select **GET SUPPORT**.
 
 3. Find a phone number or submit a support request through the admin center. 
+
+## Does Dynamics 365 Guides support HoloLens (1st gen)?
+
+HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
 
 ## Why are there two apps?
 
