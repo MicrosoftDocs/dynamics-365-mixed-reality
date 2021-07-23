@@ -157,11 +157,18 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 ## Assign the object anchor to a guide in the Anchor wizard 
 
-1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Properties** tab.    
+1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Object anchors** tab. 
+
+    ![XXX](media/AOA-drag-object.PNG "XXX")  
 
 2. Drag and drop the object anchor to the **Anchor** icon to assign it to the guide, and then select **Next**. 
 
     ![XXX](media/AOA-drag-object.PNG "XXX")
+    
+    > [!TIP]
+    > To preview the object anchor, in the Anchor wizard, select the object anchor thumbnail to open the **Properties** tab, or view the record in the Guides model-driven app.
+    > 
+    > ![XXX](media/AOA-preview-object-anchor.PNG "XXX")
 
 3. The next three steps in the Anchor wizard are optional: 
 
@@ -169,7 +176,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
     b. Import the photo of the target object location, and then select **Next**.
 
-    c. Add custom instructions as needed to help the operator find the target object, and then complete the wizard.  
+    c. Add custom instructions as needed to help the operator find the target object, and then select **Done**.  
 
 ## Assign the object anchor in the HoloLens app 
 
