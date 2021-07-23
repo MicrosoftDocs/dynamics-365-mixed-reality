@@ -40,7 +40,7 @@ For best results, target objects should be fixed and stationary during the scann
 
 To achieve accurate detection and alignment, the target object should be 1–10 meters for each dimension, as shown below.
 
-![XXX](media/AOA-object-size.PNG "XXX")
+![Diagram showing minimum object size](media/AOA-object-size.PNG "Diagram showing minimum object size")
 
 ### Topology
 
@@ -87,20 +87,20 @@ Each of these steps is described in detail below.
 
 1. In the PC app, on the **Outline** page, select **Anchor**, and then select **Set your anchor now** to open the Anchor wizard.
 
-    ![XXX](media/AOA-outline-anchor.PNG "XXX")
+    ![Outline page with Anchor command and Set your anchor now command highlighted](media/AOA-outline-anchor.PNG "Outline page with Anchor command and Set your anchor now command highlighted")
 
 2. On the **Choose an anchor method** page, under **Object Anchor (Preview)**, select **Select**.
 
-    ![XXX](media/AOA-select-object-anchor.PNG "XXX") 
+    ![Choose an anchor method page with appropriate Select button highlighted](media/AOA-select-object-anchor.PNG "Choose an anchor method page with appropriate Select button highlighted") 
 
     > [!NOTE]
     > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the AOA preview.   
     > 
-    > ![XXX](media/AOA-try-preview-button.PNG "XXX")
+    > ![Try Preview button highlighted in Anchor wizard](media/AOA-try-preview-button.PNG "Try Preview button highlighted in Anchor wizard")
 
 3. To add your 3D model as an object anchor, on the **Library** tab, select **Create**. 
 
-    ![XXX](media/AOA-create-anchor.PNG "XXX")
+    ![Library tab with Create button highlighted](media/AOA-create-anchor.PNG "Library tab with Create button highlighted")
 
     This opens the Guides model-driven app in your web browser.   
 
@@ -113,14 +113,14 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 1. In the **Name** field, enter a name your object anchor, and then select **Save** at the top of the screen. 
 
-    ![XXX](media/AOA-model-driven-app.PNG "XXX") 
+    ![Screen shot of model-driven app showing instructions on the right and Name field.](media/AOA-model-driven-app.PNG "Screen shot of model-driven app showing instructions on the right and Name field.") 
     
    > [!Important]
    > The **Choose File** button in the next step won't appear until you select **Save**.
 
 3. Under **Input**, select **Choose File**, and then browse to your 3D model and upload it. 
 
-    ![XXX](media/AOA-choose-file.PNG "XXX")
+    ![Input section showing Choose File button.](media/AOA-choose-file.PNG "Input section showing Choose File button.")
 
     > [!NOTE]
     > The following file types are supported: .obj, .fbx, .glb, .gltf, .ply. The maximum file size is 150 MB.  
@@ -131,7 +131,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
     
     ii. Verify the measurement type for the **Length Unit** field.
 
-     ![XXX](media/AOA-conversion.PNG "XXX")       
+     ![Length Unit field](media/AOA-conversion.PNG "Length Unit field")       
 
 5. Select **Convert 3D File**. 
 
@@ -145,11 +145,11 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 1. Select the circle next to the object anchor name.
 
-    ![XXX](media/AOA-select-thumbnail.PNG "XXX")
+    ![Circle for image thumbnail](media/AOA-select-thumbnail.PNG "Circle for image thumbnail")
 
 2. In the **Choose Image** dialog box, select **Upload Image**, and then select the image to use for the thumbnail.
 
-    ![XXX](media/AOA-select-thumbnail-image.PNG "XXX")
+    ![Choose Image dialog box](media/AOA-select-thumbnail-image.PNG "Choose Image dialog box")
 
     The preview image changes after the image has finished uploading. 
     
@@ -161,12 +161,12 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 2. Drag the object anchor to the **Anchor** icon in the **Assign an object anchor** area to assign it to the guide, and then select **Next**. 
 
-    ![XXX](media/AOA-drag-object.PNG "XXX")
+    ![Screen shot showing where to drag the anchor to and from](media/AOA-drag-object.PNG "Screen shot showing where to drag the anchor to and from")
     
     > [!TIP]
     > To preview the object anchor, in the Anchor wizard, select the object anchor thumbnail to open the **Properties** tab. You can also view the object anchor in the Guides model-driven app.
     > 
-    > ![XXX](media/AOA-preview-object-anchor.PNG "XXX")
+    > ![Screen shot showing Properties tab with object anchor](media/AOA-preview-object-anchor.PNG "Screen shot showing Properties tab with object anchor")
 
 3. The next three steps in the Anchor wizard are optional: 
 
@@ -190,14 +190,14 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
     When the scan is successful, the object will have a green overlay. 
 
-    ![XXX](media/AOA-.PNG "XXX")
+    ![GIF of green overlay](media/AOA-.PNG "GIF of green overlay")
 
 6. Confirm that the scan is accurately aligned to the target object. If not, select **Rescan** to try again. 
 
     > [!TIP]
     > You can place arrows at key points on your target object (at the left end and right end of the object) in the first step of a guide and use those arrows to gauge the accuracy of the scan. 
     > 
-    > ![XXX](media/AOA-anchored-object.PNG "XXX")
+    > ![Example of arrow used to gauge accuracy of scan](media/AOA-anchored-object.PNG "Example of arrow used to gauge accuracy of scan")
 
 At this point, your guide should be successfully anchored to the object anchor. 
 
