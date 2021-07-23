@@ -159,8 +159,6 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Object anchors** tab. 
 
-    ![XXX](media/AOA-drag-object.PNG "XXX")  
-
 2. Drag and drop the object anchor to the **Anchor** icon to assign it to the guide, and then select **Next**. 
 
     ![XXX](media/AOA-drag-object.PNG "XXX")
