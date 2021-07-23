@@ -18,7 +18,7 @@ To maximize hologram position consistency so that the position of a hologram in 
 
 - Use QR or circular code anchors instead of holographic anchors for small to medium objects and spaces. 
 
-- Use [Azure Object Anchors (Preview)](pc-app-anchor-azure-object-anchors.md) for larger static objects. 
+- Use [Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md) for larger static objects. 
 
     The overall order of accuracy for the different kinds of anchors from most precise to least precise is:
 
@@ -52,7 +52,7 @@ Each of these suggestions is covered in more detail in this article.
 
 The Azure Object Anchors (Preview) features uses a 3D model of an object to automatically detect and anchor to the real-world object. Use this anchor type as an alternative for cases where you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.   
 
-[Learn more about Azure Object Anchors (Preview)]().
+[Learn more about Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md).
 
 ## QR and circular code anchors
 
