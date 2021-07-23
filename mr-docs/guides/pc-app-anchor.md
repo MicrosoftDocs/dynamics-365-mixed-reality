@@ -33,6 +33,18 @@ Because HoloLens knows and remembers the space around the operator, it can remem
 
 There are four ways to anchor a guide:
 
+- **Azure Object Anchors Preview** (recommended for larger static objects). Azure Object Anchors uses sensing and processing on HoloLens 2 to detect a digital model and align it to a physical object. You use the Guides model-driven app to convert an online 3D model to an object anchor, and then assign it to a guide. 
+
+    Azure Object Anchors offers the following advantages over other types of anchors:
+
+   - You don’t have to attach a physical marker to an object; the object is the anchor  
+
+   - Avoids potential human error when placing markers or with wear and tear of a marker over time 
+
+   - You can convert an existing 3D object model into an object anchor 
+
+   - Improved alignment accuracy and reliability  
+
 - **QR code anchor (recommended)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended, because it's the most accurate method, and you can print the anchor at different sizes. 
 
     > [!NOTE]
@@ -49,18 +61,6 @@ There are four ways to anchor a guide:
     - You can't guarantee that the placement of the QR code anchor or circular code anchor will be the same every time.
 
     - A part is too small to attach a QR code anchor or circular code anchor.
-
-- **Azure Object Anchors (Preview)**. Azure Object Anchors uses sensing and processing on HoloLens 2 to detect a digital model and align it to a physical object. You use the Guides model-driven app to convert an online 3D model to an object anchor, and then assign it to a guide. 
-
-    Azure Object Anchors offers the following advantages over other types of anchors:
-
-   - You don’t have to attach a physical marker to an object; the object is the anchor  
-
-   - Avoids potential human error when placing markers or with wear and tear of a marker over time 
-
-   - You can convert an existing 3D object model into an object anchor 
-
-   - Improved alignment accuracy and reliability  
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
 
