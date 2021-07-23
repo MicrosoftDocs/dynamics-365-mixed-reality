@@ -36,9 +36,11 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically align your guide content to real-world objects</a>| No |<a href="DOCS URL GOES HERE" target="_blank">Anchor a guide by using Azure Object Anchors</a>|
 
-### Bugs fixed
+### Bugs fixed and other improvements
 
-- XXX
+- Improved caching of guides for a better offline experience
+- Fixed privilege validation issue for folders on HoloLens
+- Improved the PC authoring app to better align with accessibility requirements
 
 ## June 29, 2021
 
