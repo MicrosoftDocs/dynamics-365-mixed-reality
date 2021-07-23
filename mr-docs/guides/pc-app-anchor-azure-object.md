@@ -192,7 +192,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
     ![XXX](media/AOA-.PNG "XXX")
 
-6. Confirm that the scan is accurately aligned to the target object. If not, select rescan to try again. 
+6. Confirm that the scan is accurately aligned to the target object. If not, select **Rescan** to try again. 
 
     > [!TIP]
     > You can place arrows at key points on your target object (at the left end and right end of the object) in the first step of a guide and use those arrows to gauge the accuracy of the scan. 
