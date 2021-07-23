@@ -29,9 +29,9 @@ When an operator places the holographic anchor or scans the physical anchor, Dyn
 If the holographic anchor is repositioned or the QR/circular code is rescanned, the reference frame is reset to match the updated digital or physical position of the anchor. 
 Because HoloLens knows and remembers the space around the operator, it can remember the reference frame of a guide so operators don’t need to place the holographic anchor again or scan again. 
 
-## Three ways to anchor a guide
+## Four ways to anchor a guide
 
-There are three ways to anchor a guide:
+There are four ways to anchor a guide:
 
 - **QR code anchor (recommended)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended, because it's the most accurate method, and you can print the anchor at different sizes. 
 
@@ -50,6 +50,18 @@ There are three ways to anchor a guide:
 
     - A part is too small to attach a QR code anchor or circular code anchor.
 
+- **Azure Object Anchors (Preview)**. Azure Object Anchors uses sensing and processing on HoloLens 2 to detect a digital model and align it to a physical object. You use the Guides model-driven app to convert an online 3D model to an object anchor, and then assign it to a guide. 
+
+    Azure Object Anchors offers the following advantages over other types of anchors:
+
+   - You don’t have to attach a physical marker to an object; the object is the anchor  
+
+   - Avoids potential human error when placing markers or with wear and tear of a marker over time 
+
+   - You can convert an existing 3D object model into an object anchor 
+
+   - Improved alignment accuracy and reliability  
+
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
 
 ## Overall process for creating anchors
@@ -61,6 +73,8 @@ Ragardless of which type of anchor you want to create, you always start with the
 - [Create a circular code anchor](pc-app-anchor-circular-code.md)
 
 - [Create a holographic anchor](pc-app-anchor-holographic.md)
+
+- [Create an Azure Object Anchor (Preview)](pc-app-anchor-azure-object.md)
 
 After creating the anchor in the PC app, you use the HoloLens app to anchor your guide in the real world, whether you're an author or operator. Use the following links to learn how to anchor a guide, depending on whether you're an author or an operator:
 

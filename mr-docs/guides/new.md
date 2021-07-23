@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 07/23/2021
+ms.date: 07/27/2021
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -21,6 +21,26 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
+
+## July 27, 2021
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|603.2107.20001.0|
+|HoloLens app (HoloLens 2 only)|603.2107.20001.0|
+|Solution|600.3.0.1|
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically align your guide content to real-world objects</a>| No |<a href="DOCS URL GOES HERE" target="_blank">Anchor a guide by using Azure Object Anchors</a>|
+
+### Bugs fixed and other improvements
+
+- Improved caching of guides for a better offline experience
+- Fixed privilege validation issue for folders on HoloLens
+- Improved the PC authoring app to better align with accessibility requirements
 
 ## June 29, 2021
 

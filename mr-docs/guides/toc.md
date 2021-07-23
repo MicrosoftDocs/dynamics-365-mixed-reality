@@ -49,6 +49,7 @@
 ##### [QR code anchor (recommended)](pc-app-anchor-qr-code.md)
 ##### [Circular code anchor](pc-app-anchor-circular-code.md)
 ##### [Holographic anchor](pc-app-anchor-holographic.md)
+##### [Object anchor](pc-app-anchor-azure-object.md)
 ##### [Change anchor type](pc-app-anchor-change-type.md)
 ##### [Effect of calibration, pre-scanning, and environment on hologram precision](pc-app-anchor-improve-hologram-precision.md)
 ##### [Effect of anchor types/placement on hologram precision](pc-app-anchor-types-placement-precision.md)
