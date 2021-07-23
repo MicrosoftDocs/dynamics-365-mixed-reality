@@ -5,13 +5,13 @@ Anchoring a guide with Azure Object Anchors (AOA) is a new preview capability fo
 
 There are four basic steps required to create an anchor with AOA:
 
-1.	The author of the guide identifies an appropriate object in the physical world to anchor the guide to. 
+1. The author of the guide identifies an appropriate object in the physical world to anchor the guide to. 
 
-2.	The author converts a digital 3D model that matches the physical object into an object anchor through the Guides model-driven app. 
+2. The author converts a digital 3D model that matches the physical object into an object anchor through the Guides model-driven app. 
 
-3.	The author assigns the object anchor to a specific guide by using the Anchor wizard in the Dynamics 365 Guides PC app. 
+3. The author assigns the object anchor to a specific guide by using the Anchor wizard in the Dynamics 365 Guides PC app. 
 
-4.	After the operator opens the guide on HoloLens 2, the device searches for the object in the real-world environment. Once HoloLens recognizes the real-world object, the operator is automatically taken to the first step of the guide.
+4. After the operator opens the guide on HoloLens 2, the device searches for the object in the real-world environment. Once HoloLens recognizes the real-world object, the operator is automatically taken to the first step of the guide.
 
 ## Requirements
 
@@ -40,7 +40,7 @@ For best results, target objects should be fixed and stationary during the scann
 
 To achieve accurate detection and alignment, the target object should be 1–10 meters for each dimension, as shown below.
 
-![XXX](media/AOA-.PNG "XXX")
+![XXX](media/AOA-object-size.PNG "XXX")
 
 ### Topology
 
@@ -73,13 +73,13 @@ If the target object is moved, for absolute accuracy, the author or operator nee
 
 Converting a 3D model into an object anchor and assigning it to a guide includes the following steps:
 
-1.	Choose the anchor type in the Anchor wizard.
+1. Choose the anchor type in the Anchor wizard.
 
-2.	Covert the 3D model in the Guides model-driven app.
+2. Covert the 3D model in the Guides model-driven app.
 
-3.	Assign the object anchor to a guide in the Anchor wizard.
+3. Assign the object anchor to a guide in the Anchor wizard.
 
-4.	Assign the object anchor in the HoloLens app. 
+4. Assign the object anchor in the HoloLens app. 
 
 Each of these steps is described in detail below.
 
@@ -87,20 +87,20 @@ Each of these steps is described in detail below.
 
 1. In the PC app, on the **Outline** page, select **Anchor** to open the Anchor wizard.
 
-    ![XXX](media/AOA-.PNG "XXX")
+    ![XXX](media/AOA-outline-anchor.PNG "XXX")
 
 2. On the **Choose an anchor method** page, under **Object Anchor (Preview)**, select **Select**.
 
-    ![XXX](media/AOA-.PNG "XXX") 
+    ![XXX](media/AOA-select-object-anchor.PNG "XXX") 
 
     > [!NOTE]
     > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the AOA preview.   
     > 
-    > ![XXX](media/AOA-.PNG "XXX")
+    > ![XXX](media/AOA-try-preview-button.PNG "XXX")
 
 3. To add your 3D model as an object anchor, in the Anchor wizard, on the **Library** tab, select **Create**. 
 
-    ![XXX](media/AOA-.PNG "XXX")
+    ![XXX](media/AOA-create-anchor.PNG "XXX")
 
     This opens the Guides model-driven app in your web browser.   
 
@@ -113,14 +113,14 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 1. In the **Name** field, enter a name your object anchor, and then select **Save** at the top of the screen. 
 
-    ![XXX](media/AOA-.PNG "XXX") 
+    ![XXX](media/AOA-model-driven-app.PNG "XXX") 
     
    > [!Important]
    > The **Choose File** button won't appear until you select **Save**.
 
 3. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it. 
 
-    ![XXX](media/AOA-.PNG "XXX")
+    ![XXX](media/AOA-choose-file.PNG "XXX")
 
     > [!NOTE]
     > The following file types are supported: .obj, .fbx, .glb, .gltf, .ply. The maximum file size is 150 MB.  
@@ -131,13 +131,11 @@ Use the instructions on the right side of the screen in the Guides model-driven 
     
     ii. Verify the measurement type for the **Length Unit** field.
 
-     ![XXX](media/AOA-.PNG "XXX")       
+     ![XXX](media/AOA-conversion.PNG "XXX")       
 
 5. Select **Convert 3D File**. 
 
     This starts the conversion process. The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide. 
-
-    ![XXX](media/AOA-.PNG "XXX")
 
 6. When the conversion is done, “Completed” appears in the **Conversion Status** field. You can then go back to the Anchor wizard in the PC app to assign the object anchor to the guide. If the conversion fails, start the process again.
 
@@ -147,11 +145,11 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 1. Select the circle next to the object anchor name.
 
-    ![XXX](media/AOA-.PNG "XXX")
+    ![XXX](media/AOA-select-thumbnail.PNG "XXX")
 
 2. Select **Upload **Image**, and then select the image to use for the thumbnail.
 
-    ![XXX](media/AOA-.PNG "XXX")
+    ![XXX](media/AOA-upload-thumbnail-image.PNG "XXX")
 
     The preview image changes after the image has finished uploading. 
     
@@ -159,11 +157,11 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
 ## Assign the object anchor to a guide in the Anchor wizard 
 
-1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Object Anchor** tab.
-
-    ![XXX](media/AOA-.PNG "XXX")
+1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Object Anchor** tab.    
 
 2. Drag and drop the object anchor to assign it to the guide, and then select **Next**. 
+
+    ![XXX](media/AOA-drag-object.PNG "XXX")
 
 3. The next three steps in the Anchor wizard are optional: 
 
@@ -195,6 +193,8 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
     > [!TIP]
     > You can place arrows at key points on your target object (at the left end and right end of the object) in the first step of a guide and use those arrows to gauge the accuracy of the scan. 
+    > 
+    > ![XXX](media/AOA-anchored-object.PNG "XXX")
 
 At this point, your guide should be successfully anchored to the object anchor. 
 
