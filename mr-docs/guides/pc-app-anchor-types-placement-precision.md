@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Learn about different anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides. 
 ms.author: mamaylya
-ms.date: 04/08/2021
+ms.date: 07/26/2021
 ms.topic: article
 title: Anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Effect of anchor types/placement on hologram precision in Dynamics 365 Guides
@@ -16,11 +16,15 @@ Since a guide's holograms are placed relative to the anchor position and orienta
 
 To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, whenever possible:
 
-- Use QR or circular code anchors instead of holographic anchors. 
+- Use QR or circular code anchors instead of holographic anchors for small to medium objects and spaces. 
+
+- Use [Azure Object Anchors Preview](pc-app-anchor-azure-object.md) for larger static objects. 
 
     The overall order of accuracy for the different kinds of anchors from most precise to least precise is:
 
-    1. QR code anchor
+    1. Object anchor
+
+    2. QR code anchor
 
     2. Circular code anchor
 
@@ -43,6 +47,12 @@ Each of these suggestions is covered in more detail in this article.
 > - [Best practices for QR code anchors](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors)
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
+
+## Azure Object Anchors Preview
+
+The Azure Object Anchors Preview feature uses a 3D model of an object to automatically detect and anchor to a real-world object. Use this anchor type as an alternative when you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.   
+
+[Learn more about Azure Object Anchors Preview](pc-app-anchor-azure-object.md).
 
 ## QR and circular code anchors
 
