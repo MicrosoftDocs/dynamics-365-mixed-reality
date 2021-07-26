@@ -147,7 +147,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 ### Assign a thumbnail to the object anchor (optional)
 
-If you want to be able to easily identify your object anchor in the Library in the PC app, you can assign a thumbnail to your object anchor in the model-driven app. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned.  
+If you want to be able to easily identify your object anchor in the Library in the PC app, you can assign a thumbnail to your object anchor in the model-driven app. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned. 
 
 1. Select the circle next to the object anchor name.
 
@@ -182,7 +182,7 @@ If you want to be able to easily identify your object anchor in the Library in t
 
     c. Add custom instructions as needed to help the operator find the target object, and then select **Done**.  
 
-## Detec the object anchor in the HoloLens app 
+## Detect the object anchor in the HoloLens app 
 
 1. Open the guide in the HoloLens app.  
 
