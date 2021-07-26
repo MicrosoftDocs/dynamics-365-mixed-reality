@@ -203,8 +203,6 @@ At this point, your guide should be successfully anchored to the object anchor.
 > [!NOTE]
 > Rescanning might cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.   
 
-## Use an object anchor as an operator
-
 ## Known issues 
 
 AOA is a preview feature for Dynamics 365 Guides and has the following limitations:
