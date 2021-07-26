@@ -18,7 +18,7 @@ Authors must do three steps to use object anchors:
 
 2. Import and convert a digital twin of that object through the Guides model-driven app. 
 
-3. Choose **Object Anchor** as the anchor method for the gude and assign the resulting object anchor to the guide through the Dynamics 365 Guides PC app. 
+3. Choose **Object Anchor** as the anchor method for the guide and assign the resulting object anchor to the guide through the Dynamics 365 Guides PC app. 
 
 ## Requirements
 
