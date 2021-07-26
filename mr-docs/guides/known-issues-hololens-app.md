@@ -2,13 +2,17 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 04/01/2020
+ms.date: 06/26/2021
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+## Telemetry data not stored for operators with **Restricted Operator** role in certain cases
+
+Operators with the **Restricted Operator** role that don't have the appendTo privilege can access and operate guides but their session data (telemetry) is not stored for time-tracking purposes.
 
 ## I can't open a non-English Example guide
 
