@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
 ms.author: mamaylya
-ms.date: 07/27/2021
+ms.date: 07/26/2021
 ms.topic: article
 title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
 ms.reviewer: v-bholmes
@@ -10,17 +10,15 @@ ms.reviewer: v-bholmes
 
 # Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
 
-Anchoring a guide with Azure Object Anchors (AOA) is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. The preview release supports larger static objects as anchors; subsequent releases will include support for sporadically moving objects. AOA uses sensing and processing on HoloLens 2 to detect a digital model and align it to a physical object. 
+Anchoring a guide with Azure Object Anchors (AOA) is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. This preview release supports largee static objects only. AOA uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin that has been  imported into Dynamics 365 Guides, converted to an object anchor, and assigned to a guide.  
 
-There are four basic steps required to create an anchor with AOA:
+Authors must do three steps to use object anchors:
 
-1. The author of the guide identifies an appropriate object in the physical world to anchor the guide to. 
+1. Identify an appropriate object in the physical world to anchor the guide to. 
 
-2. The author converts a digital 3D model that matches the physical object into an object anchor through the Guides model-driven app. 
+2. Import and convert a digital twin of that object through the Guides model-driven app. 
 
-3. The author assigns the object anchor to a specific guide by using the Anchor wizard in the Dynamics 365 Guides PC app. 
-
-4. After the operator opens the guide on HoloLens 2, the device searches for the object in the real-world environment. Once HoloLens recognizes the real-world object, the operator is automatically taken to the first step of the guide.
+3. Choose **Object Anchor** as the anchor method for the gude and assign the resulting object anchor to the guide through the Dynamics 365 Guides PC app. 
 
 ## Requirements
 
@@ -30,12 +28,13 @@ To use AOA in Dynamics 365 Guides, you’ll need:
 
 - Dynamics 365 Guides solution version 600.3.0.1 (July 27, 2021) or later
 
-- A test Microsoft Dataverse environment separate from your production environment. [Learn how to set up a Microsoft Dataverse environment](https://docs.microsoft.com/power-platform/admin/environments-overview).
-
 - A digital 3D model of your target object. You can start with any 3D model or you can capture the object by using third-party scanning applications. 
 
+   > [!NOTE]
+   > Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product. 
+
 > [!NOTE]
-> Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product. 
+> You may want to create a test Microsoft Dataverse environment separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](https://docs.microsoft.com/power-platform/admin/environments-overview).
 
 ## Best practices for choosing a target object for your object anchor
 
@@ -73,7 +72,7 @@ Highly reflective and dark materials are difficult to detect with HoloLens. If H
 
 ### Limitations
 
-If the target object is moved, for absolute accuracy, the author or operator needs to clear the SR mesh when rescanning the anchor. To clear the SR mesh, on HoloLens, go to **Settings**, select **Holograms**, and then select **Clear all holograms**. 
+If the target object is moved, for absolute accuracy, the author or operator needs to clear the SR mesh before rescanning the anchor. To clear the SR mesh, on HoloLens, go to **Settings**, select **Holograms**, and then select **Clear all holograms**. 
 
 > [!NOTE]
 > This will clear all cached locations of all holograms you may have placed in other running HoloLens applications.
@@ -87,8 +86,6 @@ Converting a 3D model into an object anchor and assigning it to a guide includes
 2. Covert the 3D model in the Guides model-driven app.
 
 3. Assign the object anchor to a guide in the Anchor wizard.
-
-4. Assign the object anchor in the HoloLens app. 
 
 Each of these steps is described in detail below.
 
@@ -150,7 +147,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 ### Assign a thumbnail to the object anchor (optional)
 
-You can also assign a thumbnail to your object anchor in the model-driven app to make it easier to find in the **Library**. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned.  
+If you want to be able to easily identify your object anchor in the Library in the PC app, you can assign a thumbnail to your object anchor in the model-driven app. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned.  
 
 1. Select the circle next to the object anchor name.
 
@@ -185,7 +182,7 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
 
     c. Add custom instructions as needed to help the operator find the target object, and then select **Done**.  
 
-## Assign the object anchor in the HoloLens app 
+## Detec the object anchor in the HoloLens app 
 
 1. Open the guide in the HoloLens app.  
 
@@ -200,13 +197,6 @@ You can also assign a thumbnail to your object anchor in the model-driven app to
     When the scan is successful, the object will have a green overlay. 
 
     ![GIF of green overlay](media/AOA.gif "GIF of green overlay")
-    
-6. Confirm that the scan is accurately aligned to the target object. If not, select **Rescan** to try again. 
-
-    > [!TIP]
-    > You can place arrows at key points on your target object (at the left end and right end of the object) in the first step of a guide and use those arrows to gauge the accuracy of the scan. 
-    > 
-    > ![Example of arrow used to gauge accuracy of scan](media/AOA-anchored-object.PNG "Example of arrow used to gauge accuracy of scan")
 
 At this point, your guide should be successfully anchored to the object anchor. 
 
@@ -214,19 +204,6 @@ At this point, your guide should be successfully anchored to the object anchor.
 > Rescanning might cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.   
 
 ## Use an object anchor as an operator
-
-For operators, anchoring a guide with an object anchor is similar to anchoring with other methods:
-
-1.	Open the guide in the HoloLens app using HoloLens 2. 
-
-2.	Select **Initiate Scan**. 
-
-3.	Scan the environment for the target object.
-
-4.	The device will detect the object and automatically take the operator to the first step of the guide. 
-
-> [!NOTE]
-> Rescanning might cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.
 
 ## Known issues 
 
