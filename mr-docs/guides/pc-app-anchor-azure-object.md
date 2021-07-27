@@ -205,7 +205,7 @@ At this point, your guide should be successfully anchored to the object anchor.
 
 ## Troubleshooting
 
-### 3D models conversion failure
+### 3D model conversion failure
 
 The top reasons for 3D model conversion failure in the Guides model-driven app include:
 
