@@ -231,7 +231,7 @@ You can confirm object measurements and **Length Unit** type by double-clicking 
 
 - If the dimensions of the object in the **Properties** tab are different from the actual object dimensions by a factor of 2 or more, an incorrect **Length Unit** type was likely used.
 
-- If the gravity direction of the model in the **Properties** tab (the down direction) is very different from the actual orientation of the object in its environment, an incorrect gravity direction was likely used, for example, if the chair in the above example is shown upside down or with its legs pointing to the side instead of pointing down.
+- If the gravity direction of the model in the **Properties** tab (the down direction) is very different from the actual orientation of the object in its environment, an incorrect gravity direction was likely used (for example, if the chair in the above example is shown upside down or with its legs pointing to the side instead of pointing down).
 
    3D models that are converted correctly may not be detected on HoloLens if their model geometries differ greatly from the surfaces detected by HoloLens. You can view the object anchor geometry in the **Properties** tab and compare that with the Surface Reconstruction (SR) mesh of the object as seen by HoloLens. To view the object’s SR mesh, air tap while viewing the object in the HoloLens shell. A large difference in geometry between the anchor geometry and SR mesh indicates potential difficulty with object anchoring. 
 
