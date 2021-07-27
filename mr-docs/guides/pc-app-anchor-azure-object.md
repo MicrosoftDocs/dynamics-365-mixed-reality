@@ -223,7 +223,7 @@ The top reasons for object anchor failure on HoloLens include:
 
 - Incorrect gravity direction specified during model conversion.
 
-- The 3D models provided during model conversion do not resemble the surfaces of the actual objects detected by the sensors on HoloLens.
+- The 3D model provided during model conversion does not resemble the surfaces of the actual object detected by the sensors on HoloLens.
 
 You can confirm object measurements and **Length Unit** type by double-clicking the object anchor in the PC app.   
   
