@@ -34,7 +34,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically anchor your guide content to real-world objects (Preview)</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object" target="_blank">Anchor a guide by using Azure Object Anchors</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically anchor your guide content to real-world objects (Preview)</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object" target="_blank">Anchor a guide by using Azure Object Anchors</a>|
 
 ### Bugs fixed and other improvements
 
