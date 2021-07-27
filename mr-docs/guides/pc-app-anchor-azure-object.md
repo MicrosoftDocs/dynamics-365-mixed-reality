@@ -203,6 +203,37 @@ At this point, your guide should be successfully anchored to the object anchor.
 > [!NOTE]
 > Objects that have moved or are moving may cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.   
 
+## Troubleshooting
+
+### Converting 3D models in the Guides model-driven app
+
+The top reasons for model conversion failure in the Guides model-driven app include:
+
+- The 3D model uses an unsupported file format.
+
+- The physical dimensions of the 3D model are larger than 10 meters or smaller than 1 meter.
+
+- The 3D model file is bigger than the maximum supported file size (150 MB).
+
+### Object anchor failure on HoloLens
+
+The top reasons for object anchor failure on HoloLens include:
+
+- Incorrect **Length Unit** type specified during model conversion.
+
+- Incorrect gravity direction specified during model conversion.
+
+- The 3D models provided during model conversion do not resemble the surfaces of the actual objects detected by the sensors on HoloLens.
+
+You can confirm object measurements and **Length Unit** type by double-clicking the object anchor in the PC app.   
+  
+SCREEN SHOT GOES HERE
+
+- An incorrect **Length Unit** type was likely used if the dimensions of the objects shown are different from the actual object dimensions by a factor of 2 or more.
+
+- An incorrect gravity direction was likely used if the gravity direction of the model in the 3D viewport (its down direction) is very different from the actual orientation of the object in its environment. For example, if the chair in the above example is shown upside down or with its legs pointing to the side instead of pointing down.
+3D models that are converted correctly may not be detected on HoloLens if their model geometries differ a lot from the surfaces detected by HoloLens devices. You can view the geometry of object anchors in the **Properties** tab and compare then with the Surface Reconstruction (SR) mesh of the object seen by HoloLens. You can view the object’s SR mesh by air-tapping while viewing the object in the HoloLens shell. A large difference in geometry between the anchor geometry and SR mesh indicates potential difficulty with object anchoring.  
+
 ## Known issues 
 
 AOA is a preview feature for Dynamics 365 Guides and has the following limitations:
