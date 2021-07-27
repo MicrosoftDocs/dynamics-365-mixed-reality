@@ -229,10 +229,11 @@ You can confirm object measurements and **Length Unit** type by double-clicking 
   
 SCREEN SHOT GOES HERE
 
-- An incorrect **Length Unit** type was likely used if the dimensions of the objects shown are different from the actual object dimensions by a factor of 2 or more.
+- If the dimensions of the object shown is different from the actual object dimensions by a factor of 2 or more, an incorrect **Length Unit** type was likely used.
 
-- An incorrect gravity direction was likely used if the gravity direction of the model in the 3D viewport (its down direction) is very different from the actual orientation of the object in its environment. For example, if the chair in the above example is shown upside down or with its legs pointing to the side instead of pointing down.
-3D models that are converted correctly may not be detected on HoloLens if their model geometries differ a lot from the surfaces detected by HoloLens devices. You can view the geometry of object anchors in the **Properties** tab and compare then with the Surface Reconstruction (SR) mesh of the object seen by HoloLens. You can view the object’s SR mesh by air-tapping while viewing the object in the HoloLens shell. A large difference in geometry between the anchor geometry and SR mesh indicates potential difficulty with object anchoring.  
+- If the gravity direction of the model in the 3D viewport (the down direction) is very different from the actual orientation of the object in its environment, an incorrect gravity direction was likely used, for example, if the chair in the above example is shown upside down or with its legs pointing to the side instead of pointing down.
+
+   3D models that are converted correctly may not be detected on HoloLens if their model geometries differ greatly from the surfaces detected by HoloLens. You can view the object anchor geometry in the **Properties** tab and compare then with the Surface Reconstruction (SR) mesh of the object seen by HoloLens. You can view the object’s SR mesh by air-tapping while viewing the object in the HoloLens shell. A large difference in geometry between the anchor geometry and SR mesh indicates potential difficulty with object anchoring.  
 
 ## Known issues 
 
