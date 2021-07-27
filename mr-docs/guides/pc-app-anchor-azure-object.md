@@ -225,7 +225,7 @@ The top reasons for object anchor failure on HoloLens include:
 
 - The 3D model provided during model conversion does not resemble the surfaces of the actual object detected by the sensors on HoloLens.
 
-You can confirm object measurements and **Length Unit** type by double-clicking the object anchor in the PC app.   
+You can confirm object measurements and **Length Unit** type by double-clicking the object anchor in the PC app to open the **Properties** tab.   
   
 ![Properties tab with My chair measurements](media/AOA-chair-properties.PNG "Properties tab with My chair measurements")
 
