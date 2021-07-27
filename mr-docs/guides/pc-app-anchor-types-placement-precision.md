@@ -16,7 +16,7 @@ Since a guide's holograms are placed relative to the anchor position and orienta
 
 To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, whenever possible:
 
-- Use QR or circular code anchors instead of holographic anchors for small to medium objects and spaces. 
+- Use QR or circular code anchors instead of holographic anchors for small to medium-sized objects and spaces. 
 
 - Use [Azure Object Anchors Preview](pc-app-anchor-azure-object.md) for larger static objects. 
 
@@ -58,7 +58,7 @@ The Azure Object Anchors Preview feature uses a 3D model of an object to automat
 
 This anchor type relies on a printed physical marker that HoloLens recognizes by using different sets of sensors. 
 
-During scanning, the position and orientation can suffer a small amount of angular error, which is usually not visible to the eye. This small angular error might not be perceptible when looking at the green outline used during the scanning process (which might seem perfectly aligned to the printed anchor) but will affect holograms that are positioned far away from the anchor. However, QR and circular code anchors provide much more accurate results than holographic anchors. **QR code anchors are recommended when consistency of hologram position and alignment to real-world objects is crucial.**
+During scanning, the position and orientation can suffer a small amount of angular error, which is usually not visible to the eye. This small angular error might not be perceptible when looking at the green outline used during the scanning process (which might seem perfectly aligned to the printed anchor) but will affect holograms that are positioned far away from the anchor. However, QR and circular code anchors provide much more accurate results than holographic anchors. QR code anchors are recommended when consistency of hologram position and alignment to real-world objects is crucial.
 
 ## Holographic anchors
 
