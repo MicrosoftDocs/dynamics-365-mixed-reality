@@ -229,7 +229,7 @@ You can confirm object measurements and **Length Unit** type by double-clicking 
   
 ![Properties tab with My chair measurements](media/AOA-chair-properties.PNG "Properties tab with My chair measurements")
 
-- If the dimensions of the object shown is different from the actual object dimensions by a factor of 2 or more, an incorrect **Length Unit** type was likely used.
+- If the dimensions of the object in the **Properties** tab are different from the actual object dimensions by a factor of 2 or more, an incorrect **Length Unit** type was likely used.
 
 - If the gravity direction of the model in the 3D viewport (the down direction) is very different from the actual orientation of the object in its environment, an incorrect gravity direction was likely used, for example, if the chair in the above example is shown upside down or with its legs pointing to the side instead of pointing down.
 
