@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
 ms.author: mamaylya
-ms.date: 07/26/2021
+ms.date: 07/27/2021
 ms.topic: article
 title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
 ms.reviewer: v-bholmes
@@ -201,21 +201,19 @@ If you want to be able to easily identify your object anchor in the Library in t
 At this point, your guide should be successfully anchored to the object anchor. 
 
 > [!NOTE]
-> Rescanning might cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.   
+> Objects that have moved or are moving may cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.   
 
 ## Known issues 
 
 AOA is a preview feature for Dynamics 365 Guides and has the following limitations:
 
-- The Content Migration tool is not supported. 
+- The Content Migration tool does not support object-anchored guides.
 
 - The Government Community Cloud (GCC) region is not supported. 
 
 - If you switch from an object anchor to another anchor using **Change anchor method**, the saved position information for holograms is not migrated. Authors will need to check hologram placements.
 
-- Offline mode is not supported. 
-
-- Rescanning may cause variable accuracy, especially with objects that have moved. 
+- Objects that have moved or are moving may cause variable accuracy. 
 
 
 
