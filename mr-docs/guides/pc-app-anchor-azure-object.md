@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
 
-Anchoring a guide with Azure Object Anchors (AOA) is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. This preview release supports large static objects only. AOA uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin that has been  imported into Dynamics 365 Guides, converted to an object anchor, and assigned to a guide.  
+Anchoring a guide with Azure Object Anchors  is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. This preview release supports large static objects only. Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin that has been  imported into Dynamics 365 Guides, converted to an object anchor, and assigned to a guide.  
 
 Authors must do three steps to use object anchors:
 
@@ -22,7 +22,7 @@ Authors must do three steps to use object anchors:
 
 ## Requirements
 
-To use AOA in Dynamics 365 Guides, you’ll need:
+To use Azure Object Anchors in Dynamics 365 Guides, you’ll need:
 
 - An active Dynamics Guides license (trial or paid)
 
@@ -52,7 +52,7 @@ To achieve accurate detection and alignment, the target object should be 1–10 
 
 ### Topology
 
-AOA works best on larger objects that have unique surfaces and asymmetric features.
+Azure Object Anchors works best on larger objects that have unique surfaces and asymmetric features.
 
 - Do not use symmetrical objects as this can cause confusion about the orientation of the object.
 
@@ -68,7 +68,7 @@ Then look at your target object to avoid false positives. This allows HoloLens t
 
 ### Materials
 
-Highly reflective and dark materials are difficult to detect with HoloLens. If HoloLens is unable to detect the surface, AOA will not be able to use sensor data for alignment and detection.
+Highly reflective and dark materials are difficult to detect with HoloLens. If HoloLens is unable to detect the surface, Azure Object Anchors will not be able to use sensor data for alignment and detection.
 
 ### Limitations
 
@@ -100,7 +100,7 @@ Each of these steps is described in detail below.
     ![Choose an anchor method page with appropriate Select button highlighted](media/AOA-select-object-anchor.PNG "Choose an anchor method page with appropriate Select button highlighted") 
 
     > [!NOTE]
-    > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the AOA preview.   
+    > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the Azure Object Anchors preview.   
     > 
     > ![Try Preview button highlighted in Anchor wizard](media/AOA-try-preview-button.PNG "Try Preview button highlighted in Anchor wizard")
 
@@ -237,7 +237,7 @@ You can confirm object measurements and **Length Unit** type by double-clicking 
 
 ## Known issues 
 
-AOA is a preview feature for Dynamics 365 Guides and has the following limitations:
+Azure Object Anchors is a preview feature for Dynamics 365 Guides and has the following limitations:
 
 - The Content Migration tool does not support object-anchored guides.
 
