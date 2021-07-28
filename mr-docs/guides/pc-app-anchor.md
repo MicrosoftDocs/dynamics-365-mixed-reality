@@ -22,11 +22,11 @@ which can result in operator confusion or damage to parts.
 
 ## How does anchoring work?
 
-Dynamics 365 Guides uses a single anchor per guide. It can be a digital (holographic) anchor or a physical anchor (QR code or circular code) that you print. 
+Dynamics 365 Guides uses a single anchor per guide. It can be a digital anchor or a physical anchor that you print. 
 
 When an operator places the holographic anchor or scans the physical anchor, Dynamics 365 Guides creates a virtual in-world reference frame at that location. All the holograms included in the guide are located in space relative to that virtual reference frame. 
 
-If the holographic anchor is repositioned or the QR/circular code is rescanned, the reference frame is reset to match the updated digital or physical position of the anchor. 
+If the digital anchor is repositioned or the printed anchor is rescanned, the reference frame is reset to match the updated digital or physical position of the anchor. 
 Because HoloLens knows and remembers the space around the operator, it can remember the reference frame of a guide so operators don’t need to place the holographic anchor again or scan again. 
 
 ## Four ways to anchor a guide
@@ -45,7 +45,7 @@ There are four ways to anchor a guide:
 
    - Improved alignment accuracy and reliability  
 
-- **QR code anchor (recommended for small to medium size objects and spaces)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended for small to medium size objects and spaces because it's the most accurate method, and you can print the anchor at different sizes. 
+- **QR code anchor (recommended for small to medium-size objects and spaces)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended for small to medium-size objects and spaces because it's the most accurate method, and you can print the anchor at different sizes. 
 
     > [!NOTE]
     > QR code anchoring isn't available on HoloLens 1 devices.
