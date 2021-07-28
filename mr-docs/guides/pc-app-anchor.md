@@ -22,11 +22,11 @@ which can result in operator confusion or damage to parts.
 
 ## How does anchoring work?
 
-Dynamics 365 Guides uses a single anchor per guide. It can be a digital (holographic) anchor or a physical anchor (QR code or circular code) that you print. 
+Dynamics 365 Guides uses a single anchor per guide. It can be a digital anchor or a physical anchor that you print. 
 
 When an operator places the holographic anchor or scans the physical anchor, Dynamics 365 Guides creates a virtual in-world reference frame at that location. All the holograms included in the guide are located in space relative to that virtual reference frame. 
 
-If the holographic anchor is repositioned or the QR/circular code is rescanned, the reference frame is reset to match the updated digital or physical position of the anchor. 
+If the digital anchor is repositioned or the printed anchor is rescanned, the reference frame is reset to match the updated digital or physical position of the anchor. 
 Because HoloLens knows and remembers the space around the operator, it can remember the reference frame of a guide so operators don’t need to place the holographic anchor again or scan again. 
 
 ## Four ways to anchor a guide
@@ -45,7 +45,7 @@ There are four ways to anchor a guide:
 
    - Improved alignment accuracy and reliability  
 
-- **QR code anchor (recommended for small to medium size objects and spaces)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended for small to medium size objects and spaces because it's the most accurate method, and you can print the anchor at different sizes. 
+- **QR code anchor (recommended for small to medium-size objects and spaces)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended for small to medium-size objects and spaces because it's the most accurate method, and you can print the anchor at different sizes. 
 
     > [!NOTE]
     > QR code anchoring isn't available on HoloLens 1 devices.
@@ -68,13 +68,13 @@ There are four ways to anchor a guide:
 
 Ragardless of which type of anchor you want to create, you always start with the Anchor wizard in the PC app. Use the following links to learn how to create different types of anchors in the PC app.
 
+- [Create an Azure Object Anchor](pc-app-anchor-azure-object.md)
+
 - [Create a QR code anchor](pc-app-anchor-qr-code.md)
 
 - [Create a circular code anchor](pc-app-anchor-circular-code.md)
 
 - [Create a holographic anchor](pc-app-anchor-holographic.md)
-
-- [Create an Azure Object Anchor (Preview)](pc-app-anchor-azure-object.md)
 
 After creating the anchor in the PC app, you use the HoloLens app to anchor your guide in the real world, whether you're an author or operator. Use the following links to learn how to anchor a guide, depending on whether you're an author or an operator:
 
@@ -95,7 +95,8 @@ Use the following table to find more information on anchoring.
 
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
-|Creating an anchor|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)
+|Creating an anchor|[Create an Azure Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
+||[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
 ||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
