@@ -68,13 +68,13 @@ There are four ways to anchor a guide:
 
 Ragardless of which type of anchor you want to create, you always start with the Anchor wizard in the PC app. Use the following links to learn how to create different types of anchors in the PC app.
 
+- [Create an Azure Object Anchor](pc-app-anchor-azure-object.md)
+
 - [Create a QR code anchor](pc-app-anchor-qr-code.md)
 
 - [Create a circular code anchor](pc-app-anchor-circular-code.md)
 
 - [Create a holographic anchor](pc-app-anchor-holographic.md)
-
-- [Create an Azure Object Anchor (Preview)](pc-app-anchor-azure-object.md)
 
 After creating the anchor in the PC app, you use the HoloLens app to anchor your guide in the real world, whether you're an author or operator. Use the following links to learn how to anchor a guide, depending on whether you're an author or an operator:
 
@@ -95,7 +95,8 @@ Use the following table to find more information on anchoring.
 
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
-|Creating an anchor|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)
+|Creating an anchor|[Create an Azure Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
+||[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
 ||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
