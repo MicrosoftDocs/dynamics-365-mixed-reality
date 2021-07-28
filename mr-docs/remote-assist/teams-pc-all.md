@@ -161,7 +161,8 @@ When you're in a call, you'll see your collaborator’s space, including hologra
 > [!NOTE]
 > -	The toolbar appears only when the video on stage is from the Dynamics 365 Remote Assist user.
 > -	The toolbar will appear but will be disabled if the Dynamics 365 Remote Assist user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily lost tracking, or Dynamics 365 Remote Assist is not in the foreground because the user did the bloom gesture).
-> -	The toolbar will not appear if the same Dynamics Remote Assist user is connected from Teams and Dynamics 365 Remote Assist at the same time, regardless of the device used. 
+> -	The toolbar will not appear if the same Dynamics Remote Assist user is connected from Teams and Dynamics 365 Remote Assist at the same time, regardless of the device used.
+> - The toolbar will not appear if you have not turned on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
 
 ### Begin editing 
 
