@@ -22,9 +22,9 @@ Authors must do three steps to use object anchors:
 
 ## Requirements
 
-To use Azure Object Anchors in Dynamics 365 Guides, you’ll need:
+To use Azure Object Anchors in Dynamics 365 Guides, you need:
 
-- An active Dynamics Guides license (trial or paid)
+- An active Dynamics 365 Guides license (trial or paid)
 
 - Dynamics 365 Guides solution version 600.3.0.1 (July 27, 2021) or later
 
@@ -72,10 +72,10 @@ Highly reflective and dark materials are difficult to detect with HoloLens. If H
 
 ### Limitations
 
-If the target object is moved, for absolute accuracy, the author or operator needs to clear the SR mesh before rescanning the anchor. To clear the SR mesh, on HoloLens, go to **Settings**, select **Holograms**, and then select **Clear all holograms**. 
+If the target object is moved, for absolute accuracy, the author or operator needs to clear the Surface Reconstruction (SR) mesh before rescanning the anchor. To clear the SR mesh, on HoloLens, go to **Settings**, select **Holograms**, and then select **Clear all holograms**. 
 
 > [!NOTE]
-> This will clear all cached locations of all holograms you may have placed in other running HoloLens applications.
+> This will clear all cached locations of all holograms that you may have placed in other running HoloLens applications.
 
 ## Overall process for converting a 3D model to an object anchor and assigning it to a guide
 
@@ -83,7 +83,7 @@ Converting a 3D model into an object anchor and assigning it to a guide includes
 
 1. Choose the anchor type in the Anchor wizard.
 
-2. Covert the 3D model in the Guides model-driven app.
+2. Convert the 3D model in the Guides model-driven app.
 
 3. Assign the object anchor to a guide in the Anchor wizard.
 
@@ -111,13 +111,13 @@ Each of these steps is described in detail below.
     This opens the Guides model-driven app in your web browser.   
 
     > [!NOTE]
-    > If you're prompted for credentials, sign in with the credentials for your environment. You need to have an author or administrator role with appropriate permissions to access the model-driven app. Users with the **Restricted author** role might not be able to access the model-driven app.     
+    > If you're prompted for credentials, sign in with the credentials for your environment. You need to have an author or administrator role with appropriate permissions to access the model-driven app. Users with the [**Restricted author** role](assign-role.md) might not be able to access the model-driven app.     
 
 ## Convert the file in the Guides model-driven app
 
 Use the instructions on the right side of the screen in the Guides model-driven app to select and convert your 3D file.
 
-1. In the **Name** field, enter a name your object anchor, and then select **Save** at the top of the screen. 
+1. In the **Name** field, enter a name for your object anchor, and then select **Save** at the top of the screen. 
 
     ![Screen shot of model-driven app showing instructions on the right and Name field.](media/AOA-model-driven-app.PNG "Screen shot of model-driven app showing instructions on the right and Name field.") 
     
@@ -147,7 +147,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 ### Assign a thumbnail to the object anchor (optional)
 
-If you want to be able to easily identify your object anchor in the Library in the PC app, you can assign a thumbnail to your object anchor in the model-driven app. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned. 
+If you want to be able to easily identify your object anchor in the **Library** in the PC app, you can assign a thumbnail to your object anchor in the model-driven app. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned. 
 
 1. Select the circle next to the object anchor name.
 
