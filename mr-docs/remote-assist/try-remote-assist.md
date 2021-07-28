@@ -29,9 +29,12 @@ In this article, we’ll walk through the three ways you can get a Dynamics 365 
 
 ### Prerequisites
 
-   - A [Microsoft account](https://account.microsoft.com/account).
+   - A [Microsoft account](https://account.microsoft.com/account) (required to use the Microsoft Teams freemium account). 
+
    - A [Microsoft Teams freemium account](https://products.office.com/microsoft-teams/free).
+
    - Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only). Users will sign in to their accounts through Azure Active Directory. 
+
    - A HoloLens, HoloLens 2, or a mobile device. [Learn about additional licensing and product requirements](./requirements.md).
 
 With the license-free 90-day free trial, each user must download Dynamics 365 Remote Assist from the appropriate app store to start the trial. 
@@ -39,18 +42,27 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 This trial grants access only to the client application. Additional Dynamics 365 Remote Assist functionality through the Dynamics 365 Remote Assist solution (asset capture, one-time calling, calls dashboard) is not included and requires additional licensing.
 
 ### Steps for HoloLens and HoloLens 2
+
 1.	Go to the **Start** menu, and then select **Microsoft Store**. 
+
 2.	Search for and download **Dynamics 365 Remote Assist** and launch the app.
+
 3.	Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
+
 4.	The app will prompt you to start your free trial of Dynamics 365 Remote Assist. Select **Continue**. You will then be taken to your **Contacts** page.  
-5.	You can now use Dynamics 365 Remote Assist on your HoloLens and HoloLens 2!  
+
+5.	You can now use Dynamics 365 Remote Assist on your HoloLens and HoloLens 2.  
 
 ### Steps for mobile
 1.	If you’re using a mobile device, go to the appropriate iOS or Android app store.
+
 2.	Search for and download **Dynamics 365 Remote Assist** and launch the app.
+
 3.	Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
-4.	The app will prompt you to start your free trial of Dynamics 365 Remote Assist. Select **Continue**. You will then be taken to your **Contacts** page.  
-5.	You can now use Dynamics 365 Remote Assist on your mobile device! [Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile)](mobile-app/making-calls-with-ar.md).
+
+4.	The app will prompt you to start your free trial of Dynamics 365 Remote Assist. Select **Continue**. You will then be taken to your **Contacts** page. 
+ 
+5.	You can now use Dynamics 365 Remote Assist on your mobile device. [Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile)](mobile-app/making-calls-with-ar.md).
 
 ## Option 2: 30-day Dynamics 365 Remote Assist trial license for organizations
 
@@ -58,14 +70,13 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 - Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/office365/admin/admin-overview/admin-overview?view=o365-worldwide). 
 
-IT admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
+Admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
 1.	[Log into the Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
 
     ![Screenshot of the admin portal.](./media/buy_1.png "Admin portal")
 
 2. Make sure the **Try the new admin center** toggle is turned off.
-
 
 3.	In the left navigation bar, select **Billing > Purchase Services**. 
 
@@ -78,7 +89,7 @@ IT admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up
 
 ## Option 3: Dynamics 365 Remote Assist Attach trial license (for Dynamics 365 Field Service customers)
 
-Dynamics 365 Remote Assist is integrated with Dynamics 365 Field Service to help users solve problems on-site. IT admins must acquire the 30-day Dynamics 365 Remote Assist Attach trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
+Dynamics 365 Remote Assist is integrated with Dynamics 365 Field Service to help users solve problems on-site. Admins must acquire the 30-day Dynamics 365 Remote Assist Attach trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
 1.	[Log into the Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
  
