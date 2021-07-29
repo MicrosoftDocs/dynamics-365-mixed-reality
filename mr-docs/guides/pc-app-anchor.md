@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get an overview anchoring holograms in Microsoft Dynamics 365 Guides, using a QR code anchor, circular code anchor, or holographic anchor.
 ms.author: mamaylya
-ms.date: 07/26/2021
+ms.date: 07/29/2021
 ms.topic: article
 title: Overview of anchoring your guide to the real world in the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
@@ -57,7 +57,7 @@ There are four ways to anchor a guide:
    > [!NOTE]
    > An object anchor is preferred over a holographic anchor if the target object is suitable for object detection. [Learn more about object anchors and best practices for choosing target objects](pc-app-anchor-azure-object.md).
 
-You might have to use a holographic anchor if:
+   You might have to use a holographic anchor if:
 
    - It isn't feasible to attach a QR code anchor or circular code anchor because the guide is authored in a different location than where the parts are.
 
