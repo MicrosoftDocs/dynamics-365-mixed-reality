@@ -52,15 +52,20 @@ There are four ways to anchor a guide:
 
 - **Circular code anchor**. When you use a circular code anchor, you align your guide by gazing at a printed circular code anchor that's attached to a physical object in the real world. 
 
-- **Holographic anchor**. When you use a holographic anchor, you align your guide to a digital 3D hologram that's overlaid on a physical object in the real world. You might have to use a holographic anchor if:
+- **Holographic anchor**. When you use a holographic anchor, you align your guide to a digital 3D hologram that's overlaid on a physical object in the real world. 
 
-    - It isn't feasible to attach a QR code anchor or circular code anchor because the guide is authored in a different location than where the parts are.
+   > [!NOTE]
+   > An object anchor is preferred over a holographic anchor if the target object is suitable for object detection. [Learn more about object anchors and best practices for choosing target objects](pc-app-anchor-azure-object.md).
 
-    - It isn't feasible to attach a QR code anchor or circular code anchor because of moving parts.
+You might have to use a holographic anchor if:
 
-    - You can't guarantee that the placement of the QR code anchor or circular code anchor will be the same every time.
+   - It isn't feasible to attach a QR code anchor or circular code anchor because the guide is authored in a different location than where the parts are.
 
-    - A part is too small to attach a QR code anchor or circular code anchor.
+   - It isn't feasible to attach a QR code anchor or circular code anchor because of moving parts.
+
+   - You can't guarantee that the placement of the QR code anchor or circular code anchor will be the same every time.
+
+   - A part is too small to attach a QR code anchor or circular code anchor.
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
 
