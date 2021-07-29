@@ -31,7 +31,30 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 ### Bugs fixed
 
-XXX
+#### HoloLens
+
+- Fixed an issue causing some of the contacts in the **Recent Contacts** list to disappear upon refresh
+- Fixed an issue that sometimes prevented media files from opening on OneDrive
+- Improved precision of short ink lines drawn by a Microsoft Teams user in the HoloLens user space
+- Improved reliability of text chat (sending and receiving messages) and file sharing
+- Improved handling of changes to the call state to increase reliability of calling experiences
+- Addressed an issue where transferring the call would sometimes lead to an unexpected visual state
+- Addressed rare case where the first photo capture could lead to a crash
+- Addressed case where duplicate entries were logged in Calls Dashboard
+- Visually polished various panels and improved in-app messaging
+
+#### Mobile
+
+- Fix for last frame being active on the screen in the new call
+- Fix for snapshot state after a call was put on hold
+- Improvements for saving data in the Calls Dashboard 
+- Fix for saving files in the work order in a group call
+- Fix for incorrect “Learn more” destination link
+- Imrpoved messaging when enabling Dynamics 365 Field Service integration
+- General stability improvements
+- Fix for missing currently signed-in user’s status in the **Settings** tab
+- Fix for not being able to launch the app in some regions
+- Fix for accessibility issues
 
 ## June 24, 2021
 
