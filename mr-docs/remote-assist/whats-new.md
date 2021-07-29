@@ -31,7 +31,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 ### Bugs fixed
 
-#### HoloLens
+**Remote Assist on Hololens 2, quality improvements**
 
 - Fixed an issue causing some of the contacts in the **Recent Contacts** list to disappear upon refresh
 - Fixed an issue that sometimes prevented media files from opening on OneDrive
@@ -43,7 +43,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 - Addressed case where duplicate entries were logged in Calls Dashboard
 - Visually polished various panels and improved in-app messaging
 
-#### Mobile
+**Remote Assist Mobile, quality improvements**
 
 - Fix for last frame being active on the screen in the new call
 - Fix for snapshot state after a call was put on hold
