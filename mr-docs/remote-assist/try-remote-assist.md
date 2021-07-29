@@ -29,7 +29,7 @@ In this article, we’ll walk through the three ways you can get a Dynamics 365 
 
 ### Prerequisites
 
-   - A [Microsoft account](https://account.microsoft.com/account) (required to use the Microsoft Teams freemium account). Note that a Microsoft account cannot be used with the Dynamics 365 Remote Assist trial options. 
+   - A [Microsoft account](https://account.microsoft.com/account) (required to use the Microsoft Teams freemium account). Note that a Microsoft account cannot be used with the Dynamics 365 Remote Assist trial license options. It can only be used for the license-free 90-day trial when combined with Microsoft Teams freemium. 
 
    - A [Microsoft Teams freemium account](https://products.office.com/microsoft-teams/free).
 
