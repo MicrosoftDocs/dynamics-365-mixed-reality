@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 
 When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app, the first thing that you see is the anchoring instructions that were created in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app. The method that you use to anchor the guide depends on the type of anchor that was created in the PC app. For more information about how to create an anchor, and the types of anchors, see [Anchor your guide to the real world in Dynamics 365 Guides PC app](anchor.md).
 
-## Anchor a guide by using an object anchor (Anchor Object Anchors Preview)
+## Anchor a guide by using an object anchor ([Azure Object Anchors Preview](pc-app-anchor-azure-object.md))
 
 1. Put on your HoloLens, and then locate the target object in your physical environment.
 
