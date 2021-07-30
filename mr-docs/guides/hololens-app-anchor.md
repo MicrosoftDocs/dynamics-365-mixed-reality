@@ -20,7 +20,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
      ![Scan Target Object dialog box.](media/aoa-scan-target-object.PNG "Scan Target Object dialog box")
  
-3. Look at the target object with your HoloLens and move around the object to scan it. 
+3. Look at the target object with your HoloLens, and then move around the object to scan it. 
 
     HoloLens automatically recognizes the object based on the object anchor. 
 
