@@ -30,14 +30,14 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
   
 5. When the scan is successful, the object will have a green overlay.
 
-6. If this is your first time scanning the object, select **Confirm** or **Rescan**. If the object has been scanned previously, the guide will be successfully anchored to the object anchor and will automatically open the first step of the guide. 
+    > [!NOTE]
+    > Objects that have moved or are moving may cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.
+
+6. If this is your first time scanning the object, select **Confirm** or **Rescan**. If the object has been scanned previously, the guide will be successfully anchored to the object anchor. HoloLens automatically goes to the first step of the guide. 
 
 > [!TIP]
 > You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using an object anchor, a good way to control hologram offset is to test alignment by placing arrows from the 3D toolkit at key points on either ends of the object (for example, a corner or button). If the arrows are not aligned to the target object, you may need to tap the **Anchor** button to rescan. 
  
-> [!NOTE]
-> Objects that have moved or are moving may cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.
-
 ## Anchor a guide by using a QR code anchor
 
 1. Put on your HoloLens, and stand about two feet in front of the QR code anchor.
