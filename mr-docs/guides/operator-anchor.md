@@ -36,7 +36,7 @@ This topic provides step-by-step instructions for each type of anchor.
 
 2. In the **Scan Target Object** dialog box, select **Initiate scan**.
 
-     ![Scan Target Object dialog box.](media/aoa-scan-target-object.PNG "Scan Target Object dialog box")
+     ![Scan Target Object dialog box.](media/AOA-scan-target-object.PNG "Scan Target Object dialog box")
  
 3. Look at the target object with your HoloLens, and then move around the object to scan it. 
 
@@ -44,7 +44,7 @@ This topic provides step-by-step instructions for each type of anchor.
 
 4. Continue to move around the object if you're prompted to do so.
 
-    ![Move around the target object screen.](media/aoa-move-around.PNG "Move around the target object screen") 
+    ![Move around the target object screen.](media/AOA-move-around.PNG "Move around the target object screen") 
   
 5. When the scan is successful, the object will have a green overlay.
 
@@ -52,9 +52,6 @@ This topic provides step-by-step instructions for each type of anchor.
     > Objects that have moved or are moving may cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.
 
 6. If this is your first time scanning the object, select **Confirm** or **Rescan**. If the object has been scanned previously, the guide will be successfully anchored to the object anchor. HoloLens automatically goes to the first step of the guide. 
-
-> [!TIP]
-> You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using an object anchor, a good way to control hologram offset is to test alignment by placing arrows from the 3D toolkit at key points on either ends of the object (for example, a corner or button). If the arrows are not aligned to the target object, you may need to tap the **Anchor** button to rescan. 
  
 ## Anchor your guide by using a QR code anchor
 
