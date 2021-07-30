@@ -18,7 +18,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 2. In the **Scan Target Object** dialog box, select **Initiate scan**.
 
-     ![Scan Target Object dialog box.](media/aoa-scan-target-object.PNG "Scan Target Object dialog box")
+     ![Scan Target Object dialog box.](media/AOA-scan-target-object.PNG "Scan Target Object dialog box")
  
 3. Look at the target object with your HoloLens, and then move around the object to scan it. 
 
@@ -26,7 +26,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 4. Continue to move around the object if you're prompted to do so.
 
-    ![Move around the target object screen.](media/aoa-move-around.PNG "Move around the target object screen") 
+    ![Move around the target object screen.](media/AOA-move-around.PNG "Move around the target object screen") 
   
 5. When the scan is successful, the object will have a green overlay.
 
