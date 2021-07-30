@@ -3,7 +3,7 @@ title: Use Dynamics 365 Remote Assist HoloLens in low-bandwidth situations
 author: BryceHolmes
 description: How the Microsoft Dynamics 365 Remote Assist HoloLens app works in environments with poor network conditions. 
 ms.author: soanigbo
-ms.date: 06/15/2021
+ms.date: 07/29/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -12,6 +12,9 @@ ms.reviewer: v-bholmes
 # Use Dynamics 365 Remote Assist HoloLens in low-bandwidth situations
 
 Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians might experience difficulty troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist HoloLens gives technicians the ability to discuss, diagnose, and resolve issues with remote collaborators even in low-bandwidth situations.
+
+> [!IMPORTANT]
+> To use the low-bandwidth feature, you must turn on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
 
 ## What determines poor network connectivity 
 
