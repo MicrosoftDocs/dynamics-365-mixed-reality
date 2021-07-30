@@ -30,7 +30,7 @@ The way that you anchor your guide depends on the type of anchor that the author
 
 This topic provides step-by-step instructions for each type of anchor.
 
-## Anchor a guide by using an object anchor (Anchor Object Anchors Preview)
+## Anchor a guide by using an object anchor (Azure Object Anchors Preview)
 
 1. Put on your HoloLens, and then locate the target object in your physical environment.
 
