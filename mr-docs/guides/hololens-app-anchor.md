@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor a guide when you're using the Microsoft Dynamics 365 Guides HoloLens app in Author mode.
 ms.author: mamaylya
-ms.date: 10/16/2020
+ms.date: 07/30/2021
 ms.topic: article
 title: Anchor a guide as an author with the Dynamics 365 Guides HoloLens app 
 ms.reviewer: v-brycho
@@ -16,9 +16,9 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 1. Put on your HoloLens, and then locate the target object in your physical environment.
 
-2. In the Scan Target Object dialog box, select **Initiate scan**.
+2. In the **Scan Target Object** dialog box, select **Initiate scan**.
 
-    SCREEN SHOT GOES HERE
+     ![Scan Target Object dialog box.](media/aoa-scan-target-object.PNG "Scan Target Object dialog box")
  
 3. Look at the target object with your HoloLens and move around the object to scan it. 
 
@@ -26,7 +26,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 4. Continue to move around the object if you're prompted to do so.
 
-    SCREEN SHOT GOES HERE
+    ![Move around the target object screen.](media/aoa-move-around.PNG "Move around the target object screen") 
   
 5. When the scan is successful, the object will have a green overlay.
 
