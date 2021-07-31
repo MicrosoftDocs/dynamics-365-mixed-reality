@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor a guide when you're using the Microsoft Dynamics 365 Guides HoloLens app in Author mode.
 ms.author: mamaylya
-ms.date: 10/16/2020
+ms.date: 07/30/2021
 ms.topic: article
 title: Anchor a guide as an author with the Dynamics 365 Guides HoloLens app 
 ms.reviewer: v-brycho
@@ -12,6 +12,32 @@ ms.reviewer: v-brycho
 
 When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app, the first thing that you see is the anchoring instructions that were created in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app. The method that you use to anchor the guide depends on the type of anchor that was created in the PC app. For more information about how to create an anchor, and the types of anchors, see [Anchor your guide to the real world in Dynamics 365 Guides PC app](anchor.md).
 
+## Anchor a guide by using an object anchor ([Azure Object Anchors Preview](pc-app-anchor-azure-object.md))
+
+1. Put on your HoloLens, and then locate the target object in your physical environment.
+
+2. In the **Scan Target Object** dialog box, select **Initiate scan**.
+
+     ![Scan Target Object dialog box.](media/AOA-scan-target-object.PNG "Scan Target Object dialog box")
+ 
+3. Look at the target object with your HoloLens, and then move around the object to scan it. 
+
+    HoloLens automatically recognizes the object based on the object anchor. 
+
+4. Continue to move around the object if you're prompted to do so.
+
+    ![Move around the target object screen.](media/AOA-move-around.PNG "Move around the target object screen") 
+  
+5. When the scan is successful, the object will have a green overlay.
+
+    > [!NOTE]
+    > Objects that have moved or are moving may cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.
+
+6. If this is your first time scanning the object, select **Confirm** or **Rescan**. If the object has been scanned previously, the guide will be successfully anchored to the object anchor. HoloLens automatically goes to the first step of the guide. 
+
+> [!TIP]
+> You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using an object anchor, a good way to control hologram offset is to test alignment by placing arrows from the 3D toolkit at key points on either ends of the object (for example, a corner or button). If the arrows are not aligned to the target object, you may need to tap the **Anchor** button to rescan. 
+ 
 ## Anchor a guide by using a QR code anchor
 
 1. Put on your HoloLens, and stand about two feet in front of the QR code anchor.
