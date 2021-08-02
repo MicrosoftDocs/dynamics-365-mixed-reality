@@ -54,7 +54,7 @@ There are four ways to anchor a guide:
 
 - **Holographic anchor**. When you use a holographic anchor, you align your guide to a digital 3D hologram that's overlaid on a physical object in the real world. 
 
-      You might have to use a holographic anchor if:
+   You might have to use a holographic anchor if:
 
    - It isn't feasible to attach a QR code anchor or circular code anchor because the guide is authored in a different location than where the parts are.
 
