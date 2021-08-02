@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get an overview anchoring holograms in Microsoft Dynamics 365 Guides, using a QR code anchor, circular code anchor, or holographic anchor.
 ms.author: mamaylya
-ms.date: 07/26/2021
+ms.date: 08/02/2021
 ms.topic: article
 title: Overview of anchoring your guide to the real world in the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
@@ -52,15 +52,24 @@ There are four ways to anchor a guide:
 
 - **Circular code anchor**. When you use a circular code anchor, you align your guide by gazing at a printed circular code anchor that's attached to a physical object in the real world. 
 
-- **Holographic anchor**. When you use a holographic anchor, you align your guide to a digital 3D hologram that's overlaid on a physical object in the real world. You might have to use a holographic anchor if:
+- **Holographic anchor**. When you use a holographic anchor, you align your guide to a digital 3D hologram that's overlaid on a physical object in the real world. 
 
-    - It isn't feasible to attach a QR code anchor or circular code anchor because the guide is authored in a different location than where the parts are.
+   You might have to use a holographic anchor if:
 
-    - It isn't feasible to attach a QR code anchor or circular code anchor because of moving parts.
+   - It isn't feasible to attach a QR code anchor or circular code anchor because the guide is authored in a different location than where the parts are.
 
-    - You can't guarantee that the placement of the QR code anchor or circular code anchor will be the same every time.
+   - It isn't feasible to attach a QR code anchor or circular code anchor because of moving parts.
 
-    - A part is too small to attach a QR code anchor or circular code anchor.
+   - You can't guarantee that the placement of the QR code anchor or circular code anchor will be the same every time.
+
+   - A part is too small to attach a QR code anchor or circular code anchor.
+
+   > [!NOTE]
+   > An object anchor created with [Azure Object Anchors](pc-app-anchor-azure-object.md) is preferred over a holographic anchor when:
+   > - The target object is [suitable for object detection](pc-app-anchor-azure-object.md#best-practices-for-choosing-a-target-object-for-your-object-anchor)
+   > - Accuracy needs are high   
+   > - The target object is available in the real world to scan with HoloLens
+   > - Holograms need to be consistently positioned at the same location<br> 
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
 
