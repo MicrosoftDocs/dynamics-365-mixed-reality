@@ -69,7 +69,7 @@ There are four ways to anchor a guide:
    > - When accuracy needs are high
    > - The target object is suitable for object detection
    > - The target object is available in the real world to scan with HoloLens
-   > - The scenario requires high accuracy hologram relocation. 
+   > - When holograms need to be consistently positioned 
    > [Learn more about object anchors](pc-app-anchor-azure-object.md).
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
