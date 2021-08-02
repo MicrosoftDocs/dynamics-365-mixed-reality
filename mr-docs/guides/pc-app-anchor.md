@@ -66,7 +66,7 @@ There are four ways to anchor a guide:
 
    > [!NOTE]
    > An object anchor created with Azure Object Anchors is preferred over a holographic anchor when:
-   > - The target object is [suitable for object detection](pc-app-anchor-azure-object.md)
+   > - The target object is [suitable for object detection](pc-app-anchor-azure-object.md#best-practices-for-choosing-a-target-object-for-your-object-anchor)
    > - Accuracy needs are high   
    > - The target object is available in the real world to scan with HoloLens
    > - Holograms need to be consistently positioned at the same location<br> 
