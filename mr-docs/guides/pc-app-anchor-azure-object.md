@@ -100,7 +100,7 @@ Each of these steps is described in detail below.
     ![Choose an anchor method page with appropriate Select button highlighted](media/AOA-select-object-anchor.PNG "Choose an anchor method page with appropriate Select button highlighted") 
 
     > [!NOTE]
-    > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the Azure Object Anchors preview. For the preview, Azure Object Anchor data is processed and stored temporarily in the East US region.   
+    > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the Azure Object Anchors preview. For the preview, Azure Object Anchor data is processed and stored temporarily in the East US region. Additional regions will be added for the General Availability release. 
     > 
     > ![Try Preview button highlighted in Anchor wizard](media/AOA-try-preview-button.PNG "Try Preview button highlighted in Anchor wizard")
 
