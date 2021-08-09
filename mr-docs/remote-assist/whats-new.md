@@ -29,7 +29,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|Turn hand rays on or off through Settings or voice commands|[Turn hand rays off or on](hololens-hand-rays.md)|
+|[Turn hand rays on or off through Settings or voice commands](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/service/dynamics365-remote-assist/turn-hand-rays-off-or)|[Turn hand rays off or on](hololens-hand-rays.md)|
 
 ### Bugs fixed
 
