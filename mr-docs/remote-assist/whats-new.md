@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: BryceHolmes
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 07/06/2021
+ms.date: 08/09/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -14,6 +14,49 @@ ms.reviewer: v-bholmes
 This article describes new features for Dynamics 365 Remote Assist.
 
 For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/).
+
+## August 4, 2021
+
+### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|305.2108.2003.0|
+|iOS mobile app|2021.8.4|
+|Android mobile app|2021.8.4|
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|Turn hand rays on or off through Settings or voice commands|[Turn hand rays off or on](hololens-hand-rays.md)|
+
+### Bugs fixed
+
+**Remote Assist on Hololens 2, quality improvements**
+
+- Fixed an issue causing some of the contacts in the **Recent Contacts** list to disappear upon refresh
+- Fixed an issue that sometimes prevented media files from opening on OneDrive
+- Improved precision of short ink lines drawn by a Microsoft Teams user in the HoloLens user space
+- Improved reliability of text chat (sending and receiving messages) and file sharing
+- Improved handling of changes to the call state to increase reliability of calling experiences
+- Addressed an issue where transferring the call would sometimes lead to an unexpected visual state
+- Addressed rare case where the first photo capture could lead to a crash
+- Addressed case where duplicate entries were logged in Calls Dashboard
+- Visually polished various panels and improved in-app messaging
+
+**Remote Assist Mobile, quality improvements**
+
+- Fix for last frame being active on the screen in the new call
+- Fix for snapshot state after a call was put on hold
+- Improvements for saving data in the Calls Dashboard 
+- Fix for saving files in the work order in a group call
+- Fix for incorrect “Learn more” destination link
+- Imrpoved messaging when enabling Dynamics 365 Field Service integration
+- General stability improvements
+- Fix for missing currently signed-in user’s status in the **Settings** tab
+- Fix for not being able to launch the app in some regions
+- Fix for accessibility issues
 
 ## June 24, 2021
 
