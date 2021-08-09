@@ -22,11 +22,11 @@ manager: shujoshi
 
 5. On the toolbar at the top of the page, select **Open environment**.
 
-    ![Open environment](media/open-environment.png "Open environment")
+    ![Open environment.](media/open-environment.png "Open environment")
 
 6.  From the list of apps, select **Product Visualize Hub**.
 
-    ![Dynamics 365 Product Visualize Hub app](media/pv-hub-app.png "Dynamics 365 Product Visualize Hub app")
+    ![Dynamics 365 Product Visualize Hub app.](media/pv-hub-app.png "Dynamics 365 Product Visualize Hub app")
 
 
 ### See also

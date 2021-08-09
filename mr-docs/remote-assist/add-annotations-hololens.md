@@ -91,7 +91,7 @@ To undo your most recent action, including **Erase All**, select **Undo** ![Grap
 
 Enabling the **PV Camera Render** setting improves the alignment accuracy of annotations as seen by Microsoft Teams users. This ensures that annotations placed by the HoloLens 2 Remote Assist user are represented accurately in their environment for the remote expert. When this setting is turned off, annotations placed by the HoloLens 2 user might appear slightly out of place to the Microsoft Teams user.
 
-![Graphic showing the PV camera render setting](media/RAHL_PVSetting.png).
+![Graphic showing the PV camera render setting.](media/RAHL_PVSetting.png).
 
 To accommodate the additional system resources required for utilizing the PV camera render, turning on the **PV Camera Render** setting limits the maximum outgoing video resolution of the HoloLens 2 to 720p. Turning off the **PV Camera Render** setting increases the maximum outgoing video resolution to 1080p.
 

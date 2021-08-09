@@ -11,21 +11,19 @@ ms.reviewer: krbjoran
 
 # Voice commands and gestures for Dynamics 365 Remote Assist on HoloLens
 
-## Voice commands
-
-You can navigate Dynamics 365 Remote Assist on HoloLens and HoloLens 2 using voice commands and gaze instead of gestures. Some voice commands are contextual, so they only work in particular areas of the user interface. For example, “Start inking” only works if the ink tool is already active.” You can also look at any button and say “Select.”
+You can navigate Dynamics 365 Remote Assist on HoloLens and HoloLens 2 using voice commands and gaze instead of gestures. Some voice commands are contextual, so they only work in particular areas of the user interface. For example, “Start inking” only works if the ink tool is already active. You can also gaze at any button and say “Select.”
 
 At this time, voice commands and speech recognition are [available in specific languages for Hololens](./faq-hololens.md).
 
-When you’re in a call, a good way to learn the features of Dynamics 365 Remote Assist is to say, “Remote Assist.” The app will display what it believes you said by showing a check mark and “Remote assist.” Then, the app will display the name of each button, as you see in the image above. After a few seconds, these labels will automatically disappear. 
+When you’re in a call, a good way to learn the features of Dynamics 365 Remote Assist is to say, “Remote Assist” without saying a follow-up command. The app displays what it believes you said by showing a check mark and “Remote assist.” Then the app displays the name of each button. After a few seconds, the labels automatically disappear. 
 
-When you’re outside a call (for example, before you’ve picked up, or when you’re looking at list of contacts but have not called anyone), you can also say “Remote Assist” to remind yourself of the voice command for each button you see. The labels will pop up for a few seconds, and then disappear. However, you will not receive confirmation of your voice command. 
-For full list of voice commands, see the list below.
+When you’re outside a call (for example, before you’ve picked up, or when you’re looking at a list of contacts but have not called anyone), you can also say “Remote Assist” to remind yourself of the voice command for each button you see. The labels will pop up for a few seconds, and then disappear. However, you won't receive confirmation of your voice command. 
 
+## Voice commands
 
-> [!Note]
-> To use a voice command, say “Remote Assist,” and then say one of the voice commands in the following table. For example, say "Remote Assist, Move" to enter Move mode for a slate (window). You can also gaze at any button and say “Remote Assist, Select” to select that button.
+The table below provides the full list of voice commands that you can use with Dynamics 365 Remote Assist on HoloLens. 
 
+To use a voice command, say “Remote Assist”, and then say one of the voice commands. For example, say "Remote Assist, Move" to enter Move mode for a slate (window). You can also gaze at any button and say “Remote Assist, Select” to select that button.
 
 |Voice command|Description |
 | ------------- | -----|
@@ -94,7 +92,7 @@ To turn on the Narrator for incoming calls:
 
 - Go to Settings, and then select the **On** button for the Narrator.
 
- ![Open Narrator](media/08.00-settings.png "Open Narrator")
+ ![Open Narrator.](media/08.00-settings.png "Open Narrator")
 
 ## Gestures
 

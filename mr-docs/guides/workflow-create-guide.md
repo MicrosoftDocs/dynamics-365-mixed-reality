@@ -26,7 +26,7 @@ These tables must be created in order since each subsequent table refers to the 
 
 The following screen shot shows a manually triggered flow that creates the three required tables.
 
-![Power Automate screenshot showing three Add a table rows for three required tables](media/power-automate-create-tables.PNG "Power Automate screenshot showing three Add a table rows for three required tables")
+![Power Automate screenshot showing three Add a table rows for three required tables.](media/power-automate-create-tables.PNG "Power Automate screenshot showing three Add a table rows for three required tables")
 
 > [!IMPORTANT]
 > The creation of some tables requires references to other tables for a guide to open properly in the PC app. For example, the 
@@ -48,7 +48,7 @@ The following fields are required to create the Guides table:
 
 The following screen shot shows the required fields in the Power Automate UI.
 
-![Power Automate screenshot with required fields for Guides table highlighted](media/power-automate-guide-creation-fields.PNG "Power Automate screenshot with required fields for Guides table highlighted")
+![Power Automate screenshot with required fields for Guides table highlighted.](media/power-automate-guide-creation-fields.PNG "Power Automate screenshot with required fields for Guides table highlighted")
 
 ## Fields required to create the Guide Tasks table
 
@@ -63,7 +63,7 @@ The following fields are required to create the Guide Tasks table:
 
 The following screen shot shows the required fields in the Power Automate UI.
 
-![Power Automate screenshot with required fields for Task table highlighted](media/power-automate-task-creation-fields.PNG "Power Automate screenshot with required fields for Task table highlighted")
+![Power Automate screenshot with required fields for Task table highlighted.](media/power-automate-task-creation-fields.PNG "Power Automate screenshot with required fields for Task table highlighted")
 
 ### Adding multiple tasks
 
@@ -79,7 +79,7 @@ The following fields are required to create the Guide Steps table:
 |Guide (Guides)|Enter the table name (**/msmrw_guides/**), and then select **Guide** from the dynamic lookup.|
 |Task (Guide Tasks)|Enter the table name (**/msmrw_guidetasks/**), and then select **Guide Task** from the dynamic lookup.|
 
-![Power Automate screenshot with required fields for Step table highlighted](media/power-automate-step-creation-fields.PNG "Power Automate screenshot with required fields for Step table highlighted")
+![Power Automate screenshot with required fields for Step table highlighted.](media/power-automate-step-creation-fields.PNG "Power Automate screenshot with required fields for Step table highlighted")
 
 ### Adding multiple steps
 
@@ -87,23 +87,23 @@ If you add more than one step to a guide, you need to populate the **Response 1 
 
 Populate the **Previous Step** field for the second and subsequent steps by adding the Guide Step Unique Identifier. You can find the ID for a specific guide step through the model-driven app, or you can fetch the ID from a Power Automate flow by storing it in a variable. For example, the following screen shot shows the identifier passed as a stored variable. 
 
-![Screen shot of Previous step field](media/previous-step-field.PNG "Screen shot of Previous step field]").  
+![Screen shot of Previous step field.](media/previous-step-field.PNG "Screen shot of Previous step field]").  
 
 #### Default steps
 
 Set the **Step Template Type** field to **Default** and set the **Response 1 Action Type** field to **Go To Next Step**.
 
-![Screen shot of Response 1 Action Type field](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
+![Screen shot of Response 1 Action Type field.](media/response-1-action-type.PNG "Screen shot of Response 1 Action Type field]")
 
 #### Question steps
 
 Set the **Step Template Type** field to **Question**, and then fill out the following fields to populate the Question step responses.
 
-![Screen shot of Question step fields](media/question-step-fields.PNG "Screen shot of Question step fields]")
+![Screen shot of Question step fields.](media/question-step-fields.PNG "Screen shot of Question step fields]")
 
 These fields map to the response buttons in the PC app. 
 
-![Screen shot of Question step fields in PC app](media/question-step-fields-pc-app.PNG "Screen shot of Question step fields in PC app]")
+![Screen shot of Question step fields in PC app.](media/question-step-fields-pc-app.PNG "Screen shot of Question step fields in PC app]")
 
 #### Completion steps
 

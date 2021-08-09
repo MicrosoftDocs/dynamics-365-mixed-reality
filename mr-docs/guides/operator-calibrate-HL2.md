@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 > [!NOTE]
 > The first time that you use the device, the following system prompt should automatically appear: "Let's adjust [!include[pn-hololens](../includes/pn-hololens.md)] for your eyes." To begin calibration, select **Adjust**.
 
-![Adjust prompt](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
+![Adjust prompt.](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
 
 ## Manually calibrate your HoloLens by using the Calibration app
 

@@ -22,22 +22,22 @@ Dynamics 365 Product Visualize comes with sample 3D models you can try out even 
 2. On the welcome screen, tap **Try it**.
 
      > [!div class=mx-imgBorder]
-     > ![Welcome screen](media/welcome.png "Welcome screen")
+     > ![Welcome screen.](media/welcome.png "Welcome screen")
 
-     You can also tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Sample products** to see samples.
+     You can also tap **Main** ![Main menu.](media/hamburger-icon.png "Main menu"), and then tap **Sample products** to see samples.
 
      > [!div class=mx-imgBorder]
-     > ![Sample products menu item](media/sample-products-menu.png "Sample products menu item")
+     > ![Sample products menu item.](media/sample-products-menu.png "Sample products menu item")
  
 3. On the **My Active Mixed Reality Sessions** screen, select the **Contoso, Ltd. Mfg Sale**. 
 
      > [!div class=mx-imgBorder]
-     > ![Sample mixed-reality session](media/sample-opportunity.png "Sample mixed-reality session")
+     > ![Sample mixed-reality session.](media/sample-opportunity.png "Sample mixed-reality session")
 
 4. Tap a product you want to open.
 
      > [!div class=mx-imgBorder]
-     > ![Sample products](media/sample-products.png "Sample products")
+     > ![Sample products.](media/sample-products.png "Sample products")
 
 5. Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
 

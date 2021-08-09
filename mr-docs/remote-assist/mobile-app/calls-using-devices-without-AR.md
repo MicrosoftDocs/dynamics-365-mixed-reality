@@ -37,7 +37,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
   > [!NOTE]
   > If the remote collaborator is receiving the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities.
 
-![Screenshot of the Dynamics 365 Remote Assist mobile video card](./media/3a.png "Video Card")
+![Screenshot of the Dynamics 365 Remote Assist mobile video card.](./media/3a.png "Video Card")
 
 5. If the remote collaborator answers the call on **Dynamics 365 Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen.
 

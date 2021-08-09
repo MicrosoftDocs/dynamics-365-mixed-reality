@@ -22,7 +22,7 @@ You might want to create and copy a link to a guide or a step in [!include[cc-mi
 
 2. Select **Copy link to this guide**.
 
-    ![Copy link to this guide command](media/copy-guide-link.PNG "Copy link to this guide command")
+    ![Copy link to this guide command.](media/copy-guide-link.PNG "Copy link to this guide command")
 
 ## Create and copy a link to a step
 
@@ -30,7 +30,7 @@ You might want to create and copy a link to a guide or a step in [!include[cc-mi
 
 2. Select **Copy link to this step**.
 
-    ![Copy link to this step command](media/copy-step-link.PNG "Copy link to this step command")
+    ![Copy link to this step command.](media/copy-step-link.PNG "Copy link to this step command")
 
 ## What's next?
 

@@ -24,19 +24,19 @@ If you already have a subscription to [!include[pn-dyn-365-layout](../includes/p
 
 1. In the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)], under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users**.
 
-   ![Select Subscriptions](../media/AssignUsers.PNG "Select Subscriptions")
+   ![Select Subscriptions.](../media/AssignUsers.PNG "Select Subscriptions")
    
 2. Select the users you'd like to assign the trial or subscription to, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**. 
 
-   ![Edit product licenses](../media/EditLicenses.PNG "Edit product licenses")
+   ![Edit product licenses.](../media/EditLicenses.PNG "Edit product licenses")
    
 3. In the **Assign products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
 
-   ![Add to existing product licenses](../media/AddProductLicenses.png "Add to existing product licenses")
+   ![Add to existing product licenses.](../media/AddProductLicenses.png "Add to existing product licenses")
    
 4. Select the licenses you want to enable for the selected users, and then select **Add**.
 
-   ![Select product licenses](../media/SelectLicenses.PNG "Select product licenses")
+   ![Select product licenses.](../media/SelectLicenses.PNG "Select product licenses")
 
 ## Make the Dynamics 365 Layout app available to your users
 

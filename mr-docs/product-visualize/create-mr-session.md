@@ -20,7 +20,7 @@ A mixed-reality session represents a chance to sell your products to customers b
 
 2.  In the left pane, select **Mixed-reality sessions**.
 
-    ![Select Mixed Reality Sessions from the left pane](media/mr-session.png "Select Mixed Reality Sessions from the left pane")
+    ![Select Mixed Reality Sessions from the left pane.](media/mr-session.png "Select Mixed Reality Sessions from the left pane")
 
 3.  On the toolbar at the top of the page, select **New**.
 
@@ -28,7 +28,7 @@ A mixed-reality session represents a chance to sell your products to customers b
 
 5.  Select **Save**.
 
-    ![Mixed-reality session created](media/mr-session-created.png "Mixed-reality session created")
+    ![Mixed-reality session created.](media/mr-session-created.png "Mixed-reality session created")
 
 ### See also
 

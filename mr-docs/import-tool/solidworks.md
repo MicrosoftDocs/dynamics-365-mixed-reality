@@ -31,7 +31,7 @@ If your 3D model is extremely complex and you're having performance issues, you 
 
 1. Select **Tools** > **Find/Modify** > **Simplify**.
 
-   ![Simplify tool](media/solidworks-simplify-tool.PNG "Simplify tool")
+   ![Simplify tool.](media/solidworks-simplify-tool.PNG "Simplify tool")
 
 2. Choose from the following options:
 
@@ -39,11 +39,11 @@ If your 3D model is extremely complex and you're having performance issues, you 
 
    - **Feature Parameter or Volume Based.**  When you select the **Feature Parameter** option, SOLIDWORKS selects objects whose parameters (such as Fillet Radius) are smaller than the value in the **Simplification factor** field. When you select the **Volume Based** option, SOLIDWORKS selects objects if the feature volume is less than the volume of a part times the value in the **Simplification factor** field. Either method works fine. Selecting the **Volume Based** option and entering a value of **0.1** for the **Simplification factor** field provides a great first pass. If you don't find many objects, increase the **Simplification factor** value and try again. Select **Find Now** to see the results.
 
-       ![Simplify features](media/solidworks-simplify-features.PNG "Simplify features")
+       ![Simplify features.](media/solidworks-simplify-features.PNG "Simplify features")
 
 3. Select the **All** check box, and then select **Suppress**.
 
-    ![Suppress](media/solidworks-suppress.PNG "Suppress")
+    ![Suppress.](media/solidworks-suppress.PNG "Suppress")
 
    The features you selected are removed from the model. If you find that features were removed that you wanted to keep, you can undo the process by clearing the **All** check box and selecting just the items you want to remove.
 
@@ -53,7 +53,7 @@ The **Defeature** tool provides another optimization option. You can use this to
 
 * Select **Tools** > **Defeature**.
 
-    ![Defeature tool](media/solidworks-defeature.PNG "Defeature tool")
+    ![Defeature tool.](media/solidworks-defeature.PNG "Defeature tool")
 
 At this point, you can choose whether to [simplify your geometry](#simplify-geometry) or [create a silhouette](#create-silhouette).
 <!--note from editor: I changed the wording of the following two procedure headings just to emphasize that they're subsets of the "Remove small parts..." heading. Also added these intra-topic links, which might be overkill but I do want to be sure people understand that they're parallel, and that they both follow the previous step of opening the Defeature tool.-->
@@ -64,27 +64,27 @@ At this point, you can choose whether to [simplify your geometry](#simplify-geom
 
 1. Select the **Simplify Geometry** button, and then select the **Next** button.  
 
-    ![Simplify Geometry](media/solidworks-geometry-or-silhouette.PNG "Simplify Geometry")
+    ![Simplify Geometry.](media/solidworks-geometry-or-silhouette.PNG "Simplify Geometry")
 
 2. Select the **Internal components** check box, select the **Small components** check box, and then enter a percentage to use. We suggest starting with 1&nbsp;percent. This will often remove nuts, bolts, and washers from an assembly while leaving the more visually important components. You can increase this percentage if you need to remove more. Select the **Next** button when you're ready to move forward.
 
-    ![Small components settings](media/solidworks-small-components.PNG "Small components settings")
+    ![Small components settings.](media/solidworks-small-components.PNG "Small components settings")
 
 4. Select the **Next** button again to skip adding motion to the assemblies.
 
-    ![Adding motion](media/solidworks-motion.PNG "Adding motion")
+    ![Adding motion.](media/solidworks-motion.PNG "Adding motion")
 
 5. If you want to retain the detail for specific geometry areas, select them in the model; otherwise, they'll be optimized. You can also select the check boxes under **Auto-Select** to retain all holes or holes of a specific size. Select the **Next** button when you're done.
 
-    ![Auto-Select settings](media/solidworks-autoselect.PNG "Auto-Select settings")
+    ![Auto-Select settings.](media/solidworks-autoselect.PNG "Auto-Select settings")
 
 6. The tool "defeatures" the model. If anything remains that you wanted to remove, select it in the model. When you're done, select the **Next** button.
 
-    ![Select additional features to remove](media/solidworks-select-additional-features.PNG "Select additional features to remove")
+    ![Select additional features to remove.](media/solidworks-select-additional-features.PNG "Select additional features to remove")
 
 7. If the optimized model meets your needs, select **Save as a new document**, and then select the green check mark.
 
-    ![Save as a new document](media/solidworks-save.PNG "Save as a new document")
+    ![Save as a new document.](media/solidworks-save.PNG "Save as a new document")
 
 8. Name the model, and then select **Save**. The model is saved as a single SOLIDWORKS part file.
 
@@ -94,19 +94,19 @@ At this point, you can choose whether to [simplify your geometry](#simplify-geom
 
 1. Select the **Silhouette** button, and then select the **Next** button.
 
-    ![Silhouette tool](media/solidworks-silhouette.PNG "Silhouette tool")
+    ![Silhouette tool.](media/solidworks-silhouette.PNG "Silhouette tool")
 
 2. Highlight the entire model (or portions of the model, if you only want to modify certain parts), select an option under **Simplification Method**, and then select **Add Group**. For this example, we selected the **Tight Fit Outline** option, but feel free to experiment with other options.
 
-    ![Tight Fit Outline option](media/solidworks-tight-fit-outline.PNG "Tight Fit Outline option")
+    ![Tight Fit Outline option.](media/solidworks-tight-fit-outline.PNG "Tight Fit Outline option")
 
 3. You'll see a preview window that shows what your silhouetted model will look like. When the model looks the way you want, select the **Next** button.
 
-    ![Preview window](media/solidworks-preview-window.png "Preview window")
+    ![Preview window.](media/solidworks-preview-window.png "Preview window")
 
 4. Select **Save as a new document**, and then select the green check mark to save the model.  
 
-    ![Save](media/solidworks-save.PNG "Save")
+    ![Save.](media/solidworks-save.PNG "Save")
 
 ## Save an assembly as a part
 
@@ -116,7 +116,7 @@ Another technique is to save the 3D model assembly as a part file (.asm &rarr; .
 
 2. In the **Save as type** field, select **Part**.
 
-    ![Save an assembly as a part](media/solidworks-save-assembly-as-part.PNG "Save an assembly as a part")
+    ![Save an assembly as a part.](media/solidworks-save-assembly-as-part.PNG "Save an assembly as a part")
 
 3. Under **Geometry to save**, select **Exterior faces**. This creates a part that only has the exterior faces showing. Any internal parts are filled, and the item becomes solid.
 
@@ -128,7 +128,7 @@ After you optimize a 3D model, you can easily export it directly from SOLIDWORKS
 
 1. Select **File** > **Save As**, and then select **Extended Reality Binary (.glb)** as the file type.
 
-   ![Save as GLB](media/solidworks-export.png "Save as GLB")
+   ![Save as GLB.](media/solidworks-export.png "Save as GLB")
 
 2. Select **Save**.
 

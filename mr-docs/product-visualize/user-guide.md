@@ -45,7 +45,7 @@ If you're going to be in a location that has low internet connectivity, you can 
 > After you've completed your presentation offline, you can remove the downloaded models by selecting the blue check mark next to the product's thumbnail on the **Products** page. This will free up storage space on your device.
 
 > [!div class=mx-imgBorder]
-> ![Model downloaded to be available offline](media/model-downloaded.png "Model downloaded to be available offline")
+> ![Model downloaded to be available offline.](media/model-downloaded.png "Model downloaded to be available offline")
 
 ### Place your model
 
@@ -56,7 +56,7 @@ If you have 3D models of your products, you can show them to your client in a me
 > - If you're having trouble detecting a surface or loading a model, make sure that the surface you're scanning isn't too shiny. You can lay a contrasting flat object (such as a sheet of paper) on the surface and then re-scan it.
 
 > [!div class=mx-imgBorder]
-> ![Find a surface to place a model on](media/preface-find-surface.png "Find a surface to place a model on")
+> ![Find a surface to place a model on.](media/preface-find-surface.png "Find a surface to place a model on")
 
 ### Manipulate your model
 
@@ -69,20 +69,20 @@ There are any number of uses for adding notes to your model. Notes capture image
 Notes you create can be exported by using Microsoft Teams or email. More information: [Add a note to a 3D model](add-note.md)
 
 > [!div class=mx-imgBorder]
-> ![Add a note to a model](media/preface-add-note.png "Add a note to a model")
+> ![Add a note to a model.](media/preface-add-note.png "Add a note to a model")
 
 ### Display product layers or components
 
 When you work with complex 3D models that were built by using layers, you have the option of turning layers on and off for your client. This can give them a better understanding about the inner parts of the product or even different available configurations. You can display details or individual components of a complex model by using layers. More information: [Show or hide layers in a 3D model](layers.md)
 
 > [!div class=mx-imgBorder]
-> ![View layers of a model](media/preface-view-layers.png "View layers of a model")
+> ![View layers of a model.](media/preface-view-layers.png "View layers of a model")
 
 ### Enter conversation outcomes into Product Visualize Hub
 
 Dynamics 365 Product Visualize sends your notes to your mixed-reality session timeline by default. This means that any notes you create to capture the results of your conversations with customers will be available in the Product Visualize Hub app. You can also choose to export any note to share it with other apps on your device that support the iOS sharing function. More information: [Export a note](add-note.md#export-a-note)
 
-![Enter conversation outcomes into Product Visualize Hub](media/dynamics-notes-timeline.png "Enter conversation outcomes into Product Visualize Hub")
+![Enter conversation outcomes into Product Visualize Hub.](media/dynamics-notes-timeline.png "Enter conversation outcomes into Product Visualize Hub")
 
 
 

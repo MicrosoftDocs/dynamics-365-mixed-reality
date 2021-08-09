@@ -3,7 +3,7 @@ title: Use Dynamics 365 Remote Assist mobile in low-bandwidth situations
 author: BryceHolmes
 description: Learn how the Microsoft Dynamics 365 Remote Assist mobile app works in environments with poor network conditions. 
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 07/29/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -12,6 +12,9 @@ ms.reviewer: v-bholmes
 # Use the Dynamics 365 Remote Assist mobile app in low-bandwidth situations
 
 Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians might experience difficulty troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote collaborators even in low bandwidth scenarios.
+
+> [!IMPORTANT]
+> To use the low-bandwidth feature, you must turn on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
 
 ## What determines poor network connectivity
 
@@ -35,7 +38,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 2. In the call, Dynamics 365 Remote Assist mobile autodetects if the technician is experiencing poor network conditions. If so, the technician is prompted to use the **Snapshot** tool to share images with the remote expert. 
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions](./media/03.14-call-low-bandwidth-dialog.png "Detection") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions.](./media/03.14-call-low-bandwidth-dialog.png "Detection") 
 
 3. The technician is instructed to use the **Snapshot** tool.
 

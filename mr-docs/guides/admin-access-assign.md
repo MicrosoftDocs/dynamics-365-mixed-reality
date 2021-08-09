@@ -35,27 +35,27 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 ## Assign a guide to a user or an owner team
 
-1. Go to [Dynamics 365 Home](https://home.dynamics.com/), and then select the **App launcher** button ![app launcher icon](media/app-launcher-icon.png) in the upper-left corner of the window.
+1. Go to [Dynamics 365 Home](https://home.dynamics.com/), and then select the **App launcher** button ![app launcher icon.](media/app-launcher-icon.png) in the upper-left corner of the window.
 
 2. Select **Power Apps**, select **Apps**, and then select **Guides**.  
 
 3. Select the guide that you want to assign. You can select multiple guides.
    
-   ![Select the guide that you want to reassign](media/admin-access-assign-01.PNG "Select the guide that you want to reassign")
+   ![Select the guide that you want to reassign.](media/admin-access-assign-01.PNG "Select the guide that you want to reassign")
 
 4. Select **Assign**.
 
-   ![Select assign a guide](media/admin-access-assign-02.png "Select assign a guide")
+   ![Select assign a guide.](media/admin-access-assign-02.png "Select assign a guide")
 
 5. In the **Assign Guide** dialog box, select the **Assign to** column, and then select one of the following options:
 
     - Select **User or team** and then enter the name of the user or team (or use the search box). To create a new user or team, select **New Record**.
       
-      ![Use the lookup to reassign a guide](media/admin-access-assign-04.png "Use the lookup to reassign a guide")
+      ![Use the lookup to reassign a guide.](media/admin-access-assign-04.png "Use the lookup to reassign a guide")
 
     - Select **Me** to assign the guide to yourself. Keep in mind that you must be a system administrator to re-assign ownership of a guide that belongs to someone else.    
       
-      ![Select Me to assign the guide to yourself](media/admin-access-assign-03.png "Select Me to assign the guide to yourself")    
+      ![Select Me to assign the guide to yourself.](media/admin-access-assign-03.png "Select Me to assign the guide to yourself")    
       
 6. Select **Assign** when you're done.
 
@@ -66,7 +66,7 @@ Teams should be structured so that ownership of a guide is assigned to one or mo
 > [!NOTE]
 > When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
 >
-> ![Screenshot of All Content tab in the Guides model-driven app](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
+> ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
 
 ## See also
 

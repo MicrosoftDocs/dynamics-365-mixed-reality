@@ -32,17 +32,17 @@ Update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC an
    > [!NOTE]
    > To go to the Dynamics 365 Administration Center, go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home), and then select **Admin centers** > **Dynamics 365** as shown below.
    
-   ![Microsoft Admin Center](media/microsoft-admin-center.PNG "Microsoft Admin Center") 
+   ![Microsoft Admin Center.](media/microsoft-admin-center.PNG "Microsoft Admin Center") 
 
 2. Select the **Instances** tab, and then choose an instance that has the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Preview solution installed. 
 
 3. Select the small edit button next to **Solutions** to see the list of solutions.  
 
-   ![Edit button](media/small-edit-button.PNG "Edit button")  
+   ![Edit button.](media/small-edit-button.PNG "Edit button")  
 
 4. In the list of solutions, select **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]**, and then select **Install**. This will install the GA version of the solution and remove the preview solution.  
 
-   ![Install the GA version](media/install-ga-version.PNG "Install the GA version")  
+   ![Install the GA version.](media/install-ga-version.PNG "Install the GA version")  
    
    > [!NOTE]
    > The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] (Preview) solution is being delisted and is no longer available for update or installation.
@@ -61,7 +61,7 @@ the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] preview. 
 
 2. Go to **Billing** > **Subscriptions**, and then select **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Preview Trial** in the main list to see when the preview license expires. 
 
-   ![Billing > Subscriptions](media/guides-preview-billing.PNG "Billing > Subscriptions")  
+   ![Billing > Subscriptions.](media/guides-preview-billing.PNG "Billing > Subscriptions")  
 
 ### Get a trial or purchase license
 
@@ -71,7 +71,7 @@ the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] preview. 
 
 3. Select **Billing** > **Purchase Services**.
 
-   ![Billing > Purchase Services](media/guides-ga-billing.PNG "Billing > Purchase Services")
+   ![Billing > Purchase Services.](media/guides-ga-billing.PNG "Billing > Purchase Services")
 
 4. Find the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] item, and then select **Start free trial** or **Buy now**. 
 

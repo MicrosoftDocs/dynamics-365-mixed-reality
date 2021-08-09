@@ -59,36 +59,36 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
 1. Go to [https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F), and register by using an account of your choice (or sign in if you're already registered).
 
-    ![Register tab](media/migration-register.PNG "Register tab")
+    ![Register tab.](media/migration-register.PNG "Register tab")
 
     > [!NOTE]
     > Approval of an application for the Dynamics Insider Program might take up to a day. Be sure to complete the sign-up form as thoroughly as possible to avoid delays. If you still don't have access after 24 hours, post a message on [the Dynamics 365 Guides community forum](https://community.dynamics.com/365/guides).
 
 2. After you've registered, on the **Welcome Insider** page, under **Upcoming and Active Public Preview Programs**, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)**, and select it.
 
-    ![Search field on the Welcome Insider page](media/migration-search.PNG "Search fiel on the Welcome Insider page")
+    ![Search field on the Welcome Insider page.](media/migration-search.PNG "Search fiel on the Welcome Insider page")
 
 3. Select **Join now**.
 
-    ![Join now button](media/migration-join.PNG "Join now button")
+    ![Join now button.](media/migration-join.PNG "Join now button")
 
 4. Select **View Program Downloads**.
 
-    ![View Program Downloads button](media/migration-program-downloads.PNG "View Program Downloads button")
+    ![View Program Downloads button.](media/migration-program-downloads.PNG "View Program Downloads button")
 
 5. Download the **ContentMigrationTool\_D365Guides\_v500.3.1.x.zip** folder by selecting the link in the **File Name** column. The file is automatically saved in your **Downloads** folder.
 
-    ![Zipped folder to download](media/migration-download.PNG "Zipped folder to download")
+    ![Zipped folder to download.](media/migration-download.PNG "Zipped folder to download")
 
 ## Run the script
 
 1. In File Explorer in Windows, select the zipped folder, and then, on the **Home** tab, select **Properties** \> **Properties**.
 
-    ![Properties command](media/migration-extract-properties.PNG "Properties command")
+    ![Properties command.](media/migration-extract-properties.PNG "Properties command")
 
 2. In the **Properties** dialog box, on the **General** tab, select the **Unblock** check box, and then select **Apply**.
 
-    ![Unblock check box and Apply button](media/migration-unblock.PNG "Unblock check box and Apply button")
+    ![Unblock check box and Apply button.](media/migration-unblock.PNG "Unblock check box and Apply button")
 
 3. Extract the contents of the zipped folder by following these steps:
 
@@ -96,7 +96,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
     2. On the **Compressed Folder Tools** under **Extract**, select **Extract all**.
 
-        ![Extract all button](media/migration-extract-all.PNG "Extract all button")
+        ![Extract all button.](media/migration-extract-all.PNG "Extract all button")
 
 4. Go to the File Explorer location where you extracted the contents of the zipped folder, and then go to the **ContentMigrationTool\_D365Guides\_v500.3.1.x** \> **MigrationToolScripts** folder.
 
@@ -104,13 +104,13 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
     1. On the **File** menu, select **Open Windows PowerShell** \> **Open Windows PowerShell as administrator**.
 
-        ![Open Windows PowerShell as administrator command](media/migration-powershell-admin.PNG "Open Windows PowerShell as administrator command")
+        ![Open Windows PowerShell as administrator command.](media/migration-powershell-admin.PNG "Open Windows PowerShell as administrator command")
 
     2. In the **User Account Control** message box, select **Yes** to allow Windows PowerShell to make changes to your device.
 
 6. Enter **Set-ExecutionPolicy RemoteSigned**, and then select **Y** to accept the change in execution policy.
 
-    ![Execution Policy Change page](media/migration-set-execution-policy.PNG "Execution Policy Change page")
+    ![Execution Policy Change page.](media/migration-set-execution-policy.PNG "Execution Policy Change page")
 
 7. Enter **.\ContentMigrationTool\_PublicPreview\_Dynamics365Guides.ps1**, and then select **Enter**.
 
@@ -133,11 +133,11 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
     6. Select **Login**. If you don't select an organization to connect to, the tool connects to the last organization that was successful for both the source instance and the destination instance. If there is only one instance in the tenant, Windows PowerShell automatically connects to the default instance. In this case, you can skip ahead to step 11.
 
-        ![PowerShell Interactive Login dialog box configured for the source instance](media/migration-powershell-login-1.PNG "PowerShell Interactive Login dialog box configured for the source instance")
+        ![PowerShell Interactive Login dialog box configured for the source instance.](media/migration-powershell-login-1.PNG "PowerShell Interactive Login dialog box configured for the source instance")
 
     7. In the **Starting Login Process** dialog box, select the source instance (organization) to connect to.
 
-        ![Source instance selected in the Starting Login Process dialog box](media/migration-source-instance.PNG "Source instance selected in the Starting Login Process dialog box")
+        ![Source instance selected in the Starting Login Process dialog box.](media/migration-source-instance.PNG "Source instance selected in the Starting Login Process dialog box")
 
     8. Select **Login**.
 
@@ -155,26 +155,26 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
     6. Select **Login**.
 
-        ![PowerShell Interactive Login dialog box configured for the destination instance](media/migration-powershell-login-2.PNG "PowerShell Interactive Login dialog box configured for the destination instance")
+        ![PowerShell Interactive Login dialog box configured for the destination instance.](media/migration-powershell-login-2.PNG "PowerShell Interactive Login dialog box configured for the destination instance")
 
     7. In the **Starting Login Process** dialog box, select the destination instance (organization) to connect to.
 
-        ![Destination instance selected in the Starting Login Process dialog box](media/migration-destination-instance.PNG "Destination instance selected in the Starting Login Process dialog box")
+        ![Destination instance selected in the Starting Login Process dialog box.](media/migration-destination-instance.PNG "Destination instance selected in the Starting Login Process dialog box")
 
     8. Select **Login**.
 
 11.	On the **Main Menu** page, select an option by entering the number that corresponds to it, and then select **Enter**.
 
-    ![Main Menu page](media/migration-main-menu.PNG "Main Menu page")
+    ![Main Menu page.](media/migration-main-menu.PNG "Main Menu page")
 
     > [!TIP]
     > In numbered lists where you can select more than one option, such as the numbered list on the **Select Guides to Migrate** page, separate the numbers for your selections with a comma, and then select **Enter**.
     > 
-    > ![Selecting multiple options on the Select Guides to Migrate page](media/migration-numbered-list.PNG "Selecting multiple options on the Select Guides to Migrate page")
+    > ![Selecting multiple options on the Select Guides to Migrate page.](media/migration-numbered-list.PNG "Selecting multiple options on the Select Guides to Migrate page")
 
 12.	When you're prompted to confirm your selection, enter **Y**, and then select **Enter**. To cancel the action, enter **N**, and then select **Enter**.
 
-    ![Confirming your selection](media/migration-choice-confirmation.PNG "Confirming your selection")
+    ![Confirming your selection.](media/migration-choice-confirmation.PNG "Confirming your selection")
     
 ## See also
 

@@ -46,7 +46,8 @@
 ##### [Create folders to organize your guides](admin-create-folders.md)
 #### Anchor your guide to the real world
 ##### [Overview of anchoring a guide with the PC app](pc-app-anchor.md)
-##### [QR code anchor (recommended)](pc-app-anchor-qr-code.md)
+##### [Azure Object Anchors Preview](pc-app-anchor-azure-object.md)
+##### [QR code anchor](pc-app-anchor-qr-code.md)
 ##### [Circular code anchor](pc-app-anchor-circular-code.md)
 ##### [Holographic anchor](pc-app-anchor-holographic.md)
 ##### [Change anchor type](pc-app-anchor-change-type.md)

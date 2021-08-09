@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 06/29/2021
+ms.date: 07/27/2021
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -22,6 +22,26 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
+## July 26, 2021
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|603.2107.20001.0|
+|HoloLens app (HoloLens 2 only)|603.2107.20001.0|
+|Solution|600.3.0.1|
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically anchor your guide content to real-world objects Preview</a>| Yes |- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object" target="_blank">Anchor a guide by using Azure Object Anchors</a><br>- <a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2021/05/05/improve-on-the-job-guidance-with-dynamics-365-guides-and-azure-object-anchors/" target="_blank">Blog: Improve on-the-job guidance with Dynamics 365 Guides and Azure Object Anchors</a>|
+
+### Bugs fixed and other improvements
+
+- Improved caching of guides for a better offline experience
+- Fixed privilege validation issue for folders on HoloLens
+- Improved the PC authoring app to better align with accessibility requirements
+
 ## June 29, 2021
 
 |Item|Version|
@@ -34,9 +54,9 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-guide" target="_blank">Create a guide</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign#share-a-guide-with-someone-else" target="_blank">Assign ownership of a guide</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Reworked notifications for accessibility</a>| No |None|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/folders-pc-hololens-apps" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-guide" target="_blank">Create a guide</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/consolidated-content-view-guides-model-driven-app" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign#share-a-guide-with-someone-else" target="_blank">Assign ownership of a guide</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/reworked-notifications-accessibility" target="_blank">Reworked notifications for accessibility</a>| No |None|
 
 ### Bugs fixed
 
@@ -55,9 +75,6 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 |HoloLens app (HoloLens 2 only)|601.2104.29001.0|
 |Solution|600.1.0.1|
 
-> [!NOTE]
-> Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state. The last update for HoloLens (1st gen) was April 1 (version 600.2103.19001.0).
-
 ### Features
 
 | Feature | Solution update required? |How to|
@@ -75,7 +92,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 ## April 1, 2021
 
 > [!IMPORTANT]
-> Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state. Future updates for HoloLens (1st gen) will focus on issues and security fixes, while maintaining feature parity with the April 1, 2021 release.
+> HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
 
 ### Version info
 

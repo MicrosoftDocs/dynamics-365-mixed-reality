@@ -25,7 +25,7 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 
 - Test the flow of your guide.
 
-    ![Testing a guide](media/test-your-guide.PNG "Testing a guide")
+    ![Testing a guide.](media/test-your-guide.PNG "Testing a guide")
 
 > [!TIP]
 > **New for [!include[pn-hololens](../includes/pn-hololens.md)] 2.** [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now includes [!include[pn-hololens](../includes/pn-hololens.md)] 2 advanced hand-tracking capabilities. When you author a guide, you can now work directly with holograms by grabbing the manipulation controls with your hands to position the holograms, rotate them, and change their size. However, when you select a guide, scan an anchor, or work in the Step card editor, you make selections in the same way that you did on [!include[pn-hololens](../includes/pn-hololens.md)] 1.

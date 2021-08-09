@@ -3,7 +3,7 @@ title: Learn more about the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 author: BryceHolmes
 description: Overview, enablement and feature details for the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 ms.author: soanigbo
-ms.date: 07/06/2021
+ms.date: 07/19/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -34,15 +34,15 @@ To have access to the Calls Dashboard, you must have:
 
 1. In the Dynamics 365 Remote Assist model-driven app, under **Change area**, select **Settings**.
 
-    ![Change area to Settings in the Remote Assist model-driven app](media/webapp-settings-selector.png).
+    ![Change area to Settings in the Remote Assist model-driven app.](media/webapp-settings-selector.png).
 
 2. Under **Analytics and Insights**, select **Settings**, and then select **Manage**.
 
-    ![Select Calls Dashboard settings](media/CallsDashboardSettings.png).
+    ![Select Calls Dashboard settings.](media/CallsDashboardSettings.png).
 
 3. Move the slider to the right to enable the dashboard.
 
-    ![Enable the Calls dashboard](media/CallsDashboardEnable.png).
+    ![Enable the Calls dashboard.](media/CallsDashboardEnable.png).
 
 ### Notes
 
@@ -50,9 +50,9 @@ To have access to the Calls Dashboard, you must have:
 
 - As a **Remote Assist - Administrator**, you can always go back and disable/re-enable the dashboard by turning it off/on from the **Settings** area as described above. Disabling the dashboard will remove the resources that it depends on.
 
-- The dashboard uses the [phone call entity type](/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics 365 environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phone call record to the Microsoft Dataverse. The phone call data will not be available in the Calls Dashboard if the user hasn't selected the correct environment.
+- The dashboard uses the [phone call entity type](/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics 365 environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phone call record to the Microsoft Dataverse. The phone call data will not be available in the Calls Dashboard if the user hasn't selected the correct environment. Note that users can also initiate the call without selecting an environment. 
 
-    ![Selecting the correct environment for the Calls Dashboard](media/02.07-contacts-call-prompt.png)
+    ![Selecting the correct environment for the Calls Dashboard.](media/02.07-contacts-call-prompt.png)
 
 - End users may or may not give location permissions to the Hololens or mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
 
@@ -60,7 +60,7 @@ To have access to the Calls Dashboard, you must have:
 
 ## Understand the Dynamics 365 Remote Assist Calls Dashboard
 
-![Screenshot of the Remote Assist Calls Dashboard](media/CallsDashboardFull.png).
+![Screenshot of the Remote Assist Calls Dashboard.](media/CallsDashboardFull.png).
 
 ### Dashboard filters
 

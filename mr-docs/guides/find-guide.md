@@ -14,12 +14,12 @@ If you have access to a long list of guides created with Microsoft Dynamics 365 
 
 1.	In the **Select guide** dialog box, gaze at the magnifying glass until the holographic keyboard appears.   
 
-    ![Screenshot of Select guide dialog box](media/select-guide-search.PNG "Screen shot of Select guide dialog box")
+    ![Screenshot of Select guide dialog box.](media/select-guide-search.PNG "Screen shot of Select guide dialog box")
 
 2.	Type the characters for the guide you're looking for. As you start to type the characters, the list is automatically filtered to the guides that match those characters 
 that are included anywhere in the guide name.
 
-    ![Screenshot of Search dialog box and holographic keyboard](media/search-holographic-keyboard.PNG "Screen shot of Search dialog box and holographic keyboard")
+    ![Screenshot of Search dialog box and holographic keyboard.](media/search-holographic-keyboard.PNG "Screen shot of Search dialog box and holographic keyboard")
     
     > [!NOTE]
     > To open a folder, gaze at the button next to the folder name. To return to the parent folder, gaze at the **Back** button above the guides list. Folders appear on the **All** tab, but not the **Recent** tab. 
