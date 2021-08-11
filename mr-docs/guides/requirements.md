@@ -18,14 +18,61 @@ The following table lists technical requirements for deploying and using [!inclu
 | [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] | x86, ARM | Build 10.0.17134 or later.<p>[!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.17134 is the earliest build that supports [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. We recommend that you update [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when they become available.</p> | For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, Mobile Device Management, and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Server Update Services (WSUS), see [Manage updates to HoloLens](/HoloLens/hololens-updates).<p>**Note:** HoloLens includes the Microsoft Edge browser. You can't use Internet Explorer with HoloLens.</p> |
 | A computer (PC) that is running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 (required to create guides) | x64 | A PC that runs [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 with build 10.0.17134 (April 2018 Update 1803) or later.<br><br>**Minimum resolution**. Dynamics 365 Guides supports a minimum effective resolution of 800 x 600 pixels before information loss.  | A PC that runs [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 is used to create and edit guides that will then be available on [!include[pn-hololens](../includes/pn-hololens.md)]. |
 
-## Licensing and product requirements
+## Guides Licensing and product requirements
 
 | Product required | Details | Learn more |
 |---|---|---|
 | [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] | [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] software that is running on a PC and [!include[pn-hololens](../includes/pn-hololens.md)] that has a valid [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription are required.<p>**Note:** Microsoft Dataverse and the Power Apps service are included with the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription for individuals who use a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license.</p> | [Buy and deploy Dynamics 365 Guides](setup.md)<p>You can also [sign up for a free trial Dynamics 365 subscription](setup.md).</p> |
+| Dynamics 365 Remote Assist </br> or Teams | [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] requires these licenses to enable outbound calling from Dynamics 365 Guides</p> | [Learn more about Calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
 | [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop app | [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] requires the [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop app to view the Analytics dashboard.<p>**Note:** [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop is [available as a free download](https://powerbi.microsoft.com/desktop/).</p> | [Learn more about Power BI](https://powerbi.microsoft.com/desktop/) |
 | Azure Active Directory (Azure AD) account | Required for:<ul><li>Purchasing [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses. You'll need an Azure AD account for each licensed user.</li><li>Users when signing in to the app.</li></ul> | [Get started with Azure AD](/azure/active-directory/fundamentals/active-directory-whatis) |
 | Network connectivity | Internet access is required to download the app and use all its features for both PC and [!include[pn-hololens](../includes/pn-hololens.md)]. | |
+
+## Device options and requirements for a Teams user
+
+| Device                             | OS requirements                                             | Details                                                                                                                                                                                                                                                                                 |
+| ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Teams application on Windows 10 PC | Any Windows 10 build.                                       | A Windows 10 PC running the Teams PC application can collaborate with a Dynamics 365 Guides user on HoloLens 2 |
+| Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with a Dynamics 365 Guides user on HoloLens 2|
+
+> [!Note] 
+> Dynamics 365 Guides may not be available in your country. For more information, see [Dynamics 365 Guides availability](./mobile-app/faq-mobile.md).
+
+## Licensing and product requirements per role
+
+### Dynamics 365 Guides HoloLens app user - Calling
+
+A licensed Dynamics 365 Guides user can initiate calls to a Teams user from their HoloLens if they hold licnese for either of the following two products :
+
+* Dynamics 365 Remote Assist
+* Microsoft Teams
+
+
+> [!NOTE]
+> Dynamics 365 Remote Assist and Guides do not currently comply with Microsoft Teams policies. </br>
+> Outbound calls from Dynamics 365 Guides will not be included in the analytics and insights of your Dynamics 365 Remotes Assist call records
+
+| **Included with Dynamics 365 Guides license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Dynamics 365 Guides</br> and Teams**             | Use calling features via the Dynamics 365 Guides app on HoloLens2.</br>  Features include: </br> - Make an outbound call                                             |
+| **Dynamics 365 Guides </br>and Dynamics 365 Remote Assist**             | Use calling features via the Dynamics 365 Guides app on HoloLens.</br>  Features include: </br> - Make a outbound call </br>
+
+An Azure Active Directory account is required for purchasing the Dynamics 365 Remote Assist or Guides subscription and for assigning licenses. You'll need an Azure AD account for each licensed user. They'll use this account when signing in to the app. 
+
+> [!Note]
+> The Dynamics 365 Remote Assist, Teams, and Dataverse licenses must be assigned to a native member of the tenant ([Azure AD member](/azure/active-directory/fundamentals/users-default-permissions#member-and-guest-users) account). Dynamics 365 Remote Assist does not support [Azure AD B2B](/azure/active-directory/external-identities/what-is-b2b); an individual cannot sign into Dynamics 365 Remote Assist using a Dynamics 365 Remote Assist license assigned to an Azure AD guest account. 
+
+> [!Note]
+> Dynamics 365 Guides Calling does not support </br>- Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Guides call </br> - Create and share one-time call links </br> - Creating or viewing analytics and insights based on your call records 
+
+### Microsoft Teams app user
+
+| **What license does the Teams user have?**                                                                                     | **Capabilities in a Dynamics 365 Guides call:**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| None                                                                                                                           | - Teams desktop user can accept an inbound call from a Dynamics 365 Guides user                                                                                                                                                                                                                                                                                          |
+| Teams                                                                                                                          | The Teams user’s experience is **_identical_** regardless of whether the Teams user is: </br> - A member in the Dynamics 365 Guides user’s tenant </br> - [A guest](./multi-tenant-deployment.md#solution-2-guest-access) in the Dynamics 365 Guides user’s tenant </br> - A member in a tenant that’s [federated](./multi-tenant-deployment.md#solution-1-external-access-federation) with the Dynamics 365 Guides user’s tenant (Teams desktop only) </br> **_EXCEPT_** </br> -  Any differences described [here](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access). </br>|
+
+
 
 ## What's next
 
