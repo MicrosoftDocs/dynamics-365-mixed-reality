@@ -35,7 +35,7 @@ To capture and view assets you need:
 
     ![Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile.](./media/08.01-assets-list.png "Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile")
 
-2. Once you have selected an asset, you'll see a list of previously captured photos or videos associated with that asset. You can select any of the captures to view photos or to playback videos. You can also delete the captures from this list view. To record a new capture, select the **Camera** tool near the bottom.
+2. Once you have selected an asset, you'll see a list of previously captured photos or videos associated with that asset. You can select any of the captures to view photos or to playback videos. You can also delete captures from this list view. To record a new capture, select the **Camera** tool near the bottom.
 
     ![Asset media list in Dynamics 365 Remote Assist Mobile.](./media/08.07-asset-media.png "Asset media list in Dynamics 365 Remote Assist Mobile")
 
