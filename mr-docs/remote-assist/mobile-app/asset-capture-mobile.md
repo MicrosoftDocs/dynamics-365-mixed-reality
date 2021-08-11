@@ -37,7 +37,7 @@ To capture and view assets you need:
 
 ### Capture photos or videos with spatial markup
 
-1. On the **Assets** tab, select an asset from the list. You can also use the search button at the top of the app.
+1. On the **Assets** tab, select an asset from the list. You can also use the search button at the top of the page.
 
     ![Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile.](./media/08.01-assets-list.png "Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile")
 
