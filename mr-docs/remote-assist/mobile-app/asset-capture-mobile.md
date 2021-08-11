@@ -58,10 +58,7 @@ To capture and view assets you need:
 
 ## Next step
 
-In this tutorial, you learned how to view assets in the Dynamics 365 Remote Assist Mobile app and capture photos and videos to the asset record with spatial markup. In the next tutorial, you'll learn how to review the captured data from the Dynamics 365 Remote Assist model-driven app.
-
-> [!div class="nextstepaction"]
-> [Review asset captures](./../asset-capture-review.md)
+[Review the captured data in the Dynamics 365 Remote Assist model-driven app](./../asset-capture-review.md).
 
 ## Troubleshooting
 
