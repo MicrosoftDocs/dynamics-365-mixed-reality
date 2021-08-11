@@ -53,7 +53,7 @@ To capture and view assets you need:
 
 ## Next step
 
-[Review the captured data in the Dynamics 365 Remote Assist model-driven app](./../asset-capture-review.md).
+[Review captured assets in the Dynamics 365 Remote Assist model-driven app](./../asset-capture-review.md).
 
 ## Troubleshooting
 
