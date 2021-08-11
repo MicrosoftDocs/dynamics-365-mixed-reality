@@ -29,53 +29,21 @@ If you're an admin or an author for Microsoft Dynamics 365 Guides, you can enabl
     
 3.	In the left pane, use the area picker to select **Settings** to view all setting for the instance.
 
-    ![Area picker selector highlighted in the left pane.](media/Admin-EnableCalling01--BackGround-GuidesMDA-AreaPicker-Settings.PNG "Area picker selector  highlighted in left pane")
+    ![Area picker selector highlighted in the left pane.](media/Admin-EnableCalling01__Background-GuidesMDA-AreaPicker-Settings.png "Area picker selector  highlighted in left pane")
 
-4.	At the top of the screen, select **New** to create a new folder.
+4.	At the left of the screen, select **Environment** to access settings for the current environment. The **Enable Call** toggle can be used to enable or disable Dynamics 365 Guides Calling for the Environment if the user has Administrator permissions.
 
-    ![New command highlighted at top of Power Apps screen.](media/folders-new.PNG "New command highlighted at top of Power Apps screen") 
+    ![New command highlighted at top of Power Apps screen.](media/Admin-EnableCalling02__Background-GuidesMDA-AreaSettings-Environment.png "New command highlighted at top of Power Apps screen") 
 
-5.	Enter the name and owner of the folder. You can select an existing folder in the **Parent Folder** field, or leave the **Parent Folder** field blank to create a folder at the root level.
-
-6.	At the top of the screen, select **Save & Close** to save the folder and return to the folder list. After saving, you can add guides and subfolders to the folder.
-
-## Add a guide to a folder
-
-1.	In the left pane, select **Guides**, and then locate the guide you want to add to the folder.    
-
-2.	On the **General** tab, in the **Parent Folder** field, enter the parent folder name or search for it.
-
-    ![General tab and Parent Folder field highlighted.](media/folders-general-tab.PNG "General tab and Parent Folder field highlighted")
-
-3.	At the top of the screen, select **Save** or **Save & Close**.
-
-> [!TIP]
-> To move a guide back to the root folder, return to the guide details and delete the contents of the **Parent Folder** field.
-
-## Change the owner of a folder
-
-When you change the owner of a folder, any guides or subfolders within that folder will be assigned to that owner. This allows you to easily manage access for a group of related guides.
-
-To change the owner of a folder:
-
-1.	In the left pane, select **Folders** to view the list of folders in the instance.
-
-2.	Go to the desired folder, and then at the top of the screen, select **Assign** to display the folder information.
-
-    ![Assign command highlighted at top of screen.](media/folders-assign.PNG "Assign command highlighted at top of screen")
-
-3.	In the **Assign Folder** dialog box, select the box to the right of the **Assign to** label to toggle between **Me** and **User or team**. If **Me** is selected, the folder is assigned to you. If **User or team** is selected, you can enter the owner in the **User or team** field or search for an owner.
-
-    ![Assign Folder dialog box.](media/folders-assign-to.PNG "Assign Folder dialog box")
+5.	When a user tries to start a call while working in an environment with the Dynamics 365 Guides App where calling is disabled, the user will see an error message: 
+ "**Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license**"
 
 
-
-4.	Select **Assign** to save the new owner. 
 
 ## See also
 
-[Create or find a guide](create-guide.md)
+[Calling in Dynamics 365 Guides ](create-guide.md)
 
-[Move your folder structure from one environment to another](admin-export-import-folders.md)
+[Set up Dynamics 365 Guides / Calling Licensing and Product Requirements](admin-export-import-folders.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
