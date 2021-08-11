@@ -24,7 +24,7 @@ To capture and view assets you need:
 
 ### View the asset list
 
-- Select the **Assets** tab. The list of assets entered through the Dynamics 365 Remote Assist model-driven app are displayed in descending order by the last-modified date. You can search for assets by using the **Name** field or by selecting the search button.
+- Select the **Assets** tab. The assets (entered through the Dynamics 365 Remote Assist model-driven app) are displayed in descending order by the last-modified date. You can search for assets by using the **Name** field or by selecting the search button.
 
     > [!NOTE]
     > The **Assets** tab is currently **not** accessible while you're on a call in the mobile app.
