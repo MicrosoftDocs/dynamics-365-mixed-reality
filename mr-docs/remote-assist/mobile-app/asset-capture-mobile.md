@@ -39,7 +39,7 @@ To capture and view assets you need:
 
     ![Asset media list in Dynamics 365 Remote Assist Mobile.](./media/08.07-asset-media.png "Asset media list in Dynamics 365 Remote Assist Mobile")
 
-3. While recording a new capture, you can use ink or arrow tools to mark up the asset in your environment. For example, you can circle a defect on an asset. When you're done annotating, select the capture button to take a photo of the asset, which will include the mixed-reality annotations you added.
+3. While recording a new capture, you can use ink or arrow tools to mark up the asset in your environment. For example, circle a defect on an asset. When you're done annotating, select the capture button to take a photo of the asset, which will include the mixed-reality annotations you added.
 
     ![Take photo capture in Dynamics 365 Remote Assist Mobile.](./media/08.15-asset-capture-photo-mr.png "Take photo capture in Dynamics 365 Remote Assist Mobile")
 
