@@ -16,13 +16,9 @@ You can use the Dynamics 365 Remote Assist mobile app to capture procedures and 
 
 To capture and view assets you need:
 
-- **Access to the environment that Dynamics 365 Remote Assist is installed in**. The account you use to sign in to Dynamics 365 Remote Assist needs access to the environment created in the first step and an active Dynamics 365 Remote Assist license.
+- Access to the environment that Dynamics 365 Remote Assist is installed in and an active Dynamics 365 Remote Assist license.
 
-- **The Dynamics 365 Remote Assist mobile app**. Make sure to:
-
-    - Download the latest update to Dynamics 365 Remote Assist from the app store. 
-
-    - Select the [correct environment from the app settings](.././asset-capture-add-users.md#select-the-right-environment-on-android-or-ios).
+- The latest version of the Dynamics 365 Remote Assist mobile app from the app store. After downloading, make sure to select the [correct environment from the app settings](.././asset-capture-add-users.md#select-the-right-environment-on-android-or-ios).
 
 ## Capture asset conditions
 
