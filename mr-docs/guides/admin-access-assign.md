@@ -47,13 +47,13 @@ For more information on privileges, teams, and controlling access to apps, see t
 
    ![Select assign a guide.](media/admin-access-assign-02.png "Select assign a guide")
 
-5. In the **Assign Guide** dialog box, select the **Assign to** column, and then select one of the following options:
+5. In the **Assign Guide** dialog box, to the right of the **Assign to** column, do one of the following:
 
     - Select **User or team** and then enter the name of the user or team (or use the search box). To create a new user or team, select **New Record**.
       
       ![Use the lookup to reassign a guide.](media/admin-access-assign-04.png "Use the lookup to reassign a guide")
 
-    - Select **Me** to assign the guide to yourself. Keep in mind that you must be a system administrator to re-assign ownership of a guide that belongs to someone else.    
+    - **Me** to assign the guide to yourself. Keep in mind that you must be a system administrator to re-assign ownership of a guide that belongs to someone else.    
       
       ![Select Me to assign the guide to yourself.](media/admin-access-assign-03.png "Select Me to assign the guide to yourself")    
       
