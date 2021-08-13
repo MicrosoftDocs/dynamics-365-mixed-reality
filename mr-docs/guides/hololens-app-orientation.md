@@ -282,7 +282,7 @@ If your 3D model has animations, you can select a specific animation to play bac
     
     You'll see the following **Animation** dialog box.
 
-    SCREEN SHOT GOES HERE
+    ![Animation dialog box](media/animation-dialog.PNG "Animation dialog box")
 
 3. In the **Animation** dialog box, select from the following options.
 
