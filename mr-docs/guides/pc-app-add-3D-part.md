@@ -2,7 +2,7 @@
 author: Mamaylya
 ms.author: mamaylya
 description: Learn how to add a custom 3D part to a step in the Microsoft Dynamics 365 Guides PC app. 
-ms.date: 05/04/2021
+ms.date: 08/31/2021
 ms.topic: article
 title: Add a custom 3D part to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-bholmes
@@ -26,6 +26,9 @@ You can add 3D parts (models specific to your company) in Microsoft Dynamics 365
 ## Import a custom 3D model to use as a 3D part
 
 You can import your own custom 3D models and add them to the **3D parts** library. To import files, you can drag them from a local file folder or use the **Import** command.
+
+> [!TIP]
+> You can set animation options (playback speed, direction, and looping) in the HoloLens app. 
 
 ### Import a file by using a drag-and-drop operation
 
