@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Learn about HoloLens 1 gestures that you can use to author and navigate a guide in Microsoft Dynamics 365 Guides, such as gaze, bloom, and air tap.
 ms.author: Mamaylya
-ms.date: 12/08/2020
+ms.date: 08/13/2021
 ms.topic: article
 title: HoloLens 1 gestures for Dynamics 365 Guides 
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # HoloLens 1 gestures for authoring and navigating in Dynamics 365 Guides 
