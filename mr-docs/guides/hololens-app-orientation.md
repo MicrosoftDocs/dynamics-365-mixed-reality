@@ -291,7 +291,7 @@ If your 3D model has animations, you can select a specific animation to play bac
     |**Animate**|Enable or disable the animation. You might want to use this option if an animation interferes with your ability to place a model in space. You can turn it off, and then turn it back on again. If disabled, the first or last frame of the animation is shown, depending on whether **Direction** is set to **Forward** or **Backward**.|
     |**Takes**|Select a specific animation to play from a 3D model that contains multiple animations.|
     |**Playback**|Select a looping option.<br><br>- If **Loop** is selected, the animation is repeated until the operator leaves the step.<br><br>- If **Once** is selected, the animation is played one time and then stops.<br><br>- If **Ping Pong** is selected, the animation repeats back and forth in each direction. |
-    |**Direction**|- If **Forward** is selected (the default), the animation runs from the first frame to the last frame of the animation as defined in the 3D model.<br><br>- If **Backward** is selected, the animation runs from the last frame to the first frame.|
+    |**Direction**|- If **Forward** is selected, the animation runs from the first frame to the last frame of the animation as defined in the 3D model.<br><br>- If **Backward** is selected, the animation runs from the last frame to the first frame.|
     |**Speed**|Sets the relative speed of the animation. For example, if the speed is set to 2.0x, the animation will play at twice the speed as defined in the model. |
     
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
