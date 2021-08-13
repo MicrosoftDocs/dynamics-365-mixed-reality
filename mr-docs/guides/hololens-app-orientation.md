@@ -282,8 +282,8 @@ If your 3D model has animations, you can select a specific animation to play bac
 
 3. In the **Animation** dialog box, select from the following options.
 
-    |Option|Description|How it appears to the operator|
-    |----------------|-----------------------------------------------------|---------------------------------------------------------------------|
+    |Option|Description|
+    |----------------|---------------------------------------------------------------------|
     |Animate|Enable or disable the animation.<br><br>If disabled, the first or last frame of the animation is shown, depending on whether the direction option is set to forward or backward. <br><br>**Tip:** If an animation interferes with your ability to place a model in space, you can turn it off, and then turn it back on again.|
     |Takes|Select a given animation from a 3D model containing multiple animations.|
     |Playback|Select a looping option.<br><br>If **Loop** is selected, the animation is repeated until the operator leaves the step.<br><br>If **Once** is selected, the animation is played one time and then stops.<br><br>If **Ping Pong** is selected, the animation repeats back and forth in each direction. |
