@@ -49,9 +49,12 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 5. In the **Assign Guide** dialog box, to the right of the **Assign to** column, do one of the following:
 
-    - Select **User or team** and then enter the name of the user or team (or use the search box). To create a new user or team, select **New Record**.
+    - Select **User or team** and then enter the name of the user or team (or use the search box) you want to assign the guide to. To create a new user or team, select **New Record**.
       
       ![Use the lookup to reassign a guide.](media/admin-access-assign-04.png "Use the lookup to reassign a guide")
+
+     > [!NOTE]
+     > You must have admin permissions to see the **New Record** button. 
 
     - **Me** to assign the guide to yourself. Keep in mind that you must be a system administrator to re-assign ownership of a guide that belongs to someone else.    
       
