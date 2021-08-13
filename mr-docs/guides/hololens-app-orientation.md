@@ -279,6 +279,10 @@ If your 3D model has animations, you can select a specific animation to play bac
 2. On the **Edit** menu, select **Animation**.
 
     ![Animation command on the Edit menu](media/edit-animations1.PNG "Animation command on the Edit menu")
+    
+    You'll see the following **Animation** dialog box.
+
+    SCREEN SHOT GOES HERE
 
 3. In the **Animation** dialog box, select from the following options.
 
@@ -290,6 +294,4 @@ If your 3D model has animations, you can select a specific animation to play bac
     |Direction|Choose whether the direction is forward or backward. <br><br>If **Forward** is selected (the default), the animation runs from the first frame to the last frame of the animation as defined in the 3D model.<br><br>f **Backward** is selected, the animation runs from the last frame to the first frame.|
     |Speed|Sets the relative speed of the animation.<br><br>For example, if the speed is set to 2.0x, the animation will play at twice the speed as defined in the model. |
     
-    SCREEN SHOT GOES HERE
-
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
