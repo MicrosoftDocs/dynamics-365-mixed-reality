@@ -58,7 +58,7 @@ For more information on privileges, teams, and controlling access to apps, see t
 
     - Select **Me** to assign the guide to yourself. Keep in mind that you must be a system administrator to re-assign ownership of a guide that belongs to someone else.    
       
-      ![Select Me to assign the guide to yourself.](media/admin-access-assign-03a.PNG "Select Me to assign the guide to yourself")    
+      ![Select Me to assign the guide to yourself.](media/admin-access-assign03a.PNG "Select Me to assign the guide to yourself")    
       
 6. Select **Assign** when you're done.
 
