@@ -133,8 +133,6 @@ If an image, video, or 3D object fails to convert correctly to the newest versio
 8.	To verify the successful conversion of the 3D object, select the arrow next to **Schema Version**, and then select **Clear filter**. 
  
     The newly converted row will have a **1** in the **Schema Version** column. 
- 
-     ![Screen shot of Schema Version column with converted data.](media/image-schema-converted.PNG "Screen shot of Schema Version column with converted data")
 
 9. Repeat this process for each type of content: images, videos, and 3D objects. 
 
