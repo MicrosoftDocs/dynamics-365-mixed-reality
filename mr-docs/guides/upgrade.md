@@ -125,8 +125,6 @@ If an image, video, or 3D object fails to convert correctly to the newest versio
     a. Select the rows for any items you want to convert. 
     
     b. In the command bar at the top of the screen, select **Flow**, and then select **Upgrade 3D Object Schema**. 
-    
-     ![Screen shot of Upgrade 3D Object Schema command.](media/image-schema-upgrade-3D-object-schema.PNG "Screen shot of Upgrade 3D Object Schema command")
  
 7.	In the **Confirm Application of Workflow** dialog box, select **OK**. 
 
