@@ -119,9 +119,7 @@ If an image, video, or 3D object fails to convert correctly to the newest versio
       ![Screen shot of Filter by dialog box.](media/image-schema-filter-by-dialog-box.PNG "Screen shot of Filter by dialog box")
 
     c. Look for rows in the **Schema Version** column that haven’t been converted. They will either have a **0** or three dashes (**---**). 
-    
-      ![Screen shot showing dashes in Schema Version column.](media/image-schema-unconverted-data.PNG "Screen shot showing dashes in Schema Version column")
- 
+     
 6.	To upgrade the content to the new content schema version: 
 
     a. Select the rows for any items you want to convert. 
