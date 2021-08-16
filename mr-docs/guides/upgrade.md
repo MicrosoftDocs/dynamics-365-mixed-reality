@@ -131,8 +131,6 @@ If an image, video, or 3D object fails to convert correctly to the newest versio
      ![Screen shot of Confirm Application of Workflow dialog box.](media/image-schema-confirm-application-workflow.PNG "Screen shot of Confirm Application of Workflow dialog box")
  
 8.	To verify the successful conversion of the 3D object, select the arrow next to **Schema Version**, and then select **Clear filter**. 
-
-     ![Screen shot of Clear filter command.](media/image-schema-clear-filter.PNG "Screen shot of Clear filter command")
  
     The newly converted row will have a **1** in the **Schema Version** column. 
  
