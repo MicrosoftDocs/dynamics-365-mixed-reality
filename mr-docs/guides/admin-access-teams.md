@@ -132,7 +132,7 @@ Users who have the Share privilege can share guides and guide records that they 
 
 3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
-    ![Share a guide.](media/access-teams-23.PNG "Share a guide")
+    ![Share a guide.](media/access-teams-19.PNG "Share a guide")
 
 4. In the **Share guide** page, select **Add User/Team**.
 
