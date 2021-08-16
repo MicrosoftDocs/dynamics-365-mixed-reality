@@ -104,7 +104,7 @@ If an image, video, or 3D object fails to convert correctly to the newest versio
 
     ![Screen shot of Power Apps Home screen with Guides selected.](media/image-schema-select-guides.PNG "Screen shot of Power Apps Home screen with Guides selected")
  
-4.	In the **Guides** screen, in the left pane under **Library**, select a type of content, and then verify that the number in the **Schema Version** column is **1**. 
+4.	In the **Guides** screen, in the left pane under **Content**, select a type of content, and then verify that the number in the **Schema Version** column is **1**. 
     
      ![Screen shot of Active 3D Objects screen with Library section and Schema Version column highlighted.](media/image-schema-verify-content.PNG "Screen shot of Active 3D Objects screen with Library section and Schema Version column highlighted")
  
