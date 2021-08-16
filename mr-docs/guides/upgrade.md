@@ -81,7 +81,7 @@ To fix this issue, we recommend that you first try to update the guide schema fr
 
 4. Select the guide where the issue occurs.
 
-    ![Select the guide.](media/select-problem-guide.jpg "Select the guide")
+    ![Select the guide.](media/select-problem-guide.PNG "Select the guide")
 
 5. At the top of the page, select **Flow**, and then select **Upgrade guide schema**.
 
