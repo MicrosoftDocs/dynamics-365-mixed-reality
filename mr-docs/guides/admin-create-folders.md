@@ -27,7 +27,7 @@ Folders are useful for managing groups of guides with the same permissions, such
 
     ![Guides app tile.](media/guides-app-tile.PNG "Guides app tile")
     
-3.	In the left pane, select **Folders** to view all folders created in the instance, and then, at the top of the screen, select **New** to create a new folders. 
+3.	In the left pane, select **Folders** to view all folders created in the instance, and then, at the top of the screen, select **New** to create a new folder. 
 
     ![Folders command highlighted in left pane.](media/folders-command.PNG "Folders command highlighted in left pane")
 
