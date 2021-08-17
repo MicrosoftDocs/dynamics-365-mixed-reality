@@ -29,15 +29,13 @@ Folders are useful for managing groups of guides with the same permissions, such
     
 3.	In the left pane, select **Folders** to view all folders created in the instance, and then, at the top of the screen, select **New** to create a new folder. 
 
-    ![Folders command highlighted in left pane.](media/folders-command.PNG "Folders command highlighted in left pane")
+    ![Folders command highlighted in left pane.](media/folders-command.PNG "Folders command highlighted in left pane")     
 
-4.	At the top of the screen, select **New** to create a new folder.
+4.	In the **New Folder** screen, enter the name and owner of the folder. You can select an existing folder in the **Parent Folder** field, or leave the **Parent Folder** field blank to create a folder at the root level.
 
-    ![New command highlighted at top of Power Apps screen.](media/folders-new.PNG "New command highlighted at top of Power Apps screen") 
+    ![New command highlighted at top of Power Apps screen.](media/folders-new.PNG "New command highlighted at top of Power Apps screen")
 
-5.	In the **New Folder** screen, enter the name and owner of the folder. You can select an existing folder in the **Parent Folder** field, or leave the **Parent Folder** field blank to create a folder at the root level.
-
-6.	At the top of the screen, select **Save & Close** to save the folder and return to the folder list. After saving, you can add guides and subfolders to the folder.
+5.	At the top of the screen, select **Save & Close** to save the folder and return to the folder list. After saving, you can add guides and subfolders to the folder.
 
 ## Add a guide to a folder
 
