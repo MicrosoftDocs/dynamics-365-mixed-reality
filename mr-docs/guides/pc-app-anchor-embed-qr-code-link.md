@@ -57,7 +57,7 @@ to the same QR code.
     
     - **Background color:** Hex#BBBCBF. This provides a 30% gray background to help improve the contrast of the QR code. This setting provides the best adaptability for a wide variety of environments and lighting conditions. If you have trouble detecting an anchor that you provide, try adjusting the anchor's image brightness to match the average environmental brightness around the anchor. 
 
-    - **Type:** Select **Text** or **Raw Text**. DO NOT select **URL**. If you selet **URL**, the site may incorrectly prefix the Guides deep link with "HTTP" or "HTTPS", which will cause the deep link to fail. 
+    - **Type:** Select **Text** or **Raw Text**. DO NOT select **URL**. If you select **URL**, the site may incorrectly prefix the Guides deep link with "HTTP" or "HTTPS", which will cause the deep link to fail. 
     
     > [!NOTE]
     > These settings may not be available in all third-party generators.
