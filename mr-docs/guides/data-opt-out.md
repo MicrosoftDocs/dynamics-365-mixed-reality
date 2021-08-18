@@ -35,7 +35,7 @@ To do this:
 
     ![Select New.](media/data-opt-out-new.PNG "Select New")
  
-6.	Fill out the form as follows:
+6.	In the **New User Settings** screen, under **User Settings**, fill out the form as follows:
 
     - **Name:** Opt out for *add user name here*.
 
