@@ -139,7 +139,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
      ![Length Unit field](media/AOA-conversion.PNG "Length Unit field")       
 
-5. Select **Convert 3D File**. 
+5. Select **Convert to Object Anchor**. 
 
     This starts the conversion process. The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide. 
 
