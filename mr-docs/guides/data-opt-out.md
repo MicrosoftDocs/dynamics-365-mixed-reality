@@ -43,7 +43,7 @@ To do this:
 
     - **Belongs To:** User's name. 
 
-7.	Select **Save**.
+7.	Select **Save** at the top of the screen.
 
     ![Filled-out form.](media/data-opt-out-filled-out-form.PNG "Filled-out-form")
  
