@@ -51,7 +51,7 @@ As an admin, you can also activate, deactivate, or delete specific guide content
 
     ![Guides app tile.](media/guides-app-tile.PNG "Guides app tile")
     
-3. Under **Library**, on the left side of the screen, select **3D**, **Images**, or **Videos**.
+3. Under **Content**, on the left side of the screen, select **3D**, **Images**, or **Videos**.
 
     ![Library menu showing 3D, Images, and Videos items.](media/library-2.PNG "Library menu showing 3D, Images, and Videos items")
 
