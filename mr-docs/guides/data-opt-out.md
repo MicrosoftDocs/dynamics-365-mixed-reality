@@ -37,11 +37,11 @@ To do this:
  
 6. In the **New User Settings** screen, under **User Settings**, fill out the form as follows:
 
-    - **Name:** Opt out for *add user name here*
+    - **Name:** Opt out for *[User name]*
 
     - **Record Guide Usage:** Yes
 
-    - **Belongs To:** [User name]
+    - **Belongs To:** *[User name]*
 
     ![Filled-out form.](media/data-opt-out-filled-out-form.PNG "Filled-out-form")
     
