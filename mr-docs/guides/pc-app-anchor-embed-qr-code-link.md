@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to embed a link in a QR code to make it easy for an operator to open a guide in Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 01/13/2021
+ms.date: 08/17/2021
 ms.topic: article
 title: Embed a link in a QR code to make it easy to open a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -56,6 +56,8 @@ to the same QR code.
     - **Foreground color:** Black (Hex#000000)
     
     - **Background color:** Hex#BBBCBF. This provides a 30% gray background to help improve the contrast of the QR code. This setting provides the best adaptability for a wide variety of environments and lighting conditions. If you have trouble detecting an anchor that you provide, try adjusting the anchor's image brightness to match the average environmental brightness around the anchor. 
+
+    - **Type:** Select **Text** or **Raw Text**. DO NOT select **URL**. If you select **URL**, the site may incorrectly prefix the Guides deep link with "HTTP" or "HTTPS", which will cause the deep link to fail. 
     
     > [!NOTE]
     > These settings may not be available in all third-party generators.
