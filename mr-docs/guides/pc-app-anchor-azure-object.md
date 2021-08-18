@@ -124,7 +124,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
    > [!Important]
    > The **Choose File** button in the next step won't appear until you select **Save**.
 
-3. Under **Input**, select **Choose File**, and then browse to your 3D model and upload it. 
+3. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it. 
 
     ![Input section showing Choose File button.](media/AOA-choose-file.PNG "Input section showing Choose File button.")
 
