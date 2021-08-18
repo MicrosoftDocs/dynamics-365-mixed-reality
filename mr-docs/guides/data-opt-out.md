@@ -27,7 +27,7 @@ To do this:
     > [!NOTE]
     > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
 
-4.	On the left side of the screen, select the arrow next to **Main**, and then select **User Settings**.
+4.	On the left side of the screen, select the up arrow next to **Main**, and then select **Settings**.
 
     ![User Settings.](media/data-opt-out-user-setting.PNG "User Settings")
  
