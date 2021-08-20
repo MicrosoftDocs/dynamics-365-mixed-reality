@@ -49,7 +49,7 @@ Here are some examples of what you can do:
 
 **Guides model-driven app.** You can use the Guide Sessions view in the Guides model-driven app to inspect guide sessions. To access the model-driven app, sign in to Microsoft Power Apps and go to the **Apps** tab. 
 
-![Guide Sessions view.](media/analytics-guides-sessions-view.PNG "Guide Sessions view")
+![Guide Sessions view.](media/analytics-data-stored-automatically-1.PNG "Guide Sessions view")
 
 Double-clicking on an individual session row in this view provides more details about the session as well as access to a **Session History** tab that contains information about individual step visits.  
 
