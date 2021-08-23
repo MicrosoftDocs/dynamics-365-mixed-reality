@@ -51,7 +51,7 @@ You can use the Guides model-driven app to get the Step Id for a response step.
   
 3. Select the appropriate guide in the list. 
 
-     ![Guide selection screen in Power Apps.](media/workflow3-select-guide.PNG "Guide selection screen in Power Apps")
+     ![Guide selection screen in Power Apps.](media/guides-hub-1.PNG "Guide selection screen in Power Apps")
   
 4. Select the **Steps** entity to display the step information for the guide. 
 
