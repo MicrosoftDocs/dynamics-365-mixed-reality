@@ -53,7 +53,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
 
     ![Add a new row trigger showing Table name field and Name field.](media/workflow2-add-new-row-trigger.PNG "Add a new row trigger showing Table name field and Name field")
  
-6. To get the value for the **Parent ID** field for the new collection, go to the Guides model-driven app, select **Collections**, and then select one of the existing object collections. For example, select the **Arrows** collection.
+6. To get the value for the **Parent ID** field for the new collection, go to the Guides model-driven app, select **3D Toolkit**, and then select one of the existing object collections. For example, select the **Arrows** collection.
 
     ![Model-driven app screen with Arrows collection selected.](media/workflow2-arrows-collection.PNG "Model-driven app screen with Arrows collection selected")
  
