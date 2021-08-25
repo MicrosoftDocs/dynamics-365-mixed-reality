@@ -85,7 +85,7 @@ To fix this issue, we recommend that you first try to update the guide schema fr
 
 5. At the top of the page, select **Flow**, and then select **Upgrade guide schema**.
 
-    ![Upgrade guide schema command.](media/upgrade-guide-schema.jpg "Upgrade guide schema command")
+    ![Upgrade guide schema command.](media/upgrade-guide-schema.PNG "Upgrade guide schema command")
     
 >[!NOTE]
 >If the issue isn't fixed when you update the guide schema, the guide's JSON file has probably been edited in a way that isn't supported (for example, too many 3D objects have been programmatically added to the **Step Editor** bin). Contact the Dynamics 365 Guides team directly for guidance, through your Microsoft Account team.
