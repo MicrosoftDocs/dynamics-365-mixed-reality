@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 
 Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using a variety of devices to solve problems together, faster. Dynamics 365 Remote Assist is available on HoloLens and HoloLens 2, and also AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Teams on PC or mobile to collaborate with Dynamics 365 Remote Assist users. The benefit of using Teams on mobile (versus PC) is that you can collaborate with Dynamics 365 Remote Assist users on-the-go. 
 
-When you use Teams on mobile, you can collaborate in a one-to-one call with one person who is using Dynamics 365 Remote Assist on HoloLens or HoloLens 2 ("Dynamics 365 Remote Assist HoloLens user"). You can also collaborate in a one-to-one call with one person who is using Dynamics 365 Remote Assist on mobile ("Dynamics 365 Remote Assist mobile user"). However, the available features differ.
+When you use Teams on mobile, you can collaborate using the Mixed Reality toolbar in a one-to-one call with one person who is using Dynamics 365 Remote Assist on HoloLens or HoloLens 2 ("Dynamics 365 Remote Assist HoloLens user"). You can also collaborate using the Mixed Reality toolbar in a one-to-one call with one person who is using Dynamics 365 Remote Assist on mobile ("Dynamics 365 Remote Assist mobile user"). However, the available features differ.
 
 | Feature |  Available for Teams mobile user in a one-to-one call with one Dynamics 365 Remote Assist HoloLens user | Available for Teams mobile user in a one-to-one call with a Dynamics 365 Remote Assist mobile user 
 ---| ---| ---
@@ -26,10 +26,7 @@ Send a text message | Yes |Yes
 Share file from OneDrive | Yes| Yes
 Share photo from device | Yes | Yes
 Record call | No; only the Dynamics 365 Remote Assist user can initiate the recording | No; only the Dynamics 365 Remote Assist user can initiate the recording
-Share screen | Yes | No
-
-> [!NOTE]
-> The **Mixed Reality toolbar** only works with one-to-one calls. If you start a one-to-one call, and then add participants to the call, the **Mixed Realithy toolbar** is hidden. 
+Share screen | Yes | No 
 
 ## Make a call
 
