@@ -2,7 +2,7 @@
 author: sophiasysun
 description: Collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams mobile app.
 ms.author: sopsun
-ms.date: 04/15/2020
+ms.date: 08/25/2021
 ms.service: crm-online
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user via Microsoft Teams mobile
@@ -27,6 +27,9 @@ Share file from OneDrive | Yes| Yes
 Share photo from device | Yes | Yes
 Record call | No; only the Dynamics 365 Remote Assist user can initiate the recording | No; only the Dynamics 365 Remote Assist user can initiate the recording
 Share screen | Yes | No
+
+> [!NOTE]
+> The **Mixed Reality toolbar** only works with one-to-one calls. If you start a one-to-one call, and then add participants to the call, the **Mixed Realithy toolbar** is hidden. 
 
 ## Make a call
 
