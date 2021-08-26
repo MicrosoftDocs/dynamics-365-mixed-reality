@@ -177,7 +177,7 @@ The purpose of the configuration record is to notify HoloLens about the view tha
 
     ![Create a Guides view record.](media/custom-view-configuration-guides-view.PNG "Create a Guides view record")
 
-4. On the **New Guide View Configuration** page, enter a name that will help you remember what this configuration record is for. This name isn't used for the tab name on HoloLens.
+4. In the **New Guide View Configuration** page, enter a name that will help you remember what this configuration record is for. This name isn't used for the tab name on HoloLens.
 
     ![Enter a record name.](media/custom-view-name-guides-configuration.PNG "Enter a record name")
 
