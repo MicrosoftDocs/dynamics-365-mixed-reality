@@ -32,7 +32,7 @@ You must also have the **System Administrator** role for the Dynamics 365 Guides
 
 The process of creating a custom view involves these basic steps:
 
-1. Create a new entity in Microsoft Dataverse. This entity contains the fields that will be included in the view. (It must contain at least two fields.)
+1. Create a new table in Microsoft Dataverse. This table contains the columns that will be included in the view. (It must contain at least two columns.)
 
 2. Create the view.
 
@@ -42,10 +42,10 @@ The process of creating a custom view involves these basic steps:
 
 The remaining sections of this topic describe each step in detail.
 
-## Step 1: Create a new entity in Microsoft Dataverse
+## Step 1: Create a new table in Microsoft Dataverse
 
 > [!NOTE]
-> If you want to use an existing entity instead of creating a new entity, skip ahead to the [Step 2: Create the view](#step-2-create-the-view) section.
+> If you want to use an existing table instead of creating a new table, skip ahead to the [Step 2: Create the view](#step-2-create-the-view) section.
 
 1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin.
 
@@ -86,7 +86,7 @@ The remaining sections of this topic describe each step in detail.
 
     1. In the **Display name** field, enter **Guide**.
 
-    2. In the **Data type** field, select **Lookup**. You'll use this field to search the database and assign a guide to the entity through the view.
+    2. In the **Data type** field, select **Lookup**. You'll use this field to search the database and assign a guide to the table through the view.
 
     3. In the **Related table** field, select **Guide**.
 
@@ -94,11 +94,11 @@ The remaining sections of this topic describe each step in detail.
 
     4. Select **Done**.
 
-8. In the lower-right corner of the page, select **Save Entity**.
+8. In the lower-right corner of the page, select **Save Table**.
 
 ## Step 2: Create the view
 
-In this step, you will add a view to the entity that you created in the previous section. This view will include the same fields that you added to the new entity.
+In this step, you'll add a view to the table that you created in the previous section. This view will include the same fields that you added to the new table.
 
 The following rules apply to the view:
 
@@ -106,7 +106,7 @@ The following rules apply to the view:
 
 - The first column must be a **Date and Time** field (that is, it must have the **Date and Time** data type), and the field can't be empty.
 
-- The second column must be a lookup to the **msmrw\_guide** entity, and the field can't be empty.
+- The second column must be a lookup to the **msmrw\_guide** table, and the field can't be empty.
 
 - If a formatted value is available, it will be used.
 
@@ -126,10 +126,10 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 
 ### Create the view
 
-1. Make sure that the entity that you created in the previous section is open.
+1. Make sure that the table that you created in the previous section is open.
 
     > [!NOTE]
-    > You can't create the view on the **msmrw\_guide** entity.
+    > You can't create the view on the **msmrw\_guide** table.
 
 2. Select **Views**, and then select **Add view**.
 
@@ -190,7 +190,7 @@ The purpose of the configuration record is to notify HoloLens about the view tha
 6. Select **Save and Close**.
 
 > [!WARNING]
-> There is no relationship between the Guide view configuration record and the saved view. If you delete the target view or entity, a fetch of the data will fail, and data won't be shown on HoloLens.
+> There is no relationship between the Guide view configuration record and the saved view. If you delete the target view or table, a fetch of the data will fail, and data won't be shown on HoloLens.
 
 ## Step 4: Use the App Designer to add specific guides to the list that is shown in the view
 
@@ -219,7 +219,7 @@ In this step, you will add the list of guides that will appear on the HoloLens t
 
     ![Add a subarea.](media/custom-view-add-subarea.PNG "Add a subarea")
 
-7. On the **Properties** tab on the right side of the page, in the **Entity** field, select the name of the entity that you created in the [Step 1: Create a new entity in Microsoft Dataverse](#step-1-create-a-new-entity-in-microsoft-dataverse) section. In this way, you link the subarea.
+7. On the **Properties** tab on the right side of the page, in the **Table** field, select the name of the table that you created in the [Step 1: Create a new table in Microsoft Dataverse](#step-1-create-a-new-entity-in-microsoft-dataverse) section. In this way, you link the subarea.
 
     ![Link the subarea.](media/custom-view-link-subarea.PNG "Link the subarea")
 
@@ -227,9 +227,9 @@ In this step, you will add the list of guides that will appear on the HoloLens t
 
 9. In the upper-left corner of the page, select **App Designer** to return to the App Designer.
 
-10. Scroll down to the **Forms** item for your entity, and select it.
+10. Scroll down to the **Forms** item for your table, and select it.
 
-    ![Select the Forms item for the entity.](media/custom-view-select-forms.PNG "Select the Forms item for the entity")
+    ![Select the Forms item for the table.](media/custom-view-select-forms.PNG "Select the Forms item for the table")
 
 11. On the **Components** tab on the right side of the page, in the **Main Forms** section, select the **Edit** button (pencil symbol).
 
