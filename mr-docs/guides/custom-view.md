@@ -55,7 +55,7 @@ The remaining sections of this topic describe each step in detail.
 
     ![List of instances in the Environments pane.](media/custom-view-select-instance1.PNG "List of instances in the Environments pane")
 
-2. In the left pane, select **Data**, and then select **Entities**. Then select **New entity**.
+2. In the left pane, select **Data**, and then select **Tables**. Then select **New table**.
 
     ![Create an entity.](media/custom-view-new-entity.PNG "Create an entity")
 
