@@ -86,7 +86,7 @@ The remaining sections of this topic describe each step in detail.
 
     1. In the **Display name** field, enter **Guide**.
 
-    2. In the **Data type** field, select **Lookup**. You will use this field to search the database and assign a guide to the entity through the view.
+    2. In the **Data type** field, select **Lookup**. You'll use this field to search the database and assign a guide to the entity through the view.
 
     3. In the **Related table** field, select **Guide**.
 
