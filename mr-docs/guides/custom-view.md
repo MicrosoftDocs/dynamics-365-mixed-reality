@@ -72,7 +72,7 @@ The remaining sections of this topic describe each step in detail.
 
     ![Add column command highlighted.](media/custom-view-entity-add-column.PNG "Add column command highlighted")
 
-6. In the **Field properties** dialog box, follow these steps:
+6. In the **Column properties** dialog box, follow these steps:
 
     1. In the **Display name** field, enter **Date and Time**.
 
@@ -82,13 +82,13 @@ The remaining sections of this topic describe each step in detail.
 
     3. Select **Done**.
 
-7. Select **Add field** again, and then, follow these steps in the **Field properties** dialog box:
+7. Select **Add column** again, and then, follow these steps in the **Column properties** dialog box:
 
     1. In the **Display name** field, enter **Guide**.
 
     2. In the **Data type** field, select **Lookup**. You will use this field to search the database and assign a guide to the entity through the view.
 
-    3. In the **Related entity** field, enter **Guide**.
+    3. In the **Related table** field, select **Guide**.
 
         ![Enter Guide field properties.](media/custom-view-lookup-field.PNG "Enter Guide field properties")
 
