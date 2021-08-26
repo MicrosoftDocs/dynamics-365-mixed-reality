@@ -173,7 +173,7 @@ The purpose of the configuration record is to notify HoloLens about the view tha
     
     ![Select Guides.](media/custom-view-apps-guides.PNG "Select Guides")
 
-3. In the left pane, under **Configuration**, select **Guides View**, and then select **New**.
+3. In the left pane, under **Organize**, select **Guides View**, and then select **New**.
 
     ![Create a Guides view record.](media/custom-view-configuration-guides-view.PNG "Create a Guides view record")
 
