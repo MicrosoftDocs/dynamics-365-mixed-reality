@@ -68,7 +68,9 @@ The remaining sections of this topic describe each step in detail.
 
 4. Select **Create**.
 
-5. While the new table is open, select **Add field**.
+5. While the new table is open, select **Add column**.
+
+    ![Add column command highlighted.](media/custom-view-entity-add-column.PNG "Add column command highlighted")
 
 6. In the **Field properties** dialog box, follow these steps:
 
