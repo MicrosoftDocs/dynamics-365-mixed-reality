@@ -94,7 +94,7 @@ You can add new objects to the collection directly in the model driven-app.
 
 1. Open the Guides model driven-app.
 
-2. Select **Collections**, and then select the new collection.
+2. Select **3D Toolkit**, and then select the new collection.
 	
 2. In the lower-right corner of the screen, select **Add Existing 3D Object**.
 
