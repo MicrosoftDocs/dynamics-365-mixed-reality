@@ -59,7 +59,7 @@ The remaining sections of this topic describe each step in detail.
 
     ![Create an entity.](media/custom-view-new-entity.PNG "Create an entity")
 
-3. In the **New entity** dialog box, enter a display name (for example, **Custom Tab**).
+3. In the **New table** dialog box, enter a display name (for example, **Custom Tab**).
 
     ![Enter a display name.](media/custom-view-entity-display-name.PNG "Enter a display name")
 
@@ -68,7 +68,7 @@ The remaining sections of this topic describe each step in detail.
 
 4. Select **Create**.
 
-5. While the new entity is open, select **Add field**.
+5. While the new table is open, select **Add field**.
 
 6. In the **Field properties** dialog box, follow these steps:
 
