@@ -180,7 +180,7 @@ In this step, you'll create a configuration record that tells HoloLens which vie
 
     ![Create a Guides view record.](media/custom-view-configuration-guides-view.PNG "Create a Guides view record")
 
-4. In the **New Guide View Configuration** page, enter a name that will help you remember what this configuration record is for. This name isn't used for the tab name on HoloLens.
+4. In the **New Guide View Configuration** page, enter a name that will help you remember what this configuration record is for. This name is not used for the tab name on HoloLens.
 
     ![Enter a record name.](media/custom-view-name-guides-configuration.PNG "Enter a record name")
 
