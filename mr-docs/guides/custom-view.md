@@ -173,9 +173,6 @@ In this step, you'll create a configuration record that tells HoloLens which vie
 1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin for the instance.
 
 2. In the left pane, select **Apps**, and then select **Guides** to open the Guides model-driven app.
-
-    > [!NOTE]
-    > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
     
     ![Select Guides.](media/custom-view-apps-guides.PNG "Select Guides")
 
