@@ -26,9 +26,9 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|XXX|
-|HoloLens app (HoloLens 2 only)|XXX|
-|Solution|XXX|
+|PC app|604.2108.20001|
+|HoloLens app (HoloLens 2 only)|604.2108.20001|
+|Solution|600.4.0.2|
 
 ### Features
 
@@ -38,7 +38,9 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ### Bugs fixed and other improvements
 
-- XXX
+- Fixed search functionality in Offline mode
+- Improved accessibility, generally
+- Updated the instructions in the default anchoring mode
 
 ## July 26, 2021
 
