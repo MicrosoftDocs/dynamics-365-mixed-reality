@@ -149,7 +149,7 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 
     ![Date and Time field highlighted.](media/custom-view-date-time-field-selected.PNG "Date and Time field highlighted")
 
-6. Select **Add column** again, and then select **Guide**.
+6. Select **Insert view column** again, and then select **Guide**. At this point your screen should look like this. 
 
     ![Add another column.](media/custom-view-columns-added.PNG "Add another column")
 
