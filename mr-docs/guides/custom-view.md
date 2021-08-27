@@ -158,7 +158,7 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 
 7. In the upper-right corner of the page, select **Save**, select **Publish**, and then refresh the page.
 
-8. Copy and save the record ID for the saved query. This record ID appears at the end of the URL for the page.
+8. Copy and save the record ID for the saved query. This record ID appears after "view" in the URL.
 
     ![Saved query record ID at the end of the page URL.](media/custom-view-queryid.PNG "Saved query record ID at the end of the page URL")
     
