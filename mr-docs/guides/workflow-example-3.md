@@ -51,7 +51,7 @@ You can use the Guides model-driven app to get the Step Id for a response step.
   
 3. Select the appropriate guide in the list. 
   
-4. Select the **Steps** entity to display the step information for the guide. 
+4. Select the **Steps** tab to display the step information for the guide. 
 
     For this example, we have a question step and three response steps.
 
