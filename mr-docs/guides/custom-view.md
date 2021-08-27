@@ -144,6 +144,10 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 5. Select the down arrow next to **Name**, and then select **Insert view column**.
 
     ![Add a column.](media/custom-view-add-columns.PNG "Add a column")
+    
+6. Select the **Date and Time** field.
+
+    ![Date and Time field highlighted.](media/custom-view-date-time-field-selected.PNG "Date and Time field highlighted")
 
 6. Select **Add column** again, and then select **Guide**.
 
