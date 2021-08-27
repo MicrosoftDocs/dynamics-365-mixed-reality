@@ -168,7 +168,7 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 
 ## Step 3: Create a Guides view configuration record
 
-The purpose of the configuration record is to notify HoloLens about the view that it should use.
+In this step, you'll create a configuration record that tells HoloLens which view to use for the custom tab.
 
 1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin for the instance.
 
