@@ -141,7 +141,7 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 
 4. Select **Create**.
 
-5. Select **Add column**, and then select **Date and Time**.
+5. Select the down arrow next to **Name**, and then select **Insert view column**.
 
     ![Add a column.](media/custom-view-add-columns.PNG "Add a column")
 
