@@ -184,7 +184,7 @@ In this step, you'll create a configuration record that tells HoloLens which vie
 
     ![Enter a record name.](media/custom-view-name-guides-configuration.PNG "Enter a record name")
 
-5. In the **Saved Query ID** field, enter the record ID that you saved in step 8 in the previous section. This value isn't validated, so copy it carefully to ensure that it's correct.
+5. In the **Saved Query ID** field, enter the record ID that you saved in step 9 in the previous section. This value isn't validated, so copy it carefully to ensure that it's correct.
 
     ![Enter the saved query record ID.](media/custom-view-saved-queryid.PNG "Enter the saved query record ID")
 
