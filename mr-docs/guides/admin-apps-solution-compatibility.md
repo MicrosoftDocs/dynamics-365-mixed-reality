@@ -23,7 +23,7 @@ To find the app and solution versions that you're using, in the PC app, select t
 
 | PC and HoloLens app version | Release date | Compatible Guides Dataverse solution versions |
 |-----------------------------|--------------|--------------------------------------------------|
-| XXX | August 30, 2021 | XXX|
+| 604.2108.20001 | August 30, 2021 | 600.4.0.2, 600.3.0.1, 600.2.0.2, 600.1, 600.0|
 | 603.2107.20001 | July 26, 2021 | 600.3.0.1, 600.2.0.2, 600.1, 600.0|
 | 602.2106.19001 | June 29, 2021 | 600.2.0.2, 600.1, 600.0|
 | 601.2104.29001 | May 4, 2021 |  600.1.0.1, 600.0.0.1 |
