@@ -34,7 +34,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features" target="_blank">Select from multiple animations and customize animation settings</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-orientation#change-animation-options" target="_blank">Change animation options</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/select-multiple-animations-customize-animation-settings" target="_blank">Select from multiple animations and customize animation settings</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-orientation#change-animation-options" target="_blank">Change animation options</a>|
 
 ### Bugs fixed and other improvements
 
