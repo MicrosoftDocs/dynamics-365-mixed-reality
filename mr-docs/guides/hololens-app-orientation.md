@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, and learn how to place holograms, add styles, and more.
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 08/31/2021
 ms.topic: article
 title: Place holograms in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
@@ -270,13 +270,28 @@ To replicate the 3D position properties (position, orientation, and scale) of a 
 
 The reference point used by **Copy 3D position** is the pivot point of the object, which might be different from the center of the transparent white-bounding sphere shown for selection and movement purposes. This enables you to rapidly reconstruct Computer-aided Design (CAD) assemblies that you import into Dynamics 365 Guides as separate models and that share the same pivot point. After importing, position, orient, and scale one of the assembly models, and then copy/paste the 3D position onto the other assembly models to reconstruct the whole CAD assembly very quickly. 
 
-## Turn off animations
+## Change animation options
 
-If you're using animated 3D models in your guide, you can turn off animation if you plan to show a model with the animation in one step but without the animation in another step. This option is available from the **Edit** menu when you select the model.
+If your 3D model has animations, you can select a specific animation to play back. You can also configure playback options (speed, direction, and looping options). 
 
-![Animation option turned off.](media/edit-animations1.PNG "Animation option turned off")
+1. Select the 3D model.
 
-You can also use this option when you place animated models in space. Turn animation off, place the model, and then turn animation back on. In this way, the animation won't interfere with your ability to place the model.
+2. On the **Edit** menu, select **Animation**.
 
+    ![Animation command on the Edit menu](media/edit-animations1.PNG "Animation command on the Edit menu")
+    
+    You'll see the following **Animation** dialog box.
 
+    ![Animation dialog box](media/animation-dialog.PNG "Animation dialog box")
+
+3. In the **Animation** dialog box, select from the following options.
+
+    |Option|Description|
+    |----------------|---------------------------------------------------------------------|
+    |**Animate**|Enable or disable the animation. You might want to use this option if an animation interferes with your ability to place a model in space. You can turn it off, and then turn it back on again. If disabled, the first or last frame of the animation is shown, depending on whether **Direction** is set to **Forward** or **Backward**.|
+    |**Takes**|Select a specific animation to play from a 3D model that contains multiple animations.|
+    |**Playback**|- If **Loop** is selected, the animation is repeated until the operator leaves the step.<br><br>- If **Once** is selected, the animation is played one time and then stops.<br><br>- If **Ping Pong** is selected, the animation repeats back and forth in each direction. |
+    |**Direction**|- If **Forward** is selected, the animation runs from the first frame to the last frame of the animation as defined in the 3D model.<br><br>- If **Backward** is selected, the animation runs from the last frame to the first frame.|
+    |**Speed**|Set the relative speed of the animation. For example, if the speed is set to 2.0x, the animation plays at twice the speed as defined in the model. |
+    
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
