@@ -81,13 +81,15 @@ We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 
 To learn when features were introduced, or to learn about upcoming features, see the Release plan:
 
-- [2020 Wave 2 (October 2020 through March 2021)](/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features)
+- [2021 Wave 1 (April 2021 through September 2021)](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features)
 
-- [2020 Wave 1 (April 2020 through September 2020)](/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)
+- [2020 Wave 2 (October 2020 through March 2021)](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features)
 
-- [2019 Wave 2 (October 2019 through March 2020)](/dynamics365-release-plan/2019wave2/index)
+- [2020 Wave 1 (April 2020 through September 2020)](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)
 
-- [2019 Wave 1 (April 2019 through September 2019)](/business-applications-release-notes/April19/index)
+- [2019 Wave 2 (October 2019 through March 2020)](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/index)
+
+- [2019 Wave 1 (April 2019 through September 2019)](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
 ## Integrations
 
