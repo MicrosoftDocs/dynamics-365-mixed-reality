@@ -294,4 +294,6 @@ If your 3D model has animations, you can select a specific animation to play bac
     |**Direction**|- If **Forward** is selected, the animation runs from the first frame to the last frame of the animation as defined in the 3D model.<br><br>- If **Backward** is selected, the animation runs from the last frame to the first frame.|
     |**Speed**|Set the relative speed of the animation. For example, if the speed is set to 2.0x, the animation plays at twice the speed as defined in the model. |
     
+    
+    
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
