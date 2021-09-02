@@ -30,6 +30,11 @@ Your use of third-party applications is subject to terms between you and the thi
 
 In situations where a CAD application doesn’t have an export option for FBX, OBJ, GLB, PLY, STL, or glTF, you can export an intermediate file, such as [JT](https://aka.ms/Jtfileformat) or [STEP](https://aka.ms/STEPfileformat), and then process that file to create a glTF file. 
 
+> [!NOTE]
+> If you're working with multiple animations in a single 3D model, you might find the following links helpful:
+> 
+> - [Use multiple animation clips in a 3DS Max model](https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip)
+
 ### See also
 [Overview of preparing 3D models](index.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
