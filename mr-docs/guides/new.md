@@ -34,7 +34,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/select-multiple-animations-customize-animation-settings" target="_blank">Select from multiple animations and customize animation settings</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-orientation#change-animation-options" target="_blank">- Change animation options</a><br><br><a href="https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip" target="_blank">- Work with multiple animations in a single 3DS MAX model</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/select-multiple-animations-customize-animation-settings" target="_blank">Select from multiple animations and customize animation settings</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-orientation#change-animation-options" target="_blank">- Change animation options</a><br><a href="https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip" target="_blank">- Work with multiple animations in a single 3DS MAX model</a>|
 
 ### Bugs fixed and other improvements
 
