@@ -41,7 +41,7 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
     If a user tries to start a call while working in an environment where calling is disabled, the user will see the following error message: 
 
-    **Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license**
+    "**Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license.**"
 
 ## See also
 
