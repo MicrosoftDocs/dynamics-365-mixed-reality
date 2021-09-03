@@ -53,8 +53,8 @@ A licensed Dynamics 365 Guides HoloLens user can initiate calls to a Microsoft T
 
 | **Included with Dynamics 365 Guides license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Dynamics 365 Guides</br> and Microsoft Teams**             | Make outbound calls using the Dynamics 365 Guides app on HoloLens 2.|
-| **Dynamics 365 Guides </br>and Dynamics 365 Remote Assist**             | Make outbound calls using the Dynamics 365 Guides app on HoloLens. <!--This should also be HoloLens 2, correct?-->|
+| Dynamics 365 Guides</br> and Microsoft Teams             | Make outbound calls using the Dynamics 365 Guides app on HoloLens 2.|
+| Dynamics 365 Guides </br>and Dynamics 365 Remote Assist             | Make outbound calls using the Dynamics 365 Guides app on HoloLens. <!--This should also be HoloLens 2, correct?-->|
 
 An Azure Active Directory account is required to purchase a Dynamics 365 Remote Assist or Dynamics 365 Guides subscription and to assign licenses. You need an Azure AD account for each licensed user. They'll use this account when signing in to the app. 
 
