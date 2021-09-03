@@ -28,15 +28,15 @@ The following table lists technical requirements for deploying and using [!inclu
 | Azure Active Directory (Azure AD) account | Required for:<ul><li>Purchasing [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses. You'll need an Azure AD account for each licensed user.</li><li>Users when signing in to the app.</li></ul> | [Get started with Azure AD](/azure/active-directory/fundamentals/active-directory-whatis) |
 | Network connectivity | Internet access is required to download the app and use all its features for both PC and [!include[pn-hololens](../includes/pn-hololens.md)]. | |
 
-## Device options and requirements for a Teams user
+## Device options and requirements for a Microsoft Teams user
 
 | Device                             | OS requirements                                             | Details                                                                                                                                                                                                                                                                                 |
 | ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Teams application on Windows 10 PC | Any Windows 10 build.                                       | A Windows 10 PC running the Teams PC application can collaborate with a Dynamics 365 Guides user on HoloLens 2. |
-| Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with a Dynamics 365 Guides user on HoloLens 2|
+| Microsoft Teams app on Windows 10 PC | Any Windows 10 build.                                       | A Windows 10 PC running the Teams PC application can collaborate with a Dynamics 365 Guides user on HoloLens 2. |
+| Microsoft Teams app on a mobile device | Any iOS or Android phone or tablet running  Microsoft Teams. | A phone or tablet running the Microsoft Teams mobile app can collaborate with a Dynamics 365 Guides user on HoloLens 2.|
 
 > [!Note] 
-> Dynamics 365 Guides may not be available in your country. For more information, see [Dynamics 365 Guides availability](./mobile-app/faq-mobile.md).
+> Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](./mobile-app/faq-mobile.md).
 
 ## Licensing and product requirements per role
 
