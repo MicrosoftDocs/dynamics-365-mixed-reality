@@ -56,13 +56,12 @@ A licensed Dynamics 365 Guides HoloLens user can initiate calls to a Microsoft T
 | **Dynamics 365 Guides</br> and Microsoft Teams**             | Make outbound calls using the Dynamics 365 Guides app on HoloLens 2.|
 | **Dynamics 365 Guides </br>and Dynamics 365 Remote Assist**             | Make outbound calls using the Dynamics 365 Guides app on HoloLens. <!--This should also be HoloLens 2, correct?-->|
 
-An Azure Active Directory account is required for purchasing the Dynamics 365 Remote Assist or Guides subscription and for assigning licenses. You'll need an Azure AD account for each licensed user. They'll use this account when signing in to the app. 
+An Azure Active Directory account is required to purchase a Dynamics 365 Remote Assist or Dynamics 365 Guides subscription and to assign licenses. You need an Azure AD account for each licensed user. They'll use this account when signing in to the app. 
 
 > [!Note]
 > The Dynamics 365 Remote Assist, Teams, and Dataverse licenses must be assigned to a native member of the tenant ([Azure AD member](/azure/active-directory/fundamentals/users-default-permissions#member-and-guest-users) account). Dynamics 365 Remote Assist does not support [Azure AD B2B](/azure/active-directory/external-identities/what-is-b2b); an individual cannot sign into Dynamics 365 Remote Assist using a Dynamics 365 Remote Assist license assigned to an Azure AD guest account. 
 
-> [!Note]
-> Dynamics 365 Guides Calling does not support </br>- Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Guides call </br> - Create and share one-time call links </br> - Creating or viewing analytics and insights based on your call records 
+The calling feature in Dynamics 365 Guides does not support:</br>- Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Guides call </br> - Create and share one-time call links </br> - Creating or viewing analytics and insights based on your call records 
 
 ### Microsoft Teams app user
 
