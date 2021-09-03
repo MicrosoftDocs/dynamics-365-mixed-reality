@@ -14,10 +14,6 @@ When calling is enabled, a Microsoft Dynamics 365 Guides HoloLens user can make 
 
 If you're an admin for Dynamics 365 Guides, you can enable or disable calling for all guides accessed by a user in a specific Dynamics 365 Guides environment. Enabling or disabling calling by environment is useful when operators or authors do not need to work with remote collaborators. Or if it is preferred that HoloLens users are not able to start a call and allow remote collaborators to see everything that they see while working in Dynamics 365 Guides.  
 
-<!--In the second sentence in the above paragraph, how about "Enabling or disabling by environment is useful depending on whether operators or authors need to work with remote collaborators or not. Or you may want to restrict HoloLens users from calling a remote collaborator and sharing everything they see while working in Dynamics 365 Guides"?-->
-
-<!--Is calling enabled by default?-->
-
 [Learn about licensing requirements and limitations when making calls in Dynamics 365 Guides](requirements.md)
 
 ## Enable or disable calling
