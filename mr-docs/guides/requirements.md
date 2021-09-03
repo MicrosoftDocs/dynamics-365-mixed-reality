@@ -51,7 +51,7 @@ A licensed Dynamics 365 Guides HoloLens user can initiate calls to a Microsoft T
 > Dynamics 365 Remote Assist and Dynamics 365 Guides do not currently comply with Microsoft Teams policies. </br>
 > Outbound calls from Dynamics 365 Guides are not included in Dynamics 365 Remote Assist call record analytics/insights.
 
-| **Included with Dynamics 365 Guides license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
+| **Included with Dynamics 365 Guides license** | **Capabilities available**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Dynamics 365 Guides</br> and Microsoft Teams             | Make outbound calls using the Dynamics 365 Guides app on HoloLens 2.|
 | Dynamics 365 Guides </br>and Dynamics 365 Remote Assist             | Make outbound calls using the Dynamics 365 Guides app on HoloLens. <!--This should also be HoloLens 2, correct?-->|
