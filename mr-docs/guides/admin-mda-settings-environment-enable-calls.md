@@ -35,7 +35,7 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
     ![Settings highlighted in the left pane.](media/Admin-EnableCalling01__Background-GuidesMDA-AreaPicker-Settings.png "Settings highlighted in left pane")
 
-4.	In the left pane, select **Environment**, and then move the **Enable Call** slider as needed to enable or disable calling for the environment.
+4.	In the left pane, select **Environment**, and then move the **Enable calls** slider as needed to enable or disable calling for the environment.
 
     ![New command highlighted at top of Power Apps screen.](media/Admin-EnableCalling02__Background-GuidesMDA-AreaSettings-Environment.png "New command highlighted at top of Power Apps screen") 
 
