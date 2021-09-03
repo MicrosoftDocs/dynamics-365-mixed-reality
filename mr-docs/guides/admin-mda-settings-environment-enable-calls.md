@@ -18,6 +18,8 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
 <!--Is calling enabled by default?-->
 
+[Learn about licensing requirements and limitations when making calls in Dynamics 365 Guides](requirements.md)
+
 ## Enable or disable calling
 
 1. Sign in to the instance by using your admin or author credentials.
