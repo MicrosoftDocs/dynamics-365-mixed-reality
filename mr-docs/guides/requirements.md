@@ -40,17 +40,16 @@ The following table lists technical requirements for deploying and using [!inclu
 
 ## Licensing and product requirements per role
 
-### Dynamics 365 Guides HoloLens app user - Calling
+### Dynamics 365 Guides on HoloLens - Calling
 
-A licensed Dynamics 365 Guides user can initiate calls to a Teams user from their HoloLens if they hold licnese for either of the following two products :
+A licensed Dynamics 365 Guides HoloLens user can initiate calls to a Microsoft Teams user if they hold licenses for either of the following products:
 
-* Dynamics 365 Remote Assist
-* Microsoft Teams
-
+- Dynamics 365 Remote Assist
+- Microsoft Teams
 
 > [!NOTE]
-> Dynamics 365 Remote Assist and Guides do not currently comply with Microsoft Teams policies. </br>
-> Outbound calls from Dynamics 365 Guides will not be included in the analytics and insights of your Dynamics 365 Remotes Assist call records
+> Dynamics 365 Remote Assist and Dynamics 365 Guides do not currently comply with Microsoft Teams policies. </br>
+> Outbound calls from Dynamics 365 Guides are not included in the analytics and insights of Dynamics 365 Remote Assist call records.
 
 | **Included with Dynamics 365 Guides license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
