@@ -38,9 +38,9 @@ The following table lists technical requirements for deploying and using [!inclu
 > [!Note] 
 > Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](./mobile-app/faq-mobile.md).
 
-## Licensing and product requirements per role
+## Licensing and product requirements per role - Making and receiving calls
 
-### Dynamics 365 Guides on HoloLens - Calling
+### Dynamics 365 Guides on HoloLens
 
 A licensed Dynamics 365 Guides HoloLens user can initiate calls to a Microsoft Teams user if the Dynamics 365 Guides users has licenses for either of the following products:
 
@@ -70,7 +70,7 @@ The calling feature in Dynamics 365 Guides does not support:
 - Creating and sharing one-time-call links.
 - Creating or viewing analytics and insights based on your call records. 
 
-### Microsoft Teams app user - Receiving calls
+### Microsoft Teams app user
 
 | **License held by Microsoft Teams user**                                                                                     | **Capabilities in a Dynamics 365 Guides call**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
