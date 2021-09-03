@@ -43,8 +43,8 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
 ## See also
 
-[Overview of calling in Dynamics 365 Guides ](create-guide.md)
+[Overview of calling in Dynamics 365 Guides ](make-call.md)
 
-[Calling licensing and product requirements](admin-export-import-folders.md)
+[Licensing and product requirements for making calls in Dynamics 365 Guides](requirements.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
