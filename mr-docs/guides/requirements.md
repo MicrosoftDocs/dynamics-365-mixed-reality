@@ -42,7 +42,7 @@ The following table lists technical requirements for deploying and using [!inclu
 
 ### Dynamics 365 Guides on HoloLens - Calling
 
-A licensed Dynamics 365 Guides HoloLens user can initiate calls to a Microsoft Teams user if they hold licenses for either of the following products:
+A licensed Dynamics 365 Guides HoloLens user can initiate calls to a Microsoft Teams user if the Dynamics 365 Guides users has licenses for either of the following products:
 
 - Dynamics 365 Remote Assist
 - Microsoft Teams
