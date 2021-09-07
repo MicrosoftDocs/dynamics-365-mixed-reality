@@ -2,7 +2,7 @@
 author: keno-msft
 description: Everything you need to know about converting 3D models to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
-ms.date: 09/11/2020
+ms.date: 09/7/2021
 ms.topic: article
 title: Convert your 3D (CAD) models to use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
