@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, and learn how to place holograms, add styles, and more.
 ms.author: mamaylya
-ms.date: 08/31/2021
+ms.date: 09/07/2021
 ms.topic: article
 title: Place holograms in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
@@ -293,5 +293,8 @@ If your 3D model has animations, you can select a specific animation to play bac
     |**Playback**|- If **Loop** is selected, the animation is repeated until the operator leaves the step.<br><br>- If **Once** is selected, the animation is played one time and then stops.<br><br>- If **Ping Pong** is selected, the animation repeats back and forth in each direction. |
     |**Direction**|- If **Forward** is selected, the animation runs from the first frame to the last frame of the animation as defined in the 3D model.<br><br>- If **Backward** is selected, the animation runs from the last frame to the first frame.|
     |**Speed**|Set the relative speed of the animation. For example, if the speed is set to 2.0x, the animation plays at twice the speed as defined in the model. |
+    
+> [!NOTE]
+> For information on working with multiple animations in a single 3D model in 3DS Max, see [Use multiple animation clips in a 3DS Max model](https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip).
     
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
