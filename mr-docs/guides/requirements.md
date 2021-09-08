@@ -68,7 +68,7 @@ The calling feature in Dynamics 365 Guides does not support:
 - Access to the Dynamics 365 Remote Assist model-driven app.
 - [Creating and managing assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Guides call.
 - Creating and sharing one-time-call links.
-- Creating or viewing analytics and insights based on your call records. 
+- Creating or viewing analytics and insights based on call records. 
 
 ### Microsoft Teams app user
 
