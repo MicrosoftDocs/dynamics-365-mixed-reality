@@ -41,9 +41,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Undo|Undo the previous action.|
 |Settings| Go to **Settings** tab.|
 |Sign out| Sub menu available from the user's avatar picture, sign out.|
-|Toggle hand rays                       | Turn hand rays on or off <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
-|Hand rays on|Show hand rays|
-|Hand rays off| Hide hand rays <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
+
 |**Call management**  | | 
 |Call                                   |Call a contact                                                                                                     |
 |Video                                  | Answer an incoming call with video.                                                                               |
@@ -78,6 +76,9 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Start (stop) inking                    | Begin (stop) placing ink                                                                                          |
 |Undo                                   | Undo the previous action.                                                                                         |
 |Erase All                              |Remove all annotations you placed                                                                                  |
+|Toggle hand rays                       | Turn hand rays on or off <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
+|Hand rays on|Show hand rays|
+|Hand rays off| Hide hand rays <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
 |**File management**   | | 
 |Files                               |Switch to Files tab to insert files into your space                                                                               |
 |Home                                   |When Files tab is open, navigate to the root OneDrive folder.                                                 |
