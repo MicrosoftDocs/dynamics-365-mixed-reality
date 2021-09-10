@@ -67,19 +67,19 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Narrator on|Turn the narrator on to have HoloLens announce the name of an incoming caller.|
 |Narrator off|Turn off the narrator.|
 |**Window management**  | | 
-|Pin|Pin a window in your space so it doesn’t follow you as you move around in your environment.|
-|Unpin|Unpin a window so it follows you as you move around in your environment.|
-|Scale|Select the **Scale** tool to resize a window (showing 2D content in a 3D space or a PDF document, for example). It does not resize an annotation or ink.|
-|Scale accept|Accept the scale change, and then turn off the **Scale** tool.
-|Scale off|Turn off the **Scale** tool.|
-|Bigger|When **Scale** tool is active, make current window bigger.|
-|Smaller|When the **Scale** tool is active, make the current window smaller.|
 |Select slate| Select the window or panel you're currently gazing at so you can move or resize it.|
 |Move|Select the **Move** tool to move a window or panel.|
 |Accept|Accept the placement of the moved window or panel.|
 |Cancel|Cancel placement of the moved window or panel and go back to the default gaze cursor.|
 |Reset|Reset the window or panel to the previous placement.|
 |Close|Close the open window or panel.|
+|Scale|Select the **Scale** tool to resize a window (showing 2D content in a 3D space or a PDF document, for example). It does not resize an annotation or ink.|
+|Scale accept|Accept the scale change, and then turn off the **Scale** tool.
+|Scale off|Turn off the **Scale** tool.|
+|Bigger|When **Scale** tool is active, make current window bigger.|
+|Smaller|When the **Scale** tool is active, make the current window smaller.|
+|Pin|Pin a window in your space so it doesn’t follow you as you move around in your environment.|
+|Unpin|Unpin a window so it follows you as you move around in your environment.|
 |Open chat|Open the **Text Chat** window when docked to the Video Card.|
 |Close chat|Close the **Text Chat** window.|
 |**Annotations**    | | 
