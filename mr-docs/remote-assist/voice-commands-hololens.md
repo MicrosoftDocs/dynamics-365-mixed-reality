@@ -32,7 +32,17 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Stop listening|Put Dynamics 365 Remote Assist into (out of) state expecting a list of commands to follow|
 |Remote Assist|If you say “Remote Assist” without following it with a command, displays labels with the name of each button. After a few seconds, the labels automatically disappear.| 
 |Help|Open the tutorials page to learn about core app features.|
-|Settings| Switch to **Settings** tab.|
+|Next or Done|Move to the next page in the tutorial.|
+|Close|Close the tutorial.|
+|Skip|Skip the video on the Tips page.|
+|Back|Close the video on the Tips page.|
+|Back or Previous|Go to previous page.|
+|Next|Go to next page.|
+|Cancel|Close a dialog box without taking any action|
+|Undo|Undo the previous action.|
+|Narrator on|Turn the narrator on to have HoloLens announce the name of the incoming caller.|
+|Narrator off|Turn off the narrator.|
+|Settings| Go to **Settings** tab.|
 |Sign out| Sub menu available from the user's avatar picture, sign out|
 |Toggle hand rays                       | Turn hand rays on or off <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
 |Hand rays on|Show hand rays|
