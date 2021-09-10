@@ -119,23 +119,30 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Save to OneDrive|	Save the captured photo to OneDrive.|
 |Dismiss	|Select the **Dismiss** button in the poor connection dialog box.|
 |Import	|Import a picture into the environment.|
-|**File management**   | | 
-|Files                               |Switch to Files tab to insert files into your space                                                                               |
-|Home                                   |When Files tab is open, navigate to the root OneDrive folder.                                                 |
-|Up                                     |When Files tab is open, select up                                                                                   |
-|Back (next)                            |When Files tab is open, go back                                                                                     |
-|Previous (next)                        |When viewing a PDF, return to previous page (go to next page)                                                      |
-|Set page                               |Open the PDF page-jump UI. Use "Select" to set page numbers.                                                       |
-|Reset                                  |Reset the newest received file to its original placement and size. 
-|Save to booking                        |Save captured photo to Field Service booking|
-|Save to OneDrive                       |Save captured photo to OneDrive|
-|**Post-call**                               |                                          |
-|Post (post all)                               |Post call artifacts to associated work order                                      |
-|Discard (discard all)                               |Do not post call artifacts to associated work order                                                             |
-|Retry                               |Try posting again                                 |
-|**Teaching Moments tutorial (runs at app launch)**||
-|Next or Done                        |Move to next page in tutorial|
-|Close                               |Close Teaching Moments tutorial|
+|**OneDrive file management**   | | 
+|Files|Switch to the **Files** tab to add a file from OneDrive to your environment.|
+|Home|When the **Files** tab is open, go to the root OneDrive folder. |
+|Up|When the **Files** tab is open, select up.|
+|Back|When the **Files** tab is open, go back.|
+|Previous|When viewing a PDF file, go back to the previous page.|
+|Next|When viewing a PDF file, go to the next page.|
+|Set page|Open the PDF page-jump UI. Use "Select" to set page numbers.|
+|Reset|Reset the newest received file to its original placement and size.|
+|Delete|Delete selected OneDrive file.|
+|Close|Close OneDrive.|
+|**Dynamics 365 Field Service integration**||
+|Dynamics|Open the Dynamics 365 Field Service panel.|
+|Post|Post call artifacts (documents, media, and so on) to the associated Dynamics 365 Field Service work order.|
+|Discard|Do not post call artifacts to the associated Dynamics 365 Field Service work order.|
+|Retry|Try posting items to the associated Dynamics 365 Field Service work order again if the original posting didn’t succeed.|
+|Save prompt Dynamics	|Button that saves the photo to the Dynamics 365 Field Service booking.|
+|Save prompt Drive|	Button that saves the photo to OneDrive.|
+|Refresh|	Refresh the Dynamics 365 panel and instance.|
+|Select Settings|	Select the Dynamics 365 environment.|
+|**Asset management**||
+|New asset|Add a new asset.|
+|Rename|Rename an asset.|
+|Rename submit|???|
 
 ## Use the Narrator to announce incoming calls
 
