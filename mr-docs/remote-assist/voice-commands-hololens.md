@@ -39,8 +39,6 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Next|Go to next page.|
 |Cancel|Close a dialog box without taking any action.|
 |Undo|Undo the previous action.|
-|Narrator on|Turn the narrator on to have HoloLens announce the name of the incoming caller.|
-|Narrator off|Turn off the narrator.|
 |Settings| Go to **Settings** tab.|
 |Sign out| Sub menu available from the user's avatar picture, sign out|
 |Toggle hand rays                       | Turn hand rays on or off <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
@@ -60,6 +58,8 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Start Video (stop video)               | Turn on (turn off) the video for a Dynamics 365 Remote Assist call.                                                            |
 |Join meeting                           |Join Teams meeting                                                                                                 |
 |Open participants (close participants) |Open (close) the participants panel                                                                                |
+|Narrator on|Turn the narrator on to have HoloLens announce the name of the incoming caller.|
+|Narrator off|Turn off the narrator.|
 |**Slate (window) management**  | | 
 |Pin (unpin)                            |Pin window in your space (unpin window so it follows you)                                                          |
 |Scale (scale off)                      |Select (deselect) the Scale tool, letting the user scale objects                                                   |
