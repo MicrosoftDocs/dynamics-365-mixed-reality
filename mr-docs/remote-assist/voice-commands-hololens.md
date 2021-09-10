@@ -100,6 +100,25 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Toggle hand rays| Turn hand rays on or off. <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
 |Hand rays on|Show hand rays.|
 |Hand rays off| Hide hand rays. <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
+|**Capture photos or videos**||
+|Camera/Capture|Select the **Camera**/**Capture** tool.|
+|Capture|Select the **Capture** tool to draw on walls and surfaces.|
+|Take photo|	
+|Photo off|	Disable the image capture tool.|
+|Video off|	Disable the video tool.|
+|Cancel|	Cancel the photo or video capture.|
+|Take Photo button|	Text chat camera button tooltip.|
+|Enable|	Enable the image capture tool.|
+|Off|	Disable the image capture tool.|
+|Turn on freeze frame|	Turn on Snapshot mode.|
+|Turn off freeze frame|	Turn off Snapshot mode.|
+|Update image|	Update the image while using Snapshot mode.|
+|Freeze the video|	Enter Snapshot mode when low-bandwidth dialog box appears.|
+|Save to chat	|Button in Snapshot dialog box that you can use to save the image to the chat.|
+|Save to booking	|Save a captured photo to a Dynamics 365 Field Service booking.|
+|Save to OneDrive|	Save a captured photo to OneDrive.|
+|Dismiss	|Select the Dismiss button in the poor connection dialog box.|
+|Import	|Import a picture into the environment.|
 |**File management**   | | 
 |Files                               |Switch to Files tab to insert files into your space                                                                               |
 |Home                                   |When Files tab is open, navigate to the root OneDrive folder.                                                 |
