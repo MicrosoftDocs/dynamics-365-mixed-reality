@@ -114,7 +114,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Turn off freeze frame|	Turn off Snapshot mode.|
 |Update image|	Update the image while using Snapshot mode.|
 |Freeze the video|	Enter Snapshot mode when low-bandwidth dialog box appears.|
-|Save to chat	|Select the **Save to chat** button in the **Snapshot** dialog box that you can use to save the image to the chat.|
+|Save to chat	|Select the **Save to chat** button in the **Snapshot** dialog box.|
 |Save to booking	|Save the captured photo to a Dynamics 365 Field Service booking.|
 |Save to OneDrive|	Save the captured photo to OneDrive.|
 |Dismiss	|Select the **Dismiss** button in the poor connection dialog box.|
