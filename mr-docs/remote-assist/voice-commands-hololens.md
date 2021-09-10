@@ -78,21 +78,26 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Bigger|When the **Scale** tool is active, make the current window bigger.|
 |Smaller|When the **Scale** tool is active, make the current window smaller.|
 |Close|Close the open window.|
+|Minimize windows|Minmize windows.|
+|Restore windows|Resotre any minimized windows.|
 |Pin|Pin a window in your space so it doesn’t follow you as you move around in your environment.|
 |Unpin|Unpin a window so it follows you as you move around in your environment.|
-|Open chat|Open the **Text Chat** window when docked to the Video Card.|
+|Open chat|Open the **Text Chat** window (attached to the video feed).|
 |Close chat|Close the **Text Chat** window.|
 |**Annotations**    | | 
-|Arrow (arrow off)                      |Select (deselect) the Arrow tool, letting the user create holographic arrows pointing to parts of their environment. |
-|Place arrow                            |Place an arrow at the current gaze cursor location.                                                                |
-|Arrow                                  |Enable arrow placement (Deselect arrow tool)                                                                       |
-|Ink (ink off)                          |Select (deselect) the Draw tool, letting the user draw on the walls and surfaces of their environment.               |
-|Colors                                 |Open color picker to determine color of arrow or ink                                                               |
-|Blue / Gray / Green / Red / Yellow      |Make arrow and ink this color                                                                                      |
-|Start (stop) inking                    | Begin (stop) placing ink                                                                                          |
-|Undo                                   | Undo the previous action.                                                                                         |
-|Erase All                              |Remove all annotations you placed                                                                                  |
-|Toggle hand rays                       | Turn hand rays on or off <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
+|Arrow|Select the **Arrow** tool to create a holographic arrow. Use arrows to point to parts of your environment. |
+|Arrow off|Turn off the **Arrow** tool.|
+|Place arrow|Place an arrow at the current gaze cursor location.|
+|Draw|Select the **Draw** tool to draw on the walls and surfaces of your environment.|
+|Draw off|Turn off the **Draw** tool.|
+|Ink|Select the **Draw** tool to draw on the walls and surfaces of your environment.|
+|Ink off|Turn off the **Draw** tool.|
+|Start inking| Start adding ink.  |   
+|Stop inking| Stop adding ink.  |  
+|Colors|Open color picker to determine color of the arrow or ink, and then say blue, gray, green, red, or yellow.|
+|Undo| Undo the previous action. |
+|Erase all |Remove all annotations that you placed in the environment.|
+|Toggle hand rays| Turn hand rays on or off <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
 |Hand rays on|Show hand rays|
 |Hand rays off| Hide hand rays <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
 |**File management**   | | 
