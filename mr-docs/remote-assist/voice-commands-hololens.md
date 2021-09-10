@@ -41,7 +41,6 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Undo|Undo the previous action.|
 |Settings| Go to **Settings** tab.|
 |Sign out| Sub menu available from the user's avatar picture, sign out.|
-
 |**Call management**  | | 
 |Call                                   |Call a contact                                                                                                     |
 |Video                                  | Answer an incoming call with video.                                                                               |
