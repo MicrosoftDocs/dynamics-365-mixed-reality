@@ -37,7 +37,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Back|Close the video on the Tips page.|
 |Back or Previous|Go to previous page.|
 |Next|Go to next page.|
-|Cancel|Close a dialog box without taking any action|
+|Cancel|Close a dialog box without taking any action.|
 |Undo|Undo the previous action.|
 |Narrator on|Turn the narrator on to have HoloLens announce the name of the incoming caller.|
 |Narrator off|Turn off the narrator.|
