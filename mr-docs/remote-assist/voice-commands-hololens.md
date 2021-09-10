@@ -42,14 +42,18 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Settings| Go to **Settings** tab.|
 |Sign out| Sub menu available from the user's avatar picture, sign out.|
 |**Call management**  | | 
-|Call                                   |Call a contact                                                                                                     |
-|Video                                  | Answer an incoming call with video.                                                                               |
-|Audio                                  | Answer an incoming call with audio only.                                                                          |
-|Ignore                                 |Decline a ringing incoming call.                                                                                   |
-|Hang up                                |End a ringing outgoing call.                                                                                       |
-|Hang up                                | End the call.                                                                                                     |
-|Mute (unmute)                          |Mute (unmute) the audio of a Dynamics 365 Remote Assist call                                                                    |
-|Start (stop) recording |Start (stop) recording a one-to-one call with one Teams desktop user                                                                                 |
+|Call|Call a contact.|
+|Confirm|Select the **Confirm** button to confirm calling a contact.|
+|Search|Display the **Search** box to search for a contact.|
+|Retry|Retry searching the Contacts list.|
+|Video|Answer an incoming call with video.|
+|Audio|Answer an incoming call with audio only.|
+|Decline or Ignore|Decline a ringing incoming call.|
+|Hang up|End a call (including ending a ringing outgoing call).|
+|Mute|Mute an audio call.|
+|Unmute|Unmute an audio call.|
+|Start recording |Start recording a one-to-one call with one Teams desktop user.|
+|Stop recording|Stop video recording for a one-to-one call with one Teams desktop user.|
 |Camera / capture                       | Selects the camera/capture tool                               |
 |Open participants (close participants) |Open (close) the participants panel                                                                                |
 |Start Video (stop video)               | Turn on (turn off) the video for a Dynamics 365 Remote Assist call.                                                            |
