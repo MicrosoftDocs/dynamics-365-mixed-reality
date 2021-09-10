@@ -54,17 +54,27 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Unmute|Unmute an audio call.|
 |Start recording |Start recording a one-to-one call with one Teams desktop user.|
 |Stop recording|Stop video recording for a one-to-one call with one Teams desktop user.|
-|Camera / capture                       | Selects the camera/capture tool                               |
-|Open participants (close participants) |Open (close) the participants panel                                                                                |
-|Start Video (stop video)               | Turn on (turn off) the video for a Dynamics 365 Remote Assist call.                                                            |
-|Join meeting                           |Join Teams meeting                                                                                                 |
-|Open participants (close participants) |Open (close) the participants panel                                                                                |
-|Narrator on|Turn the narrator on to have HoloLens announce the name of the incoming caller.|
+|Camera / capture| Selects the camera/capture tool.|
+|Start video|Turn on the video for a Dynamics 365 Remote Assist call.|
+|Stop video|Stop the video for a Dynamics 365 Remote Assist call.|
+|View lobby|View the list of participants waiting in the lobby.|
+|Admit|Admit a waiting participant into a meeting.|
+|Join meeting|Join a Microsoft Teams meeting.|
+|Open participants|Open the participants list.|
+|Close participants|Close the participants list.|
+|Next meeting|Show the next meeting notification.|
+|Previous meeting|Show the previous meeting notification.|
+|Narrator on|Turn the narrator on to have HoloLens announce the name of an incoming caller.|
 |Narrator off|Turn off the narrator.|
-|**Slate (window) management**  | | 
-|Pin (unpin)                            |Pin window in your space (unpin window so it follows you)                                                          |
-|Scale (scale off)                      |Select (deselect) the Scale tool, letting the user scale objects                                                   |
-|Bigger (smaller)                       | When Scale tool is active, make current slate larger (smaller)                                                    |
+|**Window management**  | | 
+|Close|Close the open window or panel.|
+|Pin|Pin a window in your space so it doesn’t follow you as you move around in your environment.|
+|Unpin|Unpin a window so it follows you as you move around in your environment.|
+|Scale|Select the **Scale** tool to resize a window (showing 2D content in a 3D space or a PDF document, for example). It does not resize an annotation or ink.|
+|Scale accept|Accept the scale change, and then turn off the **Scale** tool.
+|Scale off|Turn off the **Scale** tool.|
+|Bigger|When **Scale** tool is active, make current window bigger.|
+|Smaller|When the **Scale** tool is active, make the current window smaller.|
 |Select slate                           | Select the object currently being gazed at, to move or resize.                                                    |
 |Accept                                 |Place the object currently being held by "Select slate" command.                                                   |
 |Move                                   |Selects the Move tool, letting the user move objects.                                                              |
