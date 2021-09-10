@@ -28,9 +28,9 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Voice command|Description |
 | ------------- | -----|
 |**General**| | 
+|Remote Assist|If you say “Remote Assist” without following it with a command, displays labels with the name of each button. After a few seconds, the labels automatically disappear.| 
 |Start listening|Put Dynamics 365 Remote Assist into state expecting a list of commands to follow.|
 |Stop listening|Remove Dynamics 365 Remote Assist from state expecting a list of commands to follow.|
-|Remote Assist|If you say “Remote Assist” without following it with a command, displays labels with the name of each button. After a few seconds, the labels automatically disappear.| 
 |Help|Open the tutorials page to learn about core app features.|
 |Close|Close the tutorial.|
 |Skip|Skip the video on the Tips page.|
