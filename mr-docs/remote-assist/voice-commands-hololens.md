@@ -40,7 +40,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Cancel|Close a dialog box without taking any action.|
 |Undo|Undo the previous action.|
 |Settings| Go to **Settings** tab.|
-|Sign out| Sub menu available from the user's avatar picture, sign out|
+|Sign out| Sub menu available from the user's avatar picture, sign out.|
 |Toggle hand rays                       | Turn hand rays on or off <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
 |Hand rays on|Show hand rays|
 |Hand rays off| Hide hand rays <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
