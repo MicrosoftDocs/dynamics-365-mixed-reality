@@ -3,10 +3,10 @@ title: Voice commands and gestures for Dynamics 365 Remote Assist on HoloLens
 author: BryceHolmes
 description: Learn about voice commands and gestures for Microsoft Dynamics 365 Remote Assist on HoloLens.
 ms.author: soanigbo
-ms.date: 08/09/2021
+ms.date: 09/14/2021
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 
 # Voice commands and gestures for Dynamics 365 Remote Assist on HoloLens
@@ -28,12 +28,15 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Voice command|Description |
 | ------------- | -----|
 |**General**| | 
-|Start listening (stop listening)       |Put Dynamics 365 Remote Assist into (out of) state expecting a list of commands to follow                          |
-|Settings                               | Switch to Settings tab                                                                                            |
-|Sign out                               | Sub menu available from the user's avatar picture, sign out                                                       |
-|Toggle hand rays                       | Turn hand rays on or off <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.                                                                                         |
-|Hand rays on                           | Show hand rays                                                                                                    |
-|Hand rays off                          | Hide hand rays <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.         |
+|Start listening|Put Dynamics 365 Remote Assist into (out of) state expecting a list of commands to follow|
+|Stop listening|Put Dynamics 365 Remote Assist into (out of) state expecting a list of commands to follow|
+|Remote Assist|If you say “Remote Assist” without following it with a command, displays labels with the name of each button. After a few seconds, the labels automatically disappear.| 
+|Help|Open the tutorials page to learn about core app features.|
+|Settings| Switch to **Settings** tab.|
+|Sign out| Sub menu available from the user's avatar picture, sign out|
+|Toggle hand rays                       | Turn hand rays on or off <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
+|Hand rays on|Show hand rays|
+|Hand rays off| Hide hand rays <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
 |**Call management**  | | 
 |Call                                   |Call a contact                                                                                                     |
 |Video                                  | Answer an incoming call with video.                                                                               |
