@@ -78,8 +78,6 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Bigger|When the **Scale** tool is active, make the current window bigger.|
 |Smaller|When the **Scale** tool is active, make the current window smaller.|
 |Close|Close the open window.|
-|Minimize windows|Minmize windows.|
-|Restore windows|Resotre any minimized windows.|
 |Pin|Pin a window in your space so it doesn’t follow you as you move around in your environment.|
 |Unpin|Unpin a window so it follows you as you move around in your environment.|
 |Open chat|Open the **Text Chat** window (attached to the video feed).|
@@ -101,11 +99,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Hand rays on|Show hand rays.|
 |Hand rays off| Hide hand rays. <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
 |**Capture photos or videos**||
-|Camera/Capture|Select the **Camera**/**Capture** tool.|
-|Capture|Select the **Capture** tool to draw on walls and surfaces.|
 |Take photo|Capture the photo.|
-|Photo off|	Turn off the image capture tool.|
-|Video off|	Turn off the video tool.|
 |Cancel|	Cancel the photo or video capture.|
 |Take Photo button|	Select the **Take Photo** button.|
 |Enable|	Enable the image capture tool.|
@@ -127,22 +121,11 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Previous|When viewing a PDF file, go back to the previous page.|
 |Next|When viewing a PDF file, go to the next page.|
 |Set page|Open the PDF page-jump UI. Use "Select" to set page numbers.|
-|Reset|Reset the newest received file to its original placement and size.|
 |Delete|Delete selected OneDrive file.|
 |Close|Close OneDrive.|
-|**Dynamics 365 Field Service integration**||
-|Dynamics|Open the Dynamics 365 Field Service panel.|
-|Post|Post call artifacts (documents, media, and so on) to the associated Dynamics 365 Field Service work order.|
-|Discard|Do not post call artifacts to the associated Dynamics 365 Field Service work order.|
-|Retry|Try posting items to the associated Dynamics 365 Field Service work order again if the original posting didn’t succeed.|
-|Save prompt Dynamics	|Button that saves the photo to the Dynamics 365 Field Service booking.|
-|Save prompt Drive|	Button that saves the photo to OneDrive.|
-|Refresh|	Refresh the Dynamics 365 panel and instance.|
-|Select Settings|	Select the Dynamics 365 environment.|
 |**Asset management**||
 |New asset|Add a new asset.|
 |Rename|Rename an asset.|
-|Rename submit|???|
 
 ## Use the Narrator to announce incoming calls
 
