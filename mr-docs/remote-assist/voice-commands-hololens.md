@@ -31,16 +31,10 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Remote Assist|If you say “Remote Assist” without following it with a command, displays labels with the name of each button. After a few seconds, the labels automatically disappear.| 
 |Start listening|Put Dynamics 365 Remote Assist into state expecting a list of commands to follow.|
 |Stop listening|Remove Dynamics 365 Remote Assist from state expecting a list of commands to follow.|
-|Help|Open the tutorials page to learn about core app features.|
-|Close|Close the tutorial.|
-|Skip|Skip the video on the Tips page.|
-|Back|Close the video on the Tips page.|
 |Back or Previous|Go to previous page.|
 |Next|Go to next page.|
 |Cancel|Close a dialog box without taking any action.|
 |Undo|Undo the previous action.|
-|Settings| Go to **Settings** tab.|
-|Sign out| Sub menu available from the user's avatar picture, sign out.|
 |**Call management**  | | 
 |Call|Call a contact.|
 |Confirm|Select the **Confirm** button to confirm calling a contact.|
@@ -52,8 +46,8 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Hang up|End a call (including ending a ringing outgoing call).|
 |Mute|Mute an audio call.|
 |Unmute|Unmute an audio call.|
-|Start recording |Start recording a one-to-one call with one Teams desktop user.|
-|Stop recording|Stop video recording for a one-to-one call with one Teams desktop user.|
+|Start recording |Start video recording.|
+|Stop recording|Stop video recording |
 |Camera / capture| Selects the camera/capture tool.|
 |Start video|Turn on the video for a Dynamics 365 Remote Assist call.|
 |Stop video|Stop the video for a Dynamics 365 Remote Assist call.|
@@ -88,8 +82,6 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Place arrow|Place an arrow at the current gaze cursor location.|
 |Draw|Select the **Draw** tool to draw on the walls and surfaces of your environment.|
 |Draw off|Turn off the **Draw** tool.|
-|Ink|Select the **Draw** tool to draw on the walls and surfaces of your environment.|
-|Ink off|Turn off the **Draw** tool.|
 |Start inking| Start adding ink.  |   
 |Stop inking| Stop adding ink.  |  
 |Colors|Open color picker to determine color of the arrow or ink, and then say blue, gray, green, red, or yellow.|
@@ -99,9 +91,9 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Hand rays on|Show hand rays.|
 |Hand rays off| Hide hand rays. <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
 |**Capture photos or videos**||
-|Take photo|Capture the photo.|
-|Cancel|	Cancel the photo or video capture.|
+|Take photo|Take a photo of the environment.|
 |Take Photo button|	Select the **Take Photo** button.|
+|Cancel|	Cancel the photo or video capture.|
 |Enable|	Enable the image capture tool.|
 |Off|	Disable the image capture tool.|
 |Turn on freeze frame|	Turn on Snapshot mode.|
