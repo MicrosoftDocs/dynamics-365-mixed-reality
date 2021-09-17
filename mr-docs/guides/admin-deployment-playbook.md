@@ -123,12 +123,12 @@ In case of Windows **Firewall**, sometimes it's not enough to have the app liste
 ####Checking whether the outbound connections are blocked
 
 Open the Windows Firewall and clicking on the “Advanced settings” item on the left panel.
-![Firewall configuration 01](media/firewall_config_01.png.PNG "Firewall advance setting configuration")
+![Firewall configuration 01](media/firewall_config_01.png "Firewall advance setting configuration")
 
 ####Checking whether the outbound rule allowing Guides to make external calls exists
 
 Click on “Outbound Rules” on the left panel, sort the rules by name and look for a Microsoft Dynamics 365 Guides entry. Make sure the action is “allow”. If it's not, reinstall the app.
-![Firewall configuration 02](media/firewall_config_02.png.PNG "Firewall outbound rules")
+![Firewall configuration 02](media/firewall_config_02.png "Firewall outbound rules")
 
 ## Access management and user roles
 
