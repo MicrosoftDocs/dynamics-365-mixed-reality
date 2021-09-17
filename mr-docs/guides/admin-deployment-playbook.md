@@ -126,7 +126,7 @@ For Windows Defender Firewall, sometimes it's not enough to have the app listed 
 
 #### Determine if the outbound rule allowing Dynamics 365 Guides to make external calls exists
 
-- In the left panel, select **Outbound Rules**, sort the rules by name, and then look for a Microsoft Dynamics 365 Guides entry. Make sure the action is set to **allow**. If it's not, reinstall the app.
+- In the left panel, select **Outbound Rules**, sort the rules by name, and then look for a Microsoft Dynamics 365 Guides entry. Make sure the the value in the **Action** field is set to **Allow**. If it's not, reinstall the app.
 
     ![Firewall configuration 02](media/firewall_config_02.png "Firewall outbound rules")
 
