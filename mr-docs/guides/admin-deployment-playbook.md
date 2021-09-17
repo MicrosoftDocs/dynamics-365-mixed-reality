@@ -120,7 +120,7 @@ For Windows Defender Firewall, sometimes it's not enough to have the app listed 
 
 #### Determine if outbound connections are blocked
 
-- Open Windows Firewall, and then in the left panel, select **Advanced settings**. You'll see the following screen:
+- Open Windows Firewall, and then in the left panel, select **Advanced settings**. You'll see the following screen.
 
     ![Firewall configuration 01](media/firewall_config_01.png "Firewall advance setting configuration")
 
