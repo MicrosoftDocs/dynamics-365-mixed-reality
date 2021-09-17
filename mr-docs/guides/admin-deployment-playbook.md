@@ -116,7 +116,7 @@ Other endpoints are specific to Dynamics 365 Guides. The list of additional endp
 
 ### Windows Defender Firewall configuration
 
-For Windows Defender Firewall, sometimes it's not enough to have the app listed in the **Allowed an app** section. If Windows Firewall is configured to block outbound calls, you must have a rule that allows the Dynamics 365 Guides app in the **Outbound Rules** section. Note that installing the Dynamics 365 Guides app will add this rule. If you don't see the app in the **Outbound Rules** section, uninstalling and re-installing it might fix the issue. If you don't have permissions to do this (install the app or add the firewall rule), work with your IT department.
+For Windows Defender Firewall, sometimes it's not enough to have the app listed in the **Allowed apps** section. If Windows Firewall is configured to block outbound calls, you must have a rule that allows the Dynamics 365 Guides app in the **Outbound Rules** section. Note that installing the Dynamics 365 Guides app will add this rule. If you don't see the app in the **Outbound Rules** section, uninstalling and re-installing it might fix the issue. If you don't have permissions to do this (install the app or add the firewall rule), work with your IT department.
 
 #### Determine if outbound connections are blocked
 
