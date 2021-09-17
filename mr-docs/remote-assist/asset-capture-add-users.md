@@ -101,15 +101,16 @@ If users don't appear on the **Security** page (**Dynamics 365** \> **Settings**
 
 ## Manage app roles
 
-> [!Note]
-> The necessary security roles are associated with the model-driven app automatically. Depending on your organization's setup, this next section may not be required. If you're running into issues accessing the model-driven app, it is recommended that you complete the setup as described in this section.
+The necessary security roles are associated with the model-driven app automatically. Depending on your organization's setup, you may not need to set up security roles. If you're running into issues accessing the model-driven app, check security roles as described below.
 
-Security roles must be assigned to apps to ensure that users who have those roles can access the app. The **Remote Assist - App User** and the **Remote Assist - Administrator** roles must be enabled for the Dynamics 365 Remote Assist app:
+Security roles must be assigned to apps to ensure that users who have those roles can access the app. The **Remote Assist - App User** and the **Remote Assist - Administrator** roles must be enabled for the Dynamics 365 Remote Assist app. The following table describes the two roles.
 
 |Security role|Description|
 |-----------------------------------|----------------------------------------------------------------------------------|
 |**Remote Assist - App User**|Provides access to assets, one-time call, and Settings in the Dynamics 365 Remote Assist model-driven app. This role is assigned automatically to all users who have a Dynamics 365 Remote Assist license. Amins typcially don't have to assign this role manually.|
 |**Remote Assist - Administrator**|Provides additional access to the Calls Dashboard. It provides an additional scope of access and is not a replacement for the App User role|
+
+### Assign a security role
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 
