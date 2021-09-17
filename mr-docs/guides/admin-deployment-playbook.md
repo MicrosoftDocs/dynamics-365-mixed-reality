@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
 ms.author: mamaylya
-ms.date: 11/30/2020
+ms.date: 09/17/2021
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -116,11 +116,11 @@ Other endpoints are specific to Dynamics 365 Guides. The list of additional endp
 
 ### Firewall configuration
 
-For Windows Defender Firewall, sometimes it's not enough to have the app listed in the "Allowed app" sections. If Windows Firewall is configured to block outbound calls, you must have a rule that allows the Dynamics 365 Guides app in the **Outbound Rules** section. Note that installing the Dynamics 365 Guides app will add this rule. If you don't see the app in the **Outbound Rules** section, uninstalling and re-installing it might fix the issue. If you don't have permissions to do this (install the app or add the firewall rule), work with your IT department.
+For Windows Defender Firewall, sometimes it's not enough to have the app listed in the **Allowed app** section. If Windows Firewall is configured to block outbound calls, you must have a rule that allows the Dynamics 365 Guides app in the **Outbound Rules** section. Note that installing the Dynamics 365 Guides app will add this rule. If you don't see the app in the **Outbound Rules** section, uninstalling and re-installing it might fix the issue. If you don't have permissions to do this (install the app or add the firewall rule), work with your IT department.
 
 #### Determine if outbound connections are blocked
 
-- Open Windows Firewall, and then in the left panel, select **Advanced settings**.
+- Open Windows Firewall, and then in the left panel, select **Advanced settings**. You'll see the following screen:
 
     ![Firewall configuration 01](media/firewall_config_01.png "Firewall advance setting configuration")
 
@@ -128,7 +128,7 @@ For Windows Defender Firewall, sometimes it's not enough to have the app listed 
 
 - In the left panel, select **Outbound Rules**, sort the rules by name, and then look for a Microsoft Dynamics 365 Guides entry. Make sure that the value in the **Action** field is set to **Allow**. If it's not, reinstall the app.
 
-    ![Firewall configuration 02](media/firewall_config_02.png "Firewall outbound rules")
+    ![Firewall configuration 02](media/firewall_configuration_02.PNG "Firewall outbound rules")
 
 ## Access management and user roles
 
