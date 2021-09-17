@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
 ms.author: mamaylya
-ms.date: 11/30/2020
+ms.date: 09/17/2021
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -103,6 +103,32 @@ The [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/s
 ### Network access
 
 Dynamics 365 Guides is a cloud-based application and might require that your network admin add, to an approve list, the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers. [Learn more about unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls).
+
+### VPN or proxy configuration
+
+When connecting through a proxy or VPN, you must configure the proxy or VPN to allow connections with certain endpoints so that Dynamics 365 Guides functions normally. Some endpoints are required generally for Dynamics 365 apps. [Review the list of endpoints required for Dynamics 365 apps](https://docs.microsoft.com/en-us/power-platform/admin/online-requirements#internet-accessible-urls-required). 
+
+Other endpoints are specific to Dynamics 365 Guides. The list of additional endpoints required by Dynamics 365 Guides includes:
+
+- login.microsoft.com 
+- graph.microsoft.com 
+- globaldisco.crm.dynamics.com 
+
+### Windows Defender Firewall configuration
+
+For Windows Defender Firewall, sometimes it's not enough to have the app listed in the **Allowed apps** section. If Windows Firewall is configured to block outbound calls, you must have a rule that allows the Dynamics 365 Guides app in the **Outbound Rules** section. Note that installing the Dynamics 365 Guides app will add this rule. If you don't see the app in the **Outbound Rules** section, uninstalling and re-installing it might fix the issue. If you don't have permissions to do this (install the app or add the firewall rule), work with your IT department.
+
+#### Determine if outbound connections are blocked
+
+- Open Windows Firewall, and then in the left panel, select **Advanced settings**. You'll see the following screen:
+
+    ![Firewall configuration 01](media/firewall_config_01.png "Firewall advance setting configuration")
+
+#### Determine if the outbound rule allowing Dynamics 365 Guides to make external calls exists
+
+- In the left panel, select **Outbound Rules**, sort the rules by name, and then look for a Microsoft Dynamics 365 Guides entry. Make sure that the value in the **Action** field is set to **Allow**. If it's not, reinstall the app.
+
+    ![Firewall configuration 02](media/firewall_configuration_02.PNG "Firewall outbound rules")
 
 ## Access management and user roles
 
