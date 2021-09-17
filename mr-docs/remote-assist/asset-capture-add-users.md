@@ -103,7 +103,7 @@ If users don't appear on the **Security** page (**Dynamics 365** \> **Settings**
 
 The necessary security roles are associated with the model-driven app automatically. Depending on your organization's setup, you may not need to set up security roles. If you're running into issues accessing the model-driven app, check security roles as described below.
 
-Security roles must be assigned to apps to ensure that users who have those roles can access the app. The **Remote Assist - App User** and the **Remote Assist - Administrator** roles must be enabled for the Dynamics 365 Remote Assist app. The following table describes the two roles.
+The **Remote Assist - App User** and the **Remote Assist - Administrator** roles must be enabled for the Dynamics 365 Remote Assist app. The following table describes the two roles.
 
 |Security role|Description|
 |-----------------------------------|----------------------------------------------------------------------------------|
