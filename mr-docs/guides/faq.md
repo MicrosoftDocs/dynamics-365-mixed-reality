@@ -169,6 +169,10 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 
 - If the file exists in the library but the preview doesn't load, there's a problem with the file information in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
 
+## I am connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
+
+[Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
+
 ## See also
 
 [Known Issues in Dynamics 365 Guides](known-issues.md)
