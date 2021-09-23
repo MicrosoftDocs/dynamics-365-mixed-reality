@@ -108,7 +108,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |**OneDrive file management**   | | 
 |Files|Switch to the **Files** tab to add a file from OneDrive to your environment.|
 |Home|When the **Files** tab is open, go to the root OneDrive folder. |
-|Up|When the **Files** tab is open, scrolls up in the file directory.|
+|Up|When the **Files** tab is open, scroll up in the file directory.|
 |Back|When the **Files** tab is open, go back.|
 |Previous page|Go to the previous page in OneDrive.|
 |Next page|Go to the next page in OneDrive.|
