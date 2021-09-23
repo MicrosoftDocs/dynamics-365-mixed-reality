@@ -47,7 +47,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Mute|Mute an audio call.|
 |Unmute|Unmute an audio call.|
 |Start recording |Start video recording.|
-|Stop recording|Stop video recording |
+|Stop recording|Stop video recording. |
 |Camera / capture| Selects the camera/capture tool.|
 |Start video|Turn on the video for a Dynamics 365 Remote Assist call.|
 |Stop video|Stop the video for a Dynamics 365 Remote Assist call.|
