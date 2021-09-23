@@ -2,7 +2,7 @@
 author: keno-msft
 description: Everything you need to know about converting 3D models to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
-ms.date: 09/11/2020
+ms.date: 09/7/2021
 ms.topic: article
 title: Convert your 3D (CAD) models to use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
@@ -29,6 +29,9 @@ Your use of third-party applications is subject to terms between you and the thi
 |[Maxon Cinema 4D](https://go.microsoft.com/fwlink/?linkid=2149064)|Native export plug-in|
 
 In situations where a CAD application doesn’t have an export option for FBX, OBJ, GLB, PLY, STL, or glTF, you can export an intermediate file, such as [JT](https://aka.ms/Jtfileformat) or [STEP](https://aka.ms/STEPfileformat), and then process that file to create a glTF file. 
+
+> [!NOTE]
+> For information on working with multiple animations in a single 3D model in 3DS Max, see [Use multiple animation clips in a 3DS Max model](https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip).
 
 ### See also
 [Overview of preparing 3D models](index.md)<br>
