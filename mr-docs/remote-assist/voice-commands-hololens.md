@@ -110,10 +110,12 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Home|When the **Files** tab is open, go to the root OneDrive folder. |
 |Up|When the **Files** tab is open, select up.|
 |Back|When the **Files** tab is open, go back.|
+|Previous page|Go to the previous page in OneDrive.|
+|Next page|Go to the next page in OneDrive.|
 |Previous|When viewing a PDF file, go back to the previous page.|
 |Next|When viewing a PDF file, go to the next page.|
-|Set page|Open the PDF page-jump UI. Use "Select" to set page numbers.|
-|Delete|Delete selected OneDrive file.|
+|Select|Set the page of the open PDF file.|
+|Delete|Delete the selected OneDrive file.|
 |Close|Close OneDrive.|
 |**Asset management**||
 |New asset|Add a new asset.|
