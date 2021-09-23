@@ -39,7 +39,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Call|Call a contact.|
 |Confirm|Select the **Confirm** button to confirm calling a contact.|
 |Search|Display the **Search** box to search for a contact.|
-|Retry|Retry searching the Contacts list.|
+|Retry|Retry searching the **Contacts** list.|
 |Video|Answer an incoming call with video.|
 |Audio|Answer an incoming call with audio only.|
 |Decline or Ignore|Decline a ringing incoming call.|
