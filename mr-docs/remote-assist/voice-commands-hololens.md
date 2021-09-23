@@ -49,8 +49,8 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Start recording |Start video recording.|
 |Stop recording|Stop video recording. |
 |Camera / capture| Selects the camera/capture tool.|
-|Start video|Turn on the video for a Dynamics 365 Remote Assist call.|
-|Stop video|Stop the video for a Dynamics 365 Remote Assist call.|
+|Start video|Turn on the video for a call.|
+|Stop video|Stop the video for a call.|
 |View lobby|View the list of participants waiting in the lobby.|
 |Admit|Admit a waiting participant into a meeting.|
 |Join meeting|Join a Microsoft Teams meeting.|
