@@ -15,6 +15,9 @@ When you use the Teams desktop application on a PC running Windows 10, you can c
 
 However, the features you can use to collaborate differ depending on which platform the Dynamics 365 Remote Assist user is using.  
 
+> [!NOTE]
+> At this time, Dynamics 365 Remote Assist does not support holographic annotations in [Teams Virtualized Desktop Infrastructure (VDI)](https://docs.microsoft.com/microsoftteams/teams-for-vdi). The mixed-reality toolbar does not appear for VDI users. 
+
 ## Collaborating with Dynamics 365 Remote Assist HoloLens user versus Dynamics 365 Remote Assist mobile user
 |Task                                                                                            |Teams desktop features available when collaborating with Dynamics 365 Remote Assist HoloLens user                 |Teams desktop features available when collaborating with Dynamics 365 Remote Assist mobile user                   |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
