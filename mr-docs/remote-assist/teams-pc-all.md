@@ -2,7 +2,7 @@
 author: BryceHolmes
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application.
 ms.author: soanigbo
-ms.date: 07/29/2021
+ms.date: 09/24/2021
 ms.service: crm-online
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user through Teams desktop
@@ -14,6 +14,9 @@ ms.reviewer: v-bholmes
 When you use the Teams desktop application on a PC running Windows 10, you can collaborate with people using Dynamics 365 Remote Assist on HoloLens or HoloLens 2 (in this article, a "Dynamics 365 Remote Assist HoloLens user") or Dynamics 365 Remote Assist on a mobile device (in this article, a "Dynamics 365 Remote Assist mobile user").  
 
 However, the features you can use to collaborate differ depending on which platform the Dynamics 365 Remote Assist user is using.  
+
+> [!NOTE]
+> At this time, Dynamics 365 Remote Assist does not support holographic annotations in [Teams for Virtualized Desktop Infrastructure (VDI)](https://docs.microsoft.com/microsoftteams/teams-for-vdi). The mixed-reality toolbar does not appear for VDI users. 
 
 ## Collaborating with Dynamics 365 Remote Assist HoloLens user versus Dynamics 365 Remote Assist mobile user
 |Task                                                                                            |Teams desktop features available when collaborating with Dynamics 365 Remote Assist HoloLens user                 |Teams desktop features available when collaborating with Dynamics 365 Remote Assist mobile user                   |
