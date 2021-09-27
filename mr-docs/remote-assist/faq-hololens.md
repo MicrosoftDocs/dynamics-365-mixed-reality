@@ -43,7 +43,7 @@ To use Dynamics 365 Remote Assist, you need an internet connection. For more inf
 
 ## Dynamics 365 Remote Assist is frozen or unresponsive
 
-Try closing and reopening Dynamics 365 Remote Assist. If you’re still having problems, [restart your HoloLens](https://support.microsoft.com/help/12642).
+Try closing and reopening Dynamics 365 Remote Assist. If you’re still having problems, [restart your HoloLens](https://docs.microsoft.com/hololens/hololens-recovery).
 
 ## Dynamics 365 Remote Assist isn't showing my contacts
 
