@@ -1,12 +1,12 @@
 ---
 title: Dynamics 365 Remote Assist solution metadata information
-author: bencorn
+author: amaraanigbo
 description: Dynamics 365 Remote Assist solution
-ms.author: becorn
+ms.author: soanigbo
 ms.date: 06/10/2020
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 # Dynamics 365 Remote Assist solution metadata information
 
