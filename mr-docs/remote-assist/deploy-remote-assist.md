@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 After you get your [free trial](try-remote-assist.md) or [purchase](buy-remote-assist.md) Dynamics 365 Remote Assist, you can assign licenses to users. Once assigned, users can deploy Dynamics 365 Remote Assist on their individual devices.
 
 > [!Note]
-> There are two types of users for Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach: remote experts and field service technicians. Field service technicians require a Dynamics 365 Remote Assist license **and** a Microsoft Teams license. When you buy a Dynamics 365 Remote Assist license, a Microsoft Teams license is included. However, remote experts (who aren't in the field) require only a Microsoft Teams license. For more information, see [deploying Microsoft Teams licenses in your organization](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist).
+> There are two types of users for Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach: remote experts and field service technicians. Field service technicians require a Dynamics 365 Remote Assist license **and** a Microsoft Teams license. When you buy a Dynamics 365 Remote Assist license, a Microsoft Teams license is included. However, remote experts (who aren't in the field) require only a Microsoft Teams license. 
 
 In this article, we’ll walk through how to deploy Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach (for Field Service customers). This includes:
 
