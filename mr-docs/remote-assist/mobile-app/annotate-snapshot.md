@@ -1,12 +1,12 @@
 ---
 title: Annotate 2D snapshot in Dynamics 365 Remote Assist mobile
-author: xonatia
+author: amaraanigbo
 description: Learn how to capture and annotate a 2D snapshot in the Dynamics 365 Remote Assist mobile app. 
-ms.author: xolee
+ms.author: soanigbo
 ms.date: 05/28/2020
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 # Capture and annotate snapshots in Dynamics 365 Remote Assist mobile 
 
