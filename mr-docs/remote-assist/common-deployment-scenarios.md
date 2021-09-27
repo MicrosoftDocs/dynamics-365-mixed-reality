@@ -1,12 +1,12 @@
 ---
 title: Deployment scenarios overview 
-author: sophiasysun
+author: amaraanigbo
 description: Deployment scenarios overview 
-ms.author: sopsun
+ms.author: soanigbo
 ms.date: 09/15/2020
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 # Deployment scenarios overview 
 
