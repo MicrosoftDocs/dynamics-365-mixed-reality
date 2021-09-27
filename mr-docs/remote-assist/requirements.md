@@ -88,7 +88,7 @@ An Azure Active Directory account is also required for purchasing the Dynamics 3
 
 ### Administrator
 
-[Azure Active Directory (Azure AD)](/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in Microsoft 365 admin portal and distribute applications through Microsoft Store for Business. [Learn more about how to deploy Dynamics 365 Remote Assist](deploy-remote-assist).
+[Azure Active Directory (Azure AD)](/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in Microsoft 365 admin portal and distribute applications through Microsoft Store for Business. [Learn more about how to deploy Dynamics 365 Remote Assist](deploy-remote-assist.md).
 
 ## Network requirements
 
