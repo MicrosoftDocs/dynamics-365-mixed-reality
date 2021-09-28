@@ -22,6 +22,26 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
+## November 1, 2021
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|XXX|
+|HoloLens app (HoloLens 2 only)|XXX|
+|Solution|XXX|
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/updated-user-experience-leveraging-hololens-2-instinctual-interactions" target="_blank">Updated user experience leveraging HoloLens 2 instinctual interactions</a>| Yes |<a href="Doc URL to come" target="_blank">DOC LINK TEXT TO COME</a>|
+
+### Bugs fixed and other improvements
+
+- Fixed search functionality in Offline mode
+- Improved accessibility, generally
+- Updated the instructions in the default anchoring mode
+
 ## August 30 2021
 
 |Item|Version|
