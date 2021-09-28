@@ -30,13 +30,13 @@ HoloLens (1st gen) has entered Long Term Servicing State and is no longer suppor
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes two applications, which enable authors and operators to use the right device for the right task in their workflows:
 
-- PC authoring app. Authors use the PC authoring app to add content and to create and structure their guide. These tasks are fast and efficient on a PC.
+- **PC authoring app.** Authors use the PC authoring app to add content and to create and structure their guide. These tasks are fast and efficient on a PC.
 
-- [!include[pn-hololens](../includes/pn-hololens.md)] app. This app includes modes for authoring and operating.
+- **[!include[pn-hololens](../includes/pn-hololens.md)] app.** This app includes modes for authoring and operating.
 
-    - Authors use the HoloLens app to anchor their guides and place holograms where they belong in the real world.
+    - **Authors** use the HoloLens app to anchor their guides and place holograms where they belong in the real world.
 
-    - Operators use the HoloLens app to access the step-by-step holographic work instructions. Operators never need to use the PC app. 
+    - **Operators** use the HoloLens app to access the step-by-step holographic work instructions. Operators never need to use the PC app. 
 
 If you plan to author guides, you'll need to use both apps. If not, you'll only need the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
