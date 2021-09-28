@@ -13,13 +13,17 @@ ms.custom: "intro-internal"
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch this video to get a quick overview of Dynamics 365 Guides on HoloLens 2](https://www.youtube.com/watch?v=V8c3pDKdHEc)
 
-[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. These instruction cards are visually tethered to the place where the work is done, and can include images, videos, and 3D holographic models. Operators see exactly what needs to be done, and where, so they can get the job done faster, with fewer errors and greater skill retention. [Read more about Dynamics 365 Guides capabilities](https://dynamics.microsoft.com/mixed-reality/guides/?ef_id=34bba79ef37214ad99adc7aaf4d29e4f:G:s&OCID=AID2100366_SEM_34bba79ef37214ad99adc7aaf4d29e4f:G:s&msclkid=34bba79ef37214ad99adc7aaf4d29e4f).
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. These instruction cards are visually tethered to the place where the work is done, and can include images, videos, and 3D holographic models. Operators see exactly what needs to be done, and where, so they can get the job done faster, with fewer errors and greater skill retention. When needed, they can make a call to a remote expert on Microsoft Teams. The remote expert can see what the operator sees on their HoloLens. [Read more about Dynamics 365 Guides capabilities](https://dynamics.microsoft.com/mixed-reality/guides/?ef_id=34bba79ef37214ad99adc7aaf4d29e4f:G:s&OCID=AID2100366_SEM_34bba79ef37214ad99adc7aaf4d29e4f:G:s&msclkid=34bba79ef37214ad99adc7aaf4d29e4f).
 
 ![Person using Dynamics 365 Guides while working on a truck engine.](media/woman-at-work.PNG "Person using Dynamics 365 Guides while working on a truck engine") 
 
 ## No coding skills required to create mixed-reality guides
 
 With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you don't need specialized 3D or programming skills. Start with the PC authoring app to create a guide made up of step-by-step instructions, images, videos, and 3D holograms. After you create the guide on a PC, use the HoloLens app to connect the instruction cards and holograms to the physical workspace by picking them up and moving them to the correct location. You can use the default library of 3D holograms to get started. You can also import your own custom 3D models.
+
+## Make a call to work collaboratively
+
+Dynamics 365 Guides users on HoloLens can collaborate in real time with a remote expert using Teams desktop. By starting a call from a guide, an operator can share their HoloLens video feed, including holographic guide content, with the remote expert. For example, a first-line worker can call an expert if something goes wrong and get advice on how to move forward in a timely manner instead of waiting for support. Or an author might prompt a first-line worker to call a remote expert at a specific step in a guide, or ask a first-line worker to do a remote inspection as a product is being built, which will save time while ensuring high quality.
 
 ## Improve productivity – Learn by doing
 
