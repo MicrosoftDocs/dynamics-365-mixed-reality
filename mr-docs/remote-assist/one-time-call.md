@@ -1,6 +1,6 @@
 ---
 title: Invite a user to join a one-time call (public preview) in Microsoft Dynamics 365 Remote Assist
-author: BryceHolmes
+author: amaraanigbo
 description: Invite a user to join a one-time call (public preview) in Dynamics 365 Remote Assist 
 ms.author: soanigbo
 ms.date: 04/28/2021
@@ -98,7 +98,7 @@ If you're joining the call using the Dynamics 365 Remote Assist mobile app, you'
  
 ## Your customer’s experience 
 
-Note that [Dynamics 365 Remote Assist device requirements](./requirements.md#licensing-requirements-per-role) apply to your customer as well. 
+Note that [Dynamics 365 Remote Assist device requirements](./requirements.md) apply to your customer as well. 
 
 **Step 1**: If your customer wants to join the call from their mobile device but has not downloaded the Dynamics 365 Remote Assist mobile app, they must select the first link to download the app.
 

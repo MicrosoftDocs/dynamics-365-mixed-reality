@@ -1,12 +1,12 @@
 ---
 title: Calls between two or more Dynamics 365 Remote Assist mobile users
-author: xonatia
+author: amaraanigbo
 description: Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile calling  
-ms.author: xolee
+ms.author: soanigbo
 ms.date: 04/28/2021
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 
 # Calls between Dynamics 365 Remote Assist mobile users

@@ -1,12 +1,12 @@
 ---
 title: Report a Dynamics 365 Remote Assist bug 
-author: sophiasysun
+author: amaraanigbo
 description: How to report a Dynamics 365 Remote Assist bug by using the HoloLens Feedback Hub
-ms.author: sopsun
+ms.author: soanigbo
 ms.date: 3/15/2020
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 # Report a Dynamics 365 Remote Assist bug using HoloLens Feedback Hub
 

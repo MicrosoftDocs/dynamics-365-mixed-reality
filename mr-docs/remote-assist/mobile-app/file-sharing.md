@@ -1,12 +1,12 @@
 ---
 title: Share a file in Dynamics 365 Remote Assist mobile
-author: xonatia
+author: amaraanigbo
 description: Share documents between technicians and collaborators with the Dynamics 365 Remote Assist mobile app.
-ms.author: xolee
+ms.author: soanigbo
 ms.date: 07/06/2021
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 # Share files to improve collaboration in Dynamics 365 Remote Assist mobile
 

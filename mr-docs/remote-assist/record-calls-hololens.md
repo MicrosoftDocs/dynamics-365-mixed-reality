@@ -1,6 +1,6 @@
 ---
 title: Record calls in Dynamics 365 Remote Assist on HoloLens 
-author: BryceHolmes
+author: amaraanigbo
 description: Use cloud-based recording or several other alternatives in Microsoft Dynamics 365 Remote Assist on HoloLens
 ms.author: soanigbo
 ms.date: 04/08/2021
@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 
 Recording a call is great for training or record-keeping purposes. Cloud-based recordings are automatically uploaded to Microsoft Stream. When the recording finishes uploading, all call participants can find the Stream link via the Teams chat.
 
-Read about the [layout](#cloud-based-recording-layout) of this type of call before deciding whether to record using this method. You may also consider [alternatives to cloud-based recordings](#alternative-methods-for-recording).
+Read about the [layout](#cloud-based-recording-layout) of this type of call before deciding whether to record using this method. You may also consider [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording).
 
 ## Overview of cloud-based recording
 

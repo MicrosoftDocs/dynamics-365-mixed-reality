@@ -1,12 +1,12 @@
 ---
 title: Making calls with AR in Dynamics 365 Remote Assist mobile
-author: xonatia
+author: amaraanigbo
 description: Making calls from Dynamics 365 Remote Assist mobile with AR support 
-ms.author: xolee
+ms.author: soanigbo
 ms.date: 07/06/2021
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 # Make Dynamics 365 Remote Assist mobile calls with augmented reality supported devices
 

@@ -1,12 +1,12 @@
 ---
 title: Using Dynamics 365 Remote Assist in low-bandwidth situations
-author: xonatia
+author: amaraanigbo
 description: How the Dynamics 365 Remote Assist app works in environments with low-bandwidth conditions 
-ms.author: xolee
+ms.author: soanigbo
 ms.date: 02/27/2020
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 # Use Dynamics 365 Remote Assist in low-bandwidth situations
 

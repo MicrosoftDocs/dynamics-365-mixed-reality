@@ -2,11 +2,11 @@
 title: Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service
 description: Learn how to integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service to launch Remote Assist from a Field Service booking.
 ms.date: 07/06/2020
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ms.service: crm-online
 ms.topic: "article"
-author: bencorn
-ms.author: daclar
+author: amaraanigbo
+ms.author: soanigbo
 ---
 
 # Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service  
