@@ -26,7 +26,7 @@ The following entities are included in this solution.
 |----------|-----------|------------|
 |[account](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/entities/account?view=op-9-1)|Account|Business that represents a customer or potential customer. The company that is billed in business transactions.|
 |[msdyn_customerasset](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/entities/msdyn_customerasset?view=op-9-1)|Customer Asset|Specify customer asset.|
-|[product](/dynamics365/customer-engagement/web-api/product?view=dynamics-ce-odata-9)|Product|Information about products and their pricing information.|
+|[product](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/entities/product?view=op-9-1)|Product|Information about products and their pricing information.|
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
