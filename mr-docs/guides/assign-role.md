@@ -24,7 +24,7 @@ To assign user roles:
 
 - The latest Dynamics 365 Guides solution must be installed. For more information, see [Update to the latest solution](upgrade.md).
 
-- You must have access to the Power Platform admin center and have full admin privileges.
+- You have access to the Microsoft Power Platform admin center and have full admin privileges.
 
 ## Assign user roles
 
@@ -71,6 +71,8 @@ To assign user roles:
     > You may see a **Common Data Service** check box instead of a **Basic User** check box. If so, select that check box.
 
 9. Select the check box for the appropriate role for the selected users, and then select **OK**.
+ 
+10. If you want the user to have admin privileges, select the **System Administrator** check box. 
 
     ![Author and Operator check boxes.](media/select-role.PNG "Author and Operator check boxes")
     
