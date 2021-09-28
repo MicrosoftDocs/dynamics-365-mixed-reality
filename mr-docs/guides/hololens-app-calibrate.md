@@ -3,9 +3,8 @@ author: Mamaylya
 description: Learn how to calibrate your HoloLens 1 device for authoring in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
 ms.date: 12/08/2020
-ms.service: crm-online
 ms.topic: article
-title: Calibrate your HoloLens 1 device for authoring in the Dynamics 365 Guides HoloLens app
+title: Calibrate HoloLens 1 and HoloLens 2 devices for authoring in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 
@@ -28,7 +27,7 @@ If you don't configure the IPD for each user:
 
 1. When you turn on the device for the first time, the following system prompt automatically appears: "Let's adjust [!include[pn-hololens](../includes/pn-hololens.md)] for your eyes." To begin calibration, select **Adjust**.
 
-    ![Adjust prompt](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
+    ![Adjust prompt.](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
 
 2. Use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for navigating Dynamics 365 Guides](authoring-gestures-HL2.md).
 
@@ -56,7 +55,7 @@ If you don't configure the IPD for each user:
 
 2. Air tap **Calibration**.
 
-    ![Calibration button](media/hololens-calibration.PNG "Calibration button")
+    ![Calibration button.](media/hololens-calibration.PNG "Calibration button")
 
 3. Follow the instructions on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
@@ -74,3 +73,6 @@ To determine which version of the operating system you're using on [!include[pn-
 
 [Install the app and sign in](install-sign-in-hololens-app.md)<br>
 [Gestures for navigating the app](authoring-gestures.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

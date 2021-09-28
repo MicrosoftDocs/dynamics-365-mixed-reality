@@ -2,14 +2,17 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 04/01/2020
-ms.service: crm-online
+ms.date: 06/26/2021
 ms.topic: article
-title: Known Issues with the Dynamics 365 Guides HoloLens app
+title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+## Telemetry data not stored for operators with **Restricted Operator** role in certain cases
+
+Operators with the **Restricted Operator** role that don't have the appendTo privilege can access and operate guides but their session data (telemetry) is not stored for time-tracking purposes.
 
 ## I can't open a non-English Example guide
 
@@ -83,7 +86,7 @@ Tap and hold the blue outline, and move it up or down until it exactly overlaps 
  
 As the following illustration shows, the media panel visually indicates what you must do.
 
-![Adjusting the offset of the circular code anchor](media/adjust-marker-offset.png "Adjusting the offset of the circular code anchor")
+![Adjusting the offset of the circular code anchor.](media/adjust-marker-offset.png "Adjusting the offset of the circular code anchor")
 
 After you've verified that the blue outline and the anchor are aligned, select **Confirm** to complete the process. 
 
@@ -96,3 +99,6 @@ If, at any point, you must readjust the offset, you can trigger the offset adjus
 [Known issues with Dynamics 365 Guides generally](known-issues.md)<br>
 [Known issues with the PC app](known-issues-pc-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

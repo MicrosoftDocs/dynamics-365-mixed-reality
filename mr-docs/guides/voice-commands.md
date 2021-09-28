@@ -2,8 +2,7 @@
 author: melissahellmund
 description: This topic explains how you can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze.
 ms.author: mehellmu
-ms.date: 08/25/2020
-ms.service: crm-online
+ms.date: 02/03/2020
 ms.topic: article
 title: Use voice commands in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -24,21 +23,21 @@ For increased accuracy, most voice commands are contextual. In other words, they
 
 - You must give Dynamics 365 Guides permission to use your microphone during the first run of the app. Alternatively, go to **Settings** \> **Privacy** \> **Microphone**, and set the **Dynamics 365 Guides** option to **On**.
 
-    ![Microphone settings](media/microphone-permission.PNG "Microphone settings")
+    ![Microphone settings.](media/microphone-permission.PNG "Microphone settings")
 
 > [!NOTE]
-> Voice commands are supported for [all languages that Dynamics 365 Guides supports](https://docs.microsoft.com/dynamics365/mixed-reality/guides/faq#what-languages-is-dynamics-365-guides-available-in). The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
+> Voice commands are supported for [all languages that Dynamics 365 Guides supports](./faq.md#what-languages-is-dynamics-365-guides-available-in). The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
 
 ## Use voice commands
 
 This section shows Dynamics 365 Guides pages and the voice commands that you can use for them.
 
 > [!NOTE]
-> Regardless of where you are in the app, the [Select](https://docs.microsoft.com/hololens/hololens-cortana#general-speech-commands) voice command works like an air tap.
+> Regardless of where you are in the app, the [Select](/hololens/hololens-cortana#general-speech-commands) voice command works like an air tap.
 
 ### Sign-in page
 
-![Sign-in page](media/voice-sign-in.PNG "Sign-in page")
+![Sign-in page.](media/voice-sign-in.PNG "Sign-in page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -48,7 +47,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ### Select mode page
 
-![Select mode page](media/voice-select-mode.PNG "Select mode page")
+![Select mode page.](media/voice-select-mode.PNG "Select mode page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -57,7 +56,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ### Align holographic anchor page
 
-![Align holographic anchor page](media/voice-align-holographic.PNG "Align holographic anchor page")
+![Align holographic anchor page.](media/voice-align-holographic.PNG "Align holographic anchor page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -65,7 +64,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ### Scan anchor page (QR code and circular code)
 
-![Scan circular code anchor page](media/voice-scan-circular.PNG "Scan circular code anchor page")
+![Scan circular code anchor page.](media/voice-scan-circular.PNG "Scan circular code anchor page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -73,7 +72,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ### Anchor found page (QR code and circular code)
 
-![Circular code anchor found page](media/voice-found-circular.PNG "Circular code anchor found page")
+![Circular code anchor found page.](media/voice-found-circular.PNG "Circular code anchor found page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -82,37 +81,53 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ### Step card page
 
-![Step card page](media/voice-step-card.PNG "Step card page")
+![Step card page.](media/voice-step-card.PNG "Step card page")
 
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
-| 1 | ![Home button](media/home-button.PNG "Home button") | "Exit guide" | Exit the current guide. |
-| 2 | ![Follow mode button (turn on)](media/follow-mode-inactive-button.png "Follow mode button (turn on)") | "Follow me" | Turn on **Follow** mode, and bring the card to the center of the field of view. |
-| 3 | ![Follow mode button (turn off)](media/follow-button.PNG "Follow mode (turn off)") | "Place here" | Turn off **Follow** mode, and bring the card to the center of the field of view. |
-| 4 | ![Anchor button](media/anchor-button.PNG "Anchor button") | "Go to anchor" | Go to the anchor step to re-anchor the guide. |
-| 5 | ![Settings button](media/settings-button.PNG "Settings button") | "Go to settings" | Go to the **Settings** page. |
-| 6 | ![Profile button](media/profile-button.PNG "Profile button") | "Go to my profile" | Go to your profile page. |
-| 7 | ![Go back button](media/go-back-button.png "Go back button") | "Go back" | Go to the previous step. |
-| 8 | ![Outline button](media/outline-button.png "Outline button") | "Go to outline" | Go to the **Outline** view for the task or step. |
-| 9 | ![Next step button](media/next-step-button.png "Next step button") | "Next step" | Go to the next step. |
-| 10 | ![Hide holograms button](media/hide-holograms-button.png "Hide holograms button") | "Hide holograms" | Turn off visibility for 3D parts (if 3D parts have been placed and they are visible). |
-| 11 | ![Show holograms button](media/show-holograms-button.png "Show holograms button") | "Show holograms" | Turn on visibility for 3D parts (if 3D parts have been placed but they are hidden). |
-| 12 | ![Play button](media/play-button.png "Play button") | "Play video" | Start the video that is attached to the step (if the step has a video). |
-| 13 | ![Pause button](media/pause-button.png "Pause button") | "Pause video" | Pause the video. |
-| 14 | ![Restart guide button](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.</p> |
+| 1 | ![Home button.](media/home-button.PNG "Home button") | "Exit guide" | Exit the current guide. |
+| 2 | ![Follow mode button (turn on).](media/follow-mode-inactive-button.png "Follow mode button (turn on)") | "Follow me" | Turn on **Follow** mode, and bring the card to the center of the field of view. |
+| 3 | ![Follow mode button (turn off).](media/follow-button.PNG "Follow mode (turn off)") | "Place here" | Turn off **Follow** mode, and bring the card to the center of the field of view. |
+| 4 | ![Anchor button.](media/anchor-button.PNG "Anchor button") | "Go to anchor" | Go to the anchor step to re-anchor the guide. |
+| 5 | ![Settings button.](media/settings-button.PNG "Settings button") | "Go to settings" | Go to the **Settings** page. |
+| 6 | ![Profile button.](media/profile-button.PNG "Profile button") | "Go to my profile" | Go to your profile page. |
+| 7 | ![Go back button.](media/go-back-button.png "Go back button") | "Go back" | Go to the previous step. |
+| 8 | ![Outline button.](media/outline-button.png "Outline button") | "Go to outline" | Go to the **Outline** view for the task or step. |
+| 9 | ![Next step button.](media/next-step-button.png "Next step button") | "Next step" | Go to the next step. |
+| 10 | ![Hide holograms button.](media/hide-holograms-button.png "Hide holograms button") | "Hide holograms" | Turn off visibility for 3D parts (if 3D parts have been placed and they are visible). |
+| 11 | ![Show holograms button.](media/show-holograms-button.png "Show holograms button") | "Show holograms" | Turn on visibility for 3D parts (if 3D parts have been placed but they are hidden). |
+| 12 | ![Play button.](media/play-button.png "Play button") | "Play video" | Start the video that is attached to the step (if the step has a video). |
+| 13 | ![Pause button.](media/pause-button.png "Pause button") | "Pause video" | Pause the video. |
+| 14 | ![Restart guide button.](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.</p> |
+
+### Narration
+
+You can use the built-in HoloLens Text-to-Speech system to have HoloLens read instructions out loud.
+
+#### Use voice commands to turn narration on or off or to select a response in a question card
+
+Use the commands in the following table to turn narration on or off or to select a response in a question card.
+
+|Voice command |Action| 
+|----------------------------|-----------------------------------------------------------------|
+|Narration On |Start narration for the current and subsequent steps.<br><br>If narration is already turned on when you say this voice command, the narrator will repeat the instructions for the current step.| 
+|Narration Off| Turn off narration for the current and subsequent steps. |
+|Narrate Step| Narrate the current step.|
+|Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1". |
+|Response *Number* Text| Select the response in a question card indicated by the label position for that response. For example, if the label for the first response has been changed by the author to "Beginner" instead of "Response 1", say **Response 1 Text** to select that response.|
 
 ### Outline, guide list, and instance list
 
-![Task list page that shows scroll up and scroll down buttons](media/voice-lists.PNG "Task list page that shows scroll up and scroll down buttons")
+![Task list page that shows scroll up and scroll down buttons.](media/voice-lists.PNG "Task list page that shows scroll up and scroll down buttons")
 
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
-| 1 | ![Scroll up button](media/scroll-up-button.png "Scroll up button") | "Scroll up" | Scroll up the list. |
-| 2 | ![Scroll down button](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
+| 1 | ![Scroll up button.](media/scroll-up-button.png "Scroll up button") | "Scroll up" | Scroll up the list. |
+| 2 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
 
 ### Profile page
 
-![Profile page that shows the Sign out button](media/voice-profile.PNG "Profile page that shows the Sign out button")
+![Profile page that shows the Sign out button.](media/voice-profile.PNG "Profile page that shows the Sign out button")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -122,20 +137,23 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 | Button or element | Say this | To do this |
 |---|---|---|
-| ![Close button](media/close-button.png "Close button") | "Close window" | Close the active window. |
+| ![Close button.](media/close-button.png "Close button") | "Close window" | Close the active window. |
 
 ### Dialog boxes
 
 For dialog boxes, read the label of the button (for example, say "Yes" or "No").
 
-![Example of a dialog box that has Yes and No buttons](media/voice-dialog.PNG "Example of a dialog box that has Yes and No buttons")
+![Example of a dialog box that has Yes and No buttons.](media/voice-dialog.PNG "Example of a dialog box that has Yes and No buttons")
 
 ### Author mode commands
 
 | Button or element | Say this | To do this |
 |---|---|---|
-| ![Undo button](media/undo-button.png "Undo button") | "Undo changes" | Undo the last change. |
-| ![Redo button](media/redo-button.png "Redo button") | "Redo changes" | Redo the last change. |
-| ![Save button](media/save-button.png "Save button") | "Save guide" | Save your most recent changes. |
+| ![Undo button.](media/undo-button.png "Undo button") | "Undo changes" | Undo the last change. |
+| ![Redo button.](media/redo-button.png "Redo button") | "Redo changes" | Redo the last change. |
+| ![Save button.](media/save-button.png "Save button") | "Save guide" | Save your most recent changes. |
 |None|"Copy 3D position"|Copy the 3D position (position, orientation, and scale) of a hologram to use with another hologram.|
 |None|"Paste 3D position"|Paste the 3D position (position, orientation, and scale) of a hologram onto another hologram.|
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

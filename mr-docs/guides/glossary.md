@@ -1,9 +1,8 @@
 ---
 author: Mamaylya
-description: Glossary of terms for Dynamics 365 Guides
+description: Glossary of relevant terminology for Dynamics 365 Guides
 ms.author: Mamaylya
 ms.date: 02/25/2020
-ms.service: crm-online
 ms.topic: article
 title: Glossary of terms for Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -78,3 +77,6 @@ A piece of work to be done or undertaken. A task is made up of steps that the op
 [Overview of authoring a guide](authoring-overview.md)<br>
 [Overview of operating a guide](operator-overview.md)<br>
 [Analyze your guides](analytics-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

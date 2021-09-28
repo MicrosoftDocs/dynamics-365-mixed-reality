@@ -1,25 +1,42 @@
 ---
 title: "Dynamics 365 Remote Assist HoloLens version history | MicrosoftDocs"
 description: Version history for Dynamics 365 Remote Assist HoloLens
-ms.custom: 
-  - dyn365-mixed-reality-remote-assist
-ms.date: 10/05/2020
-ms.reviewer: krbjoran
+ms.date: 04/01/2021
 ms.service: crm-online
-applies_to: 
-  - "Dynamics 365 (online)"
-  - "Dynamics 365 Version 9.x"
 author: sophiasysun
 ms.author: sopsun
-manager: shellyha
-search.app: 
-  - MRRA
-  - MRRA
+ms.reviewer: v-bholmes
 ---
-
 # Dynamics 365 Remote Assist HoloLens version history
 
-## HoloLens 1 & 2 – 301.2012.9002
+## HoloLens 2 – 303.2103.29002
+
+Date: April 2021
+
+### Bug fix
+
+- Fixed date format for Calls dashboard. 
+
+## HoloLens 1 + 2 – 302.2102.2003
+
+Date: February 2021
+
+### Bug fixes
+
+- Fixed bugs related to file sharing with Teams users.
+- Fixed bugs related to voice commands.
+- Fixed bugs related to contact searching.
+- Improved error handling when selecting Dynamics 365 environment.
+
+## HoloLens 1 + 2 – 301.2101.6001
+
+Date: January 2021
+
+### Bug fixes
+
+- Important bug fixes and stability improvements.
+
+## HoloLens 1 + 2 – 301.2012.9002
 
 Date: December 2020
 
@@ -37,7 +54,7 @@ Date: December 2020
 - Fixed issue preventing the access to files shared from Teams in some cases.
 - Improved support of file sharing and text chat in Teams channel meetings.
 
-## HoloLens 1 & 2 – 300.2010.1002
+## HoloLens 1 + 2 – 300.2010.1002
 
 Date: October 2020
 
@@ -55,7 +72,7 @@ Date: October 2020
 - Camera tool was moved from the toolbar into text chat.
 
 
-## HoloLens 1 & 2 – 211.2009.7002.0
+## HoloLens 1 + 2 – 211.2009.7002.0
 
 Date: September 2020
 
@@ -65,7 +82,7 @@ Date: September 2020
 - Fixed issue with call recording in GCC High.
 - Improved app reliability and stability.
 
-## HoloLens 1 & 2 – 211.2007.30002
+## HoloLens 1 + 2 – 211.2007.30002
 
 Date: August 2020
 
@@ -77,7 +94,7 @@ Date: August 2020
 - Fix for the Dynamics 365 Remote Assist video card appearing too close after the call has ended. 
 - Improved application reliability. 
 
-## HoloLens 1 & 2 – 210.2007.1003.0
+## HoloLens 1 + 2 – 210.2007.1003.0
 
 Date: July 2020
 
@@ -112,7 +129,7 @@ Date: June 2020
 - Various fixes to enable users in Egypt to use Dynamics 365 Remote Assist
 - Incoming calls are now supported for GCC High and DOD
 
-## HoloLens 1 & 2 – 208.2004.1002.0
+## HoloLens 1 + 2 – 208.2004.1002.0
 
 Date: April 2020
 
@@ -121,7 +138,7 @@ Date: April 2020
 - Fixed various speech command bugs
 - Improvements to tool tips
 - Improvements to annotation stability
-- Fixed several application stability related bugs
+- Fixed several application stability-related bugs
 - Various bug fixes for joining Teams meetings
 - Fixes to keyboard interaction and usability
 - Various video quality fixes including support for SimulCast, bandwidth history, & network probing to improve overall video quality
@@ -131,3 +148,6 @@ Date: April 2020
 ## Locate your version number
 
 To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

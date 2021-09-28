@@ -1,13 +1,12 @@
 ---
-title: Device and licensing requirements for Dynamics 365 Product Visualize
-description: Technical requirements for deploying and using Dynamics 365 Product Visualize throughout your organization
 author: sbmjais
+description: Technical requirements for deploying and using Dynamics 365 Product Visualize throughout your organization
 ms.author: shjais
-manager: shujoshi
 ms.date: 07/29/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: Device and licensing requirements for Dynamics 365 Product Visualize
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Requirements for setting up Dynamics 365 Product Visualize
@@ -36,3 +35,6 @@ The following tables list technical requirements for deploying and using Dynamic
 [Product Visualize Hub user guide](hub-user-guide.md)<br>
 [Product Visualize iOS app user guide](user-guide.md)<br>
 [FAQ](faq.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

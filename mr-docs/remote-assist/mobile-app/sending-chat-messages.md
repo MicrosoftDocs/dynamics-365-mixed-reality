@@ -22,3 +22,6 @@ Technicians and experts can communicate through Dynamics 365 Remote Assist mobil
 
 
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -1,7 +1,7 @@
 ---
-title: Provide feedback in the Dynamics 365 Remote Assist mobile app
+title: Provide feedback for the Dynamics 365 Remote Assist mobile app
 author: xonatia
-description: How to provide feedback in the Dynamics 365 Remote Assist mobile app
+description: Learn how to provide in-app feedback for the Dynamics 365 Remote Assist mobile app
 ms.author: xolee
 ms.date: 4/01/2020
 ms.service: crm-online
@@ -30,3 +30,6 @@ Technicians can provide feedback or make requests directly in the Dynamics 365 R
 3. Provide your feedback.
 
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

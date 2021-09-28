@@ -1,12 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: Best practices for converting and optimizing real-time 3D models for use with Dynamics 365 mixed-reality applications
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 10/01/2019
-ms.service: crm-online
 ms.topic: article
 title: Best practices for converting and optimizing 3D models
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Best practices for converting and optimizing 3D models
@@ -20,7 +19,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - If the asset just needs to be present and does not need the details provided by a PBR system, a significant increase in performance can be gained by applying only a single color. This leaves out extra texture data and surface information, like multiple colors, reflections, and bumpiness.
 
    > [!div class="mx-imgBorder"]
-   > ![Single color](media/PBR.PNG "Single color") 
+   > ![Single color.](media/PBR.PNG "Single color") 
 
    **A.**	High performance single color 3D model with no PBR system<br>
    **B.**	3D model using the PBR system for higher-quality representation
@@ -30,7 +29,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - Decrease the roughness map to increase the performance of the model.
 
    > [!div class="mx-imgBorder"]
-   > ![Decrease roughness map](media/roughness-map.PNG "Decrease roughness map") 
+   > ![Decrease roughness map.](media/roughness-map.PNG "Decrease roughness map") 
 
    **A.**	Model with roughness map texture of 2048 x 2048<br>
    **B.**	Model with roughness map texture of 1024 x 1024
@@ -46,7 +45,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - Be sure to remove any data that’s not required to represent your 3D models. Extra nodes, meshes, materials, and textures can add up quickly. For example, in the following 3D model, removing any hidden motor parts lowers the triangle count and simplifies the hierarchy, resulting in a more performant 3D model.
 
    > [!div class="mx-imgBorder"]
-   > ![Remove hidden data](media/remove-hidden-data.PNG "Remove hidden data") 
+   > ![Remove hidden data.](media/remove-hidden-data.PNG "Remove hidden data") 
 
    *Wireframe and shaded model visualized in [Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware).*
 
@@ -59,7 +58,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - Fine geometric surface details and material colors can often be replaced by baking them into normal, color, and ORM (occlusion, roughness, and metallic) maps for large triangle savings.
 
    > [!div class="mx-imgBorder"]
-   > ![Reduce triangles](media/reduce-triangles.PNG "Reduce triangles") 
+   > ![Reduce triangles.](media/reduce-triangles.PNG "Reduce triangles") 
 
    **A.**	Native CAD 3D model<br>
    **B.**	Reduced triangle count polygonal model with normal map<br>
@@ -70,7 +69,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - *Draw calls* refers to the number of graphical instructions per frame, which is the number of materials on screen. Reducing or consolidating materials on an object helps reduce draw calls.
 
    > [!div class="mx-imgBorder"]
-   > ![Reduce draw calls](media/reduce-draw-calls.PNG "Reduce draw calls") 
+   > ![Reduce draw calls.](media/reduce-draw-calls.PNG "Reduce draw calls") 
 
    *Consolidating multiple textures into a single texture reduces draw calls from 22 to 1 in this example.*
 
@@ -85,7 +84,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - Simplify your hierarchy, remove unnecessary nodes, and combine meshes where possible.
 
    > [!div class="mx-imgBorder"]
-   > ![Reduce hierarchy complexity](media/reduce-hierarchy.PNG "Reduce hierarchy complexity") 
+   > ![Reduce hierarchy complexity.](media/reduce-hierarchy.PNG "Reduce hierarchy complexity") 
 
    *Meshes combined to reduce draw calls. Visualized in [Autodesk 3DS Max](https://aka.ms/3dsMax).*
 
@@ -99,7 +98,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - Flickering can occur when geometry faces are coplanar or nearly coplanar and is especially prevalent when the model is animated or moving from position to position in applications. This means the geometric faces are perfectly overlapping, causing what’s known as [Z-fighting](https://aka.ms/Zfighting).
 
    > [!div class="mx-imgBorder"]
-   > ![Increase distance between geometry faces](media/geometry-faces.PNG "Increase distance between geometry faces") 
+   > ![Increase distance between geometry faces.](media/geometry-faces.PNG "Increase distance between geometry faces") 
  
    *Two shapes are nearly overlapping, causing the Z-fighting effect.*
 
@@ -112,7 +111,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - Flip the normals of the incorrectly shaded faces to resolve the rendering issues.
 
    > [!div class="mx-imgBorder"]
-   > ![Flip inverted face normals](media/inverted-face-normals.PNG "Flip inverted face normals") 
+   > ![Flip inverted face normals.](media/inverted-face-normals.PNG "Flip inverted face normals") 
 	 
    *Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8).*
 
@@ -124,7 +123,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - A conflicting tangent basis can cause your normal maps to appear inverted.
 
    > [!div class="mx-imgBorder"]
-   > ![Conflicting tangent basis](media/conflicting-tangent-basis.PNG "Conflicting tangent basis") 
+   > ![Conflicting tangent basis.](media/conflicting-tangent-basis.PNG "Conflicting tangent basis") 
 
    *Tangent basis visualized in [Autodesk Maya](https://aka.ms/autodeskMaya).*
 
@@ -142,3 +141,6 @@ This topic covers best practices for converting and optimizing 3D models to work
 [Optimize 3D models](optimize-models.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

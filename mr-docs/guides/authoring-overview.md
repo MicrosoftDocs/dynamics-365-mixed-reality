@@ -3,10 +3,10 @@ author: Mamaylya
 description: Overview of authoring in Dynamics 365 Guides, including PC authoring and HoloLens authoring
 ms.author: mamaylya
 ms.date: 02/25/2020
-ms.service: crm-online
 ms.topic: article
-title: Overview of authoring in Dynamics 365 Guides
+title: Authoring overview--Dynamics 365 Guides PC and Hololens apps
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of authoring a guide in Dynamics 365 Guides
@@ -27,7 +27,7 @@ Supporting assets include:
 
 - **[!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode.** After creating the guide with the PC app, use the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
 
-    ![Authoring overview](media/authoring-overview.PNG "Authoring overview")
+    ![Authoring overview.](media/authoring-overview.PNG "Authoring overview")
     
 > [!TIP]
 > You can use both apps to edit the same guide simultaneously for the fastest workflow. Create the structure and text in the PC app, do the 3D placement in the HoloLens app, and then work back and forth until you have your guide just the way you want it.  
@@ -40,3 +40,6 @@ Ready to jump in? Choose one or more of these links to get underway:
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the HoloLens app](hololens-app-overview.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Gestures for authoring and navigating](authoring-gestures.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [How to make a great guide](great-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

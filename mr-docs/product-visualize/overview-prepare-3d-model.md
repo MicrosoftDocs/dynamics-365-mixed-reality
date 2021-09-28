@@ -1,12 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: Overview of converting and optimizing 3D models to use with mixed-reality applications.
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 08/13/2020
-ms.service: crm-online
 ms.topic: overview
 title: Overview of preparing 3D models for Dynamics 365 mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Overview of preparing 3D models for Dynamics 365 mixed-reality applications
@@ -25,7 +24,7 @@ Modeling tools in most CAD applications use sets of adjustable mathematical para
 
 The following illustration shows a model visualized in Autodesk Inventor and [!include[cc-microsoft](../includes/cc-microsoft.md)] 3D Viewer.
 > [!div class="mx-imgBorder"]
-> ![Parametric versus polygonal geometry](media/compare-geometry.PNG "Parametric versus polygonal geometry")
+> ![Parametric versus polygonal geometry.](media/compare-geometry.PNG "Parametric versus polygonal geometry")
 
 **A.**	Parametric 3D model ready for simulation and manufacturing<br>
 **B.**	Polygonal surface 3D model ready for real-time rendering
@@ -41,7 +40,7 @@ Preparing CAD content for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixe
 The following illustration shows a more detailed view of this process.
 
 > [!div class="mx-imgBorder"]
-> ![Overall flow](media/overall-flow.PNG "Overall flow") 
+> ![Overall flow.](media/overall-flow.PNG "Overall flow") 
 
 **A.**	Create 3D models using the CAD software of your choice.<br>
 **B.**	Convert CAD files to one of these file formats: glTF, FBX, OBJ, STL, PLY.<br>
@@ -53,3 +52,6 @@ The following illustration shows a more detailed view of this process.
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

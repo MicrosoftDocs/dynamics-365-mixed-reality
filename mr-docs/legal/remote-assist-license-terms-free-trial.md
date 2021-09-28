@@ -49,7 +49,7 @@ HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 >   below also apply to the extent allowed by applicable law.
 
 >   **d)** Utilities. The software may contain some items on the Utilities List
->   at <http://go.microsoft.com/fwlink/?LinkId=524839>. You may copy and install
+>   at <https://go.microsoft.com/fwlink/?LinkId=524839>. You may copy and install
 >   those items, if included with the software, on your machines or third party
 >   machines to debug and deploy the applications and databases you develop with
 >   the software. Please note that Utilities are designed for temporary use,
@@ -132,12 +132,12 @@ ABOVE STANDARDS (“VIDEO STANDARDS”) OR (ii) DECODE AVC, VC-1, AND MPEG-4 PAR
 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL
 ACTIVITY OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO.
 NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL
-INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE <http://aka.ms/mpegla>.
+INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE <https://aka.ms/mpegla>.
 
 **8. EXPORT RESTRICTIONS.** You must comply with all domestic and international
 export laws and regulations that apply to the software, which include
 restrictions on destinations, end users, and end use. For further information on
-export restrictions, visit <http://aka.ms/exporting>.
+export restrictions, visit <https://aka.ms/exporting>.
 
 **9. SUPPORT SERVICES.** Microsoft is not obligated under this agreement to
 provide any support services for the software. Any support provided is “as is”,
@@ -271,3 +271,5 @@ ci-dessus ne s’appliquera pas à votre égard.**
 pourriez avoir d’autres droits prévus par les lois de votre pays. Le présent
 contrat ne modifie pas les droits que vous confèrent les lois de votre pays si
 celles-ci ne le permettent pas.**
+
+

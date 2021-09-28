@@ -1,6 +1,6 @@
 ---
 author: jomorr
-description: Launch Dynamics 365 Remote Assist from another app (protocol activation)
+description: Embed code in HoloLens, iOS, or Android app to launch Dynamics 365 Remote Assist (protocol activation)
 ms.author: jomorr
 ms.date: 10/01/2019
 ms.service: crm-online
@@ -66,13 +66,13 @@ To place an audio-only call instead of video, use URI: “ms-voip-call:?contacti
 
 An additional ```returnto``` field can be included to have Dynamics 365 Remote Assist return to your application when a call ends. This enables users to both start and end their experience in your app without having to manually switch between them.
 
-To support the ```returnto``` field, you need to register your app with a custom URI (see [Register an app with a custom URI](<https://docs.microsoft.com/windows/uwp/launch-resume/handle-uri-activation#step-1-specify-the-extension-point-in-the-package-manifest>)).
+To support the ```returnto``` field, you need to register your app with a custom URI (see [Register an app with a custom URI](/windows/uwp/launch-resume/handle-uri-activation#step-1-specify-the-extension-point-in-the-package-manifest>)).
 
 Then include the optional ```returnto``` field along with the registered app name you completed in the previous step. In the example below, "helicoptor-maintenance-app" is the registered URI:
 
-`
+```
 ms-voip-call:?contactids=<CONTACT_ID>&returnto=helicoptor-maintenance-app");
-`
+```
 
 #### Example of launching Dynamics 365 Remote Assist from your app with optional returnto field
 
@@ -111,7 +111,7 @@ launchUriOperation.then([this](bool success)   
 4.  After the contacts panel is loaded, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] will place a call to the
     specified contact.
     
-For more information on launching an app with a URI, see [Launch an app with a URI](https://docs.microsoft.com/windows/uwp/launch-resume/launch-app-with-uri).
+For more information on launching an app with a URI, see [Launch an app with a URI](/windows/uwp/launch-resume/launch-app-with-uri).
 
 ## iOS and Android protocol activation
 
@@ -121,14 +121,15 @@ The Dynamics 365 Remote Assist mobile application supports the two protocol acti
 -   "https://call.d365ra.com/link.html" is used if Remote Assist mobile is not confirmed to be installed on the device already.
 
 The argument schema for both methods accepts an optional ```contactSearch``` field, which is a JSON-formatted array of strings to use for finding a contact.
-
+```
     { "contactSearch":[ "supportContact@microsoft.com"] }
-
+```
 ### Example
 
 For this example, we will perform a contact search. We need to include the ```contactSearch``` parameter, which is an array of search strings.
 
 1. First we form a JSON string:
+
 ```
 	{
       "contactSearch":[
@@ -145,9 +146,12 @@ For this example, we will perform a contact search. We need to include the ```co
 
 When this link is selected, Remote Assist mobile will launch and search for the provided contact details and provide results to the user.
    
-3b. To use the https deeplink method, append the base64 encoded string as a value to the 'd' key.
+3b. To use the https deep link method, append the base64 encoded string as a value to the 'd' key.
    ```"https://call.d365ra.com/link.html?d=ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=";```
 
 When this link is selected and Remote Assist mobile is not installed a web browser will open, prompting the user to install Remote Assist mobile. Once installed, the user can click on another button to launch Remote Assist mobile and search for the provided contact details and provide results to the user. If Remote Assist mobile is already installed, Remote Assist mobile will launch and search for the provided contact details and provide results to the user.
 
     
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

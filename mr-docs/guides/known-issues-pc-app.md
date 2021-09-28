@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
 ms.date: 04/01/2020
-ms.service: crm-online
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
@@ -65,3 +64,6 @@ Some glTF files might have dependencies in other folders. During upload, if the 
 [Known issues with the HoloLens app](known-issues-hololens-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

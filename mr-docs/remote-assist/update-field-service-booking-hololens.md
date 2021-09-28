@@ -1,11 +1,12 @@
 ---
 title: Update a Dynamics 365 Field Service booking in Dynamics 365 Remote Assist on HoloLens
 author: sophiasysun
-description: Update a Dynamics 365 Field Service booking in Dynamics 365 Remote Assist on HoloLens
+description: View and update Dynamics 365 Field Service booking details from Dynamics 365 Remote Assist on HoloLens.
 ms.date: 03/15/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
+ms.author: soanigbo
 ---
 # Update a Dynamics 365 Field Service booking in Dynamics 365 Remote Assist on HoloLens
 
@@ -25,7 +26,7 @@ If your organization uses Dynamics 365 Field Service to manage field service wor
       
     The **Booking** pane will remain available on the right side of the window until you close it.
     
-    ![Screenshot of the active bookings panel that appears on HoloLens](media/07.01-dynamics-booking.png "ViewBookings")
+    ![Screenshot of the active bookings panel that appears on HoloLens.](media/07.01-dynamics-booking.png "ViewBookings")
     
     > [!Note]
     > Only bookings with the **In Progress** status are listed. When a booking is open, any Dynamics 365 Remote Assist call you make will be associated with that booking, even if you do not collaborate with the resource listed.
@@ -45,7 +46,7 @@ Booking information is blurred out when you’re in a video call, but remains vi
 
 You may update your booking status.
 
-![MarkComplete](media/RAHL_MarkComplete.PNG "MarkComplete")
+![MarkComplete.](media/RAHL_MarkComplete.PNG "MarkComplete")
 
 ## Open a Power BI dashboard from a Dynamics 365 Field Service booking
 
@@ -59,5 +60,8 @@ You may update your booking status.
 ## Modify the default booking view
 
 To modify the default view of information in the **Booking** pane, [edit the view as
-you would any Dynamics 365 view](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-and-edit-views).
+you would any Dynamics 365 view](/dynamics365/customer-engagement/customize/create-and-edit-views).
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

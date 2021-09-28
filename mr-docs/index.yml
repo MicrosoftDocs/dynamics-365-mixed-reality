@@ -20,36 +20,35 @@ additionalContent:
     - title: Dynamics 365 Guides
       # imageSrc: /dynamics365/images/Guides_color.svg
       links:
-        - url: /dynamics365/mixed-reality/guides/index
+        - url: ./guides/index.md
           text: Documentation
        
     # Card
     - title: Dynamics 365 Import Tool (in preview)
       # imageSrc: /dynamics365/images/ImportTool.svg
       links:
-        - url: /dynamics365/mixed-reality/import-tool/index
+        - url: ./import-tool/index.md
           text: Documentation
       
     # Card
     - title: Dynamics 365 Layout
       # imageSrc: /dynamics365/images/Layout_color.svg
       links:
-        - url: /dynamics365/mixed-reality/layout/index
+        - url: ./layout/index.md
           text: Documentation
      
     # Card
     - title: Dynamics 365 Product Visualize (in preview)
       # imageSrc: /dynamics365/images/ProductVisualize_color.svg
       links:
-        - url: /dynamics365/mixed-reality/product-visualize/index
+        - url: ./product-visualize/index.md
           text: Documentation
       
     # Card
     - title: Dynamics 365 Remote Assist
       # imageSrc: /dynamics365/images/Remote_Assist__color.svg
       links:
-        - url: /dynamics365/mixed-reality/remote-assist/index
+        - url: /dynamics365/mixed-reality/remote-assist/ra-overview
           text: Documentation
-        - url: https://docs.microsoft.com/learn/browse/?products=dynamics-remote-assist
+        - url: /learn/browse/?products=dynamics-remote-assist
           text: Learn Dynamics 365 Remote Assist
-      

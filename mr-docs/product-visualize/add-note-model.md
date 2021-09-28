@@ -1,13 +1,12 @@
 ---
-title: Add and manage notes attached to a model in Dynamics 365 Product Visualize Hub
-description: Instructions for adding and managing notes attached to a model in Dynamics 365 Product Visualize Hub.
 author: sbmjais
+description: Instructions for adding and managing notes attached to a model in Dynamics 365 Product Visualize Hub.
 ms.author: shjais
-manager: shujoshi
 ms.date: 09/14/2020
-ms.service: dynamics-365-sales
 ms.topic: article
-ms-reviewer:
+title: Add and manage notes attached to a model in Dynamics 365 Product Visualize Hub
+manager: shujoshi
+ms-reviewer: 
 ---
 
 # Add a note to a model
@@ -24,7 +23,7 @@ ms-reviewer:
 
 5.  Under **Product details**, select **Add note**.
 
-    ![Add note button](media/add-note-button.png "Add note button")
+    ![Add note button.](media/add-note-button.png "Add note button")
 
 6.  To attach a PDF, an image, or a short video, select **Attach file**, and then select the file by using your file browser. 
 
@@ -40,11 +39,11 @@ ms-reviewer:
 
 9.  To add a text message, enter the message in the text field.
 
-    ![Note added](media/note-added.png "Note added")
+    ![Note added.](media/note-added.png "Note added")
 
 10. Select **Submit**. The added note is displayed under **Product details**.
 
-    ![Note submitted](media/note-submitted.png "Note submitted")
+    ![Note submitted.](media/note-submitted.png "Note submitted")
 
 ## Manage notes
 
@@ -58,9 +57,9 @@ After you've added notes to your model, you can edit or delete them.
 
 4.  Under **3D viewer**, select the model that has the note you want to edit or delete.
 
-    - To edit a note, select **Edit note** ![Edit note](media/edit-icon.png "Edit note") beside the corresponding note.
+    - To edit a note, select **Edit note** ![Edit note.](media/edit-icon.png "Edit note") beside the corresponding note.
 
-    - To delete a note, select **Delete note** ![Delete note](media/delete-icon.png "Delete note") beside the corresponding note.
+    - To delete a note, select **Delete note** ![Delete note.](media/delete-icon.png "Delete note") beside the corresponding note.
 
 ### See also
 
@@ -70,3 +69,6 @@ After you've added notes to your model, you can edit or delete them.
 [Create a mixed-reality session](create-mr-session.md)<br>
 [Add a product to a mixed-reality session](add-product-mr-session.md)<br>
 [Set up Microsoft Teams](setup-ms-teams.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -3,7 +3,6 @@ author: keno-msft
 description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
 ms.author: keno
 ms.date: 06/24/2019
-ms.service: crm-online
 ms.topic: article
 title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
 ms.reviewer: v-brycho
@@ -31,7 +30,7 @@ To work with a [!include[pn-visio](../includes/pn-visio.md)] floor plan in [!inc
 2.	Select **Settings**, and then select the 32-bit or the 64-bit download. Choose the one that matches your version of [!include[pn-visio](../includes/pn-visio.md)].
 
     > [!div class="mx-imgBorder"]
-    > ![Visio add-in](media/visio-add-in.PNG "Visio add-in") 
+    > ![Visio add-in.](media/visio-add-in.PNG "Visio add-in") 
 
 3.	Open [!include[pn-visio](../includes/pn-visio.md)], and then select **File** > **Options** > **Add-ins**.
 
@@ -60,7 +59,7 @@ After you’ve created the floor plan in [!include[pn-visio](../includes/pn-visi
     c.	Select the check box on the layouts you want to copy, and then select **Send**.
     
        > [!div class="mx-imgBorder"]
-       > ![Copy layouts](media/copy-layouts.PNG "Copy layouts") 
+       > ![Copy layouts.](media/copy-layouts.PNG "Copy layouts") 
     
     d.	On [!include[pn-hololens](../includes/pn-hololens.md)], open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your floor plan on the **Layouts** tab.
     
@@ -103,7 +102,11 @@ If you used [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
+[Overview of self-serve tutorials](tutorials-overview.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
     
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

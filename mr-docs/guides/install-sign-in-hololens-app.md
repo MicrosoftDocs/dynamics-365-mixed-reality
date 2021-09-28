@@ -3,9 +3,8 @@ author: Mamaylya
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides HoloLens app and calibrate your HoloLens.
 ms.author: mamaylya
 ms.date: 11/03/2020
-ms.service: crm-online
 ms.topic: article
-title: Install and sign in to the Dynamics 365 Guides HoloLens app
+title: Install and sign in to the Dynamics 365 Guides HoloLens app (authors)
 ms.reviewer: v-brycho
 ---
 
@@ -18,7 +17,7 @@ If you haven't already installed the [!include[cc-microsoft](../includes/cc-micr
 
 ## Install the app
 
-1. Make sure that you have [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend that you update to newer versions when they are available. For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates).
+1. Make sure that you have [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend that you update to newer versions when they are available. For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](/HoloLens/hololens-updates).
 
 2. On your [!include[pn-hololens](../includes/pn-hololens.md)], use the [bloom gesture](authoring-gestures.md) to open the **Home** menu. Then open [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, and search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]".
 
@@ -37,15 +36,15 @@ After you've made sure that your [HoloLens is correctly calibrated](hololens-app
 
 1. Select **All Apps**.
 
-    ![All Apps button](media/hololens-apps.PNG "All Apps button")
+    ![All Apps button.](media/hololens-apps.PNG "All Apps button")
 
 2. Select the down arrow button.
 
-    ![Down arrow button](media/hololens-down-arrow.PNG "Down arrow button")
+    ![Down arrow button.](media/hololens-down-arrow.PNG "Down arrow button")
 
 3. Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
-    ![Dynamics 365 Guides button](media/open-guides-application.PNG "Dynamics 365 Guides button")
+    ![Dynamics 365 Guides button.](media/open-guides-application.PNG "Dynamics 365 Guides button")
 
 4. On the **Welcome** page, select **Sign in**.
 
@@ -53,19 +52,23 @@ After you've made sure that your [HoloLens is correctly calibrated](hololens-app
 
 6. On the **Work or school account** page, enter the credentials that you created during sign-up for the trial, or the credentials that the admin who installed the app provided to you.
 
-    ![Work or school account page](media/sign-in-hololens.PNG "Work or school account page")
+    ![Work or school account page.](media/sign-in-hololens.PNG "Work or school account page")
 
 7. Select an instance to use, if you have more than one instance. Then select **Continue**.
 
 8. On the **Select Guide** page, gaze at the guide that you want to open until the circle is filled. When the circle is filled, the guide is selected.
 
-    ![Select Guide page](media/select-guide.png "Select Guide page")
+    ![Select Guide page.](media/select-guide.png "Select Guide page")
 
 9. In the **Select Mode** dialog box, gaze at the circle to the left of **Author** to select it.
 
-    ![Select Mode dialog box](media/select-mode.png "Select Mode dialog box")
+    ![Select Mode dialog box.](media/select-mode.png "Select Mode dialog box")
 
 ## What's next?
 
+[Find a guide](find-guide.md)<br>
 [Anchor your guide](hololens-app-anchor.md)<br>
 [Place holograms, add styles, and more](hololens-app-orientation.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

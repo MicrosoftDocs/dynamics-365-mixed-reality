@@ -1,13 +1,12 @@
 ---
-title: Open and sign in to Dynamics 365 Product Visualize.
-description: Sign in to Dynamics 365 Product Visualize and connect to your Dynamics 365 instance
 author: sbmjais
+description: Sign in to Dynamics 365 Product Visualize and connect to your Dynamics 365 instance
 ms.author: shjais
-manager: shujoshi
 ms.date: 06/12/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: Open and sign in to Dynamics 365 Product Visualize.
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Install, open, and sign in to Dynamics 365 Product Visualize
@@ -36,7 +35,7 @@ To get the full benefits of Dynamics 365 Product Visualize, you'll need a Dynami
 
 2.	On the welcome screen, tap **Sign in**.
 
-    ![Welcome screen](media/welcome.PNG "Welcome screen")
+    ![Welcome screen.](media/welcome.PNG "Welcome screen")
  
 3.	On the **Sign in** screen, enter your Dynamics 365 account credentials. When you're done, tap **Next**.  
  
@@ -45,11 +44,11 @@ To get the full benefits of Dynamics 365 Product Visualize, you'll need a Dynami
 
 4.	When you first sign in, you're prompted to select your Dynamics 365 organization. You can use **Settings** to change organizations later, if you want.  
 
-    ![My organizations screen](media/my-organizations.PNG "My organizations screen") 
+    ![My organizations screen.](media/my-organizations.PNG "My organizations screen") 
  
 5.	On the **My Active Mixed Reality Sessions** screen, tap the mixed-reality session you want to work on.  
 
-    ![My Active Mixed Reality Sessions](media/my-open-opportunities.PNG "My Active Mixed Reality Sessions")
+    ![My Active Mixed Reality Sessions.](media/my-open-opportunities.PNG "My Active Mixed Reality Sessions")
  
 Dynamics 365 Product Visualize pulls in your mixed reality sessions from Dynamics 365 by default.
 
@@ -57,15 +56,15 @@ Dynamics 365 Product Visualize pulls in your mixed reality sessions from Dynamic
 
 If you have access to more than one Dynamics 365 organization, you can use this procedure to switch between organizations.
 
-1.	Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Settings**.
+1.	Tap **Main** ![Main menu.](media/hamburger-icon.png "Main menu"), and then tap **Settings**.
 
     > [!div class=mx-imgBorder]
-    > ![Account settings menu item](media/edit-account-settings.png "Account settings menu item")
+    > ![Account settings menu item.](media/edit-account-settings.png "Account settings menu item")
   
 2.	On the **Settings** screen, tap **Edit** next to the organization name you're signed in to.
 
     > [!div class=mx-imgBorder]
-    > ![Edit account settings](media/account-settings.png "Edit account settings")
+    > ![Edit account settings.](media/account-settings.png "Edit account settings")
  
     > [!NOTE]
     > If you need to switch to a different username, tap **Sign out** on the previous screen, and then sign back in with a different username.
@@ -79,3 +78,6 @@ If you have access to more than one Dynamics 365 organization, you can use this 
 [View 3D models stored on your device](browse-models.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

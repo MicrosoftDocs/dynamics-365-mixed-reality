@@ -1,13 +1,12 @@
 ---
-title: Enable preview features in Dynamics 365 Product Visualize
-description: Learn how to enable preview features in Dynamics 365 Product Visualize.
 author: sbmjais
+description: Learn how to enable preview features in Dynamics 365 Product Visualize.
 ms.author: shjais
-manager: shujoshi
 ms.date: 07/29/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: Enable preview features in Dynamics 365 Product Visualize
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Enable preview features
@@ -28,15 +27,15 @@ Following are the preview features available in Product Visualize:
 
 **To enable preview features**
 
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
+1. Tap **Main** ![Main menu.](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
 
     > [!div class=mx-imgBorder]
-    > ![Preview features](media/preview-features.png "Preview features")
+    > ![Preview features.](media/preview-features.png "Preview features")
 
 2. In the **Feature Settings** screen, turn on the preview feature toggle.
 
     > [!div class=mx-imgBorder]
-    > ![Feature settings screen](media/feature-settings-screen.png "Feature settings screen")
+    > ![Feature settings screen.](media/feature-settings-screen.png "Feature settings screen")
 
 ### See also
 
@@ -44,3 +43,6 @@ Following are the preview features available in Product Visualize:
 [Attach a video to the note](add-note.md#view-the-notes-added-to-a-model)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

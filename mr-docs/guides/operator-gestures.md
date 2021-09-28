@@ -3,9 +3,8 @@ author: Mamaylya
 description: Learn about gestures that you can use to navigate a guide as an operator in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
 ms.date: 12/08/2020
-ms.service: crm-online
 ms.topic: article
-title: Gestures you can use to navigate a guide as an operator in Dynamics 365 Guides
+title: HoloLens 1 operator gestures for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
@@ -20,7 +19,7 @@ To move through a guide as an operator in [!include[cc-microsoft](../includes/cc
 
 Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is as easy as it sounds. In some cases, you can select an item (for example, an app, menu, or button) just by gazing at a selection box next to it. For example, when you first start the [!include[pn-hololens](../includes/pn-hololens.md)] app, you will gaze at the box to the left of **Operate** in the **Select Mode** dialog box to select **Operate** mode. The selection is completed when the box is filled up by your gaze.
 
-![Example of using gaze](media/gaze-example.PNG "Example of using gaze")
+![Example of using gaze.](media/gaze-example.PNG "Example of using gaze")
 
 Gaze is very useful if your hands are busy with tools or parts.
 
@@ -42,7 +41,7 @@ To do the bloom gesture, follow these steps.
 
 2. Open your hand.
 
-![Bloom gesture](media/bloom-gesture.PNG "Bloom gesture")
+![Bloom gesture.](media/bloom-gesture.PNG "Bloom gesture")
 
 ### Air tap
 
@@ -54,7 +53,7 @@ You can use air tap, together with gaze, to select apps, other holograms, and ga
 
 3. Tap your finger down, and then quickly raise it back up again.
 
-![Air tap gesture](media/air-tap-gesture.PNG "Air tap gesture")
+![Air tap gesture.](media/air-tap-gesture.PNG "Air tap gesture")
 
 ### The gesture frame
 
@@ -69,3 +68,6 @@ For a tutorial on some basic gestures, use the bloom gesture to go to **Start**,
 [Calibrate your HoloLens](operator-calibrate.md)<br>
 [Anchor your guide](operator-anchor.md)<br>
 [Operate a guide](operator-step-card-orientation.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

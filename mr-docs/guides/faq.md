@@ -1,12 +1,11 @@
 ---
 author: Mamaylya
-description: FAQ about Dynamics 365 Guides
+description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 12/01/2020
-ms.service: crm-online
+ms.date: 07/23/2021
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
@@ -22,6 +21,10 @@ If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 2. Under **Customer Engagement help + support**, select **GET SUPPORT**.
 
 3. Find a phone number or submit a support request through the admin center. 
+
+## Does Dynamics 365 Guides support HoloLens (1st gen)?
+
+HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
 
 ## Why are there two apps?
 
@@ -59,11 +62,15 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
 
+## How do I stream my HoloLens view to a PC using Miracast?
+
+The Connect app for wireless projection using Miracast is no longer installed by default, but is available as an optional feature. To install the app, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app. 
+
 ## The solution installation or update fails repeatedly
 
-To update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role AND you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
+To update the solution, you must have the [System Administrator](/power-platform/admin/database-security) role AND you must have a [Power Apps license](/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
 
-![Dynamics 365 Guides license selected](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
+![Dynamics 365 Guides license selected.](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
 
 When you have a Power Apps license, the Access Mode security property is set to Read-Write, which is required for updating the solution. 
 
@@ -77,7 +84,7 @@ When you create a guide by using the PC app, a JSON data file is automatically c
 
 ## How do I limit users to a particular Dynamics 365 instance?
 
-You can limit user access to instances by using security groups that are managed in the Microsoft 365 admin center. For more information, see [Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md) and [Control user access to instances: security groups and licenses](https://docs.microsoft.com/dynamics365/admin/add-instance-subscription#control-user-access-to-instances-security-groups-and-licenses).
+You can limit user access to instances by using security groups that are managed in the Microsoft 365 admin center. For more information, see [Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md) and [Control user access to instances: security groups and licenses](/dynamics365/admin/add-instance-subscription#control-user-access-to-instances-security-groups-and-licenses).
 
 ## I get an error message when I try to sign in to the PC app or [!include[pn-hololens](../includes/pn-hololens.md)] app
 
@@ -89,7 +96,7 @@ The data is stored in Microsoft Dataverse in the tenant that you have admin priv
 
 ## What file formats are supported?
 
-For a list of formats that are supported for 3D content, images, and videos, see [Supported file formats](create-steps-assign-media.md#what-file-formats-are-supported-for-3d-models-images-and-videos).
+For a list of formats that are supported for 3D content, images, and videos, see [Supported file formats](pc-app-supported-file-formats.md).
 
 ## Will I lose any data if I close an app inadvertently?
 
@@ -162,6 +169,13 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 
 - If the file exists in the library but the preview doesn't load, there's a problem with the file information in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
 
+## I am connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
+
+[Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
+
 ## See also
 
 [Known Issues in Dynamics 365 Guides](known-issues.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to create and place a trigger in the Dynamics 365 Guides HoloLens app to automatically advance the operator to the next step based on detection of their hands in HoloLens 2.
 ms.author: mamaylya
 ms.date: 10/01/2020
-ms.service: crm-online
 ms.topic: article
 title: Create and place a trigger for step navigation in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
@@ -22,11 +21,11 @@ After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-
 
 2. In the **Asset gallery**, select the **Triggers** category.
 
-    ![Trigger category in the Asset gallery](media/trigger-category-hololens-app.PNG "Trigger category in the Asset gallery")
+    ![Trigger category in the Asset gallery.](media/trigger-category-hololens-app.PNG "Trigger category in the Asset gallery")
 
 3. Select the type of trigger (**Back**, **Invisible**, or **Next**) you want to create. For information on types of triggers, see [Create a trigger with the PC app](pc-app-trigger.md).
 
-    ![Three types of triggers in Asset gallery](media/triggers-asset-gallery.PNG "Three types of triggers in Asset gallery")
+    ![Three types of triggers in Asset gallery.](media/triggers-asset-gallery.PNG "Three types of triggers in Asset gallery")
  
 3. The item is added to the bin and is ready to place in the real world.
 
@@ -38,7 +37,7 @@ You can [place and size a trigger](hololens-app-orientation.md#place-your-hologr
 
    - Avoid placing triggers in drawers or under counters. If you can't see your hand, HoloLens 2 can't see it either. 
 
-   - Avoid placing triggers on a flat surface, such as a table top. It's best to allow at least 5 cm between any flat surface and the trigger. [Learn more](https://docs.microsoft.com/hololens/hololens-troubleshooting#hololens-doesnt-respond-to-hand-input).
+   - Avoid placing triggers on a flat surface, such as a table top. It's best to allow at least 5 cm between any flat surface and the trigger. [Learn more](/hololens/hololens-troubleshooting#hololens-doesnt-respond-to-hand-input).
 
 - **Size.** It’s important to make the trigger cube the right size. If you make the trigger too big, the operator might activate the trigger unexpectedly at the wrong time. If you make the trigger too small, the operator might miss it completely. The trigger needs to be big enough to place hands inside. 
 
@@ -57,11 +56,11 @@ You can edit a trigger the same way you edit any other hologram in the HoloLens 
 
 2. Select the **Edit Hologram** (pencil) button.
 
-    ![Edit Hologram button](media/edit-hologram.png "Edit Hologram button")
+    ![Edit Hologram button.](media/edit-hologram.png "Edit Hologram button")
  
 3. Select **Duplicate** or **Delete**.
 
-    ![Edit Trigger dialog box](media/trigger-edit.PNG "Edit Trigger dialog box")
+    ![Edit Trigger dialog box.](media/trigger-edit.PNG "Edit Trigger dialog box")
  
     > [!NOTE]
     > You can’t use styles or animations with visible or invisible triggers.
@@ -70,3 +69,6 @@ You can edit a trigger the same way you edit any other hologram in the HoloLens 
 
 [Learn about triggers from an operator’s point of view](hololens-app-orientation.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

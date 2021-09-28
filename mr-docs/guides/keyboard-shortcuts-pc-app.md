@@ -1,9 +1,8 @@
 ---
 author: Mamaylya
-description: Learn about the keyboard shortcuts that you can use in the Microsoft Dynamics 365 Guides PC app.
+description: Learn about the keyboard shortcuts for the Dynamics 365 Guides PC app.
 ms.author: mamaylya
 ms.date: 04/06/2020
-ms.service: crm-online
 ms.topic: article
 title: Keyboard shortcuts for the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
@@ -41,3 +40,6 @@ You can use any of the following keyboard shortcuts in the Microsoft Dynamics 36
 [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
 [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
 [Deactivate a guide](pc-app-deactivate-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

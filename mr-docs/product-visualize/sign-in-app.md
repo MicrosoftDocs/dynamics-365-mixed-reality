@@ -1,11 +1,10 @@
-﻿---
-title: Sign in to Dynamics 365 Product Visualize Hub
+---
+author: sbmjais
 description: Instructions for signing in to Dynamics 365 Product Visualize Hub.
+ms.author: shjais
 ms.date: 08/20/2020
 ms.topic: article
-ms.service: dynamics-365-sales
-author: sbmjais
-ms.author: shjais
+title: Sign in to Dynamics 365 Product Visualize Hub
 manager: shujoshi
 ---
 
@@ -23,11 +22,11 @@ manager: shujoshi
 
 5. On the toolbar at the top of the page, select **Open environment**.
 
-    ![Open environment](media/open-environment.png "Open environment")
+    ![Open environment.](media/open-environment.png "Open environment")
 
 6.  From the list of apps, select **Product Visualize Hub**.
 
-    ![Dynamics 365 Product Visualize Hub app](media/pv-hub-app.png "Dynamics 365 Product Visualize Hub app")
+    ![Dynamics 365 Product Visualize Hub app.](media/pv-hub-app.png "Dynamics 365 Product Visualize Hub app")
 
 
 ### See also
@@ -38,3 +37,6 @@ manager: shujoshi
 [Create a mixed-reality session](create-mr-session.md)<br>
 [Add a product to a mixed-reality session](add-product-mr-session.md)<br>
 [Set up Microsoft Teams](setup-ms-teams.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

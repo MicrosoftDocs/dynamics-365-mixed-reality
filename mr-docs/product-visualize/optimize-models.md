@@ -1,12 +1,11 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: How to optimize your 3D (CAD) models?
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 01/08/2020
-ms.service: crm-online
 ms.topic: article
 title: Optimize your 3D models for using with mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Optimize your 3D models to use with mixed-reality applications
@@ -40,9 +39,9 @@ The following table lists some general conservative targets to aim for when acqu
 
 | |Low-scene complexity<br>![Low complexity graphic](media/simple.PNG "Low complexity graphic")|Medium-scene complexity<br>![Medium complexity graphic](media/medium.PNG "Medium complexity graphic")|High-scene complexity<br>![High complexity graphic](media/complex.PNG "High complexity graphic")|
 |--------------|---------------------------|-----------------------------------|-----------------------------------|
-|![HoloLens graphic](media/hololens.PNG "HoloLens graphic")<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object|
-|![Immersive headset graphic](media/immersive-headset.PNG "Immersive headset graphic") <br>Immersive headsets|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><15,000,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><150,000<br><br>**Materials:**<br>1-2 per object|
-|![Mobile graphic](media/mobile.PNG "Mobile graphic") <br>Mobile|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|Not applicable|Not applicable|
+|![HoloLens graphic.](media/hololens.PNG "HoloLens graphic")<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object|
+|![Immersive headset graphic.](media/immersive-headset.PNG "Immersive headset graphic") <br>Immersive headsets|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><15,000,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><150,000<br><br>**Materials:**<br>1-2 per object|
+|![Mobile graphic.](media/mobile.PNG "Mobile graphic") <br>Mobile|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|Not applicable|Not applicable|
 
 > [!NOTE]
 > Transparency in materials such as glass in 3D models is not supported.
@@ -50,3 +49,6 @@ The following table lists some general conservative targets to aim for when acqu
 ### See also
 [Convert 3D models](convert-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

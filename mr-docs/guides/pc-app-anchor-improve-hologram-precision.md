@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn about things you can do to improve positional precision of holograms in Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 11/03/2020
-ms.service: crm-online
 ms.topic: article
 title: Improve positional accuracy of holograms in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -25,7 +24,7 @@ This article describes several things that you can do to improve positional prec
 
 IPD is the distance between the center of the user's pupils. Because different users might have different IPDs, it's crucial that the appropriate IPD is set, so that HoloLens can adapt its display. An incorrect IPD setting can cause inaccurate perception of hologram position. 
 
-To calibrate device eye-tracking and IPD on HoloLens 2, make sure to use the eye calibration app when prompted. This will not only calibrate IPD but will also enable HoloLens 2 to auto-correct hologram position in case the device moves on the operator's head. You can also [manually calibrate the device at any time](https://docs.microsoft.com/dynamics365/mixed-reality/guides/operator-calibrate-hl2) on HoloLens 1 or HoloLens 2.
+To calibrate device eye-tracking and IPD on HoloLens 2, make sure to use the eye calibration app when prompted. This will not only calibrate IPD but will also enable HoloLens 2 to auto-correct hologram position in case the device moves on the operator's head. You can also [manually calibrate the device at any time](./operator-calibrate-hl2.md) on HoloLens 1 or HoloLens 2.
 
 ## Pre-scan the environment
 
@@ -63,10 +62,14 @@ Use the following table to find more information on anchoring.
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
 |Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
+|Creating an anchor|[Create an Azure Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
+||[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
 ||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
 |Hologram precision|[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)|
 |HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
 |HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

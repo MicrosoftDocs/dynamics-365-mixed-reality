@@ -16,7 +16,7 @@ NOTICES AND INFORMATION
 Do Not Translate or Localize
 
 This software incorporates material from third parties. Microsoft makes certain 
-open source code available at http://3rdpartysource.microsoft.com, or you may 
+open source code available at https://3rdpartysource.microsoft.com, or you may 
 send a check or money order for US $5.00, including the product name, the open 
 source component name, and version number, to:
 
@@ -405,7 +405,7 @@ conditions are met:
 disclaimer in the documentation and/or other materials provided with the distribution. 
 
 3. All advertising materials mentioning features or use of this software must display the following acknowledgment: "This product 
-includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (https://www.openssl.org/)"
 
 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to endorse or promote products derived from this software 
 without prior written permission. For written permission, please contact * openssl-core@openssl.org. 
@@ -414,7 +414,7 @@ without prior written permission. For written permission, please contact * opens
 written permission of the OpenSSL Project. 
 
 6. Redistributions of any form whatsoever must retain the following acknowledgment: "This product includes software developed 
-by the OpenSSL Project * for use in the OpenSSL Toolkit (http://www.openssl.org/)" 
+by the OpenSSL Project * for use in the OpenSSL Toolkit (https://www.openssl.org/)" 
  
 THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING,
 BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
@@ -466,7 +466,7 @@ THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECI
 &ast; HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
 ARISING IN ANY WAY &ast; OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
  
-&ast; &ast; The license and distribution terms for any publically available version or derivative of this code cannot be changed. i.e. 
+&ast; &ast; The license and distribution terms for any publicly available version or derivative of this code cannot be changed. i.e. 
 this code cannot simply be copied and put under another distribution license [including the GNU Public License.] */
 
 ****
@@ -653,3 +653,5 @@ DISCLAIMER
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 
 --------
+
+

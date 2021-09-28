@@ -1,11 +1,11 @@
 ---
 author: sophiasysun
-description: View service-related documentation and save shared files
+description: View service-related documentation and save shared files in Dynamics 365 Remote Assist on HoloLens. 
 ms.author: sopsun
 ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
-title: View service-related documentation and save shared files
+title: View service-related documentation in Dynamics 365 Remote Assist
 ms.reviewer: krbjoran
 ---
 
@@ -35,7 +35,7 @@ When a Teams user shares a file from OneDrive or from their device during a vide
 
 You may also want to save the file to your OneDrive for future reference. For example, the Teams user may send a PDF of a schematic you can use in future repairs, so you want to save it to your OneDrive and share the OneDrive file with others. 
 
-To save the file to OneDrive, select the OneDrive icon (as seen here: ![OneDrive](media/RAHL_OneDrive.png)) in the top right of the slate. The OneDrive file is then automatically saved to a folder called **HoloLens Received Files**.
+To save the file to OneDrive, select the OneDrive icon (as seen here: ![OneDrive.](media/RAHL_OneDrive.png)) in the top right of the slate. The OneDrive file is then automatically saved to a folder called **HoloLens Received Files**.
 
 >[!Note]
 >The top right corner of the PDF displays the page number you’re currently on as well as the total number of pages. You can use the **Previous** and **Next** arrows to navigate pages. To navigate to a specific page, select the current page number. A numeric keyboard will pop out. Select the page number you want to navigate to.
@@ -46,8 +46,11 @@ Field Service organizations often want to capture tribal knowledge and relevant 
 
 If you made a Dynamics 365 Remote Assist call in the context of a Field Service booking, you can post the files shared during the call to the work order that the booking is associated with. When the call ends, you'll see a list of files that you and any remote collaborator shared, as seen in the following screenshot.
 
-![Screenshot showing Dynamics 365 Remote Assist in the HoloLens, with a prompt to post files to work order](media/RAHL_PostToWorkOrderPrompt.png)
+![Screenshot showing Dynamics 365 Remote Assist in the HoloLens, with a prompt to post files to work order.](media/RAHL_PostToWorkOrderPrompt.png)
  
 Select **Post All** to save the files and **Call Log** to the work order. The **Call Log** includes the names of the call participants and the call duration.
 
 Specifically, two new notes will be created and attached to the work order. One note will include call log info, and the other note will include a plain text link to each file. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

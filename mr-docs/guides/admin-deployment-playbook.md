@@ -2,8 +2,7 @@
 author: Mamaylya
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
 ms.author: mamaylya
-ms.date: 11/30/2020
-ms.service: crm-online
+ms.date: 09/17/2021
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -15,18 +14,18 @@ This topic covers basic concepts that you must know about when you're deploying 
 
 ## Architecture
 
-Dynamics 365 Guides is built on the [Microsoft Dataverse infrastructure](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), 
+Dynamics 365 Guides is built on the [Microsoft Dataverse infrastructure](/powerapps/maker/common-data-service/data-platform-intro), 
 which provides end-to-end control over your deployment, from the server side to the client side. A clear understanding of the Dynamics 365 Guides architecture will help you plan your deployment and manage updates.
 
 The following illustration shows the overall architecture.
 
-![Dynamics 365 Guides architecture](media/dynamics-365-guides-architecture.PNG "Dynamics 365 Guides architecture")
+![Dynamics 365 Guides architecture.](media/dynamics-365-guides-architecture.PNG "Dynamics 365 Guides architecture")
 
 Dynamics 365 Guides includes two client-side applications: the PC app (a Universal Windows Platform \[UWP\] app) and the HoloLens app. Server-side data is stored in Dataverse in your customer tenant.
 
 - A **tenant** is a representation of an organization. It's a dedicated Azure Active Directory (Azure AD) environment that an organization or app developer receives when the organization or app developer creates a relationship with Microsoft (for example, by signing up for Azure, Intune, or Microsoft 365).
 
-- A **Dataverse environment** is a segmented database that securely stores and manages data that is used by business applications such as Dynamics 365 Guides. Data in Dataverse is stored in a set of tables, similarly to how a table stores data in a database. Dynamics 365 Guides uses a [custom set of Dataverse tables to store data](https://docs.microsoft.com/dynamics365/mixed-reality/guides/developer-entity-reference).
+- A **Dataverse environment** is a segmented database that securely stores and manages data that is used by business applications such as Dynamics 365 Guides. Data in Dataverse is stored in a set of tables, similarly to how a table stores data in a database. Dynamics 365 Guides uses a [custom set of Dataverse tables to store data](./developer-entity-reference.md).
 
     > [!NOTE]
     > You will often see the terms "environment," "instance," and "organization" used interchangeably to refer to a Dataverse environment. They all mean the same thing.
@@ -39,7 +38,7 @@ A basic Dynamics 365 Guides deployment should consist of at least two Dataverse 
 
 You can use the test environment to validate any major updates before you push them to your production environment, where Dynamics 365 Guides is being used by your users.
 
-![Test vs. production environments](media/test-production-instances.png "Test vs. production environments")
+![Test vs. production environments.](media/test-production-instances.png "Test vs. production environments")
 
 > [!NOTE]
 > In this case, the term "production environment" refers generally to the environment that your users access to do their daily work. It isn't the same as the Dataverse "production environment" that you select when you [install the Dynamics 365 Guides Dataverse solution](setup-step-two.md).
@@ -48,7 +47,7 @@ Your Dynamics 365 Guides license lets you access as many Dataverse environments 
 
 ## Storage capacity
 
-You must have at least 1 gigabyte (GB) of database capacity to install the Dynamics 365 Guides Dataverse solution. [Learn how to check available capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage#verifying-your-new-storage-model). As you add more content to your guides, you will have to monitor your database capacity.
+You must have at least 1 gigabyte (GB) of database capacity to install the Dynamics 365 Guides Dataverse solution. [Learn how to check available capacity](/power-platform/admin/capacity-storage#verifying-your-new-storage-model). As you add more content to your guides, you will have to monitor your database capacity.
 
 ## Updating the Dynamics 365 Guides apps and the Dataverse solution
 
@@ -71,29 +70,29 @@ When you update the solution, schedule downtime with your team, and make sure th
 
 Every release of Dynamics 365 Guides includes an update to the solution. The PC and HoloLens apps will always be backward compatible with their "major" version numbers. For example, version 4.0 of the PC app will always work with version 4.0 of the solution. If you're ever in doubt, [check the app/solution compatibility table](admin-apps-solution-compatibility.md).
 
-![Apps/solution compatibility table](media/app-solution-compatibility-table.PNG "Apps/solution compatibility table")
+![Apps/solution compatibility table.](media/app-solution-compatibility-table.PNG "Apps/solution compatibility table")
 
 ### Major and minor updates – When you must update the solution
 
 The Dynamics 365 Guides team updates the version numbers of the apps and solution twice per year for major updates: on April 1 and October 1. These major updates are mandatory if you want to use the latest versions of the apps and take advantage of new features and enhancements. You're notified about these updates through admin communications.
 
-Minor updates are listed in [What's new](https://docs.microsoft.com/dynamics365/mixed-reality/guides/new), through in-app notifications, and through the [Dynamics 365 Guides forum](https://community.dynamics.com/365/guides). Some features in minor updates might require an update to the solution. Although the PC and HoloLens apps will continue to work if you don't update the solution, you won't be able to use the new features. Features that require a solution update are listed in [What's new](https://docs.microsoft.com/dynamics365/mixed-reality/guides/new).
+Minor updates are listed in [What's new](./new.md), through in-app notifications, and through the [Dynamics 365 Guides forum](https://community.dynamics.com/365/guides). Some features in minor updates might require an update to the solution. Although the PC and HoloLens apps will continue to work if you don't update the solution, you won't be able to use the new features. Features that require a solution update are listed in [What's new](./new.md).
 
-![What's new page that shows when a solution update is required for a specific feature](media/solution-update-required.PNG "What's new page that shows when a solution update is required for a specific feature")
+![What's new page that shows when a solution update is required for a specific feature.](media/solution-update-required.PNG "What's new page that shows when a solution update is required for a specific feature")
 
-To [update the solution](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade), a Dataverse **System Admin** security role and a valid Dynamics 365 Guides or Power Apps license must be assigned to you.
+To [update the solution](./upgrade.md), a Dataverse **System Admin** security role and a valid Dynamics 365 Guides or Power Apps license must be assigned to you.
 
 ### PC and HoloLens app updates
 
 The PC and HoloLens apps are managed through Microsoft Store, which is pre-installed on HoloLens and most PCs. As a best practice, keep the **Update apps automatically** option turned on to ensure that you're using the latest and most stable versions of the apps.
 
-![Microsoft Store page, where the Update apps automatically option is turned on](media/update-apps-automatically.PNG "Microsoft Store page, where the Update apps automatically option is turned on")
+![Microsoft Store page, where the Update apps automatically option is turned on.](media/update-apps-automatically.PNG "Microsoft Store page, where the Update apps automatically option is turned on")
 
 If Microsoft Store isn't available to you, you can request that your IT department add Dynamics 365 Guides to Microsoft Store for Business. If this approach isn't feasible, contact your Dynamics 365 Guides team or sales representative, and request engineering support to facilitate direct installation of the applications.
 
 ### Update management through mobile device management
 
-As you plan your deployment with your IT department, you should also consider mobile device management (MDM) solutions such as [InTune to manage app updates](https://docs.microsoft.com/mem/intune/fundamentals/windows-holographic-for-business#deploy-and-manage-apps).
+As you plan your deployment with your IT department, you should also consider mobile device management (MDM) solutions such as [InTune to manage app updates](/mem/intune/fundamentals/windows-holographic-for-business#deploy-and-manage-apps).
 
 ## Security and privacy
 
@@ -103,7 +102,33 @@ The [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/s
 
 ### Network access
 
-Dynamics 365 Guides is a cloud-based application and might require that your network admin add, to an approve list, the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers. [Learn more about unblocking IP addresses and URLs](https://docs.microsoft.com/power-platform/admin/online-requirements#ip-addresses-and-urls).
+Dynamics 365 Guides is a cloud-based application and might require that your network admin add, to an approve list, the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers. [Learn more about unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls).
+
+### VPN or proxy configuration
+
+When connecting through a proxy or VPN, you must configure the proxy or VPN to allow connections with certain endpoints so that Dynamics 365 Guides functions normally. Some endpoints are required generally for Dynamics 365 apps. [Review the list of endpoints required for Dynamics 365 apps](https://docs.microsoft.com/power-platform/admin/online-requirements#internet-accessible-urls-required). 
+
+Other endpoints are specific to Dynamics 365 Guides. The list of additional endpoints required by Dynamics 365 Guides includes:
+
+- login.microsoft.com 
+- graph.microsoft.com 
+- globaldisco.crm.dynamics.com 
+
+### Windows Defender Firewall configuration
+
+For Windows Defender Firewall, sometimes it's not enough to have the app listed in the **Allowed apps** section. If Windows Firewall is configured to block outbound calls, you must have a rule that allows the Dynamics 365 Guides app in the **Outbound Rules** section. Note that installing the Dynamics 365 Guides app will add this rule. If you don't see the app in the **Outbound Rules** section, uninstalling and re-installing it might fix the issue. If you don't have permissions to do this (install the app or add the firewall rule), work with your IT department.
+
+#### Determine if outbound connections are blocked
+
+- Open Windows Firewall, and then in the left panel, select **Advanced settings**. You'll see the following screen.
+
+    ![Firewall configuration 01](media/firewall_config_01.png "Firewall advance setting configuration")
+
+#### Determine if the outbound rule allowing Dynamics 365 Guides to make external calls exists
+
+- In the left panel, select **Outbound Rules**, sort the rules by name, and then look for a Microsoft Dynamics 365 Guides entry. Make sure that the value in the **Action** field is set to **Allow**. If it's not, reinstall the app.
+
+    ![Firewall configuration 02](media/firewall_configuration_02.PNG "Firewall outbound rules")
 
 ## Access management and user roles
 
@@ -117,11 +142,11 @@ There are three levels of access management:
 
 ### Control access to the Dataverse environment
 
-You can use [security groups](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-security#associate-a-security-group-with-an-instance) to control which users can access specific Dataverse environments. Security groups provide the highest level of access control and are intended for organizations that have multiple business units (for example, product divisions) that don't collaborate with each other or share content. You can also [use bulk processes to assign security groups](https://docs.microsoft.com/power-platform/admin/manage-teams#using-azure-active-directory-groups-to-manage-a-users-app-and-data-access).
+You can use [security groups](./admin-security.md) to control which users can access specific Dataverse environments. Security groups provide the highest level of access control and are intended for organizations that have multiple business units (for example, product divisions) that don't collaborate with each other or share content. You can also [use bulk processes to assign security groups](/power-platform/admin/manage-teams#using-azure-active-directory-groups-to-manage-a-users-app-and-data-access).
 
 ### Control access to specific guides or content
 
-You can use [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos). Access teams are useful when you want to grant different user permissions for specific records in Dataverse. For example, you might want access to some guides to be limited to a specific factory location, or you might want to limit access to guides that are in progress.
+You can use [access teams](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos). Access teams are useful when you want to grant different user permissions for specific records in Dataverse. For example, you might want access to some guides to be limited to a specific factory location, or you might want to limit access to guides that are in progress.
 
 The following table describes the different roles and when you should use each.
 
@@ -135,7 +160,10 @@ The following table describes the different roles and when you should use each.
 
 The example in the following illustration shows how Dataverse environments, access teams, and user roles can be used to manage access to environments and guides.
 
-![Using environments, access teams, and user roles for different levels of security access](media/security-access-methods-diagram.PNG "Using environments, access teams, and user roles for different levels of security access")
+![Using environments, access teams, and user roles for different levels of security access.](media/security-access-methods-diagram.PNG "Using environments, access teams, and user roles for different levels of security access")
 
 > [!TIP]
 > You can use Azure AD security groups to [assign Dynamics 365 Guides security roles to batches of users](https://powerusers.microsoft.com/t5/Common-Data-Service-for-Apps/How-to-assign-security-roles-to-Microsoft-365-Groups-Security/m-p/648584). This capability is useful when you're deploying Dynamics 365 Guides to many operators. It lets you use a bulk operation instead of having to assign roles individually.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

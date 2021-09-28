@@ -2,14 +2,13 @@
 author: Mamaylya
 description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage data in Microsoft Dataverse, for privacy reasons.
 ms.author: mamaylya
-ms.date: 11/17/2020
-ms.service: crm-online
+ms.date: 02/03/2021
 ms.topic: article
-title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
+title: Microsoft Dataverse data opt out for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
+# Opt out of storing Dynamics 365 Guides operations data in Microsoft Dataverse
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
@@ -23,18 +22,18 @@ To do this:
 
 2.	In the tenant/instance drop-down, select the instance that has Dynamics 365 Guides installed.
 
-3.	Select the Guides app in the list. A new tab for the Guides model-driven app is opened.
+3.	Select the **Guides** app in the list. A new tab for the Guides model-driven app is opened.
 
     > [!NOTE]
     > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
 
 4.	In the left navigation, go to **User Settings**.
 
-    ![User Settings](media/data-opt-out-user-setting.PNG "User Settings")
+    ![User Settings.](media/data-opt-out-user-setting.PNG "User Settings")
  
 5.	Select **New**.
 
-    ![Select New](media/data-opt-out-new.PNG "Select New")
+    ![Select New.](media/data-opt-out-new.PNG "Select New")
  
 6.	Fill out the form as follows:
 
@@ -46,8 +45,11 @@ To do this:
 
 7.	Select **Save**.
 
-    ![Filled-out form](media/data-opt-out-filled-out-form.PNG "Filled-out-form")
+    ![Filled-out form.](media/data-opt-out-filled-out-form.PNG "Filled-out-form")
  
 ## See also
 
-[Analyze guides usage](analytics-guide.md)
+[Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

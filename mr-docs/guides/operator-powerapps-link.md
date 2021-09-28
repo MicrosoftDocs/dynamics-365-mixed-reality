@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to open an app created in Power Apps from the Microsoft Dynamics 365 Guides HoloLens app
 ms.author: mamaylya
 ms.date: 10/01/2020
-ms.service: crm-online
 ms.topic: article
 title: Open an app created in Power Apps from the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
@@ -16,7 +15,7 @@ If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **Po
 > [!IMPORTANT]
 > To run Power Apps from Dynamics 365 Guides, you must have a Power Apps license. You must also have permission to view the app that was created in Power Apps.
 
-![Power Apps button](media/website-button-runtime.PNG "Power Apps button")
+![Power Apps button.](media/website-button-runtime.PNG "Power Apps button")
 
 >[!NOTE]
 >On HoloLens 1, the Dynamics 365 Guides app enters sleep mode when you select a Power Apps link from a step. You can tap the Dynamics 365 Guides app at any time to return to the guide and resume where you left off. If you're using HoloLens 2, the Dynamics 365 Guides app remains active when you select a Power Apps link.
@@ -31,3 +30,6 @@ If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **Po
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn holograms off and on](operator-holograms-off.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Work offline](operator-offline-mode.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use voice commands](voice-commands.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

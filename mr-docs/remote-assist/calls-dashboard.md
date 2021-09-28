@@ -1,97 +1,104 @@
 ---
-title: Dynamics 365 Remote Assist calls dashboard
-author: dhgoelmsft
-description: Overview and feature details for the Dynamics 365 Remote Assist calls dashboard
-ms.author: dhgoel
-ms.date: 12/10/2020
+title: Learn more about the Microsoft Dynamics 365 Remote Assist Calls Dashboard
+author: BryceHolmes
+description: Overview, enablement and feature details for the Microsoft Dynamics 365 Remote Assist Calls Dashboard
+ms.author: soanigbo
+ms.date: 07/19/2021
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 
-# Dynamics 365 Remote Assist calls dashboard
-
-[!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
+# Dynamics 365 Remote Assist Calls Dashboard
 
 Supervisors and operations managers need to be able to monitor key operational metrics for their organization. Such metrics are critical to get insights such as potential areas of operational efficiencies and efficacy of the various tools and processes within the technician community.
 
-This article walks through the setup and usage of the calls dashboard feature available in the Dynamics 365 model-driven app. Calls dashboard is an opt-in feature available only to users with the security role of **Remote Assist - Administrator** or **System Administrator**.
+This article walks through the setup and usage of the Calls Dashboard available in the Dynamics 365 Remote Assist model-driven app. The Calls Dashboard is an opt-in feature available only to users with the security role of **Remote Assist - Administrator** or **System Administrator**.
 
 > [!Note]
-> This feature is intended to help supervisors and managers derive insights regarding operational efficiencies and usage of Dynamics 365 Remote Assist. This feature is not intended for use in making—and should not be used to make—decisions that affect the employment of an employee or group of employees, including compensation, rewards, seniority, or other rights or entitlements. Customers are solely responsible for using Dynamics 365, this feature, and any associated feature or service in compliance with all applicable laws, including laws relating to accessing individual employee analytics and monitoring. End users will need to enable from their device access to phone call records and specifically consent to sharing location information before that information is shared and available through the dashboard. However, customers are also encouraged to have a mechanism in place to inform their users that analytics (such as call duration, location etc.) relating to their communications are collected.
+> This feature is intended to help supervisors and managers derive insights regarding operational efficiencies and usage of Dynamics 365 Remote Assist. This feature is not intended for use in making — and should not be used to make — decisions that affect the employment of an employee or group of employees, including compensation, rewards, seniority, or other rights or entitlements. Customers are solely responsible for using Dynamics 365, this feature, and any associated feature or service in compliance with all applicable laws, including laws relating to accessing individual employee analytics and monitoring. End users will need to enable access from their device to phone call records and specifically consent to sharing location information before that information is shared and available through the dashboard. However, customers are also encouraged to have a mechanism in place to inform their users that analytics (such as call duration and location) relating to their communications are collected.
 
 ## Prerequisites
 
-To have access to the calls dashboard, you must have:
+To have access to the Calls Dashboard, you must have:
 
 1. Completed the steps described in the following articles:
 
-    1. [Installing the model-driven app](./ra-webapp-install.md)
-    2. [Adding users to the environment](./asset-capture-add-users.md#assign-dynamics-365-security-roles)
+    - [Installing the model-driven app](./ra-webapp-install.md)
+    
+    - [Adding users to the environment](./asset-capture-add-users.md#assign-dynamics-365-security-roles)
 
-1. Access to the environment Dynamics 365 Remote Assist is installed in, with the **Remote Assist - Administrator** security role assigned to you.
+2. Access to the environment that Dynamics 365 Remote Assist is installed in, with the **Remote Assist - Administrator** security role assigned to you.
 
-> [!Note] 
-> Calls dashboard is available in all Microsoft Dataverse regions except for GCC, GCC High, FRA, UAE, GER, and ZAF.
+## Enabling the Calls Dashboard
 
-## Enabling the calls dashboard
+1. In the Dynamics 365 Remote Assist model-driven app, under **Change area**, select **Settings**.
 
-1. From the Dynamics 365 Remote Assist model-driven app, change the area by selecting the menu in the bottom left of the screen and select **Settings**.\
-:::image type="content" source="media/webapp-settings-selector.png" alt-text="Change area to Settings in the Remote Assist model-driven app":::
+    ![Change area to Settings in the Remote Assist model-driven app.](media/webapp-settings-selector.png).
 
-2. Select **Settings** under **Analytics and Insights** and select **Manage**.
-:::image type="content" source="media/CallsDashboardSettings.png" alt-text="Select Calls Dashboard settings":::
+2. Under **Analytics and Insights**, select **Settings**, and then select **Manage**.
 
-3. Select the toggle to enable the dashboard.
-:::image type="content" source="media/CallsDashboardEnable.png" alt-text="Toggle on Calls Dashboard":::
+    ![Select Calls Dashboard settings.](media/CallsDashboardSettings.png).
+
+3. Move the slider to the right to enable the dashboard.
+
+    ![Enable the Calls dashboard.](media/CallsDashboardEnable.png).
 
 ### Notes
 
-1. The dashboard is built on Microsoft Power BI. It may take some time for the dashboard to get provisioned.
+- The dashboard is built on Microsoft Power BI. It may take some time for the dashboard to get provisioned.
 
-1. As **Remote Assist - Administrator**, you can always go back and disable / re-enable the dashboard by toggling it off / on from within the **Settings** area as described above. Disabling the dashboard will deprovision the resources that it depends on.
+- As a **Remote Assist - Administrator**, you can always go back and disable/re-enable the dashboard by turning it off/on from the **Settings** area as described above. Disabling the dashboard will remove the resources that it depends on.
 
-1. The dashboard leverages the [phone call entity type](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phone call record to Microsoft Dataverse. Only after they have selected the correct environment, and for those users only, is the phone call data available in the calls dashboard.
+- The dashboard uses the [phone call entity type](/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics 365 environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phone call record to the Microsoft Dataverse. The phone call data will not be available in the Calls Dashboard if the user hasn't selected the correct environment. Note that users can also initiate the call without selecting an environment. 
 
-1. End users may or may not give location permissions to the HoloLens or mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
+    ![Selecting the correct environment for the Calls Dashboard.](media/02.07-contacts-call-prompt.png)
 
-## Understanding the Dynamics 365 Remote Assist calls dashboard
+- End users may or may not give location permissions to the Hololens or mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
 
-:::image type="content" source="media/CallsDashboardFull.png" alt-text="Screenshot of the Dynamics 365 Remote Assist calls dashboard.":::
+- If you want to enable or disable location services for all users on all devices, you can [set the **LetAppsAccessLocation** privacy policy](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
+
+## Understand the Dynamics 365 Remote Assist Calls Dashboard
+
+![Screenshot of the Remote Assist Calls Dashboard.](media/CallsDashboardFull.png).
 
 ### Dashboard filters
 
-All visuals described are governed by the filters available at the top of the report. Let's understand what these filters do.
+The visualizations in the dashboard are determined by the filters available at the top of the report. The following table describes what each of the filters does.
 
 | Filter | Description |
 | --- | --- |
-| Date | Filters the dashboard to only show metrics for phone call records falling within the specified duration. |
-| User name | Select specific users to view only metrics related to them. |
-| Client type | Filter the dashboard to only show metrics for phone call records coming from a specific device type. |
+| Date | Filters the dashboard to show only metrics for phone call records falling within the specified duration. |
+| User name | Select specific users to view only the metrics related to them. |
+| Client type | Filter the dashboard to show only metrics for phone call records coming from a specific device type. |
 
-Additionally, when you select a slice of data from any of the visuals described below, it will temporarily filter all visuals to that specific set of records. For example, if you select a specific month from the **calls trend** visual, all visuals will be filtered to that month. You can select that data item again to remove that filter.
+Additionally, when you select a slice of data from any of the visuals described below, the visualizations will temporarily be filtered to that specific set of records. For example, if you select a specific month from the **Calls trend** visual, all visuals will be filtered to that month. You can click on that data item again to remove that filter.
 
-### Metrics available in the calls dashboard
+### Metrics available in the Calls Dashboard
 
-Let's take a look at what information is provided by each of the visuals in the calls dashboard.
+Let's take a look at the information that's provided by each of the visuals in the Calls Dashboard.
 
 | Visual | Description |
 | --- | --- |
-| Total calls | Total number of **unique** Dynamics 365 Remote Assist calls made. There is a phone call record generated for each Dynamics 365 Remote Assist user participating in each call. There is no phone call record generated for Microsoft Teams participants. Call records are disambiguated by the **RemoteAssistCallId** field in the phone call entity. Thus group calls, with three or more Dynamics 365 Remote Assist users are **not** counted multiple times. |
+| Total calls | Total number of **unique** Dynamics 365 Remote Assist calls made. A phone call record is generated for each Dynamics 365 Remote Assist user participating in each call. No phone call record is generated for Microsoft Teams participants. Call records are disambiguated by the **RemoteAssistCallId** field in the Phone Call entity. So group calls with three or more Dynamics 365 Remote Assist users are **not** counted multiple times. |
 | Total call duration | Total time spent in Dynamics 365 Remote Assist calls aggregated across all phone call records. If there are multiple Dynamics 365 Remote Assist participants in the same call, the time spent by each participant in the call will be added to the total. |
 | Average call duration | Average time spent in Dynamics 365 Remote Assist calls, averaged across all phone call records. |
-| Unique callers | Total number of **unique** users that participated in a call from the Dynamics 365 Remote Assist app on HoloLens or Mobile. This does not include the number of Microsoft Teams participants. |
-| Calls trend | Number of calls made over the selected duration. You can use the drill-down capabilities of the visual to see the data by year, month, week, or day. |
+| Unique callers | Total number of **unique** users that participated in a call from the Dynamics 365 Remote Assist app on HoloLens or the mobile app. This does not include the number of Microsoft Teams participants. |
+| Calls trend | Number of calls made over the selected duration. You can use the drill-down capabilities to see the data by year, month, week, or day. |
 | Call statistics by user | The number of calls made by and time spent in Dynamics 365 Remote Assist calls per user. |
-| Calls by location | Map view of the phone call records, available if the end user has granted permission to share location from their device. You can use the drill-down capabilities of the visual to see number of calls by country, state, or city. |
+| Calls by location | Map view of the phone call records, available if the end user has granted permission to share the location from their device. You can use the drill-down capabilities to see the number of calls by country, state or city. |
 | Call log | Details of each phone call record, including call start and end times, owner of the phone call record, direction of the call, time spent by the specific participant in the call, client device type, and location of the call participant if shared. |
 
 ## Additional notes
 
-* **SLA**: Data is refreshed every 24 hours. Dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Currently, we do not support a custom refresh schedule.
+- Data is refreshed every 24 hours. The dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Note that Microsoft does not currently support a custom refresh schedule.
 
-* **Data Refresh for Inactive environments**: If an organization has no active usage of the dashboard for two continuous weeks, the data refresh will be paused. When a user opens the dashboard, the data will get refreshed in the next refresh cycle.
+- If an organization has no active dashboard usage for two continuous weeks, the data refresh will be paused. When a user opens the dashboard, the data will be refreshed in the next refresh cycle.
 
-* Data is retained for 24 months.
+- Data is retained for 24 months.
 
-* The calls dashboard feature uses storage capacity in Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
+- The Calls Dashboard uses storage capacity in the Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
+
+- To make sure that all calls are logged to the Microsoft Dataverse, Microsoft recommends that users wait a few seconds after the call ends before closing or minimizing the Dynamics 365 Remote Assist application. 
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

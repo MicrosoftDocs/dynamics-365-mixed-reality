@@ -3,15 +3,14 @@ author: Mamaylya
 description: Install and sign in to the Microsoft Dynamics 365 Guides HoloLens app as an operator.
 ms.author: mamaylya
 ms.date: 02/25/2020
-ms.service: crm-online
 ms.topic: article
-title: Install and sign in to the Dynamics 365 Guides HoloLens app as an operator
+title: Install the Dynamics 365 Guides HoloLens app (operators)
 ms.reviewer: v-brycho
 ---
 
 # Install and sign in to the Dynamics 365 Guides HoloLens app (operators)
 
-1. Make sure that you have [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend that you update to newer versions when they are available. For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates).
+1. Make sure that you have [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend that you update to newer versions when they are available. For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](/HoloLens/hololens-updates).
 
 2. On your [!include[pn-hololens](../includes/pn-hololens.md)] device, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu. Then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app, and search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]".
 
@@ -25,15 +24,15 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 1. Select **All Apps**.
 
-    ![All Apps button](media/hololens-apps.PNG "All Apps button")
+    ![All Apps button.](media/hololens-apps.PNG "All Apps button")
 
 2. Select the down arrow button.
 
-    ![Down arrow button](media/hololens-down-arrow.PNG "Down arrow button")
+    ![Down arrow button.](media/hololens-down-arrow.PNG "Down arrow button")
 
 3. Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
-    ![Dynamics 365 Guides button](media/open-guides-application.PNG "Dynamics 365 Guides button")
+    ![Dynamics 365 Guides button.](media/open-guides-application.PNG "Dynamics 365 Guides button")
 
 4. On the **Welcome** page, select **Sign in**. 
 
@@ -41,7 +40,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 6. On the **Work or school account** page, enter the credentials that your admin provided. For the credentials, the user name will resemble `username@domain.com`. For example, if your user name is LauraO, and you work for the Contoso company, the user name will be `laurao@contoso.com`.
 
-    ![Work or school account page](media/sign-in-hololens.PNG "Work or school account page")
+    ![Work or school account page.](media/sign-in-hololens.PNG "Work or school account page")
 
 7. Select an instance to use, if you have more than one instance. Then select **Continue**.
 
@@ -49,14 +48,18 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 9. If the **Select Mode** dialog box appears, gaze at the circle to the left of **Operate** until it's filled. When the circle is filled, the option is selected.
 
-    ![Select Mode dialog box](media/select-mode-operate.png "Select Mode dialog box")
+    ![Select Mode dialog box.](media/select-mode-operate.png "Select Mode dialog box")
 
 > [!NOTE]
 > If you're a Dynamics 365 Guides admin, you can assign the **Operator** role to operators so that they can view guides but can't edit them. If you assign the **Operator** role to a user, the user can also skip the step in the **Select Mode** dialog box and open a guide directly. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
 
 ## What's next?
 
-[Calibrate your HoloLens](operator-calibrate.md)<br>
-[Gestures for navigating the app](operator-gestures.md)<br>
+
+[Find a guide](find-guide.md)<br>
+[Gestures for navigating the HoloLens app](operator-gestures.md)<br>
 [Anchor your guide](operator-anchor.md)<br>
 [Operate a guide](operator-step-card-orientation.md)
+[Calibrate your HoloLens](operator-calibrate.md)<br>
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

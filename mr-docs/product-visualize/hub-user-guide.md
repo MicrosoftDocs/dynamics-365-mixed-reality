@@ -1,13 +1,12 @@
 ---
-title: User guide for Dynamics 365 Product Visualize Hub
-description: Guide for signing in to the Dynamics 365 Product Visualize Hub, creating products, adding models to a product, adding and managing notes, creating mixed-reality sessions, and adding products to mixed-reality sessions.
 author: sbmjais
+description: Guide for signing in to the Dynamics 365 Product Visualize Hub, creating products, adding models to a product, adding and managing notes, creating mixed-reality sessions, and adding products to mixed-reality sessions.
 ms.author: shjais
-manager: shujoshi
 ms.date: 07/29/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: User guide for Dynamics 365 Product Visualize Hub
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # Dynamics 365 Product Visualize Hub user guide
@@ -37,3 +36,6 @@ Perform the following steps to successfully create a mixed-reality session:
 You can also [add notes to your 3D model](add-note-model.md) in Dynamics 365 Product Visualize Hub. These notes will be visible in the Dynamics 365 Product Visualize iOS app.
 
 You can also [set up Microsoft Teams](setup-ms-teams.md) to collaborate with your team, manage files, and have conversations in one easy-to-use location.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

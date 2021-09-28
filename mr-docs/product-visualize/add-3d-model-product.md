@@ -1,11 +1,10 @@
-﻿---
-title: Add 3D models to a product and manage them in Dynamics 365 Product Visualize Hub
+---
+author: sbmjais
 description: Instructions for adding 3D models to a product and managing them in Dynamics 365 Product Visualize Hub
+ms.author: shjais
 ms.date: 07/29/2020
 ms.topic: article
-ms.service: dynamics-365-sales
-author: sbmjais
-ms.author: shjais
+title: Add 3D models to a product and manage them in Dynamics 365 Product Visualize Hub
 manager: shujoshi
 ---
 
@@ -21,7 +20,7 @@ Presenting complicated products to a customer by using traditional 2D materials 
 
 2.  In the left pane, select **3D product catalog**.
 
-    ![Select 3D Product Catalog from the left pane](media/product-catalog-nav.png "Select 3D Product Catalog from the left pane")
+    ![Select 3D Product Catalog from the left pane.](media/product-catalog-nav.png "Select 3D Product Catalog from the left pane")
 
 3.  On the **Active 3D Products** page, select the product to which you want to add a model.
 
@@ -30,11 +29,11 @@ Presenting complicated products to a customer by using traditional 2D materials 
 
 4.  Under **3D viewer**, select **Add 3D model**.
 
-    ![Add 3D model button](media/add-3d-model-button.png "Add 3D model button")
+    ![Add 3D model button.](media/add-3d-model-button.png "Add 3D model button")
 
 5.  Find and select the 3D model by using your file browser. The model is uploaded and displayed under **3D viewer**.
 
-    ![3D model added](media/model-added.png "3D model added")
+    ![3D model added.](media/model-added.png "3D model added")
 
 6. Repeat steps 4 through 5 to add more 3D models.
 
@@ -58,11 +57,11 @@ Presenting complicated products to a customer by using traditional 2D materials 
 
 When you add a 3D model to a product, no thumbnail is displayed for the model. It appears as shown in the following image.
 
-![Model without thumbnail](media/model-no-thumbnail.png "Model without thumbnail")
+![Model without thumbnail.](media/model-no-thumbnail.png "Model without thumbnail")
 
 When you add a thumbnail, an image of the model is displayed.
 
-![Model with thumbnail](media/model-thumbnail.png "Model with thumbnail")
+![Model with thumbnail.](media/model-thumbnail.png "Model with thumbnail")
 
 **To create a thumbnail for a model**
 
@@ -76,11 +75,11 @@ When you add a thumbnail, an image of the model is displayed.
 
 5.  Select **Create Thumbnail**.
 
-    ![Create Thumbnail button](media/create-thumbnail-button.png "Create Thumbnail button")
+    ![Create Thumbnail button.](media/create-thumbnail-button.png "Create Thumbnail button")
 
 6.  At the upper-left corner of the model, select **Back**. The thumbnail of the model is displayed.
 
-    ![Thumbnail created](media/thumbnail-created.png "Thumbnail created")
+    ![Thumbnail created.](media/thumbnail-created.png "Thumbnail created")
 
 ## Delete a model
 
@@ -90,7 +89,7 @@ When you add a thumbnail, an image of the model is displayed.
 
 3.  On the **Active 3D Products** page, select your product.
 
-4.  Under **3D viewer**, select **Delete model** ![Delete model](media/delete-icon.png "Delete model") on the model you want to delete.
+4.  Under **3D viewer**, select **Delete model** ![Delete model.](media/delete-icon.png "Delete model") on the model you want to delete.
 
 ### See also
 
@@ -100,3 +99,5 @@ When you add a thumbnail, an image of the model is displayed.
 [Create a mixed-reality session](create-mr-session.md)<br>
 [Add a product to a mixed-reality session](add-product-mr-session.md)<br>
 [Set up Microsoft Teams](setup-ms-teams.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -10,8 +10,6 @@ ms.reviewer: krbjoran
 ---
 # Integrate Dynamics 365 Remote Assist with Power Automate
 
-[!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
-
 The asset capture feature in Remote Assist leverages Common Data Service (CDS). This enables you to create Power Automate flows based on this data to streamline various processes, including getting notifications, modifying other entities, and generating reports. In this article, you'll create a flow to get an email notification whenever a new asset attachment is created.
 
 ## Prerequisites
@@ -19,7 +17,7 @@ The asset capture feature in Remote Assist leverages Common Data Service (CDS). 
 To complete this article, you need:
 
 - **Access to the environment Dynamics 365 Remote Assist is installed in**.
-- **License and access to [Power Automate](https://docs.microsoft.com/power-automate/)**.
+- **License and access to [Power Automate](/power-automate/)**.
 
 ## Create Flows with Power Automate
 
@@ -44,7 +42,7 @@ To complete this article, you need:
 10. Now we can go back to the **"Send an email notification"** step. This time, when searching for name in the dynamic content, we have the option of selecting the customer entity name, because we fetched the associated customer entity in the previous step. Go ahead and include that in the subject. Select **Save**. Your flow is now complete!
 ![Screenshot of the Power Automate email subject step.](media/PowerAutomate010-EmailSubject.png)
 11. You can use the **Flow Checker** and **Test** options to validate your newly created flow.
-![Screenshot of the Power Automate flow checker](media/PowerAutomate011-flowChecker.png)
+![Screenshot of the Power Automate flow checker.](media/PowerAutomate011-flowChecker.png)
 
 ## Test your flow
 
@@ -53,3 +51,6 @@ To complete this article, you need:
 ![Screenshot of the Power Automate Test Run Flow.](media/PowerAutomate012-TestRunFlow.png)
 3. If there are errors in the flow, you can select **Edit** to modify the flow. You can then resubmit the previous run to test your flow again, without having to create a new asset capture entity.
 ![Screenshot of the Power Automate Resubmit Flow.](media/PowerAutomate013-resubmitFlow.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

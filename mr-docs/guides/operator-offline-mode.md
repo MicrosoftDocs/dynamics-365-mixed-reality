@@ -3,7 +3,6 @@ author: Mamaylya
 description: Work offline as an operator in Dynamics 365 Guides if you don't have an internet connection or you have an intermittent internet connection
 ms.author: mamaylya
 ms.date: 07/07/2020
-ms.service: crm-online
 ms.topic: article
 title: Work offline as an operator in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -15,7 +14,7 @@ You can work offline with a guide on HoloLens 1 or HoloLens 2 (for example, when
 
 You don't need to do anything to set up **Offline** mode. When you open a guide when you're connected to the internet, the guide is automatically downloaded for offline use. If you lose your internet connection or turn off your Wi-Fi connection, the guide will automatically be available and you'll see the **Offline** banner at the top of your screen.
 
-![Offline mode](media/offline-mode.PNG "Offline mode")
+![Offline mode.](media/offline-mode.PNG "Offline mode")
 
 Any guide that's available for offline use will appear under the **All** tab. If no guides are available offline, you'll see this message: 
 
@@ -44,7 +43,7 @@ The demo available through the Dynamics 365 Guides Home screen is available for 
 
 ## How often do you need to come back online?
 
-The Azure Active Directory default configuration for sign-in frequency is a rolling window of 90 days. However, from a Power BI (telemetry) perspective, only a few app sessions are stored on the device. To keep your Power BI dashboards up-to-date, make sure to come back online regularly. [Learn more about configurable token lifetimes in Azure Active Directory (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+The Azure Active Directory default configuration for sign-in frequency is a rolling window of 90 days. However, from a Power BI (telemetry) perspective, only a few app sessions are stored on the device. To keep your Power BI dashboards up-to-date, make sure to come back online regularly. [Learn more about configurable token lifetimes in Azure Active Directory (Preview)](/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
 ## Limitations with Offline mode
 
@@ -63,34 +62,34 @@ You can clear the content and settings cached on a HoloLens by resetting it.
 
 1. From the **Start** screen, select **Settings**.
 
-    ![Settings button in Start menu](media/start-menu-cache.PNG "Settings button in Start menu")
+    ![Settings button in Start menu.](media/start-menu-cache.PNG "Settings button in Start menu")
     
 2. Select **System**.
 
-    ![System command selected](media/system-cache.PNG "System command selected")
+    ![System command selected.](media/system-cache.PNG "System command selected")
 
 3. Select **Storage**.
 
-    ![Storage command selected](media/storage-cache.PNG "Storage command selected")
+    ![Storage command selected.](media/storage-cache.PNG "Storage command selected")
     
 4. Select **Show more categories**.
 
-    ![Show more categories command selected](media/show-more-categories-cache.PNG "Show more categories command selected")
+    ![Show more categories command selected.](media/show-more-categories-cache.PNG "Show more categories command selected")
     
     > [!NOTE]
-    > If you don't see the **Show more categories** command, select the storage bar to move to the next step.<br>![Blue Storage bar](media/storage2-cache.PNG "Blue Storage bar")
+    > If you don't see the **Show more categories** command, select the storage bar to move to the next step.<br>![Blue Storage bar.](media/storage2-cache.PNG "Blue Storage bar")
     
 5. Select **Apps & features**.
 
-    ![Apps & features command selected](media/apps-features-cache.PNG "Apps & features command selected")
+    ![Apps & features command selected.](media/apps-features-cache.PNG "Apps & features command selected")
 
 6. Select **Dynamics 365 Guides**, and then select **Advanced options**.
 
-    ![Advanced systems command selected](media/advanced-systems-cache.PNG "Advanced systems command selected")
+    ![Advanced systems command selected.](media/advanced-systems-cache.PNG "Advanced systems command selected")
 
 7. Scroll down on the page, and then select **Reset**.
 
-    ![Reset command selected](media/reset-cache.PNG "Reset command selected")
+    ![Reset command selected.](media/reset-cache.PNG "Reset command selected")
 
 8. In the pop-up message, select **Reset**. A check mark will appear next to the **Reset** button.
 
@@ -104,3 +103,6 @@ You can clear the content and settings cached on a HoloLens by resetting it.
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Open an app in Power Apps from the Step card](operator-powerapps-link.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn holograms off and on](operator-holograms-off.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use voice commands](voice-commands.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

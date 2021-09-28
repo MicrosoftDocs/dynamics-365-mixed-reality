@@ -2,8 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a QR code anchor
 ms.author: mamaylya
-ms.date: 11/03/2020
-ms.service: crm-online
+ms.date: 06/29/2020
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
 ms.reviewer: v-brycho
@@ -19,7 +18,7 @@ You can anchor your guide to the real world in Microsoft Dynamics 365 Guides by 
 
 - You can print the anchor in various sizes (but be sure to always use the same size for the same guide).
 
-- You can embed a link to a guide (deep link) in a QR code. This makes it quicker for the operator to open the appropriate guide.
+- You can embed a link to a guide (deep link) in a QR code. This makes it quicker for the operator to open the appropriate guide. [Learn more about embedding a link to a guide in a QR code](pc-app-anchor-embed-qr-code-link.md).
 
 In certain cases, you may need to use a circular code or holographic anchor, however. [Learn about other types of anchors and when to use them](pc-app-anchor.md). 
 
@@ -44,15 +43,17 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 1. On the **Outline** page, select **Set your anchor now**.
 
-    ![Set your anchor now button](media/outline-page-3.PNG "Set your anchor now button")
+    ![Set your anchor now button.](media/outline-page-3.PNG "Set your anchor now button")
 
 2. On the **Choose an anchor method** page, select **Select** for the **QR Code** anchor method.
 
-    ![Select button for the QR Code anchor method](media/qr-code-choose-method.PNG "Select button for the QR Code anchor method")
+    ![Select button for the QR Code anchor method.](media/qr-code-choose-method.PNG "Select button for the QR Code anchor method")
 
 3. In step 1 of the wizard, select **Download QR code** to create a PDF file that is named **Guides-QRCodeAnchor**. This file includes the anchor that you will print in step 5.
 
-    ![Download QR code button](media/qr-code-download-button.PNG "Download QR code button")
+    ![Download QR code button.](media/qr-code-download-button.PNG "Download QR code button")
+    
+    You can use the same QR code for any guide that uses a QR code anchor. 
 
 4. On your computer, open the **Guides-QRCodeAnchor** file.
 
@@ -69,22 +70,22 @@ previous step.)
 8. In step 3 of the wizard, select **Import** to import the picture that you took in step 6. Then drag it to the **Import anchor placement photo** box. When you've finished, 
 select **Next** to move to the next step.
 
-    ![Import button](media/qr-code-import-photo.PNG "Import button")
+    ![Import button.](media/qr-code-import-photo.PNG "Import button")
 
 9. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've 
 finished, select **Next** to move to the next step.
 
-    ![Edit step card text button](media/qr-code-operator-instructions.PNG "Edit step card text button")
+    ![Edit step card text button.](media/qr-code-operator-instructions.PNG "Edit step card text button")
 
 10. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open your guide, and then gaze at the QR code anchor to anchor the guide.
 
-    ![Align HoloLens](media/qr-code-align-hololens.PNG "Align HoloLens")
+    ![Align HoloLens.](media/qr-code-align-hololens.PNG "Align HoloLens")
 
 ## QR code anchor configuration
 
 The following illustration shows the different parts of the QR code anchor (see step 3 in the previous procedure) provided with Dynamics 365 Guides:
 
-![QR code illustration](media/qr-code-anchor-dissected.PNG "QR code illustration")
+![QR code illustration.](media/qr-code-anchor-dissected.PNG "QR code illustration")
 
 1. **Anchor origin.** This location is used as the guide origin point for all the content in your guide.
 
@@ -173,10 +174,14 @@ Use the following table to find more information on anchoring.
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
 |Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Creating types of anchors|[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
+|Creating types of anchors|[Create an Azure Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
+||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
 ||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
 |Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
 ||[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
 |HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
 |HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

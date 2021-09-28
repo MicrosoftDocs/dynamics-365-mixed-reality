@@ -3,7 +3,6 @@ author: keno-msft
 description: Everything you need to know about converting 3D models to use with Dynamics 365 Import Tool (Preview)
 ms.author: keno
 ms.date: 09/11/2020
-ms.service: crm-online
 ms.topic: article
 title: Convert your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
@@ -37,3 +36,6 @@ In situations where a CAD application doesn’t have an export option for FBX, O
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

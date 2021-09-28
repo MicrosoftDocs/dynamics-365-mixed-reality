@@ -24,19 +24,19 @@ If you already have a subscription to [!include[pn-dyn-365-layout](../includes/p
 
 1. In the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)], under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users**.
 
-   ![Select Subscriptions](../media/AssignUsers.PNG "Select Subscriptions")
+   ![Select Subscriptions.](../media/AssignUsers.PNG "Select Subscriptions")
    
 2. Select the users you'd like to assign the trial or subscription to, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**. 
 
-   ![Edit product licenses](../media/EditLicenses.PNG "Edit product licenses")
+   ![Edit product licenses.](../media/EditLicenses.PNG "Edit product licenses")
    
 3. In the **Assign products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
 
-   ![Add to existing product licenses](../media/AddProductLicenses.png "Add to existing product licenses")
+   ![Add to existing product licenses.](../media/AddProductLicenses.png "Add to existing product licenses")
    
 4. Select the licenses you want to enable for the selected users, and then select **Add**.
 
-   ![Select product licenses](../media/SelectLicenses.PNG "Select product licenses")
+   ![Select product licenses.](../media/SelectLicenses.PNG "Select product licenses")
 
 ## Make the Dynamics 365 Layout app available to your users
 
@@ -68,15 +68,18 @@ see the [Dynamics 365 Layout user guide](../layout/user-guide.md). Users will ne
 
 1.  Go to [Microsoft Store for Business](https://businessstore.microsoft.com/store).
 
-2.  [Acquire the app](https://docs.microsoft.com/microsoft-store/acquire-apps-microsoft-store-for-business).
+2.  [Acquire the app](/microsoft-store/acquire-apps-microsoft-store-for-business).
 
 3.  Choose one of the following distribution methods:
 
-    -   [Private store](https://docs.microsoft.com/microsoft-store/distribute-apps-from-your-private-store)
-    -   [Email link](https://docs.microsoft.com/microsoft-store/assign-apps-to-employees)
-    -   [Mobile device management](https://docs.microsoft.com/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
+    -   [Private store](/microsoft-store/distribute-apps-from-your-private-store)
+    -   [Email link](/microsoft-store/assign-apps-to-employees)
+    -   [Mobile device management](/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
 [Overview of Dynamics 365 Layout](../layout/index.md)<br/>
 [Dynamics 365 Layout user guide](../layout/user-guide.md)<br/>
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

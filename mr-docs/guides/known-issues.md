@@ -1,11 +1,10 @@
 ---
 author: Mamaylya
-description: Known Issues with Dynamics 365 Guides
+description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: mamaylya
 ms.date: 05/18/2020
-ms.service: crm-online
 ms.topic: article
-title: Known Issues with Dynamics 365 Guides
+title: Known issues with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
@@ -23,9 +22,9 @@ To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 If you see any of the following errors, contact your IT admin, or see the self-service documentation at <https://aka.ms/guidesdocs>:
 
-- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] isn't set up correctly, or you might not have permission to access it. Contact your admin, or see the [self-service documentation](https://aka.ms/guidesdocs).
+- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] isn't set up correctly, or you might not have permission to access it. Contact your admin, or see the [self-service documentation](./index.md).
 
-- Your client app version doesn't support your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version. Update your client app, contact your admin, or see the [self-service documentation](https://aka.ms/guidesdocs).
+- Your client app version doesn't support your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version. Update your client app, contact your admin, or see the [self-service documentation](./index.md).
 
 - You don't have a license to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Contact your admin, or [sign up for a free trial subscription](setup.md).
 
@@ -40,7 +39,7 @@ In the October 1 release, code for hologram positions was refactored to enhance 
 ## The Create account link doesn't work when I try to use a new account to sign in
 When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
 
-![Sign-in screen](media/sign-in-screen.PNG "Sign-in screen")
+![Sign-in screen.](media/sign-in-screen.PNG "Sign-in screen")
  
 Please do not use this link to create an account–it doesn't work.
 
@@ -54,7 +53,7 @@ In rare cases, you might notice that text is wrapped in the Step card view in [!
 
 ## I have an issue that isn't listed in these troubleshooting steps
 
-Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](https://docs.microsoft.com/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
+Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
 
 ## See also
 
@@ -62,3 +61,6 @@ Please contact customer service: [https://docs.microsoft.com/dynamics365/get-sta
 [Known issues with the HoloLens app](known-issues-hololens-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

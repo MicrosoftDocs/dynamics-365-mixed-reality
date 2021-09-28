@@ -3,7 +3,6 @@ author: keno-msft
 description: Describes, in tutorial format, how to use Pixyz Studio to prepare 3D models for use in Microsoft Dynamics 365 Guides or Power Apps
 ms.author: keno
 ms.date: 11/25/2020
-ms.service: crm-online
 ms.topic: article
 title: Use Pixyz Studio to prepare 3D models for use in Dynamics 365 Guides or in mixed-reality components used in apps created with Power Apps
 ms.reviewer: v-brycho
@@ -11,10 +10,10 @@ ms.reviewer: v-brycho
 
 # Use Pixyz Studio to prepare 3D models for use in Dynamics 365 Guides or in mixed-reality components used in apps created with Power Apps
 
-This tutorial outlines a general process for using Pixyz Studio (2020.1 Update 2 r16) to convert Computer-Aided Design (CAD) parametric assets into polygon-based [.GLB](https://www.khronos.org/gltf/) files that perform well in Microsoft Dynamics 365 Guides or in mixed-reality components used in apps created with Microsoft Power Apps. (See [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you may need to adjust the process accordingly. 
+This tutorial outlines a general process for using Pixyz Studio (2020.1 Update 2 r16) to convert Computer-Aided Design (CAD) parametric assets into polygon-based [.GLB](https://www.khronos.org/gltf/) files that perform well in Microsoft Dynamics 365 Guides or in mixed-reality components used in apps created with Microsoft Power Apps. (See [Optimize your 3D models](../../import-tool/optimize-models.md#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you may need to adjust the process accordingly. 
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Pixyz Studio (2020.1 Update 2 r16) works with Dynamics 365 Guides or Power Apps. This document was last updated in November 2020. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of Pixyz’s products. There are [other content-creation apps](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Pixyz Studio (2020.1 Update 2 r16) works with Dynamics 365 Guides or Power Apps. This document was last updated in November 2020. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of Pixyz’s products. There are [other content-creation apps](../../import-tool/convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
 
 ## What is Pixyz Studio?
 
@@ -24,7 +23,7 @@ This tutorial outlines a general process for using Pixyz Studio (2020.1 Update 2
 
 1. Open Pixyz Studio, and then on the top-left side of the toolbar, select **Wizard** to start the Import wizard.
 
-    ![Wizard button in toolbar](media/pixyz-import-tool-wizard.PNG "Wizard button in toolbar")
+    ![Wizard button in toolbar.](media/pixyz-import-tool-wizard.PNG "Wizard button in toolbar")
  
 2. In the **Import Wizard** dialog box, use the following settings to create a high-quality [tessellation](https://en.wikipedia.org/wiki/Tessellation_(computer_graphics)) as a starting point:
 
@@ -41,7 +40,7 @@ This tutorial outlines a general process for using Pixyz Studio (2020.1 Update 2
     |||Max Angle: On, 15 deg|
     |Material Assignment|Transfer CAD Materials On Parts|     
     
-   ![Settings in the Import Wizard dialog box](media/pixyz-import-tool-settings.PNG "Settings in the Import Wizard dialog box")
+   ![Settings in the Import Wizard dialog box.](media/pixyz-import-tool-settings.PNG "Settings in the Import Wizard dialog box")
        
 3. Select **Execute**.
 
@@ -88,7 +87,7 @@ If there are holes in any of the parts or assemblies that aren’t required for 
 
     - **Surfacic Holes:** Holes that are cut into a surface but don’t have any depth.
     
-    ![Remove Holes window showing different types of holes](media/pixyz-hole-types.PNG "Remove Holes window showing different types of holes")
+    ![Remove Holes window showing different types of holes.](media/pixyz-hole-types.PNG "Remove Holes window showing different types of holes")
  
 4. Enter a number (in millimeters) for the **Max Diameter** field. Holes with a diameter below this value that match the types you set will be removed.
 
@@ -131,7 +130,7 @@ Use the **Hidden Removal** command to do a visibility test to determine which po
 
 2.	In the **Level** field, select **Polygons**.
 
-    ![Hidden Removal dialog box](media/pixyz-hidden-removal.PNG "Hidden Removal dialog boxX")
+    ![Hidden Removal dialog box.](media/pixyz-hidden-removal.PNG "Hidden Removal dialog boxX")
  
 3.	Set the **Resolution** field to **Low**. This setting is sufficient for most assets. However, if the asset contains many important small details, consider increasing it to 
 **Medium** or **High**.
@@ -159,7 +158,7 @@ To use the **Decimate to Quality** command:
 
 3. In the **Decimate** window, in the **Preset** field, select **Medium**.
 
-    ![Decimate dialog box showing Preset field](media/pixyz-decimate.PNG "Decimate dialog box showing Preset field")
+    ![Decimate dialog box showing Preset field.](media/pixyz-decimate.PNG "Decimate dialog box showing Preset field")
  
 4. Set the **Surfacic Tolerance** field to **1mm**.
 
@@ -178,7 +177,7 @@ If you have a specific polygon count that you’re aiming for, the **Decimate To
 
 3. In the **Target Triangle Count** field, enter the number of triangles that you’re targeting.
 
-    ![Decimate Target dialog box showing Target Triangle Count field](media/pixyz-decimate-target.PNG "Decimate Target dialog box showing Target Triangle Count field")
+    ![Decimate Target dialog box showing Target Triangle Count field.](media/pixyz-decimate-target.PNG "Decimate Target dialog box showing Target Triangle Count field")
  
 4. Select **Execute**.
 
@@ -200,7 +199,7 @@ In addition to reducing polygon count and hierarchy complexity, draw calls shoul
 
 3. In the **Automatic UV Mapping** window, set the **Channel** field to **0** (the primary UV set).
 
-    ![Automatic UV Mapping dialog box showing Channel field](media/pixyz-uv-mapping.PNG "Automatic UV Mapping dialog box showing Channel field")
+    ![Automatic UV Mapping dialog box showing Channel field.](media/pixyz-uv-mapping.PNG "Automatic UV Mapping dialog box showing Channel field")
  
 4. Move the **Forbid Overlapping** toggle to the **On** position to create a unique UV unwrap, which is required for texture baking.
 
@@ -234,7 +233,7 @@ After generating UVs and creating normals and tangents, you can bake the texture
 
 4. In the **Maps to Bake** list, select **Diffuse**.
 
-    ![Bake Maps dialog box showing Maps to Bake field](media/pixyz-bake-maps.PNG "Bake Maps dialog box showing Maps to Bake field")
+    ![Bake Maps dialog box showing Maps to Bake field.](media/pixyz-bake-maps.PNG "Bake Maps dialog box showing Maps to Bake field")
 
 5. Repeat steps 3 and 4, as necessary, for any additional texture maps.
 
@@ -259,7 +258,7 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 
 4. Select **OK**.
 
-    ![Material Editor window showing Choose a mterial pattern list](media/pixyz-material-editor.PNG "Material Editor window showing Choose a mterial pattern list")
+    ![Material Editor window showing Choose a mterial pattern list.](media/pixyz-material-editor.PNG "Material Editor window showing Choose a mterial pattern list")
  
 5. Enter a **Name** for the material.
     
@@ -267,19 +266,19 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 
 7. In the **Image** field, select **Undefined**.
 
-    ![Creating a name and adding texture in the Material Editor](media/pixyz-material-name-texture.PNG "Creating a name and adding texture in the Material Editor")
+    ![Creating a name and adding texture in the Material Editor.](media/pixyz-material-name-texture.PNG "Creating a name and adding texture in the Material Editor")
 
 8. In the **Texture Library** window, select the baked **Diffuse** texture map.
 
 9. Select the **Select** button to confirm the texture selection.
 
-    ![Selecting Diffuse texture map in the Texture Libaray window](media/pixyz-select-diffuse.PNG "Selecting Diffuse texture map in the Texture Libaray window")
+    ![Selecting Diffuse texture map in the Texture Libaray window.](media/pixyz-select-diffuse.PNG "Selecting Diffuse texture map in the Texture Libaray window")
 
 10. Repeat steps 6-9, as necessary, for any additional texture maps.
 
 11.	Select **Save material** to add it to the material library of the scene.
 
-     ![Save Material button](media/pixyz-save-material.PNG "Save Material button")
+     ![Save Material button.](media/pixyz-save-material.PNG "Save Material button")
 
 12.	Select **OK** to close the **Material Editor** window.
 
@@ -287,13 +286,13 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 
 14.	On the **Inspector** tab, under **Occurrence Properties**, select the **No Material** button. (Ignore the materials in the **Occurrence Components** section.)
 
-    ![Material Editor showing Inspector tab](media/pixyz-inspector.PNG "Material Editor showing Inspector tab")
+    ![Material Editor showing Inspector tab.](media/pixyz-inspector.PNG "Material Editor showing Inspector tab")
  
 15.	In the **Material selector** window, select the new material.
 
 16.	Select **Apply**.
 
-     ![Apply button](media/pixyz-apply-material.PNG "Apply button")
+     ![Apply button.](media/pixyz-apply-material.PNG "Apply button")
 
 ## Export the model to a GLB file
 
@@ -309,7 +308,7 @@ At this point, you have a fully optimized model that’s ready to export as a .G
 
 5.	Select **GLTF Binary (&ast;.glb)** as the file type.
 
-    ![Save as type field](media/pixyz-export.PNG "Save as type field")
+    ![Save as type field.](media/pixyz-export.PNG "Save as type field")
  
 6.	Select **Save**.
 
@@ -334,7 +333,7 @@ You can preview the resulting .GLB file(s) with the [3D Viewer](https://www.micr
 
 5. If your device has a camera, you can move the **Mixed reality** slider to the **On** position and place the asset to preview it in your world.
 
-    ![3D Viewer showing Stats & Shading field](media/pixyz-3d-viewer.png "3D Viewer showing Stats & Shading field")
+    ![3D Viewer showing Stats & Shading field.](media/pixyz-3d-viewer.png "3D Viewer showing Stats & Shading field")
     
 > [!TIP]
 > The [Babylon.JS Web Viewer](https://sandbox.babylonjs.com/) is another great option if uploading the asset is not a concern.
@@ -345,11 +344,11 @@ If the asset requires any additional editing or animation work in another stagin
 
 After preparing your 3D models, you can learn more about using the following Dynamics 365 apps to view your 3D models in mixed reality:
 
-- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+- [Dynamics 365 Guides](../index.md)
 
-- [Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/) via [Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+- [Dynamics 365 Layout](../../layout/index.md) via [Dynamics 365 Import Tool (Preview)](../../import-tool/import-tool.md)
 
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
+- [Dynamics 365 Product Visualize](../../product-visualize/index.md)
 
 ## More information
 
@@ -358,3 +357,6 @@ Several screenshots in this document were taken from the Pixyz Studio (2020.1 Up
 Your use of any third-party application is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of Pixyz’s products. Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Pixyz Studio, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications or updates to Pixyz Studio that may have been made after the date the tutorial was prepared.
 
 The use in this document of trademarked names and images is strictly to attribute the application to Pixyz Studio and for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

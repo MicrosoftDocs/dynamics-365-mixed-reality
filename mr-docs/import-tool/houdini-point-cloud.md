@@ -3,7 +3,6 @@ author: keno-msft
 description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D models for Microsoft Dynamics 365 mixed-reality apps.
 ms.author: keno
 ms.date: 3/20/2020
-ms.service: crm-online
 ms.topic: article
 title: Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
@@ -47,17 +46,17 @@ SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-
 
 1. Open Houdini.
 
-2. To install SideFX Labs, select the plus sign ![Plus sign](media/houdini-66-plus-sign.png "Plus sign") at the top of the Houdini window, select **Shelves**, and then select the **SideFX Labs** check box.
+2. To install SideFX Labs, select the plus sign ![Plus sign.](media/houdini-66-plus-sign.png "Plus sign") at the top of the Houdini window, select **Shelves**, and then select the **SideFX Labs** check box.
 
-    ![SideFX Labs check box](media/houdini-1-sidefx-check-box.PNG "SideFX Labs check box")
+    ![SideFX Labs check box.](media/houdini-1-sidefx-check-box.PNG "SideFX Labs check box")
 
 2. On the toolbar that appears near the top of the window, select **Update Toolset** to open the installer.
 
-    ![Update Toolset button](media/houdini-2-update-toolset-icon.PNG "Update Toolset button")
+    ![Update Toolset button.](media/houdini-2-update-toolset-icon.PNG "Update Toolset button")
 
 3. Select **Update** to install the tools.
 
-    ![Update button](media/houdini-3-update-button.PNG "Update button")
+    ![Update button.](media/houdini-3-update-button.PNG "Update button")
 
 If the installation is successful, more tools appear on the toolbar. You can then continue with this tutorial.
 
@@ -93,7 +92,7 @@ Houdini can import point cloud files in the PLY file format. If your file is in 
 
 2. In the header, next to **element vertex**, replace the value **534993** with the value that originally appeared at the top of your .pts file (but now immediately follows the header).
 
-    ![Value at the top of the .pts file](media/houdini-4-pts-file.PNG "Value at the top of the .pts file")
+    ![Value at the top of the .pts file.](media/houdini-4-pts-file.PNG "Value at the top of the .pts file")
 
     This value is the total number of points in your point cloud.
 
@@ -109,25 +108,25 @@ Houdini can import point cloud files in the PLY file format. If your file is in 
 
 1. Open Houdini. A new scene is automatically created. In this procedure, you will build a chain of nodes to process the point cloud into a 3D model. These nodes will be built in the lower-right pane of the Houdini window.
 
-    ![Node pane](media/houdini-6-node-area.PNG "Node pane")
+    ![Node pane.](media/houdini-6-node-area.PNG "Node pane")
 
 2. Right-click in the lower-right pane to open the **TAB Menu**. (Alternatively, press the **Tab** key.)
 
 3. On the **TAB Menu**, select **Import \> File**, and then click in the **Geometry** pane to place the node.
 
-    ![File command](media/houdini-7-import-file.PNG "File command")
+    ![File command.](media/houdini-7-import-file.PNG "File command")
 
 3. Double-click in the middle of the **file1** node (or press **I**) to drill down into the file selection part of the node, select the **File Chooser** button, and then select the file to import.
 
-    ![File Chooser button](media/houdini-8-file-chooser.PNG "File Chooser button")
+    ![File Chooser button.](media/houdini-8-file-chooser.PNG "File Chooser button")
 
 4. In the file browser that appears, browse to the location of the .ply point cloud file that you want to import, select the file, and then select **Accept**.
 
-    ![Accept button](media/houdini-9-accept-button.PNG "Accept button")
+    ![Accept button.](media/houdini-9-accept-button.PNG "Accept button")
 
     The point cloud appears in the main part of the window. If you can't see it, try to use the mouse wheel to zoom out until you can see the whole point cloud.
 
-    ![Point cloud](media/houdini-10-point-cloud-displayed.PNG "Point cloud")
+    ![Point cloud.](media/houdini-10-point-cloud-displayed.PNG "Point cloud")
 
 ## Prepare the point cloud
 
@@ -137,26 +136,26 @@ Sometimes, when you first import a point cloud, it has the wrong orientation. Yo
 
 1. Right-click in the **Geometry** pane to open the **TAB Menu**, and then select **Manipulate \> Transform** to add a transform node.
 
-    ![Transform command](media/houdini-11-manipulate-transform.PNG "Transform command")
+    ![Transform command.](media/houdini-11-manipulate-transform.PNG "Transform command")
 
 2. Drag from the dot on the bottom of the **file1** node to the dot on the top of the **transform1** node. In this way, you connect the output of the **file1** node to the input of the **transform1** node. Then click on the right side of the **transform1** node. The right side of the **transform1** node becomes blue, and the node becomes active in the main part of the window, so that you can see your model after it has been reoriented.
 
-    ![Transform node](media/houdini-12-transform-node.PNG "Transform node")
+    ![Transform node.](media/houdini-12-transform-node.PNG "Transform node")
 
     > [!TIP]
     > To view the model during a specific stage of the process in Houdini, click on the right side of the appropriate node. This capability is helpful if you ever have to look at your 3D model in a previous state and edit the changes that occurred during that state.
 
 3. To correct the rotation of your model, in the options pane above the node pane, add values in the **Rotate** row. You can often set the **x** value to **270** to rotate the model to the correct position. However, if that value doesn't work, try different values.
 
-    ![Rotate value](media/houdini-13-rotation-value.PNG "Rotate value")
+    ![Rotate value.](media/houdini-13-rotation-value.PNG "Rotate value")
 
 4. To center your point cloud over the origin point, add an axis align node after the transform node. To place the node, hover your mouse over the **Geometry** pane, press the **Tab** key to open the **TAB Menu**, and then select **Labs** \> **Geo** \> **Labs Axis Align**.
 
-    ![Labs Axis Align command](media/houdini-14-labs-geo-axis-align.PNG "Labs Axis Align command")
+    ![Labs Axis Align command.](media/houdini-14-labs-geo-axis-align.PNG "Labs Axis Align command")
 
 5. Drag to connect the output dot on the bottom of the **transform1** node to the input dot on the top of the **axis\_align1** node. Leave the default values as they are to position your point cloud on top of the origin point (an ideal place for it).
 
-    ![Nodes connected](media/houdini-15-nodes-connected.PNG "Nodes connected")
+    ![Nodes connected.](media/houdini-15-nodes-connected.PNG "Nodes connected")
 
 ### Clean up the point cloud to remove stray points
 
@@ -167,19 +166,19 @@ If your point cloud has stray points that you want to remove, you can select and
     > [!NOTE]
     > You can use a different method if you prefer.
 
-    ![Points method and Lasso Picking tool selected](media/houdini-16-points-lasso-picking.PNG "Points method and Lasso Picking tool selected")
+    ![Points method and Lasso Picking tool selected.](media/houdini-16-points-lasso-picking.PNG "Points method and Lasso Picking tool selected")
 
 2. Select the points to delete.
 
-    ![Points to delete selected](media/houdini-17-selected-points.PNG "Points to delete selected")
+    ![Points to delete selected.](media/houdini-17-selected-points.PNG "Points to delete selected")
 
 3. Press the **Delete** key. A new **blast1** node appears. The input dot on the top of this node is connected to the output dot on the bottom of the last node that you were working with.
 
-    ![Blast node](media/houdini-18-blast-node.PNG "Blast node")
+    ![Blast node.](media/houdini-18-blast-node.PNG "Blast node")
 
 4. Continue to remove points until you're satisfied with the results. Each deletion adds a new blast node that you can view or remove at any time.
 
-    ![Multiple blast nodes](media/houdini-19-multiple-blast-nodes.PNG "Multiple blast nodes")
+    ![Multiple blast nodes.](media/houdini-19-multiple-blast-nodes.PNG "Multiple blast nodes")
 
 ## Convert the point cloud to a mesh
 
@@ -187,39 +186,39 @@ Both glTF and real-time rendering applications require that models be represente
 
 1. Click in the **Geometry** pane to open the **TAB Menu**, and then select **Fluid** \> **Particle Fluid Surface**. Then select the node, and add it to the **Geometry** pane.
 
-    ![Particle Fluid Surface command](media/houdini-20-particle-fluid-surface.PNG "Particle Fluid Surface command")
+    ![Particle Fluid Surface command.](media/houdini-20-particle-fluid-surface.PNG "Particle Fluid Surface command")
 
 2. Drag to connect the output dot on the bottom of the **transform1** node to the input dot on the upper left of the **particlefluidsurface1** node. Then click on the right side of the **pariclefluidsurface1** node to activate the node in the main part of the window.
 
-    ![Connected nodes](media/houdini-21-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes.](media/houdini-21-connected-nodes.PNG "Connected nodes")
 
     In the main part of the window, the point cloud is rendered as a mesh. The **Surfacing** tab is selected in the upper-right pane above the **Geometry** pane.
 
-    ![Surfacing tab](media/houdini-22-surfacing-tab.PNG "Surfacing tab")
+    ![Surfacing tab.](media/houdini-22-surfacing-tab.PNG "Surfacing tab")
 
 3. If color data is associated with the points in the point cloud, you can use the color attributes by adding the letters **Cd** to the end of the value in the **Transfer Attributes** field. The color will then be shown on your mesh.
 
-    ![Cd attribute](media/houdini-23-cd-attribute.PNG "Cd attribute")
+    ![Cd attribute.](media/houdini-23-cd-attribute.PNG "Cd attribute")
 
 4. If there are holes in the mesh, as shown in the following illustration, adjust the **Particle Separation** and **Voxel Scale** sliders in the upper-right pane to try to fix the issue.
 
-    ![Particle Separation and Voxel Scale sliders](media/houdini-24-particle-scale-voxel.PNG "Particle Separation and Voxel Scale sliders")
+    ![Particle Separation and Voxel Scale sliders.](media/houdini-24-particle-scale-voxel.PNG "Particle Separation and Voxel Scale sliders")
 
 5. To prepare the mesh for decimation (the next step in the overall process), under **Output**, change the value of the **Convert To** field from **Surface Polygon Soup** to **Surface Polygons**. In this way, you can remesh the mesh and decimate it.
 
-    ![Convert To field](media/houdini-25-convert-to.PNG "Convert To field")
+    ![Convert To field.](media/houdini-25-convert-to.PNG "Convert To field")
 
 6. Right-click in the **Geometry** pane to open the **TAB Menu**, and then select **Polygon** \> **Remesh**. A remesh node is added to convert the mesh to triangles. In this way, you can decimate the 3D model to a polygon count that meets your performance requirements.
 
-    ![Remesh command](media/houdini-26-polygon-remesh.PNG "Remesh command")
+    ![Remesh command.](media/houdini-26-polygon-remesh.PNG "Remesh command")
 
 7. Drag to connect the output dot on the bottom of the **particlefluidsurface1** node to the input dot on the upper left of the **remesh** node. Click in the middle of the **remesh** node to activate it in the pane above the **Geometry** pane. Then click on the right side of the **remesh** node to activate the model in the main part of the window. You can now edit the properties of the remesh, and the model in the main part of the window will reflect those edits.
 
-    ![Connected nodes](media/houdini-27-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes.](media/houdini-27-connected-nodes.PNG "Connected nodes")
 
 8. Experiment with the options under **Element Sizing** to get the results that you want. For the **Edge Lengths** field, you can keep the default value (**Uniform**), or you can select **Adaptive** and adjust the **Relative Density** slider (and other options) to produce the mesh that you want.
 
-    ![Element Sizing options](media/houdini-28-element-sizing.PNG "Element Sizing options")
+    ![Element Sizing options.](media/houdini-28-element-sizing.PNG "Element Sizing options")
 
 ## Decimate the 3D model to help improve performance
 
@@ -234,13 +233,13 @@ To achieve application-specific goals, you might have to decimate your 3D model.
 
 1. In the **Geometry** pane, press the **Tab** key to open the **TAB Menu**, and then select **Polygon** \> **PolyReduce** to place a PolyReduce node in the **Geometry** pane.
 
-    ![PolyReduce command](media/houdini-31-polygon-polyreduce.PNG "PolyReduce command")
+    ![PolyReduce command.](media/houdini-31-polygon-polyreduce.PNG "PolyReduce command")
 
 2. Drag to connect the output dot on the bottom of the **remesh** node to the input dot on the upper left of the **polyreduce1** node. Click in the middle of the **polyreduce1** node, and then click on the right side of the node to activate it in the main part of the window.
 
 3. Under **Reduction Amount**, in the **Target** field, select **Output Polygon Count**, and then use the **Number To Keep** slider to adjust the polygon count to meet your performance requirements but also maintain acceptable visual fidelity.
 
-    ![Reduction Amount options](media/houdini-32-connected-nodes.PNG "Reduction Amount options")
+    ![Reduction Amount options.](media/houdini-32-connected-nodes.PNG "Reduction Amount options")
 
 The point cloud has now been converted to an optimized 3D mesh. In the next step, you will bake a high-resolution texture onto the 3D model to recover some of the visual fidelity that existed before decimation.
 
@@ -254,95 +253,95 @@ Texture coordinates (also known as *UVs*) are pairs of numbers (*U* and *V*) tha
 
 1. Right-click in the **Geometry** pane to open the **TAB Menu**, and then select **Labs** \> **UV** \> **Labs Auto UV** to add an AutoUV node to the scene.
 
-    ![Labs AutoUV command](media/houdini-33-labs-autouv-node.PNG "Labs AutoUV command")
+    ![Labs AutoUV command.](media/houdini-33-labs-autouv-node.PNG "Labs AutoUV command")
 
 2. Under **Method**, change the value of the **Method** field to **UV Unwrap**.
 
-    ![UV Unwrap method selected](media/houdini-33A-uv-unwrap.PNG "UV Unwrap method selected")
+    ![UV Unwrap method selected.](media/houdini-33A-uv-unwrap.PNG "UV Unwrap method selected")
 
 3. Drag to connect the output dot on the bottom of the **polyreduce1** node to the input dot on the top of the **autouv1** node.
 
-    ![Connected nodes](media/houdini-34-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes.](media/houdini-34-connected-nodes.PNG "Connected nodes")
 
 4. To view the "before" and "after" models side by side, select the **Viewport Layout** button, and then select **Two Views Side by Side**.
 
-    ![Two Views Side by Side option](media/houdini-35-two-views-option.PNG "Two Views Side by Side option")
+    ![Two Views Side by Side option.](media/houdini-35-two-views-option.PNG "Two Views Side by Side option")
 
 5. In the main part of the window, on the drop-down menu, select **Set View \> UV viewport**.
 
-    ![UV viewport command](media/houdini-36-uv-viewport.PNG "UV viewport command")
+    ![UV viewport command.](media/houdini-36-uv-viewport.PNG "UV viewport command")
 
     The unwrapped UVs appear on the left, and the 3D model appears on the right.
 
-    ![Unwrapped UVs and 3D model](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs and 3D model")
+    ![Unwrapped UVs and 3D model.](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs and 3D model")
 
 5. In the **Geometry** pane, select **Labs** \> **Output** \> **Labs Maps Baker** to add a **maps\_baker1** node.
 
-    ![Labs Maps Baker command](media/houdini-38-labs-maps-baker-node.PNG "Labs Maps Baker command")
+    ![Labs Maps Baker command.](media/houdini-38-labs-maps-baker-node.PNG "Labs Maps Baker command")
 
 6. Drag to connect the output dot on the bottom of the **autouv1** node to the input dot on the upper left of the **maps\_baker1** node. (The upper-left dot is the **LOW Resolution input** node.)
 
-    ![Connected nodes](media/houdini-39-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes.](media/houdini-39-connected-nodes.PNG "Connected nodes")
 
 7. Drag to connect the output dot on the bottom of the **particlefluidsurface1** node to the input dot on the upper right of the **maps\_baker 1** node. (The upper-right dot is the **HIGH Resolution input** node.)
 
-    ![Connected nodes](media/houdini-40-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes.](media/houdini-40-connected-nodes.PNG "Connected nodes")
 
 8. Select the **maps\_baker1** node, and then, under **Bake**, change the value of the **Preview Channel** field to **diffuse**. Under **Bake Options**, set the **Diffuse Map** field to **diffuse**.
 
-    ![Bake options](media/houdini-41-diffuse-options.PNG "Bake options")
+    ![Bake options.](media/houdini-41-diffuse-options.PNG "Bake options")
 
     > [!TIP]
     > To save your project in a specific folder, select the **File Chooser** button next to the **Output Directory** field that is shown in the previous illustration. When you bake a texture, the .png texture file is saved to a **render** folder that is created in the root folder of the saved project. By saving your project in its own folder, you make the baked texture easy to find.
 
 9. Select the **maps\_baker1** node, and then, in the options pane, select **Bake**.
 
-    ![Bake button](media/houdini-42-bake-command.PNG "Bake button")
+    ![Bake button.](media/houdini-42-bake-command.PNG "Bake button")
 
 10. Right-click in the **Geometry** pane to open the **TAB menu**, and then select **Managers** \> **Material Network** to add a **matnet1** node to the scene.
 
-    ![Material Network command](media/houdini-43-managers-material-network.PNG "Material Network command")
+    ![Material Network command.](media/houdini-43-managers-material-network.PNG "Material Network command")
 
 11. Double-click the **matnet1** node to open the **VEX Builder** pane.
 
-    ![Matnet node](media/houdini-44-matnet-node.PNG "Matnet node")
+    ![Matnet node.](media/houdini-44-matnet-node.PNG "Matnet node")
 
 12. Right-click in the **VEX Builder** pane, and then select **Shaders \> Principled Shader** to add a **Principled Shader** material.
 
-    ![Principled Shader command](media/houdini-45-shaders.PNG "Principled Shader command")
+    ![Principled Shader command.](media/houdini-45-shaders.PNG "Principled Shader command")
 
 13. In the options pane, on the **Surface** tab, use the sliders to change the value of the **Roughness** field to **0.6** and the value of the **Metallic** field to **0.1**. (You can set these fields to whatever you want, but we have found that these values are a good starting point when they are used in conjunction with the default values.)
 
-    ![Roughness and Metallic fields](media/houdini-46-roughness-metallic.PNG "Roughness and Metallic fields")
+    ![Roughness and Metallic fields.](media/houdini-46-roughness-metallic.PNG "Roughness and Metallic fields")
 
 14. On the **Textures** tab, under **Base Color**, select the **Use Texture** check box. Then select the **File Chooser** button, and select the **\*\_color.png** texture file that you saved to the **render** folder earlier. The principled shader is now ready to use. 
 
     > [!NOTE]
     > Feel free to modify the material further. For the purpose of this tutorial, this configuration is sufficient.
 
-    ![Use Texture check box and selected texture](media/houdini-47-texture.PNG "Use Texture check box and selected texture")
+    ![Use Texture check box and selected texture.](media/houdini-47-texture.PNG "Use Texture check box and selected texture")
 
 15. In the **VEX Builder** pane, select the **Back** (left arrow) button to return to the **Geometry** pane.
 
-    ![Back button](media/houdini-48-back-arrow.PNG "Back button")
+    ![Back button.](media/houdini-48-back-arrow.PNG "Back button")
 
 16. Select **Material \> Material** to place a material node in the **Geometry** pane.
 
-    ![Material command](media/houdini-49-material.PNG "Material command")
+    ![Material command.](media/houdini-49-material.PNG "Material command")
 
 17. Drag to connect the output dot on the bottom of the **autouv1** node to the input dot on the top of the **material1** node.
 
-    ![Connected nodes](media/houdini-50-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes.](media/houdini-50-connected-nodes.PNG "Connected nodes")
 
 18. Select the **material1** node, and select the **Operator chooser** button. Then, in **Choose Operator** dialog box, select **file1** \> **matnet1** \> **principledshader1** to select the principled shader that you created earlier.
 
-    ![Choose Operator button and selected material file](media/houdini-51-operator-chooser-material.PNG "Choose Operator button and selected material file")
+    ![Choose Operator button and selected material file.](media/houdini-51-operator-chooser-material.PNG "Choose Operator button and selected material file")
 
 19. Click on the right side of the node to activate it in the main part of the window.
 
 The texture is rendered on top of your low-polygon 3D model. If it looks acceptable, move on to the next step.
 
-![Texture rendered on the low-polygon model](media/houdini-52-texture-low-poly.PNG "Texture rendered on the low-polygon model")
+![Texture rendered on the low-polygon model.](media/houdini-52-texture-low-poly.PNG "Texture rendered on the low-polygon model")
 
 ## Export the model to a .glb file
 
@@ -350,23 +349,23 @@ In this step, you will export the model to a .glb file so that it can be used wi
 
 1. Right-click in the **Geometry** pane to open the **TAB Menu**, and then select **Export** \> **ROP GLTF Output**.
 
-    ![ROP GLTF Output command](media/houdini-53-export.PNG "ROP GLTF Output command")
+    ![ROP GLTF Output command.](media/houdini-53-export.PNG "ROP GLTF Output command")
 
 2. Drag to connect the output dot on the bottom of the **material1** node to the input dot on the top of the **rop\_gltf1** node.
 
-    ![Connected nodes](media/houdini-54-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes.](media/houdini-54-connected-nodes.PNG "Connected nodes")
 
 3. In the upper pane, change the value of the **Export Type** field to **glb**.
 
-    ![glb selected in the Export Type field](media/houdini-55-select-glb.PNG "glb selected in the Export Type field")
+    ![glb selected in the Export Type field.](media/houdini-55-select-glb.PNG "glb selected in the Export Type field")
 
 4. Select the **File Chooser** button next to the **Output File** field, and then enter a name and destination for the .glb file. Be sure to add **.glb** to the end of the file name. When you've finished, select **Accept**.
 
-    ![File Chooser button and File field](media/houdini-56-file-chooser-name.PNG "File Chooser button and File field")
+    ![File Chooser button and File field.](media/houdini-56-file-chooser-name.PNG "File Chooser button and File field")
 
 5. Select **Render to Disk** to finalize the export and create the .glb file.
 
-    ![Render to Disk button](media/houdini-57-render-to-disk.PNG "Render to Disk button")
+    ![Render to Disk button.](media/houdini-57-render-to-disk.PNG "Render to Disk button")
 
 ## Create a template to reuse your settings for other point clouds
 
@@ -384,11 +383,11 @@ To save time and effort, you can create a template. In this way, the settings th
 
     4. Change the file name to something generic, such as **Template**.
 
-    ![Redrawn geometry](media/houdini-58-refreshed-geometry.PNG "Redrawn geometry")
+    ![Redrawn geometry.](media/houdini-58-refreshed-geometry.PNG "Redrawn geometry")
 
 2. Select **File \> Save**, and enter a name that you will remember, such as **Prep\_Template**.
 
-    ![Save command](media/houdini-59-file-save.PNG "Save command")
+    ![Save command.](media/houdini-59-file-save.PNG "Save command")
 
 3. Close Houdini.
 
@@ -396,29 +395,29 @@ To save time and effort, you can create a template. In this way, the settings th
 
 1. Open Houdini, select **File** \> **Open**, and then select the template that you just created.
 
-    ![Open command](media/houdini-60-file-open.PNG "Open command")
+    ![Open command.](media/houdini-60-file-open.PNG "Open command")
 
 2. In the **Geometry** pane, click in the middle of the file node to switch to the **File** menu in the upper pane. Then select the **File Chooser** button next to the **Geometry File** field to select the .ply point cloud file.
 
-    ![Selected node and File Chooser button](media/houdini-61-selected-node-file-chooser.PNG "Selected node and File Chooser button")
+    ![Selected node and File Chooser button.](media/houdini-61-selected-node-file-chooser.PNG "Selected node and File Chooser button")
 
 3. Select **Reload Geometry** to load the point cloud into the scene.
 
-    ![Reload Geometry button](media/houdini-62-reload-geometry.PNG "Reload Geometry button")
+    ![Reload Geometry button.](media/houdini-62-reload-geometry.PNG "Reload Geometry button")
 
 4. Go to the **maps\_baker1** node, and then select **Bake** to bake a new texture for your 3D model.
 
-    ![Bake button](media/houdini-63-bake-command.PNG "Bake button")
+    ![Bake button.](media/houdini-63-bake-command.PNG "Bake button")
 
 5. Click on the right side of the **material1** node to view your baked model.
 
-    ![Right side of the Material node](media/houdini-64-right-tab-material-node.PNG "Right side of the Material node")
+    ![Right side of the Material node.](media/houdini-64-right-tab-material-node.PNG "Right side of the Material node")
 
 6. Follow one of these steps:
 
     - If you're satisfied with the 3D model, go to the **rop\_gltfB** node, and then select **Render to Disk** to export your 3D model.
 
-        ![Render to Disk command](media/houdini-65-render-to-disk.PNG "Render to Disk command")
+        ![Render to Disk command.](media/houdini-65-render-to-disk.PNG "Render to Disk command")
 
     - If you aren't satisfied with how the 3D model looks, adjust the settings for the **particlefluidsurface1**, **remesh**, and **polyreduce1** nodes. When your model looks acceptable, bake your texture again, and export the 3D model.
 
@@ -426,9 +425,9 @@ To save time and effort, you can create a template. In this way, the settings th
 
 You can use any of the following Microsoft Dynamics 365 apps to view your 3D model in mixed reality:
 
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
+- [Dynamics 365 Product Visualize](../product-visualize/index.md)
 
-- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+- [Dynamics 365 Guides](../guides/index.md)
 
 ### More information
 
@@ -437,3 +436,6 @@ Screenshots in this tutorial were taken from the Houdini software program to pro
 Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Houdini, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
 
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

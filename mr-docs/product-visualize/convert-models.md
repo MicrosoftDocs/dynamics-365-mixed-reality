@@ -1,19 +1,18 @@
 ---
-author: JBrentJ
+author: sbmjais
 description: Everything you need to know about converting 3D models
-ms.author: v-jerja
+ms.author: shjais
 ms.date: 08/13/2020
-ms.service: crm-online
 ms.topic: article
 title: Convert your 3D (CAD) models for using with mixed-reality applications
-ms.reviewer: v-brycho
+manager: shujoshi
 ---
 
 # Convert your 3D (CAD) models to use with mixed-reality applications
 
 To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. 
 
-![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
+![Convert flow highlighted.](media/convert-flow.PNG "Convert flow highlighted") 
 
 ## Tools for exporting CAD models
 
@@ -38,3 +37,6 @@ In situations where a CAD application doesn’t have an export option for FBX, O
 [Best practices for converting and optimizing models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

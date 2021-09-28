@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to use Dynamics 365 Guides US Government for government organizations
 ms.author: mamaylya
 ms.date: 11/25/2020
-ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Guides Us Government
 ms.reviewer: v-brycho
@@ -11,10 +10,8 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Guides US Government
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 In response to the unique and evolving requirements of the United States public sector, Microsoft has created Dynamics 365 Guides US Government, a plan for US government 
-organizations. We recommend that you read this supplementary section alongside the [Guides documentation](https://docs.microsoft.com/dynamics365/mixed-reality/guides/).
+organizations. We recommend that you read this supplementary section alongside the [Guides documentation](./index.md).
 
 At this time, Dynamics 365 Guides US Government is offered only at the Government Community Cloud (GCC) level. It is currently unavailable for GCC High, and for the Department of Defense (DoD).  
 
@@ -30,7 +27,7 @@ In addition to the features and capabilities of Dynamics 365 Guides, organizatio
 
 - Your organization’s customer content is stored within the United States.
 
-- Access to your organization’s customer content is restricted to [screened Microsoft personnel](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#restricted-data-access-by-administrators).
+- Access to your organization’s customer content is restricted to [screened Microsoft personnel](/power-platform/admin/microsoft-dynamics-365-government#restricted-data-access-by-administrators).
 
 - The GCC plan is designed to comply with certifications and accreditations that are required for US public sector customers with FedRAMP moderate requirements.
 
@@ -51,7 +48,7 @@ The GCC plan is available through the Volume Licensing and Cloud Solution Provid
 
 Customer data, as defined in the Online Services Terms, means all data, including all text, sound, video, 3D models, or image files, and software, that are provided to 
 Microsoft by, or on behalf of, customers through the use of the Online Service. Customer content refers to a specific subset of customer data that has been directly 
-created by users, such as content stored in databases through entries in [Microsoft Dataverse](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered confidential information and in normal service operation is not sent over the internet without encryption.
+created by users, such as content stored in databases through entries in [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered confidential information and in normal service operation is not sent over the internet without encryption.
 
 Microsoft reminds you not to share any controlled, sensitive, or confidential information with support personnel as part of your GCC-related support 
 incident, until you confirm their authorization to view or access such data. Microsoft is committed to protecting your privacy. Dynamics 365 Guides Customer Support 
@@ -66,4 +63,7 @@ only in the United States.
 
 ## See also
 
-[Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government)
+[Dynamics 365 US Government](/power-platform/admin/microsoft-dynamics-365-government)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

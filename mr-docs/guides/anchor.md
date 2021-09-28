@@ -3,17 +3,17 @@ author: Mamaylya
 description: Learn how to anchor holograms in Microsoft Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 10/01/2020
-ms.service: crm-online
 ms.topic: article
-title: Anchor your holograms to the real world in Dynamics 365 Guides
+title: Overview of anchoring a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Anchor your holograms to the real world in Dynamics 365 Guides
 
 When you create a guide with the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, one of the first steps is to select an anchoring method. When you anchor a guide, you spatially synchronize it with your real-world environment (for example, a factory floor). Anchors help holograms determine where they are in the real world. You must create an anchor for your guide before it will work on [!include[pn-hololens](../includes/pn-hololens.md)].
 
-![Worker attaching a QR code anchor to machine](media/anchor-overview.PNG "Worker attaching a QR code anchor to machine")
+![Worker attaching a QR code anchor to machine.](media/anchor-overview.PNG "Worker attaching a QR code anchor to machine")
 
 It's crucial to ensure that holograms are aligned as precise as possible. If holograms are misaligned, your instructions may show actions at incorrect locations, which can result in operator confusion or damage to parts.
 
@@ -68,7 +68,7 @@ The following factors can affect the accuracy of the anchor and/or user percepti
 
     To calibrate your IPD on **HoloLens 2**, make sure to go through the eye calibration app when prompted. This will not only calibrate IPD but will also auto-correct hologram position in case the device moves on the user's head. 
 
-    To calibrate your IPD on **[!include[pn-hololens](../includes/pn-hololens.md)] 1**, [use the HoloLens Calibration app](https://docs.microsoft.com/windows/mixed-reality/calibration).
+    To calibrate your IPD on **[!include[pn-hololens](../includes/pn-hololens.md)] 1**, [use the HoloLens Calibration app](/windows/mixed-reality/calibration).
 
 - **Pre-scanning the environment.** [!include[pn-hololens](../includes/pn-hololens.md)] actively scans its environment for visible features to map its surroundings. This scan occurs whenever the device is turned on and a user is signed in. It occurs regardless of whether you're in the [!include[pn-hololens](../includes/pn-hololens.md)] shell or running apps. [!include[pn-hololens](../includes/pn-hololens.md)] constantly improves the accuracy of these maps as it scans the environment from different viewpoints and stores the maps on the device. Holograms are placed in relation to these maps. The more accurate the map, the more accurate the hologram placement.
 
@@ -87,3 +87,6 @@ The following factors can affect the accuracy of the anchor and/or user percepti
 [Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)<br>
 [Anchor your guide as an operator in the HoloLens app](operator-anchor.md)<br>
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

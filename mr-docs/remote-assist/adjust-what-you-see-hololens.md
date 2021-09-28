@@ -1,7 +1,7 @@
 ---
 title: Adjust what you see in Dynamics 365 Remote Assist on HoloLens 
 author: sophiasysun
-description: Adjust Dynamics 365 Remote Assist window, switch displayed video feed, and view Teams user's desktop or mobile screen 
+description: Adjust the Dynamics 365 Remote Assist window, switch displayed video feed, and view Teams user's desktop or mobile screen. 
 ms.author: sopsun
 ms.date: 3/15/2020
 ms.service: crm-online
@@ -40,3 +40,6 @@ The remote collaborator can share their desktop or application window with you t
 You'll still be able to use all the tools on the video card even though you are no longer seeing your collaborator’s video feed. Your collaborators will still be able to see what you’re looking at unless you turn off outgoing video feed. 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -21,7 +21,7 @@ Need more help? [Check out the Dynamics 365 Layout FAQ](faq.md) for answers to c
 
 ## What you’ll need
 
--   [A subscription to Dynamics 365 Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC. 
+-   [A subscription to Dynamics 365 Layout.](/dynamics365/#pivot=mixed-reality-appspivot=mixed-reality-apps) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC. 
    
 -   A [HoloLens](https://www.microsoft.com/hololens) device running the [Windows 10 April 2018 Update](https://support.microsoft.com/help/12643) and/or a [Windows Mixed Reality immersive headset](https://www.microsoft.com/windows/windows-mixed-reality). 
 
@@ -57,7 +57,7 @@ If you use [!include[pn-hololens](../includes/pn-hololens.md)] 2, after you inst
 
 Teaching moments provide a series of images that make it easy to understand common tasks. To access teaching moments, air tap **Help**, and then air tap the area you need help with.
 
-![Teaching moments](media/teaching-moments.PNG "Teaching moments")
+![Teaching moments.](media/teaching-moments.PNG "Teaching moments")
 
 ### Demo layouts
 
@@ -70,7 +70,7 @@ For example, in the Copy and paste demo, learn how to complete a conveyor belt b
 
 To access demo layouts, pick the demo you want from the **Layouts** menu.
 
-![Demo layouts](media/demo-layouts.PNG "Demo layouts")
+![Demo layouts.](media/demo-layouts.PNG "Demo layouts")
 
 ## Use Dynamics 365 Layout
 
@@ -98,7 +98,7 @@ There are two ways to create a layout:
     the one that matches your version of [!include[pn-visio](../includes/pn-visio.md)]).
     
     > [!div class="mx-imgBorder"]
-    > ![Download Visio add-in](media/visio-download.PNG "Download Visio add-in") 
+    > ![Download Visio add-in.](media/visio-download.PNG "Download Visio add-in") 
 
 3.  Open [!include[pn-visio](../includes/pn-visio.md)], and then select **File** \> **Options** \> **Add-ins**.
 
@@ -131,7 +131,7 @@ To use the layout on [!include[pn-hololens](../includes/pn-hololens.md)], you’
     **Send**.
     
     > [!div class="mx-imgBorder"]
-    > ![Move layout to HoloLens](media/selected-layouts-hololens.PNG "Move layout to HoloLens")
+    > ![Move layout to HoloLens.](media/selected-layouts-hololens.PNG "Move layout to HoloLens")
 
 4.  On [!include[pn-hololens](../includes/pn-hololens.md)], open the [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] app. You’ll find your layout on the **Layouts**
     tab.
@@ -154,7 +154,7 @@ headset: 
     select **Send**.
     
     > [!div class="mx-imgBorder"]
-    > ![Move layout from HoloLens](media/selected-layouts-pc.PNG "Move layout from HoloLens")
+    > ![Move layout from HoloLens.](media/selected-layouts-pc.PNG "Move layout from HoloLens")
 
 
 ## Place, copy, resize, rotate, and select 3D models
@@ -190,17 +190,17 @@ You can lock a layout to prevent unintentional changes. This is particularly use
 
 To lock a layout, air tap **Lock layout** in the sidebar menu. This locks the current layout for editing.
 
-![Lock layout](media/locked-layout.PNG "Lock layout")
+![Lock layout.](media/locked-layout.PNG "Lock layout")
 
 A lock graphic is displayed in the top right corner of the layout tile.
  
-![Locked layout graphic](media/locked-layout-graphic.PNG "Locked layout graphic")
+![Locked layout graphic.](media/locked-layout-graphic.PNG "Locked layout graphic")
  
 After a layout has been locked, if someone selects a model in the layout, on the third consecutive attempt, a pop-up will appear to let them know that the layout is locked for editing. A similar pop-up is displayed when attempting to place a model from the **Layout** menu into the current layout.
 
 To unlock a layout, air tap **Unlock layout** in the sidebar menu. 
  
-![Unlock layout](media/unlock-layout.PNG "Unlock layout")
+![Unlock layout.](media/unlock-layout.PNG "Unlock layout")
 
 ## Improve performance when your models don't require texture or multiple colors
 
@@ -212,16 +212,19 @@ To turn the **Performance** setting on or off:
 - Select **Settings**, select **Performance**, and then select **Simplify objects by using just one color**.
 
 > [!div class="mx-imgBorder"]
-> ![Performance mode setting](media/performance-mode-setting.PNG "Performance mode setting")
+> ![Performance mode setting.](media/performance-mode-setting.PNG "Performance mode setting")
 
 ## Turn off fading of holograms
 
 By default, holograms fade when you get within 45 centimeters of them. You can use the **Hologram Fade** setting if you want to turn off this fade effect and get up close to your holograms.
 
-![Hologram Fade setting](media/hologram-fade.PNG "Hologram Fade setting")
+![Hologram Fade setting.](media/hologram-fade.PNG "Hologram Fade setting")
 
 Switch hologram fading back on at any time by switching the setting back to **On**.
 
 ### See also
 [How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

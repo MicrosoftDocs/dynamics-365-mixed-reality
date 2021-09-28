@@ -1,6 +1,6 @@
 ---
 author: sophiasysun
-description: Vendors and contractors use Microsoft Teams 
+description: Learn how to use Dynamics 365 Remote Assist for multi-tenant deployments or when a collaborator doesn't belong to the company tenant. 
 ms.author: sopsun
 ms.date: 05/06/2020
 ms.service: crm-online
@@ -32,7 +32,7 @@ Company ABC purchased equipment from an OEM. An ABC employee has trouble setting
 ## Prerequisites
 
 **Prerequisite for Company ABC tenant:**
-1.	[Allow anonymous users to join meetings](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
+1.	[Allow anonymous users to join meetings](/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
 
 **Prerequisites for the Company ABC employee who will use Dynamics 365 Remote Assist HoloLens:**
 1. Dynamics 365 Dynamics 365 Remote Assist app is installed on the HoloLens.
@@ -64,3 +64,6 @@ The Dynamics 365 Remote Assist HoloLens user from Company ABC will set up a meet
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

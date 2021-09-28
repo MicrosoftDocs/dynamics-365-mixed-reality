@@ -96,7 +96,7 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 ## How do I import AutoCAD models?
 
-You can prepare your 3D models yourself using third-party conversion and optimization tools. After converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool).
+You can prepare your 3D models yourself using third-party conversion and optimization tools. After converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about Dynamics 365 Import Tool (Preview)](../import-tool/index.md).
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
@@ -107,3 +107,6 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/layout
 [User guide](user-guide.md)<br/>
 [How-to videos](videos.md)<br/>
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

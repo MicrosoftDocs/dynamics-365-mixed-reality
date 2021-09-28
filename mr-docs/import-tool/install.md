@@ -3,7 +3,6 @@ author: keno-msft
 description: How to install Dynamics 365 Import Tool (Preview)
 ms.author: keno
 ms.date: 06/12/2020
-ms.service: crm-online
 ms.topic: article
 title: Install Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
@@ -28,3 +27,6 @@ To install [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.
 
 [Requirements for installing](requirements.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

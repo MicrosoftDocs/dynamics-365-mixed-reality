@@ -5,7 +5,6 @@ author: sbmjais
 ms.author: shjais
 manager: shujoshi
 ms.date: 07/29/2020
-ms.service: crm-online
 ms.topic: article
 ms.reviewer:
 ---
@@ -26,7 +25,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
 4. Search for **Microsoft 365 Business Standard**, and hover over the **Microsoft 365 Business Standard** tile, and then select **Start free trial**.
 
-    ![Microsoft 365 Business Standard](media/ms-business-standard.png "Microsoft 365 Business Standard")
+    ![Microsoft 365 Business Standard.](media/ms-business-standard.png "Microsoft 365 Business Standard")
 
 5. Verify yourself and start the free trial. 
 
@@ -70,13 +69,13 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
 5. Select the **Open** menu, and then select **Add to a team.**
 
-   ![Add to a team](media/add-to-team.PNG "Add to a team")
+   ![Add to a team.](media/add-to-team.PNG "Add to a team")
 
     a. Select an environment. This will be the organization name for the instance.
 
     b. Select **Sales Hub**.
 
-      ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
+      ![Sales Hub.](media/select-sales-hub.PNG "Sales Hub")
 
     c. Select a mixed-reality session, and then select **Save**.
 
@@ -96,7 +95,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
    
 11. From the list of Dynamics 365 entities, select a mixed-reality session, and then select **Save**.
 
-For more information about setting up Teams, see [Install and set up Microsoft Teams integration](https://docs.microsoft.com/dynamics365/teams-integration/teams-install-app).
+For more information about setting up Teams, see [Install and set up Microsoft Teams integration](/dynamics365/teams-integration/teams-install-app).
 
 ## Post notes from Dynamics 365 Product Visualize
 
@@ -114,3 +113,6 @@ You now have everything you need to start using Dynamics 365 Product Visualize. 
 [Add a note to a model](add-note-model.md)<br>
 [Create a mixed reality session](create-mr-session.md)<br>
 [Add a product to a mixed reality session](add-product-mr-session.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

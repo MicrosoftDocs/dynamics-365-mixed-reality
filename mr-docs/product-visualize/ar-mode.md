@@ -1,13 +1,12 @@
 ---
-title: View 3D models without using your device's camera with Dynamics 365 Product Visualize
-description: Learn how to View 3D models without using your device's camera.
 author: sbmjais
+description: Learn how to View 3D models without using your device's camera.
 ms.author: shjais
-manager: shujoshi
 ms.date: 07/29/2020
-ms.service: crm-online
 ms.topic: article
-ms.reviewer:
+title: View 3D models without using your device's camera with Dynamics 365 Product Visualize
+ms.reviewer: 
+manager: shujoshi
 ---
 
 # View 3D models without using your device's camera
@@ -24,12 +23,12 @@ The default behavior for viewing 3D models in Dynamics 365 Product Visualize is 
 After you enable **Show AR mode toggle button**, AR mode is turned off by default. Your 3D models will be placed on a gray background that you can customize if you want by using a photo from your Photos library. As you place your model, the **AR** toggle is displayed at the top of the screen. To turn AR mode back on, tap the **AR** toggle. 
 
 > [!div class=mx-imgBorder]
-> ![Model placed on a gray background, with AR mode off](media/ar-off.png "Model placed on a gray background, with AR mode off")
+> ![Model placed on a gray background, with AR mode off.](media/ar-off.png "Model placed on a gray background, with AR mode off")
 
 When you turn on the AR mode, you can use your device's camera and augmented reality to place a 3D model.
 
 > [!div class=mx-imgBorder]
-> ![Model placed on a captured background, with AR mode on](media/ar-on.png "Model placed on a captured background, with AR mode on")
+> ![Model placed on a captured background, with AR mode on.](media/ar-on.png "Model placed on a captured background, with AR mode on")
 
 More information: [Place and manipulate 3D models](manipulate-models.md)
 
@@ -39,19 +38,19 @@ You can choose to keep the models on a gray background or add a background image
 
 **To add a background image**
 
-1. Tap the background image ![Add background](media/add-background-icon.png "Add background") icon in the upper-left corner of the screen.
+1. Tap the background image ![Add background.](media/add-background-icon.png "Add background") icon in the upper-left corner of the screen.
 
 2. Select an image from your Photos library.
 
 **To replace the background image**
 
-1. Tap the background image ![Add background](media/add-background-icon.png "Add background") icon in the upper-left corner of the screen.
+1. Tap the background image ![Add background.](media/add-background-icon.png "Add background") icon in the upper-left corner of the screen.
 
 2. In the options dialog box, tap **Replace**.
 
 **To remove the background image**
 
-1. Tap the background image ![Add background](media/add-background-icon.png "Add background") icon in the upper-left corner of the screen.
+1. Tap the background image ![Add background.](media/add-background-icon.png "Add background") icon in the upper-left corner of the screen.
 
 2. In the options dialog box, tap **Remove**.
 
@@ -65,3 +64,6 @@ You can choose to keep the models on a gray background or add a background image
 [View 3D models stored on your device](browse-models.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

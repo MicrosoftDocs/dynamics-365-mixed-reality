@@ -51,7 +51,7 @@ Now that we have it enabled, let's see how integration with Field Service works 
 
 5. If you still don't see the booking you're looking for, it might be because you have access to multiple instances (organizations). You can select the **Ellipses** icon to return to your instance, and then select another **Instance**. Then continue from **Step 3**.
 
-![Screenshot of Dynamics 365 Remote Assist mobile showing the Select an Instance screen](./media/post_2.png "Select Instance")
+![Screenshot of Dynamics 365 Remote Assist mobile showing the Select an Instance screen.](./media/post_2.png "Select Instance")
 
 6. You will return to your contact list and you will be notified when your call log and files have successfully been posted to your Field Service work order and then you can sign in to your work order.
 
@@ -61,3 +61,6 @@ Now that we have it enabled, let's see how integration with Field Service works 
 
 > [!Note]
 > If someone viewing your Field Service work order, such as an admin or dispatcher, wants to view the files, they must request access to your files on OneDrive. 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

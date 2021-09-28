@@ -2,11 +2,10 @@
 author: keno-msft
 description: How to optimize your 3D (CAD) models to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
-ms.date: 09/11/2020
-ms.service: crm-online
+ms.date: 05/25/2021
 ms.topic: article
 title: Optimize your 3D models to use with Dynamics 365 Guides and Power Apps
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Optimize your 3D models to use with Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
@@ -17,7 +16,7 @@ The following table lists software tools that you can use to convert and/or opti
 
 |Software|Import|Export|Convert/transcode|Optimization|
 |---------------------------------|----------------------------------------|--------------------|--------------------|-------------------|
-|[PiXYZ Software](https://aka.ms/Pixyz)|STEP, Catia, JT, OBJ, FBX, and [more](https://www.pixyz-software.com/documentations/html/2020.1/studio/SupportedFileFormats.html)|glTF 2.0|Yes|Yes|
+|[PiXYZ Software](https://aka.ms/Pixyz)|STEP, Catia, JT, OBJ, FBX, and [more](https://www.pixyz-software.com/documentations/html/2020.1/studio/SupportedFileFormats.html)|glTF 2.0 and more|Yes|Yes|
 |[Maxon Cinema 4D](https://aka.ms/MaxonCinema4D)|SOLIDWORKS, STEP, Catia, JT, and IGES|FBX, OBJ, GLB/glTF 2.0 (beta)|Yes|Yes|
 |[Simplygon Studios](https://aka.ms/Simplygonsoftware)|FBX, OBJ|FBX|No|Yes|
 |[Unreal Datasmith](https://aka.ms/UnrealDatasmithsoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ|Yes|No|
@@ -43,15 +42,20 @@ The following table lists some general conservative targets to aim for when acqu
 
 |Device|Low-scene complexity<br>![Low complexity graphic](media/simple.PNG "Low complexity graphic")|Medium-scene complexity<br>![Medium complexity graphic](media/medium.PNG "Medium complexity graphic")|High-scene complexity<br>![High complexity graphic](media/complex.PNG "High complexity graphic")|
 |--------------|---------------------------|-----------------------------------|-----------------------------------|
-|![HoloLens graphic](media/hololens.PNG "HoloLens graphic")<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object|
-|![Immersive headset graphic](media/immersive-headset.PNG "Immersive headset graphic") <br>Immersive headsets|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><15,000,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><150,000<br><br>**Materials:**<br>1-2 per object|
-|![Mobile graphic](media/mobile.PNG "Mobile graphic") <br>Mobile|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|Not applicable|Not applicable|
+|![HoloLens graphic.](media/hololens.PNG "HoloLens graphic")<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object|
+|![Immersive headset graphic.](media/immersive-headset.PNG "Immersive headset graphic") <br>Immersive headsets|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><15,000,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><150,000<br><br>**Materials:**<br>1-2 per object|
+|![Mobile graphic.](media/mobile.PNG "Mobile graphic") <br>Mobile|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|Not applicable|Not applicable|
 
 > [!NOTE]
 > Transparency in materials such as glass in 3D models is not supported.
+> 
+> Dynamics 365 Guides includes a GTLF loader that does not support alpha transparency in textures. However, you can set a single alpha value for an entire material.
 
 ### See also
 [Overview of preparing 3D models](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

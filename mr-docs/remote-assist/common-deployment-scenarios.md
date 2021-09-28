@@ -12,17 +12,17 @@ ms.reviewer: krbjoran
 
 There are [many types of Remote Assist calls](./mobile-app/making-calls-on-remote-assist-mobile.md), some of which include only Remote Assist app users (e.g., a call between two Remote Assist mobile users), and some of which include Remote Assist app users and Teams app users (e.g., a meeting between one Remote Assist HoloLens user and two Teams desktop users). The deployment required to enable users to join the same Remote Assist call depends on several factors. This article describes four common deployment scenarios and the deployment required for each.
 
-![Common deployment scenarios](media/common-deployment-scenarios.png "Common deployment scenarios") 
+![Common deployment scenarios.](media/common-deployment-scenarios.png "Common deployment scenarios") 
 
 ## Key terms: 
 -	Remote Assist user: Someone who uses the Remote Assist app on HoloLens or mobile devices.
 -	Teams user: Someone who uses the Teams app on desktop or mobile devices.
--	User with a Remote Assist license: User who has been assigned the service plans that come with a Remote Assist license. [Learn more about licenses](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements#licensing-requirements-per-role). 
--	User with a Teams license: User who has been assigned a Teams service plan, which is available through many different licenses. [Learn more about licenses](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements#licensing-requirements-per-role). 
+-	User with a Remote Assist license: User who has been assigned the service plans that come with a Remote Assist license. [Learn more about licenses](./requirements.md#licensing-requirements-per-role). 
+-	User with a Teams license: User who has been assigned a Teams service plan, which is available through many different licenses. [Learn more about licenses](./requirements.md#licensing-requirements-per-role). 
 
 ## Scenario 1: Call participants have licenses in the same tenant
 Remote Assist users and Teams users who want to join the same Remote Assist call already have their respective licenses in the same tenant. Or, they are willing to deploy Remote Assist licenses and Teams licenses in the same tenant. 
-After a [standard deployment of Remote Assist](deploy-remote-assist.md) and a [standard deployment of Teams](https://docs.microsoft.com/MicrosoftTeams/user-access), individuals can use their respective apps to participate in a Remote Assist call.   
+After a [standard deployment of Remote Assist](deploy-remote-assist.md) and a [standard deployment of Teams](/MicrosoftTeams/user-access), individuals can use their respective apps to participate in a Remote Assist call.   
 
 ## Scenario 2: Multi-tenant collaboration 
 A company has multiple organizations or business units, each with their own tenant, that want to collaborate via Remote Assist calls. Or, multiple companies want to collaborate via Remote Assist calls. People who want to use Remote Assist already have Remote Assist licenses, or are willing to deploy Remote Assist licenses. People who want to use Teams either already have Teams licenses, are willing to deploy Teams licenses, or are willing to be guested into the Remote Assist user’s tenant. 
@@ -39,6 +39,9 @@ Scenario 4 differs from scenario 3 in several ways. In scenario 4, calls are not
 
 ## See also
 
-- [Deployment guide – Cloud connected HoloLens 2 with Remote Assist](https://docs.microsoft.com/hololens/hololens2-cloud-connected-overview)
+- [Deployment guide – Cloud connected HoloLens 2 with Remote Assist](/hololens/hololens2-cloud-connected-overview)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

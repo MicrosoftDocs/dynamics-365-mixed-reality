@@ -1,7 +1,7 @@
 ---
 title: Launch Dynamics 365 Remote Assist on HoloLens
 author: sophiasysun
-description: How to launch Dynamics 365 Remote Assist on HoloLens
+description: How to launch the Dynamics 365 Remote Assist app on HoloLens
 ms.author: sopsun
 ms.date: 06/09/2020
 ms.service: crm-online
@@ -29,3 +29,6 @@ When the app loads, you'll see the **Call tab** open with your recent contacts.
 ![Screenshot of the HoloLens field of view, showing the recent contacts screen.](media/02.00-contacts.png "RecentContacts")
 
 Now, you're ready to make a call!
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

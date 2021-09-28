@@ -1,28 +1,73 @@
 ---
 title: "Dynamics 365 Remote Assist mobile version history | MicrosoftDocs"
 description: Version history for Dynamics 365 Remote Assist mobile
-ms.custom: 
-  - dyn365-mixed-reality-remote-assist
-ms.date: 12/10/2020
+ms.date: 04/01/2021
 ms.reviewer: krbjoran
 ms.topic: article
 ms.service: crm-online
-applies_to: 
-  - "Dynamics 365 (online)"
-  - "Dynamics 365 Version 9.x"
 author: FieldServiceDave
 ms.author: daclar
-manager: shellyha
-search.app: 
-  - MRRA
-  - MRRA
 ---
 
 # Dynamics 365 Remote Assist mobile version history
 
+## iOS - 2021.4.1 + Android - 2021.4.1
+
+Date: April 2021
+
+### Bug fixes
+
+- Fix for posting to work order files that were shared and not visible when in a call with Dynamics 365 Remote Assist users. 
+
+- Fix for video recording on devices that don't support H.265 HEVC. 
+
+- Fix for deleting annotations placed before the recording was started. 
+
+= Fix for annotations when call is in “on hold” state. 
+
+- Fix for losing annotations for the collaborator when technicians are turning off the camera. 
+
+- Fix for missing video recording link from the meeting. 
+
+- Fix for annotations toolbar being disabled in one-time-call and meetings. 
+
+- Fix for dates not being properly localized in the Calls dashboard. 
+
+- Improvement for text chat availability in calls with poor network connections. 
+
+- Improvement for annotation thickness after annotations are placed in close distance. 
+
+- Fix for unnecessary Dynamics error showing up in the app. 
+
+= Fix for video freezing, end-call availability, and blocked annotations on iOS during a call. 
+
+## iOS - 2021.2.10 + Android - 2021.2.10
+
+Date: February 2021
+
+### Bug fixes
+
+- Fix for video issues on devices with limited GPU support for texture copy, like Samsung Galaxy J4+.
+- Fix for removed Dynamics 365 environment selection after app relaunch.
+- Fix for missing meetings on user today’s list.
+- Fix for annotations being removed when technician navigates to text chat or participants list.
+- Fix for annotations toolbar state when a Teams desktop user joins the meeting.
+- Improvements for role switching in the one-time call scenario.
+- Fix for users not being able to place annotations on iOS after a few minutes in the call.
+- Support for contact search with names written in non-Latin scripts, like Arabic, Hebrew, and more.
+- Stability improvements.
+
+## iOS - 2021.1.8 + Android - v2021.01.05
+
+Date: January 2021
+
+### Bug fixes
+
+- Important bug fixes and stability improvements.
+
 ## iOS - 2020.12.09 + Android - 2020.12.09
 
-Date: December, 2020
+Date: December 2020
 
 ### Bug fixes
 
@@ -39,7 +84,7 @@ Date: December, 2020
 
 ## iOS - 2020.10.1 + Android - 2020.10.03
 
-Date: October 1, 2020
+Date: October 2020
 
 ### Bug fixes
 
@@ -55,7 +100,7 @@ Date: October 1, 2020
 
 ## iOS - 2020.9.1 + Android - 2020.09.04
 
-Date: September 1, 2020
+Date: September 2020
 
 ### Bug fixes
 
@@ -86,7 +131,7 @@ Date: July 30, 2020
 
 ## iOS - 2020.7.1 + Android - 2020.06.27
 
-Date: July 1, 2020
+Date: July 2020
 
 ### Bug fixes
 
@@ -150,7 +195,7 @@ Date: February 27, 2020
 
 - In low-bandwidth environments with a satellite network of 1000/256 kbps for bandwidth, 600/600ms for latency, and 10% of packet loss, users will not receive an 'Update Check Failed' pop-up and can continue to share their environment.  
 - Users trying the 90-day license-free Dynamics 365 Remote Assist Mobile trial who don't have a Microsoft Teams license (free or paid) will be prompted to sign up for one. After they sign up, the app will recognize their Microsoft Teams account and they can sign in.  
-- With Dynamics 365 Remote Assist mobile app downloaded on your device, users can launch the app from Safari web browser via “ramobile:/” deep linking.  
+- With Dynamics 365 Remote Assist mobile app downloaded on your device, users can launch the app from Safari web browser via ```ramobile:/``` deep linking.  
 - Users can view their snapshots with annotations on it in both landscape and portrait orientations. These snapshots will save to users’ mobile device’s Photo Gallery.  
 - In the text chat, the keyboard remains open after sending a message. 
 - The ‘Lost Tracking' pop-up is localized in our supported languages. 
@@ -199,3 +244,6 @@ To find which version of Dynamics 365 Remote Assist mobile you have, go to the m
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

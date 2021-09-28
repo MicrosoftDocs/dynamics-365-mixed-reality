@@ -1,11 +1,11 @@
 ---
 author: sophiasysun
-description: Set up Microsoft Teams with Dynamics 365 Remote Assist 
+description: Set up Microsoft Teams so a Dynamics 365 Remote Assist worker can work collaboratively 
 ms.author: sopsun
 ms.date: 04/07/2020
 ms.service: crm-online
 ms.topic: article
-title: Set up Microsoft Teams with Dynamics 365 Remote Assist 
+title: Set up Microsoft Teams for Dynamics 365 Remote Assist 
 ms.reviewer: krbjoran
 ---
 
@@ -20,7 +20,7 @@ This document explains the deployment required for different scenarios.
 
 **Recommended**: [One-time call](one-time-call.md) makes it easy for Remote Assist users to invite collaborators to join a call using Remote Assist mobile or Teams desktop! To enable someone to join the call using Teams desktop, the licensed Remote Assist user must use the Remote Assist mobile web app to set up a one-time call and share the one-time call link with the Teams desktop user. The Remote Assist user can then join the call using Remote Assist mobile or Remote Assist HoloLens.
 
-**Alternatively,** the licensed Remote Assist user can [set up a Teams meeting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/join-meeting-hololens#tip-for-setting-up-a-meeting) and invite the collaborator. Then, the licensed Remote Assist HoloLens user will [join the meeting using the Remote Assist HoloLens app](join-meeting-hololens.md). The Teams desktop user will see the meeting invitation in their Outlook calendar or Teams calendar. They right-click the meeting invitation and select **Join Teams meeting**. (The web browser may launch and display options for joining the meeting. To join via Teams application, select **Launch it now**.)
+**Alternatively,** the licensed Remote Assist user can [set up a Teams meeting](./join-meeting-hololens.md) and invite the collaborator. Then, the licensed Remote Assist HoloLens user will [join the meeting using the Remote Assist HoloLens app](join-meeting-hololens.md). The Teams desktop user will see the meeting invitation in their Outlook calendar or Teams calendar. They right-click the meeting invitation and select **Join Teams meeting**. (The web browser may launch and display options for joining the meeting. To join via Teams application, select **Launch it now**.)
 
 > [!Note] 
 > Only a Remote Assist user and Teams desktop users can join a meeting. Remote Assist mobile users and Teams mobile users cannot join a meeting.
@@ -29,9 +29,12 @@ This document explains the deployment required for different scenarios.
 
 | Scenario                                                                                                                                                                                                                                                                                                                    | How to enable someone to use Teams dessktop app or Teams mobile app                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| People who want to use Dynamics 365 Remote Assist and people who want to use Teams are both currently in your tenant                                                                                                                                                                                                                | [Assign Teams licenses to people in your tenant](https://docs.microsoft.com/MicrosoftTeams/user-access).                                                             |
-| Advanced deployment: [Multi-tenant company deployment using federation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment#solution-1-federation) | The administrator of the tenant with users who want to use Teams must [assign Teams licenses to people in their tenant](https://docs.microsoft.com/MicrosoftTeams/user-access).                      |
-| Advanced deployment: [Multi-tenant company deployment using guesting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment#solution-2-guesting)      | The administrator of the tenant with Dynamics 365 Remote Assist users must [use Teams guesting](https://docs.microsoft.com/microsoftteams/guest-access-checklist) to enable people outside their tenant to use Teams.  |
-| Advanced deployment: [Vendors and contractors are outside your tenant and want to use Dynamics 365 Remote Assist](vendor-use-ra.md)                                                                                                                                                                                                                                        | [Assign Teams licenses to people in your tenant](https://docs.microsoft.com/MicrosoftTeams/user-access).                                                             |
+| People who want to use Dynamics 365 Remote Assist and people who want to use Teams are both currently in your tenant                                                                                                                                                                                                                | [Assign Teams licenses to people in your tenant](/MicrosoftTeams/user-access).                                                             |
+| Advanced deployment: [Multi-tenant company deployment using federation](./multi-tenant-deployment.md) | The administrator of the tenant with users who want to use Teams must [assign Teams licenses to people in their tenant](/MicrosoftTeams/user-access).                      |
+| Advanced deployment: [Multi-tenant company deployment using guesting](./multi-tenant-deployment.md)      | The administrator of the tenant with Dynamics 365 Remote Assist users must [use Teams guesting](/microsoftteams/guest-access-checklist) to enable people outside their tenant to use Teams.  |
+| Advanced deployment: [Vendors and contractors are outside your tenant and want to use Dynamics 365 Remote Assist](vendor-use-ra.md)                                                                                                                                                                                                                                        | [Assign Teams licenses to people in your tenant](/MicrosoftTeams/user-access).                                                             |
 
-Need more help? Check out [Dynamics 365 Remote Assist FAQs](faq-deploy.md) for answers to common questions, or check out the [Microsoft Teams admin documentation](https://docs.microsoft.com/microsoftteams).
+Need more help? Check out [Dynamics 365 Remote Assist FAQs](faq-deploy.md) for answers to common questions, or check out the [Microsoft Teams admin documentation](/microsoftteams).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

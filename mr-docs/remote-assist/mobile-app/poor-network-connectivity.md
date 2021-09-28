@@ -1,18 +1,18 @@
 ---
-title: Using Dynamics 365 Remote Assist in low-bandwidth scenarios
+title: Using Dynamics 365 Remote Assist in low-bandwidth situations
 author: xonatia
-description: How the app works in environments with low-bandwidth conditions 
+description: How the Dynamics 365 Remote Assist app works in environments with low-bandwidth conditions 
 ms.author: xolee
 ms.date: 02/27/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Using Dynamics 365 Remote Assist in low-bandwidth scenarios
+# Use Dynamics 365 Remote Assist in low-bandwidth situations
 
 Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians may have trouble troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote experts even in low-bandwidth scenarios.
 
-### Poor network connectivity is determined by the following conditions: 
+## Poor network connectivity is determined by the following conditions: 
 
 - The bandwidth is between 256 kbps and 1.5 Mbps
 - The latency is higher than 1,000 ms
@@ -20,7 +20,7 @@ Technicians sometimes find themselves on factory floors or remote locations with
 
 Dynamics 365 Remote Assist mobile **autodetects** if the technician is experiencing poor network conditions. If so, the technician is prompted to **share snapshots** with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate images of better quality, instead of viewing a low-quality video feed.
 
-### Individual poor network requirements
+## Individual poor network requirements
 	
 Poor network may take into account the interaction of the three components: **bandwidth**, **latency**, and **packet loss**:
 
@@ -49,7 +49,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 2. In the call, Dynamics 365 Remote Assist mobile autodetects if the technician is experiencing poor network conditions. 
 
-![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions](./media/network_2.png "Detection") 
+![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions.](./media/network_2.png "Detection") 
 
 3. It prompts the technician to use the **snapshot tool** to share images to the expert.
 
@@ -75,3 +75,6 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the return to video call.](./media/network_2.png "Video Feed") 
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

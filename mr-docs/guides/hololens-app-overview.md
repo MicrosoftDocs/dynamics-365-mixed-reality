@@ -3,10 +3,10 @@ author: Mamaylya
 description: Get an overview of the process of authoring a guide in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
 ms.date: 02/25/2020
-ms.service: crm-online
 ms.topic: article
-title: Overview of authoring a guide in the Dynamics 365 Guides HoloLens app
+title: Authoring overview--Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of authoring a guide in the Dynamics 365 Guides HoloLens app
@@ -25,7 +25,7 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 
 - Test the flow of your guide.
 
-    ![Testing a guide](media/test-your-guide.PNG "Testing a guide")
+    ![Testing a guide.](media/test-your-guide.PNG "Testing a guide")
 
 > [!TIP]
 > **New for [!include[pn-hololens](../includes/pn-hololens.md)] 2.** [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now includes [!include[pn-hololens](../includes/pn-hololens.md)] 2 advanced hand-tracking capabilities. When you author a guide, you can now work directly with holograms by grabbing the manipulation controls with your hands to position the holograms, rotate them, and change their size. However, when you select a guide, scan an anchor, or work in the Step card editor, you make selections in the same way that you did on [!include[pn-hololens](../includes/pn-hololens.md)] 1.
@@ -37,3 +37,6 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 [Install and sign in to the app](install-sign-in-hololens-app.md)<br>
 [Anchor your guide](hololens-app-anchor.md)<br>
 [Place holograms, add styles, and more](hololens-app-orientation.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

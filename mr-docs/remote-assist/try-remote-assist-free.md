@@ -1,11 +1,11 @@
 ---
 author: xonatia
-description: Try Dynamics 365 Remote Assist for free for up to 90 days.
+description: Get a free 90-day trial to test out Dynamics 365 Remote Assist. 
 ms.author: xolee
 ms.date: 02/27/2020
 ms.service: crm-online
 ms.topic: article
-title: Try Dynamics 365 Remote Assist for free for up to 90 days.
+title: Try Microsoft Dynamics 365 Remote Assist for free 
 ms.reviewer: krbjoran
 ---
 
@@ -21,29 +21,38 @@ In this topic, we’ll walk through the three ways you can get a Dynamics 365 Re
 ## Prerequisites for a license-free 90-day trial for individuals
    - An [MSA account](https://account.microsoft.com/account)
    - A [Microsoft Teams Freemium](https://products.office.com/microsoft-teams/free) account
-   - A HoloLens 1, HoloLens 2, or a mobile device. Licensing and Product requirements can be found [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+   - A HoloLens 1, HoloLens 2, or a mobile device. Licensing and Product requirements can be found [here](./requirements.md).
 
 ## Option 1: License-free 90-day trial for individuals
 
 With the license-free 90-day free trial, each individual user must download Dynamics 365 Remote Assist in the appropriate app store to sign up. 
 
 ### Steps for HoloLens 1 and 2
+
 1.	If you’re using the HoloLens, go to the Start menu and then select Microsoft Store. 
+
 2.	Search for and download **Dynamics 365 Remote Assist** and launch the app.
+
 3.	Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
-4.	The app will prompt you to start your Free Trial of Dynamics 365 Remote Assist. Select **Continue**. Afterwards, you will be taken to your Contacts page.  
+
+4.	The app will prompt you to start your Free Trial of Dynamics 365 Remote Assist. Select **Continue**. Afterwards, you will be taken to your Contacts page.
+  
 5.	Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile) here. 
 
 ### Steps for Mobile
 1.	If you’re using a mobile device, go to the appropriate iOS and Android app store.
+
 2.	Search for and download **Dynamics 365 Remote Assist** and launch the app.
+
 3.	Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
+
 4.	The app will prompt you to start your Free Trial of Dynamics 365 Remote Assist. Select **Continue**. Afterwards, you will be taken to your Contacts page.  
+
 5.	Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile) here.
 
 ## Prerequisites for a Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach 30-day trial license (for up to 25 seats in an organization)
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator](https://www.microsoft.com/microsoft-365/business/office-365-administration) account. Learn more about admin permissions [here](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator](https://www.microsoft.com/microsoft-365/business/office-365-administration) account. Learn more about admin permissions [here](/office365/admin/admin-overview/admin-overview?view=o365-worldwide). 
 
 ## Option 2: 30-day trial license (for up to 25 seats in an organization)
 
@@ -63,7 +72,7 @@ It Admins must acquire a 30-day trial license (for up to 25 seats in an organiza
 
 If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365 Remote Assist with your application. It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
-1.	Log into the M365 or O365 Administrator Portal using your organization’s admin account: https://www.microsoft.com/microsoft-365/business/office-365-administration
+1.	Log into the Microsoft 365 or Office 365 Administrator Portal using your organization’s admin account: https://www.microsoft.com/microsoft-365/business/office-365-administration
  
 2.	Make sure the **Try the new admin center** toggle is turned off.
   
@@ -80,3 +89,6 @@ If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365
 ## Next steps
 - Buy Dynamics 365 Remote Assist licenses for HoloLens and Mobile [here](buy-remote-assist.md). 
 - Deploy Dynamics 365 Remote Assist licenses to individuals in your organization [here](deploy-remote-assist.md). 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

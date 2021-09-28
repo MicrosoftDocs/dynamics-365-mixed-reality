@@ -3,8 +3,8 @@ author: keno-msft
 description: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).  
 ms.author: keno
 ms.date: 01/08/2020
-ms.service: crm-online
 ms.topic: overview
+ms.custom: "intro-internal"
 title: Overview of Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
 robots: noindex, nofollow
@@ -26,7 +26,7 @@ Modeling tools in most CAD applications use sets of adjustable mathematical para
 
 The following illustration shows a model visualized in Autodesk Inventor and [!include[cc-microsoft](../includes/cc-microsoft.md)] 3D Viewer.
 > [!div class="mx-imgBorder"]
-> ![Parametric versus polygonal geometry](media/compare-geometry.PNG "Parametric versus polygonal geometry")
+> ![Parametric versus polygonal geometry.](media/compare-geometry.PNG "Parametric versus polygonal geometry")
 
 **A.**	Parametric 3D model ready for simulation and manufacturing<br>
 **B.**	Polygonal surface 3D model ready for real-time rendering
@@ -46,3 +46,6 @@ Preparing CAD content for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixe
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

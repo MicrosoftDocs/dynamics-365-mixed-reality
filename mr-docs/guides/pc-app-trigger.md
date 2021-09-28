@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to create a trigger in the Dynamics 365 Guides PC app to automatically advance the operator to the next step based on detection of their hands in HoloLens 2.
 ms.author: mamaylya
 ms.date: 10/01/2020
-ms.service: crm-online
 ms.topic: article
 title: Create a trigger for step navigation in the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
@@ -27,14 +26,14 @@ There are two types of triggers:
 
 - **Visible triggers.** Dynamics 365 Guides comes with pre-configured **Next** and **Back** buttons that you can place in the real world. Operators select a visible trigger with their hand(s) to move forward or backward.  
 
-    ![Example of visible trigger](media/trigger-visible.PNG "Example of visible trigger")
+    ![Example of visible trigger.](media/trigger-visible.PNG "Example of visible trigger")
  
     > [!TIP]
     > You can add a dotted line to a visible trigger to tie it to a specific place in the real world.
 
 - **Invisible triggers.** An invisible trigger automatically advances an operator to the next step when the trigger is activated. Operators don’t see any evidence of the trigger until they activate it, at which time they’ll see a light green box. 
 
-    ![Example of invisible trigger](media/trigger-invisible.PNG "Example of invisible trigger")
+    ![Example of invisible trigger.](media/trigger-invisible.PNG "Example of invisible trigger")
  
     This reduces clutter for the operator and helps them focus on the task at hand.
 
@@ -71,7 +70,7 @@ You create a trigger in the same way that you create any other hologram in the P
 
 2. Open the **Triggers** section, and then drag the type of trigger (**Back**, **Invisible**, or **Next**) you want to the bin.
 
-    ![Triggers section in 3D toolkit](media/triggers-category-pc-app.PNG "Triggers section in 3D toolkit")
+    ![Triggers section in 3D toolkit.](media/triggers-category-pc-app.PNG "Triggers section in 3D toolkit")
 
 ## Configure the trigger 
 
@@ -79,7 +78,7 @@ After creating your trigger, you need to configure it.
 
 1. Select the trigger in the bin. This opens the **Properties** tab on the right side of the screen. You can use this tab to preview the trigger and to view and set the trigger properties. 
 
-    ![Properties tab showing trigger and its properties](media/trigger-properties.PNG "Properties tab showing trigger and its properties")
+    ![Properties tab showing trigger and its properties.](media/trigger-properties.PNG "Properties tab showing trigger and its properties")
 
 2. In the **Activation** field, select one of the following:
     
@@ -97,8 +96,11 @@ After creating your trigger, you need to configure it.
  
       - **Use Response 1**, to configure the trigger to navigate to the destination set for Response 1 in a question step. For example, if the destination for the first response is set to **Task 3**, configuring the trigger to **Use Response 1** means the trigger will navigate to **Task 3** when activated. If you update the response’s destination, the trigger will also be updated. [Learn more about question steps and responses](pc-app-branching.md).
     
-        ![Properties tab showing question step trigger properties](media/trigger-question-step-properties.PNG "Properties tab showing question step trigger propertiess")
+        ![Properties tab showing question step trigger properties.](media/trigger-question-step-properties.PNG "Properties tab showing question step trigger propertiess")
     
 ## What's next?
 
 [Place and test a trigger in the HoloLens app](hololens-app-trigger.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -3,7 +3,6 @@ author: Mamaylya
 description: Learn how to use gaze and air tap to navigate a guide in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
 ms.date: 01/28/2020
-ms.service: crm-online
 ms.topic: article
 title: HoloLens 2 gestures (for example, gaze and air tap) for navigating a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -17,7 +16,7 @@ To move through a guide as an operator in [!include[cc-microsoft](../includes/cc
 
 Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is as easy as it sounds. In some cases, you can select an item (for example, an app, menu, or button) just by gazing at a selection box next to it. For example, you can select the **Next** or **Go back** button on an instruction card (Step card) by gazing at the button. The selection is completed when the box for the button is filled up by your gaze.
 
-![Gaze animation](media/gaze-animation.gif "Gaze animation")
+![Gaze animation.](media/gaze-animation.gif "Gaze animation")
 
 Gaze is very useful if your hands are busy with tools or parts.
 
@@ -39,7 +38,7 @@ You can open the **Start** menu on [!include[pn-hololens](../includes/pn-hololen
 
 2. On the hand that you're holding out, touch your index finger to your thumb in a pinching motion.
 
-![Opening the Start menu with one hand](media/open-start-menu-one-hand.png "Opening the Start menu with one hand")
+![Opening the Start menu with one hand.](media/open-start-menu-one-hand.png "Opening the Start menu with one hand")
 
 ### Open the Start menu with two hands
 
@@ -47,7 +46,7 @@ You can open the **Start** menu on [!include[pn-hololens](../includes/pn-hololen
 
 2. With the index finger of your other hand, touch the Windows logo.
 
-![Video camera graphic](media/video-camera.PNG) [Watch a video about opening the Start menu with two hands](https://www.microsoft.com/videoplayer/embed/RE3Wxng).
+![Video camera graphic.](media/video-camera.PNG) [Watch a video about opening the Start menu with two hands](https://www.microsoft.com/videoplayer/embed/RE3Wxng).
 
 ### Air tap
 
@@ -59,7 +58,7 @@ You can use air tap, together with gaze, to select apps, other holograms, and ga
 
 3. Tap your finger down, and then quickly raise it back up again.
 
-![Air tap animation](media/air-tap-animation.gif "Air tap animation")
+![Air tap animation.](media/air-tap-animation.gif "Air tap animation")
 
 ### The gesture frame
 
@@ -67,4 +66,7 @@ You can use air tap, together with gaze, to select apps, other holograms, and ga
 
 ### Need a tutorial on gestures?
 
-For a tutorial on some basic gestures, open the **Start** menu, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: Frequently asked questions](https://docs.microsoft.com/hololens/hololens-faq).
+For a tutorial on some basic gestures, open the **Start** menu, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: Frequently asked questions](/hololens/hololens-faq).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

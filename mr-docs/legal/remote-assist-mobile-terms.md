@@ -32,7 +32,7 @@ under this agreement. Any included notices for third party applications are for 
 are governed by other agreements, the disclaimer, limitations on, and exclusions of damages below also apply to the extent allowed 
 by applicable law. 
 
->**d)	Utilities.** The software may contain some items on the Utilities List at http://go.microsoft.com/fwlink/?LinkId=524839. You may 
+>**d)	Utilities.** The software may contain some items on the Utilities List at https://go.microsoft.com/fwlink/?LinkId=524839. You may 
 copy and install those items, if included with the software, on your machines or third party machines to debug and deploy the 
 applications and databases you develop with the software. Please note that Utilities are designed for temporary use, that 
 Microsoft may not be able to patch or update Utilities separately from the rest of the software, and that some Utilities 
@@ -42,7 +42,7 @@ responsible for any third party use or access of Utilities you install on any ma
 
 >**e)	Microsoft Services Agreement.** Some features of the software may provide access to, or rely on, online services. The use of 
 those services if any (but not the software) is governed by the separate terms and privacy policies in the Microsoft 
-Services Agreement at http://go.microsoft.com/fwlink/?linkid=398923. Please read them. The services may not be available 
+Services Agreement at https://go.microsoft.com/fwlink/?linkid=398923. Please read them. The services may not be available 
 in all regions.
 
 **2.	TIME-SENSITIVE SOFTWARE.**
@@ -87,11 +87,11 @@ transfer the software or this agreement to any third party.
 THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE ABOVE STANDARDS (“VIDEO STANDARDS”) OR 
 (ii) DECODE AVC, VC-1, AND MPEG-4 PART 2 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY OR 
 WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE.
-ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE http://aka.ms/mpegla.
+ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE https://aka.ms/mpegla.
 
 **8.	EXPORT RESTRICTIONS.** You must comply with all domestic and international export laws and regulations that apply to the software, 
 which include restrictions on destinations, end users, and end use. For further information on export restrictions, 
-visit http://aka.ms/exporting.
+visit https://aka.ms/exporting.
 
 **9.	SUPPORT SERVICES.** Microsoft is not obligated under this agreement to provide any support services for the software. Any 
 support provided is “as is”, “with all faults”, and without warranty of any kind.
@@ -179,3 +179,5 @@ peut que la limitation ou l’exclusion ci-dessus ne s’appliquera pas à votre
 
 **EFFET JURIDIQUE. Le présent contrat décrit certains droits juridiques. Vous pourriez avoir d’autres droits prévus par les lois de 
 votre pays. Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne le permettent pas.**
+
+
