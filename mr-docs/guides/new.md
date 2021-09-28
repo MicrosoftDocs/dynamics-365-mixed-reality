@@ -38,9 +38,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ### Bugs fixed and other improvements
 
-- Fixed search functionality in Offline mode
-- Improved accessibility, generally
-- Updated the instructions in the default anchoring mode
+- XXX
 
 ## August 30 2021
 
