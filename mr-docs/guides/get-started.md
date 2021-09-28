@@ -43,9 +43,9 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 ### Demo
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a five-minute demo that showcases the value of the app for your company. This demo is useful for every [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to be online to use the demo.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a five-minute demo that showcases the value of holographic work instructions for your company. This demo is useful for every [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to sign in or be online to use the demo.
 
-To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select **Try the demo**.
+To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select **Try a guide**.
 
 ![Try the demo button.](media/try-demo-2.PNG "Try the demo button")
 
@@ -80,6 +80,8 @@ We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 ![What's New command.](media/what-new.PNG "What's New command")
 
 To learn when features were introduced, or to learn about upcoming features, see the Release plan:
+
+- [2021 Wave 2 (October 2021 through March 2022)](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features)
 
 - [2021 Wave 1 (April 2021 through September 2021)](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features)
 
