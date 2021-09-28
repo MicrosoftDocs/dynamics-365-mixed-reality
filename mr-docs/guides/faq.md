@@ -102,11 +102,11 @@ The data is stored in Microsoft Dataverse in the tenant that you have admin priv
 
 For a list of formats that are supported for 3D content, images, and videos, see [Supported file formats](pc-app-supported-file-formats.md).
 
-## Will I lose any data if I close an app inadvertently?
+## Will I lose any data if I close an app inadvertently while authoring?
 
 Both apps automatically save your edits as you author a guide. After you're done editing, we recommend pausing for a couple seconds before closing the app to make sure the app has time to sync with the server.
 
-Note that in the [!include[pn-hololens](../includes/pn-hololens.md)] application, if you use the bloom gesture to open the **Start** menu, the app goes on standby (doesn't close). When you select the app tile, you'll return to where you were before, and no changes will be lost.
+Note that in the [!include[pn-hololens](../includes/pn-hololens.md)] application, if you leave the app, it goes on standby (doesn't close). When you select the app tile, you'll return to where you were before, and no changes will be lost.
 
 ## What if the app crashes while authoring? Do I lose data?
 Both apps automatically save your edits as you author a guide. Any loss of data due to a crash should be minimal.
