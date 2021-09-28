@@ -24,9 +24,9 @@ The following entities are included in this solution.
 
 |Name|Display Name|Description|
 |----------|-----------|------------|
-|[account](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/entities/account?view=op-9-1)|Account|Business that represents a customer or potential customer. The company that is billed in business transactions.|
-|[msdyn_customerasset](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/entities/msdyn_customerasset?view=op-9-1)|Customer Asset|Specify customer asset.|
-|[product](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/entities/product?view=op-9-1)|Product|Information about products and their pricing information.|
+|[account](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/account?view=op-9-1)|Account|Business that represents a customer or potential customer. The company that is billed in business transactions.|
+|[msdyn_customerasset](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_customerasset?view=op-9-1)|Customer Asset|Specify customer asset.|
+|[product](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/product?view=op-9-1)|Product|Information about products and their pricing information.|
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
