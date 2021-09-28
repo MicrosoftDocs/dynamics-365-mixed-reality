@@ -108,42 +108,9 @@ Both apps automatically save your edits as you author a guide. After you're done
 
 Note that in the [!include[pn-hololens](../includes/pn-hololens.md)] application, if you leave the app, it goes on standby (doesn't close). When you select the app tile, you'll return to where you were before, and no changes will be lost.
 
-## What if the app crashes while authoring? Do I lose data?
-Both apps automatically save your edits as you author a guide. Any loss of data due to a crash should be minimal.
-
 ## What keyboard shortcuts are available in the PC authoring app?
 
 For a list of keyboard shortcuts, see [Keyboard shortcuts for the PC app](keyboard-shortcuts-pc-app.md).
-
-## How can I improve visual clarity of holograms in the [!include[pn-hololens](../includes/pn-hololens.md)] app?
-
-If holograms aren't visually clear, [!include[pn-hololens](../includes/pn-hololens.md)] might not be properly calibrated for you. Calibration is crucial because [!include[pn-hololens](../includes/pn-hololens.md)] renders holograms based on the distance between your eye pupils (interpupillary distance, or "IPD"). If [!include[pn-hololens](../includes/pn-hololens.md)] isn't calibrated correctly, your eyes struggle to see the holograms in relation to the real world. 
-
-To calibrate [!include[pn-hololens](../includes/pn-hololens.md)]:
-
-1. Use the bloom gesture to open the **Start** menu.
-
-2. Use the bloom gesture again to see all the installed apps. 
-
-3. Select the Calibration app, and then follow the instructions in the app. 
-
-4. After calibrating, select the [!include[pn-hololens](../includes/pn-hololens.md)] app again.
-
-If the holograms are visually clear but too bright or too dim, use the buttons on the left side of the [!include[pn-hololens](../includes/pn-hololens.md)] headset to increase or decrease brightness.
-
-## What should I do if the holographic instructions aren't aligned to my work area?
-
-Incorrect alignment of holograms can happen for two main reasons:
-
-- Your IPD has not been set correctly on the [!include[pn-hololens](../includes/pn-hololens.md)]. Refer to the instructions for setting the IPD above to correct this.
-
-- The guide needs to be realigned:
-
-    - If the guide is aligned by using a **holographic anchor**, the digital representation (that is, the 3D representation that is laid over the corresponding physical area) isn't aligned correctly. To realign the guide, select the **Anchor** button, and then realign the digital representation so that it's perfectly overlaid on the physical area. 
-
-    - If the guide is aligned by using a **circular code anchor**, the marker for the guide might not have been printed correctly. Try to realign the guide by selecting the **Anchor** button. Alternatively, you can reprint the anchor. Make sure that the anchor lies flat in the work area before you realign the guide.
-
-For more information about anchoring methods, see [Anchor your guide in the real world](anchor.md).
 
 ## What does the Save button with the refresh icon mean? How does Save work?
 
@@ -176,6 +143,20 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 ## I am connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
 
 [Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
+
+## Why does the app require permissions to launch?
+
+Dynamics 365 Guides includes advanced features that rely on eye-tracking, voice, and camera to function properly. For example, you need eye tracking to access the main menu (appears when you look at your palm). This is intended to prevent false positives so the menu doesn't appear at the wrong time. Similarly, without microphone access, voice commands won’t work. Without camera access, you can't anchor a guide or make a video call.
+
+## Why can't I make a video call?
+
+If you can’t make a video call, it could be because:
+
+-	Your admin has [disabled the option directly from the Guides web portal](!!!ADD LINK!!!). 
+
+-	The appropriate Microsoft Teams license has not been assigned to you. [Learn more about licensing requirements](requirements.md).
+
+-	You're currently offline and need to reconnect to the internet.
 
 ## See also
 
