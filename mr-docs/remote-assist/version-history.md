@@ -1,6 +1,6 @@
 ---
 title: Version history for Microsoft Dynamics 365 Remote Assist
-author: BryceHolmes
+author: amaraanigbo
 description: Find version history for earlier versions of Microsoft Dynamics Remote Assist, including a list of fixed bugs for each version.
 ms.author: soanigbo
 ms.date: 04/08/2021

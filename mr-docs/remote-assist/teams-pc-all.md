@@ -1,5 +1,5 @@
 ---
-author: BryceHolmes
+author: amaraanigbo
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application.
 ms.author: soanigbo
 ms.date: 09/24/2021

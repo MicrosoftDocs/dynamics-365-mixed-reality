@@ -1,12 +1,12 @@
 ---
-author: bencorn
+author: amaraanigbo
 description: Customer Asset Attachment entity.
-ms.author: becorn
+ms.author: soanigbo
 ms.date: 06/09/2020
 ms.service: crm-online
 ms.topic: article
 title: msdyn_customerassetattachment EntityType
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 
 # msdyn_customerassetattachment EntityType

@@ -1,12 +1,12 @@
 ---
 title: Asset capture overview for Dynamics 365 Remote Assist
-author: dhgoelmsft
+author: amaraanigbo
 description: Learn about the asset capture feature in Microsoft Dynamics 365 Remote Assist
-ms.author: dhgoel
+ms.author: soanigbo
 ms.date: 07/06/2021
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 # Overview of capturing assets in Dynamics 365 Remote Assist
 
