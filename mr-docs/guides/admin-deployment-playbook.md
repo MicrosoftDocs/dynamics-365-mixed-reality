@@ -129,6 +129,21 @@ For Windows Defender Firewall, sometimes it's not enough to have the app listed 
 - In the left panel, select **Outbound Rules**, sort the rules by name, and then look for a Microsoft Dynamics 365 Guides entry. Make sure that the value in the **Action** field is set to **Allow**. If it's not, reinstall the app.
 
     ![Firewall configuration 02](media/firewall_configuration_02.PNG "Firewall outbound rules")
+    
+### Making calls from Dynamics 365 Guides
+
+The following list contains the minimum URL end points and TCP/UDP ports used for calling. All must be reachable from the app. If you have specialized needs and/or scale, see the Teams comprehensive list for specifics.
+
+#### Teams
+
+- *.registrar.skype.com
+- *.teams.microsoft.com
+- UDP: 3478, 3479, 3480, 3481
+
+#### Microsoft GraphExplorer
+
+- graph.microsoft.com
+- TCP: 80, 443
 
 ## Access management and user roles
 
