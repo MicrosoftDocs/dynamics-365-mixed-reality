@@ -132,7 +132,7 @@ For Windows Defender Firewall, sometimes it's not enough to have the app listed 
     
 ### Making calls from Dynamics 365 Guides
 
-The following list contains the minimum URL end points and TCP/UDP ports used for calling. All must be reachable from the app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
+The following list contains the minimum URL endpoints and TCP/UDP ports used for calling. All must be reachable from the app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
 
 #### Teams
 
