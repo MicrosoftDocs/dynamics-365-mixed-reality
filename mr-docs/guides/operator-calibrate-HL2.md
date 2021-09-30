@@ -17,9 +17,9 @@ ms.reviewer: v-brycho
 
 ![Adjust prompt.](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
 
-## Manually calibrate your HoloLens by using the Calibration app
+## Use the Calibration app
 
-1. Use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for navigating Dynamics 365 Guides](operator-gestures.md).
+1. If the pop-up doesn't appear, use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for navigating Dynamics 365 Guides](operator-gestures.md).
 
 2. If **Settings** isn't pinned to the **Start** menu, select the plus sign (**+**) button to view all apps.
 
