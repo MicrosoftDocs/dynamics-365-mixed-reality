@@ -44,12 +44,6 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 7. Select an instance to use, if you have more than one instance. Then select **Continue**.
 
-8. In the **Guides** dialog box, gaze at the selection box for the guide that you want to open.
-
-9. If the **Select Mode** dialog box appears, gaze at the circle to the left of **Operate** until it's filled. When the circle is filled, the option is selected.
-
-    ![Select Mode dialog box.](media/select-mode-operate.png "Select Mode dialog box")
-
 > [!NOTE]
 > If you're a Dynamics 365 Guides admin, you can assign the **Operator** role to operators so that they can view guides but can't edit them. If you assign the **Operator** role to a user, the user can also skip the step in the **Select Mode** dialog box and open a guide directly. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
 
