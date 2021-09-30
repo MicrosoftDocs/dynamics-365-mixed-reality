@@ -28,26 +28,6 @@ In both cases, when you gaze, be sure to turn your whole head, not just your eye
 
 As you work with a guide, you will also have to use some gestures. This section lists the most important gestures.
 
-### Open the Start menu
-
-You can open the **Start** menu on [!include[pn-hololens](../includes/pn-hololens.md)] 2 by using either one hand or two hands. If you're ever unsure what to do, opening the **Start** menu is a good way to get reoriented.
-
-### Open the Start menu with one hand
-
-1. Hold out one of your hands with the palm facing up, and look at your wrist. You should see a holographic Windows logo.
-
-2. On the hand that you're holding out, touch your index finger to your thumb in a pinching motion.
-
-![Opening the Start menu with one hand.](media/open-start-menu-one-hand.png "Opening the Start menu with one hand")
-
-### Open the Start menu with two hands
-
-1. Hold out one of your hands with the palm facing up, and look at your wrist. You should see a holographic Windows logo.
-
-2. With the index finger of your other hand, touch the Windows logo.
-
-![Video camera graphic.](media/video-camera.PNG) [Watch a video about opening the Start menu with two hands](https://www.microsoft.com/videoplayer/embed/RE3Wxng).
-
 ### Air tap
 
 You can use air tap, together with gaze, to select apps, other holograms, and gaze/dwell buttons. To do an air tap, follow these steps.
