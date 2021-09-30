@@ -47,6 +47,8 @@ The Azure Active Directory default configuration for sign-in frequency is a roll
 
 ## Limitations with Offline mode
 
+- You can't make a call in **Offline** mode. When you're offline, the call activity card shows that you're offline. 
+
 - You can't author a guide in **Offline** mode.
 
 - If you make changes to a guide as an author, those changes will not automatically apply to your downloaded guide. You must re-open the guide on the device you want to use offline to make sure the latest changes have been dowloaded. 
