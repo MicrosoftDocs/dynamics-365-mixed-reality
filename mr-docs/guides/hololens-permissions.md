@@ -27,7 +27,7 @@ SCREEN SHOT GOES HERE
 
 ## Why camera permission is required 
 
-The camera is required to make video calls, understand the space around you, and more. 
+The camera is required to make video calls, to understand the space around you, and more. 
 
 SCREEN SHOT GOES HERE 
 
