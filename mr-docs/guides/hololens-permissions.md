@@ -47,7 +47,7 @@ SCREEN SHOT GOES HERE
 
 ## Give permission ot use the microphone
 
-1. Go to **Settings** > **Privacy**, and then under **App permissions" on the left side of the screen, select **Microphone**. 
+1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Microphone**. 
 
 2. On the right side of the screen, under **Allow apps to access your microphone**, move the slider to the **On** position. 
 
