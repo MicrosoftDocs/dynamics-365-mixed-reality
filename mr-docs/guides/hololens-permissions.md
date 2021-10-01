@@ -13,7 +13,7 @@ your intentions.
 
 Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information. 
 
-![XX.](media/hololens-permissions-eye-tracker.PNG "XXX")
+![Permissions dialog box for eye trackereye tracker.](media/hololens-permissions-eye-tracker.PNG "Permissions dialog box for eye tracker")
 
 ### Give permission to use eye tracking
 
@@ -29,7 +29,7 @@ Eye tracking has been designed with user privacy in mind. Microsoft doesn’t st
 
 The camera is required to make video calls, to understand the space around you, and more. 
 
-![XX.](media/hololens-permissions-camera.PNG "XXX")
+![Permissions dialog box for camera.](media/hololens-permissions-camera.PNG "Permissions dialog box for camera")
 
 ### Give permission to use the camera 
 
@@ -45,7 +45,7 @@ The camera is required to make video calls, to understand the space around you, 
 
 The microphone is required to make voice calls and to use voice commands.  
 
-![XX.](media/hololens-permissions-microphone.PNG "XXX") 
+![Permissions dialog box for microphone.](media/hololens-permissions-microphone.PNG "Permissions dialog box for microphone") 
 
 ### Give permission to use the microphone
 
