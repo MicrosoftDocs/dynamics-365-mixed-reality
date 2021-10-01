@@ -35,7 +35,7 @@ SCREEN SHOT GOES HERE
 
 1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Camera**. 
 
-2. On the right side of the screen, under **Allow apps to access your camera**, move the slider to the **On** position.  
+2. On the right side of the screen, under **Allow apps to access your camera**, move the slider to **On**.  
 
 3. On the right side of the screen, under **Choose which apps can access your camera**, turn the individual settings for Dynamics 365 Guides to **On**. 
 
