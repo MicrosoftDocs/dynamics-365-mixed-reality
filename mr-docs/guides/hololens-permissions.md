@@ -59,4 +59,4 @@ SCREEN SHOT GOES HERE
 
 ## See also
 
-[Frequently asked questions about Dynamics 365 Remote Assist HoloLens](faq.md)
+[Frequently asked questions about Dynamics 365 Guides](faq.md)
