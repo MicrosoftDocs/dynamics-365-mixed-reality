@@ -13,7 +13,7 @@ For these reasons, eye-tracking capable applications require you to grant app pe
 
 SCREEN SHOT GOES HERE 
 
-### Give permission to use eye tracking in HoloLens
+### Give permission to use eye tracking
 
 1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Eye tracker**. 
 
@@ -21,64 +21,40 @@ SCREEN SHOT GOES HERE
 
 3. On the right side of the screen, under **Choose which apps can access your eye tracker**, turn the individual settings for Dynamics 365 Guides to **On**. 
 
-[Learn more about “Windows 10 eye tracking and privacy”](https://support.microsoft.com/en-us/windows/windows-10-eye-tracking-and-privacy-62623324-36cf-04a3-6992-8f329081f20b)
+[Learn more about Windows 10 eye tracking and privacy](https://support.microsoft.com/en-us/windows/windows-10-eye-tracking-and-privacy-62623324-36cf-04a3-6992-8f329081f20b)
 
- 
+## Why camera permissions are required 
 
- 
+The camera is required to make video calls, understand the space around you, and more. 
 
-Why camera permissions are required 
+SCREEN SHOT GOES HERE 
 
-Camera is required to make video calls, understand the space around you, and more. 
+## Give permission to use the camera 
 
- 
+1. Go to **Settings** > **Privacy** > and then under **App permissions** on the left side of the screen, select **Camera**. 
 
- 
+2. On the right side of the screen, under **Allow apps to access your camera**, move the slider to the **On** position.  
 
-How to provide access to use camera in HoloLens: 
+3. On the right side of the screen, under **Choose which apps can access your camera**, turn the individual settings for Dynamics 365 Guides to **On**. 
 
-Go to Settings > Privacy > Camera (under “App Permissions” in the left column). 
+[Learn more about Windows camera, microphone, and privacy](https://support.microsoft.com/en-us/windows/windows-camera-microphone-and-privacy-a83257bc-e990-d54a-d212-b5e41beba857#ID0EBD=Windows_10)
 
-In the right column, under Allow apps to access your camera, turn the toggle On. 
+## Why microphone permissions are required 
 
-Scroll further and under Choose which apps can access your camera, turn the individual settings for Dynamics 365 Guides On. 
+The microphone is required to make voice calls and use voice commands.  
 
- 
+SCREEN SHOT GOES HERE 
 
-Learn more about “Windows camera, microphone, and privacy” 
+## Give permission ot use the microphone
 
-Link to: <Windows camera, microphone, and privacy (microsoft.com)> 
+1. Go to **Settings** > **Privacy**, and then under **App permissions" on the left side of the screen, select **Microphone**. 
 
- 
+2. On the right side of the screen, under **Allow apps to access your microphone**, move the slider to the **On** position. 
 
- 
+3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the individual settings for Dynamics 365 Guides to **On**. 
 
-Why microphone permissions are required 
+[Learn more about Windows camera, microphone, and privacy](https://support.microsoft.com/en-us/windows/windows-camera-microphone-and-privacy-a83257bc-e990-d54a-d212-b5e41beba857#ID0EBD=Windows_10)
 
-Microphone is required to make voice calls and use voice commands.  
+## See also
 
- 
-
- 
-
-How to provide access to use microphone in HoloLens: 
-
-Go to Settings > Privacy > Microphone (under “App Permissions” in the left column). 
-
-In the right column, under Allow apps to access your microphone, turn the toggle On. 
-
-Scroll further and under Choose which apps can access your microphone, turn the individual settings for Dynamics 365 Guides On. 
-
- 
-
-Learn more about “Windows camera, microphone, and privacy” 
-
-Link to: <Windows camera, microphone, and privacy (microsoft.com)> 
-
- 
-
- 
-
-See more:  
-
-Frequently asked questions about Dynamics 365 Remote Assist HoloLens (link to Dynamics 365 Remote Assist HoloLens frequently asked questions - Dynamics 365 Mixed Reality | Microsoft Docs> 
+[Frequently asked questions about Dynamics 365 Remote Assist HoloLens](faq.md)
