@@ -13,7 +13,7 @@ your intentions.
 
 Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information. 
 
-![Permissions dialog box for eye trackereye tracker.](media/hololens-permissions-eye-tracker.PNG "Permissions dialog box for eye tracker")
+![Permissions dialog box for eye tracker.](media/hololens-permissions-eye-tracker.PNG "Permissions dialog box for eye tracker")
 
 ### Give permission to use eye tracking
 
