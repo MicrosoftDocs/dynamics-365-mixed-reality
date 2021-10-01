@@ -7,7 +7,9 @@ Version 7.0 of Dynamics 365 Guides introduced a new main menu and the ability to
 ## Why eye-tracking permission is required 
 
 Eye tracking is required to use the main menu and to create a great experience. Eye tracking lets HoloLens know what you’re looking at and helps validate 
-your intentions. Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information. 
+your intentions. 
+
+Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information. 
 
 SCREEN SHOT GOES HERE 
 
