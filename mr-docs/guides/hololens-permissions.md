@@ -4,7 +4,7 @@
 
 Version 7.0 of Dynamics 365 Guides introduced a new main menu and the ability to make calls from HoloLens. To use these new features, you must provide permission to use HoloLens eye tracking, and the HoloLens camera and microphone.  
 
-## Why eye-tracking permissions are required 
+## Why eye-tracking permission is required 
 
 Eye tracking is required to use the main menu and to create a great experience. Eye tracking lets HoloLens know what you’re looking at and helps validate 
 your intentions. Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information. 
@@ -21,7 +21,7 @@ SCREEN SHOT GOES HERE
 
 [Learn more about Windows 10 eye tracking and privacy](https://support.microsoft.com/en-us/windows/windows-10-eye-tracking-and-privacy-62623324-36cf-04a3-6992-8f329081f20b)
 
-## Why camera permissions are required 
+## Why camera permission is required 
 
 The camera is required to make video calls, understand the space around you, and more. 
 
@@ -37,7 +37,7 @@ SCREEN SHOT GOES HERE
 
 [Learn more about Windows camera, microphone, and privacy](https://support.microsoft.com/en-us/windows/windows-camera-microphone-and-privacy-a83257bc-e990-d54a-d212-b5e41beba857#ID0EBD=Windows_10)
 
-## Why microphone permissions are required 
+## Why microphone permission is required 
 
 The microphone is required to make voice calls and use voice commands.  
 
