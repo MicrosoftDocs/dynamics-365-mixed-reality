@@ -43,7 +43,7 @@ SCREEN SHOT GOES HERE
 
 ## Why microphone permission is required 
 
-The microphone is required to make voice calls and use voice commands.  
+The microphone is required to make voice calls and to use voice commands.  
 
 SCREEN SHOT GOES HERE 
 
