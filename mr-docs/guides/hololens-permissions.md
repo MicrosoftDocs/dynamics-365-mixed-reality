@@ -2,12 +2,11 @@
 
 # HoloLens permissions required to use version 7.0 of Dynamics 365 Guides
 
-This article describes the permissions that are required to use the HoloLens app in version 7.0 of Microsoft Dynamics 365 Guides. 
-Version 7.0 introduced the calling feature in Dynamics 365 Guides.  
+Version 7.0 introduced a new main menu and the ability to make a call from HoloLens. To use these new features you must allow HoloLens to use eye tracking, the camera, and the microphone.  
 
 ## Why eye-tracking permissions are required 
 
-Eye tracking is required to use the main menu and to create a great experience. Eye tracksing lets HoloLens know what you’re looking at and helps validate 
+Eye tracking is required to use the main menu and to create a great experience. Eye tracking lets HoloLens know what you’re looking at and helps validate 
 your intentions. Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information. 
 For these reasons, eye-tracking capable applications require you to grant app permission to use eye tracking information. 
 
@@ -29,7 +28,7 @@ The camera is required to make video calls, understand the space around you, and
 
 SCREEN SHOT GOES HERE 
 
-## Give permission to use the camera 
+### Give permission to use the camera 
 
 1. Go to **Settings** > **Privacy** > and then under **App permissions** on the left side of the screen, select **Camera**. 
 
@@ -45,7 +44,7 @@ The microphone is required to make voice calls and use voice commands.
 
 SCREEN SHOT GOES HERE 
 
-## Give permission ot use the microphone
+### Give permission ot use the microphone
 
 1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Microphone**. 
 
