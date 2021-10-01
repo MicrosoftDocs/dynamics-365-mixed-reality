@@ -47,7 +47,7 @@ The microphone is required to make voice calls and to use voice commands.
 
 SCREEN SHOT GOES HERE 
 
-### Give permission ot use the microphone
+### Give permission to use the microphone
 
 1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Microphone**. 
 
