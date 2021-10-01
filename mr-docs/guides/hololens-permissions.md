@@ -51,7 +51,7 @@ SCREEN SHOT GOES HERE
 
 1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Microphone**. 
 
-2. On the right side of the screen, under **Allow apps to access your microphone**, move the slider to the **On** position. 
+2. On the right side of the screen, under **Allow apps to access your microphone**, move the slider to **On**. 
 
 3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the individual settings for Dynamics 365 Guides to **On**. 
 
