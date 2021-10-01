@@ -17,7 +17,7 @@ SCREEN SHOT GOES HERE
 
 ### Give permission to use eye tracking
 
-1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Eye tracker**. 
+1. Go to **Settings** > **Privacy**, and then on the left side of the screen under **App permissions**, select **Eye tracker**. 
 
 2. On the right side of the screen, under **Allow apps to access your eye tracker**, move the slider to **On**. 
 
@@ -33,7 +33,7 @@ SCREEN SHOT GOES HERE
 
 ### Give permission to use the camera 
 
-1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Camera**. 
+1. Go to **Settings** > **Privacy**, and then on the left side of the screen under **App permissions**, select **Camera**. 
 
 2. On the right side of the screen, under **Allow apps to access your camera**, move the slider to **On**.  
 
@@ -49,7 +49,7 @@ SCREEN SHOT GOES HERE
 
 ### Give permission to use the microphone
 
-1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Microphone**. 
+1. Go to **Settings** > **Privacy**, and then on the left side of the screen under **App permissions**, select **Microphone**. 
 
 2. On the right side of the screen, under **Allow apps to access your microphone**, move the slider to **On**. 
 
