@@ -33,7 +33,7 @@ SCREEN SHOT GOES HERE
 
 ### Give permission to use the camera 
 
-1. Go to **Settings** > **Privacy** > and then under **App permissions** on the left side of the screen, select **Camera**. 
+1. Go to **Settings** > **Privacy**, and then under **App permissions** on the left side of the screen, select **Camera**. 
 
 2. On the right side of the screen, under **Allow apps to access your camera**, move the slider to the **On** position.  
 
