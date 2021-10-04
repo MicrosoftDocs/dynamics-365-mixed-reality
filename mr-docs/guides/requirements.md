@@ -20,7 +20,9 @@ The following table lists technical requirements for deploying and using [!inclu
 
 ## Dynamics 365 Guides features/requirements
 
-| App/feature | Required product| Learn more |
+The following table lists Dynamics 365 apps/features and the products required to use those apps/features.
+
+| App/feature | Product required| Learn more |
 |---|---|---|
 |PC app and HoloLens app| Dynamics 365 Guides.<br><br>**Note:** Microsoft Dataverse and the Power Apps service are included with the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription for individuals who use a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license.</p> | [Buy and deploy Dynamics 365 Guides](setup.md)<p>You can also [sign up for a free trial Dynamics 365 subscription](setup.md).</p> |
 |Outbound calling from Dynamics 365 Guides| Dynamics 365 Remote Assist </br> or Microsoft Teams<br><br>A Microsoft Teams license is required to enable outbound calling from Dynamics 365 Guides. <br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
