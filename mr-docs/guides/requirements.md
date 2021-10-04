@@ -67,7 +67,7 @@ The calling feature in Dynamics 365 Guides does not support:
 
 ### Microsoft Teams app user
 
-The Microsoft Teams user can be in the same tenant, in a federated tenant, or a guest in the tenant.
+The Microsoft Teams user can be in the same organization as the Dynamics 365 Guides user, in a federated organization, or a guest in the organization.
 
 ## What's next
 
