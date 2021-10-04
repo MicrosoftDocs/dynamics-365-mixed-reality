@@ -24,11 +24,12 @@ The following table lists Dynamics 365 Guides apps/features and the products req
 
 | App/feature | Product required| Learn more |
 |---|---|---|
+|Purchasing a subscription and assigning licenses|Azure Active Directory (Azure AD) account<br><br>You need an Azure AD account for each licensed user.</li><li>Users also need Azure AD to sign in to the app.</li></ul> | [Get started with Azure AD](/azure/active-directory/fundamentals/active-directory-whatis) |
 |PC app and HoloLens app| Dynamics 365 Guides| [Buy and deploy Dynamics 365 Guides](setup.md)<p><p>-Or-<p>[Sign up for a free trial subscription](setup.md)</p> |
 |Microsoft Dataverse and Power Apps service|Dynamics 365 Guides (included with subscription)|[Buy and deploy Dynamics 365 Guides](setup.md) |
 |Outbound calling from Dynamics 365 Guides| Microsoft Teams<br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
 |Analytics dashboard| Power BI Desktop app<p><p>**Note:** Power BI Desktop is [available as a free download](https://powerbi.microsoft.com/desktop/).</p> | [Learn more about Power BI](https://powerbi.microsoft.com/desktop/) |
-|Purchasing a subscription and assigning licenses|Azure Active Directory (Azure AD) account<br><br>You'll need an Azure AD account for each licensed user.</li><li>Users when signing in to the app.</li></ul> | [Get started with Azure AD](/azure/active-directory/fundamentals/active-directory-whatis) |
+
 
 Internet access is required to download the app and use all its features for both PC and [!include[pn-hololens](../includes/pn-hololens.md)]. | |
 
