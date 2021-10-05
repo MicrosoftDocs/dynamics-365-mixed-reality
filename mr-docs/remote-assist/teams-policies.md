@@ -84,8 +84,18 @@ When chat messaging is disabled, the user sees **Chat unavailable** in the Chat 
 
 SCREEN SHOT GOES HERE
  
-## User experience in the mobile app
-
 If the user tries to enter text in the chat window, they see the following meessage that explains why chat messaging is unavailable.
 
 SCREEN SHOT GOES HERE
+
+## User experience in the mobile app
+
+When chat messaging is disabled, the **Chat** button is unavailable.
+
+SCREEN SHOT GOES HERE
+
+If the user tries to select the **Chat** button, they see the following message explaining why chat messaging is unavailable. 
+
+
+
+
