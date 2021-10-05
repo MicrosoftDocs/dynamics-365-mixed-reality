@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 Version 7.0 of Dynamics 365 Guides [introduced a new main menu and the ability to make calls from HoloLens](new.md). To use these new features in the HoloLens app, you must provide permission to use HoloLens eye tracking, the HoloLens camera, and the HoloLens microphone. 
 
-When you open the HoloLens app for the first time in Dynamics 365 Guides version 7.0, you're prompted to provide these permissions. If you choose not to provide permissions at that time, you can do so later as described in this article. You won't be able to use the HoloLens app until you provide all three permissions. 
+When you open the HoloLens app for the first time in Dynamics 365 Guides version 7.0, you're prompted to provide these permissions. If you don't provide one or more permissions, you won't be able to use Dynamics 365 Guides version 7.0. If you try to use the HoloLens app, a dialog box will appear and prompt you to turn on each setting. Alternatively, you can turn on each permission by following the steps described in this article.
 
 ## Why eye-tracking permission is required 
 
