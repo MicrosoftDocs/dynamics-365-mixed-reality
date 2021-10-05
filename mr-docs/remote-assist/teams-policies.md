@@ -58,72 +58,34 @@ When call recording is disabled, the **Recording** button is unavailable.
 
 SCREEN SHOT GOES HERE
 
-If the user selects the **Recording** button, they see the following message that explains why call recording is not available.  
+If the user selects the **Recording** button, they see the following message that explains why recording is not available.  
  
 SCREEN SHOT GOES HERE
 
 ### User experience in the mobile app
 
-When call recording is disabled, the **Recording** button is unavailable.
+When call recording is disabled, the **Start recording** command is unavailable.
 
 SCREEN SHOT GOES HERE
 
-If the user selects the **Recording** button, they see the following message that explains why call recording is not available.
+If the user selects the **Start recording** command, they see the following message that explains why recording is not available.
 
 SCREEN SHOT GOES HERE
 
 ## Chat messaging  
 
-Chat Messaging policies are used to control which chat and channel messaging features are available to users (owners and members) in Microsoft Teams.  
+Chat messaging policies are used to control which chat and channel messaging features are available to users (owners and members) in Microsoft Teams.  
 
+Chat messaging policies in Dynamics 365 Remote Assist allow users to read but not send chat messages. Voice recording and photo capture are also disabled since these features require chat. If chat messaging is disabled through a policy, the Dynamics 365 Remote Assist user will not receive incoming chat messages from Teams. 
+
+## User experience in the HoloLens app
+
+When chat messaging is disabled, the user sees **Chat unavailable** in the Chat window.  
+
+SCREEN SHOT GOES HERE
  
+## User experience in the mobile app
 
-Chat Messaging policies in Dynamics 365 Remote Assist allow users to read chat but not send messages. Voice recording and photo capture will also be disabled since these features require chat. If Chat Messaging is disabled through a policy, the Remote Assist user will not receive incoming chat messages from Teams. 
+If the user tries to enter text in the chat window, they see the following meessage that explains why chat messaging is unavailable.
 
- 
-
- 
-
-User experience in RA HoloLens: Screenshot showing chat messaging is disabled and a pop-up explaining why chat messaging is unavailable  
-
- 
-
- 
-
-(05.00-chat) 
-
- 
-
-(05.00-chat-1) 
-
- 
-
-Graphical user interface, application
-
-Description automatically generated 
-
- 
-
- 
-
-User experience in RA Mobile: Screenshots showing chat messaging is disabled and a pop-up explaining why chat messaging is unavailable  
-
- 
-
-(03.01-call) 
-
- 
-
-(07.01-chat messages) 
-
- 
-
- 
-
- 
-
- 
-
-(07.01-chat messages-2) 
-
- 
+SCREEN SHOT GOES HERE
