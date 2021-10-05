@@ -28,7 +28,7 @@ The following table lists product requirements for services, apps, and features 
 |PC authoring app and HoloLens app| Dynamics 365 Guides| [Buy and deploy Dynamics 365 Guides](setup.md)<p><p>-Or-<p>[Sign up for a free trial subscription](setup.md)</p> |
 |Microsoft Dataverse and Power Apps service|Dynamics 365 Guides (included with subscription)|[Buy and deploy Dynamics 365 Guides](setup.md) |
 |Outbound calling from Dynamics 365 Guides| Microsoft Teams<br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
-|Analytics dashboard| Power BI Desktop app<p><p>Power BI Desktop is [available as a free download](https://powerbi.microsoft.com/desktop/).</p> | [Learn more about Power BI](https://powerbi.microsoft.com/desktop/) |
+|Analytics dashboard| Power BI Desktop app ([available as a free download](https://powerbi.microsoft.com/desktop/)).</p> | [Learn more about Power BI](https://powerbi.microsoft.com/desktop/) |
 
 
 Internet access is required to download the app and use all its features for both PC and [!include[pn-hololens](../includes/pn-hololens.md)]. | |
