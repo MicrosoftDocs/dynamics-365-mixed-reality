@@ -30,17 +30,7 @@ The following table lists product requirements for services, apps, and features 
 |Outbound calling from Dynamics 365 Guides| Microsoft Teams or Dynamics 365 Remote Assist<br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
 |Analytics dashboard| Power BI Desktop app ([available as a free download](https://powerbi.microsoft.com/desktop/)).</p> | [Learn more about Power BI](https://powerbi.microsoft.com/desktop/) |
 
-## Dynamics 365 Guides licensing and product requirements
-
-| Product | Required for| Learn more |
-|---|---|---|
-| [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] | [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] software that is running on a PC and [!include[pn-hololens](../includes/pn-hololens.md)] that has a valid [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription are required.<p>**Note:** Microsoft Dataverse and the Power Apps service are included with the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription for individuals who use a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license.</p> | [Buy and deploy Dynamics 365 Guides](setup.md)<p>You can also [sign up for a free trial Dynamics 365 subscription](setup.md).</p> |
-| Dynamics 365 Remote Assist </br> or Microsoft Teams | A Microsoft Teams license is required to enable outbound calling from Dynamics 365 Guides. <br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
-| [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop app | [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] requires the [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop app to view the Analytics dashboard.<p>**Note:** [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop is [available as a free download](https://powerbi.microsoft.com/desktop/).</p> | [Learn more about Power BI](https://powerbi.microsoft.com/desktop/) |
-| Azure Active Directory (Azure AD) account | Required for:<ul><li>Purchasing [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses. You'll need an Azure AD account for each licensed user.</li><li>Users when signing in to the app.</li></ul> | [Get started with Azure AD](/azure/active-directory/fundamentals/active-directory-whatis) |
-| Network connectivity | Internet access is required to download the app and use all its features for both PC and [!include[pn-hololens](../includes/pn-hololens.md)]. | |
-
-## Device options and requirements for a Microsoft Teams user
+## Device options and requirements for Microsoft Teams user
 
 | Device                             | OS requirements                                             | Details                                                                                                                                                                                                                                                                                 |
 | ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +40,7 @@ The following table lists product requirements for services, apps, and features 
 > [!Note] 
 > Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](./mobile-app/faq-mobile.md).
 
-## Licensing and product requirements per role - Making and receiving calls
+## Making and receiving calls
 
 ### Dynamics 365 Guides on HoloLens
 
