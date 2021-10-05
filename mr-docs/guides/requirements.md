@@ -32,7 +32,7 @@ The following table lists product requirements for services, apps, and features 
 
 ## Microsoft Teams user requirements
 
-| Device                             | OS requirements                                             | Details                                                                                                                                                                                                                                                                                 |
+| Device                             | OS requirement                                             | Details                                                                                                                                                                                                                                                                                 |
 | ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Microsoft Teams app on Windows 10 PC | Any Windows 10 build                                       | A Windows 10 PC running the Teams PC application can collaborate with a Dynamics 365 Guides user on HoloLens 2. |
 | Microsoft Teams app on a mobile device | Any iOS or Android phone or tablet running  Microsoft Teams | A phone or tablet running the Microsoft Teams mobile app can collaborate with a Dynamics 365 Guides user on HoloLens 2.|
