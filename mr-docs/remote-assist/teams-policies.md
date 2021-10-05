@@ -47,7 +47,7 @@ SCREEN SHOT GOES HERE
 
 ## Call recording policies 
 
-Call recording policies are used to control call-recording capabilities. This allows admins to disable call recording for privacy purposes. If call recording is disabled through a policy, the Remote Assist user will not be able to start a recording.  
+Call recording policies are used to control call-recording capabilities. This allows admins to disable call recording for privacy purposes. If call recording is disabled through policy, the Dynamics 365 Remote Assist user will not be able to start a recording.  
 
 > [!NOTE]
 > This policy does not affect other participants on a call. Other participants might still be able to start/stop recordings.  
