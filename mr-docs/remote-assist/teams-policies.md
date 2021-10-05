@@ -37,7 +37,7 @@ SCREEN SHOT GOES HERE
 
 ### User experience in the mobile app
 
-In the mobile app, when video is disabled, the **Video** button is unavailable and the Mixed Reality toolbar is also unavailable.
+When video is disabled, the **Video** button is unavailable and the Mixed Reality toolbar is also unavailable.
 
 SCREEN SHOT GOES HERE
 
