@@ -14,7 +14,7 @@ create and assign one or more custom policies to turn the features that you want
 > [!NOTE]
 > You can't set policies for specific applications (for example, Dynamics 365 Remote Assist vs. Teams).  
 
-## Video  
+## Video policies
 
 Video policies are used to control video stream capabilities. Video policies do not include disabling:
 
@@ -45,7 +45,7 @@ If the user selects the **Video** button, they see the following message that ex
 
 SCREEN SHOT GOES HERE 
 
-## Call recording  
+## Call recording policies 
 
 Call recording policies are used to control call-recording capabilities. This allows admins to disable call recording for privacy purposes. If call recording is disabled through a policy, the Remote Assist user will not be able to start a recording.  
 
@@ -72,7 +72,7 @@ If the user selects the **Start recording** command, they see the following mess
 
 SCREEN SHOT GOES HERE
 
-## Chat messaging  
+## Chat messaging policies
 
 Chat messaging policies are used to control which chat and channel messaging features are available to users (owners and members) in Microsoft Teams.  
 
