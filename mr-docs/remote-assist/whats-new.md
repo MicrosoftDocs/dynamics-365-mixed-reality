@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: BryceHolmes
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 08/09/2021
+ms.date: 10/06/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -14,6 +14,27 @@ ms.reviewer: v-bholmes
 This article describes new features for Dynamics 365 Remote Assist.
 
 For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/).
+
+## October 6, 2021
+
+### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|XXX|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|[New features start here](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/service/dynamics365-remote-assist/turn-hand-rays-off-or)|[New feature how-to starts here](hololens-hand-rays.md)|
+
+### Bugs fixed
+
+**XXX**
+- 
 
 ## August 9, 2021
 
