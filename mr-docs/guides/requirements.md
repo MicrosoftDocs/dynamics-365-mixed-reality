@@ -46,12 +46,10 @@ The following table lists product requirements for services, apps, and features 
 
 The calling feature in Dynamics 365 Guides does not support:
 
-- Access to the Dynamics 365 Remote Assist model-driven app.
+- Access to the Dynamics 365 Remote Assist model-driven app. Outbound calls from Dynamics 365 Guides are not included in Dynamics 365 Remote Assist call record analytics/insights.
 - [Creating and managing assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Guides call.
 - Creating and sharing one-time-call links.
 - Creating or viewing analytics and insights based on call records. Dynamics 365 Remote Assist and Dynamics 365 Guides do not currently comply with Microsoft Teams policies. </br>
-
-Outbound calls from Dynamics 365 Guides are not included in Dynamics 365 Remote Assist call record analytics/insights.
 
 The Dynamics 365 Remote Assist, Teams, and Dataverse licenses must be assigned to a native member of the tenant ([Azure AD member](/azure/active-directory/fundamentals/users-default-permissions#member-and-guest-users) account). Dynamics 365 Remote Assist does not support [Azure AD B2B](/azure/active-directory/external-identities/what-is-b2b); an individual cannot sign into Dynamics 365 Remote Assist using a Dynamics 365 Remote Assist license assigned to an Azure AD guest account. 
 
