@@ -16,7 +16,7 @@ create and assign one or more custom policies to turn the features that you want
 
 ## Video policies
 
-Video policies are used to control video stream capabilities. Video policies do not include disabling:
+Video policies are used to control video stream capabilities. Video policies do not disable:
 
 - The camera because the user can use Mixed Reality Capture (MRC)
 - The low-bandwidth feature
