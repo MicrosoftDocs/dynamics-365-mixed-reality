@@ -16,125 +16,61 @@ create and assign one or more custom policies to turn the features that you want
 
 ## Video  
 
-Video policies are used to control video stream capabilities. This does not include disabling the camera because the user can use MRC (Mixed Reality Capture).  Video policies also does not include disabling low bandwidth and Asset Capture.  
+Video policies are used to control video stream capabilities. Video policies do not include disabling:
 
- 
+- The camera because the user can use Mixed Reality Capture (MRC)
+- The low-bandwidth feature
+- The Asset Capture feature 
 
-Note: If video is disabled users will not be able to leverage Mixed Reality annotations from remote participants.  
+> [!IMPORTANT]
+> If video is disabled, users will not be able to see mixed-reality annotations from remote participants.  
 
- 
+### User experience in the HoloLens app
 
-User experience in RA HoloLens: Screenshot showing outgoing video is disabled and pop-up explaining why outgoing video is not available  
+When video is disabled, the **Video** button is unavailable and the Mixed Reality toolbar is also unavailable.
 
-(Note: Mixed Reality Toolbar is greyed out when video capabilities are disabled) 
+SCREEN SHOT GOES HERE
 
-(03.00-call-3) 
+If the user selects the **Video** button, they see the following message that explains why outgoing video is unavailable.
 
- 
+SCREEN SHOT GOES HERE
 
-(03.00-call-5) 
+### User experience in the mobile app
 
-Graphical user interface, application
+In the mobile app, when video is disabled, the **Video** button is unavailable and the Mixed Reality toolbar is also unavailable.
 
-Description automatically generated 
+SCREEN SHOT GOES HERE
 
- 
+If the user selects the **Video** button, they see the following message that explains why outgoing video is unavailable.
 
- 
-
-User experience in RA Mobile: Screenshots showing outgoing video is disabled and pop-up explaining why outgoing video is not available  
-
-(Note: Mixed Reality Toolbar is greyed out when video capabilities are disabled) 
-
- 
-
- 
-
-(03.00-call-audio) 
-
- 
-
-(03.00-call-audio-1) 
-
- 
-
- 
+SCREEN SHOT GOES HERE 
 
 ## Call recording  
 
+Call recording policies are used to control call-recording capabilities. This allows admins to disable call recording for privacy purposes. If call recording is disabled through a policy, the Remote Assist user will not be able to start a recording.  
+
+> [!NOTE]
+> This policy does not affect other participants on a call. Other participants might still be able to start/stop recordings.  
+
+### User experience in the HoloLens app
+
+When call recording is disabled, the **Recording** button is unavailable.
+
+SCREEN SHOT GOES HERE
+
+If the user selects the **Recording** button, they see the following message that explains why call recording is not available.  
  
+SCREEN SHOT GOES HERE
 
-Call recording policies are used to control call recording capabilities. This allows admin to disable call recording for privacy purposes. If Call Recording is disabled through a policy, the Remote Assist user will not be able to start a recording.  
+### User experience in the mobile app
 
- 
+When call recording is disabled, the **Recording** button is unavailable.
 
-Note: This policy does not affect other participants in call, whom still may be able to start/stop recordings.  
+SCREEN SHOT GOES HERE
 
- 
+If the user selects the **Recording** button, they see the following message that explains why call recording is not available.
 
-User experience in RA HoloLens: Screenshot showing call recording disabled and pop-up explaining why call recording is not available  
-
- 
-
-(03.00-call-2) 
-
-A screenshot of a person
-
-Description automatically generated 
-
- 
-
-(03.00-call-4) 
-
-Graphical user interface, application
-
-Description automatically generated 
-
- 
-
- 
-
- 
-
-User experience in RA Mobile: Screenshots showing call recording disabled and pop-up explaining why call recording is not available  
-
-(03.01-call) 
-
-A picture containing text, indoor
-
-Description automatically generated 
-
- 
-
-(04.00-call-overflow) 
-
- 
-
-A screenshot of a computer
-
-Description automatically generated with medium confidence 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(04.00-call-overflow-1) 
-
- 
-
-A picture containing text
-
-Description automatically generated 
-
-  
+SCREEN SHOT GOES HERE
 
 ## Chat messaging  
 
