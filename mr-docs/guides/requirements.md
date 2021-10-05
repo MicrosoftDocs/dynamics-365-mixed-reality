@@ -27,7 +27,7 @@ The following table lists product requirements for services, apps, and features 
 |Purchase a Dynamics 365 Guides subscription and assign licenses|Azure Active Directory (Azure AD) account<br><br>You'll need an Azure AD account for each licensed user so they can sign in to the app.</li></ul> | [Get started with Azure AD](/azure/active-directory/fundamentals/active-directory-whatis) |
 |PC authoring app and HoloLens app| Dynamics 365 Guides| [Buy and deploy Dynamics 365 Guides](setup.md)<p><p>-Or-<p>[Sign up for a free trial subscription](setup.md)</p> |
 |Microsoft Dataverse and Power Apps service|Dynamics 365 Guides (included with subscription)|[Buy and deploy Dynamics 365 Guides](setup.md) |
-|Outbound calling from Dynamics 365 Guides| Microsoft Teams<br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
+|Outbound calling from Dynamics 365 Guides| Microsoft Teams or Dynamics 365 Remote Assist<br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
 |Analytics dashboard| Power BI Desktop app ([available as a free download](https://powerbi.microsoft.com/desktop/)).</p> | [Learn more about Power BI](https://powerbi.microsoft.com/desktop/) |
 
 ## Dynamics 365 Guides licensing and product requirements
