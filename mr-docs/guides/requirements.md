@@ -20,7 +20,7 @@ The following table lists technical requirements for deploying and using [!inclu
 
 ## Services, apps, and features
 
-The following table lists requirements for services, apps, and features related to Dynamics 365 Guides.
+The following table lists product requirements for services, apps, and features related to Dynamics 365 Guides.
 
 | Service, app, or feature | Product required| Learn more |
 |---|---|---|
