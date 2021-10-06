@@ -59,7 +59,7 @@ If the user selects the **Video** button, they see the following message that ex
 Call recording policies are used to control call-recording capabilities. This allows admins to disable call recording for privacy purposes. If call recording is disabled through policy, the Dynamics 365 Remote Assist user will not be able to start a recording.  
 
 > [!NOTE]
-> This policy does not affect other participants on a call. Other participants might still be able to start/stop recordings.  
+> This policy does not affect other participants on a call. Other participants will still be able to start/stop recordings.  
 
 ### User experience in the HoloLens app
 
@@ -89,17 +89,17 @@ Chat messaging policies in Dynamics 365 Remote Assist allow users to read but no
 
 ## User experience in the HoloLens app
 
-When chat messaging is disabled, the user sees **Chat unavailable** in the Chat window.  
+When chat messaging is disabled, the Chat window and keyboard are disabled and the user sees **Chat unavailable** in the Chat window.  
 
 ![HoloLens app screenshot showing Chat unavailable in Chat window.](media/teams-policies-hololens-chat-button.PNG "HoloLens app screenshot showing Chat unavailable in Chat window")
  
-If the user tries to enter text in the chat window, they see the following message that explains why chat messaging is unavailable.
+If the user tries to enter text in the Chat window, they see the following message that explains why chat is unavailable.
 
 ![HoloLens app screenshot showing chat message.](media/teams-policies-hololens-chat-message.PNG "HoloLens app screenshot showing chat message")
 
 ## User experience in the mobile app
 
-When chat messaging is disabled, the user sees **Chat disabled by admin** in the Chat window.
+When chat messaging is disabled, the Chat window and keyboard are disabled and the user sees **Chat disabled by admin** in the Chat window.
 
 ![Mobile app screenshot showing Chat unavailable.](media/teams-policies-mobile-chat-unavailable.PNG "Mobile app screenshot showing Chat unavailable")
 
