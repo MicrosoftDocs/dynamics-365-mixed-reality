@@ -16,7 +16,7 @@ Version 7.0 of Dynamics 365 Guides [introduced a new main menu and the ability t
 |----------------------|----------------------------------------------------------|
 |Eye tracking|Required to use the main menu and to create a great experience. Eye tracking lets HoloLens know what you’re looking at and helps validate your intentions.<br><br>Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information.| 
 |Camera|Required to make video calls, to understand the space around you, and more.| 
-|Microphone|Required to make voice calls and to use voice commands.|  
+|Microphone|Required to make voice calls and use voice commands.|  
 
 When you open the HoloLens app for the first time in Dynamics 365 Guides version 7.0, you're prompted to provide these permissions through three separate dialog boxes. For example, you'll see the following dialog box to provide permission to use the eye tracker.
 
