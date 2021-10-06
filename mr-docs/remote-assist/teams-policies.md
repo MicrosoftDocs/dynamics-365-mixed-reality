@@ -54,9 +54,9 @@ If the user selects the **Video** button, they see the following message that ex
 
 ![Mobile app screenshot showing video message.](media/teams-policies-mobile-video-message.PNG "Mobile app screenshot showing video message")
 
-## Call recording policies 
+## Call-recording policies 
 
-Call recording policies are used to control call-recording capabilities. This allows admins to disable call recording for privacy purposes. If call recording is disabled through policy, the Dynamics 365 Remote Assist user will not be able to start a recording.  
+Call-recording policies are used to control call-recording capabilities. This allows admins to disable call recording for privacy purposes. If call recording is disabled through policy, the Dynamics 365 Remote Assist user will not be able to start a recording.  
 
 > [!NOTE]
 > This policy does not affect other participants on a call. Other participants will still be able to start/stop recordings.  
