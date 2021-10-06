@@ -35,7 +35,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
     ![Dynamics 365 Guides button.](media/open-guides-application.PNG "Dynamics 365 Guides button")
     
     > [!NOTE]
-    > If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md) 
+    > If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md). 
 
 4. On the **Welcome** page, select **Sign in**. 
 
