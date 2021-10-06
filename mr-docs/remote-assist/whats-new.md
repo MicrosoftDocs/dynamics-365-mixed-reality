@@ -21,15 +21,17 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|XXX|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
+|HoloLens 2 app|306.2109.24003|
+|iOS mobile app|2021.10.6|
+|Android mobile app|2021.10.6|
 
 ### Features
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[New features start here](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/service/dynamics365-remote-assist/turn-hand-rays-off-or)|[New feature how-to starts here](hololens-hand-rays.md)|
+|[One-time-call users can open files shared with them from the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/one-time-call-users-open-files-shared-them)|[New feature how-to starts here](one-time-call.md)|
+|[Support for select Microsoft Teams policies](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-subset-teams-policies)|[Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md)|
+|[Accuracy improvements for mixed-reality annotations in the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/accuracy-improvements-mixed-reality-annotations-mobile)|None|
 
 ### Bugs fixed
 
