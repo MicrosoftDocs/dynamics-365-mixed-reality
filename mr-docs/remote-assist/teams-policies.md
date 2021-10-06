@@ -87,7 +87,7 @@ Chat messaging policies are used to control which chat and channel messaging fea
 
 If chat messaging is disabled, Dynamics 365 Remote Assist users can read but not send chat messages. Voice recording and photo capture are also disabled since these features require chat.  
 
-## User experience in the HoloLens app
+### User experience in the HoloLens app
 
 When chat messaging is disabled, the Chat window and keyboard are disabled and the user sees **Chat unavailable** in the Chat window.  
 
@@ -97,7 +97,7 @@ If the user tries to enter text in the Chat window, they see the following messa
 
 ![HoloLens app screenshot showing chat message.](media/teams-policies-hololens-chat-message.PNG "HoloLens app screenshot showing chat message")
 
-## User experience in the mobile app
+### User experience in the mobile app
 
 When chat messaging is disabled, the Chat window and keyboard are disabled and the user sees **Chat disabled by admin** in the Chat window.
 
