@@ -99,7 +99,7 @@ If the user tries to enter text in the chat window, they see the following messa
 
 ## User experience in the mobile app
 
-When chat messaging is disabled, the **Chat** button is unavailable.
+When chat messaging is disabled, the user sees **Chat disabled by admin** in the Chat window.
 
 ![Mobile app screenshot showing Chat unavailable.](media/teams-policies-mobile-chat-unavailable.PNG "Mobile app screenshot showing Chat unavailable")
 
