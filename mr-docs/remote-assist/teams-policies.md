@@ -29,7 +29,7 @@ Video policies are used to control video stream capabilities. Video policies do 
 
 - The camera because the user can use Mixed Reality Capture (MRC)
 - The low-bandwidth feature
-- The Asset Capture feature 
+- The asset capture feature 
 
 > [!IMPORTANT]
 > If video is disabled, users will not be able to see mixed-reality annotations from remote participants.  
