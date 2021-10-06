@@ -91,7 +91,7 @@ Chat messaging policies in Dynamics 365 Remote Assist allow users to read but no
 
 When chat messaging is disabled, the user sees **Chat unavailable** in the Chat window.  
 
-![HoloLens app screenshot showing Chat unavailable in Chat window.](media/teams-policies-hololens-chat-command.PNG "HoloLens app screenshot showing Chat unavailable in Chat window")
+![HoloLens app screenshot showing Chat unavailable in Chat window.](media/teams-policies-hololens-chat-button.PNG "HoloLens app screenshot showing Chat unavailable in Chat window")
  
 If the user tries to enter text in the chat window, they see the following meessage that explains why chat messaging is unavailable.
 
