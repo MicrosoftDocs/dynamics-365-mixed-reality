@@ -65,21 +65,21 @@ Call recording policies are used to control call-recording capabilities. This al
 
 When call recording is disabled, the **Recording** button is unavailable.
 
-![HoloLens app screenshot with Recording button disabled.](media/teams-policies-hololens-recording-button.PNG "HoloLens screenshot with Recording button disabled")
+![HoloLens app screenshot with Recording button disabled.](media/teams-policies-hololens-call-recording-button.PNG "HoloLens screenshot with Recording button disabled")
 
 If the user selects the **Recording** button, they see the following message that explains why recording is not available.  
  
-![HoloLens app screenshot showing recording message.](media/teams-policies-hololens-recording-message.PNG "HoloLens screenshot showing recording message")
+![HoloLens app screenshot showing recording message.](media/teams-policies-hololens-call-recording-message.PNG "HoloLens screenshot showing recording message")
 
 ### User experience in the mobile app
 
 When call recording is disabled, the **Start recording** command is unavailable.
 
-![Mobile app screenshot with Start recording button disabled.](media/teams-policies-mobile-recording-command.PNG "Mobile app screenshot with Start recording button disabled")
+![Mobile app screenshot with Start recording button disabled.](media/teams-policies-mobile-call-recording-command.PNG "Mobile app screenshot with Start recording button disabled")
 
 If the user selects the **Start recording** command, they see the following message that explains why recording is not available.
 
-![Mobile app screenshot showing recording message.](media/teams-policies-recording-message.PNG "Mobile app screenshot showing recording message")
+![Mobile app screenshot showing recording message.](media/teams-policies-call-recording-message.PNG "Mobile app screenshot showing recording message")
 
 ## Chat messaging policies
 
