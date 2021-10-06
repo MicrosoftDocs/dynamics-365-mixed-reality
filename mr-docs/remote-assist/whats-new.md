@@ -35,7 +35,7 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 #### HoloLens
 
-- Fixed issue with holograms disappearing for other participants in the call when less than 30cm from HoloLens user. Collaborators now see what the Dynamics 365 Remote Assist user sees.  
+- Fixed issue with holograms disappearing for other participants in the call when holograms are less than 30 cm from the HoloLens user. Collaborators now see what the Dynamics 365 Remote Assist user sees.  
 
 - Improvements to rendering for imported media objects that include transparency 
 
