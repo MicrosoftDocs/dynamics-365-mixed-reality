@@ -35,8 +35,47 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 ### Bugs fixed
 
-**XXX**
-- 
+#### HoloLens
+
+- Fixed issue with holograms disappearing for other participants in the call when less than 30cm from HoloLens user. Collaborators now see what the Dynamics 365 Remote Assist user sees.  
+
+- Improvements to rendering for imported media objects that include transparency 
+
+- Increased number of contact search results shown to the user 
+
+- Improvements to audio sounds played on certain actions 
+
+- Fixed an issue where Recent contacts may not appear in rare instances 
+
+- Addressed incorrect visual state for Mute button in rare instances 
+
+- Fixed notification for incoming chat message that wasn’t visible at times 
+
+- Fixed sign-in issue for Dynamics 365 Field Service environment (Dynamics 365 Field Service integration)  
+
+#### Mobile 
+
+- Fix for missing recording link in chat  
+
+- Fix for annotations accuracy in snapshot 
+
+- Fix for video scaling in landscape mode 
+
+- Fix for calls between Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens devices where users weren’t able to annotate 
+
+- Fix for video recording on devices that don’t support augmented reality 
+
+- Fix for unnecessary Switch View dialog box on calls between Dynamics 365 Remote Assist clients 
+
+- Fixed an issue where Recent contacts may not appear in rare instances  
+
+- Fix for recent contacts list 
+
+- Intune and authentication SDK updates 
+
+- Accessibility improvements 
+
+- Improvement for annotations occlusions on devices supporting LiDAR 
 
 ## August 9, 2021
 
@@ -56,7 +95,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 ### Bugs fixed
 
-**Remote Assist on Hololens 2, quality improvements**
+**Hololens 2**
 
 - Fixed an issue causing some of the contacts in the **Recent Contacts** list to disappear upon refresh
 - Fixed an issue that sometimes prevented media files from opening on OneDrive
@@ -68,7 +107,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 - Addressed case where duplicate entries were logged in Calls Dashboard
 - Visually polished various panels and improved in-app messaging
 
-**Remote Assist Mobile, quality improvements**
+**Mobile**
 
 - Fix for last frame being active on the screen in the new call
 - Fix for snapshot state after a call was put on hold
@@ -105,7 +144,7 @@ Fix for video freezing in the HoloLens app
 
 ### Bug fixes
 
-**Remote Assist Mobile, quality improvements**
+**Mobile**
 
 - Fix for sharing files when there is a guest user on the call
 - Fix for one-time-call link prompting for sign-in due to missing special characters in the url
@@ -123,7 +162,7 @@ Fix for video freezing in the HoloLens app
 - Fix for **Save to chat** button in a one-time-call
 - Accessibility and stability improvements
 
-**Remote Assist on Hololens 2, quality improvements**
+**Hololens 2**
 
 - Fix for recent contacts sometimes disappearing unexpectedly
 - Fix for user not being able to navigate back from contact search in rare cases
@@ -194,7 +233,7 @@ Fix for video freezing in the HoloLens app
 - Addressed an issue where contact presence wasn't displayed in some instances.
 - Fixed a problem with setting permissions for a photo shared from HoloLens in a call chat with guest participants.
 
-#### iOS and Android mobile app
+#### Mobile
 
 - Fix for posting to work order files that were shared and not visible when in a call with Dynamics 365 Remote Assist users. 
 - Fix for video recording on devices that don't support H.265 HEVC. 
@@ -218,7 +257,7 @@ Fix for video freezing in the HoloLens app
 
 To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
 
-### Mobile app
+### Mobile
 
 To find which version of Dynamics 365 Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
 
