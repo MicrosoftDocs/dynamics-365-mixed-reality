@@ -40,9 +40,9 @@ You can also turn on each permission by following the steps described in this ar
 
 ### Give permission to use the camera 
 
-1. Go to **Settings** > **Privacy**, and then on the left side of the screen under **App permissions**, select **Camera**. 
+1. Go to **Settings** > **Privacy**.
 
-2. On the right side of the screen, under **Allow apps to access your camera**, move the slider to **On**.  
+2. On the left side of the screen under **App permissions**, select **Camera**, and then on the right side of the screen, under **Allow apps to access your camera**, move the slider to **On**.  
 
 3. On the right side of the screen, under **Choose which apps can access your camera**, turn the individual settings for Dynamics 365 Guides to **On**. 
 
@@ -50,9 +50,9 @@ You can also turn on each permission by following the steps described in this ar
 
 ### Give permission to use the microphone
 
-1. Go to **Settings** > **Privacy**, and then on the left side of the screen under **App permissions**, select **Microphone**. 
+1. Go to **Settings** > **Privacy**.
 
-2. On the right side of the screen, under **Allow apps to access your microphone**, move the slider to **On**. 
+2. On the left side of the screen under **App permissions**, select **Microphone**, and then on the right side of the screen, under **Allow apps to access your microphone**, move the slider to **On**. 
 
 3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the individual settings for Dynamics 365 Guides to **On**. 
 
