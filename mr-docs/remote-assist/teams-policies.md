@@ -79,7 +79,7 @@ When call recording is disabled, the **Start recording** command is unavailable.
 
 If the user selects the **Start recording** command, they see the following message that explains why recording is not available.
 
-![Mobile app screenshot showing recording message.](media/teams-policies-call-recording-message.PNG "Mobile app screenshot showing recording message")
+![Mobile app screenshot showing recording message.](media/teams-policies-mobile-call-recording-message.PNG "Mobile app screenshot showing recording message")
 
 ## Chat messaging policies
 
