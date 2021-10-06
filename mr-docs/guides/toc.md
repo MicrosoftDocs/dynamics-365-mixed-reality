@@ -72,6 +72,7 @@
 #### [Overview](hololens-app-overview.md)
 #### [Calibrate your HoloLens](hololens-app-calibrate.md) 
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
+#### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
 #### [Find a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
@@ -89,6 +90,7 @@
 #### [HoloLens 1](operator-calibrate.md)
 #### [HoloLens 2](operator-calibrate-HL2.md)
 ### [Install the HoloLens app and sign in](install-sign-in-operator.md)
+### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
 ### [Find a guide](find-guide.md)
 ### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
 ### Gestures for navigating a guide
