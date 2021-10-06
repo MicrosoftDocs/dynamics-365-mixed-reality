@@ -152,7 +152,7 @@ Dynamics 365 Guides includes advanced features that rely on eye-tracking, voice,
 
 If you can’t make a video call, it could be because:
 
--	Your admin has [disabled the option directly from the Guides web portal](!!!ADD LINK!!!). 
+-	Your admin has [disabled the option directly from the Guides web portal](admin-mda-settings-environment-enable-calls.md). 
 
 -	The appropriate Microsoft Teams license has not been assigned to you. [Learn more about licensing requirements](requirements.md).
 
