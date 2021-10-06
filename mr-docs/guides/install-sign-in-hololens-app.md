@@ -31,8 +31,10 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 After you've made sure that your [HoloLens is correctly calibrated](hololens-app-calibrate.md), you can open the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
+If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admin, you can assign **Author** and **Operator** roles to limit the features that are available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
+
 > [!NOTE]
-> If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admin, you can assign **Author** and **Operator** roles to limit the features that are available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
+> If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLoens app](hololens-permissions.md) 
 
 1. Select **All Apps**.
 
