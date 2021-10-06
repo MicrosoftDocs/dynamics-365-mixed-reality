@@ -12,7 +12,16 @@ ms.reviewer: v-bholmes
 
 Version 7.0 of Dynamics 365 Guides [introduced a new main menu and the ability to make calls from HoloLens](new.md). To use these new features in the HoloLens app, you must provide permission to use HoloLens eye tracking, the HoloLens camera, and the HoloLens microphone. 
 
-When you open the HoloLens app for the first time in Dynamics 365 Guides version 7.0, you're prompted to provide these permissions (see screenshots below). If you don't provide one or more permissions, you won't be able to use Dynamics 365 Guides version 7.0. If you try to use the HoloLens app, a dialog box will appear and prompt you to turn on each setting. Alternatively, you can turn on each permission by following the steps described in this article.
+When you open the HoloLens app for the first time in Dynamics 365 Guides version 7.0, you're prompted to provide these permissions through the following screens. 
+
+![Permissions dialog box for eye tracker.](media/hololens-permissions-eye-tracker.PNG "Permissions dialog box for eye tracker")
+![Permissions dialog box for camera.](media/hololens-permissions-camera.PNG "Permissions dialog box for camera")
+![Permissions dialog box for microphone.](media/hololens-permissions-microphone.PNG "Permissions dialog box for microphone") 
+
+
+If you don't provide all three permissions, you won't be able to use Dynamics 365 Guides version 7.0. If you try to open the HoloLens app again, a dialog box will appear and prompt you to turn on each setting.
+
+Alternatively, you can turn on each permission by following the steps described in this article.
 
 ## Why eye-tracking permission is required 
 
@@ -20,8 +29,6 @@ Eye tracking is required to use the main menu and to create a great experience. 
 your intentions. 
 
 Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information. 
-
-![Permissions dialog box for eye tracker.](media/hololens-permissions-eye-tracker.PNG "Permissions dialog box for eye tracker")
 
 ### Give permission to use eye tracking
 
@@ -37,8 +44,6 @@ Eye tracking has been designed with user privacy in mind. Microsoft doesn’t st
 
 The camera is required to make video calls, to understand the space around you, and more. 
 
-![Permissions dialog box for camera.](media/hololens-permissions-camera.PNG "Permissions dialog box for camera")
-
 ### Give permission to use the camera 
 
 1. Go to **Settings** > **Privacy**, and then on the left side of the screen under **App permissions**, select **Camera**. 
@@ -52,8 +57,6 @@ The camera is required to make video calls, to understand the space around you, 
 ## Why microphone permission is required 
 
 The microphone is required to make voice calls and to use voice commands.  
-
-![Permissions dialog box for microphone.](media/hololens-permissions-microphone.PNG "Permissions dialog box for microphone") 
 
 ### Give permission to use the microphone
 
