@@ -93,7 +93,7 @@ When chat messaging is disabled, the user sees **Chat unavailable** in the Chat 
 
 ![HoloLens app screenshot showing Chat unavailable in Chat window.](media/teams-policies-hololens-chat-button.PNG "HoloLens app screenshot showing Chat unavailable in Chat window")
  
-If the user tries to enter text in the chat window, they see the following meessage that explains why chat messaging is unavailable.
+If the user tries to enter text in the chat window, they see the following message that explains why chat messaging is unavailable.
 
 ![HoloLens app screenshot showing chat message.](media/teams-policies-hololens-chat-message.PNG "HoloLens app screenshot showing chat message")
 
