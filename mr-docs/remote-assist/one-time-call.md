@@ -3,7 +3,7 @@ title: Invite a user to join a one-time call (public preview) in Microsoft Dynam
 author: amaraanigbo
 description: Invite a user to join a one-time call (public preview) in Dynamics 365 Remote Assist 
 ms.author: soanigbo
-ms.date: 04/28/2021
+ms.date: 10/06/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -24,7 +24,7 @@ There are several scenarios in which a Dynamics 365 Remote Assist user may want 
 
 Note that in these scenarios, the external user only needs to **join** a Dynamics 365 Remote Assist call on an ad-hoc, one-time basis. The external user does not need to initiate a call or use Dynamics 365 Remote Assist’s out-of-call asset capture functionalities. 
 
-Any licensed Dynamics 365 Remote Assist user can use the Dynamics 365 Remote Assist model-driven app with their desktop (or mobile) browser to generate a one-time call link. The licensed Dynamics 365 Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Dynamics 365 Remote Assist mobile app (or, in some scenarios, the Teams desktop app).
+Any licensed Dynamics 365 Remote Assist user can use the Dynamics 365 Remote Assist model-driven app with their desktop (or mobile) browser to generate a one-time call link. The licensed Dynamics 365 Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Dynamics 365 Remote Assist mobile app (or, in some scenarios, the Teams desktop app). The external user can also view files sent from a Dynamics 365 Remote Assist user. To ensure external users can view shared files, the Dynamics 365 Remote Assist user needs to [adjust their OneDrive sharing settings](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off). 
 
 ## Requirements  
 
@@ -199,7 +199,7 @@ If your customer joins the call as an unauthenticated user, they will not be abl
 
 - Add 2D annotations through snapshots. This means that an external user using Dynamic 365 Remote Assist on a non-AR mobile device will not be able to share or receive annotations.
 
-- Send or receive OneDrive files.
+- Send OneDrive files.
 
 - Receive a prompt to use snapshots when they are experiencing poor network conditions.
 
