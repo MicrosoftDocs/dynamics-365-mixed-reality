@@ -91,7 +91,7 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 ### Bugs fixed
 
-#### Hololens 2
+#### HoloLens 2
 
 - Fixed an issue causing some of the contacts in the **Recent Contacts** list to disappear upon refresh
 - Fixed an issue that sometimes prevented media files from opening on OneDrive
@@ -140,7 +140,7 @@ Fix for video freezing in the HoloLens app
 
 ### Bug fixes
 
-#### Hololens 2
+#### HoloLens 2
 
 - Fix for recent contacts sometimes disappearing unexpectedly
 - Fix for user not being able to navigate back from contact search in rare cases
