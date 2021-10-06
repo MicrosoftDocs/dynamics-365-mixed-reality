@@ -36,7 +36,7 @@ Video policies are used to control video stream capabilities. Video policies do 
 
 ### User experience in the HoloLens app
 
-When video is disabled, the **Video** button is unavailable and the Mixed Reality toolbar is also unavailable.
+When video is disabled, the **Video** button is unavailable.
 
 ![HoloLens app screenshot with Video button disabled.](media/teams-policies-hololens-video-button.PNG "HoloLens screenshot with Video button disabled")
 
