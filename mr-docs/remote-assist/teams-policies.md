@@ -38,21 +38,21 @@ Video policies are used to control video stream capabilities. Video policies do 
 
 When video is disabled, the **Video** button is unavailable and the Mixed Reality toolbar is also unavailable.
 
-![XXX.](media/teams-policies-hololens-video-button.PNG "XXX")
+![HoloLens app screenshot with Video button disabled.](media/teams-policies-hololens-video-button.PNG "HoloLens screenshot with Video button disabled")
 
 If the user selects the **Video** button, they see the following message that explains why outgoing video is unavailable.
 
-![XXX.](media/teams-policies-hololens-video-message.PNG "XXX")
+![HoloLens app screenshot showing video message.](media/teams-policies-hololens-video-message.PNG "HoloLens screenshot showing video message")
 
 ### User experience in the mobile app
 
 When video is disabled, the **Video** button is unavailable and the Mixed Reality toolbar is also unavailable.
 
-![XXX.](media/teams-policies-mobile-video-button.PNG "XXX")
+![Mobile app screenshot with Video button disabled.](media/teams-policies-mobile-video-button.PNG "Mobile app screenshot with Video button disabled")
 
 If the user selects the **Video** button, they see the following message that explains why outgoing video is unavailable.
 
-![XXX.](media/teams-policies-mobile-video-message.PNG "XXX")
+![Mobile app screenshot showing video message.](media/teams-policies-mobile-video-message.PNG "Mobile app screenshot showing video message")
 
 ## Call recording policies 
 
@@ -65,21 +65,21 @@ Call recording policies are used to control call-recording capabilities. This al
 
 When call recording is disabled, the **Recording** button is unavailable.
 
-![XXX.](media/teams-policies-hololens-recording-button.PNG "XXX")
+![HoloLens app screenshot with Recording button disabled.](media/teams-policies-hololens-recording-button.PNG "HoloLens screenshot with Recording button disabled")
 
 If the user selects the **Recording** button, they see the following message that explains why recording is not available.  
  
-![XXX.](media/teams-policies-hololens-recording-message.PNG "XXX")
+![HoloLens app screenshot showing recording message.](media/teams-policies-hololens-recording-message.PNG "HoloLens screenshot showing recording message")
 
 ### User experience in the mobile app
 
 When call recording is disabled, the **Start recording** command is unavailable.
 
-![XXX.](media/teams-policies-mobile-recording-command.PNG "XXX")
+![Mobile app screenshot with Start recording button disabled.](media/teams-policies-mobile-recording-command.PNG "Mobile app screenshot with Start recording button disabled")
 
 If the user selects the **Start recording** command, they see the following message that explains why recording is not available.
 
-![XXX.](media/teams-policies-recording-message.PNG "XXX")
+![Mobile app screenshot showing recording message.](media/teams-policies-recording-message.PNG "Mobile app screenshot showing recording message")
 
 ## Chat messaging policies
 
@@ -91,20 +91,20 @@ Chat messaging policies in Dynamics 365 Remote Assist allow users to read but no
 
 When chat messaging is disabled, the user sees **Chat unavailable** in the Chat window.  
 
-![XXX.](media/teams-policies-hololens-chat-command.PNG "XXX")
+![HoloLens app screenshot showing Chat unavailable in Chat window.](media/teams-policies-hololens-chat-command.PNG "HoloLens app screenshot showing Chat unavailable in Chat window")
  
 If the user tries to enter text in the chat window, they see the following meessage that explains why chat messaging is unavailable.
 
-![XXX.](media/teams-policies-hololens-chat-message.PNG "XXX")
+![HoloLens app screenshot showing chat message.](media/teams-policies-hololens-chat-message.PNG "HoloLens app screenshot showing chat message")
 
 ## User experience in the mobile app
 
 When chat messaging is disabled, the **Chat** button is unavailable.
 
-![XXX.](media/teams-policies-mobile-chat-unavailable.PNG "XXX")
+![Mobile app screenshot showing Chat unavailable.](media/teams-policies-mobile-chat-unavailable.PNG "Mobile app screenshot showing Chat unavailable")
 
 If the user tries to select the **Chat** button, they see the following message explaining why chat messaging is unavailable. 
 
-![XXX.](media/teams-policies-mobile-chat-message.PNG "XXX")
+![Mobile app screenshot showing xhat message.](media/teams-policies-mobile-chat-message.PNG "Mobile app screenshot showing chat message")
 
 
