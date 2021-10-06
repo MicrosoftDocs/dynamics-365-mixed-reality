@@ -27,7 +27,7 @@ create and assign one or more custom policies to turn the features that you want
 
 Video policies are used to control video stream capabilities. Video policies do not disable:
 
-- The camera because the user can use [Mixed Reality Capture (MRC)](https://docs.microsoft.com/hololens/holographic-photos-and-videos)
+- The camera because the user can use [mixed reality capture (MRC)](https://docs.microsoft.com/hololens/holographic-photos-and-videos)
 - The low-bandwidth feature
 - The asset capture feature 
 
