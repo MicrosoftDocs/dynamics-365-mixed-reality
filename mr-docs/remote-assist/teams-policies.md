@@ -50,7 +50,7 @@ When video is disabled, the **Video** button is unavailable and the Mixed Realit
 
 ![Mobile app screenshot with Video button disabled.](media/teams-policies-mobile-video-button.PNG "Mobile app screenshot with Video button disabled")
 
-If the user selects the **Video** button, they see the following message that explains why outgoing video is unavailable.
+If the user selects the **Video** button, they see the following message that explains why video is unavailable.
 
 ![Mobile app screenshot showing video message.](media/teams-policies-mobile-video-message.PNG "Mobile app screenshot showing video message")
 
