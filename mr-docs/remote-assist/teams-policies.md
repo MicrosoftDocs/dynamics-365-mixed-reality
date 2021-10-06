@@ -103,7 +103,7 @@ When chat messaging is disabled, the user sees **Chat disabled by admin** in the
 
 ![Mobile app screenshot showing Chat unavailable.](media/teams-policies-mobile-chat-unavailable.PNG "Mobile app screenshot showing Chat unavailable")
 
-If the user tries to enter text in the Chat window, they see the following message explaining why chat messaging is unavailable. 
+If the user tries to enter text in the Chat window, they see the following message explaining why chat is unavailable. 
 
 ![Mobile app screenshot showing xhat message.](media/teams-policies-mobile-chat-message.PNG "Mobile app screenshot showing chat message")
 
