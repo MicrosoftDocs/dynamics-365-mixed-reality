@@ -3,7 +3,7 @@ title: Add users to the Dynamics 365 Remote Assist model-driven app
 author: amaraanigbo
 description: Learn how to add users to the model-driven Dynamics 365 Remote Assist app.
 ms.author: soanigbo
-ms.date: 04/30/2021
+ms.date: 10/06/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
