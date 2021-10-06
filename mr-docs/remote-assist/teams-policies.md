@@ -85,7 +85,7 @@ If the user selects the **Start recording** command, they see the following mess
 
 Chat messaging policies are used to control which chat and channel messaging features are available to users (owners and members) in Microsoft Teams.  
 
-Chat messaging policies in Dynamics 365 Remote Assist allow users to read but not send chat messages. Voice recording and photo capture are also disabled since these features require chat. If chat messaging is disabled through a policy, the Dynamics 365 Remote Assist user will not receive incoming chat messages from Teams. 
+If chat messaging is disabled, Dynamics 365 Remote Assist users can read but not send chat messages. Voice recording and photo capture are also disabled since these features require chat.  
 
 ## User experience in the HoloLens app
 
