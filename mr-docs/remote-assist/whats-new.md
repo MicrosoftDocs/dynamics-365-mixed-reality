@@ -37,43 +37,41 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 - Fixed issue with holograms disappearing for other participants in the call when holograms are less than 30 cm from the HoloLens user. Collaborators now see what the Dynamics 365 Remote Assist user sees.  
 
-- Improvements to rendering for imported media objects that include transparency 
+- Improvements to rendering for imported media objects that include transparency. 
 
-- Increased number of contact search results shown to the user 
+- Increased number of contact search results shown to the user. 
 
-- Improvements to audio sounds played on certain actions 
+- Improvements to audio sounds played on certain actions. 
 
-- Fixed an issue where **Recent** contacts may not appear in rare instances 
+- Fixed an issue where **Recent** contacts may not appear in rare instances. 
 
-- Addressed incorrect visual state for Mute button in rare instances 
+- Addressed incorrect visual state for **Mute** button in rare instances. 
 
-- Fixed notification for incoming chat message that wasn’t visible at times 
+- Fixed notification for incoming chat message that wasn’t visible at times. 
 
-- Fixed sign-in issue for Dynamics 365 Field Service environment (Dynamics 365 Field Service integration)  
+- Fixed sign-in issue for Dynamics 365 Field Service environment (Dynamics 365 Field Service integration).  
 
 #### Mobile 
 
-- Fix for missing recording link in chat  
+- Fixed issue with missing recording link in chat.  
 
-- Fix for annotations accuracy in snapshot 
+- Improved annotations accuracy in snapshot. 
 
-- Fix for video scaling in landscape mode 
+- Fixed video scaling issue in landscape mode. 
 
-- Fix for calls between Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens devices where users weren’t able to annotate 
+- Fixed issue for calls between Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens devices where users weren’t able to annotate. 
 
-- Fix for video recording on devices that don’t support augmented reality 
+- Fixed issue for video recording on devices that don’t support augmented reality. 
 
-- Fix for unnecessary Switch View dialog box on calls between Dynamics 365 Remote Assist clients 
+- Fixed issue with unnecessary **Switch view** dialog box on calls between Dynamics 365 Remote Assist clients. 
 
-- Fixed an issue where Recent contacts may not appear in rare instances  
+- Fixed an issue where **Recent** contacts may not appear in rare instances.  
 
-- Fix for recent contacts list 
+- Intune and authentication SDK updates. 
 
-- Intune and authentication SDK updates 
+- Accessibility improvements. 
 
-- Accessibility improvements 
-
-- Improvement for annotations occlusions on devices supporting LiDAR 
+- Improvement for annotations occlusions on devices supporting LiDAR. 
 
 ## August 9, 2021
 
