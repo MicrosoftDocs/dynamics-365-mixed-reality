@@ -43,7 +43,7 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 - Improvements to audio sounds played on certain actions 
 
-- Fixed an issue where Recent contacts may not appear in rare instances 
+- Fixed an issue where **Recent** contacts may not appear in rare instances 
 
 - Addressed incorrect visual state for Mute button in rare instances 
 
