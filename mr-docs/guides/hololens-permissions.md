@@ -22,9 +22,9 @@ When you open the HoloLens app for the first time in Dynamics 365 Guides version
 
 ![Permissions dialog box for eye tracker.](media/hololens-permissions-eye-tracker.PNG "Permissions dialog box for eye tracker")
 
-If you don't provide all three permissions, you won't be able to use Dynamics 365 Guides version 7.0. If you try to open the HoloLens app again, a dialog box will appear and prompt you to turn on each setting.
+If you don't provide all three permissions, you won't be able to use Dynamics 365 Guides version 7.0. If you try to open the HoloLens app again, a dialog box will appear and prompt you to provide each permission.
 
-Alternatively, you can turn on each permission by following the steps described in this article.
+You can also turn on each permission by following the steps described in this article.
 
 ### Give permission to use eye tracking
 
