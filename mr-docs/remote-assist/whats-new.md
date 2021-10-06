@@ -13,8 +13,6 @@ ms.reviewer: v-bholmes
 
 This article describes new features for Dynamics 365 Remote Assist.
 
-For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/).
-
 ## October 6, 2021
 
 ### Version info
