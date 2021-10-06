@@ -107,7 +107,7 @@ The **Remote Assist - App User** and the **Remote Assist - Administrator** roles
 
 |Security role|Description|
 |-----------------------------------|----------------------------------------------------------------------------------|
-|**Remote Assist - App User**|Provides access to assets, one-time calling, and settings in the model-driven app. This role is assigned automatically to all users who have a Dynamics 365 Remote Assist license. Admins typcially don't have to assign this role manually.|
+|**Remote Assist - App User**|Provides access to assets, one-time calling, and settings in the model-driven app. This role is assigned automatically to all users who have a Dynamics 365 Remote Assist license. Admins typically don't have to assign this role manually.|
 |**Remote Assist - Administrator**|Provides additional access to the Calls Dashboard. This role is not recommended as a replacement for the **Remote Assist - App User** role.|
 
 ### Assign a security role
