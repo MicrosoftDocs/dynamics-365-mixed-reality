@@ -33,7 +33,7 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 ### Bugs fixed
 
-#### HoloLens
+#### HoloLens 2
 
 - Fixed issue with holograms disappearing for other participants in the call when holograms are less than 30 cm from the HoloLens user. Collaborators now see what the Dynamics 365 Remote Assist user sees.  
 
@@ -91,7 +91,7 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 ### Bugs fixed
 
-**Hololens 2**
+#### Hololens 2
 
 - Fixed an issue causing some of the contacts in the **Recent Contacts** list to disappear upon refresh
 - Fixed an issue that sometimes prevented media files from opening on OneDrive
@@ -103,7 +103,7 @@ This article describes new features for Dynamics 365 Remote Assist.
 - Addressed case where duplicate entries were logged in Calls Dashboard
 - Visually polished various panels and improved in-app messaging
 
-**Mobile**
+#### Mobile
 
 - Fix for last frame being active on the screen in the new call
 - Fix for snapshot state after a call was put on hold
@@ -140,7 +140,20 @@ Fix for video freezing in the HoloLens app
 
 ### Bug fixes
 
-**Mobile**
+#### Hololens 2
+
+- Fix for recent contacts sometimes disappearing unexpectedly
+- Fix for user not being able to navigate back from contact search in rare cases
+- Fix for file sharing issues (receiving files from other call/meeting participants)
+- Added voice commands for additional scenarios (saving a photo, navigating through hints)
+- Addressed issue causing windows not returning to the correct position after losing and re-gaining tracking
+- Fix for pinned state of the main window not staying in the correct position when the call is ended
+- Improved handling of menu panels when manipulated by user (grabbed and moved)
+- Fix for button states representing the active tool (Arrow, Ink) not always reflecting the current state
+- Visual improvements: addressed unexpected panel flickering when user interacted with panel edges; fixed images loaded in 3D space appearing washed out when overlaid on top of other panels
+- Various improvements to data logging to make it easier to investigate issues reported by customers 
+
+#### Mobile
 
 - Fix for sharing files when there is a guest user on the call
 - Fix for one-time-call link prompting for sign-in due to missing special characters in the url
@@ -157,19 +170,6 @@ Fix for video freezing in the HoloLens app
 - Fix for duplicated assets in assets capture
 - Fix for **Save to chat** button in a one-time-call
 - Accessibility and stability improvements
-
-**Hololens 2**
-
-- Fix for recent contacts sometimes disappearing unexpectedly
-- Fix for user not being able to navigate back from contact search in rare cases
-- Fix for file sharing issues (receiving files from other call/meeting participants)
-- Added voice commands for additional scenarios (saving a photo, navigating through hints)
-- Addressed issue causing windows not returning to the correct position after losing and re-gaining tracking
-- Fix for pinned state of the main window not staying in the correct position when the call is ended
-- Improved handling of menu panels when manipulated by user (grabbed and moved)
-- Fix for button states representing the active tool (Arrow, Ink) not always reflecting the current state
-- Visual improvements: addressed unexpected panel flickering when user interacted with panel edges; fixed images loaded in 3D space appearing washed out when overlaid on top of other panels
-- Various improvements to data logging to make it easier to investigate issues reported by customers 
 
 ## May 7, 2021
 
