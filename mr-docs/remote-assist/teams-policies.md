@@ -27,7 +27,7 @@ create and assign one or more custom policies to turn the features that you want
 
 Video policies are used to control video stream capabilities. Video policies do not disable:
 
-- The camera because the user can use Mixed Reality Capture (MRC)
+- The camera because the user can use [Mixed Reality Capture (MRC)](https://docs.microsoft.com/hololens/holographic-photos-and-videos)
 - The low-bandwidth feature
 - The asset capture feature 
 
@@ -83,7 +83,7 @@ If the user selects the **Start recording** command, they see the following mess
 
 ## Chat messaging policies
 
-Chat messaging policies are used to control which chat and channel messaging features are available to users (owners and members) in Microsoft Teams.  
+Chat messaging policies are used to control which chat and channel messaging features are available to [users (owners and members)](https://docs.microsoft.com/microsoftteams/assign-roles-permissions) in Microsoft Teams.  
 
 If chat messaging is disabled, Dynamics 365 Remote Assist users can read but not send chat messages. Voice recording and photo capture are also disabled since these features require chat.  
 
