@@ -6,9 +6,16 @@ Version 7.0 of Dynamics 365 Guides introduced a new Main menu. After you sign in
 
 ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
-You can use this new menu to:
+The following table describes the four buttons on the Main menu.
 
-- Open a guide or create a new guide
+|Choose this button|To|
+|--------|-------------------------------------------------------------------------------------------------|
+||Do a work item. Work items include:<br><br>-Select and open a guide<br>-Search for a guide<br>- Choose a role (Author or Operator)|
+||Make a call. You can:<br><br>- Select a contact in the **Recents** list<br>-Search for a contact<br>-Start a call<br>-View the Call window|
+||Change a setting|
+|| Sign out|
+
+- Choose a work item (find a guide, search for a guide 
 
 - Make a call to a remote expert
 
