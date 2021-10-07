@@ -30,7 +30,7 @@ If you don't provide permissions through any one of these three dialog boxes, yo
 
 You can't use the Dynamics 365 Guides version 7.0 HoloLens app until you provide all three permissions. 
 
-You can also turn on each permission by following the steps described in this article.
+You can also turn on each permission by following the steps described below.
 
 ### Give permission to use eye tracking
 
