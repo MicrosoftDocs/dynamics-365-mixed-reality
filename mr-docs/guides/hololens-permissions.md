@@ -70,7 +70,7 @@ You can also turn on each permission by following the steps described below.
 
     1. On the left side of the screen, under **App permissions**, select **Microphone**.
 
-    2. On the right side of the screen, under **Allow apps to access your microphone**, turn the setting to **On**. 
+    2. On the right side of the screen, under **Allow apps to access the microphone on this device**, turn the setting to **On**. 
 
     3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the **Dynamics 365 Guides** setting to **On**. 
 
