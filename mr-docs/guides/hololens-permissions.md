@@ -40,7 +40,7 @@ You can also turn on each permission by following the steps described below.
 
     2. On the right side of the screen, under **Allow apps to access your eye tracker**, turn the setting to **On**.  
 
-    3. On the right side of the screen, under **Choose which apps can access your eye tracker**, turn the setting for **Dynamics 365 Guides** to **On**. 
+    3. On the right side of the screen, under **Choose which apps can access your eye tracker**, turn the **Dynamics 365 Guides** setting to **On**. 
 
     ![Screenshot of selected settings for eye tracker.](media/hololens-permissions-eye-tracker-settings.PNG "Screenshot of selected settings for eye tracker")
 
@@ -56,7 +56,7 @@ You can also turn on each permission by following the steps described below.
 
     2. On the right side of the screen, under **Allow apps to access your camera**, turn the setting to **On**.  
 
-    3. On the right side of the screen, under **Choose which apps can access your camera**, turn the setting for **Dynamics 365 Guides** to **On**. 
+    3. On the right side of the screen, under **Choose which apps can access your camera**, turn the **Dynamics 365 Guides** setting to **On**. 
 
     ![Screenshot of selected settings for camera.](media/hololens-permissions-camera-settings.PNG "Screenshot of selected settings for camera")
 
@@ -72,7 +72,7 @@ You can also turn on each permission by following the steps described below.
 
     2. On the right side of the screen, under **Allow apps to access your microphone**, turn the setting to **On**. 
 
-    3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the setting for **Dynamics 365 Guides** to **On**. 
+    3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the **Dynamics 365 Guides** setting to **On**. 
 
     ![Screenshot of selected settings for microphone.](media/hololens-permissions-microphone-settings.PNG "Screenshot of selected settings for microphone")
 
