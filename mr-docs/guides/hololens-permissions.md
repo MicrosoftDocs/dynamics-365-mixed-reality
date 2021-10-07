@@ -18,11 +18,17 @@ Version 7.0 of Dynamics 365 Guides [introduced a new main menu and the ability t
 |Camera|Required to make video calls, to understand the space around you, and more.| 
 |Microphone|Required to make voice calls and use voice commands.|  
 
-When you open the HoloLens app for the first time in Dynamics 365 Guides version 7.0, you're prompted to provide these permissions through three separate dialog boxes. For example, you'll see the following dialog box to provide permission to use the eye tracker.
+When you open the HoloLens app for the first time in Dynamics 365 Guides version 7.0, you're prompted to provide these permissions through three separate dialog boxes. 
 
 ![Permissions dialog box for eye tracker.](media/hololens-permissions-eye-tracker.PNG "Permissions dialog box for eye tracker")
+![Permissions dialog box for camera.](media/hololens-permissions-camera.PNG "Permissions dialog box for camera")
+![Permissions dialog box for microphone.](media/hololens-permissions-microphone.PNG "Permissions dialog box for microphone")
 
-If you don't provide all three permissions, you won't be able to use Dynamics 365 Guides version 7.0. If you try to open the HoloLens app again, a dialog box will appear and prompt you to provide each permission.
+If you don't provide permissions through one of these three dialog boxes, you'll see the following dialog box that prompts you to provide the permissions.
+
+SCREEN SHOT OF GUIDES DIALOG BOX GOES HERE
+
+You can't use the Dynamics 365 Guides version 7.0 HoloLens app until you provide all three permissions. 
 
 You can also turn on each permission by following the steps described in this article.
 
@@ -36,6 +42,8 @@ You can also turn on each permission by following the steps described in this ar
 
 3. On the right side of the screen, under **Choose which apps can access your eye tracker**, turn the individual settings for Dynamics 365 Guides to **On**. 
 
+    ![Screenshot of individual Dynamics 365 settings for eye tracker.](media/hololens-permissions-eye-tracker-extra-settings.PNG "Screenshot of individual Dynamics 365 settings for eye tracker")
+
 [Learn more about Windows 10 eye tracking and privacy](https://support.microsoft.com/en-us/windows/windows-10-eye-tracking-and-privacy-62623324-36cf-04a3-6992-8f329081f20b)
 
 ### Give permission to use the camera 
@@ -46,6 +54,8 @@ You can also turn on each permission by following the steps described in this ar
 
 3. On the right side of the screen, under **Choose which apps can access your camera**, turn the individual settings for Dynamics 365 Guides to **On**. 
 
+    ![Screenshot of individual Dynamics 365 settings for camera.](media/hololens-permissions-camera-extra-settings.PNG "Screenshot of individual Dynamics 365 settings for camera")
+
 [Learn more about Windows camera, microphone, and privacy](https://support.microsoft.com/en-us/windows/windows-camera-microphone-and-privacy-a83257bc-e990-d54a-d212-b5e41beba857#ID0EBD=Windows_10)
 
 ### Give permission to use the microphone
@@ -55,6 +65,8 @@ You can also turn on each permission by following the steps described in this ar
 2. On the left side of the screen under **App permissions**, select **Microphone**, and then on the right side of the screen, under **Allow apps to access your microphone**, move the slider to **On**. 
 
 3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the individual settings for Dynamics 365 Guides to **On**. 
+
+    ![Screenshot of individual Dynamics 365 settings for microphone.](media/hololens-permissions-microphone-extra-settings.PNG "Screenshot of individual Dynamics 365 settings for microphone")
 
 [Learn more about Windows camera, microphone, and privacy](https://support.microsoft.com/en-us/windows/windows-camera-microphone-and-privacy-a83257bc-e990-d54a-d212-b5e41beba857#ID0EBD=Windows_10)
 
