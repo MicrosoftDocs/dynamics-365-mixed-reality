@@ -50,11 +50,15 @@ You can also turn on each permission by following the steps described below.
 
 1. Go to **Settings** > **Privacy**.
 
-2. On the left side of the screen under **App permissions**, select **Camera**, and then on the right side of the screen, under **Allow apps to access your camera**, move the slider to **On**.  
+2. Do the following:
 
-3. On the right side of the screen, under **Choose which apps can access your camera**, turn the individual setting for **Dynamics 365 Guides** to **On**. 
+    1. On the left side of the screen under **App permissions**, select **Camera**.
 
-    ![Screenshot of individual Dynamics 365 settings for camera.](media/hololens-permissions-camera-extra-settings.PNG "Screenshot of individual Dynamics 365 settings for camera")
+    2. On the right side of the screen, under **Allow apps to access your camera**, move the slider to **On**.  
+
+    3. On the right side of the screen, under **Choose which apps can access your camera**, turn the individual setting for **Dynamics 365 Guides** to **On**. 
+
+    ![Screenshot of selected settings for camera.](media/hololens-permissions-camera-settings.PNG "Screenshot of selected settings for camera")
 
 [Learn more about Windows camera, microphone, and privacy](https://support.microsoft.com/en-us/windows/windows-camera-microphone-and-privacy-a83257bc-e990-d54a-d212-b5e41beba857#ID0EBD=Windows_10)
 
@@ -62,11 +66,15 @@ You can also turn on each permission by following the steps described below.
 
 1. Go to **Settings** > **Privacy**.
 
-2. On the left side of the screen under **App permissions**, select **Microphone**, and then on the right side of the screen, under **Allow apps to access your microphone**, move the slider to **On**. 
+2. Do the following:
 
-3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the individual setting for **Dynamics 365 Guides** to **On**. 
+    1. On the left side of the screen under **App permissions**, select **Microphone**.
 
-    ![Screenshot of individual Dynamics 365 settings for microphone.](media/hololens-permissions-microphone-extra-settings.PNG "Screenshot of individual Dynamics 365 settings for microphone")
+    2. On the right side of the screen, under **Allow apps to access your microphone**, move the slider to **On**. 
+
+    3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the individual setting for **Dynamics 365 Guides** to **On**. 
+
+    ![Screenshot of selected settings for microphone.](media/hololens-permissions-microphone-settings.PNG "Screenshot of selected settings for microphone")
 
 [Learn more about Windows camera, microphone, and privacy](https://support.microsoft.com/en-us/windows/windows-camera-microphone-and-privacy-a83257bc-e990-d54a-d212-b5e41beba857#ID0EBD=Windows_10)
 
