@@ -40,7 +40,7 @@ You can also turn on each permission by following the steps described in this ar
 
     ![Screenshot of eye tracker setting.](media/hololens-permissions-eye-tracker-settings.PNG "Screenshot of eye tracker setting")
 
-3. On the right side of the screen, under **Choose which apps can access your eye tracker**, turn the individual settings for Dynamics 365 Guides to **On**. 
+3. On the right side of the screen, under **Choose which apps can access your eye tracker**, turn the individual setting for **Dynamics 365 Guides** to **On**. 
 
     ![Screenshot of individual Dynamics 365 settings for eye tracker.](media/hololens-permissions-eye-tracker-extra-settings.PNG "Screenshot of individual Dynamics 365 settings for eye tracker")
 
