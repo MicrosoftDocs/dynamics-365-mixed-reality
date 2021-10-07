@@ -24,7 +24,7 @@ When you open the HoloLens app for the first time in Dynamics 365 Guides version
 ![Permissions dialog box for camera.](media/hololens-permissions-camera.PNG "Permissions dialog box for camera")
 ![Permissions dialog box for microphone.](media/hololens-permissions-microphone.PNG "Permissions dialog box for microphone")
 
-If you don't provide permissions through any one of these three dialog boxes, you'll see the following dialog box that prompts you to provide the permissions again.
+If you don't provide permissions through any one of these three dialog boxes, you'll see the following dialog box that prompts you to provide permissions again.
 
 SCREEN SHOT OF GUIDES DIALOG BOX GOES HERE
 
