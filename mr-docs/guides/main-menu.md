@@ -4,7 +4,7 @@
 
 Version 7.0 of Dynamics 365 Guides introduced a new Main menu. 
 
-![Screen shot of hand and Main menu.](media/add-additional-user.png "Screen shot of hand and Main menu")
+![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
 You can use this new menu to:
 
