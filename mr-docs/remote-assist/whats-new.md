@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 08/09/2021
+ms.date: 10/06/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -13,7 +13,65 @@ ms.reviewer: v-bholmes
 
 This article describes new features for Dynamics 365 Remote Assist.
 
-For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/).
+## October 6, 2021
+
+### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|306.2109.24003|
+|iOS mobile app|2021.10.6|
+|Android mobile app|2021.10.6|
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|[One-time-call users can open files shared with them from the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/one-time-call-users-open-files-shared-them)|[Invite a user to join a one-time call](one-time-call.md)|
+|[Support for a subset of Microsoft Teams policies](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-subset-teams-policies)|[Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md)|
+|[Accuracy improvements for mixed-reality annotations on mobile](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/accuracy-improvements-mixed-reality-annotations-mobile)|None|
+
+### Bugs fixed
+
+#### HoloLens 2
+
+- Fixed issue with holograms disappearing for other participants in the call when holograms are less than 30 cm from the HoloLens user. Collaborators now see what the Dynamics 365 Remote Assist user sees.  
+
+- Improvements to rendering for imported media objects that include transparency. 
+
+- Increased number of contact search results shown to the user. 
+
+- Improvements to audio sounds played on certain actions. 
+
+- Fixed an issue where **Recent** contacts may not appear in rare instances. 
+
+- Addressed incorrect visual state for **Mute** button in rare instances. 
+
+- Fixed notification for incoming chat message that wasn’t visible at times. 
+
+- Fixed sign-in issue for Dynamics 365 Field Service environment (Dynamics 365 Field Service integration).  
+
+#### Mobile 
+
+- Fixed issue with missing recording link in chat.  
+
+- Improved annotations accuracy in snapshot. 
+
+- Fixed video scaling issue in landscape mode. 
+
+- Fixed issue for calls between Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens devices where users weren’t able to annotate. 
+
+- Fixed issue for video recording on devices that don’t support augmented reality. 
+
+- Fixed issue with unnecessary **Switch view** dialog box on calls between Dynamics 365 Remote Assist clients. 
+
+- Fixed an issue where **Recent** contacts may not appear in rare instances.  
+
+- Intune and authentication SDK updates. 
+
+- Accessibility improvements. 
+
+- Improvement for annotations occlusions on devices supporting LiDAR. 
 
 ## August 9, 2021
 
@@ -33,7 +91,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 
 ### Bugs fixed
 
-**Remote Assist on Hololens 2, quality improvements**
+#### HoloLens 2
 
 - Fixed an issue causing some of the contacts in the **Recent Contacts** list to disappear upon refresh
 - Fixed an issue that sometimes prevented media files from opening on OneDrive
@@ -45,7 +103,7 @@ For more detailed information about new and upcoming features for Dynamics 365 R
 - Addressed case where duplicate entries were logged in Calls Dashboard
 - Visually polished various panels and improved in-app messaging
 
-**Remote Assist Mobile, quality improvements**
+#### Mobile
 
 - Fix for last frame being active on the screen in the new call
 - Fix for snapshot state after a call was put on hold
@@ -82,7 +140,20 @@ Fix for video freezing in the HoloLens app
 
 ### Bug fixes
 
-**Remote Assist Mobile, quality improvements**
+#### HoloLens 2
+
+- Fix for recent contacts sometimes disappearing unexpectedly
+- Fix for user not being able to navigate back from contact search in rare cases
+- Fix for file sharing issues (receiving files from other call/meeting participants)
+- Added voice commands for additional scenarios (saving a photo, navigating through hints)
+- Addressed issue causing windows not returning to the correct position after losing and re-gaining tracking
+- Fix for pinned state of the main window not staying in the correct position when the call is ended
+- Improved handling of menu panels when manipulated by user (grabbed and moved)
+- Fix for button states representing the active tool (Arrow, Ink) not always reflecting the current state
+- Visual improvements: addressed unexpected panel flickering when user interacted with panel edges; fixed images loaded in 3D space appearing washed out when overlaid on top of other panels
+- Various improvements to data logging to make it easier to investigate issues reported by customers 
+
+#### Mobile
 
 - Fix for sharing files when there is a guest user on the call
 - Fix for one-time-call link prompting for sign-in due to missing special characters in the url
@@ -99,19 +170,6 @@ Fix for video freezing in the HoloLens app
 - Fix for duplicated assets in assets capture
 - Fix for **Save to chat** button in a one-time-call
 - Accessibility and stability improvements
-
-**Remote Assist on Hololens 2, quality improvements**
-
-- Fix for recent contacts sometimes disappearing unexpectedly
-- Fix for user not being able to navigate back from contact search in rare cases
-- Fix for file sharing issues (receiving files from other call/meeting participants)
-- Added voice commands for additional scenarios (saving a photo, navigating through hints)
-- Addressed issue causing windows not returning to the correct position after losing and re-gaining tracking
-- Fix for pinned state of the main window not staying in the correct position when the call is ended
-- Improved handling of menu panels when manipulated by user (grabbed and moved)
-- Fix for button states representing the active tool (Arrow, Ink) not always reflecting the current state
-- Visual improvements: addressed unexpected panel flickering when user interacted with panel edges; fixed images loaded in 3D space appearing washed out when overlaid on top of other panels
-- Various improvements to data logging to make it easier to investigate issues reported by customers 
 
 ## May 7, 2021
 
@@ -171,7 +229,7 @@ Fix for video freezing in the HoloLens app
 - Addressed an issue where contact presence wasn't displayed in some instances.
 - Fixed a problem with setting permissions for a photo shared from HoloLens in a call chat with guest participants.
 
-#### iOS and Android mobile app
+#### Mobile
 
 - Fix for posting to work order files that were shared and not visible when in a call with Dynamics 365 Remote Assist users. 
 - Fix for video recording on devices that don't support H.265 HEVC. 
@@ -195,7 +253,7 @@ Fix for video freezing in the HoloLens app
 
 To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
 
-### Mobile app
+### Mobile
 
 To find which version of Dynamics 365 Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
 

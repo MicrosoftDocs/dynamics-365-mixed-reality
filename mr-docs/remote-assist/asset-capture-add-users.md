@@ -3,7 +3,7 @@ title: Add users to the Dynamics 365 Remote Assist model-driven app
 author: amaraanigbo
 description: Learn how to add users to the model-driven Dynamics 365 Remote Assist app.
 ms.author: soanigbo
-ms.date: 04/30/2021
+ms.date: 10/06/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -101,10 +101,16 @@ If users don't appear on the **Security** page (**Dynamics 365** \> **Settings**
 
 ## Manage app roles
 
-> [!Note]
-> The necessary security roles are associated with the model-driven app automatically. Depending on your organization's setup, this next section may not be required. If you're running into issues accessing the model-driven app, it is recommended that you complete the setup as described in this section.
+The necessary security roles are automatically associated with the model-driven app. Depending on your organization's setup, you may not need to set up security roles. If you can't access the model-driven app, check security roles as described below.
 
-Security roles must be assigned to apps to ensure that users who have those roles can access the app. The **Remote Assist - App User** and the **Remote Assist - Administrator** roles must be enabled for the Dynamics 365 Remote Assist app.
+The **Remote Assist - App User** and the **Remote Assist - Administrator** roles must be enabled for the Dynamics 365 Remote Assist app. The following table describes the two roles.
+
+|Security role|Description|
+|-----------------------------------|----------------------------------------------------------------------------------|
+|**Remote Assist - App User**|Provides access to assets, one-time calling, and settings in the model-driven app. This role is assigned automatically to all users who have a Dynamics 365 Remote Assist license. Admins typically don't have to assign this role manually.|
+|**Remote Assist - Administrator**|Provides additional access to the Calls Dashboard. This role is not recommended as a replacement for the **Remote Assist - App User** role.|
+
+### Assign a security role
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 

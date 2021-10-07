@@ -67,6 +67,7 @@
 ## Microsoft Teams and Dynamics 365 Remote Assist
 ### [Collaborate with Remote Assist user from Teams PC](teams-pc-all.md)
 ### [Collaborate with Remote Assist user from Teams mobile](teams-mobile-all.md)
+### [Supported Teams policies](teams-policies.md)
 
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 
