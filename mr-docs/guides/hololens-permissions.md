@@ -36,7 +36,7 @@ You can also turn on each permission by following the steps described below.
 
 2. Do the following:
 
-    1. On the left side of the screen under **App permissions**, select **Eye tracker**.
+    1. On the left side of the screen, under **App permissions**, select **Eye tracker**.
 
     2. On the right side of the screen, under **Allow apps to access your eye tracker**, turn the setting to **On**.  
 
@@ -52,7 +52,7 @@ You can also turn on each permission by following the steps described below.
 
 2. Do the following:
 
-    1. On the left side of the screen under **App permissions**, select **Camera**.
+    1. On the left side of the screen, under **App permissions**, select **Camera**.
 
     2. On the right side of the screen, under **Allow apps to access your camera**, turn the setting to **On**.  
 
@@ -68,7 +68,7 @@ You can also turn on each permission by following the steps described below.
 
 2. Do the following:
 
-    1. On the left side of the screen under **App permissions**, select **Microphone**.
+    1. On the left side of the screen, under **App permissions**, select **Microphone**.
 
     2. On the right side of the screen, under **Allow apps to access your microphone**, turn the setting to **On**. 
 
