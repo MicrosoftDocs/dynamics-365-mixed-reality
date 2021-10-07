@@ -52,7 +52,7 @@ You can also turn on each permission by following the steps described in this ar
 
 2. On the left side of the screen under **App permissions**, select **Camera**, and then on the right side of the screen, under **Allow apps to access your camera**, move the slider to **On**.  
 
-3. On the right side of the screen, under **Choose which apps can access your camera**, turn the individual settings for Dynamics 365 Guides to **On**. 
+3. On the right side of the screen, under **Choose which apps can access your camera**, turn the individual setting for **Dynamics 365 Guides** to **On**. 
 
     ![Screenshot of individual Dynamics 365 settings for camera.](media/hololens-permissions-camera-extra-settings.PNG "Screenshot of individual Dynamics 365 settings for camera")
 
