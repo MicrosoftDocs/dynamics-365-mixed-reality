@@ -8,26 +8,42 @@ title: Find a guide with the HoloLens app (for HoloLens  2 only) for Dynamics 36
 ms.reviewer: v-brycho
 ---
 
-# Find a guide to use in the HoloLens app (HoloLens 2 only) for Dynamics 365 Guides
+# Open a guide in the Dynamics 365 Guides HoloLens app 
 
-If you have access to a long list of guides created with Microsoft Dynamics 365 Guides, if you're using HoloLens 2, you can use the holographic keyboard to find it fast.
+How you find and open a guide in Dynamics 365 Guides depends on which version you're using. If you're using version 7.0 or later, you use the [Main menu](main-menu.md) and direct touch to find and open a guide. If you're using an earlier version of Dynamics 365 Guides, you use gaze to find and open a guide.
 
-1.	In the **Select guide** dialog box, gaze at the magnifying glass until the holographic keyboard appears.   
+## Open a guide in version 7.0
 
-    ![Screenshot of Select guide dialog box.](media/select-guide-search.PNG "Screen shot of Select guide dialog box")
+1. Look at the palm of your hand to open the Main menu, and then select the **Work** button.
 
-2.	Type the characters for the guide you're looking for. As you start to type the characters, the list is automatically filtered to the guides that match those characters 
-that are included anywhere in the guide name.
+    SCREEN SHOT GOES HERE
 
-    ![Screenshot of Search dialog box and holographic keyboard.](media/search-holographic-keyboard.PNG "Screen shot of Search dialog box and holographic keyboard")
-    
-    > [!NOTE]
-    > To open a folder, gaze at the button next to the folder name. To return to the parent folder, gaze at the **Back** button above the guides list. Folders appear on the **All** tab, but not the **Recent** tab. 
+2. Select the **Recent** or **All** tab, and then select the appropriate file or folder.
 
-3.	Close the keyboard to return to the guide list.
+    SCREEN SHOT GOES HERE.
 
-4.	To refine the criteria, gaze at the magnifying glass again or select the box that shows the filter text.
+> [!NOTE]
+>  If you work with a long list of guides, you can use the holographic keyboard to quickly find the right guide. Select the 
 
-5.	To exit search and return to the main guides list, gaze at the **Back** button.
+## Open a guide in an earlier version of Dynamics 365 Guides
+
+1. Add first step here.
+
+2. In the **Select guide** dialog box, gaze at the the **Recent** or **All** tab, and then gaze at the circle next to the file or folder you want to open. Folders appear on the **All** tab, but not the **Recent** tab. To return to the parent folder, gaze at the **Back** button above the guides list.
+
+   ![Screenshot of Select guide dialog box.](media/select-guide-search.PNG "Screen shot of Select guide dialog box")
+
+3. To search for a guide:
+
+    1. gaze at the magnifying glass until the holographic keyboard appears.
+
+    2. Enter the characters for the guide you're looking for. As you start to enter the characters, the list automatically filters to the guide names that match those characters.
+       ![Screenshot of Search dialog box and holographic keyboard.](media/search-holographic-keyboard.PNG "Screen shot of Search dialog box and holographic keyboard")
+
+    3. Close the keyboard to return to the guide list.
+
+    4. To refine the criteria, gaze at the magnifying glass again or select the box that shows the filter text.
+
+    5. To exit search and return to the main guides list, gaze at the **Back** button.
 
 
