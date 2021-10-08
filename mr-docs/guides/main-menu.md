@@ -16,7 +16,7 @@ The following table describes the available activities.
 || Sign out.|
 
 > [!TIP]
-> You can work with a guide as an author or operator and make a call at the same time. This is useful if you need to consult with a remote expert on a procedure. The remore expert can see everything that you see on your HoloLens and provide instructions as needed. You can also make a call 
+> You can work with a guide as an author or operator and make a call at the same time. This is useful if you need to consult with a remote expert on a procedure. The remote expert can see everything that you see on your HoloLens and provide instructions as needed. You can also make a call 
 
 ## The Main menu is at your beck and call
 
