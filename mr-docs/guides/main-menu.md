@@ -2,7 +2,7 @@
 
 # Use the Main menu in the Dynamics 365 Guides version 7.0 HoloLens app
 
-Version 7.0 of Dynamics 365 Guides introduced a new Main menu. After you sign in to the HoloLens app, you're prompted to look at the palm of your hand, which opens the Main menu. You can use this menu to choose an activity by using touch with one or two hands.
+Version 7.0 of Dynamics 365 Guides introduced a new Main menu for the HoloLens app. After you sign in to the app, you're prompted to look at the palm of your hand, which opens the Main menu. You can use this menu to choose an activity by using touch with one or two hands.
 
 ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
