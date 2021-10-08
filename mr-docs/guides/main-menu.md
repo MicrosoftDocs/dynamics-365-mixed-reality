@@ -15,9 +15,6 @@ The following table describes the activities available through the buttons on th
 ||Change a setting.|
 || Sign out.|
 
-> [!TIP]
-> You can work with a guide as an author or operator and make a call at the same time. This is useful if you need to consult with a remote expert on a procedure. The remote expert can see everything that you see on your HoloLens and provide instructions as needed. You can also make a call 
-
 ## The Main menu is at your beck and call
 
 The Main menu doesn't follow you around in your environment like an instruction card, but it's very quick and easy to open it whenever you need it by looking at the palm of your hand. So, for example, if you have a guide open and you're on a call consulting with a remote expert, you don't have to remember where you last accessed the call window in your environment. Just look at the palm of your hand again to bring it to you.
@@ -33,6 +30,12 @@ The following table summarizes when to use touch vs. gaze in the Dynamics 365 Gu
 |Main menu and submenus|Touch. Use touch for any of the following actions:<br><br>- Sign in/sign out<br>- Select an instance<br>- Find and open a guide<br>- Start a call<br> - Change a setting<br>- Open the demo|
 |Call window|Touch|
 |Instruction cards|**Authors** can use a combination of gaze, hand rays, touch, or voice commands depending on the task.<br><br>**Operators** can use gaze, air tap, and voice commands.
+
+## Make a call and work with a guide at the same time
+
+You can work with a guide as an author or operator and make a call at the same time. For example, if you're authoring a guide, you might want to call an expert to get advice on a specific proceudre. If you're an operator you might want to call an expert to get help on a procedure or to do a remote inspection. The remote expert can see everything that you see on your HoloLens and provide input as needed. 
+
+You can start a call after you already have a guide open, or you open a guide after starting a call. You can also make a call or work on a guide independently. 
 
 ## What's next?
 
