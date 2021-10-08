@@ -24,6 +24,19 @@ The Main menu doesn't follow you around in your environment, but it's very quick
 
 When the Main menu is open, you can also move it wherever you want by grabbing it with your hand(s). You can also pivot it, if needed. 
 
+## Understanding when to use touch vs. gaze in Dynamics 365 Guides version 7.0
+
+The Main menu and the submenus available from the Main menu respond to touch only. The Call window is also a touch-only interface. Authors can use touch and hand rays for certain operations when working with an instruction card. Operators can only use gaze and air tap, however, when working with an instruction card.
+
+In Dynamics 365 Guides version 7.0, use touch for any of the following actions:
+
+- Sign in/sign out
+- Select an instance
+- Find and open a guide
+- Start a call and work with the Call window
+- Change a setting
+- Open the demo
+
 ## What's next?
 
 [Make a call](make-call.md)
