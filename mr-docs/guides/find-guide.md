@@ -50,8 +50,10 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
        ![Screenshot of Search dialog box and holographic keyboard.](media/search-holographic-keyboard.PNG "Screen shot of Search dialog box and holographic keyboard")
 
-    3. To refine the criteria, gaze at the magnifying glass again or select the box that shows the filter text.
+    3. Close the keyboard to return to the guide list.
+    
+    4. To refine the criteria, gaze at the magnifying glass again or select the box that shows the filter text.    
 
-    4. To exit search and return to the main guides list, gaze at the **Back** button.
+    5. To exit search and return to the main guides list, gaze at the **Back** button.
 
 
