@@ -41,3 +41,4 @@ You can start a call after you open a guide, open a guide after placing a call, 
 
 - [Find and open a guide](find-guide.md)
 - [Make a call](make-call.md)
+- [Learn about permissions required to use the HoloLens app in version 7.0](hololens-permissions.md)
