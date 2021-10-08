@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 
 How you find and open a guide in Dynamics 365 Guides depends on which version you're using. If you're using version 7.0 or later, you use the [Main menu](main-menu.md) and direct touch to find and open a guide. If you're using an earlier version of Dynamics 365 Guides, you use gaze to find and open a guide.
 
-## Find and open a guide in version 7.0 
+## Find and open a guide in Dynamics 365 Guides version 7.0 
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Work** button.
 
@@ -34,7 +34,7 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
     4.  Close the keyboard to return to the guide list.
 
-## Find and open a guide in an earlier version 
+## Find and open a guide in an earlier version of Dynamics 365 Guides
 
 1. After signing in to the HoloLens app, you'll see the **Select guide** dialog box. In the **Select guide** dialog box, gaze at the **Recent** or **All** tab, and then gaze at the circle next to the file or folder you want to open. Folders appear on the **All** tab, but not the **Recent** tab. To return to a parent folder, gaze at the **Back** button above the guides list.
 
