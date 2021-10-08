@@ -81,7 +81,7 @@
 #### [Use the Main menu (version 7.0)](main-menu.md)
 #### [Find and open a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
-#### [Work with a guide]
+#### Work with a guide
 ##### [Place holograms, add styles, and more](hololens-app-orientation.md)
 ##### [Create and place a trigger for step navigation](hololens-app-trigger.md)
 #### [Make a call](make-call.md)
