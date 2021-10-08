@@ -26,7 +26,13 @@ When the Main menu is open, you can also move it wherever you want by grabbing i
 
 ## Understanding when to use touch vs. gaze in Dynamics 365 Guides version 7.0
 
-The Main menu and the submenus available from the Main menu respond to touch only. The Call window is also a touch-only interface. Authors can use touch and hand rays for certain operations when working with an instruction card. Operators can only use gaze and air tap, however, when working with an instruction card.
+The following table summarizes when to use touch vs. gaze in Dynamics 365 Guides version 7.0.
+
+|Area|Touch or gaze?|
+|------------------|----------------------------------------------------------|
+|Main menu and submenus|Touch|
+|Call window|Touch|
+|Instruction cards|**Authors** can use a combination of gaze, hand rays, and touch, depending on the task.<br><br>**Operators** can use gaze and air tap only.
 
 In Dynamics 365 Guides version 7.0, use touch for any of the following actions:
 
