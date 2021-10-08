@@ -33,9 +33,9 @@ The following table summarizes when to use touch vs. gaze in the Dynamics 365 Gu
 
 ## Make a call and work with a guide at the same time
 
-You can work with a guide as an author or operator and make a call at the same time. For example, if you're authoring a guide, you might want to call an expert to get advice on a specific proceudre. If you're an operator you might want to call an expert to get help on a procedure or to do a remote inspection. The remote expert can see everything that you see on your HoloLens and provide input as needed. 
+You can work with a guide as an author or operator and make a call at the same time. For example, if you're authoring a guide, you might want to call an expert to get advice on a specific procedure. If you're an operator, you might want to call an expert to get help on a procedure or to do a remote inspection. The remote expert can see everything that you see on your HoloLens and provide input as needed. 
 
-You can start a call after you already have a guide open, or you open a guide after starting a call. You can also make a call or work on a guide independently. 
+You can start a call after you open a guide, open a guide after placing a call, or do both simiultaneously. You can also make a call or work on a guide independently. 
 
 ## What's next?
 
