@@ -6,4 +6,6 @@ You can start a call after you open a guide, open a guide after placing a call, 
 
 ## Make a call
 
-1. 
+1. Look at the palm of your hand to open the Main menu, and then select the **Call** button.
+
+    ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
