@@ -2,10 +2,32 @@
 
 If you're using Dynamics 365 Guides version 7.0, you can make a call while you're working with a guide in the HoloLens app. For example, if you're authoring a guide, you might want to call an expert to get advice on a specific procedure. If you're operating a guide, you might want to call an expert to get help on a procedure or to do a remote inspection. The remote expert can answer the call using Microsoft Teams desktop and can see everything that you see on your HoloLens and provide input as needed. 
 
-You can start a call after you open a guide, open a guide after placing a call, or do both simiultaneously. You can also make a call or work on a guide independently. 
+You can start a call after you open a guide, open a guide after placing a call, or do both simultaneously. You can also make a call or work on a guide independently.
+
+## Limitations
+
+- Only outgoing phone calls from the HoloLens user are supported at this time. The expert on Teams desktop can't call the HoloLens user.
+
+- Only one-to-one calling is supported at this time. The Teams desktop user can add additional participants to the call, but only the video stream of the original Teams desktop user is shared with the HoloLens user.
 
 ## Make a call
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Call** button.
 
     ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
+    
+2. Find your contact. By default, your recent contacts appear on the **Call** tab. 
+
+    ![Screen shot of Call submenu.](media/main-menu-call-submenu.PNG "Screen shot of Call submenu")
+    
+3. If you don't see the contact you're looking for, select the **Search** button. 
+
+4. Select **Call**.
+
+5. Use the call controls to turn your video feed off or on, to mute or unmute yourself, or to end the call.
+
+    SCREENSHOT OF CALL CONTROLS GOES HERE
+    
+## Reopen the Call window
+
+The Call window doesn't follow you around in your environment like the instruction card, but you can easily bring the Call window up at any time by looking at your palm to open the Main menu. [Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
