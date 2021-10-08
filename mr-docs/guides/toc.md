@@ -3,6 +3,7 @@
 ## [Get started](get-started.md)
 ## [What's new](new.md)
 ## [Videos](videos.md)
+
 ## I'm an admin
 ### Set up Dynamics 365 Guides or upgrade the solution
 #### [Device and licensing requirements](requirements.md)
@@ -34,8 +35,10 @@
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
+
 ## I'm an author
 ### [Authoring overview](authoring-overview.md)
+
 ### Author in the PC app
 #### Overview and basics
 ##### [PC app authoring overview](pc-app-overview.md)
@@ -68,16 +71,19 @@
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Deactivate a guide or guide content](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
+
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
 #### [Calibrate your HoloLens](hololens-app-calibrate.md) 
-#### [Install the app and sign in](install-sign-in-hololens-app.md)
-#### [HoloLens permissions required for version 7.0](hololens-permissions.md)
+#### Install the app and sign in
+##### [Install the app and sign in](install-sign-in-hololens-app.md)
+##### [HoloLens permissions required for version 7.0](hololens-permissions.md)
 #### [Use the Main menu in version 7.0](main-menu.md)
 #### [Find and open a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
-#### [Place holograms, add styles, and more](hololens-app-orientation.md)
-#### [Create and place a trigger for step navigation](hololens-app-trigger.md)
+#### [Work with a guide]
+##### [Place holograms, add styles, and more](hololens-app-orientation.md)
+##### [Create and place a trigger for step navigation](hololens-app-trigger.md)
 #### [Make a call](make-call.md)
 #### HoloLens gestures for authoring and navigating
 ##### [HoloLens 1](authoring-gestures.md)
