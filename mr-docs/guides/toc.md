@@ -95,9 +95,6 @@
 ### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
 ### [Find and open a guide](find-guide.md)
 ### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
-### Gestures for navigating a guide
-#### [HoloLens 1](operator-gestures.md)
-#### [HoloLens 2](operator-gestures-HL2.md)
 ### [Anchor your guide](operator-anchor.md)
 ### Work with a guide
 #### [Get oriented with the Step card](operator-step-card-orientation.md)
@@ -112,6 +109,9 @@
 #### [Voice commands](voice-commands.md)
 #### [Have HoloLens narrate instructions](operator-narrator.md)
 ### [Make a call](make-call.md)
+### Gestures for navigating a guide
+#### [HoloLens 1](operator-gestures.md)
+#### [HoloLens 2](operator-gestures-HL2.md)
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
 ### [Data collected and how to use it](analytics-data-collected.md)
