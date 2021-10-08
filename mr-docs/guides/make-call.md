@@ -32,4 +32,4 @@ By default, your video stream is on and your HoloLens is not muted.
     
 ## Reopen the Call window
 
-The Call window doesn't follow you around in your environment like the instruction card, but you can easily bring the Call window up at any time by looking at your palm to open the Main menu. [Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
+The Call window doesn't follow you around in your environment like the instruction card, but you can easily bring the **Call** window up at any time by looking at your palm to open the Main menu. [Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
