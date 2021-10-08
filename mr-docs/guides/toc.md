@@ -90,7 +90,8 @@
 ##### [HoloLens 2](authoring-gestures-HL2.md)
 #### [Voice commands](voice-commands.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
-### [Open the Guides model-driven app](open-model-driven-app.md)
+
+### [Open the model-driven app](open-model-driven-app.md)
 ### [How to make a great mixed reality guide](great-guide.md)
 
 ## I'm an operator
