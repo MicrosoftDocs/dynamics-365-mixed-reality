@@ -30,18 +30,9 @@ The following table summarizes when to use touch vs. gaze in the Dynamics 365 Gu
 
 |Area|Touch or gaze?|
 |------------------|----------------------------------------------------------|
-|Main menu and submenus|Touch|
+|Main menu and submenus|Touch. Use touch for any of the following actions:<br><br>- Sign in/sign out<br>- Select an instance<br>- Find and open a guide<br>- Start a call<br> - Change a setting<br>- Open the demo|
 |Call window|Touch|
 |Instruction cards|**Authors** can use a combination of gaze, hand rays, and touch, depending on the task.<br><br>**Operators** can use gaze and air tap only.
-
-In Dynamics 365 Guides version 7.0, use touch for any of the following actions:
-
-- Sign in/sign out
-- Select an instance
-- Find and open a guide
-- Start a call and work with the Call window
-- Change a setting
-- Open the demo
 
 ## What's next?
 
