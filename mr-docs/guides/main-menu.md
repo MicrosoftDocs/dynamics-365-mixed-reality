@@ -24,4 +24,4 @@ The Main menu is always attached to your hand. No need to remember where you las
 
 ## What's next?
 
-[Make a call]
+[Make a call](make-call.md)
