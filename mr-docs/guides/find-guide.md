@@ -38,7 +38,7 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
 1. Add first step here.
 
-2. In the **Select guide** dialog box, gaze at the the **Recent** or **All** tab, and then gaze at the circle next to the file or folder you want to open. Folders appear on the **All** tab, but not the **Recent** tab. To return to the parent folder, gaze at the **Back** button above the guides list.
+2. In the **Select guide** dialog box, gaze at the **Recent** or **All** tab, and then gaze at the circle next to the file or folder you want to open. Folders appear on the **All** tab, but not the **Recent** tab. To return to the parent folder, gaze at the **Back** button above the guides list.
 
    ![Screenshot of Select guide dialog box.](media/select-guide-search.PNG "Screen shot of Select guide dialog box")
 
