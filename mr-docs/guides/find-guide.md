@@ -28,7 +28,7 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
     2. Enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters.
 
-       ![Screenshot of Search dialog box and holographic keyboard.](media/search-holographic-keyboard.PNG "Screen shot of Search dialog box and holographic keyboard")   
+       NEED NEW SCREEN SHOT HERE FOR TOUCH INTERFACE   
 
     3. To refine the criteria, select the magnifying glass again or select the box that shows the filter text.
 
