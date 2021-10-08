@@ -121,6 +121,7 @@
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
 #### [HoloLens 2](operator-gestures-HL2.md)
+#### [Voice commands](voice-commands.md)
 
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
