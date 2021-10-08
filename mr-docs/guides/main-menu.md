@@ -20,7 +20,9 @@ The following table describes the activities available through the buttons on th
 
 ## The Main menu is at your beck and call
 
-The Main menu is always attached to your hand. No need to remember where you last accessed it in your environment! To open it again, just look at the palm of your hand. 
+The Main menu doesn't follow you around in your environment, but it's very quick and easy to open it whenever you need it by looking at the palm of your hand. No need to remember where you last accessed it in your environment. 
+
+When the Main menu is open, you can also move it wherever you want by grabbing it with your hands. You can also pivot it, if needed. 
 
 ## What's next?
 
