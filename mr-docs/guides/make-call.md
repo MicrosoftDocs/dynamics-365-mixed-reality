@@ -24,9 +24,9 @@ You can start a call after you open a guide, open a guide after placing a call, 
 
 4. Select **Call**.
 
-While you're on the call, you can use the call controls to turn your video feed off or on, to mute or unmute yourself, or to end the call.
+While you're on the call, you can use the call controls below the **Call** window to turn your video feed off or on, to mute or unmute yourself, or to end the call.
 
-SCREENSHOT OF CALL CONTROLS GOES HERE
+![Screen shot of call controls.](media/call-controls.PNG "Screen shot of call controls")
 
 By default, your video stream is on and your HoloLens is not muted. 
     
