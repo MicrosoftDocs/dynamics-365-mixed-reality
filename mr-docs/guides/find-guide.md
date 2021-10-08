@@ -18,9 +18,12 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
     ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
-2. Select the **Recent** or **All** tab, and then select the appropriate file or folder. Folders appear on the **All** tab, but not the **Recent** tab. 
+2. Select the **Recent** or **All** tab, and then select the appropriate file or folder. 
 
     ![Screenshot of submenu showing Recent tab, All tab, and folders/files.](media/submenu-recent-all.PNG "Screenshot of submenu showing Recent tab, All tab, and folders/files") 
+
+    > [!NOTE]
+    > Folders appear on the **All** tab, but not the **Recent** tab. 
 
 3. To search for guide:
 
@@ -36,11 +39,14 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
 ## Find and open a guide in an earlier version of Dynamics 365 Guides
 
-1. After signing in to the HoloLens app, you'll see the **Select guide** dialog box. In the **Select guide** dialog box, gaze at the **Recent** or **All** tab, and then gaze at the circle next to the file or folder you want to open. Folders appear on the **All** tab, but not the **Recent** tab. To return to a parent folder, gaze at the **Back** button above the guides list.
+1. After signing in to the HoloLens app, you'll see the **Select guide** dialog box. In the **Select guide** dialog box, gaze at the **Recent** or **All** tab, and then gaze at the circle next to the file or folder you want to open. To return to a parent folder, gaze at the **Back** button above the guides list.
 
    ![Screenshot of Select guide dialog box.](media/select-guide-search.PNG "Screen shot of Select guide dialog box")
+   
+   > [!NOTE]
+   > Folders appear on the **All** tab, but not the **Recent** tab. 
 
-3. To search for a guide:
+2. To search for a guide:
 
     1. Gaze at the magnifying glass until the holographic keyboard appears.
 
