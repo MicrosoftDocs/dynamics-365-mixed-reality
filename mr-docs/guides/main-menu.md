@@ -39,4 +39,5 @@ You can start a call after you open a guide, open a guide after placing a call, 
 
 ## What's next?
 
+[Find and open a guide](find-guide.md)
 [Make a call](make-call.md)
