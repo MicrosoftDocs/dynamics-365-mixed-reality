@@ -16,7 +16,7 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Work** button.
 
-    SCREEN SHOT GOES HERE
+    ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
 2. Select the **Recent** or **All** tab, and then select the appropriate file or folder. Folders appear on the **All** tab, but not the **Recent** tab. 
 
