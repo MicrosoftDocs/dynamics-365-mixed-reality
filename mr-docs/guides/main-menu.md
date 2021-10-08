@@ -6,7 +6,7 @@ Version 7.0 of Dynamics 365 Guides introduced a new Main menu. After you sign in
 
 ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
-The following table describes the available activities.
+The following table describes the activities available through the buttons on the Main menu.
 
 |Choose this button|To|
 |--------|-------------------------------------------------------------------------------------------------|
