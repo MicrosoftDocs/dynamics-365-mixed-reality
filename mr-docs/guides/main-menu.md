@@ -10,8 +10,8 @@ The following table describes the available activities.
 
 |Choose this button|To|
 |--------|-------------------------------------------------------------------------------------------------|
-||Do a work item.<br><br> Work items include:- Select and open a guide.<br>- Search for a guide.<br>- Choose a role (Author or Operator).|
-||Make a call.<br><br> Call choices include:- Select a contact from the **Recents** list.<br>- Search for a contact.<br>- Start a call.<br>- View the Call window.|
+||Do a work item. Work items include:<br><br>- Select and open a guide.<br>- Search for a guide.<br>- Choose a role (Author or Operator).|
+||Make a call. Call choices include:<br><br>- Select a contact from the **Recents** list.<br>- Search for a contact.<br>- Start a call.<br>- View the Call window.|
 ||Change a setting.|
 || Sign out.|
 
