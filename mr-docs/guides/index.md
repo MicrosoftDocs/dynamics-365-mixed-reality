@@ -23,7 +23,7 @@ With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you don't 
 
 ## Make a call to work collaboratively
 
-Dynamics 365 Guides users on HoloLens can collaborate in real time with a remote expert using Teams desktop. By starting a call from a guide, an operator can share their HoloLens video feed, including holographic guide content, with the remote expert. For example, a first-line worker can call an expert if something goes wrong and get advice on how to move forward in a timely manner instead of waiting for support. Or an author might prompt a first-line worker to call a remote expert at a specific step in a guide, or ask a first-line worker to do a remote inspection as a product is being built, which will save time while ensuring high quality.
+Dynamics 365 Guides users on HoloLens can collaborate in real time with a remote expert using Microsoft Teams desktop. By starting a call from a guide, an operator can share their HoloLens video feed, including holographic guide content, with the remote expert. For example, a first-line worker can call an expert if something goes wrong and get advice on how to move forward in a timely manner instead of waiting for support. Or an author might prompt a first-line worker to call a remote expert at a specific step in a guide, or ask a first-line worker to do a remote inspection as a product is being built, which will save time while ensuring high quality.
 
 ## Improve productivity – Learn by doing
 
