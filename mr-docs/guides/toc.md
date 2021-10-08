@@ -86,15 +86,18 @@
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [How to make a great mixed reality guide](great-guide.md)
+
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
 ### Calibrate your HoloLens
 #### [HoloLens 1](operator-calibrate.md)
 #### [HoloLens 2](operator-calibrate-HL2.md)
-### [Install the HoloLens app and sign in](install-sign-in-operator.md)
-### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
-### [Find and open a guide](find-guide.md)
-### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
+### Install the HoloLens app
+#### [Install the HoloLens app and sign in](install-sign-in-operator.md)
+#### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
+### Open a guide
+#### [Find and open a guide](find-guide.md)
+#### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
 ### [Anchor your guide](operator-anchor.md)
 ### Work with a guide
 #### [Get oriented with the Step card](operator-step-card-orientation.md)
@@ -112,6 +115,7 @@
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
 #### [HoloLens 2](operator-gestures-HL2.md)
+
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
 ### [Data collected and how to use it](analytics-data-collected.md)
