@@ -24,7 +24,7 @@ The Main menu doesn't follow you around in your environment like an instruction 
 
 When the Main menu is open, you can also move it wherever you want by grabbing it with your hand(s). You can also pivot it, if needed. 
 
-## Understanding when to use touch vs. gaze in Dynamics 365 Guides version 7.0
+## When to use touch vs. gaze in Dynamics 365 Guides version 7.0
 
 The following table summarizes when to use touch vs. gaze in Dynamics 365 Guides version 7.0.
 
