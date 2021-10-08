@@ -20,7 +20,7 @@ The following table describes the activities available through the buttons on th
 
 ## The Main menu is at your beck and call
 
-The Main menu doesn't follow you around in your environment, but it's very quick and easy to open it whenever you need it by looking at the palm of your hand. So, for example, if you have a guide open and you're on a call consulting with a remote expert, you don't have to remember where you last accessed the call window in your environment. Just look at the palm of your hand again to bring it to you.
+The Main menu doesn't follow you around in your environment like an instruction card, but it's very quick and easy to open it whenever you need it by looking at the palm of your hand. So, for example, if you have a guide open and you're on a call consulting with a remote expert, you don't have to remember where you last accessed the call window in your environment. Just look at the palm of your hand again to bring it to you.
 
 When the Main menu is open, you can also move it wherever you want by grabbing it with your hand(s). You can also pivot it, if needed. 
 
