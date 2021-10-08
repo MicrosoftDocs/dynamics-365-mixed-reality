@@ -54,7 +54,7 @@ You can also turn on each permission by following the steps described below.
 
     1. On the left side of the screen, under **App permissions**, select **Camera**.
 
-    2. On the right side of the screen, under **Allow apps to access your camera**, turn the setting to **On**.  
+    2. On the right side of the screen, under **Allow access to the camera on this device**, turn the setting to **On**. This also turns on the **Allow apps to access your camera** setting.
 
     3. On the right side of the screen, under **Choose which apps can access your camera**, turn the **Dynamics 365 Guides** setting to **On**. 
 
@@ -70,7 +70,7 @@ You can also turn on each permission by following the steps described below.
 
     1. On the left side of the screen, under **App permissions**, select **Microphone**.
 
-    2. On the right side of the screen, under **Allow apps to access your microphone**, turn the setting to **On**. 
+    2. On the right side of the screen, under **Allow access to the microphone on this device**, turn the setting to **On**. This also turns on the **Allow apps to access your microphone** setting.
 
     3. On the right side of the screen, under **Choose which apps can access your microphone**, turn the **Dynamics 365 Guides** setting to **On**. 
 
