@@ -1,1 +1,3 @@
-## Placeholder for new content on making a call (November release)
+## Make a call in the Dynamics 365 Guides HoloLens app
+
+
