@@ -8,11 +8,11 @@ title: Find a guide with the HoloLens app (for HoloLens  2 only) for Dynamics 36
 ms.reviewer: v-brycho
 ---
 
-# Open or a guide in the Dynamics 365 Guides HoloLens app 
+# Find and open a guide in the Dynamics 365 Guides HoloLens app 
 
 How you find and open a guide in Dynamics 365 Guides depends on which version you're using. If you're using version 7.0 or later, you use the [Main menu](main-menu.md) and direct touch to find and open a guide. If you're using an earlier version of Dynamics 365 Guides, you use gaze to find and open a guide.
 
-## Open a guide in version 7.0
+## Find and open a guide in version 7.0 
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Work** button.
 
@@ -25,7 +25,7 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 > [!NOTE]
 >  If you work with a long list of guides, you can use the holographic keyboard to quickly find the right guide. Select the 
 
-## Open a guide in an earlier version of Dynamics 365 Guides
+## Find and open a guide in an earlier version 
 
 1. Add first step here.
 
