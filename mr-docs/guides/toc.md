@@ -92,7 +92,7 @@
 ### Calibrate your HoloLens
 #### [HoloLens 1](operator-calibrate.md)
 #### [HoloLens 2](operator-calibrate-HL2.md)
-### Install the HoloLens app
+### Install the HoloLens app and sign in
 #### [Install the HoloLens app and sign in](install-sign-in-operator.md)
 #### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
 ### Open a guide
