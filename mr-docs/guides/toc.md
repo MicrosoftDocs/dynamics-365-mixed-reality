@@ -74,10 +74,11 @@
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
 #### [HoloLens permissions required for version 7.0](hololens-permissions.md)
 #### [Use the Main menu in version 7.0](main-menu.md)
-#### [Find a guide](find-guide.md)
+#### [Find and open a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
 #### [Create and place a trigger for step navigation](hololens-app-trigger.md)
+#### [Make a call](make-call.md)
 #### HoloLens gestures for authoring and navigating
 ##### [HoloLens 1](authoring-gestures.md)
 ##### [HoloLens 2](authoring-gestures-HL2.md)
@@ -92,13 +93,13 @@
 #### [HoloLens 2](operator-calibrate-HL2.md)
 ### [Install the HoloLens app and sign in](install-sign-in-operator.md)
 ### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
-### [Find a guide](find-guide.md)
+### [Find and open a guide](find-guide.md)
 ### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
 #### [HoloLens 2](operator-gestures-HL2.md)
 ### [Anchor your guide](operator-anchor.md)
-### Use the HoloLens app
+### Work with a guide
 #### [Get oriented with the Step card](operator-step-card-orientation.md)
 #### [Use a dotted line to find a focus area](operator-dotted-line.md)
 #### [Use Follow mode and pinning](operator-follow-mode.md)
@@ -110,6 +111,7 @@
 #### [Work offline](operator-offline-mode.md)
 #### [Voice commands](voice-commands.md)
 #### [Have HoloLens narrate instructions](operator-narrator.md)
+### [Make a call](make-call.md)
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
 ### [Data collected and how to use it](analytics-data-collected.md)
