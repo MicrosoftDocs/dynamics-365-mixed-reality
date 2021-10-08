@@ -20,7 +20,7 @@ The following table describes the available activities.
 
 ## The Main menu is at your beck and call
 
-The Main menu is always attached to your hand. No need to remember where you last accessed it in your environment. To open it again, just look at the palm of your hand. You can interact with the menu with one or two hands.
+The Main menu is always attached to your hand. No need to remember where you last accessed it in your environment! To open it again, just look at the palm of your hand. You can interact with the menu with one or two hands.
 
 ## What's next?
 
