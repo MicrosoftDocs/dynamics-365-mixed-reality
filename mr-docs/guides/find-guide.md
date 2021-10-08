@@ -18,12 +18,21 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
     SCREEN SHOT GOES HERE
 
-2. Select the **Recent** or **All** tab, and then select the appropriate file or folder.
+2. Select the **Recent** or **All** tab, and then select the appropriate file or folder. Folders appear on the **All** tab, but not the **Recent** tab. 
 
-    SCREEN SHOT GOES HERE.
+    ![Screenshot of submenu showing Recent tab, All tab, and folders/files.](media/submenu-recent-all.PNG "Screenshot of submenu showing Recent tab, All tab, and folders/files") 
 
-> [!NOTE]
->  If you work with a long list of guides, you can use the holographic keyboard to quickly find the right guide. Select the 
+3. To search for guide:
+
+    1. Select the magnifying glass to display the holographic keyboard.
+
+    2. Enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters.
+
+       ![Screenshot of Search dialog box and holographic keyboard.](media/search-holographic-keyboard.PNG "Screen shot of Search dialog box and holographic keyboard")   
+
+    3. To refine the criteria, select the magnifying glass again or select the box that shows the filter text.
+
+    4.  Close the keyboard to return to the guide list.
 
 ## Find and open a guide in an earlier version 
 
@@ -38,6 +47,7 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
     1. gaze at the magnifying glass until the holographic keyboard appears.
 
     2. Enter the characters for the guide you're looking for. As you start to enter the characters, the list automatically filters to the guide names that match those characters.
+
        ![Screenshot of Search dialog box and holographic keyboard.](media/search-holographic-keyboard.PNG "Screen shot of Search dialog box and holographic keyboard")
 
     3. Close the keyboard to return to the guide list.
