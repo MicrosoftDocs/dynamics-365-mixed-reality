@@ -28,6 +28,7 @@
 #### [Share the Guides model-driven app](admin-share-guides-hub.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
+### [Enable or disable calls](admin-settings-environment-enable-calls.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
