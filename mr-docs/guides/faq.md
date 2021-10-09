@@ -150,7 +150,7 @@ Dynamics 365 Guides version 7.0 includes advanced features that rely on eye-trac
 
 ## Why can't I make a video call?
 
-If you're using version 7.0 or later and you can’t make a video call, it could be because:
+If you're using Dynamics 365 Guides version 7.0 or later and you can’t make a video call, it could be because:
 
 -	Your admin has [disabled the option directly from the Guides web portal](admin-mda-settings-environment-enable-calls.md). 
 
