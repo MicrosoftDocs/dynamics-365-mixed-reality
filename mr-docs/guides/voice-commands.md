@@ -201,6 +201,8 @@ SCREEN SHOT GOES HERE
 
 ## Active call
 
+SCREEN SHOT GOES HERE
+
 | Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Start video" | Turn the video camera on. |
