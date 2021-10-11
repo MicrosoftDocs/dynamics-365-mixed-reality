@@ -14,7 +14,7 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
 ## Find and open a guide in Dynamics 365 Guides version 7.0 
 
-1. Look at the palm of your hand to open the Main menu, and then select the **Work** button.
+1. Look at the palm of your hand to open the Main menu, and then select the **Work activity** button.
 
     ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
