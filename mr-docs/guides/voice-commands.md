@@ -42,8 +42,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 | Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Sign in" | Start the sign-in process. |
-| 2 | "Get started" | Open the **Get started with Guides** dialog box. |
-| 3 | "Try the demo" | Open the Dynamics 365 Guides demo. |
+| 2 | "Try a guide" | Open the Dynamics 365 Guides demo. |
 
 ### Select mode page
 
