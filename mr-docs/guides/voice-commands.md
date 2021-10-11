@@ -123,6 +123,8 @@ UPDATED SCREEN SHOT GOES HERE
 
 ### Step card page
 
+UPDATED SCREEN SHOT GOES HERE
+
 ![Step card page.](media/voice-step-card.PNG "Step card page")
 
 | Number in screenshot | Button or element | Say this | To do this |
