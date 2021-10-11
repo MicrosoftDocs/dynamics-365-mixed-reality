@@ -44,7 +44,42 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 | 1 | "Sign in" | Start the sign-in process. |
 | 2 | "Try a guide" | Open the Dynamics 365 Guides demo. |
 
-### Select mode page
+### Instance selection page
+
+SCREEN SHOT GOES HERE
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Scroll up" | Scroll up the list. |
+| 2 | "Scroll down" | Scroll down the list. |
+
+### Main menu
+
+SCREEN SHOT GOES HERE
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Show main menu" | Open the Main menu in the view. |
+| 2 | "Hide main menu" | Hide the Main menu from the view. |
+| 3 | "Show Work" | Open the Work activity to see your guides and folders. |
+| 4 | "Show Call" | Open the Call activity to see your contacts. |
+| 5 | "Show Settings" | Open the **Settings** page. |
+| 6 | "Show Profile" | Open the **Profile** page. |
+
+### Work activity
+
+### Guides and folders list
+
+| 1 | "Scroll up" | Scroll the list up. |
+| 2 | "Scroll down" | Scroll the list down. |
+| 3 | "Minimize" | Hide the content panel and the Main menu. |
+| 4 | "Start search" | Activate the search and open the keyboard. |
+| 5 | "Clear search" | Delete the text in the Search box. |
+| 6 | "Previous folder" | Go back to the previous folder. |
+
+### Mode selection screen
+
+SCREEN SHOT GOES HERE
 
 ![Select mode page.](media/voice-select-mode.PNG "Select mode page")
 
@@ -52,6 +87,8 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 |---|---|---|
 | 1 | "Operate" | Select **Operate** mode. |
 | 2 | "Author" | Select **Author** mode. |
+| 3 | "Go back" | Go back to the guides and folders list and cancel opening the current guide. |
+| 4 | "Minimize" | Hide the content panel and the Main menu. |
 
 ### Align holographic anchor page
 
@@ -98,22 +135,6 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 | 12 | ![Play button.](media/play-button.png "Play button") | "Play video" | Start the video that is attached to the step (if the step has a video). |
 | 13 | ![Pause button.](media/pause-button.png "Pause button") | "Pause video" | Pause the video. |
 | 14 | ![Restart guide button.](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.</p> |
-
-### Narration
-
-You can use the built-in HoloLens Text-to-Speech system to have HoloLens read instructions out loud.
-
-#### Use voice commands to turn narration on or off or to select a response in a question card
-
-Use the commands in the following table to turn narration on or off or to select a response in a question card.
-
-|Voice command |Action| 
-|----------------------------|-----------------------------------------------------------------|
-|Narration On |Start narration for the current and subsequent steps.<br><br>If narration is already turned on when you say this voice command, the narrator will repeat the instructions for the current step.| 
-|Narration Off| Turn off narration for the current and subsequent steps. |
-|Narrate Step| Narrate the current step.|
-|Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1". |
-|Response *Number* Text| Select the response in a question card indicated by the label position for that response. For example, if the label for the first response has been changed by the author to "Beginner" instead of "Response 1", say **Response 1 Text** to select that response.|
 
 ### Outline, guide list, and instance list
 
