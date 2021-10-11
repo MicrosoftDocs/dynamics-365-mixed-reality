@@ -25,7 +25,7 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
     > [!NOTE]
     > Folders appear on the **All** tab, but not the **Recent** tab. 
 
-3. To search for guide:
+3. To search for a guide:
 
     1. Select the magnifying glass to display the holographic keyboard.
 
