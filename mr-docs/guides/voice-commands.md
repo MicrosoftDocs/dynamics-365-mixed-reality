@@ -70,6 +70,10 @@ SCREEN SHOT GOES HERE
 
 ### Guides and folders list
 
+SCREEN SHOT GOES HERE
+
+|Number in screenshot | Say this | To do this |
+|---|---|---|
 | 1 | "Scroll up" | Scroll the list up. |
 | 2 | "Scroll down" | Scroll the list down. |
 | 3 | "Minimize" | Hide the content panel and the Main menu. |
