@@ -152,26 +152,6 @@ UPDATED SCREEN SHOT GOES HERE
 | 2 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
 | 3 | ![Scroll down button.](media/exit-button.PNG "Scroll down button") | "Close window" | Close the window. |
 
-### Profile page
-
-![Profile page that shows the Sign out button.](media/voice-profile.PNG "Profile page that shows the Sign out button")
-
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Sign out" | Sign out of Dynamics 365 Guides. |
-
-### User profile, Settings, and Task list pages
-
-| Button or element | Say this | To do this |
-|---|---|---|
-| ![Close button.](media/close-button.png "Close button") | "Close window" | Close the active window. |
-
-### Dialog boxes
-
-For dialog boxes, read the label of the button (for example, say "Yes" or "No").
-
-![Example of a dialog box that has Yes and No buttons.](media/voice-dialog.PNG "Example of a dialog box that has Yes and No buttons")
-
 ### Author mode commands
 
 | Button or element | Say this | To do this |
