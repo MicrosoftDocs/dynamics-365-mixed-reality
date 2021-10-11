@@ -30,9 +30,9 @@ For increased accuracy, most voice commands are contextual. In other words, they
 
 ## Use voice commands
 
-This section shows Dynamics 365 Guides pages and the voice commands that you can use for them.
+The sections below show Dynamics 365 Guides pages and the voice commands that you can use for each of them.
 
-> [!NOTE]
+> [!TIP]
 > Regardless of where you are in the app, the [Select](/hololens/hololens-cortana#general-speech-commands) voice command works like an air tap.
 
 ## Sign-in page
