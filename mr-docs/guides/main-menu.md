@@ -10,10 +10,10 @@ The following table describes the activities available through the buttons on th
 
 |Choose this button|To|
 |--------|-------------------------------------------------------------------------------------------------|
-||Do a work item. Work items include:<br><br>- Select and open a guide.<br>- Search for a guide.<br>- Choose a role (Author or Operator).|
-||Make a call. Call choices include:<br><br>- Select a contact from the **Recents** list.<br>- Search for a contact.<br>- Start a call and work with the Call window.|
-||Change a setting.|
-|| Sign out.|
+|SCREEN SHOT OF WORK BUTTON WILL GO HERE|Do a work item. Work items include:<br><br>- Select and open a guide.<br>- Search for a guide.<br>- Choose a role (Author or Operator).|
+|SCREEN SHOT OF CALL BUTTON WILL GO HERE|Make a call. Call choices include:<br><br>- Select a contact from the **Recents** list.<br>- Search for a contact.<br>- Start a call and work with the Call window.|
+|SCREEN SHOT OF SETTINGS BUTTON WILL GO HERE|Change a setting.|
+|SCREEN SHOT OF PROFILE BUTTON WILL GO HERE| Sign out.|
 
 ## The Main menu is at your beck and call
 
