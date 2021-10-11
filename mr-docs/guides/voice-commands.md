@@ -35,7 +35,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 > [!NOTE]
 > Regardless of where you are in the app, the [Select](/hololens/hololens-cortana#general-speech-commands) voice command works like an air tap.
 
-### Sign-in page
+## Sign-in page
 
 UPDATED SCREEN SHOT GOES HERE
 
@@ -46,7 +46,7 @@ UPDATED SCREEN SHOT GOES HERE
 | 1 | "Sign in" | Start the sign-in process. |
 | 2 | "Try a guide" | Open the Dynamics 365 Guides demo. |
 
-### Instance selection page
+## Instance selection page
 
 SCREEN SHOT GOES HERE
 
@@ -55,7 +55,7 @@ SCREEN SHOT GOES HERE
 | 1 | "Scroll up" | Scroll up the list. |
 | 2 | "Scroll down" | Scroll down the list. |
 
-### Main menu
+## Main menu
 
 SCREEN SHOT GOES HERE
 
@@ -68,7 +68,7 @@ SCREEN SHOT GOES HERE
 | 5 | "Show Settings" | Open the **Settings** page. |
 | 6 | "Show Profile" | Open the **Profile** page. |
 
-### Work activity
+## Work activity
 
 ### Guides and folders list
 
@@ -83,7 +83,7 @@ SCREEN SHOT GOES HERE
 | 5 | "Clear search" | Delete the text in the Search box. |
 | 6 | "Previous folder" | Go back to the previous folder. |
 
-### Mode selection screen
+## Mode selection screen
 
 UPDATED SCREEN SHOT GOES HERE
 
@@ -96,7 +96,7 @@ UPDATED SCREEN SHOT GOES HERE
 | 3 | "Go back" | Go back to the guides and folders list and cancel opening the current guide. |
 | 4 | "Minimize" | Hide the content panel and the Main menu. |
 
-### Align holographic anchor page
+## Align holographic anchor page
 
 ![Align holographic anchor page.](media/voice-align-holographic.PNG "Align holographic anchor page")
 
@@ -104,7 +104,7 @@ UPDATED SCREEN SHOT GOES HERE
 |---|---|---|
 | 1 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
 
-### Scan anchor page (QR code and circular code)
+## Scan anchor page (QR code and circular code)
 
 ![Scan circular code anchor page.](media/voice-scan-circular.PNG "Scan circular code anchor page")
 
@@ -112,7 +112,7 @@ UPDATED SCREEN SHOT GOES HERE
 |---|---|---|
 | 1 | "Initiate scan" | Start anchor scanning. |
 
-### Anchor found page (QR code and circular code)
+## Anchor found page (QR code and circular code)
 
 ![Circular code anchor found page.](media/voice-found-circular.PNG "Circular code anchor found page")
 
@@ -121,7 +121,7 @@ UPDATED SCREEN SHOT GOES HERE
 | 1 | "Rescan" | Rescan the anchor if holograms aren't correctly aligned. |
 | 2 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
 
-### Step card page
+## Step card page
 
 UPDATED SCREEN SHOT GOES HERE
 
@@ -142,7 +142,7 @@ UPDATED SCREEN SHOT GOES HERE
 | 11 | ![Restart guide button.](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.|
 | 11 | ![Exit button.](media/exit-button.PNG "Exit button") | "Exit guide" | Exit the current guide.</p> |
 
-### Outline instance list
+## Outline instance list
 
 ![Task list page that shows scroll up and scroll down buttons.](media/outline-page-list.PNG "Task list page that shows scroll up and scroll down buttons")
 
@@ -152,7 +152,7 @@ UPDATED SCREEN SHOT GOES HERE
 | 2 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
 | 3 | ![Scroll down button.](media/exit-button.PNG "Scroll down button") | "Close window" | Close the window. |
 
-### Author mode commands
+## Author mode commands
 
 | Button or element | Say this | To do this |
 |---|---|---|
@@ -162,11 +162,11 @@ UPDATED SCREEN SHOT GOES HERE
 |None|"Copy 3D position"|Copy the 3D position (position, orientation, and scale) of a hologram to use with another hologram.|
 |None|"Paste 3D position"|Paste the 3D position (position, orientation, and scale) of a hologram onto another hologram.|
 
-### Narration
+## Narration
 
 You can use the built-in HoloLens Text-to-Speech system to have HoloLens read instructions out loud.
 
-#### Use voice commands to turn narration on or off or to select a response in a question card
+### Use voice commands to turn narration on or off or to select a response in a question card
 
 Use the commands in the following table to turn narration on or off or to select a response in a question card.
 
@@ -177,5 +177,55 @@ Use the commands in the following table to turn narration on or off or to select
 |Narrateo step| Narrate the current step.|
 |Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1". |
 |Response *Number* Text| Select the response in a question card indicated by the label position for that response. For example, if the label for the first response has been changed by the author to "Beginner" instead of "Response 1", say **Response 1 Text** to select that response.|
+
+## Call activity
+
+SCREEN SHOT GOES HERE
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Scroll down" | Scroll down the list. |
+| 2 | "Scroll up" | Scroll up the list. |
+| 3 | "Minimize" | Minimize the content panel and main menu. |
+| 4 | "Start search" | Trigger search and open the keyboard. |
+| 5 | "Clear search" | Delete the search string currently in the search box. |
+
+## Start a call
+
+SCREEN SHOT GOES HERE
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Call" | Call the selected contact. |
+| 2| "Back" | Go back to the contact list and cancel the call. |
+
+## Active call
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Start video" | Turn the video camera on. |
+| 2| "Stop video" | Turn the video camera off. |
+| 3 | "Mute" | Mute the microphone. |
+| 4| "Unmute" | Unmute the microphone. |
+| 5| "End call" | Finalize the current call. |
+
+## Settings
+
+SCREEN SHOT GOES HERE
+
+## Profile
+
+SCREEN SHOT GOES HERE
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Minimize" | Hide the content panel and the Main menu. |
+| 2| "Sign out" | Sign out of Dynamics 365 Guides. |
+
+## Dialog boxes
+
+For dialog boxes, read the label of the button (for example, say "Yes" or "No"). 
+
+![Example of a dialog box that has Yes and No buttons.](media/voice-dialog.PNG "Example of a dialog box that has Yes and No buttons")
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
