@@ -16,13 +16,11 @@ You can start a call after you open a guide, open a guide after placing a call, 
 
     ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
     
-2. Find your contact. By default, your recent contacts appear on the **Call** tab. If you don't see the contact you're looking for, select the **Search** button. 
+2. In the **Recent people** screen, select a contact. If you don't see the contact you're looking for, select the **Search** button at the bottom of the screen. 
 
     ![Screen shot of Call submenu.](media/main-menu-call-submenu.PNG "Screen shot of Call submenu")
     
-3. Select the contact.
-
-4. Select **Call**.
+3. Select **Call**.
 
 While you're on the call, you can use the call controls below the **Call** window to turn your video feed off or on, to mute or unmute yourself, or to end the call.
 
