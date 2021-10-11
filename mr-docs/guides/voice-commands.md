@@ -148,7 +148,7 @@ UPDATED SCREEN SHOT GOES HERE
 |---|---|---|---|
 | 1 | ![Scroll up button.](media/scroll-up-button.png "Scroll up button") | "Scroll up" | Scroll up the list. |
 | 2 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
-| 3 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Close window" | Close the window. |
+| 3 | ![Scroll down button.](media/exit-button.PNG "Scroll down button") | "Close window" | Close the window. |
 
 ### Profile page
 
