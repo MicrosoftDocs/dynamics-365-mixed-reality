@@ -140,15 +140,15 @@ UPDATED SCREEN SHOT GOES HERE
 | 11 | ![Restart guide button.](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.|
 | 11 | ![Exit button.](media/exit-button.PNG "Exit button") | "Exit guide" | Exit the current guide.</p> |
 
+### Outline instance list
 
-### Outline, guide list, and instance list
-
-![Task list page that shows scroll up and scroll down buttons.](media/voice-lists.PNG "Task list page that shows scroll up and scroll down buttons")
+![Task list page that shows scroll up and scroll down buttons.](media/outline-page-list.PNG "Task list page that shows scroll up and scroll down buttons")
 
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
 | 1 | ![Scroll up button.](media/scroll-up-button.png "Scroll up button") | "Scroll up" | Scroll up the list. |
 | 2 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
+| 3 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Close window" | Close the window. |
 
 ### Profile page
 
