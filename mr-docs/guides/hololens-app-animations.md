@@ -1,0 +1,31 @@
+
+
+# Change animation options in the Dynamics 365 Guides HoloLens app
+
+If the 3D model that you're working with in the Microsoft Dynamics 365 Guides HoloLens app has animations, you can select a specific animation to play back. 
+You can also configure playback options (speed, direction, and looping options). 
+
+## Change animation options
+
+1. Select the 3D model.
+
+2. On the **Edit** menu, select **Animation**.
+
+    ![Animation command on the Edit menu](media/edit-animations1.PNG "Animation command on the Edit menu")
+    
+    You'll see the following **Animation** dialog box.
+
+    ![Animation dialog box](media/animation-dialog.PNG "Animation dialog box")
+
+3. In the **Animation** dialog box, select from the following options.
+
+    |Option|Description|
+    |----------------|---------------------------------------------------------------------|
+    |**Animate**|Enable or disable the animation. You might want to use this option if an animation interferes with your ability to place a model in space. You can turn it off, and then turn it back on again. If disabled, the first or last frame of the animation is shown, depending on whether **Direction** is set to **Forward** or **Backward**.|
+    |**Takes**|Select a specific animation to play from a 3D model that contains multiple animations.|
+    |**Playback**|- If **Loop** is selected, the animation is repeated until the operator leaves the step.<br><br>- If **Once** is selected, the animation is played one time and then stops.<br><br>- If **Ping Pong** is selected, the animation repeats back and forth in each direction. |
+    |**Direction**|- If **Forward** is selected, the animation runs from the first frame to the last frame of the animation as defined in the 3D model.<br><br>- If **Backward** is selected, the animation runs from the last frame to the first frame.|
+    |**Speed**|Set the relative speed of the animation. For example, if the speed is set to 2.0x, the animation plays at twice the speed as defined in the model. |
+    
+> [!NOTE]
+> For information on working with multiple animations in a single 3D model in 3DS Max, see [Use multiple animation clips in a 3DS Max model](https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip).
