@@ -172,5 +172,7 @@
 ### [Affecting both apps](known-issues.md)
 ### [PC app](known-issues-pc-app.md)
 ### [HoloLens app](known-issues-hololens-app.md)
-## [Terms of use](../legal/guides-service-terms.md)
+## Legal documents
+### [Terms of use](../legal/guides-service-terms.md)
+### [Third-party notices](..legal/guides-third-party-notices.md)
 
