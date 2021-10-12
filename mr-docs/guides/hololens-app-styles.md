@@ -50,3 +50,12 @@ Here's a list of the styles that are included in [!include[pn-dyn-365-guides](..
 - Use styles to reinforce actions.
 
 - Use styles only for the purpose that they were intended for. After operators learn the visual language of styles, they will know that a particular style means a specific thing, which will speed up their learning process.
+
+## What's next?
+
+- [Get oriented with the HoloLens app](hololens-app-orientation.md)
+- [Place and manipulate holograms](hololens-app-place-holograms.md)
+- [Add a dotted line for a focus area](hololens-app-dotted-line.md)
+- [Duplicate a 3D model](hololens-app-duplicate-model.md)
+- [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Create a trigger for step navigation](hololens-app-trigger.md)
