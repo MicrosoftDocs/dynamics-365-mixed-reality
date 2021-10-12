@@ -28,4 +28,5 @@ The duplicates will have the same rotation and style settings as the original.
 - [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 - [Use styles for emphasis](hololens-app-styles.md)
 - [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Change animation options](hololens-app-animations.md)
 - [Create a trigger for step navigation](hololens-app-trigger.md)
