@@ -50,29 +50,6 @@ Here's what each button or UI element is used for.
 
 After you're oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in **Operate** mode to see how it flows. As you step through your guide, make a note of things that you want to change in the PC app. For example, you might have to move some steps around, add tasks or steps, or add more supporting assets. In general, it's best to make these changes in the PC app before you start to place holograms, tethers, and styles.
 
-## Add a dotted line to link a Step card to a focus area
-
-You can add a dotted line to link a Step card to the area where the work is done. Dotted lines are a very simple but powerful feature; they show operators where to focus.
-
-![Holographic dotted line.](media/dotted-line.PNG "Holographic dotted line")
-
-### Add a dotted line
-
-1. Tap and hold the gem below the Step card.
-
-2. Drag it to the real-world location that you want.
-
-    ![Placing a dotted line.](media/place-tether.PNG "Placing a dotted line")
-
-    > [!TIP]
-    > Placement isn't exact. Therefore, if you're connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (for example, a number) at the end of the dotted line.
-
-### Remove a dotted line
-
-- Select the "X" where the dotted line originates. The gem is restored to the bottom of the Step card.
-
-    ![Remove a dotted line animation.](media/remove-dotted-line.gif "Remove a dotted line animation")
-
 ## Place your holograms
 
 During this stage of the process, you will walk through each step in your guide and place any assets that you associated with that step when you authored it in the PC app. For example, if you added a 3D part to help operators with a step, you will place that part over its physical counterpart in the real world. If you added a 3D object from the 3D toolkit (for example, an arrow or a number), you will place that object in an appropriate place in the real world, where it can draw the user's focus. You can place the same 3D part or 3D object as many times as you want.
