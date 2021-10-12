@@ -174,5 +174,5 @@
 ### [HoloLens app](known-issues-hololens-app.md)
 ## Legal documents
 ### [Terms of use](../legal/guides-service-terms.md)
-### [Third-party notices](..legal/guides-third-party-notices.md)
+### [Third-party notices](../legal/guides-third-party-notices.md)
 
