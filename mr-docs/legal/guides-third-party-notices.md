@@ -13,8 +13,8 @@ Notwithstanding any other terms, you may reverse engineer this software to the e
 Public License.
 
 ## 1. SQLitePCLRaw.core 1.1.11 - Apache-2.0
-    - (c) 2008 VeriSign, Inc.
-    - Copyright 2014-2018 Zumero, LLC.
+   - (c) 2008 VeriSign, Inc.
+   - Copyright 2014-2018 Zumero, LLC.
 
 Apache License
 
