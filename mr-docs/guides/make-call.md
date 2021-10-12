@@ -20,7 +20,7 @@ You can start a call after you open a guide, open a guide after placing a call, 
 
     ![Screen shot of Call submenu.](media/main-menu-call-submenu.PNG "Screen shot of Call submenu")
     
-3. Select the **Call** button. To go back to the **Recent people** screen, select the **Back** button. 
+3. Select the **Call** button for the contact. To go back to the **Recent people** screen, select the **Back** button. 
 
     ![Call contact screen.](media/call-contact-screen.PNG "Call contact screen")
 
