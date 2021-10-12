@@ -23,3 +23,14 @@ feature; they show operators where to focus.
 - Select the "X" where the dotted line originates. The gem is restored to the bottom of the Step card.
 
     ![Remove a dotted line animation.](media/remove-dotted-line.gif "Remove a dotted line animation")
+
+## What's next?
+
+- [Get oriented with the HoloLens app](hololens-app-orientation.md)
+- [Place and manipulate holograms](hololens-app-place-holograms.md)
+- [Use a style to add emphasis](hololens-app-styles.md)
+- [Duplicate a 3D model](hololens-app-duplicate-model.md)
+- [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Create a trigger for step navigation](hololens-app-trigger.md)
+    
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
