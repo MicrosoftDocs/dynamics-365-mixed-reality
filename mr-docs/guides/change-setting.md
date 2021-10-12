@@ -4,7 +4,7 @@
 
 If you're using Dynamics 365 Guides version 7.0, you can use touch to change a setting in the HoloLens app. The **Settings** screen has two settings:
 
-- Narration. Turn on or off the ability to have HoloLens read xxx out loud. [Learn more about using the narrator](voice-commands.md#narrator). 
+- **Narration**. Turn on or off the ability to have HoloLens read xxx out loud. [Learn more about using the narrator](voice-commands.md#narrator). 
 - Telemetry. Turn on or off the ability to have HoloLens do x. [Learn more about data opt out](hololens-data-opt-out.md)
 
 Use can also use the **Settings** screen to access documentation and how-to videos (**Help** button), access policy and license links (**Links** button), or determine which version of the HoloLens app you're using (**About** button).
