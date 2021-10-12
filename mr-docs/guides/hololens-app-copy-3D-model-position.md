@@ -1,6 +1,6 @@
 
 
-# Copy and paste a 3D model's position
+# Copy and a 3D model's position in the Dynamics 365 Guides HoloLens app
 
 When working with the Microsoft Dynamics 365 Guides HoloLens app, sometimes you might want to duplicate a 3D model and keep the same position, orientation, and scale for 
 different steps of a guide. This is especailly useful for fully digital guides where instructions are placed on top of the holographic versions of a machine that must be 
