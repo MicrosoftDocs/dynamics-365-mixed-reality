@@ -28,6 +28,6 @@ You can start a call after you open a guide, open a guide after placing a call, 
 
     ![Screen shot of call controls.](media/active-call-window.PNG "Screen shot of call controls") 
     
-## Reopen the Call window
+## Reopen the Call activity window
 
 The **Call activity** window doesn't follow you around in your environment like the instruction card, but you can easily bring the **Call** window up at any time by looking at your palm to open the Main menu. [Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
