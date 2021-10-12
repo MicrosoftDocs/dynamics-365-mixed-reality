@@ -117,19 +117,13 @@ of purpose be included on the same "printed page" as the copyright notice for ea
 
 Copyright [yyyy] [name of copyright owner]
 
-Licensed under the Apache License, Version 2.0 (the "License");
-
-you may not use this file except in compliance with the License.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 
 You may obtain a copy of the License at
 
 http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
-
-distributed under the License is distributed on an "AS IS" BASIS,
-
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
 See the License for the specific language governing permissions and limitations under the License.
 
@@ -204,8 +198,8 @@ Unless required by applicable law or agreed to in writing, software distributed 
 See the License for the specific language governing permissions and limitations under the License.
 
 ## 3. Autofac 4.9.2 - MIT
-    - Copyright 2015 Autofac
-    - (c) 2008 VeriSign, Inc.
+   - Copyright 2015 Autofac
+   - (c) 2008 VeriSign, Inc.
 
 The MIT License (MIT)
 
@@ -232,9 +226,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 4. Microsoft.IdentityModel.Clients.ActiveDirectory 3.19.6 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - Copyright (c) Microsoft Corporation.
-    - Copyright (c) Microsoft Corporation.
+   - (c) 2008 VeriSign, Inc.
+   - Copyright (c) Microsoft Corporation.
+   - Copyright (c) Microsoft Corporation.
 
 The MIT License (MIT)
 
@@ -261,13 +255,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 5. Microsoft.Net.UWPCoreRuntimeSdk 2.2.3 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - Copyright Mem16Bit GetBit
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation.
-    - Copyright (c) The Internet Society (2003).
-    - CopyrightTableDirectory BoundImportTableDirectory DelayImportTableDirectory
+   - (c) 2008 VeriSign, Inc.
+   - Copyright Mem16Bit GetBit
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation.
+   - Copyright (c) The Internet Society (2003).
+   - CopyrightTableDirectory BoundImportTableDirectory DelayImportTableDirectory
 
 The MIT License (MIT)
 
@@ -294,21 +288,21 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 6. Microsoft.NETCore.Platforms 2.1.0 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2011, Google Inc.
-    - (c) 1997-2005 Sean Eron Anderson.
-    - Copyright (c) 1991-2017 Unicode, Inc.
-    - Portions (c) International Organization
-    - Copyright (c) 2015 The Chromium Authors.
-    - Copyright (c) 2004-2006 Intel Corporation
-    - Copyright (c) .NET Foundation Contributors
-    - Copyright (c) .NET Foundation and Contributors
-    - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
-    - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
-    - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
-    - Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
-    - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2011, Google Inc.
+   - (c) 1997-2005 Sean Eron Anderson.
+   - Copyright (c) 1991-2017 Unicode, Inc.
+   - Portions (c) International Organization
+   - Copyright (c) 2015 The Chromium Authors.
+   - Copyright (c) 2004-2006 Intel Corporation
+   - Copyright (c) .NET Foundation Contributors
+   - Copyright (c) .NET Foundation and Contributors
+   - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
+   - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
+   - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
+   - Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+   - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
 
 The MIT License (MIT)
 
@@ -335,12 +329,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 7. Microsoft.NETCore.UniversalWindowsPlatform 6.1.9 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation
-    - Copyright Unmanaged32Bit Required32Bit
-    - Copyright (c) The Internet Society (2003).
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation
+   - Copyright Unmanaged32Bit Required32Bit
+   - Copyright (c) The Internet Society (2003).
 
 The MIT License (MIT)
 
@@ -367,11 +361,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 8. Microsoft.OData.Edm 7.5.4 - MIT
-    - Copyright (c) OASIS
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) Microsoft Corporation.
-    - Copyright (c) Microsoft Corporation.
+   - Copyright (c) OASIS
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) Microsoft Corporation.
+   - Copyright (c) Microsoft Corporation.
 
 The MIT License (MIT)
 
@@ -398,9 +392,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 9. Microsoft.Rest.ClientRuntime 2.3.20 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) Microsoft Corporation
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) Microsoft Corporation
 
 The MIT License (MIT)
 
@@ -427,9 +421,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 10. Microsoft.Rest.ClientRuntime.Azure 3.3.18 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) Microsoft Corporation
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) Microsoft Corporation
 
 The MIT License (MIT)
 
@@ -456,10 +450,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 11. Microsoft.Spatial 7.5.4 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) Microsoft Corporation.
-    - Copyright (c) Microsoft Corporation.
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) Microsoft Corporation.
+   - Copyright (c) Microsoft Corporation.
 
 The MIT License (MIT)
 
@@ -486,8 +480,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 12. Microsoft.Toolkit 5.1.1 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) .NET Foundation and Contributors.
+   - (c) 2008 VeriSign, Inc.
+   - (c) .NET Foundation and Contributors.
 
 The MIT License (MIT)
 
@@ -514,8 +508,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 13. Microsoft.Toolkit.Parsers 5.1.1 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) .NET Foundation and Contributors.
+   - (c) 2008 VeriSign, Inc.
+   - (c) .NET Foundation and Contributors.
 
 The MIT License (MIT)
 
@@ -542,8 +536,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 14. Microsoft.Toolkit.Uwp 5.1.1 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) .NET Foundation and Contributors.
+   - (c) 2008 VeriSign, Inc.
+   - (c) .NET Foundation and Contributors.
 
 The MIT License (MIT)
 
@@ -570,8 +564,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 15. Microsoft.Toolkit.Uwp.UI 5.1.1 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) .NET Foundation and Contributors.
+   - (c) 2008 VeriSign, Inc.
+   - (c) .NET Foundation and Contributors.
 
 The MIT License (MIT)
 
@@ -598,9 +592,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 16. Microsoft.Xaml.Behaviors.Uwp.Managed 2.0.0 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - Copyright (c) Microsoft.
-    - Copyright (c) Microsoft Corporation Behavior Action Behaviors Actions Blend Managed C Interaction Interactivity Interactions
+   - (c) 2008 VeriSign, Inc.
+   - Copyright (c) Microsoft.
+   - Copyright (c) Microsoft Corporation Behavior Action Behaviors Actions Blend Managed C Interaction Interactivity Interactions
 
 The MIT License (MIT)
 
@@ -627,12 +621,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 17. MvvmLightLibsStd10 5.4.1.1 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - Copyright 2009-2018 Laurent Bugnion
-    - Copyright (c) Microsoft Corporation.
-    - Copyright (c) Microsoft Corporation.
-    - Copyright GalaSoft Laurent Bugnion 2009-2018
-    - Copyright GalaSoft Laurent Bugnion 2009-2018 http://www.galasoft.ch/mvvmlight
+   - (c) 2008 VeriSign, Inc.
+   - Copyright 2009-2018 Laurent Bugnion
+   - Copyright (c) Microsoft Corporation.
+   - Copyright (c) Microsoft Corporation.
+   - Copyright GalaSoft Laurent Bugnion 2009-2018
+   - Copyright GalaSoft Laurent Bugnion 2009-2018 http://www.galasoft.ch/mvvmlight
 
 The MIT License (MIT)
 
@@ -659,9 +653,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 18. NETStandard.Library 2.0.0 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - Copyright Unmanaged32Bit Required32Bit
-    - Copyright (c) .NET Foundation and Contributors
+   - (c) 2008 VeriSign, Inc.
+   - Copyright Unmanaged32Bit Required32Bit
+   - Copyright (c) .NET Foundation and Contributors
 
 The MIT License (MIT)
 
@@ -714,7 +708,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 20. Newtonsoft.Json 10.0.3 - MIT
-    - Copyright (c) 2007 James Newton-King
+   - Copyright (c) 2007 James Newton-King
 
 The MIT License (MIT)
 
@@ -793,11 +787,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 23. runtime.win10-arm-aot.Microsoft.NETCore.UniversalWindowsPlatform 6.2.3 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation
-    - Copyright (c) The Internet Society (2003).
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation
+   - Copyright (c) The Internet Society (2003).
 
 The MIT License (MIT)
 
@@ -824,11 +818,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 24. runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk 2.2.3 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation.
-    - Copyright (c) The Internet Society (2003).
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation.
+   - Copyright (c) The Internet Society (2003).
 
 The MIT License (MIT)
 
@@ -855,11 +849,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 25. runtime.win10-arm.Microsoft.NETCore.UniversalWindowsPlatform 6.2.3 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation
-    - Copyright (c) The Internet Society (2003).
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation
+   - Copyright (c) The Internet Society (2003).
 
 The MIT License (MIT)
 
@@ -886,11 +880,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 26. runtime.win10-arm64-aot.Microsoft.NETCore.UniversalWindowsPlatform 6.2.3 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation
-    - Copyright (c) The Internet Society (2003).
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation
+   - Copyright (c) The Internet Society (2003).
 
 The MIT License (MIT)
 
@@ -917,11 +911,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 27. runtime.win10-x64-aot.Microsoft.NETCore.UniversalWindowsPlatform 6.2.3 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation
-    - Copyright (c) The Internet Society (2003).
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation
+   - Copyright (c) The Internet Society (2003).
 
 The MIT License (MIT)
 
@@ -948,11 +942,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 28. runtime.win10-x64.Microsoft.Net.UWPCoreRuntimeSdk 2.2.3 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation.
-    - Copyright (c) The Internet Society (2003).
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation.
+   - Copyright (c) The Internet Society (2003).
 
 The MIT License (MIT)
 
@@ -1031,11 +1025,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 31. runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk 2.2.3 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation.
-    - Copyright (c) The Internet Society (2003).
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation.
+   - Copyright (c) The Internet Society (2003).
 
 The MIT License (MIT)
 
@@ -1062,11 +1056,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 32. runtime.win10-x86.Microsoft.NETCore.UniversalWindowsPlatform 6.2.3 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2015 .NET Foundation
-    - Copyright (c) Microsoft Corporation
-    - Copyright (c) The Internet Society (2003).
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2015 .NET Foundation
+   - Copyright (c) Microsoft Corporation
+   - Copyright (c) The Internet Society (2003).
 
 The MIT License (MIT)
 
@@ -1093,21 +1087,21 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 33. System.Numerics.Vectors 4.5.0 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2011, Google Inc.
-    - (c) 1997-2005 Sean Eron Anderson.
-    - Copyright (c) 1991-2017 Unicode, Inc.
-    - Portions (c) International Organization
-    - Copyright (c) 2015 The Chromium Authors.
-    - Copyright (c) 2004-2006 Intel Corporation
-    - Copyright (c) .NET Foundation Contributors
-    - Copyright (c) .NET Foundation and Contributors
-    - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
-    - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
-    - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
-    - Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
-    - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2011, Google Inc.
+   - (c) 1997-2005 Sean Eron Anderson.
+   - Copyright (c) 1991-2017 Unicode, Inc.
+   - Portions (c) International Organization
+   - Copyright (c) 2015 The Chromium Authors.
+   - Copyright (c) 2004-2006 Intel Corporation
+   - Copyright (c) .NET Foundation Contributors
+   - Copyright (c) .NET Foundation and Contributors
+   - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
+   - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
+   - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
+   - Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+   - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
 
 The MIT License (MIT)
 
@@ -1134,21 +1128,21 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 34. System.Security.AccessControl 4.5.0 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2011, Google Inc.
-    - (c) 1997-2005 Sean Eron Anderson.
-    - Copyright (c) 1991-2017 Unicode, Inc.
-    - Portions (c) International Organization
-    - Copyright (c) 2015 The Chromium Authors.
-    - Copyright (c) 2004-2006 Intel Corporation
-    - Copyright (c) .NET Foundation Contributors
-    - Copyright (c) .NET Foundation and Contributors
-    - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
-    - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
-    - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
-    - Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
-    - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2011, Google Inc.
+   - (c) 1997-2005 Sean Eron Anderson.
+   - Copyright (c) 1991-2017 Unicode, Inc.
+   - Portions (c) International Organization
+   - Copyright (c) 2015 The Chromium Authors.
+   - Copyright (c) 2004-2006 Intel Corporation
+   - Copyright (c) .NET Foundation Contributors
+   - Copyright (c) .NET Foundation and Contributors
+   - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
+   - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
+   - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
+   - Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+   - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
 
 The MIT License (MIT)
 
@@ -1201,21 +1195,21 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 36. System.Security.Principal.Windows 4.5.0 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - Copyright (c) 2011, Google Inc.
-    - (c) 1997-2005 Sean Eron Anderson.
-    - Copyright (c) 1991-2017 Unicode, Inc.
-    - Portions (c) International Organization
-    - Copyright (c) 2015 The Chromium Authors.
-    - Copyright (c) 2004-2006 Intel Corporation
-    - Copyright (c) .NET Foundation Contributors
-    - Copyright (c) .NET Foundation and Contributors
-    - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
-    - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
-    - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
-    - Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
-    - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - Copyright (c) 2011, Google Inc.
+   - (c) 1997-2005 Sean Eron Anderson.
+   - Copyright (c) 1991-2017 Unicode, Inc.
+   - Portions (c) International Organization
+   - Copyright (c) 2015 The Chromium Authors.
+   - Copyright (c) 2004-2006 Intel Corporation
+   - Copyright (c) .NET Foundation Contributors
+   - Copyright (c) .NET Foundation and Contributors
+   - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
+   - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
+   - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
+   - Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+   - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
 
 The MIT License (MIT)
 
@@ -1242,18 +1236,18 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 37. System.ValueTuple 4.4.0 - MIT
-    - (c) 2008 VeriSign, Inc.
-    - (c) Microsoft Corporation.
-    - (c) 1997-2005 Sean Eron Anderson.
-    - Copyright (c) 1991-2017 Unicode, Inc.
-    - Portions (c) International Organization
-    - Copyright (c) 2004-2006 Intel Corporation
-    - Copyright (c) .NET Foundation Contributors
-    - Copyright (c) .NET Foundation and Contributors
-    - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
-    - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
-    - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
-    - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
+   - (c) 2008 VeriSign, Inc.
+   - (c) Microsoft Corporation.
+   - (c) 1997-2005 Sean Eron Anderson.
+   - Copyright (c) 1991-2017 Unicode, Inc.
+   - Portions (c) International Organization
+   - Copyright (c) 2004-2006 Intel Corporation
+   - Copyright (c) .NET Foundation Contributors
+   - Copyright (c) .NET Foundation and Contributors
+   - Copyright (c) 2011 Novell, Inc (http://www.novell.com)
+   - Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
+   - Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com)
+   - Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers THIS WORK IS PROVIDED AS
 
 The MIT License (MIT)
 
@@ -1280,7 +1274,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 38. SQLite 3.13.0 - NONE
-    - (c) 2008 VeriSign, Inc.
+   - (c) 2008 VeriSign, Inc.
 
 None
 
@@ -1341,7 +1335,7 @@ This license governs use of the accompanying software. If you use the software, 
       (E) The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties, guarantees, or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
       
 ## 41. Microsoft.Diagnostics.Tracing.TraceEvent 2.0.43 - MIT
-    - (c) Microsoft Corporation.
+   - (c) Microsoft Corporation.
 
 MIT License
 
@@ -1488,7 +1482,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
    
 ## 49. Polly 7.2.1 - BSD-3-Clause
-    - (c) 2008 VeriSign, Inc.
+   - (c) 2008 VeriSign, Inc.
    
 Copyright (c) <year> <owner> . All rights reserved.
 
