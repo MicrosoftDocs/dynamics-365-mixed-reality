@@ -46,8 +46,16 @@ Here's what each button or UI element is used for.
 > [!NOTE]
 > Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the computer, to help guarantee that you have the latest version of the guide.
 
-## Test the flow of your guide
+> [!TIP]
+> After you're familiar with the [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in **Operate** mode to see how it flows. As you step through your guide, make a note of things that you want to change in the PC app. For example, you might have to move some steps around, add tasks or steps, or add more supporting assets. In general, it's best to make these changes in the PC app before you start to place holograms, add dotted lines, styles, and so on.  
 
-After you're familiar with the [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in **Operate** mode to see how it flows. As you step through your guide, make a note of things that you want to change in the PC app. For example, you might have to move some steps around, add tasks or steps, or add more supporting assets. In general, it's best to make these changes in the PC app before you start to place holograms, or add dotted lines and styles.  
+## What's next?
+
+- [Place and manipulate holograms](hololens-app-place-holograms.md)
+- [Add a dotted line for a focus area](hololens-app-dotted-line.md)
+- [Use a style to add emphasis](hololens-app-styles.md)
+- [Duplicate a 3D model](hololens-app-duplicate-model.md)
+- [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Create a trigger for step navigation](hololens-app-trigger.md)
     
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
