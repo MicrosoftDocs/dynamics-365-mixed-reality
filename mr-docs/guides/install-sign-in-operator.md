@@ -50,6 +50,16 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 > [!NOTE]
 > If you're a Dynamics 365 Guides admin, you can assign the **Operator** role to operators so that they can view guides but can't edit them. If you assign the **Operator** role to a user, the user can also skip the step in the **Select Mode** dialog box and open a guide directly. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
 
+## Sign out of the HoloLens app in Dynamics 365 Guides version 7.0
+
+If you're using Dynamics 365 Guides version 7.0, you can sign out by using touch.
+
+1. Look at your palm to open the Main menu, and then select the **Profile** button.
+
+    ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
+    
+2. Select **Sign out**. 
+
 ## What's next?
 
 
