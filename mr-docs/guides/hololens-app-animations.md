@@ -29,3 +29,12 @@ You can also configure playback options (speed, direction, and looping options).
     
 > [!NOTE]
 > For information on working with multiple animations in a single 3D model in 3DS Max, see [Use multiple animation clips in a 3DS Max model](https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip).
+
+## What's next?
+
+- [Get oriented with the HoloLens app](hololens-app-orientation.md)
+- [Place and manipulate holograms](hololens-app-place-holograms.md)
+- [Add a dotted line for a focus area](hololens-app-dotted-line.md)
+- [Use styles for emphasis](hololens-app-styles.md)
+- [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Create a trigger for step navigation](hololens-app-trigger.md)
