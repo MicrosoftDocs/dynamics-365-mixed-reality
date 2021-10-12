@@ -66,13 +66,15 @@ If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admi
 
     ![Select Mode dialog box.](media/select-mode.png "Select Mode dialog box")
     
-## Sign out of the HoloLens app
+## Sign out of the HoloLens app in Dynamics 365 Guides version 7.0
 
 If you're using Dynamics 365 Guides version 7.0, you can sign out by using touch.
 
-1. Look at your palm to open the Main menu.
+1. Look at your palm to open the Main menu, and then select the **Profile** button.
 
-
+    ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
+    
+2. Select **Sign out**. 
 
 ## What's next?
 
