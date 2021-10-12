@@ -8,9 +8,9 @@ title: Place holograms in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 
-# Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
+# Get oriented with the Dynamics 365 Guides HoloLens app (for authors)
 
-After you anchor your guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app in **Author** mode, you will see the Step card page. The Step card is the hub of everything that you do with your guide. It's also what your operators see when they use the guide. The Step card follows the operators around to keep the instructions where they need them as they move around their workspace.
+If you're a Microsoft Dynamics 365 Guides author, after you anchor your guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app, you'll see the Step card page. The Step card is the hub of everything that you do with your guide. It's also what your operators see when they use the guide. The Step card follows the operators around to keep the instructions where they need them as they move around their workspace.
 
 You and your operators can move through a guide by gazing at the **Next** and **Back** buttons. If you select the **Back** button, it returns you to the most-recently-visited step (similar to a web browser **Back** button). You can also use gestures such as air tap. 
 
@@ -19,9 +19,9 @@ You and your operators can move through a guide by gazing at the **Next** and **
 > [!TIP]
 > When you switch between the PC app and the HoloLens app, select **Refresh** to make sure that you have the latest version of the guide.
 
-## Get oriented with the Step card page
+## Step card page overview
 
-The following illustration shows the different user interface (UI) elements of the Step card page in the [!include[pn-hololens](../includes/pn-hololens.md)] app.
+The following illustration shows the different user interface elements of the HoloLens app Step card page.
 
 ![HoloLens buttons.](media/step-card-orientation-2.PNG "HoloLens buttons")
 
