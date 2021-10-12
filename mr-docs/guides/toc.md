@@ -89,6 +89,7 @@
 #### HoloLens gestures for authoring and navigating
 ##### [HoloLens 1](authoring-gestures.md)
 ##### [HoloLens 2](authoring-gestures-HL2.md)
+#### [Change a setting](change-setting.md)
 #### [Voice commands](voice-commands.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 
@@ -123,6 +124,7 @@
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
 #### [HoloLens 2](operator-gestures-HL2.md)
+### [Change a setting](change-setting.md)
 #### [Voice commands](voice-commands.md)
 
 ## Analyze your guides
