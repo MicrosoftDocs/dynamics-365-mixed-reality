@@ -1,6 +1,6 @@
 
 
-# Place your holograms with the Dynamics 365 Guides HoloLens app
+# Place your holograms in the Dynamics 365 Guides HoloLens app
 
 After [creating a guide with the PC app](create-guide.md) in Microsoft Dynamics 365 Guides, the next step in the authoring process is to place the holograms in your real-world 
 environment. During this stage of the process, you walk through each step in your guide and place any assets that you associated with that step when you authored 
