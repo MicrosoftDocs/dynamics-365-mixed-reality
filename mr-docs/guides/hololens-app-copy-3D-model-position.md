@@ -41,4 +41,5 @@ The reference point used by **Copy 3D position** is the pivot point of the objec
 - [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 - [Use styles for emphasis](hololens-app-styles.md)
 - [Duplicate a 3D model](hololens-app-duplicate-model.md)
+- [Change animation options](hololens-app-animations.md)
 - [Create a trigger for step navigation](hololens-app-trigger.md)
