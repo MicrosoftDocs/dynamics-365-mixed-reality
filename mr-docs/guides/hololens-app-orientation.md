@@ -99,6 +99,24 @@ You can place a 3D model from the 3D toolkit in the same way that you place a 3D
 
     The item is added to your bin, and you can then place it in the same way that you place a 3D part.
 
+### Memory constraints when adding 3D models
+
+When you author each guide step, you'll see a warning if the step complexity will likely result in a poor experience for the operator of the guide. 
+
+ADD SCREENSHOT HERE SHOWING FIRST MESSAGE
+
+If you see the "Warning! High step memory usage" message, the 3D models you place in the step will be displayed but the operator may have a degraded experience (the guide may have low frame rates or there may be noticeable loading times when moving between steps). 
+
+If you continue to add 3D models and HoloLens reaches its memory limit, you'll see the "Step content failed to load" message.
+
+ADD SCREENSHOT HERE SHOWING MESSAGE
+
+At this point, any additional 3D model that you place will appear as an error icon. 
+
+ADD SCREENSHOT HERE SHOWING EXAMPLE
+
+For information on reducing step complexity, see [Optimize your 3D models to use with Dynamics 365 Guides and Power Apps](https://docs.microsoft.com/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models).
+
 ### Best practices for working with 3D content
 
 - Make sure that the 3D content isn't in the way of the operator who is doing the task.
