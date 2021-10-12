@@ -117,3 +117,14 @@ The following illustrations show how to use the different rotation controls.
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can pinch the **Scale Hologram** control with your hand, and then move it up or down to change the size of the hologram.
+
+## What's next?
+
+- [Get oriented with the HoloLens app](hololens-app-orientation.md)
+- [Add a dotted line for a focus area](hololens-app-dotted-line.md)
+- [Use a style to add emphasis](hololens-app-styles.md)
+- [Duplicate a 3D model](hololens-app-duplicate-model.md)
+- [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Create a trigger for step navigation](hololens-app-trigger.md)
+    
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
