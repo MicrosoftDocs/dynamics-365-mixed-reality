@@ -87,6 +87,7 @@
 ##### [Place and manipulate holograms](hololens-app-place-holograms.md)
 ##### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 ##### [Use a style to add emphasis to a hologram](hololens-app-styles.md)
+##### [Duplicate a 3D model](hololens-app-duplicate-model.md)
 ##### [Create and place a trigger for step navigation](hololens-app-trigger.md)
 #### [Make a call](make-call.md)
 #### HoloLens gestures for authoring and navigating
