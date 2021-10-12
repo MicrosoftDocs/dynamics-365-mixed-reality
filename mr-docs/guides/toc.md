@@ -89,6 +89,7 @@
 ##### [Use a style to add emphasis to a hologram](hololens-app-styles.md)
 ##### [Duplicate a 3D model](hololens-app-duplicate-model.md)
 ##### [Copy 3D model position](hololens-app-copy-3D-model-position.md)
+##### [Change animation options](hololens-app-animations.md)
 ##### [Create and place a trigger for step navigation](hololens-app-trigger.md)
 #### [Make a call](make-call.md)
 #### HoloLens gestures for authoring and navigating
