@@ -21,7 +21,7 @@ You (and your operators) move through a guide by gazing at the **Next** and **Ba
 
 ## Step card page overview
 
-The following illustration shows the different user interface elements of the HoloLens app Step card page.
+The following illustration shows the different user interface elements for the Step card page.
 
 ![HoloLens buttons.](media/step-card-orientation-2.PNG "HoloLens buttons")
 
