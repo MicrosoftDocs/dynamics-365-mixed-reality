@@ -48,6 +48,6 @@ Here's what each button or UI element is used for.
 
 ## Test the flow of your guide
 
-After you're oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in **Operate** mode to see how it flows. As you step through your guide, make a note of things that you want to change in the PC app. For example, you might have to move some steps around, add tasks or steps, or add more supporting assets. In general, it's best to make these changes in the PC app before you start to place holograms, tethers, and styles.  
+After you're familiar with the [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in **Operate** mode to see how it flows. As you step through your guide, make a note of things that you want to change in the PC app. For example, you might have to move some steps around, add tasks or steps, or add more supporting assets. In general, it's best to make these changes in the PC app before you start to place holograms, or add dotted lines and styles.  
     
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
