@@ -22,7 +22,7 @@ You can start a call after you open a guide, open a guide after placing a call, 
     
 3. Select the **Call** button. To go back to the **Recent people** screen, select the **Back** button. 
 
-    ![Call contact screen.](media/call-contact.PNG "Call contact screen")
+    ![Call contact screen.](media/call-contact-screen.PNG "Call contact screen")
 
 While you're on the call, you can use the call controls below the **Call** window to turn your video feed off or on, to mute or unmute yourself, or to end the call.
 
