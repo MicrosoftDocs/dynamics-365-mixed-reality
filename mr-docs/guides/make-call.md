@@ -12,7 +12,7 @@ You can start a call after you open a guide, open a guide after placing a call, 
 
 ## Make a call
 
-1. Look at the palm of your hand to open the Main menu, and then select the **Call** button.
+1. Look at the palm of your hand to open the Main menu, and then select the **Call activity** button.
 
     ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
     
@@ -30,4 +30,4 @@ You can start a call after you open a guide, open a guide after placing a call, 
     
 ## Reopen the Call window
 
-The Call window doesn't follow you around in your environment like the instruction card, but you can easily bring the **Call** window up at any time by looking at your palm to open the Main menu. [Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
+The **Call activity** window doesn't follow you around in your environment like the instruction card, but you can easily bring the **Call** window up at any time by looking at your palm to open the Main menu. [Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
