@@ -83,7 +83,8 @@
 #### [Find and open a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### Work with a guide
-##### [Place holograms, add styles, and more](hololens-app-orientation.md)
+##### [Get oriented with the HoloLens app](hololens-app-orientation.md)
+##### [Place and manipulate holograms](hololens-app-place-holograms.md)
 ##### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 ##### [Create and place a trigger for step navigation](hololens-app-trigger.md)
 #### [Make a call](make-call.md)
