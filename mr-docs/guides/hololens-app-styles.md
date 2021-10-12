@@ -58,4 +58,5 @@ Here's a list of the styles that are included in [!include[pn-dyn-365-guides](..
 - [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 - [Duplicate a 3D model](hololens-app-duplicate-model.md)
 - [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Change animation options](hololens-app-animations.md)
 - [Create a trigger for step navigation](hololens-app-trigger.md)
