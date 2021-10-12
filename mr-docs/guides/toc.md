@@ -86,6 +86,7 @@
 ##### [Get oriented with the HoloLens app](hololens-app-orientation.md)
 ##### [Place and manipulate holograms](hololens-app-place-holograms.md)
 ##### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
+##### [Use a style to add emphasis to a hologram](hololens-app-styles.md)
 ##### [Create and place a trigger for step navigation](hololens-app-trigger.md)
 #### [Make a call](make-call.md)
 #### HoloLens gestures for authoring and navigating
