@@ -88,7 +88,7 @@
 ##### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 ##### [Use a style to add emphasis to a hologram](hololens-app-styles.md)
 ##### [Duplicate a 3D model](hololens-app-duplicate-model.md)
-##### [Copy 3D model position](hololens-app-copy-3D-model-position.md)
+##### [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
 ##### [Change animation options](hololens-app-animations.md)
 ##### [Create and place a trigger for step navigation](hololens-app-trigger.md)
 #### [Make a call](make-call.md)
