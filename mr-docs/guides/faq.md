@@ -144,15 +144,15 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 
 [Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
 
-## Why does the app require permissions to launch?
+## Why does the the version 7.0 HoloLens app require permissions to launch?
 
-Dynamics 365 Guides includes advanced features that rely on eye-tracking, voice, and camera to function properly. For example, you need eye tracking to access the main menu (appears when you look at your palm). This is intended to prevent false positives so the menu doesn't appear at the wrong time. Similarly, without microphone access, voice commands won’t work. Without camera access, you can't anchor a guide or make a video call.
+Dynamics 365 Guides version 7.0 includes advanced features that rely on eye-tracking, voice, and camera to function properly. For example, you need eye tracking to access the Main menu (appears when you look at your palm). This is intended to prevent false positives so the menu doesn't appear at the wrong time. Similarly, without microphone access, voice commands won’t work. Without camera access, you can't anchor a guide or make a video call.
 
 ## Why can't I make a video call?
 
-If you can’t make a video call, it could be because:
+If you're using Dynamics 365 Guides version 7.0 or later and you can’t make a video call, it could be because:
 
--	Your admin has [disabled the option directly from the Guides web portal](!!!ADD LINK!!!). 
+-	Your admin has [disabled the option directly from the Guides web portal](admin-mda-settings-environment-enable-calls.md). 
 
 -	The appropriate Microsoft Teams license has not been assigned to you. [Learn more about licensing requirements](requirements.md).
 

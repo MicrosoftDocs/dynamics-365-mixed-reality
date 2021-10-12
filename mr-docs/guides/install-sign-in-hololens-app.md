@@ -31,8 +31,10 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 After you've made sure that your [HoloLens is correctly calibrated](hololens-app-calibrate.md), you can open the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
+If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admin, you can assign **Author** and **Operator** roles to limit the features that are available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
+
 > [!NOTE]
-> If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admin, you can assign **Author** and **Operator** roles to limit the features that are available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
+> If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md). 
 
 1. Select **All Apps**.
 
@@ -63,6 +65,16 @@ After you've made sure that your [HoloLens is correctly calibrated](hololens-app
 9. In the **Select Mode** dialog box, gaze at the circle to the left of **Author** to select it.
 
     ![Select Mode dialog box.](media/select-mode.png "Select Mode dialog box")
+    
+## Sign out of the HoloLens app in Dynamics 365 Guides version 7.0
+
+If you're using Dynamics 365 Guides version 7.0, you can sign out by using touch.
+
+1. Look at your palm to open the Main menu, and then select the **Profile** button.
+
+    ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
+    
+2. Select **Sign out**. 
 
 ## What's next?
 
