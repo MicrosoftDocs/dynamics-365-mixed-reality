@@ -65,6 +65,14 @@ If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admi
 9. In the **Select Mode** dialog box, gaze at the circle to the left of **Author** to select it.
 
     ![Select Mode dialog box.](media/select-mode.png "Select Mode dialog box")
+    
+## Sign out of the HoloLens app
+
+If you're using Dynamics 365 Guides version 7.0, you can sign out by using touch.
+
+1. Look at your palm to open the Main menu.
+
+
 
 ## What's next?
 
