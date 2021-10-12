@@ -33,3 +33,12 @@ present and identical for several steps.
 ### Using Copy 3D position to reconstruct CAD assemblies
 
 The reference point used by **Copy 3D position** is the pivot point of the object, which might be different from the center of the transparent white-bounding sphere shown for selection and movement purposes. This enables you to rapidly reconstruct Computer-aided Design (CAD) assemblies that you import into Dynamics 365 Guides as separate models and that share the same pivot point. After importing, position, orient, and scale one of the assembly models, and then copy/paste the 3D position onto the other assembly models to reconstruct the whole CAD assembly very quickly. 
+
+## What's next?
+
+- [Get oriented with the HoloLens app](hololens-app-orientation.md)
+- [Place and manipulate holograms](hololens-app-place-holograms.md)
+- [Add a dotted line for a focus area](hololens-app-dotted-line.md)
+- [Use styles for emphasis](hololens-app-styles.md)
+- [Duplicate a 3D model](hololens-app-duplicate-model.md)
+- [Create a trigger for step navigation](hololens-app-trigger.md)
