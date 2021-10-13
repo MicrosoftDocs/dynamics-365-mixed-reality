@@ -9,7 +9,7 @@ added a 3D object from the 3D toolkit (for example, an arrow or a number), you'l
 user's attention. You can place the same 3D part or 3D object as many times as you want.
 
 > [!TIP]
-> You don't have to do anything to place an image or video associated with a step. They automatically appear when the operator goes to the step.
+> You don't have to do anything to place an image or video associated with a step. Images and videos automatically appear when the operator goes to the step.
 
 ## Place a 3D part
 
