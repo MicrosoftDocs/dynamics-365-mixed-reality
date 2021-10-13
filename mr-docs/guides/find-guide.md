@@ -60,4 +60,8 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 
     5. To exit search and return to the main guides list, gaze at the **Back** button.
 
+## What's next?
+
+- [Learn more about the Main menu](main-menu.md)
+- [Learn how to create folders if you're an admin or an author](create-folders.md)
 
