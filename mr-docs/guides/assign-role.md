@@ -97,7 +97,7 @@ To assign user roles:
 
 ## Troubleshooting
 
-If users don't appear on the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. Users added to the instance should appear in the user list within a few minutes.
+If users don't appear in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. Users added to the instance should appear in the user list within a few minutes.
 
 ![Adding a user in Power Platform admin center.](media/select-manage-users2.PNG "Adding a user in Power Platform admin center")
 
