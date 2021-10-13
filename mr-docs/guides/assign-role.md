@@ -51,7 +51,7 @@ To assign user roles:
 
     ![Manage team members.](media/access-teams-17.PNG "Manage team members")
 
-6. Select **Add members to the team**
+6. Select **Add members to the team**.
 
     ![Add members to the team.](media/access-teams-17A.PNG "Add members to the team")
 
