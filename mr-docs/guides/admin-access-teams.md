@@ -80,7 +80,7 @@ A user can be associated with more than one access team.
 
     ![New team settings.](media/access-teams-16.PNG "New team settings")
 
-5. To add users to the team, select the ellipsis next to the team name and select **Manage team members**.
+5. To add users to the team, select the **More information** (...) button next to the team name, and then select **Manage team members**.
 
     ![Manage team members.](media/access-teams-17.PNG "Manage team members")
 
