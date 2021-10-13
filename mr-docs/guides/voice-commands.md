@@ -61,8 +61,8 @@ SCREEN SHOT GOES HERE
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Show main menu" | Open the Main menu in the view. |
-| 2 | "Hide main menu" | Hide the Main menu from the view. |
+| 1 | "Show main menu" | Open the Main menu or bring it to you. |
+| 2 | "Hide main menu" | Hide the Main menu. |
 | 3 | "Show Work" | Open the Work activity to see your guides and folders. |
 | 4 | "Show Call" | Open the Call activity to see your contacts. |
 | 5 | "Show Settings" | Open the **Settings** page. |
