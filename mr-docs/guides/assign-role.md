@@ -47,12 +47,16 @@ To assign user roles:
 
     ![New team settings.](media/access-teams-16.PNG "New team settings")
 
-5. To add users to the team, select the ellipsis next to the team name and select **Manage team members**.
+5. To add users to the team, select the ellipsis button next to the team name, and then select **Manage team members**.
 
     ![Manage team members.](media/access-teams-17.PNG "Manage team members")
+
 6. Select **Add members to the team**
+
     ![Add members to the team.](media/access-teams-17A.PNG "Add members to the team")
+
 7. Use the search box to add one or more members to the team.
+
     ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
 
 
