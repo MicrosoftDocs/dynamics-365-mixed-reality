@@ -65,7 +65,7 @@ To assign user roles:
 
 8. Follow one of these steps:
 
-    - If the users are already in the list, skip ahead to step 6 to assign user roles.
+    - If the users are already in the list, skip ahead to step 12 to assign user roles.
 
     - If you want to add one or more users, select **Add user** at the top of the page, enter the account details in the **Add user** dialog box, and then select **Add**. For more information, see the "Troubleshooting" section later in this article.
 
