@@ -92,7 +92,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
     ![Teams button.](media/access-teams-14.PNG "Teams button")
  
-3. Choose the team to modify, select the **Team options** (**...**) ellipsis button.
+3. Choose the team to modify, select the **Team options** (ellipsis) button.
 
     ![select team options.](media/power-platform-admin-center-env-teams.png "select team options")
 
