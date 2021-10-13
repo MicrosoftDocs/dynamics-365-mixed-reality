@@ -82,7 +82,7 @@
 #### [About the Main menu (version 7.0)](main-menu.md)
 #### [Find and open a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
-#### Work with a guide
+#### Work with holograms
 ##### [Get oriented with the HoloLens app](hololens-app-orientation.md)
 ##### [Place and manipulate holograms](hololens-app-place-holograms.md)
 ##### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
