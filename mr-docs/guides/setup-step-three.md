@@ -55,6 +55,9 @@ We recommend that you update HoloLens to newer versions when they become availab
 > [!NOTE]
 > If you're an author, see [Install, open, and sign in to the HoloLens app](install-sign-in-hololens-app.md) for information about how to open and sign in to the app. If you're an operator, see [Install, open, and sign in to the HoloLens app](install-sign-in-operator.md).
 
+> [!IMPORTANT]
+> HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. 
+
 ## Distribute the apps through Microsoft Store for Business
 
 1. Open [Microsoft Store for Business](https://businessstore.microsoft.com/store).
