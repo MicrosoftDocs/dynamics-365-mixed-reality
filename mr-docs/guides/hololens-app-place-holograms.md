@@ -15,7 +15,7 @@ user's attention. You can place the same 3D part or 3D object as many times as y
 
 1. In the bin, air tap the 3D part that you want to place.
 
-2. Use gaze and gestures to place the 3D part hologram over its counterpart in the real world. For information about how to manipulate holograms by using gaze and gestures, see the [Manipulating holograms](#manipulate) section later in this topic.
+2. Use gaze and gestures to place the 3D part hologram over its counterpart in the real world. For information on manipulating holograms by using gaze and gestures, see the [Manipulating holograms](#manipulate) section later in this topic.
 
 ## Place a 3D model from the 3D toolkit
 
@@ -57,7 +57,7 @@ For information on reducing step complexity, see [Optimize your 3D models to use
 
 - Remember that you can attach a tether to 3D content to make it more discoverable.
 
-## Manipulate holograms in the Dynamics 365 Guides HoloLens app
+## Manipulate holograms 
 
 To place a 3D model from one of your bins, follow these steps.
 
