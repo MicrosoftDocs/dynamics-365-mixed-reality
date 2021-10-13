@@ -22,5 +22,5 @@ When you create a guide in the PC authoring app, the content is stored in Micros
 
 ## Limit access to the model-driven app
 
-The Guides model-driven app is a type of app created in Microsoft Power Apps. It's common for organizations to limit users who can access the model-driven app. You can do this by sharing the app with individual users, or by sharing it with one or more Azure Active Directory Groups. See [Share a model-driven app using Power Apps](https://docs.microsoft.com/powerapps/maker/model-driven-apps/share-model-driven-app) for detailed steps on either option. 
+The Guides model-driven app is a type of app created in Microsoft Power Apps.  Organizations may limit users who can access the model-driven app, but a user must be able to access the model-driven app to use the Guides HoloLens or PC app.  You can limit access by sharing the app with individual users, or by sharing it with one or more Azure Active Directory Groups. See [Share a model-driven app using Power Apps](https://docs.microsoft.com/powerapps/maker/model-driven-apps/share-model-driven-app) for detailed steps on either option. 
  
