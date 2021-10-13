@@ -55,7 +55,7 @@ To assign user roles:
 
     ![Add members to the team.](media/access-teams-17A.PNG "Add members to the team")
 
-7. Use the search box to add one or more members to the team.
+7. Use the search box to add one or more members to the team, and then select **Add**.
 
     ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
 
