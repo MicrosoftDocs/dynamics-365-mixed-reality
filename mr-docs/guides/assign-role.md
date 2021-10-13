@@ -43,7 +43,7 @@ To assign user roles:
 
     ![Create Team.](media/access-teams-15.PNG "Create Team")
 
-4. In the **Create team** page, set the **Team name**, **Business unit** and **Administrator** fields.  Change the value of the **Team Type** field to **Access**, and then select **Save**.
+4. On the right side of the screen, under **New team**, set the **Team name**, **Business unit**, and **Administrator** fields. Change the value of the **Team type** field to **Access**, and then select **Next**.
 
     ![New team settings.](media/access-teams-16.PNG "New team settings")
 
