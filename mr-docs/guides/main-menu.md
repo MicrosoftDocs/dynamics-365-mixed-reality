@@ -12,7 +12,7 @@ The following table describes the activities available through the buttons on th
 |--------|-------------------------------------------------------------------------------------------------|
 |SCREEN SHOT OF WORK BUTTON WILL GO HERE|Do a work item. Work items include:<br><br>- Select and open a guide.<br>- Search for a guide.<br>- Choose a role (Author or Operator).|
 |SCREEN SHOT OF CALL BUTTON WILL GO HERE|Make a call. Call choices include:<br><br>- Select a contact from the **Recents** list.<br>- Search for a contact.<br>- Start a call and work with the Active Call window.|
-|SCREEN SHOT OF SETTINGS BUTTON WILL GO HERE|Change a setting. You can also use the **Settings** button to access Help topics and videos, learn about policies, and determine which version of the software you're using. |
+|SCREEN SHOT OF SETTINGS BUTTON WILL GO HERE|Change a setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
 |SCREEN SHOT OF PROFILE BUTTON WILL GO HERE| Sign out.|
 
 ## The Main menu is at your beck and call
