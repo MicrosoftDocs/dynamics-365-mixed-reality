@@ -86,7 +86,7 @@ To assign user roles:
     > [!NOTE]
     > You may see a **Common Data Service** check box instead of a **Basic User** check box. If so, select that check box.
 
-12. Select the check box for the appropriate role(s) for the selected users, and then select **OK**.
+12. Select the check box(es) for the appropriate role(s) for the selected user(s), and then select **OK**.
 
     ![Author and Operator check boxes.](media/select-role.PNG "Author and Operator check boxes")
     
