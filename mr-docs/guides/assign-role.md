@@ -79,7 +79,7 @@ To assign user roles:
 
     ![Manage Roles button.](media/select-manage-roles.PNG "Manage Roles button")
 
-11. In the **Manage security roles**, make sure that the **Basic User** check box is selected.
+11. Under **Manage security roles**, make sure that the **Basic User** check box is selected.
 
     ![Basic User check box.](media/basic-user-role.PNG "Basic User check box")
 
