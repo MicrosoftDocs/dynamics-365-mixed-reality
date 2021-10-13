@@ -5,10 +5,11 @@
 After [creating a guide with the PC app](create-guide.md) in Microsoft Dynamics 365 Guides, the next step in the authoring process is to place the holograms in your real-world 
 environment. During this stage of the process, you'll walk through each step in your guide and place any assets that you associated with that step when you authored 
 it in the PC app. For example, if you added a 3D part to help operators with a step, you'll place that part over its physical counterpart in the real world. If you 
-added a 3D object from the 3D toolkit (for example, an arrow or a number), you'll place that object in an appropriate place in the real world, where it can draw the 
-user's focus. You can place the same 3D part or 3D object as many times as you want.
+added a 3D object from the 3D toolkit (for example, an arrow or a number), you'll place that object in an appropriate place where it can draw the 
+user's attention. You can place the same 3D part or 3D object as many times as you want.
 
-You don't have to do anything to place an image or a video associated with a step. They automatically appear when the operator goes to the step.
+> [!TIP]
+> You don't have to do anything to place an image or video associated with a step. They automatically appear when the operator goes to the step.
 
 ## Place a 3D part
 
