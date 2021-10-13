@@ -59,7 +59,6 @@ To assign user roles:
 
     ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
 
-
     > [!IMPORTANT]
     > You can access Dynamics 365 Guides data through the **Guides Hub** tile.  The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, Guide modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
 
@@ -72,7 +71,7 @@ To assign user roles:
         > [!NOTE]
         > Users added to the instance will be added to the user list within a few minutes.
 
-9. Open **Settings** >**Users**
+9. Open **Settings** > **Users**.
 
    ![Manage Users in Dynamics 365 command.](media/select-manage-users.PNG "Manage Users in Dynamics 365 command")
 
