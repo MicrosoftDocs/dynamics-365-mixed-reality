@@ -64,7 +64,7 @@ A user can be associated with more than one access team.
 > [!NOTE]
 > If you or someone else has already created an access team that you want to use, skip ahead to the next procedure.
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) ellipsis button, and then select **Settings**.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (ellipsis **...**) button, and then select **Settings**.
 
     ![Settings command.](media/access-teams-9.PNG "Settings command")
 
