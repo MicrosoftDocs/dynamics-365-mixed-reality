@@ -72,7 +72,7 @@ A user can be associated with more than one access team.
 
     ![Teams button.](media/access-teams-14.PNG "Teams button")
 
-3. Select **Create Team**.
+3. Select **Create team**.
 
     ![New button.](media/access-teams-15.PNG "New button")
 
