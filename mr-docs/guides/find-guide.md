@@ -63,5 +63,5 @@ How you find and open a guide in Dynamics 365 Guides depends on which version yo
 ## What's next?
 
 - [Learn more about the Main menu](main-menu.md)
-- [Learn how to create folders if you're an admin or an author](create-folders.md)
+- [Learn how to create folders if you're an admin or an author](admin-create-folders.md)
 
