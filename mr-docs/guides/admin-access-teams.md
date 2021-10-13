@@ -88,11 +88,9 @@ A user can be associated with more than one access team.
 
     ![Add members to the team.](media/access-teams-17A.PNG "Add members to the team")
 
-7. Use the search box to add one or more members to the team.
+7. On the right side of the screen, under **Add team members**, enter the name(s) of the user(s) that you want to add, and then select **Add**.
 
     ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
-
-6. Enter the name of the user that you want to add, select the **Search** button, and then select the user's name.
 
 ## Share the guide with an access team
 
