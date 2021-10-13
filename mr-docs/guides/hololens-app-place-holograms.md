@@ -15,7 +15,7 @@ user's attention. You can place the same 3D part or 3D object as many times as y
 
 1. In the bin, air tap the 3D part that you want to place.
 
-2. Use gaze and gestures to place the 3D part hologram over its counterpart in the real world. Learn how to [Manipulate holograms](#manipulate-holograms).
+2. Use gaze and gestures to place the 3D part hologram over its counterpart in the real world. [Learn how to manipulate holograms](#manipulate-holograms).
 
 ## Place a 3D model from the 3D toolkit
 
