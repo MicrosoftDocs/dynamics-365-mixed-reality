@@ -19,7 +19,7 @@ user's attention. You can place the same 3D part or 3D object as many times as y
 
 ## Place a 3D model from the 3D toolkit
 
-If you added a 3D model to the bin in the PC app, you can place the 3D model in the same way that you place a 3D part. You can also add a 3D model directly from the [!include[pn-hololens](../includes/pn-hololens.md)] app--you don't have to add it in the PC app first. 
+If you added a 3D model to the bin in the PC app, you can place the 3D model in the same way that you place a 3D part. You can also add a 3D model directly from the [!include[pn-hololens](../includes/pn-hololens.md)] app (you don't have to add it in the PC app first). 
 
 1. Air tap an empty box in the bin.
 
