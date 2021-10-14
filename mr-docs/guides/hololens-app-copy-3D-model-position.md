@@ -28,7 +28,7 @@ present and identical for several steps.
     ![Paste 3D position command.](media/paste-3D-position.PNG "Paste 3D position command")
  
 > [!TIP]
-> You can also use voice commands (say **copy 3D position** and **paste 3D position**) at any time to speed up the process. [See a full list of voice commands that you can use in the HoloLens app](voice-commands.md).
+> You can also use voice commands (say **copy 3D position** and **paste 3D position**) to copy a 3D model's position. [See a full list of voice commands that you can use in the HoloLens app](voice-commands.md).
 
 ### Using Copy 3D position to reconstruct CAD assemblies
 
