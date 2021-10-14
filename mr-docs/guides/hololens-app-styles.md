@@ -1,7 +1,7 @@
 
 
 
-# Add emphasis to your holograms by using styles in the Dynamics 365 Guides HoloLens app
+# Use a style to add emphasis to a hologram in the Dynamics 365 Guides HoloLens app
 
 You can add styles in the Microsoft Dynamics 365 Guides HoloLens app to provide visual cues for your holograms. For example, you can add the **Warning** style to 
 indicate caution or the **Avoid** style to make sure that an operator doesn't do something that could cause harm. As your operators get used to the visual language 
