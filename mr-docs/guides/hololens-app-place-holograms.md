@@ -27,7 +27,7 @@ If you added a 3D model to the bin in the PC app, you can place the 3D model in 
 
     ![Categories.](media/step-card-hands.PNG "Categories")
 
-    The item is added to your bin. You can place it in the same way that you place a 3D part.
+    The item is added to your bin. You can then place it in the same way that you place a 3D part.
 
 ## Memory constraints when adding 3D models
 
