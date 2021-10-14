@@ -8,8 +8,8 @@ it in the PC app. For example, if you added a 3D part to help operators with a s
 added a 3D object from the 3D toolkit (for example, an arrow or a number), you'll place that object in an appropriate place where it can draw the 
 user's attention. You can place the same 3D part or 3D object as many times as you want.
 
-> [!TIP]
-> You don't have to do anything to place an image or video associated with a step. Images and videos automatically appear when the operator goes to the step.
+> [!NOTE]
+> You don't have to do anything to place an image or video that you added in the PC app. Images and videos automatically appear when the operator goes to the step.
 
 ## Place a 3D part
 
