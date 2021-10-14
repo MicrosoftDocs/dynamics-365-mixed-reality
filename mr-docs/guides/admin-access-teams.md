@@ -64,7 +64,7 @@ A user can be associated with more than one access team.
 > [!NOTE]
 > If you or someone else has already created an access team that you want to use, skip ahead to the next procedure.
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (ellipsis **...**) button, and then select **Settings**.
 
     ![Settings command.](media/access-teams-9.PNG "Settings command")
 
@@ -72,25 +72,31 @@ A user can be associated with more than one access team.
 
     ![Teams button.](media/access-teams-14.PNG "Teams button")
 
-3. Select **New**.
+3. Select **Create team**.
 
     ![New button.](media/access-teams-15.PNG "New button")
 
-4. In the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
+4. In the **New team** pane on the right side of the screen, set the **Team name**, **Business unit**, and **Administrator** fields. Change the value of the **Team type** field to **Access**, and then select **Next**.
 
-    ![New team settings.](media/access-teams-16.jpg "New team settings")
+    ![New team settings.](media/access-teams-16.PNG "New team settings")
 
-5. To add users to the team, select the plus sign (**+**) next to the **Team members** list.
+5. To add users to the team, select the **More information** (ellipsis) button next to the team name, and then select **Manage team members**.
 
-    ![Plus sign button.](media/access-teams-17.jpg "Plus sign button")
+    ![Manage team members.](media/access-teams-17.PNG "Manage team members")
 
-6. Enter the name of the user that you want to add, select the **Search** button, and then select the user's name.
+6. Select **Add members to the team**.
+
+    ![Add members to the team.](media/access-teams-17A.PNG "Add members to the team")
+
+7. On the right side of the screen, under **Add team members**, enter the name(s) of the user(s) that you want to add, and then select **Add**.
+
+    ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
 
 ## Share the guide with an access team
 
-1. Go to <https://home.dynamics.com/>.
+1. Go to <https://make.powerapps.com/>.
 
-2. Select **Power Apps**.
+2. Select **Apps**.
 
 3. Under **Your Apps**, select **Guides**.
 
