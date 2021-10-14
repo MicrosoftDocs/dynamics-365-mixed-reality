@@ -43,9 +43,6 @@ Here's what each button or UI element is used for.
 | 12 | ![Gem button for dragging a dotted line.](media/gem.png "Gem button for dragging a dotted line") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
 | 13 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (models) that can be added for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
 
-> [!NOTE]
-> Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the computer, to help guarantee that you have the latest version of the guide.
-
 > [!TIP]
 > After you're familiar with the [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in **Operate** mode to see how it flows. As you step through your guide, make a note of things that you want to change in the PC app. For example, you might have to move some steps around, add tasks or steps, or add more supporting assets. In general, it's best to make these changes in the PC app before you start to place holograms, add dotted lines, styles, and so on.  
 
