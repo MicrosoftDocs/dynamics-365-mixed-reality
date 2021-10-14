@@ -71,7 +71,7 @@ To assign user roles:
         > [!NOTE]
         > Users added to the instance will be added to the user list within a few minutes.
 
-9. Open **Settings** > **Users**.
+9. Go to **Settings** > **Users**.
 
    ![Manage Users in Dynamics 365 command.](media/select-manage-users.PNG "Manage Users in Dynamics 365 command")
 
