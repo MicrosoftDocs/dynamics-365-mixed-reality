@@ -68,10 +68,10 @@ You can edit a trigger the same way you edit any other hologram in the HoloLens 
 ## What’s next?
 
 - [Learn about triggers from an operator’s point of view](hololens-app-orientation.md)
-- [Get oriented with the HoloLens app](hololens-app-orientation.md)
 - [Place and manipulate holograms](hololens-app-place-holograms.md)
 - [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 - [Use styles for emphasis](hololens-app-styles.md)
+- [Duplicate a 3D model](hololens-app-duplicate.md)
 - [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
 - [Change animation options](hololens-app-animations.md)
 
