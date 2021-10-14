@@ -3,7 +3,7 @@
 # Duplicate a 3D model in the Dynamics 365 Guides HoloLens app 
 
 Sometimes when you're working with the Microsoft Dynamics 365 Guides HoloLens app, you might need multiple copies of the same 3D models to point to similar items in the 
-work area. Instead of adding new instances of a 3D model from the asset bin and setting the position and style each time, you can save time by duplicating the 3D model. 
+work area. Instead of adding new instances of a 3D model from the bin and setting the position and style each time, you can save time by duplicating the 3D model. 
 The duplicates will have the same rotation and style settings as the original.
 
 ## Duplicate a 3D model
