@@ -44,7 +44,7 @@ Here's what each button or UI element is used for.
 | 13 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (models) that can be added for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
 
 > [!TIP]
-> After you're familiar with the [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in **Operate** mode to see how it flows. As you step through your guide, make a note of things that you want to change in the PC app. For example, you might have to move some steps around, add tasks or steps, or add more supporting assets. In general, it's best to make these changes in the PC app before you start to place holograms, add dotted lines, styles, and so on.  
+> After you're familiar with the [!include[pn-hololens](../includes/pn-hololens.md)] app, it's a good idea to go through your whole guide in **Operate** mode to see how it flows. As you step through your guide, make a note of things that you want to change in the PC app. For example, you might have to move some steps around, add tasks or steps, or add more holograms. In general, it's best to make these changes in the PC app before you start to place holograms, add dotted lines, styles, and so on.  
 
 ## What's next?
 
