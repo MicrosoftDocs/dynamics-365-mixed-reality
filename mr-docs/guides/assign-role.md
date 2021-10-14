@@ -42,7 +42,7 @@ To assign user roles:
 
     ![Add user.](media/add-user-4.PNG "Add user")
 
-4. Select user and select **Manage security roles**
+4. Select the user, and then select **Manage security roles**.
 
     ![Add user roles.](media/add-user-roles.PNG "Add user roles")
 
