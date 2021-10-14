@@ -26,7 +26,7 @@ that styles provide, their learning process will become faster.
 
     ![List of styles.](media/styles.png "List of styles")
 
-Here's a list of the styles that are included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] and information about when to use each.
+Here's a list of the styles included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] and information about when to use each.
 
 | Style | Purpose | How it appears to the operator |
 |---|---|---|
