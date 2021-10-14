@@ -5,7 +5,7 @@
 
 You can add styles in the Microsoft Dynamics 365 Guides HoloLens app to provide visual cues for your holograms. For example, you can add the **Warning** style to 
 indicate caution or the **Avoid** style to make sure that an operator doesn't do something that could cause harm. As your operators get used to the visual language 
-that styles provide, their learning process will become faster.
+that styles provide, their learning process will speed up.
 
 ## Add a style
 
@@ -46,7 +46,7 @@ Here's a list of the styles included in [!include[pn-dyn-365-guides](../includes
 
 - Use styles to reinforce actions.
 
-- Use styles only for the purpose that they were intended for. After operators learn the visual language of styles, they will know that a particular style means a specific thing, which will speed up their learning process.
+- Use styles only for the purpose that they were intended for. After operators learn the visual language of styles, they'll know that a particular style means a specific thing, which will speed up their learning process.
 
 ## What's next?
 
