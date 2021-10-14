@@ -51,7 +51,7 @@ To assign user roles:
     ![Basic User check box.](media/basic-user-role.PNG "Basic User check box")
 
     
-6. Select the check box(es) for the appropriate role(s) for the selected user(s), and then select **Save**.
+6. Select the check box for the appropriate role, and then select **Save**.
 
     ![Author and Operator check boxes.](media/select-role.PNG "Author and Operator check boxes")
 
