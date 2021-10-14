@@ -16,7 +16,7 @@ feature; they show operators where to focus.
     ![Placing a dotted line.](media/place-tether.PNG "Placing a dotted line")
 
     > [!TIP]
-    > Placement isn't exact. Therefore, if you're connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (for example, a number) at the end of the dotted line.
+    > Placement isn't exact. If you're connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (for example, a number) at the end of the dotted line.
 
 ## Remove a dotted line
 
