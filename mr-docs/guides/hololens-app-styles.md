@@ -20,7 +20,7 @@ that styles provide, their learning process will become faster.
     ![Styles button.](media/edit-styles1.PNG "Styles button")
 
     > [!TIP]
-    > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Styles** and subsequent menu items directly with your finger. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
+    > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Styles** and subsequent menu items directly with your finger. For more information about manipulating holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
 
 4. Select the style that you want to use.
 
