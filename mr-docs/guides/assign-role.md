@@ -38,7 +38,7 @@ To assign user roles:
 
     ![User button.](media/add-user-roles-0.PNG "User button")
 
-3. Select **Add user** . Enter user's name in the panel to the right. Select **Add**
+3. Select **Add user**. Enter user's name in the panel to the right. Select **Add**
 
     ![Add user.](media/add-user-4.PNG "Add user")
 
