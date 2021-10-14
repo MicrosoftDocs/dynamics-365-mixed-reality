@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 # Get oriented with the Dynamics 365 Guides HoloLens app (for authors)
 
 > [!NOTE]
-> If you're operating a guide in Microsoft Dynamics 365 Guides, see [Operate a guide](operator-orientation.md)
+> If you're operating a guide in Microsoft Dynamics 365 Guides, see [Operate a guide](operator-step-card-orientation.md).
 
 After you anchor your guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app, you'll see the Step card page. The Step card is the hub of everything that you do with your guide. It's also what your operators see when they use the guide. The Step card follows operators around in their environment to keep the instructions where they need them as they move around their workspace.
 
