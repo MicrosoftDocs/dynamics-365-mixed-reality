@@ -2,8 +2,7 @@
 
 # Change animation options in the Dynamics 365 Guides HoloLens app
 
-If the 3D model that you're working with in the Microsoft Dynamics 365 Guides HoloLens app has animations, you can select a specific animation to play back. 
-You can also configure playback options (speed, direction, and looping options). 
+IF you're working with a 3D model in the Microsoft Dynamics 365 Guides HoloLens app, and the 3D model includes multiple animations, you can select a specific animation to play back. You can also set playback options (speed, direction, and looping options). 
 
 ## Change animation options
 
