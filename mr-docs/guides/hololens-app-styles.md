@@ -7,12 +7,9 @@ You can add styles in the Microsoft Dynamics 365 Guides HoloLens app to provide 
 indicate caution or the **Avoid** style to make sure that an operator doesn't do something that could cause harm. As your operators get used to the visual language 
 that styles provide, their learning process will become faster.
 
-> [!NOTE]
-> Currently, you can't add styles from the PC app. They exist only in [!include[pn-hololens](../includes/pn-hololens.md)].
+## Add a style
 
-To add a style, follow these steps.
-
-1. Select a hologram that you've already placed in the real world to select it.
+1. Select a hologram that you've already placed in the real world.
 
 2. Select the **Edit Hologram** (pencil) button.
 
