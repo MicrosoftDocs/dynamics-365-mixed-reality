@@ -1,4 +1,12 @@
-
+---
+author: Mamaylya
+description: Learn how to use the Main menu to find and open a file or make a call in the Dynamics 365 Guides HoloLens app
+ms.author: mamaylya
+ms.date: 11/08/2021
+ms.topic: article
+title: Use the Main menu in the Dynamics 365 Guides HoloLens app
+ms.reviewer: v-bholmes
+---
 
 # Use the Main menu in the Dynamics 365 Guides version 7.0 HoloLens app
 
