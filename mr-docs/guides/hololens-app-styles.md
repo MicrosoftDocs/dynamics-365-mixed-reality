@@ -1,5 +1,12 @@
-
-
+---
+author: Mamaylya
+description: Learn how to use a style to add emphasis (Warning, Caution, and so on) to a hologram in the Dynamics 365 Guides HoloLens app
+ms.author: mamaylya
+ms.date: 11/08/2021
+ms.topic: article
+title: Use a style to add emphasis to a hologram in the Dynamics 365 Guides HoloLens app
+ms.reviewer: v-bholmes
+---
 
 # Use a style to add emphasis to a hologram in the Dynamics 365 Guides HoloLens app
 
