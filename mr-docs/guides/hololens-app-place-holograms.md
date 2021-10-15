@@ -1,4 +1,12 @@
-
+---
+author: Mamaylya
+description: Learn how to place and manipulate holograms in the Dynamics 365 Guides HoloLens app
+ms.author: mamaylya
+ms.date: 11/08/2021
+ms.topic: article
+title: Place and manipulate holograms in the Dynamics 365 Guides HoloLens app
+ms.reviewer: v-bholmes
+---
 
 # Place and manipulate holograms in the Dynamics 365 Guides HoloLens app
 
