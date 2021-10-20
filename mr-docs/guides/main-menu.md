@@ -1,14 +1,14 @@
 ---
 author: Mamaylya
-description: Learn how to use the Main menu to find and open a file or make a call in the Dynamics 365 Guides HoloLens app
+description: Learn how to use the Main menu to start an activity (open a guide, start a call, change a setting, or sign out) in the Dynamics 365 Guides HoloLens app
 ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
-title: Use the Main menu in the Dynamics 365 Guides HoloLens app to open a guide or start a call
+title: Use the Main menu in the Dynamics 365 Guides HoloLens app to start an activity
 ms.reviewer: v-bholmes
 ---
 
-# Use the Main menu in Dynamics 365 Guides to open a guide or start a call
+# Use the Main menu in Dynamics 365 Guides to start an activity
 
 Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens app that makes it very quick and easy to open a guide or start a call with a remote collaborator. After signing in to the app, just look at the palm of your hand to open the Main menu and choose an activity using direct touch. 
 
