@@ -29,7 +29,7 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
     ![Guides app tile.](media/guides-app-tile.PNG "Guides app tile")
     
-3.	In the left pane, select **Settings** to view all settings for the instance.
+3.	In the left pane, use the area picker at the bottom of the screen to switch the area selection from **Main** to **Settings** to view all settings for the instance.
 
     ![Settings highlighted in the left pane.](media/Admin-EnableCalling01__Background-GuidesMDA-AreaPicker-Settings.png "Settings highlighted in left pane")
 
