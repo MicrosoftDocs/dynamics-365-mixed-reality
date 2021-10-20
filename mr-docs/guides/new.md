@@ -36,7 +36,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/updated-user-experience-leveraging-hololens-2-instinctual-interactions" target="_blank">Updated user experience leveraging HoloLens 2 instinctual interactions</a>| Yes |<a href="Doc URL to come" target="_blank">DOC LINK TEXT TO COME</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/updated-user-experience-leveraging-hololens-2-instinctual-interactions" target="_blank">Updated user experience leveraging HoloLens 2 instinctual interactions</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/main-menu?" target="_blank">Use the Main menu to start an actvity</a>|
 
 ### Bugs fixed and other improvements
 
