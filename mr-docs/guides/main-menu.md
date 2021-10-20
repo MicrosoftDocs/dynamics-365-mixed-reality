@@ -16,8 +16,8 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 
 |Choose this button|To|
 |--------|-------------------------------------------------------------------------------------------------|
-|SCREEN SHOT OF WORK BUTTON WILL GO HERE|Do a work item. Work items include:<br><br>- Select and open a guide.<br>- Search for a guide.<br>- Choose a role (Author or Operator).|
-|SCREEN SHOT OF CALL BUTTON WILL GO HERE|Make a call. Call choices include:<br><br>- Select a contact from the **Recents** list.<br>- Search for a contact.<br>- Start a call and work with the Active Call window.|
+|SCREEN SHOT OF WORK BUTTON WILL GO HERE|Select and open a guide or search for a guide.|
+|SCREEN SHOT OF CALL BUTTON WILL GO HERE|Start a call.|
 |SCREEN SHOT OF SETTINGS BUTTON WILL GO HERE|Change a setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
 |SCREEN SHOT OF PROFILE BUTTON WILL GO HERE| Sign out.|
 
