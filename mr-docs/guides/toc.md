@@ -79,7 +79,7 @@
 #### Install the app and sign in
 ##### [Install the app and sign in](install-sign-in-hololens-app.md)
 ##### [HoloLens permissions required for version 7.0](hololens-permissions.md)
-#### [About the Main menu](main-menu.md)
+#### [Use the Main menu to start an activity](main-menu.md)
 #### [Find and open a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### Work with holograms
