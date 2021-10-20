@@ -17,7 +17,7 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 |Choose this button|To|
 |--------|-------------------------------------------------------------------------------------------------|
 |SCREEN SHOT OF WORK BUTTON WILL GO HERE|Select and open a guide or search for a guide.|
-|SCREEN SHOT OF CALL BUTTON WILL GO HERE|Start a call.|
+|SCREEN SHOT OF CALL BUTTON WILL GO HERE|Find a contact and start a call.|
 |SCREEN SHOT OF SETTINGS BUTTON WILL GO HERE|Change the **Narrator** or **Telemetry** setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
 |SCREEN SHOT OF PROFILE BUTTON WILL GO HERE| Sign out.|
 
