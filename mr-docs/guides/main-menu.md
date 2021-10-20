@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Use the Main menu in Dynamics 365 Guides to open a guide or start a call
 
-Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens app that makes it very quick and easy to open a guide or start a call with a remote collaborator by using direct touch. After signing in to the app, just look at the palm of your hand to open the Main menu and choose an activity. 
+Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens app that makes it very quick and easy to open a guide or start a call with a remote collaborator. After signing in to the app, just look at the palm of your hand to open the Main menu and choose an activity using direct touch. 
 
 ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
@@ -18,12 +18,12 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 |--------|-------------------------------------------------------------------------------------------------|
 |SCREEN SHOT OF WORK BUTTON WILL GO HERE|Select and open a guide or search for a guide.|
 |SCREEN SHOT OF CALL BUTTON WILL GO HERE|Start a call.|
-|SCREEN SHOT OF SETTINGS BUTTON WILL GO HERE|Change a setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
+|SCREEN SHOT OF SETTINGS BUTTON WILL GO HERE|Change a the Narrator or Telemetry setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
 |SCREEN SHOT OF PROFILE BUTTON WILL GO HERE| Sign out.|
 
-## Summon the Main menu whenever you need it!
+## Summon the Main menu whenever you need it
 
-When working with a complex machine in a busy environment, you need the right holgraphic information at your fingertips at the right time to aid with your work, but you also need to be able to minimize holographic information quickly and easily to so you can get work done. To avoid holographic clutter in your environment, the Main menu doesn't follow you around in your environment like an instruction card, but it's very quick and easy to summon it whenever you need it by looking at the palm of your hand. For example, if you have a guide open and you're consulting with a remote expert on a call, you don't have to remember where you put the Call window in your environment. Just look at the palm of your hand to bring the Main menu and Call window to you. 
+When working with a complex machine in a busy environment, you need the right holographic information at your fingertips at the right time to help you with your work, but after getting the answer you need, you also need to be able to minimize holographic information quickly and continue with your work. The Main menu makes it quick and easy to access the information you need but also avoids holographic clutter because it doesn't follow you around in your environment like an instruction card. Whenever you need to switch activities, just look at the palm of your hand--you don't have to remember where you put it in your environment. 
 
 When the Main menu is open, you can also move it wherever you want by grabbing it with your hand(s). You can also pivot it, if needed. 
 
