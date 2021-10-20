@@ -4,17 +4,15 @@ description: Learn how to use the Main menu to find and open a file or make a ca
 ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
-title: Use the Main menu in the Dynamics 365 Guides HoloLens app
+title: Use the Main menu in the Dynamics 365 Guides HoloLens app to open a guide or start a call
 ms.reviewer: v-bholmes
 ---
 
-# Use the Main menu in the Dynamics 365 Guides version 7.0 HoloLens app
+# Use the Main menu in Dynamics 365 Guides to open a guide or start a call
 
-Version 7.0 of Dynamics 365 Guides introduced a new Main menu for the HoloLens app. After you sign in to the app, you're prompted to look at the palm of your hand, which opens the Main menu. You can use this menu to choose an activity by using touch (with one or two hands).
+Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens app that makes it very quick and easy to open a guide or start a call with a remote collaborator by using direct touch. After signing in to the app, just look at the palm of your hand to open the Main menu and choose an activity. 
 
 ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
-
-The following table describes the activities available through the buttons on the Main menu.
 
 |Choose this button|To|
 |--------|-------------------------------------------------------------------------------------------------|
@@ -23,9 +21,9 @@ The following table describes the activities available through the buttons on th
 |SCREEN SHOT OF SETTINGS BUTTON WILL GO HERE|Change a setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
 |SCREEN SHOT OF PROFILE BUTTON WILL GO HERE| Sign out.|
 
-## The Main menu is at your beck and call
+## Summon the Main menu whenever you need it!
 
-The Main menu doesn't follow you around in your environment like an instruction card, but it's very quick and easy to open it whenever you need it by looking at the palm of your hand. So, for example, if you have a guide open and you're on a call consulting with a remote expert, you don't have to remember where you last accessed the call window in your environment. Just look at the palm of your hand again to bring it to you.
+When an operator is working with a complex machine in a busy environment, they need the right information at their fingertips at the right time. , it's great to be able to access the tools you need when you need them, you need to be able to access tools quickly and easily, but y To avoid holographic clutter in your environment, the Main menu doesn't follow you around in your environment like an instruction card, but it's very quick and easy to summon it whenever you need it by looking at the palm of your hand. For example, if you have a guide open and you're consulting with a remote expert on a call, you don't have to remember where you put the Call window in your environment. Just look at the palm of your hand to bring the Main menu and Call window to you. 
 
 When the Main menu is open, you can also move it wherever you want by grabbing it with your hand(s). You can also pivot it, if needed. 
 
