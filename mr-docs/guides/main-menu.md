@@ -23,7 +23,7 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 
 ## Summon the Main menu whenever you need it!
 
-When an operator is working with a complex machine in a busy environment, they need the right information at their fingertips at the right time. , it's great to be able to access the tools you need when you need them, you need to be able to access tools quickly and easily, but y To avoid holographic clutter in your environment, the Main menu doesn't follow you around in your environment like an instruction card, but it's very quick and easy to summon it whenever you need it by looking at the palm of your hand. For example, if you have a guide open and you're consulting with a remote expert on a call, you don't have to remember where you put the Call window in your environment. Just look at the palm of your hand to bring the Main menu and Call window to you. 
+When working with a complex machine in a busy environment, you need the right holgraphic information at your fingertips at the right time to aid with your work, but you also need to be able to minimize holographic information quickly and easily to so you can get work done. To avoid holographic clutter in your environment, the Main menu doesn't follow you around in your environment like an instruction card, but it's very quick and easy to summon it whenever you need it by looking at the palm of your hand. For example, if you have a guide open and you're consulting with a remote expert on a call, you don't have to remember where you put the Call window in your environment. Just look at the palm of your hand to bring the Main menu and Call window to you. 
 
 When the Main menu is open, you can also move it wherever you want by grabbing it with your hand(s). You can also pivot it, if needed. 
 
@@ -36,12 +36,6 @@ The following table summarizes when to use touch vs. gaze in the Dynamics 365 Gu
 |Main menu and submenus|Touch. Use touch for any of the following actions:<br><br>- Sign in/sign out<br>- Select an instance<br>- Find and open a guide<br>- Start a call<br> - Change a setting<br>- Open the demo|
 |Call window|Touch|
 |Instruction cards|**Authors** can use a combination of gaze, air tap, hand rays, touch, or voice commands, depending on the task.<br><br>**Operators** can use gaze, air tap, and voice commands.
-
-## Make a call and work with a guide at the same time
-
-You can work with a guide as an author or operator and make a call at the same time. For example, if you're authoring a guide, you might want to call an expert to get advice on a specific procedure. If you're an operator, you might want to call an expert to get help on a procedure or to do a remote inspection. The remote expert can see everything that you see on your HoloLens and provide input as needed. 
-
-You can start a call after you open a guide, open a guide after placing a call, or do both simiultaneously. You can also make a call or work on a guide independently. 
 
 ## What's next?
 
