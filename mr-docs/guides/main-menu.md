@@ -22,7 +22,7 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 |SCREEN SHOT OF PROFILE BUTTON WILL GO HERE| Sign out.|
 
 > [!NOTE]
-> You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them. 
+> You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them to appear. 
 
 ## Summon the Main menu whenever you need to switch activities
 
