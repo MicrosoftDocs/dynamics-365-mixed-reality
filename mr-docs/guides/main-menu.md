@@ -21,6 +21,9 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 |SCREEN SHOT OF SETTINGS BUTTON WILL GO HERE|Change the **Narrator** or **Telemetry** setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
 |SCREEN SHOT OF PROFILE BUTTON WILL GO HERE| Sign out.|
 
+> [!NOTE]
+> You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them. 
+
 ## Summon the Main menu whenever you need it
 
 When working with a complex machine in a busy environment, you need the right holographic information at your fingertips at the right time to help you with your work, but after getting the answer you need, you also need to be able to minimize holographic information quickly so that you can continue with your work. The Main menu makes it very quick and easy to access the information you need but also avoids holographic clutter because it doesn't follow you around in your environment like an instruction card. But you don't have to remember where you put it in your environment. Whenever you need to switch activities, just look at the palm of your hand again to bring the Main menu to you. 
