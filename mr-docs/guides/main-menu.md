@@ -26,7 +26,7 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 
 ## Summon the Main menu to you whenever you need to switch activities
 
-When working with a complex machine in a busy environment, you need the right holographic information at your fingertips at the right time to help you with your work, but after getting the answer you need, you also need to be able to minimize holographic information quickly so that you can continue with your work. The Main menu makes it very quick and easy to access the information you need but also helps avoid holographic clutter because it doesn't follow you around in your environment. If you need to access it again to switch activities, you don't have to remember where you put it in your environment. Just look at the palm of your hand again to **bring the Main menu to you**. 
+When working with a complex machine in a busy environment, you need the right holographic information at your fingertips at the right time to help you with your work, but after getting the answer you need, you also need to be able to minimize holographic information quickly so that you can continue with your work. The Main menu makes it very quick and easy to access the information you need but also helps avoid holographic clutter because it doesn't follow you around in your environment. To switch activities, you don't have to remember where you put the Main menu in your environment. Just look at the palm of your hand again to **bring the Main menu to you**. 
 
 For example, let's say you're you're an operator and you're using a guide to learn how to do a procedure. You're not sure ayou need to consult a remote expert about a complex guide step. 
 
