@@ -35,7 +35,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
     4.  Close the keyboard to return to the guide list.
 
-4. Select whether you want to open the guide as an Author or Operator.
+4. Select whether you want to open the guide as an author or operator.
 
     SCREEN SHOT OF AUTHOR/OPERATOR DIALOG GOES HERE
 
