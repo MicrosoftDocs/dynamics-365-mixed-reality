@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens app that makes it very quick and easy to start an activity, such as opening a guide or starting a call with a remote collaborator on Microsoft Teams. After signing in to the app, just look at the palm of your hand to open the Main menu and choose an activity by using direct touch. 
 
-![Animation of opening the Main menu with either hand.](media/Hand-Menu.gif "Animation of opening the Main menu with either hand")
+![Animation of opening the Main menu with either hand.](media/HandMenu.gif "Animation of opening the Main menu with either hand")
 
 > [!NOTE]
 > You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them to appear. 
