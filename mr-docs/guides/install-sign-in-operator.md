@@ -16,7 +16,7 @@ ms.reviewer: v-brycho
 
 3. Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
-## Sign in to the Dynamics 365 Guides HoloLens app
+## Sign in to a new HoloLens
 
 If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)] device, you'll be prompted to complete the **Setup** wizard. In the **Setup** wizard, you can  sign in with an existing account or you can create a new account, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you're running. The **Setup** wizard also guides you through steps to calibrate and prepare your [!include[pn-hololens](../includes/pn-hololens.md)]. 
  
