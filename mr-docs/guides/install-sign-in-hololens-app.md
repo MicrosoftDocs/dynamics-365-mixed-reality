@@ -56,15 +56,15 @@ If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admi
 
     ![Work or school account page.](media/sign-in-hololens.PNG "Work or school account page")
 
-7. Select an instance to use, if you have more than one instance. Then select **Continue**.
+7. If you have access to more than one instance, select an instance to use.
+    ![HoloLens Instance Select.](media/hololens-instance-s.png "HoloLens Instance Select")
 
-8. On the **Select Guide** page, gaze at the guide that you want to open until the circle is filled. When the circle is filled, the guide is selected.
+8. Look at the palm of your hand to open the Main menu.  Choose the **Work activity** to open a guide by using direct touch.
 
-    ![Select Guide page.](media/select-guide.png "Select Guide page")
+> [!NOTE]
+> You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them to appear. 
 
-9. In the **Select Mode** dialog box, gaze at the circle to the left of **Author** to select it.
 
-    ![Select Mode dialog box.](media/select-mode.png "Select Mode dialog box")
     
 ## Sign out of the HoloLens app in Dynamics 365 Guides version 7.0
 
@@ -78,6 +78,7 @@ If you're using Dynamics 365 Guides version 7.0, you can sign out by using touch
 
 ## What's next?
 
+[Main menu](main-menu.md)<br>
 [Find a guide](find-guide.md)<br>
 [Anchor your guide](hololens-app-anchor.md)<br>
 [Place holograms, add styles, and more](hololens-app-orientation.md)

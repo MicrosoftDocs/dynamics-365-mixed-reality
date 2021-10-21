@@ -16,7 +16,7 @@ ms.reviewer: v-brycho
 
 3. Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
-## Sign in to the HoloLens app
+## Sign in to the Dynamics 365 Guides HoloLens app
 
 If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)] device, you will be prompted to complete the **Setup** wizard. In the **Setup** wizard, you can either sign in by using an existing account or create a new account, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you're running. The **Setup** wizard also guides you through steps to calibrate and prepare [!include[pn-hololens](../includes/pn-hololens.md)] for use. 
  
@@ -37,15 +37,21 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
     > [!NOTE]
     > If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md). 
 
-4. On the **Welcome** page, select **Sign in**. 
+4. Select the **Launcher** on the 3D app launcher to open the Dynamics 365 Guides immersive app.
 
-5. On the **Email and accounts** page, select **Work or school account**, and then select **Continue**.
+   ![3D app launcher.](media/3D-App-Launcher-D365Guides-immersive-app-s.png "3D app launcher")
 
-6. On the **Work or school account** page, enter the credentials that your admin provided. For the credentials, the user name will resemble `username@domain.com`. For example, if your user name is LauraO, and you work for the Contoso company, the user name will be `laurao@contoso.com`.
+5. On the **Welcome** page, select **Sign in**.
+
+6. On the **Email and accounts** page, select **Work or school account**, and then select **Continue**.
+
+7. On the **Work or school account** page, enter the credentials that your admin provided. For the credentials, the user name will resemble `username@domain.com`. For example, if your user name is LauraO, and you work for the Contoso company, the user name will be `laurao@contoso.com`.
 
     ![Work or school account page.](media/sign-in-hololens.PNG "Work or school account page")
 
-7. Select an instance to use, if you have more than one instance. Then select **Continue**.
+8. If you have access to more than one instance, select an instance to use.
+    ![HoloLens Instance Select.](media/hololens-instance-s.png "HoloLens Instance Select")
+
 
 > [!NOTE]
 > If you're a Dynamics 365 Guides admin, you can assign the **Operator** role to operators so that they can view guides but can't edit them. If you assign the **Operator** role to a user, the user can also skip the step in the **Select Mode** dialog box and open a guide directly. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
@@ -62,7 +68,7 @@ If you're using Dynamics 365 Guides version 7.0, you can sign out by using touch
 
 ## What's next?
 
-
+[Main menu](main-menu.md)<br>
 [Find a guide](find-guide.md)<br>
 [Gestures for navigating the HoloLens app](operator-gestures.md)<br>
 [Anchor your guide](operator-anchor.md)<br>
