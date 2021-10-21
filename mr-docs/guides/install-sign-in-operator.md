@@ -45,7 +45,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 6. On the **Email and accounts** page, select **Workplace or school account**, and then select **Continue**.
 
-7. On the **Let's get you signed in** page, enter the credentials that your admin provided. For the credentials, the user name will resemble `username@domain.com`. For example, if your user name is LauraO, and you work for the Contoso company, the user name will be `laurao@contoso.com`.
+7. On the **Let's get you signed in** page, enter the credentials that your admin provided. For the credentials, the user name will be in the form `username@domain.com`. For example, if your user name is LauraO, and you work for the Contoso company, the user name will be `laurao@contoso.com`.
 
     ![Work or school account page.](media/sign-in-hololens.PNG "Work or school account page")
 
