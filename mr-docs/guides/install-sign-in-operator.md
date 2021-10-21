@@ -1,5 +1,5 @@
 ---
-author: MattHoagMS
+author: MattHoag-MS
 description: Install and sign in to the Microsoft Dynamics 365 Guides HoloLens app as an operator.
 ms.author: mamaylya
 ms.date: 02/25/2020
