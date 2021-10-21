@@ -14,6 +14,8 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 
 ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
+The following table describes each button on the Main menu.
+
 |Choose this button|To|
 |--------|-------------------------------------------------------------------------------------------------|
 |![Work activity button.](media/main-menu-work-activity-button.PNG "Work activity button")|Select and open a guide or search for a guide.|
