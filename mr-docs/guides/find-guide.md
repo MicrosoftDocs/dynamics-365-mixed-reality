@@ -10,7 +10,7 @@ ms.reviewer: v-brycho
 
 # Find and open a guide in the Dynamics 365 Guides HoloLens app 
 
-You use the [Main menu](main-menu.md) and direct touch to find and open a guide in the Microsoft Dynamics 365 Guides HoloLens app. 
+You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft Dynamics 365 Guides HoloLens app. 
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Work activity** button.
 
