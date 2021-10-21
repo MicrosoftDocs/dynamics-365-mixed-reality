@@ -30,7 +30,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
     ![Down arrow button.](media/hololens-down-arrow.PNG "Down arrow button")
 
-3. Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
+3. Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
     ![Dynamics 365 Guides button.](media/open-guides-application.PNG "Dynamics 365 Guides button")
     
