@@ -14,6 +14,9 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 
 ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
 
+> [!NOTE]
+> You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them to appear. 
+
 The following table describes each button on the Main menu.
 
 |Button|Description|
@@ -23,12 +26,11 @@ The following table describes each button on the Main menu.
 |![Settings button.](media/main-menu-settings-button.PNG "Settings button")|Change the **Narrator** or **Telemetry** setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
 |![Profile button.](media/main-menu-profile-button.PNG "Profile button")| Sign out.|
 
-> [!NOTE]
-> You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them to appear. 
-
 ## Summon the Main menu whenever you need to start an activity
 
 When working with a complex machine in a busy environment, you need the right holographic information at your fingertips at the right time to help you with your work, but after getting the answer you need, you need to be able to minimize holographic information quickly to get it out of the way so that you can continue with your work. The Main menu makes it very quick and easy to access the information you need but also helps avoid holographic clutter because it doesn't follow you around in your environment. To switch activities, you don't have to remember where you put the Main menu—**just look at the palm of your hand again to bring the Main menu to you**. 
+
+
 
 When the Main menu is open, you can move it wherever you want by grabbing the bottom of the menu with your hand(s). You can also pivot it, if needed. 
 
