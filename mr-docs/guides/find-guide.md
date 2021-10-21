@@ -16,7 +16,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
     ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
     
-2. Select the **Recent** or **All** tab, and then select the appropriate file or folder. 
+2. Select the **Recent** or **All** tab, and then select the appropriate file or folder. If you have a long list of files and/or folders, use the up and down arrows on the right side of the screen to scroll the list. 
 
     ![Screenshot of submenu showing Recent tab, All tab, and folders/files.](media/submenu-recent-all.PNG "Screenshot of submenu showing Recent tab, All tab, and folders/files") 
 
