@@ -34,7 +34,7 @@ After you've made sure that your [HoloLens is correctly calibrated](hololens-app
 If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admin, you can assign **Author** and **Operator** roles to limit the features that are available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
 
 > [!NOTE]
-> If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md). 
+> If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md).
 
 1. Select **All Apps**.
 
@@ -57,20 +57,22 @@ If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admi
     ![Work or school account page.](media/sign-in-hololens.PNG "Work or school account page")
 
 7. If you have access to more than one instance, select an instance to use.
-    ![HoloLens Instance Select.](media/hololens-instance-s.png "HoloLens Instance Select")
+    ![HoloLens Instance Select.](media/InstanceSelection.png "HoloLens Instance Select")
 
-8. Look at the palm of your hand to open the Main menu. Select the **Work activity** button to open a guide or the **Call activity** button to place a call.
+8. Follow the instructions to access the main menu and choose an activity.
+
+    ![Main Menu Learning and work activity.](media/LearningMoment.gif "Main Menu Learning and work activity")
 
    > [!NOTE]
-   > You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them to appear. 
-    
+   > You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them to appear.
+
 ## Sign out of the HoloLens app in Dynamics 365 Guides version 7.0
 
 1. Look at your palm to open the Main menu, and then select the **Profile** button.
 
     ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
-    
-2. Select **Sign out**. 
+
+2. Select **Sign out**.
 
 ## What's next?
 
@@ -79,6 +81,5 @@ If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admi
 - [Make a call](make-call.md)
 - [Anchor your guide](hololens-app-anchor.md)
 - [Place holograms, add styles, and more](hololens-app-orientation.md)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
