@@ -48,6 +48,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
     ![Work or school account page.](media/sign-in-hololens.PNG "Work or school account page")
 
 7. If you have access to more than one instance, select an instance to use.
+
     ![HoloLens Instance Select.](media/hololens-instance-s.png "HoloLens Instance Select")
 
 > [!NOTE]
