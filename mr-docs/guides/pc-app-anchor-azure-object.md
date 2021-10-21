@@ -1,16 +1,16 @@
 ---
 author: Mamaylya
-description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
+description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 ms.author: mamaylya
 ms.date: 08/09/2021
 ms.topic: article
-title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
+title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 ms.reviewer: v-bholmes
 ---
 
-# Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
+# Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 
-Anchoring a guide with Azure Object Anchors  is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. This preview release supports large static objects only. Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin that has been  imported into Dynamics 365 Guides, converted to an object anchor, and assigned to a guide.  
+Anchoring a guide with Azure Object Anchors is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. This preview release supports large static objects only. Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin that has been  imported into Dynamics 365 Guides, converted to an object anchor, and assigned to a guide.  
 
 Authors must do three steps to use object anchors:
 
