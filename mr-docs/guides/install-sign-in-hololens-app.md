@@ -59,16 +59,12 @@ If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admi
 7. If you have access to more than one instance, select an instance to use.
     ![HoloLens Instance Select.](media/hololens-instance-s.png "HoloLens Instance Select")
 
-8. Look at the palm of your hand to open the Main menu.  Choose the **Work activity** to open a guide by using direct touch.
+8. Look at the palm of your hand to open the Main menu. Select the **Work activity** button to open a guide or the **Call activity** button to place a call.
 
-> [!NOTE]
-> You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them to appear. 
-
-
+   > [!NOTE]
+   > You must look at the palm of your hand to open the Main menu. If you turn your palm toward you but don't look at it, the Main menu won't open. This is to keep holographic screens from appearing when you don't want them to appear. 
     
 ## Sign out of the HoloLens app in Dynamics 365 Guides version 7.0
-
-If you're using Dynamics 365 Guides version 7.0, you can sign out by using touch.
 
 1. Look at your palm to open the Main menu, and then select the **Profile** button.
 
@@ -78,10 +74,11 @@ If you're using Dynamics 365 Guides version 7.0, you can sign out by using touch
 
 ## What's next?
 
-[Main menu](main-menu.md)<br>
-[Find a guide](find-guide.md)<br>
-[Anchor your guide](hololens-app-anchor.md)<br>
-[Place holograms, add styles, and more](hololens-app-orientation.md)
+- [Learn more about the Main menu](main-menu.md)
+- [Find a guide](find-guide.md)
+- [Make a call](make-call.md)
+- [Anchor your guide](hololens-app-anchor.md)
+- [Place holograms, add styles, and more](hololens-app-orientation.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
