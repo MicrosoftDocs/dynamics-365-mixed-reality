@@ -8,7 +8,7 @@ title: Make a call in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
 ---
 
-# Make a call in the Dynamics 365 Guides HoloLens app
+# Make a call (Preview) in the Dynamics 365 Guides HoloLens app
 
 If you're using Microsoft Dynamics 365 Guides version 7.0, you can make a call while you're working with a guide in the HoloLens app. For example, if you're authoring a guide, you might want to call an expert to get advice on a specific procedure. If you're operating a guide, you might want to call an expert to get help on a procedure or to do a remote inspection. In either case, the remote expert answers the call using Microsoft Teams desktop and can see everything that you see on your HoloLens and can provide input as needed. 
 
