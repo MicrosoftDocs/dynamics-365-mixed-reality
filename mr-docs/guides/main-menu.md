@@ -16,7 +16,7 @@ Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens a
 
 The following table describes each button on the Main menu.
 
-|Choose this button|To|
+|Button|Description|
 |--------|-------------------------------------------------------------------------------------------------|
 |![Work activity button.](media/main-menu-work-activity-button.PNG "Work activity button")|Select and open a guide or search for a guide.|
 |![Call activity button.](media/main-menu-call-activity-button.PNG "Call activity button")|Find a contact and start a call.|
