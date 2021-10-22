@@ -61,4 +61,4 @@ The [Main menu](main-menu.md) makes it easy to start a call activity at any time
 
 ## See also
 
-[Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
+[Learn more about the Main menu](main-menu.md).
