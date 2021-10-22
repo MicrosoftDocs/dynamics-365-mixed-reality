@@ -41,7 +41,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
    ![3D app launcher.](media/3D-App-Launcher-D365Guides-immersive-app-s.png "3D app launcher")
 
-5. Select **Sign in**.
+5. In the **Dynamics 365 Guides** screen, select **Sign in**.
 
    ![Screen shot of Sign in page.](media/sign-in.PNG "Screenshot of Sign in page")
 
