@@ -27,7 +27,9 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
     ![Screenshot of holographic keyboard.](media/select-guide-search.PNG "Screenshot of holographic keyboard")
 
-    Select the **Close** button on the right side of the keyboard to close the keyboard and return to the guide list.
+    Select the **Close** button on the upper-right side of the keyboard to close the keyboard and return to the guide list.
+
+
 
 4. When you select a guide, the **Select mode** screen appears. Use direct touch in this screen to select whether you want to open the guide as an author or operator.
 
