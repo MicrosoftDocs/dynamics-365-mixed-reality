@@ -13,7 +13,15 @@ ms.reviewer: v-bholmes
 > [!IMPORTANT]
 > Some or all of the functionality noted in this article is available as part of a preview release. The content and the functionality are subject to change. 
 
-If you're using Microsoft Dynamics 365 Guides version 7.0 or later, you can make a call while working hands free with a guide in the HoloLens app. For example, if you're authoring a guide, you might want to call an expert to get advice on a specific procedure. If you're operating a guide, you might want to call an expert to get help on a procedure or to do a remote inspection. In either case, the remote expert answers the call using Microsoft Teams desktop and can see everything that you see on your HoloLens and can provide input as needed. 
+If you're using Microsoft Dynamics 365 Guides version 7.0 or later, you can make a call to a remote collaborator who is using Microsoft Teams (desktop or mobile). This gives you the ability to work hands-free with a guide as you share the view of your HoloLens with the remote collaborator. The remote expert answers the call using Microsoft Teams desktop and can see everything that you see on your HoloLens and can provide input as needed. For example, consider the following scenarios that calling enables:
+
+- **Live guide demos**. Guide a new hire through their job process. 
+
+- **Inspections**. Get approval from a remote inspector for a particular task.
+
+- **Collaborative authoring**. Call an expert to discuss creating steps in 3D in real time.
+
+- **Support calls and collaboration**. Share perspective and troubleshoot issues.
 
 You can start a call after you open a guide, open a guide after placing a call, or do both simultaneously. You can also make a call or work on a guide independently.
 
