@@ -49,7 +49,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
     ![HoloLens Instance Select.](media/choose-instance.PNG "HoloLens Instance Select")
 
-7. Follow the instructions to access the Main menu and choose an activity.
+7. Follow the instructions to access the Main menu and choose an activity. [Learn more about the Main menu](main-menu.md). 
 
     ![Main Menu Learning and work activity.](media/LearningMoment.gif "Main Menu Learning and work activity")
 
