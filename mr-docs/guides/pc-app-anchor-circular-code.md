@@ -10,8 +10,6 @@ ms.reviewer: v-brycho
 
 # Anchor a guide in the Dynamics 365 Guides PC app by using a circular code anchor 
 
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a circular code anchor](https://aka.ms/guidesprintedanchor)
-
 You can anchor your guide to the real world in Microsoft Dynamics 365 Guides by using a QR code anchor, circular code anchor, or holographic anchor. This article shows how to anchor a guide with a circular code anchor. [Learn about other types of anchors and when to use them](pc-app-anchor.md).
 
 ## Overall process for creating a circular code anchor
