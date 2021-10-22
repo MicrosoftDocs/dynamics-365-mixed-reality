@@ -50,10 +50,9 @@ The [Main menu](main-menu.md) makes it easy to start a call activity at any time
 
     ![Call contact screen.](media/call-contact-screen.PNG "Call contact screen")
 
-    While you're on the call, you can use the call controls below the **Active call** window to turn your video feed off or on, to mute or unmute yourself, or to end the call. By default, your video stream is on and your HoloLens is not muted.
+    While you're on the call, you can use the call controls below the **Call** window to turn your video feed off or on, to mute or unmute yourself, or to end the call. By default, your video stream is on and your HoloLens is not muted.
 
     ![Screen shot of call controls.](media/active-call-window.PNG "Screen shot of call controls") 
     
-## Reopen the Call activity window
-
-The **Call activity** window doesn't follow you around in your environment like the instruction card, but you can easily bring it up at any time by looking at your palm to open the Main menu. [Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
+> [!TIP]
+> To keep your screen from holographic clutter and to make it easy to focus on your work, the **Call** window doesn't follow you around in your environment, but you can easily bring it up at any time by looking at your palm to open the Main menu. [Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
