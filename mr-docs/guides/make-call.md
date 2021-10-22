@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 > [!IMPORTANT]
 > Some or all of the functionality noted in this article is available as part of a preview release. The content and the functionality are subject to change. 
 
-If you're using Microsoft Dynamics 365 Guides version 7.0 or later, you can make a call to a remote collaborator who is using Microsoft Teams (desktop or mobile). This gives you the ability to work hands-free with a guide as you share the view of your HoloLens with the remote collaborator. The remote expert answers the call using Microsoft Teams desktop and can see everything that you see on your HoloLens and can provide input as needed. For example, consider the following scenarios that calling enables:
+If you're using Microsoft Dynamics 365 Guides version 7.0 or later, you can make a call to a remote collaborator. This gives you the ability to work hands-free with a guide as you share the view of your HoloLens with the remote collaborator. The remote expert answers the call using Microsoft Teams desktop and can see everything that you see on your HoloLens and can provide input as needed. For example, consider the following scenarios that calling enables:
 
 - **Live guide demos**. Guide a new hire through their job process. 
 
