@@ -28,11 +28,11 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 2. Select the down arrow button.
 
-    ![Down arrow button.](media/hololens-down-arrow.PNG "Down arrow button")
+    ![Down arrow button.](media/all-apps-down-arrow.PNG "Down arrow button")
 
 3. Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
-    ![Dynamics 365 Guides button.](media/all-apps-down-arrow.PNG "Dynamics 365 Guides button")
+    ![Dynamics 365 Guides button.](media/dynamics-365-guides-button.PNG "Dynamics 365 Guides button")
 
     > [!NOTE]
     > If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md).
