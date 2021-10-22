@@ -36,7 +36,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
     ![Screenshot of Select mode screen.](media/select-mode.PNG "Screenshot of Select mode screen")
     
     > [!NOTE]
-    > If you're a Dynamics 365 Guides admin, you can assign the **Operator** role to operators so that they can view guides but can't edit them. If you assign the **Operator** role to a user, the user can skip the **Select Mode** dialog box and open a guide directly. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
+    > If you're a Dynamics 365 Guides admin, you can assign the **Operator** role to operators so that they can view guides but can't edit them. If you assign the **Operator** role to a user, the user can skip the **Select mode** screen and open a guide directly. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
 
 ## What's next?
 
