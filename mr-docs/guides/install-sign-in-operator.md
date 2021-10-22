@@ -49,7 +49,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 7. If you have access to more than one instance, select an instance to use.
 
-    ![HoloLens Instance Select.](media/InstanceSelection.png "HoloLens Instance Select")
+    ![HoloLens Instance Select.](media/choose-instance.PNG "HoloLens Instance Select")
 
 8. Follow the instructions to access the Main menu and choose an activity.
 
