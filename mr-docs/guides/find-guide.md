@@ -35,7 +35,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
     4.  Close the keyboard to return to the guide list.
 
-4. In the **Select mode** screen, select whether you want to open the guide as an author or operator.
+4. When you select a guide, the **Select mode** screen appears. Use direct touch in this screen to select whether you want to open the guide as an author or operator.
 
     ![Screenshot of Select mode screen.](media/select-mode.PNG "Screenshot of Select mode screen")
 
