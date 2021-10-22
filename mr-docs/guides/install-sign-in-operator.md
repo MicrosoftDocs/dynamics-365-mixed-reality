@@ -26,34 +26,30 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
     ![All Apps button.](media/all-apps-button.PNG "All Apps button")
 
-2. Select the down arrow button.
-
-    ![Down arrow button.](media/all-apps-down-arrow.PNG "Down arrow button")
-
-3. Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
+2. Select the down arrow button, and then select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
     ![Dynamics 365 Guides button.](media/dynamics-365-guides-button.PNG "Dynamics 365 Guides button")
 
     > [!NOTE]
     > If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md).
 
-4. Select the play button for the 3D app launcher to open Dynamics 365 Guides.
+3. Select the play button for the 3D app launcher to open Dynamics 365 Guides.
 
    ![3D app launcher.](media/3D-App-Launcher-D365Guides-immersive-app-s.png "3D app launcher")
 
-5. In the **Dynamics 365 Guides** screen, select **Sign in**.
+4. In the **Dynamics 365 Guides** screen, select **Sign in**.
 
    ![Screen shot of Sign in page.](media/sign-in.PNG "Screenshot of Sign in page")
 
-6. On the **Let's get you signed in** page, select **Workplace or school account**, select **Continue**, and then enter the credentials that your admin provided. For the credentials, the user name will be in the form `username@domain.com`. For example, if your user name is LauraO, and you work for the Contoso company, the user name will be `laurao@contoso.com`.
+5. On the **Let's get you signed in** page, select **Workplace or school account**, select **Continue**, and then enter the credentials that your admin provided. For the credentials, the user name will be in the form `username@domain.com`. For example, if your user name is LauraO, and you work for the Contoso company, the user name will be `laurao@contoso.com`.
 
     ![Work or school account page.](media/sign-in-hololens.PNG "Work or school account page")
 
-7. If you have access to more than one instance, select an instance to use.
+6. If you have access to more than one instance, select an instance to use.
 
     ![HoloLens Instance Select.](media/choose-instance.PNG "HoloLens Instance Select")
 
-8. Follow the instructions to access the Main menu and choose an activity.
+7. Follow the instructions to access the Main menu and choose an activity.
 
     ![Main Menu Learning and work activity.](media/LearningMoment.gif "Main Menu Learning and work activity")
 
