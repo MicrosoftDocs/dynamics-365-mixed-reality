@@ -33,7 +33,7 @@ You can start a call after you open a guide, open a guide after placing a call, 
 
 ## Make a call
 
-The [Main menu](main-menu.md) makes it easy to make a call at any time while keeping holographic clutter to a minimum. 
+The [Main menu](main-menu.md) makes it easy to start a call activity at any time while keeping holographic clutter to a minimum. 
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Call activity** button.
 
