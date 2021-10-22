@@ -55,4 +55,10 @@ The [Main menu](main-menu.md) makes it easy to start a call activity at any time
     ![Screen shot of call controls.](media/active-call-window.PNG "Screen shot of call controls") 
     
 > [!TIP]
-> To keep your screen free from holographic clutter and to make it easy to focus on your work, the **Call** window doesn't follow you around in your environment, but you can easily bring it up at any time. Just look at your palm to open the Main menu, and then select the **Call activity** button again. [Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
+> To keep your screen free from holographic clutter and to make it easy to focus on your work, the **Call** window doesn't follow you around in your environment, but you can easily bring it up at any time. Just look at your palm to open the Main menu, and then select the **Call activity** button again. 
+> 
+>  ![Animation of summoning Call window.](media/summon-call.gif "Animation of summoning Call window")
+
+## See also
+
+[Learn more about the Main menu in Dynamics 365 Guides version 7.0](main-menu.md).
