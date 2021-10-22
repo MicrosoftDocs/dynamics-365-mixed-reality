@@ -51,12 +51,10 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
     ![HoloLens Instance Select.](media/InstanceSelection.png "HoloLens Instance Select")
 
-8. Follow the instructions to access the main menu and choose an activity.
+8. Follow the instructions to access the Main menu and choose an activity.
 
     ![Main Menu Learning and work activity.](media/LearningMoment.gif "Main Menu Learning and work activity")
 
-> [!NOTE]
-> If you're a Dynamics 365 Guides admin, you can assign the **Operator** role to operators so that they can view guides but can't edit them. If you assign the **Operator** role to a user, the user can also skip the step in the **Select Mode** dialog box and open a guide directly. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
 
 ## Sign out of the HoloLens app
 
