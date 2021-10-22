@@ -23,7 +23,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
     > [!NOTE]
     > Folders appear on the **All** tab, but not the **Recent** tab. 
 
-3. To search for a guide, select the **Search** button to display the holographic keyboard, and then enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters.
+3. To search for a guide, select the **Search** button to display the holographic keyboard, and then enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters. Select the **Close** button to close the keyboard and return to the guide list.
 
     ![Animation of pressing Search and using the holographic keyboard.](media/Search.gif "Animation of pressing Search and using the holographic keyboard")
 
