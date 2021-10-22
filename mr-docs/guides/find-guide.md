@@ -16,12 +16,12 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
     ![Animation of opening the Main menu and selecting Work activity button.](media/1-Handed.gif "Animation of opening the Main menu and selecting the Work activity button")
     
-2. Select the **Recent** or **All** tab, and then select the appropriate file or folder. If you have a long list of files and/or folders, use the up and down arrows on the right side of the screen to scroll the list. 
+2. Select the **Recent** or **All** tab, and then select the appropriate file or folder. Folders appear on the **All** tab, but not the **Recent** tab. If you have a long list of files and/or folders, use the up and down arrows on the right side of the screen to scroll the list. 
 
     ![Screenshot of submenu showing Recent tab, All tab, and folders/files.](media/submenu-recent-all.PNG "Screenshot of submenu showing Recent tab, All tab, and folders/files") 
 
-    > [!NOTE]
-    > Folders appear on the **All** tab, but not the **Recent** tab. 
+    > [!TIP]
+    > Use the **Minimize** button on the right side of the screen whenever you need to clear the xxx screen. To bring the xxx screen back up again at any time, just look at the palm of your hand again to open the Main menu. 
 
 3. To search for a guide, select the **Search** button to display the holographic keyboard, and then enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters. Select the **Close** button to close the keyboard and return to the guide list.
 
