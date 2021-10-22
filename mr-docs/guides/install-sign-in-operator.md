@@ -18,7 +18,7 @@ ms.reviewer: v-brycho
 
 ## Sign in to a new HoloLens
 
-If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)] device, you'll be prompted to complete the **Setup** wizard. In the **Setup** wizard, you can  sign in with an existing account or you can create a new account, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you're running. The **Setup** wizard also guides you through steps to calibrate and prepare your [!include[pn-hololens](../includes/pn-hololens.md)].
+If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)] device, you'll be prompted to complete the **Setup** wizard. In the **Setup** wizard, you can  sign in with an existing account or you can create a new account. The **Setup** wizard also guides you through steps to calibrate and prepare your [!include[pn-hololens](../includes/pn-hololens.md)].
 
 ## Open and sign in to HoloLens for the first time
 
