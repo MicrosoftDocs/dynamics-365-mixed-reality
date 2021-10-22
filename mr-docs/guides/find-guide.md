@@ -21,7 +21,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
     ![Screenshot of submenu showing Recent tab, All tab, and folders/files.](media/submenu-recent-all.PNG "Screenshot of submenu showing Recent tab, All tab, and folders/files") 
 
     > [!TIP]
-    > Use the **Minimize** button on the right side of the screen whenever you need to clear the xxx screen. To bring the xxx screen back up again at any time, just look at the palm of your hand again to open the Main menu. 
+    > To clear the **Select a guide or folder** screen from your view at any time, select the **Minimize** button on the right side of the screen. To open the screen again, just look at the palm of your hand again to open the Main menu. 
 
 3. To search for a guide, select the **Search** button to display the holographic keyboard, and then enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters. Select the **Close** button to close the keyboard and return to the guide list.
 
