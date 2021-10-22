@@ -41,7 +41,9 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
    ![3D app launcher.](media/3D-App-Launcher-D365Guides-immersive-app-s.png "3D app launcher")
 
-5. On the **Welcome** page, select **Sign in**.
+5. Select **Sign in**.
+
+   ![Screen shot of Sign in page.](media/sign-in.PNG "Screenshot of Sign in page")
 
 6. On the **Let's get you signed in** page, select **Workplace or school account**, select **Continue**, and then enter the credentials that your admin provided. For the credentials, the user name will be in the form `username@domain.com`. For example, if your user name is LauraO, and you work for the Contoso company, the user name will be `laurao@contoso.com`.
 
