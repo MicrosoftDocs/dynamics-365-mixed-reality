@@ -29,8 +29,6 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
     2. Enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters.
 
-       NEED NEW SCREEN SHOT HERE FOR TOUCH INTERFACE   
-
     3. To refine the criteria, select the magnifying glass again or select the box that shows the filter text.
 
     4.  Close the keyboard to return to the guide list.
