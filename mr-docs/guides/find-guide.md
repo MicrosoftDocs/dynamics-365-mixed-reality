@@ -27,7 +27,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
     1. Select the magnifying glass to display the holographic keyboard.
 
-      ![Animation of pressing Search and using the holographic keyboard.](media/Search.gif "Animation of pressing Search and using the holographic keyboard")
+       ![Animation of pressing Search and using the holographic keyboard.](media/Search.gif "Animation of pressing Search and using the holographic keyboard")
 
     2. Enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters.
 
