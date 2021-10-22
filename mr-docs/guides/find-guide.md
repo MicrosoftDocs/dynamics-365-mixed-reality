@@ -23,7 +23,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
     > [!TIP]
     > To clear the **Select a guide or folder** screen from your view at any time, select the **Minimize** button on the right side of the screen. To open the screen again, just look at the palm of your hand again to open the Main menu. 
 
-3. To search for a guide, select the **Search** button at the bottom of the screen to display the holographic keyboard, and then enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters. 
+3. To search for a guide, select the **Search** button at the bottom of the screen to display the holographic keyboard, and then enter some characters for the guide you're looking for or use the Microphone button to say the characters. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters. 
 
     ![Screenshot of holographic keyboard.](media/select-guide-search.PNG "Screenshot of holographic keyboard")
 
