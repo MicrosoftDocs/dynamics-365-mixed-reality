@@ -40,7 +40,7 @@ The [Main menu](main-menu.md) makes it easy to start a call activity at any time
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Call activity** button.
 
-    ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
+    ![Screen shot of hand and Main menu.](media/main-menu-call.PNG "Screen shot of hand and Main menu")
     
 2. In the **Recent people** screen, select a contact. If you don't see the contact you're looking for, select the **Search** button at the bottom of the screen. 
 
