@@ -25,6 +25,9 @@ If you're using Microsoft Dynamics 365 Guides version 7.0 or later, you can make
 
 You can start a call after you open a guide, open a guide after placing a call, or do both simultaneously. You can also make a call or work on a guide independently.
 
+> [!NOTE]
+> To make a call from Dynamics 365 to a remote collaborator on Microsoft Teams, you must have a Microsoft Teams license. [Learn more about requirements](requirements.md). 
+
 ## Limitations
 
 - Only outgoing phone calls from the HoloLens user are supported at this time. The expert on Teams desktop can't call the HoloLens user.
