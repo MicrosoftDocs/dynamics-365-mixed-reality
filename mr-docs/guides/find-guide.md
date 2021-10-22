@@ -29,7 +29,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
     Select the **Close** button on the upper-right side of the keyboard to close the keyboard and return to the guide list.
 
-
+    ![Screenshot of Close button.](media/search-close-button.PNG "Screenshot of Close button")
 
 4. When you select a guide, the **Select mode** screen appears. Use direct touch in this screen to select whether you want to open the guide as an author or operator.
 
