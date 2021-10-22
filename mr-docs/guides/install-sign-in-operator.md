@@ -26,7 +26,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
     ![All Apps button.](media/all-apps-button.PNG "All Apps button")
 
-2. Select the down arrow button, and then select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
+2. Select the down arrow, and then select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
     ![Dynamics 365 Guides button.](media/dynamics-365-guides-button.PNG "Dynamics 365 Guides button")
 
