@@ -24,7 +24,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 1. Select **All Apps**.
 
-    ![All Apps button.](media/hololens-apps.PNG "All Apps button")
+    ![All Apps button.](media/all-apps-button.PNG "All Apps button")
 
 2. Select the down arrow button.
 
