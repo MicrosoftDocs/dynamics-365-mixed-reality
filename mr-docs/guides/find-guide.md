@@ -14,7 +14,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Work activity** button.
 
-    ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
+    ![Animation of opening the Main menu and selecting Work activity button.](media/1-Handed.gif "Animation of opening the Main menu and selecting the Work activity button")
     
 2. Select the **Recent** or **All** tab, and then select the appropriate file or folder. If you have a long list of files and/or folders, use the up and down arrows on the right side of the screen to scroll the list. 
 
