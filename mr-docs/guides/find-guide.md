@@ -23,17 +23,9 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
     > [!NOTE]
     > Folders appear on the **All** tab, but not the **Recent** tab. 
 
-3. To search for a guide:
+3. To search for a guide, select the **Search** button to display the holographic keyboard, and then enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters.
 
-    1. Select the magnifying glass to display the holographic keyboard.
-
-       ![Animation of pressing Search and using the holographic keyboard.](media/Search.gif "Animation of pressing Search and using the holographic keyboard")
-
-    2. Enter some characters for the guide you're looking for. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters.
-
-    3. To refine the criteria, select the magnifying glass again or select the box that shows the filter text.
-
-    4.  Close the keyboard to return to the guide list.
+    ![Animation of pressing Search and using the holographic keyboard.](media/Search.gif "Animation of pressing Search and using the holographic keyboard")
 
 4. When you select a guide, the **Select mode** screen appears. Use direct touch in this screen to select whether you want to open the guide as an author or operator.
 
