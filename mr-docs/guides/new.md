@@ -17,7 +17,7 @@ ms.reviewer: v-bholmes
 > 
 > The Dynamics 365 Guides version 7.1 HoloLens and PC apps require Microsoft Dataverse solution version 700 at a minimum. 
 > 
-> Please work with your IT admin to schedule installation updates. <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">See instructions for updating the solution</a>. [Learn more about which solutions work with which applications](admin-apps-solution-compatibility.md). See the **Features** table below to determine if a new feature requires a solution update.
+> Work with your IT admin to schedule installation updates. <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">See instructions for updating the solution</a>. [Learn more about which solutions work with which applications](admin-apps-solution-compatibility.md). See the **Features** table below to determine if a new feature requires a solution update.
 
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>.
 
