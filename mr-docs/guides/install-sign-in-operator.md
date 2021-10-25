@@ -1,14 +1,21 @@
 ---
 author: MattHoag-MS
-description: Install and sign in to the Microsoft Dynamics 365 Guides HoloLens app as an operator.
+description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
 ms.date: 02/25/2020
 ms.topic: article
-title: Install the Dynamics 365 Guides HoloLens app (operators)
+title: Install and sign in to the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 
-# Install and sign in to the Dynamics 365 Guides HoloLens app (operators)
+# Install and sign in to the Dynamics 365 Guides HoloLens app
+
+If you haven't already installed the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app on your [!include[pn-hololens](../includes/pn-hololens.md)] device (or if it hasn't already been installed for you), you can install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers.
+
+> [!NOTE]
+> You must have a license to install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. You can also [sign up for a free trial of Dynamics 365 Guides](setup.md).
+
+## Install the app
 
 1. Make sure that you have [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend that you update to newer versions when they're available. For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](/HoloLens/hololens-updates).
 
@@ -64,12 +71,9 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 ## What's next?
 
-- [Main menu](main-menu.md)
+- [Learn more about the Main menu](main-menu.md)
 - [Find a guide](find-guide.md)
 - [Make a call](make-call.md)
-- [Gestures for navigating the HoloLens app](operator-gestures.md)
-- [Anchor your guide](operator-anchor.md)
-- [Operate a guide](operator-step-card-orientation.md)
 - [Calibrate your HoloLens](operator-calibrate.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
