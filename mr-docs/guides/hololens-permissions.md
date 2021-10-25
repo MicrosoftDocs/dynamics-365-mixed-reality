@@ -80,4 +80,5 @@ You can also turn on each permission by following the steps described below.
 
 ## See also
 
-[Frequently asked questions about Dynamics 365 Guides](faq.md)
+- [Install and sign in to the HoloLens app](hololens-app-install-sign-in.md)
+- [Frequently asked questions about Dynamics 365 Guides](faq.md)
