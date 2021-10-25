@@ -71,7 +71,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 ## What's next?
 
-- [Learn more about the Main menu](main-menu.md)
+- [Learn more about using the Main menu to open a guide or start a call](main-menu.md)
 - [Find a guide](find-guide.md)
 - [Make a call](make-call.md)
 - [Calibrate your HoloLens](operator-calibrate.md)
