@@ -27,7 +27,7 @@ If you haven't already installed the [!include[cc-microsoft](../includes/cc-micr
 
 If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)] device, you'll be prompted to complete the **Setup** wizard. In the **Setup** wizard, you can  sign in with an existing account or you can create a new account. The **Setup** wizard also guides you through steps to calibrate and prepare your [!include[pn-hololens](../includes/pn-hololens.md)].
 
-## Open and sign in to HoloLens for the first time
+## Open and sign in to the HoloLens app for the first time
 
 1. Select **All Apps**.
 
@@ -38,7 +38,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
     ![Dynamics 365 Guides button.](media/dynamics-365-guides-button.PNG "Dynamics 365 Guides button")
 
     > [!NOTE]
-    > If you're using Dynamics 365 Guides version 7.0, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md).
+    > If you're signing in to the HoloLens app for the first time, you'll need to provide permissions to use the HoloLens eye tracker, camera, and microphone before you can sign in. [Learn more about permissions required to use the HoloLens app](hololens-permissions.md).
 
 3. Select the play button for the 3D app launcher to open Dynamics 365 Guides.
 
