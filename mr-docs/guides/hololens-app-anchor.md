@@ -78,7 +78,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 ## Anchor a guide by using a holographic anchor
 
-- Use your hand to manipulate a holographic anchor. Select **Confirm** when the anchor is aligned. 
+- Use your hand to manipulate and align a holographic anchor with a real-world object in your environment. Select **Confirm** when the anchor is aligned. 
 
     ![Rotating a holographic anchor.](media/rotate-holographic-anchor.jpg "Rotating a holographic anchor")
 
