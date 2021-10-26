@@ -28,3 +28,6 @@ Use can also use the **Settings** screen to access documentation and how-to vide
 
     ![Screen shot of Settings window.](media/settings-window.PNG "Screen shot of Settings window")
 
+## See also
+
+[Learn more about using the Main menu](main-menu.md)
