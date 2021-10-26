@@ -65,7 +65,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
     ![Initiate Scan button on the Scan Circular Code Anchor page.](media/circular-code-scan.PNG "Initiate Scan button on the Scan Circular Code Anchor page")
 
-    On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a holographic image that looks like the following illustration.
+    On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a holographic image that looks like the following illustration.
 
     ![Holographic image of circular code.](media/circular-code-hologram.PNG "Holographic image of circular code")
 
