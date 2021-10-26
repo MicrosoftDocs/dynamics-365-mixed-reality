@@ -29,13 +29,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)
 
-- Anchor your guide in the real world:
-
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor](https://youtu.be/NhdBG3emNUs)
-
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://aka.ms/guidesprintedanchor)
-
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://aka.ms/guidesdigitalanchor)   
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor to anchor your guide to the real world](https://youtu.be/NhdBG3emNUs)  
    
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://aka.ms/hololensauthor)
 
