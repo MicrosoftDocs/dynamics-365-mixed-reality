@@ -50,12 +50,12 @@ There are four ways to anchor a guide:
 
     - A part is too small to attach a QR code anchor or circular code anchor.
 
-> [!NOTE]
-> An object anchor created with Azure Object Anchors is preferred over a holographic anchor when:
->- The target object is suitable for object detection.
->- Accuracy needs are high.
->- The target object is available in the real world to scan with HoloLens.
->- Holograms need to be consistently positioned at the same location.
+    > [!NOTE]
+    > An object anchor created with Azure Object Anchors is preferred over a holographic anchor when:
+    >- The target object is suitable for object detection.
+    >- Accuracy needs are high.
+    >- The target object is available in the real world to scan with HoloLens.
+    >- Holograms need to be consistently positioned at the same location.
 
 Dynamics 365 Guides includes an Anchor wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
 
