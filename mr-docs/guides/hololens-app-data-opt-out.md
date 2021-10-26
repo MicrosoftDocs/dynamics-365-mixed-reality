@@ -25,7 +25,8 @@ For privacy reasons, you can turn off the ability to send telemetry data to Micr
 
 ## See also
 
-[Opt out of sending telemetry data in the PC app](data-opt-out-pc-app.md)
+- [Learn more about the Main menu](main-menu.md)
+- [Opt out of sending telemetry data in the PC app](data-opt-out-pc-app.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
