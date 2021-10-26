@@ -64,7 +64,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **Groups** \> **Groups**, and then select **Add a group** to open the **Add group** wizard.
 
-    ![Add a group.](media/add-group-command.PNG "Add a group")
+    ![Add a group.](media/add-group-command-1.png "Add a group")
 
 2. On the **Choose a group type** page, select **Security**, and then select **Next**.
 
