@@ -41,7 +41,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select **Try a guide**.
 
-![Try the demo button.](media/try-demo-2.PNG "Try the demo button")
+![Try the demo button.](media/touch-sign-in.jpg "Try the demo button")
 
 ## Understand concepts
 
