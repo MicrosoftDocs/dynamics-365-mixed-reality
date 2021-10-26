@@ -61,7 +61,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 1. Put on your HoloLens, and stand about two feet in front of the circular code anchor.
 
-2. On the **Scan Circular Code Anchor** page, select **Initiate Scan**.
+2. On the **Scan circular code** page, select **Initiate scan**.
 
     ![Initiate Scan button on the Scan Circular Code Anchor page.](media/circular-code-scan.jpg "Initiate Scan button on the Scan Circular Code Anchor page")
 
