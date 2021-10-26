@@ -56,7 +56,7 @@ The distance between a user's eyes. Different users have different IPDs. To alig
 
 ## Main menu
 
-The menu that appears when a HoloLens user looks at their pam, anywhere and any time while using Dynamics 365 Guides. The main menu includes all available activities (work or call) as well as settings and profile pages.
+The menu that appears when a HoloLens user looks at their palm, anywhere and any time while using Dynamics 365 Guides. The Main menu includes buttons for activities (work or call) and buttons to access settings or to sign out.
 
 ## Operator
 The person who uses a guide to do a set of tasks. 
