@@ -57,7 +57,7 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
       
 4. Have your technician launch the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app on [!include[pn-hololens](../includes/pn-hololens.md)]. After signing in, the technician will see the **[!include[pn-field-service](../includes/pn-field-service.md)]** tab. The tab shows the guide (and any other guides assigned to them) along with a brief description of the booking and when that order is scheduled.
 
-    ![Select guide.](media/select-guide-3.PNG "Select guide")   
+    ![Select guide.](media/select-guide-field-service.jpg "Select guide")   
     
 
 > [!NOTE]
