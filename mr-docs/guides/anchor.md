@@ -93,13 +93,18 @@ For information on the positional precision of holograms, make sure to see these
 
 ## What's next?
 
-[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)<br>
-[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)<br>
-[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)<br>
-[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)<br>
-[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)<br>
-[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)<br>
+Use the following table to find more information on anchoring.
 
-
+|Area|Link|
+|----------------------|------------------------------------------------------------------|
+|Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
+|Creating types of anchors|[Create an Azure Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
+||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
+||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
+||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
+|Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
+||[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
+|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
+|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
