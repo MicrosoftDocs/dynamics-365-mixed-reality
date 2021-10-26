@@ -12,11 +12,13 @@ ms.reviewer: v-brycho
 
 For privacy reasons, you can turn off the ability to send telemetry data to Microsoft in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app. Microsoft uses this data to improve the product. By opting out, you prevent Microsoft from collecting any data about your activity.
 
-To turn telemetry data off for [!include[pn-hololens](../includes/pn-hololens.md)], follow this step.
+1. Look at the palm of your hand to open the Main menu, and then select the **Settings** button.
 
-- In **Settings**, turn off the **Send Usage Data** option.
+    ![Settings button on Main menu.](media/main-menu-settings.jpg "Settings button on Main menu")
 
-    ![Send Usage Data option.](media/send-usage-data.PNG "Send Usage Data option")
+2. In **Settings**, turn off the **Telemetry** option.
+
+    ![Telemetry option in Settings screen.](media/telemetry-option.jpg "Telemetry option in Settings screen")
 
 > [!NOTE]
 > This option applies only to the device where it's set. If you use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on more than one device, you must change the setting on the other devices too. For information about how to turn off this setting for the PC app, see [Author a guide in the PC application](pc-app-overview.md).
