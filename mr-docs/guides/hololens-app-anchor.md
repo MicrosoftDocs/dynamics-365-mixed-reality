@@ -42,7 +42,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 1. Put on your HoloLens, and stand about two feet in front of the QR code anchor.
 
-2. On the **Scan QR Code Anchor** page, select **Initiate Scan**.
+2. On the **Scan QR code** page, select **Initiate Scan**.
 
     ![Initiate Scan button on the Scan QR Code Anchor page.](media/qr-code-scan.jpg "Initiate Scan button on the Scan QR Code Anchor page")
 
