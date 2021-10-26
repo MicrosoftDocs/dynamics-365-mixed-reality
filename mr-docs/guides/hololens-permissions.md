@@ -8,7 +8,7 @@ title: HoloLens permissions required to use version 7.0 of Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
-# HoloLens permissions required to use version 7.0 of Dynamics 365 Guides
+# HoloLens permissions required to use Dynamics 365 Guides
 
 Version 7.0 of Dynamics 365 Guides [introduced a new main menu and the ability to make calls from Microsoft HoloLens](new.md). To use these new features in the HoloLens app, you must provide permission to use HoloLens eye tracking, and the HoloLens camera and microphone. 
 
