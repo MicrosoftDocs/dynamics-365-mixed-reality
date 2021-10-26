@@ -16,7 +16,7 @@ ms.reviewer: v-brycho
 customers to attach guides to [!include[pn-field-service](../includes/pn-field-service.md)] tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. When work orders are assigned to technicians, 
 the technicians can use a dedicated **[!include[pn-field-service](../includes/pn-field-service.md)]** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app to launch the assigned guide and do their work.
 
-![Select guide.](media/select-guide-3.PNG "Select guide")   
+![Select guide.](media/select-guide-field-service.png "Select guide")   
 
 > [!IMPORTANT]
 > To attach guides to service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you need to have an existing [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Customer Engagement (CRM) instance with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.6.0.183 or later. You also need to update to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1907.0.33 or later ([learn how to upgrade the Dynamics 365 Guides 
