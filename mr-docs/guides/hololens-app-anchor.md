@@ -44,7 +44,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 2. On the **Scan QR Code Anchor** page, select **Initiate Scan**.
 
-    ![Initiate Scan button on the Scan QR Code Anchor page.](media/qr-code-scan.PNG "Initiate Scan button on the Scan QR Code Anchor page")
+    ![Initiate Scan button on the Scan QR Code Anchor page.](media/qr-code-scan.jpg "Initiate Scan button on the Scan QR Code Anchor page")
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the QR code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
