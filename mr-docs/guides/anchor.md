@@ -89,7 +89,7 @@ For information on the positional precision of holograms, make sure to see these
 
 - [Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)
 
-- [Effect of anchor types and placement](pc-app-anchor-anchor-types-placement-precision.md)
+- [Effect of anchor types and placement](pc-app-anchor-types-placement-precision.md)
 
 ## What's next?
 
