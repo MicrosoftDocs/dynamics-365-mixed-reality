@@ -33,7 +33,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 2. In the left pane, select **Users** \> **Active users**, and then select **Add a user** to open the **Add user** wizard.
 
-    ![Add a user.](media/add-user-4.png "Add a user")
+    ![Add a user.](media/add-user-5.png "Add a user")
 
 3. On the **Set up the basics** page, enter the user's first name, last name, display name, and user name.
 
