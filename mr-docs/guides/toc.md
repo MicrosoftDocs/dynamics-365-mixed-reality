@@ -111,6 +111,7 @@
 #### [Install the HoloLens app and sign in](hololens-app-install-sign-in.md)
 #### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
 ### Open a guide
+#### [Use the Main menu to start an activity](main-menu.md)
 #### [Find and open a guide](find-guide.md)
 #### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
 ### [Anchor your guide](operator-anchor.md)
