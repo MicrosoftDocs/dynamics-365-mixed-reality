@@ -78,9 +78,11 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 ## Anchor a guide by using a holographic anchor
 
-- Use your hand to manipulate and align a holographic anchor with a real-world object in your environment. Select **Confirm** when the anchor is aligned. 
+1. Use your hand to manipulate and align a holographic anchor with a real-world object in your environment. 
 
     ![Rotating a holographic anchor.](media/rotate-holographic-anchor.jpg "Rotating a holographic anchor")
+    
+2. Select **Confirm** when the anchor is aligned. 
 
     >[!TIP]
     >You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using a holographic anchor, select the **Anchor** button to make sure the digital version of the real object and the object itself are still aligned. 
