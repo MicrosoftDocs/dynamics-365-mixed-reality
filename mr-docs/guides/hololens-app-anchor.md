@@ -78,9 +78,9 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 ## Anchor a guide by using a holographic anchor
 
-- Use air tap and hold to move the holographic anchor and align it to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres. On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a digital anchor when you author a guide.
+- Use your hand to directly select and place a holographic anchor.
 
-    ![Rotating a holographic anchor.](media/rotate-digital-anchor.PNG "Rotating a holographic anchor")
+    ![Rotating a holographic anchor.](media/rotate-holographic-anchor.jpg "Rotating a holographic anchor")
 
     >[!TIP]
     >You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using a holographic anchor, select the **Anchor** button to make sure the digital version of the real object and the object itself are still aligned. 
