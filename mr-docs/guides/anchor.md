@@ -23,15 +23,15 @@ There are four ways to anchor a guide:
 
 - **Azure Object Anchors Preview** (recommended for larger static objects). Azure Object Anchors uses sensing and processing on HoloLens 2 to detect a digital model and align it to a physical object. You use the Guides model-driven app to convert an online 3D model to an object anchor, and then assign it to a guide.
 
-Azure Object Anchors offers the following advantages over other types of anchors:
+   Azure Object Anchors offers the following advantages over other types of anchors:
 
-- You don’t have to attach a physical marker to an object; the object is the anchor.
+     - You don’t have to attach a physical marker to an object; the object is the anchor.
 
-- Avoids potential human error when placing markers or with wear and tear of a marker over time.
+     - Avoids potential human error when placing markers or with wear and tear of a marker over time.
 
-- You can convert an existing 3D object model into an object anchor.
+     - You can convert an existing 3D object model into an object anchor.
 
-- Improved alignment accuracy and reliability.
+     - Improved alignment accuracy and reliability.
 
 - **QR code anchor (recommended for small to medium-size objects and spaces)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended for small to medium-size objects and spaces because it's the most accurate method, and you can print the anchor at different sizes. 
 
