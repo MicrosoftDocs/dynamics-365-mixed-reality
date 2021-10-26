@@ -18,7 +18,7 @@ To author and navigate through a guide in [!include[cc-microsoft](../includes/cc
 ## Gaze
 The easiest way to get around a guide is to gaze at an item (menu or button, for example). If the item has a selection box or circle (gaze/dwell button), you can select the item just by gazing at the button hit zone. The item is selected when the box or circle is filled. 
 
-![Gaze gesture.](media/gaze_fill-2.gif "Gaze gesture")
+![Gaze gesture.](media/gaze-fill-2.gif "Gaze gesture")
  
 In other cases, you use gaze to target an item, and then act on that selection by using a gesture. When you gaze, turn your whole head—not just your eyes. The cursor will follow. 
 
