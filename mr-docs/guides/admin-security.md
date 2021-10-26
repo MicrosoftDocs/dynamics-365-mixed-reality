@@ -82,7 +82,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 6. Select the group that you created, and then, in the pane that appears on the right, select the **Members** tab.
 
-    ![Members tab.](media/members-tab.PNG "Members tab")
+    ![Members tab.](media/members-tab-1.png "Members tab")
 
 7. On the **Members** tab, select **View all and manage owners**.
 
