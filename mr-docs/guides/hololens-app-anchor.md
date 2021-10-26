@@ -73,7 +73,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
     ![Aligning with the circular code anchor.](media/circular-code-green-outline.PNG "Aligning with the circular code anchor")
 
-4. On the **Circular Code Anchor Found** page, select **Confirm**.
+4. On the **Anchor Found** page, select **Confirm**.
 
     ![Confirm button on the Circular Code Anchor Found page.](media/circular-code-confirm.jpg "Confirm button on the Circular Code Anchor Found page")
     
