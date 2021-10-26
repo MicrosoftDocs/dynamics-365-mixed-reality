@@ -71,11 +71,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the circular code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
-    ![Aligning with the circular code anchor.](media/circular-code-green-outline.PNG "Aligning with the circular code anchor")
-
-4. On the **Anchor Found** page, select **Confirm**.
-
-    ![Confirm button on the Circular Code Anchor Found page.](media/circular-code-confirm.jpg "Confirm button on the Circular Code Anchor Found page")
+    ![Confirm button on the Anchor Found page.](media/circular-code-confirm.jpg "Confirm button on the Anchor Found page")
     
     >[!TIP]
     >You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using a circular code anchor, a good way to control hologram offset is to make sure the green outline aligns with the circular code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
