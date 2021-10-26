@@ -65,7 +65,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 1. Look at your palm to open the Main menu, and then select the **Profile** button.
 
-    ![Screen shot of hand and Main menu.](media/main-menu.PNG "Screen shot of hand and Main menu")
+    ![Screen shot of hand and Main menu.](media/main-menu-profile.jpg "Screen shot of hand and Main menu")
 
 2. Select **Sign out**.
 
