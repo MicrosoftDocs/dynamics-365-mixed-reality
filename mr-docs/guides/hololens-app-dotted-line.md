@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 You can add a dotted line in the Microsoft Dynamics 365 Guides HoloLens app to link a Step card to the area where the work is done. Dotted lines are a very simple but powerful 
 feature; they show operators where to focus.
 
-![Holographic dotted line.](media/dotted-line.PNG "Holographic dotted line")
+![Holographic dotted line.](media/dotted-line.jpg "Holographic dotted line")
 
 ## Add a dotted line
 
