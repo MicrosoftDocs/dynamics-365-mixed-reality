@@ -53,7 +53,7 @@ To assign user roles:
     
 6. Select the check box for the appropriate role, and then select **Save**.
 
-    ![Author and Operator check boxes.](media/select-role.PNG "Author and Operator check boxes")
+    ![Author and Operator check boxes.](media/select-role-1.png "Author and Operator check boxes")
 
     [Learn about the different Author and Operator roles](admin-role-types.md).
 
