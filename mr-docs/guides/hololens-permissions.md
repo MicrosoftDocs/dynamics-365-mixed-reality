@@ -24,7 +24,7 @@ When you open the HoloLens app for the first time in Dynamics 365 Guides version
 
 If you don't provide permissions through any one of these three dialog boxes, you'll see the following dialog box that prompts you to provide the necessary permissions again.
 
-![Guides permissions dialog box.](media/hololens-permissions-guides.PNG "Guides permissions dialog box")
+![Guides permissions dialog box.](media/hololens-permissions-guides.jpg "Guides permissions dialog box")
 
 You can't use the Dynamics 365 Guides version 7.0 HoloLens app until you provide all three permissions. 
 
