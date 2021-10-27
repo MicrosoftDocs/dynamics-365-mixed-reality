@@ -65,7 +65,7 @@ This topic provides step-by-step instructions for each type of anchor.
 
     ![Initiate Scan button on the Scan QR code page.](media/qr-code-scan.jpg "Initiate Scan button on the Scan QR code page")
 
-3. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the QR code anchor. Align the anchor hologram with the QR code anchor. When the green box is aligned, gaze at **Confirm** to select it.
+4. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the QR code anchor. Align the anchor hologram with the QR code anchor. When the green box is aligned, gaze at **Confirm** to select it.
     
     ![Confirm button on the QR Code Anchor Found page.](media/qr-code-confirm.jpg "Confirm button on the QR Code Anchor Found page")
     
@@ -84,7 +84,7 @@ This topic provides step-by-step instructions for each type of anchor.
 
     ![Initiate Scan button on the Scan Circular code page.](media/circular-code-scan.jpg "Initiate Scan button on the Scan Circular code page")
 
-4. On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a hologram that resembles the circular code anchor. Align the anchor hologram with the circular code anchor. When the green box is aligned, gaze at **Confirm** to select it.
+4. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the circular code anchor. Align the anchor hologram with the circular code anchor. When the green box is aligned, gaze at **Confirm** to select it.
 
     ![Confirm button on the Circular Code page.](media/circular-code-confirm.jpg "Confirm button on the Circular Code page")
     
