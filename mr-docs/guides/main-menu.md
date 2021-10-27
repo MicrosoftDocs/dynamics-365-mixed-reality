@@ -21,10 +21,10 @@ The following table describes each button on the Main menu.
 
 |Button|Description|
 |--------|-------------------------------------------------------------------------------------------------|
-|![Work activity button.](media/main-menu-work-activity-button.PNG "Work activity button")|Select and open a guide or search for a guide.|
-|![Call activity button.](media/main-menu-call-activity-button.PNG "Call activity button")|Find a contact and start a call.|
-|![Settings button.](media/main-menu-settings-button.PNG "Settings button")|Change the **Narrator** or **Telemetry** setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
-|![Profile button.](media/main-menu-profile-button.PNG "Profile button")| Sign out.|
+|![Work activity button.](media/main-menu-work-activity-button.jpg "Work activity button")|Select and open a guide or search for a guide.|
+|![Call activity button.](media/main-menu-call-activity-button.jpg "Call activity button")|Find a contact and start a call.|
+|![Settings button.](media/main-menu-settings-button.jpg "Settings button")|Change the **Narrator** or **Telemetry** setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
+|![Profile button.](media/main-menu-profile-button.jpg "Profile button")| Sign out.|
 
 ## Summon the Main menu whenever you need to start an activity or switch activities
 
