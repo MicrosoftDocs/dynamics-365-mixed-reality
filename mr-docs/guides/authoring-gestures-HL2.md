@@ -29,7 +29,7 @@ To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, 
 
 - **Gaze**. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. Often, you will use gaze and air tap together. When you gaze, turn your whole head, not just your eyes. The pointer will follow.
 
-    ![Gaze animation.](media/gaze-animation.gif "Gaze animation")
+    ![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
 - **Air tap**. Hold your hand straight out in front of you in a loose fist, point your index finger straight up toward the ceiling, tap your finger down, and then quickly raise it back up again.
 
