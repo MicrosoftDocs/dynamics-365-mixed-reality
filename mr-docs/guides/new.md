@@ -8,6 +8,7 @@ title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
+# 
 # What's new in Dynamics 365 Guides
 
 > [!IMPORTANT]
