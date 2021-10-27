@@ -12,9 +12,6 @@ ms.reviewer: v-brycho
 
 Hand-tracking in Microsoft [!include[pn-hololens](../includes/pn-hololens.md)] 2 provides instinctual interactions for authors. You can select and position holograms by using direct touch, just as if they were real objects. You can also use hand rays to interact with holograms that are out of reach.
 
-> [!NOTE]
-> If you're using HoloLens 1, see [Authoring and navigating gestures for HoloLens 1](authoring-gestures.md).
-
 ## Basic actions and gestures to know
 
 To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, you must know how to do these actions and gestures:
