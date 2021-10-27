@@ -41,7 +41,7 @@ If you added a 3D model to the bin in the PC app, you can place the 3D model in 
 
 When you author each guide step, you'll see a warning if the step complexity will likely result in a poor experience for the operator of the guide. 
 
-ADD SCREENSHOT HERE SHOWING FIRST MESSAGE
+![Screenshot of warning message.](media/step-content-warning.jpg "Screenshot of warning message")
 
 If you see the "Warning! High step memory usage" message, the 3D models that you place for the step will be displayed but the operator may have a degraded experience (the guide may have low frame rates or there may be noticeable loading times when moving between steps). 
 
