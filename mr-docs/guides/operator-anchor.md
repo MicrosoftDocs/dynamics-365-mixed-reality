@@ -5,14 +5,14 @@ ms.author: mamaylya
 ms.date: 07/30/2021
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides HoloLens app (operators)
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Anchor a guide in the Dynamics 365 Guides HoloLens app (for operators)
 
-When you open a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], the first thing that you see is the anchoring instructions for the guide. For example, if a QR code is used to anchor the guide, you see the **Scan QR Code Anchor** page.
+When you open a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], the first thing that you see is the anchoring instructions for the guide. For example, if a QR code is used to anchor the guide, you see the **Scan QR code** page.
 
-![Scan QR Code Anchor page.](media/qr-code-scan.PNG "Scan QR Code Anchor page")
+![Scan QR code page.](media/qr-code-scan.jpg "Scan QR code page")
 
 Like the calibration of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], anchoring a guide is a crucial step. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don't line up, you'll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place.
 
