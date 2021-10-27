@@ -108,10 +108,10 @@ When you align your guide, if you're using the [!include[cc-microsoft](../includ
 
 ## What's next?
 
-[Calibrate your HoloLens](operator-calibrate.hl2)<br>
-[Install the app and sign in](hololens-app-install-sign-in.md)<br>
-[Gestures for navigating the app](operator-gestures.md)<br>
-[Operate a guide](operator-step-card-orientation.md)
+- [Calibrate your HoloLens](operator-calibrate-hl2)
+- [Install the app and sign in](hololens-app-install-sign-in.md)
+- [Gestures for navigating the app](operator-gestures.md)
+- [Operate a guide](operator-step-card-orientation.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
