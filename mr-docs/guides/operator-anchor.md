@@ -65,13 +65,9 @@ This topic provides step-by-step instructions for each type of anchor.
 
     ![Initiate Scan button on the Scan QR code page.](media/qr-code-scan.jpg "Initiate Scan button on the Scan QR code page")
 
-3. On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a hologram that resembles the QR code anchor. Align the anchor hologram with the QR code anchor. When the green box is aligned, gaze at **Confirm** to select it.
-
-    ![QR code alignment.](media/qr-code-green-outline.PNG "QR code alignment")
-
-4. On the **QR Code Anchor Found** page, select **Confirm**.
-
-    ![Confirm button on the QR Code Anchor Found page.](media/qr-code-confirm.PNG "Confirm button on the QR Code Anchor Found page")
+3. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the QR code anchor. Align the anchor hologram with the QR code anchor. When the green box is aligned, gaze at **Confirm** to select it.
+    
+    ![Confirm button on the QR Code Anchor Found page.](media/qr-code-confirm.jpg "Confirm button on the QR Code Anchor Found page")
     
     > [!TIP]
     > You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be referencing a tool, but is floating in the air away from the tool bench). When using a QR code anchor, a good way to control hologram offset is to make sure the green outline aligns with the QR code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
