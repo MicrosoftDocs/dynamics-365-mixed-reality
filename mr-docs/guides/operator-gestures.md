@@ -17,7 +17,7 @@ To move through a guide as an operator in [!include[cc-microsoft](../includes/cc
 
 ## Gaze
 
-Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is as easy as it sounds. In some cases, you can select an item (for example, an app, menu, or button) just by gazing at a selection box next to it. For example, when you first start the [!include[pn-hololens](../includes/pn-hololens.md)] app, you will gaze at the box to the left of **Operate** in the **Select Mode** dialog box to select **Operate** mode. The selection is completed when the box is filled up by your gaze.
+Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is as easy as it sounds. In some cases, you can select an item (for example, an app, menu, or button) just by gazing at a selection box next to it. 
 
 Gaze is very useful if your hands are busy with tools or parts.
 
