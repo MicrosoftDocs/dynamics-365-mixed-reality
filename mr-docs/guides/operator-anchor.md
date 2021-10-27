@@ -110,7 +110,7 @@ When you align your guide, if you're using the [!include[cc-microsoft](../includ
 
 - [Calibrate your HoloLens](operator-calibrate-HL2.md)
 - [Install the app and sign in](hololens-app-install-sign-in.md)
-- [Gestures for navigating the app](operator-gestures.md)
+- [Gestures for navigating the app](operator-gestures-HL2.md)
 - [Operate a guide](operator-step-card-orientation.md)
 
 
