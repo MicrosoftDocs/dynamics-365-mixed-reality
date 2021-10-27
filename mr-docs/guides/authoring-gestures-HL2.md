@@ -144,7 +144,7 @@ You can use hand rays to work with UI elements and holograms from a distance. Yo
 
 2. Continue to gaze until the button is filled.
 
-    ![Gaze animation.](media/gaze-animation.gif "Gaze animation")
+   ![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
 ## Open the Start menu
 
