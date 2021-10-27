@@ -33,7 +33,7 @@ If you added a 3D model to the bin in the PC app, you can place the 3D model in 
 
 2. Air tap a category (for example, **Arrows** or **Hands**), and then air tap the specific 3D model that you want to add.
 
-    ![Categories.](media/step-card-hands.PNG "Categories")
+    ![Categories.](media/step-card-arrow.jpg "Categories")
 
     The item is added to your bin. You can then place it in the same way that you place a 3D part.
 
