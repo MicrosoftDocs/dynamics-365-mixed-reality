@@ -23,7 +23,7 @@ You (and your operators) move through a guide by gazing at the **Next** and **Ba
 
 The following illustration shows the different user interface elements for the Step card page.
 
-![HoloLens buttons.](media/step-card-orientation-2.PNG "HoloLens buttons")
+![HoloLens buttons.](media/step-card-orientation.jpg "HoloLens buttons")
 
 Here's what each button or UI element is used for.
 
