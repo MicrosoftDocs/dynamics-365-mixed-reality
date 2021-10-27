@@ -59,11 +59,11 @@ This topic provides step-by-step instructions for each type of anchor.
 
     ![QR code anchor.](media/qr-code-example.PNG "QR code anchor")
 
-2. Put on your HoloLens, and open the guide. If a QR code is used to anchor the guide, you will see the **Scan QR Code Anchor** page.
+2. Put on your HoloLens and open the guide. If a QR code is used to anchor the guide, you'll see the **Scan QR code** page.
 
-3. On the **Scan QR Code Anchor** page, select **Initiate Scan**. 
+3. On the **Scan QR code** page, select **Initiate Scan**. 
 
-    ![Initiate Scan button on the Scan QR Code Anchor page.](media/qr-code-scan.PNG "Initiate Scan button on the Scan QR Code Anchor page")
+    ![Initiate Scan button on the Scan QR code page.](media/qr-code-scan.jpg "Initiate Scan button on the Scan QR code page")
 
 3. On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a hologram that resembles the QR code anchor. Align the anchor hologram with the QR code anchor. When the green box is aligned, gaze at **Confirm** to select it.
 
