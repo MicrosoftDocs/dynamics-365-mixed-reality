@@ -49,7 +49,7 @@ If you continue to add 3D models and HoloLens reaches its memory limit, you'll s
 
 ![Screenshot of Step content failed to load message.](media/step-content-failed-load.jpg "Screenshot of Step content failed to load message")
 
-You can't place any additional 3D models at this point. If a model was previously placed in the world, it will be represented with an exclamation point icon to authors and operators. 
+You can't place any additional 3D models at this point. If a model was previously placed in the world, it will be represented as an exclamation point icon to authors and operators. 
 
 ![Screenshot of exclamation point icon.](media/exclamation-point-icon.jpg "Screenshot of exclamation point icon")
 
