@@ -55,7 +55,7 @@ This topic provides step-by-step instructions for each type of anchor.
  
 ## Anchor your guide by using a QR code anchor
 
-1. Look for a QR code anchor that is attached to a physical object in your real-world environment. The QR code anchor will resemble this illustration.
+1. Look for a QR code anchor that's attached to a physical object in your real-world environment. The QR code anchor will resemble this illustration.
 
     ![QR code anchor.](media/qr-code-example.PNG "QR code anchor")
 
