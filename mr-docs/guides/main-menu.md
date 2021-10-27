@@ -54,4 +54,4 @@ The following table summarizes when to use touch vs. gaze in the Dynamics 365 Gu
 
 - [Find and open a guide](find-guide.md)
 - [Make a call (Preview)](make-call.md)
-- [Learn about permissions required to use the HoloLens app in version 7.0](hololens-permissions.md)
+- [Learn about permissions required to use the HoloLens app](hololens-permissions.md)
