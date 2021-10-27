@@ -93,13 +93,11 @@ This topic provides step-by-step instructions for each type of anchor.
 
 ## Anchor your guide by using a holographic anchor
 
-For a holographic anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world. For example, in the following illustration, a holographic anchor is being aligned with its physical counterpart in the real world.
-
-![Holographic anchor example.](media/digital-anchor-example.PNG "Holographic anchor example")
+For a holographic anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world. 
 
 To align the holographic anchor with its real-world counterpart, air tap and hold to move the hologram. Tap and hold the blue spheres to rotate the hologram as required.
 
-![Rotating a holographic anchor.](media/rotate-digital-anchor.PNG "Rotating a holographic anchor")
+![Rotating a holographic anchor.](media/rotate-holographic-anchor.jpg "Rotating a holographic anchor")
 
 > [!TIP]
 > You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be referencing a tool, but is floating in the air away from the tool bench). When using a holographic anchor, select the **Anchor** button to make sure the digital version of the real object and the object itself are still aligned.
