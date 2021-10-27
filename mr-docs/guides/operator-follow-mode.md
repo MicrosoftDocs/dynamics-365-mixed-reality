@@ -14,7 +14,7 @@ When you're using the Dynamics 365 Guides HoloLens app, wherever you look, the S
 
 ![Follow mode button.](media/instruction-card-follow-mode.jpg "Follow mode button")
 
-To move the instruction card where you want it, raise your hand to display the navigation bar, and then move the instruction card wherever you want. 
+To move the Step card where you want it, raise your hand to display the navigation bar, and then move the Step card wherever you want. 
 
 ![Navigation bar on instruction card.](media/instruction-card-navigation-bar.jpg "Navigation bar on instruction card")
 
