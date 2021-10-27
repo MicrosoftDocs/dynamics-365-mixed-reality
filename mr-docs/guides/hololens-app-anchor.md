@@ -16,7 +16,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 1. Put on your HoloLens, and then locate the target object in your physical environment.
 
-2. In the **Scan Target Object** dialog box, select **Initiate scan**.
+2. In the **Scan target object** dialog box, select **Initiate scan**.
 
      ![Scan Target Object dialog box.](media/azure-object-scan.jpg "Scan Target Object dialog box")
  
