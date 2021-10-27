@@ -53,7 +53,7 @@ You can't place any additional 3D models at this point. If a model was previousl
 
 ![Screenshot of exclamation point icon.](media/exclamation-point-icon.jpg "Screenshot of exclamation point icon")
 
-The exclamation point will also appear next to the model on the parts shelf to let authors know that it failed to load and can't be placed.
+The exclamation point will also appear next to the model on the parts shelf to let you know that it failed to load and can't be placed.
 
 ![Screenshot of exclamation point next to model.](media/exclamation-point-model.jpg "Screenshot of exclamation point next to model")
 
