@@ -10,11 +10,9 @@ ms.reviewer: v-brycho
 
 # Turn Follow mode off or on in the Dynamics 365 Guides HoloLens app
 
-When you're using the Dynamics 365 Guides HoloLens app, you'll notice that, wherever you look, the Step card follows your gaze. While you're working, you never have to worry about where your instructions are. If you don't want the Step card to follow you around, you can turn off **Follow** mode from the navigation bar.
+When you're using the Dynamics 365 Guides HoloLens app, wherever you look, the Step card follows your gaze. While you're working, you never have to think about where your instructions are. If you don't want the Step card to follow you around (you want to pin the Step card in a particular place), you can turn off **Follow** mode from the navigation bar.
 
 ![Follow mode button.](media/instruction-card-follow-mode.jpg "Follow mode button")
-
-You can also grab the navigation bar at any time to place the card exactly where you want it.
 
 ## What's next?
 
