@@ -49,6 +49,6 @@ If you don't configure the IPD for each user:
 ## What's next?
 
 - [Install the app and sign in](hololens-app-install-sign-in.md)
-- [Gestures for navigating the app](authoring-gestures-HL2.md)
+- [HoloLens gestures for authoring and navigating the app](authoring-gestures-HL2.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
