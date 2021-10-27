@@ -42,7 +42,7 @@ The [Main menu](main-menu.md) makes it easy to start a call activity at any time
 
     ![Screen shot of hand and Main menu.](media/main-menu-call.PNG "Screen shot of hand and Main menu")
     
-2. In the **Recent people** screen, select a contact. If you don't see the contact you're looking for, select the **Search** button at the bottom of the screen. 
+2. In the **Recent people** screen, select a contact. If you don't see the contact you're looking for, select the **Search** button at the bottom of the screen, and then use the holographic keyboard to enter a contact's name. 
 
     ![Screen shot of Call submenu.](media/main-menu-call-submenu.PNG "Screen shot of Call submenu")
     
