@@ -16,7 +16,7 @@ To move through a guide as an operator in [!include[cc-microsoft](../includes/cc
 
 Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is as easy as it sounds. In some cases, you can select an item (for example, an app, menu, or button) just by gazing at a selection box next to it. For example, you can select the **Next** or **Go back** button on an instruction card (Step card) by gazing at the button. The selection is completed when the box for the button is filled up by your gaze.
 
-![Gaze animation.](media/gaze-animation.gif "Gaze animation")
+![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
 Gaze is very useful if your hands are busy with tools or parts.
 
