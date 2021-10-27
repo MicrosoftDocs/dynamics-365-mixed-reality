@@ -47,7 +47,7 @@ If you see the "Warning! High step memory usage" message, the 3D models that you
 
 If you continue to add 3D models and HoloLens reaches its memory limit, you'll see the "Step content failed to load" message.
 
-ADD SCREENSHOT HERE SHOWING MESSAGE
+![Screenshot of Step content failed to load message.](media/step-content-failed-load.jpg "Screenshot of Step content failed to load message")
 
 At this point, any additional 3D model that you place will appear as an error icon. 
 
