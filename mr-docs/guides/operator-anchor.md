@@ -34,7 +34,7 @@ This topic provides step-by-step instructions for each type of anchor.
 
 1. Put on your HoloLens, and then locate the target object in your physical environment.
 
-2. In the **Scan Target Object** dialog box, select **Initiate scan**.
+2. In the **Scan target object** dialog box, select **Initiate Scan**.
 
      ![Scan Target Object dialog box.](media/azure-object-scan.jpg "Scan Target Object dialog box")
  
