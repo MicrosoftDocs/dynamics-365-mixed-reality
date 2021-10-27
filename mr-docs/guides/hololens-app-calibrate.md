@@ -1,14 +1,14 @@
 ---
 author: Mamaylya
-description: Learn how to calibrate your HoloLens 1 device for authoring in the Microsoft Dynamics 365 Guides HoloLens app.
+description: Learn how to calibrate your HoloLens 2 device for authoring in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
 ms.date: 12/08/2020
 ms.topic: article
-title: Calibrate HoloLens 1 and HoloLens 2 devices for authoring in the Dynamics 365 Guides HoloLens app
+title: Calibrate your HoloLens 2 device for authoring in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 
-# Calibrate your HoloLens for authoring in the Dynamics 365 Guides HoloLens app
+# Calibrate your HoloLens 2 for authoring in the Dynamics 365 Guides HoloLens app
 
 To make sure that holograms appear in the correct locations for guides you author in Dynamics 365 Guides, you must set the interpupillary distance (IPD) for your HoloLens. You can set your IPD by using the Calibration app included with HoloLens. This step must be completed for every HoloLens user, whether you're an author or operator. In an industrial setting where holograms are used to direct operators to perform operational tasks, it's crucial that holograms are correctly aligned. Incorrect alignment can cause operator confusion and costly damage. 
 
@@ -49,6 +49,6 @@ If you don't configure the IPD for each user:
 ## What's next?
 
 - [Install the app and sign in](hololens-app-install-sign-in.md)
-- [HoloLens gestures for authoring and navigating the app](authoring-gestures-HL2.md)
+- [HoloLens 2 gestures for authoring and navigating the app](authoring-gestures-HL2.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
