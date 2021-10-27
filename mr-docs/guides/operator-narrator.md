@@ -24,7 +24,7 @@ If you turn narration on or off, narration will stay on or off for the current a
 
 1. Look at the palm of your hand to open the Main menu, and then touch the **Settings** button. 
 
-    ![Narration setting.](media/main-menu-settings.png "Narration setting")
+    ![Main menu with Settings button highlighted.](media/main-menu-settings.jpg "Main menu with Settings button highlighted")
 
 - In the **Settings** screen, move the **Narration** slider to the on position.
 
