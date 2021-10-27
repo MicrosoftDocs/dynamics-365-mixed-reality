@@ -80,7 +80,7 @@ This topic provides step-by-step instructions for each type of anchor.
 
 2. Put on your HoloLens and open the guide. If a circular code is used to anchor the guide, you'll see the **Scan circular code** page.
 
-3. On the **Scan Circular code** page, select **Initiate Scan**. 
+3. On the **Scan circular code** page, select **Initiate Scan**. 
 
     ![Initiate Scan button on the Scan Circular code page.](media/circular-code-scan.jpg "Initiate Scan button on the Scan Circular code page")
 
