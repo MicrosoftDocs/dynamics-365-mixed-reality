@@ -75,7 +75,7 @@
 
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
-#### [Calibrate your HoloLens](hololens-app-calibrate.md) 
+#### [Calibrate your HoloLens 2 device](hololens-app-calibrate.md) 
 #### Install the app and sign in
 ##### [Install the app and sign in](hololens-app-install-sign-in.md)
 ##### [HoloLens permissions required for version 7.0](hololens-permissions.md)
@@ -92,7 +92,7 @@
 ##### [Change animation options](hololens-app-animations.md)
 ##### [Create a trigger for step navigation](hololens-app-trigger.md)
 #### [Make a call (Preview)](make-call.md)
-#### [HoloLens gestures for authoring and navigating](authoring-gestures-HL2.md)
+#### [HoloLens 2 gestures for authoring and navigating](authoring-gestures-HL2.md)
 #### [Voice commands](voice-commands.md)
 #### [Change a setting](change-setting.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
@@ -101,7 +101,7 @@
 
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
-### [Calibrate your HoloLens](operator-calibrate-HL2.md)
+### [Calibrate your HoloLens 2 device](operator-calibrate-HL2.md)
 ### Install the HoloLens app and sign in
 #### [Install the HoloLens app and sign in](hololens-app-install-sign-in.md)
 #### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
@@ -123,7 +123,7 @@
 #### [Voice commands](voice-commands.md)
 #### [Have HoloLens narrate instructions](operator-narrator.md)
 ### [Make a call](make-call.md)
-### [Gestures for navigating a guide](operator-gestures-HL2.md)
+### [Hololens 2 gestures for navigating a guide](operator-gestures-HL2.md)
 ### [Change a setting](change-setting.md)
 ### [Voice commands](voice-commands.md)
 
