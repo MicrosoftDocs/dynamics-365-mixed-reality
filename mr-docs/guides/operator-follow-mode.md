@@ -16,8 +16,6 @@ When you're using the Dynamics 365 Guides HoloLens app, you'll notice that, wher
 
 You can also grab the navigation bar at any time to place the card exactly where you want it.
 
-![Grabbing the navigation bar.](media/follow-button-move-card.PNG "Grabbing the navigation bar")
-
 ## What's next?
 
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Get oriented with the Step card](operator-step-card-orientation.md)<br>
