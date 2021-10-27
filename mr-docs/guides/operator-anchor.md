@@ -86,11 +86,7 @@ This topic provides step-by-step instructions for each type of anchor.
 
 4. On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a hologram that resembles the circular code anchor. Align the anchor hologram with the circular code anchor. When the green box is aligned, gaze at **Confirm** to select it.
 
-    ![Holographic marker.](media/circular-code-green-outline.PNG "Holographic marker")
-
-5. On the **Circular Code Anchor Found** page, select **Confirm**.
-
-    ![Confirm button on the Circular Code Anchor Found page.](media/circular-code-confirm.PNG "Confirm button on the Circular Code Anchor Found page")
+    ![Confirm button on the Circular Code page.](media/circular-code-confirm.jpg "Confirm button on the Circular Code page")
     
     > [!TIP]
     > You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be referencing a tool, but is floating in the air away from the tool bench). When using a circular code anchor, a good way to control hologram offset is to make sure the green outline aligns with the circular code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
