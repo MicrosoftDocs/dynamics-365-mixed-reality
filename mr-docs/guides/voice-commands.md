@@ -70,13 +70,13 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ### Guides and folders list
 
-![XXX.](media/voice-commands-XXX.jpg "XXX")
+![Work activity screen.](media/voice-commands-work-activity.jpg "Work activity screen")
 
 |Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Scroll up" | Scroll the list up. |
-| 2 | "Scroll down" | Scroll the list down. |
-| 3 | "Minimize" | Hide the content panel and the Main menu. |
+| 1 | "Minimize" | Hide the content panel and the Main menu. |
+| 2 | "Scroll up" | Scroll the list up. |
+| 3 | "Scroll down" | Scroll the list down. |
 | 4 | "Start search" | Activate the search and open the keyboard. |
 | 5 | "Clear search" | Delete the text in the Search box. |
 | 6 | "Previous folder" | Go back to the previous folder. |
