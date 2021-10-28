@@ -61,10 +61,10 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | Not shown | "Show Main menu" | Open the Main menu or bring it to you. |
 | Not shown | "Hide Main menu" | Hide the Main menu. |
-| 3 | "Show Work" | Open the Work activity to see your guides and folders. |
-| 4 | "Show Call" | Open the Call activity to see your contacts. |
-| 5 | "Show Settings" | Open the **Settings** page. |
-| 6 | "Show Profile" | Open the **Profile** page. |
+| 1 | "Show Work" | Open the Work activity to see your guides and folders. |
+| 2 | "Show Call" | Open the Call activity to see your contacts. |
+| 3 | "Show Settings" | Open the **Settings** page. |
+| 4 | "Show Profile" | Open the **Profile** page. |
 
 ## Work activity
 
