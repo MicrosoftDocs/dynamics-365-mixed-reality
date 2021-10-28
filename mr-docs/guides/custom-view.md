@@ -14,7 +14,7 @@ If you want to create a custom list of guides for a specific user or set of user
 
 The following illustration shows an example of a custom tab that contains a custom list of guides.
 
-![Example of a custom view that appears on a HoloLens tab.](media/custom-view-hololens-tab.PNG "Example of a custom view that appears on a HoloLens tab")
+![Example of a custom view that appears on a HoloLens tab.](media/custom-tab.jpg "Example of a custom view that appears on a HoloLens tab")
 
 Custom views are useful when you want to show a set of guides that is related to a specific workflow. For example, you might want to show a different set of guides to each team or business unit. Alternatively, you might want to show a list of guides that is targeted at a specific type of operator role.
 
