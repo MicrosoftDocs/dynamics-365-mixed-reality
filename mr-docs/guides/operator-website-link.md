@@ -10,7 +10,7 @@ ms.reviewer: v-brycho
 
 # Open a website from the Dynamics 365 Guides HoloLens app
 
-If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **Website link** button, you can go to the website by selecting the button. For example, there might be a link to a parts diagram or a parts inventory system. The website is opened in the HoloLens Microsoft Edge browser. When you close the browser, you go back to the step that you were working on.
+If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **Website link** button, you can go to the website by selecting the button. For example, there might be a link to a parts diagram or a parts inventory system. The website is opened in the Microsoft HoloLens Edge browser. When you close the browser, you go back to the step that you were working on.
 
 ![Website link button.](media/website-powerapps-link.jpg "Website link button")
 
