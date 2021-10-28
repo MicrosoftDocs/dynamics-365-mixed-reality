@@ -43,10 +43,13 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
     If a user tries to start a call while working in an environment where calling is disabled, the user will see the following error message:
 
     "**Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license.**"
+    
+    > [!NOTE]
+    > Enabling or disabling calling is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-revoke-access).
 
 ## See also
 
-[Overview of making calls in Dynamics 365 Guides](make-call.md)
+[Make a call in Dynamics 365 Guides](make-call.md)
 
 [Licensing and product requirements for making calls in Dynamics 365 Guides](requirements.md)
 
