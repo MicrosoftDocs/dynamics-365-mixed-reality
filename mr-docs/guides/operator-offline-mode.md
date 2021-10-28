@@ -14,7 +14,7 @@ You can work offline with a guide on HoloLens 1 or HoloLens 2 (for example, when
 
 You don't need to do anything to set up **Offline** mode. When you open a guide when you're connected to the internet, the guide is automatically downloaded for offline use. If you lose your internet connection or turn off your Wi-Fi connection, the guide will automatically be available and you'll see the **Offline** banner at the top of your screen.
 
-![Offline mode.](media/offline-mode.PNG "Offline mode")
+![Offline mode.](media/offline-mode-touch-screen.jpg "Offline mode")
 
 Any guide that's available for offline use will appear under the **All** tab. If no guides are available offline, you'll see this message: 
 
@@ -96,15 +96,14 @@ You can clear the content and settings cached on a HoloLens by resetting it.
 8. In the pop-up message, select **Reset**. A check mark will appear next to the **Reset** button.
 
 ## What's next?
-
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Get oriented with the Step card](operator-step-card-orientation.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use the dotted line to find the focus area for a step](operator-dotted-line.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn Follow mode off or on](operator-follow-mode.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use triggers to move between steps](operator-trigger.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Open a website from the Step card](operator-website-link.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Open an app in Power Apps from the Step card](operator-powerapps-link.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn holograms off and on](operator-holograms-off.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use voice commands](voice-commands.md)<br>
+- [Get oriented with the Step card](operator-step-card-orientation.md)
+- [Use the dotted line to find the focus area for a step](operator-dotted-line.md)
+- [Turn Follow mode off or on](operator-follow-mode.md)
+- [Use triggers to move between steps](operator-trigger.md)
+- [Open a website from the Step card](operator-website-link.md)
+- [Open an app in Power Apps from the Step card](operator-powerapps-link.md)
+- [Turn holograms off and on](operator-holograms-off.md)
+- [Use voice commands](voice-commands.md)<br>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
