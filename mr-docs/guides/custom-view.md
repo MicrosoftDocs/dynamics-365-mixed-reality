@@ -122,7 +122,7 @@ The following illustration shows an example of a tab named **Custom Tab**. The n
 
 3. The **Date and Time** field
 
-4. An additional field (This field can be any field that you want to add.)
+4. An additional field. This field can be any field that you want to add.
 
 ### Create the view
 
