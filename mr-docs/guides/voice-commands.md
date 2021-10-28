@@ -55,12 +55,12 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Main menu
 
-![XXX.](media/voice-commands-XXX.jpg "XXX")
+![Main menu.](media/voice-commands-main-menu.jpg "Main menu")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Show main menu" | Open the Main menu or bring it to you. |
-| 2 | "Hide main menu" | Hide the Main menu. |
+| 1 | "Show Main menu" | Open the Main menu or bring it to you. |
+| 2 | "Hide Main menu" | Hide the Main menu. |
 | 3 | "Show Work" | Open the Work activity to see your guides and folders. |
 | 4 | "Show Call" | Open the Call activity to see your contacts. |
 | 5 | "Show Settings" | Open the **Settings** page. |
