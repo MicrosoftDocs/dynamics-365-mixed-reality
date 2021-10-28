@@ -37,9 +37,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Sign-in page
 
-UPDATED SCREEN SHOT GOES HERE
-
-![Sign-in page.](media/voice-sign-in.PNG "Sign-in page")
+![Sign-in page.](media/voice-commands-sign-in.jpg "Sign-in page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
