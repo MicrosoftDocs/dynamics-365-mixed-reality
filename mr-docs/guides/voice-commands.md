@@ -87,8 +87,8 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Operate" | Select **Operate** mode. |
-| 2 | "Author" | Select **Author** mode. |
+| 1 | "Author" | Select **Author** mode. |
+| 2 | "Operate" | Select **Operate** mode. |
 | 3 | "Go back" | Go back to the guides and folders list and cancel opening the current guide. |
 | 4 | "Minimize" | Hide the content panel and the Main menu. |
 
