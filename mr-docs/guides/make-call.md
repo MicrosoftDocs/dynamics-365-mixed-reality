@@ -8,7 +8,7 @@ title: Make a call in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
 ---
 
-# Make a call (Preview) in the Dynamics 365 Guides HoloLens app
+# Make a call (Preview) from the Dynamics 365 Guides HoloLens app
 
 > [!IMPORTANT]
 > Some or all of the functionality noted in this article is available as part of a preview release. The content and the functionality are subject to change. 
