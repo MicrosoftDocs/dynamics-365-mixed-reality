@@ -114,7 +114,7 @@ The following rules apply to the view:
 
 The following illustration shows an example of a tab that is named **Custom Tab** on HoloLens. It also shows where the values for each part of the tab come from.
 
-![HoloLens tab.](media/custom-view-hololens-tab-sources.PNG "HoloLens tab")
+![Custom tab elements.](media/custom-tab-elements.jpg "Custom tab elements")
 
 1. The name of the view that you create
 
