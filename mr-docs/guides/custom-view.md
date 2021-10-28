@@ -112,7 +112,7 @@ The following rules apply to the view:
 
 - Nonempty values are concatenated and shown below the guide name.
 
-The following illustration shows an example of a tab that is named **Custom Tab** on HoloLens. It also shows where the values for each part of the tab come from.
+The following illustration shows an example of a tab named **Custom Tab**. The numbers and table below the illustration show where the values for each part of the tab come from.
 
 ![Custom tab elements.](media/custom-tab-elements.jpg "Custom tab elements")
 
