@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 
 If you want to create a custom list of guides for a specific user or set of users in Microsoft Dynamics 365 Guides, you can create a custom view. Operators access the view through a custom tab on HoloLens. This tab contains only the guides that are defined by the custom view. 
 
-The following illustration shows an example of a custom tab that contains a custom list of guides.
+The following screenshot shows an example of a custom tab that contains a custom list of guides.
 
 ![Example of a custom view that appears on a HoloLens tab.](media/custom-tab.jpg "Example of a custom view that appears on a HoloLens tab")
 
