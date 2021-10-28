@@ -46,7 +46,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Instance selection page
 
-SCREEN SHOT GOES HERE
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -55,7 +55,7 @@ SCREEN SHOT GOES HERE
 
 ## Main menu
 
-SCREEN SHOT GOES HERE
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -70,7 +70,7 @@ SCREEN SHOT GOES HERE
 
 ### Guides and folders list
 
-SCREEN SHOT GOES HERE
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 |Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -83,9 +83,7 @@ SCREEN SHOT GOES HERE
 
 ## Mode selection screen
 
-UPDATED SCREEN SHOT GOES HERE
-
-![Select mode page.](media/voice-select-mode.PNG "Select mode page")
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -121,9 +119,7 @@ UPDATED SCREEN SHOT GOES HERE
 
 ## Step card page
 
-UPDATED SCREEN SHOT GOES HERE
-
-![Step card page.](media/voice-step-card.PNG "Step card page")
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
@@ -178,7 +174,7 @@ Use the commands in the following table to turn narration on or off or to select
 
 ## Call activity
 
-SCREEN SHOT GOES HERE
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -190,7 +186,7 @@ SCREEN SHOT GOES HERE
 
 ## Start a call
 
-SCREEN SHOT GOES HERE
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -199,7 +195,7 @@ SCREEN SHOT GOES HERE
 
 ## Active call
 
-SCREEN SHOT GOES HERE
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -211,11 +207,11 @@ SCREEN SHOT GOES HERE
 
 ## Settings
 
-SCREEN SHOT GOES HERE
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 ## Profile
 
-SCREEN SHOT GOES HERE
+![XXX.](media/voice-commands-XXX.jpg "XXX")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
