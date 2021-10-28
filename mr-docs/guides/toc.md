@@ -127,6 +127,8 @@
 ### [Change a setting](change-setting.md)
 ### [Voice commands](voice-commands.md)
 
+## [Make a call from the HoloLens app](make-call.md)
+
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
 ### [Data collected and how to use it](analytics-data-collected.md)
