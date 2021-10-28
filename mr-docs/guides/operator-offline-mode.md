@@ -22,7 +22,9 @@ Any guide that's available for offline use will appear under the **All** tab. If
 
 ## Signing in while offline
 
-If you go offline, Dynamics 365 Guides automatically signs you into the last account you used when you were online. 
+If you go offline, Dynamics 365 Guides automatically signs you into the last account you used when you were online. The word "Offline" appears in the **Sign-in** page to remind you that you're offline.
+
+![Screenshot of sign-in page when offline.](media/sign-in-offline.jpg "Screenshot of sign-in page when offline")
 
 > [!IMPORTANT]
 > If you sign out when you're offline, you won't be able to sign back in again until you reconnect to the internet.
