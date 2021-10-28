@@ -23,7 +23,7 @@ When you open a guide as an operator by using the [!include[pn-dyn-365-guides](.
 
 In addition to the **Next** and **Back** buttons, the Step card includes several buttons and user interface (UI) elements that help you perform various actions.
 
-![Step card buttons.](media/operator-step-card-orientation.PNG "Step card buttons")
+![Step card buttons.](media/operator-instruction-card-orientation.jpg "Step card buttons")
 
 Here's a description of the buttons and other UI elements on the Step card.
 
