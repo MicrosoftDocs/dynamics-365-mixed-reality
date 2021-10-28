@@ -81,9 +81,9 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 5 | "Clear search" | Delete the text in the Search box. |
 | 6 | "Previous folder" | Go back to the previous folder. |
 
-## Mode selection screen
+## Select mode screen
 
-![XXX.](media/voice-commands-XXX.jpg "XXX")
+![Select mode screen.](media/voice-commands-select-mode.jpg "Select mode screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
