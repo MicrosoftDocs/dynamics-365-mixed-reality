@@ -39,7 +39,7 @@ Likewise, if you use more than one HoloLens, you'll need to open the guide on ea
 
 You can access a guide using a QR code link as long as you've used the guide while you had an internet connection.
 
-## Using the Dynamics 365 Guides demo when you're offline
+## Using the "Try a guide" demo when you're offline
 
 The demo available through the Dynamics 365 Guides Home screen is available for use without an internet connection.
 
