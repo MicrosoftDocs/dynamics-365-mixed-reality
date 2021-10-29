@@ -194,15 +194,16 @@ Use the commands in the following table to turn narration on or off or to select
 
 ## Active call
 
-![XXX.](media/voice-commands-XXX.jpg "XXX")
+![Active call screen.](media/voice-commands-active-call.jpg "Active call screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Start video" | Turn the video camera on. |
-| 2| "Stop video" | Turn the video camera off. |
+| Not shown| "Stop video" | Turn the video camera off. |
+| 2| "End call" | Finalize the current call. |
 | 3 | "Mute" | Mute the microphone. |
-| 4| "Unmute" | Unmute the microphone. |
-| 5| "End call" | Finalize the current call. |
+| Not shown| "Unmute" | Unmute the microphone. |
+
 
 ## Settings
 
