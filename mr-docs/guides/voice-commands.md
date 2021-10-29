@@ -199,7 +199,7 @@ Use the commands in the following table to turn narration on or off or to select
 | Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1| "Start video" or "Stop video" | Turn the video camera on or off. |
-| 2| "End call" | Finalize the current call. |
+| 2| "End call" | Close the current call. |
 | 3 | "Mute" or "Unmute" | Mute or unmute the microphone. |
 
 ## Settings
