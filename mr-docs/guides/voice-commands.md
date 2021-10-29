@@ -138,13 +138,12 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Outline list
 
-![Task list page that shows scroll up and scroll down buttons.](media/outline-page-list.PNG "Task list page that shows scroll up and scroll down buttons")
+![Task list page that shows scroll up and scroll down buttons.](media/voice-commands-outline-list.jpg "Task list page that shows scroll up and scroll down buttons")
 
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
 | 1 | ![Scroll up button.](media/scroll-up-button.png "Scroll up button") | "Scroll up" | Scroll up the list. |
 | 2 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
-| 3 | ![Scroll down button.](media/exit-button.PNG "Scroll down button") | "Close window" | Close the window. |
 
 ## Author mode commands
 
