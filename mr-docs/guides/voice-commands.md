@@ -136,7 +136,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 11 | ![Restart guide button.](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.|
 | 11 | ![Exit button.](media/exit-button.PNG "Exit button") | "Exit guide" | Exit the current guide.</p> |
 
-## Outline instance list
+## Outline list
 
 ![Task list page that shows scroll up and scroll down buttons.](media/outline-page-list.PNG "Task list page that shows scroll up and scroll down buttons")
 
