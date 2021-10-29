@@ -204,7 +204,7 @@ Use the commands in the following table to turn narration on or off or to select
 
 ## Profile
 
-![XXX.](media/voice-commands-XXX.jpg "XXX")
+![Profile screen.](media/voice-commands-profile.jpg "Profile screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
