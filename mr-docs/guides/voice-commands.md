@@ -94,7 +94,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Align holographic anchor page
 
-![Align holographic anchor page.](media/voice-align-holographic.PNG "Align holographic anchor page")
+![Align holographic anchor page.](media/voice-commands-holographic-anchor.jpg "Align holographic anchor page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
