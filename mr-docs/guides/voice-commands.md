@@ -102,7 +102,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Scan anchor page (QR code and circular code)
 
-![Scan circular code anchor page.](media/voice-scan-circular.PNG "Scan circular code anchor page")
+![Scan circular code anchor page.](media/voice-commands-circular-code-scan.jpg "Scan circular code anchor page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -110,7 +110,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Anchor found page (QR code and circular code)
 
-![Circular code anchor found page.](media/voice-found-circular.PNG "Circular code anchor found page")
+![Circular code anchor found page.](media/voice-commands-xxx.jpg "Circular code anchor found page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
