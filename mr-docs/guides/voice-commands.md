@@ -178,8 +178,8 @@ Use the commands in the following table to turn narration on or off or to select
 | Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Minimize" | Minimize the Call activity screen and the Main menu. |
-| 2 | "Scroll down" | Scroll down the list. |
-| 3 | "Scroll up" | Scroll up the list. |
+| 2 | "Scroll up" | Scroll up the list. |
+| 3 | "Scroll down" | Scroll down the list. |
 | 4 | "Start search" | Trigger search and open the keyboard. |
 | Not shown | "Clear search" | Delete the search string currently in the search box. |
 
