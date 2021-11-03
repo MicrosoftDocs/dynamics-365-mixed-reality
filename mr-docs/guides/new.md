@@ -14,10 +14,8 @@ ms.reviewer: v-bholmes
 > [!IMPORTANT]
 > The Dynamics 365 Guides HoloLens and PC apps released on November 8, 2021 require the April 1, 2021 or later version of the Microsoft Dataverse solution (version 600 or later). Features might be missing or disabled if a solution older than 700 is installed, however. 
 > 
-> Guides Dataverse solution version 7.1, which will be released on January 25, 2022, is mandatory if you want to continue to use the latest PC and HoloLens apps. After the 7.1 release, PC and HoloLens apps will require the 7.0 or later Dataverse solution. This Dataverse solution is a foundational change for key features in upcoming Dynamics 365 Guides releases. 
+> Guides Dataverse solution version 7.1, which will be released on January 25, 2022, is mandatory if you want to continue to use the latest PC and HoloLens apps. After the 7.1 release, PC and HoloLens apps will require the 7.0 or later Dataverse solution. This Dataverse solution is a foundational change for key features in upcoming Dynamics 365 Guides releases. If you choose not to update the solution and your PC and HoloLens apps, there's no impact. 
 >
-> Please work with your IT admins to schedule installing updates. If you choose not to update the solution and your PC and HoloLens apps, there's no impact. 
-> 
 > Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. See the **Features** table below to determine if a new feature requires a solution update. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md). 
 
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>.
