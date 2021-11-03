@@ -45,7 +45,7 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
     "**Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license.**"
     
     > [!NOTE]
-    > Enabling or disabling calling is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-revoke-access).
+    > Enabling or disabling calling is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/enterprise-users/users-revoke-access).
 
 ## See also
 
