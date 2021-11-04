@@ -35,7 +35,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 > [!TIP]
 > Regardless of where you are in the app, the [Select](/hololens/hololens-cortana#general-speech-commands) voice command works like an air tap.
 
-## Sign-in page
+## Sign-in
 
 ![Sign-in page.](media/voice-commands-sign-in.jpg "Sign-in page")
 
@@ -44,7 +44,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1 | "Sign in" | Start the sign-in process. |
 | 2 | "Try a guide" | Open the Dynamics 365 Guides demo. |
 
-## Instance selection page
+## Instance selection
 
 ![Choose instance page.](media/voice-commands-choose-instance.jpg "Choose instance page")
 
@@ -81,7 +81,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 5 | "Clear search" | Delete the text in the Search box. |
 | 6 | "Previous folder" | Go back to the previous folder. |
 
-## Select mode screen
+## Select mode
 
 ![Select mode screen.](media/voice-commands-select-mode.jpg "Select mode screen")
 
@@ -92,7 +92,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 3 | "Minimize" | Hide the content panel and the Main menu. |
 | 4 | "Go back" | Go back to the guides and folders list and cancel opening the current guide. |
 
-## Align holographic anchor page
+## Align holographic anchor 
 
 ![Align holographic anchor page.](media/voice-commands-holographic-anchor.jpg "Align holographic anchor page")
 
@@ -100,7 +100,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | 1 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
 
-## Scan anchor page (QR code and circular code)
+## Scan anchor (QR code and circular code)
 
 ![Scan circular code anchor page.](media/voice-commands-circular-code-scan.jpg "Scan circular code anchor page")
 
@@ -108,7 +108,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | 1 | "Initiate scan" | Start anchor scanning. |
 
-## Anchor found page (QR code and circular code)
+## Anchor found (QR code and circular code)
 
 ![Anchor found page.](media/voice-commands-anchor-found-confirm.jpg "Anchor found page")
 
@@ -117,7 +117,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1 | "Rescan" | Rescan the anchor if holograms aren't correctly aligned. |
 | 2 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
 
-## Step card page
+## Step card 
 
 ![Step card page with video and dotted line.](media/voice-commands-step-card.jpg "Step card page with video and dotted line")
 
