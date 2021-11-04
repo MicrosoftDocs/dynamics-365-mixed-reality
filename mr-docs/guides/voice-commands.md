@@ -204,7 +204,7 @@ Use the commands in the following table to turn narration on or off or to select
 | 2| "End call" | Close the current call. |
 | 3 | "Mute" or "Unmute" | Mute or unmute the microphone. |
 
-## Profile
+## Profile (sign out)
 
 ![Profile screen.](media/voice-commands-profile.jpg "Profile screen")
 
