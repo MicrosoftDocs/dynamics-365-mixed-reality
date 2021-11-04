@@ -121,6 +121,8 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ![Step card page with video and dotted line.](media/voice-commands-step-card.jpg "Step card page with video and dotted line")
 
+![Step card page showing Restart guide button.](media/voice-commands-restart-guide.jpg "Step card page showing Restart guide button")
+
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
 | 1 | ![Follow mode button (turn on).](media/follow-mode-inactive-button.png "Follow mode button (turn on)") | "Follow me" | Turn on **Follow** mode, and bring the card to the center of the field of view. |
