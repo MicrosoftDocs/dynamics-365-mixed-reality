@@ -40,7 +40,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 ### Bugs fixed and other improvements
 
 - Improved PC app stability around step deletion
-- Fixed problem where users could accidentally specify a trigger style
+- Fixed unsupported scenario that allowed users to specify a trigger style
 
 ## August 30 2021
 
