@@ -22,9 +22,9 @@ converted to an object anchor, and assigned to a guide. [Learn more about Azure 
 Anchors](https://docs.microsoft.com/ynamics365/mixed-reality/guides/pc-app-anchor-azure-object).
 
 If you're an administrator for Dynamics 365 Guides, you can enable or disable Azure Object Anchors in a specific Dynamics 365 Guides environment. If Azure Object Anchors 
-is disabled, authors cannot update a guide's anchor type to an **Object Anchor** and users can't convert a 3D file into an object anchor 
+is disabled, authors cannot update a guide's anchor type to an Object Anchor and users can't convert a 3D file into an object anchor 
 in the Guides model-driven app.  [Learn more about converting 3D objects to Azure Object 
-Anchors](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object#convert-the-file-in-the-guides-model-driven-app)
+Anchors](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object#convert-the-file-in-the-guides-model-driven-app).
 
 ## Enable or disable Object Anchors
 
