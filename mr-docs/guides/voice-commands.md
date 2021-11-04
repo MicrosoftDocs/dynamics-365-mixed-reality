@@ -124,17 +124,17 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
 | 1 | ![Follow mode button (turn on).](media/follow-mode-inactive-button.png "Follow mode button (turn on)") | "Follow me" | Turn on **Follow** mode, and bring the card to the center of the field of view. |
-| 2 | ![Follow mode button (turn off).](media/follow-button.PNG "Follow mode (turn off)") | "Place here" | Turn off **Follow** mode, and bring the card to the center of the field of view. |
-| 3 | ![Anchor button.](media/anchor-button.PNG "Anchor button") | "Go to anchor" | Go to the anchor step to re-anchor the guide. |
-| 4 | ![Go back button.](media/go-back-button.png "Go back button") | "Go back" | Go to the previous step. |
-| 5 | ![Outline button.](media/outline-button.png "Outline button") | "Go to outline" | Go to the **Outline** view for the task or step. |
-| 6 | ![Next step button.](media/next-step-button.png "Next step button") | "Next step" | Go to the next step. |
-| 7 | ![Hide holograms button.](media/hide-holograms-button.png "Hide holograms button") | "Hide holograms" | Turn off visibility for 3D parts (if 3D parts have been placed and they are visible). |
-| 8 | ![Show holograms button.](media/show-holograms-button.png "Show holograms button") | "Show holograms" | Turn on visibility for 3D parts (if 3D parts have been placed but they are hidden). |
-| 9 | ![Play button.](media/play-button.png "Play button") | "Play video" | Start the video that is attached to the step (if the step has a video). |
-| 10 | ![Pause button.](media/pause-button.png "Pause button") | "Pause video" | Pause the video. |
-| 11 | ![Restart guide button.](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.|
-| 11 | ![Exit button.](media/exit-button.PNG "Exit button") | "Exit guide" | Exit the current guide.</p> |
+| Not shown | ![Follow mode button (turn off).](media/follow-button.PNG "Follow mode (turn off)") | "Place here" | Turn off **Follow** mode, and bring the card to the center of the field of view. |
+| 2 | ![Anchor button.](media/anchor-button.PNG "Anchor button") | "Go to anchor" | Go to the anchor step to re-anchor the guide. |
+| 3 | ![Go back button.](media/go-back-button.png "Go back button") | "Go back" | Go to the previous step. |
+| 4 | ![Outline button.](media/outline-button.png "Outline button") | "Go to outline" | Go to the **Outline** view for the task or step. |
+| 5 | ![Next step button.](media/next-step-button.png "Next step button") | "Next step" | Go to the next step. |
+| 6 | ![Hide holograms button.](media/hide-holograms-button.png "Hide holograms button") | "Hide holograms" | Turn off visibility for 3D parts (if 3D parts have been placed and they are visible). |
+| Not shown | ![Show holograms button.](media/show-holograms-button.png "Show holograms button") | "Show holograms" | Turn on visibility for 3D parts (if 3D parts have been placed but they are hidden). |
+| 7 | ![Play button.](media/play-button.png "Play button") | "Play video" | Start the video that is attached to the step (if the step has a video). |
+| Not shown | ![Pause button.](media/pause-button.png "Pause button") | "Pause video" | Pause the video. |
+| 8 | ![Exit button.](media/exit-button.PNG "Exit button") | "Exit guide" | Exit the current guide.</p> |
+| 9 | ![Restart guide button.](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.|
 
 ## Outline list
 
