@@ -119,7 +119,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Step card page
 
-![XXX.](media/voice-commands-XXX.jpg "XXX")
+![Step card page with video and dotted line.](media/voice-commands-step-card.jpg "Step card page with video and dotted line")
 
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
