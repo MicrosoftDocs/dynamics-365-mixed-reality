@@ -24,9 +24,9 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|XXX|
-|HoloLens app (HoloLens 2 only)|XXX|
-|Solution|XXX|
+|PC app|700.2111.3001|
+|HoloLens app (HoloLens 2 only)|700.2111.3001|
+|Solution|700.0.0.1|
 
 ### Features
 
@@ -39,7 +39,8 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ### Bugs fixed and other improvements
 
-- XXX
+- Improved PC app stability around step deletion
+- Fixed problem where users could accidentally specify a trigger style
 
 ## August 30 2021
 
