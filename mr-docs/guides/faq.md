@@ -152,7 +152,7 @@ Dynamics 365 Guides version 7.0 includes advanced features that rely on eye-trac
 
 If you're using Dynamics 365 Guides version 7.0 or later and you can’t make a video call, it could be because:
 
--	Your admin has [disabled the option directly from the Guides web portal](admin-mda-settings-environment-enable-calls.md). 
+-	Your admin has [disabled the option directly from the Guides web portal](admin-enable-calls.md). 
 
 -	The appropriate Microsoft Teams license has not been assigned to you. [Learn more about licensing requirements](requirements.md).
 
