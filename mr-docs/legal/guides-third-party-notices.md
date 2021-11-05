@@ -6,6 +6,7 @@ ms.date: 11/08/2021
 ms.topic: article
 title: Third-party notices and information for Dynamics 365 Guides
 ms.reviewer: v-bholmes
+ms.service: crm-online
 ---
 
 # Third-party notices and information for Dynamics 365 Guides
