@@ -29,7 +29,7 @@
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling (Preview)](admin-enable-calls.md)
-### [Enable or disable Azure Object Anchors](admin-enable-object-anchors.md)
+### [Enable or disable Azure Object Anchors (Preview)](admin-enable-object-anchors.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
