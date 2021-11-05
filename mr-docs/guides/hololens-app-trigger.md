@@ -31,7 +31,7 @@ After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-
 
 ## Tips for placing and sizing triggers
 
-You can [place and size a trigger](hololens-app-place-holograms) just like any other hologram in the HoloLens app. When placing a trigger, keep the following in mind:
+You can [place and size a trigger](hololens-app-place-holograms.md) just like any other hologram in the HoloLens app. When placing a trigger, keep the following in mind:
 
 - **Position.** Place the trigger where the work happens at "working height" (above the belt). You’ll need to test the trigger in **Operate** mode to make sure it behaves the way you expect.
 
