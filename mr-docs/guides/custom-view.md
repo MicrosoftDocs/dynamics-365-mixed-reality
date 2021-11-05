@@ -220,7 +220,7 @@ In this step, you will add the list of guides that will appear on the HoloLens t
 
     ![Add a subarea.](media/custom-view-add-subarea.PNG "Add a subarea")
 
-7. On the **Properties** tab on the right side of the page, in the **Table** field, select the name of the table that you created in the [Step 1: Create a new table in Microsoft Dataverse](#step-1-create-a-new-entity-in-microsoft-dataverse) section. In this way, you link the subarea.
+7. On the **Properties** tab on the right side of the page, in the **Table** field, select the name of the table that you created in the [Step 1: Create a new table in Microsoft Dataverse](#step-1-create-a-new-table-in-microsoft-dataverse) section. In this way, you link the subarea.
 
     ![Link the subarea.](media/custom-view-link-subarea.PNG "Link the subarea")
 
