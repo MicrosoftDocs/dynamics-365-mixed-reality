@@ -1,8 +1,18 @@
+---
+author: Mamaylya
+description: Learn about how HoloLens (first gen) works with and Dynamics 365 Guides
+ms.author: mamaylya
+ms.date: 11/08/2021
+ms.topic: article
+title: Use HoloLens (first gen) devices with Dynamics 365 Guides
+ms.reviewer: v-bholmes
+---
 
-# HoloLens 1 catchall info
+# Use HoloLens (first gen) devices with Dynamics 365 Guides
+
+HoloLens (first gen) has entered Long Term Service State for Dynamics 365 Guides. This article accumulates all documentation related to using HoloLens (first gen) devices with Dynamics 365 Guides.
 
 
-From the Calibrate Hololens as an author topic:
 
 ## Calibrate your HoloLens 1 device
 
