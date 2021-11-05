@@ -144,7 +144,7 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 
 [Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
 
-## Why does the the version 7.0 HoloLens app require permissions to launch?
+## Why does the version 7.0 HoloLens app require permissions to launch?
 
 Dynamics 365 Guides version 7.0 includes advanced features that rely on eye-tracking, voice, and camera to function properly. For example, you need eye tracking to access the Main menu (appears when you look at your palm). This is intended to prevent false positives so the menu doesn't appear at the wrong time. Similarly, without microphone access, voice commands won’t work. Without camera access, you can't anchor a guide or make a video call.
 
