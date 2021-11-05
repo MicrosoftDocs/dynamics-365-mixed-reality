@@ -8,7 +8,7 @@ title: Install and sign in to the Dynamics 365 Guides HoloLens app (authors)
 ms.reviewer: v-brycho
 ---
 
-# Install and sign in to the Dynamics 365 Guides HoloLens app
+# Install/sign in to the Dynamics 365 Guides HoloLens app
 
 If you haven't already installed the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app on your [!include[pn-hololens](../includes/pn-hololens.md)] device (or if it hasn't already been installed for you), you can install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers.
 
