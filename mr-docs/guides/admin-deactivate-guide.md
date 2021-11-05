@@ -51,11 +51,11 @@ As an admin, you can also activate, deactivate, or delete specific guide content
 
     ![Guides app tile.](media/guides-app-tile.PNG "Guides app tile")
     
-3. Under **Library**, on the left side of the screen, select **3D**, **Images**, or **Videos**.
+3. Under **Content**, on the left side of the screen, select **Images**, **Videos**, or **3D**.
 
     ![Library menu showing 3D, Images, and Videos items.](media/library-2.PNG "Library menu showing 3D, Images, and Videos items")
 
-4. In the drop-down list above the grid, select **Inactive 3D Objects**, **Inactive Images**, or **Inactive Videos**, depending on the item you choose in step 3. For example, if you choose **3D** under **Library**, select **Inactive 3D Objects** to view all the objects that are currently inactive. 
+4. In the drop-down list above the grid, select **Inactive 3D Objects**, **Inactive Images**, or **Inactive Videos**, depending on the item you choose in step 3. For example, if you choose **3D** under **Content**, select **Inactive 3D Objects** to view all the objects that are currently inactive. 
 
     ![Inactive 3D objects.](media/deactivate-active-3D-objects.PNG "Inactive 3D objects")
 
@@ -65,7 +65,7 @@ As an admin, you can also activate, deactivate, or delete specific guide content
 
 ## Reactivate specific guide content
 
-1. Sign into your Guides portal, and then under **Library** on the left side of the screen, select **3D**, **Images**, or **Videos**.
+1. Sign into your Guides portal, and then under **Content** on the left side of the screen, select **Images**, **Videos**, or **3D**.
 
     ![Library menu showing 3D, Images, and Videos items.](media/library-2.PNG "Library menu showing 3D, Images, and Videos items")
     

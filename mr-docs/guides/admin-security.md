@@ -33,7 +33,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 2. In the left pane, select **Users** \> **Active users**, and then select **Add a user** to open the **Add user** wizard.
 
-    ![Add a user.](media/add-user-3.PNG "Add a user")
+    ![Add a user.](media/add-user-5.png "Add a user")
 
 3. On the **Set up the basics** page, enter the user's first name, last name, display name, and user name.
 
@@ -64,7 +64,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **Groups** \> **Groups**, and then select **Add a group** to open the **Add group** wizard.
 
-    ![Add a group.](media/add-group-command.PNG "Add a group")
+    ![Add a group.](media/add-group-command-1.png "Add a group")
 
 2. On the **Choose a group type** page, select **Security**, and then select **Next**.
 
@@ -82,7 +82,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 6. Select the group that you created, and then, in the pane that appears on the right, select the **Members** tab.
 
-    ![Members tab.](media/members-tab.PNG "Members tab")
+    ![Members tab.](media/members-tab-1.png "Members tab")
 
 7. On the **Members** tab, select **View all and manage owners**.
 

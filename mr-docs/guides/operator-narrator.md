@@ -10,7 +10,7 @@ ms.reviewer: v-brycho
 
 # Have HoloLens narrate Dynamics 365 Guides instructions
 
-You can turn on narration to have Microsoft HoloLens read steps out loud when you're operating a guide in Dynamics 365 Guides. You can use narration when you're anchoring a 
+You can turn narration on to have Microsoft HoloLens read steps out loud when you're operating a guide in Dynamics 365 Guides. You can use narration when you're anchoring a 
 guide or whenever you're working with an instruction, question, or completion step. This is useful if you don’t want your workflow to be interrupted by having to constantly look
 up at the instruction card.  
 
@@ -18,13 +18,17 @@ You can turn on narration through Settings or by using a voice command.
 
 Narration uses the built-in HoloLens Text-to-Speech system. Narration is read in the default language set for the HoloLens device.
 
-## Turn narration on or off in Settings
+## Turn narration on or off
 
-If you turn narration on or off in Settings, narration will stay on or off for the current and subsequent steps.
+If you turn narration on or off, narration will stay on or off for the current and subsequent steps.
 
-- In the **Settings** dialog box, move the **Narration** slider to the on position.
+1. Look at the palm of your hand to open the Main menu, and then touch the **Settings** button. 
 
-   ![Narration setting.](media/narrator-setting.jpg "Narration setting")
+    ![Main menu with Settings button highlighted.](media/main-menu-settings.jpg "Main menu with Settings button highlighted")
+
+2. Move the **Narration** slider to the on position.
+
+   ![Screenshot of narration setting.](media/narration-setting.jpg "Screenshot of narration setting")
 
 ## Use voice commands to turn narration on or off or to select a response in a question card
 

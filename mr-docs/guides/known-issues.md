@@ -32,11 +32,8 @@ If you see any of the following errors, contact your IT admin, or see the self-s
 
 If you don't see any guides, either your internet connection is unstable, or you might have signed in to an instance that doesn't have any guides. First, check your internet connection. If you're connected, try to sign in again, and make sure that you sign in to the instance that has the guides that you're looking for. If you still don't see any guides, contact your admin.
 
-## Improvements for 3D model positioning in the October 1 release might shift models in guides that were created before October 1, 2019
-
-In the October 1 release, code for hologram positions was refactored to enhance overall performance and enable future improvements. If scale was applied to imported 3D models, you might notice that the position of those models has shifted. In this case, you must reposition those 3D models. This issue doesn't affect the position of models from the 3D toolkit.
-
 ## The Create account link doesn't work when I try to use a new account to sign in
+
 When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
 
 ![Sign-in screen.](media/sign-in-screen.PNG "Sign-in screen")

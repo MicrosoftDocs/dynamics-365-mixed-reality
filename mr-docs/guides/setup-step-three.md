@@ -52,16 +52,11 @@ Update the HoloLens app from the Microsoft Store as needed.
 
 We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](/hololens/hololens-update-hololen). You can also manually update your HoloLens. 
 
-#### HoloLens 1
-
-1. Make sure that [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.17134 or later. We recommend that you update [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when they become available. For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](/HoloLens/hololens-updates).
-
-2. On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu. Then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app, and search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]."
-
-3. To download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app, select **Install**.
-
 > [!NOTE]
 > If you're an author, see [Install, open, and sign in to the HoloLens app](install-sign-in-hololens-app.md) for information about how to open and sign in to the app. If you're an operator, see [Install, open, and sign in to the HoloLens app](install-sign-in-operator.md).
+
+> [!IMPORTANT]
+> HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. 
 
 ## Distribute the apps through Microsoft Store for Business
 

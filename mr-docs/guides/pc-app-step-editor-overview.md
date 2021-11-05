@@ -13,9 +13,9 @@ ms.custom: "intro-internal"
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-Steps are the central building block for creating a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. After you create the [structure for your guide in the **Outline** page](structure-guide.md), you use the Step Editor to add instructional text and 3D models or media to support those steps. The instructions that you create in the what-you-see-is-what-you-get (WYSIWYG) Step Editor match what the operator will see on the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following illustration shows the Step Editor in the PC app and the Step card that the user sees on [!include[pn-hololens](../includes/pn-hololens.md)].
+Steps are the central building block for creating a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. After you create the [structure for your guide in the **Outline** page](structure-guide.md), you use the Step Editor to add instructional text and 3D models or media to support those steps. The instructions that you create in the what-you-see-is-what-you-get (WYSIWYG) Step Editor match what the operator sees in the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following illustration shows the Step Editor in the PC app (A) and the Step card that the user sees on [!include[pn-hololens](../includes/pn-hololens.md)] (B).
 
-![Step Editor and Step card.](media/step-editor-step-card.PNG "Step Editor and Step card")
+![Step Editor and Step card compared.](media/author-operator-compare.jpg "Step Editor and Step card compared")
 
 ## Open the Step Editor and add instructions
 
@@ -76,10 +76,10 @@ Use the buttons in the navigation pane on the left side of the **Step Editor** p
 
 ## What's next?
 
-[Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)<br>
-[Add a 3D part](pc-app-add-3D-part.md)<br>
-[Add an image or video file](pc-app-add-media.md)<br>
-[Add a website or Power Apps link](pc-app-website-powerapps-link.md)<br>
-[How to make a great mixed-reality guide](great-guide.md)
+- [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
+- [Add a 3D part](pc-app-add-3D-part.md)
+- [Add an image or video file](pc-app-add-media.md)
+- [Add a website or Power Apps link](pc-app-website-powerapps-link.md)
+- [How to make a great mixed-reality guide](great-guide.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

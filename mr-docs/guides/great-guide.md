@@ -109,12 +109,12 @@ to take before starting the guide.
      Bad example:
      
      ![Multiple sentences.](media/bad-example.PNG "Multiple sentences")
+
+    In this example, many operators might miss the second sentence and continue onto the next step.
      
      Good example:
      
-     ![Single idea.](media/good-example.PNG "Single idea")     
-       
-     In this example, many operators might miss the second sentence and continue onto the next step.
+     ![Single idea.](media/good-example.PNG "Single idea")       
 
 - Keep text simple and colloquial.
 

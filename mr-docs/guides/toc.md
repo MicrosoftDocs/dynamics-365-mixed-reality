@@ -3,6 +3,7 @@
 ## [Get started](get-started.md)
 ## [What's new](new.md)
 ## [Videos](videos.md)
+
 ## I'm an admin
 ### Set up Dynamics 365 Guides or upgrade the solution
 #### [Device and licensing requirements](requirements.md)
@@ -27,6 +28,8 @@
 #### [Share the Guides model-driven app](admin-share-guides-hub.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
+### [Enable or disable calling (Preview)](admin-enable-calls.md)
+### [Enable or disable Azure Object Anchors (Preview)](admin-enable-object-anchors.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
@@ -34,8 +37,10 @@
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
+
 ## I'm an author
 ### [Authoring overview](authoring-overview.md)
+
 ### Author in the PC app
 #### Overview and basics
 ##### [PC app authoring overview](pc-app-overview.md)
@@ -46,7 +51,7 @@
 ##### [Create folders to organize your guides](admin-create-folders.md)
 #### Anchor your guide to the real world
 ##### [Overview of anchoring a guide with the PC app](pc-app-anchor.md)
-##### [Azure Object Anchors Preview](pc-app-anchor-azure-object.md)
+##### [Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md)
 ##### [QR code anchor](pc-app-anchor-qr-code.md)
 ##### [Circular code anchor](pc-app-anchor-circular-code.md)
 ##### [Holographic anchor](pc-app-anchor-holographic.md)
@@ -68,34 +73,45 @@
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Deactivate a guide or guide content](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
+
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
-#### [Calibrate your HoloLens](hololens-app-calibrate.md) 
-#### [Install the app and sign in](install-sign-in-hololens-app.md)
-#### [Find a guide](find-guide.md)
+#### [Calibrate your HoloLens 2 device](hololens-app-calibrate.md) 
+#### Install the app and sign in
+##### [Install the app and sign in](hololens-app-install-sign-in.md)
+##### [HoloLens permissions required for version 7.0](hololens-permissions.md)
+#### [Use the Main menu to start an activity](main-menu.md)
+#### [Find and open a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
-#### [Place holograms, add styles, and more](hololens-app-orientation.md)
-#### [Create and place a trigger for step navigation](hololens-app-trigger.md)
-#### HoloLens gestures for authoring and navigating
-##### [HoloLens 1](authoring-gestures.md)
-##### [HoloLens 2](authoring-gestures-HL2.md)
+#### Work with holograms
+##### [Get oriented with the HoloLens app](hololens-app-orientation.md)
+##### [Place and manipulate holograms](hololens-app-place-holograms.md)
+##### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
+##### [Use a style to add emphasis](hololens-app-styles.md)
+##### [Duplicate a 3D model](hololens-app-duplicate-model.md)
+##### [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+##### [Change animation options](hololens-app-animations.md)
+##### [Create a trigger for step navigation](hololens-app-trigger.md)
+#### [Make a call (Preview)](make-call.md)
+#### [HoloLens 2 gestures for authoring and navigating](authoring-gestures-HL2.md)
 #### [Voice commands](voice-commands.md)
+#### [Change a setting](change-setting.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
-### [Open the Guides model-driven app](open-model-driven-app.md)
+### [Open the model-driven app](open-model-driven-app.md)
 ### [How to make a great mixed reality guide](great-guide.md)
+
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
-### Calibrate your HoloLens
-#### [HoloLens 1](operator-calibrate.md)
-#### [HoloLens 2](operator-calibrate-HL2.md)
-### [Install the HoloLens app and sign in](install-sign-in-operator.md)
-### [Find a guide](find-guide.md)
-### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
-### Gestures for navigating a guide
-#### [HoloLens 1](operator-gestures.md)
-#### [HoloLens 2](operator-gestures-HL2.md)
+### [Calibrate your HoloLens 2 device](operator-calibrate-HL2.md)
+### Install the HoloLens app and sign in
+#### [Install the HoloLens app and sign in](hololens-app-install-sign-in.md)
+#### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
+### [Use the Main menu to start an activity](main-menu.md)
+### Open a guide
+#### [Find and open a guide](find-guide.md)
+#### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
 ### [Anchor your guide](operator-anchor.md)
-### Use the HoloLens app
+### Work with a guide
 #### [Get oriented with the Step card](operator-step-card-orientation.md)
 #### [Use a dotted line to find a focus area](operator-dotted-line.md)
 #### [Use Follow mode and pinning](operator-follow-mode.md)
@@ -107,6 +123,13 @@
 #### [Work offline](operator-offline-mode.md)
 #### [Voice commands](voice-commands.md)
 #### [Have HoloLens narrate instructions](operator-narrator.md)
+### [Make a call](make-call.md)
+### [Hololens 2 gestures for navigating a guide](operator-gestures-HL2.md)
+### [Change a setting](change-setting.md)
+### [Voice commands](voice-commands.md)
+
+## [Make a call (Preview) from the HoloLens app](make-call.md)
+
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
 ### [Data collected and how to use it](analytics-data-collected.md)
@@ -152,5 +175,7 @@
 ### [Affecting both apps](known-issues.md)
 ### [PC app](known-issues-pc-app.md)
 ### [HoloLens app](known-issues-hololens-app.md)
-## [Terms of use](../legal/guides-service-terms.md)
+## Legal documents
+### [Terms of use](../legal/guides-service-terms.md)
+### [Third-party notices](../legal/guides-third-party-notices.md)
 

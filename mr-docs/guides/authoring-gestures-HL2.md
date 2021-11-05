@@ -12,9 +12,6 @@ ms.reviewer: v-brycho
 
 Hand-tracking in Microsoft [!include[pn-hololens](../includes/pn-hololens.md)] 2 provides instinctual interactions for authors. You can select and position holograms by using direct touch, just as if they were real objects. You can also use hand rays to interact with holograms that are out of reach.
 
-> [!NOTE]
-> If you're using HoloLens 1, see [Authoring and navigating gestures for HoloLens 1](authoring-gestures.md).
-
 ## Basic actions and gestures to know
 
 To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, you must know how to do these actions and gestures:
@@ -32,7 +29,7 @@ To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, 
 
 - **Gaze**. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. Often, you will use gaze and air tap together. When you gaze, turn your whole head, not just your eyes. The pointer will follow.
 
-    ![Gaze animation.](media/gaze-animation.gif "Gaze animation")
+    ![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
 - **Air tap**. Hold your hand straight out in front of you in a loose fist, point your index finger straight up toward the ceiling, tap your finger down, and then quickly raise it back up again.
 
@@ -147,7 +144,7 @@ You can use hand rays to work with UI elements and holograms from a distance. Yo
 
 2. Continue to gaze until the button is filled.
 
-    ![Gaze animation.](media/gaze-animation.gif "Gaze animation")
+   ![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
 ## Open the Start menu
 
@@ -173,10 +170,7 @@ For a tutorial on some basic gestures, open the **Start** menu, and then select 
 
 ## See also
 
-[HoloLens 2 gestures for operating (navigating) a guide](operator-gestures-HL2.md)<br>
-[Calibrate your HoloLens 2 device](operator-calibrate-HL2.md)<br>
-[HoloLens 1 gestures for authoring and navigating a guide](authoring-gestures.md)<br>
-[HoloLens 1 gestures for operating (navigating) a guide](operator-gestures.md)
-
+- [HoloLens 2 gestures for operating (navigating) a guide](operator-gestures-HL2.md)<br>
+- [Calibrate your HoloLens 2 device](operator-calibrate-HL2.md)<br>
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
