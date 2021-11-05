@@ -39,24 +39,14 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
     > [!NOTE]
     > For information about how to open and sign in to the app, see [Install, open, and sign in to the PC app](install-sign-in-pc-app.md).
 
-### Install the HoloLens app
+### Install the HoloLens 2 app
 
-#### HoloLens 2
-
-Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to the **Start** menu. Use the [Start gesture](operator-gestures-HL2.md) to open the **Start** menu. 
+Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to the **Start** menu. Use the [Start gesture](operator-gestures-HL2.md) to open the **Start** menu. [Learn how to sign in to the HoloLens app](hololens-app-install-sign-in.md).
 
 > [!NOTE]
-> If Dynamics 365 Guides isn't pinned to the **Start** menu, select the **All apps** button to find it. 
-
-Update the HoloLens app from the Microsoft Store as needed.
+> If Dynamics 365 Guides isn't pinned to the **Start** menu, [learn how to install and sign in to the HoloLens app](hololens-app-install-sign-in.md). 
 
 We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](/hololens/hololens-update-hololen). You can also manually update your HoloLens. 
-
-> [!NOTE]
-> If you're an author, see [Install, open, and sign in to the HoloLens app](hololens-app-install-sign-in.md) for information about how to open and sign in to the app. If you're an operator, see [Install, open, and sign in to the HoloLens app](install-sign-in-operator.md).
-
-> [!IMPORTANT]
-> HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. 
 
 ## Distribute the apps through Microsoft Store for Business
 
