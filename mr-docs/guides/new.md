@@ -7,7 +7,7 @@ ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
-# 
+<br>
 
 # What's new in Dynamics 365 Guides
 
