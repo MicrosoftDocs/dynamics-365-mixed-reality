@@ -38,7 +38,7 @@ The following table lists product requirements for services, apps, and features 
 | Microsoft Teams app on a mobile device | Any iOS or Android phone or tablet running  Microsoft Teams | A phone or tablet running the Microsoft Teams mobile app can collaborate with a Dynamics 365 Guides user on HoloLens 2.|
 
 > [!Note] 
-> Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](./mobile-app/faq-mobile.md).
+> Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](faq.md).
 
 ## Making and receiving calls
 
@@ -47,7 +47,7 @@ The following table lists product requirements for services, apps, and features 
 The calling feature in Dynamics 365 Guides does not support:
 
 - Access to the Dynamics 365 Remote Assist model-driven app. Outbound calls from Dynamics 365 Guides are not included in Dynamics 365 Remote Assist call record analytics/insights.
-- [Creating and managing assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Guides call.
+- [Creating and managing assets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/asset-capture-overview) either within or outside a Dynamics 365 Guides call.
 - Creating and sharing one-time-call links.
 - Creating or viewing analytics and insights based on call records. 
 
