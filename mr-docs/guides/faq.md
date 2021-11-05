@@ -14,7 +14,7 @@ ms.reviewer: v-bholmes
 
 ## How do I contact Support if I don't find an answer in this FAQ?
 
-If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
+If you're not able to use Microsoft Dynamics 365 Guides, or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
 
 1. Go to [https://dynamics.microsoft.com/support/](https://dynamics.microsoft.com/support/).
 
@@ -28,7 +28,7 @@ HoloLens (1st gen) has entered Long Term Servicing State and is no longer suppor
 
 ## Why are there two apps?
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes two applications, which enable authors and operators to use the right device for the right task in their workflows:
+Dynamics 365 Guides includes two applications, which enable authors and operators to use the right device for the right task in their workflows:
 
 - **PC authoring app.** Authors use the PC app to add content and to create and structure their guide. These tasks are fast and efficient on a PC.
 
@@ -78,9 +78,9 @@ To update the solution, you must have the [System Administrator](/power-platform
 
 When you have a Power Apps license, the Access Mode security property is set to Read-Write, which is required for updating the solution. 
 
-## I don't see my [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] environment even though I have a valid [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. What should I do? 
+## I don't see my Dynamics 365 Guides environment even though I have a valid Dynamics 365 Guides license. What should I do? 
 
-You might have installed [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on a trial environment that has expired. Trial environments have their own life cycle, independent of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. You can go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
+You might have installed Dynamics 365 Guides on a trial environment that has expired. Trial environments have their own life cycle, independent of the Dynamics 365 Guides license. You can go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
 
 ## Can I use the JSON data file generated in Microsoft Dataverse when a guide is created to build or extend functionality?
 
