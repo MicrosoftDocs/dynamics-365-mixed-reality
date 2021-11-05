@@ -34,7 +34,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/updated-user-experience-leveraging-hololens-2-instinctual-interactions" target="_blank">Updated user experience takes advantage of HoloLens 2 instinctual interactions</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/main-menu?" target="_blank">Use the Main menu to start an actvity</a>|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">Make calls directly (Preview) from Dynamics 365 Guides</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/make-calls" target="_blank">Make a call (Preview) in the Dynamics 365 Guides HoloLens app</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">Ability to create very long guides</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-place-holograms" target="_blank">Place and manipulate holograms in the Dynamics 365 Guides HoloLens app</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">Ability to create very long guides</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-place-holograms" target="_blank">Place and manipulate holograms in the Dynamics 365 Guides HoloLens app</a>|
 
 
 ### Bugs fixed and other improvements
