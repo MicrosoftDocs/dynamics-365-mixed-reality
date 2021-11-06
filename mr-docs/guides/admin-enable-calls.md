@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 # Enable or disable calling (Preview) in a Dynamics 365 Guides environment
 
 > [!IMPORTANT]
-> The calling feature for Dynamics 365 Guides is part of a Preview release, so not all functionality is available yet. We're working to bring additional features such as chat and text scaling in later Dynamics 365 Guides releases. Please be aware of these limitations when using the calling preview feature.
+> The Calling feature for Dynamics 365 Guides is in Preview, so not all functionality is available yet. We're working to bring additional features such as chat and text scaling in later Dyanmics 365 Guides releases. Please be aware of these limitations before using the Calling Preview.
 
 As of the November 2021 release of Dynamics 365 Guides, calling is enabled by default. When calling is enabled, a Microsoft Dynamics 365 Guides HoloLens user can make a one-to-one call to a remote collaborator. The remote collaborator can join the call using the Microsoft Teams desktop app or the mobile app. During the call, the remote collaborator can see everything seen by the Dynamics 365 Guides user, including holograms and the real world behind the holograms.
 
