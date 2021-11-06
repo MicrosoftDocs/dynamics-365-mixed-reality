@@ -2,7 +2,7 @@
 author: melissahellmund
 description: Learn how to expand access to a guide or guide content by sharing with an access team in Microsoft Dynamics 365 Guides.
 ms.author: mehellmu
-ms.date: 06/10/2021
+ms.date: 11/08/2021
 ms.topic: article
 title: Share guides or guide content with an access team in Dynamics 365 Guides
 ms.reviewer: v-brycho
