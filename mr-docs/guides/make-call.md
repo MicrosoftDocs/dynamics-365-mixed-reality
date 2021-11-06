@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 # Make a call (Preview) from the Dynamics 365 Guides HoloLens app
 
 > [!IMPORTANT]
-> The Calling feature for Dynamics 365 Guides is in Preview, so not all functionality is available yet. We're working to bring additional features such as chat and text scaling in later Dyanmics 365 Guides releases. Please be aware of these limitations before using the Calling Preview.
+> The Calling feature for Dynamics 365 Guides is in Preview, so not all functionality is available yet. We're working to bring additional features such as chat and text scaling in later Dynamics 365 Guides releases. Please be aware of these limitations before using the Calling Preview.
 
 You can call a remote collaborator directly from the Microsoft Dynamics 365 Guides HoloLens app. This gives you the ability to work hands-free with a guide as you share what you see on your HoloLens with the remote collaborator. The remote collaborator answers the call using Microsoft Teams (desktop or mobile) and can see everything that you see on your HoloLens. For example, consider the following scenarios that calling enables:
 
