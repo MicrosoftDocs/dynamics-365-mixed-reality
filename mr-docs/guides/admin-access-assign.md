@@ -4,7 +4,7 @@ description: Learn how to assign ownership of a guide in Microsoft Dynamics 365 
 author:  MattHoag-MS
 manager: tfehr
 ms.topic: conceptual
-ms.date: 06/29/2021
+ms.date: 11/08/2021
 ms.author: v-mhoag
 ms.reviewer: v-bholmes
 ---
