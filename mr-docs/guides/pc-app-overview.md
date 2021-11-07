@@ -29,7 +29,7 @@ Use the PC app to complete these tasks:
 
     - 3D parts
 
-    - 3D objects such as objects from the 3D toolkit (for example, arrows and numbers)
+    - 3D objects such as objects from the 3D toolkit (holographic arrows and numbers, for example)
 
     - 2D media (images and videos)
 
