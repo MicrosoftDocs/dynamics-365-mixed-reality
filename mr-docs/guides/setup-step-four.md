@@ -25,13 +25,5 @@ If you have any trouble setting up Power BI reports, you can get help in the fol
 
 - Contact customer service at <https://dynamics.microsoft.com/support/>.
 
-### Other useful links after everything is set up
-
-[Learn about resources you can use to get started with Dynamics 365 Guides](get-started.md)<br>
-[Author a guide](authoring-overview.md)<br>
-[Overview of operating a guide](operator-overview.md)<br>
-[Analyze your guides to improve process efficiencies](analytics-guide.md)<br>
-[FAQ](faq.md)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
