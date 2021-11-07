@@ -49,8 +49,7 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
 ## See also
 
-[Make a call in Dynamics 365 Guides](make-call.md)
-
-[Licensing and product requirements for making calls in Dynamics 365 Guides](requirements.md)
+- [Make a call in Dynamics 365 Guides](make-call.md)
+- [Licensing and product requirements for making calls in Dynamics 365 Guides](requirements.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
