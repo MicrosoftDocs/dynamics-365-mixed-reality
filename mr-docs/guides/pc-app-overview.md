@@ -17,21 +17,21 @@ You use the PC authoring app in [!include[cc-microsoft](../includes/cc-microsoft
 
 Use the PC app to complete these tasks:
 
-- Create a guide.
+- [Create a guide](create-guide.md).
 
-- Select an anchoring method.
+- [Select an anchoring method](pc-app-anchor.md).
 
-- Add tasks and steps.
+- [Add tasks and steps](pc-app-orientation.md).
 
 - Write the instructions for your steps.
 
 - Assign different types of content to support the steps. Here are some examples of supporting content:
 
-    - 3D parts
+    - [3D parts](pc-app-3D-parts.md)
 
-    - 3D objects, such as objects from the 3D toolkit (for example, arrows and numbers)
+    - [3D objects](pc-app-3D-toolkit.md), such as objects from the 3D toolkit (for example, arrows and numbers)
 
-    - 2D media (images and videos)
+    - [2D media (images and videos)](pc-app-images.md)
 
 ![PC authoring.](media/pc-authoring.PNG "PC authoring")
 
