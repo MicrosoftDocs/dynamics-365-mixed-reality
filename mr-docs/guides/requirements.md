@@ -32,6 +32,8 @@ The following table lists product requirements for services, apps, and features 
 
 ## Making and receiving calls
 
+You must have a Microsoft Teams license to make outgoing calls from Dynamics 365 Guides. This section describes and also describes calling limitations. 
+
 ### Microsoft Teams requirements
 
 | Device                             | OS requirement                                             | Details                                                                                                                                                                                                                                                                                 |
