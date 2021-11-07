@@ -61,8 +61,8 @@ To assign user roles:
 
 ## See also
 
-[Add additional user accounts to Dynamics 365 Guides](add-users.md)<br>
-[Learn about the Author and Operator roles](admin-role-types.md)<br>
-[Assign roles in bulk through Azure AD groups](admin-assign-role-groups.md)
+- [Add additional user accounts to Dynamics 365 Guides](add-users.md)
+- [Learn about the Author and Operator roles](admin-role-types.md)
+- [Assign roles in bulk through Azure AD groups](admin-assign-role-groups.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
