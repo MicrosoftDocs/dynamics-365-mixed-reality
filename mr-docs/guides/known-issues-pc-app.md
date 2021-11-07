@@ -50,9 +50,9 @@ Some glTF files might have dependencies in other folders. During upload, if the 
 
 ## See also
 
-[Known issues with Dynamics 365 Guides generally](known-issues.md)<br>
-[Known issues with the HoloLens app](known-issues-hololens-app.md)<br>
-[Dynamics 365 Guides FAQ](faq.md)
+- [Known issues with Dynamics 365 Guides generally](known-issues.md)
+- [Known issues with the HoloLens app](known-issues-hololens-app.md)
+- [Dynamics 365 Guides FAQ](faq.md)
 
 
 
