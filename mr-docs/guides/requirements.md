@@ -30,17 +30,19 @@ The following table lists product requirements for services, apps, and features 
 |Outbound calling from Dynamics 365 Guides| Microsoft Teams or Dynamics 365 Remote Assist<br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
 |Analytics dashboard| Power BI Desktop app ([available as a free download](https://powerbi.microsoft.com/desktop/)).</p> | [Learn more about Power BI](https://powerbi.microsoft.com/desktop/) |
 
-## Microsoft Teams user requirements
+## Making and receiving calls
+
+### Microsoft Teams requirements
 
 | Device                             | OS requirement                                             | Details                                                                                                                                                                                                                                                                                 |
 | ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Microsoft Teams app on Windows 10 PC | Any Windows 10 build                                       | A Windows 10 PC running the Teams PC application can collaborate with a Dynamics 365 Guides user on HoloLens 2. |
 | Microsoft Teams app on a mobile device | Any iOS or Android phone or tablet running  Microsoft Teams | A phone or tablet running the Microsoft Teams mobile app can collaborate with a Dynamics 365 Guides user on HoloLens 2.|
 
+The Microsoft Teams user can be in the same organization as the Dynamics 365 Guides user, in a federated organization, or a guest in the organization.
+
 > [!Note] 
 > Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](faq.md).
-
-## Making and receiving calls
 
 ### Limitations for Dynamics 365 Guides on HoloLens
 
@@ -54,10 +56,6 @@ The calling feature in Dynamics 365 Guides does not support:
 Dynamics 365 Remote Assist and Dynamics 365 Guides do not currently comply with Microsoft Teams policies.
 
 The Dynamics 365 Remote Assist, Teams, and Dataverse licenses must be assigned to a native member of the tenant ([Azure AD member](/azure/active-directory/fundamentals/users-default-permissions#member-and-guest-users) account). Dynamics 365 Remote Assist does not support [Azure AD B2B](/azure/active-directory/external-identities/what-is-b2b); an individual cannot sign into Dynamics 365 Remote Assist using a Dynamics 365 Remote Assist license assigned to an Azure AD guest account. 
-
-### Organization of Microsoft Teams user
-
-The Microsoft Teams user can be in the same organization as the Dynamics 365 Guides user, in a federated organization, or a guest in the organization.
 
 ## What's next
 
