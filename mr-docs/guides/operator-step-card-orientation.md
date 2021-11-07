@@ -38,7 +38,7 @@ Here's a description of the buttons and other UI elements on the Step card.
 
 ## What's next?
 
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide](https://aka.ms/guidesoperate)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use the dotted line to find the focus area for a step](operator-dotted-line.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn Follow mode off or on](operator-follow-mode.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use triggers to move between steps](operator-trigger.md)<br>
