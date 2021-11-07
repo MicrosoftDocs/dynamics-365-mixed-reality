@@ -22,9 +22,9 @@ Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dy
 
 ## What's next?
 
-[Calibrate your HoloLens](operator-calibrate.md)<br>
+[Calibrate your HoloLens](operator-calibrate-HL2.md)<br>
 [Install the app and sign in](hololens-app-install-sign-in.md)<br>
-[Gestures for navigating the app](operator-gestures.md)<br>
+[Gestures for navigating the app](operator-gestures-HL2.md)<br>
 [Anchor your guide](operator-anchor.md)<br>
 [Operate a guide](operator-step-card-orientation.md)
 
