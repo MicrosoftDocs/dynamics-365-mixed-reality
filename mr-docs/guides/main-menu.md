@@ -38,7 +38,7 @@ Need to open another guide? Just summon the Main menu again, select the **Work a
 
 When the Main menu is open, you can also move it wherever you want (or pivot it) by grabbing it with your hand(s). 
 
-![Animation of moving the Main menu.](media/Movement.gif "Animation of moving the Main menu")
+![Animation of moving the Main menu.](media/move-hologram.gif "Animation of moving the Main menu")
 
 ## When to use touch vs. gaze in Dynamics 365 Guides
 
