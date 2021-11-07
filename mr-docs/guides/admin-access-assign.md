@@ -53,8 +53,8 @@ For more information on privileges, teams, and controlling access to apps, see t
       
       ![Use the lookup to reassign a guide.](media/admin-access-assign-04a.PNG "Use the lookup to reassign a guide")
 
-     > [!NOTE]
-     > You must have admin permissions to see the **New Record** button. 
+      > [!NOTE]
+      > You must have admin permissions to see the **New Record** button. 
 
     - Select **Me** to assign the guide to yourself. Keep in mind that you must be a system administrator to re-assign ownership of a guide that belongs to someone else.    
       
