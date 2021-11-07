@@ -98,7 +98,7 @@
 #### [Change a setting](change-setting.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [Open the model-driven app](open-model-driven-app.md)
-### [How to make a great mixed reality guide](great-guide.md)
+### [How to make a great mixed-reality guide](great-guide.md)
 
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
