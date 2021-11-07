@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use gaze and air tap to navigate a guide in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 11/08/2021
 ms.topic: article
 title: HoloLens 2 gestures (for example, gaze and air tap) for navigating a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
