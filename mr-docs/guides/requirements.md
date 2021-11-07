@@ -44,7 +44,7 @@ The Microsoft Teams user can be in the same organization as the Dynamics 365 Gui
 > [!Note] 
 > Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](faq.md).
 
-### Limitations for Dynamics 365 Guides on HoloLens
+### Calling feature limitations
 
 The calling feature in Dynamics 365 Guides does not support:
 
