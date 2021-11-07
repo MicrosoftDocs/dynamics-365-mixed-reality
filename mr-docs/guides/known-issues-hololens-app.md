@@ -40,9 +40,9 @@ There are rendering issues for the "see through" style on some 3D models. Some s
 
 ## See also
 
-[Known issues with Dynamics 365 Guides generally](known-issues.md)<br>
-[Known issues with the PC app](known-issues-pc-app.md)<br>
-[Dynamics 365 Guides FAQ](faq.md)
+- [Known issues with Dynamics 365 Guides generally](known-issues.md)
+- [Known issues with the PC app](known-issues-pc-app.md)
+- [Dynamics 365 Guides FAQ](faq.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
