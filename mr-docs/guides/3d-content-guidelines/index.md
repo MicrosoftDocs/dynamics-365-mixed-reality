@@ -39,10 +39,10 @@ Preparing CAD content for [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] m
 2.	[**Optimize the converted 3D models**](optimize-models.md) to ensure the best possible performance in real-time applications.
 
 ### See also
-[Convert 3D models](convert-models.md)<br>
-[Optimize 3D models](optimize-models.md)<br>
-[Best practices for converting and optimizing 3D models](best-practices.md)<br>
-[Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
+- [Convert 3D models](convert-models.md)
+- [Optimize 3D models](optimize-models.md)
+- [Best practices for converting and optimizing 3D models](best-practices.md)
+- [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
