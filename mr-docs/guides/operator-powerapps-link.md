@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to open an app created in Power Apps from the Microsoft Dynamics 365 Guides HoloLens app
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 11/08/2021
 ms.topic: article
 title: Open an app created in Power Apps from the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
