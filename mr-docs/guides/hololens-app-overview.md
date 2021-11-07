@@ -15,13 +15,13 @@ ms.custom: "intro-internal"
 
 The second major step in the process of authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] occurs in the [!include[pn-hololens](../includes/pn-hololens.md)] app. In [!include[pn-hololens](../includes/pn-hololens.md)] **Author** mode, you complete these tasks:
 
-- Anchor your guide.
+- [Anchor your guide](hololens-app-anchor.md).
 
-- Place your holographic 3D content in a relevant space in the real world.
+- [Place your holographic 3D content in a relevant space in the real world](hololens-app-place-holograms.md).
 
-- Add dotted lines to visually link your steps to physical objects in the real world.
+- [Add dotted lines](hololens-app-dotted-lines.md) to visually link your steps to physical objects in the real world.
 
-- Optional: Add styles to 3D content to add various treatments. For example, you can indicate a warning or caution.
+- Optional: [Add styles](hololens-app-styles.md) to 3D content to add various treatments. For example, you can indicate a warning or caution.
 
 - Test the flow of your guide.
 
