@@ -61,9 +61,5 @@ For more information on Dynamics 365 Guides protection of customer data, see the
 GCC plan services are provided from datacenters physically located in the United States. GCC plan customer content is stored at rest in datacenters physically located 
 only in the United States.
 
-## See also
-
-[Dynamics 365 US Government](/power-platform/admin/microsoft-dynamics-365-government)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
