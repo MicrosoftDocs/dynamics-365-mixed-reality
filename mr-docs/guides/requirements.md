@@ -12,6 +12,9 @@ ms.reviewer: v-brycho
 
 The following table lists technical requirements for deploying and using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] throughout your organization.
 
+> [!Note] 
+> Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](faq.md).
+
 ## Device requirements
 | Device | Platform | Operating system requirements | Details |
 |---|---|---|---|
@@ -42,9 +45,6 @@ You must have a Microsoft Teams license to make outgoing calls from the Dynamics
 | Microsoft Teams app on a mobile device | Any iOS or Android phone or tablet running  Microsoft Teams | A phone or tablet running the Microsoft Teams mobile app can collaborate with a Dynamics 365 Guides user on HoloLens 2.|
 
 The Microsoft Teams user can be in the same organization as the Dynamics 365 Guides user, in a federated organization, or a guest in the organization.
-
-> [!Note] 
-> Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](faq.md).
 
 ### Calling feature limitations
 
