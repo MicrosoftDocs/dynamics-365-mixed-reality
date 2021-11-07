@@ -35,7 +35,7 @@ The following table lists product requirements for services, apps, and features 
 
 ## Making and receiving calls
 
-You must have a Microsoft Teams license to make outgoing calls from the Dynamics 365 Guides HoloLens app. This section describes Microsoft Teams requirements and lists limitations for the calling feature. 
+You must have a Microsoft Teams license to make outgoing calls from the Dynamics 365 Guides HoloLens app. This section describes specific Microsoft Teams requirements and describes limitations for the calling feature. 
 
 ### Microsoft Teams requirements
 
