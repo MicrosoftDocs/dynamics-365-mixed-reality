@@ -51,7 +51,7 @@ Use these instructions to install the [!include[cc-microsoft](../includes/cc-mic
 - [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)
 - [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 - [Deactivate a guide](pc-app-deactivate-guide.md)
-- [Learn what makes a great mixed reality guide](great-guide.md)
+- [Learn what makes a great mixed-reality guide](great-guide.md)
 
 
 
