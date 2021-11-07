@@ -34,7 +34,7 @@ When you're working with complex machinery in a busy environment, you need the r
 
 Need to open another guide? Just summon the Main menu again, select the **Work activity** button, and then select the guide you want to open. 
 
-![Animation of opening the Main menu and selecting Work activity button.](media/1-Handed.gif "Animation of opening the Main menu and selecting the Work activity button")
+![Animation of opening the Main menu and selecting Work activity button.](media/1Handed.gif "Animation of opening the Main menu and selecting the Work activity button")
 
 When the Main menu is open, you can also move it wherever you want (or pivot it) by grabbing it with your hand(s). 
 
