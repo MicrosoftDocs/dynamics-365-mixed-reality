@@ -85,9 +85,9 @@ A piece of work to be done or undertaken. A task is made up of steps that the op
 
 ## See also
 
-[Overview of authoring a guide](authoring-overview.md)<br>
-[Overview of operating a guide](operator-overview.md)<br>
-[Analyze your guides](analytics-guide.md)
+- [Overview of authoring a guide](authoring-overview.md)
+- [Overview of operating a guide](operator-overview.md)
+- [Analyze your guides](analytics-guide.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
