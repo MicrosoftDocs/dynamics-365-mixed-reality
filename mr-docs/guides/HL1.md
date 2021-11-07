@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Use HoloLens (1st gen) devices with Dynamics 365 Guides
 
-HoloLens (first gen) has entered Long-Term Servicing State for Dynamics 365 Guides. This article accumulates all documentation related to using HoloLens (1st gen) devices with Dynamics 365 Guides.
+HoloLens (1st gen) has entered Long-Term Servicing State for Dynamics 365 Guides. This article accumulates all documentation related to using HoloLens (1st gen) devices with Dynamics 365 Guides.
 
 ## Gestures for authoring and navigating in Dynamics 365 Guides 
 
