@@ -51,7 +51,7 @@ Use these pages to get a quick overview of the product and the process of author
 
 - [Authoring overview](authoring-overview.md)
 
-- [How to create a great mixed reality guide](great-guide.md)
+- [How to create a great mixed-reality guide](great-guide.md)
 
 - [Glossary of terms](glossary.md)
 
