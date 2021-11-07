@@ -175,7 +175,7 @@
 ### [Affecting both apps](known-issues.md)
 ### [PC app](known-issues-pc-app.md)
 ### [HoloLens app](known-issues-hololens-app.md)
-## [HoloLens (1st gen)](HL1.md)
+## [Use HoloLens (1st gen) devices](HL1.md)
 ## Legal documents
 ### [Terms of use](../legal/guides-service-terms.md)
 ### [Third-party notices](../legal/guides-third-party-notices.md)
