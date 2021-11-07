@@ -38,8 +38,8 @@ See the following links for more information:
 
 ## See also
 
-[Assign a role to an individual user](assign-role.md)<br>
-[Assign a role through Azure Active Directory groups](admin-assign-role-groups.md)<br>
-[Restrict access to an environment by using security groups](admin-security.md)<br>
-[Assign or share a guide by changing ownership](admin-access-assign.md)<br>
-[Assign or share a guide through an access team](admin-access-teams.md)
+- [Assign a role to an individual user](assign-role.md)
+- [Assign a role through Azure Active Directory groups](admin-assign-role-groups.md)
+- [Restrict access to an environment by using security groups](admin-security.md)
+- [Assign or share a guide by changing ownership](admin-access-assign.md)
+- [Assign or share a guide through an access team](admin-access-teams.md)
