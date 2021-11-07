@@ -108,6 +108,6 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
 ## See also
 
-[Learn about the different Author and Operator roles](admin-role-types.md)<br>
-[Assign an Author or Operator role to an individual user](assign-role.md)
+- [Learn about the different Author and Operator roles](admin-role-types.md)
+- [Assign an Author or Operator role to an individual user](assign-role.md)
 
