@@ -37,12 +37,12 @@ Use the PC app to complete these tasks:
 
 ## What's next?
 
-[Install and sign in to the PC app](install-sign-in-pc-app.md)<br>
-[Create a guide](create-guide.md)<br>
-[Anchor your guide to the real world](anchor.md)<br>
-[Structure your guide in the Outline page](structure-guide.md)<br>
-[Create steps and add 3D content or 2D media](pc-app-step-editor-overview.md)<br>
-[Learn what makes a great mixed reality guide](great-guide.md)
+- [Install and sign in to the PC app](install-sign-in-pc-app.md)
+- [Create a guide](create-guide.md)
+- [Anchor your guide to the real world](anchor.md)
+- [Structure your guide in the Outline page](structure-guide.md)
+- [Create steps and add 3D content or 2D media](pc-app-step-editor-overview.md)
+- [Learn what makes a great mixed reality guide](great-guide.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
