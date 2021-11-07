@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn everything that you need to know about using the PC authoring app to create a guide in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: (pc-app-step-editor-overview.md)
 ms.topic: article
 title: Overview of using the PC authoring app to create a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -25,13 +25,13 @@ Use the PC app to complete these tasks:
 
 - Write the instructions for your steps.
 
-- Assign different types of content to support the steps. Here are some examples of supporting content:
+- [Assign different types of content to support the steps](pc-app-step-editor-overview.md). Here are some examples of supporting content:
 
-    - [3D parts](pc-app-3D-parts.md)
+    - 3D parts
 
-    - [3D objects](pc-app-3D-toolkit.md), such as objects from the 3D toolkit (for example, arrows and numbers)
+    - 3D objects such as objects from the 3D toolkit (for example, arrows and numbers)
 
-    - [2D media (images and videos)](pc-app-images.md)
+    - 2D media (images and videos)
 
 ![PC authoring.](media/pc-authoring.PNG "PC authoring")
 
