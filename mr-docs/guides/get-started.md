@@ -31,9 +31,9 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor to anchor your guide to the real world](https://youtu.be/NhdBG3emNUs)  
    
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://aka.ms/hololensauthor)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app (shows HoloLens 1 version)](https://aka.ms/hololensauthor)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)
 
 ### Demo
 
