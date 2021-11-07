@@ -29,13 +29,9 @@ involves the following well-documented steps:
 ## See also
 
 - [Overview of Guides Analytics Power BI templates](analytics-guide.md)
-
 - [Set up Guides Analytics reports](analytics-ga-setup.md)
-
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
-
 - [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
-
 - [What data is collected and how can you use it?](analytics-data-collected.md)
 
 
