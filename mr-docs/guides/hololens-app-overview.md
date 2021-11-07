@@ -19,7 +19,7 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 
 - [Place your holographic 3D content in a relevant space in the real world](hololens-app-place-holograms.md).
 
-- [Add dotted lines](hololens-app-dotted-lines.md) to visually link your steps to physical objects in the real world.
+- [Add dotted lines](hololens-app-dotted-line.md) to visually link your steps to physical objects in the real world.
 
 - Optional: [Add styles](hololens-app-styles.md) to 3D content to add various treatments. For example, you can indicate a warning or caution.
 
