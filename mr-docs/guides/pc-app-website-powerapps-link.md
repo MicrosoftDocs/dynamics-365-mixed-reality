@@ -97,11 +97,11 @@ To add a [!include[pn-powerapps](../includes/pn-powerapps.md)] link to a step, y
      
 ## What's next?
 
-[Step Editor overview](pc-app-step-editor-overview.md)<br>
-[Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)<br>
-[Add a 3D part](pc-app-add-3D-part.md)<br>
-[Add an image or video file](pc-app-add-media.md)<br>
-[How to make a great mixed-reality guide](great-guide.md) 
+- [Step Editor overview](pc-app-step-editor-overview.md)
+- [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
+- [Add a 3D part](pc-app-add-3D-part.md)
+- [Add an image or video file](pc-app-add-media.md)
+- [How to make a great mixed-reality guide](great-guide.md) 
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
