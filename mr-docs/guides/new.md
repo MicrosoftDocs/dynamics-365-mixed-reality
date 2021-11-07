@@ -151,7 +151,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 - <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides solution</a>
 
-- <a href="/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check compatibility between Dynamics 365 Guides solution and PC/HoloLens apps</a>
+- <a href="/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check compatibility between the Dynamics 365 Guides Dataverse solution and PC/HoloLens apps</a>
 
 
 
