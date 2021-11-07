@@ -2,7 +2,7 @@
 author: chantiff
 description: Learn about the HoloLens permissions required to use Dynamics 365 Guides 7.0.
 ms.author: chantiffany
-ms.date: 11/09/2021
+ms.date: 11/08/2021
 ms.topic: article
 title: HoloLens permissions required to use version 7.0 of Dynamics 365 Guides
 ms.reviewer: v-bholmes
