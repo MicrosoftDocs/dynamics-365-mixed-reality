@@ -42,7 +42,7 @@ Use the PC app to complete these tasks:
 - [Anchor your guide to the real world](anchor.md)
 - [Structure your guide in the Outline page](structure-guide.md)
 - [Create steps and add 3D content or 2D media](pc-app-step-editor-overview.md)
-- [Learn what makes a great mixed reality guide](great-guide.md)
+- [Learn how to create a great mixed-reality guide](great-guide.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
