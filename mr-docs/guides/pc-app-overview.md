@@ -21,7 +21,7 @@ Use the PC app to complete these tasks:
 
 - [Select an anchoring method](pc-app-anchor.md).
 
-- [Add tasks and steps](pc-app-orientation.md).
+- [Add tasks and steps](pc-app-step-editor-overview.md).
 
 - Write the instructions for your steps.
 
