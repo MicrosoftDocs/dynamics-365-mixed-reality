@@ -115,5 +115,4 @@ You could create a Power Automate flow that automatically adds any new 3D object
 ## See also
 
 - [Workflow integration example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
-
 - [Workflow integration example 3: Collect response data for a non-linear guide](workflow-example-3.md)
