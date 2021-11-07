@@ -70,8 +70,7 @@ To change the owner of a folder:
 
 ## See also
 
-[Create or find a guide](create-guide.md)
-
-[Move your folder structure from one environment to another](admin-export-import-folders.md)
+- [Create or find a guide](create-guide.md)
+- [Move your folder structure from one environment to another](admin-export-import-folders.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
