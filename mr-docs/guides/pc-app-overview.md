@@ -23,7 +23,7 @@ Use the PC app to complete these tasks:
 
 - [Add tasks and steps](pc-app-step-editor-overview.md).
 
-- Write the instructions for your steps. [Learn about best practices for writing instruction text](pc-app-step-editor-overview.md#best-practices-for-instructional-text-and-supporting-content)
+- Write the instructions for your steps. [Learn about best practices for writing instructional text](pc-app-step-editor-overview.md#best-practices-for-instructional-text-and-supporting-content).
 
 - [Assign different types of content to support the steps](pc-app-step-editor-overview.md). Here are some examples of supporting content:
 
