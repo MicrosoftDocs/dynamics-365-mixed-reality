@@ -60,17 +60,11 @@ Double-clicking on an individual session row in this view provides more details 
 ## See also
 
 - [Can I opt out of storing Guides operations data in the Microsoft Dataverse?](data-opt-out.md) 
-
 - [Guides table (entity) reference](developer-entity-reference.md)
-
 - [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
-
 - [Overview of Guides Analytics Power BI templates](analytics-guide.md)
-
 - [Set up Guides Analytics reports](analytics-ga-setup.md)
-
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
-
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
 
 
