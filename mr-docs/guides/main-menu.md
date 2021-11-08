@@ -36,7 +36,7 @@ Need to open a different guide? Summon the Main menu again, select the **Work ac
 
 ![Animation of opening the Main menu and selecting Work activity button.](media/1Handed.gif "Animation of opening the Main menu and selecting the Work activity button")
 
-When the Main menu is open, you can also move it wherever you want (or pivot it) by grabbing it with your hand(s). 
+When the Main menu is open, you can move it wherever you want (or pivot it) by grabbing it with your hand(s). 
 
 ![Animation of moving the Main menu.](media/move-hologram.gif "Animation of moving the Main menu")
 
