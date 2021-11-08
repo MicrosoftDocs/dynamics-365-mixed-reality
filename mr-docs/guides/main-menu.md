@@ -32,7 +32,7 @@ When you're working with complex machinery in a busy environment, you need the r
 
 ![Animation of summoning the Call window.](media/call-summon-new.gif "Animation of summoning the Call window")
 
-Need to open another guide? Summon the Main menu again, select the **Work activity** button, and then select the guide you want to open. 
+Need to open a different guide? Summon the Main menu again, select the **Work activity** button, and then select the guide you want to open. 
 
 ![Animation of opening the Main menu and selecting Work activity button.](media/1Handed.gif "Animation of opening the Main menu and selecting the Work activity button")
 
