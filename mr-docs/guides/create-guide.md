@@ -48,8 +48,8 @@ You must be online to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 
 ## What's next?
 
-[Anchor your guide to the real world](anchor.md)<br>
-[Structure your guide in the Outline page](structure-guide.md)<br>
-[Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
+- [Anchor your guide to the real world](anchor.md)
+- [Structure your guide in the Outline page](structure-guide.md)
+- [Create steps and add 3D content or 2D media](create-steps-assign-media.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

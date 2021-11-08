@@ -151,13 +151,9 @@ step visits not being correctly recorded or the guide session being interrupted.
 ## See also
 
 - [Overview of Guides Analytics Power BI templates](analytics-guide.md)
-
 - [Set up Guides Analytics reports](analytics-ga-setup.md)
-
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
-
 - [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
-
 - [What data is collected and how can you use it?](analytics-data-collected.md)
 
 

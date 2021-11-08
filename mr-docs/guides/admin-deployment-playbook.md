@@ -116,7 +116,7 @@ Other endpoints are specific to Dynamics 365 Guides. The list of additional endp
 
 ### Windows Defender Firewall configuration
 
-For Windows Defender Firewall, sometimes it's not enough to have the app listed in the **Allowed apps** section. If Windows Firewall is configured to block outbound calls, you must have a rule that allows the Dynamics 365 Guides app in the **Outbound Rules** section. Note that installing the Dynamics 365 Guides app will add this rule. If you don't see the app in the **Outbound Rules** section, uninstalling and re-installing it might fix the issue. If you don't have permissions to do this (install the app or add the firewall rule), work with your IT department.
+For Windows Defender Firewall, sometimes it's not enough to have the app listed in the **Allowed apps** section. If Windows Firewall is configured to block external network calls, you must have a rule that allows the Dynamics 365 Guides app in the **Outbound Rules** section. Note that installing the Dynamics 365 Guides app will add this rule. If you don't see the app in the **Outbound Rules** section, uninstalling and re-installing it might fix the issue. If you don't have permissions to do this (install the app or add the firewall rule), work with your IT department.
 
 #### Determine if outbound connections are blocked
 
@@ -124,11 +124,26 @@ For Windows Defender Firewall, sometimes it's not enough to have the app listed 
 
     ![Firewall configuration 01](media/firewall_config_01.png "Firewall advance setting configuration")
 
-#### Determine if the outbound rule allowing Dynamics 365 Guides to make external calls exists
+#### Determine if the outbound rule allowing Dynamics 365 Guides to make external network calls exists
 
 - In the left panel, select **Outbound Rules**, sort the rules by name, and then look for a Microsoft Dynamics 365 Guides entry. Make sure that the value in the **Action** field is set to **Allow**. If it's not, reinstall the app.
 
     ![Firewall configuration 02](media/firewall_configuration_02.PNG "Firewall outbound rules")
+    
+### Making calls from Dynamics 365 Guides
+
+The following list contains the minimum URL endpoints and TCP/UDP ports used for Teams calling. All must be reachable from the app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
+
+#### Teams
+
+- *.registrar.skype.com
+- *.teams.microsoft.com
+- UDP: 3478, 3479, 3480, 3481
+
+#### Microsoft GraphExplorer
+
+- graph.microsoft.com
+- TCP: 80, 443
 
 ## Access management and user roles
 

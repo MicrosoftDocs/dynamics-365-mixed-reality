@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about all the resources available for getting started with Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 02/03/2021
+ms.date: 11/08/2021
 ms.topic: article
 title: Get started with Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -29,25 +29,19 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)
 
-- Anchor your guide in the real world:
-
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor](https://youtu.be/NhdBG3emNUs)
-
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://aka.ms/guidesprintedanchor)
-
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://aka.ms/guidesdigitalanchor)   
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor to anchor your guide to the real world](https://youtu.be/NhdBG3emNUs)  
    
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://aka.ms/hololensauthor)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app (shows HoloLens 1 version)](https://aka.ms/hololensauthor)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)
 
 ### Demo
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a five-minute demo that showcases the value of the app for your company. This demo is useful for every [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to be online to use the demo.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a five-minute demo that showcases the value of holographic work instructions for your company. This demo is useful for every [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to sign in or be online to use the demo.
 
-To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select **Try the demo**.
+To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select **Try a guide**.
 
-![Try the demo button.](media/try-demo-2.PNG "Try the demo button")
+![Try the demo button.](media/touch-sign-in.jpg "Try the demo button")
 
 ## Understand concepts
 
@@ -57,7 +51,7 @@ Use these pages to get a quick overview of the product and the process of author
 
 - [Authoring overview](authoring-overview.md)
 
-- [How to create a great mixed reality guide](great-guide.md)
+- [How to create a great mixed-reality guide](great-guide.md)
 
 - [Glossary of terms](glossary.md)
 
@@ -80,6 +74,8 @@ We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 ![What's New command.](media/what-new.PNG "What's New command")
 
 To learn when features were introduced, or to learn about upcoming features, see the Release plan:
+
+- [2021 Wave 2 (October 2021 through March 2022)](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features)
 
 - [2021 Wave 1 (April 2021 through September 2021)](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features)
 

@@ -2,7 +2,7 @@
 author: BryceHo
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
 ms.author: cynielse
-ms.date: 03/23/2021
+ms.date: 11/08/2021
 ms.topic: article
 title: Overview of analyzing guides created with Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -45,13 +45,9 @@ Use the Power Platform to analyze and act on your data.
 ## See also
 
 - [What data is collected and how can you use it?](analytics-data-collected.md)
-
 - [Overview of Guides Analytics Power BI templates](analytics-guide.md)
-
 - [Set up Guides Analytics reports](analytics-ga-setup.md)
-
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
-
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
 
 

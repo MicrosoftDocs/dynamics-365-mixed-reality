@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Determine whether your Dynamics 365 Guides solution is compatible with the apps.
 ms.author: mamaylya
-ms.date: 07/26/2021
+ms.date: 11/08/2021
 ms.topic: article
 title: Compatibility between Dynamics 365 Guides solution and apps 
 ms.reviewer: v-brycho
@@ -23,6 +23,7 @@ To find the app and solution versions that you're using, in the PC app, select t
 
 | PC and HoloLens app version | Release date | Compatible Guides Dataverse solution versions |
 |-----------------------------|--------------|--------------------------------------------------|
+| 700.2111.3001| November 8, 2021 | 700.0.0.1, 600.4.0.2, 600.3.0.1, 600.2.0.2, 600.1|
 | 604.2108.20001 | August 30, 2021 | 600.4.0.2, 600.3.0.1, 600.2.0.2, 600.1, 600.0|
 | 603.2107.20001 | July 26, 2021 | 600.3.0.1, 600.2.0.2, 600.1, 600.0|
 | 602.2106.19001 | June 29, 2021 | 600.2.0.2, 600.1, 600.0|
@@ -48,10 +49,10 @@ To find the app and solution versions that you're using, in the PC app, select t
 
 ## See also
 
-[What's new in Dynamics 365 Guides](new.md)<br>
-[Version history](version-history.md)<br>
-[Upgrade the Dynamics 365 Guides solution](upgrade.md)<br>
-[Download and install the PC and HoloLens apps](setup-step-three.md)
+- [What's new in Dynamics 365 Guides](new.md)
+- [Version history](version-history.md)
+- [Upgrade the Dynamics 365 Guides solution](upgrade.md)
+- [Download and install the PC and HoloLens apps](setup-step-three.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -44,10 +44,10 @@ When you add a video to a step, the thumbnail for the video is automatically cre
 
 ## What's next?
 
-[Step Editor overview](pc-app-step-editor-overview.md)<br>
-[Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)<br>
-[Add a 3D part](pc-app-add-3D-part.md)<br>
-[Add a website or Power Apps link](pc-app-website-powerapps-link.md)<br>
-[How to make a great mixed-reality guide](great-guide.md)
+- [Step Editor overview](pc-app-step-editor-overview.md)
+- [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
+- [Add a 3D part](pc-app-add-3D-part.md)
+- [Add a website or Power Apps link](pc-app-website-powerapps-link.md)
+- [How to make a great mixed-reality guide](great-guide.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

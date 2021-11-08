@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Use the Help menu in Microsoft Dynamics 365 Guides to find out what's new and more.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 11/08/2021
 ms.topic: article
 title: Get help with Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -22,6 +22,9 @@ Need help with Microsoft Dynamics 365 Guides? Select the **Help** (question mark
 | Suggest an idea | Tell us about a specific feature that you think will improve the app. |
 | Ask the community | Reach out to the Dynamics 365 Guides team or the [user community](https://community.dynamics.com/365/guides/f/dynamics-365-guides-forum) by asking a question in our forums. |
 | Call support | Find out how to [contact customer support](https://support.microsoft.com/hub/4343728/support-for-business) if you need help. |
+
+> [!TIP]
+> To get Help from the HoloLens app, look at your palm to [open the Main menu](main-menu.md), and then select the **Settings** button.  
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

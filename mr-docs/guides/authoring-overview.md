@@ -36,7 +36,7 @@ Ready to jump in? Choose one or more of these links to get underway:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about PC authoring](https://aka.ms/pcauthor)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the PC app](pc-app-overview.md)
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about HoloLens authoring on HoloLens1](https://aka.ms/hololensauthor)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about HoloLens authoring (shows HoloLens 1 version)](https://aka.ms/hololensauthor)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the HoloLens app](hololens-app-overview.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Gestures for authoring and navigating](authoring-gestures.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [How to make a great guide](great-guide.md)

@@ -63,13 +63,9 @@ described in detail in [Take a tour of Guides Analytics reports](analytics-ga-re
 ## See also
 
 - [Overview of Guides Analytics Power BI templates](analytics-guide.md)
-
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
-
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
-
 - [Overview of analyzing or integrating Dynamics 365 Guides operations data](analytics-overview.md)
-
 - [What data is collected and how can you use it?](analytics-data-collected.md)
 
 

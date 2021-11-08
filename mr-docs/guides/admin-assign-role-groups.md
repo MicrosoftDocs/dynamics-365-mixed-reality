@@ -4,7 +4,7 @@ description: Learn how to assign Author and Operator roles to a Dynamics 365 gro
 author:  MattHoag-MS
 manager: tfehr
 ms.topic: article
-ms.date: 06/10/2021
+ms.date: 11/08/2021
 ms.author: v-mhoag
 ms.reviewer: v-bholmes
 ---
@@ -84,47 +84,30 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
 For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). For more information, see [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
-1. In the Power Platform admin center, select the environment that you want to update.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (ellipsis **...**) button, and then select **Settings**.
 
-2. In the **Details** section, select the **Environment URL** link to access the details for the environment.  
+    ![Settings command.](media/access-teams-9.PNG "Settings command")
 
-    ![Environment URL in the Details section.](media/power-platform-admin-center-env-url.PNG "Environment URL in the Details section")
+2. In the **Settings** page, select **Teams**.
 
-3. In the title bar, select the **Settings** button, and then select **Advanced Settings**.
-
-    ![Settings button.](media/power-platform-admin-center-env-adv-settings.PNG "Settings button")  
-
-4. In the Dynamics 365 screen, select the down arrow next to **Settings**, and then under **System**, select **Security**.
-
-    ![select security.](media/D365-admin-center-advanced-settings-security.PNG "select security")
-
-5. In the **Security** screen, select **Teams**.
-
-    ![Teams item selected in the Security screen.](media/D365-admin-center-advanced-settings-teams.PNG "Teams item selected in the Security screen")
-
-6. At the top of the page, select the team type (**All AAD Office Group Teams** or **All AAD Security Group Teams**).
-
-    ![select groups dropdown.](media/D365-admin-center-advanced-settings-groups.PNG "select groups dropdown")
+    ![Teams button.](media/access-teams-14.PNG "Teams button")
  
-7. Select the team name to modify the team.
+3. Choose the team to modify, and then select the **Team options** (ellipsis) button.
 
-    ![select group name.](media/D365-admin-center-advanced-settings-groupname.PNG "select group name")
+    ![select team options.](media/power-platform-admin-center-env-teams.png "select team options")
 
-8. At the top of the page, select **MANAGE ROLES**.
+4. Select **Manage security roles**.
 
-    ![select manage roles.](media/D365-admin-center-advanced-settings-manage-roles.PNG "manage roles")
+    ![select manage security roles.](media/power-platform-admin-center-env-teams-manage-roles.png "manage security roles")
 
-9. Confirm that the **Basic User** role is selected, and then select any additional roles that you want to apply to the group.
+5. Confirm that the **Basic User** role is selected, and then select any additional roles that you want to apply to the group.
 
-    ![Select roles.](media/select-role.PNG "Select roles")
+    ![Select roles.](media/power-platform-admin-center-env-teams-manage-roles-security.png "Select roles")
     
     [Learn more about the different Author and Operator roles](admin-role-types.md).
 
-> [!NOTE]
-> The **MANAGE ROLES** command is not available on the group teams page if the check box to the left of a group team is selected.  **MANAGE ROLES** is available only in the context of a group team details page.  
-
 ## See also
 
-[Learn about the different Author and Operator roles](admin-role-types.md)<br>
-[Assign an Author or Operator role to an individual user](assign-role.md)
+- [Learn about the different Author and Operator roles](admin-role-types.md)
+- [Assign an Author or Operator role to an individual user](assign-role.md)
 

@@ -75,9 +75,8 @@ to the same QR code.
     
 ## What's next?
 
-[Open a guide by scanning a QR code](operator-open-guide-qr-code.md)
-
-[Learn more anchoring a guide by using a QR code](pc-app-anchor-qr-code.md)
+- [Open a guide by scanning a QR code](operator-open-guide-qr-code.md)
+- [Learn more anchoring a guide by using a QR code](pc-app-anchor-qr-code.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

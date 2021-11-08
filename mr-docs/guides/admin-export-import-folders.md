@@ -2,7 +2,7 @@
 author: melissahellmund
 description: Learn how to export and import Dynamics 365 Guides folders between environments
 ms.author: mehellmu
-ms.date: 06/29/2021
+ms.date: 11/08/2021
 ms.service: crm-online
 ms.topic: article
 title: Export and import Dynamics 365 Guides folders between environments
@@ -53,7 +53,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
        ![Power Apps screen with solution and Edit button highlighted.](media/export-folders-03.PNG "Power Apps screen with solution and Edit button highlighted")
 
-    3. Select **Add existing** > **Folder**.  
+    3. Select **Add existing** > **More** > **Other** > **Folder**.  
 
        ![Power Apps screen with Add existing and Folder highlighted.](media/export-folders-04.PNG "Power Apps screen with Add existing and Folder highlighted")
 

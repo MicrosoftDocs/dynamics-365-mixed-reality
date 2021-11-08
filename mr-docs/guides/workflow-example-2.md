@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Microsoft Power Automate to create a 3D object collection for Microsoft Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 04/26/2021
+ms.date: 11/08/2021
 ms.topic: article
 title: Workflow example 2--Create a Dynamics 365 Guides 3D object collection and add objects to the collection
 ms.reviewer: v-brycho
@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 
 In this workflow example, we’ll use Microsoft Power Automate to create a Microsoft Dynamics 365 Guides 3D object collection. 3D object collections appear as categories (**Arrows**, **Generic Tools**, and so on) in the Dynamics 365 Guides 3D toolkit. You can use Power Automate to create a new category for your 3D objects, and then add objects to the collection through the Dynamics 365 Guides model-driven app.
 
- ![Screen shot of PC app 3d toolkit with categories collapsed.](media/workflow2-pc-app-category.PNG "Screen shot of PC app 3d toolkit with categories collapsed")
+ ![Screen shot of PC app 3D toolkit with categories collapsed.](media/workflow2-pc-app-category.PNG "Screen shot of PC app 3D toolkit with categories collapsed")
  
  > [!NOTE]
 > You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
@@ -53,7 +53,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
 
     ![Add a new row trigger showing Table name field and Name field.](media/workflow2-add-new-row-trigger.PNG "Add a new row trigger showing Table name field and Name field")
  
-6. To get the value for the **Parent ID** field for the new collection, go to the Guides model-driven app, select **Collections**, and then select one of the existing object collections. For example, select the **Arrows** collection.
+6. To get the value for the **Parent ID** field for the new collection, go to the Guides model-driven app, select **3D Toolkit**, and then select one of the existing object collections. For example, select the **Arrows** collection.
 
     ![Model-driven app screen with Arrows collection selected.](media/workflow2-arrows-collection.PNG "Model-driven app screen with Arrows collection selected")
  
@@ -94,7 +94,7 @@ You can add new objects to the collection directly in the model driven-app.
 
 1. Open the Guides model driven-app.
 
-2. Select **Collections**, and then select the new collection.
+2. Select **3D Toolkit**, and then select the new collection.
 	
 2. In the lower-right corner of the screen, select **Add Existing 3D Object**.
 
@@ -104,7 +104,7 @@ You can add new objects to the collection directly in the model driven-app.
 
     ![Lookup Records pane in model-driven app.](media/workflow2-lookup-object.PNG "Lookup Records pane in model-driven app")
  
-    Now when you open the 3d toolkit in the PC app, you’ll see your new 3D object collection and the newly associated object. 
+    Now when you open the 3D toolkit in the PC app, you’ll see your new 3D object collection and the newly associated object. 
     
     ![Model-driven app screen with new 3D object added.](media/workflow2-object-added.PNG "Model-driven app screen with new 3D object added")
  
@@ -115,5 +115,4 @@ You could create a Power Automate flow that automatically adds any new 3D object
 ## See also
 
 - [Workflow integration example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
-
 - [Workflow integration example 3: Collect response data for a non-linear guide](workflow-example-3.md)

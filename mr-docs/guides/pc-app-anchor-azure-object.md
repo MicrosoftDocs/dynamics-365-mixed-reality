@@ -1,16 +1,16 @@
 ---
 author: Mamaylya
-description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
+description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 ms.author: mamaylya
 ms.date: 08/09/2021
 ms.topic: article
-title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
+title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 ms.reviewer: v-bholmes
 ---
 
-# Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors Preview
+# Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 
-Anchoring a guide with Azure Object Anchors  is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. This preview release supports large static objects only. Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin that has been  imported into Dynamics 365 Guides, converted to an object anchor, and assigned to a guide.  
+Anchoring a guide with Azure Object Anchors is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. This preview release supports large static objects only. Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin that has been  imported into Dynamics 365 Guides, converted to an object anchor, and assigned to a guide.  
 
 Authors must do three steps to use object anchors:
 
@@ -124,7 +124,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
    > [!Important]
    > The **Choose File** button in the next step won't appear until you select **Save**.
 
-3. Under **Input**, select **Choose File**, and then browse to your 3D model and upload it. 
+3. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it. 
 
     ![Input section showing Choose File button.](media/AOA-choose-file.PNG "Input section showing Choose File button.")
 
@@ -139,7 +139,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
      ![Length Unit field](media/AOA-conversion.PNG "Length Unit field")       
 
-5. Select **Convert 3D File**. 
+5. Select **Convert to Object Anchor**. 
 
     This starts the conversion process. The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide. 
 
