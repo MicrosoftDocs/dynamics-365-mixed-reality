@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Glossary of relevant terminology for Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 02/25/2020
+ms.date: 11/08/2021
 ms.topic: article
 title: Glossary of terms for Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -17,6 +17,9 @@ When you're working with [!include[cc-microsoft](../includes/cc-microsoft.md)] [
 
 ## 3D toolkit
 A library of predefined objects included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you can use to get started right away. For example, there are 3D objects such as pointers and arrows that you can add to a step to support that step.
+
+## Activity card
+Shows the list of guides for the Work activity and the list of contacts for the Call activity.
 
 ## Air tap
 A gesture that's equivalent to a "click" with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
@@ -51,6 +54,10 @@ A 3D representation that is used to anchor holograms in the real world. You plac
 ## Interpupillary distance (IPD)
 The distance between a user's eyes. Different users have different IPDs. To align content correctly, [!include[pn-hololens](../includes/pn-hololens.md)] needs to be calibrated for each user's IPD. 
 
+## Main menu
+
+The menu that appears when a HoloLens user looks at their palm, anywhere and any time while using Dynamics 365 Guides. The Main menu includes buttons for activities (work or call) and buttons to access settings or to sign out.
+
 ## Operator
 The person who uses a guide to do a set of tasks. 
 
@@ -69,14 +76,18 @@ The fundamental building block in [!include[pn-dyn-365-guides](../includes/pn-dy
 ## Style
 Visual properties that you can add to any 3D object to reinforce what you want the operator to do or know. Examples of styles include Pick up, Place, and Caution.
 
+## Submenu
+
+The submenu (attached to the activity card) that enables a user to filter the view of their activity content (**All** or **Recent**). 
+
 ## Task
 A piece of work to be done or undertaken. A task is made up of steps that the operator must follow to complete the task. 
 
 ## See also
 
-[Overview of authoring a guide](authoring-overview.md)<br>
-[Overview of operating a guide](operator-overview.md)<br>
-[Analyze your guides](analytics-guide.md)
+- [Overview of authoring a guide](authoring-overview.md)
+- [Overview of operating a guide](operator-overview.md)
+- [Analyze your guides](analytics-guide.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

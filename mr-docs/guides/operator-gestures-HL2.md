@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use gaze and air tap to navigate a guide in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 11/08/2021
 ms.topic: article
 title: HoloLens 2 gestures (for example, gaze and air tap) for navigating a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -16,7 +16,7 @@ To move through a guide as an operator in [!include[cc-microsoft](../includes/cc
 
 Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is as easy as it sounds. In some cases, you can select an item (for example, an app, menu, or button) just by gazing at a selection box next to it. For example, you can select the **Next** or **Go back** button on an instruction card (Step card) by gazing at the button. The selection is completed when the box for the button is filled up by your gaze.
 
-![Gaze animation.](media/gaze-animation.gif "Gaze animation")
+![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
 Gaze is very useful if your hands are busy with tools or parts.
 
@@ -27,26 +27,6 @@ In both cases, when you gaze, be sure to turn your whole head, not just your eye
 ## Gestures
 
 As you work with a guide, you will also have to use some gestures. This section lists the most important gestures.
-
-### Open the Start menu
-
-You can open the **Start** menu on [!include[pn-hololens](../includes/pn-hololens.md)] 2 by using either one hand or two hands. If you're ever unsure what to do, opening the **Start** menu is a good way to get reoriented.
-
-### Open the Start menu with one hand
-
-1. Hold out one of your hands with the palm facing up, and look at your wrist. You should see a holographic Windows logo.
-
-2. On the hand that you're holding out, touch your index finger to your thumb in a pinching motion.
-
-![Opening the Start menu with one hand.](media/open-start-menu-one-hand.png "Opening the Start menu with one hand")
-
-### Open the Start menu with two hands
-
-1. Hold out one of your hands with the palm facing up, and look at your wrist. You should see a holographic Windows logo.
-
-2. With the index finger of your other hand, touch the Windows logo.
-
-![Video camera graphic.](media/video-camera.PNG) [Watch a video about opening the Start menu with two hands](https://www.microsoft.com/videoplayer/embed/RE3Wxng).
 
 ### Air tap
 

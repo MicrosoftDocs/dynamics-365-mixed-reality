@@ -40,13 +40,9 @@ These reports provide information about operator adoption and usage and give gui
 ## See also
 
 - [Set up Guides Analytics reports](analytics-ga-setup.md)
-
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
-
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
-
 - [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
-
 - [What data is collected and how can you use it?](analytics-data-collected.md)
 
 

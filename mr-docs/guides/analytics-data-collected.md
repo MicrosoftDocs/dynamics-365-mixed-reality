@@ -2,7 +2,7 @@
 author: BryceHo
 description: Learn about what data is collected in Dynamics 365 Guides and how you can use that data to analyze guide usage in your organization.
 ms.author: cynielse
-ms.date: 02/03/2021
+ms.date: 11/08/2021
 ms.topic: article
 title: What data is collected in Dynamics 365 Guides and how can you use it?
 ms.reviewer: v-bholmes
@@ -49,7 +49,7 @@ Here are some examples of what you can do:
 
 **Guides model-driven app.** You can use the Guide Sessions view in the Guides model-driven app to inspect guide sessions. To access the model-driven app, sign in to Microsoft Power Apps and go to the **Apps** tab. 
 
-![Guide Sessions view.](media/analytics-guides-sessions-view.PNG "Guide Sessions view")
+![Guide Sessions view.](media/analytics-data-stored-automatically-1.PNG "Guide Sessions view")
 
 Double-clicking on an individual session row in this view provides more details about the session as well as access to a **Session History** tab that contains information about individual step visits.  
 
@@ -60,17 +60,11 @@ Double-clicking on an individual session row in this view provides more details 
 ## See also
 
 - [Can I opt out of storing Guides operations data in the Microsoft Dataverse?](data-opt-out.md) 
-
 - [Guides table (entity) reference](developer-entity-reference.md)
-
 - [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
-
 - [Overview of Guides Analytics Power BI templates](analytics-guide.md)
-
 - [Set up Guides Analytics reports](analytics-ga-setup.md)
-
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
-
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
 
 

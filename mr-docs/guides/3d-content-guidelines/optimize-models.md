@@ -52,10 +52,10 @@ The following table lists some general conservative targets to aim for when acqu
 > Dynamics 365 Guides includes a GTLF loader that does not support alpha transparency in textures. However, you can set a single alpha value for an entire material.
 
 ### See also
-[Overview of preparing 3D models](index.md)<br>
-[Convert 3D models](convert-models.md)<br>
-[Best practices for converting and optimizing 3D models](best-practices.md)<br>
-[Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
+- [Overview of preparing 3D models](index.md)
+- [Convert 3D models](convert-models.md)
+- [Best practices for converting and optimizing 3D models](best-practices.md)
+- [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

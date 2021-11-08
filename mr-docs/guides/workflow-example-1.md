@@ -170,6 +170,5 @@ To further customize the Link Manager, you could set conditions in the Power Aut
 ## See also
 
 - [Workflow integration example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
-
 - [Workflow integration example 3: Collect response data for a non-linear guide](workflow-example-3.md)
 

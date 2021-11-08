@@ -109,12 +109,12 @@ to take before starting the guide.
      Bad example:
      
      ![Multiple sentences.](media/bad-example.PNG "Multiple sentences")
+
+    In this example, many operators might miss the second sentence and continue onto the next step.
      
      Good example:
      
-     ![Single idea.](media/good-example.PNG "Single idea")     
-       
-     In this example, many operators might miss the second sentence and continue onto the next step.
+     ![Single idea.](media/good-example.PNG "Single idea")       
 
 - Keep text simple and colloquial.
 
@@ -498,11 +498,11 @@ Shoot videos from a third-person or first-person perspective.
 
 ## See also
 
-[Author a guide](authoring-overview.md)<br>
-[Overview of operating a guide](operator-overview.md)<br>
-[Analyze your guides](analytics-guide.md)<br>
-[FAQ](faq.md)<br>
-[Known issues](known-issues.md)
+- [Author a guide](authoring-overview.md)
+- [Overview of operating a guide](operator-overview.md)
+- [Analyze your guides](analytics-guide.md)
+- [FAQ](faq.md)
+- [Known issues](known-issues.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

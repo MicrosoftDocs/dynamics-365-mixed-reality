@@ -19,21 +19,17 @@ Three-dimensional models come in all shapes and sizes. Sometimes they're complex
 
 If you use Autodesk Inventor or Dassault SOLIDWORKS, you can use built-in tools that can simplify complex components and make your 3D models perform better in mixed reality. Start with these tutorials to produce the highest-quality 3D models:
 
-[Autodesk Inventor](inventor.md)
-
-[Dassault SOLIDWORKS](solidworks.md) 
-
-[Pixyz Studio](pixyz-studio.md)
+- [Autodesk Inventor](inventor.md)
+- [Dassault SOLIDWORKS](solidworks.md) 
+- [Pixyz Studio](pixyz-studio.md)
 
 ## DCC tutorials
 
 If your 3D models are in FBX, OBJ, or GLB file format, you can use any of the following tutorials to prepare your 3D models:
 
-[SideFX Houdini](houdini.md)
-
-[Blender](blender.md) 
-
-[Autodesk 3ds Max](3ds-max.md)  
+- [SideFX Houdini](houdini.md)
+- [Blender](blender.md) 
+- [Autodesk 3ds Max](3ds-max.md)  
 
 > [!NOTE]
 > In addition to FBX, OBJ, and GLB, 3ds Max can import a multitude of file formats, including several native CAD formats.
@@ -42,15 +38,14 @@ If your 3D models are in FBX, OBJ, or GLB file format, you can use any of the fo
 
 If you're using photogrammetry software to create your 3D models, see these tutorials:
 
-[Agisoft Metashape](agisoft-metashape.md)
-
-[Autodesk ReCap Photo](autodesk-recap-photo.md)
+- [Agisoft Metashape](agisoft-metashape.md)
+- [Autodesk ReCap Photo](autodesk-recap-photo.md)
 
 ## Point cloud tutorial
 
 If you're converting a point cloud into a 3D model, see this tutorial:
 
-[SideFX Houdini](houdini-point-cloud.md)
+- [SideFX Houdini](houdini-point-cloud.md)
 
 ### More information  
 

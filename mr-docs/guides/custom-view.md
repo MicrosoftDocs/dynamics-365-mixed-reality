@@ -2,7 +2,7 @@
 author: Mamaylya
 description: This topic explains how to add a tab on HoloLens that shows a custom list of guides for a specific set of users.
 ms.author: mamaylya
-ms.date: 11/17/2020
+ms.date: 11/08/2021
 ms.topic: article
 title: Show a list of guides on a custom tab for a specific set of Dynamics 365 Guides users
 ms.reviewer: v-brycho
@@ -12,9 +12,9 @@ ms.reviewer: v-brycho
 
 If you want to create a custom list of guides for a specific user or set of users in Microsoft Dynamics 365 Guides, you can create a custom view. Operators access the view through a custom tab on HoloLens. This tab contains only the guides that are defined by the custom view. 
 
-The following illustration shows an example of a custom tab that contains a custom list of guides.
+The following screenshot shows an example of a custom tab that contains a custom list of guides.
 
-![Example of a custom view that appears on a HoloLens tab.](media/custom-view-hololens-tab.PNG "Example of a custom view that appears on a HoloLens tab")
+![Example of a custom view that appears on a HoloLens tab.](media/custom-tab.jpg "Example of a custom view that appears on a HoloLens tab")
 
 Custom views are useful when you want to show a set of guides that is related to a specific workflow. For example, you might want to show a different set of guides to each team or business unit. Alternatively, you might want to show a list of guides that is targeted at a specific type of operator role.
 
@@ -32,7 +32,7 @@ You must also have the **System Administrator** role for the Dynamics 365 Guides
 
 The process of creating a custom view involves these basic steps:
 
-1. Create a new entity in Microsoft Dataverse. This entity contains the fields that will be included in the view. (It must contain at least two fields.)
+1. Create a new table in Microsoft Dataverse. This table contains the columns that will be included in the view. (It must contain at least two columns.)
 
 2. Create the view.
 
@@ -42,10 +42,10 @@ The process of creating a custom view involves these basic steps:
 
 The remaining sections of this topic describe each step in detail.
 
-## Step 1: Create a new entity in Microsoft Dataverse
+## Step 1: Create a new table in Microsoft Dataverse
 
 > [!NOTE]
-> If you want to use an existing entity instead of creating a new entity, skip ahead to the [Step 2: Create the view](#step-2-create-the-view) section.
+> If you want to use an existing table instead of creating a new table, skip ahead to the [Step 2: Create the view](#step-2-create-the-view) section.
 
 1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin.
 
@@ -55,11 +55,11 @@ The remaining sections of this topic describe each step in detail.
 
     ![List of instances in the Environments pane.](media/custom-view-select-instance1.PNG "List of instances in the Environments pane")
 
-2. In the left pane, select **Data**, and then select **Entities**. Then select **New entity**.
+2. In the left pane, select **Data**, and then select **Tables**. Then select **New table**.
 
     ![Create an entity.](media/custom-view-new-entity.PNG "Create an entity")
 
-3. In the **New entity** dialog box, enter a display name (for example, **Custom Tab**).
+3. In the **New table** dialog box, enter a display name (for example, **Custom Tab**).
 
     ![Enter a display name.](media/custom-view-entity-display-name.PNG "Enter a display name")
 
@@ -68,9 +68,11 @@ The remaining sections of this topic describe each step in detail.
 
 4. Select **Create**.
 
-5. While the new entity is open, select **Add field**.
+5. While the new table is open, select **Add column**.
 
-6. In the **Field properties** dialog box, follow these steps:
+    ![Add column command highlighted.](media/custom-view-entity-add-column.PNG "Add column command highlighted")
+
+6. In the **Column properties** dialog box, follow these steps:
 
     1. In the **Display name** field, enter **Date and Time**.
 
@@ -80,23 +82,23 @@ The remaining sections of this topic describe each step in detail.
 
     3. Select **Done**.
 
-7. Select **Add field** again, and then, follow these steps in the **Field properties** dialog box:
+7. Select **Add column** again, and then, follow these steps in the **Column properties** dialog box:
 
     1. In the **Display name** field, enter **Guide**.
 
-    2. In the **Data type** field, select **Lookup**. You will use this field to search the database and assign a guide to the entity through the view.
+    2. In the **Data type** field, select **Lookup**. You'll use this field to search the database and assign a guide to the table through the view.
 
-    3. In the **Related entity** field, enter **Guide**.
+    3. In the **Related table** field, select **Guide**.
 
         ![Enter Guide field properties.](media/custom-view-lookup-field.PNG "Enter Guide field properties")
 
     4. Select **Done**.
 
-8. In the lower-right corner of the page, select **Save Entity**.
+8. In the lower-right corner of the page, select **Save Table**.
 
 ## Step 2: Create the view
 
-In this step, you will add a view to the entity that you created in the previous section. This view will include the same fields that you added to the new entity.
+In this step, you'll add a view to the table that you created in the previous section. This view will include the same fields that you added to the new table.
 
 The following rules apply to the view:
 
@@ -104,15 +106,15 @@ The following rules apply to the view:
 
 - The first column must be a **Date and Time** field (that is, it must have the **Date and Time** data type), and the field can't be empty.
 
-- The second column must be a lookup to the **msmrw\_guide** entity, and the field can't be empty.
+- The second column must be a lookup to the **msmrw\_guide** table, and the field can't be empty.
 
 - If a formatted value is available, it will be used.
 
 - Nonempty values are concatenated and shown below the guide name.
 
-The following illustration shows an example of a tab that is named **Custom Tab** on HoloLens. It also shows where the values for each part of the tab come from.
+The following illustration shows an example of a tab named **Custom Tab**. The numbers and table below the illustration show where the values for each part of the tab come from.
 
-![HoloLens tab.](media/custom-view-hololens-tab-sources.PNG "HoloLens tab")
+![Custom tab elements.](media/custom-tab-elements.jpg "Custom tab elements")
 
 1. The name of the view that you create
 
@@ -120,14 +122,14 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 
 3. The **Date and Time** field
 
-4. An additional field (This field can be any field that you want to add.)
+4. An additional field. This field can be any field that you want to add.
 
 ### Create the view
 
-1. Make sure that the entity that you created in the previous section is open.
+1. Make sure that the table that you created in the previous section is open.
 
     > [!NOTE]
-    > You can't create the view on the **msmrw\_guide** entity.
+    > You can't create the view on the **msmrw\_guide** table.
 
 2. Select **Views**, and then select **Add view**.
 
@@ -139,11 +141,15 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 
 4. Select **Create**.
 
-5. Select **Add column**, and then select **Date and Time**.
+5. Select the down arrow next to **Name**, and then select **Insert view column**.
 
     ![Add a column.](media/custom-view-add-columns.PNG "Add a column")
+    
+6. Select the **Date and Time** field.
 
-6. Select **Add column** again, and then select **Guide**.
+    ![Date and Time field highlighted.](media/custom-view-date-time-field-selected.PNG "Date and Time field highlighted")
+
+6. Select **Insert view column** again, and then select **Guide**. At this point your screen should look like this. 
 
     ![Add another column.](media/custom-view-columns-added.PNG "Add another column")
 
@@ -152,7 +158,7 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 
 7. In the upper-right corner of the page, select **Save**, select **Publish**, and then refresh the page.
 
-8. Copy and save the record ID for the saved query. This record ID appears at the end of the URL for the page.
+8. Copy and save the record ID for the saved query. This record ID appears after "view" in the URL.
 
     ![Saved query record ID at the end of the page URL.](media/custom-view-queryid.PNG "Saved query record ID at the end of the page URL")
     
@@ -162,33 +168,30 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 
 ## Step 3: Create a Guides view configuration record
 
-The purpose of the configuration record is to notify HoloLens about the view that it should use.
+In this step, you'll create a configuration record that tells HoloLens which view to use for the custom tab.
 
 1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin for the instance.
 
 2. In the left pane, select **Apps**, and then select **Guides** to open the Guides model-driven app.
-
-    > [!NOTE]
-    > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
     
     ![Select Guides.](media/custom-view-apps-guides.PNG "Select Guides")
 
-3. In the left pane, under **Configuration**, select **Guides View**, and then select **New**.
+3. In the left pane, under **Organize**, select **Guides View**, and then select **New**.
 
     ![Create a Guides view record.](media/custom-view-configuration-guides-view.PNG "Create a Guides view record")
 
-4. On the **New Guide View Configuration** page, enter a name that will help you remember what this configuration record is for. This name isn't used for the tab name on HoloLens.
+4. In the **New Guide View Configuration** page, enter a name that will help you remember what this configuration record is for. This name is not used for the tab name on HoloLens.
 
     ![Enter a record name.](media/custom-view-name-guides-configuration.PNG "Enter a record name")
 
-5. In the **Saved Query ID** field, enter the record ID that you saved in step 8 in the previous section. This value isn't validated. Therefore, copy it carefully to ensure that it's correct.
+5. In the **Saved Query ID** field, enter the record ID that you saved in step 9 in the previous section. This value isn't validated, so copy it carefully to ensure that it's correct.
 
     ![Enter the saved query record ID.](media/custom-view-saved-queryid.PNG "Enter the saved query record ID")
 
 6. Select **Save and Close**.
 
 > [!WARNING]
-> There is no relationship between the Guide view configuration record and the saved view. If you delete the target view or entity, a fetch of the data will fail, and data won't be shown on HoloLens.
+> There is no relationship between the Guide view configuration record and the saved view. If you delete the target view or table, a fetch of the data will fail, and data won't be shown on HoloLens.
 
 ## Step 4: Use the App Designer to add specific guides to the list that is shown in the view
 
@@ -217,7 +220,7 @@ In this step, you will add the list of guides that will appear on the HoloLens t
 
     ![Add a subarea.](media/custom-view-add-subarea.PNG "Add a subarea")
 
-7. On the **Properties** tab on the right side of the page, in the **Entity** field, select the name of the entity that you created in the [Step 1: Create a new entity in Microsoft Dataverse](#step-1-create-a-new-entity-in-microsoft-dataverse) section. In this way, you link the subarea.
+7. On the **Properties** tab on the right side of the page, in the **Table** field, select the name of the table that you created in the [Step 1: Create a new table in Microsoft Dataverse](#step-1-create-a-new-table-in-microsoft-dataverse) section. In this way, you link the subarea.
 
     ![Link the subarea.](media/custom-view-link-subarea.PNG "Link the subarea")
 
@@ -225,9 +228,9 @@ In this step, you will add the list of guides that will appear on the HoloLens t
 
 9. In the upper-left corner of the page, select **App Designer** to return to the App Designer.
 
-10. Scroll down to the **Forms** item for your entity, and select it.
+10. Scroll down to the **Forms** item for your table, and select it.
 
-    ![Select the Forms item for the entity.](media/custom-view-select-forms.PNG "Select the Forms item for the entity")
+    ![Select the Forms item for the table.](media/custom-view-select-forms.PNG "Select the Forms item for the table")
 
 11. On the **Components** tab on the right side of the page, in the **Main Forms** section, select the **Edit** button (pencil symbol).
 

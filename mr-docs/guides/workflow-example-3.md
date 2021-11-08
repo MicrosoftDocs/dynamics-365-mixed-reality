@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Microsoft Power Automate and Microsoft Excel to collect response data for a non-linear guide created in Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 04/26/2021
+ms.date: 11/08/2021
 ms.topic: article
 title: Workflow example 3--Collect response data for a non-linear guide created in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -50,10 +50,8 @@ You can use the Guides model-driven app to get the Step Id for a response step.
      ![Selecting the Guides app in Power Apps.](media/workflow3-select-guides-app.PNG "Selecting the Guides app in Power Apps ")
   
 3. Select the appropriate guide in the list. 
-
-     ![Guide selection screen in Power Apps.](media/workflow3-select-guide.PNG "Guide selection screen in Power Apps")
   
-4. Select the **Steps** entity to display the step information for the guide. 
+4. Select the **Steps** tab to display the step information for the guide. 
 
     For this example, we have a question step and three response steps.
 
@@ -204,6 +202,5 @@ Collecting response data in real time by using Power Automate requires four step
 ## See also
 
 - [Workflow integration example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
-
 - [Workflow integration example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
 

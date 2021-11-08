@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to open the Dynamics 365 Guides model-driven app if you're an admin or an author
 ms.author: mamaylya
-ms.date: 07/07/2021
+ms.date: 11/08/2021
 ms.topic: article
 title: Open the model-driven app in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -31,7 +31,7 @@ If you're an admin or an author for Dynamics 365 Guides, you can use the Guides 
 
 3. Sign in, and then in the left pane of the Power Apps screen, select **Guides** to open the model-driven app.
 
-    ![Screen shot of Power Apps screen showing Guides model-driven app.](media/Guides-Hub.png "Screen shot of Power Apps screen showing Guides model-driven app")
+    ![Screen shot of Power Apps screen showing Guides model-driven app.](media/guides-hub-1.PNG "Screen shot of Power Apps screen showing Guides model-driven app")
 
 ## See also
 

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to create and place a trigger in the Dynamics 365 Guides HoloLens app to automatically advance the operator to the next step based on detection of their hands in HoloLens 2.
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 11/08/2021
 ms.topic: article
 title: Create and place a trigger for step navigation in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
@@ -31,7 +31,7 @@ After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-
 
 ## Tips for placing and sizing triggers
 
-You can [place and size a trigger](hololens-app-orientation.md#place-your-holograms) just like any other hologram in the HoloLens app. When placing a trigger, keep the following in mind:
+You can [place and size a trigger](hololens-app-place-holograms.md) just like any other hologram in the HoloLens app. When placing a trigger, keep the following in mind:
 
 - **Position.** Place the trigger where the work happens at "working height" (above the belt). You’ll need to test the trigger in **Operate** mode to make sure it behaves the way you expect.
 
@@ -67,7 +67,13 @@ You can edit a trigger the same way you edit any other hologram in the HoloLens 
 
 ## What’s next?
 
-[Learn about triggers from an operator’s point of view](hololens-app-orientation.md)
+- [Learn about triggers from an operator’s point of view](hololens-app-orientation.md)
+- [Place and manipulate holograms](hololens-app-place-holograms.md)
+- [Add a dotted line for a focus area](hololens-app-dotted-line.md)
+- [Use styles for emphasis](hololens-app-styles.md)
+- [Duplicate a 3D model](hololens-app-duplicate-model.md)
+- [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Change animation options](hololens-app-animations.md)
 
 
 

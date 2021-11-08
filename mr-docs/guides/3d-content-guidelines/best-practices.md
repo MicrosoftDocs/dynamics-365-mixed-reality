@@ -136,11 +136,11 @@ This topic covers best practices for converting and optimizing 3D models to work
 
 ### See also
 
-[Microsoft Office 3D content guidelines](https://aka.ms/Office3Dcontent)<br>
-[Overview of preparing 3D models](index.md)<br>
-[Convert 3D models](convert-models.md)<br>
-[Optimize 3D models](optimize-models.md)<br>
-[Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
+- [Microsoft Office 3D content guidelines](https://aka.ms/Office3Dcontent)
+- [Overview of preparing 3D models](index.md)
+- [Convert 3D models](convert-models.md)
+- [Optimize 3D models](optimize-models.md)
+- [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
 
 
 

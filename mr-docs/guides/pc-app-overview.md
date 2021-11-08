@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn everything that you need to know about using the PC authoring app to create a guide in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 11/08/2021
 ms.topic: article
 title: Overview of using the PC authoring app to create a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -17,19 +17,19 @@ You use the PC authoring app in [!include[cc-microsoft](../includes/cc-microsoft
 
 Use the PC app to complete these tasks:
 
-- Create a guide.
+- [Create a guide](create-guide.md).
 
-- Select an anchoring method.
+- [Select an anchoring method](pc-app-anchor.md).
 
-- Add tasks and steps.
+- [Add tasks and steps](pc-app-step-editor-overview.md).
 
-- Write the instructions for your steps.
+- Write the instructions for your steps. [Learn about best practices for writing instructional text](pc-app-step-editor-overview.md#best-practices-for-instructional-text-and-supporting-content).
 
-- Assign different types of content to support the steps. Here are some examples of supporting content:
+- [Assign different types of content to support the steps](pc-app-step-editor-overview.md). Here are some examples of supporting content:
 
     - 3D parts
 
-    - 3D objects, such as objects from the 3D toolkit (for example, arrows and numbers)
+    - 3D objects such as objects from the 3D toolkit (holographic arrows and numbers, for example)
 
     - 2D media (images and videos)
 
@@ -37,12 +37,12 @@ Use the PC app to complete these tasks:
 
 ## What's next?
 
-[Install and sign in to the PC app](install-sign-in-pc-app.md)<br>
-[Create a guide](create-guide.md)<br>
-[Anchor your guide to the real world](anchor.md)<br>
-[Structure your guide in the Outline page](structure-guide.md)<br>
-[Create steps and add 3D content or 2D media](pc-app-step-editor-overview.md)<br>
-[Learn what makes a great mixed reality guide](great-guide.md)
+- [Install and sign in to the PC app](install-sign-in-pc-app.md)
+- [Create a guide](create-guide.md)
+- [Anchor your guide to the real world](anchor.md)
+- [Structure your guide in the Outline page](structure-guide.md)
+- [Create steps and add 3D content or 2D media](pc-app-step-editor-overview.md)
+- [Learn how to create a great mixed-reality guide](great-guide.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
