@@ -53,7 +53,7 @@ The [Main menu](main-menu.md) makes it easy to start a call activity at any time
 
     ![Call contact screen.](media/call-contact-screen.PNG "Call contact screen")
 
-    While you're on the call, you can use the call controls below the **Call** window to turn your video feed off or on, to mute or unmute yourself, or to end the call. By default, your video stream is on and your HoloLens is not muted.
+    While you're on the call, you can use the call controls below the video feed to turn your video feed off or on, to mute or unmute yourself, or to end the call. By default, your video stream is on and your HoloLens is not muted.
 
     ![Screen shot of call controls.](media/active-call-window.PNG "Screen shot of call controls") 
     
