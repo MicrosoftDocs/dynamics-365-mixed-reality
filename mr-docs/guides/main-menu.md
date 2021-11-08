@@ -44,9 +44,9 @@ When the Main menu is open, you can move it wherever you want (or pivot it) by g
 
 The following table summarizes when to use direct touch vs. gaze in the Dynamics 365 Guides version 7.0 HoloLens app.
 
-|Area|Touch or gaze?|
+|Area|Direct touch or gaze?|
 |------------------|----------------------------------------------------------|
-|Main menu and submenus|Touch. Use touch for any of the following actions:<br><br>- Sign in/sign out<br>- Select an instance<br>- Find and open a guide<br>- Start a call<br> - Change a setting<br>- Open the demo|
+|Main menu and submenus|Direct touch. Use touch for any of the following actions:<br><br>- Sign in/sign out<br>- Select an instance<br>- Find and open a guide<br>- Start a call<br> - Change a setting<br>- Open the demo|
 |Call window|Touch|
 |Instruction cards|**Authors** can use a combination of gaze, air tap, hand rays, touch, or voice commands, depending on the task.<br><br>**Operators** can use gaze, air tap, and voice commands.
 
