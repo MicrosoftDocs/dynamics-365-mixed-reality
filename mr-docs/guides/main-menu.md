@@ -42,7 +42,7 @@ When the Main menu is open, you can move it wherever you want (or pivot it) by g
 
 ## When to use touch vs. gaze in Dynamics 365 Guides
 
-The following table summarizes when to use touch vs. gaze in the Dynamics 365 Guides version 7.0 HoloLens app.
+The following table summarizes when to use direct touch vs. gaze in the Dynamics 365 Guides version 7.0 HoloLens app.
 
 |Area|Touch or gaze?|
 |------------------|----------------------------------------------------------|
