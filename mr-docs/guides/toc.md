@@ -170,11 +170,12 @@
 ## [Get Help and provide feedback](help.md)
 ## [Version history](version-history.md)
 ## [Glossary of terms](glossary.md)
-## [FAQ](faq.md)
-## Known issues
-### [Affecting both apps](known-issues.md)
-### [PC app](known-issues-pc-app.md)
-### [HoloLens app](known-issues-hololens-app.md)
+## FAQ and Known issues
+### [FAQ](faq.md)
+### Known issues
+#### [Affecting both apps](known-issues.md)
+#### [PC app](known-issues-pc-app.md)
+#### [HoloLens app](known-issues-hololens-app.md)
 ## [Use HoloLens (1st gen) devices](HL1.md)
 ## Legal documents
 ### [Terms of use](../legal/guides-service-terms.md)
