@@ -58,7 +58,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 7. Follow the instructions to access the Main menu and choose an activity. [Learn more about the Main menu](main-menu.md). 
 
-    ![Main Menu Learning and work activity.](media/learning-moment-new.gif "Main Menu Learning and work activity")
+    ![Animation of tutorial showing how to open Main menu.](media/Tutorial.gif "Animation of tutorial showing how to open Main menu")
 
 
 ## Sign out of the HoloLens app
