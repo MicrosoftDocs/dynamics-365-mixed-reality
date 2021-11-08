@@ -61,7 +61,7 @@ Dynamics 365 Guides includes an Anchor wizard that makes it easy to select and s
 
 ## Overall process for creating anchors
 
-Ragardless of which type of anchor you want to create, you always start with the Anchor wizard in the PC app. Use the following links to learn how to create different types of anchors in the PC app.
+Regardless of which type of anchor you want to create, you always start with the Anchor wizard in the PC app. Use the following links to learn how to create different types of anchors in the PC app.
 
 - [Create an Azure Object Anchor](pc-app-anchor-azure-object.md)
 
