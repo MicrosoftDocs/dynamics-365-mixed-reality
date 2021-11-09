@@ -1,6 +1,26 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/guides/install-sign-in-hololens-app.md",
+      "redirect_url": "hololens-app-install-sign-in",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/operator-calibrate.md",
+      "redirect_url": "hl1",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/operator-gestures.md",
+      "redirect_url": "hl1",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/authoring-gestures.md",
+      "redirect_url": "hl1",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/create-steps-assign-media.md",
       "redirect_url": "pc-app-step-editor-overview",
       "redirect_document_id": "false"
