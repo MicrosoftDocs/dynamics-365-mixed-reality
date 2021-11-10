@@ -22,6 +22,12 @@ If you're not able to use Microsoft Dynamics 365 Guides, or if you have an issue
 
 3. Find a phone number or submit a support request through the admin center. 
 
+## I'm connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
+
+If you're having problems signing in to or using Dynamics 365 Guides, it may be that your network isn't configured correctly. 
+
+[Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
+
 ## Does Dynamics 365 Guides support HoloLens (1st gen)?
 
 HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
@@ -139,10 +145,6 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 - If you can't find the file in the PC app library, the reference (entity) to the 3D model/video/image is broken. Please upload the file again and re-author the guide.
 
 - If the file exists in the library but the preview doesn't load, there's a problem with the file information in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
-
-## I am connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
-
-[Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
 
 ## Why does the version 7.0 HoloLens app require permissions to launch?
 
