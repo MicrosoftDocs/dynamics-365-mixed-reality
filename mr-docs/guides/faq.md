@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 11/10/2021
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -21,6 +21,12 @@ If you're not able to use Microsoft Dynamics 365 Guides, or if you have an issue
 2. Under **Customer Engagement help + support**, select **GET SUPPORT**.
 
 3. Find a phone number or submit a support request through the admin center. 
+
+## I'm connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
+
+If you're having problems signing in to or using Dynamics 365 Guides, it may be that your network isn't configured correctly. 
+
+[Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
 
 ## Does Dynamics 365 Guides support HoloLens (1st gen)?
 
@@ -139,10 +145,6 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 - If you can't find the file in the PC app library, the reference (entity) to the 3D model/video/image is broken. Please upload the file again and re-author the guide.
 
 - If the file exists in the library but the preview doesn't load, there's a problem with the file information in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
-
-## I am connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
-
-[Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
 
 ## Why does the version 7.0 HoloLens app require permissions to launch?
 
