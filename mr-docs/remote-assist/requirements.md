@@ -2,7 +2,7 @@
 author: amaraanigbo
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 07/06/2021
+ms.date: 11/11/2021
 ms.service: crm-online
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
@@ -116,6 +116,7 @@ The following list contains the *minimum* URL end points and TCP/UDP ports utili
 - login.microsoft.com
 - login.microsoftonline.com
 - login.live.com
+- sts.windows.net
 - TCP: 80, 443
 
 #### Microsoft GraphExplorer
