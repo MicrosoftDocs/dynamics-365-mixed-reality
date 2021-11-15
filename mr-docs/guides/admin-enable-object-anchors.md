@@ -50,7 +50,7 @@ Anchors](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-anch
     
     When Object Anchors are turned off, authors will see a **Try Preview** button in the Anchor wizard. If an author selects this button, they'll see a notification to contact their admin if they want to use Object Anchors. Authors will not be able to select an Object Anchor when creating a new guide, or switch the anchor type to an Object Anchor for an existing guide. Any existing guides that already use Object Anchors will not be affected, however. 
 
-    ![Try Preview button highlighted in Anchor wizard.](media/Admin-EnableCalling01__Background-GuidesMDA-AreaPicker-Settings.png "Try Preview button highlighted in Anchor wizard")
+    ![Try Preview button highlighted in Anchor wizard.](media/anchor-wizard-try-preview.jpg "Try Preview button highlighted in Anchor wizard")
 
     > [!NOTE]
     > Enabling or disabling Object Anchors is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in 
