@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 Some releases of Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. 
 
 > [!IMPORTANT]
-> To update the Guides solution, you must have a [System Administrator security group role](/power-platform/admin/database-security) and an assigned Guides license. 
+> You MUST have a [System Administrator security group role](/power-platform/admin/database-security) and an assigned Guides license to update the solution. 
 
 When an update is required, the user will see a notification in the **What's new** panel. 
 
