@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/import-tool/product-visualize.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/install-sign-in-hololens-app.md",
       "redirect_url": "hololens-app-install-sign-in",
       "redirect_document_id": "false"
