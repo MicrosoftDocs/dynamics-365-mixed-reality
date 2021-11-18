@@ -37,12 +37,6 @@ additionalContent:
         - url: ./layout/index.md
           text: Documentation
      
-    # Card
-    - title: Dynamics 365 Product Visualize (in preview)
-      # imageSrc: /dynamics365/images/ProductVisualize_color.svg
-      links:
-        - url: ./product-visualize/index.md
-          text: Documentation
       
     # Card
     - title: Dynamics 365 Remote Assist
