@@ -127,17 +127,207 @@
     },
     {
       "source_path": "mr-docs/product-visualize/add-model.md",
-      "redirect_url": "browse-models",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/product-visualize/setup-existing-instance.md",
-      "redirect_url": "setup",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/product-visualize/admin-guide.md",
-      "redirect_url": "setup",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/3ds-max.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/add-3d-model-product.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/add-3d-product.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/add-note-model.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/add-note.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/add-product-mr-session.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/agisoft-metashape.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/ar-mode.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/autodesk-recap-photo.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/best-practices.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/blender.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/browse-models.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/convert-models.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/create-3D-model.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/create-mr-session.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/download-models.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/enable-preview-features.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/explore-samples.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/faq.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/houdini-point-cloud.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/houdini.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/hub-user-guide.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/index.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/integrate-sales.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/inventor.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/layers.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/manipulate-models.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/optimize-models.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/overview-prepare-3d-model.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/product-dimensions.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/requirements.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/setup-ms-teams.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/setup.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/sign-in-app.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/sign-in.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/solidworks.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/tutorials-overview.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/user-guide.md",
+      "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
       "redirect_document_id": "false"
     }
   ]
