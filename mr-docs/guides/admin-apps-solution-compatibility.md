@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Determine whether your Dynamics 365 Guides solution is compatible with the apps.
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 11/22/2021
 ms.topic: article
 title: Compatibility between Dynamics 365 Guides solution and apps 
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Compatibility between Dynamics 365 Guides solutions and apps (PC and HoloLens)
