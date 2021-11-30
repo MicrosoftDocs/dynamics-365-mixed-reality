@@ -325,7 +325,7 @@ Version 200.1909.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
 
-## 2019 Release Wave 1 (April '19 Release Notes)
+## 2019 Release Wave 1
 
 ### August 27, 2019
 
