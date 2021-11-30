@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # What's new in Dynamics 365 Guides
 
-This page provides details about the **current wave of features** (October 2021 through March 2022) for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>. 
+This page provides details about the **current wave of features (October 2021 through March 2022)** for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>. 
 
 > [!IMPORTANT]
 > Guides Dataverse solution version 7.1, which will be released on January 25, 2022, is mandatory if you want to continue to use the latest PC and HoloLens apps. After the 7.1 release, the PC and HoloLens apps will require the 7.0 or later Dataverse solution. This Dataverse solution is a foundational change for key features in upcoming Dynamics 365 Guides releases. If you choose not to update the solution and remain on the version 600 solution and apps, there's no impact. 
