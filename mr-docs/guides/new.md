@@ -41,7 +41,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 - Fixed unsupported scenario that allowed users to specify a trigger style
 
 > [!TIP]
-> Looking for earlier features? Go to [version history for Dynamics 365 Guides](./version-history.md). 
+> Looking for a list of earlier features? Go to [version history for Dynamics 365 Guides](./version-history.md). 
 
 ## See also
 
