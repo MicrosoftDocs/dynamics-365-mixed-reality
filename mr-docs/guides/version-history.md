@@ -12,6 +12,8 @@ ms.reviewer: v-brycho
 
 This article provides a version history for Microsoft Dynamics 365 Guides features for all waves **except the current wave**. For current wave features, see [What's new in Dynamics 365 Guides](new.md). To see a comprehensive list of released and upcoming features for all waves, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
+## 2021 Release Wave 1
+
 ## August 30 2021
 
 |Item|Version|
@@ -112,6 +114,8 @@ This article provides a version history for Microsoft Dynamics 365 Guides featur
 |HoloLens app|600.2103.19001|
 |Solution|600.0.0.1|
 
+## 2020 Release Wave 2
+
 ## February 25, 2021
 
 Version 504.2102.24001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.4.1.2 include the following new features.
@@ -168,6 +172,8 @@ Version 500.2009.23001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/activate-trigger-when-operators-hand-enters-trigger-area" target="_blank">Activate a trigger when the operator's hand enters the trigger area </a> | No |<a href="/dynamics365/mixed-reality/guides/pc-app-trigger" target="_blank">Create a trigger for step navigation in the PC app</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-paste-position-orientation-scale-3d-model" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | No |<a href="/dynamics365/mixed-reality/guides/hololens-app-orientation#copy-and-paste-a-3d-models-position" target="_blank">Copy and paste a 3D model's position</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-dynamics-365-guides-content-one-common-data-service-instance-another" target="_blank">Copy Dynamics 365 Guides content from one Microsoft Dataverse instance to another </a> | No |<a href="/dynamics365/mixed-reality/guides/migrate" target="_blank">Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another</a>|
+
+## 2020 Release Wave 1
 
 ## September 2, 2020
 
@@ -254,6 +260,8 @@ Version 305.2003.28001 of the PC and [!include[pn-hololens](../includes/pn-holol
 | <a href="/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process" target="_blank">Restrict access to guides that aren't ready to share with operators</a> | No |
 | <a href="/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Sort items in the PC app gallery by recently added, or by name</a> | No |
 
+## 2019 Release Wave 2
+
 ## February 25, 2020
 
 Version 304.2002.25001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version 300.0.4.139 of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution include the following new features.
@@ -316,6 +324,8 @@ Version 200.1909.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 **Other updates**
 
 The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
+
+## 2019 Release Wave 1 (April '19 Release Notes)
 
 ## August 27, 2019
 
