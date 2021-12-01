@@ -10,6 +10,16 @@ ms.reviewer: v-brycho
 
 # Known issues with the Dynamics 365 Guides HoloLens app
 
+## Why isn't my operator sessions data being saved to Microsoft Dataverse? 
+
+We recently identified an issue with an update where Dynamics 365 Guides operator sessions data has not been saved to Microsoft Dataverse. Users may notice that session data was not being recorded from October 15 to the present, depending on region.
+
+This issue doesn’t affect the ability to operate a guide, but it does affect all Dynamics 365 Guides customers who analyze their guide session data or use the StepEnd event for integrations. 
+
+A fix will be deployed to all customers during the week of December 6, 2021, during their regional maintenance hours. There is no action required to receive the fix. Additionally, Microsoft is updating the Dynamics 365 Guides 7.0 HoloLens app with a hotfix on Wednesday, December 1, 2021, to enable customers to begin saving sessions data before the general fix is ready. To apply this fix, see [Update your solution](known-issues.md).
+
+If you have any questions, contact Microsoft Support.
+
 ## Telemetry data not stored for operators with **Restricted Operator** role in certain cases
 
 Operators with the **Restricted Operator** role that don't have the appendTo privilege can access and operate guides but their session data (telemetry) is not stored for time-tracking purposes.
