@@ -24,15 +24,27 @@ You can restrict calling by creating a new Microsoft Teams policy, and then assi
 
 1. Go to the [Microsoft Teams admin center](https://admin.teams.microsoft.com) and sign in with your admin credentials. 
 
+     ![XXX.](media/restricted-mode-calling-add-policy.jpg "XXX")
+
 2. In the left pane, select **Calling policies**, and then select **Add**.
+
+    ![XXX.](media/restricted-mode-calling.jpg "XXX")
 
 3. Enter a name for your policy, turn **Make private calls** to **Off**, and then select **Save**. 
 
+    ![XXX.](media/restricted-mode-calling-turn-off-private-calls.jpg "XXX")
+
 4. In the left pane, select **Manage users**, and then select the user you want to assign the policy to. IS IT THE USER OR A POLICY YOU'RE SELECTING HERE?
+
+    ![XXX.](media/restricted-mode-calling-assign-user.jpg "XXX")
 
 5. Select the **Policies** button, and then select **Edit**.
 
+    ![XXX.](media/restricted-mode-calling-edit.jpg "XXX")
+
 6. On the right side of the screen, in the **Calling policy** list, select the policy you created, and then select **Apply**.
+
+    ![XXX.](media/restricted-mode-calling-select-policy.jpg "XXX")
 
    Once the policy takes effect, users will be able to join notifications or receive notifications for meetings but they won't be able to initiate calls or receive calls if they're not in a meeting. They also won't be able to access the contacts list. 
 
