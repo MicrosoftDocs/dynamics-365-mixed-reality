@@ -10,7 +10,7 @@ If you [have a scenario where you need to protect company information](restricte
 You can do this without affecting their ability to join meetings or receive meeting notifications, so they can continue to user Dynamics 365 Remote Assist to troubleshoot issues with colleagues. 
 
 > [!NOTE]
-> You must have Microsoft Teams admin privileges to restrict calling.
+> You must have Microsoft Teams admin privileges to restrict calling in Dynamics 365 Remote Assist.
 
 ## Restrict calling
 
