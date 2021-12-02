@@ -2,10 +2,11 @@
 
 # Restrict the ability to make calls, access files, or access assets in Dynamics 365 Remote Assist
 
-In some cases, to protect company information, you might want to restrict the ability for Dynamics 365 Remote Assist HoloLens users to make calls, access files, and/or 
-access assets. For example, you might provide HoloLens devices installed with Dynamics 365 Remote Assist to other businesses as part of your customer support. At the same time, 
-you want these users to be able to join meetings and receive meeting notifications. This article shows you how to set this up. 
+In some cases, to protect company information, you might want to restrict the ability for Microsoft Dynamics 365 Remote Assist HoloLens users to make calls, access files, and/or 
+access assets. For example, you might provide HoloLens devices installed with Dynamics 365 Remote Assist to other businesses as part of your customer support. You don't want these users to initiate calls or access company files or assets from their HoloLens devices, but you do want them to be able to join meetings and receive meeting notifications to troubleshoot issues. This article shows you how to set this up. 
 
-- Restrict ability to make a call
-- Restrict ability to access files
-- Restrcit ability to access assets
+Learn how to:
+
+- [Restrict ability to make a call](restricted-mode-calling.md)
+- [Restrict ability to access files](restricted-mode-files.md)
+- [Restrcict ability to access assets](restricted-mode-assets.md)
