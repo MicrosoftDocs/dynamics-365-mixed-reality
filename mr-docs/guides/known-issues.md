@@ -2,13 +2,23 @@
 author: Mamaylya
 description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: mamaylya
-ms.date: 05/18/2020
+ms.date: 12/02/2021
 ms.topic: article
 title: Known issues with Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Known issues with Microsoft Dynamics 365 Guides
+
+## Why isn't my operator sessions data being saved to Microsoft Dataverse? 
+
+We recently identified an issue with an update where Dynamics 365 Guides operator sessions data (for both authors and operators) has not been saved to Microsoft Dataverse. Users may notice that session data was not being recorded as early as October 15, depending on region.
+
+This issue doesn’t affect the ability to operate a guide, but it does affect all Dynamics 365 Guides customers who [analyze their guide session data](analytics-overview.md) or use the StepEnd event for integrations. 
+
+A fix will be deployed to all customers during the week of December 6, 2021, during regional maintenance hours. There is no action required to receive the fix. Additionally, Microsoft is updating the Dynamics 365 Guides 7.0 HoloLens app with a hotfix on December 1, 2021, to enable customers to begin saving sessions data before the general fix is ready. To apply this fix, see [Update your solution](upgrade.md).
+
+If you have any questions, contact Microsoft Support.
 
 ## I can't install or upgrade the Dynamics 365 Guides solution
 
