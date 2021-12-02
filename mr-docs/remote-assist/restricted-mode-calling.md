@@ -22,29 +22,27 @@ You can restrict calling by creating a new Microsoft Teams policy, and then assi
 > [!TIP]
 > You can also assign policies to groups. [Learn more](https://docs.microsoft.com/microsoftteams/assign-policies-users-and-groups) 
 
-1. Go to the [Microsoft Teams admin center](https://admin.teams.microsoft.com) and sign in with your admin credentials. 
-
-     ![XXX.](media/restricted-mode-calling-add-policy.jpg "XXX")
+1. Go to the [Microsoft Teams admin center](https://admin.teams.microsoft.com) and sign in with your admin credentials.      
 
 2. In the left pane, select **Calling policies**, and then select **Add**.
 
-    ![XXX.](media/restricted-mode-calling.jpg "XXX")
+    ![Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted.](media/restricted-mode-calling-add-policy.jpg "Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted")
 
 3. Enter a name for your policy, turn **Make private calls** to **Off**, and then select **Save**. 
 
-    ![XXX.](media/restricted-mode-calling-turn-off-private-calls.jpg "XXX")
+    ![Screenshot highlighting description, Make private calls option, and Save button.](media/restricted-mode-calling-turn-off-private-calls.jpg "Screenshot highlighting description, Make private calls option, and Save button")
 
 4. In the left pane, select **Manage users**, and then select the user you want to assign the policy to. IS IT THE USER OR A POLICY YOU'RE SELECTING HERE?
 
-    ![XXX.](media/restricted-mode-calling-assign-user.jpg "XXX")
+    ![Screenshot highlighting Manage users command and selected policy.](media/restricted-mode-calling-assign-user.jpg "Screenshot highlighting Manage users command and selected policy")
 
 5. Select the **Policies** button, and then select **Edit**.
 
-    ![XXX.](media/restricted-mode-calling-edit.jpg "XXX")
+    ![Screenshot highlighting Policies button and Edit button.](media/restricted-mode-calling-edit.jpg "Screenshot highlighting Policies button and Edit button")
 
 6. On the right side of the screen, in the **Calling policy** list, select the policy you created, and then select **Apply**.
 
-    ![XXX.](media/restricted-mode-calling-select-policy.jpg "XXX")
+    ![Screenshot of Calling policy list opened.](media/restricted-mode-calling-select-policy.jpg "Screenshot of Calling policy list opened")
 
    Once the policy takes effect, users will be able to join notifications or receive notifications for meetings but they won't be able to initiate calls or receive calls if they're not in a meeting. They also won't be able to access the contacts list. 
 
