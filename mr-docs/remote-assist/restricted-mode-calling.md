@@ -17,4 +17,4 @@ You can do this without affecting their ability to join meetings or receive meet
 You restrict calling through a Microsoft Teams policy. First, you create a new policy, and then you assign the policy to users. NOTE ABOUT ASSIGNING POLICIES TO GROUPS.
 
 1. Go to the [Microsoft Teams admin center](https://admin.teams.microsoft.com) and sign in with your admin credentials. 
-2. 
+2. In the left pane, select **Calling policies**, and then select **Add**.
