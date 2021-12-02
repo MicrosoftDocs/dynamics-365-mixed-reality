@@ -7,7 +7,7 @@ If you [have a scenario where you need to protect company information](restricte
 - Receive incoming calls
 - Access contacts
 
-You can do this without affecting their ability to join meetings or receive meeting notifications (in advance or while a meeting is already underway), so they can continue to user Dynamics 365 Remote Assist to troubleshoot issues with colleagues. 
+You can do this without affecting their ability to join meetings or receive meeting notifications (in advance or while a meeting is already underway), so they can continue to use Dynamics 365 Remote Assist to troubleshoot issues with colleagues. 
 
 > [!NOTE]
 > You can't restrict calling for the Dynamics 365 Remote Assist mobile app, but you can [set up one-time calls with the mobile app](). 
@@ -33,6 +33,8 @@ You can restrict calling by creating a new Microsoft Teams policy, and then assi
 5. Select the **Policies** button, and then select **Edit**.
 
 6. On the right side of the screen, in the **Calling policy** list, select the policy you created, and then select **Apply**.
+
+   Once the policy takes effect, users will be able to join notifications or receive notifications for meetings but they won't be able to initiate calls or receive calls if they're not in a meeting. They also won't be able to access the contacts list. 
 
     > [!NOTE]
     > It can take a few hours before the policy assignments go into effect.
