@@ -7,6 +7,6 @@ access assets. For example, you might provide HoloLens devices installed with Dy
 
 Learn how to:
 
-- [Restrict ability to make a call](restricted-mode-calling.md)
-- [Restrict ability to access files](restricted-mode-files.md)
-- [Restrcict ability to access assets](restricted-mode-assets.md)
+- [Restrict the ability to make calls](restricted-mode-calling.md)
+- [Restrict the ability to access files](restricted-mode-files.md)
+- [Restrcict the ability to access assets](restricted-mode-assets.md)
