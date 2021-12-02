@@ -11,6 +11,9 @@ ms.custom: "intro-internal"
 
 # Overview of analyzing and integrating Dynamics 365 Guides operations data
 
+> [!IMPORTANT]
+> We recently identified an issue with an update where Dynamics 365 Guides operator sessions data (for both authors and operators) has not been saved to Microsoft Dataverse. Users may notice that session data was not being recorded as early as October 15, depending on region. [Learn more](known-issues-hololens-app.md)
+
 When operators use the Microsoft Dynamics 365 Guides HoloLens app in Operate mode, data about guide usage is automatically stored in your private and secure Dynamics 365 environment where it can be analyzed in either of the following ways:
 
 - Using the [Guides Analytics Power BI templates](analytics-guide.md)
