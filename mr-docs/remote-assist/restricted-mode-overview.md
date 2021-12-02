@@ -9,4 +9,4 @@ Learn how to:
 
 - [Restrict the ability to make calls](restricted-mode-calling.md)
 - [Restrict the ability to access files](restricted-mode-files.md)
-- [Restrcict the ability to access assets](restricted-mode-assets.md)
+- [Restrict the ability to access assets](restricted-mode-assets.md)
