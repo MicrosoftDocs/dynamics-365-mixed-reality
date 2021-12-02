@@ -76,9 +76,9 @@
 ### [Deploy multi-tenant collaboration](multi-tenant-deployment.md)
 ### [Vendors and customers use full Remote Assist capabilities](vendor-use-RA.md)
 ### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
-### Restrict ability to initiate calls, or access contacts, files, or assets
+### Restrict calling and the ability to access contacts, files, and assets
 #### [Overview](restricted-mode-overview.md)
-#### [Restrict ability to initiate calls or access contacts](restricted-mode-calling.md)
+#### [Restrict calling](restricted-mode-calling.md)
 #### [Restrict ability to access OneDrive files](restricted-mode-files.md)
 #### [Restrict ability to access assets](restricted-mode-assets.md)
 
