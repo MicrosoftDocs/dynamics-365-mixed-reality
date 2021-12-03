@@ -13,7 +13,7 @@ When you restrict calling for Dynamics 365 Remote Assist users, they can still:
 
 - Join a meeting
 
-- Receive a request for a meeting that's already in progress
+- Receive a request to join a meeting that's already in progress
 
 With this combination of restrictions and abilities, your company data stays safe and Dynamics 365 Remote Assist users can continue to troubleshoot issues with colleagues on an ad-hoc basis. 
 
