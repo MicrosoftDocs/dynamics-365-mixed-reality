@@ -81,6 +81,7 @@
 #### [Restrict calling and the ability to access contacts](restricted-mode-calling.md)
 #### [Restrict ability to access OneDrive files](restricted-mode-files.md)
 #### [Restrict ability to access assets](restricted-mode-assets.md)
+#### [Restrict ability to change user accounts](restricted-mode-signout.md)
 
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
