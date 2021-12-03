@@ -3,7 +3,7 @@
 
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Dynamics 365 Remote Assist users on HoloLens from accessing OneDrive files. 
 
-When you restrict the ability to access OneDrive files, users will see the **Files** tab, but no files will be visible and they'll see this message: "Can't connect to OneDrive." 
+When you restrict the ability to access OneDrive files, users will see the **Files** tab, but no files will be visible and they'll see this message: "We can't connect to OneDrive." 
 
 ![HoloLens screenshot showing Files tab highlighted, no files showing, and messsage: We can't connect to OneDrive.](media/restricted-mode-files-hololens.jpg "HoloLens screenshot showing Files tab highlighted, no files showing, and messsage: We can't connect to OneDrive")
 
