@@ -1,5 +1,5 @@
 
-# Restrict calling in Dynamics 365 Remote Assist
+# Restrict calling and the ability to access contacts in Dynamics 365 Remote Assist
 
 If you [have a scenario where you need to protect company information](restricted-mode-overview.md) from Dynamics 365 Remote Assist HoloLens users, you can restrict the ability to:
 
