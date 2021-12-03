@@ -28,7 +28,7 @@ To restrict calling, first you create a new Microsoft Teams policy, and then you
 
     ![Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted.](media/restricted-mode-calling-add-policy.jpg "Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted")
 
-3. Enter a name for your policy, turn **Make private calls** to **Off**, and then select **Save**. 
+3. Enter a name for your policy, turn the **Make private calls** setting to **Off**, and then select **Save**. 
 
     ![Screenshot highlighting description, Make private calls option, and Save button.](media/restricted-mode-calling-turn-off-private-calls.jpg "Screenshot highlighting description, Make private calls option, and Save button")
 
