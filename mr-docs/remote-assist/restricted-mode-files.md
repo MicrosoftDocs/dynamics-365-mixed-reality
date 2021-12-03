@@ -36,6 +36,6 @@ When you restrict the ability to access OneDrive files, users will see the **Fil
     
     ![Screenshot of Review and finish section filled out.](media/restricted-mode-files-review.jpg "Screenshot of Review and finish section filled out")
 
-You'll see the following confirmation screen. 
+    You'll see the following confirmation screen. 
 
     ![Screenshot with user added highlighted.](media/restricted-mode-files-confirmation.jpg "Screenshot with user added highlighted")
