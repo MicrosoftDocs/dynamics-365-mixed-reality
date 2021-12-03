@@ -11,10 +11,31 @@ When you restrict the ability to access OneDrive files, users will see the **Fil
 ## Restrict access to OneDrive files
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home?#/users) as an admin. 
+
 2. In the left pane, select **Users** > **Active users**, and then select **Add a user**.
+
+    ![XXX.](media/restricted-mode-files-.jpg "XXX")
+
 3. Fill out the user information, and then select **Next**.
+
+    ![XXX.](media/restricted-mode-files-.jpg "XXX")
+
 4. Select the **Dynamics 365 Remote Assist** and **Microsoft Teams** license check boxes.
+
+    ![XXX.](media/restricted-mode-files-.jpg "XXX")
+
 5. Clear the **SharePoint** and **Office for the Web** license check boxes, and then select **Next**.
+
+    ![XXX.](media/restricted-mode-files-.jpg "XXX")
+
 6. In the **Optional settings** section, leave the default value (no administration access), and then select **Next**.
+
+    ![XXX.](media/restricted-mode-files-.jpg "XXX")
+
 7. In the **Review and finish** section, make sure the information is correct, and then select **Finish adding** when you're ready.
-    You'll see the following confirmation screen. 
+    
+    ![XXX.](media/restricted-mode-files-.jpg "XXX")
+
+You'll see the following confirmation screen. 
+
+    ![XXX.](media/restricted-mode-files-.jpg "XXX")
