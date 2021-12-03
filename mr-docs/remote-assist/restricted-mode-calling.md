@@ -10,7 +10,7 @@ If you [have a scenario where you need to protect company information](restricte
 You can do this without affecting the ability to join meetings or receive meeting notifications (in advance or while a meeting is already underway), so users can continue to use Dynamics 365 Remote Assist to troubleshoot issues with colleagues. 
 
 > [!NOTE]
-> You can't restrict calling for the Dynamics 365 Remote Assist mobile app, but you can [set up one-time calls with the mobile app](). 
+> You can't restrict calling for the Dynamics 365 Remote Assist mobile app, but you can [set up one-time calls with the mobile app](one-time-call.md). 
 
 ## Restrict calling
 
