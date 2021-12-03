@@ -7,7 +7,7 @@ If you [have a scenario where you need to protect company information](restricte
 - Receive incoming calls
 - Access contacts
 
-You can do this without affecting the ability to join meetings or receive requests to join meetings already in progress, so users can continue to use Dynamics 365 Remote Assist to troubleshoot issues with colleagues on an ad-hoc basis. 
+You can do this without affecting the user's ability to join meetings or receive requests to join meetings already in progress, so users can continue to use Dynamics 365 Remote Assist to troubleshoot issues with colleagues on an ad-hoc basis. 
 
 > [!NOTE]
 > You can't restrict calling for the Dynamics 365 Remote Assist mobile app, but you can [set up one-time calls for the mobile app](one-time-call.md). 
