@@ -3,7 +3,7 @@
 
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Dynamics 365 Remote Assist users on HoloLens from accessing OneDrive files. 
 
-When you restrict the ability to access OneDrive files, users will see the **Files** tab, but no files will be visible. 
+When you restrict the ability to access OneDrive files, users will see the OneDrive **Files** tab, but no files will be visible. 
 
 > [!NOTE]
 > When you restrict access to files described in this article, Dynamics 365 Remote Assist mobile app users will not be able to access OneDrive files in the mobile app. 
