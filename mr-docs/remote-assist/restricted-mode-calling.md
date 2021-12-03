@@ -4,7 +4,7 @@
 If you [have a scenario where you need to protect company information](restricted-mode-overview.md) from Dynamics 365 Remote Assist HoloLens users, you can restrict the ability to:
 
 - Initiate calls 
-- Receive incoming calls
+- Receive incoming calls outside of a meeting
 - Access contacts
 
 You can do this without affecting the user's ability to join meetings or receive requests to join meetings already in progress, so users can continue to use Dynamics 365 Remote Assist to troubleshoot issues with colleagues on an ad-hoc basis. 
