@@ -1,18 +1,21 @@
 
 # Restrict calling and the ability to access contacts in Dynamics 365 Remote Assist
 
-If you [have a scenario where you need to protect company information](restricted-mode-overview.md) from Dynamics 365 Remote Assist HoloLens users, you can restrict the ability to:
+If you [have a scenario where you need to protect company information](restricted-mode-overview.md), you can restrict the ability for Dynamics 365 Remote Assist users on HoloLens from:
 
-- Initiate calls 
-- Receive incoming calls outside of a meeting
-- Access contacts
+- Initiating calls 
 
-When you restrict calling for Dynamics 365 Remote Assist, users can still:
+- Receiving incoming calls outside of a meeting
+
+- Accessing contacts
+
+When you restrict calling for Dynamics 365 Remote Assist users, they can still:
 
 - Join a meeting
+
 - Receive a request for a meeting that's already in progress
 
-With this combination of restrictions and abilities, your company data stays safe but Dynamics 365 Remote Assist users can continue troubleshoot issues with colleagues on an ad-hoc basis. 
+With this combination of restrictions and abilities, your company data stays safe and Dynamics 365 Remote Assist users can continue to troubleshoot issues with colleagues on an ad-hoc basis. 
 
 > [!NOTE]
 > You can't restrict calling for the Dynamics 365 Remote Assist mobile app, but you can [set up one-time calls for the mobile app](one-time-call.md). 
