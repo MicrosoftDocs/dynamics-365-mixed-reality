@@ -17,7 +17,7 @@ You can do this without affecting the ability to join meetings or receive meetin
 > [!NOTE]
 > You must have Microsoft Teams admin privileges to restrict calling in Dynamics 365 Remote Assist.
 
-You can restrict calling by creating a new Microsoft Teams policy, and then assign that policy to the appropriate users. 
+To restrict calling, first you create a new Microsoft Teams policy, and then you assign that policy to the appropriate user(s). 
 
 > [!TIP]
 > You can also assign policies to groups. [Learn more](https://docs.microsoft.com/microsoftteams/assign-policies-users-and-groups) 
