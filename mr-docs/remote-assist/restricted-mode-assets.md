@@ -31,7 +31,7 @@ To restrict the ability to access asset records, first make a copy of the defaul
 
      ![XXX.](media/restricted-mode-assets-copy-role.jpg "XXX")
     
-5. Add a descriptive name for the new role (for example, "Remote Assist - App User (with Assets)", and then select **OK**.
+5. Add a descriptive name for the new role (for example, "Remote Assist - App User (with Assets)"), and then select **OK**.
 
      ![XXX.](media/restricted-mode-assets-describe-new-role.jpg "XXX")
      
