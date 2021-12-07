@@ -35,7 +35,7 @@ To restrict the ability to access asset records, first make a copy of the defaul
 
      ![XXX.](media/restricted-mode-assets-describe-new-role.jpg "XXX")
      
-### Edit the default role and apply it
+### Edit the default role and assign it
 
 Next, you'll remove permissions to access asset records from the default role. 
 
