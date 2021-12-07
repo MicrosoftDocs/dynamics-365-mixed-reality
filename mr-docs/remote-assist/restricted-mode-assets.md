@@ -37,7 +37,9 @@ To restrict the ability to access asset records, first make a copy of the defaul
      
 ### Edit the default role
 
-1. Select the **Remote Assist - App User** default role so you can edit it. 
+Next, you'll remove permissions to access asset records from the default role. 
+
+1. Select the **Remote Assist - App User** default role. 
 
      ![XXX.](media/restricted-mode-assets-select-default-role.jpg "XXX")
 
