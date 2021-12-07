@@ -48,7 +48,7 @@ To restrict the ability to access asset records, you'll make a copy of the defau
 
     SCREEN SHOT GOES HERE
 
-8. Go back to **Security > Settings**, and then select **Users**.
+8. Go back to **Settings > Security**, and then select **Users**.
 
     SCREEN SHOT GOES HERE
 
@@ -60,16 +60,19 @@ To restrict the ability to access asset records, you'll make a copy of the defau
 
     SCREEN SHOT GOES HERE
 
-11. Make sure the following roles are not selected:
+11. Make sure that the following roles are not selected:
+
     - Remote Assist - App User (with Assets)
     - Remote Assist - Administrator
     - Field Service - Administrator
     - Field Service - Dispatcher
     - Field Service - Resource
 
+    SCREEN SHOT GOES HERE
+
     > [!NOTE]
     > Because the default role does not have access to assets, if there are any users that you DO want to have access to assets, you must assign them the **Remote Assist – App User (with Assets)** role. You must do this for each user across each environment.
 
-    SCREEN SHOT GOES HERE
+    
 
 NOTE- Verify that the user can access the desired resources and can’t access assets before handing the account to the end user.
