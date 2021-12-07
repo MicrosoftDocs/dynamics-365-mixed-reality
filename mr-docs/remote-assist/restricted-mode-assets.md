@@ -11,10 +11,7 @@ On HoloLens, users will see a message that lets them know they don't have the ap
 
 ## Restrict the ability to access asset records
 
-To restrict the ability to access asset records, you'll make a copy of the default role, and then remove the ability to access assets from the default role. You can use the copy of the original default role as a backup. 
-
-> [!NOTE]
-> If there are users that **DO** need access to asset records, you'lll need to create a new role with access to asset records. You'll need to do this for each user across each environment that they have access to.  
+To restrict the ability to access asset records, you'll make a copy of the default role, and then remove the ability to access assets from that default role. You can use the copy of the default role that retains the ability to access asset records if users need that ability. Note that you must assign this role for each user in each environment if you want them to be able to access asset records. 
 
 1. Sign into the environment that has the asset records you want to protect, select the **Settings** button, and then select **Advanced Settings**.
 
@@ -31,16 +28,19 @@ To restrict the ability to access asset records, you'll make a copy of the defau
 4. Find and select the **Remote Assist - App User** role, select the down arrow next to **More Actions**, and then select **Copy Role**.
 
     SCREEN SHOT GOES HERE
+    
+    > [!NOTE]
+    > This is the role that will retain the ability to access asset records.
 
-5. Add a descriptive name for the new role (for example "Remote Assist - Ap User (with Assets)", and then select **OK**.
+5. Add a descriptive name for the new role (for example "Remote Assist - App User (with Assets)", and then select **OK**.
 
     SCREEN SHOT GOES HERE
 
-6. Select the **Remote Assist - App User** role so you can edit it. 
+6. Select the **Remote Assist - App User** default role so you can edit it. 
 
     SCREEN SHOT GOES HERE
 
-7. On the right side of the screen, select **Custom Entities**, and then disable access for all scopes (Read, Write, and so on) for all of the following entities:
+7. Select the **Custom Entities** tab, and then disable access for all scopes (Read, Write, and so on) for the following entities:
 
     - Customer Asset
     - Customer Asset Attachment
