@@ -9,6 +9,9 @@ When you restrict the ability to access asset records this way, if a user select
 
 On HoloLens, users will see a message that lets them know they don't have the appropriate permissions. 
 
+> [!NOTE]
+> Users on the Dynamics 365 Remote Assist mobile app will not be able to access asset records if you restrict the ability to access asset records as described in this article. 
+
 ## Restrict the ability to access asset records
 
 To restrict the ability to access asset records, first make a copy of the default role, and then remove the ability to access assets from the default role. The copy of the default role retains the permissions for accessing asset records. You can use this copied role to users that **DO** need to be able to access asset records. You'll need to do this for each each environment that the user has access to. 
