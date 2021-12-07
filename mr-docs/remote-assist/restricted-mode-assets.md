@@ -12,19 +12,47 @@ On HoloLens, users will see a message that lets them know they don't have the ap
 ## Restrict the ability to access asset records
 
 1. Sign into the environment that has the asset records you want to protect, and then in Settings, select **Advanced Settings**.
+
+
+
 2. In the Dynamics 365 window, select the down arrow next to **Settings**, and then select **Security**.
+
+
+
 3. Select **Security Roles**.
+
+
+
 4. Find and select the **Remote Assist - App User** role, select the down arrow next to **More Actions**, and then select **Copy Role**.
+
+
+
 5. Add a descriptive name for the new role, and then select **OK**.
+
+
+
 6. Select the **Remote Assit - App User** role so you can edit it. 
+
+
+
 7. On the right side of the screen, select **Custom Entities**, and then disable access for all scopes (Read, Write, and so on) for all of the following entities:
+
     - Customer Asset
     - Customer Asset Attachment
     - Customer Asset Category
 
 8. Go back to **Security > Settings**, and then select **Users**.
+
+
+
 9. Find and select the desired user, and then select **Manage Roles**.
+
+
+
 10. Make sure the **Remote Assist - App User** role is selected.
+
+
+
 11. Make sure the following roles are not selected:
     - Remote Assist - App User (with Assets)
     - Remote Assist - Administrator
