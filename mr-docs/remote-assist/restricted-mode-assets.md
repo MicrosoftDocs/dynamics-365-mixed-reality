@@ -73,9 +73,4 @@ Next, you'll remove permissions to access asset records from the default role.
 
      ![XXX.](media/restricted-mode-assets-cleared-roles.jpg "XXX")
 
-    > [!NOTE]
-    > Because the default role does not have access to assets, if there are any users that you DO want to have access to assets, you must assign them the **Remote Assist – App User (with Assets)** role. You must do this for each user across each environment.
-
-    
-
-NOTE- Verify that the user can access the desired resources and can’t access assets before handing the account to the end user.
+7. Verify that the user can access the desired resources and can’t access assets before handing the account to the end user.
