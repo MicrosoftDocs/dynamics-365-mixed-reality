@@ -16,7 +16,7 @@ To restrict the ability to access asset records, you'll make a copy of the defau
 > [!NOTE]
 > If there are users that **DO** need access to asset records, you'lll need to create a new role with access to asset records. You'll need to do this for each user across each environment that they have access to.  
 
-1. Sign into the environment that has the asset records you want to protect, and then in Settings, select **Advanced Settings**.
+1. Sign into the environment that has the asset records you want to protect, select the **Settings** button, and then select **Advanced Settings**.
 
     SCREEN SHOT GOES HERE
 
@@ -32,11 +32,11 @@ To restrict the ability to access asset records, you'll make a copy of the defau
 
     SCREEN SHOT GOES HERE
 
-5. Add a descriptive name for the new role, and then select **OK**.
+5. Add a descriptive name for the new role (for example "Remote Assist - Ap User (with Assets)", and then select **OK**.
 
     SCREEN SHOT GOES HERE
 
-6. Select the **Remote Assit - App User** role so you can edit it. 
+6. Select the **Remote Assist - App User** role so you can edit it. 
 
     SCREEN SHOT GOES HERE
 
