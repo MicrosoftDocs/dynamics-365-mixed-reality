@@ -5,7 +5,7 @@ If you [have a scenario where you need to protect your company information](rest
 
 When you restrict the ability to access asset records this way, if a user selects the **Assets** tab in the Remote Assist model-driven app, they'll see the following message.
 
- ![XXX.](media/restricted-mode-assets-model-driven-app.jpg "XXX")
+ ![Screenshot of model-driven app with message.](media/restricted-mode-assets-model-driven-app.jpg "XXX")
 
 On HoloLens, users will see a message that lets them know they don't have the appropriate permissions. 
 
