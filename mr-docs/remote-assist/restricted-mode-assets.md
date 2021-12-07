@@ -18,27 +18,27 @@ To restrict the ability to access asset records, you'll make a copy of the defau
 
 1. Sign into the environment that has the asset records you want to protect, and then in Settings, select **Advanced Settings**.
 
-
+    SCREEN SHOT GOES HERE
 
 2. In the Dynamics 365 window, select the down arrow next to **Settings**, and then select **Security**.
 
-
+    SCREEN SHOT GOES HERE
 
 3. Select **Security Roles**.
 
-
+    SCREEN SHOT GOES HERE
 
 4. Find and select the **Remote Assist - App User** role, select the down arrow next to **More Actions**, and then select **Copy Role**.
 
-
+    SCREEN SHOT GOES HERE
 
 5. Add a descriptive name for the new role, and then select **OK**.
 
-
+    SCREEN SHOT GOES HERE
 
 6. Select the **Remote Assit - App User** role so you can edit it. 
 
-
+    SCREEN SHOT GOES HERE
 
 7. On the right side of the screen, select **Custom Entities**, and then disable access for all scopes (Read, Write, and so on) for all of the following entities:
 
@@ -46,17 +46,19 @@ To restrict the ability to access asset records, you'll make a copy of the defau
     - Customer Asset Attachment
     - Customer Asset Category
 
+    SCREEN SHOT GOES HERE
+
 8. Go back to **Security > Settings**, and then select **Users**.
 
-
+    SCREEN SHOT GOES HERE
 
 9. Find and select the desired user, and then select **Manage Roles**.
 
-
+    SCREEN SHOT GOES HERE
 
 10. Make sure the **Remote Assist - App User** role is selected.
 
-
+    SCREEN SHOT GOES HERE
 
 11. Make sure the following roles are not selected:
     - Remote Assist - App User (with Assets)
@@ -68,6 +70,6 @@ To restrict the ability to access asset records, you'll make a copy of the defau
     > [!NOTE]
     > Because the default role does not have access to assets, if there are any users that you DO want to have access to assets, you must assign them the **Remote Assist – App User (with Assets)** role. You must do this for each user across each environment.
 
-
+    SCREEN SHOT GOES HERE
 
 NOTE- Verify that the user can access the desired resources and can’t access assets before handing the account to the end user.
