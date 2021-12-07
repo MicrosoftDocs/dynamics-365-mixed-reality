@@ -59,7 +59,7 @@ Next, you'll remove permissions to access asset records from the default role.
 
      ![XXX.](media/restricted-mode-assets-manage-roles.jpg "XXX")
 
-5. In the **Manage User Roles** dialog box, make sure the **Remote Assist - App User** role is selected.
+5. In the **Manage User Roles** dialog box, make sure that the **Remote Assist - App User** role is selected.
 
      ![XXX.](media/restricted-mode-assets-selected-role.jpg "XXX")
 
