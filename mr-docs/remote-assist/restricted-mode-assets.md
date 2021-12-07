@@ -11,7 +11,7 @@ On HoloLens, users will see a message that lets them know they don't have the ap
 
 ## Restrict the ability to access asset records
 
-To restrict the ability to access asset records, you'll make a copy of the default role, and then remove the ability to access assets from the default role. The copy of the default role retains the permissions for accessing asset record. You can use this copied role if some users DO need the ability to access asset records. Since the default role will not have the permissions for accessing asset records, for any user that does need to access asset reocrds, you'll need to assign the copied role for each user in each environment. 
+To restrict the ability to access asset records, you'll make a copy of the default role, and then remove the ability to access assets from the default role. The copy of the default role retains the permissions for accessing asset records. You can use this copied role if some users DO need the ability to access asset records. Since the default role will not have the permissions for accessing asset records, for any user that does need to access asset reocrds, you'll need to assign the copied role for each user in each environment. 
 
 1. Sign into the environment that has the asset records you want to protect, select the **Settings** button, and then select **Advanced Settings**.
 
