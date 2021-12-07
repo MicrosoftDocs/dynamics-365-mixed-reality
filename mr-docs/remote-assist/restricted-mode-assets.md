@@ -5,7 +5,7 @@ If you [have a scenario where you need to protect your company information](rest
 
 When you restrict the ability to access asset records this way, if a user selects the **Assets** tab in the Remote Assist model-driven app, they'll see the following message.
 
- ![Screenshot of model-driven app with message.](media/restricted-mode-assets-model-driven-app.jpg "XXX")
+ ![Screenshot of model-driven app with message that says user doesn't have permissions to access records.](media/restricted-mode-assets-model-driven-app.jpg "Screenshot of model-driven app with message that says user doesn't have permissions to access records")
 
 On HoloLens, users will see a message that lets them know they don't have the appropriate permissions. 
 
@@ -20,23 +20,23 @@ To restrict the ability to access asset records, first make a copy of the defaul
 
 1. Sign into the environment that has the asset records that you want to protect, select the **Settings** button, and then select **Advanced Settings**.
 
-    ![XXX.](media/restricted-mode-assets-advanced-settings.jpg "XXX")
+    ![Screenshot with Advanced Settings command highlighted.](media/restricted-mode-assets-advanced-settings.jpg "Screenshot with Advanced Settings command highlighted")
 
 2. In the Dynamics 365 window, select the down arrow next to **Settings**, and then select **Security**.
 
-     ![XXX.](media/restricted-mode-assets-security.jpg "XXX")
+     ![Screenshot with Settings button and Security entry highlighted.](media/restricted-mode-assets-security.jpg "Screenshot with Settings button and Security entry highlighted")
 
 3. Select **Security Roles**.
 
-     ![XXX.](media/restricted-mode-assets-security-roles.jpg "XXX")
+     ![Screenshot showing Security Roles command highlighted.](media/restricted-mode-assets-security-roles.jpg "Screenshot showing Security Roles command highlighted")
 
 4. Find and select the **Remote Assist - App User** role (the default role), select the down arrow next to **More Actions**, and then select **Copy Role**.
 
-     ![XXX.](media/restricted-mode-assets-copy-role.jpg "XXX")
+     ![Screenshot of Remote Assist - App User role and Copy Role command highlighted.](media/restricted-mode-assets-copy-role.jpg "Screenshot of Remote Assist - App User role and Copy Role command highlighted")
     
 5. Add a descriptive name for the new role (for example, Remote Assist - App User (with Assets)), and then select **OK**.
 
-     ![XXX.](media/restricted-mode-assets-describe-new-role.jpg "XXX")
+     ![Screenshot showing a descriptive name for the role.](media/restricted-mode-assets-describe-new-role.jpg "Screenshot showing a descriptive name for the role")
      
 ### Edit the default role and assign it
 
@@ -44,7 +44,7 @@ Next, you'll remove permissions to access asset records from the default role, a
 
 1. Select the **Remote Assist - App User** default role. 
 
-     ![XXX.](media/restricted-mode-assets-select-default-role.jpg "XXX")
+     ![Screenshot showing Remote Assist - App User default role highlighted.](media/restricted-mode-assets-select-default-role.jpg "Screenshot showing Remote Assist - App User default role highlighted")
 
 2. Select the **Custom Entities** tab, and then disable access for all scopes (Read, Write, and so on) for the following entities:
 
@@ -52,19 +52,19 @@ Next, you'll remove permissions to access asset records from the default role, a
     - Customer Asset Attachment
     - Customer Asset Category
 
-     ![XXX.](media/restricted-mode-assets-custom-entities.jpg "XXX")
+     ![Screenshot showing Custom Entities tab and three Asset entities highlighted.](media/restricted-mode-assets-custom-entities.jpg "Screenshot showing Custom Entities tab and three Asset entities highlighted")
 
 3. Go back to **Settings > Security**, and then select **Users**.
 
-     ![XXX.](media/restricted-mode-assets-users.jpg "XXX")
+     ![Screenshot of Users command highlighted.](media/restricted-mode-assets-users.jpg "Screenshot of Users command highlighted")
 
 4. Find and select the desired user, and then select **Manage Roles**.
 
-     ![XXX.](media/restricted-mode-assets-manage-roles.jpg "XXX")
+     ![Screenshot of selected user role and Manage Roles command highlighted.](media/restricted-mode-assets-manage-roles.jpg "Screenshot of selected user role and Manage Roles command highlighted")
 
 5. In the **Manage User Roles** dialog box, make sure that the **Remote Assist - App User** role is selected.
 
-     ![XXX.](media/restricted-mode-assets-selected-role.jpg "XXX")
+     ![Screenshot of Manage User Roles dialog box with Remote Assist - App User role highlighted.](media/restricted-mode-assets-selected-role.jpg "Screenshot of Manage User Roles dialog box with Remote Assist - App User role highlighted")
 
 6. In the **Manage User Roles** dialog box, make sure that the following roles are not selected:
 
@@ -74,6 +74,6 @@ Next, you'll remove permissions to access asset records from the default role, a
     - Field Service - Dispatcher
     - Field Service - Resource
 
-     ![XXX.](media/restricted-mode-assets-cleared-roles.jpg "XXX")
+     ![Screenshot of Manage User Roles dialog box with roles cleared.](media/restricted-mode-assets-cleared-roles.jpg "Screenshot of Manage User Roles dialog box with roles cleared")
 
 7. Verify that the user can access the desired resources and can’t access assets before handing the account to the end user.
