@@ -5,7 +5,7 @@ If you [have a scenario where you need to protect your company information](rest
 
 When you restrict the ability to access asset records this way, if a user selects the **Assets** tab in the Remote Assit model-driven app, they'll see the following message.
 
-SCREEN SHOT GOES HERE.
+ ![XXX.](media/restricted-mode-assets-model-driven-app.jpg "XXX")
 
 On HoloLens, users will see a message that lets them know they don't have the appropriate permissions. 
 
@@ -15,30 +15,30 @@ To restrict the ability to access asset records, you'll make a copy of the defau
 
 1. Sign into the environment that has the asset records you want to protect, select the **Settings** button, and then select **Advanced Settings**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
 2. In the Dynamics 365 window, select the down arrow next to **Settings**, and then select **Security**.
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
 3. Select **Security Roles**.
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
 4. Find and select the **Remote Assist - App User** role, select the down arrow next to **More Actions**, and then select **Copy Role**.
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
     
     > [!NOTE]
     > This is the role that will retain the ability to access asset records.
 
 5. Add a descriptive name for the new role (for example "Remote Assist - App User (with Assets)", and then select **OK**.
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
 6. Select the **Remote Assist - App User** default role so you can edit it. 
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
 7. Select the **Custom Entities** tab, and then disable access for all scopes (Read, Write, and so on) for the following entities:
 
@@ -46,19 +46,19 @@ To restrict the ability to access asset records, you'll make a copy of the defau
     - Customer Asset Attachment
     - Customer Asset Category
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
 8. Go back to **Settings > Security**, and then select **Users**.
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
 9. Find and select the desired user, and then select **Manage Roles**.
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
 10. Make sure the **Remote Assist - App User** role is selected.
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
 11. Make sure that the following roles are not selected:
 
@@ -68,7 +68,7 @@ To restrict the ability to access asset records, you'll make a copy of the defau
     - Field Service - Dispatcher
     - Field Service - Resource
 
-    SCREEN SHOT GOES HERE
+     ![XXX.](media/restricted-mode-assets-.jpg "XXX")
 
     > [!NOTE]
     > Because the default role does not have access to assets, if there are any users that you DO want to have access to assets, you must assign them the **Remote Assist – App User (with Assets)** role. You must do this for each user across each environment.
