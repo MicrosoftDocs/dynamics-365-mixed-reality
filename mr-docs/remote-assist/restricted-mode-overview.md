@@ -10,6 +10,6 @@ Learn how to:
 
 - [Restrict the ability to access files](restricted-mode-files.md)
 
-- [Restrict the ability to access assets](restricted-mode-assets.md)
+- [Restrict the ability to access asset records](restricted-mode-assets.md)
 
 - [Restrict the ability to change user accounts](restricted-mode-signout.md)
