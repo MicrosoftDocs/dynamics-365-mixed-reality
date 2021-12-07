@@ -27,19 +27,21 @@ To restrict the ability to access asset records, you'll make a copy of the defau
 
      ![XXX.](media/restricted-mode-assets-security-roles.jpg "XXX")
 
-4. Find and select the **Remote Assist - App User** role, select the down arrow next to **More Actions**, and then select **Copy Role**.
+4. Find and select the **Remote Assist - App User** role (the default role), select the down arrow next to **More Actions**, and then select **Copy Role**.
 
      ![XXX.](media/restricted-mode-assets-copy-role.jpg "XXX")
     
 5. Add a descriptive name for the new role (for example "Remote Assist - App User (with Assets)", and then select **OK**.
 
      ![XXX.](media/restricted-mode-assets-describe-new-role.jpg "XXX")
+     
+### Edit the default role
 
-6. Select the **Remote Assist - App User** default role so you can edit it. 
+1. Select the **Remote Assist - App User** default role so you can edit it. 
 
      ![XXX.](media/restricted-mode-assets-select-default-role.jpg "XXX")
 
-7. Select the **Custom Entities** tab, and then disable access for all scopes (Read, Write, and so on) for the following entities:
+2. Select the **Custom Entities** tab, and then disable access for all scopes (Read, Write, and so on) for the following entities:
 
     - Customer Asset
     - Customer Asset Attachment
@@ -47,19 +49,19 @@ To restrict the ability to access asset records, you'll make a copy of the defau
 
      ![XXX.](media/restricted-mode-assets-custom-entities.jpg "XXX")
 
-8. Go back to **Settings > Security**, and then select **Users**.
+3. Go back to **Settings > Security**, and then select **Users**.
 
      ![XXX.](media/restricted-mode-assets-users.jpg "XXX")
 
-9. Find and select the desired user, and then select **Manage Roles**.
+4. Find and select the desired user, and then select **Manage Roles**.
 
      ![XXX.](media/restricted-mode-assets-manage-roles.jpg "XXX")
 
-10. Make sure the **Remote Assist - App User** role is selected.
+5. Make sure the **Remote Assist - App User** role is selected.
 
      ![XXX.](media/restricted-mode-assets-selected-role.jpg "XXX")
 
-11. Make sure that the following roles are not selected:
+6. Make sure that the following roles are not selected:
 
     - Remote Assist - App User (with Assets)
     - Remote Assist - Administrator
