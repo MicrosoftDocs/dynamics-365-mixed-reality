@@ -15,7 +15,7 @@ To restrict the ability to access asset records, first make a copy of the defaul
 
 ### Make a copy of the default role
 
-1. Sign into the environment that has the asset records you want to protect, select the **Settings** button, and then select **Advanced Settings**.
+1. Sign into the environment that has the asset records that you want to protect, select the **Settings** button, and then select **Advanced Settings**.
 
     ![XXX.](media/restricted-mode-assets-advanced-settings.jpg "XXX")
 
