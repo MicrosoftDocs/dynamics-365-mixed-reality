@@ -68,7 +68,7 @@ Next, you'll remove permissions to access asset records from the default role, a
 
 6. In the **Manage User Roles** dialog box, make sure that the following roles are not selected:
 
-    - Remote Assist - App User (with Assets)
+    - Remote Assist - App User (with Assets). If you named the copied role something different, be sure to clear the check box for that role. 
     - Remote Assist - Administrator
     - Field Service - Administrator
     - Field Service - Dispatcher
