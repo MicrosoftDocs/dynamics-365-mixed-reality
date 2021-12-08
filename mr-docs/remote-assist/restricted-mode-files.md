@@ -41,3 +41,10 @@ When you restrict the ability to access OneDrive files, users will see the **Fil
 8. If you see the following confirmation screen, you'll know the user was added correctly. Select **Close**.
 
     ![Screenshot with user added highlighted.](media/restricted-mode-files-confirmation.jpg "Screenshot with user added highlighted")
+    
+## See also
+
+- [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
+- [Restrict calling](restricted-mode-calling.md)
+- [Restrict the ability to access asset records](restricted-mode-assets.md)
+- [Restrict the ability to change user accounts](restricted-mode-signout.md)
