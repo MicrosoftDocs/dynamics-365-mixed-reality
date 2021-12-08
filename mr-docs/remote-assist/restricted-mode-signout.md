@@ -10,5 +10,5 @@ When you set up HoloLens in Kiosk mode, users cannot sign out of the Dynamics 36
 
 - [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
 - [Restrict calling and the ability to access contacts](restricted-mode-calling.md)
-- [Restrict the ability to access files](restricted-mode-files.md)
+- [Restrict the ability to access OneDrive files](restricted-mode-files.md)
 - [Restrict the ability to access asset records](restricted-mode-assets.md)
