@@ -54,4 +54,9 @@ To restrict calling, first you create a new Microsoft Teams policy, and then you
     > [!NOTE]
     > It can take a few hours for the policy changes to go into effect.
 
-    
+## See also
+
+[Overview of restricting capabilities in Dynamics 365 Remote Assist](restrict-mode-overview.md)
+[Restrict the ability to access files](restrict-mode-files.md)
+[Restrict the ability to access asset records](restrict-mode-assets.md)
+[Restrict the ability to change user accounts](restrict-mode-accounts.md)
