@@ -77,3 +77,10 @@ Next, you'll remove permissions to access asset records from the default role, a
      ![Screenshot of Manage User Roles dialog box with roles cleared.](media/restricted-mode-assets-cleared-roles.jpg "Screenshot of Manage User Roles dialog box with roles cleared")
 
 7. Verify that the user can access the desired resources and can’t access assets before handing the account to the end user.
+
+## See also
+
+- [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
+- [Restrict calling](restricted-mode-calling.md)
+- [Restrict the ability to access files](restricted-mode-files.md)
+- [Restrict the ability to change user accounts](restricted-mode-signout.md)
