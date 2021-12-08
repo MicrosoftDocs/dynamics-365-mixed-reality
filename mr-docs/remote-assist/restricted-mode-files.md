@@ -45,6 +45,6 @@ When you restrict the ability to access OneDrive files, users will see the **Fil
 ## See also
 
 - [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
-- [Restrict calling](restricted-mode-calling.md)
+- [Restrict calling and the ability to access contacts](restricted-mode-calling.md)
 - [Restrict the ability to access asset records](restricted-mode-assets.md)
 - [Restrict the ability to change user accounts](restricted-mode-signout.md)
