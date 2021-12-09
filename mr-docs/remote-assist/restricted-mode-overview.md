@@ -8,7 +8,7 @@ In some cases, to protect company information, you might want to restrict capabi
 
 Learn how to:
 
-- [Restrict calling and the ability to access contacts](restricted-mode-calling.md)
+- [Restrict calling and the ability to search and access contacts](restricted-mode-calling.md)
 
 - [Restrict the ability to access OneDrive files](restricted-mode-files.md)
 
