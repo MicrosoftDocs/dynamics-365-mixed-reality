@@ -12,7 +12,7 @@ The following table shows which restrictions are available for Dynamics 365 Remo
 
 |Restriction|HoloLens|Mobile app|
 |-----------------------------------------------|-----------|----------|
-|Calling and ability to search for and access contacts|Yes|No, but you can set up [one-time-calling](one-time-call.md) for mobile app users|
+|Calling and contacts|Yes|No, but you can set up [one-time-calling](one-time-call.md) for mobile app users|
 |OneDrive files|Yes|Yes|
 |Asset records|Yes|Yes|
 |Change user accounts|Yes|No|
