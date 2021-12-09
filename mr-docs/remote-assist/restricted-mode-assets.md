@@ -1,6 +1,8 @@
 
 # Restrict the ability to access asset records in Dynamics 365 Remote Assist
 
+[!INCLUDE[private-preview](../includes/private-preview.md)]
+
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Remote Assist users on HoloLens from [accessing asset records](asset-capture-overview.md). If you don't restrict the ability to access asset records, by default, HoloLens users will be able to access them. 
 
 When you restrict the ability to access asset records this way, if a user selects the **Assets** tab in the Remote Assist model-driven app, they'll see this message: "You do not have permissions to access these records. Contact your Microsoft Dynamics 365 administrator for help."
