@@ -18,7 +18,7 @@ Learn how to:
 
 ## Which restrictions are available on HoloLens vs. the mobile app?
 
-The following table shows which restrictions are available for Dynamics 365 Remote Assist on HoloLens and the mobile app. 
+The following table shows which restrictions are available for Dynamics 365 Remote Assist on HoloLens vs. the mobile app. 
 
 |Restriction|HoloLens|Mobile app|
 |-----------------------------------------------|-----------|----------|
