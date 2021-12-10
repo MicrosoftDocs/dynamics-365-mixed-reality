@@ -54,6 +54,67 @@ Business instead of Microsoft Stream for permission management flexibility.
 incorrectly.
 - Stability improvements
 
+## October 6, 2021
+
+### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|306.2109.24003|
+|iOS mobile app|2021.10.6|
+|Android mobile app|2021.10.6|
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|[One-time-call users can open files shared with them from the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/one-time-call-users-open-files-shared-them)|[Invite a user to join a one-time call](one-time-call.md)|
+|[Support for a subset of Microsoft Teams policies](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-subset-teams-policies)|[Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md)|
+|[Accuracy improvements for mixed-reality annotations on mobile](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/accuracy-improvements-mixed-reality-annotations-mobile)|None|
+|[Support for spotlight and pinning for video feed on Microsoft Teams desktop](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-spotlight-pinning-remote-assist-video-feed-teams-desktop)|None|
+
+### Bugs fixed
+
+#### HoloLens 2
+
+- Fixed issue with holograms disappearing for other participants in the call when holograms are less than 30 cm from the HoloLens user. Collaborators now see what the Dynamics 365 Remote Assist user sees.  
+
+- Improvements to rendering for imported media objects that include transparency. 
+
+- Increased number of contact search results shown to the user. 
+
+- Improvements to audio sounds played on certain actions. 
+
+- Fixed an issue where **Recent** contacts may not appear in rare instances. 
+
+- Addressed incorrect visual state for **Mute** button in rare instances. 
+
+- Fixed notification for incoming chat message that wasn’t visible at times. 
+
+- Fixed sign-in issue for Dynamics 365 Field Service environment (Dynamics 365 Field Service integration).  
+
+#### Mobile 
+
+- Fixed issue with missing recording link in chat.  
+
+- Improved annotations accuracy in snapshot. 
+
+- Fixed video scaling issue in landscape mode. 
+
+- Fixed issue for calls between Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens devices where users weren’t able to annotate. 
+
+- Fixed issue for video recording on devices that don’t support augmented reality. 
+
+- Fixed issue with unnecessary **Switch view** dialog box on calls between Dynamics 365 Remote Assist clients. 
+
+- Fixed an issue where **Recent** contacts may not appear in rare instances.  
+
+- Intune and authentication SDK updates. 
+
+- Accessibility improvements. 
+
+- Improvement for annotations occlusions on devices supporting LiDAR. 
+
 ## Locate your version number
 
 ### HoloLens
