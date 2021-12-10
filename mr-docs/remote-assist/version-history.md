@@ -356,7 +356,7 @@ Fix for video freezing in the HoloLens app
 - Call recording is now also available in group calls.
 - Camera tool was moved from the toolbar into text chat.
 
-####v iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Improvements to the UI for group calling participants list.
 - Improved the view space switching logic for when only one participant is sharing their space in a group call.
