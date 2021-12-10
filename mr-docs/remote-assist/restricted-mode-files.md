@@ -21,7 +21,7 @@ When you restrict the ability to access OneDrive files, users will see the **Fil
     ![Screenshot showing Active users and Add a user highlighted.](media/restricted-mode-files-add-user.jpg "Screenshot showing Active users and Add a user highlighted")
     
     > [!IMPORTANT]
-    > It's critical to create a NEW ACCOUNT to make sure the user will not have access to licenses required to access OneDrive files. 
+    > It's critical to create a NEW ACCOUNT to make sure that the user will not have access to the licenses required to access OneDrive files. 
 
 3. Fill out the user information, and then select **Next**.
 
