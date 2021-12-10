@@ -13,6 +13,20 @@ ms.reviewer: v-bholmes
 
 This article describes new features for Dynamics 365 Remote Assist.
 
+## December 10, 2021
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|307.2111.30002|
+|iOS mobile app|2021.12.8|
+|Android mobile app|2021.12.8|
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|[Support for spotlight and pinning for video feed on Microsoft Teams desktop](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-spotlight-pinning-remote-assist-video-feed-teams-desktop)|None|
+
 ## October 6, 2021
 
 ### Version info
