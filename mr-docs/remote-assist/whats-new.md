@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 
 # What's new in Dynamics 365 Remote Assist
 
-This article describes details about the current wave of features (October 2021 through March 2022) for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see Dynamics 365 and Power Platform release plans. You can also see a complete list of [features organized by previous waves](version-history.md).
+This article describes details about the current wave of features (October 2021 through March 2022) for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
 ## December 10, 2021
 
