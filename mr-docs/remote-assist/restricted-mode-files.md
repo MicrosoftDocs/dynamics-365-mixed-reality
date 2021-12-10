@@ -3,7 +3,7 @@
 
 [!INCLUDE[private-preview](../includes/private-preview.md)]
 
-If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Dynamics 365 Remote Assist users on HoloLens from accessing OneDrive files. 
+If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Dynamics 365 Remote Assist users on HoloLens from accessing OneDrive files. Restricting the ability to access OneDrive files is also helpful in a situation where a service account is shared between users and you want to prevent users from accessing other users' files. 
 
 When you restrict the ability to access OneDrive files, users will see the **Files** tab, but no files will be visible and they'll see this message: "We can't connect to OneDrive." 
 
@@ -27,6 +27,9 @@ When you restrict the ability to access OneDrive files, users will see the **Fil
 4. Select the **Dynamics 365 Remote Assist** and **Microsoft Teams** license check boxes.
 
     ![Screenshot showing Dynamics 365 Remote Assist and Microsoft Teams check boxes selected.](media/restricted-mode-files-select-licenses.jpg "Screenshot showing Dynamics 365 Remote Assist and Microsoft Teams check boxes selected")
+
+    > [!NOTE]
+    > The name of the Teams license may vary base on the products you have installed. 
 
 5. Clear the **Office for the Web** and **SharePoint** license check boxes, and then select **Next**.
 
