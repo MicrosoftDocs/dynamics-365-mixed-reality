@@ -13,6 +13,8 @@ ms.reviewer: v-bholmes
 
 This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the **most recent wave of features**, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
+## 2021 Release Wave 1
+
 ## August 9, 2021
 
 ### Version info
@@ -187,6 +189,7 @@ Fix for video freezing in the HoloLens app
 > [!TIP]
 > Looking for earlier features? Go to [version history for Dynamics 365 Remote Assist](version-history.md). 
 
+## 2020 Release Wave 2
 
 ## February 2021
 
@@ -219,10 +222,6 @@ Fix for video freezing in the HoloLens app
 - Support for contact search with names written in non-Latin scripts, like Arabic, Hebrew, and more.
 - Stability improvements.
 
-
-
-
-
 ## January 2021
 
 ### Version info
@@ -242,10 +241,6 @@ Fix for video freezing in the HoloLens app
 #### iOS and Android mobile app
 
 - Important bug fixes and stability improvements.
-
-
-
-
 
 ## December 12, 2020
 
@@ -274,10 +269,6 @@ Fix for video freezing in the HoloLens app
 - The Speaker button is only visible when there is more than one audio output source.
 - All buttons are responsive and can be tapped.
 - Fixed app crashes.
-
-
-
-
 
 ## December 2020
 
@@ -318,10 +309,6 @@ Fix for video freezing in the HoloLens app
 - UI improvements for post to work order scenario, one time call and contacts list.
 - Fix for a guest user name displayed in a one time call.
 
-
-
-
-
 ## October 31, 2020
 
 ### Version info
@@ -343,10 +330,6 @@ Fix for video freezing in the HoloLens app
 - On the tutorial page, the buttons now read: Restart Tutorial and Exit Practice.
 - If you’re using Dynamics 365 Field Service with Dynamics 365 Remote Assist, the Post to Dynamics 365 pop-up will disappear when you receive or accept a call, but will reappear after the call has ended.
 - The “NullReferenceException: Object reference not set to an instance of an object” error message does not appear when starting a call, whether system-generated logs are enabled or not.
-
-
-
-
 
 ## October 2020
 
@@ -385,6 +368,8 @@ Fix for video freezing in the HoloLens app
 - Improved support for Bluetooth headset on iPads and tablets.
 - Improved annotations toolbar visibility in Teams clients when in calls with mobile devices without augmented reality (AR) support.
 
+## 2020 Release Wave 1
+
 ## September 2020
 
 ### Version info
@@ -414,10 +399,6 @@ Fix for video freezing in the HoloLens app
 - Adjustments for landscape screen orientation when in a call between two Dynamics 365 Remote Assist mobile users.
 - Fix for NullReferenceException showing up sometimes during inking and tutorial mode.
 
-
-
-
-
 ## August 2020
 
 ### Version info
@@ -435,9 +416,6 @@ Fix for video freezing in the HoloLens app
 - Fix for when the user answers a call from the shell and it takes them to the contacts screen rather than joining the call. 
 - Fix for the Dynamics 365 Remote Assist video card appearing too close after the call has ended. 
 - Improved application reliability. 
-
-
-
 
 ## July 30, 2020
 
@@ -461,10 +439,6 @@ Fix for video freezing in the HoloLens app
 - Fix for Undo and Delete buttons in the incorrect state.
 - Fix for memory issues caused by screen rotation.
 - Improved application memory usage.
-
-
-
-
 
 ## July 2020
 
@@ -506,10 +480,6 @@ Fix for video freezing in the HoloLens app
 -	Fixes for application localization (for example “Retry sign-in” button, “Don’t show again” button and tracking error state messages).
 -	Performance improvements for the application memory usage.
 
-
-
-
-
 ## June 2020
 
 ### Version info
@@ -530,10 +500,6 @@ Fix for video freezing in the HoloLens app
 - Fixed bug where the outgoing video feed may not work when answering a call from the HoloLens shell.
 - Various fixes to enable users in Egypt to use Dynamics 365 Remote Assist.
 - Incoming calls are now supported for GCC High and DOD.
-
-
-
-
 
 ## May 28 2020
 
@@ -556,10 +522,6 @@ Fix for video freezing in the HoloLens app
 -	Localization improvements.
 -	Accessibility improvements and fixes.
 
-
-
-
-
 ## May 4 2020
 
 ### Version info
@@ -576,10 +538,6 @@ Fix for video freezing in the HoloLens app
 - Improved flighting implementation and enabling per company app customizations.
 - Fix for sign-in problem for users on mobile networks.
 - Improved user feedback questionnaire experience.
-
-
-
-
 
 ## April 2020
 
@@ -618,8 +576,7 @@ Fix for video freezing in the HoloLens app
 - Fixed NullReferenceException showing up during app termination and in the contacts search page.
 - Fix for ArgumentOutOfRange exception showing up when typing text in the text chat.
 
-
-
+## 2019 Release Wave 2
 
 ## Feburary 27,  2020
 
