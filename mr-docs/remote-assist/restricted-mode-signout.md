@@ -7,7 +7,7 @@
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Remote Assist users on HoloLens from changing user accounts. You can do this by [setting up HoloLens in Kiosk mode](https://docs.microsoft.com/hololens/hololens-kiosk?tabs=uisak%2Cnonaadlogon). When you set up HoloLens in Kiosk mode, you automatically prevent users from signing out of Dynamics 365 Remote Assist. 
 
 > [!NOTE]
-> You can also use Kiosk mode to support configuration for multiple apps. 
+> You can also use Kiosk mode to configure access to multiple selected apps. 
 
 ## See also
 
