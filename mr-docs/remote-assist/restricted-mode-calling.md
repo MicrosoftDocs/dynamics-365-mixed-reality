@@ -1,5 +1,5 @@
 
-# Restrict calling and the ability to search and access contacts in Dynamics 365 Remote Assist
+# Restrict calling and the ability to search and access contacts in Dynamics 365 Remote Assist for HoloLens
 
 [!INCLUDE[private-preview](../includes/private-preview.md)]
 
