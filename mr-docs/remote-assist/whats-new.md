@@ -31,28 +31,28 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 #### HoloLens
 
-• Fixed an issue where voice commands would sometimes stop working after connecting to a call.
-• Increased reliability and completeness of data logged for Calls Dashboard.
-• Call recordings initiated from Dynamics 365 Remote Assist are now saved to SharePoint/OneDrive for 
+- Fixed an issue where voice commands would sometimes stop working after connecting to a call.
+- Increased reliability and completeness of data logged for Calls Dashboard.
+- Call recordings initiated from Dynamics 365 Remote Assist are now saved to SharePoint/OneDrive for 
 Business instead of Microsoft Stream for permission management flexibility.
-• Addressed cases with text not fitting in UI elements in some languages.
-• Improved performance of the UI when launching the app, and ensured clear visual state of the app 
+- Addressed cases with text not fitting in UI elements in some languages.
+- Improved performance of the UI when launching the app, and ensured clear visual state of the app 
 when permission dialogs are presented on the first launch.
-• Improved application stability, by addressing various rare crashes.
-• Optimizations and fixes for memory leaks.
+- Improved application stability, by addressing various rare crashes.
+- Optimizations and fixes for memory leaks.
 
 #### Mobile
 
-• Call recordings initiated from Dynamics 365 Remote Assist are now saved to SharePoint/OneDrive for 
+- Call recordings initiated from Dynamics 365 Remote Assist are now saved to SharePoint/OneDrive for 
 Business instead of Microsoft Stream for permission management flexibility.
-• Fix for black screen on some iOS devices.
-• Fix for Android app crash when Company Portal is installed.
-• Improvements for recent contact presence status.
-• Improvements for call notification reliability.
-• Increased reliability and completeness of data logged for Calls Dashboard.
-• Fix for ‘Unexpected ConfirmButtonPressed’ and ‘Oops something went wrong’ popups showing up 
+- Fix for black screen on some iOS devices.
+- Fix for Android app crash when Company Portal is installed.
+- Improvements for recent contact presence status.
+- Improvements for call notification reliability.
+- Increased reliability and completeness of data logged for Calls Dashboard.
+- Fix for ‘Unexpected ConfirmButtonPressed’ and ‘Oops something went wrong’ popups showing up 
 incorrectly.
-• Stability improvements
+- Stability improvements
 
 ## October 6, 2021
 
