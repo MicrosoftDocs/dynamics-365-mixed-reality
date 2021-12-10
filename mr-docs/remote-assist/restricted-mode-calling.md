@@ -1,5 +1,5 @@
 
-# Restrict calling and the ability to access contacts in Dynamics 365 Remote Assist
+# Restrict calling and the ability to search and access contacts in Dynamics 365 Remote Assist
 
 [!INCLUDE[private-preview](../includes/private-preview.md)]
 
