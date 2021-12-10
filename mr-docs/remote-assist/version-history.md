@@ -15,9 +15,9 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 ## 2021 Release Wave 1
 
-## August 9, 2021
+### August 9, 2021
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -25,15 +25,15 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 |iOS mobile app|2021.8.4|
 |Android mobile app|2021.8.4|
 
-### Features
+#### Features
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
 |[Turn hand rays off or on](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/service/dynamics365-remote-assist/turn-hand-rays-off-or)|[Turn hand rays off or on](hololens-hand-rays.md)|
 
-### Bugs fixed
+#### Bugs fixed
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Fixed an issue causing some of the contacts in the **Recent Contacts** list to disappear upon refresh
 - Fixed an issue that sometimes prevented media files from opening on OneDrive
@@ -45,7 +45,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Addressed case where duplicate entries were logged in Calls Dashboard
 - Visually polished various panels and improved in-app messaging
 
-#### Mobile
+##### Mobile
 
 - Fix for last frame being active on the screen in the new call
 - Fix for snapshot state after a call was put on hold
@@ -58,21 +58,21 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Fix for not being able to launch the app in some regions
 - Fix for accessibility issues
 
-## June 24, 2021
+### June 24, 2021
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2 app|304.2106.23002|
 
-### Bugs fixed
+#### Bugs fixed
 
 Fix for video freezing in the HoloLens app 
 
-## June 2, 2021
+### June 2, 2021
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -80,9 +80,9 @@ Fix for video freezing in the HoloLens app
 |iOS mobile app|2021.6.1|
 |Android mobile app|2021.6.1|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Fix for recent contacts sometimes disappearing unexpectedly
 - Fix for user not being able to navigate back from contact search in rare cases
@@ -95,7 +95,7 @@ Fix for video freezing in the HoloLens app
 - Visual improvements: addressed unexpected panel flickering when user interacted with panel edges; fixed images loaded in 3D space appearing washed out when overlaid on top of other panels
 - Various improvements to data logging to make it easier to investigate issues reported by customers 
 
-#### Mobile
+##### Mobile
 
 - Fix for sharing files when there is a guest user on the call
 - Fix for one-time-call link prompting for sign-in due to missing special characters in the url
@@ -113,39 +113,39 @@ Fix for video freezing in the HoloLens app
 - Fix for **Save to chat** button in a one-time-call
 - Accessibility and stability improvements
 
-## May 7, 2021
+### May 7, 2021
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2|303.2105.4005|
 
-### Bug fixes
+#### Bug fixes
 
 -	Fix for Calls dashboard to improve logging reliability
 
-## April 29, 2021
+### April 29, 2021
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2021.4.3|
 |Android mobile app|2021.4.3|
 
-### Bug fixes
+#### Bug fixes
 
 -	Fix for one-time-call sessions – for users who weren't able to take and annotate snapshots during sessions.
 -	Fix for Bluetooth headset – Dynamics 365 Remote Assist will now properly use the headset microphone. 
 
 
-## April 1, 2021
+### April 1, 2021
 
 > [!IMPORTANT]
 > Dynamics 365 Remote Assist on HoloLens (1st gen) has entered Long Term Servicing state. Future updates for HoloLens (1st gen) will focus on issues and security fixes, while maintaining feature parity with the February 2021 release (version 302.2102.2003).
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -153,7 +153,7 @@ Fix for video freezing in the HoloLens app
 |iOS mobile app|2021.4.1|
 |Android mobile app|2021.4.1|
 
-### Features
+#### Features
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
@@ -163,15 +163,15 @@ Fix for video freezing in the HoloLens app
 |Instinctual interaction improvements on HoloLens 2|[HoloLens voice commands and gestures](voice-commands-hololens.md#gestures)|
 |Long Term Servicing for Dynamics 365 Remote Assist on HoloLens (1st gen)||
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Fixed date format for Calls Dashboard. 
 - Addressed an issue where contact presence wasn't displayed in some instances.
 - Fixed a problem with setting permissions for a photo shared from HoloLens in a call chat with guest participants.
 
-#### Mobile
+##### Mobile
 
 - Fix for posting to work order files that were shared and not visible when in a call with Dynamics 365 Remote Assist users. 
 - Fix for video recording on devices that don't support H.265 HEVC. 
@@ -191,9 +191,9 @@ Fix for video freezing in the HoloLens app
 
 ## 2020 Release Wave 2
 
-## February 2021
+### February 2021
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -201,16 +201,16 @@ Fix for video freezing in the HoloLens app
 |iOS mobile app|2021.2.10|
 |Android mobile app|2021.2.10|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens (1st gen) and 2
+##### HoloLens (1st gen) and 2
 
 - Fixed bugs related to file sharing with Teams users.
 - Fixed bugs related to voice commands.
 - Fixed bugs related to contact searching.
 - Improved error handling when selecting Dynamics 365 environment.
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for video issues on devices with limited GPU support for texture copy, like Samsung Galaxy J4+.
 - Fix for removed Dynamics 365 environment selection after app relaunch.
@@ -222,9 +222,9 @@ Fix for video freezing in the HoloLens app
 - Support for contact search with names written in non-Latin scripts, like Arabic, Hebrew, and more.
 - Stability improvements.
 
-## January 2021
+### January 2021
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -232,28 +232,28 @@ Fix for video freezing in the HoloLens app
 |iOS mobile app|2021.1.8|
 |Android mobile app|2021.01.05|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens (1st gen) and 2
-
-- Important bug fixes and stability improvements.
-
-#### iOS and Android mobile app
+##### HoloLens (1st gen) and 2
 
 - Important bug fixes and stability improvements.
 
-## December 12, 2020
+##### iOS and Android mobile app
 
-### Version info
+- Important bug fixes and stability improvements.
+
+### December 12, 2020
+
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.12.12|
 |Android mobile app|2019.12.09|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - If you don’t have the Company Portal or the Microsoft Authenticator app installed, the app doesn’t crash when you sign in.
 - After tapping the Search button when searching for contacts, the “Start type to search text” doesn’t overlap with the recent list of contacts.
@@ -270,9 +270,9 @@ Fix for video freezing in the HoloLens app
 - All buttons are responsive and can be tapped.
 - Fixed app crashes.
 
-## December 2020
+### December 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -280,9 +280,9 @@ Fix for video freezing in the HoloLens app
 |iOS mobile app|2020.12.09|
 |Android mobile app|2020.12.09|                                                                                       
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens (1st gen) and 2
+##### HoloLens (1st gen) and 2
 
 - Improvements around selecting Dynamics 365 environment.
 - Fixed "Post to Work Order" not working under certain conditions, and sometimes showing the dialog unnecessarily.
@@ -296,7 +296,7 @@ Fix for video freezing in the HoloLens app
 - Fixed issue preventing the access to files shared from Teams in some cases.
 - Improved support of file sharing and text chat in Teams channel meetings.
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for the video not being available in one to one and group calls.
 - Fix for “Tracking lost” message. Now it will show only when needed.
@@ -309,18 +309,18 @@ Fix for video freezing in the HoloLens app
 - UI improvements for post to work order scenario, one time call and contacts list.
 - Fix for a guest user name displayed in a one time call.
 
-## October 31, 2020
+### October 31, 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.10.31|
 |Android mobile app|2019.10.22|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - The Screenshot button is removed from the toolbar. You can edit a screenshot by selecting the Snapshot and annotate button instead.
 - If there's a network disconnection, you’re automatically rejoined to the call when the network is restored. If there’s no network connection, the call is ended.
@@ -331,9 +331,9 @@ Fix for video freezing in the HoloLens app
 - If you’re using Dynamics 365 Field Service with Dynamics 365 Remote Assist, the Post to Dynamics 365 pop-up will disappear when you receive or accept a call, but will reappear after the call has ended.
 - The “NullReferenceException: Object reference not set to an instance of an object” error message does not appear when starting a call, whether system-generated logs are enabled or not.
 
-## October 2020
+### October 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -341,9 +341,9 @@ Fix for video freezing in the HoloLens app
 |iOS mobile app|2020.10.1|
 |Android mobile app|2020.10.03|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Improved reliability of voice commands (for photo capture, moving and scaling windows, and more).
 - Improved reliability and performance of taking photo captures.
@@ -356,7 +356,7 @@ Fix for video freezing in the HoloLens app
 - Call recording is now also available in group calls.
 - Camera tool was moved from the toolbar into text chat.
 
-#### iOS and Android mobile app
+####v iOS and Android mobile app
 
 - Improvements to the UI for group calling participants list.
 - Improved the view space switching logic for when only one participant is sharing their space in a group call.
@@ -370,9 +370,9 @@ Fix for video freezing in the HoloLens app
 
 ## 2020 Release Wave 1
 
-## September 2020
+### September 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -380,15 +380,15 @@ Fix for video freezing in the HoloLens app
 |iOS mobile app|2020.9.1|
 |Android mobile app|2020.09.04|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Fixed issue with protocol activation when including contact parameter.
 - Fixed issue with call recording in GCC High.
 - Improved app reliability and stability.
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Improvements for showing the tracking lost detection and messaging less frequently.
 - Adjustments for annotations size being too large on certain device screens.
@@ -399,17 +399,17 @@ Fix for video freezing in the HoloLens app
 - Adjustments for landscape screen orientation when in a call between two Dynamics 365 Remote Assist mobile users.
 - Fix for NullReferenceException showing up sometimes during inking and tutorial mode.
 
-## August 2020
+### August 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens (1st gen) and 2|211.2007.30002|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Fix for the files shared from Microsoft Teams not downloading on HoloLens. 
 - Fix for the "Snap" voice command not taking a photo in some cases.
@@ -417,18 +417,18 @@ Fix for video freezing in the HoloLens app
 - Fix for the Dynamics 365 Remote Assist video card appearing too close after the call has ended. 
 - Improved application reliability. 
 
-## July 30, 2020
+### July 30, 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.7.30|
 |Android mobile app|2020.07.23|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for not displaying the Dynamics 365 Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
 - Fix for placing the arrow annotation at the incorrect angle for Microsoft Teams desktop or mobile users.
@@ -440,9 +440,9 @@ Fix for video freezing in the HoloLens app
 - Fix for memory issues caused by screen rotation.
 - Improved application memory usage.
 
-## July 2020
+### July 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -450,9 +450,9 @@ Fix for video freezing in the HoloLens app
 |iOS mobile app|2020.7.1|
 |Android mobile app|2020.06.27|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - A Dynamics 365 Remote Assist HoloLens user using GCC High can successfully join a meeting. 
 -	Fixed bug in group calls on HoloLens (1st gen) where remote collaborators are unable to annotate from Microsoft Teams client.   
@@ -467,7 +467,7 @@ Fix for video freezing in the HoloLens app
 -	Fixed issue causing incorrect states of the previous/next buttons when navigating between pages on Asset list.
 -	Additional miscellaneous bug fixes. 
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Improved incoming call experience for Dynamics 365 Remote Assist mobile users who do not have the app open when a call comes in from Microsoft Teams desktop or mobile clients.
 -	Fix for app crashing on mobile devices without augmented reality (AR) support, especially iPhone 5 and iPhone 6 devices.
@@ -480,17 +480,17 @@ Fix for video freezing in the HoloLens app
 -	Fixes for application localization (for example “Retry sign-in” button, “Don’t show again” button and tracking error state messages).
 -	Performance improvements for the application memory usage.
 
-## June 2020
+### June 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2|209.2006.11003.0|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Fixed bug in group calls where remote collaborators are unable to annotate from Microsoft Teams client.
 - Improvements to the Join Meeting feature to select between overlapping meetings.
@@ -501,18 +501,18 @@ Fix for video freezing in the HoloLens app
 - Various fixes to enable users in Egypt to use Dynamics 365 Remote Assist.
 - Incoming calls are now supported for GCC High and DOD.
 
-## May 28 2020
+### May 28 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.5.28|
 |Android mobile app|2020.05.22|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for network error “HTTP 401 TeamsChatService.GetMessagesAsync”.
 -	Fix for application not being responsive during launch.
@@ -522,26 +522,26 @@ Fix for video freezing in the HoloLens app
 -	Localization improvements.
 -	Accessibility improvements and fixes.
 
-## May 4 2020
+### May 4 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.5.7|
 |Android mobile app|2020.05.04|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Improved flighting implementation and enabling per company app customizations.
 - Fix for sign-in problem for users on mobile networks.
 - Improved user feedback questionnaire experience.
 
-## April 2020
+### April 2020
 
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -549,9 +549,9 @@ Fix for video freezing in the HoloLens app
 |iOS mobile app|2020.4.1|
 |Android mobile app|2002.03.18|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens (1st gen) and 2
+##### HoloLens (1st gen) and 2
 
 - Fixed various speech command bugs.
 - Improvements to tool tips.
@@ -563,7 +563,7 @@ Fix for video freezing in the HoloLens app
 - Fixed text chat bug that was causing text chats not to show on HoloLens.
 - Various near-field / far-field interaction fixes.
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for yellow tracking dots. Yellow tracking dots will not show up on the mobile device screen.
 - Improved quality of annotations placement in the near field of 1 meter (three feet).
@@ -576,20 +576,20 @@ Fix for video freezing in the HoloLens app
 - Fixed NullReferenceException showing up during app termination and in the contacts search page.
 - Fix for ArgumentOutOfRange exception showing up when typing text in the text chat.
 
-## 2019 Release Wave 2
+### 2019 Release Wave 2
 
-## Feburary 27,  2020
+### Feburary 27,  2020
 
-### Version info
+#### Version info
 
 |Device |Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.02.27|
 |Android mobile app|2020.02.20|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - In low-bandwidth environments with a satellite network of 1000/256 kbps for bandwidth, 600/600ms for latency, and 10% of packet loss, users will not receive an 'Update Check Failed' pop-up and can continue to share their environment.  
 - Users trying the 90-day license-free Dynamics 365 Remote Assist Mobile trial who don't have a Microsoft Teams license (free or paid) will be prompted to sign up for one. After they sign up, the app will recognize their Microsoft Teams account and they can sign in. 
