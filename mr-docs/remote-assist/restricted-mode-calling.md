@@ -9,7 +9,7 @@ If you [have a scenario where you need to protect company information](restricte
 
 - Receiving incoming calls outside of a meeting
 
-- Accessing contacts
+- Searching for contacts and accessing contacts
 
 When you restrict calling for Dynamics 365 Remote Assist users, they can still:
 
