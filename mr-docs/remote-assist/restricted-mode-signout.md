@@ -12,6 +12,6 @@ If you [have a scenario where you need to protect your company information](rest
 ## See also
 
 - [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
-- [Restrict calling and the ability to access contacts](restricted-mode-calling.md)
+- [Restrict calling and the ability to search and access contacts](restricted-mode-calling.md)
 - [Restrict the ability to access OneDrive files](restricted-mode-files.md)
 - [Restrict the ability to access asset records](restricted-mode-assets.md)
