@@ -29,7 +29,7 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 ### Bug fixes and improvements
 
-#### HoloLens
+#### HoloLens 2
 
 - Fixed an issue where voice commands would sometimes stop working after connecting to a call.
 - Increased reliability and completeness of data logged for Calls Dashboard.
