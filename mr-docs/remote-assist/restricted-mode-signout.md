@@ -1,6 +1,6 @@
 
 
-# Restrict the ability for Dynamics 365 Remote Assist users to change user accounts (sign out)
+# Restrict the ability for Dynamics 365 Remote Assist users on HoloLens from changing user accounts (signing out)
 
 [!INCLUDE[private-preview](../includes/private-preview.md)]
 
