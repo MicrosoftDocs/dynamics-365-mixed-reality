@@ -1,3 +1,14 @@
+---
+title: Restrict calling and the ability to search and access contacts in Dynamics 365 Remote Assist for HoloLens
+author: amaraanigbo
+description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Remote Assist
+ms.author: soanigbo
+ms.date: 12/13/2021
+ms.service: crm-online
+ms.topic: article
+ms.reviewer: v-bholmes
+ROBOTS: NOINDEX, NOFOLLOW
+---
 
 # Restrict calling and the ability to search and access contacts in Dynamics 365 Remote Assist for HoloLens
 
