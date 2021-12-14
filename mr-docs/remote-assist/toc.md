@@ -76,12 +76,6 @@
 ### [Deploy multi-tenant collaboration](multi-tenant-deployment.md)
 ### [Vendors and customers use full Remote Assist capabilities](vendor-use-RA.md)
 ### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
-### Restrict calling and the ability to access contacts, files, and assets
-#### [Overview](restricted-mode-overview.md)
-#### [Restrict calling and the ability to access contacts](restricted-mode-calling.md)
-#### [Restrict ability to access OneDrive files](restricted-mode-files.md)
-#### [Restrict ability to access asset records](restricted-mode-assets.md)
-#### [Restrict ability to change user accounts](restricted-mode-signout.md)
 
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
