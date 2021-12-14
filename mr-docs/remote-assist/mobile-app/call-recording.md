@@ -3,7 +3,7 @@ title: Record a call in Dynamics 365 Remote Assist mobile
 author: amaraanigbo
 description: Learn how to record a one-to-one call with remote collaborators in the Dynamics 365 Remote Assist mobile app. 
 ms.author: soanigbo
-ms.date: 10/01/2020
+ms.date: 12/14/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -40,8 +40,5 @@ The following chart explains which call participant can initiate a call recordin
     ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the text chat and a recording indicator in the top-right corner of the screen.](./media/textchatrecorder.PNG)
 
 4. The technician can select the record button to **stop** the call recording at any point in their call. Afterwards, both call participants will receive a notification that the call recording will be available in OneDrive for Business. The notification can be dismissed at any time. Once the call recording has been uploaded to OneDrive for Business, both participants can access it through the **Dynamics 365 Remote Assist mobile call text chat**, **Microsoft Teams text chat**, or from the OneDrive for Business folder.
-
-    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the notification that explains the call recording is being uploaded to Microsoft Stream.](./media/recorder_4.png)
-
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
