@@ -11,12 +11,189 @@ ms.reviewer: v-bholmes
 
 # Version history for Dynamics 365 Remote Assist
 
-This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the most recent features, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the **most recent wave of features**, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+
+## 2021 Release Wave 1
+
+### August 9, 2021
+
+#### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|305.2108.2003.0|
+|iOS mobile app|2021.8.4|
+|Android mobile app|2021.8.4|
+
+#### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|[Turn hand rays off or on](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/service/dynamics365-remote-assist/turn-hand-rays-off-or)|[Turn hand rays off or on](hololens-hand-rays.md)|
+
+#### Bugs fixed
+
+##### HoloLens 2
+
+- Fixed an issue causing some of the contacts in the **Recent Contacts** list to disappear upon refresh
+- Fixed an issue that sometimes prevented media files from opening on OneDrive
+- Improved precision of short ink lines drawn by a Microsoft Teams user in the HoloLens user space
+- Improved reliability of text chat (sending and receiving messages) and file sharing
+- Improved handling of changes to the call state to increase reliability of calling experiences
+- Addressed an issue where transferring the call would sometimes lead to an unexpected visual state
+- Addressed rare case where the first photo capture could lead to a crash
+- Addressed case where duplicate entries were logged in Calls Dashboard
+- Visually polished various panels and improved in-app messaging
+
+##### Mobile
+
+- Fix for last frame being active on the screen in the new call
+- Fix for snapshot state after a call was put on hold
+- Improvements for saving data in the Calls Dashboard 
+- Fix for saving files in the work order in a group call
+- Fix for incorrect “Learn more” destination link
+- Imrpoved messaging when enabling Dynamics 365 Field Service integration
+- General stability improvements
+- Fix for missing currently signed-in user’s status in the **Settings** tab
+- Fix for not being able to launch the app in some regions
+- Fix for accessibility issues
+
+### June 24, 2021
+
+#### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|304.2106.23002|
+
+#### Bugs fixed
+
+Fix for video freezing in the HoloLens app 
+
+### June 2, 2021
+
+#### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|304.2105.24005.0|
+|iOS mobile app|2021.6.1|
+|Android mobile app|2021.6.1|
+
+#### Bug fixes
+
+##### HoloLens 2
+
+- Fix for recent contacts sometimes disappearing unexpectedly
+- Fix for user not being able to navigate back from contact search in rare cases
+- Fix for file sharing issues (receiving files from other call/meeting participants)
+- Added voice commands for additional scenarios (saving a photo, navigating through hints)
+- Addressed issue causing windows not returning to the correct position after losing and re-gaining tracking
+- Fix for pinned state of the main window not staying in the correct position when the call is ended
+- Improved handling of menu panels when manipulated by user (grabbed and moved)
+- Fix for button states representing the active tool (Arrow, Ink) not always reflecting the current state
+- Visual improvements: addressed unexpected panel flickering when user interacted with panel edges; fixed images loaded in 3D space appearing washed out when overlaid on top of other panels
+- Various improvements to data logging to make it easier to investigate issues reported by customers 
+
+##### Mobile
+
+- Fix for sharing files when there is a guest user on the call
+- Fix for one-time-call link prompting for sign-in due to missing special characters in the url
+- Improvements to energy saver mode
+- Fix for annotations availability when user rejoins one-time-call
+- Fix for misleading “Annotations Unavailable” message in calls with devices without augmented reality support
+- Fix for user presence status that was not showing correctly at times
+- Support for France digital accessibility requirements
+- Fix for annotations after coming back from on hold
+- Fix for footer overlap in the post call screen
+- Fix for missing recording icon in the participants list
+- Fix for screen rotation after leaving Snapshot mode
+- Fix for camera and microphone buttons state when connecting to a call
+- Fix for duplicated assets in assets capture
+- Fix for **Save to chat** button in a one-time-call
+- Accessibility and stability improvements
+
+### May 7, 2021
+
+#### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|303.2105.4005|
+
+#### Bug fixes
+
+-	Fix for Calls dashboard to improve logging reliability
+
+### April 29, 2021
+
+#### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2021.4.3|
+|Android mobile app|2021.4.3|
+
+#### Bug fixes
+
+-	Fix for one-time-call sessions – for users who weren't able to take and annotate snapshots during sessions.
+-	Fix for Bluetooth headset – Dynamics 365 Remote Assist will now properly use the headset microphone. 
 
 
-## February 2021
+### April 1, 2021
 
-### Version info
+> [!IMPORTANT]
+> Dynamics 365 Remote Assist on HoloLens (1st gen) has entered Long Term Servicing state. Future updates for HoloLens (1st gen) will focus on issues and security fixes, while maintaining feature parity with the February 2021 release (version 302.2102.2003).
+
+#### Version info
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|303.2103.29002|
+|iOS mobile app|2021.4.1|
+|Android mobile app|2021.4.1|
+
+#### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|Support for low-bandwidth situations|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
+|Support for meeting recordings on HoloLens|[Record calls in Dynamics 365 Remote Assist on HoloLens](record-calls-hololens.md)|
+|Improvement to the Microsoft Dataverse Environment selection||
+|Instinctual interaction improvements on HoloLens 2|[HoloLens voice commands and gestures](voice-commands-hololens.md#gestures)|
+|Long Term Servicing for Dynamics 365 Remote Assist on HoloLens (1st gen)||
+
+#### Bug fixes
+
+##### HoloLens 2
+
+- Fixed date format for Calls Dashboard. 
+- Addressed an issue where contact presence wasn't displayed in some instances.
+- Fixed a problem with setting permissions for a photo shared from HoloLens in a call chat with guest participants.
+
+##### Mobile
+
+- Fix for posting to work order files that were shared and not visible when in a call with Dynamics 365 Remote Assist users. 
+- Fix for video recording on devices that don't support H.265 HEVC. 
+- Fix for deleting annotations placed before the recording was started. 
+- Fix for annotations when call is in “on hold” state. 
+- Fix for losing annotations for the collaborator when technicians are turning off the camera. 
+- Fix for missing video recording link from the meeting. 
+- Fix for annotations toolbar being disabled in one-time-call and meetings. 
+- Fix for dates not being properly localized in the Calls dashboard. 
+- Improvement for text chat availability in calls with poor network connections. 
+- Improvement for annotation thickness after annotations are placed in close distance. 
+- Fix for unnecessary Dynamics error showing up in the app. 
+- Fix for video freezing, end-call availability, and blocked annotations on iOS during a call. 
+
+> [!TIP]
+> Looking for earlier features? Go to [version history for Dynamics 365 Remote Assist](version-history.md). 
+
+## 2020 Release Wave 2
+
+### February 2021
+
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -24,16 +201,16 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 |iOS mobile app|2021.2.10|
 |Android mobile app|2021.2.10|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens (1st gen) and 2
+##### HoloLens (1st gen) and 2
 
 - Fixed bugs related to file sharing with Teams users.
 - Fixed bugs related to voice commands.
 - Fixed bugs related to contact searching.
 - Improved error handling when selecting Dynamics 365 environment.
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for video issues on devices with limited GPU support for texture copy, like Samsung Galaxy J4+.
 - Fix for removed Dynamics 365 environment selection after app relaunch.
@@ -45,13 +222,9 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Support for contact search with names written in non-Latin scripts, like Arabic, Hebrew, and more.
 - Stability improvements.
 
+### January 2021
 
-
-
-
-## January 2021
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -59,32 +232,28 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 |iOS mobile app|2021.1.8|
 |Android mobile app|2021.01.05|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens (1st gen) and 2
-
-- Important bug fixes and stability improvements.
-
-#### iOS and Android mobile app
+##### HoloLens (1st gen) and 2
 
 - Important bug fixes and stability improvements.
 
+##### iOS and Android mobile app
 
+- Important bug fixes and stability improvements.
 
+### December 12, 2020
 
-
-## December 12, 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.12.12|
 |Android mobile app|2019.12.09|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - If you don’t have the Company Portal or the Microsoft Authenticator app installed, the app doesn’t crash when you sign in.
 - After tapping the Search button when searching for contacts, the “Start type to search text” doesn’t overlap with the recent list of contacts.
@@ -101,13 +270,9 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - All buttons are responsive and can be tapped.
 - Fixed app crashes.
 
+### December 2020
 
-
-
-
-## December 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -115,9 +280,9 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 |iOS mobile app|2020.12.09|
 |Android mobile app|2020.12.09|                                                                                       
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens (1st gen) and 2
+##### HoloLens (1st gen) and 2
 
 - Improvements around selecting Dynamics 365 environment.
 - Fixed "Post to Work Order" not working under certain conditions, and sometimes showing the dialog unnecessarily.
@@ -131,7 +296,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Fixed issue preventing the access to files shared from Teams in some cases.
 - Improved support of file sharing and text chat in Teams channel meetings.
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for the video not being available in one to one and group calls.
 - Fix for “Tracking lost” message. Now it will show only when needed.
@@ -144,22 +309,18 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - UI improvements for post to work order scenario, one time call and contacts list.
 - Fix for a guest user name displayed in a one time call.
 
+### October 31, 2020
 
-
-
-
-## October 31, 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.10.31|
 |Android mobile app|2019.10.22|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - The Screenshot button is removed from the toolbar. You can edit a screenshot by selecting the Snapshot and annotate button instead.
 - If there's a network disconnection, you’re automatically rejoined to the call when the network is restored. If there’s no network connection, the call is ended.
@@ -170,13 +331,9 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - If you’re using Dynamics 365 Field Service with Dynamics 365 Remote Assist, the Post to Dynamics 365 pop-up will disappear when you receive or accept a call, but will reappear after the call has ended.
 - The “NullReferenceException: Object reference not set to an instance of an object” error message does not appear when starting a call, whether system-generated logs are enabled or not.
 
+### October 2020
 
-
-
-
-## October 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -184,9 +341,9 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 |iOS mobile app|2020.10.1|
 |Android mobile app|2020.10.03|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Improved reliability of voice commands (for photo capture, moving and scaling windows, and more).
 - Improved reliability and performance of taking photo captures.
@@ -199,7 +356,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Call recording is now also available in group calls.
 - Camera tool was moved from the toolbar into text chat.
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Improvements to the UI for group calling participants list.
 - Improved the view space switching logic for when only one participant is sharing their space in a group call.
@@ -211,9 +368,11 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Improved support for Bluetooth headset on iPads and tablets.
 - Improved annotations toolbar visibility in Teams clients when in calls with mobile devices without augmented reality (AR) support.
 
-## September 2020
+## 2020 Release Wave 1
 
-### Version info
+### September 2020
+
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -221,15 +380,15 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 |iOS mobile app|2020.9.1|
 |Android mobile app|2020.09.04|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Fixed issue with protocol activation when including contact parameter.
 - Fixed issue with call recording in GCC High.
 - Improved app reliability and stability.
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Improvements for showing the tracking lost detection and messaging less frequently.
 - Adjustments for annotations size being too large on certain device screens.
@@ -240,21 +399,17 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Adjustments for landscape screen orientation when in a call between two Dynamics 365 Remote Assist mobile users.
 - Fix for NullReferenceException showing up sometimes during inking and tutorial mode.
 
+### August 2020
 
-
-
-
-## August 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens (1st gen) and 2|211.2007.30002|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Fix for the files shared from Microsoft Teams not downloading on HoloLens. 
 - Fix for the "Snap" voice command not taking a photo in some cases.
@@ -262,21 +417,18 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Fix for the Dynamics 365 Remote Assist video card appearing too close after the call has ended. 
 - Improved application reliability. 
 
+### July 30, 2020
 
-
-
-## July 30, 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.7.30|
 |Android mobile app|2020.07.23|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for not displaying the Dynamics 365 Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
 - Fix for placing the arrow annotation at the incorrect angle for Microsoft Teams desktop or mobile users.
@@ -288,13 +440,9 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Fix for memory issues caused by screen rotation.
 - Improved application memory usage.
 
+### July 2020
 
-
-
-
-## July 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -302,9 +450,9 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 |iOS mobile app|2020.7.1|
 |Android mobile app|2020.06.27|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - A Dynamics 365 Remote Assist HoloLens user using GCC High can successfully join a meeting. 
 -	Fixed bug in group calls on HoloLens (1st gen) where remote collaborators are unable to annotate from Microsoft Teams client.   
@@ -319,7 +467,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 -	Fixed issue causing incorrect states of the previous/next buttons when navigating between pages on Asset list.
 -	Additional miscellaneous bug fixes. 
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Improved incoming call experience for Dynamics 365 Remote Assist mobile users who do not have the app open when a call comes in from Microsoft Teams desktop or mobile clients.
 -	Fix for app crashing on mobile devices without augmented reality (AR) support, especially iPhone 5 and iPhone 6 devices.
@@ -332,21 +480,17 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 -	Fixes for application localization (for example “Retry sign-in” button, “Don’t show again” button and tracking error state messages).
 -	Performance improvements for the application memory usage.
 
+### June 2020
 
-
-
-
-## June 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2|209.2006.11003.0|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens 2
+##### HoloLens 2
 
 - Fixed bug in group calls where remote collaborators are unable to annotate from Microsoft Teams client.
 - Improvements to the Join Meeting feature to select between overlapping meetings.
@@ -357,22 +501,18 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Various fixes to enable users in Egypt to use Dynamics 365 Remote Assist.
 - Incoming calls are now supported for GCC High and DOD.
 
+### May 28 2020
 
-
-
-
-## May 28 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.5.28|
 |Android mobile app|2020.05.22|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for network error “HTTP 401 TeamsChatService.GetMessagesAsync”.
 -	Fix for application not being responsive during launch.
@@ -382,34 +522,26 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 -	Localization improvements.
 -	Accessibility improvements and fixes.
 
+### May 4 2020
 
-
-
-
-## May 4 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.5.7|
 |Android mobile app|2020.05.04|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Improved flighting implementation and enabling per company app customizations.
 - Fix for sign-in problem for users on mobile networks.
 - Improved user feedback questionnaire experience.
 
+### April 2020
 
-
-
-
-## April 2020
-
-### Version info
+#### Version info
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -417,9 +549,9 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 |iOS mobile app|2020.4.1|
 |Android mobile app|2002.03.18|
 
-### Bug fixes
+#### Bug fixes
 
-#### HoloLens (1st gen) and 2
+##### HoloLens (1st gen) and 2
 
 - Fixed various speech command bugs.
 - Improvements to tool tips.
@@ -431,7 +563,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Fixed text chat bug that was causing text chats not to show on HoloLens.
 - Various near-field / far-field interaction fixes.
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - Fix for yellow tracking dots. Yellow tracking dots will not show up on the mobile device screen.
 - Improved quality of annotations placement in the near field of 1 meter (three feet).
@@ -444,21 +576,20 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 - Fixed NullReferenceException showing up during app termination and in the contacts search page.
 - Fix for ArgumentOutOfRange exception showing up when typing text in the text chat.
 
+### 2019 Release Wave 2
 
+### Feburary 27,  2020
 
-
-## Feburary 27,  2020
-
-### Version info
+#### Version info
 
 |Device |Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.02.27|
 |Android mobile app|2020.02.20|
 
-### Bug fixes
+#### Bug fixes
 
-#### iOS and Android mobile app
+##### iOS and Android mobile app
 
 - In low-bandwidth environments with a satellite network of 1000/256 kbps for bandwidth, 600/600ms for latency, and 10% of packet loss, users will not receive an 'Update Check Failed' pop-up and can continue to share their environment.  
 - Users trying the 90-day license-free Dynamics 365 Remote Assist Mobile trial who don't have a Microsoft Teams license (free or paid) will be prompted to sign up for one. After they sign up, the app will recognize their Microsoft Teams account and they can sign in. 

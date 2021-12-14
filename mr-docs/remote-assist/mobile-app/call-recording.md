@@ -16,7 +16,7 @@ With call recording, technicians can comprehensively document their Dynamics 365
 - **Validation** that the maintenance and repair process was completed correctly.
 - **Training material** for their workers.
 
-This feature is only available for **one-to-one or group calls** with Dynamics 365 Remote Assist mobile. After the call recording ends, it's automatically uploaded to **Microsoft Stream**. After the recording is uploaded, all call participants can access it via their Dynamics 365 Remote Assist mobile call text chat or the Microsoft Teams chat. The Dynamics 365 Remote Assist mobile user, who started the call recording, can also see it in their [Microsoft Stream videos folder](https://web.microsoftstream.com/studio/videos).
+This feature is only available for **one-to-one or group calls** with Dynamics 365 Remote Assist mobile. After the call recording ends, it's automatically uploaded to OneDrive for Business. After the recording is uploaded, all call participants can access it via their Dynamics 365 Remote Assist mobile call text chat or the Microsoft Teams chat. The Dynamics 365 Remote Assist mobile user, who started the call recording, can also see it in their OneDrive for Business folder.
 
 The following chart explains which call participant can initiate a call recording in each type of call with a Dynamics 365 Remote Assist mobile user:
 
@@ -29,19 +29,19 @@ The following chart explains which call participant can initiate a call recordin
 
 1. The technician selects the record button to **start** the call recording.
 
-![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the record button.](./media/rec_1.PNG)
+    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the record button.](./media/rec_1.PNG)
 
 2. The technician will receive privacy notification with Microsoft’s privacy policy and the call recording will begin. The notification can be dismissed.
 
-![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the notification that recording has started message.](./media/recorder_2.png)
+    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the notification that recording has started message.](./media/recorder_2.png)
 
 3. During all parts of the call, the technician can see that the call recording is in progress as seen in the **call recording indicator** in the text chat.
 
-![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the text chat and a recording indicator in the top-right corner of the screen.](./media/textchatrecorder.PNG)
+    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the text chat and a recording indicator in the top-right corner of the screen.](./media/textchatrecorder.PNG)
 
-4. The technician can select the record button to **stop** the call recording at any point in their call. Afterwards, both call participants will receive a notification that the call recording will be available in Microsoft Stream. The notification can be dismissed at any time. Once the call recording has been uploaded to Microsoft Stream, both participants can access it through the **Dynamics 365 Remote Assist mobile call text chat**, **Microsoft Teams text chat**, or on the **Microsoft Stream video folder**.
+4. The technician can select the record button to **stop** the call recording at any point in their call. Afterwards, both call participants will receive a notification that the call recording will be available in OneDrive for Business. The notification can be dismissed at any time. Once the call recording has been uploaded to OneDrive for Business, both participants can access it through the **Dynamics 365 Remote Assist mobile call text chat**, **Microsoft Teams text chat**, or from the OneDrive for Business folder.
 
-![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the notification that explains the call recording is being uploaded to Microsoft Stream.](./media/recorder_4.png)
+    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the notification that explains the call recording is being uploaded to Microsoft Stream.](./media/recorder_4.png)
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
