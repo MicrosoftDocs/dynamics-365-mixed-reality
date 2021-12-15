@@ -82,7 +82,7 @@ Next, you'll remove permissions to access asset records from the default role, a
 
      ![Screenshot of Manage User Roles dialog box with roles cleared.](media/restricted-mode-assets-cleared-roles.jpg "Screenshot of Manage User Roles dialog box with roles cleared")
 
-7. Verify that the user can access the desired resources and can’t access assets before making the account available to the end user.
+7. Verify that the user can access the desired resources and can’t access asset records before making the account available to the user.
 
 ## See also
 
