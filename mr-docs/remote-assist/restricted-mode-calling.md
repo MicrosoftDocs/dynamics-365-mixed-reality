@@ -45,6 +45,9 @@ To restrict calling, first you create a new Microsoft Teams policy, and then you
 2. In the left pane, select **Calling policies**, and then select **Add**.
 
     ![Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted.](media/restricted-mode-calling-add-policy.jpg "Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted")
+    
+    > [!NOTE]
+    > [Learn about Microsoft Teams policies supported by Dynamics 365 Remote Assist](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-policies)
 
 3. Enter a name for your policy, turn the **Make private calls** setting to **Off**, and then select **Save**. 
 
