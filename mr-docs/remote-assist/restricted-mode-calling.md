@@ -65,7 +65,7 @@ To restrict calling, first you create a new Microsoft Teams policy, and then you
 
     ![Screenshot of Calling policy list opened.](media/restricted-mode-calling-select-policy.jpg "Screenshot of Calling policy list opened")
 
-   Once the policy takes effect, users will be able to join meetings or receive notifications for meetings already in progresss but they won't be able to initiate calls or receive calls outside of a meeting. They also won't be able to access the contacts list. 
+   Once the policy takes effect, users will be able to join meetings or receive notifications for meetings already in progresss but they won't be able to initiate calls or receive calls outside of a meeting. They also won't be able to search for contacts or access the contacts list. 
 
     > [!NOTE]
     > It can take a few hours for the policy changes to go into effect.
