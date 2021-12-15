@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application.
 ms.author: soanigbo
-ms.date: 09/24/2021
+ms.date: 12/14/2021
 ms.service: crm-online
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user through Teams desktop
@@ -99,6 +99,9 @@ You can search, call, and receive a call from a Dynamics 365 Remote Assist user 
 [Learn more about who can join a group call](mobile-app/making-calls-on-remote-assist-mobile.md).
 
 ## Schedule and join a meeting (with a Dynamics 365 Remote Assist HoloLens user only)
+
+> [!NOTE]
+> Dynamics 365 Remote Assist users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten.  
 
 ### Schedule a meeting ahead of the call
 
