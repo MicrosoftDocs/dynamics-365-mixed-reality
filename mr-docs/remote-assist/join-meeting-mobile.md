@@ -3,7 +3,7 @@ title: Join a meeting from the Dynamics 365 Remote Assist mobile app
 author: amaraanigbo
 description: Learn how to join a meeting from the Dynamics 365 Remote Assist mobile app 
 ms.author: soanigbo
-ms.date: 12/10/2020
+ms.date: 12/14/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -24,6 +24,9 @@ If for some reason you're unable to join the meeting, you may also ask the Teams
 To join a meeting, select **Meeting** from the bottom of the main screen. Upcoming meetings within the next ten minutes are then displayed. Select **Join** next to the meeting to join that meeting.
 
 After you join a meeting, Teams users can add more people to the meeting.
+
+> [!NOTE]
+> Dynamics 365 Remote Assist users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten.  
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
