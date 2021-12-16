@@ -14,13 +14,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 [!INCLUDE[private-preview](../includes/private-preview.md)]
 
-If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Remote Assist users on HoloLens from [accessing asset records](asset-capture-overview.md). If you don't restrict the ability to access asset records, by default, HoloLens users will be able to access them. 
+If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Remote Assist users from [accessing asset records](asset-capture-overview.md). If you don't restrict the ability to access asset records, by default, users will be able to access them. 
 
 When you restrict the ability to access asset records, users of the Remote Assist model-driven app, and users of the HoloLens and mobile app will see a message that says they don't have the appropriate permisssions to access asset records. 
 
 ## Restrict the ability to access asset records
 
-To restrict the ability to access asset records, first make a copy of the default role, and then remove the ability to access assets from the default role. The copied role retains the permissions for accessing asset records. You can assign this copied role to users that **DO** need to be able to access asset records. You'll need to do this for each each environment that the user has access to. 
+To restrict the ability to access asset records, first make a copy of the default role, and then remove the ability to access assets from the default role. The copied role retains the permissions for accessing asset records. You can assign this copied role to users that **DO** need to be able to access asset records. You'll need to do this for each environment that the user has access to. 
 
 ### Make a copy of the default role
 
@@ -82,7 +82,7 @@ Next, you'll remove permissions to access asset records from the default role, a
 
      ![Screenshot of Manage User Roles dialog box with roles cleared.](media/restricted-mode-assets-cleared-roles.jpg "Screenshot of Manage User Roles dialog box with roles cleared")
 
-7. Verify that the user can access the desired resources and can’t access assets before making the account available to the end user.
+7. Verify that the user can access the desired resources and can’t access asset records before making the account available to the user.
 
 ## See also
 

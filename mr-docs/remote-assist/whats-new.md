@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 12/14/2021
+ms.date: 12/15/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -12,6 +12,16 @@ ms.reviewer: v-bholmes
 # What's new in Dynamics 365 Remote Assist
 
 This article describes details about the **current wave of features (October 2021 through March 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
+
+## December 14, 2021
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|307.2112.10002|
+
+### Bug fixed
+
+Fixed problem with precision of remote annotations placed close to the HoloLens user. 
 
 ## December 10, 2021
 
