@@ -5,7 +5,7 @@ ms.author: soanigbo
 ms.date: 04/07/2020
 ms.service: crm-online
 ms.topic: article
-title: How-to videos for Dynamics 365 Remote Assist (Video)  
+title: How-to videos for Dynamics 365 Remote Assist (contains video)  
 ms.reviewer: v-bholmes
 ---
 

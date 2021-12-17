@@ -5,7 +5,7 @@ ms.author: slaw
 ms.date: 12/2/2019
 ms.service: crm-online
 ms.topic: article
-title: How-to videos for Dynamics 365 Layout (Video)
+title: How-to videos for Dynamics 365 Layout (contains video)
 ms.reviewer: v-brycho
 ---
 
