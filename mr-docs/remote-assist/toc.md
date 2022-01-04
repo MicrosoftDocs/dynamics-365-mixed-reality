@@ -35,7 +35,7 @@
 ### Overview and basics
 #### [Overview](mobile-app/remote-assist-mobile-overview.md)
 #### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
-### Make calls and send text messages
+### Make calls, join meetings, and send text messages
 #### [Overview of making calls](mobile-app/making-calls-on-remote-assist-mobile.md)
 #### [Calls in augmented reality](mobile-app/making-calls-with-AR.md)
 #### [Calls between Dynamics 365 Remote Assist mobile users](mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md)
@@ -43,6 +43,7 @@
 #### [Calls without augmented reality support](mobile-app/calls-using-devices-without-AR.md)
 #### [Group calls](mobile-app/group-calling.md)
 #### [Calls in low-bandwidth situations](mobile-app/low-bandwidth-mode.md)
+#### [Join a meeting](join-meeting-mobile.md)
 #### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
 ### Capture photos, videos, and asset conditions
