@@ -16,7 +16,7 @@ You can join a scheduled Microsoft Teams meeting, which can involve any number o
 
 ## Join a meeting
 
-1. Select **Meetings** from the bottom of the main screen. Upcoming meetings within the next ten minutes are then displayed. 
+1. In the **Contacts** screen, select **Meetings** at the bottom of the screen.  
 
     ![Screenshot of the mobile field of view, showing the join meeting option at the bottom.](./media/mobile-meeting.jpg "JoinMeeting")
 
