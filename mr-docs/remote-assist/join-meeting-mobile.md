@@ -1,7 +1,7 @@
 ---
-title: Join a meeting from the Dynamics 365 Remote Assist mobile 
+title: Join a meeting from  Dynamics 365 Remote Assist mobile 
 author: amaraanigbo
-description: Learn how to join a meeting from the Dynamics 365 Remote Assist mobile app 
+description: Learn how to join a meeting from Dynamics 365 Remote Assist mobile  
 ms.author: soanigbo
 ms.date: 12/14/2020
 ms.service: crm-online
@@ -9,8 +9,7 @@ ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
-
-# Join a meeting from the Dynamics 365 Remote Assist mobile 
+# Join a meeting from Dynamics 365 Remote Assist mobile 
 
 A Microsoft Teams meeting is a meeting scheduled using Teams, involving any number of participants. Meetings are useful for maintenance and repairs that are scheduled in advance. It's also useful for inspections and other recurring scenarios.
 
