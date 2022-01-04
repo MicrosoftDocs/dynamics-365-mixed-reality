@@ -19,9 +19,7 @@ A Microsoft Teams meeting is a meeting scheduled using Teams, involving any numb
 
 If for some reason you're unable to join the meeting, you may also ask the Teams user to join the meeting and use the **Open Participants** feature to call you. You'll receive an incoming call notification. Accept the call, and you will join the meeting. 
 
-![Screenshot of the mobile field of view, showing the join meeting option at the bottom.](./media/mobile-meeting.PNG "JoinMeeting")
-![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mobile-meeting.PNG "RAM Toolbar")
-![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
+![Screenshot of the mobile field of view, showing the join meeting option at the bottom.](./media/mobile-meeting.jpg "JoinMeeting")
 
 To join a meeting, select **Meeting** from the bottom of the main screen. Upcoming meetings within the next ten minutes are then displayed. Select **Join** next to the meeting to join that meeting.
 
