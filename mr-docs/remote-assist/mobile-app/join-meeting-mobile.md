@@ -20,7 +20,7 @@ You can join a scheduled Microsoft Teams meeting, which can involve any number o
 
     ![Screenshot of the mobile field of view, showing the join meeting option at the bottom.](./media/mobile-meeting.jpg "JoinMeeting")
 
-2. Select **Join** next to the meeting to join that meeting.
+2. In the **Meetings** screen, select the **Join** button next to the meeting you want to join.
 
 > [!Note]
 > If a remote collaborator joins a meeting, you will not receive a call or notification. You must select **Join Meeting** to join the meeting. In addition, calling the participants involved in a scheduled meeting will not enable you to join the meeting; you must actually join the meeting. 
