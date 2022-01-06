@@ -1,0 +1,88 @@
+## Setup a Dynamics 365 Guides device license
+
+In this article, we’ll walk through how to configure a Dynamics 365 Guides device license.
+
+## Prerequisites
+
+A Guides device license should be configured after you have deployed your Guides solution and apps. You should be familiar with the process of assigning licenses, 
+assigning roles, and creating guides for use by operators. Note that a device license is limited to operating a guide and you need a working environment to test 
+your device license.
+
+## Create a shared account
+
+A Guides device license must be assigned to a shared Active Directory user account. A shared account is just like a regular user account except it will be shared by all 
+people using Guides on a specific HoloLens device. Since the account will be shared by multiple people, you will manage credentials and other account details differently 
+than regular accounts.
+
+1. Open the Microsoft 365 admin center.
+
+2. In the left pane, select Users, and then select Active users.
+
+3. On the Active users page, select Add a user.
+ 
+   SCREEN SHOT GOES HERE
+   
+4. On the Set up the basics page, fill in the first name, last name, display name and username of the shared user account. Since this account will not be tied to a specific user, you may want to identify the user by location name, device name, etc.
+
+5. Since this is a shared account, select Let me create the password and uncheck Require this user to change their password when they first sign-in. You should set the shared password now because otherwise the first operator using the account will be prompted to select a password.
+ 
+6. On the Assign product licenses page, select the location for the shared account, and then, under Licenses, select the Dynamics 365 Guides Device check box. When you've finished, select Next.
+ 
+7. On the Optional settings page, leave the User (no administrator access) check box selected. A shared operator account should not have administrator privileges.
+ 
+8. Scroll down, expand the Profile info section, and fill in any profile information that will help you manage the shared account. When you've finished, select Next.
+ 
+9. Review the information on the last page. To make changes, select the Edit button below the relevant sections. When you've finished, select Finish Adding.
+ 
+10.	If you selected the Auto-generate password option in step 4, make a note of the password. You will need this password to sign in.
+ 
+11. Select Close.
+
+## Assign an operator role to the shared account
+
+Next you must assign either the Operator or Restricted Operator role to the shared account. This will give the account permission to use the HoloLens app to view and 
+operate a guide. Learn about the Author and Operator user roles and review the differences between the two roles. The main difference is that Restricted Operator is 
+limited to guides that are explicitly shared or assigned to the account by an author. The regular Operator role gives access to all guides and content in the environment. 
+When ready, follow the instructions to assign an operator role to a user. The process is no different than a regular user account.
+
+## Grant access to a restricted environment (optional)
+
+If you restricted your Microsoft Dataverse environment as described in Restrict access to an environment in Dynamics 365 Guides by using security groups, be sure to add the 
+shared account the security group. For more information, see Control user access to environments: security groups and licenses.
+
+## Test the Device License
+
+You should test the device license by operating a guide on the HoloLens with the shared account. This will also validate your password and optionally cache the credentials for 
+use by your operators.
+
+1. If you need to create a test guide, sign into the PC app with an author or admin account so you can create a guide. For quick testing, anchor the guide using a 
+holographic anchor since this type of anchor doesn’t require a QR code printout.
+
+2. Make sure your shared account has access to the test guide. This should happen automatically if you assigned the Operator role the shared account. Otherwise assign or 
+share the guide.
+
+3. Put on your HoloLens headset and sign in to the Dynamics 365 Guides HoloLens app using the shared operator account.
+
+4. Since this will be the first time using the shared account, you may get prompted to reset the password (depending on how you setup the account). Resolve any prompts and 
+then find and open the guide.
+
+5. You should see the guide open and prompt you to set the holographic anchor. If you reach this stage, then your shared operator account is setup properly.
+
+## Troubleshooting:
+
+- If you get a login error, confirm the shared account has been assigned the device license, and has been assigned the Basic User and Operator or Restricted Operator roles. 
+
+- If you cannot find the guide, you probably need to assign or share the guide to the shared account.
+
+- If you get prompted to select Author or Operator, you probably assigned an incorrect role to the account, or you are not logged into the app with the right account.
+
+## Frequently Asked Questions
+
+Can I author a guide with a Guides device license?
+No. A Guides device license can be used to operate a guide but cannot be used to author a guide.
+Can a Guides device license be shared with multiple devices?
+No. Each device using Guides needs its own device license.
+Does a Guides device license provide the same database capacity as a Guides user license?
+Yes. The device license will provide the same additional capacity as each user license. 
+Where can I learn more about Guides licensing?
+Refer to the Dynamics 365 Licensing Guide.
