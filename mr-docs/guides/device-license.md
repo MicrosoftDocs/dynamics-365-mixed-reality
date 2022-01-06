@@ -74,21 +74,28 @@ then [find and open the guide](find-guide.md).
 
 5. You should see the guide open and prompt you to set the holographic anchor. If you reach this stage, then your shared operator account is setup properly.
 
-## Troubleshooting:
+## Troubleshooting
 
-- If you get a login error, confirm the shared account has been assigned the device license, and has been assigned the Basic User and Operator or Restricted Operator roles. 
+- If you get a sign in error, confirm the shared account has been assigned the device license, and has been assigned the Basic User and Operator or Restricted Operator roles. 
 
-- If you cannot find the guide, you probably need to assign or share the guide to the shared account.
+- If you can't find the guide, you probably need to [assign](admin-access-assign.md) or [share](admin-access-teams.md) the guide to the shared account.
 
-- If you get prompted to select Author or Operator, you probably assigned an incorrect role to the account, or you are not logged into the app with the right account.
+- If you're prompted to select **Author** or **Operator**, you probably assigned an incorrect role to the account, or you are not logged into the app with the right account.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
-Can I author a guide with a Guides device license?
+### Can I author a guide with a Guides device license?
+
 No. A Guides device license can be used to operate a guide but cannot be used to author a guide.
-Can a Guides device license be shared with multiple devices?
+
+### Can a Guides device license be shared with multiple devices?
+
 No. Each device using Guides needs its own device license.
-Does a Guides device license provide the same database capacity as a Guides user license?
+
+### Does a Guides device license provide the same database capacity as a Guides user license?
+
 Yes. The device license will provide the same additional capacity as each user license. 
-Where can I learn more about Guides licensing?
-Refer to the Dynamics 365 Licensing Guide.
+
+### Where can I learn more about Guides licensing?
+
+Refer to the [Dynamics 365 Licensing Guide](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
