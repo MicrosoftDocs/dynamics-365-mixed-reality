@@ -47,7 +47,7 @@ people using Dynamics 365 Guides on a specific HoloLens device. Since the accoun
 
     ![Screenshot of profile information.](media/device-license-profile.jpg "Screenshot of profile information")
  
-8. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you're finished, select **Finish Adding**.
+8. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you're finished, select **Finish adding**.
 
    ![Screenshot of review and finish adding page.](media/device-license-review.jpg "Screenshot of review and finish adding page")
  
