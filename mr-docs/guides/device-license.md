@@ -21,7 +21,7 @@ your device license.
 ## Create a shared account
 
 A Dynamics 365 Guides device license must be assigned to a shared Active Directory user account. A shared account is just like a regular user account except it's shared by all 
-people using Dynamics 365 Guides on a specific HoloLens device. Since the account will be shared by multiple people, you manage credentials and other account details differently than regular accounts.
+people using Dynamics 365 Guides on a specific HoloLens device. Since the account is shared by multiple people, you manage credentials and other account details differently than regular accounts.
 
 1. [Open the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
