@@ -71,7 +71,7 @@ Make sure to test the device license by operating a guide on the HoloLens with t
 
 - If you need to create a test guide, [sign into the PC app with an author or admin account](install-sign-in-pc-app.md#sign-in-to-the-app) so you can create a guide. For quick testing, [anchor the guide using a holographic anchor](pc-app-anchor-holographic.md) since this type of anchor doesn’t require a QR code printout.
 
-- Make sure your shared account has access to the test guide. This should happen automatically if you assigned the Operator role the shared account. Otherwise [assign](admin-access-assign.md) or [share](admin-access-teams.md) the guide.
+- Make sure your shared account has access to the test guide. This should happen automatically if you assigned the **Restricted Operator** or **Operator** role to the shared account. Otherwise [assign](admin-access-assign.md) or [share](admin-access-teams.md) the guide.
 
 - Put on your HoloLens and [sign in to the Dynamics 365 Guides HoloLens app](hololens-app-install-sign-in.md) using the shared operator account.
 
