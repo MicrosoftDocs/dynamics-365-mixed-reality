@@ -22,7 +22,7 @@ The following table lists technical requirements for deploying and using [!inclu
 | A computer (PC) that is running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 (required to create guides) | x64 | A PC that runs [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 with build 10.0.17134 (April 2018 Update 1803) or later.<br><br>**Minimum resolution**. Dynamics 365 Guides supports a minimum effective resolution of 800 x 600 pixels before information loss.  | A PC that runs [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 is used to create and edit guides that will then be available on [!include[pn-hololens](../includes/pn-hololens.md)]. |
 
 > [!TIP]
-> [You can set up a device license for multiple users on a single HoloLens device](device-license.md). 
+> [You can set up a device license for multiple operators on a single HoloLens device](device-license.md). 
 
 ## Requirements for services, apps, and features
 
