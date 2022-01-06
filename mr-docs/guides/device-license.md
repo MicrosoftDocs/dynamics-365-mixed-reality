@@ -1,10 +1,10 @@
-## Setup a Dynamics 365 Guides device license
+## Set up a Dynamics 365 Guides device license
 
 In this article, we’ll walk through how to configure a Dynamics 365 Guides device license.
 
 ## Prerequisites
 
-A Guides device license should be configured after you have deployed your Guides solution and apps. You should be familiar with the process of assigning licenses, 
+A Dynamics 365 Guides device license should be configured after you have deployed your Guides solution and apps. You should be familiar with the process of assigning licenses, 
 assigning roles, and creating guides for use by operators. Note that a device license is limited to operating a guide and you need a working environment to test 
 your device license.
 
@@ -25,16 +25,28 @@ than regular accounts.
 4. On the Set up the basics page, fill in the first name, last name, display name and username of the shared user account. Since this account will not be tied to a specific user, you may want to identify the user by location name, device name, etc.
 
 5. Since this is a shared account, select Let me create the password and uncheck Require this user to change their password when they first sign-in. You should set the shared password now because otherwise the first operator using the account will be prompted to select a password.
+
+    SCREEN SHOT GOES HERE
  
 6. On the Assign product licenses page, select the location for the shared account, and then, under Licenses, select the Dynamics 365 Guides Device check box. When you've finished, select Next.
+
+    SCREEN SHOT GOES HERE
  
 7. On the Optional settings page, leave the User (no administrator access) check box selected. A shared operator account should not have administrator privileges.
+
+    SCREEN SHOT GOES HERE
  
 8. Scroll down, expand the Profile info section, and fill in any profile information that will help you manage the shared account. When you've finished, select Next.
+
+    SCREEN SHOT GOES HERE
  
 9. Review the information on the last page. To make changes, select the Edit button below the relevant sections. When you've finished, select Finish Adding.
+
+    SCREEN SHOT GOES HERE
  
 10.	If you selected the Auto-generate password option in step 4, make a note of the password. You will need this password to sign in.
+
+    SCREEN SHOT GOES HERE
  
 11. Select Close.
 
