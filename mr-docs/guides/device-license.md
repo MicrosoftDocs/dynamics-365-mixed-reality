@@ -13,48 +13,46 @@ your device license.
 A Dynamics 365 Guides device license must be assigned to a shared Active Directory user account. A shared account is just like a regular user account except it's shared by all 
 people using Dynamics 365 Guides on a specific HoloLens device. Since the account will be shared by multiple people, you manage credentials and other account details differently than regular accounts.
 
-1. Open the Microsoft 365 admin center.
+1. [Open the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
-2. In the left pane, select Users, and then select Active users.
+2. In the left pane, select **Users**, and then select **Active users**.
 
-3. On the Active users page, select Add a user.
+3. On the **Active users** page, select **Add a user**.
  
    SCREEN SHOT GOES HERE
    
-4. On the Set up the basics page, fill in the first name, last name, display name and username of the shared user account. Since this account will not be tied to a specific user, you may want to identify the user by location name, device name, etc.
+4. On the **Set up the basics** page, fill in the first name, last name, display name, and username of the shared user account. Since this account will not be tied to a specific user, you may want to identify the user by location name, device name, and so on.
 
-5. Since this is a shared account, select Let me create the password and uncheck Require this user to change their password when they first sign-in. You should set the shared password now because otherwise the first operator using the account will be prompted to select a password.
-
-    SCREEN SHOT GOES HERE
- 
-6. On the Assign product licenses page, select the location for the shared account, and then, under Licenses, select the Dynamics 365 Guides Device check box. When you've finished, select Next.
+5. Since this is a shared account, select the **Let me create the password** check box and clear the **Require this user to change their password when they first sign-in** check box. You should set the shared password now. Otherwise, the first operator using the account will be prompted to select a password.
 
     SCREEN SHOT GOES HERE
  
-7. On the Optional settings page, leave the User (no administrator access) check box selected. A shared operator account should not have administrator privileges.
+6. On the **Assign product licenses** page, select the location for the shared account, and then, under **Licenses**, select the **Dynamics 365 Guides Device** check box. When you've finished, select **Next**.
 
     SCREEN SHOT GOES HERE
  
-8. Scroll down, expand the Profile info section, and fill in any profile information that will help you manage the shared account. When you've finished, select Next.
+7. On the **Optional settings** page, leave the **User (no administrator access)** check box selected. A shared operator account should not have administrator privileges.
 
     SCREEN SHOT GOES HERE
  
-9. Review the information on the last page. To make changes, select the Edit button below the relevant sections. When you've finished, select Finish Adding.
+8. Scroll down, expand the **Profile info** section, and fill in any profile information that will help you manage the shared account. When you've finished, select **Next**.
 
     SCREEN SHOT GOES HERE
  
-10.	If you selected the Auto-generate password option in step 4, make a note of the password. You will need this password to sign in.
+9. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish Adding**.
 
     SCREEN SHOT GOES HERE
  
-11. Select Close.
+10.	If you selected the **Auto-generate password** option in step 4, make a note of the password. You will need this password to sign in.
+
+    SCREEN SHOT GOES HERE
+ 
+11. Select **Close**.
 
 ## Assign an operator role to the shared account
 
-Next you must assign either the Operator or Restricted Operator role to the shared account. This will give the account permission to use the HoloLens app to view and 
-operate a guide. Learn about the Author and Operator user roles and review the differences between the two roles. The main difference is that Restricted Operator is 
-limited to guides that are explicitly shared or assigned to the account by an author. The regular Operator role gives access to all guides and content in the environment. 
-When ready, follow the instructions to assign an operator role to a user. The process is no different than a regular user account.
+Next you must assign either the **Operator** or **Restricted Operator** role to the shared account. This will give the account permission to use the HoloLens app to view and 
+operate a guide. [Learn about the Author and Operator user roles](admin-role-types.md) and review the differences between the two roles. The main difference is that Restricted Operator is limited to guides that are explicitly shared or assigned to the account by an author. The regular Operator role gives access to all guides and content in the environment. When ready, follow the instructions to [assign an operator role to a user](assign-role.md#assign-roles-to-a-user). The process is no different than a regular user account.
 
 ## Grant access to a restricted environment (optional)
 
