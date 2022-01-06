@@ -25,39 +25,37 @@ people using Dynamics 365 Guides on a specific HoloLens device. Since the accoun
 
 1. [Open the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
-2. In the left pane, select **Users**, and then select **Active users**.
-
-3. On the **Active users** page, select **Add a user**.
+2. In the left pane, select **Users** > **Active users**, and then select **Add a user**.
  
    ![Screenshot of Active users page.](media/device-license-active-users.jpg "Screenshot of Active users page")
    
-4. On the **Set up the basics** page, fill in the first name, last name, display name, and username of the shared user account. Since this account will not be tied to a specific user, you may want to identify the user by location name, device name, and so on.
+3. On the **Set up the basics** page, fill in the first name, last name, display name, and username of the shared user account. Since this account will not be tied to a specific user, you may want to identify the user by location name, device name, and so on.
 
-5. Since this is a shared account, select the **Let me create the password** check box and clear the **Require this user to change their password when they first sign-in** check box. You should set the shared password now. Otherwise, the first operator using the account will be prompted to select a password.
+4. Since this is a shared account, select the **Let me create the password** check box and clear the **Require this user to change their password when they first sign-in** check box. You should set the shared password now. Otherwise, the first operator using the account will be prompted to select a password.
 
     ![Screenshot of Set up the basics page.](media/device-license-set-up-basics.jpg "Screenshot of Set up the basics page")
  
-6. On the **Assign product licenses** page, select the location for the shared account, and then, under **Licenses**, select the **Dynamics 365 Guides Device** check box. When you've finished, select **Next**.
+5. On the **Assign product licenses** page, select the location for the shared account, and then, under **Licenses**, select the **Dynamics 365 Guides Device** check box. When you've finished, select **Next**.
 
     ![Screenshot of Assign product licenses page.](media/device-license-assign-product-licenses.jpg "Screenshot of Assign product licenses page")
  
-7. On the **Optional settings** page, leave the **User (no administrator access)** check box selected. A shared operator account should not have administrator privileges.
+6. On the **Optional settings** page, leave the **User (no administrator access)** check box selected. A shared operator account should not have administrator privileges.
 
     ![Screenshot of Optional settings page.](media/device-license-optional-settings.jpg "Screenshot of Optional settings page")
  
-8. Scroll down, expand the **Profile info** section, and fill in any profile information that will help you manage the shared account. When you've finished, select **Next**.
+7. Scroll down, expand the **Profile info** section, and fill in any profile information that will help you manage the shared account. When you've finished, select **Next**.
 
     ![Screenshot of profile information.](media/device-license-profile.jpg "Screenshot of profile information")
  
-9. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish Adding**.
+8. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish Adding**.
 
    ![Screenshot of review and finish adding page.](media/device-license-review.jpg "Screenshot of review and finish adding page")
  
-10.	If you selected the **Auto-generate password** option in step 4, make a note of the password. You will need this password to sign in.
+9.	If you selected the **Auto-generate password** option in step 4, make a note of the password. You will need this password to sign in.
 
     ![Screenshot with password highlighted.](media/device-license-password.jpg "Screenshot with password highlighted")
  
-11. Select **Close**.
+10. Select **Close**.
 
 ## Assign an operator role to the shared account
 
