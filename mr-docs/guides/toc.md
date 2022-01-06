@@ -16,7 +16,7 @@
 #### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
 ### Licenses
 #### [Licensing requirements](requirements.md)
-#### [Set up a device license](device-license.md)
+#### [Set up a device license for multiple operators](device-license.md)
 ### Users, roles, ownership, and access
 #### [Add users](add-users.md)
 #### Assign user roles
