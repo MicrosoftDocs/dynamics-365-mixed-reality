@@ -107,5 +107,5 @@ Yes. The device license provides the same additional capacity as each user licen
 Refer to the following topics:
 
 - [Dynamics 365 Licensing Guide](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)
-- [Dynamics 365 device and licensing requirements](requirements.md)
+- [Licensing requirements](requirements.md)
 
