@@ -19,33 +19,33 @@ people using Dynamics 365 Guides on a specific HoloLens device. Since the accoun
 
 3. On the **Active users** page, select **Add a user**.
  
-   ![XXX.](media/device-license-.JPG "XXX")
+   ![Screenshot of Active users page.](media/device-license-active-users.JPG "Screenshot of Active users page")
    
 4. On the **Set up the basics** page, fill in the first name, last name, display name, and username of the shared user account. Since this account will not be tied to a specific user, you may want to identify the user by location name, device name, and so on.
 
 5. Since this is a shared account, select the **Let me create the password** check box and clear the **Require this user to change their password when they first sign-in** check box. You should set the shared password now. Otherwise, the first operator using the account will be prompted to select a password.
 
-    ![XXX.](media/device-license-.JPG "XXX")
+    ![Screenshot of Set up the basics page.](media/device-license-set-up-basics.JPG "Screenshot of Set up the basics page")
  
 6. On the **Assign product licenses** page, select the location for the shared account, and then, under **Licenses**, select the **Dynamics 365 Guides Device** check box. When you've finished, select **Next**.
 
-    ![XXX.](media/device-license-.JPG "XXX")
+    ![Screenshot of Assign product licenses page.](media/device-license-assign-product-licenses.JPG "Screenshot of Assign product licenses page")
  
 7. On the **Optional settings** page, leave the **User (no administrator access)** check box selected. A shared operator account should not have administrator privileges.
 
-    ![XXX.](media/device-license-.JPG "XXX")
+    ![Screenshot of Optional settings page.](media/device-license-optional-settings.JPG "Screenshot of Optional settings page")
  
 8. Scroll down, expand the **Profile info** section, and fill in any profile information that will help you manage the shared account. When you've finished, select **Next**.
 
-    ![XXX.](media/device-license-.JPG "XXX")
+    ![Screenshot of profile information.](media/device-license-profile.JPG "Screenshot of profile information")
  
 9. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish Adding**.
 
-   ![XXX.](media/device-license-.JPG "XXX")
+   ![Screenshot of review and finish adding page.](media/device-license-review.JPG "Screenshot of review and finish adding page")
  
 10.	If you selected the **Auto-generate password** option in step 4, make a note of the password. You will need this password to sign in.
 
-    ![XXX.](media/device-license-.JPG "XXX")
+    ![Screenshot with password highlighted.](media/device-license-password.JPG "Screenshot with password highlighted")
  
 11. Select **Close**.
 
