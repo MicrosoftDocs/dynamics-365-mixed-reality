@@ -29,11 +29,11 @@ people using Dynamics 365 Guides on a specific HoloLens device. Since the accoun
  
    ![Screenshot of Active users page.](media/device-license-active-users.jpg "Screenshot of Active users page")
    
-3. On the **Set up the basics** page, fill in the first name, last name, display name, and username of the shared user account. Since this account will not be tied to a specific user, you may want to identify the user by location name, device name, and so on.
+3. On the **Set up the basics** page, fill in the first name, last name, display name, and username of the shared user account. Since this account is not tied to a specific user, you may want to identify the user by location name, device name, and so on.
 
-4. Since this is a shared account, select the **Let me create the password** check box and clear the **Require this user to change their password when they first sign-in** check box. You should set the shared password now. Otherwise, the first operator using the account will be prompted to select a password.
+   ![Screenshot of Set up the basics page.](media/device-license-set-up-basics.jpg "Screenshot of Set up the basics page")
 
-    ![Screenshot of Set up the basics page.](media/device-license-set-up-basics.jpg "Screenshot of Set up the basics page")
+4. Since this is a shared account, you'll want to set a shared password. Otherwise, the first operator using the account will be prompted to select a password. To set the shared password, select the **Let me create the password** check box and clear the **Require this user to change their password when they first sign-in** check box.    
  
 5. On the **Assign product licenses** page, select the location for the shared account, and then, under **Licenses**, select the **Dynamics 365 Guides Device** check box. When you've finished, select **Next**.
 
