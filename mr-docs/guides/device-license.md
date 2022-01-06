@@ -19,33 +19,33 @@ people using Dynamics 365 Guides on a specific HoloLens device. Since the accoun
 
 3. On the **Active users** page, select **Add a user**.
  
-   SCREEN SHOT GOES HERE
+   ![XXX.](media/device-license-.JPG "XXX")
    
 4. On the **Set up the basics** page, fill in the first name, last name, display name, and username of the shared user account. Since this account will not be tied to a specific user, you may want to identify the user by location name, device name, and so on.
 
 5. Since this is a shared account, select the **Let me create the password** check box and clear the **Require this user to change their password when they first sign-in** check box. You should set the shared password now. Otherwise, the first operator using the account will be prompted to select a password.
 
-    SCREEN SHOT GOES HERE
+    ![XXX.](media/device-license-.JPG "XXX")
  
 6. On the **Assign product licenses** page, select the location for the shared account, and then, under **Licenses**, select the **Dynamics 365 Guides Device** check box. When you've finished, select **Next**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX.](media/device-license-.JPG "XXX")
  
 7. On the **Optional settings** page, leave the **User (no administrator access)** check box selected. A shared operator account should not have administrator privileges.
 
-    SCREEN SHOT GOES HERE
+    ![XXX.](media/device-license-.JPG "XXX")
  
 8. Scroll down, expand the **Profile info** section, and fill in any profile information that will help you manage the shared account. When you've finished, select **Next**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX.](media/device-license-.JPG "XXX")
  
 9. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish Adding**.
 
-    SCREEN SHOT GOES HERE
+   ![XXX.](media/device-license-.JPG "XXX")
  
 10.	If you selected the **Auto-generate password** option in step 4, make a note of the password. You will need this password to sign in.
 
-    SCREEN SHOT GOES HERE
+    ![XXX.](media/device-license-.JPG "XXX")
  
 11. Select **Close**.
 
