@@ -58,21 +58,19 @@ operate a guide. [Learn about the Author and Operator user roles](admin-role-typ
 
 If you restricted your Microsoft Dataverse environment as described in [Restrict access to an environment in Dynamics 365 Guides by using security groups](admin-security.md), be sure to add the shared account the security group. For more information, see [Control user access to environments: security groups and licenses](https://docs.microsoft.com/power-platform/admin/control-user-access).
 
-## Test the Device License
+## Test the device license
 
 You should test the device license by operating a guide on the HoloLens with the shared account. This will also validate your password and optionally cache the credentials for 
 use by your operators.
 
-1. If you need to create a test guide, sign into the PC app with an author or admin account so you can create a guide. For quick testing, anchor the guide using a 
-holographic anchor since this type of anchor doesn’t require a QR code printout.
+1. If you need to create a test guide, [sign into the PC app with an author or admin account](install-sign-in-pc-app.md#sign-in-to-the-app) so you can create a guide. For quick testing, [anchor the guide using a holographic anchor](pc-app-anchor-holographic.md) since this type of anchor doesn’t require a QR code printout.
 
-2. Make sure your shared account has access to the test guide. This should happen automatically if you assigned the Operator role the shared account. Otherwise assign or 
-share the guide.
+2. Make sure your shared account has access to the test guide. This should happen automatically if you assigned the Operator role the shared account. Otherwise [assign](admin-access-assign.md) or [share](admin-access-teams.md) the guide.
 
-3. Put on your HoloLens headset and sign in to the Dynamics 365 Guides HoloLens app using the shared operator account.
+3. Put on your HoloLens and [sign in to the Dynamics 365 Guides HoloLens app](hololens-app-install-sign-in.md) using the shared operator account.
 
 4. Since this will be the first time using the shared account, you may get prompted to reset the password (depending on how you setup the account). Resolve any prompts and 
-then find and open the guide.
+then [find and open the guide](find-guide.md).
 
 5. You should see the guide open and prompt you to set the holographic anchor. If you reach this stage, then your shared operator account is setup properly.
 
