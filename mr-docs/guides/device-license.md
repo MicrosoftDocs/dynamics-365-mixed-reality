@@ -51,7 +51,7 @@ people using Dynamics 365 Guides on a specific HoloLens device. Since the accoun
 
    ![Screenshot of review and finish adding page.](media/device-license-review.jpg "Screenshot of review and finish adding page")
  
-9.	If you selected the **Auto-generate password** option in step 4, make a note of the password. You'll need this password to sign in.
+9.	If you selected the **Auto-generate password** option in step 4, make a note of the password. You (and the guide operators) will need this password to sign in.
 
     ![Screenshot with password highlighted.](media/device-license-password.jpg "Screenshot with password highlighted")
  
@@ -59,17 +59,15 @@ people using Dynamics 365 Guides on a specific HoloLens device. Since the accoun
 
 ## Assign an operator role to the shared account
 
-Next you must assign either the **Operator** or **Restricted Operator** role to the shared account. This will give the account permission to use the HoloLens app to view and 
-operate a guide. [Learn about the Author and Operator user roles](admin-role-types.md) and review the differences between the two roles. The main difference is that Restricted Operator is limited to guides that are explicitly shared or assigned to the account by an author. The regular Operator role gives access to all guides and content in the environment. When ready, follow the instructions to [assign an operator role to a user](assign-role.md#assign-roles-to-a-user). The process is no different than a regular user account.
+Next, you must assign either the **Operator** or **Restricted Operator** role to the shared account. Assigning a role gives the account permission to use the HoloLens app to view and operate a guide. [Learn about the Author and Operator user roles](admin-role-types.md). The main difference between the two operator roles is that operators with the **Restricted Operator** role can access only guides that are explicitly shared or assigned to the account by an author. The **Operator** role provides access to all guides and content in the environment. When ready, follow the instructions to [assign an operator role to a user](assign-role.md#assign-roles-to-a-user). The process is no different than a regular user account.
 
 ## Grant access to a restricted environment (optional)
 
-If you restricted your Microsoft Dataverse environment as described in [Restrict access to an environment in Dynamics 365 Guides by using security groups](admin-security.md), be sure to add the shared account the security group. For more information, see [Control user access to environments: security groups and licenses](https://docs.microsoft.com/power-platform/admin/control-user-access).
+If you restricted your Microsoft Dataverse environment as described in [Restrict access to an environment in Dynamics 365 Guides by using security groups](admin-security.md), be sure to add the shared account to the security group. For more information, see [Control user access to environments: security groups and licenses](https://docs.microsoft.com/power-platform/admin/control-user-access).
 
 ## Test the device license
 
-You should test the device license by operating a guide on the HoloLens with the shared account. This will also validate your password and optionally cache the credentials for 
-use by your operators.
+Make sure to test the device license by operating a guide on the HoloLens with the shared account. This will also validate your password and optionally cache the credentials for use by your operators.
 
 1. If you need to create a test guide, [sign into the PC app with an author or admin account](install-sign-in-pc-app.md#sign-in-to-the-app) so you can create a guide. For quick testing, [anchor the guide using a holographic anchor](pc-app-anchor-holographic.md) since this type of anchor doesn’t require a QR code printout.
 
