@@ -56,8 +56,7 @@ operate a guide. [Learn about the Author and Operator user roles](admin-role-typ
 
 ## Grant access to a restricted environment (optional)
 
-If you restricted your Microsoft Dataverse environment as described in Restrict access to an environment in Dynamics 365 Guides by using security groups, be sure to add the 
-shared account the security group. For more information, see Control user access to environments: security groups and licenses.
+If you restricted your Microsoft Dataverse environment as described in [Restrict access to an environment in Dynamics 365 Guides by using security groups](admin-security.md), be sure to add the shared account the security group. For more information, see [Control user access to environments: security groups and licenses](https://docs.microsoft.com/power-platform/admin/control-user-access).
 
 ## Test the Device License
 
