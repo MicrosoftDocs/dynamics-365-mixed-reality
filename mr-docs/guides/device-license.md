@@ -51,7 +51,7 @@ people using Dynamics 365 Guides on a specific HoloLens device. Since the accoun
 
    ![Screenshot of review and finish adding page.](media/device-license-review.jpg "Screenshot of review and finish adding page")
  
-9.	If you selected the **Auto-generate password** option in step 4, make a note of the password. You will need this password to sign in.
+9.	If you selected the **Auto-generate password** option in step 4, make a note of the password. You'll need this password to sign in.
 
     ![Screenshot with password highlighted.](media/device-license-password.jpg "Screenshot with password highlighted")
  
