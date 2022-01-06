@@ -75,33 +75,37 @@ Make sure to test the device license by operating a guide on the HoloLens with t
 
 3. Put on your HoloLens and [sign in to the Dynamics 365 Guides HoloLens app](hololens-app-install-sign-in.md) using the shared operator account.
 
-4. Since this will be the first time using the shared account, you may get prompted to reset the password (depending on how you setup the account). Resolve any prompts and 
+4. Since this will be the first time using the shared account, you may get prompted to reset the password (depending on how you set up the account). Respond to any prompts, and 
 then [find and open the guide](find-guide.md).
 
-5. You should see the guide open and prompt you to set the holographic anchor. If you reach this stage, then your shared operator account is setup properly.
+5. When the guide opens, you'll be prompted to set the holographic anchor. If you reach this stage, your shared operator account is set up correctly.
 
 ## Troubleshooting
 
-- If you get a sign in error, confirm the shared account has been assigned the device license, and has been assigned the Basic User and Operator or Restricted Operator roles. 
+- If you receive a sign-in error, confirm the shared account has been assigned the device license, and has been assigned the **Basic User** role and the **Operator** or **Restricted Operator** role. 
 
 - If you can't find the guide, you probably need to [assign](admin-access-assign.md) or [share](admin-access-teams.md) the guide to the shared account.
 
-- If you're prompted to select **Author** or **Operator**, you probably assigned an incorrect role to the account, or you are not logged into the app with the right account.
+- If you're prompted to select **Author** or **Operator**, you probably assigned an incorrect role to the account, or you're not signed into the app with the right account.
 
 ## Frequently asked questions
 
-### Can I author a guide with a Guides device license?
+### Can I author a guide with a Dynamics 365 Guides device license?
 
-No. A Guides device license can be used to operate a guide but cannot be used to author a guide.
+No. A Dynamics 365 Guides device license can be used to operate a guide but not to author a guide.
 
 ### Can a Guides device license be shared with multiple devices?
 
-No. Each device using Guides needs its own device license.
+No. Each device using Dynamics 365 Guides needs its own device license.
 
-### Does a Guides device license provide the same database capacity as a Guides user license?
+### Does a Guides device license provide the same database capacity as a Dynamics 365 Guides user license?
 
-Yes. The device license will provide the same additional capacity as each user license. 
+Yes. The device license provides the same additional capacity as each user license. 
 
-### Where can I learn more about Guides licensing?
+### Where can I learn more about Dynamics 365 Guides licensing?
 
-Refer to the [Dynamics 365 Licensing Guide](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
+Refer to the following topics:
+
+- [Dynamics 365 Licensing Guide](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)
+- [Dynamics 365 device and licensing requirements](requirements.md)
+
