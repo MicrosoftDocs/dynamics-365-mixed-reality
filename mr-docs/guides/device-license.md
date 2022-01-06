@@ -8,7 +8,7 @@ title: Set up a Dynamics 365 Guides device license
 ms.reviewer: v-bholmes
 ---
 
-# Set up a Dynamics 365 Guides device license
+# Set up a Dynamics 365 Guides device license for multiple operators
 
 In this article, we’ll walk through how to configure a Dynamics 365 Guides device license.
 
