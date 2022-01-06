@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the device and licensing requirements for installing and using Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 01/07/2022
 ms.topic: article
 title: Device and licensing requirements for Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -59,9 +59,10 @@ Dynamics 365 Remote Assist and Dynamics 365 Guides do not currently comply with 
 
 The Dynamics 365 Remote Assist, Teams, and Dataverse licenses must be assigned to a native member of the tenant ([Azure AD member](/azure/active-directory/fundamentals/users-default-permissions#member-and-guest-users) account). Dynamics 365 Remote Assist does not support [Azure AD B2B](/azure/active-directory/external-identities/what-is-b2b); an individual cannot sign into Dynamics 365 Remote Assist using a Dynamics 365 Remote Assist license assigned to an Azure AD guest account. 
 
-## What's next
+## See also
 
-[Setup overview](setup.md)
+- [Setup overview](setup.md)
+- [Set up a device license for multiple operators](device-license.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
