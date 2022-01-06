@@ -4,15 +4,14 @@ In this article, we’ll walk through how to configure a Dynamics 365 Guides dev
 
 ## Prerequisites
 
-A Dynamics 365 Guides device license should be configured after you have deployed your Guides solution and apps. You should be familiar with the process of assigning licenses, 
+A Dynamics 365 Guides device license should be configured after you have [deployed your Guides solution and apps](setup.md). You should be familiar with the process of assigning licenses, 
 assigning roles, and creating guides for use by operators. Note that a device license is limited to operating a guide and you need a working environment to test 
 your device license.
 
 ## Create a shared account
 
-A Guides device license must be assigned to a shared Active Directory user account. A shared account is just like a regular user account except it will be shared by all 
-people using Guides on a specific HoloLens device. Since the account will be shared by multiple people, you will manage credentials and other account details differently 
-than regular accounts.
+A Dynamics 365 Guides device license must be assigned to a shared Active Directory user account. A shared account is just like a regular user account except it's shared by all 
+people using Dynamics 365 Guides on a specific HoloLens device. Since the account will be shared by multiple people, you manage credentials and other account details differently than regular accounts.
 
 1. Open the Microsoft 365 admin center.
 
