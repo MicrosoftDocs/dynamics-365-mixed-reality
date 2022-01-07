@@ -8,9 +8,12 @@ title: Set up a Dynamics 365 Guides device license
 ms.reviewer: v-bholmes
 ---
 
-# Set up a Dynamics 365 Guides device license for multiple operators
+# Set up a Dynamics 365 Guides device license for multiple operators on a shared HoloLens device
 
 A device license in Dynamics 365 Guides allows multiple operators to use Dynamics 365 Guides on a single device under a shared user account. This type of license is useful in scenarios where operators may not be known ahead of time (such as a classroom). It can also save licensing costs for customers with many operators that require infrequent access to the device. Device licenses can be purchased through your Microsoft account manager or reseller. This article describes how to configure a Dynamics 365 Guides device license.
+
+> [!NOTE]
+> When you set up a shared HoloLens device for multiple operators, data collected is for the device only (HoloLens 1 device, for example). No user-specific data for the device is captured. [Learn more about what data is collected in Dynamics 365 Guides](analytics-data-collected). 
 
 ## Prerequisites
 
