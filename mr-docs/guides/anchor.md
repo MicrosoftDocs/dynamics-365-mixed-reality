@@ -3,10 +3,9 @@ author: Mamaylya
 description: Learn how to anchor holograms in Microsoft Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 11/08/2021
-ms.topic: article
+ms.topic: overview
 title: Overview of anchoring a guide in Dynamics 365 Guides
 ms.reviewer: v-bholmes
-ms.custom: "intro-internal"
 ---
 
 # Anchor your holograms to the real world in Dynamics 365 Guides
