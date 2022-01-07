@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Set up a Dynamics 365 Guides device license for multiple operators
 
-A device license in Dynamics 365 Guides allows multiple operators to use Dynamics 365 Guides on a single device under a shared user account. This type of license is useful in scenarios where operators may not be known ahead of time (such as a classroom). It can also save licensing costs for customers with many operators that require infrequent access to the device. Device licenses can be purchased through your Microsoft account manager or reseller. In this article, we’ll walk through how to configure a Dynamics 365 Guides device license.
+A device license in Dynamics 365 Guides allows multiple operators to use Dynamics 365 Guides on a single device under a shared user account. This type of license is useful in scenarios where operators may not be known ahead of time (such as a classroom). It can also save licensing costs for customers with many operators that require infrequent access to the device. Device licenses can be purchased through your Microsoft account manager or reseller. This article describes how to configure a Dynamics 365 Guides device license.
 
 ## Prerequisites
 
