@@ -5,7 +5,7 @@ ms.author: Mamaylya
 ms.date: 11/08/2021
 ms.topic: article
 title: Get started with Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ms.custom: "intro-internal"
 ---
 
