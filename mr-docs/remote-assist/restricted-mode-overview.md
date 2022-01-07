@@ -5,7 +5,7 @@ description: Learn how to protect company information in Microsoft Dynamics 365 
 ms.author: soanigbo
 ms.date: 12/13/2021
 ms.service: crm-online
-ms.topic: article
+ms.topic: overview
 ms.reviewer: v-bholmes
 ROBOTS: NOINDEX, NOFOLLOW
 ---

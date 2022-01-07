@@ -3,10 +3,9 @@ author: Mamaylya
 description: Get an overview of workflow examples for Microsoft Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 04/01/2021
-ms.topic: article
+ms.topic: overview
 title: Overview of workflow examples for Dynamics 365 Guides
-ms.reviewer: v-brycho
-ms.custom: "intro-internal"
+ms.reviewer: v-bholmes
 ---
 
 # Overview of workflow examples for Dynamics 365 Guides

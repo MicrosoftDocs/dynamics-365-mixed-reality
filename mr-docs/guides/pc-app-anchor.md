@@ -5,8 +5,7 @@ ms.author: mamaylya
 ms.date: 08/02/2021
 ms.topic: article
 title: Overview of anchoring your guide to the real world in the Dynamics 365 Guides PC app
-ms.reviewer: v-brycho
-ms.custom: "intro-internal"
+ms.reviewer: v-bholmes
 ---
 
 # Overview of anchoring your guide to the real world in the Dynamics 365 Guides PC app

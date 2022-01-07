@@ -5,8 +5,7 @@ ms.author: Mamaylya
 ms.date: 11/08/2021
 ms.topic: overview
 title: Overview of Dynamics 365 Guides
-ms.reviewer: v-brycho
-ms.custom: "intro-internal"
+ms.reviewer: v-bholmes
 ---
 
 # Overview of Dynamics 365 Guides
