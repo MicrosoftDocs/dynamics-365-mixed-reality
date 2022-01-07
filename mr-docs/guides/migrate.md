@@ -66,7 +66,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
 2. After you've registered, on the **Welcome Insider** page, under **Upcoming and Active Public Preview Programs**, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)**, and select it.
 
-    ![Search field on the Welcome Insider page.](media/migration-search.PNG "Search fiel on the Welcome Insider page")
+    ![Search field on the Welcome Insider page.](media/migration-search.PNG "Search field on the Welcome Insider page")
 
 3. Select **Join now**.
 
@@ -76,7 +76,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
     ![View Program Downloads button.](media/migration-program-downloads.PNG "View Program Downloads button")
 
-5. Download the **ContentMigrationTool\_D365Guides\_v500.3.1.x.zip** folder by selecting the link in the **File Name** column. The file is automatically saved in your **Downloads** folder.
+5. Download the **ContentMigrationTool\_D365Guides\_v700.0.0.x.zip** folder by selecting the link in the **File Name** column. The file is automatically saved in your **Downloads** folder.
 
     ![Zipped folder to download.](media/migration-download.PNG "Zipped folder to download")
 
