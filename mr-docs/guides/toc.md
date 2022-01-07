@@ -5,16 +5,18 @@
 ## [Videos](videos.md)
 
 ## I'm an admin
+
 ### Set up Dynamics 365 Guides or upgrade the solution
-#### [Device and licensing requirements](requirements.md)
-#### Setup
-##### [Setup overview](setup.md)
-##### [1: Get a subscription (buy or trial)](setup-step-one.md)
-##### [2: Install the solution](setup-step-two.md)
-##### [3: Install the apps](setup-step-three.md)
-##### [4: Set up Power BI reports](setup-step-four.md)
+#### [Setup overview](setup.md)
+#### [1: Get a subscription (buy or trial)](setup-step-one.md)
+#### [2: Install the solution](setup-step-two.md)
+#### [3: Install the apps](setup-step-three.md)
+#### [4: Set up Power BI reports](setup-step-four.md)
 #### [Update the solution](upgrade.md)
 #### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
+### Licenses
+#### [Licensing requirements](requirements.md)
+#### [Set up a device license for multiple operators](device-license.md)
 ### Users, roles, ownership, and access
 #### [Add users](add-users.md)
 #### Assign user roles
