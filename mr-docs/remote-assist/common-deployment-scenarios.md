@@ -5,7 +5,7 @@ description: Deployment scenarios overview
 ms.author: soanigbo
 ms.date: 09/15/2020
 ms.service: crm-online
-ms.topic: article
+ms.topic: overview
 ms.reviewer: v-bholmes
 ---
 # Deployment scenarios overview 
