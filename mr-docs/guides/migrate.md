@@ -98,7 +98,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
         ![Extract all button.](media/migration-extract-all.PNG "Extract all button")
 
-4. Go to the File Explorer location where you extracted the contents of the zipped folder, and then go to the **ContentMigrationTool\_D365Guides\_v500.3.1.x** \> **MigrationToolScripts** folder.
+4. Go to the File Explorer location where you extracted the contents of the zipped folder, and then go to the **ContentMigrationTool\_D365Guides\_v700.0.0.x** \> **MigrationToolScripts** folder.
 
 5. Run Windows PowerShell [as an administrator](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831491(v=ws.11)#run-a-program-as-administrator-or-as-another-user) by following these steps:
 
