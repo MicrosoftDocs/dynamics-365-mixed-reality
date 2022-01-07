@@ -3,10 +3,9 @@ author: BryceHo
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
 ms.author: cynielse
 ms.date: 11/08/2021
-ms.topic: article
+ms.topic: overview
 title: Overview of analyzing guides created with Dynamics 365 Guides
 ms.reviewer: v-bholmes
-ms.custom: "intro-internal"
 ---
 
 # Overview of analyzing and integrating Dynamics 365 Guides operations data
