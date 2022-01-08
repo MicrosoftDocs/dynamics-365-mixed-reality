@@ -80,6 +80,9 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
 7. Repeat the above steps for any additional roles that you want to apply to the group team.
 
+> [!NOTE]
+> When a user is added to an Azure Active Directory group, it doesn't show up in the team until the user signs in. 
+
 ### Option 2: Assign a Dynamics 365 Guides role to a group team
 
 For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). For more information, see [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
@@ -105,6 +108,9 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
     ![Select roles.](media/power-platform-admin-center-env-teams-manage-roles-security.png "Select roles")
     
     [Learn more about the different Author and Operator roles](admin-role-types.md).
+    
+> [!NOTE]
+> When a user is added to an Azure Active Directory group, it doesn't show up in the team until the user signs in. 
 
 ## See also
 
