@@ -30,6 +30,6 @@ The colors available in Dynamics 365 Guides are:
 > [!NOTE]
 > If you're using yellow, make sure to lowercase the word "yellow" in your HTML text. Otherwise, the color won't be applied. For Cyan, use the hex code #00FFFF.
 
-![Add a user command.](media/HTML-pc-app.jpg "Add a user command")
+![Screenshot of PC app with HTML markdown in instruction card.](media/HTML-pc-app.jpg "Screenshot of PC app with HTML markdown in instruction card")
 
-![Add a user command.](media/html-hololens-app.jpg "Add a user command")
+![Screenshot of HoloLens app with HTML results.](media/html-hololens-app.jpg "Screenshot of HoloLens app with HTML results")
