@@ -68,7 +68,7 @@
 ##### [Add media (images or videos)](pc-app-add-media.md)
 ##### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
 ##### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
-##### [Using HTML in instructions](pc-app-HTML.md)
+##### [Using HTML in instructions](pc-app-rich-text.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
 #### [Create a branching (non-linear) guide](pc-app-branching.md)
 #### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
