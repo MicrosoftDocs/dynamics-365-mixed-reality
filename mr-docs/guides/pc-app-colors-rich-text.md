@@ -10,8 +10,7 @@ ms.reviewer: v-bholmes
 
 # Use HTML in instruction card text in Dynamics 365 Guides
 
-If you want to use colors or rich-text formatting (for example, bold, italic, or underline) in your Dynamics 365 Guides instruction card text, you can add HTML markup directly to an
-instruction card in the PC app. 
+If you want to use colors or rich-text formatting (for example, bold, italic, or underline) in your Dynamics 365 Guides instruction card text, you can add HTML markup directly to an instruction card in the PC app. 
 
 > [!NOTE]
 > This is an unsupported feature and is subject to change.
