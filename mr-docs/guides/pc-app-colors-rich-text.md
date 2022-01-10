@@ -1,14 +1,14 @@
 ---
 author: amaraanigbo
-description: Add additional user accounts to a Microsoft Dynamics 365 Guides license.
+description: Learn about usign HTML markdown in instruction card text for Dynamics 365 Guides
 ms.author: soanigbo
 ms.date: 01/10/2022
 ms.topic: article
-title: Add additional users in Dynamics 365 Guides
+title: Use HTML in instruction card text in Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
-# Use HTML in instruction card text
+# Use HTML in instruction card text in Dynamics 365 Guides
 
 If you want to use colors or rich-text formatting (for example, bold, italic, or underline) in your Dynamics 365 Guides instruction card text, you can add HTML markup directly to an
 instruction card in the PC app. 
