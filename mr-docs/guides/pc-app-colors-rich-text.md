@@ -1,4 +1,12 @@
-
+---
+author: amaraanigbo
+description: Add additional user accounts to a Microsoft Dynamics 365 Guides license.
+ms.author: soanigbo
+ms.date: 11/08/2021
+ms.topic: article
+title: Add additional users in Dynamics 365 Guides
+ms.reviewer: v-bholmes
+---
 
 # Use HTML in instruction card text
 
