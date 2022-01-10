@@ -1,0 +1,22 @@
+# Use HTML in instruction card text
+
+If you want to use colors or rich-text formatting (for example, bold, italic, or underline) in your Dynamics 365 Guides instruction card text, you can use HTML. 
+
+> [!NOTE]
+> This is an unsupported feature and is subject to change.
+
+The colors available in Dynamics 365 Guides are: 
+
+- Black
+- Blue
+- Green
+- Orange
+- Purple
+- Red
+- White
+- Yellow
+
+> [!NOTE]
+> If you're using yellow, make sure to lowercase the word "yellow" in your HTML text. Otherwise, the color won't be applied. For Cyan, use the hex code #00FFFF.
+
+
