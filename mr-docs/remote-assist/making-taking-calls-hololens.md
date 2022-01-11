@@ -66,9 +66,9 @@ You can combine HoloLens users with Teams users in different combinations:
 
 - Multiple HoloLens users can collaborate on the same Dynamics 365 Remote Assist call. 
 
-- Any Teams user can choose any Remote Assist user's space to annotate on. 
+- Any Teams user can choose any HoloLens user's space to annotate on. 
 
-- Multiple Teams users can annotate on the same Remote Assist user's space at the same time.
+- Multiple Teams users can annotate on the same HoloLens user's space at the same time.
 
 ### Make a group call
 
