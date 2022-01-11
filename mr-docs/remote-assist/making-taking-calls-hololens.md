@@ -28,7 +28,7 @@ With Dynamics 365 Remote Assist on HoloLens, you can collaborate with:
 
 - A Teams mobile user in a one-to-one call
 
-- A Dynamics 365 Remote Assist call where there are multiple HoloLens users and/or Teams users. 
+To learn more about combinations of different types of users on group calls, see [Group calls](Making-taking-calls-hololens.md#group-calls).
 
 > [!NOTE]
 > The mixed-reality toolbar will not appear if the Dynamics 365 Remote Assist user joins the call from two different devices.
