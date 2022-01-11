@@ -25,6 +25,7 @@ The colors available in Dynamics 365 Guides are:
 - Red
 - White
 - Yellow
+- Cyan
 
 > [!NOTE]
 > If you're using yellow, make sure to lowercase the word "yellow" in your HTML markdown. Otherwise, the color won't be applied. For Cyan, use the hex code #00FFFF.
