@@ -72,7 +72,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 ### Make a group call
 
-1. Start by calling one person, and then select **Open Participants** (![Graphic showing the open participants icon.](media/RAHL_Participants.png)) or say "Remote Assist, Open Participants."
+1. Start by calling one person, and then select **Open Participants** (![Graphic showing the open participants icon.](media/open-participants.jpg)) or say "Remote Assist, Open Participants."
 
     You'll see the first person you called on the left side of the video card, and a list of participants on the right side. 
 
@@ -80,7 +80,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 To mute a participant in a group call:
 
-1. Select **Open Participants** (![Graphic showing the open participants icon.](media/RAHL_Participants.png)) or say "Remote Assist, Open Participants." 
+1. Select **Open Participants** (![Graphic showing the open participants icon.](media/open-participants.jpg)) or say "Remote Assist, Open Participants." 
 
 2. Tap a participant to see their video feed. 
 
@@ -106,7 +106,7 @@ If you join the call, remote collaborators will be able to see what you see in y
 
 ## End a call
 
-- Select **End Call** (![Graphic showing the end call icon.](media/RAHL_EndCall.png)), or say "Remote Assist, End Call."
+- Select **End Call** (![Graphic showing the end call icon.](media/end-call.jpg)), or say "Remote Assist, End Call."
 
 ### Learn more 
 - [Group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop](./mobile-app/group-calling.md).
