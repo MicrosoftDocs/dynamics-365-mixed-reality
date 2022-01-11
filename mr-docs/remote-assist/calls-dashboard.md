@@ -58,7 +58,7 @@ To have access to the Calls Dashboard, you must have:
 
 - If you want to enable or disable location services for all users on all devices, you can [set the **LetAppsAccessLocation** privacy policy](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
 
-- If column headers aren't translated for your users when they switch languages, see [Localization of metadata](https://docs.microsoft.com/en-us/power-automate/dataverse/known-issues)
+- If column headers aren't translated for your users when they switch languages, see [Localization of metadata](https://docs.microsoft.com/en-us/power-automate/dataverse/known-issues).
 
 
 ## Understand the Dynamics 365 Remote Assist Calls Dashboard
