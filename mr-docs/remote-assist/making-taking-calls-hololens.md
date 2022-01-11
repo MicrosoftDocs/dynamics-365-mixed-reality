@@ -22,7 +22,7 @@ With Microsoft Dynamics 365 Remote Assist, you can make or take the following ty
 
 With Dynamics 365 Remote Assist on HoloLens, you can collaborate with:
 
-- A Teams desktop user in a one-to-one call, group call, or meeting scheduled using Microsoft Teams or Outlook. To learn more about combinations of different types of users on group calls, see [Group calls](#group-calls).
+- A Teams desktop user in a one-to-one call, group call, or meeting scheduled using Microsoft Teams or Outlook. To learn more about combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
 
 - A Dynamics 365 Remote Assist mobile user in a one-to-one call or group call
 
