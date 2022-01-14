@@ -3,7 +3,7 @@ title: Restrict calling and the ability to search and access contacts in Dynamic
 author: amaraanigbo
 description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 12/13/2021
+ms.date: 01/14/2022
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -75,4 +75,4 @@ To restrict calling, first you create a new Microsoft Teams policy, and then you
 - [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
 - [Restrict the ability to access OneDrive files](restricted-mode-files.md)
 - [Restrict the ability to access asset records](restricted-mode-assets.md)
-- [Restrict the ability to change user accounts](restricted-mode-signout.md)
+
