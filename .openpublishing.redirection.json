@@ -1,6 +1,16 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/guides/new-may.md",
+      "redirect_url": "new",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/public-preview-transition.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/import-tool/product-visualize.md",
       "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
       "redirect_document_id": "false"
