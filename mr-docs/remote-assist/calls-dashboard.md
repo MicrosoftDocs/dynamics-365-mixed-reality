@@ -64,7 +64,7 @@ To have access to the Calls Dashboard, you must have:
 
 - If you want to enable or disable location services for all users on all devices, you can [set the **LetAppsAccessLocation** privacy policy](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
 
-- If column headers aren't translated for your users when they switch languages, see [Localization of metadata](https://docs.microsoft.com/en-us/power-automate/dataverse/known-issues).
+- If column headers aren't translated for your users when they switch languages, see [Localization of metadata](https://docs.microsoft.com/power-automate/dataverse/known-issues).
 
 - Data is refreshed every 24 hours. The dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Note that Microsoft does not currently support a custom refresh schedule.
 
