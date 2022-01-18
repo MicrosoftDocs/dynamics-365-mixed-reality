@@ -50,7 +50,7 @@ To have access to the Calls Dashboard, you must have:
 
 - The following regions do not support logging in the Calls Dashboard: GCC, GCCH, FA, ZAF, UAE, and GER. For more information, see the following links:
 
-    - [List of regions where Dynamics 365 Remote Assist has been deployed](ra-webapp-install.md)
+    - [List of regions where the Remote Assist model-driven app has been deployed](ra-webapp-install.md)
 
     - [Complete list of Power Platform datacenter regions](https://docs.microsoft.com/power-platform/admin/new-datacenter-regions)
 
