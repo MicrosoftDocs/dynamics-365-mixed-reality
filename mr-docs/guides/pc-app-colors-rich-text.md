@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Learn about usign HTML markdown in instruction card text for Dynamics 365 Guides
 ms.author: soanigbo
-ms.date: 01/10/2022
+ms.date: 01/18/2022
 ms.topic: article
 title: Use HTML in instruction card text in Dynamics 365 Guides
 ms.reviewer: v-bholmes
