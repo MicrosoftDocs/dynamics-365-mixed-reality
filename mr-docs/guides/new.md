@@ -43,7 +43,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 - Fixed unsupported scenario that allowed users to specify a trigger style
 
 > [!TIP]
-> Looking for a list of earlier features? Go to <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/version-history.md" target="_blank">Version history for Dynamics 365 Guides</a>.
+> Looking for a list of earlier features? Go to <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/version-history" target="_blank">Version history for Dynamics 365 Guides</a>.
 
 ## See also
 
