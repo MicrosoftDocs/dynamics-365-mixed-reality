@@ -2,7 +2,7 @@
 author: Mamaylya
 ms.author: mamaylya
 description: Learn how to add a 3D model (for example, an arrow or a hand) to a step in the Dynamics 365 Guides PC app. 
-ms.date: 05/04/2021
+ms.date: 01/18/2022
 ms.topic: article
 title: Add a 3D model (arrow or hand, for example) to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-bholmes
