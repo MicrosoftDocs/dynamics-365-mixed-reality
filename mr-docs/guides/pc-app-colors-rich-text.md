@@ -28,7 +28,7 @@ The colors available in Dynamics 365 Guides are:
 - Cyan
 
 > [!NOTE]
-> If you're using yellow, make sure to lowercase the word "yellow" in your HTML markdown. Otherwise, the color won't be applied. For Cyan, use the hex code #00FFFF.
+> Mke sure to use lowercase for colors ("yellow", for example) in HTML markdown. Otherwise, the colors won't be applied. For Cyan, use the hex code #00FFFF.
 
 ![Screenshot of PC app with HTML markdown in instruction card.](media/HTML-pc-app.jpg "Screenshot of PC app with HTML markdown in instruction card")
 
