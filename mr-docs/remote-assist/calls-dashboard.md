@@ -48,7 +48,11 @@ To have access to the Calls Dashboard, you must have:
 
 - The dashboard is built on Microsoft Power BI. It may take some time for the dashboard to get provisioned.
 
-- The following regions do not support logging in the Calls Dashboard: GCC, GCCH, FA, ZAF, UAE, and GER.
+- The following regions do not support logging in the Calls Dashboard: GCC, GCCH, FA, ZAF, UAE, and GER. For more information, see the following links:
+
+    - [List of regions where Dynamics 365 Remote Assist has been deployed](ra-web-app-install.md). 
+
+    - [Complete list of Power Platform datacenter regions](https://docs.microsoft.com/power-platform/admin/new-datacenter-regions)
 
 - As a **Remote Assist - Administrator**, you can always go back and disable/re-enable the dashboard by turning it off/on from the **Settings** area as described above. Disabling the dashboard will remove the resources that it depends on.
 
