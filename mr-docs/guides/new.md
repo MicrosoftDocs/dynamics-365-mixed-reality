@@ -21,6 +21,20 @@ This page provides details about the **current wave of features (October 2021 th
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
+## January 25, 2022
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|XXX|
+|HoloLens app (HoloLens 2 only)|XXX|
+|Solution|XXX|
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="RPlinkgoeshere" target="_blank">New MR App Sessions table tracks success of Dynamics 365 Guides in your organization</a>| Yes |<a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/developer-entity-reference" target="_blank">Microsoft Dataverse table (entity) reference</a>|
+
 ## November 8, 2021
 
 |Item|Version|
