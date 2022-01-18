@@ -33,7 +33,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="RPlinkgoeshere" target="_blank">New MR App Sessions table tracks success of Dynamics 365 Guides in your organization</a>| Yes |<a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/developer-entity-reference" target="_blank">Microsoft Dataverse table (entity) reference</a>|
+| <a href="RPlinkgoeshere" target="_blank">New MR App Sessions table tracks success of Dynamics 365 Guides in your organization</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/developer-entity-reference" target="_blank">Microsoft Dataverse table (entity) reference</a>|
 
 ## November 8, 2021
 
