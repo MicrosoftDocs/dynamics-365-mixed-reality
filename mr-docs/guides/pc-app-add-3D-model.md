@@ -16,6 +16,9 @@ Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includ
 
 You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you want in a step.
 
+> [!NOTE]
+> Some 3D toolkit items have built-in animations that you can turn on or off. [Learn more about animation options](hololens-app-animations.md)
+
 To add a model from the 3D toolkit, follow these steps.
 
 1. On the right side of the page, select the **3D toolkit** tab, and then select the category for the type of item that you want to add.
