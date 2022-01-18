@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 If you're working with a 3D model in the Microsoft Dynamics 365 Guides HoloLens app, and the 3D model includes multiple animations, you can select a specific animation to play back. You can also set playback options (speed, direction, and looping options). 
 
-The following 3D Tookit objects in the Zone category have built-in animation options:
+The following 3D tookit objects in the Zone category have built-in animation options:
 
 - Circle Dashed
 - Rectangle Dashed
