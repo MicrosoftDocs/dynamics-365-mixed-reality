@@ -48,6 +48,8 @@ To have access to the Calls Dashboard, you must have:
 
 - The dashboard is built on Microsoft Power BI. It may take some time for the dashboard to get provisioned.
 
+- The following regions do not support logging in the Calls Dashboard: GCC, GCCH, FA, ZAF, UAE, and GER.
+
 - As a **Remote Assist - Administrator**, you can always go back and disable/re-enable the dashboard by turning it off/on from the **Settings** area as described above. Disabling the dashboard will remove the resources that it depends on.
 
 - The dashboard uses the [phone call entity type](/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics 365 environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phone call record to the Microsoft Dataverse. The phone call data will not be available in the Calls Dashboard if the user hasn't selected the correct environment. Note that users can also initiate the call without selecting an environment. 
@@ -60,6 +62,15 @@ To have access to the Calls Dashboard, you must have:
 
 - If column headers aren't translated for your users when they switch languages, see [Localization of metadata](https://docs.microsoft.com/en-us/power-automate/dataverse/known-issues).
 
+- Data is refreshed every 24 hours. The dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Note that Microsoft does not currently support a custom refresh schedule.
+
+- If an organization has no active dashboard usage for two continuous weeks, the data refresh will be paused. When a user opens the dashboard, the data will be refreshed in the next refresh cycle.
+
+- Data is retained for 24 months.
+
+- The Calls Dashboard uses storage capacity in the Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
+
+- To make sure that all calls are logged to the Microsoft Dataverse, Microsoft recommends that users wait a few seconds after the call ends before closing or minimizing the Dynamics 365 Remote Assist application. 
 
 ## Understand the Dynamics 365 Remote Assist Calls Dashboard
 
@@ -91,17 +102,5 @@ Let's take a look at the information that's provided by each of the visuals in t
 | Call statistics by user | The number of calls made by and time spent in Dynamics 365 Remote Assist calls per user. |
 | Calls by location | Map view of the phone call records, available if the end user has granted permission to share the location from their device. You can use the drill-down capabilities to see the number of calls by country, state or city. |
 | Call log | Details of each phone call record, including call start and end times, owner of the phone call record, direction of the call, time spent by the specific participant in the call, client device type, and location of the call participant if shared. |
-
-## Additional notes
-
-- Data is refreshed every 24 hours. The dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Note that Microsoft does not currently support a custom refresh schedule.
-
-- If an organization has no active dashboard usage for two continuous weeks, the data refresh will be paused. When a user opens the dashboard, the data will be refreshed in the next refresh cycle.
-
-- Data is retained for 24 months.
-
-- The Calls Dashboard uses storage capacity in the Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
-
-- To make sure that all calls are logged to the Microsoft Dataverse, Microsoft recommends that users wait a few seconds after the call ends before closing or minimizing the Dynamics 365 Remote Assist application. 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
