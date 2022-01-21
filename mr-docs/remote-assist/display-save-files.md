@@ -3,7 +3,6 @@ author: amaraanigbo
 description: View service-related documentation and save shared files in Dynamics 365 Remote Assist on HoloLens. 
 ms.author: soanigbo
 ms.date: 04/01/2020
-ms.service: crm-online
 ms.topic: article
 title: View service-related documentation in Dynamics 365 Remote Assist
 ms.reviewer: v-bholmes
