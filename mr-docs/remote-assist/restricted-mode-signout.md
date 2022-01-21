@@ -4,7 +4,6 @@ author: amaraanigbo
 description: Learn how to restrict users of Microsoft Dynamics 365 Remote Assist from changing user accounts (signing out of the app). 
 ms.author: soanigbo
 ms.date: 12/13/2021
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ROBOTS: NOINDEX, NOFOLLOW
