@@ -26,7 +26,7 @@ Each row in the Guide Session Step Visit table corresponds to an operator’s vi
 
 ## MR App Session table
 
-Dynamics 355 Guides also includes an MR App Session table that you can use to determine the overall usage of the product in your organization. Each row in the MR App Session table stores a record any time a user signs into an instance. This table also stores information about when the user signed in, the session type, device class, user ID, and the time the user signed in. [See the Dynamics 365 Guides table (entity) reference for more information](developer-entity-reference.md).
+Dynamics 365 Guides also includes an MR App Session table that you can use to determine the overall usage of the product in your organization. Each row in the MR App Session table stores a record any time a user signs into an instance. This table also stores information about when the user signed in, the session type, device class, user ID, and the time the user signed in. [See the Dynamics 365 Guides table (entity) reference for more information](developer-entity-reference.md).
 
 ## What can you do with the data? 
 
