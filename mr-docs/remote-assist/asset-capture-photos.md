@@ -4,10 +4,10 @@ author: amaraanigbo
 description: How to capture asset conditions with spatial markup in Microsoft Dynamics 365 Remote Assist on HoloLens
 ms.author: soanigbo
 ms.date: 04/30/2021
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
+
 # Capture asset conditions with spatial markup in Dynamics 365 Remote Assist on HoloLens
 
 You can use Microsoft Dynamics 365 Remote Assist to capture procedures and defects during jobs such as an inspections or repairs. For example, a technician can use Dynamics 365 Remote Assist on HoloLens to capture photos or videos of the equipment they're inspecting, to highlight defects like wear and corrosion. The captures can then be viewed and downloaded from the Dynamics 365 Remote Assist model-driven app by stakeholders within the organization, such as a service manager or site superintendent.
