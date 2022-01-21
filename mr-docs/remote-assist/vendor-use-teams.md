@@ -3,7 +3,6 @@ author: amaraanigbo
 description: Learn how to use Dynamics 365 Remote Assist for multi-tenant deployments or when a collaborator doesn't belong to the company tenant. 
 ms.author: soanigbo
 ms.date: 05/06/2020
-ms.service: crm-online
 ms.topic: article
 title: Vendors and contractors use Microsoft Teams 
 ms.reviewer: v-bholmes
