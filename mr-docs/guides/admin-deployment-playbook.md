@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
 ms.author: mamaylya
-ms.date: 09/17/2021
+ms.date: 01/10/2022
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -88,7 +88,7 @@ The PC and HoloLens apps are managed through Microsoft Store, which is pre-insta
 
 ![Microsoft Store page, where the Update apps automatically option is turned on.](media/update-apps-automatically.PNG "Microsoft Store page, where the Update apps automatically option is turned on")
 
-If Microsoft Store isn't available to you, you can request that your IT department add Dynamics 365 Guides to Microsoft Store for Business. If this approach isn't feasible, contact your Dynamics 365 Guides team or sales representative, and request engineering support to facilitate direct installation of the applications.
+If Microsoft Store isn't available to you, you can request that your IT department add Dynamics 365 Guides to Microsoft Store for Business. 
 
 ### Update management through mobile device management
 
