@@ -35,6 +35,10 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="RPlinkgoeshere" target="_blank">New MR App Sessions table tracks success of Dynamics 365 Guides in your organization</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/developer-entity-reference" target="_blank">Microsoft Dataverse table (entity) reference</a>|
 
+### Bugs fixed and other improvements
+
+- Improved reliability of Azure Object Anchors
+
 ## November 8, 2021
 
 |Item|Version|
