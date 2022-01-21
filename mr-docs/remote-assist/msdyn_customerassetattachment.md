@@ -3,7 +3,6 @@ author: amaraanigbo
 description: Customer Asset Attachment entity.
 ms.author: soanigbo
 ms.date: 06/09/2020
-ms.service: crm-online
 ms.topic: article
 title: msdyn_customerassetattachment EntityType
 ms.reviewer: v-bholmes
