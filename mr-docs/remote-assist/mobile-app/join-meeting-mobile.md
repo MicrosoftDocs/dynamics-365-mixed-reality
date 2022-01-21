@@ -4,7 +4,6 @@ author: amaraanigbo
 description: Learn how to join a meeting from the Dynamics 365 Remote Assist mobile app 
 ms.author: soanigbo
 ms.date: 01/04/2022
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
