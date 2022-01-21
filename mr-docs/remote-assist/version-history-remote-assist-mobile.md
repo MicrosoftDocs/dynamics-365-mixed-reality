@@ -4,7 +4,6 @@ description: Version history for Dynamics 365 Remote Assist mobile
 ms.date: 04/01/2021
 ms.reviewer: v-bholmes
 ms.topic: article
-ms.service: crm-online
 author: amaraanigbo
 ms.author: soanigbo
 ---
