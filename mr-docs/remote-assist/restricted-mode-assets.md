@@ -4,7 +4,6 @@ author: amaraanigbo
 description: Learn how to restrict the ability to access asset records in Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
 ms.date: 01/14/2022
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ROBOTS: NOINDEX, NOFOLLOW
