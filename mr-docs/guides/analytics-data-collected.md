@@ -18,7 +18,7 @@ When an operator uses the Microsoft Dynamics 365 Guides HoloLens app in Operate 
 
 ## Guide Session table 
 
-Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded. For more information, [see the Guides table (entity) reference](developer-entity-reference.md).
+Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
 
 ## Guide Session Step Visit table 
 
@@ -28,7 +28,7 @@ Each row in the Guide Session Step Visit table corresponds to an operator’s vi
 
 Dynamics 365 Guides also includes an MR App Session table that you can use to determine the overall usage of the product in your organization. This is useful so you can determine where to assign Dynamics 365 Guides licenses. 
 
-Each row in the MR App Session table stores a record any time a user signs into an instance. This table also stores information about when the user signed in, the session type, device class, and the user ID. [See the Dynamics 365 Guides table (entity) reference for more information](developer-entity-reference.md).
+Each row in the MR App Session table stores a record any time a user signs into an instance. This table also stores information about when the user signed in, the session type, device class, and the user ID. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md). 
 
 ## What can you do with the data? 
 
