@@ -24,6 +24,10 @@ Each row in the Guide Session table corresponds to an operation of a guide in Ho
 
 Each row in the Guide Session Step Visit table corresponds to an operator’s visit to a step in HoloLens Operate mode. Information is recorded for each step visit such as start and end time and step operating time. If an operator visited a step multiple times, perhaps by navigating backward and forward in the guide, each visit would result in a separate row in this table. For more information, [see the Guides table (entity) reference](developer-entity-reference.md). 
 
+## MR App Session table
+
+Dynamics 355 Guides also includes an MR App Session table that you can use to determine the overall usage of the product in your organization. Each row in the MR App Session table stores a record any time a user signs into an instance. This table also stores information about when the user signed in, the session type, device class, user ID, and the time the user signed in. [See the Dynamics 365 Guides table (entity) reference for more information](developer-entity-reference.md).
+
 ## What can you do with the data? 
 
 Storing data about the operations of your guides in easy-to-access Microsoft Dataverse tables gives you the flexibility to analyze and integrate this data into your workflows in ways that make sense for your business. You can get started by:
