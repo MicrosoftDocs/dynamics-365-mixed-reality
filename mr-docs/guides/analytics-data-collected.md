@@ -30,6 +30,9 @@ Dynamics 365 Guides also includes an MR App Session table that you can use to de
 
 The MR App Session table stores a record whenever a user signs into an instance. This table stores information about when the user signed in, the session type (log-in or suspend, which tracks when a user resumes using the device), device class (PC or HoloLens), and the user ID. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md). 
 
+> [!NOTE]
+> Data in the MR App Session table is accessible by admin users or by scripted actions that act as admin users. 
+
 ## What can you do with the data? 
 
 Storing data about the operations of your guides in easy-to-access Microsoft Dataverse tables gives you the flexibility to analyze and integrate this data into your workflows in ways that make sense for your business. You can get started by:
