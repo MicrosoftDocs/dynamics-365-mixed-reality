@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 01/25/2022
+ms.date: 01/26/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -21,7 +21,7 @@ This page provides details about the **current wave of features (October 2021 th
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
-## January 25, 2022
+## January 26, 2022
 
 |Item|Version|
 |-------------------------|--------------------------------|
