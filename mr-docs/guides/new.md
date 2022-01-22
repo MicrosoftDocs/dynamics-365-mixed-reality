@@ -55,6 +55,9 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/make-calls-directly-dynamics-365-guides-hololens-app" target="_blank">Make calls directly (Preview) from Dynamics 365 Guides</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/make-call" target="_blank">Make a call (Preview) in the Dynamics 365 Guides HoloLens app</a>|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">Ability to create very long guides</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-place-holograms" target="_blank">Place and manipulate holograms in the Dynamics 365 Guides HoloLens app</a>|
 
+> [!NOTE]
+> If you have created any custom security roles, make sure to update those custom roles to match the permissions for relevant Dynamics 365 Guides Security roles (Author, Operator, Restricted Author, Restricted Operator) so that any custom roles have access to the new MR App Session table.
+
 ### Bugs fixed and other improvements
 
 - Improved PC app stability around step deletion
