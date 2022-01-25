@@ -25,9 +25,9 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|XXX|
-|HoloLens app (HoloLens 2 only)|XXX|
-|Solution|XXX|
+|PC app|701.2201.20001|
+|HoloLens app (HoloLens 2 only)|701.2201.20001|
+|Solution|700.1.0.1|
 
 ### Features
 
