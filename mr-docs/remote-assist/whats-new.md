@@ -19,9 +19,15 @@ This article describes details about the **current wave of features (October 202
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2 app|XXX|
 
-### Bug fixed
+### Bugs fixed 
 
-Fixed problem with precision of remote annotations placed close to the HoloLens user. 
+#### HoloLens 2
+
+- New Slimcore drop. 
+- Added notification for malformed meeting URLs. 
+- Fixed visual glitches for annotations on certain panels. 
+- Fixed issue that prevented text chat and file sharing from working. 
+- Improved behavior of pinned panels (they no longer move after the call ends). 
 
 ## December 14, 2021
 
