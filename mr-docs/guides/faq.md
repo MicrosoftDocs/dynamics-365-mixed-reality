@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 ## How do I contact Support if I don't find an answer in this FAQ?
 
