@@ -80,8 +80,8 @@
 ### Protect company information by restricting capabilities
 #### [Overview of restricting capabilities](restricted-mode-overview.md)
 #### [Restrict calling and contacts](restricted-mode-calling.md)
-#### [Restrict file access](restricted-mode-files.md)
-#### [Restrict accessing of assets](restricted-mode-assets.md)
+#### [Restrict ability to access OneDrive files](restricted-mode-files.md)
+#### [Restrict ability to access asset records](restricted-mode-assets.md)
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
 ### [Version history](version-history.md)
