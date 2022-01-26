@@ -38,7 +38,7 @@ When you restrict the ability to access OneDrive files:
     ![Screenshot showing Dynamics 365 Remote Assist and Microsoft Teams check boxes selected.](media/restricted-mode-files-select-licenses.jpg "Screenshot showing Dynamics 365 Remote Assist and Microsoft Teams check boxes selected")
 
     > [!NOTE]
-    > The name of the Teams license may vary base on the products you have installed. 
+    > The name of the Teams license may vary based on the products you have installed. 
 
 5. Clear the **Office for the Web** and **SharePoint** license check boxes, and then select **Next**.
 
