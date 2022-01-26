@@ -79,7 +79,7 @@
 ### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
 ### Protect company information by restricting capabilities
 #### [Overview of restricting capabilities](restricted-mode-overview.md)
-#### [Restrict calling](restricted-mode-calling.md)
+#### [Restrict calling and contacts](restricted-mode-calling.md)
 #### [Restrict file access](restricted-mode-files.md)
 #### [Restrict accessing of assets](restricted-mode-assets.md)
 ## Additional resources
