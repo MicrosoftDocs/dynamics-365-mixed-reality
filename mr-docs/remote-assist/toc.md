@@ -77,7 +77,11 @@
 ### [Deploy multi-tenant collaboration](multi-tenant-deployment.md)
 ### [Vendors and customers use full Remote Assist capabilities](vendor-use-RA.md)
 ### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
-
+### Protect company information by using Restrict mode
+#### [Overview of using Restrict mode]()
+#### [Restrict calling]()
+#### [Restrict file access]()
+#### [Restrict accessing of assets]()
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
 ### [Version history](version-history.md)
