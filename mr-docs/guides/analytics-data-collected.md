@@ -2,7 +2,7 @@
 author: BryceHo
 description: Learn about what data is collected in Dynamics 365 Guides and how you can use that data to analyze guide usage in your organization.
 ms.author: cynielse
-ms.date: 11/08/2021
+ms.date: 01/26/2022
 ms.topic: article
 title: What data is collected in Dynamics 365 Guides and how can you use it?
 ms.reviewer: v-bholmes
@@ -18,11 +18,20 @@ When an operator uses the Microsoft Dynamics 365 Guides HoloLens app in Operate 
 
 ## Guide Session table 
 
-Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded. For more information, [see the Guides table (entity) reference](developer-entity-reference.md).
+Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
 
 ## Guide Session Step Visit table 
 
-Each row in the Guide Session Step Visit table corresponds to an operator’s visit to a step in HoloLens Operate mode. Information is recorded for each step visit such as start and end time and step operating time. If an operator visited a step multiple times, perhaps by navigating backward and forward in the guide, each visit would result in a separate row in this table. For more information, [see the Guides table (entity) reference](developer-entity-reference.md). 
+Each row in the Guide Session Step Visit table corresponds to an operator’s visit to a step in HoloLens Operate mode. Information is recorded for each step visit such as start and end time and step operating time. If an operator visited a step multiple times, perhaps by navigating backward and forward in the guide, each visit would result in a separate row in this table. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md). 
+
+## MR App Session table
+
+Dynamics 365 Guides also includes an MR App Session table that you can use to determine the overall usage of the product in your organization. This is useful so you can determine where to assign Dynamics 365 Guides licenses. 
+
+The MR App Session table stores a record whenever a user signs into an instance. This table stores information about when the user signed in, the session type (log-in or suspend, which tracks when a user resumes using the device), device class (PC or HoloLens), and the user ID. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md). 
+
+> [!NOTE]
+> Data in the MR App Session table is accessible by admin users or by scripted actions that act as admin users. 
 
 ## What can you do with the data? 
 
