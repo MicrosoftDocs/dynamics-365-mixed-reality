@@ -78,10 +78,10 @@
 ### [Vendors and customers use full Remote Assist capabilities](vendor-use-RA.md)
 ### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
 ### Protect company information by using Restrict mode
-#### [Overview of using Restrict mode]()
-#### [Restrict calling]()
-#### [Restrict file access]()
-#### [Restrict accessing of assets]()
+#### [Overview of using Restrict mode](restricted-mode-overview.md)
+#### [Restrict calling](restricted-mode-calling.md)
+#### [Restrict file access](restricted-mode-files.md)
+#### [Restrict accessing of assets](restricted-mode-assets.md)
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
 ### [Version history](version-history.md)
