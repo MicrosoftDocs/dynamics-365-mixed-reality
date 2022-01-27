@@ -24,6 +24,8 @@ This article describes details about the **current wave of features (October 202
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2 app|308.2201.19002|
+|iOS mobile app|2022.2.2|
+|Android mobile app|2022.2.2|
 
 ### Bugs fixed 
 
@@ -36,7 +38,10 @@ This article describes details about the **current wave of features (October 202
 
 #### Mobile
 
-- Stability improvements
+- Fixed unexpected error when posting to a work order.
+- Fixed the "Oops something went wrong" pop-up that was incorrectly triggered when the app launched.
+- Fixed blank screen issues that appeared when the app was launched.
+- Fixed issue with Intune App Protection scenarios breaking due to missing Mobile Threat Defense (MTD).
 
 ## December 14, 2021
 
