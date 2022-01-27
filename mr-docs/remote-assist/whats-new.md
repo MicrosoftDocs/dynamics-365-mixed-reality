@@ -23,7 +23,6 @@ This article describes details about the **current wave of features (October 202
 
 #### HoloLens 2
 
-- New Slimcore drop. 
 - Added notification for malformed meeting URLs. 
 - Fixed visual glitches for annotations on certain panels. 
 - Fixed issue that prevented text chat and file sharing from working. 
