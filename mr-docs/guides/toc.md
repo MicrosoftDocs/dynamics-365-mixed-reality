@@ -181,5 +181,6 @@
 ### [Glossary of terms](glossary.md)
 ## [Use HoloLens (1st gen) devices](HL1.md)
 ## Legal documents
+### [Legal terms and notices for Dynamics 365 Guides](legal.md)
 
 
