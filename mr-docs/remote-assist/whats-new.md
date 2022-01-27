@@ -15,9 +15,15 @@ This article describes details about the **current wave of features (October 202
 
 ## January 27, 2022
 
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|[New Restricted mode prevents HoloLens 2 users from making private calls, accessing files and assets, and signing out of the app](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/planned-features)|[Protect company information by restricting capabilities in Dynamics 365 Remote Assist](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/restricted-mode-overview|
+
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|XXX|
+|HoloLens 2 app|308.2201.19002|
 
 ### Bugs fixed 
 
