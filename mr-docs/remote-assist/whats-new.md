@@ -23,10 +23,14 @@ This article describes details about the **current wave of features (October 202
 
 #### HoloLens 2
 
-- Added notification for malformed meeting URLs. 
+- Added notification for users having difficulty joining a scheduled meeting. 
 - Fixed visual glitches for annotations on certain panels. 
 - Fixed issue that prevented text chat and file sharing from working. 
 - Improved behavior of pinned panels (they no longer move after the call ends). 
+
+#### Mobile
+
+- Stability improvements
 
 ## December 14, 2021
 
