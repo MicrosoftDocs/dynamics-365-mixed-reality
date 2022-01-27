@@ -19,7 +19,7 @@ This article describes details about the **current wave of features (October 202
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[New Restricted mode prevents users from making private calls, and accessing files and assets](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/planned-features)|[Protect company information by restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)|
+|[New restriction capabilities prevents users from making private calls, and accessing files and assets](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/planned-features)|[Protect company information by restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
