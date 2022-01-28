@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to change animation options for a 3D model in the Dynamics 365 Guides HoloLens app
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 01/18/2022
 ms.topic: article
 title: Change animation options for a 3D model in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
@@ -10,7 +10,15 @@ ms.reviewer: v-bholmes
 
 # Change animation options for a 3D model in the Dynamics 365 Guides HoloLens app
 
-IF you're working with a 3D model in the Microsoft Dynamics 365 Guides HoloLens app, and the 3D model includes multiple animations, you can select a specific animation to play back. You can also set playback options (speed, direction, and looping options). 
+If you're working with a 3D model in the Microsoft Dynamics 365 Guides HoloLens app, and the 3D model includes multiple animations, you can select a specific animation to play back. You can also set playback options (speed, direction, and looping options). 
+
+The following 3D tookit objects in the Zone category have built-in animation options:
+
+- Circle Dashed
+- Rectangle Dashed
+- Square Dashed
+
+If an object doesn't have built-in animation, the **Animation** command is grayed out (not available). 
 
 ## Change animation options
 
