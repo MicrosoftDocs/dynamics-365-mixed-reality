@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 12/15/2021
+ms.date: 01/27/2022
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -12,6 +12,36 @@ ms.reviewer: v-bholmes
 # What's new in Dynamics 365 Remote Assist
 
 This article describes details about the **current wave of features (October 2021 through March 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
+
+## January 27, 2022
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|[New restriction capabilities prevent users from making private calls, and accessing files and assets](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/planned-features)|[Protect company information by restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)|
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|308.2201.19002|
+|iOS mobile app|2022.2.2|
+|Android mobile app|2022.2.2|
+
+### Bugs fixed 
+
+#### HoloLens 2
+
+- Added notification for users having difficulty joining a scheduled meeting. 
+- Fixed visual glitches for annotations on certain panels. 
+- Fixed issue that prevented text chat and file sharing from working. 
+- Improved behavior of pinned panels (they no longer move after the call ends). 
+
+#### Mobile
+
+- Fixed unexpected error when posting to a work order.
+- Fixed the "Oops something went wrong" pop-up that was incorrectly triggered when the app launched.
+- Fixed blank screen issues that appeared when the app was launched.
+- Fixed issue with Intune App Protection scenarios breaking due to missing Mobile Threat Defense (MTD).
 
 ## December 14, 2021
 
