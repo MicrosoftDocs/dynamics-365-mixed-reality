@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Use the Main menu in Dynamics 365 Guides to start an activity
 
+> [!VIDEO https://www.youtube.com/embed/2m3tm6kEV3E]  
+
 Version 7.0 of Dynamics 365 Guides introduces a new Main menu for the HoloLens app that makes it very easy to start an activity, such as opening a guide or starting a call with a remote expert. After signing in to the app, just look at the palm of your hand to open the Main menu, and then use direct touch to choose an activity button. 
 
 ![Animation of opening the Main menu with either hand.](media/HandMenu.gif "Animation of opening the Main menu with either hand")
