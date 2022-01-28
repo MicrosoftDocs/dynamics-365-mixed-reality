@@ -2,13 +2,15 @@
 author: Mamaylya
 description: Learn how to make a call in the Dynamics 365 Guides HoloLens app
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 01/28/2022
 ms.topic: article
 title: Make a call in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
 ---
 
 # Make a call (Preview) from the Dynamics 365 Guides HoloLens app
+
+> [!VIDEO https://www.youtube.com/embed/2m3tm6kEV3E]  
 
 > [!IMPORTANT]
 > The Calling feature for Dynamics 365 Guides is in Preview, so not all functionality is available yet. We're working to bring additional features such as chat and text scaling in later Dynamics 365 Guides releases. Please be aware of these limitations before using the Calling Preview.
