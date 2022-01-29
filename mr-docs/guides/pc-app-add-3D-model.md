@@ -2,7 +2,7 @@
 author: Mamaylya
 ms.author: mamaylya
 description: Learn how to add a 3D model (for example, an arrow or a hand) to a step in the Dynamics 365 Guides PC app. 
-ms.date: 05/04/2021
+ms.date: 01/18/2022
 ms.topic: article
 title: Add a 3D model (arrow or hand, for example) to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-bholmes
@@ -15,6 +15,9 @@ Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includ
 ![Example of holographic numbers, arrows, and zones.](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and zones")
 
 You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you want in a step.
+
+> [!NOTE]
+> Some 3D toolkit items have built-in animations that you can turn on or off. [Learn more about animation options](hololens-app-animations.md)
 
 To add a model from the 3D toolkit, follow these steps.
 
