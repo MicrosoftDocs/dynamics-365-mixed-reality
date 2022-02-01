@@ -3,7 +3,6 @@ author: amaraanigbo
 description: Multi-tenant company deployments for Dynamics 365 Remote Assist
 ms.author: soanigbo
 ms.date: 09/17/2020
-ms.service: crm-online
 ms.topic: article
 title: Multi-tenant company deployments
 ms.reviewer: v-bholmes

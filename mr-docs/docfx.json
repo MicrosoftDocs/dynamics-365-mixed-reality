@@ -83,6 +83,7 @@
       "ms.service": {
         "guides/**/**.md": "dynamics-365-guides",
         "import-tool/**/**.md": "dynamics-365-import-tool",
+        "remote-assist/**/**.md": "dynamics-365-remote-assist",
         "product-visualize/**/*.md": "dynamics-365-productvisualize"
       }
     },

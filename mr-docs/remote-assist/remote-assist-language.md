@@ -3,7 +3,6 @@ author: amaraanigbo
 description: Language support for Dynamics 365 Remote Assist
 ms.author: soanigbo
 ms.date: 07/09/2020
-ms.service: crm-online
 ms.topic: article
 title: Language support for Dynamics 365 Remote Assist
 ms.reviewer: v-bholmes

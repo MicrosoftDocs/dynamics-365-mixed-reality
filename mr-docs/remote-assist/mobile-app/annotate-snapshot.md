@@ -4,10 +4,10 @@ author: amaraanigbo
 description: Learn how to capture and annotate a 2D snapshot in the Dynamics 365 Remote Assist mobile app. 
 ms.author: soanigbo
 ms.date: 05/28/2020
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
+
 # Capture and annotate snapshots in Dynamics 365 Remote Assist mobile 
 
 Snapshots are critical in situations where a still image might help communicate what a technician is looking at. Hence, the addition of placing 2D annotations on snapshots provides emphasis on specific elements in the technicians' environment. These snapshots can be used later for reference or work validation, and can provide relief in **low-bandwidth scenarios** where live video just isn't cutting it or on **devices without AR support**; learn more about using snapshots in low-bandwidth scenarios [here](./poor-network-connectivity.md) and on devices without AR support [here](./calls-using-devices-without-ar.md). 

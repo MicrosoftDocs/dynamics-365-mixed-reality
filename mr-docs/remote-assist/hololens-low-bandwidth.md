@@ -4,7 +4,6 @@ author: amaraanigbo
 description: How the Microsoft Dynamics 365 Remote Assist HoloLens app works in environments with poor network conditions. 
 ms.author: soanigbo
 ms.date: 07/29/2021
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
