@@ -23,7 +23,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ## February 2, 2022
 
-Version XXX of the PC and HoloLens apps fixed a bug introduced in the XXX release that XXX. You don't need to update the Dynamics 365 Guides solution to get this update. 
+Version 701.2201.31001 of the PC and HoloLens apps fixes bugs in the apps. You don't need to update the Dynamics 365 Guides solution to get this update. 
 
 ## January 26, 2022
 
