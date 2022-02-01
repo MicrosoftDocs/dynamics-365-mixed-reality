@@ -21,6 +21,10 @@ This page provides details about the **current wave of features (October 2021 th
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
+## February 2, 2022
+
+Version XXX of the PC and HoloLens apps fixed a bug introduced in the XXX release that XXX. You don't need to update the Dynamics 365 Guides solution to get this update. 
+
 ## January 26, 2022
 
 |Item|Version|
