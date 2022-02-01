@@ -23,7 +23,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ## February 2, 2022
 
-Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both apps. You don't need to update the Dynamics 365 Guides solution to get this update. 
+Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both apps. To use the updated apps, you'll need Dynamics 365 Guides solution version 700.0.0.1 or later. 
 
 ## January 26, 2022
 
