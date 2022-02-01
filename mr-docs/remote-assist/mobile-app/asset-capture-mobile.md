@@ -4,10 +4,10 @@ author: amaraanigbo
 description: How to capture asset conditions with spatial markup in Dynamics 365 Remote Assist on Mobile
 ms.author: soanigbo
 ms.date: 08/11/2021
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
+
 # Capture asset conditions with spatial markup in the Dynamics 365 Remote Assist mobile app
 
 You can use the Dynamics 365 Remote Assist mobile app to capture procedures and defects during jobs such as inspections or repairs. For example, a technician can capture photos or videos of the equipment they're inspecting to highlight defects like wear and corrosion. Stakeholders within the organization, such as a service manager or site superintendent, can then view and download the captures by using the Dynamics 365 Remote Assist model-driven app.

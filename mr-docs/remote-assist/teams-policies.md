@@ -4,7 +4,6 @@ title: Microsoft Teams policies supported by Dynamics 365 Remote Assist
 author: amaraanigbo
 ms.author: soanigbo
 ms.date: 10/06/2021
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---

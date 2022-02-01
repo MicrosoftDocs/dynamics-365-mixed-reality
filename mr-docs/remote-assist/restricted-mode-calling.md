@@ -4,7 +4,6 @@ author: amaraanigbo
 description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
 ms.date: 01/27/2022
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---

@@ -4,10 +4,10 @@ author: amaraanigbo
 description: Deployment scenarios overview 
 ms.author: soanigbo
 ms.date: 09/15/2020
-ms.service: crm-online
 ms.topic: overview
 ms.reviewer: v-bholmes
 ---
+
 # Deployment scenarios overview 
 
 There are [many types of Remote Assist calls](./mobile-app/making-calls-on-remote-assist-mobile.md), some of which include only Remote Assist app users (e.g., a call between two Remote Assist mobile users), and some of which include Remote Assist app users and Teams app users (e.g., a meeting between one Remote Assist HoloLens user and two Teams desktop users). The deployment required to enable users to join the same Remote Assist call depends on several factors. This article describes four common deployment scenarios and the deployment required for each.

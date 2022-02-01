@@ -4,7 +4,6 @@ author: amaraanigbo
 description: Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile calling  
 ms.author: soanigbo
 ms.date: 04/28/2021
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---

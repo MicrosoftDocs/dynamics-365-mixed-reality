@@ -4,7 +4,6 @@ author: amaraanigbo
 description: Use cloud-based recording or several other alternatives in Microsoft Dynamics 365 Remote Assist on HoloLens
 ms.author: soanigbo
 ms.date: 04/08/2021
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---

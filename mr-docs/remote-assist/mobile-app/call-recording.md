@@ -4,10 +4,10 @@ author: amaraanigbo
 description: Learn how to record a one-to-one call with remote collaborators in the Dynamics 365 Remote Assist mobile app. 
 ms.author: soanigbo
 ms.date: 12/14/2020
-ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
+
 # Capture session history through call recordings in Dynamics 365 Remote Assist mobile
 
 With call recording, technicians can comprehensively document their Dynamics 365 Remote Assist mobile video calls with remote collaborators. For businesses, it's important to keep a record of different incidents on a daily basis. Often, these records are kept through paper trails or text-based collateral. By capturing and tracking Dynamics 365 Remote Assist video sessions, operations managers, technicians, and business decision makers can use call recordings for:
