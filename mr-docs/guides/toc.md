@@ -180,7 +180,6 @@
 #### [HoloLens app](known-issues-hololens-app.md)
 ### [Glossary of terms](glossary.md)
 ## [Use HoloLens (1st gen) devices](HL1.md)
-## Legal documents
-### [Terms of use](../legal/guides-service-terms.md)
-### [Third-party notices](../legal/guides-third-party-notices.md)
+## [Legal terms and notices for Dynamics 365 Guides](legal.md)
+
 

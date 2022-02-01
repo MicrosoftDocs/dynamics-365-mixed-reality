@@ -29,7 +29,7 @@ There are two ways to get a [!include[cc-microsoft](../includes/cc-microsoft.md)
 
 ## Assign the Dynamics 365 Guides license to user accounts
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription, you must assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to user accounts.
 
