@@ -14,7 +14,7 @@ After exporting a .GLF file, you can preview it with the Windows [3D Viewer](htt
 
 5.	If your device has a camera, you can move the **Mixed reality** slider to the **On** position and place the asset to preview it in your world.
 
-SCREEN SHOT GOES HERE
+    ![Screenshot of 3D Viewer.](media/review-3d-model.jpg "Screenshot of 3D Viewer")
  
 Ensure that your model conforms to the recommended optimization for the platform you're creating content for.
 
