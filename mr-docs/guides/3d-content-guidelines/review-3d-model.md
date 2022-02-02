@@ -23,7 +23,7 @@ After exporting a .GLB file to use with Microsoft Dynamics 365 Guides or Power A
 
     ![Screenshot of 3D Viewer.](media/review-3d-model.jpg "Screenshot of 3D Viewer")
  
-Ensure that your model conforms to the [recommended optimization](3d-content-guidelines/optimize-models.md#performance-targets) for the platform you're creating content for.
+Ensure that your model conforms to the [recommended optimization](optimize-models.md#performance-targets) for the platform you're creating content for.
 
 > [!TIP]
 > The [Babylon.JS Web Viewer](https://sandbox.babylonjs.com/) is another great option if uploading the asset is not a concern.
