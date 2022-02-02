@@ -26,9 +26,9 @@ After exporting a .GLB file to use with Microsoft Dynamics 365 Guides or Power A
 Ensure that your model conforms to the [recommended optimization](optimize-models.md#performance-targets) for the platform you're creating content for.
 
 > [!TIP]
-> The [Babylon.JS Web Viewer](https://sandbox.babylonjs.com/) is another great option if uploading the asset is not a concern.
+> The [Babylon.JS Web Viewer](https://sandbox.babylonjs.com/) is another great option if uploading the model is not a concern.
 
-If the asset requires any additional editing or animation work in another staging application, consider using .FBX as an intermediate file format. FBX is an 
+If the model requires any additional editing or animation work in another staging application, consider using .FBX as an intermediate file format. FBX is an 
 Autodesk exchange format designed to preserve additional authoring data that might be required by your staging application.
 
 ### See also
