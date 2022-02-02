@@ -1,6 +1,6 @@
 
 
-# Review a 3D file
+# Review a 3D model
 
 You can preview the resulting .GLB file(s) with the 3D Viewer on Windows, where you can visualize the individual texture channels and view stats such as triangle count 
 and draw calls to confirm the asset exported as expected.meets the recommend performance targets.
