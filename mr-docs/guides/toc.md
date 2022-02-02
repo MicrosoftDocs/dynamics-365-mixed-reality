@@ -141,11 +141,13 @@
 #### [Set up Guides Analytics](analytics-ga-setup.md)
 #### [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
 #### [Share Guides Analytics reports](analytics-ga-share-reports.md)
+
 ## Convert 3D models to use as holograms
 ### [Overview of converting 3D models](3d-content-guidelines/index.md)
 ### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
 ### [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
 ### [Best practices for real-time 3D models](3d-content-guidelines/best-practices.md)
+### [Review a 3D model](3d-content-guidelines/review-3d-model.md)
 ### Tutorials
 #### [Overview](3d-content-guidelines/tutorials-overview.md)
 #### [Agisoft Metashape](3d-content-guidelines/agisoft-metashape.md)

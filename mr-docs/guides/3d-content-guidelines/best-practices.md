@@ -140,6 +140,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 - [Overview of preparing 3D models](index.md)
 - [Convert 3D models](convert-models.md)
 - [Optimize 3D models](optimize-models.md)
+- [Review a 3D model](review-3d-model.md)
 - [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
 
 
