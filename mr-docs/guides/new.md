@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 01/26/2022
+ms.date: 02/02/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -20,6 +20,10 @@ This page provides details about the **current wave of features (October 2021 th
 > Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md). See the **Features** table below to determine if a new feature requires a solution update. 
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
+
+## February 2, 2022
+
+Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both apps. To use the updated apps, you'll need Dynamics 365 Guides solution version 700.0.0.1 or later. 
 
 ## January 26, 2022
 
