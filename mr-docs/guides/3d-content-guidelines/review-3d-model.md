@@ -30,3 +30,11 @@ Ensure that your model conforms to the [recommended optimization](optimize-model
 
 If the asset requires any additional editing or animation work in another staging application, consider using .FBX as an intermediate file format. FBX is an 
 Autodesk exchange format designed to preserve additional authoring data that might be required by your staging application.
+
+### See also
+
+- [Overview of preparing 3D models](index.md)
+- [Convert 3D models](convert-models.md)
+- [Optimize 3D models](optimize-models.md)
+- [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
+- [Best practices for converting and optimizing 3D models](best-practices.md)
