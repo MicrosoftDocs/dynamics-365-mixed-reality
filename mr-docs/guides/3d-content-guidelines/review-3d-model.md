@@ -2,10 +2,9 @@
 
 # Review a 3D model
 
-You can preview the resulting .GLB file(s) with the 3D Viewer on Windows, where you can visualize the individual texture channels and view stats such as triangle count 
-and draw calls to confirm the asset exported as expected.meets the recommend performance targets.
+After exporting a .GLF file, You can preview it with the Windows [3D Viewer](https://www.microsoft.com/p/3d-viewer/9nblggh42ths). You can use the 3D Viewer to visualize the individual texture channels and view stats such as triangle count and draw calls to confirm the asset meets the recommended performance targets.
 
-1.	Open 3D Viewer .
+1.	Open [3D Viewer](https://www.microsoft.com/p/3d-viewer/9nblggh42ths).
 
 2.	Drag and drop a .GLB file into the viewport (or select File > Open to browse for a .GLB file).
 
