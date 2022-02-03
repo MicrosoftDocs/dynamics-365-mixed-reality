@@ -26,9 +26,7 @@ You can install both apps from [!include[cc-microsoft](../includes/cc-microsoft.
 
 If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business to distribute your apps, you can have users install the apps either from your organization's private store or from an email link that you send. See the instructions later in this topic.
 
-## Install the apps from Microsoft Store
-
-### Install the PC authoring app
+## Download the PC app
 
 1. Make sure that your computer that runs [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 is running build 10.0.17134 (April 2018 update) or later.
 
@@ -39,7 +37,7 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
     > [!NOTE]
     > For information about how to open and sign in to the app, see [Install, open, and sign in to the PC app](install-sign-in-pc-app.md).
 
-### Install the HoloLens 2 app
+## Launch the HoloLens app
 
 Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to the **Start** menu. Use the [Start gesture](operator-gestures-HL2.md) to open the **Start** menu. [Learn how to sign in to the HoloLens app](hololens-app-install-sign-in.md).
 
