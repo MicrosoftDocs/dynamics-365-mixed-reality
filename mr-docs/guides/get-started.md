@@ -82,6 +82,8 @@ We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 
 To learn when features were introduced, or to learn about upcoming features, see the Release plan:
 
+- [2022 Wave 1 (April 2022 through September 2022)](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/planned-features)
+
 - [2021 Wave 2 (October 2021 through March 2022)](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features)
 
 - [2021 Wave 1 (April 2021 through September 2021)](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features)
