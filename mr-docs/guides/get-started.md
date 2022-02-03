@@ -11,7 +11,7 @@ ms.custom: "intro-internal"
 
 # Get started with Dynamics 365 Guides
 
-Ready to get started with Microsoft Dynamics 365 Guides? Follow these three steps to jumpstart your learning curve! 
+Ready to get started with Microsoft Dynamics 365 Guides? Follow these three steps to jumpstart your learning curve. 
 
 |![Screenshot of PC app.](media/pc-app.jpg "Screenshot of PC app")|![Screenshot of HoloLens app.](media/hololens-app.jpg "Screenshot of HoloLens app")|![Screenshot of woman operating a guide.](media/best-practices.jpg "Screenshot of woman operating a guide")|
 |-----------------------------------|-----------------------------------|-----------------------------------|
