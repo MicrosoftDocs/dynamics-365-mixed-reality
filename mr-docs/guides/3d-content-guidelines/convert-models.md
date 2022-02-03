@@ -37,6 +37,7 @@ In situations where a CAD application doesn’t have an export option for FBX, O
 - [Overview of preparing 3D models](index.md)
 - [Optimize 3D models](optimize-models.md)
 - [Best practices for converting and optimizing models](best-practices.md)
+- [Review a 3D model](review-3d-model.md)
 - [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
 
 

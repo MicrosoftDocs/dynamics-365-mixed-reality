@@ -55,6 +55,7 @@ The following table lists some general conservative targets to aim for when acqu
 - [Overview of preparing 3D models](index.md)
 - [Convert 3D models](convert-models.md)
 - [Best practices for converting and optimizing 3D models](best-practices.md)
+- [Review a 3D model](review-3d-model.md)
 - [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
 
 
