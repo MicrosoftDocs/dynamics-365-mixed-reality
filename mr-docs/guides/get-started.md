@@ -94,7 +94,7 @@ To learn when features were introduced, or to learn about upcoming features, see
 
 - [2019 Wave 1 (April 2019 through September 2019)](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
-## Integrations
+## Integrations with other Dynamics 365 products
 
 You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service and Dynamics 365 Supply Chain Management.
 
