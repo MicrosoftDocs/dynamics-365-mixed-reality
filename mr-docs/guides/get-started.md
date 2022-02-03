@@ -13,7 +13,7 @@ ms.custom: "intro-internal"
 
 Ready to get started with Microsoft Dynamics 365 Guides? Follow these three steps to download the apps and start creating!
 
-|SCREENSHOT|SCREENSHOT|SCREENSHOT|
+|![XXX.](media/pc-app.jpg "XXX")|![XXX.](media/hololens-app.jpg "XXX")|![XXX.](media/best-practices.jpg "XXX")|
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |STEP 1|STEP 2|STEP 3|
 |**Author in the PC app**|**Place holograms in the world**|**Use, iterate, and share your guide**|
