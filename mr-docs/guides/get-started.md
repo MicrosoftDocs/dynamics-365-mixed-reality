@@ -13,9 +13,9 @@ ms.custom: "intro-internal"
 
 Ready to get started with Microsoft Dynamics 365 Guides? Follow these three steps to download the apps and start creating!
 
-|![XXX.](media/pc-app.jpg "XXX")|![XXX.](media/hololens-app.jpg "XXX")|![XXX.](media/best-practices.jpg "XXX")|
+|![Screenshot of PC app.](media/pc-app.jpg "Screenshot of PC app")|![Screenshot of HoloLens app.](media/hololens-app.jpg "Screenshot of HoloLens app")|![Screenshot of woman operating a guide.](media/best-practices.jpg "Screenshot of woman operating a guide")|
 |-----------------------------------|-----------------------------------|-----------------------------------|
-|STEP 1|STEP 2|STEP 3|
+|**STEP 1**|**STEP 2**|**STEP 3**|
 |**Author in the PC app**|**Place holograms in the world**|**Use, iterate, and share your guide**|
 |Create step-by-step instructions and customize with images, videos, and 3D models.|Use the HoloLens app to place and customize the 3D models you chose in the PC app into the world. |Review your step-by-step instructions and share with others.|
 |[![Download PC app button.](media/download-pc-app.jpg "Download PC app button")](setup-step-three.md#download-the-pc-app)|[![Launch HoloLens app button.](media/launch-hololens-app.jpg "Launch HoloLens app button")](setup-step-three.md#open-the-hololens-app)|[![View best practices button.](media/download-pc-app.jpg "View best practices button")](great-guide.md)|
