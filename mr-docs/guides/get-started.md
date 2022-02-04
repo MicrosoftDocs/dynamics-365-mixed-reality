@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about all the resources available for getting started with Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 11/08/2021
+ms.date: 02/03/2021
 ms.topic: article
 title: Get started with Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -11,9 +11,16 @@ ms.custom: "intro-internal"
 
 # Get started with Dynamics 365 Guides
 
-Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]? Not sure where to begin? Use this page to get a quick overview of available resources.
+Ready to get started with Microsoft Dynamics 365 Guides? Follow these three steps to jumpstart your learning curve after [installing the solution](setup-step-two.md). 
 
-## Top resources
+|![Screenshot of PC app.](media/pc-app.jpg "Screenshot of PC app")|![Screenshot of HoloLens app.](media/hololens-app.jpg "Screenshot of HoloLens app")|![Screenshot of woman operating a guide.](media/best-practices.jpg "Screenshot of woman operating a guide")|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|**STEP 1**|**STEP 2**|**STEP 3**|
+|**Author in the PC app**|**Place holograms in the world**|**Use, iterate, and share your guide**|
+|Create step-by-step instructions and customize with images, videos, and 3D models.|Use the HoloLens app to place and customize the 3D models you chose in the PC app into the world. |Review your step-by-step instructions and share with others.|
+|[Download the PC app](setup-step-three.md#download-the-pc-app)|[Launch the HoloLens app](setup-step-three.md#launch-the-hololens-app)|[View best practices](great-guide.md)|
+
+## Top resources for learning about Dynamics 365 Guides
 
 ### Documentation
 
@@ -75,6 +82,8 @@ We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 
 To learn when features were introduced, or to learn about upcoming features, see the Release plan:
 
+- [2022 Wave 1 (April 2022 through September 2022)](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/planned-features)
+
 - [2021 Wave 2 (October 2021 through March 2022)](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features)
 
 - [2021 Wave 1 (April 2021 through September 2021)](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/planned-features)
@@ -87,7 +96,7 @@ To learn when features were introduced, or to learn about upcoming features, see
 
 - [2019 Wave 1 (April 2019 through September 2019)](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
-## Integrations
+## Integrations with other Dynamics 365 products
 
 You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service and Dynamics 365 Supply Chain Management.
 
