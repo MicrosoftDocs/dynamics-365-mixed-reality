@@ -23,15 +23,15 @@ When operators use the Microsoft Dynamics 365 Guides HoloLens app, data about ap
 
 #### 1. Sign in to Dynamics 365 Guides
 
-Data for all users is automatically stored in the MR Apps Session table. 
+Data for all users is automatically stored in the [MR Apps Session table](analytics-data-collected.md). 
 
 #### 2. Author a guide in the PC or HoloLens app
 
-Data for all authors is automatically stored in the Guide Author Session table. 
+Data for all authors is automatically stored in the [Guide Author Session table](analytics-data-collected.md). 
 
 #### 3. Operate a guide
 
-**Next** and **Back** button interactions are recorded to determine the time spent on each step. Operator data is automatically stored in the Guides Session table 
+**Next** and **Back** button interactions are recorded to determine the time spent on each step. Operator data is automatically stored in the [Guides Session table](analytics-data-collected.md). 
 
 #### 4. Trigger alerts or visualize data
 
