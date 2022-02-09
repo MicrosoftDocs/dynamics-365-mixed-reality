@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: How-to videos for Dynamics 365 Layout (contains video)
 ms.reviewer: v-brycho
+robots: noindex,nofollow
 ---
 
 # How-to videos for Dynamics 365 Layout

@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Device options and technical requirements for Dynamics 365 Layout
 ms.reviewer: v-brycho
+robots: noindex,nofollow
 ---
 
 # Device options and technical requirements for Dynamics 365 Layout
