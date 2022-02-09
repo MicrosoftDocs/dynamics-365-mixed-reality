@@ -19,6 +19,14 @@ When operators use the Microsoft Dynamics 365 Guides HoloLens app, data about ap
 
 - Integrated into your own custom workflows. For example, you could create a custom workflow in Microsoft Power Automate or by using third-party visualization tools or systems.
 
+Limitations of data capture:
+
+- Data will not be collected if an operator is working in offline mode.
+
+- Data might be lost if an internet connection is intermittent.
+
+- For best data capture results, after an intermittent internet connection is restored, wait for data to be uploaded to Microsoft Dataverse before closing the app.
+
 ### How it works
 
 #### 1. Sign in to Dynamics 365 Guides
