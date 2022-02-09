@@ -4,19 +4,17 @@ description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage
 ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
-title: Microsoft Dataverse data opt out for Dynamics 365 Guides
+title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 ms.reviewer: v-brycho
 ---
 
-# Opt out of storing Dynamics 365 Guides operations data in Microsoft Dataverse
-
-
+# Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 
 Dynamics 365 Guides apps enable teams to capture usage statistics and detailed time-tracking information. This data is used to 
-provide metrics for operator performance and help you identify opportunities for process optimization. Administrators can turn off 
+provide metrics for operator and author performance and help you identify opportunities for process optimization. Administrators can turn off 
 data collection for specific users if they like. 
 
-To do this:
+## Opt out of storing usage data
 
 1. Go to powerapps.microsoft.com and sign in with your admin account.
 
