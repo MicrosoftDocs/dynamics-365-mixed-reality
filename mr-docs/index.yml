@@ -24,21 +24,6 @@ additionalContent:
           text: Documentation
        
     # Card
-    - title: Dynamics 365 Import Tool (in preview)
-      # imageSrc: /dynamics365/images/ImportTool.svg
-      links:
-        - url: ./import-tool/index.md
-          text: Documentation
-      
-    # Card
-    - title: Dynamics 365 Layout
-      # imageSrc: /dynamics365/images/Layout_color.svg
-      links:
-        - url: ./layout/index.md
-          text: Documentation
-     
-      
-    # Card
     - title: Dynamics 365 Remote Assist
       # imageSrc: /dynamics365/images/Remote_Assist__color.svg
       links:
