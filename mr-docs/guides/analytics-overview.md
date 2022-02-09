@@ -4,38 +4,36 @@ description: Get an overview of how to analyze guides using Microsoft Dynamics 3
 ms.author: cynielse
 ms.date: 11/08/2021
 ms.topic: overview
-title: Overview of analyzing guides created with Dynamics 365 Guides
+title: Overview of analyzing and integrating Dynamics 365 Guides usage data
 ms.reviewer: v-bholmes
 ---
 
-# Overview of analyzing and integrating Dynamics 365 Guides operations data
+# Overview of analyzing and integrating Dynamics 365 Guides usage data
 
 > [!IMPORTANT]
 > We recently identified an issue with an update where Dynamics 365 Guides operator sessions data (for both authors and operators) has not been saved to Microsoft Dataverse. Users may notice that session data was not being recorded as early as October 15, depending on region. [Learn more](known-issues-hololens-app.md)
 
-When operators use the Microsoft Dynamics 365 Guides HoloLens app in Operate mode, data about guide usage is automatically stored in your private and secure Dynamics 365 environment where it can be analyzed in either of the following ways:
+When operators use the Microsoft Dynamics 365 Guides HoloLens app, data about app and guide usage is automatically stored in your private and secure Dynamics 365 environment where it can be analyzed in either of the following ways:
 
 - Using the [Guides Analytics Power BI templates](analytics-guide.md)
 
 - Integrated into your own custom workflows. For example, you could create a custom workflow in Microsoft Power Automate or by using third-party visualization tools or systems.
 
-The operations data, which includes information about time spent on each step and whether an operator completed a guide, is stored in Microsoft Dataverse tables just like your Dynamics 365 Guides content. These tables make it easy to analyze guide usage across your organization, gain insights into process efficiency, or trigger workflows outside of Dynamics 365 Guides.
-
 ### How it works
 
-#### 1. Operate a guide
+#### 1. Sign in to Dynamics 365 Guides
 
-**Next** and **Back** button interactions are recorded to determine the time spent on each step.
+Data for all users is automatically stored in the MR Apps Session table. 
 
-![HoloLens operator at work.](media/analytics-hololens-operator-1.PNG "HoloLens operator at work")
+#### 2. Author a guide in the PC or HoloLens app
 
-#### 2. Data is automatically stored
+Data for all authors is automatically stored in the Guide Author Session table. 
 
-Step time data is stored in your **private and secure** Dynamics 365 environment.
+#### 3. Operate a guide
 
-![Screen shot of saved step time data .](media/analytics-data-stored-automatically-1.PNG "Screen shot of saved step time data")
+**Next** and **Back** button interactions are recorded to determine the time spent on each step. Operator data is automatically stored in the Guides Session table 
 
-#### 3. Trigger alerts or visualize data
+#### 4. Trigger alerts or visualize data
 
 Use the Power Platform to analyze and act on your data.
 
