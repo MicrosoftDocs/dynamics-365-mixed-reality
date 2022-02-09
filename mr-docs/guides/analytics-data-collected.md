@@ -16,18 +16,6 @@ When an operator uses the Microsoft Dynamics 365 Guides HoloLens app in Operate 
 
 - Guide Session Step Visit  
 
-## Guide Session table 
-
-Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
-
-## Guide Session Step Visit table 
-
-Each row in the Guide Session Step Visit table corresponds to an operator’s visit to a step in HoloLens Operate mode. Information is recorded for each step visit such as start and end time and step operating time. If an operator visited a step multiple times, perhaps by navigating backward and forward in the guide, each visit would result in a separate row in this table. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md). 
-
-## Guide Author Session table
-
-Each row in the Guide Author Session table corresponds to a HoloLens or PC app interaction with a guide in Authoring mode. Information about the session, such as User ID, guide name, start time, end time, and device class are recorded. For more information, see the [Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
-
 ## MR App Session table
 
 Dynamics 365 Guides also includes an MR App Session table that you can use to determine the overall usage of the product in your organization. This is useful so you can determine where to assign Dynamics 365 Guides licenses. 
@@ -36,6 +24,18 @@ The MR App Session table stores a record whenever a user signs into an instance.
 
 > [!NOTE]
 > Data in the MR App Session table is accessible by admin users or by scripted actions that act as admin users. 
+
+## Guide Author Session table
+
+Each row in the Guide Author Session table corresponds to a HoloLens or PC app interaction with a guide in Authoring mode. Information about the session, such as User ID, guide name, start time, end time, and device class are recorded. For more information, see the [Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
+
+## Guide Session table 
+
+Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
+
+## Guide Session Step Visit table 
+
+Each row in the Guide Session Step Visit table corresponds to an operator’s visit to a step in HoloLens Operate mode. Information is recorded for each step visit such as start and end time and step operating time. If an operator visited a step multiple times, perhaps by navigating backward and forward in the guide, each visit would result in a separate row in this table. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md). 
 
 ## What can you do with the data? 
 
