@@ -10,35 +10,33 @@ ms.reviewer: v-bholmes
 
 # Overview of Dynamics 365 Remote Assist on HoloLens and HoloLens 2
 
-When you use Dynamics 365 Remote Assist on HoloLens or HoloLens 2, you can collaborate with one or more Teams desktop users or one Teams mobile user. Remote Assist on HoloLens and HoloLens 2 offer the same capabilities; however, there are slight differences in the way you interact with holograms. Those differences are described in this article.
+When you use Dynamics 365 Remote Assist on HoloLens or HoloLens 2, you can collaborate with one or more Microsoft Teams desktop users or one Teams mobile user. Remote Assist on HoloLens and HoloLens 2 offer the same capabilities; however, there are slight differences in the way you interact with holograms. Those differences are described in this article.
 
 ## Overview of core features
 
-When you launch Dynamics 365 Remote Assist, the **Call** tab appears. This is where you'll see your recent contacts. When you join a call or meeting, you'll see a video card.  
+When you launch Dynamics 365 Remote Assist, the **Call** tab appears. This is where you'll see your recent contacts. When you join a call or meeting, you'll see a video card. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, move the window, and pin the window in place.  
 
 ![Screenshot of the HoloLens field of view, showing the Call tab screen.](media/02.00-contacts.png)
 
-The previous screenshot shows the **Call** tab. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, move the window, and pin the window in place.
+Select the **Files** tab at any time (before, during, or after a call) to access service-related documents from your OneDrive for Business and place them into your field of view.
 
- ![Screenshot of the HoloLens field of view, showing the Files tab screen.](media/06.00-files.png "Files")
+![Screenshot of the HoloLens field of view, showing the Files tab screen.](media/06.00-files.png "Files")
 
- The previous screenshot shows the Files tab. You can select the **Files** tab at any time (before, during, or after a call) to access service-related documents from your OneDrive for Business and place them into your field of view.
-
-![Screenshot of the HoloLens field of view, showing the Settings tab screen.](media/08.00-settings.png "Settings")
-
-The previous screenshot shows the Settings tab. You can select the **Settings** tab at any time to:
+Select the **Settings** tab to:
 
 - Configure various settings
 - Provide feedback
 - Watch the brief tutorial you saw the first time you used Dynamics 365 Remote Assist
-- Find tutorials on Microsoft Docs
-- Switch your Dynamics instance.  
+- Find tutorials 
+- Switch your Dynamics 365 instance.  
+
+![Screenshot of the HoloLens field of view, showing the Settings tab screen.](media/08.00-settings.png "Settings")
+
+When you're in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars for all call participants.  
 
 ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing an active call showing the recording button.](media/03.00-call.png)
 
-The previous screenshot shows a video card. When you're in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars of all call participants.  
-
-As a Dynamics 365 Remote Assist HoloLens user, you can make or join a one-to-one call, group call, or meeting scheduled using Teams or Outlook.
+As a Dynamics 365 Remote Assist HoloLens user, you can make or join a one-to-one call, group call, or scheduled meeting by using Teams or Outlook.
 
 Remote collaborators can join the call using Microsoft Teams desktop application or mobile application.  
 
