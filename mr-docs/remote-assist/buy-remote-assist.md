@@ -33,7 +33,7 @@ Buy Dynamics 365 Remote Assist licenses through your Microsoft 365 or Microsoft 
 
     ![Screenshot of the admin portal.](./media/buy_1.png "Admin Portal")
 
-2.	Make sure the **Try the new admin center** toggle is turned off.
+2.	Make sure the **Try the new admin center** option is turned off.
 
 3.	In the left navigation bar, select **Billing** > **Purchase Services**. 
 
@@ -50,17 +50,18 @@ Buy Dynamics 365 Remote Assist licenses through your Microsoft 365 or Microsoft 
 
 If you’re a Dynamics 365 Field Service customer, you can buy Dynamics 365 Remote Assist Attach licenses through your Microsoft 365 or Microsoft 365 administrator portal. 
 
-1.	Log into the [Microsoft 365 or Microsoft 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration)
+1.	Sign in to the [Microsoft 365 or Microsoft 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration).
  
-2.	Make sure the **Try the new admin center** toggle is turned off.
+2.	Make sure the **Try the new admin center** option is turned off.
   
 3.	In the left navigation bar, select **Billing** > **Purchase Services**. 
  
 4.	A list of services will appear. Search for or scroll down until you find **Dynamics 365 Remote Assist Attach**.
 
-5.	Hover over the plan and two options will appear: Start free trial or Buy now. Select **Buy now**. Follow the next steps of the payment process. 
+5.	Hover over the plan. Two options will appear: Start free trial or Buy now. Select **Buy now**, and then follow the next steps of the payment process. 
 
 ## Next step
+
 - [Deploy Dynamics 365 Remote Assist in your organization](deploy-remote-assist.md).
 
 
