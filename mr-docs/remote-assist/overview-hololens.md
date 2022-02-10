@@ -48,7 +48,7 @@ When you join a call or meeting, you'll see a video card. When you're in a call,
 
 ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing an active call showing the recording button.](media/03.00-call.png)
 
-## Available tools
+## Annotation and other tools
 
 Anyone on the call can use the following tools:
 
