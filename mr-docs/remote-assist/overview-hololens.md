@@ -14,13 +14,15 @@ When you use Microsoft Dynamics 365 Remote Assist on HoloLens or HoloLens 2, you
 
 ## Prerequisites
 
-- Subscription to Dynamics 365 Remote Assist and Microsoft Teams.
-- HoloLens or HoloLens 2 running the [Windows 10 April 2018 update](requirements.md).
-- Remote collaborator using the Teams desktop application or the Teams mobile app.  
+To use Dynamics 365 Remote Assist with HoloLens or HoloLens 2, you need:
+
+- A subscription to Dynamics 365 Remote Assist and Microsoft Teams. The Teams license is included with Dynamics 365 Remote Assist. 
+- A HoloLens or HoloLens 2 running the [Windows 10 April 2018 update](requirements.md) or later.
+- A remote collaborator using the Teams desktop application or the Teams mobile app.  
 - An internet connection. At least [1.5 mpbs of bandwidth is recommended](/microsoftteams/upgrade-prepare-environment-prepare-network#bandwidth-planning).
+- To know your credentials for signing into the HoloLens and Dynamics 365 Remote Assist.
+- To have Dynamics 365 Remote Assist installed on your HoloLens or HoloLens 2.
 - (Optional) To connect to Dynamics 365 Field Service from Dynamics 365 Remote Assist, you'll need a Dynamics 365 license.
-- Know your credentials for signing into the HoloLens and Dynamics 365 Remote Assist.
-- Dynamics 365 Remote Assist is installed on your HoloLens or HoloLens 2.
 
 ## Overview of core features
 
