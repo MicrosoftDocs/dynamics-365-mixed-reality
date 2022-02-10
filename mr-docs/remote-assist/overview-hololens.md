@@ -14,7 +14,7 @@ When you use Microsoft Dynamics 365 Remote Assist on HoloLens or HoloLens 2, you
 
 ## Overview of core features
 
-When you launch Dynamics 365 Remote Assist, the **Call** tab appears. This is where you'll see your recent contacts. When you join a call or meeting, you'll see a video card. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, move the window, and pin the window in place.  
+When you launch Dynamics 365 Remote Assist, the **Call** tab appears. This is where you'll see your recent contacts. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, move the window, and pin the window in place.  
 
 ![Screenshot of the HoloLens field of view, showing the Call tab screen.](media/02.00-contacts.png)
 
