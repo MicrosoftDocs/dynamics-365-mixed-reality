@@ -60,7 +60,7 @@ Anyone on the call can use the following tools:
 |![Graphic showing the undo button.](media/RAHL_Undo.png "Undo")|Undo an action.|
 |![Graphic showing the delete button.](media/RAHL_Trash.png "Delete")|Delete all annotations.|
 |![Graphic showing the camera button.](media/RAHL_Camera.png "Camera")|Take a photo of what you see.|
-|![Graphic showing the pin button.](media/RAHL_Pin.png "Pin")|Place the call window wherever you want by using the Pin button. You can use the same button to unpin the call window.|
+|![Graphic showing the pin button.](media/RAHL_Pin.png "Pin")|Pin the call window wherever you want. Use the same button to unpin the call window.|
 
 Anyone on the call can also send files, which will pop up in the space of the people they're collaborating with.  
 
