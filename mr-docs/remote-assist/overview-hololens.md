@@ -18,7 +18,7 @@ When you launch Dynamics 365 Remote Assist, the **Call** tab appears. This is wh
 
 ![Screenshot of the HoloLens field of view, showing the Call tab screen.](media/02.00-contacts.png)
 
-Select the **Files** tab at any time (before, during, or after a call) to access service-related documents from your OneDrive for Business and place them into your field of view.
+Select the **Files** tab at any time (before, during, or after a call) to access service-related documents from OneDrive for Business.
 
 ![Screenshot of the HoloLens field of view, showing the Files tab screen.](media/06.00-files.png "Files")
 
