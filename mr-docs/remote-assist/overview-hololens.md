@@ -68,9 +68,7 @@ Anyone on the call can use the following buttons to communicate with each other:
 
 Anyone on the call can also send files, which will pop up in your space.  
 
-## Supported languages
 
-Dynamics 365 Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Dynamics 365 Remote Assist in [our FAQs](faq-hololens.md).
 
 ## Collaborating with a Teams desktop user versus a Teams mobile user
 
@@ -123,5 +121,8 @@ If your organization uses Dynamics 365 Field Service to manage work orders, the 
 - Save snapshots to a booking
 - Save call artifacts to the work order that the booking is associated with, including the call log and files shared during the call
 
+## Supported languages
+
+Dynamics 365 Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Dynamics 365 Remote Assist in [our FAQs](faq-hololens.md).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
