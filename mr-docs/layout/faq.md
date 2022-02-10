@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
 ms.reviewer: v-brycho
+robots: noindex,nofollow
 ---
 
 # Dynamics 365 Layout FAQ

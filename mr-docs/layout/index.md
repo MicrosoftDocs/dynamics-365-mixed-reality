@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Overview of Dynamics 365 Layout
 ms.reviewer: v-brycho
+robots: noindex,nofollow
 ---
 
 # Overview of Dynamics 365 Layout

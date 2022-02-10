@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Layout
 ms.reviewer: v-brycho
+robots: noindex,nofollow
 ---
 
 # Deploy Dynamics 365 Layout

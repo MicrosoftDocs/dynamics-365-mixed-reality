@@ -6,6 +6,7 @@ ms.date: 11/25/2020
 ms.topic: article
 title: Use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
+robots: noindex,nofollow
 ---
 
 # Use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
