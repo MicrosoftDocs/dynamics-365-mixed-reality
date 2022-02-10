@@ -31,13 +31,13 @@ Buy Dynamics 365 Remote Assist licenses through your Microsoft 365 or Microsoft 
 
 1.	Log into the [Microsoft 365 or Microsoft 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration ) using your organization’s admin account.
 
-![Screenshot of the admin portal.](./media/buy_1.png "Admin Portal")
+    ![Screenshot of the admin portal.](./media/buy_1.png "Admin Portal")
 
 2.	Make sure the **Try the new admin center** toggle is turned off.
 
 3.	In the left navigation bar, select **Billing** > **Purchase Services**. 
 
-![Screenshot of the billing Tab.](./media/buy_3.png "Billing Tab")
+    ![Screenshot of the billing Tab.](./media/buy_3.png "Billing Tab")
 
 4.	A list of services will appear. Search for or scroll down until you find **Dynamics 365 Remote Assist**.
 
