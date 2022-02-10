@@ -64,7 +64,7 @@ Anyone on the call can use the following tools:
 
 Anyone on the call can also send files, which will pop up in the space of the people they're collaborating with.  
 
-## Supported types of calls
+## Types of calls supported
 
 As a Dynamics 365 Remote Assist HoloLens user, you can make or join a one-to-one call, group call, or scheduled meeting by using Teams or Outlook.
 
