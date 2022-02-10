@@ -22,7 +22,7 @@ To use Dynamics 365 Remote Assist with HoloLens or HoloLens 2, you need:
 - An internet connection. At least [1.5 mpbs of bandwidth is recommended](/microsoftteams/upgrade-prepare-environment-prepare-network#bandwidth-planning).
 - To know your credentials for signing into the HoloLens and Dynamics 365 Remote Assist.
 - To have Dynamics 365 Remote Assist installed on your HoloLens or HoloLens 2.
-- (Optional) To connect to Dynamics 365 Field Service from Dynamics 365 Remote Assist, you'll need a Dynamics 365 license.
+- (Optional) To connect to Dynamics 365 Field Service from Dynamics 365 Remote Assist, you'll need a Dynamics 365 license. Learn about licensing required to use Dynamics 365 Field Service with Dynamics 365 Remote Assist (buy-remote-assist.md).
 
 ## Overview of core features
 
