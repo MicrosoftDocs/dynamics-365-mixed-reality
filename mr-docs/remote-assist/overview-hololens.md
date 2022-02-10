@@ -32,7 +32,7 @@ Select the **Settings** tab to:
 
 ![Screenshot of the HoloLens field of view, showing the Settings tab screen.](media/08.00-settings.png "Settings")
 
-When you're in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars for all call participants.  
+When you join a call or meeting, you'll see a video card. When you're in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars for all call participants.  
 
 ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing an active call showing the recording button.](media/03.00-call.png)
 
