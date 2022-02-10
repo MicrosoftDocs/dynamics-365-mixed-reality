@@ -10,9 +10,9 @@ ms.reviewer: v-bholmes
 
 # Buy Dynamics 365 Remote Assist
 
-Dynamics 365 Remote Assist gives your workers tools to complete tasks more quickly, safely, and efficiently, whether they're using HoloLens 1, HoloLens 2, or their mobile devices.
+Dynamics 365 Remote Assist gives workers tools to complete tasks more quickly, safely, and efficiently, on a HoloLens or mobile device. 
 
-In this article, we’ll walk through the two types of Dynamics 365 Remote Assist licenses: 
+This article describes the two types of Dynamics 365 Remote Assist licenses and how to subscribe to them: 
 
 - Dynamics 365 Remote Assist license 
 
@@ -23,7 +23,7 @@ In this article, we’ll walk through the two types of Dynamics 365 Remote Assis
     
 ## Prerequisites 
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). For more information, [learn more about admin permission](/office365/admin/admin-overview/admin-overview?view=o365-worldwide). 
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permission](/office365/admin/admin-overview/admin-overview?view=o365-worldwide) 
 
 ## Option 1: Dynamics 365 Remote Assist license 
 
@@ -41,7 +41,7 @@ Buy Dynamics 365 Remote Assist licenses through your Microsoft 365 or Microsoft 
 
 4.	A list of services will appear. Search for or scroll down until you find **Dynamics 365 Remote Assist**.
 
-5.	Hover over the plan and two options will appear: **Start free trial** or **Buy now**. Select **Buy now**. Follow the next steps of the payment process. 
+5.	When you hover over the plan, two options appear: **Start free trial** or **Buy now**. Select **Buy now**, and then follow the next steps of the payment process. 
 
 > [!NOTE]
 > For more information, see this article on [assigning devices-based licenses](/hololens/hololens2-deployment-guide#general-deployment-recommendations-and-instructions).
@@ -58,7 +58,7 @@ If you’re a Dynamics 365 Field Service customer, you can buy Dynamics 365 Remo
  
 4.	A list of services will appear. Search for or scroll down until you find **Dynamics 365 Remote Assist Attach**.
 
-5.	Hover over the plan. Two options will appear: Start free trial or Buy now. Select **Buy now**, and then follow the next steps of the payment process. 
+5.	When you hover over the plan, two options appear: **Start free trial** or **Buy now**. Select **Buy now**, and then follow the next steps of the payment process. 
 
 ## Next step
 
