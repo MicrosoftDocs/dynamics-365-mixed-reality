@@ -62,7 +62,7 @@ Anyone on the call can use the following tools:
 |![Graphic showing the camera button.](media/RAHL_Camera.png "Camera")|Take a photo of what you see.|
 |![Graphic showing the pin button.](media/RAHL_Pin.png "Pin")|Place the call window wherever you want by using the Pin button. You can use the same button to unpin the call window.|
 
-Anyone on the call can also send files, which will pop up in the space of people they're collaborating with.  
+Anyone on the call can also send files, which will pop up in the space of the people they're collaborating with.  
 
 ## Supported types of calls
 
@@ -71,8 +71,6 @@ As a Dynamics 365 Remote Assist HoloLens user, you can make or join a one-to-one
 Remote collaborators can join the call using the Microsoft Teams desktop application or the mobile app.  
 
 In a call, remote collaborators can see everything you see (including holograms and the real world behind the holograms) and can add annotations, insert files into your world, and more.
-
-
 
 ## Collaborating with a Teams desktop user versus a Teams mobile user
 
