@@ -38,25 +38,27 @@ When you join a call or meeting, you'll see a video card. When you're in a call,
 
 As a Dynamics 365 Remote Assist HoloLens user, you can make or join a one-to-one call, group call, or scheduled meeting by using Teams or Outlook.
 
-Remote collaborators can join the call using Microsoft Teams desktop application or mobile application.  
+Remote collaborators can join the call using the Microsoft Teams desktop application or the mobile app.  
 
-In a call, remote collaborators can see everything you see – including holograms and the real world behind the holograms – and can add annotations, insert files into your world, and more.
+In a call, remote collaborators can see everything you see (including holograms and the real world behind the holograms) and can add annotations, insert files into your world, and more.
 
-A good way to learn Dynamics 365 Remote Assist features and voice commands is to say "Remote Assist." When you're in a call, the app will show what it believes you said by showing a check mark and "Remote Assist." Then, the app will show the name of each button, as you see in the previous video call screenshot. After a few seconds, these labels will automatically disappear.
+A good way to learn Dynamics 365 Remote Assist features and voice commands is to say "Remote Assist." When you're in a call, the app shows what it believes you said by showing a check mark and "Remote Assist." Then the app shows the name of each button. After a few seconds, these labels automatically disappear.
 
-If you'd like to see the button labels after they disappear:
+To see the button labels again after they disappear:
 
 - If you're using Dynamics 365 Remote Assist on HoloLens, hover your gaze cursor over each button.
-- If you're using Dynamics 365 Remote Assist on HoloLens 2 and Dynamics 365 Remote Assist UI is within your reach, hover your finger over the buttons. If Dynamics 365 Remote Assist UI is out of reach, extend your arm and hover the ray over the buttons.
 
-You have many options for communicating with remote collaborators. Everyone in the call can:
+- If you're using Dynamics 365 Remote Assist on HoloLens 2 and the Dynamics 365 Remote Assist UI is within your reach, hover your finger over the buttons. If the Dynamics 365 Remote Assist UI is out of reach, extend your arm and hover the hand ray over the buttons.
 
-- Annotate your world with arrows with this icon ![Graphic showing the annotate with arrows icon.](media/RAHL_Arrow.png "Arrow").
-- Annotate your world with drawings with this icon ![Graphic showing the pencil or ink icon.](media/RAHL_Ink.png "Ink").
-- Change annotation colors with this icon ![Graphic showing the colors icon.](media/RAHL_Color.png "Colors").
-- Undo their actions with this icon ![Graphic showing the undo icon.](media/RAHL_Undo.png "Undo").
-- Delete all their annotations with this icon ![Graphic showing the delete icon.](media/RAHL_Trash.png "Delete").
-- Everyone is also able to send files, which will pop up in your space.  
+You have many options for communicating with remote collaborators. Everyone in the call can use the following buttons:
+
+|Button|Description|
+|------|-----------------------------------------------------------------------------------|
+|![Graphic showing the annotate with arrows icon.](media/RAHL_Arrow.png "Arrow")|Annotate with arrows.|
+|![Graphic showing the pencil or ink icon.](media/RAHL_Ink.png "Ink")|Annotate with drawings.|
+|![Graphic showing the colors icon.](media/RAHL_Color.png "Colors")|Change annotation colors.|
+|![Graphic showing the undo icon.](media/RAHL_Undo.png "Undo")|Undo an action.|
+|![Graphic showing the delete icon.](media/RAHL_Trash.png "Delete")|Delete all annotations.|Everyone is also able to send files, which will pop up in your space.  
 
 You can also take a photo of what you see using the Camera icon, as seen here: ![Graphic showing the camera icon.](media/RAHL_Camera.png "Camera").
 
