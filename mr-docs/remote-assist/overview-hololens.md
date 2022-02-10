@@ -50,7 +50,7 @@ To see the button labels again after they disappear:
 
 - If you're using Dynamics 365 Remote Assist on HoloLens 2 and the Dynamics 365 Remote Assist UI is within your reach, hover your finger over the buttons. If the Dynamics 365 Remote Assist UI is out of reach, extend your arm and hover the hand ray over the buttons.
 
-You have many options for communicating with remote collaborators. Everyone in the call can use the following buttons:
+You have many options for communicating with remote collaborators. Everyone on the call can use the following buttons:
 
 |Button|Description|
 |------|-----------------------------------------------------------------------------------|
@@ -58,54 +58,56 @@ You have many options for communicating with remote collaborators. Everyone in t
 |![Graphic showing the pencil or ink icon.](media/RAHL_Ink.png "Ink")|Annotate with drawings.|
 |![Graphic showing the colors icon.](media/RAHL_Color.png "Colors")|Change annotation colors.|
 |![Graphic showing the undo icon.](media/RAHL_Undo.png "Undo")|Undo an action.|
-|![Graphic showing the delete icon.](media/RAHL_Trash.png "Delete")|Delete all annotations.|Everyone is also able to send files, which will pop up in your space.  
+|![Graphic showing the delete icon.](media/RAHL_Trash.png "Delete")|Delete all annotations.|
+|![Graphic showing the camera icon.](media/RAHL_Camera.png "Camera")|Take a photo of what you see.|
+|![Pin.](media/RAHL_Pin.png "Pin")|Place the call window wherever you want by using the Pin button. You can use the same button to unpin the call window.|
 
-You can also take a photo of what you see using the Camera icon, as seen here: ![Graphic showing the camera icon.](media/RAHL_Camera.png "Camera").
+Anyone on the call can also send files, which will pop up in your space.  
 
-Finally, place the call window wherever you want in your world by toggling **Pin** and **Unpin** ![Pin.](media/RAHL_Pin.png "Pin").
+## Supported languages
 
 Dynamics 365 Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Dynamics 365 Remote Assist in [our FAQs](faq-hololens.md).
 
 > [!Note]
-> Dynamics 365 Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens gestures](/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](/hololens/hololens2-basic-usage) before reading the rest of this document. You may also watch how-to videos showing how to use Dynamics 365 Remote Assist features on HoloLens.
+> Dynamics 365 Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens gestures](/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](/hololens/hololens2-basic-usage) before reading the rest of this article. You may also want to watch how-to videos showing how to use Dynamics 365 Remote Assist features on HoloLens.
 
 ## Collaborating with a Teams desktop user versus a Teams mobile user
 
-A Dynamics 365 Remote Assist HoloLens user can be in one-to-one call, group call, or meeting with a Teams desktop user.
+A Dynamics 365 Remote Assist HoloLens user can join a one-to-one call, group call, or meeting with a Teams desktop user.
 
-A Dynamics 365 Remote Assist HoloLens user can be in one-to-one call with a Teams mobile user.
+A Dynamics 365 Remote Assist HoloLens user can join a one-to-one call with a Teams mobile user.
 
 ## Prerequisites
 
 - Subscription to Dynamics 365 Remote Assist and Microsoft Teams.
 - HoloLens or HoloLens 2 running the [Windows 10 April 2018 update](requirements.md).
-- Remote collaborator using Teams desktop app or Teams mobile app.  
+- Remote collaborator using the Teams desktop application or the Teams mobile app.  
 - An internet connection. At least [1.5 mpbs of bandwidth is recommended](/microsoftteams/upgrade-prepare-environment-prepare-network#bandwidth-planning).
-- (Optional) To connect to Dynamics 365 Field Service from within Dynamics 365 Remote Assist, you'll need a Dynamics 365 license.
+- (Optional) To connect to Dynamics 365 Field Service from Dynamics 365 Remote Assist, you'll need a Dynamics 365 license.
 - Know your credentials for signing into the HoloLens and Dynamics 365 Remote Assist.
 - Dynamics 365 Remote Assist is installed on your HoloLens or HoloLens 2.
 
 ## Using HoloLens gestures in Dynamics 365 Remote Assist
 
-HoloLens offers several ways to interact with holograms as you navigate the device and various applications. Read [the HoloLens basics guide](/hololens/hololens1-basic-usage) to learn how to:
+HoloLens offers several ways to interact with holograms. See [the HoloLens basics guide](/hololens/hololens1-basic-usage) to learn how to:
 
-- Navigate the Start menu using bloom
+- Open the **Start** menu using the Bloom gesture
 - Select holograms with gaze, air tap, and voice
 - Move, resize, and rotate apps
 
 ## Using HoloLens 2 gestures in Dynamics 365 Remote Assist
 
-Compared to HoloLens, HoloLens 2 offers more ways for you to navigate the device and various applications. Read [this HoloLens 2 basics guide](/hololens/hololens2-basic-usage) to learn how to:
+HoloLens 2 offers more ways for you to navigate the device and various applications. See [this HoloLens 2 basics guide](/hololens/hololens2-basic-usage) to learn how to:
 
-- Navigate the Start menu by tapping your wrist
+- Open the **Start** menu by tapping your wrist
 - Select holograms with gaze, air tap, voice, and touch
 - Move, resize, and rotate apps
 
-You can interact with Dynamics 365 Remote Assist just like you do with the HoloLens 2 operating system features. For example, in Dynamics 365 Remote Assist, you can select something a few different ways:
+With HoloLens 2, you can select things in a few different ways:
 
-- If it's out of your reach, extend your arm, aim your hand ray, and air tap.
-- If it's within your reach, touch it directly.
-- To use your voice, say "Remote Assist" followed by voice command for that button. A full list of voice commands can be found [here](voice-commands-hololens.md). The easiest way to see the voice command for Dynamics 365 Remote Assist features is to say "Remote Assist." Then, the app will display the name of each button. After a few seconds, these labels will automatically disappear.
+- If the object is out of your reach, extend your arm, aim your hand ray, and then air tap.
+- If the object is within your reach, touch it directly.
+- To use your voice, say "Remote Assist" followed by the voice command for that button. [See a full list of voice commands](voice-commands-hololens.md). The easiest way to see the voice command for Dynamics 365 Remote Assist features is to say "Remote Assist." Then, the app will display the name of each button. After a few seconds, these labels will automatically disappear.
 
 ## Benefits of integrating with Dynamics 365 Field Service
 
