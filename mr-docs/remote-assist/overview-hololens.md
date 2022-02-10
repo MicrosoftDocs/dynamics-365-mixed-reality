@@ -38,7 +38,7 @@ Select the **Settings** tab to:
 
 - Configure various settings
 - Provide feedback
-- Watch the brief tutorial you saw the first time you used Dynamics 365 Remote Assist
+- Watch a brief tutorial (the same tutorial that appears the first time you use Dynamics 365 Remote Assist)
 - Find tutorials 
 - Switch your Dynamics 365 instance
 
