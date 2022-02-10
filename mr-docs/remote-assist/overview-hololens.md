@@ -26,7 +26,7 @@ To use Dynamics 365 Remote Assist with HoloLens or HoloLens 2, you need:
 
 ## Overview of core features
 
-When you launch Dynamics 365 Remote Assist, the **Call** tab appears. This is where you'll see your recent contacts. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, move the window, and pin the window in place.  
+When you launch Dynamics 365 Remote Assist, the **Call** tab is selected by default. This is where you'll see your recent contacts. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, move the window, and pin the window in place.  
 
 ![Screenshot of the HoloLens field of view, showing the Call tab screen.](media/02.00-contacts.png)
 
