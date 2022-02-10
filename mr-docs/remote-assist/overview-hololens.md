@@ -66,17 +66,13 @@ Anyone on the call can also send files, which will pop up in the space of the pe
 
 ## Types of calls supported
 
-As a Dynamics 365 Remote Assist HoloLens user, you can make or join a one-to-one call, group call, or scheduled meeting by using Teams or Outlook.
+- A Dynamics 365 Remote Assist HoloLens user can join a one-to-one call, group call, or meeting with a Teams desktop user.
 
-Remote collaborators can join the call using the Microsoft Teams desktop application or the Teams mobile app.  
+- A Dynamics 365 Remote Assist HoloLens user can join a one-to-one call with a Teams mobile user.
+
+- Remote collaborators can join the call using the Microsoft Teams desktop application or the Teams mobile app.  
 
 In a call, remote collaborators can see everything you see (including holograms and the real world behind the holograms) and can add annotations, insert files into your world, and more.
-
-## Collaborating with a Teams desktop user versus a Teams mobile user
-
-A Dynamics 365 Remote Assist HoloLens user can join a one-to-one call, group call, or meeting with a Teams desktop user.
-
-A Dynamics 365 Remote Assist HoloLens user can join a one-to-one call with a Teams mobile user.
 
 ## Using HoloLens gestures in Dynamics 365 Remote Assist
 
