@@ -48,27 +48,31 @@ When you join a call or meeting, you'll see a video card. When you're in a call,
 
 ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing an active call showing the recording button.](media/03.00-call.png)
 
+## Available tools
+
+Anyone on the call can use the following tools:
+
+|Button|Description|
+|------|-----------------------------------------------------------------------------------|
+|![Graphic showing the annotate with arrows button.](media/RAHL_Arrow.png "Arrow")|Annotate with arrows.|
+|![Graphic showing the pencil or ink button.](media/RAHL_Ink.png "Ink")|Annotate with drawings.|
+|![Graphic showing the colors button.](media/RAHL_Color.png "Colors")|Change annotation colors.|
+|![Graphic showing the undo button.](media/RAHL_Undo.png "Undo")|Undo an action.|
+|![Graphic showing the delete button.](media/RAHL_Trash.png "Delete")|Delete all annotations.|
+|![Graphic showing the camera button.](media/RAHL_Camera.png "Camera")|Take a photo of what you see.|
+|![Graphic showing the pin button.](media/RAHL_Pin.png "Pin")|Place the call window wherever you want by using the Pin button. You can use the same button to unpin the call window.|
+
+Anyone on the call can also send files, which will pop up in the space of people they're collaborating with.  
+
+## Supported types of calls
+
 As a Dynamics 365 Remote Assist HoloLens user, you can make or join a one-to-one call, group call, or scheduled meeting by using Teams or Outlook.
 
 Remote collaborators can join the call using the Microsoft Teams desktop application or the mobile app.  
 
 In a call, remote collaborators can see everything you see (including holograms and the real world behind the holograms) and can add annotations, insert files into your world, and more.
 
-## Communicating with remote collaborators
 
-Anyone on the call can use the following buttons to communicate with each other:
-
-|Button|Description|
-|------|-----------------------------------------------------------------------------------|
-|![Graphic showing the annotate with arrows icon.](media/RAHL_Arrow.png "Arrow")|Annotate with arrows.|
-|![Graphic showing the pencil or ink icon.](media/RAHL_Ink.png "Ink")|Annotate with drawings.|
-|![Graphic showing the colors icon.](media/RAHL_Color.png "Colors")|Change annotation colors.|
-|![Graphic showing the undo icon.](media/RAHL_Undo.png "Undo")|Undo an action.|
-|![Graphic showing the delete icon.](media/RAHL_Trash.png "Delete")|Delete all annotations.|
-|![Graphic showing the camera icon.](media/RAHL_Camera.png "Camera")|Take a photo of what you see.|
-|![Pin.](media/RAHL_Pin.png "Pin")|Place the call window wherever you want by using the Pin button. You can use the same button to unpin the call window.|
-
-Anyone on the call can also send files, which will pop up in your space.  
 
 ## Collaborating with a Teams desktop user versus a Teams mobile user
 
