@@ -84,7 +84,7 @@ Dynamics 365 Remote Assist on HoloLens and HoloLens 2 offer the same capabilitie
 
 You might also want to watch how-to videos showing how to use Dynamics 365 Remote Assist features on HoloLens.
 
-### Using HoloLens in Dynamics 365 Remote Assist
+### HoloLens
 
 See [the HoloLens basics guide](/hololens/hololens1-basic-usage) to learn how to:
 
@@ -92,7 +92,7 @@ See [the HoloLens basics guide](/hololens/hololens1-basic-usage) to learn how to
 - Select holograms with gaze, air tap, and voice
 - Move, resize, and rotate apps
 
-### Using HoloLens 2 gestures in Dynamics 365 Remote Assist
+### HoloLens 2
 
 HoloLens 2 offers more ways for you to navigate the device and various applications. See [the HoloLens 2 basics guide](/hololens/hololens2-basic-usage) to learn how to:
 
