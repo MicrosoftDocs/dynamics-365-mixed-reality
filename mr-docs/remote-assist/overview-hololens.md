@@ -76,49 +76,62 @@ In a call, remote collaborators can see everything the HoloLens user sees (inclu
 
 ## Using HoloLens gestures in Dynamics 365 Remote Assist
 
-> [!Note]
-> Dynamics 365 Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens gestures](/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](/hololens/hololens2-basic-usage) before reading the rest of this article. You may also want to watch how-to videos showing how to use Dynamics 365 Remote Assist features on HoloLens.
+Dynamics 365 Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. For basic navigation, see these topics:
 
-HoloLens offers several ways to interact with holograms. See [the HoloLens basics guide](/hololens/hololens1-basic-usage) to learn how to:
+- [HoloLens gestures](/hololens/hololens1-basic-usage)
+
+- [Hololens 2 gestures](/hololens/hololens2-basic-usage). 
+
+You might also want to watch how-to videos showing how to use Dynamics 365 Remote Assist features on HoloLens.
+
+### Using HoloLens in Dynamics 365 Remote Assist
+
+See [the HoloLens basics guide](/hololens/hololens1-basic-usage) to learn how to:
 
 - Open the **Start** menu using the Bloom gesture
 - Select holograms with gaze, air tap, and voice
 - Move, resize, and rotate apps
 
-## Using HoloLens 2 gestures in Dynamics 365 Remote Assist
+### Using HoloLens 2 gestures in Dynamics 365 Remote Assist
 
-HoloLens 2 offers more ways for you to navigate the device and various applications. See [this HoloLens 2 basics guide](/hololens/hololens2-basic-usage) to learn how to:
+HoloLens 2 offers more ways for you to navigate the device and various applications. See [the HoloLens 2 basics guide](/hololens/hololens2-basic-usage) to learn how to:
 
 - Open the **Start** menu by tapping your wrist
+
 - Select holograms with gaze, air tap, voice, and touch
+
 - Move, resize, and rotate apps
 
 With HoloLens 2, you can select things in a few different ways:
 
 - If the object is out of your reach, extend your arm, aim your hand ray, and then air tap.
+
 - If the object is within your reach, touch it directly.
-- To use your voice, say "Remote Assist" followed by the voice command for that button. [See a full list of voice commands](voice-commands-hololens.md). The easiest way to see the voice command for Dynamics 365 Remote Assist features is to say "Remote Assist." Then, the app will display the name of each button. After a few seconds, these labels will automatically disappear.
 
+## Using voice
 
-A good way to learn Dynamics 365 Remote Assist features and voice commands is to say "Remote Assist." When you're in a call, the app shows what it believes you said by showing a check mark and "Remote Assist." Then the app shows the name of each button. After a few seconds, these labels automatically disappear.
+A good way to learn Dynamics 365 Remote Assist features and voice commands is to say "Remote Assist." When you're in a call, the app shows what it believes you said by showing a check mark and "Remote Assist." Then the app shows the name of each button. After a few seconds, the labels automatically disappear.
 
-To see the button labels again after they disappear:
+To see the labels again after they disappear:
 
 - If you're using Dynamics 365 Remote Assist on HoloLens, hover your gaze cursor over each button.
 
-- If you're using Dynamics 365 Remote Assist on HoloLens 2 and the Dynamics 365 Remote Assist UI is within your reach, hover your finger over the buttons. If the Dynamics 365 Remote Assist UI is out of reach, extend your arm and hover the hand ray over the buttons.
+- If you're using Dynamics 365 Remote Assist on HoloLens 2 and the Dynamics 365 Remote Assist user interface is within reach, hover your finger over the button. If the Dynamics 365 Remote Assist user interface is out of reach, extend your arm and hover the hand ray over the button.
 
-## Benefits of integrating with Dynamics 365 Field Service
+## Supported languages
+
+Dynamics 365 Remote Assist supports different languages on HoloLens versus HoloLens 2. [Check the FAQ to see if your language is supported](faq-hololens.md).
+
+## Benefit of integrating with Dynamics 365 Field Service
 
 If your organization uses Dynamics 365 Field Service to manage work orders, the technician using HoloLens can view Dynamics 365 Field Service bookings from Dynamics 365 Remote Assist and do heads-up, hands-free calling in the context of a Field Service booking. For example, the technician can:
 
 - View booking details
+
 - Quickly call the assigned collaborator  
+
 - Save snapshots to a booking
-- Save call artifacts to the work order that the booking is associated with, including the call log and files shared during the call
 
-## Supported languages
-
-Dynamics 365 Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Dynamics 365 Remote Assist in [our FAQs](faq-hololens.md).
+- Save call artifacts to the work order that the booking is associated with, including the call log and files shared during the call.
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
