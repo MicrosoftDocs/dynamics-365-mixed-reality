@@ -180,7 +180,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
 The Content Migration Tool is a preview feature for Dynamics 365 Guides and has the following limitation:
 
-- The Content Migration tool does not support migrating guides that use [Azure Object Anchors (Preview)](pc-app-anchor-azure-objects.md). To migrate a guide that includes this type of anchor, convert the guide to use a QR code anchor, circular code anchor, or holographic anchor, and then migrate content with the tool. Then change the anchor type in the new instance and edit the guide to use that object anchor.
+- The Content Migration tool does not support migrating guides that use [Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md). To migrate a guide that includes this type of anchor, convert the guide to use a QR code anchor, circular code anchor, or holographic anchor, and then migrate content with the tool. Then change the anchor type in the new instance and edit the guide to use that object anchor.
     
 ## See also
 
