@@ -135,10 +135,8 @@ The following list contains the *minimum* URL end points and TCP/UDP ports utili
 - TCP: 80, 443
 
 #### Windows Notification Service
-- *.notify.windows.com
-- *.wns.windows.com
-- *.notify.live.net
-- TCP: 80, 443
+
+See [Enterprise Firewall Configurations to Support WNS Traffic](https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config)
 
 #### Connection Test
 - *.msftconnecttest.com
