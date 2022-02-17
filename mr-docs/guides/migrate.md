@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 01/07/2022
+ms.date: 02/17/2022
 ms.topic: article
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-bholmes
@@ -175,6 +175,12 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 12.	When you're prompted to confirm your selection, enter **Y**, and then select **Enter**. To cancel the action, enter **N**, and then select **Enter**.
 
     ![Confirming your selection.](media/migration-choice-confirmation.PNG "Confirming your selection")
+    
+## Known issues
+
+The Content Migration Tool is a preview feature for Dynamics 365 Guides and has the following limitation:
+
+- The Content Migration tool does not support migrating guides that use [Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md). To migrate a guide that includes this type of anchor, convert the guide to use a QR code anchor, circular code anchor, or holographic anchor, and then migrate content with the tool. Then change the anchor type in the new instance and edit the guide to use that object anchor.
     
 ## See also
 
