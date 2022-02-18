@@ -239,21 +239,23 @@ In this step, you will add the list of guides that will appear on the HoloLens t
 12. Drag the **Date and Time** and **Guide** fields from the list of fields in the left pane to the center of the page.
 
     ![Drag the fields.](media/custom-view-drag-drop-fields.PNG "Drag the fields")
+    
+## Add guides to the view
 
-13. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com). You should see your new group and view at the bottom of the left pane.
+1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com). You should see your new group and view at the bottom of the left pane.
 
     ![New group and view in the left pane.](media/custom-view-custom-tab-configuration.PNG "New group and view in the left pane")
 
-14. Select the view to open it, and then, in the **Guide** field, select a guide to add to the list.
+2. Select the view to open it, and then, in the **Guide** field, select a guide to add to the list.
 
     ![Add a guide to the list.](media/custom-view-select-list.PNG "Add a guide to the list")
 
     > [!IMPORTANT]
     > When you add a guide to the list, you must specify a date. This date must be either the current date or a future date. Otherwise, the guide won't appear on the custom tab.
 
-15. In the **Owner** field, assign the user who will have access to the list.
+3. In the **Owner** field, assign the user who will have access to the list.
 
-16. To add more guides to the list, select **New**, and then set the **Guide** and **Owner** fields again.
+4. To add more guides to the list, select **New**, and then set the **Guide** and **Owner** fields again.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
