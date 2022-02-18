@@ -14,7 +14,7 @@
 #### [4: Set up Power BI reports](setup-step-four.md)
 #### [Update the solution](upgrade.md)
 #### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
-#### [Network requirements.md](admin-network-requirements.md)
+#### [Network requirements](admin-network-requirements.md)
 ### Licenses
 #### [Licensing requirements](requirements.md)
 #### [Set up a device license for multiple operators](device-license.md)
