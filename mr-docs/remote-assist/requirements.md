@@ -118,7 +118,7 @@ The following list contains the *minimum* URL end points and TCP/UDP ports utili
 - sts.windows.net
 - TCP: 80, 443
 
-#### Microsoft GraphExplorer
+#### Microsoft Graph
 - graph.microsoft.com
 - TCP: 80, 443
 
