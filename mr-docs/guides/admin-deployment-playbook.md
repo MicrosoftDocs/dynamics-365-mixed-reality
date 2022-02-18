@@ -131,7 +131,7 @@ The following list contains the minimum URL endpoints and TCP/UDP ports utilized
 
 #### Dynamics Services
 - *.crm.dynamics.com
-- *.crm#.dynamics.com (replace # with your region's number: 
+- *.crm#.dynamics.com (replace # with your region's number): 
 
    Asia/Pacific: 5<br>
    Canada: 3<br>
