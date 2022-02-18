@@ -50,4 +50,5 @@ See [Enterprise Firewall Configurations to Support WNS Traffic](https://docs.mic
 
 ## See also
 
-[Deployment Playbook](admin-deployment-playbook.md)
+- [Unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls)
+- [Deployment Playbook](admin-deployment-playbook.md)
