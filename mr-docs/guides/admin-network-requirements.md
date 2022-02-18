@@ -47,3 +47,7 @@ If you have specialized needs and/or scale, see the [Teams comprehensive list](/
 #### Windows Notification Service
 
 See [Enterprise Firewall Configurations to Support WNS Traffic](https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config)
+
+## See also
+
+[Deployment Playbook](admin-deployment-playbook.md)
