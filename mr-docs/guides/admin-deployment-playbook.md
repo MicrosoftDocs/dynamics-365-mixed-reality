@@ -110,10 +110,6 @@ When connecting through a proxy or VPN, you must configure the proxy or VPN to a
 
 Other endpoints are specific to Dynamics 365 Guides. The list of additional endpoints required by Dynamics 365 Guides are listed in the following **URLs and ports** section.
 
-WHAT TO DO ABOUT THIS ONE
-
-- globaldisco.crm.dynamics.com 
-
 ### URLs and ports
 
 The following list contains the minimum URL endpoints and TCP/UDP ports utilized by Dynamics 365 Guides.
