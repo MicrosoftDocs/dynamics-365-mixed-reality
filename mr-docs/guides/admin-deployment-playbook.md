@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
 ms.author: mamaylya
-ms.date: 01/10/2022
+ms.date: 02/17/2022
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -102,7 +102,7 @@ The [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/s
 
 ### Network access
 
-Dynamics 365 Guides is a cloud-based application and might require that your network admin add, to an approve list, the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers. [Learn more about unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls).
+Dynamics 365 Guides is a cloud-based application and might require that your network admin add, to an approve list, the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers. [Learn more about unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls). See also [Network requirements for Dynamics 365 Guides](admin-network-requirements.md)
 
 ### VPN or proxy configuration
 
