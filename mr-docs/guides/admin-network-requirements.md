@@ -25,24 +25,7 @@ If you have specialized needs and/or scale, see the [Teams comprehensive list](/
 
 #### Dynamics Services
 - *.crm.dynamics.com
-- *.crm#.dynamics.com (replace # with your region's number): 
-
-   Asia/Pacific: 5<br>
-   Canada: 3<br>
-   Europe, Africa, and Middle East: 15 and 4<br>
-   France: 12<br>
-   Germany: 16<br>
-   India: 8<br>
-   Japan: 7<br>
-   North America: no number<br>
-   Oceania: 6<br>
-   South Africa: 14<br>
-   South America: 2<br>
-   Switzerland: 17<br>
-   UAE: 15<br>
-   United Kingdom: 11<br>
-   Dynamics 365 US Government: 9)<br>
-
+- *.crm#.dynamics.com (replace # with your region's number). See a [full list of datacenter regions](https://docs.microsoft.com/power-platform/admin/new-datacenter-regions).
 - TCP: 80, 443
 
 #### Sharepoint/OneDrive
