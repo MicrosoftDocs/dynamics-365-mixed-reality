@@ -240,7 +240,7 @@ In this step, you will add the list of guides that will appear on the HoloLens t
 
     ![Drag the fields.](media/custom-view-drag-drop-fields.PNG "Drag the fields")
     
-## Add guides to the view
+## Step 5: Add guides to the view
 
 1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com). You should see your new group and view at the bottom of the left pane.
 
