@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 02/18/2022
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Deployment playbook for Dynamics 365 Guides
