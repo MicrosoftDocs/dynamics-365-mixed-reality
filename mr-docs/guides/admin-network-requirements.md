@@ -2,7 +2,7 @@
 
 # Network requirements for Dynamics 365 Guides
 
-The following list contains the minimum URL endpoints and TCP/UDP ports utilized by Dynamics 365 Guides.
+Dynamics 365 Guides is a cloud-based application and might require that your network admin add, to an approved list, the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers. The following list contains the minimum URL endpoints and TCP/UDP ports utilized by Dynamics 365 Guides.
 
 #### Authentication
 - login.microsoft.com
