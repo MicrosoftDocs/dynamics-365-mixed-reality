@@ -159,7 +159,7 @@ If you have specialized needs and/or scale, see the [Teams comprehensive list](/
 
 - TCP: 80, 443
 
-#### Sharepoint / OneDrive
+#### Sharepoint/OneDrive
 - *.sharepoint.com
 - TCP: 80, 443
 
