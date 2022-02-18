@@ -1,6 +1,6 @@
 
 
-### URLs and ports
+### Network requirements for Dynamics 365 Guides
 
 The following list contains the minimum URL endpoints and TCP/UDP ports utilized by Dynamics 365 Guides.
 
