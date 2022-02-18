@@ -108,7 +108,7 @@ Dynamics 365 Guides is a cloud-based application and might require that your net
 
 When connecting through a proxy or VPN, you must configure the proxy or VPN to allow connections with certain endpoints so that Dynamics 365 Guides functions normally. Some endpoints are required generally for Dynamics 365 apps. [Review the list of endpoints required for Dynamics 365 apps](https://docs.microsoft.com/power-platform/admin/online-requirements#internet-accessible-urls-required). 
 
-Other endpoints are specific to Dynamics 365 Guides. The list of additional endpoints required by Dynamics 365 Guides are listed in the following section.
+Other endpoints are specific to Dynamics 365 Guides. The list of additional endpoints required by Dynamics 365 Guides are listed in the following **URLs and ports** section.
 
 WHAT TO DO ABOUT THIS ONE
 
