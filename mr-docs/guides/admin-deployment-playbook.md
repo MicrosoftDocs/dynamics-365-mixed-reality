@@ -125,6 +125,14 @@ The following list contains the minimum URL endpoints and TCP/UDP ports utilized
 - sts.windows.net
 - TCP: 80, 443
 
+#### Teams
+
+- *.registrar.skype.com
+- *.teams.microsoft.com
+- UDP: 3478, 3479, 3480, 3481
+
+If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
+
 #### Microsoft Graph
 - graph.microsoft.com
 - TCP: 80, 443
@@ -151,6 +159,10 @@ The following list contains the minimum URL endpoints and TCP/UDP ports utilized
 
 - TCP: 80, 443
 
+#### Sharepoint / OneDrive
+- *.sharepoint.com
+- TCP: 80, 443
+
 #### Power Apps
 - service.powerapps.com
 - TCP: 80, 443
@@ -163,20 +175,9 @@ The following list contains the minimum URL endpoints and TCP/UDP ports utilized
 - www.microsoft.com 
 - TCP: 80, 443
 
-### Making calls from Dynamics 365 Guides
+#### Windows Notification Service
 
-The following list contains the minimum URL endpoints and TCP/UDP ports used for Teams calling. All must be reachable from the app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
-
-#### Teams
-
-- *.registrar.skype.com
-- *.teams.microsoft.com
-- UDP: 3478, 3479, 3480, 3481
-
-#### Microsoft GraphExplorer
-
-- graph.microsoft.com
-- TCP: 80, 443
+See [Enterprise Firewall Configurations to Support WNS Traffic](https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config)
 
 ### Windows Defender Firewall configuration
 
