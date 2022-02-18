@@ -133,21 +133,21 @@ The following list contains the minimum URL endpoints and TCP/UDP ports utilized
 - *.crm.dynamics.com
 - *.crm#.dynamics.com (replace # with your region's number: 
 
-   Asia/Pacific: 5
-   Canada: 3
-   Europe, Africa, and Middle East: 15 and 4
-   France: 12
-   Germany: 16
-   India: 8
-   Japan: 7
-   North America: no number
-   Oceania: 6
-   South Africa: 14
-   South America: 2
-   Switzerland: 17
-   UAE: 15
-   United Kingdom: 11
-   Dynamics 365 US Government: 9)
+   Asia/Pacific: 5<br>
+   Canada: 3<br>
+   Europe, Africa, and Middle East: 15 and 4<br>
+   France: 12<br>
+   Germany: 16<br>
+   India: 8<br>
+   Japan: 7<br>
+   North America: no number<br>
+   Oceania: 6<br>
+   South Africa: 14<br>
+   South America: 2<br>
+   Switzerland: 17<br>
+   UAE: 15<br>
+   United Kingdom: 11<br>
+   Dynamics 365 US Government: 9)<br>
 
 - TCP: 80, 443
 
