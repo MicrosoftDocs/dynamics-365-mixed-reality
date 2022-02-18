@@ -108,11 +108,75 @@ Dynamics 365 Guides is a cloud-based application and might require that your net
 
 When connecting through a proxy or VPN, you must configure the proxy or VPN to allow connections with certain endpoints so that Dynamics 365 Guides functions normally. Some endpoints are required generally for Dynamics 365 apps. [Review the list of endpoints required for Dynamics 365 apps](https://docs.microsoft.com/power-platform/admin/online-requirements#internet-accessible-urls-required). 
 
-Other endpoints are specific to Dynamics 365 Guides. The list of additional endpoints required by Dynamics 365 Guides includes:
+Other endpoints are specific to Dynamics 365 Guides. The list of additional endpoints required by Dynamics 365 Guides are listed in the following section.
 
-- login.microsoft.com 
-- graph.microsoft.com 
+WHAT TO DO ABOUT THIS ONE
+
 - globaldisco.crm.dynamics.com 
+
+### URLs and ports
+
+The following list contains the minimum URL endpoints and TCP/UDP ports utilized by Dynamics 365 Guides.
+
+#### Authentication
+- login.microsoft.com
+- login.microsoftonline.com
+- login.live.com
+- sts.windows.net
+- TCP: 80, 443
+
+#### Microsoft Graph
+- graph.microsoft.com
+- TCP: 80, 443
+
+#### Dynamics Services
+- *.crm.dynamics.com
+- *.crm#.dynamics.com (replace # with your region's number: 
+
+   Asia/Pacific: 5
+   Canada: 3
+   Europe, Africa, and Middle East: 15 and 4
+   France: 12
+   Germany: 16
+   India: 8
+   Japan: 7
+   North America: no number
+   Oceania: 6
+   South Africa: 14
+   South America: 2
+   Switzerland: 17
+   UAE: 15
+   United Kingdom: 11
+   Dynamics 365 US Government: 9)
+
+- TCP: 80, 443
+
+#### Power Apps
+- service.powerapps.com
+- TCP: 80, 443
+
+#### Documentation 
+- aka.ms
+- powerbi.microsoft.com
+- go.microsoft.com
+- privacy.microsoft.com
+- www.microsoft.com 
+- TCP: 80, 443
+
+### Making calls from Dynamics 365 Guides
+
+The following list contains the minimum URL endpoints and TCP/UDP ports used for Teams calling. All must be reachable from the app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
+
+#### Teams
+
+- *.registrar.skype.com
+- *.teams.microsoft.com
+- UDP: 3478, 3479, 3480, 3481
+
+#### Microsoft GraphExplorer
+
+- graph.microsoft.com
+- TCP: 80, 443
 
 ### Windows Defender Firewall configuration
 
@@ -130,20 +194,6 @@ For Windows Defender Firewall, sometimes it's not enough to have the app listed 
 
     ![Firewall configuration 02](media/firewall_configuration_02.PNG "Firewall outbound rules")
     
-### Making calls from Dynamics 365 Guides
-
-The following list contains the minimum URL endpoints and TCP/UDP ports used for Teams calling. All must be reachable from the app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
-
-#### Teams
-
-- *.registrar.skype.com
-- *.teams.microsoft.com
-- UDP: 3478, 3479, 3480, 3481
-
-#### Microsoft GraphExplorer
-
-- graph.microsoft.com
-- TCP: 80, 443
 
 ## Access management and user roles
 
