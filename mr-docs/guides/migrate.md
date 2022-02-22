@@ -42,7 +42,7 @@ The tool supports the following types of migration.
 
 - You must be a system admin for the computer that you use to run the Windows PowerShell script.
 
-- You must use [Windows PowerShell](/powershell/scripting/install/installing-windows-powershell?view=powershell-7#how-to-check-the-version-of-powershell) version 5.1.18362.752 or later.
+- You must use [Windows PowerShell](/powershell/scripting/install/installing-windows-powershell#how-to-check-the-version-of-powershell) version 5.1.18362.752 or later.
 
 - Both the source instance and the destination instance must use Dynamics 365 Guides solution version 700.0.0.x or later. 
 
