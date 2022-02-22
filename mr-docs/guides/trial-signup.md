@@ -35,5 +35,5 @@ Your trial environment includes many of the same features as the paid version. T
 ## Additional resources
 
 - [Explore training on Microsoft Learn](/learn/browse/?filter-products=dynamics-365&products=dynamics-guides)
-- [Watch videos on the product playlist](videos.md)
+- [Watch videos on Dynamics 365 Guides](videos.md)
 - [Trial FAQ](trial-faq.md)
