@@ -28,7 +28,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[Turn hand rays off or on](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/service/dynamics365-remote-assist/turn-hand-rays-off-or)|[Turn hand rays off or on](hololens-hand-rays.md)|
+|[Turn hand rays off or on](/dynamics365-release-plan/2021wave1/service/dynamics365-remote-assist/turn-hand-rays-off-or)|[Turn hand rays off or on](hololens-hand-rays.md)|
 
 #### Bugs fixed
 

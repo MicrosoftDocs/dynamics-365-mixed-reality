@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # What's new in Dynamics 365 Remote Assist
 
-This article describes details about the **current wave of features (October 2021 through March 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
+This article describes details about the **current wave of features (October 2021 through March 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
 ## January 27, 2022
 
@@ -18,7 +18,7 @@ This article describes details about the **current wave of features (October 202
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[New restriction capabilities prevent users from making private calls, and accessing files and assets](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/planned-features)|[Protect company information by restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)|
+|[New restriction capabilities prevent users from making private calls, and accessing files and assets](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/planned-features)|[Protect company information by restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -64,7 +64,7 @@ Fixed problem with precision of remote annotations placed close to the HoloLens 
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[Support for spotlight and pinning for video feed on Microsoft Teams desktop](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-spotlight-pinning-remote-assist-video-feed-teams-desktop)|None|
+|[Support for spotlight and pinning for video feed on Microsoft Teams desktop](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-spotlight-pinning-remote-assist-video-feed-teams-desktop)|None|
 
 ### Bug fixes and improvements
 
@@ -107,10 +107,10 @@ incorrectly.
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[One-time-call users can open files shared with them from the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/one-time-call-users-open-files-shared-them)|[Invite a user to join a one-time call](one-time-call.md)|
-|[Support for a subset of Microsoft Teams policies](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-subset-teams-policies)|[Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md)|
-|[Accuracy improvements for mixed-reality annotations on mobile](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/accuracy-improvements-mixed-reality-annotations-mobile)|None|
-|[Support for spotlight and pinning for video feed on Microsoft Teams desktop](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-spotlight-pinning-remote-assist-video-feed-teams-desktop)|None|
+|[One-time-call users can open files shared with them from the mobile app](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/one-time-call-users-open-files-shared-them)|[Invite a user to join a one-time call](one-time-call.md)|
+|[Support for a subset of Microsoft Teams policies](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-subset-teams-policies)|[Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md)|
+|[Accuracy improvements for mixed-reality annotations on mobile](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/accuracy-improvements-mixed-reality-annotations-mobile)|None|
+|[Support for spotlight and pinning for video feed on Microsoft Teams desktop](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-spotlight-pinning-remote-assist-video-feed-teams-desktop)|None|
 
 ### Bugs fixed
 

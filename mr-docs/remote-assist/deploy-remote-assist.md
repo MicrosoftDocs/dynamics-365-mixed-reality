@@ -78,7 +78,7 @@ After assigning licenses, users can set up and use the app on their HoloLens, Ho
 
 - The organization's IT admin must add the user and assign a Dynamics 365 Remote Assist license **and** Microsoft Teams license in the Microsoft 365 or Microsoft 365 administrator portal, as described above. 
 
-- A [Microsoft Teams account](https://teams.microsoft.com/start). See [Using Teams with Dynamics 365 Remote Assist](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist) for more information.
+- A [Microsoft Teams account](https://teams.microsoft.com/start). See [Using Teams with Dynamics 365 Remote Assist](/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist) for more information.
 
 - Azure Active Directory [Premium trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only).
 

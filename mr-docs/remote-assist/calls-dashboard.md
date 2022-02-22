@@ -51,7 +51,7 @@ To have access to the Calls Dashboard, you must have:
 
     - [List of regions where the Remote Assist model-driven app has been deployed](ra-webapp-install.md)
 
-    - [Complete list of Power Platform datacenter regions](https://docs.microsoft.com/power-platform/admin/new-datacenter-regions)
+    - [Complete list of Power Platform datacenter regions](/power-platform/admin/new-datacenter-regions)
 
 - As a **Remote Assist - Administrator**, you can always go back and disable/re-enable the dashboard by turning it off/on from the **Settings** area as described above. Disabling the dashboard will remove the resources that it depends on.
 
@@ -61,9 +61,9 @@ To have access to the Calls Dashboard, you must have:
 
 - End users may or may not give location permissions to the Hololens or mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
 
-- If you want to enable or disable location services for all users on all devices, you can [set the **LetAppsAccessLocation** privacy policy](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
+- If you want to enable or disable location services for all users on all devices, you can [set the **LetAppsAccessLocation** privacy policy](/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
 
-- If column headers aren't translated for your users when they switch languages, see [Localization of metadata](https://docs.microsoft.com/power-automate/dataverse/known-issues).
+- If column headers aren't translated for your users when they switch languages, see [Localization of metadata](/power-automate/dataverse/known-issues).
 
 - Data is refreshed every 24 hours. The dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Note that Microsoft does not currently support a custom refresh schedule.
 
