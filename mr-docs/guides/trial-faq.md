@@ -21,8 +21,6 @@ To provide feedback on this template, contact [Alex Ferguson](mailto:alex.fergus
 
 # Dynamics 365 Guides trial FAQ
 
-<!--The include statement is particular to your repo. Check your repo to ensure that this is the proper location of the file.-->
-
 [!INCLUDE[trial-faq-platform](../includes/trial-faq-platform.md)]
 
 ### Can I convert the trial to a paid license?
@@ -37,7 +35,7 @@ To provide feedback on this template, contact [Alex Ferguson](mailto:alex.fergus
 
 ### How do I start using the trial?
 
-After you sign up for the trial, you will arrive on the app's main screen. The main screen provides links to user guides and tutorials. To learn more, visit the links in the [Additional resources](trial-signup.md) on the trial set up page.
+After you sign up for the trial, you will arrive on the app's main screen. The main screen provides links to user guides and tutorials. To learn more, visit the links in [What to try](trial-signup.md) on the trial set up page.
 
 ### What features are available in the trial?
 
@@ -45,5 +43,5 @@ After you sign up for the trial, you will arrive on the app's main screen. The m
 
 ### How long does the trial last?
 
-The <!--Product--> trial lasts <!--Product trial length--> days. As [mentioned below](<!--Name of this page-->.md#how-do-i-extend-the-trial), you can extend the trial once.
+The <!--Product--> trial lasts <!--Product trial length--> days. As [mentioned above](trial-faq.md#how-do-i-extend-the-trial), you can extend the trial once.
 
