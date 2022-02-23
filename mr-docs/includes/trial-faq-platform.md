@@ -24,7 +24,7 @@ Yes, you can. To view all available trials, [visit the trial hub page](https://d
 
 When you sign up for the trial, you'll receive an email with the trial details. If you don't see the email in your inbox, check your spam folder. Alternatively, use the following steps to access your app:
 
-1. Go to trial site and select Try for free.
+1. Go to trial site and select **Try for free**.
 1. Enter the email ID that you used, to sign up for the trial. You'll be redirected to your trial app.
 
 ### How do I add more users to a trial?
