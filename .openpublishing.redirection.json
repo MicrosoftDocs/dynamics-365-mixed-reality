@@ -1,7 +1,7 @@
 {
   "redirections": [
     {
-      "source_path": "mr-docs/mixed-reality/import-tool/index.md",
+      "source_path": "mr-docs/import-tool/index.md",
       "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines",
       "redirect_document_id": "false"
     },
