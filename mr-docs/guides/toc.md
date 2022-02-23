@@ -1,6 +1,6 @@
 # Dynamics 365 Guides
 ## [Overview of Dynamics 365 Guides](index.md)
-## [Sign up for a free trial](trial-sign-up.md)
+## [Sign up for a free trial](trial-signup.md)
 ## [Trial FAQ](trial-faq.md)
 ## [Get started](get-started.md)
 ## [What's new](new.md)
