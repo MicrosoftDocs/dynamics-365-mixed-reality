@@ -33,7 +33,7 @@ To provide feedback on this template, contact [Alex Ferguson](mailto:alex.fergus
 
 <!--App specific. Customize this response to fit your app.-->
 
-## <!--Product-->-specific questions
+## Dynamics 365 Guides-specific questions
 
 ### How do I start using the trial?
 
