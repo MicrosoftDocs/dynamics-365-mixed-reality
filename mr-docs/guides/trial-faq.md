@@ -43,5 +43,5 @@ After you sign up for the trial, you will arrive on the app's main screen. The m
 
 ### How long does the trial last?
 
-The <!--Product--> trial lasts <!--Product trial length--> days. As [mentioned above](trial-faq.md#how-do-i-extend-the-trial), you can extend the trial once.
+The <!--Product--> trial lasts <!--Product trial length--> days. As mentioned above, you can extend the trial once.
 
