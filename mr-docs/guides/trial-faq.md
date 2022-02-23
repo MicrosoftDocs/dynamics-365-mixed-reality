@@ -37,7 +37,7 @@ To provide feedback on this template, contact [Alex Ferguson](mailto:alex.fergus
 
 ### How do I start using the trial?
 
-After you sign up for the trial, you will arrive on the app's main screen. The main screen provides links to user guides and tutorials. To learn more, visit the links in the [Additional resources](<!--Link to the Additional resources section on your trial page-->) on the trial set up page.
+After you sign up for the trial, you will arrive on the app's main screen. The main screen provides links to user guides and tutorials. To learn more, visit the links in the [Additional resources](trial-signup.md) on the trial set up page.
 
 ### What features are available in the trial?
 
