@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/mixed-reality/import-tool/index.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/remote-assist/join-meeting-mobile.md",
       "redirect_url": "mobile-app/join-meeting-mobile",
       "redirect_document_id": "false"
