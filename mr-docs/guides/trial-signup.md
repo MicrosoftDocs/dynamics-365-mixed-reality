@@ -30,6 +30,7 @@ Your trial environment includes many of the same features as the paid version. T
 - [Get an overview of authoring in Dynamics 365 Guides](authoring-overview.md)
 - [Learn how to author with the PC app](pc-app-overview.md)
 - [Learn how to place holograms in the real world with the HoloLens app](hololens-app-overview.md)
+- [Make a call from the HoloLens app](make-call.md)
 - [Get insights on operations](analytics-overview.md)
 
 ## Additional resources
