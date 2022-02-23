@@ -23,7 +23,7 @@ To provide feedback on this template, contact [Alex Ferguson](mailto:alex.fergus
 
 <!--The include statement is particular to your repo. Check your repo to ensure that this is the proper location of the file.-->
 
-[!INCLUDE[trial-faq-platform](includes/trial-faq-platform.md)]
+[!INCLUDE[trial-faq-platform](includes/mr-docs/trial-faq-platform.md)]
 
 ### Can I convert the trial to a paid license?
 
