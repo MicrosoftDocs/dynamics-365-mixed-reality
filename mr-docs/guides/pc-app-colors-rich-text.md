@@ -15,13 +15,13 @@ ms.reviewer: v-bholmes
 
 If you want to use colors or rich-text formatting (for example, bold, italic, or underline) in your Dynamics 365 Guides instruction card text, you can add a small subset of HTML markup directly to an instruction card in the PC app, including the following:
 
-|Tag|Description|
-|--------------|---------------------------------------------------------------------------------------|
-|<b>|Bold.|
-|<color=*argument*>|Text color. The argument can be a hexadecimal code beginning with # or a named color. Hexadecimal colors begin with '#' and may be RGB (six characters). Recognized color names are: "black", "blue", "green", "orange", "purple", "red", "white", and "yellow". Make sure to use lowercase for colors ("yellow", for example). Otherwise, the colors won't be applied. For Cyan, use the hex code #00FFFF.|
-|<i>|Italic.|
-|<size=*argument*>|Font size. The argument is a number, followed by one of the following units: "px", "em", or "%". If no unit is given, "px" is implied. In the Dynamics 365 Guides 3D UI, one "pixel" equals about one-half millimetre and the base text size is 16.8 mm. Pixel units can also be expressed as offsets, for example "+6px", or "-8". Percentages and "em" units set the text size relative to the base size. For example, "120%" and "1.2em" are equivalent. To prevent the UI from overflowing, Dynamics 365 Guides sets a minimum size of 70% (22px) and maximum of 130% (42px).
-
 ![Screenshot of PC app with HTML markdown in instruction card.](media/HTML-pc-app.jpg "Screenshot of PC app with HTML markdown in instruction card")
 
 ![Screenshot of HoloLens app with HTML results.](media/html-hololens-app.jpg "Screenshot of HoloLens app with HTML results")
+
+|Tag|Description|
+|--------------|---------------------------------------------------------------------------------------|
+|``<b>``|Bold.|
+|<color=*argument*>|Text color. The argument can be a hexadecimal code beginning with # or a named color. Hexadecimal colors begin with '#' and may be RGB (six characters). Recognized color names are: "black", "blue", "green", "orange", "purple", "red", "white", and "yellow". Make sure to use lowercase for colors ("yellow", for example). Otherwise, the colors won't be applied. For Cyan, use the hex code #00FFFF.|
+|``<i>``|Italic.|
+|<size=*argument*>|Font size. The argument is a number, followed by one of the following units: "px", "em", or "%". If no unit is given, "px" is implied. In the Dynamics 365 Guides 3D UI, one "pixel" equals about one-half millimetre and the base text size is 16.8 mm. Percentages and "em" units set the text size relative to the base size. For example, "120%" and "1.2em" are equivalent. To prevent the UI from overflowing, Dynamics 365 Guides sets a minimum size of 70% (22px) and maximum of 130% (42px).
