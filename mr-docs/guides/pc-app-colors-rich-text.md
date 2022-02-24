@@ -19,7 +19,7 @@ If you want to use colors or rich-text formatting (bold, color, italic, font siz
 
 ![Screenshot of PC app with HTML markdown in instruction card.](media/HTML-pc-app.jpg "Screenshot of PC app with HTML markdown in instruction card")
 
-**Results shown in HoloLens app**
+**Results in the HoloLens app**
 
 ![Screenshot of HoloLens app with HTML results.](media/html-hololens-app.jpg "Screenshot of HoloLens app with HTML results")
 
