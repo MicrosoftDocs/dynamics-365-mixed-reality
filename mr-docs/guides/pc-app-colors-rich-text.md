@@ -8,7 +8,7 @@ title: Use rich text formatting in instruction card text in Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
-# Use rich text formatting for instruction card text in Dynamics 365 Guides
+# Use rich text formatting in instruction card text in Dynamics 365 Guides
 
 > [!NOTE]
 > This is an unsupported feature and is subject to change.
