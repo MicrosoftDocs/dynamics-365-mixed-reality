@@ -23,7 +23,9 @@ If you want to use colors or rich-text formatting (bold, color, italic, font siz
 
 ![Screenshot of HoloLens app with HTML results.](media/html-hololens-app.jpg "Screenshot of HoloLens app with HTML results")
 
-The following subset of tags are supported.
+## Supported tags
+
+Dynamics 365 Guides supports the following subset of tags.
 
 |Tag|Description|
 |--------------|---------------------------------------------------------------------------------------|
