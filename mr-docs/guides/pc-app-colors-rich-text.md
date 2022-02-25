@@ -22,7 +22,7 @@ Dynamics 365 Guides supports the following subset of tags.
 |Tag|Description|
 |--------------|---------------------------------------------------------------------------------------|
 |``<b>``|Bold.|
-|<color=*argument*>|Text color. The argument can be a hexadecimal code beginning with # or a named color. Hexadecimal colors can be RGB (six characters). Recognized color names are black, blue, green, orange, purple, red, white, and yellow.<p>**NOTE:** Make sure to use lowercase for colors ("yellow", for example). Otherwise, the colors won't be applied. For cyan, use the hexadecimal code #00FFFF.|
+|<color=*argument*>|Text color. The argument can be a hexadecimal code beginning with # or a named color. Hexadecimal colors can be RGB (six characters). Recognized color names are black, blue, green, orange, purple, red, white, and yellow.<p><p>**NOTE:** Make sure to use lowercase for colors ("yellow", for example). Otherwise, the colors won't be applied. For cyan, use the hexadecimal code #00FFFF.|
 |``<i>``|Italic.|
 |``<u>``|Underline.|
 
