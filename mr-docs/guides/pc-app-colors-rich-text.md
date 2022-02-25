@@ -15,14 +15,6 @@ ms.reviewer: v-bholmes
 
 If you want to use colors or rich-text formatting (bold, color, italic, or underline) in your Dynamics 365 Guides instruction card text, you can add a small subset of HTML tags directly to an instruction card in the PC app.
 
-### HTML tags in the PC app
-
-![Screenshot of PC app with HTML markdown in instruction card.](media/HTML-pc-app.jpg "Screenshot of PC app with HTML markdown in instruction card")
-
-### Results in the HoloLens app
-
-![Screenshot of HoloLens app with HTML results.](media/html-hololens-app.jpg "Screenshot of HoloLens app with HTML results")
-
 ## Supported tags
 
 Dynamics 365 Guides supports the following subset of tags.
@@ -33,3 +25,11 @@ Dynamics 365 Guides supports the following subset of tags.
 |<color=*argument*>|Text color. The argument can be a hexadecimal code beginning with # or a named color. Hexadecimal colors can be RGB (six characters). Recognized color names are black, blue, green, orange, purple, red, white, and yellow. **NOTE:** Make sure to use lowercase for colors ("yellow", for example). Otherwise, the colors won't be applied. For cyan, use the hexadecimal code #00FFFF.|
 |``<i>``|Italic.|
 |``<u>``|Underline.|
+
+### HTML tags in the PC app
+
+![Screenshot of PC app with HTML markdown in instruction card.](media/HTML-pc-app.jpg "Screenshot of PC app with HTML markdown in instruction card")
+
+### Results in the HoloLens app
+
+![Screenshot of HoloLens app with HTML results.](media/html-hololens-app.jpg "Screenshot of HoloLens app with HTML results")
