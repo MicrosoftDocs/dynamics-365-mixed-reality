@@ -15,7 +15,7 @@ When you use the Teams desktop application on a PC running Windows 10, you can c
 However, the features you can use to collaborate differ depending on which platform the Dynamics 365 Remote Assist user is using.  
 
 > [!NOTE]
-> At this time, Dynamics 365 Remote Assist does not support holographic annotations in [Teams for Virtualized Desktop Infrastructure (VDI)](https://docs.microsoft.com/microsoftteams/teams-for-vdi). The mixed-reality toolbar does not appear for VDI users. 
+> At this time, Dynamics 365 Remote Assist does not support holographic annotations in [Teams for Virtualized Desktop Infrastructure (VDI)](/microsoftteams/teams-for-vdi). The mixed-reality toolbar does not appear for VDI users. 
 
 ## Collaborating with Dynamics 365 Remote Assist HoloLens user versus Dynamics 365 Remote Assist mobile user
 |Task                                                                                            |Teams desktop features available when collaborating with Dynamics 365 Remote Assist HoloLens user                 |Teams desktop features available when collaborating with Dynamics 365 Remote Assist mobile user                   |
@@ -330,7 +330,7 @@ If you're in a group call or meeting, go to the call controls, select **More Opt
 
 If you're in a one-to-one call, ask the Dynamics 365 Remote Assist user (HoloLens or mobile) to initiate the recording.
 
-The person who initiates the recording owns the video. When a recording ends, it begins uploading to Microsoft Stream. Once the video is uploaded to Stream, the recorder receives an email notification, and all call participants can view a link to Stream via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. [Learn more about Stream video permissions]( https://docs.microsoft.com/stream/portal-permissions).
+The person who initiates the recording owns the video. When a recording ends, it begins uploading to Microsoft Stream. Once the video is uploaded to Stream, the recorder receives an email notification, and all call participants can view a link to Stream via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. [Learn more about Stream video permissions]( /stream/portal-permissions).
 
 You can [find all the videos you own](https://msit.microsoftstream.com/studio/videos).
 

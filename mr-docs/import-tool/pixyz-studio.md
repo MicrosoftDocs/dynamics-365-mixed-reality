@@ -349,7 +349,7 @@ After preparing your 3D models, you can learn more about using the following Dyn
 
 - [Dynamics 365 Layout](../layout/index.md) via [Dynamics 365 Import Tool (Preview)](./import-tool.md)
 
-- [Dynamics 365 Product Visualize](../product-visualize/index.md)
+- [Dynamics 365 Product Visualize](/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecateddynamics-365-product-visualize-is-deprecated)
 
 ## More information
 

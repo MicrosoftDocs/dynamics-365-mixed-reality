@@ -98,7 +98,7 @@ Dynamics 365 mixed-reality apps use the GLB format for 3D models. You have two o
 
 After preparing the 3D model, you can learn more about using the following Dynamics 365 apps to view your 3D model in mixed reality:
 
-[Dynamics 365 Product Visualize](../product-visualize/index.md)<br> 
+[Dynamics 365 Product Visualize](/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecateddynamics-365-product-visualize-is-deprecated)<br> 
 [Dynamics 365 Guides](../guides/index.md)<br> 
 [Dynamics 365 Layout](../layout/index.md) via [Dynamics 365 Import Tool (Preview)](import-tool.md)
 

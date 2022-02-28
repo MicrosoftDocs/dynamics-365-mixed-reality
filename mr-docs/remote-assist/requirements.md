@@ -136,7 +136,7 @@ The following list contains the *minimum* URL end points and TCP/UDP ports utili
 
 #### Windows Notification Service
 
-See [Enterprise Firewall Configurations to Support WNS Traffic](https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config)
+See [Enterprise Firewall Configurations to Support WNS Traffic](/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config)
 
 #### Connection Test
 - *.msftconnecttest.com
