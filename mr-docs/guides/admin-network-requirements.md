@@ -33,7 +33,7 @@ If you have specialized needs and/or scale, see the [Teams comprehensive list](/
 
 #### Dynamics Services
 - *.crm.dynamics.com
-- *.crm#.dynamics.com (replace # with your region's number). See a [full list of datacenter regions](https://docs.microsoft.com/power-platform/admin/new-datacenter-regions).
+- *.crm#.dynamics.com (replace # with your region's number). See a [full list of datacenter regions](/power-platform/admin/new-datacenter-regions).
 - TCP: 80, 443
 
 #### Sharepoint/OneDrive
@@ -54,7 +54,7 @@ If you have specialized needs and/or scale, see the [Teams comprehensive list](/
 
 #### Windows Notification Service
 
-See [Enterprise Firewall Configurations to Support WNS Traffic](https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config)
+See [Enterprise Firewall Configurations to Support WNS Traffic](/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config)
 
 ## See also
 

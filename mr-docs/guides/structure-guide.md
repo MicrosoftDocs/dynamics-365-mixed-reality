@@ -50,11 +50,11 @@ The following table describes the actions for working with tasks and steps.
 | Action | Steps |
 |---|---|
 | Change the name of a task. | Enter a new name in the **Task name** box. |
-| Enter instruction text for a step. | Enter text in the box below the task name. When you start to enter text, the **Step Editor** page appears. For more information about how to use the Step Editor, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md). |
+| Enter instruction text for a step. | Enter text in the box below the task name. When you start to enter text, the **Step Editor** page appears. For more information about how to use the Step Editor, see [Create steps and add 3D models or 2D media](/mr-docs/guides/pc-app-step-editor-overview). |
 | Add a new task. | Select **Add task** below the last task or set of steps. Alternatively, select the **Task menu** (**...**) button to the right of the task name, and then select **Insert a task**. |
 | Add a new step. | Select **Add step**. |
 | Remove a task and its steps. | Select the **Task menu** (**...**) button to the right of the task name, and then select **Remove task and steps**. |
-| Change the instruction text for the **Completion** step. | Select the **Completion** step. The **Step Editor** page appears. For more information about how to use the Step Editor, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md). |
+| Change the instruction text for the **Completion** step. | Select the **Completion** step. The **Step Editor** page appears. For more information about how to use the Step Editor, see [Create steps and add 3D models or 2D media](/mr-docs/guides/pc-app-step-editor-overview). |
 | Rearrange tasks or steps. | Drag the task or step to move it where you want. |
 
 ## Best practices for the Outline page
@@ -70,7 +70,7 @@ The following table describes the actions for working with tasks and steps.
 ## What's next?
 
 - [Anchor your guide to the real world](anchor.md)
-- [Create steps and add 3D content or 2D media](create-steps-assign-media.md)
+- [Create steps and add 3D content or 2D media](/mr-docs/guides/pc-app-step-editor-overview)
 - [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 - [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)
 - [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
