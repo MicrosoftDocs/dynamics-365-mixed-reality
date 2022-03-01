@@ -36,7 +36,7 @@ To use Azure Object Anchors in Dynamics 365 Guides, you need:
    > Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product. 
 
 > [!NOTE]
-> You may want to create a test Microsoft Dataverse environment separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](https://docs.microsoft.com/power-platform/admin/environments-overview).
+> You may want to create a test Microsoft Dataverse environment separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](/power-platform/admin/environments-overview).
 
 ## Best practices for choosing a target object for your object anchor
 
@@ -247,8 +247,4 @@ Azure Object Anchors is a preview feature for Dynamics 365 Guides and has the fo
 
 - If you switch from an object anchor to another anchor using **Change anchor method**, the saved position information for holograms is not migrated. Authors will need to check hologram placements.
 
-- Objects that have moved or are moving may cause variable accuracy. 
-
-
-
-
+- Objects that have moved or are moving may cause variable accuracy.

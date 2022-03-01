@@ -13,22 +13,22 @@ ms.reviewer: v-bholmes
 
 You can assign [Dynamics 365 Guides Author and Operator roles](admin-role-types.md) to a Dynamics 365 group team linked to an Azure Active Directory group to make it easier to organize and manage user roles. By linking Azure Active Directory Security groups or Azure Active Directory Office groups to a Dynamics 365 group team, Dynamics 365 Guides roles can be inherited by any user added to the Azure Active Directory group. To get an overview of Azure Active Directory groups and managing group teams, see the following links:
 
-- [Groups in Microsoft 365 and Azure, and Which is Right for You](https://docs.microsoft.com/microsoft-365/community/all-about-groups)
+- [Groups in Microsoft 365 and Azure, and Which is Right for You](/microsoft-365/community/all-about-groups)
 
-- [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams)
+- [Manage group teams](/power-platform/admin/manage-group-teams)
 
 > [!NOTE]
 > SharePoint groups are not supported by Dynamics 365. Only Azure Active Directory Security groups or Azure Active Directory Office groups are supported by Dynamics 365 group teams.
 
 ## Create an Azure Active Directory group
 
-To learn how to create an Azure Active Directory Security group or an Azure Active Directory Office group, see [Create a basic group and add members using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal).
+To learn how to create an Azure Active Directory Security group or an Azure Active Directory Office group, see [Create a basic group and add members using Azure Active Directory](/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal).
 
 ## Create a Dynamics 365 group team
 
-The type of group you create in Dynamics 365 depends on the type of Azure Active Directory group you're starting with (Security or Office). For more information, see [Create a group team](https://docs.microsoft.com/power-platform/admin/manage-group-teams#create-a-group-team).  
+The type of group you create in Dynamics 365 depends on the type of Azure Active Directory group you're starting with (Security or Office). For more information, see [Create a group team](/power-platform/admin/manage-group-teams#create-a-group-team).  
 
-For more information on how to link an Azure Active Directory group to a Dynamics 365 group team, see [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams). 
+For more information on how to link an Azure Active Directory group to a Dynamics 365 group team, see [Manage group teams](/power-platform/admin/manage-group-teams). 
 
 > [!NOTE] 
 > When setting a value for **membership type** by selecting one of the options (**Members**, **Members & Guests**, **Guests**, or **Owners**), be aware that this value determines which users in the group will flow into the Dynamics 365 group team. Setting the **membership type** is similar to setting a pass-through filter. For example, if **Members** is selected and a guest is added to the group, the guest will not flow down into the team and will not inherit the role from the Dynamics 365 group team.  
@@ -66,7 +66,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
     ![add group.](media/power-platform-security-add-group.PNG "Add group")
  
-6. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that you want to apply to this team. Dynamics 365 Guides roles include:
+6. Repeat the steps above for the [Dynamics 365 Guides role](/dynamics365/mixed-reality/guides/assign-role) that you want to apply to this team. Dynamics 365 Guides roles include:
 
     - Dynamics 365 Guides Author
     
@@ -85,7 +85,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
 ### Option 2: Assign a Dynamics 365 Guides role to a group team
 
-For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). For more information, see [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
+For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). For more information, see [Add roles to group teams](/power-platform/admin/manage-teams).
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (ellipsis **...**) button, and then select **Settings**.
 
@@ -116,4 +116,3 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
 - [Learn about the different Author and Operator roles](admin-role-types.md)
 - [Assign an Author or Operator role to an individual user](assign-role.md)
-

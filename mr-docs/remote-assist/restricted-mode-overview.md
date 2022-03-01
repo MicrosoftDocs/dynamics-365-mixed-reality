@@ -30,4 +30,4 @@ The following table shows which restrictions are available for Dynamics 365 Remo
 |OneDrive files|Yes|Yes|
 |Asset records|Yes|Yes|
 
-[Learn about Microsoft Teams policies supported by Dynamics 365 Remote Assist](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-policies)
+[Learn about Microsoft Teams policies supported by Dynamics 365 Remote Assist](/dynamics365/mixed-reality/remote-assist/teams-policies)

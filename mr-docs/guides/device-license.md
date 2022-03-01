@@ -66,7 +66,7 @@ Next, you must assign either the **Operator** or **Restricted Operator** role to
 
 ## Grant access to a restricted environment (optional)
 
-If you restricted your Microsoft Dataverse environment as described in [Restrict access to an environment in Dynamics 365 Guides by using security groups](admin-security.md), be sure to add the shared account to the security group. For more information, see [Control user access to environments: security groups and licenses](https://docs.microsoft.com/power-platform/admin/control-user-access).
+If you restricted your Microsoft Dataverse environment as described in [Restrict access to an environment in Dynamics 365 Guides by using security groups](admin-security.md), be sure to add the shared account to the security group. For more information, see [Control user access to environments: security groups and licenses](/power-platform/admin/control-user-access).
 
 ## Test the device license
 
@@ -111,4 +111,3 @@ Refer to the following topics:
 
 - [Dynamics 365 Licensing Guide](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)
 - [Licensing requirements](requirements.md)
-

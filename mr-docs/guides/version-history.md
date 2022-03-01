@@ -26,7 +26,7 @@ This article provides a version history for Microsoft Dynamics 365 Guides featur
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/select-multiple-animations-customize-animation-settings" target="_blank">Select from multiple animations and customize animation settings</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-orientation#change-animation-options" target="_blank">- Change animation options</a><br><a href="https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip" target="_blank">- Work with multiple animations in a single 3DS MAX model</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/select-multiple-animations-customize-animation-settings" target="_blank">Select from multiple animations and customize animation settings</a>| Yes |<a href="/dynamics365/mixed-reality/guides/hololens-app-orientation#change-animation-options" target="_blank">- Change animation options</a><br><a href="https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip" target="_blank">- Work with multiple animations in a single 3DS MAX model</a>|
 
 ####  Bugs fixed and other improvements
 
@@ -46,7 +46,7 @@ This article provides a version history for Microsoft Dynamics 365 Guides featur
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically anchor your guide content to real-world objects Preview</a>| Yes |- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object" target="_blank">Anchor a guide by using Azure Object Anchors</a><br>- <a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2021/05/05/improve-on-the-job-guidance-with-dynamics-365-guides-and-azure-object-anchors/" target="_blank">Blog: Improve on-the-job guidance with Dynamics 365 Guides and Azure Object Anchors</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically anchor your guide content to real-world objects Preview</a>| Yes |- <a href="/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object" target="_blank">Anchor a guide by using Azure Object Anchors</a><br>- <a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2021/05/05/improve-on-the-job-guidance-with-dynamics-365-guides-and-azure-object-anchors/" target="_blank">Blog: Improve on-the-job guidance with Dynamics 365 Guides and Azure Object Anchors</a>|
 
 #### Bugs fixed and other improvements
 
@@ -66,9 +66,9 @@ This article provides a version history for Microsoft Dynamics 365 Guides featur
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/folders-pc-hololens-apps" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-guide" target="_blank">Create a guide</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/consolidated-content-view-guides-model-driven-app" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign#share-a-guide-with-someone-else" target="_blank">Assign ownership of a guide</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/reworked-notifications-accessibility" target="_blank">Reworked notifications for accessibility</a>| No |None|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/folders-pc-hololens-apps" target="_blank">Folders in PC and HoloLens apps</a>| No |<a href="/dynamics365/mixed-reality/guides/create-guide" target="_blank">Create a guide</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/consolidated-content-view-guides-model-driven-app" target="_blank">Consolidated content view in the Guides model-driven app</a>| Yes |<a href="/dynamics365/mixed-reality/guides/admin-access-assign#share-a-guide-with-someone-else" target="_blank">Assign ownership of a guide</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/reworked-notifications-accessibility" target="_blank">Reworked notifications for accessibility</a>| No |None|
 
 #### Bugs fixed
 
@@ -91,8 +91,8 @@ This article provides a version history for Microsoft Dynamics 365 Guides featur
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/prepare-folders-guides-list-dynamics-365-guides-model-driven-app-admins" target="_blank">Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-create-folders" target="_blank">Organize guides into folders in Dynamics 365 Guides (for admins)</a>|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/measure-lengths-angles-new-3d-toolkit-shapes" target="_blank">Measure lengths and angles with new 3D toolkit shapes</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D model from the 3D toolkit</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/prepare-folders-guides-list-dynamics-365-guides-model-driven-app-admins" target="_blank">Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a>| Yes |<a href="/dynamics365/mixed-reality/guides/admin-create-folders" target="_blank">Organize guides into folders in Dynamics 365 Guides (for admins)</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/measure-lengths-angles-new-3d-toolkit-shapes" target="_blank">Measure lengths and angles with new 3D toolkit shapes</a>| Yes |<a href="/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D model from the 3D toolkit</a>|
 
 #### Bugs fixed
 
