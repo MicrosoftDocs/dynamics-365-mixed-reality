@@ -1,35 +1,35 @@
 ---
 author: amaraanigbo
-description: Learn about usign HTML markdown in instruction card text for Dynamics 365 Guides
+description: Learn about using rich text formatting in instruction card text for Dynamics 365 Guides
 ms.author: soanigbo
-ms.date: 01/18/2022
+ms.date: 03/01/2022
 ms.topic: article
-title: Use HTML in instruction card text in Dynamics 365 Guides
+title: Use rich text formatting in instruction card text in Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
-# Use HTML in instruction card text in Dynamics 365 Guides
-
-If you want to use colors or rich-text formatting (for example, bold, italic, or underline) in your Dynamics 365 Guides instruction card text, you can add HTML markup directly to an instruction card in the PC app. 
+# Use rich text formatting in instruction card text in Dynamics 365 Guides
 
 > [!NOTE]
 > This is an unsupported feature and is subject to change.
 
-The colors available in Dynamics 365 Guides are: 
+If you want to use colors or rich-text formatting (bold, color, italic, or underline) in your Dynamics 365 Guides instruction card text, you can add a small subset of HTML tags directly to an instruction card in the PC app.
 
-- Black
-- Blue
-- Green
-- Orange
-- Purple
-- Red
-- White
-- Yellow
-- Cyan
+## Supported tags
 
-> [!NOTE]
-> Mke sure to use lowercase for colors ("yellow", for example) in HTML markdown. Otherwise, the colors won't be applied. For Cyan, use the hex code #00FFFF.
+Dynamics 365 Guides supports the following subset of tags.
+
+|Tag|Description|
+|--------------|---------------------------------------------------------------------------------------|
+|``<b>``|Bold|
+|<color=*argument*>|Text color. The argument can be a hexadecimal code beginning with # or a named color. Hexadecimal colors can be RGB (six characters). Recognized color names are black, blue, green, orange, purple, red, white, and yellow.<p><p>**NOTE:** Make sure to use lowercase for colors ("yellow", for example). Otherwise, the colors won't be applied. For cyan, use the hexadecimal code #00FFFF.|
+|``<i>``|Italic|
+|``<u>``|Underline|
+
+### HTML tags in the PC app
 
 ![Screenshot of PC app with HTML markdown in instruction card.](media/HTML-pc-app.jpg "Screenshot of PC app with HTML markdown in instruction card")
+
+### Results in the HoloLens app
 
 ![Screenshot of HoloLens app with HTML results.](media/html-hololens-app.jpg "Screenshot of HoloLens app with HTML results")
