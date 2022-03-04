@@ -67,7 +67,7 @@ You must be an administrator to set up configuration policies.
 
     1. Set the **Name** field to "com.microsoft.ramobile.environment.instance.url". 
 
-    2. In the **Value** field, enter the environment url. You can find this url in the [Power Platform admin center](https://admin.powerplatform.microsoft.com) under **Environment**. Learn more: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment)
+    2. In the **Value** field, enter the environment url. You can find this url in the [Power Platform admin center](https://admin.powerplatform.microsoft.com)  **Environment** section. Learn more: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment)
 
     SCREENSHOT GOES HERE
     
