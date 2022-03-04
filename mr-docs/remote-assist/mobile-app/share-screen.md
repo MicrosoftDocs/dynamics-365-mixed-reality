@@ -24,7 +24,7 @@ If you're on a call using Microsoft Dynamics 365 Remote Assist mobile, you can s
 
 2. Tap **Share screen**.
 
-   ![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mobile-app-screen-sharing.jpg "RAM Toolbar")
+   ![Screenshot of mobile app showing ellipsis button and Share screen command.](./media/mobile-app-screen-sharing.jpg "Screenshot of mobile app showing ellipsis button and Share screen command")
 
 ## Stop sharing your screen
 
