@@ -5,7 +5,7 @@
 If you're on a call using Microsoft Dynamics 365 Remote Assist mobile, you can share your screen with remote collaborators on the call to share real-time information.
 
 > [!NOTE]
-> For optimal screen sharing, make sure that you're using the latest version of the Dynamics 365 Remote Assist mobile app. 
+> For optimal screen sharing, make sure that you're using the latest version (version 2022.4.13 or later) of the Dynamics 365 Remote Assist mobile app. 
 
 ## Share your screen
 
