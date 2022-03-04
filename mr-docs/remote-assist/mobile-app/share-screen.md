@@ -26,7 +26,7 @@ If you're on a call using Microsoft Dynamics 365 Remote Assist mobile, you can s
 
    ![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mobile-app-screen-sharing.jpg "RAM Toolbar")
 
-## Stop screen sharing
+## Stop sharing your screen
 
 1. Tap the ellipsis (...) button. 
 
