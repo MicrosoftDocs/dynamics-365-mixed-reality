@@ -42,6 +42,23 @@ Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune'
 
 For more information on Microsoft Intune's app protection policies, see [this article](/mem/intune/apps/app-protection-policy).
 
+### Set up configuration policies for Android devices
+
+> [!NOTE]
+> At this time, you can't set up configuration policies for iOS devices.
+
+You must be an administrator to set up configuration policies.
+
+1. Go to [Microsoft Endpoint Manager](https://endpoint.microsoft.com/). 
+
+2. Select **Apps**, and then select **App configuration policies**. 
+
+3. Select **Add**, and then select **Manage Apps**. 
+
+4. In the **Name** field, enter the name of the policy, and then in the **Target policy to** field, select **Selected apps**.  
+
+    SCREENSHOT GOES HERE 
+
 ## Videos
 
 - [Watch a video on a technician using Dynamics 365 Remote Assist mobile on-site](https://www.youtube.com/watch?v=J-C6GE2gFYw&t=27s).
