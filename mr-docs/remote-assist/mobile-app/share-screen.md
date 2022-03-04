@@ -12,7 +12,7 @@ If you're on a call using Microsoft Dynamics 365 Remote Assist mobile, you can s
 > [!IMPORTANT]
 > If you're using a person device, make sure to turn off any private notifications on your device before sharing your screen. 
 
-1. Tap the three dots (...) button. 
+1. Tap the ellipsis (...) button. 
 
 2. Tap **Share screen**.
 
@@ -20,7 +20,7 @@ If you're on a call using Microsoft Dynamics 365 Remote Assist mobile, you can s
 
 ## Stop screen sharing
 
-1. Tap the three dots (...) button. 
+1. Tap the ellipsis (...) button. 
 
 2. Tap **Stop screen sharing**. 
 
