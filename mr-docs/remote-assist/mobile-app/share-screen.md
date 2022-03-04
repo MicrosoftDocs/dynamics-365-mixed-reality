@@ -20,7 +20,7 @@ If you're on a call using Microsoft Dynamics 365 Remote Assist mobile, you can s
 
 ## Stop screen sharing
 
-1. Tap three dots (...) button. 
+1. Tap the three dots (...) button. 
 
 2. Tap **Stop screen sharing**. 
 
