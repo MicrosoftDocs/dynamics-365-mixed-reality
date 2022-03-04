@@ -51,13 +51,37 @@ You must be an administrator to set up configuration policies.
 
 1. Go to [Microsoft Endpoint Manager](https://endpoint.microsoft.com/). 
 
-2. Select **Apps**, and then select **App configuration policies**. 
+2. On the left side of the screen, select **Apps**, and then select **App configuration policies**. 
 
 3. Select **Add**, and then select **Manage Apps**. 
 
 4. In the **Name** field, enter the name of the policy, and then in the **Target policy to** field, select **Selected apps**.  
 
     SCREENSHOT GOES HERE 
+    
+5. Under **Public apps**, choose **Select public apps**, and then select **Dynamics 365 Remote Assist Android**. 
+
+    SCREENSHOT GOES HERE
+    
+6. Go to the configuration settings page, and then do the following:
+
+    1. Set the **Name** field to "com.microsoft.ramobile.environment.instance.url". 
+
+    2. In the **Value** field, enter the environment url. You can find this url in the [Power Platform admin center](https://admin.powerplatform.microsoft.com) under **Environment**. Learn more: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment)
+
+    SCREENSHOT GOES HERE
+    
+7. To select the groups that will receive the configuration policy:
+
+    1. Select **Add groups**.
+
+       SCREENSHOT GOES HERE
+
+    2. Select the correct group(s) for your tenant.
+
+       SCREENSHOT GOES HERE
+       
+8. Confirm to create the new configuration policy. 
 
 ## Videos
 
