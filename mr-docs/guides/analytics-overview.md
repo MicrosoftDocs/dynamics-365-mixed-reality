@@ -31,15 +31,15 @@ Limitations of data capture:
 
 ### 1. Sign in to Dynamics 365 Guides
 
-Data for all users is automatically stored in the [MR Apps Session table](analytics-data-collected.md#mr-app-session-table) (described in more detail below).
+Data for all users is automatically stored in the MR Apps Session table (described in more detail below).
 
 ### 2. Author a guide in the PC or HoloLens app
 
-Data for all authors is automatically stored in the [Guide Author Session table](analytics-data-collected.md) (described in more detail below).
+Data for all authors is automatically stored in the Guide Author Session table (described in more detail below).
 
 ### 3. Operate a guide
 
-**Next** and **Back** button interactions are recorded to determine the time spent on each step. Operator data is automatically stored in the [Guides Session table](analytics-data-collected.md) (described in more detail below).
+**Next** and **Back** button interactions are recorded to determine the time spent on each step. Operator data is automatically stored in the Guides Session table and the Guide Session Step Visit table. Both tables are described in more detail below. 
 
 ### 4. Trigger alerts or visualize data
 
