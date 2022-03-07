@@ -21,6 +21,24 @@ This page provides details about the **current wave of features (October 2021 th
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
+## March 29, 2022
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|XXX|
+|HoloLens app (HoloLens 2 only)|XXX|
+|Solution|XXX|
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">New XXX table XXX</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/developer-entity-reference" target="_blank">Microsoft Dataverse table (entity) reference</a>|
+
+### Bugs fixed and other improvements
+
+- XXX
+
 ## February 2, 2022
 
 Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both apps. To use the updated apps, you'll need Dynamics 365 Guides solution version 700.0.0.1 or later. 
