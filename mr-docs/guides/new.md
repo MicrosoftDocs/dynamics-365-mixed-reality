@@ -33,7 +33,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">New XXX table tracks interactions each time a user in Authoring mode opens, navigates, or closes a guide.</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/analytics-overview" target="_blank">Analytics overview</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">New Guide Author Session table tracks interactions each time a user in Authoring mode opens, navigates, or closes a guide.</a>| Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/analytics-overview" target="_blank">Analytics overview</a>|
 
 ### Bugs fixed and other improvements
 
