@@ -135,7 +135,6 @@
 
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
-### [Data collected and how to use it](analytics-data-collected.md)
 ### Use the Guides Analytics Power BI templates
 #### [Overview of Guides Analytics](analytics-guide.md)
 #### [Set up Guides Analytics](analytics-ga-setup.md)
