@@ -24,7 +24,7 @@ Dynamics 365 Guides [tables](/powerapps/maker/common-data-service/entity-overvie
 
 | Table name | Description |
 |-------------|-------------|
-| msdyn_guideauthorsession | Tracks interactions each time a user in Authoring mode opens, navigates, and closes a guide.  |
+| msdyn_guideauthorsession | Tracks interactions each time a user in Authoring mode opens, navigates, or closes a guide.  |
 | msdyn_mrappsession | Monitors license activity. |
 | msmrw\_3dasset | Stores a 3D object file and information associated with that 3D object file. |
 | msmrw\_3dasset\_localized | Stores localized information for a 3D object. |
