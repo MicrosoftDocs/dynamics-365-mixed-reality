@@ -95,9 +95,6 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Cancel|	Cancel the photo or video capture.|
 |Enable|	Enable the image capture tool.|
 |Off|	Disable the image capture tool.|
-|Update image|	Update the image while using Snapshot mode.|
-|Freeze the video|	Enter Snapshot mode when low-bandwidth dialog box appears.|
-|Save to chat	|Select the **Save to chat** button in the **Snapshot** dialog box.|
 |Save to booking	|Save the captured photo to a Dynamics 365 Field Service booking.|
 |Save to OneDrive|	Save the captured photo to OneDrive.|
 |Dismiss	|Select the **Dismiss** button in the poor connection dialog box.|
