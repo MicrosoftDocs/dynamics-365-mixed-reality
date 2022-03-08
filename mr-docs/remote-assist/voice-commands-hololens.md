@@ -95,8 +95,6 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Cancel|	Cancel the photo or video capture.|
 |Enable|	Enable the image capture tool.|
 |Off|	Disable the image capture tool.|
-|Turn on freeze frame|	Turn on Snapshot mode.|
-|Turn off freeze frame|	Turn off Snapshot mode.|
 |Update image|	Update the image while using Snapshot mode.|
 |Freeze the video|	Enter Snapshot mode when low-bandwidth dialog box appears.|
 |Save to chat	|Select the **Save to chat** button in the **Snapshot** dialog box.|
