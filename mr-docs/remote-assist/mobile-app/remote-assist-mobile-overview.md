@@ -53,15 +53,19 @@ You must be an administrator to set up configuration policies.
 
 2. On the left side of the screen, select **Apps**, and then select **App configuration policies**. 
 
+    ![XXX.](./media/intune-1.jpg)
+
 3. Select **Add**, and then select **Manage Apps**. 
+
+    ![XXX.](./media/intune-2.jpg)
 
 4. In the **Name** field, enter the name of the policy, and then in the **Target policy to** field, select **Selected apps**.  
 
-    SCREENSHOT GOES HERE 
+    ![XXX.](./media/intune-3.jpg) 
     
 5. Under **Public apps**, choose **Select public apps**, and then select **Dynamics 365 Remote Assist Android**. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](./media/intune-4.jpg)
     
 6. Go to the configuration settings page, and then do the following:
 
@@ -69,19 +73,21 @@ You must be an administrator to set up configuration policies.
 
     2. In the **Value** field, enter the environment url. You can find this url in the [Power Platform admin center](https://admin.powerplatform.microsoft.com)  **Environment** section. Learn more: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment)
 
-    SCREENSHOT GOES HERE
+    ![XXX.](./media/intune-5.jpg)
     
 7. To select the groups that will receive the configuration policy:
 
     1. Select **Add groups**.
 
-       SCREENSHOT GOES HERE
+       ![XXX.](./media/intune-6.jpg)
 
     2. Select the correct group(s) for your tenant.
 
-       SCREENSHOT GOES HERE
+       ![XXX.](./media/intune-7.jpg)
        
 8. Confirm to create the new configuration policy. 
+
+    ![XXX.](./media/intune-8.jpg)
 
 ## Videos
 
