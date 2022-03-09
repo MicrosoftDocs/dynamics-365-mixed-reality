@@ -53,7 +53,7 @@ You must be an administrator to set up configuration policies.
 
 2. Select **Apps**, and then select **App configuration policies**. 
 
-    ![XXX.](media/intune-1.jpg)
+    ![XXX.](./media/intune-1.jpg)
 
 3. Select **Add**, and then select **Managed apps**. 
 
