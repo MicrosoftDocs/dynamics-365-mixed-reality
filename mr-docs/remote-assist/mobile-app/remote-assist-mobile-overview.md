@@ -51,11 +51,11 @@ You must be an administrator to set up configuration policies.
 
 1. Go to [Microsoft Endpoint Manager](https://endpoint.microsoft.com/). 
 
-2. On the left side of the screen, select **Apps**, and then select **App configuration policies**. 
+2. Select **Apps**, and then select **App configuration policies**. 
 
     ![XXX.](./media/intune-1.jpg)
 
-3. Select **Add**, and then select **Manage Apps**. 
+3. Select **Add**, and then select **Managed apps**. 
 
     ![XXX.](./media/intune-2.jpg)
 
@@ -63,31 +63,37 @@ You must be an administrator to set up configuration policies.
 
     ![XXX.](./media/intune-3.jpg) 
     
-5. Under **Public apps**, choose **Select public apps**, and then select **Dynamics 365 Remote Assist Android**. 
+5. Under **Public apps**, choose **Select public apps**. 
 
     ![XXX.](./media/intune-4.jpg)
     
-6. Go to the configuration settings page, and then do the following:
-
-    1. Set the **Name** field to "com.microsoft.ramobile.environment.instance.url". 
-
-    2. In the **Value** field, enter the environment url. You can find this url in the [Power Platform admin center](https://admin.powerplatform.microsoft.com)  **Environment** section. Learn more: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment)
+7. On the right side of the screen, search for “Remote Assist”, select **Dynamics 365 Remote Assist Android**, and then choose the **Select** button. 
 
     ![XXX.](./media/intune-5.jpg)
     
-7. To select the groups that will receive the configuration policy:
+8. Select **Next** at the bottom of the screen to go to the **Settings** tab. 
 
-    1. Select **Add groups**.
+9. Do the following:
 
-       ![XXX.](./media/intune-6.jpg)
+    1. Set the **Name** field to "com.microsoft.ramobile.environment.instance.url". 
 
-    2. Select the correct group(s) for your tenant.
+    2. In the **Value** field, enter the environment url. You can find this url in the [Power Platform admin center](https://admin.powerplatform.microsoft.com) **Environment** section. Learn more: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment)
 
-       ![XXX.](./media/intune-7.jpg)
+    ![XXX.](./media/intune-6.jpg)
+    
+9. Select **Next** to go to the **Assignments** tab, and then under **Included groups**, select **Add groups**.
+
+    ![XXX.](./media/intune-7.jpg)
+
+10. On the right side of the screen, select the correct group for your organization, and then select **Next** at the bottom of the screen to go to the **Review + create** tab.
+
+       ![XXX.](./media/intune-8.jpg)
        
-8. Confirm to create the new configuration policy. 
+10. Review the summary for the configuration policy, and then select **Create** when you’re ready.
 
-    ![XXX.](./media/intune-8.jpg)
+    ![XXX.](./media/intune-9.jpg)
+    
+For more information on Microsoft Intune's app configuration policies, see [App configuration policies for Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/app-configuration-policies-overview). 
 
 ## Videos
 
