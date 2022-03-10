@@ -79,7 +79,7 @@ Users who have the Share privilege can share guides and guide records that they 
 
     1. In the **Look for** field, select **User**.
 
-    2. In the **Look in** field, select **All User Access Teams**.
+    2. In the **Look in** field, select **User Lookup View**.
 
     3. Select the check box next to a specific user.
 
