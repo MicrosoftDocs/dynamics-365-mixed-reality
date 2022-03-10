@@ -74,8 +74,16 @@ Users who have the Share privilege can share guides and guide records that they 
 4. In the **Share guide** page, select **Add User/Team**.
 
     ![Add User/Team command.](media/access-teams-24.PNG "Add User/Team command")
+    
+5. In the **Look Up Records** dialog box:
 
-5. In the **Look Up Records** dialog box, select the check box next to a specific user, select **Select**, and then select **Add**.
+    1. In the **Look for** field, select **Users*.
+
+    2. In the **Look in** field, select **All User Access Teams**.
+
+    3. Select the check box next to a specific user.
+
+    4. Select **Select**, and then select **Add**.
 
     ![Add a user.](media/access-teams-25.PNG "Add a user")
 
