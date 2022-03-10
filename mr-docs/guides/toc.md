@@ -28,7 +28,7 @@
 ##### [Change ownership of a guide](admin-access-assign.md)
 ##### [Create an access team](admin-access-teams.md)
 ##### [Share a guide](share-guide.md)
-#### [Share the Guides model-driven app](admin-share-guides-hub.md)
+##### [Share the Guides model-driven app](admin-share-guides-hub.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling (Preview)](admin-enable-calls.md)
