@@ -91,7 +91,7 @@ You must be an administrator to set up configuration policies.
 
        ![XXX.](media/intune-8.jpg)
        
-12. ON the **Review + create** tab review the summary for the configuration policy, and then select **Create** to create the configuration policy when you’re ready.
+12. On the **Review + create** tab review the summary for the configuration policy, and then select **Create** to create the configuration policy when you’re ready.
 
     ![XXX.](./media/intune-9.jpg)
     
