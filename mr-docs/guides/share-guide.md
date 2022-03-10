@@ -2,9 +2,9 @@
 
 # Share a guide in Dynamics 365 Guides
 
-In Microsoft Dynamics 365 Guides, you can share a guide with a specific user or [by creating an access team](admin-access-teams.md). Sharing a guide through an access team is the preferred method for controlling who can use specific guides. It's a good idea to structure teams so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In rare cases, you can use the **Share** option for individuals who are not members of a team. 
+In Microsoft Dynamics 365 Guides, you can share a guide [by creating an access team](admin-access-teams.md). It's a good idea to structure access teams so that guide ownership is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In rare cases, you might want to share a guide with a specific user who is not a member of a team by using the **Share** option. Both sharing methods are described in this article.   
 
-> [!NOTE]
+> [!TIP]
 > When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
 >
 > ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
