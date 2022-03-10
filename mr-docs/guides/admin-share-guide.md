@@ -36,7 +36,7 @@ In rare cases, you might want to share a guide with a specific user who is not a
 
 5. In the **Share guide** page, select **Add User/Team**.
 
-    ![Screen shot of add User/Team command.](media/access-teams-20.PNG "Screen shot of add User/Team command")
+    ![Screenshot of Share guide page with Add User/Team command highlighted.](media/access-teams-24.PNG "Add User/Team command")
 
 6. In the **Look Up Records** dialog box:
 
@@ -48,7 +48,7 @@ In rare cases, you might want to share a guide with a specific user who is not a
 
     4. Select **Select**, and then select **Add**.
 
-    ![Add access teams.](media/access-teams-21.PNG "Add access teams")
+    ![Screenshot of Look Up Records dialog box.](media/access-teams-25.PNG "Add a user")
 
 7. In the **Share guide** dialog box, select specific permissions:    
     
