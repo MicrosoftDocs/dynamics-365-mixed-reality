@@ -69,7 +69,15 @@ Users who have the Share privilege can share guides and guide records that they 
 
     ![Read privilege selected.](media/access-teams-26.PNG "Read privilege selected")
 
+## See also
 
+- [Create an access team](admin-access-teams.md)
+- [Assign an Operator or Author role to an individual user](assign-role.md)
+- [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
+- [Restrict access to an environment by using security groups](admin-security.md)
+= [Learn more about security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
 
 
 
