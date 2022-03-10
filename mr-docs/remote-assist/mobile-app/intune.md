@@ -63,4 +63,4 @@ You must be an administrator to create an app configuration policy.
 
 ## See also
 
-[Dynamics 365 Remote Assist mobile overview]()
+[Dynamics 365 Remote Assist mobile overview](remote-assist-mobile-overview.md)
