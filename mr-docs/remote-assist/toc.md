@@ -52,6 +52,7 @@
 #### [Capture asset conditions](mobile-app/asset-capture-mobile.md)
 #### [Share files](mobile-app/file-sharing.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
+### [Create an app configuration policy for Android devices(mobile-app/intune.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
 ## Do more with the model-driven app
