@@ -91,9 +91,12 @@ A user can be associated with more than one access team.
 7. On the right side of the screen, under **Add team members**, enter the name(s) of the user(s) that you want to add, and then select **Add**.
 
     ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
+    
+After adding a team, you can [share a guide with the team](admin-share-guide). 
 
 ## See also
 
+- [Share a guide with an access team or a specific user](admin-share-guide.md)
 - [Assign an Operator or Author role to an individual user](assign-role.md)
 - [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
