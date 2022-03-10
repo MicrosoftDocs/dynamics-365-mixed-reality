@@ -2,35 +2,14 @@
 
 # Share a guide in Dynamics 365 Guides
 
-In Microsoft Dynamics 365 Guides, you can share a guide with a specific user or [with an access team](admin-access-teams.md). 
+In Microsoft Dynamics 365 Guides, you can share a guide with a specific user or [by creating an access team](admin-access-teams.md). Sharing a guide through an access team is the preferred method for controlling who can use specific guides. It's a good idea to structure teams so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In rare cases, you can use the **Share** option for individuals who are not members of a team. 
 
-## Share a guide with a specific user
+> [!NOTE]
+> When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
+>
+> ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
 
-Users who have the Share privilege can share guides and guide records that they own with other users.
-
-1. Go to <https://make.powerapps.com/>.
-
-2. Select **Apps**, and then select **Guides**.
-
-    ![Guides button.](media/access-teams-22.PNG "Guides button")
-
-3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
-
-    ![Share a guide.](media/access-teams-19.PNG "Share a guide")
-
-4. In the **Share guide** page, select **Add User/Team**.
-
-    ![Add User/Team command.](media/access-teams-24.PNG "Add User/Team command")
-
-5. In the **Look Up Records** dialog box, select the check box next to a specific user, select **Select**, and then select **Add**.
-
-    ![Add a user.](media/access-teams-25.PNG "Add a user")
-
-6. Make sure that the user has the **Read** and **Append** privileges, and then select **Share**.
-
-    ![Read privilege selected.](media/access-teams-26.PNG "Read privilege selected")
-
-## Share the guide with an access team
+## Share a guide with an access team
 
 1. Go to <https://make.powerapps.com/>.
 
@@ -64,14 +43,37 @@ Users who have the Share privilege can share guides and guide records that they 
 
     ![Update Permissions.](media/access-teams-21B.PNG "Update Permissions")
 
+## Share a guide with a specific user
+
+Users who have the Share privilege can share guides and guide records that they own with other users.
+
+1. Go to <https://make.powerapps.com/>.
+
+2. Select **Apps**, and then select **Guides**.
+
+    ![Guides button.](media/access-teams-22.PNG "Guides button")
+
+3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
+
+    ![Share a guide.](media/access-teams-19.PNG "Share a guide")
+
+4. In the **Share guide** page, select **Add User/Team**.
+
+    ![Add User/Team command.](media/access-teams-24.PNG "Add User/Team command")
+
+5. In the **Look Up Records** dialog box, select the check box next to a specific user, select **Select**, and then select **Add**.
+
+    ![Add a user.](media/access-teams-25.PNG "Add a user")
+
+6. Make sure that the user has the **Read** and **Append** privileges, and then select **Share**.
+
+    ![Read privilege selected.](media/access-teams-26.PNG "Read privilege selected")
 
 
 
 
 
-Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In exceptional cases, you can use the **Share** option for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
 
-> [!NOTE]
-> When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
->
-> ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
+
+
+
