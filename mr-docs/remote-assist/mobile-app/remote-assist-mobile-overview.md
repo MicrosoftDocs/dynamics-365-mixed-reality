@@ -71,7 +71,7 @@ You must be an administrator to set up configuration policies.
 
     ![XXX.](./media/intune-5.jpg)
     
-8. Select **Next** at the bottom of the screen to go to the **Settings** tab. 
+8. Select **Next** at the bottom of the screen. 
 
 9. On the **Settings** tab, do the following:
 
@@ -81,19 +81,21 @@ You must be an administrator to set up configuration policies.
 
     ![XXX.](./media/intune-6.jpg)
     
-9. Select **Next** to go to the **Assignments** tab, and then under **Included groups**, select **Add groups**.
+9. Select **Next** at the bottom of the screen.
+
+10. On the **Assignments** tab, under **Included groups**, select **Add groups**.
 
     ![XXX.](./media/intune-7.jpg)
 
-10. On the right side of the screen, select the correct group for your organization, and then select **Next** at the bottom of the screen to go to the **Review + create** tab.
+11. On the right side of the screen, select the correct group for your organization, and then select **Next** at the bottom of the screen.
 
        ![XXX.](media/intune-8.jpg)
        
-10. Review the summary for the configuration policy, and then select **Create** when you’re ready.
+12. ON the **Review + create** tab review the summary for the configuration policy, and then select **Create** to create the configuration policy when you’re ready.
 
     ![XXX.](./media/intune-9.jpg)
     
-For more information on Microsoft Intune's app configuration policies, see [App configuration policies for Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/app-configuration-policies-overview). 
+For more information about Microsoft Intune's app configuration policies, see [App configuration policies for Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/app-configuration-policies-overview). 
 
 ## Videos
 
