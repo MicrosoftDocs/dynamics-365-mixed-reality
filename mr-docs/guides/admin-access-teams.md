@@ -92,8 +92,6 @@ A user can be associated with more than one access team.
 
     ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
 
-
-
 ## See also
 
 - [Use access teams and owner teams to collaborate and share information](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information?view=op-9-1)
