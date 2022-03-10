@@ -50,9 +50,14 @@ In rare cases, you might want to share a guide with a specific user who is not a
 
     ![Add access teams.](media/access-teams-21.PNG "Add access teams")
 
-7. In the **Share guide** dialog box, select specific permissions (make sure the team has the **Read** permission), and then select **Share**.
+7. In the **Share guide** dialog box, select specific permissions:    
+    
+    - For Operating privileges, select Read permissions (and AppendTo if you want data to be collected).
+    - For Authoring privileges, select Read, Write and AppendTo permissions.
 
     ![Update Permissions.](media/access-teams-21B.PNG "Update Permissions")
+    
+8. Select **Share**. 
 
 ## Share a guide with a specific user
 
