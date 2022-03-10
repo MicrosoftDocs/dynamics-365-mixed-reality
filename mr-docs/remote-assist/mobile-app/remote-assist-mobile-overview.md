@@ -59,7 +59,7 @@ You must be an administrator to set up configuration policies.
 
     ![XXX.](./media/intune-2.jpg)
 
-4. In the **Name** field, enter the name of the policy, and then in the **Target policy to** field, select **Selected apps**.  
+4. In the **Name** field, enter the name of the policy, and then in the **Target policy to** field, choose **Selected apps**.  
 
     ![XXX.](./media/intune-3.jpg) 
     
