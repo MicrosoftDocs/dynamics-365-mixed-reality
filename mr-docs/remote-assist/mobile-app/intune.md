@@ -60,3 +60,7 @@ You must be an administrator to create an app configuration policy.
     ![Screenshot of the Review + create tab.](./media/intune-9.jpg)
     
 [Learn more about app configuration policies for Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/app-configuration-policies-overview)
+
+## See also
+
+[Dynamics 365 Remote Assist mobile overview]()
