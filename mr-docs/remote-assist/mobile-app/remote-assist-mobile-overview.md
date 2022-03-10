@@ -44,10 +44,10 @@ For more information on Microsoft Intune's app protection policies, see [this ar
 
 ### Set up configuration policies for Android devices
 
+You must be an administrator to set up configuration policies.
+
 > [!NOTE]
 > At this time, you can't set up configuration policies for iOS devices.
-
-You must be an administrator to set up configuration policies.
 
 1. Go to [Microsoft Endpoint Manager](https://endpoint.microsoft.com/). 
 
