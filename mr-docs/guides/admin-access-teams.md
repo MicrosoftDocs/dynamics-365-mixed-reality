@@ -92,7 +92,7 @@ A user can be associated with more than one access team.
 
     ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
     
-After adding a team, you can [share a guide with the team](admin-share-guide). 
+After creating an access team, you can use the team to [share guide ownership](admin-share-guide). 
 
 ## See also
 
