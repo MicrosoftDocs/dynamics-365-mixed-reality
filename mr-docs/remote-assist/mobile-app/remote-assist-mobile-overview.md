@@ -102,11 +102,11 @@ You must be an administrator to create app configuration policies.
 
 ## See also
 
-- [Try Dynamics 365 Remote Assist mobile for free](../try-remote-assist.md).
-- [Buy Dynamics 365 Remote Assist licenses](../buy-remote-assist.md).
-- [Deploy Dynamics 365 Remote Assist to your workers' devices](../deploy-remote-assist.md).
-- [How-to videos for using Dynamics 365 Remote Assist on mobile](../videos.md).
-- [Dynamics 365 Remote Assist mobile - FAQs](/dynamics365/mixed-reality/remote-assist/faq#using-remote-assist-on-mobile).
+- [Try Dynamics 365 Remote Assist mobile for free](../try-remote-assist.md)
+- [Buy Dynamics 365 Remote Assist licenses](../buy-remote-assist.md)
+- [Deploy Dynamics 365 Remote Assist to your workers' devices](../deploy-remote-assist.md)
+- [How-to videos for using Dynamics 365 Remote Assist on mobile](../videos.md)
+- [Dynamics 365 Remote Assist mobile - FAQs](/dynamics365/mixed-reality/remote-assist/faq#using-remote-assist-on-mobile)
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
