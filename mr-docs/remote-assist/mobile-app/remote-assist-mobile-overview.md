@@ -93,7 +93,7 @@ You must be an administrator to create app configuration policies.
 
     ![XXX.](./media/intune-9.jpg)
     
-For more information about Microsoft Intune's app configuration policies, see [App configuration policies for Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/app-configuration-policies-overview). 
+[Learn more about app configuration policies for Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/app-configuration-policies-overview)
 
 ## Videos
 
