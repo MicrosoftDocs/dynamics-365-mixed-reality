@@ -2,7 +2,7 @@
 
 # Share a guide in Dynamics 365 Guides
 
-In Microsoft Dynamics 365 Guides, you can share a guide with a specific user or [with an access team](). 
+In Microsoft Dynamics 365 Guides, you can share a guide with a specific user or [with an access team](admin-access-teams.md). 
 
 ## Share a guide with a specific user
 
