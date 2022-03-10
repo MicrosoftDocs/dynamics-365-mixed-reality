@@ -52,8 +52,8 @@ In rare cases, you might want to share a guide with a specific user who is not a
 
 7. In the **Share guide** dialog box, select specific permissions:    
     
-    - For Operating privileges, select Read permissions (and Append if you want data to be collected).
-    - For Authoring privileges, select Read, Write and AppendTo permissions.
+    - For operators, select **Read** permissions (and **Append** if you want data to be collected).
+    - For authors, select **Read**, **Write** and **Append** permissions.
 
     ![Update Permissions.](media/access-teams-21B.PNG "Update Permissions")
     
