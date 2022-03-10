@@ -59,10 +59,8 @@ To prevent a specific user from accessing all guides by default, you can update 
 
 ## Create an access team
 
-A user can be associated with more than one access team.
-
-> [!NOTE]
-> If you or someone else has already created an access team that you want to use, skip ahead to the next procedure.
+> [!TIP]
+> You can associate a user with more than one access team.
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (ellipsis **...**) button, and then select **Settings**.
 
