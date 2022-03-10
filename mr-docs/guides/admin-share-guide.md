@@ -87,9 +87,14 @@ Users who have the Share privilege can share guides and guide records that they 
 
     ![Add a user.](media/access-teams-25.PNG "Add a user")
 
-6. Make sure that the user has the **Read** and **Append** privileges, and then select **Share**.
+6. In the **Share guide** dialog box, select specific permissions:    
+    
+    - For operators, select **Read** permissions (and **Append** if you want data to be collected).
+    - For authors, select **Read**, **Write** and **Append** permissions.
 
-    ![Read privilege selected.](media/access-teams-26.PNG "Read privilege selected")
+    ![Screenshot of Share guide dialog box showing permissions.](media/access-teams-21B.PNG "Update Permissions")
+    
+8. Select **Share**. 
 
 ## See also
 
