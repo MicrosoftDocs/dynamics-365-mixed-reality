@@ -2,6 +2,73 @@
 
 # Share a guide in Dynamics 365 Guides
 
+In Microsoft Dynamics 365 Guides, you can share a guide with a specific user or [with an access team](). 
+
+## Share a guide with a specific user
+
+Users who have the Share privilege can share guides and guide records that they own with other users.
+
+1. Go to <https://make.powerapps.com/>.
+
+2. Select **Apps**, and then select **Guides**.
+
+    ![Guides button.](media/access-teams-22.PNG "Guides button")
+
+3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
+
+    ![Share a guide.](media/access-teams-19.PNG "Share a guide")
+
+4. In the **Share guide** page, select **Add User/Team**.
+
+    ![Add User/Team command.](media/access-teams-24.PNG "Add User/Team command")
+
+5. In the **Look Up Records** dialog box, select the check box next to a specific user, select **Select**, and then select **Add**.
+
+    ![Add a user.](media/access-teams-25.PNG "Add a user")
+
+6. Make sure that the user has the **Read** and **Append** privileges, and then select **Share**.
+
+    ![Read privilege selected.](media/access-teams-26.PNG "Read privilege selected")
+
+## Share the guide with an access team
+
+1. Go to <https://make.powerapps.com/>.
+
+2. Select **Apps**.
+
+3. Under **Your Apps**, select **Guides**.
+
+    ![Guides button.](media/access-teams-22.PNG "Guides button")
+
+4. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
+
+    ![Check box for specific guide selected.](media/access-teams-19.PNG "Check box for specific guide selected")
+
+5. In the **Share guide** page, select **Add User/Team**.
+
+    ![Screen shot of add User/Team command.](media/access-teams-20.PNG "Screen shot of add User/Team command")
+
+6. In the **Look Up Records** dialog box:
+
+    1. In the **Look for** field, select **Team**.
+
+    2. In the **Look in** field, select **All User Access Teams**.
+
+    3. Select the check box next to the name of the access team that you want to share the guide with.
+
+    4. Select **Select**, and then select **Add**.
+
+    ![Add access teams.](media/access-teams-21.PNG "Add access teams")
+
+7. In the **Share guide** dialog box, select specific permissions (make sure the team has the **Read** permission), and then select **Share**.
+
+    ![Update Permissions.](media/access-teams-21B.PNG "Update Permissions")
+
+
+
+
+
+
 Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In exceptional cases, you can use the **Share** option for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
 
 > [!NOTE]
