@@ -73,7 +73,7 @@ You must be an administrator to set up configuration policies.
     
 8. Select **Next** at the bottom of the screen to go to the **Settings** tab. 
 
-9. Do the following:
+9. On the **Settings** tab, do the following:
 
     1. Set the **Name** field to "com.microsoft.ramobile.environment.instance.url". 
 
