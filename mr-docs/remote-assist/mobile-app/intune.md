@@ -1,13 +1,17 @@
 
 
-# Use Microsoft Intune to create an app configuration policy for Dynamics 365 Remote Assist
+# Use Microsoft Intune to create an app configuration policy for Dynamics 365 Remote Assist mobile
 
+Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune's app protection policies. These policies ensure that data remains safe and contained on the device through Intune policies.  
 
+![Graphic showing Intune controls.](./media/RAM_IntuneControls.png)
 
-You must be an administrator to create app configuration policies.
+## Create an app configuration policy for Android devices
+
+You must be an administrator to create an app configuration policy.
 
 > [!NOTE]
-> At this time, you can't create app configuration policies for iOS devices.
+> At this time, you can't create an app configuration policy for iOS devices.
 
 1. Go to [Microsoft Endpoint Manager](https://endpoint.microsoft.com/). 
 
