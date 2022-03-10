@@ -62,6 +62,11 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 ## See also
 
-[Share a guide through an access team](admin-access-teams.md)
+- [Create an access team](admin-access-teams.md)
+- [Assign an Operator or Author role to an individual user](assign-role.md)
+- [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
+- [Restrict access to an environment by using security groups](admin-security.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
