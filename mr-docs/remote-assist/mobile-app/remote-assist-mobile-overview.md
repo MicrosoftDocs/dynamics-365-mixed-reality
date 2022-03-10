@@ -45,7 +45,7 @@ Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune'
 You must be an administrator to create app configuration policies.
 
 > [!NOTE]
-> At this time, you can't set up configuration policies for iOS devices.
+> At this time, you can't create app configuration policies for iOS devices.
 
 1. Go to [Microsoft Endpoint Manager](https://endpoint.microsoft.com/). 
 
