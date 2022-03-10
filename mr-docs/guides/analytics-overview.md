@@ -61,7 +61,7 @@ The MR App Session table stores a record whenever a user signs into an instance.
 
 ### Guide Author Session table
 
-Each row in the Guide Author Session table corresponds to a HoloLens or PC app interaction with a guide in Authoring mode. Information about the session, such as User ID, guide name, start time, end time, and device class are recorded. For more information, see the [Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
+Each row in the Guide Author Session table corresponds to a HoloLens or PC app interaction with a guide in Authoring mode. Information about the session, such as User ID, guide name, start time, end time, and device class is recorded. For more information, see the [Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
 
 ### Guide Session table 
 
