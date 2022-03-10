@@ -48,8 +48,6 @@ In rare cases, you might want to share a guide with a specific user who is not a
 
     4. Select **Select**, and then select **Add**.
 
-    ![Screenshot of Look Up Records dialog box.](media/access-teams-25.PNG "Add a user")
-
 7. In the **Share guide** dialog box, select specific permissions:    
     
     - For operators, select **Read** permissions (and **Append** if you want data to be collected).
