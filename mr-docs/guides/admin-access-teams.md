@@ -94,7 +94,7 @@ After creating an access team, you can use the team to [share guide ownership](a
 
 ## See also
 
-- [Share a guide with an access team or a specific user](admin-share-guide.md)
+- [Share guide ownership](admin-share-guide.md)
 - [Assign an Operator or Author role to an individual user](assign-role.md)
 - [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
