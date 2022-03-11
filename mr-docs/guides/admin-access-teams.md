@@ -1,6 +1,6 @@
 ---
 author: melissahellmund
-description: Learn how to create an access team to sahre a guide in Microsoft Dynamics 365 Guides.
+description: Learn how to create an access team to share a guide in Microsoft Dynamics 365 Guides.
 ms.author: mehellmu
 ms.date: 04/05/2022
 ms.topic: article
