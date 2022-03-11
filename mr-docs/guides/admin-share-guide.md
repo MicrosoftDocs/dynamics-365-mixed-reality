@@ -29,7 +29,7 @@ In Microsoft Dynamics 365 Guides, you can share a guide with other users. You ca
 
     ![Check box for specific guide selected.](media/access-teams-19.PNG "Check box for specific guide selected")
 
-5. In the **Share records** page, use the search box to search for and select the appropriate access team or user name.
+5. In the **Share records** page, use the search box to search for and select the appropriate team or user name.
 
      ![Screen shot of Share records page.](media/share-records.jpg "Screen shot of Share records page")
     
