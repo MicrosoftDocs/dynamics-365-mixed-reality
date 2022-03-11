@@ -68,7 +68,7 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 - Spanish (Spain)
 
-## Why do I see the Step content failed load message in the HoloLens app?
+## Why do I see the Step content failed to load message in the HoloLens app?
 
 If the amount and complexity of content added to a step will result in a poor experience for the operators of the guide, Dynamics 365 Guides displays a serios of warnings. When the complexity reaches a certain limit, you'll see the following message.
 
