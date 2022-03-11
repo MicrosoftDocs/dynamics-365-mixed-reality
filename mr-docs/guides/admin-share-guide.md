@@ -31,12 +31,12 @@ In rare cases, you might want to share a guide with a specific user who is not a
 
      ![Screen shot of Share records page.](media/share-records.jpg "Screen shot of Share records page")
     
-5. Under **Manage share** access, select the team, then select specific permissions:
+5. Under **Manage share access**, select the team, then select specific permissions:
 
    - For operators, select **Read** permissions (and **AppendTo** if you want to collect operations data).
    - For authors, select **Read**, **Write**, and **AppendTo** permissions.
 
-    ![Screen shot of Manage share section.](media/manage-share.jpg "Screen shot of Manage share section")
+    ![Screen shot of Manage share section.](media/manage-share-access.jpg "Screen shot of Manage share section")
     
 6. Select **Share**. 
 
