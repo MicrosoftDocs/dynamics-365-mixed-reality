@@ -68,6 +68,10 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 - Spanish (Spain)
 
+## Why did my 3D model fail to load in the HoloLens app?
+
+
+
 ## Is there an out-of-the-box integration with Dynamics 365 Field Service?
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
