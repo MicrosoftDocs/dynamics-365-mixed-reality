@@ -24,19 +24,23 @@ In Microsoft Dynamics 365 Guides, you can share a guide with other users. You ca
 3. Sign in, and then in the left pane of the Power Apps screen, select **Guides** to open the model-driven app.
 
     ![Screen shot of Power Apps screen showing Guides model-driven app.](media/guides-hub-1.PNG "Screen shot of Power Apps screen showing Guides model-driven app")
+    
+4. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
-4. In the **Share records** page, use the Search box to search for and select the appropriate team or user name.
+    ![Check box for specific guide selected.](media/access-teams-19.PNG "Check box for specific guide selected")
+
+5. In the **Share records** page, use the Search box to search for and select the appropriate team or user name.
 
      ![Screen shot of Share records page.](media/share-records.jpg "Screen shot of Share records page")
     
-5. Under **Manage share access**, select the team, then select specific permissions:
+6. Under **Manage share access**, select the team, then select specific permissions:
 
    - For operators, select **Read** permissions (and **AppendTo** if you want to [collect operations data](analytics-overview.md)).
    - For authors, select **Read**, **Write**, and **AppendTo** permissions.
 
     ![Screen shot of Manage share section.](media/manage-share-access.jpg "Screen shot of Manage share section")
     
-6. Select **Share**. 
+7. Select **Share**. 
 
 > [!TIP]
 > When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
