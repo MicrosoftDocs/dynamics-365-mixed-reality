@@ -22,79 +22,26 @@ In rare cases, you might want to share a guide with a specific user who is not a
 
 ## Share a guide with an access team
 
-1. Go to <https://make.powerapps.com/>.
+1. In the PC authoring app, sign in to the Dynamics 365 instance that includes the guide.
 
-2. Select **Apps**.
+2. Select the **Analyze** tab, and then under **Instance URL**, select **Copy**, and then paste the value into the address bar of a web browser.
 
-3. Under **Your Apps**, select **Guides**.
+    ![Instance URL value highlighted.](media/copy-instance-url.jpg "Instance URL value highlighted")
 
-    ![Guides button.](media/access-teams-22.PNG "Guides button")
+3. Sign in, and then in the left pane of the Power Apps screen, select **Guides** to open the model-driven app.
 
-4. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
+    ![Screen shot of Power Apps screen showing Guides model-driven app.](media/guides-hub-1.PNG "Screen shot of Power Apps screen showing Guides model-driven app")
 
-    ![Check box for specific guide selected.](media/access-teams-19.PNG "Check box for specific guide selected")
+4. In the **Share records** page, use the Search box to search for and select the appropriate team or user name.
 
-5. In the **Share guide** page, select **Add User/Team**.
-
-    ![Screenshot of Share guide page with Add User/Team command highlighted.](media/access-teams-24.PNG "Add User/Team command")
-
-6. In the **Look Up Records** dialog box:
-
-    1. In the **Look for** field, select **Team**.
-
-    2. In the **Look in** field, select **All User Access Teams**.
-
-    3. Select the check box next to the name of the access team that you want to share the guide with.
-
-    4. Select **Select**, and then select **Add**.
-
-7. In the **Share guide** dialog box, select specific permissions:    
+    SCREENSHOT GOES HERE
     
-    - For operators, select **Read** permissions (and **Append** if you want data to be collected).
-    - For authors, select **Read**, **Write** and **Append** permissions.
+5. Under **Manage share** access, select the team, then select specific permissions:
 
-    ![Update Permissions.](media/access-teams-21B.PNG "Update Permissions")
+   - For operators, select **Read** permissions (and **AppendTo** if you want to collect operations data).
+   - For authors, select **Read**, **Write**, and **AppendTo** permissions.
     
-8. Select **Share**. 
-
-## Share a guide with a specific user
-
-Users who have the Share privilege can share guides and guide records that they own with other users.
-
-1. Go to <https://make.powerapps.com/>.
-
-2. Select **Apps**, and then select **Guides**.
-
-    ![Guides button.](media/access-teams-22.PNG "Guides button")
-
-3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
-
-    ![Share a guide.](media/access-teams-19.PNG "Share a guide")
-
-4. In the **Share guide** page, select **Add User/Team**.
-
-    ![Add User/Team command.](media/access-teams-24.PNG "Add User/Team command")
-    
-5. In the **Look Up Records** dialog box:
-
-    1. In the **Look for** field, select **User**.
-
-    2. In the **Look in** field, select **User Lookup View**.
-
-    3. Select the check box next to a specific user.
-
-    4. Select **Select**, and then select **Add**.
-
-    ![Add a user.](media/access-teams-25.PNG "Add a user")
-
-6. In the **Share guide** dialog box, select specific permissions:    
-    
-    - For operators, select **Read** permissions (and **Append** if you want data to be collected).
-    - For authors, select **Read**, **Write** and **Append** permissions.
-
-    ![Screenshot of Share guide dialog box showing permissions.](media/access-teams-21B.PNG "Update Permissions")
-    
-8. Select **Share**. 
+6. Select **Share**. 
 
 ## See also
 
