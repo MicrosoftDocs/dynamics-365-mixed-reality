@@ -33,7 +33,7 @@ In rare cases, you might want to share a guide with a specific user who is not a
     
 5. Under **Manage share access**, select the team, then select specific permissions:
 
-   - For operators, select **Read** permissions (and **AppendTo** if you want to collect operations data).
+   - For operators, select **Read** permissions (and **AppendTo** if you want to [collect operations data](analytics-overview.md)).
    - For authors, select **Read**, **Write**, and **AppendTo** permissions.
 
     ![Screen shot of Manage share section.](media/manage-share-access.jpg "Screen shot of Manage share section")
