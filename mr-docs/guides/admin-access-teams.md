@@ -14,7 +14,7 @@ ms.reviewer: v-bholmes
 
 For more information on how privileges and access works, see [How access to a record (guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
 
-For more information on the three types of teams (*owner* team, Azure Active Directory *group* team, or *access* team), see [Manage teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
+For more information on the three types of teams (owner team, Azure Active Directory group team, or access team), see [Manage teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
 ## How access teams work with the Operator and Author user roles
 
