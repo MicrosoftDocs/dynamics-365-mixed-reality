@@ -14,7 +14,7 @@ ms.reviewer: v-bholmes
 In Microsoft Dynamics 365 Guides, you can share a guide with other users if you're an administrator or if you have the Share privilege. You can do this by sharing a guide with a specific user or an [access team](admin-access-teams.md).
 
 > [!IMPORTANT]
-> Sharing a guide does not change ownership of the guide. [Learn how to change guide ownership](admin-access-assign.md)
+> [Assigning ownership of a guide](admin-access-assign.md) to a user or team is the preferred method for controlling who can use specific guides. Sharing a guide does not change ownership of the guide. [Learn how to change guide ownership](admin-access-assign.md)
 
 ## Share a guide
 
