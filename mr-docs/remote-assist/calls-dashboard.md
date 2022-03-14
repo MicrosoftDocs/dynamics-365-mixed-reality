@@ -49,7 +49,7 @@ To have access to the Calls Dashboard, you must have:
 
 - The dashboard is built on Microsoft Power BI. It may take some time for the dashboard to get provisioned.
 
-- If you see an error message that says "Map visuals aren't enabled for your org", you need to [enable the Power BI Azure Maps visual](https://docs.microsoft.com/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). [Learn more about Power BI organizational visuals](https://docs.microsoft.com/power-bi/admin/organizational-visuals)
+- If you see an error message that says "Map visuals aren't enabled for your org", you need to [enable the Power BI Azure Maps visual](https://docs.microsoft.com/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). [Learn more about Power BI visuals admin settings](https://docs.microsoft.com/power-bi/admin/organizational-visuals)
 
 - The following regions do not support logging in the Calls Dashboard: GCC, GCCH, FA, ZAF, UAE, and GER. For more information, see the following links:
 
