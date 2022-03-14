@@ -3,7 +3,7 @@ title: Learn more about the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 author: amaraanigbo
 description: Overview, enablement and feature details for the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 ms.author: soanigbo
-ms.date: 01/18/2022
+ms.date: 03/14/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -28,6 +28,8 @@ To have access to the Calls Dashboard, you must have:
     - [Adding users to the environment](./asset-capture-add-users.md#assign-dynamics-365-security-roles)
 
 2. Access to the environment that Dynamics 365 Remote Assist is installed in, with the **Remote Assist - Administrator** security role assigned to you.
+
+3. [Enable the Power BI **Map and filled map visuals setting**](https://docs.microsoft.com/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
 
 ## Enabling the Calls Dashboard
 
