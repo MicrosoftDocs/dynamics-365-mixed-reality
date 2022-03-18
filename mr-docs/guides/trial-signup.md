@@ -20,7 +20,7 @@ Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial a
 
 1. Go to the [trial overview page](), and then select the **Try for free** button.
 
-2. Follow the on-screen guidance instructions.
+2. Follow the on-screen guidance.
 
 3. Download the PC and HoloLens apps as described on the [Get started](get-started.md) page. 
 
