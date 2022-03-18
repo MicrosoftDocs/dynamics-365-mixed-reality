@@ -18,7 +18,7 @@ If you have a Microsoft work account, you can go directly to the [Microsoft 365 
 After purchasing a subscription, assign the Dynamics 365 Guides license to user accounts as described in this article.
 
 > [!TIP]
-> If you want to try out Dynamics 365 Guides before purchasing a subscription, you can [sign up for a free 60-day trial](trial-signup.md). You don't have to have administrator privileges to sign up for the 60-day trial. Dynamics 365 Guides also provides a [30-trial available for users with Dynamics 365 admin privileges](https://dynamics.microsoft.com/get-started/?appname=guides). When you sign up for this type of trial, you can create a production environment that you can continue to use after purchasing a subscription. 
+> If you want to try out Dynamics 365 Guides before purchasing a subscription, you can [sign up for a free 60-day trial](trial-signup.md). You don't have to have administrator privileges to sign up for the 60-day trial. Dynamics 365 Guides also provides a [30-trial for users with Dynamics 365 admin privileges](https://dynamics.microsoft.com/get-started/?appname=guides). When you sign up for this type of trial, you can create a production environment that you can continue to use after purchasing a subscription. 
 
 ## Assign the Dynamics 365 Guides license to user accounts
 
