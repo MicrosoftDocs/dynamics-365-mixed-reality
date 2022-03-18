@@ -12,19 +12,21 @@ ms.reviewer: v-bholmes
 
 # Sign up for a free Dynamics 365 Guides trial
 
-Dynamics 365 Guides offers a free 60-day trial. After a quick sign-up, you'll have access to many of the app's key features. Dynamics 365 Guides also provides a five-minute demo that showcases the value of holographic work instructions for your company. [Learn more about Dynamics 365 Guides](https://dynamics.microsoft.com/mixed-reality/guides/?ef_id=34bba79ef37214ad99adc7aaf4d29e4f%3AG%3As&OCID=AID2100366_SEM_34bba79ef37214ad99adc7aaf4d29e4f%3AG%3As&msclkid=34bba79ef37214ad99adc7aaf4d29e4f)
+Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial and downloading the apps, you'll have access to all Dynamics 365 Guides features. Dynamics 365 Guides also provides a five-minute demo that showcases the value of holographic work instructions for your company. 
+
+[Learn more about Dynamics 365 Guides](https://dynamics.microsoft.com/mixed-reality/guides/?ef_id=34bba79ef37214ad99adc7aaf4d29e4f%3AG%3As&OCID=AID2100366_SEM_34bba79ef37214ad99adc7aaf4d29e4f%3AG%3As&msclkid=34bba79ef37214ad99adc7aaf4d29e4f)
 
 **To sign up for the trial**:
 
-1. Go to the [trial overview page]() and select the **Try for free** button.
+1. Go to the [trial overview page](), and then select the **Try for free** button.
 
-2. Follow the on-screen guidance to enter the [email associated with your Microsoft account](https://support.microsoft.com/windows/what-is-a-microsoft-account-4a7c48e9-ff5a-e9c6-5a5c-1a57d66c3bfa) and your contact information.
+2. Follow the on-screen guidance instructions.
 
-The trial takes a few moments to load, and then you can start using the app.
+3. Download the PC and HoloLens apps as described on the [Get started](get-started.md) page. 
 
 ## What to try
 
-Your trial environment includes many of the same features as the paid version. The links below guide you through some of the key features.
+Your trial includes the same features as the paid version. The links below guide you through some of the key features.
 
 - [Get started](get-started.md)
 - [Get an overview of authoring in Dynamics 365 Guides](authoring-overview.md)
