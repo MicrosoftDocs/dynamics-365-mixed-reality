@@ -25,7 +25,7 @@ To provide feedback on this template, contact [Alex Ferguson](mailto:alex.fergus
 
 ### Can I convert the trial to a paid license?
 
-Yes, you can [purchase a subscription]() of Dynamics 365 Guides after the trial has ended. If you want to keep the content that you created during the trial, you can use the [Content Migration tool](migration.md). 
+Yes, you can [purchase a subscription](setup-step-one.md) of Dynamics 365 Guides after the trial has ended. If you want to keep the content that you created during the trial, you can use the [Content Migration tool](migrate.md). 
 
 ### What are the trial limits and quotas?
 
