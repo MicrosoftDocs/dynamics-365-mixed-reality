@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 The overall process for setting up Dynamics 365 Guides includes the following steps:
 
-1. [Buy a subscription (setup-step-one.md).
+1. [Buy a subscription](setup-step-one.md).
 
 2. [Install the solution](setup-step-two.md).
 
