@@ -43,5 +43,4 @@ All features are available during the trial. To use calling capabilities, you mu
 
 ### How long does the trial last?
 
-The <!--Product--> trial lasts <!--Product trial length--> days. As mentioned above, you can extend the trial once.
-
+The trial lasts 60 days. At the end of the trial, you have the option to extend for another 30 days. 
