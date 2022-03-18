@@ -1,14 +1,14 @@
 ---
 author: Mamaylya
-description: Step 1 of the setup process for Microsoft Dynamics 365 Guides. In this step, you buy a subscription or sign up for a free 30-day trial.
+description: Learn how to buy a subscription for Microsoft Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 11/17/2020
 ms.topic: article
-title: Buy a Dynamics 365 Guides subscription or sign up for a free trial
-ms.reviewer: v-brycho
+title: Buy a Dynamics 365 Guides subscription
+ms.reviewer: v-bholmes
 ---
 
-# Dynamics 365 Guides setup, step 1: Buy a subscription or sign up for a free trial
+# Dynamics 365 Guides setup, step 1: Buy a subscription
 
 > [!NOTE]
 > Before you complete this step of the setup process, be sure to see [Overview of setting up Dynamics 365 Guides](setup.md).
