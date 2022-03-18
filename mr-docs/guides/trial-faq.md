@@ -59,7 +59,7 @@ Why did my trial expire before the end of the trial period?
 The trial expires if there's no activity for 14 consecutive days. An email notification is sent to you after seven days of inactivity. Expired trials cannot be reactivated. However, you can start a new trial.
 
 How do I extend the trial?
-You can extend the trial for an additional 30 days in the admin center. For instructions, see Extend your trial. You can extend your trial once.
+You can extend the trial for an additional 30 days in the admin center. For instructions, see [Extend your trial](/power-platform/admin/trial-environments#extend-a-trial-standard-environment). You can extend your trial once.
 
 ### Can I convert the trial to a paid license?
 
