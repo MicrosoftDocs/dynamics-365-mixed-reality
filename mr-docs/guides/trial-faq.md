@@ -43,7 +43,7 @@ When you sign up for the trial, you'll receive an email with the trial details. 
 
 ### How do I add more users to a trial?
 
-To add users, go to the Microsoft 365 admin center using the trial admin account. Follow the admin center guidance to add users up to the trial license limit. If the user you are adding already has a Microsoft 365 account, assign them an appropriate security role in the trial org. For more information, see Assign a security role to a user.
+To add users, go to the [Microsoft 365 admin center](https://admin.microsoft.com) using the trial admin account. Follow the [admin center guidance](/microsoft-365/admin/add-users/add-users) to add users up to the trial license limit. If the user you are adding already has a Microsoft 365 account, assign them an appropriate security role in the trial org. For more information, see [Assign a security role to a user](/power-platform/admin/create-users-assign-online-security-roles#assign-a-security-role-to-a-user).
 
 ### How many users can I add to my trial environment?
 
