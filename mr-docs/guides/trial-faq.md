@@ -35,11 +35,11 @@ You can use the trial version of Dynamics 365 Guides for up to 60 days.
 
 ### How do I start using the trial?
 
-After you sign up for the trial, you will arrive on the app's main screen. The main screen provides links to user guides and tutorials. To learn more, visit the links in [What to try](trial-signup.md) on the trial set up page.
+After you sign up for the trial, you'll see the [Get started](get-started.md) page. This page provides links for downloading the apps and links to user guides and tutorials. See also [What to try](trial-signup.md) on the trial set up page.
 
 ### What features are available in the trial?
 
-<!--App specific. Customize this response to fit your app.-->
+All features are available during the trial. To use calling capabilities, you must have a Microsoft Teams license. You'll also need a PC and a HoloLens device. [Learn more about device requirements](requirements.md)
 
 ### How long does the trial last?
 
