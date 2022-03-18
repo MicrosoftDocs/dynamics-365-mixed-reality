@@ -29,7 +29,7 @@ Yes, you can [purchase a subscription](setup-step-one.md) of Dynamics 365 Guides
 
 ### What are the trial limits and quotas?
 
-<!--App specific. Customize this response to fit your app.-->
+You can use the trial version of Dynamics 365 Guides for up to 60 days. 
 
 ## Dynamics 365 Guides-specific questions
 
