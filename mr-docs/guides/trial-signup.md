@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 # Sign up for a free Dynamics 365 Guides trial
 
-Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial and downloading the apps, you'll have access to all Dynamics 365 Guides features. Dynamics 365 Guides also provides a five-minute demo that showcases the value of holographic work instructions for your company. 
+Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial and downloading the apps, you'll have access to all Dynamics 365 Guides features. 
 
 [Learn more about Dynamics 365 Guides](https://dynamics.microsoft.com/mixed-reality/guides/?ef_id=34bba79ef37214ad99adc7aaf4d29e4f%3AG%3As&OCID=AID2100366_SEM_34bba79ef37214ad99adc7aaf4d29e4f%3AG%3As&msclkid=34bba79ef37214ad99adc7aaf4d29e4f)
 
