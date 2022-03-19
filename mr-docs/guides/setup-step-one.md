@@ -10,9 +10,6 @@ ms.reviewer: v-bholmes
 
 # Dynamics 365 Guides setup, step 1: Buy a subscription
 
-> [!NOTE]
-> Before you complete this step of the setup process, be sure to see [Overview of setting up Dynamics 365 Guides](setup.md).
-
 If you have a Microsoft work account, you can go directly to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home) to search for and buy a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription. If you can't access the Microsoft 365 admin center link, contact your Dynamics 365 administrator.
 
 After purchasing a subscription, assign the Dynamics 365 Guides license to user accounts as described in this article.
