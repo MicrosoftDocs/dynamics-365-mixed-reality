@@ -77,7 +77,7 @@ After you sign up for the trial, you'll see the [Get started](get-started.md) pa
 
 ### What features are available in the trial?
 
-All features are available during the trial. To use calling capabilities, you must have a Microsoft Teams license. You'll also need a PC and a HoloLens device. [Learn more about device requirements](requirements.md)
+All features are available during the trial. To use calling capabilities, you must have a Microsoft Teams license. 
 
 ### How long does the trial last?
 
