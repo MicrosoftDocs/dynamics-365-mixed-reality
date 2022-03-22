@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 02/02/2022
+ms.date: 03/22/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -37,7 +37,7 @@ Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both a
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">New MR App Sessions table tracks success of Dynamics 365 Guides in your organization</a>| Yes |<a href="/dynamics365/mixed-reality/guides/developer-entity-reference" target="_blank">Microsoft Dataverse table (entity) reference</a>|
+| <a href="/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/new-mr-app-sessions-table-tracks-success-dynamics-365-guides-organization" target="_blank">New MR App Sessions table tracks success of Dynamics 365 Guides in your organization</a>| Yes |<a href="/dynamics365/mixed-reality/guides/developer-entity-reference" target="_blank">Microsoft Dataverse table (entity) reference</a>|
 
 ### Bugs fixed and other improvements
 
