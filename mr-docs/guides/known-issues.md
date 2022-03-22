@@ -2,13 +2,17 @@
 author: Mamaylya
 description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: mamaylya
-ms.date: 12/02/2021
+ms.date: 03/22/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
 # Known issues with Microsoft Dynamics 365 Guides
+
+## Why did my HoloLens display go blank for a few seconds when I placed a 3D model in the HoloLens app?
+
+If you place a large 3D model in the HoloLens app, the display may go blank for several seconds while the model is being processed by Dynamics 365 Guides.
 
 ## Why isn't my operator sessions data being saved to Microsoft Dataverse? 
 
