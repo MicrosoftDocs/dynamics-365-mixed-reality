@@ -2,15 +2,13 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 11/10/2021
+ms.date: 03/23/2022
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
-
-
 
 ## How do I contact Support if I don't find an answer in this FAQ?
 
