@@ -44,7 +44,7 @@ By using the correct credentials to sign in, you ensure that your work progress 
 
 ## The video preview on a step is blurry
 
-The PC app video may appear to be blurry when an author previews a video in the HoloLens app. The PC app converts and resizes videos when they're uploaded to ensure optimal performance on HoloLens. This transcoding process depends on the codecs installed on the PC and errors can occur if codecs are removed from the PC. The  HoloLens app currently uses an optimized video specification of 853 × 480 H.264. If your video was recorded at a very high resolution, or if it's very large, the transcoding process on the PC might degrade the quality, making it appear blurry. To fix this issue, record and upload a new video, keeping its length and resolution in mind. Note that only the 853 x 480 video file will be stored on Microsoft Dataverse.
+The PC app video may appear to be blurry when an author previews a video in the HoloLens app. The PC app converts and resizes videos when they're uploaded to ensure optimal performance on HoloLens. This transcoding process depends on the codecs installed on the PC and errors can occur if codecs are removed from the PC. The  HoloLens app currently uses an optimized video specification of 853×480 H.264. If your video was recorded at a very high resolution, or if it's very large, the transcoding process on the PC might degrade the quality, making it appear blurry. To fix this issue, record and upload a new video, keeping its length and resolution in mind. Note that only the 853x480 video file will be stored on Microsoft Dataverse.
 
 ## When the see-through style is applied to a 3D model, it might show gray areas instead of correctly rendering textures 
 
