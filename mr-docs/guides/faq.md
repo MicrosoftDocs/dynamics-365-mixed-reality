@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 03/23/2022
+ms.date: 03/24/2022
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -93,10 +93,6 @@ When you have a Power Apps license, the Access Mode security property is set to 
 ## I don't see my Dynamics 365 Guides environment even though I have a valid Dynamics 365 Guides license. What should I do? 
 
 You might have installed Dynamics 365 Guides on a trial environment that has expired. Trial environments have their own life cycle, independent of the Dynamics 365 Guides license. You can go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
-
-## Can I use the JSON data file generated in Microsoft Dataverse when a guide is created to build or extend functionality?
-
-When you create a guide by using the PC app, a JSON data file is automatically created in Microsoft Dataverse. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
 
 ## How do I limit users to a particular Dynamics 365 instance?
 
