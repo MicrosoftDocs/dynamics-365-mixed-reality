@@ -2,15 +2,13 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 11/10/2021
+ms.date: 03/23/2022
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
-
-
 
 ## How do I contact Support if I don't find an answer in this FAQ?
 
@@ -67,6 +65,14 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 - Korean
 
 - Spanish (Spain)
+
+## Why do I see the Step content failed to load message in the HoloLens app?
+
+If the amount and complexity of content added to a step will result in a poor experience for the operators of the guide, Dynamics 365 Guides displays a series of warnings. When the complexity reaches a certain limit, you'll see the following message.
+
+![Screenshot of Step content failed to load message.](media/step-content-failed-load.jpg "Screenshot of Step content failed to load message")
+
+You can't place any additional 3D models at this point. If a model was previously placed in the world, it will be represented as an exclamation point icon to authors and operators. [Learn more about warnings and how to reduce step complexity](hololens-app-place-holograms.md)
 
 ## Is there an out-of-the-box integration with Dynamics 365 Field Service?
 
