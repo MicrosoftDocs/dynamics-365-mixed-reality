@@ -14,7 +14,7 @@ This article provides tips for working with these types of small, closely-spaced
 
 ## Using a 3D image together with a real-world object
 
-Creating a 3D image of an object (a machine, for example) or part of an object offers the following advantages over attaching holograms directly to a real-world objct:
+You can create a 3D image that replicates an object (a machine, for example) or part of an object and use the image together with the real-world object. Using a 3D image this way offers the following advantages over attaching holograms directly to a real-world objct:
 
 - When you attach 3D pointers to an image, the pointers always stay in the exact same position relative to the image, so they're very precise.     
 
