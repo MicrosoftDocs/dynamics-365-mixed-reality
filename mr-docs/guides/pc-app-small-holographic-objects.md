@@ -12,7 +12,7 @@ If you add 3D objects to point at the buttons in this case, it may be hard for t
 
 This article provides tips for working with these types of objects.
 
-## Creating an 3D image of an object
+## Creating a 3D image of an object or part of an object
 
 Creating a 3D image of an object (a machine, for example) or part of an object offers the following advantages over attaching holograms directly to original physical object:
 
