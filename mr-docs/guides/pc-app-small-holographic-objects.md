@@ -22,7 +22,7 @@ Creating a 3D image of an object (a machine, for example) or part of an object o
 
     ![xxx.](media/small-holograms-precision.jpg "xxx")
 
-- You can focus on just the part of the machine where the operator needs to focus. For example, the following graphic isolates just the number pad from the larger machine. 
+- You can focus on just the part of the machine where the operator needs to focus. For example, in the following graphic the number pad has been isolated from the larger machine to help the operator focus.
 
     ![xxx.](media/small-holograms-focus.jpg "xxx")
 
