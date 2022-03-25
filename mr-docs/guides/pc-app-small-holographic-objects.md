@@ -16,22 +16,22 @@ This article provides tips for working with these types of objects.
 
 Creating a 3D image of an object (a machine, for example) or part of an object offers the following advantages over attaching holograms directly to original physical object:
 
-- When you attach 3D pointers at an image, the pointers will always stay in the exact same position relative to image, which makes them very precise. 
+- When you attach 3D pointers to an image, the pointers always stay in the exact same position relative to the image, so they're very precise.     
 
-    ![xxx.](media/xxx.jpg "xxx")
+- You can place the image very close to the original object (close to where the operator needs to do the work). This saves the operator from having to continually refer back to the instruction card. 
 
-- You can place the image close to the original object (close to where the operator needs to do the work).
-
-    ![xxx.](media/xxx.jpg "xxx")
+    ![xxx.](media/small-holograms-precision.jpg "xxx")
 
 - You can focus on just the part of the machine where the operator needs to focus. 
 
-    ![xxx.](media/xxx.jpg "xxx")
+    ![xxx.](media/small-holograms-focus.jpg "xxx")
 
 - You can make the image larger (using the scaling feature in Dynamics 365 Guides to provide the effect of zooming in on the focus area. This makes it easier for the operator to see and understand.
     
-    ![xxx.](media/xxx.jpg "xxx")
+    ![xxx.](media/small-objects-zoom.jpg "xxx")
 
 - An image can convey what the operator needs to do faster than the written words in an instruction card. 
 
-    ![xxx.](media/xxx.jpg "xxx")
+    ![xxx.](media/small-objects-efficiency.jpg "xxx")
+
+Using a 3D image this way is very efficient. You can create the 3D image very quickly (in 3D paint, for example) and then reuse the image for different steps in your guide, adding different 3D objects from the 3D toolkit, depending on what's required for the step.  
