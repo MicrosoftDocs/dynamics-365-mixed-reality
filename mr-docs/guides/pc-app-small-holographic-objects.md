@@ -12,9 +12,9 @@ If you add 3D objects to point at the buttons in this case, it may be hard for t
 
 This article provides tips for working with these types of objects.
 
-## Creating a 3D image of an object or part of an object
+## Using a 3D image together with a real-world object
 
-Creating a 3D image of an object (a machine, for example) or part of an object offers the following advantages over attaching holograms directly to original physical object:
+Creating a 3D image of an object (a machine, for example) or part of an object offers the following advantages over attaching holograms directly to a real-world objct:
 
 - When you attach 3D pointers to an image, the pointers always stay in the exact same position relative to the image, so they're very precise.     
 
@@ -35,3 +35,5 @@ Creating a 3D image of an object (a machine, for example) or part of an object o
     ![Screenshot showing exact buttons to press and hold.](media/small-holograms-efficiency.jpg "Screenshot showing exact buttons to press and hold")
 
 Using a 3D image this way is very efficient. You can create the 3D image very quickly (in 3D paint, for example) and then reuse the image for different steps in your guide, adding different 3D objects from the 3D toolkit, depending on what's required for the step.  
+
+## Create the 3D image
