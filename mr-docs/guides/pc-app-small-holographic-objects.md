@@ -20,18 +20,18 @@ Creating a 3D image of an object (a machine, for example) or part of an object o
 
 - You can place the image very close to the original object (close to where the operator needs to do the work). This saves the operator from having to continually refer back to the instruction card. 
 
-    ![xxx.](media/small-holograms-precision.jpg "xxx")
+    ![Screenshot showing new 3D image in very close proximity to real-world machine.](media/small-holograms-precision.jpg "Screenshot showing new 3D image in very close proximity to real-world machine")
 
 - You can focus on just the part of the machine where the operator needs to focus. For example, in the following graphic, the number pad has been isolated from the larger machine to help the operator focus.
 
-    ![xxx.](media/small-holograms-focus.jpg "xxx")
+    ![Screenshot showing the number pad isolated from the rest of the real-world machine.](media/small-holograms-focus.jpg "Screenshot showing the number pad isolated from the rest of the real-world machine")
 
 - You can make the image larger (using the scaling feature in Dynamics 365 Guides to provide the effect of zooming in on the focus area. This makes it easier for the operator to see and understand.
     
-    ![xxx.](media/small-objects-zoom.jpg "xxx")
+    ![Screenshot showing larger number pad.](media/small-holograms-zoom.jpg "Screenshot showing larger number pad")
 
 - An image can convey what the operator needs to do faster than the written words in an instruction card. 
 
-    ![xxx.](media/small-objects-efficiency.jpg "xxx")
+    ![Screenshot showing exact buttons to press and hold.](media/small-holograms-efficiency.jpg "Screenshot showing exact buttons to press and hold")
 
 Using a 3D image this way is very efficient. You can create the 3D image very quickly (in 3D paint, for example) and then reuse the image for different steps in your guide, adding different 3D objects from the 3D toolkit, depending on what's required for the step.  
