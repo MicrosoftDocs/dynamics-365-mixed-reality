@@ -38,33 +38,33 @@ Using a 3D image this way is very efficient. You can create the 3D image very qu
 
 ## Create a 3D plate for an image using Paint 3D 
 
-You can use Paint 3D, which comes with Windows, to create a 3D panel that you can attach an image to.
+You can use Paint 3D, which comes with Windows, to create a 3D panel that you can attach an image to. Before starting this procedure, save an image to use to attach to the 3D panel. For example, in this procedure, we'll use an image of a number pad. 
 
 1. In Paint 3D, select **3D shapes**.
 
-    SCREENSHOT GOES HERE
+     ![xxx.](media/Paint-3D-shapes.jpg "xxx")
     
 2. Under **3D objects**, select the cube.
 
-    SCREENSHOT GOES HERE
+    ![xxx.](media/Paint-3D-cube.jpg "xxx")
     
 3. Rotate the cube to show its 3D profile.
 
-    SCREENSHOT GOES HERE
+   ![xxx.](media/Paint-3D-rotate-cube.jpg "xxx")
     
 4. Slim the cube down to create a 3D panel.
 
-    SCREENSHOT GOES HERE
+    ![xxx.](media/Paint-3D-slim-cube.jpg "xxx")
     
 5. Change the color of the cube to a background that works for your image.
 
-    SCREENSHOT GOES HERE
+    ![xxx.](media/Paint-3D-edit-color.jpg "xxx")
     
-6. Select **Stickers** at the top of the screen, and then choose a sticker for your 3D panel.
+6. Select **Stickers** at the top of the screen, choose a sticker (image) for your 3D panel, and then size the sticker to fit your panel. 
 
-    SCREENSHOT GOES HERE
+    ![xxx.](media/Paint-3D-.jpg "xxx")
     
-7. Select **Menu** in the upper-left corner of the screen, and then save your 3D file.
+7. Select **Menu** in the upper-left corner of the screen, select **3D model**, and then save the file in .GLB format.
 
 8. Import the file into the Dynamics 365 Guides PC app. 
 
