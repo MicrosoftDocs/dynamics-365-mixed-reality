@@ -44,7 +44,7 @@ You can use Paint 3D, which comes with Windows, to create a 3D panel that you ca
 
      ![xxx.](media/Paint-3D-shapes.jpg "xxx")
     
-2. Under **3D objects**, select the cube.
+2. On the right side of the screen, under **3D objects**, select the cube.
 
     ![xxx.](media/Paint-3D-select-cube.jpg "xxx")
     
