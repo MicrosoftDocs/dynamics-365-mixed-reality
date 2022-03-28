@@ -36,7 +36,7 @@ You can create a 3D image that replicates an object (a machine, for example) or 
 
 Using a 3D image this way is very efficient. You can create the 3D image very quickly (in Paint 3D, for example) and then reuse the image for different steps in your guide, adding different 3D objects from the 3D toolkit, depending on what's required for the step.  
 
-## Create a 3D plate for an image using Paint 3D 
+## Create a 3D panel for an image using Paint 3D 
 
 You can use Paint 3D, which comes with Windows, to create a 3D panel that you can attach an image to. Before starting this procedure, save an image to use to attach to the 3D panel. For example, in this procedure, we'll use a number pad image. 
 
