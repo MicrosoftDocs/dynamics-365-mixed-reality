@@ -27,13 +27,12 @@ To provide feedback on this template, contact [Alex Ferguson](mailto:alex.fergus
 
 You need a PC and a HoloLens device. [Learn more about device requirements](requirements.md)
 
-### How do I sign up for the trial without a Microsoft 365 tenant?
-
-You can enter a non-work email address. We'll create an account and tenant for you.
-
 ### Can I sign up for multiple Dynamics 365 apps such as Sales, Marketing, and Customer Service?
 
 Yes, you can. To view all available trials, [visit the trial hub page](https://dynamics.microsoft.com/dynamics-365-free-trial/). You can use the same email account to sign up for different trials. However, it's not possible to have multiple apps on the same trial site. Each trial will be on a different org and URL. The trial data can't be shared across apps.
+
+> [!NOTE]
+> You can't use an email account to sign up for a Dynamics 365 Guides trial. 
 
 ### Trial app
 
