@@ -14,7 +14,7 @@ This article shows how you can use a 3D image together with a real-world object 
 
 ## Use a 3D image together with a real-world object
 
-You can create a 3D image that replicates an object (a machine, for example) or part of an object and use the image together with the real-world object. This works particularly well if the object is relatively flat. Using a 3D image this way offers the following advantages over attaching holograms directly to a real-world objct:
+You can create a 3D image that replicates an object (a machine, for example) or part of an object and use the image together with the real-world object. This works particularly well if the object is relatively flat. Using a 3D image this way offers the following advantages over attaching holograms directly to a real-world object:
 
 - When you attach 3D pointers to an image, the pointers always stay in the exact same position relative to the image, so they're very precise.     
 
