@@ -72,7 +72,7 @@ After you sign up for the trial, you'll see the [Get started](get-started.md) pa
 
 ## What features are available in the trial?
 
-All features are available during the trial. To use calling capabilities, you must have a Microsoft Teams license. 
+All features are available during the trial. To use calling capabilities, you must have a Microsoft Teams license or a Dynamics 365 Remote Assist license. 
 
 ## How long does the trial last?
 
