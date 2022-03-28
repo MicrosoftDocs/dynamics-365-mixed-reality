@@ -60,7 +60,7 @@ You can use Paint 3D, which comes with Windows, to create a 3D panel that you ca
 
     ![Screenshot of Paint 3D with Edit color command highlighted.](media/Paint-3D-edit-color.jpg "Screenshot of Paint 3D with Edit color command highlighted")
     
-6. Select **Stickers** at the top of the screen, and then choose a sticker (image) for your 3D panel
+6. Select **Stickers** at the top of the screen, and then choose a sticker (image) for your 3D panel.
 
     ![Screenshot of Paint 3D with Stickers command highlighted.](media/Paint-3D-stickers.jpg "Screenshot of Paint 3D with Stickers command highlighted")
     
