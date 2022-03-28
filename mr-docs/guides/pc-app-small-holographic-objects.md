@@ -38,35 +38,35 @@ Using a 3D image this way is very efficient. You can create the 3D image very qu
 
 ## Create a 3D plate for an image using Paint 3D 
 
-You can use Paint 3D, which comes with Windows, to create a 3D panel that you can attach an image to. Before starting this procedure, save an image to use to attach to the 3D panel. For example, in this procedure, we'll use an image of a number pad. 
+You can use Paint 3D, which comes with Windows, to create a 3D panel that you can attach an image to. Before starting this procedure, save an image to use to attach to the 3D panel. For example, in this procedure, we'll use a number pad image. 
 
 1. In Paint 3D, select **3D shapes**.
 
-     ![xxx.](media/Paint-3D-shapes.jpg "xxx")
+     ![Screenshot of Paint 3D with 3D shapes command highlighted.](media/Paint-3D-shapes.jpg "Screenshot of Paint 3D with 3D shapes command highlighted")
     
 2. On the right side of the screen, under **3D objects**, select the cube.
 
-    ![xxx.](media/Paint-3D-select-cube.jpg "xxx")
+    ![Screenshot of Paint 3D with cube shape highlighted.](media/Paint-3D-select-cube.jpg "Screenshot of Paint 3D with cube shape highlighted")
     
 3. Rotate the cube to show its 3D profile.
 
-   ![xxx.](media/Paint-3D-rotate-cube.jpg "xxx")
+   ![Screenshot of Paint 3D image rotated.](media/Paint-3D-rotate-cube.jpg "Screenshot of Paint 3D image rotated")
     
 4. Slim the cube down to create a 3D panel.
 
-    ![xxx.](media/Paint-3D-slim-cube.jpg "xxx")
+    ![Screenshot of Paint 3D with image slimmed down to panel shape.](media/Paint-3D-slim-cube.jpg "Screenshot of Paint 3D with image slimmed down to panel shape")
     
 5. Change the color of the cube to a background that works for your image.
 
-    ![xxx.](media/Paint-3D-edit-color.jpg "xxx")
+    ![Screenshot of Paint 3D with Edit color command highlighted.](media/Paint-3D-edit-color.jpg "Screenshot of Paint 3D with Edit color command highlighted")
     
 6. Select **Stickers** at the top of the screen, and then choose a sticker (image) for your 3D panel
 
-    ![xxx.](media/Paint-3D-stickers.jpg "xxx")
+    ![Screenshot of Paint 3D with Stickers command highlighted.](media/Paint-3D-stickers.jpg "Screenshot of Paint 3D with Stickers command highlighted")
     
 7. Resize the sticker to fit your panel. 
 
-    ![xxx.](media/Paint-3D-sticker-added.jpg "xxx")
+    ![Screenshot of Paint 3D with sticker resized to fit 3D panel.](media/Paint-3D-sticker-added.jpg "Screenshot of Paint 3D with sticker resized to fit 3D panel")
 
 8. Select **Menu** in the upper-left corner of the screen, select **3D model**, and then save the file in .GLB format.
 
