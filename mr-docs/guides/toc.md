@@ -66,7 +66,7 @@
 ##### [Step Editor overview](pc-app-step-editor-overview.md)
 ##### [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
 ##### [Add a custom 3D part that you import](pc-app-add-3D-part.md)
-##### [Tips for pointing at small objects](pc-app-small-holographic-objects.md) 
+##### [Tips for pointing at small objects](pc-app-point-small-objects.md) 
 ##### [Add media (images or videos)](pc-app-add-media.md)
 ##### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
 ##### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
@@ -91,7 +91,7 @@
 #### Work with holograms
 ##### [Get oriented with the HoloLens app](hololens-app-orientation.md)
 ##### [Place and manipulate holograms](hololens-app-place-holograms.md)
-##### [Tips for pointing at small objects](pc-app-small-holographic-objects.md)
+##### [Tips for pointing at small objects](pc-app-point-small-objects.md)
 ##### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 ##### [Use a style to add emphasis](hololens-app-styles.md)
 ##### [Duplicate a 3D model](hololens-app-duplicate-model.md)
