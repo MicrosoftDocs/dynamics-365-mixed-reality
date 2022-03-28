@@ -2,17 +2,17 @@
 
 # Tips for pointing at small, closely spaced objects in Dynamics 365 Guides
 
-If you're working with small, closely spaced objects in Microsoft Dynamics 365 Guides, you might experience problems when trying to point at those objects due to HoloLens accuracy thresholds. For example, the following graphic shows a machine that has buttons that are placed very close together.
+If you're working with small, closely spaced objects in Microsoft Dynamics 365 Guides, you might experience problems when using holograms to point at those objects due to HoloLens accuracy thresholds. For example, the following graphic shows a machine that has buttons that are placed very close together.
 
 ![Example of buttons placed close together.](media/small-holograms-example.jpg "Example of buttons placed close together")
 
-If you add 3D objects to point at the buttons in this case, it may be hard for the operator to interpret the instructions, as shown in the following graphic.
+If you add holograms to point at the buttons in this case, it may create holographic clutter that's difficult for the interpret, as shown in the following graphic.
 
 ![Example of buttons placed close together with holographic pointers.](media/small-holograms-example-with-pointers.jpg "Example of buttons placed close together with holographic pointers")
 
-This article provides tips for working with these types of small, closely-spaced objects.
+This article shows how you can use a 3D image together with a real-world object to point at closely spaced real-world objects. 
 
-## Using a 3D image together with a real-world object
+## Use a 3D image together with a real-world object
 
 You can create a 3D image that replicates an object (a machine, for example) or part of an object and use the image together with the real-world object. This works particularly well if the object is relatively flat. Using a 3D image this way offers the following advantages over attaching holograms directly to a real-world objct:
 
