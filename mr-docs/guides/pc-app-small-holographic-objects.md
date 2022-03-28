@@ -62,7 +62,7 @@ You can use Paint 3D, which comes with Windows, to create a 3D panel that you ca
     
 6. Select **Stickers** at the top of the screen, choose a sticker (image) for your 3D panel, and then size the sticker to fit your panel. 
 
-    ![xxx.](media/Paint-3D-.jpg "xxx")
+    ![xxx.](media/Paint-3D-stickers.jpg "xxx")
     
 7. Select **Menu** in the upper-left corner of the screen, select **3D model**, and then save the file in .GLB format.
 
