@@ -6,7 +6,7 @@ If you're working with small, closely spaced objects in Microsoft Dynamics 365 G
 
 ![Example of buttons placed close together.](media/small-holograms-example.jpg "Example of buttons placed close together")
 
-If you add holograms to point at the buttons in this case, it may create holographic clutter that's difficult for the interpret, as shown in the following graphic.
+If you add holograms to point at the buttons in this case, it may create holographic clutter that's difficult for the operator to interpret, as shown in the following graphic.
 
 ![Example of buttons placed close together with holographic pointers.](media/small-holograms-example-with-pointers.jpg "Example of buttons placed close together with holographic pointers")
 
