@@ -26,7 +26,7 @@ You can create a 3D image that replicates an object (a machine, for example) or 
 
     ![Screenshot showing the number pad isolated from the rest of the real-world machine.](media/small-holograms-focus.jpg "Screenshot showing the number pad isolated from the rest of the real-world machine")
 
-- You can make the image larger (using the scaling feature in Dynamics 365 Guides to provide the effect of zooming in on the focus area. This makes it easier for the operator to see and understand.
+- You can make the image larger (using the scaling feature in Dynamics 365 Guides) to provide the effect of zooming in on the focus area. This makes it easier for the operator to see and understand.
     
     ![Screenshot showing larger number pad.](media/small-holograms-zoom.jpg "Screenshot showing larger number pad")
 
