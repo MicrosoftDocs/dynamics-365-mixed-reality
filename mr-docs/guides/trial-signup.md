@@ -28,6 +28,9 @@ Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial a
 
 Your trial includes the same features as the paid version. The links below guide you through some of the key features.
 
+> [!NOTE]
+> You must have a Microsoft Teams or Dynamics 365 Remote Assist license to make calls from the Dynamics 365 Guides HoloLens app. 
+
 - [Get started](get-started.md)
 - [Get an overview of authoring in Dynamics 365 Guides](authoring-overview.md)
 - [Learn how to author with the PC app](pc-app-overview.md)
