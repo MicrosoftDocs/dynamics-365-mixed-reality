@@ -36,6 +36,36 @@ You can create a 3D image that replicates an object (a machine, for example) or 
 
 Using a 3D image this way is very efficient. You can create the 3D image very quickly (in Paint 3D, for example) and then reuse the image for different steps in your guide, adding different 3D objects from the 3D toolkit, depending on what's required for the step.  
 
-## Create a 3D plate for an image
+## Create a 3D plate for an image using Paint 3D 
+
+You can use Paint 3D, which comes with Windows, to create a 3D panel that you can attach an image to.
+
+1. In Paint 3D, select **3D shapes**.
+
+    SCREENSHOT GOES HERE
+    
+2. Under **3D objects**, select the cube.
+
+    SCREENSHOT GOES HERE
+    
+3. Rotate the cube to show its 3D profile.
+
+    SCREENSHOT GOES HERE
+    
+4. Slim the cube down to create a 3D panel.
+
+    SCREENSHOT GOES HERE
+    
+5. Change the color of the cube to a background that works for your image.
+
+    SCREENSHOT GOES HERE
+    
+6. Select **Stickers** at the top of the screen, and then choose a sticker for your 3D panel.
+
+    SCREENSHOT GOES HERE
+    
+7. Select **Menu** in the upper-left corner of the screen, and then save your 3D file.
+
+8. Import the file into the Dynamics 365 Guides PC app. 
 
 
