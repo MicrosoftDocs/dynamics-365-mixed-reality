@@ -56,7 +56,7 @@ You can use Paint 3D, which comes with Windows, to create a 3D panel that you ca
 
     ![Screenshot of Paint 3D with image slimmed down to panel shape.](media/Paint-3D-slim-cube.jpg "Screenshot of Paint 3D with image slimmed down to panel shape")
     
-5. Change the color of the cube to a background that works for your image.
+5. On the right side of the screen, select **Edit color** to change the color of the cube to a background that works for your image.
 
     ![Screenshot of Paint 3D with Edit color command highlighted.](media/Paint-3D-edit-color.jpg "Screenshot of Paint 3D with Edit color command highlighted")
     
