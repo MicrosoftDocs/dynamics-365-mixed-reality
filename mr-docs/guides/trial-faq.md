@@ -68,8 +68,6 @@ Yes, you can [purchase a subscription](setup-step-one.md) of Dynamics 365 Guides
 
 You can use the trial version of Dynamics 365 Guides for up to 60 days. 
 
-## Dynamics 365 Guides-specific questions
-
 ### How do I start using the trial?
 
 After you sign up for the trial, you'll see the [Get started](get-started.md) page. This page provides links for downloading the apps and links to user guides and tutorials. See also [What to try](trial-signup.md) on the trial sign-up page.
