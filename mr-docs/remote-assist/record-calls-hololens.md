@@ -46,17 +46,17 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the notification that recording has started.](media/03.08-call-recording-started.png)
     
-4. The **Start Recording** button becomes a **Stop Recording** button. You'll also see a persistent recording indication in the top left of the video card.
+    The **Start Recording** button becomes a **Stop Recording** button. You'll also see a persistent recording indication in the top left of the video card.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing a call being recorded.](media/03.00-call-recording-in-progress.png)
     
-5. The persistent recording indication will be visible even if you open the **Files** tab, so you can always verify whether a recording is ongoing.
+    The persistent recording indication will be visible even if you open the **Files** tab, so you can always verify whether a recording is ongoing.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing the persistent recording indicator.](media/06.00-files-recording-indicator.png)
     
-6. To end the recording, press the **Stop Recording** (![Stop recording button.](media/RAHL_CallRecording_StopButton.png)) button or end the call. You'll see a reminder that the recording is being processed and saved securely in OneDrive or SharePoint.  
+4. To end the recording, press the **Stop Recording** (![Stop recording button.](media/RAHL_CallRecording_StopButton.png)) button or end the call. You'll see a reminder that the recording is being processed and saved securely in OneDrive or SharePoint.  
 
-7. After the recording is processed and saved, it will appear in your Dynamics 365 Remote Assist chat history (if you are still in the call) and also your Teams chat history. Remember that your Dynamics 365 Remote Assist chat history does not persist when the call ends, but your Teams chat history does. To view the recording in your HoloLens browser, select the link in the Dynamics 365 Remote Assist chat. 
+5. After the recording is processed and saved, it will appear in your Dynamics 365 Remote Assist chat history (if you are still in the call) and also your Teams chat history. Remember that your Dynamics 365 Remote Assist chat history does not persist when the call ends, but your Teams chat history does. To view the recording in your HoloLens browser, select the link in the Dynamics 365 Remote Assist chat. 
 
 ## Cloud-based recording layout
 
