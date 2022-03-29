@@ -68,7 +68,7 @@ You can use Paint 3D, which comes with Windows, to create a 3D panel that you ca
 
     ![Screenshot of Paint 3D with sticker resized to fit 3D panel.](media/Paint-3D-sticker-added.jpg "Screenshot of Paint 3D with sticker resized to fit 3D panel")
 
-8. Select **Menu** in the upper-left corner of the screen, select **3D model**, and then save the file in .GLB format.
+8. Select **Menu** in the upper-left corner of the screen, select **3D model**, and then save the file in .GLB format so you can import it easily into Dynamics 365 Guides.
 
 9. Import the file into the Dynamics 365 Guides PC app. 
 
