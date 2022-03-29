@@ -70,6 +70,6 @@ You can use Paint 3D, which comes with Windows, to create a 3D panel that you ca
 
 8. Select **Menu** in the upper-left corner of the screen, select **3D model**, and then save the file in .GLB format so you can import it easily into Dynamics 365 Guides.
 
-9. Import the file into the Dynamics 365 Guides PC app. 
+9. [Import the file into the Dynamics 365 Guides PC app](pc-app-add-3D-part.md). 
 
 
