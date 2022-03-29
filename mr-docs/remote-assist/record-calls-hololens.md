@@ -3,7 +3,7 @@ title: Record calls in Dynamics 365 Remote Assist on HoloLens
 author: amaraanigbo
 description: Use cloud-based recording or several other alternatives in Microsoft Dynamics 365 Remote Assist on HoloLens
 ms.author: soanigbo
-ms.date: 03/24/2022
+ms.date: 03/29/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -58,7 +58,7 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the notification explaining that the call recording is being saved.](media/03.10-call-recording-saving.png)
     
-7. After the recording is processed and saved, it will appear in your Dynamics 365 Remote Assist chat history (if you are still in the call) and also your Teams chat history. Remember that your Dynamics 365 Remote Assist chat history does not persist when the call ends, but your Teams chat history does. To view the recording in your HoloLens browser, select the link in the Dynamics 365 Remote Assist chat. To view all the call recordings you initiated, visit your [Stream videos page](https://msit.microsoftstream.com/studio/videos).
+7. After the recording is processed and saved, it will appear in your Dynamics 365 Remote Assist chat history (if you are still in the call) and also your Teams chat history. Remember that your Dynamics 365 Remote Assist chat history does not persist when the call ends, but your Teams chat history does. To view the recording in your HoloLens browser, select the link in the Dynamics 365 Remote Assist chat. 
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the chat window where there's a notification that the video is available on Stream.](media/03.13-call-chat-recorded.png)
 
