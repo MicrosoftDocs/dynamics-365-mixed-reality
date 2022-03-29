@@ -46,7 +46,7 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the notification that recording has started.](media/03.08-call-recording-started.png)
     
-4. The **Start Recording** button now becomes a **Stop Recording** button. You'll also see a persistent recording indication in the top left of the video card.
+4. The **Start Recording** button becomes a **Stop Recording** button. You'll also see a persistent recording indication in the top left of the video card.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing a call being recorded.](media/03.00-call-recording-in-progress.png)
     
