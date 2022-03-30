@@ -101,8 +101,8 @@ Dynamics 365 Remote Assist is integrated with Dynamics 365 Field Service to help
 5.	Hover your cursor over the plan until two options will appear: **Start free trial** or **Buy now**. Select **Start free trial**. Follow the next steps of the payment process. 
 
 ## Next steps
-- [Buy Dynamics 365 Remote Assist licenses for HoloLens and Mobile](buy-remote-assist.md). 
-- [Deploy Dynamics 365 Remote Assist licenses to individuals in your organization](deploy-remote-assist.md). 
+- [Buy Dynamics 365 Remote Assist licenses for HoloLens and Mobile](buy-remote-assist.md)
+- [Deploy Dynamics 365 Remote Assist licenses to individuals in your organization](deploy-remote-assist.md)
 
 
 
