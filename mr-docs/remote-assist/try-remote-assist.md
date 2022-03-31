@@ -62,7 +62,7 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 4. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
 
-5. The app will prompt you to start your free trial of Dynamics 365 Remote Assist. Select **Continue**. You will then be taken to your **Contacts** page. 
+5. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. You will then be taken to your **Contacts** page. 
 
    > [!NOTE]
    > If you see a message that says you don't have a Teams license, you need to wait longer for the trial licensing to be applied. 
