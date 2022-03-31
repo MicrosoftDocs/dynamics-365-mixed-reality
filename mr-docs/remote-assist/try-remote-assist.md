@@ -109,7 +109,7 @@ Dynamics 365 Remote Assist is integrated with Dynamics 365 Field Service to help
 
 ## Next steps
 
-- [Buy Dynamics 365 Remote Assist licenses for HoloLens and Mobile](buy-remote-assist.md)
+- [Buy Dynamics 365 Remote Assist licenses for HoloLens and mobile](buy-remote-assist.md)
 - [Deploy Dynamics 365 Remote Assist licenses to individuals in your organization](deploy-remote-assist.md)
 
 
