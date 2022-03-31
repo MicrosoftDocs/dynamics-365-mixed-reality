@@ -100,7 +100,7 @@ Dynamics 365 Remote Assist is integrated with Dynamics 365 Field Service to help
  
 2. Make sure the **Try the new admin center** toggle is turned off.
   
-3. In the left navigation bar, select **Billing** > **Purchase Services**. 
+3. In the left navigation bar, select **Billing** > **Purchase services**. 
  
 4. A list of services will appear. Scroll down until you see **Dynamics 365 Remote Assist Attach**.
 
