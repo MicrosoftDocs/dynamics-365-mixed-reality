@@ -56,7 +56,7 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 1. On your mobile device, go to the appropriate iOS or Android app store.
 
-2. Search for and download the **Dynamics 365 Remote Assist** app.
+2. Search for and download the Dynamics 365 Remote Assist app.
 
 3. Wait for three or four hours for the trial licensing to be applied. 
 
