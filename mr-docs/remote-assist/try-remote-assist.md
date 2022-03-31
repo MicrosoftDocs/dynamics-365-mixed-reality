@@ -83,7 +83,7 @@ Admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to
 
 2. Make sure the **Try the new admin center** toggle is turned off.
 
-3. In the left navigation bar, select **Billing > Purchase Services**. 
+3. In the left navigation bar, select **Billing > Purchase services**. 
 
     ![Screenshot of the purchase services option in the menu.](./media/buy_3.png "Purchase services")
 
