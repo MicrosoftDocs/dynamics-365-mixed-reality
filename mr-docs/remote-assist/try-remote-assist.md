@@ -44,7 +44,7 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 1. Go to the **Start** menu, and then select **Microsoft Store**. 
 
-2. Search for and download the **Dynamics 365 Remote Assist** app.
+2. Search for and download the Dynamics 365 Remote Assist app.
 
 3. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
 
