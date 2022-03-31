@@ -50,7 +50,7 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 4. The app will prompt you to start your free trial of Dynamics 365 Remote Assist. Select **Continue**. You will then be taken to your **Contacts** page.  
 
-5. You can now use Dynamics 365 Remote Assist on your HoloLens and HoloLens 2.  
+5. You can now use Dynamics 365 Remote Assist on your HoloLens device.  
 
 ### Steps for mobile
 
