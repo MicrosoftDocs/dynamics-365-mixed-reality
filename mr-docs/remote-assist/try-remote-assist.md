@@ -89,7 +89,8 @@ Admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to
 
 4. A list of services will appear. Scroll down until you find **Dynamics 365 Remote Assist**.
 
-5. Hover your cursor over the plan until two options appear: **Start free trial** or **Buy now**. Select **Start free trial**. Follow the next steps of the payment process. 
+5. Hover your cursor over the plan until two options appear: **Start free trial** or **Buy now**. Select **Start free trial**, and then follow the payment process steps. 
+
     ![Screenshot of the start free trial option.](./media/buy_5.png "Start free trial")
 
 ## Option 3: Dynamics 365 Remote Assist Attach trial license (for Dynamics 365 Field Service customers)
