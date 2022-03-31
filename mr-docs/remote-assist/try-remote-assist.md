@@ -34,7 +34,7 @@ In this article, we’ll walk through the three ways you can get a Dynamics 365 
 
 - Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only). Users will sign in to their accounts through Azure Active Directory. 
 
-- A HoloLens, HoloLens 2, or a mobile device. [Learn about additional licensing and product requirements](./requirements.md).
+- A HoloLens, HoloLens 2, or mobile device. [Learn about additional licensing and product requirements](./requirements.md).
 
 With the license-free 90-day free trial, each user must download Dynamics 365 Remote Assist from the appropriate app store to start the trial. 
 
