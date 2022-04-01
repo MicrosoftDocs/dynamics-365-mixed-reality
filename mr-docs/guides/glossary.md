@@ -46,7 +46,7 @@ The size of the [!include[pn-hololens](../includes/pn-hololens.md)] display wher
 The act of looking at a user interface element with [!include[pn-hololens](../includes/pn-hololens.md)]. In some cases, you can select an item just by gazing at it. In other cases, you use gaze to target an object and then act on that target with a gesture.
 
 ## Gesture
-A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](/mr-docs/guides/hl1).
+A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](authoring-gestures-HL2.md).
 
 ## Holographic anchor (previously known as a digital anchor)
 A 3D representation that is used to anchor holograms in the real world. You place the digital representation directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor. The digital representation can be a computer-aided design (CAD) model or a scanned model. For more information, see [Anchor your guide in the real world](anchor.md).
