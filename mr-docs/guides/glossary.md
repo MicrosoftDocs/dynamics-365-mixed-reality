@@ -22,7 +22,7 @@ A library of predefined objects included in [!include[pn-dyn-365-guides](../incl
 Shows the list of guides for the Work activity and the list of contacts for the Call activity.
 
 ## Air tap
-A gesture that's equivalent to a "click" with a mouse. For more information on how to do an air tap, see [Gestures to know](/mr-docs/guides/hl1).
+A gesture that's equivalent to a "click" with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures-HL2.md).
 
 ## Anchoring (alignment)
 The process of making sure that a guide "lines up" with associated objects in the real world when it's used on [!include[pn-hololens](../includes/pn-hololens.md)]. Anchoring is a crucial and mandatory part of creating any guide. For more information, see [Anchor your guides in the real world](anchor.md).
