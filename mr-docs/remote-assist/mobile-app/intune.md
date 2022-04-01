@@ -49,7 +49,7 @@ You must be an administrator to create an app configuration policy.
 
     1. Set the **Name** field to "com.microsoft.ramobile.environment.instance.url". 
 
-    2. In the **Value** field, enter the environment url. You can find this url in the [Power Platform admin center](https://admin.powerplatform.microsoft.com). Learn more: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment)
+    2. In the **Value** field, enter the environment url. You can find this url in the [Power Platform admin center](https://admin.powerplatform.microsoft.com). Learn more: [Create and manage environments in the Power Platform admin center](/power-platform/admin/create-environment)
 
     ![Screenshot of Name field and Value field filled in.](./media/intune-6.jpg)
     
@@ -67,7 +67,7 @@ You must be an administrator to create an app configuration policy.
 
     ![Screenshot of the Review + create tab.](./media/intune-9.jpg)
     
-[Learn more about app configuration policies for Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/app-configuration-policies-overview)
+[Learn more about app configuration policies for Microsoft Intune](/mem/intune/apps/app-configuration-policies-overview)
 
 ## See also
 
