@@ -50,6 +50,6 @@ You must be online to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 
 - [Anchor your guide to the real world](anchor.md)
 - [Structure your guide in the Outline page](structure-guide.md)
-- [Step Editor overview](pc-app-step-editor-overview.md)
+- [PC app Step Editor overview](pc-app-step-editor-overview.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
