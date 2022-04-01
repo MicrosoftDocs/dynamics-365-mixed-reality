@@ -70,7 +70,7 @@ The following table describes the actions for working with tasks and steps.
 ## What's next?
 
 - [Anchor your guide to the real world](anchor.md)
-- [Create steps and add 3D content or 2D media](/mr-docs/guides/pc-app-step-editor-overview)
+- [Learn about the Step Editor](pc-app-step-editor-overview.md)
 - [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 - [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)
 - [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
