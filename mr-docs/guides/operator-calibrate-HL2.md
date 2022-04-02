@@ -19,7 +19,7 @@ ms.reviewer: v-brycho
 
 ## Use the Calibration app
 
-1. If the pop-up doesn't appear, use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for navigating Dynamics 365 Guides](/mr-docs/guides/hl1).
+1. If the pop-up doesn't appear, use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for authoring and navigating in Dynamics 365 Guides](authoring-gestures-HL2.md).
 
 2. If **Settings** isn't pinned to the **Start** menu, select the plus sign (**+**) button to view all apps.
 

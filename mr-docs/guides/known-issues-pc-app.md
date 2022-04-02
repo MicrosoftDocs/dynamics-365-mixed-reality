@@ -36,7 +36,7 @@ The app currently looks up media by file name. For example, if you have one file
 
 Currently, when you upload content, the app doesn't automatically scroll to the place in the library where the content is uploaded. To find the content, go to the library on the right side of the page, and select the appropriate tab (**3D parts**, **Images**, **Actions**, **Videos**, or **3D toolkit**). You can sort content by newest or by alphabetical order. Alternatively, you can search for a specific file name. 
 
-If any errors occurred during upload, the PC app shows notifications in the title bar. Make sure that content that you upload is in the correct file format. For information about supported file formats, see [What file formats are supported for 3D models, images, and videos?](/mr-docs/guides/pc-app-step-editor-overview#what-file-formats-are-supported-for-3d-models-images-and-videos). 
+If any errors occurred during upload, the PC app shows notifications in the title bar. Make sure that content that you upload is in the correct file format. For information about supported file formats, see [What file formats are supported for 3D models, images, and videos?](pc-app-supported-file-formats.md)
 
 If you still can't find your content, contact your admin. There might be a permissions issue. 
 
