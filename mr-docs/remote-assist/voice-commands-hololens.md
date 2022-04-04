@@ -45,7 +45,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Unmute|Unmute an audio call.|
 |Record call |Start video recording.|
 |Stop recording|Stop video recording. |
-|Camera| Select the camera/capture tool.|
+|Camera| Select the **Camera/Capture** tool.|
 |Start video|Turn on the video for a call.|
 |Stop video|Stop the video for a call.|
 |Turn on snapshot|Turn on Snapshot mode for a call in low-bandwidth mode.|
