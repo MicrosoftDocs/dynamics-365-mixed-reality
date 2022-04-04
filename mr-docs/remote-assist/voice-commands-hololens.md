@@ -88,7 +88,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Ink off|Turn off the **Draw** tool.|
 |Start inking| Start adding ink.  |   
 |Stop inking| Stop adding ink.  |  
-|Colors|Open color picker to determine color of the arrow or ink, and then say blue, gray, green, red, or yellow.|
+|Colors|Open color picker to determine color of the arrow or ink, and then say "blue", "gray", "green", "red", or "yellow".|
 |Undo| Undo the previous action. |
 |Erase all |Remove all annotations that you placed in the environment.|
 |Toggle hand rays| Turn hand rays on or off. <br><br>Note that turning hand rays off disables far-field interactions. Turning hand rays back on re-enables far-field interactions. Activating any tools that require far-field interactions (inking and arrows, for example) also automatically turns hand rays back on.|
