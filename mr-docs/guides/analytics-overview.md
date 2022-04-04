@@ -31,7 +31,7 @@ Data capture has the following limitations:
 
 ### 1. Sign in to Dynamics 365 Guides
 
-Data for all users is automatically stored in the MR Apps Session table (described in more detail below).
+Data for all users is automatically stored in the MR App Session table (described in more detail below).
 
 ### 2. Author a guide in the PC or HoloLens app
 
