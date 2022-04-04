@@ -23,7 +23,7 @@ To find the app and solution versions that you're using, in the PC app, select t
 
 | PC and HoloLens app version | Release date | Compatible Guides Dataverse solution versions |HoloLens version(s) supported|
 |-----------------------------|--------------|--------------------------------------------------|--------------------|
-| XXX| March 29, 2022 | XXX, 700.1.0.1, 700.0.0.1|HoloLens 2 only|
+| 702.2203.31001| March 29, 2022 | 700.2.0.1, 700.1.0.1, 700.0.0.1|HoloLens 2 only|
 | 701.2201.31001| February 2, 2022 | 700.1.0.1, 700.0.0.1|HoloLens 2 only|
 | 701.2201.20001| January 26, 2022 | 700.1.0.1, 700.0.0.1|HoloLens 2 only|
 | 700.2111.3001| November 8, 2021 | 700.0.0.1, 600.4.0.2, 600.3.0.1, 600.2.0.2, 600.1|HoloLens 2 only|
