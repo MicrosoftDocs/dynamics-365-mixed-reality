@@ -76,10 +76,10 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Pin|Pin a window in your space so it doesn’t follow you as you move around in your environment.|
 |Unpin|Unpin a window so it follows you as you move around in your environment.|
 |Follow me|Set the panels to follow the user.|
-|Dock|Dock the text chat during a call.|
-|Undock|Undock the text chat during a call.|
 |Open chat|Open the **Text Chat** window (attached to the video feed).|
 |Close chat|Close the **Text Chat** window.|
+|Dock|Dock the text chat during a call.|
+|Undock|Undock the text chat during a call.|
 |**Annotations**    | | 
 |Arrow|Select the **Arrow** tool to create a holographic arrow. Use arrows to point to parts of your environment. |
 |Arrow off|Turn off the **Arrow** tool.|
