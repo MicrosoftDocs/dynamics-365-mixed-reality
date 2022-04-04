@@ -123,8 +123,8 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |New asset|Add a new asset.|
 |Rename|Rename an asset.|
 |Submit|Submit a new name when renaming an asset.|
-|Post, Post all|Post the Field Service items to the work order.|
-|Discard, Discard all|Discard the Field Service items at the end of a call.|
+|Post, Post all|Post the Dynamics 365 Field Service items to the work order.|
+|Discard, Discard all|Discard the Dynamics 365 Field Service items at the end of a call.|
 
 ## Use the Narrator to announce incoming calls
 
