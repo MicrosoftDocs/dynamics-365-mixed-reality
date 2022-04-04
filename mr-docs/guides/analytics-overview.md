@@ -52,7 +52,7 @@ Use the Power Platform to analyze and act on your data.
 
 ### MR App Session table
 
-Dynamics 365 Guides also includes an MR App Session table that you can use to determine the overall usage of the product in your organization. This is useful so you can determine where to assign Dynamics 365 Guides licenses. 
+Dynamics 365 Guides includes an MR App Session table that you can use to determine the overall usage of the product in your organization. This is useful so you can determine where to assign Dynamics 365 Guides licenses. 
 
 The MR App Session table stores a record whenever a user signs into an instance. The table stores information about when the user signed in, the session type (log-in or suspend, which tracks when a user resumes using the device), device class (PC or HoloLens), and the User ID. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md). 
 
