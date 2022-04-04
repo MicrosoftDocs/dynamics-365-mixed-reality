@@ -46,11 +46,16 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 2. Search for and download the Dynamics 365 Remote Assist app.
 
-3. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
+3. Wait for three or four hours for the Teams trial licensing to be applied. 
 
-4. The app will prompt you to start your free trial of Dynamics 365 Remote Assist. Select **Continue**. You will then be taken to your **Contacts** page.  
+4. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
 
-5. You can now use Dynamics 365 Remote Assist on your HoloLens device.  
+5. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. You will then be taken to your **Contacts** page.  
+
+   > [!NOTE]
+   > If you see a message that says you don't have a Teams license, you need to wait longer for the Teams trial licensing to be applied. 
+
+6. You can now use Dynamics 365 Remote Assist on your HoloLens device.  
 
 ### Steps for mobile
 
@@ -58,14 +63,14 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 2. Search for and download the Dynamics 365 Remote Assist app.
 
-3. Wait for three or four hours for the trial licensing to be applied. 
+3. Wait for three or four hours for the Teams trial licensing to be applied. 
 
 4. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
 
 5. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. You will then be taken to your **Contacts** page. 
 
    > [!NOTE]
-   > If you see a message that says you don't have a Teams license, you need to wait longer for the trial licensing to be applied. 
+   > If you see a message that says you don't have a Teams license, you need to wait longer for the Teams trial licensing to be applied. 
  
 6. You can now use Dynamics 365 Remote Assist on your mobile device. [Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile)](mobile-app/making-calls-with-ar.md).
 
