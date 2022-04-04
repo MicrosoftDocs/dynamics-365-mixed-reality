@@ -38,8 +38,8 @@ In Microsoft Dynamics 365 Guides, you can share a guide with other users if you'
     
 6. Under **Manage share access**, select the team, and then select specific permissions:
 
-   - For operators, select **Read** permissions (and **Append To** if you want to [collect operations data](analytics-overview.md)).
-   - For authors, select **Read**, **Write**, and **Append To** permissions.
+   - For operators, select **Read** permissions (and **Append to** if you want to [collect operations data](analytics-overview.md)).
+   - For authors, select **Read**, **Write**, and **Append to** permissions.
 
     ![Screen shot of Manage share section.](media/manage-share-access.jpg "Screen shot of Manage share section")
     
