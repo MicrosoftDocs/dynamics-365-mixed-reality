@@ -39,7 +39,7 @@ Data for all authors is automatically stored in the Guide Author Session table (
 
 ### 3. Operate a guide
 
-**Next** and **Back** button interactions are recorded to determine the time spent on each step. Operator data is automatically stored in the Guides Session table and the Guide Session Step Visit table. Both tables are described in more detail below. 
+**Next** and **Back** button interactions are recorded to determine the time spent on each step. Operator data is automatically stored in the Guide Session table and the Guide Session Step Visit table. Both tables are described in more detail below. 
 
 ### 4. Trigger alerts or visualize data
 
