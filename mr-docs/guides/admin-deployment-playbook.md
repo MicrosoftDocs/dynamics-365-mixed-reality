@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
 ms.author: mamaylya
-ms.date: 01/10/2022
+ms.date: 02/18/2022
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Deployment playbook for Dynamics 365 Guides
@@ -102,17 +102,13 @@ The [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/s
 
 ### Network access
 
-Dynamics 365 Guides is a cloud-based application and might require that your network admin add, to an approve list, the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers. [Learn more about unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls).
+Dynamics 365 Guides is a cloud-based application and might require that your network admin add, to an approve list, the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers. [Learn more about unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls). See also [Network requirements for Dynamics 365 Guides](admin-network-requirements.md)
 
 ### VPN or proxy configuration
 
-When connecting through a proxy or VPN, you must configure the proxy or VPN to allow connections with certain endpoints so that Dynamics 365 Guides functions normally. Some endpoints are required generally for Dynamics 365 apps. [Review the list of endpoints required for Dynamics 365 apps](https://docs.microsoft.com/power-platform/admin/online-requirements#internet-accessible-urls-required). 
+When connecting through a proxy or VPN, you must configure the proxy or VPN to allow connections with certain endpoints so that Dynamics 365 Guides functions normally. Some endpoints are required generally for Dynamics 365 apps. [Review the list of endpoints required for Dynamics 365 apps](/power-platform/admin/online-requirements#internet-accessible-urls-required). 
 
-Other endpoints are specific to Dynamics 365 Guides. The list of additional endpoints required by Dynamics 365 Guides includes:
-
-- login.microsoft.com 
-- graph.microsoft.com 
-- globaldisco.crm.dynamics.com 
+Other endpoints are specific to Dynamics 365 Guides. The list of additional endpoints required by Dynamics 365 Guides are listed in [Network requirements](admin-network-requirements.md).
 
 ### Windows Defender Firewall configuration
 
@@ -130,20 +126,6 @@ For Windows Defender Firewall, sometimes it's not enough to have the app listed 
 
     ![Firewall configuration 02](media/firewall_configuration_02.PNG "Firewall outbound rules")
     
-### Making calls from Dynamics 365 Guides
-
-The following list contains the minimum URL endpoints and TCP/UDP ports used for Teams calling. All must be reachable from the app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
-
-#### Teams
-
-- *.registrar.skype.com
-- *.teams.microsoft.com
-- UDP: 3478, 3479, 3480, 3481
-
-#### Microsoft GraphExplorer
-
-- graph.microsoft.com
-- TCP: 80, 443
 
 ## Access management and user roles
 

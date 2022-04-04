@@ -52,6 +52,7 @@
 #### [Capture asset conditions](mobile-app/asset-capture-mobile.md)
 #### [Share files](mobile-app/file-sharing.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
+### [Use Microsoft Intune to protect data](mobile-app/intune.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
 ## Do more with the model-driven app
@@ -97,10 +98,5 @@
 ### [FAQ: Mobile app](./mobile-app/faq-mobile.md)
 ### [Get support](file-support-ticket.md)
 
-## Legal documents
-### [Software license terms](../legal/remote-assist-license-terms.md)
-### [Free trial software license terms](../legal/remote-assist-license-terms-free-trial.md)
-### [Android Mobile license terms](../legal/remote-assist-mobile-android.md)
-### [iOS Mobile license terms](../legal/remote-assist-mobile-iOS.md)
-### [Third-party notices](../legal/remote-assist-third-party-notice.md)
-### [iOS and Android third-party notices](../legal/ios-android-third-party.md)
+## [Legal documents and notices](https://go.microsoft.com/fwlink/?linkid=2182906)
+

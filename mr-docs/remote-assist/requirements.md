@@ -2,7 +2,7 @@
 author: amaraanigbo
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 11/11/2021
+ms.date: 02/17/2022
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
 ms.reviewer: v-bholmes
@@ -118,7 +118,7 @@ The following list contains the *minimum* URL end points and TCP/UDP ports utili
 - sts.windows.net
 - TCP: 80, 443
 
-#### Microsoft GraphExplorer
+#### Microsoft Graph
 - graph.microsoft.com
 - TCP: 80, 443
 
@@ -135,10 +135,8 @@ The following list contains the *minimum* URL end points and TCP/UDP ports utili
 - TCP: 80, 443
 
 #### Windows Notification Service
-- *.notify.windows.com
-- *.wns.windows.com
-- *.notify.live.net
-- TCP: 80, 443
+
+See [Enterprise Firewall Configurations to Support WNS Traffic](/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config)
 
 #### Connection Test
 - *.msftconnecttest.com

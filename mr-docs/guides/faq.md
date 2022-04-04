@@ -2,15 +2,13 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 11/10/2021
+ms.date: 03/24/2022
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
-
-
 
 ## How do I contact Support if I don't find an answer in this FAQ?
 
@@ -68,6 +66,14 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 - Spanish (Spain)
 
+## Why do I see the Step content failed to load message in the HoloLens app?
+
+If the amount and complexity of content added to a step will result in a poor experience for the operators of the guide, Dynamics 365 Guides displays a series of warnings. When the complexity reaches a certain limit, you'll see the following message.
+
+![Screenshot of Step content failed to load message.](media/step-content-failed-load.jpg "Screenshot of Step content failed to load message")
+
+You can't place any additional 3D models at this point. If a model was previously placed in the world, it will be represented as an exclamation point icon to authors and operators. [Learn more about warnings and how to reduce step complexity](hololens-app-place-holograms.md)
+
 ## Is there an out-of-the-box integration with Dynamics 365 Field Service?
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
@@ -87,10 +93,6 @@ When you have a Power Apps license, the Access Mode security property is set to 
 ## I don't see my Dynamics 365 Guides environment even though I have a valid Dynamics 365 Guides license. What should I do? 
 
 You might have installed Dynamics 365 Guides on a trial environment that has expired. Trial environments have their own life cycle, independent of the Dynamics 365 Guides license. You can go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
-
-## Can I use the JSON data file generated in Microsoft Dataverse when a guide is created to build or extend functionality?
-
-When you create a guide by using the PC app, a JSON data file is automatically created in Microsoft Dataverse. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
 
 ## How do I limit users to a particular Dynamics 365 instance?
 

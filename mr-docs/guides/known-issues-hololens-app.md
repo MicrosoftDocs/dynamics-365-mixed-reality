@@ -2,13 +2,17 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 12/02/2021
+ms.date: 03/24/2022
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+## Why did my HoloLens display go blank for a few seconds when I placed a 3D model in the HoloLens app?
+
+If you place a large 3D model in the HoloLens app, the display may go blank for several seconds while the model is being processed by Dynamics 365 Guides.
 
 ## Why isn't my operator sessions data being saved to Microsoft Dataverse? 
 
@@ -40,9 +44,7 @@ By using the correct credentials to sign in, you ensure that your work progress 
 
 ## The video preview on a step is blurry
 
-The [!include[pn-hololens](../includes/pn-hololens.md)] app converts and resizes videos when they are uploaded, to ensure optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. If your video was recorded at a very high resolution, or if it's very large, the transcoding process might degrade its quality. To fix this issue, record and upload a new video, keeping its length and resolution in mind.
-
-As a best practice, video clips should not be too long. We recommend **a maximum of two minutes**. This limit helps operators focus on one meaningful task at a time and keeps them from getting overwhelmed. 
+The PC app video may appear to be blurry when an author previews a video in the HoloLens app. The PC app converts and resizes videos when they're uploaded to ensure optimal performance on HoloLens. This transcoding process depends on the codecs installed on the PC and errors can occur if codecs are removed from the PC. The  HoloLens app currently uses an optimized video specification of 853×480 H.264. If your video was recorded at a very high resolution, or if it's very large, the transcoding process on the PC might degrade the quality, making it appear blurry. To fix this issue, record and upload a new video, keeping its length and resolution in mind. Note that only the 853x480 video file will be stored on Microsoft Dataverse.
 
 ## When the see-through style is applied to a 3D model, it might show gray areas instead of correctly rendering textures 
 

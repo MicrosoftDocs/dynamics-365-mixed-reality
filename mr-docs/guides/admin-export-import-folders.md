@@ -23,7 +23,7 @@ content, and media associated with these folders will not be included in this pr
 
 - You must have Dynamics 365 Guides solution version 600.1.0.0 or later.  
 
-We also highly recommend [backing up the contents](https://docs.microsoft.com/power-platform/admin/backup-restore-environments#create-a-manual-backup) of both environments before starting the export/import process. 
+We also highly recommend [backing up the contents](/power-platform/admin/backup-restore-environments#create-a-manual-backup) of both environments before starting the export/import process. 
 
 ## Export the folders
 
@@ -116,5 +116,4 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 [Create folders](admin-create-folders.md)
 
-[!INCLUDE[footer-include](../includes/footer-banner.md)]     
-
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

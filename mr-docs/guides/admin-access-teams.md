@@ -10,9 +10,10 @@ ms.reviewer: v-bholmes
 
 # Create an access team to share a guide in Dynamics 365 Guides
 
+
 [Assigning ownership of a guide](admin-access-assign.md) to a user or team in Microsoft Dynamics 365 Guides is the preferred method for controlling who can use specific guides. If teams change frequently, however, resulting in a need to create and delete teams often, a Dynamics 365 admin (or other user with the Share privilege) can create a special type of team called an *access team* and share a guide through that team to control who can see specific guides and guide content (3D models, images, or videos).
 
-For more information on how privileges and access works, see [How access to a record (guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
+For more information on how privileges and access works, see [How access to a record (guide) is determined](/power-platform/admin/how-record-access-determined).
 
 For more information on the three types of teams (owner team, Azure Active Directory group team, or access team), see [Manage teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
@@ -95,5 +96,6 @@ After creating the access team, you can [share a guide with the access team](adm
 - [Assign an Operator or Author role to an individual user](assign-role.md)
 - [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
+
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

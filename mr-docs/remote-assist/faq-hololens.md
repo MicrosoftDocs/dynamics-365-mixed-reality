@@ -42,7 +42,7 @@ To use Dynamics 365 Remote Assist, you need an internet connection. For more inf
 
 ## Dynamics 365 Remote Assist is frozen or unresponsive
 
-Try closing and reopening Dynamics 365 Remote Assist. If you’re still having problems, [restart your HoloLens](https://docs.microsoft.com/hololens/hololens-recovery).
+Try closing and reopening Dynamics 365 Remote Assist. If you’re still having problems, [restart your HoloLens](/hololens/hololens-recovery).
 
 ## Dynamics 365 Remote Assist isn't showing my contacts
 
@@ -108,9 +108,9 @@ Holograms are always going to be most stable **when your head (not your eyes) is
 
 To improve hologram stability, complete eye calibration. 
 
-- To complete eye calibration on HoloLens, [manually start the calibration process]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-1st-gen).
+- To complete eye calibration on HoloLens, [manually start the calibration process]( /hololens/hololens-calibration#calibrating-your-hololens-1st-gen).
 
-- HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
+- HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration]( /hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
 
 ## Multiple people in my organization use Dynamics 365 Remote Assist on the same HoloLens. How do I clean my HoloLens?
 
@@ -179,6 +179,6 @@ When you're in the HoloLens Feedback Hub:
 
 ## How do I file a support ticket?
 
-If you encounter an issue that blocks you from using the application and you don't see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](https://docs.microsoft.com/dynamics365/get-started/support/).
+If you encounter an issue that blocks you from using the application and you don't see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](/dynamics365/get-started/support/).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

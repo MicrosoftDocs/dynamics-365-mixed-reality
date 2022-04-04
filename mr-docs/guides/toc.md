@@ -14,6 +14,7 @@
 #### [4: Set up Power BI reports](setup-step-four.md)
 #### [Update the solution](upgrade.md)
 #### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
+#### [Network requirements](admin-network-requirements.md)
 ### Licenses
 #### [Licensing requirements](requirements.md)
 #### [Set up a device license for multiple operators](device-license.md)
@@ -69,7 +70,7 @@
 ##### [Add media (images or videos)](pc-app-add-media.md)
 ##### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
 ##### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
-##### [Use HTML in instruction card text](pc-app-colors-rich-text.md)
+##### [Use rich-text formatting in instruction card text](pc-app-colors-rich-text.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
 #### [Create a branching (non-linear) guide](pc-app-branching.md)
 #### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
