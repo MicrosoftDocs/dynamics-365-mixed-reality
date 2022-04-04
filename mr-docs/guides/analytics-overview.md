@@ -94,7 +94,7 @@ Here are some examples of what you can do:
 
 ## Getting started 
 
-**Guides model-driven app.** You can use the Guide Sessions view in the Guides model-driven app to inspect guide sessions. To access the model-driven app, sign in to Microsoft Power Apps and go to the **Apps** tab. 
+**Guides model-driven app.** You can use the Active Guide Sessions view in the Guides model-driven app to inspect guide sessions. To access the model-driven app, sign in to Microsoft Power Apps and go to the **Apps** tab. 
 
 ![Guide Sessions view.](media/analytics-data-stored-automatically-1.PNG "Guide Sessions view")
 
