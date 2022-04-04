@@ -64,7 +64,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Select slate| Select the window you're currently gazing at so you can move or resize it.|
 |Move|Select the **Move** tool to move a window.|
 |Accept|Accept the placement of a moved window.|
-|There|Accept movement of the slate, and lock it to this location.|
+|There|Accept movement of the slate, and lock it to specific location.|
 |Place here|Place the slate at specific location.|
 |Cancel|Cancel placement of a moved window.|
 |Reset|Reset the window to the previous placement.|
