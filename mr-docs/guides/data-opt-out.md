@@ -11,8 +11,8 @@ ms.reviewer: v-brycho
 # Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 
 Dynamics 365 Guides apps enable teams to capture usage statistics and detailed time-tracking information. This data is used to 
-provide metrics for operator and author performance and help you identify opportunities for process optimization. Administrators can turn off 
-data collection for specific users if they like. 
+provide metrics for operator and author performance and to help you identify opportunities for process optimization. Administrators can turn off 
+data collection for specific users if needed. 
 
 ## Opt out of storing usage data
 
