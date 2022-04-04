@@ -12,8 +12,6 @@ ms.reviewer: v-brycho
 
 If you ever feel that holograms are getting in the way when you're operating a guide in the Microsoft Dynamics 365 Guides HoloLens app, you can turn them off with a glance. To turn off a hologram, gaze at the eye symbol on the bottom of the instruction card.
 
-![Eye symbol.](media/xxx.jpg "Eye symbol")
-
 To turn them back on, gaze at the eye symbol again. 
 
 ## What's next?
