@@ -104,7 +104,7 @@ To use a voice command, say “Remote Assist”, and then say one of the voice c
 |Save to chat|During a call when the Snapshot box is active, save the snapshot to the chat.|
 |Record video|Record a video capture of the environment.|
 |End recording|Stop the video capture.|
-|Video off|Disable the video capture tool.|
+|Video off|Disable the **Video capture** tool.|
 |Save to booking	|Save the captured photo to a Dynamics 365 Field Service booking.|
 |Save to OneDrive|	Save the captured photo to OneDrive.|
 |Dismiss	|Select the **Dismiss** button in the poor connection dialog box.|
