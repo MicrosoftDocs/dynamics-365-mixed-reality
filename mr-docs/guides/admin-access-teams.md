@@ -15,7 +15,7 @@ ms.reviewer: v-bholmes
 
 For more information on how privileges and access works, see [How access to a record (guide) is determined](/power-platform/admin/how-record-access-determined).
 
-For more information on the three types of teams (owner team, Azure Active Directory group team, or access team), see [Manage teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
+For more information on the three types of teams (owner team, Azure Active Directory group team, or access team), see [Manage teams](/power-platform/admin/manage-teams).
 
 ## How access teams work with the Operator and Author user roles
 
@@ -88,7 +88,7 @@ To prevent a specific user from accessing all guides by default, you can update 
 
     ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
     
-After creating the access team, you can [share a guide with the access team](admin-share-guide). 
+After creating the access team, you can [share a guide with the access team](admin-share-guide.md). 
 
 ## See also
 
