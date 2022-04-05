@@ -25,10 +25,11 @@
 ##### [Assign to individual users](assign-role.md)
 ##### [Assign using Azure AD groups](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
-#### Assign or share a guide
-##### [By changing ownership](admin-access-assign.md)
-##### [By sharing through an access team](admin-access-teams.md)
-#### [Share the Guides model-driven app](admin-share-guides-hub.md)
+#### Assign ownership or share a guide
+##### [Change ownership of a guide](admin-access-assign.md)
+##### [Create an access team](admin-access-teams.md)
+##### [Share a guide with an access team or specific user](admin-share-guide.md)
+##### [Share the Guides model-driven app](admin-share-guides-hub.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling (Preview)](admin-enable-calls.md)
@@ -136,7 +137,6 @@
 
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
-### [Data collected and how to use it](analytics-data-collected.md)
 ### Use the Guides Analytics Power BI templates
 #### [Overview of Guides Analytics](analytics-guide.md)
 #### [Set up Guides Analytics](analytics-ga-setup.md)

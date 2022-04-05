@@ -4,12 +4,10 @@ description: Learn how to assign ownership of a guide in Microsoft Dynamics 365 
 author:  MattHoag-MS
 manager: tfehr
 ms.topic: conceptual
-ms.date: 11/08/2021
+ms.date: 04/05/2022
 ms.author: v-mhoag
 ms.reviewer: v-bholmes
 ---
-<!-- This article is a copy of the article below with the term "record" updated to "guide".   A better solution will have to be found to "customize" core power apps support documents to address the specific D365 Guides user experience.  
-https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 # Assign ownership of a guide in Dynamics 365 Guides
 
@@ -73,6 +71,11 @@ Teams should be structured so that ownership of a guide is assigned to one or mo
 
 ## See also
 
-[Share a guide through an access team](admin-access-teams.md)
+- [Create an access team](admin-access-teams.md)
+- [Assign an Operator or Author role to an individual user](assign-role.md)
+- [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
+- [Restrict access to an environment by using security groups](admin-security.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
