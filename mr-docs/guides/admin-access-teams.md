@@ -1,23 +1,21 @@
 ---
 author: melissahellmund
-description: Learn how to expand access to a guide or guide content by sharing with an access team in Microsoft Dynamics 365 Guides.
+description: Learn how to create an access team to share a guide in Microsoft Dynamics 365 Guides.
 ms.author: mehellmu
-ms.date: 11/08/2021
+ms.date: 04/05/2022
 ms.topic: article
-title: Share guides or guide content with an access team in Dynamics 365 Guides
-ms.reviewer: v-brycho
+title: Create an access team to share a guide in Dynamics 365 Guides
+ms.reviewer: v-bholmes
 ---
 
-# Share a guide or guide content in Dynamics 365 Guides by using an access team
+# Create an access team to share a guide in Dynamics 365 Guides
 
-[Assigning the ownership of a guide](admin-access-assign.md) to a user in Microsoft Dynamics 365 Guides is the preferred method for controlling who can use specific guides. If teams change frequently, resulting in a need to create and delete teams often, a Dynamics 365 admin (or other user with the Share privilege) can share guides with [access teams](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos).
 
-> [!NOTE]
-> Dynamics 365 offers additional ways to customize and configure access to specific records in Microsoft Dataverse. However, this topic doesn't cover advanced configuration, such as the creation of [owner teams](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information).
+[Assigning ownership of a guide](admin-access-assign.md) to a user or team in Microsoft Dynamics 365 Guides is the preferred method for controlling who can use specific guides. If teams change frequently, however, resulting in a need to create and delete teams often, a Dynamics 365 admin (or other user with the Share privilege) can create a special type of team called an *access team* and share a guide through that team to control who can see specific guides and guide content (3D models, images, or videos).
 
 For more information on how privileges and access works, see [How access to a record (guide) is determined](/power-platform/admin/how-record-access-determined).
 
-For more information on the three types of teams (*owner* team, Azure Active Directory *group* team, or *access* team), see [Manage teams](/power-platform/admin/manage-teams).
+For more information on the three types of teams (owner team, Azure Active Directory group team, or access team), see [Manage teams](/power-platform/admin/manage-teams).
 
 ## How access teams work with the Operator and Author user roles
 
@@ -59,10 +57,8 @@ To prevent a specific user from accessing all guides by default, you can update 
 
 ## Create an access team
 
-A user can be associated with more than one access team.
-
-> [!NOTE]
-> If you or someone else has already created an access team that you want to use, skip ahead to the next procedure.
+> [!TIP]
+> You can associate a user with more than one access team.
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (ellipsis **...**) button, and then select **Settings**.
 
@@ -91,73 +87,15 @@ A user can be associated with more than one access team.
 7. On the right side of the screen, under **Add team members**, enter the name(s) of the user(s) that you want to add, and then select **Add**.
 
     ![Search and add team members.](media/access-teams-17B.PNG "Search and add team members")
-
-## Share the guide with an access team
-
-1. Go to <https://make.powerapps.com/>.
-
-2. Select **Apps**.
-
-3. Under **Your Apps**, select **Guides**.
-
-    ![Guides button.](media/access-teams-22.PNG "Guides button")
-
-4. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
-
-    ![Check box for specific guide selected.](media/access-teams-19.PNG "Check box for specific guide selected")
-
-5. In the **Share guide** page, select **Add User/Team**.
-
-    ![Screen shot of add User/Team command.](media/access-teams-20.PNG "Screen shot of add User/Team command")
-
-6. In the **Look Up Records** dialog box:
-
-    1. In the **Look for** field, select **Team**.
-
-    2. In the **Look in** field, select **All User Access Teams**.
-
-    3. Select the check box next to the name of the access team that you want to share the guide with.
-
-    4. Select **Select**, and then select **Add**.
-
-    ![Add access teams.](media/access-teams-21.PNG "Add access teams")
-
-7. In the **Share guide** dialog box, select specific permissions (make sure the team has the **Read** permission), and then select **Share**.
-
-    ![Update Permissions.](media/access-teams-21B.PNG "Update Permissions")
-
-## Share a guide with a specific user
-
-Users who have the Share privilege can share guides and guide records that they own with other users.
-
-1. Go to <https://make.powerapps.com/>.
-
-2. Select **Apps**, and then select **Guides**.
-
-    ![Guides button.](media/access-teams-22.PNG "Guides button")
-
-3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
-
-    ![Share a guide.](media/access-teams-19.PNG "Share a guide")
-
-4. In the **Share guide** page, select **Add User/Team**.
-
-    ![Add User/Team command.](media/access-teams-24.PNG "Add User/Team command")
-
-5. In the **Look Up Records** dialog box, select the check box next to a specific user, select **Select**, and then select **Add**.
-
-    ![Add a user.](media/access-teams-25.PNG "Add a user")
-
-6. Make sure that the user has the **Read** and **Append** privileges, and then select **Share**.
-
-    ![Read privilege selected.](media/access-teams-26.PNG "Read privilege selected")
+    
+After creating the access team, you can [share a guide with the access team](admin-share-guide.md). 
 
 ## See also
 
-- [Use access teams and owner teams to collaborate and share information](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information)
+- [Share a guide with an access team or specific user](admin-share-guide.md)
 - [Assign an Operator or Author role to an individual user](assign-role.md)
 - [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
-= [Learn more about security roles and privileges](/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)
+
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
