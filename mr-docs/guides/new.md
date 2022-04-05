@@ -37,7 +37,10 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ### Bugs fixed and other improvements
 
-- XXX
+- Stability improved when saving guides with many steps and 3D content references.
+- After a call has ended, the user will see the **Activities** menu in their view so that they can choose their next action.
+- A banner notification is presented when connecting to a call while viewing a guide.
+- A guides demonstration is now available to view.
 
 ## February 2, 2022
 
