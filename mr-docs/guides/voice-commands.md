@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how you can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze.
 ms.author: mehellmu
-ms.date: 04/04/2021
+ms.date: 04/05/2021
 ms.topic: article
 title: Use voice commands in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -26,7 +26,7 @@ For increased accuracy, most voice commands are contextual. In other words, they
     ![Microphone settings.](media/microphone-permission.PNG "Microphone settings")
 
 > [!NOTE]
-> Voice commands are supported for [all languages that Dynamics 365 Guides supports](./faq.md#what-languages-is-dynamics-365-guides-available-in). The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
+> Voice commands are supported for [all languages that Dynamics 365 Guides supports](./faq.md#what-languages-is-dynamics-365-guides-available-in) except Swedish, Norwegian, Brazilian Portuguese, and Korean. The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
 
 ## Use voice commands
 
