@@ -2,10 +2,10 @@
 author: melissahellmund
 description: This topic explains how you can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze.
 ms.author: mehellmu
-ms.date: 11/08/2021
+ms.date: 04/05/2021
 ms.topic: article
 title: Use voice commands in Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Use voice commands in Dynamics 365 Guides as a substitute for hand gestures or gaze
@@ -26,7 +26,7 @@ For increased accuracy, most voice commands are contextual. In other words, they
     ![Microphone settings.](media/microphone-permission.PNG "Microphone settings")
 
 > [!NOTE]
-> Voice commands are supported for [all languages that Dynamics 365 Guides supports](./faq.md#what-languages-is-dynamics-365-guides-available-in). The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
+> Voice commands are supported for [all languages that Dynamics 365 Guides supports](./faq.md#what-languages-is-dynamics-365-guides-available-in) except Swedish, Norwegian, Brazilian Portuguese, and Korean. The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
 
 ## Use voice commands
 
@@ -151,8 +151,8 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 | Button or element | Say this | To do this |
 |---|---|---|
-| ![Undo button.](media/undo-button.png "Undo button") | "Undo changes" | Undo the last change. |
-| ![Redo button.](media/redo-button.png "Redo button") | "Redo changes" | Redo the last change. |
+| ![Undo button.](media/undo-button.png "Undo button") | "Undo change" | Undo the last change. |
+| ![Redo button.](media/redo-button.png "Redo button") | "Redo change" | Redo the last change. |
 | ![Save button.](media/save-button.png "Save button") | "Save guide" | Save your most recent changes. |
 |None|"Copy 3D position"|Copy the 3D position (position, orientation, and scale) of a hologram to use with another hologram.|
 |None|"Paste 3D position"|Paste the 3D position (position, orientation, and scale) of a hologram onto another hologram.|
@@ -169,9 +169,8 @@ Use the commands in the following table to turn narration on or off or to select
 |----------------------------|-----------------------------------------------------------------|
 |Narration on |Start narration for the current and subsequent steps.<br><br>If narration is already turned on when you say this voice command, the narrator will repeat the instructions for the current step.| 
 |Narration off| Turn off narration for the current and subsequent steps. |
-|Narrateo step| Narrate the current step.|
-|Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1". |
-|Response *Number* Text| Select the response in a question card indicated by the label position for that response. For example, if the label for the first response has been changed by the author to "Beginner" instead of "Response 1", say **Response 1 Text** to select that response.|
+|Narrate step| Narrate the current step.|
+|Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1".|
 
 ## Call activity
 
@@ -191,7 +190,7 @@ Use the commands in the following table to turn narration on or off or to select
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Call" | Call the selected contact. |
+| 1 | "Launch call" | Call the selected contact. |
 | 2| "Back" | Go back to the contact list and cancel the call. |
 
 ## Active call

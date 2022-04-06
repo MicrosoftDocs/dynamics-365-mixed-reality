@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about Microsoft Dynamics 365 Guides tables (entities) that you can use to extend Dynamics 365.
 ms.author: mamaylya
-ms.date: 01/26/2022
+ms.date: 04/05/2022
 ms.topic: article
 title: Dataverse table (entity) reference for Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -24,6 +24,7 @@ Dynamics 365 Guides [tables](/powerapps/maker/common-data-service/entity-overvie
 
 | Table name | Description |
 |-------------|-------------|
+| msdyn_guideauthorsession | Tracks interactions each time a user in Authoring mode opens, navigates, or closes a guide.  |
 | msdyn_mrappsession | Monitors license activity. |
 | msmrw\_3dasset | Stores a 3D object file and information associated with that 3D object file. |
 | msmrw\_3dasset\_localized | Stores localized information for a 3D object. |
