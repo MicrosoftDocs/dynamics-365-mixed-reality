@@ -86,15 +86,13 @@ Admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to
 
     ![Screenshot of the admin portal.](./media/buy_1.png "Admin portal")
 
-2. Make sure the **Try the new admin center** toggle is turned off.
-
-3. In the left navigation bar, select **Billing > Purchase services**. 
+2. In the left navigation bar, select **Billing > Purchase services**. 
 
     ![Screenshot of the purchase services option in the menu.](./media/buy_3.png "Purchase services")
 
-4. A list of services will appear. Scroll down until you find **Dynamics 365 Remote Assist**.
+3. A list of services will appear. Scroll down until you find **Dynamics 365 Remote Assist**.
 
-5. Hover your cursor over the plan until two options appear: **Start free trial** or **Buy now**. Select **Start free trial**, and then follow the online instructions. 
+4. Hover your cursor over the plan until two options appear: **Start free trial** or **Buy now**. Select **Start free trial**, and then follow the online instructions. 
 
     ![Screenshot of the start free trial option.](./media/buy_5.png "Start free trial")
 
@@ -103,14 +101,12 @@ Admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to
 Dynamics 365 Remote Assist is integrated with Dynamics 365 Field Service to help users solve problems on-site. Admins must acquire the 30-day Dynamics 365 Remote Assist Attach trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
 1. [Log into the Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
- 
-2. Make sure the **Try the new admin center** toggle is turned off.
   
-3. In the left navigation bar, select **Billing** > **Purchase services**. 
+2. In the left navigation bar, select **Billing** > **Purchase services**. 
  
-4. A list of services will appear. Scroll down until you see **Dynamics 365 Remote Assist Attach**.
+3. A list of services will appear. Scroll down until you see **Dynamics 365 Remote Assist Attach**.
 
-5. Hover your cursor over the plan until two options appear: **Start free trial** or **Buy now**. Select **Start free trial**, and then follow the online instructions. 
+4. Hover your cursor over the plan until two options appear: **Start free trial** or **Buy now**. Select **Start free trial**, and then follow the online instructions. 
 
 ## Next steps
 
