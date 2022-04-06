@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to turn off holograms when you're operating a guide in the Microsoft Dynamics 365 Guides HoloLens app
 ms.author: mamaylya
-ms.date: 04/05/2022
+ms.date: 04/06/2022
 ms.topic: article
 title: Turn off holograms when you're operating a guide in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
