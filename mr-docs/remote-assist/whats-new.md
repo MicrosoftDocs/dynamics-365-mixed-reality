@@ -18,7 +18,7 @@ This article describes details about the **current wave of features (October 202
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[Support for screen sharing in the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-screen-sharing-mobile-app)|[Share your screen in the mobile app](/mobile-app/share-screen.md)|
+|[Support for screen sharing in the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-screen-sharing-mobile-app)|[Share your screen in the mobile app](mobile-app/share-screen.md)|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
