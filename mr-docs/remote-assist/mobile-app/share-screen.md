@@ -20,9 +20,7 @@ If you're on a call using Microsoft Dynamics 365 Remote Assist mobile, you can s
 > [!IMPORTANT]
 > If you're using a personal device, make sure to turn off any private notifications on your device before sharing your screen. 
 
-1. Tap the ellipsis (...) button. 
-
-2. Tap **Share screen**.
+- Tap the ellipsis (...) button, and then tap **Share screen**.
 
    ![Screenshot of mobile app showing ellipsis button and Share screen command.](./media/mobile-app-screen-sharing.jpg "Screenshot of mobile app showing ellipsis button and Share screen command")
 
