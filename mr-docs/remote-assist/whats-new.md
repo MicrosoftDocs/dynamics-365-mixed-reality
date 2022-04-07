@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # What's new in Dynamics 365 Remote Assist
 
-This article describes details about the **current wave of features (October 2021 through March 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
+This article describes details about the **current wave of features (April 2022 through September 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
 ## April 13, 2022
 
@@ -22,26 +22,19 @@ This article describes details about the **current wave of features (October 202
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|308.2201.19002|
-|iOS mobile app|2022.2.2|
-|Android mobile app|2022.2.2|
+|HoloLens 2 app|XXX|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
 
 ### Bugs fixed 
 
 #### HoloLens 2
 
-- Added notification for users having difficulty joining a scheduled meeting. 
-- Fixed visual glitches for annotations on certain panels. 
-- Fixed issue that prevented text chat and file sharing from working. 
-- Improved behavior of pinned panels (they no longer move after the call ends). 
+- XXX
 
 #### Mobile
 
-- Fixed unexpected error when posting to a work order.
-- Fixed the "Oops something went wrong" pop-up that was incorrectly triggered when the app launched.
-- Fixed blank screen issues that appeared when the app was launched.
-- Fixed issue with Intune App Protection scenarios breaking due to missing Mobile Threat Defense (MTD).
-
+- XXX
 
 ## January 27, 2022
 
