@@ -56,6 +56,8 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
     
 4. To end the recording, press the **Stop Recording** (![Stop recording button.](media/RAHL_CallRecording_StopButton.png)) button or end the call. You'll see a reminder that the recording is being processed and saved securely in OneDrive or SharePoint.  
 
+     ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing the recording being saved.](media/recording-saved.jpg)
+
 5. After the recording is processed and saved, it will appear in your Dynamics 365 Remote Assist chat history (if you are still in the call) and also your Teams chat history. Remember that your Dynamics 365 Remote Assist chat history does not persist when the call ends, but your Teams chat history does. To view the recording in your HoloLens browser, select the link in the Dynamics 365 Remote Assist chat. 
 
 ## Cloud-based recording layout
