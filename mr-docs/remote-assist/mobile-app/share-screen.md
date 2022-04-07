@@ -26,6 +26,6 @@ If you're on a call using the Microsoft Dynamics 365 Remote Assist mobile app, y
 
 ## Stop sharing your screen
 
-- Tap the ellipsis (...) button, adn then tap **Stop screen sharing**. 
+- Tap the ellipsis (...) button, and then tap **Stop screen sharing**. 
 
    When screen sharing has ended, you'll see a notification that says "Screen sharing ended."
