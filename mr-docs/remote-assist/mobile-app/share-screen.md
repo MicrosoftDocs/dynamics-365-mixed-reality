@@ -20,12 +20,14 @@ If you're on a call using the Microsoft Dynamics 365 Remote Assist mobile app, y
 > [!IMPORTANT]
 > If you're using a personal device, make sure to turn off any private notifications on your device before sharing your screen. 
 
-- Tap the ellipsis (...) button, and then tap **Share screen**.
+- Tap the **More** (...) button, and then tap **Share screen**.
 
-   ![Screenshot of mobile app showing ellipsis button and Share screen command.](./media/mobile-app-screen-sharing.jpg "Screenshot of mobile app showing ellipsis button and Share screen command")
+   ![Screenshot of mobile app showing More button and Share screen command.](./media/mobile-app-screen-sharing.jpg "Screenshot of mobile app showing ellipsis button and Share screen command")
 
 ## Stop sharing your screen
 
-- Tap the ellipsis (...) button, and then tap **Stop screen sharing**. 
+- Tap the **More** (...) button, and then tap **Stop screen sharing**. 
+
+   ![Screenshot of mobile app showing More button and Stop screen sharing command.](./media/mobile-app-stop-screen-sharing.jpg "Screenshot of mobile app showing ellipsis button and Share screen command")
 
    When screen sharing has ended, you'll see a notification that says "Screen sharing ended."
