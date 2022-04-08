@@ -63,7 +63,7 @@ A Dynamics 365 Remote Assist mobile user can join a one-to-one or group calls wi
 
     ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar.](./media/call-controls-1.jpg)
     
-    Selecting the More menu from the call controls toolbar, enables technicians to record the call, share their enironment (space), or share their device screen.
+    Selecting the **More** menu from the call controls toolbar enables the technician to record the call, share their environment (space), or share their device screen.
     
     ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar with More menu highlighted and opened.](./media/call-controls-more-menu.jpg)
 
