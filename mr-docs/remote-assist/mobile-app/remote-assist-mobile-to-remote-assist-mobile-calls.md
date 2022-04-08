@@ -10,10 +10,10 @@ ms.reviewer: v-bholmes
 
 # Calls between Dynamics 365 Remote Assist mobile users
 
-For peer-to-peer collabration, technicians using Dynamics 365 Remote Assist mobile can call and collaborate with other Dynamics 365 Remote Assist mobile users. A Dynamics 365 Remote Assist mobile user can join a one-to-one or group call with other Dynamics 365 Remote Assist mobile users. 
+Technicians using Dynamics 365 Remote Assist mobile can call and collaborate with their peers who are also using Dynamics 365 Remote Assist mobile. A Dynamics 365 Remote Assist mobile user can join a one-to-one or group call with other Dynamics 365 Remote Assist mobile users. This article shows how a Dynamics 365 Remote Assist mobile user can call another Dynamics 365 Remote Assist mobile user. See the following articles for different scenarios:
 
-> [!NOTE]
-> This article shows how a Dynamics 365 Remote Assist mobile user can call another Dynamics 365 Remote Assist mobile user. [Learn about group calls with at least three Dynamics 365 Remote Assist mobile app users](group-calling.md). Technicians on Dynamics 365 Remote Assist mobile can also [collaborate with colleagues on Microsoft Teams desktop or Teams mobile](remote-assist-mobile-to-teams-calls.md).
+- [Participate in group calls between Dynamics 365 Remote Assist mobile users](group-calling.md). 
+- [Collaborate with colleagues on Microsoft Teams desktop or Teams mobile](remote-assist-mobile-to-teams-calls.md).
 
 ## Prerequisites
 
