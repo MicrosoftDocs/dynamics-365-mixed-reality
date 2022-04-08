@@ -52,7 +52,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
     ![Screenshot showing notification that someone is sharing.](./media/notif-started-sharing.png "View others' space")
 
-7. Either call participant can place annotations directly in the shared environment (their own environment) or by selecting **Start Annotating**. 
+7. Either call participant can place annotations directly in the shared environment (their own environment) or by selecting **Start annotating**. 
 
     > [!NOTE] 
     > After the remote collaborator selects **Start Annotating**, they can add mixed reality annotations on a frozen frame of the shared environment. Afterwards, they can select the **Check Mark** and then the annotation will appear in the technician's shared environment.
