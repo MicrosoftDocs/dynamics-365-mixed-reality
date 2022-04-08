@@ -44,7 +44,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
      |------------------------------------------------|------------------------------------------------|
      |![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/technician-toolbar.jpg)|![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/remote-collaborator-toolbar.jpg)|    
 
-5. If the remote collaborator wants to share their own environment, the remote collaborator can select the **More** menu, and then select **Start sharing**.
+5. If the remote collaborator wants to share their own environment, the remote collaborator can select the **More** button, and then select **Start sharing**.
 
     ![Screenshot of switching environment on Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile calls.](./media/spectator-ram-ram.png)
 
@@ -65,9 +65,9 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
     ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar.](./media/call-controls-1.jpg)
     
-    Selecting the **More** menu from the call controls toolbar enables the technician to add participants, share their space and annotations, share their screen, or record the call.
+    Selecting the **More** button from the call controls toolbar enables the technician to add participants, share their space and annotations, share their screen, or record the call.
     
-    ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar with More menu highlighted and opened.](./media/call-controls-more-menu.jpg)
+    ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar with More button highlighted and opened.](./media/call-controls-more-menu.jpg)
 
 9. During the call, participants can capture and annotate on snapshots, send messages, share files, and more.
 
