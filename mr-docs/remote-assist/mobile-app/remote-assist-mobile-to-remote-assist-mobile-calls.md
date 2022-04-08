@@ -25,7 +25,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
 ## How it works
 
-1. Launch and sign into Dynamics 365 Remote Assist on your iOS or Android phone or tablet.
+1. Launch and sign in to Dynamics 365 Remote Assist on your iOS or Android phone or tablet.
 
 2. Search for the remote collaborator's name.
 
