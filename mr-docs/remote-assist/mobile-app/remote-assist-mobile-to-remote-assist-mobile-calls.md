@@ -10,10 +10,10 @@ ms.reviewer: v-bholmes
 
 # Calls between Dynamics 365 Remote Assist mobile users
 
-Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and collaborate with their peers who are also using Dynamics 365 Remote Assist mobile. A Dynamics 365 Remote Assist mobile user can join a one-to-one or group call with other Dynamics 365 Remote Assist mobile users. This article shows how a Dynamics 365 Remote Assist mobile user can call another Dynamics 365 Remote Assist mobile user. See the following articles for different scenarios:
+Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and collaborate with their peers who are also using Dynamics 365 Remote Assist mobile. A mobile app user can join a one-to-one or group call with another mobile app user. This article shows how to do one-to-one calls. See the following articles for different scenarios mobile app scenarios:
 
 - [Participate in group calls between Dynamics 365 Remote Assist mobile users](group-calling.md)
-- [Collaborate with colleagues on Microsoft Teams desktop or Teams mobile](remote-assist-mobile-to-teams-calls.md)
+- [Use the mobile app to collaborate with colleagues on Microsoft Teams desktop or Teams mobile](remote-assist-mobile-to-teams-calls.md)
 
 ## Prerequisites
 
@@ -21,7 +21,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
 - Technicians must have a Dynamics 365 Remote Assist [free trial](../try-remote-assist.md) or [subscription](../buy-remote-assist.md).
 
-- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and a Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
+- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and a Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn how to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 
 ## How it works
 
