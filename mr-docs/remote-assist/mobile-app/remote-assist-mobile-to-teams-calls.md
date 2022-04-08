@@ -50,17 +50,15 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-teams-remote-collab.png "Place Annotations")
 
-6. The technician can use the call controls toolbar to change between a video call and an audio-only call, mute or unmute the microphone, turn the speaker on or off, add participants, share spaces (environments), start/stop a recording, or end the call. The following table describes each button in the call controls toolbar.
+6. The technician can use the call controls toolbar to change between a video call and audio-only call, mute or unmute their microphone, turn the speaker on or off, or end the call. 
 
-    |Button|Description|
-    |--------|--------------------------|
-    |![Video button.](./media/ra-video-button.PNG)|Change between video call and audio-only call|
-    |![Microphone button.](./media/ra-microphone-button.PNG)|Mute or unmute the microphone|
-    |![Speakers button.](./media/ra-speaker-button.PNG)|Turn the speaker on or off|
-    |![More menu button.](./media/ra-more-menu.PNG)|Display the **More** menu to add participants, share spaces (environment), or start/stop a recording|
-    |![End call button.](./media/ra-end-call.PNG)|End the call|
+    ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar.](./media/call-controls-1.jpg)
     
-7. During the call, call participants can capture and annotate snapshots, send messages, share files, and more.
+    Selecting the **More** button from the call controls toolbar enables the technician to add participants, share their space and annotations, share their screen, or record the call.
+    
+    ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar with More button highlighted and opened.](./media/call-controls-more-menu.jpg)
+
+7. During the call, participants can capture and annotate on snapshots, send messages, share files, and more.
 
 ## What happens when Dynamics 365 Remote Assist mobile and Teams mobile are installed on the same device
 
