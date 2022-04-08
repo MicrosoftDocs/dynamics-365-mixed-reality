@@ -42,9 +42,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
      |Technician|Remote collaborator|
      |------------------------------------------------|------------------------------------------------|
-     |SCREENSHOT|SCREENSHOT|
-
-    ![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/ram-ram_toolbar.png)
+     |![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/technician-toolbar.jpg)|![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/remote-collaborator-toolbar.jpg)|    
 
 5. If the remote collaborator wants to share their own environment, the remote collaborator can select the **Ellipses** > **Start Sharing**.
 
