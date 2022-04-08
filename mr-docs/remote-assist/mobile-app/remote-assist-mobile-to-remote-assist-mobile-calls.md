@@ -55,7 +55,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 7. Either call participant can place annotations directly in the shared environment (their own environment) or by selecting **Start annotating**. 
 
     > [!NOTE] 
-    > After the remote collaborator selects **Start annotating**, they can add mixed-reality annotations on a frozen frame of the shared environment. Afterwards, they can select the **Check Mark** and then the annotation will appear in the technician's shared environment.
+    > After the remote collaborator selects **Start annotating**, they can add mixed-reality annotations on a frozen frame of the shared environment. When they select the **Check mark** button, the annotation appears in the technician's shared environment.
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-ram-remote-collab.png "Place Annotations")
 
