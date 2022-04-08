@@ -40,6 +40,10 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
 4. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
+     |Technician|Remote collaborator|
+     |------------------------------------------------|------------------------------------------------|
+     |SCREENSHOT|SCREENSHOT|
+
     ![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/ram-ram_toolbar.png)
 
 5. If the remote collaborator wants to share their own environment, the remote collaborator can select the **Ellipses** > **Start Sharing**.
