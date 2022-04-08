@@ -3,7 +3,7 @@ title: Making calls between Dynamics 365 Remote Assist mobile and Teams
 author: amaraanigbo
 description: Making calls between Dynamics 365 Remote Assist mobile and Teams desktop or mobile 
 ms.author: soanigbo
-ms.date: 06/15/2021
+ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -34,10 +34,10 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
 3. Select the remote collaborator's name, and then select **Launch Call**.
 
-    > [!NOTE]
-    > If the remote collaborator receives the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. 
-
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the Launch Call button.](./media/calls_3.png)
+    
+     > [!NOTE]
+    > If Dynamics 365 Remote Assist Mobile and Teams mobile are both installed on the same device, [learn where incoming call notifications are received](remote-assist-mobile-to-teams-calls.md#What-happens-when-Dynamics-365-Remote-Assist-mobile-and-Teams-mobile-are-installed-on-the-same-device).
 
 4. If the remote collaborator answers the call on **Teams desktop or mobile**, the technician's live video feed is shared with the remote collaborator's device screen.
 
@@ -61,5 +61,21 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
     |![End call button.](./media/ra-end-call.PNG)|End the call|
     
 7. During the call, call participants can capture and annotate snapshots, send messages, share files, and more.
+
+## What happens when Dynamics 365 Remote Assist mobile and Teams mobile are installed on the same device
+
+### iOS
+
+If the remote collaborator receives the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator will get incoming call notifications only on Teams mobile. 
+
+### Android
+
+If the remote collaborator receives the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator will get incoming call notifications: 
+
+- Only on Teams mobile if Teams mobile incoming call notifications are enabled in the **Settings** page.
+ 
+- Only on Remote Assist mobile, if Teams mobile incoming call notifications are disabled in the **Settings** page. 
+
+    ![Screenshot of Teams Settings page.](./media/teams-settings.jpg)
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
