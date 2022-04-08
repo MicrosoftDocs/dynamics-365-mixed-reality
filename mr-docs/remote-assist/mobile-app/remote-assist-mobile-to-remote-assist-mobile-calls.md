@@ -67,7 +67,7 @@ A Dynamics 365 Remote Assist mobile user can join a one-to-one or group calls wi
     
     ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar with More menu highlighted and opened.](./media/call-controls-more-menu.jpg)
 
-9. During the call, call participants can capture and annotate on snapshots, send messages, share files, and more.
+9. During the call, participants can capture and annotate on snapshots, send messages, share files, and more.
 
 ## FAQ 
 
