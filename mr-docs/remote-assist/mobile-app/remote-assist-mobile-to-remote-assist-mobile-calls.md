@@ -59,7 +59,7 @@ A Dynamics 365 Remote Assist mobile user can join a one-to-one or group calls wi
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-ram-remote-collab.png "Place Annotations")
 
-8. The technician can use the call controls toolbar to disable the video call to enter an audio-only call (![Screenshot of call controls Video button.](./media/call-controls-video.jpg)), mute themselves on the call (![Screenshot of call controls Mute button.](./media/call-controls-mute.jpg)), turn on their speakers (![Screenshot of call controls Speakers button.](./media/call-controls-speakers.jpg)), or end the call (![Screenshot of call controls End call button.](./media/call-controls-end call.jpg)). 
+8. The technician can use the call controls toolbar to disable the video call to enter an audio-only call, mute themselves on the call, turn on their speakers, or end the call. 
 
     ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar.](./media/call-controls-1.jpg)
     
