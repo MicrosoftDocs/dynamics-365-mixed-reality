@@ -10,31 +10,7 @@ ms.reviewer: v-bholmes
 
 # What's new in Dynamics 365 Remote Assist
 
-This article describes details about the **current wave of features (April 2022 through September 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
-
-## April 13, 2022
-
-### Features
-
-|Feature|How to|
-|-----------------------------------------------|----------------------------------------------------|
-|[Support for screen sharing in the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-screen-sharing-mobile-app)|[Share your screen in the mobile app](mobile-app/share-screen.md)|
-
-|Device|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|XXX|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
-
-### Bugs fixed 
-
-#### HoloLens 2
-
-- XXX
-
-#### Mobile
-
-- XXX
+This article describes details about the **current wave of features (October 2021 through March 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
 ## January 27, 2022
 
