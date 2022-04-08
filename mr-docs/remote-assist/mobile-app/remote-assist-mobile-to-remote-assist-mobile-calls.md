@@ -57,6 +57,10 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
     > [!NOTE] 
     > After the remote collaborator selects **Start annotating**, they can add mixed-reality annotations on a frozen frame of the shared environment. When they select the **Check mark** button, the annotation appears in the technician's shared environment.
 
+     |Technician|Remote collaborator|
+     |------------------------------------------------|------------------------------------------------|
+     |![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/technician-toolbar.jpg)|![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/remote-collaborator-toolbar.jpg)|  
+    
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-ram-remote-collab.png "Place Annotations")
 
 8. The technician can use the call controls toolbar to disable the video call (enter an audio-only call), mute themselves on the call, turn on their speakers, or end the call. 
