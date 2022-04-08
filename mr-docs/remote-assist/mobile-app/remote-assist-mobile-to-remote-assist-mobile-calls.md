@@ -61,7 +61,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
      |------------------------------------------------|------------------------------------------------|
      |![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/technician-toolbar-2.jpg)|![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/remote-collaborator-2-toolbar.jpg)|  
 
-8. The technician can use the call controls toolbar to disable the video call (enter an audio-only call), mute themselves on the call, turn on their speakers, or end the call. 
+8. The technician can use the call controls toolbar to change between a video call and audio-only call, mute or unmute their microphone, turn the speaker on or off, or end the call. 
 
     ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar.](./media/call-controls-1.jpg)
     
