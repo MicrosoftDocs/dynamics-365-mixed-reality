@@ -6,12 +6,9 @@ ms.author: soanigbo
 ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
-ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Restrict the ability for Dynamics 365 Remote Assist users on HoloLens from signing out
-
-[!INCLUDE[private-preview](../includes/private-preview.md)]
 
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Remote Assist users on HoloLens from signing out. You can do this by [setting up HoloLens in Kiosk mode](/hololens/hololens-kiosk?tabs=uisak%2cnonaadlogon). When you set up HoloLens in Kiosk mode, Dynamics 365 Remote Assist automatically prevents users from signing out of the app. You can also use Kiosk mode to show just selected apps in the **Start** menu. 
 
