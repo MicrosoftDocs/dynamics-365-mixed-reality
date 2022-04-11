@@ -85,4 +85,4 @@ Next, you'll remove permissions to access asset records from the default role, a
 - [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
 - [Restrict calling and the ability to search and access contacts](restricted-mode-calling.md)
 - [Restrict the ability to access OneDrive files](restricted-mode-files.md)
-- [Restrict the ability to sign out of HoloLens](restricted-mode-signout.md)
+- [Restrict the ability to sign out of the HoloLens app](restricted-mode-signout.md)
