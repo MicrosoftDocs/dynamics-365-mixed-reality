@@ -3,7 +3,7 @@ description: Learn which Microsoft Teams policies are supported by Dynamics 365 
 title: Microsoft Teams policies supported by Dynamics 365 Remote Assist
 author: amaraanigbo
 ms.author: soanigbo
-ms.date: 10/06/2021
+ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -15,6 +15,7 @@ Dynamics 365 Remote Assist supports the following Microsoft Teams policies:
 - Video
 - Call recording
 - Chat messaging
+- File sharing
  
 Users in your organization will automatically get the global policy unless you create and assign a custom policy. You can edit the settings in the global policy or 
 create and assign one or more custom policies to turn the features that you want on or off.  
