@@ -19,7 +19,7 @@
 #### [Send text messages](send-texts-hololens.md)
 #### [Join a meeting](join-meeting-hololens.md)
 #### [Calls in low-bandwidth situations](hololens-low-bandwidth.md)
-#### [How HoloLens automatically adjusts to high heat situations](hololens-thermal-adjusting.md)
+#### [How Remote Assist automatically adjusts HoloLens temperature](hololens-thermal-adjusting.md)
 ### [Add annotations](add-annotations-hololens.md)
 ### Capture photos, videos, and asset conditions
 #### [Take a photo and save to OneDrive or Field Service booking](take-snapshot-save-booking-hololens.md)
