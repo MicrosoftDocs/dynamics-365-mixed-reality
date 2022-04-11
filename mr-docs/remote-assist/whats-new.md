@@ -20,6 +20,7 @@ This article describes details about the **current wave of features (April 2022 
 |-----------------------------------------------|----------------------------------------------------|
 |[Support for screen sharing in the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-screen-sharing-mobile-app)|[Share your screen in the mobile app](mobile-app/share-screen.md)|
 |Ability to restrict users from signing out of the HoloLens app|[Restrict users from signing out of the HoloLens app](restricted-mode-signout.md)|
+|New voice commands to navigate app settings and manage windows|[Voice commands](voice-commands.md)|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -33,8 +34,6 @@ This article describes details about the **current wave of features (April 2022 
 
 - Added support for three new locales (nb-NO, pt-BR, sv-SE)
 - Addressed a problem where the ability to record a call was unavailable, unexpectedly
-- Added new voice commands to help navigate application settings
-- Added new voice commands for easier in-app window management
 - Bug fixes and stability improvements
 
 #### Mobile
