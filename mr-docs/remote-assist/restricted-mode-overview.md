@@ -3,7 +3,7 @@ title: Protect company information by restricting capabilities in Dynamics 365 R
 author: amaraanigbo
 description: Learn how to protect company information in Microsoft Dynamics 365 Remote Assist by restricting capabilities, including calling, access to OneDrive files, access to asset records, and the ability to sign out of the app.
 ms.author: soanigbo
-ms.date: 01/27/2022
+ms.date: 04/13/2022
 ms.topic: overview
 ms.reviewer: v-bholmes
 ---
@@ -20,6 +20,8 @@ Learn how to:
 
 - [Restrict the ability to access asset records](restricted-mode-assets.md)
 
+- [Restrict the ability to sign out](restricted-mode-sign-out.md)
+
 ## Which restrictions are available on HoloLens vs. the mobile app?
 
 The following table shows which restrictions are available for Dynamics 365 Remote Assist on HoloLens vs. the mobile app. 
@@ -29,5 +31,6 @@ The following table shows which restrictions are available for Dynamics 365 Remo
 |Calling and contacts|Yes|No, but you can set up [one-time-calls](one-time-call.md) for mobile app users.|
 |OneDrive files|Yes|Yes|
 |Asset records|Yes|Yes|
+|Sign out|Yes|No|
 
 [Learn about Microsoft Teams policies supported by Dynamics 365 Remote Assist](/dynamics365/mixed-reality/remote-assist/teams-policies)
