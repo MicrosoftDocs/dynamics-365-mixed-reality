@@ -20,7 +20,7 @@ Learn how to:
 
 - [Restrict the ability to access asset records](restricted-mode-assets.md)
 
-- [Restrict the ability to sign out](restricted-mode-sign-out.md)
+- [Restrict the ability to sign out](restricted-mode-signout.md)
 
 ## Which restrictions are available on HoloLens vs. the mobile app?
 
