@@ -23,15 +23,19 @@ This article describes details about the **current wave of features (April 2022 
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|XXX|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
+|HoloLens 2 app|309.2204.06001|
+|iOS mobile app|2022.4.13|
+|Android mobile app|2022.4.13|
 
 ### Bugs fixed 
 
 #### HoloLens 2
 
-- XXX
+- Added support for three new locales (nb-NO, pt-BR, sv-SE)
+- Addressed a problem where the ability to record a call was unavailable, unexpectedly
+- Added new voice commands to help navigate application settings
+- Added new voice commands for easier in-app window management
+- Bug fixes and stability improvements
 
 #### Mobile
 
