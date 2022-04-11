@@ -19,7 +19,7 @@ This article describes details about the **current wave of features (April 2022 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
 |[Support for screen sharing in the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-screen-sharing-mobile-app)|[Share your screen in the mobile app](mobile-app/share-screen.md)|
-|Ability to restrict users from signing out of the HoloLens app|[Restrict users from signing out of the HoloLens app](mobile-app/restriction-mode-signout.md)|
+|Ability to restrict users from signing out of the HoloLens app|[Restrict users from signing out of the HoloLens app](mobile-app/restricted-mode-signout.md)|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
