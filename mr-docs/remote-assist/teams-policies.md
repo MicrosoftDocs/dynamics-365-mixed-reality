@@ -139,9 +139,9 @@ SCREENSHOT GOES HERE
 
 You can set up the policy for individual users or entire organizations. 
 
-1. [Install the Microsoft Teams PowerShell module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
+1. [Install the Microsoft Teams PowerShell Module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
 
-2. To check the policy for a particular account, run the following PowerShell command:
+2. To check the policy for a particular account to see if file sharring has already been disabled, run the following PowerShell command:
 
     Get-CsUserPolicyAssignment -Identity "<email>" -PolicyType "TeamsFilesPolicy" 
 
