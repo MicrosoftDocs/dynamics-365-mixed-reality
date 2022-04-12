@@ -41,10 +41,12 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 5. If the remote collaborator answers the call on **Dynamics 365 Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
+    |Technician|Remote collaborator|
+    |------------------------------------------------|------------------------------------------------|
+    |![Screenshot of technician's mobile app screen.](./media/technician-7.jpg)|![Screenshot of remote collaborator's mobile app screen.](./media/remote-collaborator-7.jpg)|  
+
    > [!NOTE]
    > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
-
-   ![Screenshot showing Dynamics 365 Remote Assist mobile side by side with no toolbar.](./media/ram-ram_notoolbar.png)
 
    If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
