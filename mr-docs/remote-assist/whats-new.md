@@ -49,7 +49,7 @@ This article describes details about the **current wave of features (April 2022 
 - UI improvements for the ellipsis (More) menu 
 
 > [!TIP]
-> Looking for a list features from earlier waves? Go to [Version history for Dynamics 365 Remote Assist](version-history.md).
+> Looking for a list of features from earlier waves? Go to [Version history for Dynamics 365 Remote Assist](version-history.md).
 
 ## Locate your version number
 
