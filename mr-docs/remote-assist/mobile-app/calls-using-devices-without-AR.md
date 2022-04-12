@@ -34,8 +34,8 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 4. Select the remote collaborator's name and **launch a call**.
 
-  > [!NOTE]
-  > If the remote collaborator is receiving the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities.
+   > [!NOTE]
+   > If the remote collaborator is receiving the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities.
 
    ![Screenshot of the Dynamics 365 Remote Assist mobile video card.](./media/3a.png "Video Card")
 
@@ -75,28 +75,28 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 10. The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, the text chat, or both. Select your choice and then select **Save**.
 
-   ![Screenshot showing the save snapshot option on Dynamics 365 Remote Assist mobile.](./media/7a.png)
+    ![Screenshot showing the save snapshot option on Dynamics 365 Remote Assist mobile.](./media/7a.png)
 
 11. If the technician successfully saved the snapshot to the text chat, then the snapshot can be viewed in Dynamics 365 Remote Assist mobile's text chat and Microsoft Teams' text chat.
 
-   ![Screenshot showing the saved snapshot in Dynamics 365 Remote Assist mobile's text chat.](./media/06.20-chat-image-portrait.png)
+    ![Screenshot showing the saved snapshot in Dynamics 365 Remote Assist mobile's text chat.](./media/06.20-chat-image-portrait.png)
 
 12. The technician is then taken back to the live video call and can select the snapshot icon again to take more snapshots.
 
-   > [!NOTE]
-   > Annotations added on a still snapshot will *not* appear in the technician's environment after it has been saved or discarded.
+    > [!NOTE]
+    > Annotations added on a still snapshot will *not* appear in the technician's environment after it has been saved or discarded.
 
 13. Both the technician and remote collaborator can send and receive messages and  files from their local device in the text chat. Learn more about the file sharing feature [here](./file-sharing.md).
 
-   ![Screenshot showing the text chat in Dynamics 365 Remote Assist mobile.](./media/06.21-chat-doc.png)
+    ![Screenshot showing the text chat in Dynamics 365 Remote Assist mobile.](./media/06.21-chat-doc.png)
 
 14. Both the technician and remote collaborator can record the one-to-one Dynamics 365 Remote Assist call, as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft Stream and the link to the recording will be sent to the Microsoft Teams text chat. Learn more about the call recording feature [here](./call-recording.md).
 
-   ![Screenshot of Dynamics 365 Remote Assist mobile showing the meeting recording appearing in text chat.](./media/11b.png)
+    ![Screenshot of Dynamics 365 Remote Assist mobile showing the meeting recording appearing in text chat.](./media/11b.png)
 
 15. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. Learn more about Field Service integration [here](./fs-integration.md).
 
-   ![Screenshot of Dynamics 365 Remote Assist mobile when integrated with Field Service.](./media/12.png "Field Service")
+    ![Screenshot of Dynamics 365 Remote Assist mobile when integrated with Field Service.](./media/12.png "Field Service")
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
