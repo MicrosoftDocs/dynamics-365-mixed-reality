@@ -117,7 +117,7 @@ When file sharing is disabled, a message appears above the **Insert file** butto
 
 ![Screenshot of HoloLens app with message highlighted above button.](media/hololens-app-file-sharing-message-1.jpg "Screenshot of HoloLens app with message highlighted above button")
 
-If the user selects the **Insert file** button, they'll see another message that indicates that file sharing is not available.
+If the user selects the **Insert file** button, they'll see another message that confirms that file sharing is not available.
 
 ![Screenshot of HoloLens app showing message that appears after button is selected.](media/hololens-app-file-sharing-message-2.jpg "Screenshot of HoloLens app showing message that appears after button is selected")
 
