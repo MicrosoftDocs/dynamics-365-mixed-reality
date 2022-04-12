@@ -16,7 +16,7 @@ If the device continues to heat up, you'll see a warning that the device is cont
 
 ![Screenshot of HoloLens message showing that device is continuing to heat up.](media/hololens-thermal-warning-2.jpg "Screenshot of HoloLens message showing device is continuing to heat up")
 
-If the device reaches a critical temperature, you'll see a warning that outgoing video is being disabled. 
+If the device reaches a critical temperature, you'll see a warning that outgoing video has been disabled. 
 
 ![Screenshot of HoloLens message showing device has reached critical temperature.](media/hololens-thermal-warning-3.jpg "Screenshot of HoloLens message showing device has reached critical temperature")
 
