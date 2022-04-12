@@ -113,17 +113,17 @@ File-sharing policies are used to control whether Teams users and Dynamics 365 R
 
 ### User experience in the HoloLens app
 
-When file sharing is disabled, a message appears above the **Insert file** button that indicates that file sharing is unavailable.
+When file sharing is disabled, a message appears above the **Snapshot** button that indicates that file sharing is unavailable.
 
 ![Screenshot of HoloLens app with message highlighted above button.](media/hololens-app-file-sharing-message-1.jpg "Screenshot of HoloLens app with message highlighted above button")
 
-If the user selects the **Insert file** button, they'll see another message that confirms that file sharing is unavailable.
+If the user selects the **Snapshot** button, they'll see another message that confirms that file sharing is unavailable.
 
 ![Screenshot of HoloLens app showing message that appears after button is selected.](media/hololens-app-file-sharing-message-2.jpg "Screenshot of HoloLens app showing message that appears after button is selected")
 
 ### User experience in the mobile app
 
-When file sharing is disabled, the following **Insert file** and **Insert picture** buttons are removed from the mobile app user interface.
+When file sharing is disabled, the following **Insert file** and **Insert picture** buttons are grayed out in the mobile app user interface.
 
 ![Screenshot of mobile app showing buttons that will be removed through Teams policy.](media/mobile-app-file-sharing-buttons.jpg "Screenshot of mobile app showing buttons that will be removed through Teams policy")
 
@@ -137,11 +137,7 @@ To set up the policy, you use the Microsoft Teams PowerShell Module. You can set
 
 1. [Install the Microsoft Teams PowerShell Module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
 
-2. To check the policy for a particular account to see if file sharing has already been disabled, run the following PowerShell command:
-
-    Get-CsUserPolicyAssignment -Identity "<email>" -PolicyType "TeamsFilesPolicy" 
-
-3. [Turn off file sharing](https://docs.microsoft.com/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
+2. [Turn off file sharing](https://docs.microsoft.com/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
 
 
 
