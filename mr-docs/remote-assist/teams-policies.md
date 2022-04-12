@@ -109,7 +109,7 @@ If the user tries to enter text in the Chat window, they see the following messa
 
 ## File-sharing policies
 
-File-sharing policies are used to control whether Teams users and Dynamics 365 Remote Assist users can share files with each other. 
+File-sharing policies are used to control whether a Dynamics 365 Remote Assist user or Microsoft Teams user can send files for a specific account. It doesn't affect whether they can receive files from other accounts. For example, you can disable a HoloLens user on a factory floor from sending screenshots. If this same user logs into the Teams account that has file sharing disabled, the **Attach** button will be unavailable. 
 
 ### User experience in the HoloLens app
 
