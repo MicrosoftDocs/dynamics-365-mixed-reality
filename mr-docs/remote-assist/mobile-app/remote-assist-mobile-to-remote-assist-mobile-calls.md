@@ -47,7 +47,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
 5. If the remote collaborator wants to share their own environment, the remote collaborator can select the **More** button, and then select **Start sharing**.
 
-    ![Screenshot of switching environment on Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile calls.](./media/spectator-ram-ram.png)
+    ![Screenshot of switching environment on Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile calls.](./media/share-space-annotations.jpg)
 
 6. When the remote collaborator starts sharing their space, the technician can view the remote collaborator's space by selecting **Switch view**.
 
