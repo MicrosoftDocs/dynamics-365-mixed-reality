@@ -39,7 +39,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
    ![Screenshot of the Dynamics 365 Remote Assist mobile video card.](./media/3a.png "Video Card")
 
-5. If the remote collaborator answers the call on **Dynamics 365 Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen.
+5. If the remote collaborator answers the call on **Dynamics 365 Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's mobile app screen.
 
     |Technician|Remote collaborator|
     |------------------------------------------------|------------------------------------------------|
