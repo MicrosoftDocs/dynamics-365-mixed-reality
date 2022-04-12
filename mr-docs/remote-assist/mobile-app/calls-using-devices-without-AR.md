@@ -59,7 +59,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 6. The technician will be directed to use the snapshot feature to add 2D annotations on a frozen video frame of their shared environment.
 
-   ![Screenshot showing Dynamics 365 Remote Assist mobile, with the technician's tooltip notification.](./media/01.05-call-nonar-1.png "Tool tip")
+   ![Screenshot showing Dynamics 365 Remote Assist mobile, with the technician's tooltip notification.](./media/technician-share-snapshot.jpg "Screenshot showing Dynamics 365 Remote Assist mobile, with the technician's tooltip notification")
 
 7. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. If the remote collaborator is using **Dynamics 365 Remote Assist mobile**, then they can both place 2D annotations on the frozen frame of the technician's environment.
 
