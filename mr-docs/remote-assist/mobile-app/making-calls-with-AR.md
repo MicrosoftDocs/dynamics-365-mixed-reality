@@ -65,8 +65,6 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
     
     ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar with More button highlighted and opened.](./media/call-controls-more-menu.jpg)
 
-6. During the call, both call participants can place mixed-reality annotations in the shared environment, capture and annotate snapshots, share files, share their screen, record the call, and more.
-
 ## See also
 
 - [Make calls on Dynamics 365 Remote Assist mobile **without** ARCore or ARKit support](./calls-using-devices-without-ar.md).
