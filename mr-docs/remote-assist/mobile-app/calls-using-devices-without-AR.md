@@ -68,7 +68,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
    |![Screenshot of technician's mobile app screen.](./media/technician-9.jpg)|![Screenshot of remote collaborator's mobile app screen.](./media/remote-collaborator-9.jpg)|  
 
    > [!NOTE]
-   > Both the technician and remote collaborator will see the mixed reality toolbar on the frozen frame and can add 2D annotations.
+   > Both the technician and remote collaborator will see the mixed-reality toolbar on the frozen frame and can add 2D annotations.
 
 8. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. If the remote collaborator is using **Teams desktop**, then they can both place 2D annotations frozen frame of the technician's environment.
 
