@@ -137,7 +137,7 @@ To set up the policy, you use the Microsoft Teams PowerShell Module. You can set
 
 1. [Install the Microsoft Teams PowerShell Module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
 
-2. [Turn off file sharing](https://docs.microsoft.com/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
+2. [Turn off file sharing for a specific account or organization](https://docs.microsoft.com/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
 
 
 
