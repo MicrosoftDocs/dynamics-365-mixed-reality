@@ -57,11 +57,11 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
     |----------------------------------|--------------------------------------------------------------------|
     |![Screenshot of technician's mobile app screen with live video feed again.](./media/technician-6.jpg)|![Screenshot of remote collaborator's Teams desktop screen with live video feed.](./media/remote-collaborator-desktop-6.jpg)| 
 
-5. The technician can use the call controls toolbar to disable the video call (enter an audio-only call), mute themselves in a call, turn on their speakers, or end the call. 
+5. The technician can use the call controls toolbar to switch between a video call or audio-only call, mute or unmute themselves, turn their speakers on or off, or end the call. 
 
    ![Screenshot of the call controls toolbar.](./media/call-controls-1.jpg)
 
-6. During the call, both call participants can place mixed-reality annotations in the shared environment, capture and annotate snapshots, share files, record the call, and more.
+6. During the call, both call participants can place mixed-reality annotations in the shared environment, capture and annotate snapshots, share files, share their screen, record the call, and more.
 
 ## See also
 
