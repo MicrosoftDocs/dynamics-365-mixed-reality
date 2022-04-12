@@ -20,7 +20,7 @@ If the device reaches a critical temperature, you'll see a warning that outgoing
 
 ![Screenshot of HoloLens message showing device has reached critical temperature.](media/hololens-thermal-warning-3.jpg "Screenshot of HoloLens message showing device has reached critical temperature")
 
-If you attempt to activate outgoing video after it has been disabled, you'll see a message that says that video is not available. 
+If you attempt to activate video after it has been disabled, you'll see a message that says outgoing video is not available. 
 
 ![Screenshot of HoloLens message showing device has been disabled.](media/hololens-thermal-warning-4.jpg "Screenshot of HoloLens message showing device has been disabled")
 
