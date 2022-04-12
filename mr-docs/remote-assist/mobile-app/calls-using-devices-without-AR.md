@@ -61,7 +61,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
    ![Screenshot showing Dynamics 365 Remote Assist mobile, with the technician's tooltip notification.](./media/technician-share-snapshot.jpg "Screenshot showing Dynamics 365 Remote Assist mobile, with the technician's tooltip notification")
 
-7. When the technician selects the **Snapshot** button, the technician enters Snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. If the remote collaborator is using **Dynamics 365 Remote Assist mobile**, the technician and the remote collaborator can both place 2D annotations on the frozen frame of the technician's environment.
+7. When the technician selects the **Snapshot** button, the technician enters Snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. If the remote collaborator is using Dynamics 365 Remote Assist mobile, the technician and the remote collaborator can both place 2D annotations on the frozen frame of the technician's environment.
 
    |Technician|Remote collaborator|
    |------------------------------------------------|------------------------------------------------|
