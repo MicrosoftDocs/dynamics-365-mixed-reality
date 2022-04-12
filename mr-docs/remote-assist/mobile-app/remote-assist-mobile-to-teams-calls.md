@@ -41,7 +41,9 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
 4. If the remote collaborator answers the call on **Teams desktop or mobile**, the technician's live video feed is shared with the remote collaborator's device screen.
 
-    ![Screenshot of a Dynamics 365 Remote Assist mobile to Microsoft Teams call.](./media/ram-teams-video.png)
+    |Technician|Remote collaborator|
+    |----------------------------------|--------------------------------------------------------------------|
+    |![Screenshot of technician's mobile app screen.](./media/technician-3.jpg)|![Screenshot of remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-3.jpg)|    
 
 5. Both call participants can place annotations in the shared environment either in their own environment or by selecting **Start editing**. 
 
