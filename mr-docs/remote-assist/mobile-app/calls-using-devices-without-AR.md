@@ -49,11 +49,13 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
    > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
 
    If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen.
+   
+   |Technician|Remote collaborator|
+   |----------------------------------|--------------------------------------------------------------------|
+   |![Screenshot of technician's mobile app screen.](./media/technician-8.jpg)|![Screenshot of remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-8.jpg)|  
 
    > [!NOTE]
-   > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
-
-   ![Screenshot of Dynamics 365 Remote Assist mobile and the remote collaborator on Teams Desktop.](../media/ram-teams-notoolbar.png "RAM-Teams")
+   > Technicians can't place mixed-reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
 
 6. The technician will be directed to use the snapshot feature to add 2D annotations on a frozen video frame of their shared environment.
 
