@@ -123,7 +123,7 @@ If the user selects the **Snapshot** button, they'll see another message that co
 
 ### User experience in the mobile app
 
-When file sharing is disabled, the following **Insert file** and **Insert picture** buttons are grayed out in the mobile app user interface.
+When file sharing is disabled, the file-sharing buttons are grayed out in the mobile app user interface.
 
 ![Screenshot of mobile app showing buttons that will be removed through Teams policy.](media/mobile-app-file-sharing-buttons.jpg "Screenshot of mobile app showing buttons that will be removed through Teams policy")
 
