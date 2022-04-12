@@ -141,11 +141,11 @@ You can set up the policy for individual users or entire organizations.
 
 1. [Install the Microsoft Teams PowerShell Module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
 
-2. To check the policy for a particular account to see if file sharring has already been disabled, run the following PowerShell command:
+2. To check the policy for a particular account to see if file sharing has already been disabled, run the following PowerShell command:
 
     Get-CsUserPolicyAssignment -Identity "<email>" -PolicyType "TeamsFilesPolicy" 
 
-3. [Turn off Team native file upload policy](https://docs.microsoft.com/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
+3. [Turn off file sharing](https://docs.microsoft.com/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
 
 
 
