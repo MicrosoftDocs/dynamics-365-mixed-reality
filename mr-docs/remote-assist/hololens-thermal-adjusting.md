@@ -3,7 +3,9 @@
 
 If you're on a longer call in Microsoft Dynamics 365 Remote Assist for HoloLens, the HoloLens device can become hot if it's using 
 several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device 
-from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality (resolution and frame rate). If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. The first warning message tells you that HoloLens is heating up and that outgoing video quality is being reduced.
+from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality (resolution and frame rate). If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. 
+
+The first warning message tells you that HoloLens is heating up and that outgoing video quality is being reduced.
 
 ![Screenshot of HoloLens message showing that device is heating up.](media/hololens-thermal-warning-1.jpg "Screenshot of HoloLens message showing device is heating up")
 
