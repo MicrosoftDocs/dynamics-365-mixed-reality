@@ -3,9 +3,17 @@
 
 If you're on a longer call in Microsoft Dynamics 365 Remote Assist for HoloLens, the HoloLens device can become hot if it's using 
 several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device 
-from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality (resolution and frame rate). If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. If the device reaches a critical temperature, you'll see a message that outgoing video will be disabled completely. 
+from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality (resolution and frame rate). If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. The first warning message tells you that HoloLens is heating up and that outgoing video quality is being reduced.
 
-![Screenshot of HoloLens message showing device is reaching critical temperature.](media/hololens-thermal-critical.jpg "Screenshot of HoloLens message showing device is reaching critical temperature")
+![Screenshot of HoloLens message showing that device is heating up.](media/hololens-thermal-warning-1.jpg "Screenshot of HoloLens message showing device is heating up")
+
+If the device continues to heat up, you'll see a message that says the device is continuing to reach critical temperatures.
+
+![Screenshot of HoloLens message showing that device is continuing to heat up.](media/hololens-thermal-warning-1.jpg "Screenshot of HoloLens message showing device is continuing to heat up")
+
+If the device reaches a critical temperature, you'll see a message that says that outgoing video will be disabled completely. 
+
+![Screenshot of HoloLens message showing device has reached critical temperature.](media/hololens-thermal-warning-3.jpg "Screenshot of HoloLens message showing device has reached critical temperature")
 
 When the device returns to an optimal operating temperature, you'll see a message saying that outgoing video quality is being restored.
 
