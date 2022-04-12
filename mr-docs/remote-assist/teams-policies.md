@@ -137,7 +137,7 @@ SCREENSHOT GOES HERE
 
 ### Set up the policy (admins)
 
-You can set up the policy for individual users or entire organizations. 
+To set up the policy, you use the Microsoft Teams PowerShell Module. You can set up the policy for individual users or entire organizations. 
 
 1. [Install the Microsoft Teams PowerShell Module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
 
