@@ -113,7 +113,11 @@ File-sharing policies are used to control whether Teams users and Dynamics 365 R
 
 - If file sharing is disabled for the Teams user, the **Attach** button is removed from the Teams text chat user interface. The Teams user on the other end of a call/chat can continue to send attachments and files without any changes. 
 
-- If file sharing is disabled for Dynamics 365 Remote Assist user, the **Insert file** and **Insert picture** buttons are removed from the mixed-reality toolbar. The user will see a message that says "File sharing is unavailable because your admin has disabled this feature. Please contact your admin for support." 
+- If file sharing is disabled for the Dynamics 365 Remote Assist user:
+
+    - On HoloLens, the **Insert file** command...
+
+    - In the mobile app, the **Insert file** and **Insert picture** buttons are removed from the mixed-reality toolbar. The user will see a message that says "File sharing is unavailable because your admin has disabled this feature. Please contact your admin for support." 
 
 ### User experience in the HoloLens app
 
