@@ -41,10 +41,10 @@ This article describes details about the **current wave of features (April 2022 
 #### Mobile
 
 - Fix for **Camera** button status when joining a meeting 
-- Annotations accuracy improvements on Android devices
 - Improvement to **Microphone** and **Speaker** buttons status 
+- Improvements for annotations accuracy on Android devices
 - Fix for the video recording owner displayed in the text chat 
-- Fix for the recent contacts list not always appearing
+- Fix for the Recent contacts list not always appearing
 - Update for the Third-Party Software links in the application 
 - UI improvements for the ellipsis (More) menu 
 
