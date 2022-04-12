@@ -28,5 +28,5 @@ When the device returns to an optimal operating temperature, you'll see a messag
 
 ![Screenshot of HoloLens message showing outgoing video has been restored.](media/hololens-thermal-restore.jpg "Screenshot of HoloLens message showing outgoing video has been restored")
 
-If you had video turned on before it was disabled, the video will automatically be turned back on. If you had video off before it was disabled, it will remain off but you can turn it back on. 
+If you had video turned on before it was disabled, the video will automatically be turned back on. If you had video turned off before it was disabled, it will remain off but you can turn it back on. 
 
