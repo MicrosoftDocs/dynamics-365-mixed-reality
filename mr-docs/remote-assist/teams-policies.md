@@ -115,21 +115,21 @@ File-sharing policies are used to control whether Teams users and Dynamics 365 R
 
 When file sharing is disabled, a message appears above the **Insert file** button that indicates that file sharing is not available.
 
-SCREENSHOT GOES HERE
+![Screenshot of HoloLens app with message highlighted above button.](media/hololens-app-file-sharing-message-1.jpg "Screenshot of HoloLens app with message highlighted above button")
 
 If the user selects the **Insert file** button, they'll see another message that indicates that file sharing is not available.
 
-SCREENSHOT GOES HERE
+![Screenshot of HoloLens app showing message that appears after button is selected.](media/hololens-app-file-sharing-message-2.jpg "Screenshot of HoloLens app showing message that appears after button is selected")
 
 ### User experience in the mobile app
 
 When file sharing is disabled, the following **Insert file** and **Insert picture** buttons are removed from the mobile app user interface.
 
-SCREENSHOT HIGHLIGHTING BUTTONS THAT WILL BE REMOVED
+![Screenshot of mobile app showing buttons that will be removed through Teams policy.](media/mobile-app-file-sharing-buttons.jpg "Screenshot of mobile app showing buttons that will be removed through Teams policy")
 
 The user will also see a message that says that file sharing is unavailable.
 
-SCREENSHOT GOES HERE
+![Screenshot of mobile app showing file sharing message.](media/mobile-app-file-sharing-message.jpg "Screenshot of mobile app showing file sharing message")
 
 ### Set up the policy (admins)
 
