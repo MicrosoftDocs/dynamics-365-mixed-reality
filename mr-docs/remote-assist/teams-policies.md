@@ -113,6 +113,36 @@ File-sharing policies are used to control whether Teams users and Dynamics 365 R
 
 - If file sharing is disabled for the Teams user, the **Attach** button is removed from the Teams text chat user interface. The Teams user on the other end of a call/chat can continue to send attachments and files without any changes. 
 
-- If file sharing is diabled for Dynamics 365 Remote Assist user, the **Insert file** button is removed from the mixed-reality toolbar. The user will see a message that says "File sharing is unavailable because your admin has disabled this feature. Please contact your admin for support." 
+- If file sharing is diabled for Dynamics 365 Remote Assist user, the **Insert file** and **Insert picture** buttons are removed from the mixed-reality toolbar. The user will see a message that says "File sharing is unavailable because your admin has disabled this feature. Please contact your admin for support." 
+
+### User experience in the HoloLens app
+
+When file sharing is disabled, when the Dynamics 365 Remote Assist user selects the Camera icon??? they'll see a message that says that File sharing is unavailable.
+
+SCREENSHOTS GO HERE
+
+### User experience in the mobile app
+
+When file sharing is disabled, the following **Insert file** and **Insert picture** buttons are removed from the mobile app user interface.
+
+SCREENSHOT HIGHLIGHTING BUTTONS THAT WILL BE REMOVED
+
+The user will see a message that says that file sharing is unavailable.
+
+SCREENSHOT GOES HERE
+
+### Set up the policy
+
+If you're an admin, you can set up the policy for individual users or entire organizations. 
+
+1. [Install the Teams PowerShell module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
+
+2. To check the policy for a particular account, run the following PowerShell command:
+
+    Get-CsUserPolicyAssignment -Identity "<email>" -PolicyType "TeamsFilesPolicy" 
+
+3. [Turn off Team native file upload policy](https://docs.microsoft.com/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
+
+
 
 
