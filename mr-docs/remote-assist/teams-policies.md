@@ -135,7 +135,7 @@ The user will see a message that says that file sharing is unavailable.
 
 SCREENSHOT GOES HERE
 
-### Set up the policy
+### Set up the policy (admins)
 
 You can set up the policy for individual users or entire organizations. 
 
