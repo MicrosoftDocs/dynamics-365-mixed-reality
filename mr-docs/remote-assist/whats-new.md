@@ -19,7 +19,7 @@ This article describes details about the **current wave of features (April 2022 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
 |[Support for screen sharing in the mobile app](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-screen-sharing-mobile-app)|[Share your screen in the mobile app](mobile-app/share-screen.md)|
-|Ability to restrict users from signing out of the HoloLens app|[Restrict users from signing out of the HoloLens app](restricted-mode-signout.md)|
+|Restrict users from signing out of the HoloLens app|[Restrict users from signing out of the HoloLens app](restricted-mode-signout.md)|
 |Adjusting outgoing video on a call to lower HoloLens device temperature |[How Dynamics 365 Remote Assist adjusts HoloLens device temperature](hololens-thermal-adjusting.md)|
 |New voice commands for navigating app settings and managing windows|[Voice commands for Dynamics 365 Remote Assist on HoloLens](voice-commands-hololens.md)|
 |Turn off file sharing through Microsoft Teams policy|[Microsoft Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md#file-sharing-policies)|
