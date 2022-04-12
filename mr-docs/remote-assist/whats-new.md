@@ -48,6 +48,9 @@ This article describes details about the **current wave of features (April 2022 
 - Update for the Third-Party Software links in the application 
 - UI improvements for the ellipsis (More) menu 
 
+> [!TIP]
+> Looking for a list features from earlier waves? Go to [Version history for Dynamics 365 Remote Assist](version-history.md).
+
 ## Locate your version number
 
 ### HoloLens
