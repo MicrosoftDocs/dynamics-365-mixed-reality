@@ -9,7 +9,7 @@ The first warning message tells you that HoloLens is heating up and that outgoin
 
 ![Screenshot of HoloLens message showing that device is heating up.](media/hololens-thermal-warning-1.jpg "Screenshot of HoloLens message showing device is heating up")
 
-If the device continues to heat up, you'll see a message that says the device is continuing to reach critical temperatures.
+If the device continues to heat up, you'll see a message that says the device is continuing to heat up.
 
 ![Screenshot of HoloLens message showing that device is continuing to heat up.](media/hololens-thermal-warning-1.jpg "Screenshot of HoloLens message showing device is continuing to heat up")
 
