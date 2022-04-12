@@ -139,7 +139,7 @@ SCREENSHOT GOES HERE
 
 You can set up the policy for individual users or entire organizations. 
 
-1. [Install the Teams PowerShell module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
+1. [Install the Microsoft Teams PowerShell module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
 
 2. To check the policy for a particular account, run the following PowerShell command:
 
