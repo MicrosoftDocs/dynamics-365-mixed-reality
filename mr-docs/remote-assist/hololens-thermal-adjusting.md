@@ -8,7 +8,7 @@ from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video qu
 > [!IMPORTANT]
 > You must use HoloLens OS version 22H1 (Spring 2022 release) to use this feature. 
 
-The first warning message tells you that HoloLens is heating up and that outgoing video quality is being reduced.
+The first warning message tells you that HoloLens is heating up and that outgoing video quality has been reduced.
 
 ![Screenshot of HoloLens message showing that device is heating up.](media/hololens-thermal-warning-1.jpg "Screenshot of HoloLens message showing device is heating up")
 
@@ -20,7 +20,7 @@ If the device reaches a critical temperature, you'll see a warning that outgoing
 
 ![Screenshot of HoloLens message showing device has reached critical temperature.](media/hololens-thermal-warning-3.jpg "Screenshot of HoloLens message showing device has reached critical temperature")
 
-If you attempt to activate outgoing video when it has been disabled, you'll see a message that says that video is not available. 
+If you attempt to activate outgoing video after it has been disabled, you'll see a message that says that video is not available. 
 
 ![Screenshot of HoloLens message showing device has been disabled.](media/hololens-thermal-warning-4.jpg "Screenshot of HoloLens message showing device has been disabled")
 
