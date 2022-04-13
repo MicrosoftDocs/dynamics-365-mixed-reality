@@ -50,12 +50,12 @@ The annotation toolbar allows technicians to place arrows and drawings into thei
 
 ## Adding annotations for remote collaborators in Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile calls
 
-1. To add annotations, select **Start annotating**.
-
-    > [!TIP]
-    > To delete annotations you added during this editing session, select **Delete All**.
+1. To add annotations, select **Start annotating**.    
 
     ![Remote collaborator on RAM single screen.](./media/share-annotation-3.jpg "RAM Remote Collaborator")
+    
+    > [!TIP]
+    > To delete all annotations you add during an editing session, select **Delete All**.
 
 2. You will view a **snapshot** of the technician's environment and then you can add your annotations onto the snapshot.
 
