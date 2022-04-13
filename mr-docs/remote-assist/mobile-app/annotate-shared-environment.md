@@ -14,6 +14,8 @@ In Dynamics 365 Remote Assist mobile, mixed reality annotations give technicians
 
 ## Learn the annotation tools
 
+### Mobile app
+
 If you're using the Dynamics 365 Remote Assist mobile app, you'll see the following annotation toolbar.
 
 ![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar.](./media/mobile-app-annotation-toolbar.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar")
@@ -31,7 +33,8 @@ The following table describes each of the buttons in the mobile app annotation t
 |![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/undo-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")|Undo|
 |![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/delete-all-annotations-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")|Delete all annotations|
 
-![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
+### Teams desktop app
+
 
 ### Add arrow annotation 
 
