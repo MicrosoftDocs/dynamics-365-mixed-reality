@@ -3,7 +3,7 @@ title: Annotate the technician's environment in Dynamics 365 Remote Assist mobil
 author: amaraanigbo
 description: How to add annotations to your environment in Dynamics 365 Remote Assist mobile 
 ms.author: soanigbo
-ms.date: 10/01/2020
+ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -19,17 +19,23 @@ In Dynamics 365 Remote Assist mobile, mixed reality annotations give technicians
 ![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
 
 ### Add arrow annotation 
+
 To position the arrow: 
-- Make sure the arrow is selected in the annotation toolbar. 
-- Move your device around to position the dot on the object or area you want to highlight
-- Tap to place the ghost arrow on your device screen
+
+1. Make sure the arrow is selected in the annotation toolbar. 
+
+2. Move your device around to position the dot on the object or area you want to highlight.
+
+3. Tap to place the ghost arrow on your device screen.
 
     ![Show ghost arrow in the Dynamics 365 Remote Assist mobile toolbar.](./media/share-annotation-1.jpg "RAM Ghost Arrow")
 
-- To rotate the arrow, tap and drag the arrow in a circular motion (360 degrees)
+4. To rotate the arrow, tap and drag the arrow in a circular motion (360 degrees).
 
 ### Add ink annotation 
+
 To determine where you start drawing:
+
 - Make sure the ink pen is selected in the annotation toolbar. 
 - Tap and drag on the screen to start drawing 
 
