@@ -83,7 +83,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
 ### On Teams desktop
 
-- Yxou can add mixed-reality annotations to Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users' shared space. 
+- You can add mixed-reality annotations to Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users' shared space. 
 
 ## Other capabilities
 
