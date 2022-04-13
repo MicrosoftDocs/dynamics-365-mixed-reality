@@ -73,7 +73,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
    |----------------------------------|--------------------------------------------------------------------|
    |![Screenshot of technician's mobile app screen.](./media/technician-10.jpg)|![Screenshot of remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-10.jpg)| 
 
-9. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **check mark** to save or discard the snapshot.
+9. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **Check mark** button to save or discard the snapshot.
 
 10. The technician is prompted to discard the snapshot or save it to the Photo Gallery, text chat, or both. The technician then selects **Save**.
 
