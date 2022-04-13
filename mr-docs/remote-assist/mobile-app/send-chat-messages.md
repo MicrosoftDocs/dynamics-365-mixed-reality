@@ -30,7 +30,7 @@ During a Dynamics 365 Remote Assist mobile call, technicians can send chat messa
 
 4. Technicians will return directly back to the live video feed.
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/send-chat-messages-1 "Place Annotations")
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/send-chat-messages-1.jpg "Place Annotations")
 
 ## Sending chat messages for remote collaborators 
 
