@@ -67,7 +67,7 @@ The annotation toolbar allows technicians to place arrows and drawings in their 
 
 ## Adding annotations for remote collaborators in Dynamics 365 Remote Assist mobile to Teams desktop or mobile calls
 
-1. The annotation toolbar allows remote collaborators to place **Arrows** and **Drawings** into their environment. The **Color Picker** changes the color of your annotations. The **Undo** icon allows remote collaborators to remove the last annotation that they placed in their environment. The **Delete All** icon allows remote collaborators to remove all annotations that they placed in their environment (they cannot remove the technician’s annotations).
+1. The annotation toolbar allows remote collaborators to place Arrows and Drawings into their environment. The Color Picker changes the color of your annotations. The Undo icon allows remote collaborators to remove the last annotation that they placed in their environment. The **Delete All** button allows remote collaborators to remove all annotations that they placed in their environment (they cannot remove the technician’s annotations).
 
     ![Screenshot of the Microsoft Teams meeting toolbar, pointing out what each icon means.](./media/mrtoolbar.png)
 
