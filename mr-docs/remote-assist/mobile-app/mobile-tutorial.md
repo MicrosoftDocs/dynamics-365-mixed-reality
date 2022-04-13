@@ -57,7 +57,7 @@ This guided tutorial addresses:
 
 8. Draw a line or circle by tapping and dragging on your screen. 
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing an example of a drawn annotation.](./media/19b.png "Draw")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing an example of a drawn annotation.](./media/19b.png "Draw")
 
 9. Practice placing and using other annotations. You can use the **Color picker**, **Undo**, or **Delete all** annotation icons. 
 
