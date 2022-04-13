@@ -75,7 +75,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 9. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **Check mark** button to save or discard the snapshot.
 
-10. The technician is prompted to discard the snapshot or save it to the device gallery, text chat, or both. The technician then selects **Save**.
+10. The technician is prompted to discard the snapshot or save it to the device gallery, call chat, or both. The technician then selects **Save**.
 
     ![Screenshot showing the save snapshot option on Dynamics 365 Remote Assist mobile.](./media/7a.png)
 
