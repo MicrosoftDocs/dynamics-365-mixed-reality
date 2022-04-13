@@ -18,23 +18,23 @@ If the technician is using Dynamics 365 Field Service, [snapshots can also be po
 
 ## How it works
 
-1. As the technician using Dynamics 365 Remote Assist mobile, select the **Snapshot** icon to snap your photo. 
+1. The technician, who is using Dynamics 365 Remote Assist mobile, selects the **Snapshot** button to snap a photo. 
 
     ![Screenshot of the snapshot icon in Dynamics 365 Remote Assist mobile.](./media/snapshot1.png "Snapshot Icon")
 
-2. You'll know you're in snapshot mode when a **red border** appears on your device's screen. The snapshot is automatically shared to the remote collaborator's screen on Microsoft Teams.
+    In snapshot mode, a **red border** appears on the technician's mobile app screen. The snapshot is automatically shared to the remote collaborator's screen on Microsoft Teams.
 
     ![Screenshot of the snapshot icon with the red border.](./media/snapshot2.png "Red Border")
 
-3. Both the technician and remote collaborator can place 2D annotations to the snapshot. 
+3. Both the technician and remote collaborator can place 2D annotations on the snapshot. 
 
     ![Screenshot of annotations on snapshots.](./media/snapshot4.png "Annotate snapshot")
 
-4.	After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **Check Mark** to **save** or **discard** the snapshot.  
+4.	When the technician and remote collaborator are finished annotating the snapshot, the technician selects the **Check mark** button to save or discard the snapshot.  
 
     ![Screenshot of the check mark.](./media/snapshot4.png "Check Mark")
 
-5.	The technician is prompted with the options to **discard** the snapshot or **save** the snapshot to either the **mobile device's photo gallery**, **Dynamics 365 Remote Assist mobile's text chat**, or **both**. Select your choice and then select **Save.**
+5.	The technician is prompted to discard the snapshot or save it to the mobile device gallery, text chat, or both. Select your choice and then select **Save.**
 
     ![Screenshot of saving on snapshots.](./media/snapshot6a.png "Save snapshot")
 
