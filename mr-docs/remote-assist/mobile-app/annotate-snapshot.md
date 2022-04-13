@@ -38,7 +38,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 
     ![Screenshot of saving on snapshots.](./media/snapshot6a.png "Save snapshot")
 
-5. The technician returns to the live video call and can select the **Snapshot** button again to take more snapshots. 
+5. The technician automatically returns to the live video call and can select the **Snapshot** button again to take more snapshots. 
    
     >[!NOTE] 
     > Annotations added on a snapshot do not appear in the technician's environment after the snapshot has been saved or discarded. 
