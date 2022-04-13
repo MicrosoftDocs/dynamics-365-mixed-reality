@@ -57,7 +57,7 @@ The annotation toolbar allows technicians to place arrows and drawings into thei
     > [!TIP]
     > To delete all annotations you add during an editing session, select **Delete All**.
 
-2. You will view a **snapshot** of the technician's environment and then you can add your annotations onto the snapshot.
+2. You'll see a snapshot of the technician's environment. You can add your annotations to that snapshot.
 
     ![screenshot of Dynamics 365 Remote Assist mobile showing an arrow annotation.](./media/ram-ram-remote-collab.png "Place Annotations")
 
