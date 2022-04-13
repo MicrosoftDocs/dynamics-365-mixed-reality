@@ -28,11 +28,11 @@ The following table describes each of the buttons in the mobile app annotation t
 
 |Button|Description|
 |--------|-----------------------------------------------|
-|![Screenshot of Arrow button.](./media/arrow-button-mobile.jpg "Screenshot of the Arrow button")|Add an arrow|
-|![Screenshot of Ink button.](./media/active-tool-button.jpg "Screenshot of Ink button")|Add ink|
-|![Screenshot of Color picker button.](./media/color-picker-button.jpg "Screenshot of Color picker button")|Pick a color|
-|![Screenshot of Undo button.](./media/undo-button.jpg "Screenshot of Undo button")|Undo the last action|
-|![Screenshot of Delete all button.](./media/delete-all-annotations-button.jpg "Screenshot of Delete all button")|Delete all annotations|
+|![Screenshot of Arrow button.](./media/arrow-button-mobile.jpg "Screenshot of the Arrow button")|Add an arrow.|
+|![Screenshot of Ink button.](./media/active-tool-button.jpg "Screenshot of Ink button")|Add ink (draw).|
+|![Screenshot of Color picker button.](./media/color-picker-button.jpg "Screenshot of Color picker button")|Pick a color.|
+|![Screenshot of Undo button.](./media/undo-button.jpg "Screenshot of Undo button")|Undo the last annotation that you placed in your environment.|
+|![Screenshot of Delete all button.](./media/delete-all-annotations-button.jpg "Screenshot of Delete all button")|Delete all of the annotations that you placed in your environment. Note that you can't delete annotations placed by the remote collaborator.|
 
 ### Teams desktop app
 
