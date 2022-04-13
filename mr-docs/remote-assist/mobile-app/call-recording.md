@@ -35,7 +35,7 @@ The following chart explains which call participant can initiate a call recordin
 
     ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the notification that recording has started message.](./media/call-recording-2.jpg)
 
-3. At all times during the call, the technician can see that the call recording is in progress by viewing the call recording indicator in the text chat.
+3. At all times during the call, the technician can see that the call recording is in progress by viewing the call-recording indicator in the upper-right corner of the text chat.
 
     ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the text chat and a recording indicator in the top-right corner of the screen.](./media/textchatrecorder.PNG)
 
