@@ -88,7 +88,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
     > [!NOTE]
     > Annotations added on a still snapshot will *not* appear in the technician's environment after they have been saved or discarded.
 
-13. Both the technician and remote collaborator can send and receive messages and files from their local device in the text chat. [Learn more about the file sharing](./file-sharing.md).
+13. Both the technician and remote collaborator can send and receive messages and files from their local device in the text chat. [Learn more about file sharing](./file-sharing.md).
 
     ![Screenshot showing the text chat in Dynamics 365 Remote Assist mobile.](./media/06.21-chat-doc.png)
 
