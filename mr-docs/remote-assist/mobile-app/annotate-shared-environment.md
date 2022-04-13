@@ -28,13 +28,25 @@ The following table describes each of the buttons in the mobile app annotation t
 
 |Button|Description|
 |--------|-----------------------------------------------|
-|![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/active-tool-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")|Active tool|
-|![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/color-picker-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")|Color picker|
-|![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/undo-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")|Undo|
-|![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/delete-all-annotations-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")|Delete all annotations|
+|![Screenshot of Active tool button.](./media/active-tool-button.jpg "Screenshot of Active tool button")|Active tool|
+|![Screenshot of Color picker button.](./media/color-picker-button.jpg "Screenshot of Color picker button")|Pick a color|
+|![Screenshot of Undo button.](./media/undo-button.jpg "Screenshot of Undo button")|Undo the last action|
+|![Screenshot of Delete all button.](./media/delete-all-annotations-button.jpg "Screenshot of Delete all button")|Delete all annotations|
 
 ### Teams desktop app
 
+If you're the remote collaborator on Teams desktop, you'll see the following annotation toolbar.
+
+![Screenshot of the Teams desktop annotation toolbar.](./media/teams-desktop-annotation-toolbar.jpg "Screenshot of the Teams desktop annotation toolbar")
+
+The following table describes each of the buttons in the Teams desktop annotation toolbar.
+
+|Button|Description|
+|--------|-----------------------------------------------|
+|![Screenshot of the Arrow button.](./media/arrow-button.jpg "Screenshot of the Arrow button")|Add an arrow|
+|![Screenshot of the xxx.](./media/color-picker-button.jpg "Screenshot of the xxx")||
+|![Screenshot of the xx.](./media/undo-button.jpg "Screenshot of the xxx")||
+|![Screenshot of the xxx.](./media/delete-all-annotations-button.jpg "Screenshot of the xxxn")||
 
 ### Add arrow annotation 
 
