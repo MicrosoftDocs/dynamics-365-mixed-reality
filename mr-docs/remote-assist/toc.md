@@ -47,6 +47,7 @@
 #### [Join a meeting](mobile-app/join-meeting-mobile.md)
 #### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
+### [Share your screen](mobile-app/share-screen.md)
 ### Capture photos, videos, and asset conditions
 #### [Capture and annotate snapshots](mobile-app/annotate-snapshot.md)
 #### [Record calls](mobile-app/call-recording.md)
