@@ -41,7 +41,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 5. The technician automatically returns to the live video call and can select the **Snapshot** button again to take more snapshots. 
    
     >[!NOTE] 
-    > Annotations added on a snapshot do not appear in the technician's environment after the snapshot has been saved or discarded. 
+    > Annotations added to a snapshot do not appear in the technician's environment after the snapshot has been saved or discarded. 
 
 6. If the technician successfully saved the snapshot, at the end of the call, they can view the snapshot in the mobile device gallery and/or Microsoft Teams text chat. 
 
