@@ -47,7 +47,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the tooltip on mobile that prompts the technician to share a snapshot.](./media/low-bandwidth-3.jpg "Tool Tip") 
  
-5. After sharing a snapshot, the technician can save it to the the photo gallery or call chat, or can discard it. 
+5. After sharing a snapshot, the technician can save it to the device gallery, call chat, or both. 
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the snapshot on both screens.](./media/03.19-call-save-snapshot-dialog-selected.png "Expert-side Snapshot") 
 
