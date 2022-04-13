@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Capture session history through call recording in Dynamics 365 Remote Assist mobile
 
-Technicians can use call recording in Microsoft Dynamics 365 Remote Assist mobile to comprehensively document their video calls with remote collaborators. For businesses, it's important to keep a record of different incidents on a daily basis. Often, these records are kept through paper trails or text-based collateral. By capturing and tracking Dynamics 365 Remote Assist video sessions, operations managers, technicians, and business decision makers can use call recordings for:
+Technicians can use call recording in Microsoft Dynamics 365 Remote Assist mobile to comprehensively document their video calls with remote collaborators. For businesses, it's important to keep a record of different incidents on a daily basis. Often, these records are kept through paper trails or text-based collateral. Operations managers, technicians, and business decision makers can use call recordings for:
 
 - Reference for follow-up work.
 - Validation that the maintenance and repair process was completed correctly.
