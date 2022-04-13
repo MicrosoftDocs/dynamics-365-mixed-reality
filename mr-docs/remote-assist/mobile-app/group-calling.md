@@ -3,7 +3,7 @@ title: Group calls with Dynamics 365 Remote Assist mobile
 author: amaraanigbo
 description: Group calling with Dynamics 365 Remote Assist mobile, Microsoft Teams desktop, and Dynamics 365 Remote Assist on HoloLens users 
 ms.author: soanigbo
-ms.date: 10/09/2020
+ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -21,22 +21,22 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call, a
 
 1. In a one-to-one call with a remote collaborator, a Dynamics 365 Remote Assist mobile user can add more participants in the call by selecting the ![Screenshot showing more environment actions.](media/ellipsis.png "More environment actions") > **Participants**.
 
-> [!NOTE]
-> Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a one-to-one call.
+   > [!NOTE]
+   > Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a one-to-one call.
 
-![Screenshot showing select participants button.](./media/call-ellipses-participants.png "Select Participants Button")
+   ![Screenshot showing select participants button.](./media/call-ellipses-participants.png "Select Participants Button")
 
 2. Select **+ Participants** in the top right of the screen.
 
-![Screenshot showing add contact button.](./media/add-participants-button.png "Add Contact")
+   ![Screenshot showing add contact button.](./media/add-participants-button.png "Add Contact")
 
 3. Search for the remote collaborator's name that you want to call and select their name to add them to your call. You can wait to see if they have joined or declined the call with these loading notifications: **Connecting...** > **In call** or **Declined**.
 
-![Screenshot showing search for name.](./media/add-contact-gc.png "Search for Contact")
+   ![Screenshot showing search for name.](./media/add-contact-gc.png "Search for Contact")
 
 4. You can also view their name in the **Participants** pane contact list and see if they have joined the call.
 
-![Screenshot showing the view list.](./media/all-participants-list.png "View Contact List")
+   ![Screenshot showing the view list.](./media/all-participants-list.png "View Contact List")
 
 5. Return to the live video feed to continue to collaborate with all call participants.
 
@@ -46,24 +46,24 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call, a
 
 1. You can view other Dynamics 365 Remote Assist mobile users' spaces when they start sharing them. Select **Switch view** or **Dismiss**.
 
-![Screenshot showing view others' space.](./media/notif-started-sharing.png "View others' space")
+   ![Screenshot showing view others' space.](./media/notif-started-sharing.png "View others' space")
 
 2. You can also choose which call participant's shared space to view by selecting their name in the **Participants** pane contact list, when there are multiple presenters.
 
-> [!NOTE] 
-> On the **Participants** pane, the presenter icon in **blue** shows you which participant's space you are currently viewing. The presenter icon in **white** shows you which participants who are currently sharing their space. You may choose to switch to another participant who is sharing their space.  
+   > [!NOTE] 
+   > On the **Participants** pane, the presenter icon in **blue** shows you which participant's space you are currently viewing. The presenter icon in **white** shows you which participants who are currently sharing their space. You may choose to switch to another participant who is sharing their space.  
 
-![Screenshot showing add contact.](./media/all-participants-list.png "Add Contact")
+   ![Screenshot showing add contact.](./media/all-participants-list.png "Add Contact")
 
 3. You can stop sharing your space by selecting !["More environment actions."](media/ellipsis.png "More environment actions") > **Stop sharing**. You will be taken to an audio call. 
 
-![Screenshot showing stop presenting option.](./media/stop-presenting-button.png)
+   ![Screenshot showing stop presenting option.](./media/stop-presenting-button.png)
 
 ### On Remote Assist HoloLens
 
 1. You can **only** share your environment to all call participants on Remote Assist mobile, Remote Assist HoloLens, or Teams desktop.
 
-![RAM-HL view space.](./media/hololens-spectator-ram.png "Remote Assist mobile-HoloLens share space")
+   ![RAM-HL view space.](./media/hololens-spectator-ram.png "Remote Assist mobile-HoloLens share space")
 
 ### On Teams desktop
 
