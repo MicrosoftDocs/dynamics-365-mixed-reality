@@ -16,7 +16,7 @@ Technicians can use call recording in Microsoft Dynamics 365 Remote Assist mobil
 - Validation that the maintenance and repair process was completed correctly
 - Training material
 
-Call recording is available only for one-to-one or group calls in Dynamics 365 Remote Assist mobile. After the call recording ends, it's automatically uploaded to OneDrive for Business. After the recording is uploaded, all call participants can access it via their Dynamics 365 Remote Assist mobile call text chat or  Microsoft Teams chat. The Dynamics 365 Remote Assist mobile user who started the call recording can also see it in their OneDrive for Business folder.
+Call recording is available only for one-to-one or group calls in Dynamics 365 Remote Assist mobile. After the call ends, the call recording is automatically uploaded to OneDrive for Business. After the recording is uploaded, all call participants can access it via their Dynamics 365 Remote Assist mobile call text chat or  Microsoft Teams chat. The Dynamics 365 Remote Assist mobile user who started the call recording can also see it in their OneDrive for Business folder.
 
 The following chart explains which call participant can initiate a call recording in each type of call with a Dynamics 365 Remote Assist mobile user:
 
