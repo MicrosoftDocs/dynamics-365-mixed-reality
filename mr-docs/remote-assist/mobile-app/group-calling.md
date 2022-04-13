@@ -65,7 +65,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
 ### On Teams desktop
 
-1. You can only view the shared space of Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users. 
+- You can only view the shared space of Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users. 
 
 ## Adding and receiving annotations
 
