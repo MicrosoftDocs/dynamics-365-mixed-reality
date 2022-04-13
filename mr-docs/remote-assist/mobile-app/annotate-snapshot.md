@@ -38,18 +38,14 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 
     ![Screenshot of saving on snapshots.](./media/snapshot6a.png "Save snapshot")
 
-5. IF the technician selects **Save**, the technician is notified that the snapshot has been successfully saved or failed. If the snapshot has not been saved, the technician can take another snapshot. 
-
-    ![Screenshot of successfully saving snapshots.](./media/snapshot7a.png "Saving snapshot success")
-
-6. The technician returns to the live video call and can select the **Snapshot** button again to take more snapshots. 
+5. The technician returns to the live video call and can select the **Snapshot** button again to take more snapshots. 
    
     >[!NOTE] 
     > Annotations added on a snapshot do not appear in the technician's environment after the snapshot has been saved or discarded. 
 
-7. If the technician successfully saved the snapshot, at the end of the call, they can view the snapshot in the mobile device gallery and/or Microsoft Teams text chat. 
+6. If the technician successfully saved the snapshot, at the end of the call, they can view the snapshot in the mobile device gallery and/or Microsoft Teams text chat. 
 
-8. If the technician is a Dynamics 365 Field Service customer and saved their snapshot to the text chat, after the call ends, the technician can post their snapshot(s) to an associated work order and view the snapshot there. [Learn more about Dynamics 365 Field Service integration](./fs-integration.md).
+7. If the technician is a Dynamics 365 Field Service customer and saved their snapshot to the text chat, after the call ends, the technician can post their snapshot(s) to an associated work order and view the snapshot there. [Learn more about Dynamics 365 Field Service integration](./fs-integration.md).
 
     ![Screenshot of snapshots on Field Service work order.](./media/12.png "Field Service")
 
