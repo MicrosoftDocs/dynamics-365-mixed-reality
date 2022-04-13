@@ -3,7 +3,7 @@ title: Making calls with AR in Dynamics 365 Remote Assist mobile
 author: amaraanigbo
 description: Making calls from Dynamics 365 Remote Assist mobile with AR support 
 ms.author: soanigbo
-ms.date: 07/06/2021
+ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -45,20 +45,25 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
 
    ![Screenshot of Dynamics 365 Remote Assist mobile showing the Launch Call button.](./media/select-collaborator.PNG)
 
-   If the remote collaborator answers the call on **Dynamics 365 Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen. The following screen shot shows the technician's screen on the left and the remote collaborator's screen on the right.
+   If the remote collaborator answers the call on **Dynamics 365 Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen. 
 
-   ![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/remote-assist-mobile-both-share.PNG)
+    |Technician|Remote collaborator|
+    |------------------------------------------------|------------------------------------------------|
+    |![Screenshot of technician's mobile app screen with live video feed.](./media/technician-5.jpg)|![Screenshot of remote collaborator's mobile app screen with live video feed.](./media/remote-collaborator-5.jpg)| 
 
-   If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen. The following screen shot shows the technician's screen on the left and the remote collaborator's screen on the right.
+   If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen. 
 
+    |Technician|Remote collaborator|
+    |----------------------------------|--------------------------------------------------------------------|
+    |![Screenshot of technician's mobile app screen with live video feed again.](./media/technician-6.jpg)|![Screenshot of remote collaborator's Teams desktop screen with live video feed.](./media/remote-collaborator-desktop-6.jpg)| 
 
-   ![Screenshot of a Dynamics 365 Remote Assist mobile to Microsoft Teams call.](./media/remote-assist-mobile-teams-desktop-share.PNG)
+5. The technician can use the call controls toolbar to switch between a video call or audio-only call, mute or unmute their microphone, turn their speaker on or off, or end the call. 
 
-5. The technician can use the call controls toolbar to disable the video call (enter an audio-only call), mute themselves in a call, turn on their speakers, or end the call. 
-
-   ![Screenshot of the call controls toolbar.](./media/mobile-app-call-controls-toolbar.PNG)
-
-6. During the call, both call participants can place mixed-reality annotations in the shared environment, capture and annotate snapshots, share files, record the call, and more.
+   ![Screenshot of the call controls toolbar.](./media/call-controls-1.jpg)
+   
+   Selecting the **More** button from the call controls toolbar enables the technician to add participants, share their space and annotations, share their screen, or record the call.
+    
+    ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar with More button highlighted and opened.](./media/call-controls-more-menu.jpg)
 
 ## See also
 

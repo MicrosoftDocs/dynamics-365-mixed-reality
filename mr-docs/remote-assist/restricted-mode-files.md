@@ -3,7 +3,7 @@ title: Restrict the ability to access OneDrive files in Dynamics 365 Remote Assi
 author: amaraanigbo
 description: Learn how to restrict the ability to access OneDrive files in Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 01/27/2022
+ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -60,4 +60,5 @@ When you restrict the ability to access OneDrive files:
 - [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
 - [Restrict calling and the ability to search and access contacts](restricted-mode-calling.md)
 - [Restrict the ability to access asset records](restricted-mode-assets.md)
+- [Restrict the ability to sign out of the HoloLens app](restricted-mode-signout.md)
 
