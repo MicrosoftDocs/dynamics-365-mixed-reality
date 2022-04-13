@@ -32,7 +32,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 
 3.	When the technician and remote collaborator are finished annotating the snapshot, the technician selects the **Check mark** button.  
 
-    ![Screenshot of the check mark.](./media/snapshot4.png "Check Mark")
+    ![Screenshot showing highlighted Check mark button.](./media/2D-snapshot-4.jpg "Screenshot showing highlighted Check mark button")
 
 4.	The technician is prompted to save the snapshot to the mobile device gallery, call chat, or both. 
 
