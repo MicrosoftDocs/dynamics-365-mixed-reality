@@ -70,11 +70,11 @@ The following table describes each of the buttons in the Teams desktop annotatio
 
 ## Add an annotation if you're a technician using Dynamics 365 Remote Assist mobile
 
-1. As the technician, you can place your annotations in your shared environment. The remote collaborator will see your annotations in real time on their device.
+- As the technician, you can place your annotations in your shared environment. The remote collaborator will see your annotations in real time on their device.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing an annotation.](./media/in-call-ram.png)
 
-## Adding annotations for remote collaborators in Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile calls
+## Add an annotation if you're a remote collaborator using Dynamics 365 Remote Assist mobile
 
 1. To add annotations, select **Start annotating**.    
 
