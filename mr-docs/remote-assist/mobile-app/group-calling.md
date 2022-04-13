@@ -34,7 +34,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
    ![Screenshot showing search for name.](./media/add-contact-gc.png "Search for Contact")
 
-   You can also view their name in the **Participants** pane contact list and see if they have joined the call.
+   You can also view their name in the **Participants** pane contact list to see if they have joined the call.
 
    ![Screenshot showing the view list.](./media/all-participants-list.png "View Contact List")
 
