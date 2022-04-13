@@ -53,7 +53,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 6. The technician returns to the video call and can continue to send snapshots to the expert.	
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing annotations on the snapshot on both screens.](./media/03.21-call-save-snapshot-saved.png "Annotate")  
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing annotations on the snapshot on both screens.](./media/low-bandwidth-4.jpg "Annotate")  
 
 > [!NOTE]
 > The low-bandwidth feature is not supported in group calling scenarios. 
