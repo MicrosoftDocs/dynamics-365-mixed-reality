@@ -102,7 +102,7 @@ The following table describes each of the buttons in the Teams desktop annotatio
 
     |Technician|Remote collaborator|
     |----------------------------------|--------------------------------------------------------------------|
-    |![Screenshot of technician's mobile app screen.](./media/technician-12.jpg)|![Screenshot of remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-12.jpg)|    
+    |![Screenshot of the technician's mobile app screen.](./media/technician-12.jpg)|![Screenshot of the remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-12.jpg)|    
 
 3. To stop adding annotations to the snapshot, select **Stop editing**. You'll return to the technician's live video feed and your annotations will automatically appear in the technician's environment.
 
