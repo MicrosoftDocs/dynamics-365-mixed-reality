@@ -18,7 +18,7 @@ During a Dynamics 365 Remote Assist mobile call, technicians can send chat messa
 
 1.	Select the **Text Chat** icon.
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/in-call-ram.png "Place Annotations")
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/text-chat-1.jpg "Place Annotations")
 
 2. In the text chat, technicians can send and receive text messages from experts on Microsoft Teams. Dynamics 365 Remote Assist mobile’s live video is not available while the technician is in the chat. 
 
