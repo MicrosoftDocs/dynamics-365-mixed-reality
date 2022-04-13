@@ -44,9 +44,7 @@ To determine where to start drawing:
 
 The annotation toolbar allows technicians to place arrows and drawings into their environment. The color picker changes the color of annotations. The **Undo** button allows technicians to remove the last annotation that they placed in their environment. The **Delete All** button allows technicians to remove all annotations that they placed in their environment (they cannot remove the expert's annotations).
 
-![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
-
-1. As the technician, you can place your annotations to your shared environment. The remote collaborator will see your annotations in real time on their device screens.
+1. As the technician, you can place your annotations in your shared environment. The remote collaborator will see your annotations in real time on their device.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing an annotation.](./media/in-call-ram.png)
 
