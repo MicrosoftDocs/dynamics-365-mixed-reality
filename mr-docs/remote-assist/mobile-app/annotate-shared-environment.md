@@ -94,19 +94,17 @@ The following table describes each of the buttons in the Teams desktop annotatio
 
 ## Add an annotation if you're a remote collaborator using Teams desktop
 
-1. The annotation toolbar allows remote collaborators to place Arrows and Drawings into their environment. The Color Picker changes the color of your annotations. The Undo icon allows remote collaborators to remove the last annotation that they placed in their environment. The **Delete All** button allows remote collaborators to remove all annotations that they placed in their environment (they cannot remove the technician’s annotations).
-
-2. To add annotations, you must select **Start editing**.
+1. To add annotations, select **Start editing**.
 
     ![Screenshot of the Start Editing option in the Microsoft Teams meeting toolbar.](./media/teams_2.png)
 
-3. You'll see a snapshot of the technician's environment. You can add your annotations to the snapshot.
+2. You'll see a snapshot of the technician's environment. You can add your annotations to the snapshot.
 
     |Technician|Remote collaborator|
     |----------------------------------|--------------------------------------------------------------------|
     |![Screenshot of technician's mobile app screen.](./media/technician-12.jpg)|![Screenshot of remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-12.jpg)|    
 
-4. To stop adding annotations to the snapshot, select **Stop editing**. You'll return to the technician's live video feed and your annotations will automatically appear in the technician's environment.
+3. To stop adding annotations to the snapshot, select **Stop editing**. You'll return to the technician's live video feed and your annotations will automatically appear in the technician's environment.
 
     ![Screenshot of a Microsoft Teams call window with emphasis on the stop editing button.](./media/teams_4.png)
 
