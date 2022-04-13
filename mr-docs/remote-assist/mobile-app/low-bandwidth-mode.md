@@ -45,7 +45,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 4. The technician takes a snapshot, which is shared to the remote expert's screen. The expert now sees a high-quality snapshot. The technician and expert can annotate simultaneously on the snapshot.
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the tooltip on mobile that prompts the technician to share a snapshot.](./media/03.16-call-snapshot-active.png "Tool Tip") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the tooltip on mobile that prompts the technician to share a snapshot.](./media/low-bandwidth-3.jpg "Tool Tip") 
  
 5. After sharing a snapshot, the technician can save it to the mobile device's photo gallery or call chat, or can discard it. 
 
