@@ -42,7 +42,7 @@ To determine where to start drawing:
 
 ## Annotating for technicians using Dynamics 365 Remote Assist mobile
 
-The annotation toolbar allows technicians to place arrows and drawings into their environment. The color picker changes the color of annotations. The **Undo** button allows technicians to remove the last annotation that they placed in their environment. The **Delete All** button allows technicians to remove all annotations that they placed in their environment (they cannot remove the expert's annotations).
+The annotation toolbar allows technicians to place arrows and drawings in their environment. The color picker changes the color of annotations. The **Undo** button allows technicians to remove the last annotation that they placed in their environment. The **Delete All** button allows technicians to remove all annotations that they placed in their environment (they cannot remove the expert's annotations).
 
 1. As the technician, you can place your annotations in your shared environment. The remote collaborator will see your annotations in real time on their device.
 
