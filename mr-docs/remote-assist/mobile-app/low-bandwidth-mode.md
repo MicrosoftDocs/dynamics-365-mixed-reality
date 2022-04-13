@@ -33,7 +33,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 1. The technician launches a video call with a remote expert.
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, launching a call.](./media/03.07-call-ink.png "Launch Call") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, launching a call.](./media/low-bandwidth-1.jpg "Launch Call") 
 
 2. In the call, Dynamics 365 Remote Assist mobile autodetects if the technician is experiencing poor network conditions. If so, the technician is prompted to use the **Snapshot** tool to share images with the remote expert. 
 
