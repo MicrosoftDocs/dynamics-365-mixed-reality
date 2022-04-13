@@ -22,7 +22,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 
     ![Screenshot of the snapshot icon in Dynamics 365 Remote Assist mobile.](./media/snapshot1.png "Snapshot Icon")
 
-    A **red border** appears on the technician's mobile app screen to indicate that they're in Snapshot mode. The snapshot is automatically shared to the remote collaborator's screen on Microsoft Teams.
+    A **red border** appears on the technician's mobile app screen to indicate that the app is in Snapshot mode. The snapshot is automatically shared to the remote collaborator's screen on Microsoft Teams.
 
     ![Screenshot of the snapshot icon with the red border.](./media/snapshot2.png "Red Border")
 
