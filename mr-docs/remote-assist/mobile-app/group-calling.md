@@ -89,7 +89,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
 - During a group call, all call participants can send chat messages and share files with each other. 
 
-- A group call can be recorded and uploaded through Microsoft OneDrive for Business or SharePoint. Any call participant can start the call recording. 
+- A group call can be recorded and uploaded to Microsoft OneDrive for Business or SharePoint. Any call participant can start the call recording. 
 
 ## FAQ
 
