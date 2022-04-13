@@ -22,7 +22,7 @@ This article describes details about the **current wave of features (April 2022 
 |Restrict users from signing out of the HoloLens app|[Restrict users from signing out of the HoloLens app](restricted-mode-signout.md)|
 |Adjusting outgoing video on a call to lower HoloLens device temperature |[How Dynamics 365 Remote Assist adjusts HoloLens device temperature](hololens-thermal-adjusting.md)|
 |New voice commands for navigating app settings and managing windows|[Voice commands for Dynamics 365 Remote Assist on HoloLens](voice-commands-hololens.md)|
-|Turn off ability to send files through Microsoft Teams policy|[Microsoft Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md#file-sharing-policies)|
+|Use Microsoft Teams policy to turn off ability to send files|[Microsoft Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md#file-sharing-policies)|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
