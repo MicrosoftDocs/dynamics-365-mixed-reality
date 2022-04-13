@@ -35,7 +35,7 @@ The following table describes each of the buttons in the mobile app annotation t
 
 ### Teams desktop app
 
-If you're the remote collaborator on Teams desktop, you'll see the following annotation toolbar.
+If you're the remote collaborator and you're using Teams desktop, you'll see the following annotation toolbar.
 
 ![Screenshot of the Teams desktop annotation toolbar.](./media/teams-desktop-annotation-toolbar.jpg "Screenshot of the Teams desktop annotation toolbar")
 
