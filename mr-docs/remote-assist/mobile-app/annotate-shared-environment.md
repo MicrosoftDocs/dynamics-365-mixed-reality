@@ -44,9 +44,10 @@ The following table describes each of the buttons in the Teams desktop annotatio
 |Button|Description|
 |--------|-----------------------------------------------|
 |![Screenshot of the Arrow button.](./media/arrow-button.jpg "Screenshot of the Arrow button")|Add an arrow|
-|![Screenshot of the xxx.](./media/color-picker-button.jpg "Screenshot of the xxx")||
-|![Screenshot of the xx.](./media/undo-button.jpg "Screenshot of the xxx")||
-|![Screenshot of the xxx.](./media/delete-all-annotations-button.jpg "Screenshot of the xxxn")||
+|![Screenshot of the Ink button.](./media/ink-button.jpg "Screenshot of the Ink button")|Add ink|
+|![Screenshot of the Color picker button.](./media/color-picker-button.jpg "Screenshot of the Color picker button")|Pick a color|
+|![Screenshot of the Undo button.](./media/undo-button.jpg "Screenshot of the Undo button")|Undo the last action|
+|![Screenshot of the Delete all annotations button.](./media/delete-all-annotations-button.jpg "Screenshot of Delete all annotations button")|Delete all annotations|
 
 ### Add arrow annotation 
 
