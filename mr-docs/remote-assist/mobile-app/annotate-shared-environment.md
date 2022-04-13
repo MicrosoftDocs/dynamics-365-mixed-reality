@@ -55,7 +55,7 @@ The annotation toolbar allows technicians to place arrows and drawings into thei
     > [!TIP]
     > To delete annotations you added during this editing session, select **Delete All**.
 
-    ![Remote collaborator on RAM single screen.](./media/share-annotations-3.jpg "RAM Remote Collaborator")
+    ![Remote collaborator on RAM single screen.](./media/share-annotation-3.jpg "RAM Remote Collaborator")
 
 2. You will view a **snapshot** of the technician's environment and then you can add your annotations onto the snapshot.
 
