@@ -70,7 +70,7 @@ The following table describes each of the buttons in the Teams desktop annotatio
 
 ## Add an annotation if you're a technician using Dynamics 365 Remote Assist mobile
 
-- As the technician, you can place your annotations in your shared environment. The remote collaborator will see your annotations in real time on their device.
+- As a technician, you can place annotations in your shared environment. The remote collaborator will see your annotations in real time on their device.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing an annotation.](./media/in-call-ram.png)
 
@@ -81,7 +81,8 @@ The following table describes each of the buttons in the Teams desktop annotatio
     ![Remote collaborator on RAM single screen.](./media/share-annotation-3.jpg "RAM Remote Collaborator")
     
     > [!TIP]
-    > To delete all annotations you add during an editing session, select **Delete All**.
+    > To delete all annotations you add during an editing session, select the 
+    ![Delete all annotations button.](./media/delete-all-annotations-button.jpg "Delete all annotations button") button.
 
 2. You'll see a snapshot of the technician's environment. You can add your annotations to that snapshot.
 
