@@ -20,7 +20,7 @@ Call recording is only available for one-to-one or group calls in Dynamics 365 R
 
 The following chart explains which call participant can initiate a call recording in each type of call with a Dynamics 365 Remote Assist mobile user:
 
-| In a...  |Can a Dynamics 365 Remote Assist mobile user record?     |Can a Dynamics 365 Remote Assist HoloLens user record?     | Can a Teams desktop user record? |  Can a Teams mobile user record?  |  
+| Call type|Can a Dynamics 365 Remote Assist mobile user record?     |Can a Dynamics 365 Remote Assist HoloLens user record?     | Can a Teams desktop user record? |  Can a Teams mobile user record?  |  
 |---|---|---|---|---|
 |  One-to-one call |  Yes |  Yes |  Yes | Yes |
 |  Group call |  Yes | Yes | Yes | N/A - calling scenario not currently supported |  
