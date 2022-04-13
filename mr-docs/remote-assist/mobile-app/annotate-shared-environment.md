@@ -50,9 +50,7 @@ The following table describes each of the buttons in the Teams desktop annotatio
 |![Screenshot of the Undo button.](./media/undo-button.jpg "Screenshot of the Undo button")|Undo the last action|
 |![Screenshot of the Delete all annotations button.](./media/delete-all-annotations-button.jpg "Screenshot of Delete all annotations button")|Delete all annotations|
 
-### Add arrow annotation 
-
-To position the arrow: 
+### Add an arrow annotation 
 
 1. Make sure the arrow is selected in the annotation toolbar. 
 
@@ -64,11 +62,11 @@ To position the arrow:
 
 4. To rotate the arrow, tap and drag the arrow in a circular motion (360 degrees).
 
-### Add ink annotation 
+### Add an ink annotation 
 
 1. Make sure the **Ink** tool is selected in the annotation toolbar.
  
-2. Tap and drag on the screen to start drawing. 
+2. Tap and drag on your screen to start drawing. 
 
 ## Add an annotation if you're a technician using Dynamics 365 Remote Assist mobile
 
