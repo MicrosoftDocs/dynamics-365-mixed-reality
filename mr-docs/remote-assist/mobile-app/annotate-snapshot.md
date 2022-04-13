@@ -14,7 +14,7 @@ Snapshots are critical in situations where a still image might help communicate 
 
 Dynamics 365 Remote Assist mobile users can capture and annotate snapshots of their environment during a call. Users can then save the snapshot to their mobile device gallery, the in-call text chat, or both.
 
-If the technician is using Dynamics 365 Field Service, [snapshots can also be posted to an associated Dynamics 365 Field Service work order](./fs-integration.md).
+If the technician is using Dynamics 365 Field Service, they can also [post snapshots to an associated Dynamics 365 Field Service work order](./fs-integration.md).
 
 ## How it works
 
