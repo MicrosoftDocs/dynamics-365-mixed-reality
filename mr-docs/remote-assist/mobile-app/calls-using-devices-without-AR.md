@@ -88,15 +88,15 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
     > [!NOTE]
     > Annotations added on a still snapshot will *not* appear in the technician's environment after they have been saved or discarded.
 
-13. Both the technician and remote collaborator can send and receive messages and files from their local device in the text chat. [Learn more about file sharing](./file-sharing.md).
+13. Both the technician and remote collaborator can send and receive messages and files from their local device in the text chat. [Learn more about file sharing](./file-sharing.md)
 
     ![Screenshot showing the text chat in Dynamics 365 Remote Assist mobile.](./media/06.21-chat-doc.png)
 
-14. Both the technician and remote collaborator can record the one-to-one Dynamics 365 Remote Assist call as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft OneDrive or SharePoint and the link to the recording will be sent to the Microsoft Teams text chat. [Learn more about call recording](./call-recording.md).
+14. Both the technician and remote collaborator can record the one-to-one Dynamics 365 Remote Assist call as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft OneDrive or SharePoint and the link to the recording will be sent to the Microsoft Teams text chat. [Learn more about call recording](./call-recording.md)
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the meeting recording appearing in text chat.](./media/11b.png)
 
-15. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. [Learn more about Dynamics 365 Field Service integration(./fs-integration.md).
+15. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. [Learn more about Dynamics 365 Field Service integration](./fs-integration.md)
 
     ![Screenshot of Dynamics 365 Remote Assist mobile when integrated with Field Service.](./media/12.png "Field Service")
 
