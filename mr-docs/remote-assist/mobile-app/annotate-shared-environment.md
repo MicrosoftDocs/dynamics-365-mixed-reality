@@ -34,10 +34,11 @@ To position the arrow:
 
 ### Add ink annotation 
 
-To determine where you start drawing:
+To determine where to start drawing:
 
-- Make sure the ink pen is selected in the annotation toolbar. 
-- Tap and drag on the screen to start drawing 
+1. Make sure the ink pen is selected in the annotation toolbar.
+ 
+2. Tap and drag on the screen to start drawing. 
 
 ## Annotating for technicians using Dynamics 365 Remote Assist mobile
 
