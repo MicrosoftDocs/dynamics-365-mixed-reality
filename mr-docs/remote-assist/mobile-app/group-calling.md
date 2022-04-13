@@ -51,7 +51,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
    If there are multiple presenters, you can choose which shared space to view by selecting the participant's name in the **Participants** pane contact list.
 
    > [!NOTE] 
-   > On the **Participants** pane, the presenter icon in **blue** shows you which participant's space you are currently viewing. The presenter icon in **white** shows you which participants who are currently sharing their space. You may choose to switch to another participant who is sharing their space.  
+   > In the **Participants** pane, the blue presenter icon shows which participant's space you are currently viewing. The white presenter icon shows other participants that are sharing their space. You can switch to another participant's space.  
 
    ![Screenshot showing add contact.](./media/all-participants-list.png "Add Contact")
 
