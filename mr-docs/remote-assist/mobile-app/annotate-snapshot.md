@@ -28,7 +28,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 
 2. Both the technician and remote collaborator can place 2D annotations on the snapshot. 
 
-    ![Screenshot of annotated snapshot.](./media/snapshot4.png "Screenshot of annotated snapshot")
+    ![Screenshot of annotated snapshot.](./media/2D-snapshot-3.jpg "Screenshot of annotated snapshot")
 
 3.	When the technician and remote collaborator are finished annotating the snapshot, the technician selects the **Check mark** button.  
 
