@@ -25,8 +25,7 @@ If you select the down arrow next to the active tool button, the tool drops down
 The following table describes each of the buttons in the annotation toolbar.
 
 |Button|Description|
-|--------|-----------------------------------------------|
-|
+|--------|-----------------------------------------------||
 ![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/active-tool-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")
 ||
 |
