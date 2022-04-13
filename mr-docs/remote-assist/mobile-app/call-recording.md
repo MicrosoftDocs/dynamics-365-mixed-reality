@@ -31,9 +31,9 @@ The following chart explains which call participant can initiate a call recordin
 
     ![Screenshot of Dynamics 365 Remote Assist mobile with More button and Start recording command highlighted.](./media/call-recording-1.jpg)
 
-2. The technician will receive privacy notification with Microsoft’s privacy policy and the call recording will begin. The notification can be dismissed.
+2. The technician receives a privacy notification with Microsoft’s privacy policy and a notice tha call recording will begin. The notification can be dismissed.
 
-    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the notification that recording has started message.](./media/recorder_2.png)
+    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the notification that recording has started message.](./media/call-recording-2.jpg)
 
 3. During all parts of the call, the technician can see that the call recording is in progress as seen in the **call recording indicator** in the text chat.
 
