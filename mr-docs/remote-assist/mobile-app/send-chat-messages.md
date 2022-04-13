@@ -33,7 +33,7 @@ Technicians on Dynamics 365 Remote Assist mobile can send chat messages to remot
 
 ## Send a chat message (remote collaborators) 
 
-- In the text chat on Microsoft Teams, remote collaborators can send and receive text messages from technicians on Dynamics 365 Remote Assist mobile.
+- Remote collaborators on Microsoft Teams can send text messages to technicians on Dynamics 365 Remote Assist mobile and receive messages from them.
 
     ![Screenshot of Microsoft Teams, highlighting the chat window open during an active call.](./media/chat_5.png "Teams Chat")
 
