@@ -18,6 +18,15 @@ In Dynamics 365 Remote Assist mobile, mixed reality annotations give technicians
 
 ![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
 
+The following table describes each of the buttons in the annotation toolbar.
+
+|Button|Description|
+|--------|-----------------------------------------------|
+|SCREENSHOT GOES HERE||
+|SCREENSHOT GOES HERE||
+|SCREENSHOT GOES HERE||
+|SCREENSHOT GOES HERE||
+
 ### Add arrow annotation 
 
 To position the arrow: 
