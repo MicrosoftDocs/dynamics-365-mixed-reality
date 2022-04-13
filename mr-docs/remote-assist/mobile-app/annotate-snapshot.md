@@ -10,11 +10,11 @@ ms.reviewer: v-bholmes
 
 # Capture and annotate snapshots in Dynamics 365 Remote Assist mobile 
 
-Snapshots are critical in situations where a still image might help communicate what a technician is looking at. Placing 2D annotations on snapshots provides emphasis on specific elements in the technician's environment. These snapshots can be used later for reference or work validation, and can help in low-bandwidth scenarios where live video isn't possible or on devices without AR support. [Learn more about using snapshots in low-bandwidth scenarios](./poor-network-connectivity.md) and on [devices without AR support](./calls-using-devices-without-AR.md). 
+Snapshots are critical in situations where a still image might help communicate what a technician is looking at. Placing 2D annotations on snapshots provides emphasis on specific elements in the technician's environment. These snapshots can be used later for reference or work validation, and can help in low-bandwidth scenarios where live video isn't possible or on devices without AR support. [Learn more about using snapshots in low-bandwidth scenarios](./poor-network-connectivity.md) and on [devices without augmented reality support](./calls-using-devices-without-AR.md). 
 
-Dynamics 365 Remote Assist mobile users can capture and annotate snapshots of their environment during a call. Users can then save or discard the snapshot. Specifically, users can save snapshots to their mobile device's photo gallery, the in-call text chat, or both.
+Dynamics 365 Remote Assist mobile users can capture and annotate snapshots of their environment during a call. Users can then save the snapshot to their mobile device gallery, the in-call text chat, or both.
 
-If the technician is a Dynamics 365 Field Service customer, snapshots can also be posted to an associated work order. Learn more [here](./fs-integration.md).
+If the technician is using Dynamics 365 Field Service, [snapshots can also be posted to an associated Dynamics 365 Field Service work order](./fs-integration.md).
 
 ## How it works
 
