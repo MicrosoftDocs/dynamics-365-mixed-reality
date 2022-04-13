@@ -91,7 +91,7 @@ The following table describes each of the buttons in the Teams desktop annotatio
 
 3. To stop adding annotations to the snapshot, select the **Check mark** button. You'll return to the technician's live video feed and your annotations will automatically appear in the technician's environment.
 
-## Adding annotations for remote collaborators in Dynamics 365 Remote Assist mobile to Teams desktop or mobile calls
+## Add an annotation if you're a remote collaborator using Teams desktop
 
 1. The annotation toolbar allows remote collaborators to place Arrows and Drawings into their environment. The Color Picker changes the color of your annotations. The Undo icon allows remote collaborators to remove the last annotation that they placed in their environment. The **Delete All** button allows remote collaborators to remove all annotations that they placed in their environment (they cannot remove the technician’s annotations).
 
