@@ -41,7 +41,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 3. The technician is instructed to use the **Snapshot** tool.
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the Poor Network notification and the Share Snapshot option on the mobile device screen.](./media/03.15-call-snapshot-teach.png "Share") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the Poor Network notification and the Share Snapshot option on the mobile device screen.](./media/low-bandwidth-2.jpg "Share") 
 
 4. The technician takes a snapshot, which is shared to the remote expert's screen. The expert now sees a high-quality snapshot. The technician and expert can annotate simultaneously on the snapshot.
 
