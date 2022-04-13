@@ -18,15 +18,16 @@ Technicians on Dynamics 365 Remote Assist mobile can send chat messages to remot
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/send-chat-messages-1.jpg "Place Annotations")
 
-2. Use the keyboard to compose the message. The Dynamics 365 Remote Assist mobile live video is not available during the chat. 
+2. Use the keyboard to compose the message, and then select the **Send** button when ready. The Dynamics 365 Remote Assist mobile live video is not available during the chat. 
 
     ![Screenshot of Dynamics 365 Remote Assist mobile, showing the text chat window with a couple of messages as an example.](./media/chat_2.png "Send text")
 
-3. To exit out of the text chat, select the **Back** button.
+   > [!NOTE]
+   > To exit the text chat, select the **Back** button.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile in the chat window, highlighting the arrow button that lets you exit the chat.](./media/chat_3.png "Exit chat")
 
-4. Technicians will return directly back to the live video feed.
+  Technicians return directly back to the live video feed after sending the message.
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/send-chat-messages-1.jpg "Place Annotations")
 
