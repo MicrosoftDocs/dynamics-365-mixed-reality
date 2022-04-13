@@ -20,7 +20,7 @@ If you're using the Dynamics 365 Remote Assist mobile app, you'll see the follow
 
 ![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar.](./media/mobile-app-annotation-toolbar.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar")
 
-If you select the down arrow next to the active tool button, the tool drops down to reveal the **Arrow** tool. 
+If you select the down arrow next to the left-most button (the active tool), the button drops down. 
 
 ![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/mobile-app-annotation-toolbar-dropped-down.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")
 
