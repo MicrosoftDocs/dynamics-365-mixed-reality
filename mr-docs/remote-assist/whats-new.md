@@ -46,7 +46,7 @@ This article describes details about the **current wave of features (April 2022 
 - Fix for the video recording owner displayed in the text chat 
 - Fix for the Recent contacts list not always appearing
 - Update for the Third-Party Software links in the application 
-- UI improvements for the ellipsis (More) menu 
+- User interface improvements for the **More** (ellipsis) menu 
 
 > [!TIP]
 > Looking for a list of features from earlier waves? Go to [Version history for Dynamics 365 Remote Assist](version-history.md).
