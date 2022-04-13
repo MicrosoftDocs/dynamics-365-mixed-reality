@@ -56,6 +56,6 @@ Let's take a quick look at what happens in a field scenario when a technician en
     ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing annotations on the snapshot on both screens.](./media/low-bandwidth-4.jpg "Annotate")  
 
 > [!NOTE]
-> The low-bandwidth feature is not supported in group calling scenarios. 
+> The low-bandwidth feature is not supported in group-calling scenarios. 
 
 
