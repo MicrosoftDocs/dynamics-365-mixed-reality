@@ -55,7 +55,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
    ![Screenshot showing add contact.](./media/all-participants-list.png "Add Contact")
 
-3. You can stop sharing your space by selecting !["More environment actions."](media/ellipsis.png "More environment actions") > **Stop sharing**. You will be taken to an audio call. 
+3. To stop sharing your space, select !["More environment actions."](media/ellipsis.png "More environment actions") > **Stop sharing**. You'll switch to an audio-only call. 
 
    ![Screenshot showing stop presenting option.](./media/stop-presenting-button.png)
 
