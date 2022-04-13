@@ -27,9 +27,9 @@ The following chart explains which call participant can initiate a call recordin
 
 ## How it works
 
-1. The technician selects the record button to **start** the call recording.
+1. The technician selects the **More** (ellipsis) button, and then selects **Start recording**.
 
-    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the record button.](./media/rec_1.PNG)
+    ![Screenshot of Dynamics 365 Remote Assist mobile with More button and Start recording command highlighted.](./media/call-recording-1.jpg)
 
 2. The technician will receive privacy notification with Microsoft’s privacy policy and the call recording will begin. The notification can be dismissed.
 
