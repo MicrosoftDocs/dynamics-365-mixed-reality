@@ -32,7 +32,7 @@ The following table describes each of the buttons in the mobile app annotation t
 |![Screenshot of Ink button.](./media/active-tool-button.jpg "Screenshot of Ink button")|Add ink (draw).|
 |![Screenshot of Color picker button.](./media/color-picker-button.jpg "Screenshot of Color picker button")|Select a color for the annotation.|
 |![Screenshot of Undo button.](./media/undo-button.jpg "Screenshot of Undo button")|Undo the last annotation that you placed in your environment.|
-|![Screenshot of Delete all button.](./media/delete-all-annotations-button.jpg "Screenshot of Delete all button")|Delete all of the annotations that you placed in your environment. Note that you can't delete annotations placed by the remote collaborator.|
+|![Screenshot of Delete all button.](./media/delete-all-annotations-button.jpg "Screenshot of Delete all button")|Delete all annotations that you placed in your environment. Note that you can't delete annotations placed by the remote collaborator.|
 
 ### Teams desktop app
 
