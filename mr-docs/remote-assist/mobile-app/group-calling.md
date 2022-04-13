@@ -40,7 +40,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
 5. Return to the live video feed to continue collaborating with all call participants.
 
-## Sharing your space and viewing other users' shared space
+## Sharing your space and viewing other shared spaces
 
 ### On Dynamics 365 Remote Assist mobile
 
