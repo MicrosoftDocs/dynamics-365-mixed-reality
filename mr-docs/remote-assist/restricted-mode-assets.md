@@ -3,7 +3,7 @@ title: Restrict the ability to access asset records in Dynamics 365 Remote Assis
 author: amaraanigbo
 description: Learn how to restrict the ability to access asset records in Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 01/27/2022
+ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -85,3 +85,4 @@ Next, you'll remove permissions to access asset records from the default role, a
 - [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
 - [Restrict calling and the ability to search and access contacts](restricted-mode-calling.md)
 - [Restrict the ability to access OneDrive files](restricted-mode-files.md)
+- [Restrict the ability to sign out of the HoloLens app](restricted-mode-signout.md)

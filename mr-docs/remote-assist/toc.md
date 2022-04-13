@@ -19,6 +19,7 @@
 #### [Send text messages](send-texts-hololens.md)
 #### [Join a meeting](join-meeting-hololens.md)
 #### [Calls in low-bandwidth situations](hololens-low-bandwidth.md)
+#### [How Remote Assist automatically adjusts HoloLens temperature](hololens-thermal-adjusting.md)
 ### [Add annotations](add-annotations-hololens.md)
 ### Capture photos, videos, and asset conditions
 #### [Take a photo and save to OneDrive or Field Service booking](take-snapshot-save-booking-hololens.md)
@@ -83,6 +84,7 @@
 #### [Restrict calling and contacts](restricted-mode-calling.md)
 #### [Restrict ability to access OneDrive files](restricted-mode-files.md)
 #### [Restrict ability to access asset records](restricted-mode-assets.md)
+#### [Restrict ability to sign out of HoloLens](restricted-mode-signout.md)
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
 ### [Version history](version-history.md)

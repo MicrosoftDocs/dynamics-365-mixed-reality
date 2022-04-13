@@ -3,7 +3,7 @@ title: Make calls in Dynamics 365 Remote Assist on HoloLens
 author: amaraanigbo
 description: Make calls with someone inside or outside your organization in Dynamics 365 Remote Assist on HoloLens
 ms.author: soanigbo
-ms.date: 01/11/2022
+ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -107,6 +107,10 @@ If you join the call, remote collaborators will be able to see what you see in y
 ## End a call
 
 - Select **End Call** (![Graphic showing the end call icon.](media/end-call.jpg)), or say "Remote Assist, End Call."
+
+## Adjusting outgoing video quality if the HoloLens device gets too hot
+
+If you're on a longer call in Dynamics 365 Remote Assist for HoloLens, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and wi-fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Remote Assist adjusts video quality](hololens-thermal-adjusting.md)
 
 ### Learn more 
 - [Group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop](./mobile-app/group-calling.md).
