@@ -10,16 +10,16 @@ ms.reviewer: v-bholmes
 
 # Group calls with Dynamics 365 Remote Assist mobile
 
-Many problems often require more than one specialist from around the world with different knowledge domains. Having multiple perspectives on a problem is crucial in providing technicians with the ability to accurately resolve problems. With the ability to join Dynamics 365 Remote Assist mobile calls with three or more participants, technicians can collaborate with more than one specialist for guidance, validation, or knowledge sharing purposes.
+Many problems often require more than one specialist from around the world with different knowledge sets. Having multiple perspectives on a problem is crucial in providing technicians with the ability to accurately resolve problems. With the ability for three or more participants to join Dynamics 365 Remote Assist mobile calls, technicians can collaborate with more than one specialist for guidance, validation, or knowledge-sharing purposes.
 
-A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call, and any call participant can add someone to the call. During a group call, there can be any combination at least three or more participants using Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, or Microsoft Teams desktop. For instance, there can be two users on Dynamics 365 Remote Assist mobile and one user on Teams desktop, or two users on Dynamics 365 Remote Assist mobile and two users on Teams desktop.
+A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. Any call participant can add someone to the call. During a group call, there can be any combination of at least three or more participants using Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, or Microsoft Teams desktop. For example, there can be two users on Dynamics 365 Remote Assist mobile and one user on Teams desktop, or two users on Dynamics 365 Remote Assist mobile and two users on Teams desktop.
 
 > [!NOTE]
-> Dynamics 365 Remote Assist mobile does **not** support group calls with Teams mobile at this time. The Teams mobile user can join the group call, but will not be able to add mixed reality annotations in the shared environment.
+> Dynamics 365 Remote Assist mobile does not support group calls with Teams mobile at this time. The Teams mobile user can join the group call, but will not be able to add mixed-reality annotations in the shared environment.
 
-## Viewing + adding call participants
+## Viewing and adding call participants
 
-1. In a one-to-one call with a remote collaborator, a Dynamics 365 Remote Assist mobile user can add more participants to the call by selecting the ![Screenshot showing more environment actions.](media/ellipsis.png "More environment actions") > **Participants**.   
+1. In a one-to-one call with a remote collaborator, a Dynamics 365 Remote Assist mobile user can add more participants to the call by selecting ![Screenshot showing more environment actions.](media/ellipsis.png "More environment actions") > **Participants**.   
 
    ![Screenshot showing select participants command.](./media/group-calling-add-participants.jpg "Screenshot showing select participants command")
    
@@ -61,9 +61,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call, a
 
 ### On Remote Assist HoloLens
 
-1. You can **only** share your environment to all call participants on Remote Assist mobile, Remote Assist HoloLens, or Teams desktop.
-
-   ![RAM-HL view space.](./media/hololens-spectator-ram.png "Remote Assist mobile-HoloLens share space")
+- You can **only** share your environment to all call participants on Remote Assist mobile, Remote Assist HoloLens, or Teams desktop.
 
 ### On Teams desktop
 
