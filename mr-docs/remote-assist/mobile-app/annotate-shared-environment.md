@@ -63,7 +63,7 @@ The annotation toolbar allows technicians to place arrows and drawings into thei
      |------------------------------------------------|------------------------------------------------|
      |![Screenshot of technician's mobile app screen.](./media/technician-11.jpg)|![Screenshot of remote collaborator's mobile app screen.](./media/remote-collaborator-11.jpg)| 
 
-3. To stop adding annotations to the snapshot, you must select **Check Mark**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
+3. To stop adding annotations to the snapshot, select the **Check mark** button. You'll return to the technician's live video feed and your annotations will automatically appear in the technician's environment.
 
 ## Adding annotations for remote collaborators in Dynamics 365 Remote Assist mobile to Teams desktop or mobile calls
 
