@@ -44,7 +44,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
 ### On Dynamics 365 Remote Assist mobile
 
-1. You can view other Dynamics 365 Remote Assist mobile users' spaces when they start sharing them. Select **Switch view** or **Dismiss**.
+1. You can view other Dynamics 365 Remote Assist mobile users' spaces when they start sharing. Select **Switch view** to view their space.
 
    ![Screenshot showing view others' space.](./media/notif-started-sharing.png "View others' space")
 
