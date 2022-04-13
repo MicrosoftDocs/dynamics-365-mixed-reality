@@ -14,18 +14,32 @@ In Dynamics 365 Remote Assist mobile, mixed reality annotations give technicians
 
 ## Learn the annotation tools
 
-### Annotation toolbar
+If you're using the Dynamics 365 Remote Assist mobile app, you'll see the following annotation toolbar.
 
-![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
+![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar.](./media/mobile-app-annotation-toolbar.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar")
+
+If you select the down arrow next to the active tool button, the tool drops down to reveal the **Arrow** tool. 
+
+![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/mobile-app-annotation-toolbar-dropped-down.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")
 
 The following table describes each of the buttons in the annotation toolbar.
 
 |Button|Description|
 |--------|-----------------------------------------------|
-|SCREENSHOT GOES HERE||
-|SCREENSHOT GOES HERE||
-|SCREENSHOT GOES HERE||
-|SCREENSHOT GOES HERE||
+|
+![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/active-tool-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")
+||
+|
+![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/color-picker-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")
+||
+|
+![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/undo-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")
+E||
+|
+![Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down.](./media/delete-all-annotations-button.jpg "Screenshot of the Dynamics 365 Remote Assist mobile annotation toolbar dropped down")
+||
+
+![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
 
 ### Add arrow annotation 
 
