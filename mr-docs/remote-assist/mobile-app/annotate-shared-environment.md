@@ -75,9 +75,11 @@ The annotation toolbar allows technicians to place arrows and drawings in their 
 
     ![Screenshot of the Start Editing option in the Microsoft Teams meeting toolbar.](./media/teams_2.png)
 
-3. You will view a **snapshot** of the technician's environment and then you can add your annotations onto the snapshot.
+3. You'll see a snapshot of the technician's environment. You can add your annotations to the snapshot.
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-teams-remote-collab.png "Place Annotations")
+    |Technician|Remote collaborator|
+    |----------------------------------|--------------------------------------------------------------------|
+    |![Screenshot of technician's mobile app screen.](./media/technician-12.jpg)|![Screenshot of remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-12.jpg)|    
 
 4. To stop adding annotations to the snapshot, you must select **Stop editing**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
 
