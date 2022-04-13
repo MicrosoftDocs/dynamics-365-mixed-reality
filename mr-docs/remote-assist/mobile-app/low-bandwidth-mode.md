@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Use the Dynamics 365 Remote Assist mobile app in low-bandwidth situations
 
-Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians might experience difficulty troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote collaborators even in low bandwidth scenarios.
+Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth up/down of 1.5 Mbps or higher), technicians might experience difficulty troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist mobile gives technicians the ability to discuss, diagnose, and resolve issues with remote collaborators even in low-bandwidth scenarios.
 
 > [!IMPORTANT]
 > To use the low-bandwidth feature, you must turn on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
@@ -25,7 +25,7 @@ Poor network connectivity is determined by the following conditions:
 
 - The packet loss is higher than 10 percent
 
-Dynamics 365 Remote Assist mobile **autodetects** if the technician is experiencing poor network conditions. If so, the technician is prompted to **share snapshots** with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate images of better quality, instead of a low-quality video feed.
+Dynamics 365 Remote Assist mobile **autodetects** if the technician is experiencing poor network conditions. If so, the technician is prompted to share snapshots with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate better-quality images, instead of a low-quality video feed.
 
 ## How it works
 
@@ -47,7 +47,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the tooltip on mobile that prompts the technician to share a snapshot.](./media/low-bandwidth-3.jpg "Tool Tip") 
  
-5. After sharing a snapshot, the technician can save it to the mobile device's photo gallery or call chat, or can discard it. 
+5. After sharing a snapshot, the technician can save it to the the photo gallery or call chat, or can discard it. 
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the snapshot on both screens.](./media/03.19-call-save-snapshot-dialog-selected.png "Expert-side Snapshot") 
 
