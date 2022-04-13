@@ -18,7 +18,7 @@ Technicians on Dynamics 365 Remote Assist mobile can send chat messages to remot
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/send-chat-messages-1.jpg "Place Annotations")
 
-2. Use the keyboard to compose the message. Dynamics 365 Remote Assist mobile’s live video is not available while the technician is in the chat. 
+2. Use the keyboard to compose the message. The Dynamics 365 Remote Assist mobile live video is not available during the chat. 
 
     ![Screenshot of Dynamics 365 Remote Assist mobile, showing the text chat window with a couple of messages as an example.](./media/chat_2.png "Send text")
 
