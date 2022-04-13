@@ -34,7 +34,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 
     ![Screenshot of the check mark.](./media/snapshot4.png "Check Mark")
 
-4.	The technician is prompted to save the snapshot to the mobile device gallery, text chat, or both. 
+4.	The technician is prompted to save the snapshot to the mobile device gallery, call chat, or both. 
 
     ![Screenshot of saving on snapshots.](./media/snapshot6a.png "Save snapshot")
 
