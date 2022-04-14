@@ -3,7 +3,7 @@ title: Learn more about the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 author: amaraanigbo
 description: Overview, enablement and feature details for the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 ms.author: soanigbo
-ms.date: 03/14/2022
+ms.date: 04/14/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -29,7 +29,10 @@ To have access to the Calls Dashboard, you must have:
 
 2. Access to the environment that Dynamics 365 Remote Assist is installed in, with the **Remote Assist - Administrator** security role assigned to you.
 
-3. [Enable the Power BI **Azure Maps visual**](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
+3. [Enable the Power BI Azure Maps visual](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
+
+    > [!IMPORTANT]
+    > Due to European (GDPR) regulations, this step only applies to customers with deployments outside of European (GDPR) environments. Enabling the Power BI Azure Maps visual will not enable the map for European environments. 
 
 ## Enabling the Calls Dashboard
 
@@ -50,6 +53,9 @@ To have access to the Calls Dashboard, you must have:
 - The dashboard is built on Microsoft Power BI. It may take some time for the dashboard to get provisioned.
 
 - If you see an error message that says "Map visuals aren't enabled for your org", you need to [enable the Power BI Azure Maps visual](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). [Learn more about Power BI visuals admin settings](/power-bi/admin/organizational-visuals)
+
+    > [!NOTE]
+    > This error message only appears for customers with deployments outside of European (GDPR) environments. 
 
 - The following regions do not support logging in the Calls Dashboard: GCC, GCCH, FA, ZAF, UAE, and GER. For more information, see the following links:
 
