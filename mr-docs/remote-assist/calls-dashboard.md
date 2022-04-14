@@ -29,7 +29,7 @@ To have access to the Calls Dashboard, you must have:
 
 2. Access to the environment that Dynamics 365 Remote Assist is installed in, with the **Remote Assist - Administrator** security role assigned to you.
 
-3. [Enable the Power BI **Azure Maps visual**](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
+3. [Enable the Power BI Azure Maps visual](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
 
     > [!IMPORTANT]
     > Due to European (GDPR) regulations, this step only applies to customers with deployments outside of European (GDPR) environments. Enabling the Power BI Azure Maps visual will not enable the map for European environments. 
