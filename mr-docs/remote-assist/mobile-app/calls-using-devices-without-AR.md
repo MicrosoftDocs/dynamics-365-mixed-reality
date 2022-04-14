@@ -30,7 +30,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 3. When you dismiss the notification, you'll see the **Contacts** page.
 
-   ![Screenshot of theDynamics 365 Remote Assist mobile contacts screen.](./media/2b.png "Contacts")
+   ![Screenshot of theDynamics 365 Remote Assist mobile contacts screen.](./media/no-ar-2.jpg "Contacts")
 
 4. Select the remote collaborator's name, and then select **Launch call**.   
 
