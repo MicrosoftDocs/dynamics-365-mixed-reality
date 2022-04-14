@@ -28,7 +28,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
 2. Select **+ Participants** in the top right corner of the screen.
 
-   ![Screenshot showing add contact button.](./media/add-participants-button.png "Add Contact")
+   ![Screenshot showing add contact button.](./media/group-calls-1.jpg "Add Contact")
 
 3. Search for the remote collaborator's name, and then select their name to add them to your call. You can wait to see if they have joined or declined the call with these loading notifications: **Connecting...** > **In call** or **Declined**.
 
