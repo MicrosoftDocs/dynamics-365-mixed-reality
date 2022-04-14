@@ -18,7 +18,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 
 ## How it works
 
-1. The technician, who is using Dynamics 365 Remote Assist mobile, selects the **Snapshot** button to snap a photo. 
+1. The technician selects the **Snapshot** button to snap a photo. 
 
     ![Screenshot with snapshot button highlighted.](./media/2D-snapshot-1.jpg "Screenshot with snapshot button highlighted")
 
