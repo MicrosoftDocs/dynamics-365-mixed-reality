@@ -167,7 +167,7 @@ negatively affected.
     - If you have trouble detecting an anchor that you provide, try to adjust the anchor's image brightness so that it matches the average environmental brightness around the 
     anchor.
 
-[Learn more about best practices for QR code detection](https://docs.microsoft.com/windows/mixed-reality/develop/advanced-concepts/qr-code-tracking-overview#best-practices-for-qr-code-detection)
+[Learn more about best practices for QR code detection](/windows/mixed-reality/develop/advanced-concepts/qr-code-tracking-overview#best-practices-for-qr-code-detection)
 
 ## What's next?
 

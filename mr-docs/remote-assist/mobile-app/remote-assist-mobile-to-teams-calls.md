@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams
 
-Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve issues with remote specialists or collaborators using Microsoft Teams desktop or the Teams mobile app. Both call participants can place mixed-reality annotations in each other's space to collaborate effectively. 
+Technicians using Microsoft Dynamics 365 Remote Assist mobile can diagnose and resolve issues with remote specialists or collaborators using Microsoft Teams desktop or the Teams mobile app. Both call participants can place mixed-reality annotations in each other's space to collaborate effectively. 
 
 > [!NOTE]
 > This article shows how to make a one-to-one call between a Dynamics 365 Remote Assist mobile user and a Teams desktop or mobile user. [Learn about group calls with at least two Teams users](group-calling.md).
@@ -30,16 +30,16 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 
 2. Search for the remote collaborator's name.
 
-    ![Screenshot of Dynamics 365 Remote Assist mobile, showing the contacts screen and highlighting the search icon.](./media/calls_2.png "Search")
+    ![Screenshot of Dynamics 365 Remote Assist mobile, showing the contacts screen and highlighting the search icon.](./media/ram-to-teams-search-collaborator.jpg "Search")
 
 3. Select the remote collaborator's name, and then select **Launch Call**.
 
-    ![Screenshot of Dynamics 365 Remote Assist mobile showing the Launch Call button.](./media/calls_3.png)
+    ![Screenshot of Dynamics 365 Remote Assist mobile showing the Launch Call button.](./media/ram-to-teams-launch-call.jpg)
     
      > [!NOTE]
     > If Dynamics 365 Remote Assist Mobile and Teams mobile are both installed on the same device, [learn where incoming call notifications are received](remote-assist-mobile-to-teams-calls.md#What-happens-when-Dynamics-365-Remote-Assist-mobile-and-Teams-mobile-are-installed-on-the-same-device).
 
-4. If the remote collaborator answers the call on **Teams desktop or mobile**, the technician's live video feed is shared with the remote collaborator's device screen.
+4. If the remote collaborator answers the call on Teams desktop or Teams mobile, the technician's live video feed is shared with the remote collaborator's device screen.
 
     |Technician|Remote collaborator|
     |----------------------------------|--------------------------------------------------------------------|
