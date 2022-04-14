@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Dynamics 365 Remote Assist mobile calls on mobile devices without augmented reality support
 
-Microsoft Dynamics 365 Remote Assist mobile makes conducting repairs and remote inspections easy by providing technicians with the ability to launch one-to-one and group video calls with remote collaborators inside or outside of their organization, even if users have mobile devices **without** ARCore or ARKit support.
+Microsoft Dynamics 365 Remote Assist mobile makes conducting repairs and remote inspections easy by providing technicians with the ability to launch one-to-one and group video calls with remote collaborators inside or outside of their organization, even if users have mobile devices without ARCore or ARKit support.
 
 Due to limitations of mobile devices without ARCore or ARKit support, technicians and remote collaborators cannot provide instructions using 3D annotations on a live video feed. Technicians can share their live video feed of their environment and both technicians and remote collaborators can provide instructions on **snapshots** using 2D annotations. Learn about the [snapshot feature capabilities](./annotate-snapshot.md).
 
