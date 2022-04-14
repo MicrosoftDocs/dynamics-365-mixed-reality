@@ -37,7 +37,7 @@ Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a on
 
    ![Screenshot showing the view list.](./media/group-calls-3.jpg "View Contact List")
 
-4. Return to the live video feed to continue collaborating with all call participants.
+4. Return to the live video feed to continue collaborating with call participants.
 
 ## Sharing your space and viewing other shared spaces
 
