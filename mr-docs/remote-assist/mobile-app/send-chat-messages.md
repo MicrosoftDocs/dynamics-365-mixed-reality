@@ -14,7 +14,7 @@ Technicians on Dynamics 365 Remote Assist mobile can send chat messages to remot
 
 ## Send a chat message (technicians)
 
-1.	Select the **Text chat** button.
+1.	Select the **Chat** button.
 
     ![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/send-chat-messages-1.jpg "Place Annotations")
 
