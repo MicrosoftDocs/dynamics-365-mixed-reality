@@ -51,7 +51,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
 6. When the remote collaborator starts sharing their space, the technician can view the remote collaborator's space by selecting **Switch view**.
 
-    ![Screenshot showing notification that someone is sharing.](./media/notif-started-sharing.png "View others' space")
+    ![Screenshot showing notification that someone is sharing.](./media/ram-to-ram-switch-view.jpg "View others' space")
 
 7. Either call participant can place annotations directly in the shared environment (their own environment) or by selecting **Start annotating**. 
 
