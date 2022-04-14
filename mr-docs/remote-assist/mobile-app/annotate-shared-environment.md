@@ -72,7 +72,7 @@ The following table describes each of the buttons in the Teams desktop annotatio
 
 - As a technician, you can place annotations in your shared environment. The remote collaborator will see your annotations in real time on their device.
 
-    ![Screenshot of Dynamics 365 Remote Assist mobile showing an annotation.](./media/in-call-ram.png)
+    ![Screenshot of Dynamics 365 Remote Assist mobile showing an annotation.](./media/technician-11.jpg)
 
 ## Add an annotation if you're a remote collaborator using Dynamics 365 Remote Assist mobile
 
