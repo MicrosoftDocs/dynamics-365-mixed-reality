@@ -43,7 +43,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
     |Technician|Remote collaborator|
     |------------------------------------------------|------------------------------------------------|
-    |![Screenshot of technician's mobile app screen.](./media/technician-7.jpg)|![Screenshot of remote collaborator's mobile app screen.](./media/remote-collaborator-7.jpg)|  
+    |![Screenshot of technician's mobile app screen with live video feed.](./media/technician-7.jpg)|![Screenshot of remote collaborator's mobile app screen with live video feed.](./media/remote-collaborator-7.jpg)|  
 
    > [!NOTE]
    > Technicians can't place mixed-reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
@@ -52,7 +52,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
    
    |Technician|Remote collaborator|
    |----------------------------------|--------------------------------------------------------------------|
-   |![Screenshot of technician's mobile app screen.](./media/technician-8.jpg)|![Screenshot of remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-8.jpg)|  
+   |![Screenshot of technician's mobile app screen the live video feed.](./media/technician-8.jpg)|![Screenshot of remote collaborator's Teams desktop screen with the live video feed.](./media/remote-collaborator-desktop-8.jpg)|  
 
    > [!NOTE]
    > Technicians can't place mixed-reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
@@ -67,13 +67,13 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
    |Technician|Remote collaborator|
    |------------------------------------------------|------------------------------------------------|
-   |![Screenshot of technician's mobile app screen.](./media/technician-9.jpg)|![Screenshot of remote collaborator's mobile app screen.](./media/remote-collaborator-9.jpg)|  
+   |![Screenshot of technician's mobile app screen with frozen frame.](./media/technician-9.jpg)|![Screenshot of remote collaborator's mobile app screen with frozen frame.](./media/remote-collaborator-9.jpg)|  
 
    If the remote collaborator is using Teams desktop, when the technician selects the **Snapshot** button, the technician enters Snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. Both the technician and the remote collaborator see the mixed-reality toolbar and can place 2D annotations on the frozen frame of the technician's environment.
 
    |Technician|Remote collaborator|
    |----------------------------------|--------------------------------------------------------------------|
-   |![Screenshot of technician's mobile app screen.](./media/technician-10.jpg)|![Screenshot of remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-10.jpg)| 
+   |![Screenshot of technician's mobile app screen with the frozen fram.](./media/technician-10.jpg)|![Screenshot of remote collaborator's Teams desktop screen with the frozen frame.](./media/remote-collaborator-desktop-10.jpg)| 
 
 8. After the technician and remote collaborator are finished annotating the snapshot, the technician selects the **Check mark** button to save or discard the snapshot.
 
