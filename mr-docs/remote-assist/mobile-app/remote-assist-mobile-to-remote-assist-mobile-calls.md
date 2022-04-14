@@ -43,7 +43,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
      |Technician|Remote collaborator|
      |------------------------------------------------|------------------------------------------------|
-     |![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/technician-toolbar.jpg)|![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/remote-collaborator-toolbar.jpg)|    
+     |![Screenshot of the technician's mobile app call.](./media/technician-toolbar.jpg)|![Screenshot of the remote collaborator's mobile app call.](./media/remote-collaborator-toolbar.jpg)|    
 
 5. If the remote collaborator wants to share their own environment, the remote collaborator can select the **More** button, and then select **Start sharing space and annotations**.
 
@@ -60,7 +60,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
      |Technician|Remote collaborator|
      |------------------------------------------------|------------------------------------------------|
-     |![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/technician-toolbar-2.jpg)|![Screenshot of Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile call.](./media/remote-collaborator-2-toolbar.jpg)|  
+     |![Screenshot of the technician's mobile app screen.](./media/technician-toolbar-2.jpg)|![Screenshot of the remote collaborator's mobile app screen showing the Start annotating command.](./media/remote-collaborator-2-toolbar.jpg)|  
 
 8. The technician can use the call controls toolbar to change between a video call and audio-only call, mute or unmute their microphone, turn the speaker on or off, or end the call. 
 
