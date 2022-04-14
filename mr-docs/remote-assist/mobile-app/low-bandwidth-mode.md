@@ -25,7 +25,7 @@ Poor network connectivity is determined by the following conditions:
 
 - The packet loss is higher than 10 percent
 
-Dynamics 365 Remote Assist mobile **autodetects** if the technician is experiencing poor network conditions. If so, the technician is prompted to share snapshots with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate better-quality images, instead of a low-quality video feed.
+Dynamics 365 Remote Assist mobile autodetects if the technician is experiencing poor network conditions. If so, the technician is prompted to share snapshots with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate better-quality images, instead of a low-quality video feed.
 
 ## How it works
 
@@ -37,7 +37,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 2. In the call, Dynamics 365 Remote Assist mobile autodetects if the technician is experiencing poor network conditions. If so, the technician is prompted to use the **Snapshot** tool to share images with the remote expert. 
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions.](./media/03.14-call-low-bandwidth-dialog.png "Detection") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions.](./media/low-bandwidth-5.jpg "Detection") 
 
 3. The technician is instructed to use the **Snapshot** tool.
 
@@ -49,7 +49,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
  
 5. After sharing a snapshot, the technician can save it to the device gallery, call chat, or both. 
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the snapshot on both screens.](./media/03.19-call-save-snapshot-dialog-selected.png "Expert-side Snapshot") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the snapshot on both screens.](./media/low-bandwidth-6.jpg "Expert-side Snapshot") 
 
 6. The technician returns to the video call and can continue to send snapshots to the expert.	
 

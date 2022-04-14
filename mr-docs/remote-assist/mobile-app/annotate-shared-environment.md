@@ -12,6 +12,9 @@ ms.reviewer: v-bholmes
 
 In Dynamics 365 Remote Assist mobile, mixed-reality annotations give technicians and remote collaborators the power to visually specify an area or a particular asset in their environment to look at or manipulate. During a Dynamics 365 Remote Assist mobile video call, the technician shares their environment with the remote collaborator through their rear-facing camera. The technician can instantly place mixed-reality annotations in the shared environment. The remote collaborator  places mixed-reality annotations on a snapshot of the technician's shared environment. 
 
+> [!NOTE]
+> Android devices that have a time-of-flight (ToF) sensor and support the [Depth API](https://developers.google.com/ar/discover/supported-devices) and iOS devices that have a LiDAR sensor [(see LiDAR sensor in the tables listed for iOS and iPadOS devices)](https://en.wikipedia.org/wiki/List_of_iOS_and_iPadOS_devices) are likely to have better accuracy with annotation placement.
+
 ## Learn the annotation tools
 
 ### Mobile app
@@ -72,7 +75,7 @@ The following table describes each of the buttons in the Teams desktop annotatio
 
 - As a technician, you can place annotations in your shared environment. The remote collaborator will see your annotations in real time on their device.
 
-    ![Screenshot of Dynamics 365 Remote Assist mobile showing an annotation.](./media/in-call-ram.png)
+    ![Screenshot of Dynamics 365 Remote Assist mobile showing an annotation.](./media/technician-11.jpg)
 
 ## Add an annotation if you're a remote collaborator using Dynamics 365 Remote Assist mobile
 
