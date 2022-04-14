@@ -17,7 +17,7 @@ A group call in Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 > [!NOTE]
 > Dynamics 365 Remote Assist mobile does not support group calls on Teams mobile at this time. The Teams mobile user can join the group call, but can't add mixed-reality annotations in the shared environment.
 
-## Viewing and adding call participants
+## View and add call participants
 
 1. In a one-to-one call with a remote collaborator, a Dynamics 365 Remote Assist mobile user can add more participants to the call by selecting ![Screenshot showing more environment actions.](media/ellipsis.png "More environment actions") > **Participants**.   
 
