@@ -16,6 +16,9 @@ Snapshots are critical in situations where a still image might help communicate 
 
 If the technician is using Dynamics 365 Field Service, they can also [post snapshots to an associated Dynamics 365 Field Service work order](./fs-integration.md).
 
+> [!NOTE
+> Android devices that have a time-of-flight (ToF) sensor and support the [Depth API](https://developers.google.com/ar/discover/supported-devices) and iOS devices that have a LiDAR sensor [(see LiDAR sensor in the tables listed for iOS and iPadOS devices)](https://en.wikipedia.org/wiki/List_of_iOS_and_iPadOS_devices) are likely to have better accuracy with annotation placement.
+
 ## How it works
 
 1. The technician selects the **Snapshot** button to snap a photo. 
