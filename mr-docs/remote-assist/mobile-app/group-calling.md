@@ -64,9 +64,9 @@ Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a on
 
 ### On Teams desktop
 
-- You can only view the shared space of Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users. 
+- You can **view** the shared space of Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users. 
 
-## Adding and receiving annotations
+## Add and receive annotations
 
 ### On Dynamics 365 Remote Assist mobile
 
