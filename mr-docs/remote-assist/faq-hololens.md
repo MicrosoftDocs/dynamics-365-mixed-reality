@@ -108,9 +108,9 @@ Holograms are always going to be most stable **when your head (not your eyes) is
 
 To improve hologram stability, complete eye calibration. 
 
-- To complete eye calibration on HoloLens, [manually start the calibration process]( /hololens/hololens-calibration#calibrating-your-hololens-1st-gen).
+- To complete eye calibration on HoloLens, [manually start the calibration process](/hololens/hololens-calibration#calibrating-your-hololens-1st-gen).
 
-- HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration]( /hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
+- HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration](/hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
 
 ## Multiple people in my organization use Dynamics 365 Remote Assist on the same HoloLens. How do I clean my HoloLens?
 
