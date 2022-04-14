@@ -21,7 +21,7 @@ A group call in Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
 Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a one-to-one call.
 
-1. In a one-to-one call with a remote collaborator, a Dynamics 365 Remote Assist mobile user can add more participants to the call by selecting ![Screenshot showing more environment actions.](media/ellipsis.png "More environment actions") > **Participants**.   
+1. Select ![Screenshot showing more environment actions.](media/ellipsis.png "More environment actions") > **Participants**.   
 
    ![Screenshot showing select participants command.](./media/group-calling-add-participants.jpg "Screenshot showing select participants command")
 
