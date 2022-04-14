@@ -73,30 +73,30 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
    |----------------------------------|--------------------------------------------------------------------|
    |![Screenshot of technician's mobile app screen.](./media/technician-10.jpg)|![Screenshot of remote collaborator's Teams desktop screen.](./media/remote-collaborator-desktop-10.jpg)| 
 
-9. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **Check mark** button to save or discard the snapshot.
+8. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **Check mark** button to save or discard the snapshot.
 
-10. The technician is prompted to discard the snapshot or save it to the device gallery, call chat, or both. The technician then selects **Save**.
+9. The technician is prompted to discard the snapshot or save it to the device gallery, call chat, or both. The technician then selects **Save**.
 
     ![Screenshot showing the save snapshot option on Dynamics 365 Remote Assist mobile.](./media/7a.png)
 
-11. If the technician successfully saves the snapshot to the call chat, the snapshot can be viewed in the Dynamics 365 Remote Assist mobile text chat and the Microsoft Teams text chat.
+10. If the technician successfully saves the snapshot to the call chat, the snapshot can be viewed in the Dynamics 365 Remote Assist mobile text chat and the Microsoft Teams text chat.
 
     ![Screenshot showing the saved snapshot in Dynamics 365 Remote Assist mobile's text chat.](./media/06.20-chat-image-portrait.png)
 
-12. The technician is then taken back to the live video call and can select the **Snapshot** button again to take more snapshots.
+11. The technician is then taken back to the live video call and can select the **Snapshot** button again to take more snapshots.
 
     > [!NOTE]
     > Annotations added on a still snapshot will *not* appear in the technician's environment after they have been saved or discarded.
 
-13. Both the technician and remote collaborator can send and receive messages and files from their local device in the text chat. [Learn more about file sharing](./file-sharing.md)
+12. Both the technician and remote collaborator can send and receive messages and files from their local device in the text chat. [Learn more about file sharing](./file-sharing.md)
 
     ![Screenshot showing the text chat in Dynamics 365 Remote Assist mobile.](./media/06.21-chat-doc.png)
 
-14. Both the technician and remote collaborator can record the one-to-one Dynamics 365 Remote Assist call as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft OneDrive or SharePoint and the link to the recording will be sent to the Microsoft Teams text chat. [Learn more about call recording](./call-recording.md)
+13. Both the technician and remote collaborator can record the one-to-one Dynamics 365 Remote Assist call as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft OneDrive or SharePoint and the link to the recording will be sent to the Microsoft Teams text chat. [Learn more about call recording](./call-recording.md)
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the meeting recording appearing in text chat.](./media/11b.png)
 
-15. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. [Learn more about Dynamics 365 Field Service integration](./fs-integration.md)
+14. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. [Learn more about Dynamics 365 Field Service integration](./fs-integration.md)
 
     ![Screenshot of Dynamics 365 Remote Assist mobile when integrated with Field Service.](./media/12.png "Field Service")
 
