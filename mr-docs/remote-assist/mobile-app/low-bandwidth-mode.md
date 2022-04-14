@@ -49,7 +49,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
  
 5. After sharing a snapshot, the technician can save it to the device gallery, call chat, or both. 
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the snapshot on both screens.](./media/03.19-call-save-snapshot-dialog-selected.png "Expert-side Snapshot") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the snapshot on both screens.](./media/low-bandwidth-6.jpg "Expert-side Snapshot") 
 
 6. The technician returns to the video call and can continue to send snapshots to the expert.	
 
