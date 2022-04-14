@@ -32,7 +32,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
     ![Screenshot of Dynamics 365 Remote Assist mobile, showing the contacts screen and highlighting the search icon.](./media/ram-to-ram-search-collaborator.jpg "Search")
 
-3. Select the remote collaborator's name, and then select **Launch call**.
+3. Select the remote collaborator's name, and then select **Launch Call**.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the Launch Call button.](./media/ram-to-ram-launch-call.jpg)
 
