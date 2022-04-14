@@ -58,29 +58,29 @@ Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a on
 
    ![Screenshot showing stop presenting option.](./media/group-calls-6.jpg)
 
-### On Dynamics 365 Remote Assist HoloLens
+### Dynamics 365 Remote Assist HoloLens
 
 - You can share your environment with call participants on Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, or Teams desktop.
 
-### On Teams desktop
+### Teams desktop
 
 - You can **view** the shared space of Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users. 
 
 ## Add and receive annotations
 
-### On Dynamics 365 Remote Assist mobile
+### Dynamics 365 Remote Assist mobile
 
 - You can add mixed-reality annotations to the shared space of other Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users. 
 
 - You can receive mixed-reality annotations from Dynamics 365 Remote Assist mobile and Teams desktop users. 
 
-### On Dynamics 365 Remote Assist HoloLens 
+### Dynamics 365 Remote Assist HoloLens 
 
 - You can add mixed-reality annotations in your own environment. 
 
 - You can receive mixed-reality annotations from Dynamics 365 Remote Assist mobile and Teams desktop users. 
 
-### On Teams desktop
+### Teams desktop
 
 - You can add mixed-reality annotations to Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users' shared space. 
 
