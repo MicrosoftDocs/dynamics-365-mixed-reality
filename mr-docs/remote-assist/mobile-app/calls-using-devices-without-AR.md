@@ -34,7 +34,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 4. Select the remote collaborator's name, and then select **Launch call**.   
 
-   ![Screenshot of the Dynamics 365 Remote Assist mobile video card.](./media/3a.png "Screenshot of the Dynamics 365 Remote Assist mobile video card")
+   ![Screenshot of the Dynamics 365 Remote Assist mobile video card.](./media/no-ar-launch-call.jpg "Screenshot of the Dynamics 365 Remote Assist mobile video card")
    
    > [!NOTE]
    > If the remote collaborator receives the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities.
