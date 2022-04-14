@@ -37,7 +37,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can diagnose and r
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the Launch Call button.](./media/ram-to-teams-launch-call.jpg)
     
      > [!NOTE]
-    > If Dynamics 365 Remote Assist Mobile and Teams mobile are both installed on the same device, [learn where incoming call notifications are received](remote-assist-mobile-to-teams-calls.md#What-happens-when-Dynamics-365-Remote-Assist-mobile-and-Teams-mobile-are-installed-on-the-same-device).
+    > If Dynamics 365 Remote Assist Mobile and Teams mobile are both installed on the same device, [learn where incoming call notifications are received](remote-assist-mobile-to-teams-calls.md#what-happens-when-dynamics-365-remote-assist-mobile-and-teams-mobile-are-installed-on-the-same-device).
 
 4. If the remote collaborator answers the call on Teams desktop or Teams mobile, the technician's live video feed is shared with the remote collaborator's device screen.
 
