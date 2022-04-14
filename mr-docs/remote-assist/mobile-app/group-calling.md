@@ -43,7 +43,7 @@ Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a on
 
 ### On Dynamics 365 Remote Assist mobile
 
-1. You can view other Dynamics 365 Remote Assist mobile users' spaces when they start sharing. Select **Switch view** to view their space.
+1. When another user shares their space, select **Switch view**.
 
    ![Screenshot showing view others' space.](./media/group-calls-4.jpg "View others' space")
 
