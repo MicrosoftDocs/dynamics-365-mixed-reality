@@ -36,8 +36,6 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
    ![Screenshot of the Dynamics 365 Remote Assist mobile video card.](./media/no-ar-launch-call.jpg "Screenshot of the Dynamics 365 Remote Assist mobile video card")
    
-   > [!NOTE]
-   > If the remote collaborator receives the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users have the same capabilities.
 
 5. If the remote collaborator answers the call on Dynamics 365 Remote Assist mobile, the technician's live video feed is shared to the remote collaborator's mobile app screen.
 
@@ -56,6 +54,8 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
    > [!NOTE]
    > Technicians can't place mixed-reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
+
+   If the remote collaborator receives the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users have the same capabilities.
 
 6. The technician is directed to use the snapshot feature to add 2D annotations on a frozen video frame of their shared environment.
 
