@@ -53,7 +53,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
    > [!NOTE] 
    > In the **Participants** pane, the blue presenter icon shows the participant's space that you're viewing. The white presenter icon indicates other participants that are sharing their spaces. You can switch to another participant's space.  
 
-   ![Screenshot showing add contact.](./media/all-participants-list.png "Add Contact")
+   ![Screenshot showing add contact.](./media/group-calls-5.jpg "Add Contact")
 
 2. To stop sharing your space, select !["More environment actions."](media/ellipsis.png "More environment actions") > **Stop sharing**. You'll switch to an audio-only call. 
 
