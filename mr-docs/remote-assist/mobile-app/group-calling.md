@@ -60,7 +60,7 @@ Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a on
 
 ### On Dynamics 365 Remote Assist HoloLens
 
-- You can only share your environment with all call participants on Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, or Teams desktop.
+- You can share your environment with call participants on Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, or Teams desktop.
 
 ### On Teams desktop
 
