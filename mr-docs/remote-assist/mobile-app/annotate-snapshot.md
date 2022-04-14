@@ -47,7 +47,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 
 7. If the technician is using Dynamics 365 Field Service and saved their snapshot to the text chat, after the call ends, the technician can post their snapshot(s) to an associated work order and view the snapshot there. [Learn more about Dynamics 365 Field Service integration](./fs-integration.md).
 
-    ![Screenshot of snapshots on Field Service work order.](./media/12.png "Field Service")
+    ![Screenshot of snapshots on Field Service work order.](./annotate-snapshots-2.jpg "Field Service")
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
