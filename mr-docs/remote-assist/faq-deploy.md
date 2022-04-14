@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Answers to common questions about deploying Microsoft Dynamics 365 Remote Assist.
 ms.author: soanigbo
-ms.date: 06/02/2021
+ms.date: 04/14/2022
 ms.topic: article
 title: Frequently asked questions for deploying Dynamics 365 Remote Assist 
 ms.reviewer: v-bholmes
@@ -12,9 +12,13 @@ ms.reviewer: v-bholmes
 
 Here are some answers to common questions about deploying Dynamics 365 Remote Assist on HoloLens, HoloLens 2, and mobile devices.
 
+### How do I enable map visualization on the Dynamics 365 Remote Assist Calls Dashboard?
+
+Map visualization is available in all regions except Europe. To enable map visualization, you must the Power BI Azure Maps visual. [Learn more about the Calls Dashboard](calls-dashboard.md).
+
 ## What are the technical requirements for deploying Dynamics 365 Remote Assist?
 
-Learn about the technical requirements [here](requirements.md).
+[Learn about technical requirements](requirements.md)
 
 ## Can I use Dynamics 365 Remote Assist to collaborate with a Microsoft Teams user outside my tenant, or vice versa?
 
