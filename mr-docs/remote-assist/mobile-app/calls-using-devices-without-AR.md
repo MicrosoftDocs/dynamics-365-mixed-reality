@@ -77,7 +77,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 9. The technician is prompted to discard the snapshot or save it to the device gallery, call chat, or both. The technician then selects **Save**.
 
-    ![Screenshot showing the save snapshot option on Dynamics 365 Remote Assist mobile.](./media/7a.png)
+    ![Screenshot showing the save snapshot option on Dynamics 365 Remote Assist mobile.](./media/no-ar-3.jpg)
 
 10. If the technician successfully saves the snapshot to the call chat, the snapshot can be viewed in the Dynamics 365 Remote Assist mobile text chat and the Microsoft Teams text chat.
 
