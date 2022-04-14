@@ -39,7 +39,7 @@ Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a on
 
 4. Return to the live video feed to continue collaborating with call participants.
 
-## Sharing your space and viewing other shared spaces
+## Share your space and view other shared spaces
 
 ### On Dynamics 365 Remote Assist mobile
 
