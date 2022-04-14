@@ -43,7 +43,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
     >[!NOTE] 
     > Annotations added to a snapshot do not appear in the technician's environment after the snapshot has been saved or discarded. 
 
-6. If the technician successfully saved the snapshot, at the end of the call, they can view the snapshot in the mobile device gallery and/or Microsoft Teams text chat. 
+6. If the technician successfully saves the snapshot, at the end of the call, the technician can view the snapshot in the mobile device gallery and/or Microsoft Teams text chat. 
 
 7. If the technician is using Dynamics 365 Field Service and saved their snapshot to the text chat, after the call ends, the technician can post their snapshot(s) to an associated work order and view the snapshot there. [Learn more about Dynamics 365 Field Service integration](./fs-integration.md).
 
