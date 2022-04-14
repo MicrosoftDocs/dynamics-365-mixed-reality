@@ -90,7 +90,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 12. Both the technician and remote collaborator can send and receive messages and files from their local device in the text chat. [Learn more about file sharing](./file-sharing.md)
 
-    ![Screenshot showing the text chat in Dynamics 365 Remote Assist mobile.](./media/06.21-chat-doc.png)
+    ![Screenshot showing the text chat in Dynamics 365 Remote Assist mobile.](./media/no-ar-5.jpg)
 
 13. Both the technician and remote collaborator can record the one-to-one Dynamics 365 Remote Assist call as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft OneDrive or SharePoint and the link to the recording will be sent to the Microsoft Teams text chat. [Learn more about call recording](./call-recording.md)
 
