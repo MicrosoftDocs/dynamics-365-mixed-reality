@@ -3,7 +3,7 @@ title: Group calls in Dynamics 365 Remote Assist mobile
 author: amaraanigbo
 description: Group calling in Dynamics 365 Remote Assist mobile, Microsoft Teams desktop, and Dynamics 365 Remote Assist on HoloLens users 
 ms.author: soanigbo
-ms.date: 04/13/2022
+ms.date: 04/14/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
