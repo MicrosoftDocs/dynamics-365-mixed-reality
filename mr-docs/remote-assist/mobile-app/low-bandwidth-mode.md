@@ -25,7 +25,7 @@ Poor network connectivity is determined by the following conditions:
 
 - The packet loss is higher than 10 percent
 
-Dynamics 365 Remote Assist mobile **autodetects** if the technician is experiencing poor network conditions. If so, the technician is prompted to share snapshots with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate better-quality images, instead of a low-quality video feed.
+Dynamics 365 Remote Assist mobile autodetects if the technician is experiencing poor network conditions. If so, the technician is prompted to share snapshots with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate better-quality images, instead of a low-quality video feed.
 
 ## How it works
 
