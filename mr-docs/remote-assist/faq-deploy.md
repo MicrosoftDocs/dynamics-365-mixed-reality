@@ -16,7 +16,7 @@ Here are some answers to common questions about deploying Dynamics 365 Remote As
 
 [Learn about technical requirements](requirements.md)
 
-### How do I enable map visualization on the Dynamics 365 Remote Assist Calls Dashboard?
+## How do I enable map visualization on the Dynamics 365 Remote Assist Calls Dashboard?
 
 Map visualization is available in all regions except Europe. To enable map visualization, you must [enable the Power BI Azure Maps visual](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). [Learn more about the Calls Dashboard](calls-dashboard.md).
 
