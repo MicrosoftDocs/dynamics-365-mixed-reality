@@ -46,7 +46,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
 1. You can view other Dynamics 365 Remote Assist mobile users' spaces when they start sharing. Select **Switch view** to view their space.
 
-   ![Screenshot showing view others' space.](./media/notif-started-sharing.png "View others' space")
+   ![Screenshot showing view others' space.](./media/group-calls-4.jpg "View others' space")
 
    If there are multiple presenters, you can choose which shared space to view by selecting the participant's name in the **Participants** pane contact list.
 
@@ -55,7 +55,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call. A
 
    ![Screenshot showing add contact.](./media/all-participants-list.png "Add Contact")
 
-3. To stop sharing your space, select !["More environment actions."](media/ellipsis.png "More environment actions") > **Stop sharing**. You'll switch to an audio-only call. 
+2. To stop sharing your space, select !["More environment actions."](media/ellipsis.png "More environment actions") > **Stop sharing**. You'll switch to an audio-only call. 
 
    ![Screenshot showing stop presenting option.](./media/stop-presenting-button.png)
 
