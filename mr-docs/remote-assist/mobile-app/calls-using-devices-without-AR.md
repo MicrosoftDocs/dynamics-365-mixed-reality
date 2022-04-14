@@ -26,7 +26,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 2. After you sign in, you'll receive a notification about using Dynamics 365 Remote Assist on a mobile device without augmented reality support.
 
-   ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, with the notification "your device doesn't support augmented reality, but that's ok".](./media/2a.png "AR Notification")
+   ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, with the notification "your device doesn't support augmented reality, but that's ok".](./media/no-ar-1 "AR Notification")
 
 3. When you dismiss the notification, you'll see the **Contacts** page.
 
