@@ -36,7 +36,7 @@ If the technician is using Dynamics 365 Field Service, they can also [post snaps
 
 4.	The technician is prompted to save the snapshot to the mobile device gallery, call chat, or both. 
 
-    ![Screenshot of saving on snapshots.](./media/snapshot6a.png "Save snapshot")
+    ![Screenshot of saving on snapshots.](./media/annotate-snapshots-1.jpg "Save snapshot")
 
 5. The technician automatically returns to the live video call and can select the **Snapshot** button again to take more snapshots. 
    
