@@ -21,7 +21,7 @@ Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCo
 ## Features
 
 - One-to-one and group video calling.
-- Add mixed reality annotations in space.
+- Add mixed-reality annotations in space.
 - Use asset capture in offline scenarios so that users can annotate, capture, and visualize images and videos of assets and store them in Common Data Service. 
 - Annotate on a 2D image capture, or snapshot, of the space during a call.
 - Send and receive messages, in-call snapshots, and files through the text chat.
