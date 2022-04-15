@@ -42,8 +42,8 @@ Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune'
 
 ## Videos
 
-- [Watch a technician use Dynamics 365 Remote Assist mobile on-site](https://www.youtube.com/watch?v=J-C6GE2gFYw&t=27s).
-- [Watch a live demo of Dynamics 365 Remote Assist mobile, from signing in to ending the call](https://www.youtube.com/watch?v=DQJWsCDNpb4&t=1s).
+- [Watch a technician use Dynamics 365 Remote Assist mobile on-site](https://www.youtube.com/watch?v=J-C6GE2gFYw&t=27s)
+- [Watch a live demo of Dynamics 365 Remote Assist mobile, from signing in to ending the call](https://www.youtube.com/watch?v=DQJWsCDNpb4&t=1s)
 
 ## See also
 
