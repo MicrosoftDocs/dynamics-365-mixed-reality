@@ -32,7 +32,7 @@ Use the guided tutorial to:
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the try it button.](./media/13.png "Try It")
 
    > [!TIP]
-   > If you're already signed in and want to start the tutorial, go to **Menu** > **Learn the Tools**. 
+   > If you're already signed in and want to start the tutorial, go to **Menu** > **Learn the tools**. 
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the Learn the Tools option in the menu.](./media/14b.png "Try Tools")
 
