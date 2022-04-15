@@ -18,7 +18,7 @@ The following table shows the type of calls supported on Dynamics 365 Remote Ass
 
 |Type of call|One-to-one calls|Group calls|
 |----------------------------------------------------------|------------------|--------------------|
-|Dynamics 365 Remote Assist mobile users|Yes|Yes|
+|Other Dynamics 365 Remote Assist mobile users|Yes|Yes|
 |Dynamics 365 Remote Assist HoloLens users|Yes|Yes|
 |Teams desktop users|Yes|Yes|
 |Teams mobile user|Yes|No|
