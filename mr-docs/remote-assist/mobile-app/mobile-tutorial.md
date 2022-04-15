@@ -80,10 +80,10 @@ Use the guided tutorial to:
 
 ## How to resolve error messages
 
-Throughout the tutorial or during the call, technicians may be prompted that they have "**lost tracking**" because Dynamics 365 Remote Assist has not adequately detected their surroundings or surfaces. In this case, technicians will be unable to place any mixed reality annotations until their surfaces are detected. Let's look at a few ways technicians can better track their environment.
+Throughout the tutorial or during the call, you may see a message that says you've lost tracking because Dynamics 365 Remote Assist has not adequately detected your surroundings or surfaces. In this case, you won't be able to place mixed-reality annotations until your surfaces are detected. Here are a few tips on to help you bettter track your environment.
 
 > [!NOTE]
-> Remote collaborators won't be able to place mixed reality annotations when the technician has lost tracking.
+> Remote collaborators won't be able to place mixed-reality annotations in your shared spaced if you lose tracking.
 
 1. Move your device from **side-to-side** to better detect your surroundings or surfaces.
 
