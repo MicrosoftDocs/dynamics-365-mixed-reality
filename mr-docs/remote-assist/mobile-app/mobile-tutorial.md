@@ -78,7 +78,7 @@ Use the guided tutorial to:
 - Transparent or reflective surfaces like glass
 - Dynamic or moving surfaces
 
-## More tips for better tracking
+## What happens if the app loses tracking?
 
 Throughout the tutorial or during a call, you may see a message that says you've lost tracking because Dynamics 365 Remote Assist has not adequately detected your surroundings or surfaces. In this case, you won't be able to place mixed-reality annotations until your surfaces are detected. Remote collaborators won't be able to place mixed-reality annotations in your shared spaced if you lose tracking. Here are a few tips to help you bettter track your environment.
 
