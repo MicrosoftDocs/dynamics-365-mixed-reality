@@ -37,7 +37,7 @@ By pairing the Microsoft Dynamics 365 Remote Assist mobile application with Dyna
 
     ![Screenshot of Dynamics 365 Remote Assist on a mobile device showing the list of items in the call log after the call has ended.](./media/postfs_1.png) 
 
-3. If active bookings have been assigned to the technician through Dynamics 365 Field Service, they'll appear in the list. The technician can select a booking, and then select **Post** to post it to the work order.
+3. If active bookings have been assigned to the technician through Dynamics 365 Field Service, they'll appear in the **Select a Booking** list. The technician can select a booking, and then select **Post** to post it to the work order.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing available bookings pulled in from Field Service.](./media/post_1.png "Select Booking")
 
