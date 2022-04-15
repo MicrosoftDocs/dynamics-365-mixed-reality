@@ -44,7 +44,7 @@ To capture and view assets you need:
     ![Take photo capture in Dynamics 365 Remote Assist Mobile.](./media/08.15-asset-capture-photo-mr.png "Take photo capture in Dynamics 365 Remote Assist Mobile")
 
     > [!NOTE]
-    > To switch to video capture view, select **Video**, and then tap the capture button to start the recording. The capture button will change and show a countdown timer from the maximum video length available. You can add further mixed-reality mark-up during the video capture. Tap the capture button again to stop recording.
+    > To switch to video capture view, select **Video**, and then tap the capture button to start the recording. The capture button will change and show a countdown timer from the maximum video length available. You can add further mixed-reality annotations during the video capture. Tap the capture button again to stop recording.
 
     ![Take video capture in Dynamics 365 Remote Assist Mobile.](./media/08.18-asset-capture-video-mr-recording.png "Take video capture in Dynamics 365 Remote Assist Mobile")
 
