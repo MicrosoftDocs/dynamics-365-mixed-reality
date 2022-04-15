@@ -22,7 +22,7 @@ The following table shows the type of calls supported on Dynamics 365 Remote Ass
 |Dynamics 365 Remote Assist HoloLens users|Yes|Yes|
 |Teams desktop users|Yes|Yes|
 |Teams mobile user|Yes|No|
-|Any combination of three or more Dynamics 365 Remote Assist mobile users, Dynamics 365 Remote Assist HoloLens users, or Teams desktop users|No|Yes| 
+|Any combination of three or more Dynamics 365 Remote Assist mobile users, Dynamics 365 Remote Assist HoloLens users, or Teams desktop users|NA|Yes| 
 
 > [!NOTE]
 > The following calling scenarios are not supported on Dynamics 365 Remote Assist mobile at this time:
