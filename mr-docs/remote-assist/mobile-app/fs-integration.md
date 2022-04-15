@@ -33,7 +33,7 @@ By pairing the Microsoft Dynamics 365 Remote Assist mobile application with Dyna
     If files, images, and/or snapshots are shared in the Dynamics 365 Remote Assist text chat, the technician will see a list with their call log and files, images, and snapshots that can be posted to the work order. To post everything, the field technician selects **Post All**.
 
     > [!Tip]
-    > To post the Dynamics 365 Remote Assist call recording to a work order, copy and paste the Microsoft Stream URL from the Microsoft Teams chat into the work order. Remember to adjust the Microsoft Stream permissions to allow access to others.
+    > To post the Dynamics 365 Remote Assist call recording to a work order, copy and paste the OneDrive for Business URL from the Microsoft Teams chat into the work order. Remember to adjust the OneDrive for Business permissions to allow access to others.
 
     ![Screenshot of Dynamics 365 Remote Assist on a mobile device showing the list of items in the call log after the call has ended.](./media/postfs_1.png) 
 
