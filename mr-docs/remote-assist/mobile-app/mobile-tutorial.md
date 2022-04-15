@@ -80,7 +80,9 @@ Use the guided tutorial to:
 
 ## What happens if the app loses tracking?
 
-Throughout the tutorial or during a call, you may see a message that says you've lost tracking because Dynamics 365 Remote Assist mobile can't adequately detect your surroundings or surfaces. In this case, you won't be able to place mixed-reality annotations until your surfaces are detected. Remote collaborators won't be able to place mixed-reality annotations in your shared spaced if you lose tracking. Here are a few tips to help you bettter track your environment.
+Throughout the tutorial or during a call, you may see a message that says you've lost tracking because Dynamics 365 Remote Assist mobile can't adequately detect your surroundings or surfaces. In this case, you won't be able to place mixed-reality annotations until your surfaces are detected and remote collaborators won't be able to place mixed-reality annotations in your shared space. 
+
+Here are a few tips to help you bettter track your environment:
 
 - Move your device from side-to-side to better detect your surroundings or surfaces.
 
