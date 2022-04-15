@@ -22,7 +22,7 @@ By pairing the Microsoft Dynamics 365 Remote Assist mobile application with Dyna
 
 ## Prerequisites
 
-- Complete the setup instructions for [Field Service and Dynamics 365 Remote Assist integration](). Learn how to set up the Dynamics 365 Field Service with Dynamics 365 Remote Assist mobile [here](../troubleshoot-field-service.md).
+- Complete the setup instructions for [Dynamics 365 Field Service integration](../troubleshoot-field-service.md). 
 
 ## How it works
 
