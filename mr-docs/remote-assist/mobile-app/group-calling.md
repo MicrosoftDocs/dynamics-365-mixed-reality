@@ -93,7 +93,7 @@ Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a on
 ## FAQ
 
 ### What is the difference between a group call and a meeting?
-A group call is a one-to-one call that call participants can add more participants to. A meeting is scheduled via Microsoft Teams or Outlook. At this time, Dynamics 365 Remote Assist mobile does not support meetings.
+A group call is a one-to-one call that call participants can add more participants to. A meeting is scheduled via Microsoft Teams or Outlook. 
 
 ### Can Teams mobile users join a group call with Dynamics 365 Remote Assist users?
 Yes, but Teams mobile users can't add mixed-reality annotations in the shared environment. 
