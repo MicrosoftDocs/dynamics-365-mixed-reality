@@ -41,7 +41,7 @@ By pairing the Microsoft Dynamics 365 Remote Assist mobile application with Dyna
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing available bookings pulled in from Field Service.](./media/post_1.png "Select Booking")
 
-   If there aren't any bookings assigned to the technician's account, they can refresh their screen or discard the post.
+   If no bookings appear in the technician's account, they can refresh their screen or discard the post.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the option to refresh Dynamics 365.](./media/post_3.png "No Bookings")
 
