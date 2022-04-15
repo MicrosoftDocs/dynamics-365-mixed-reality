@@ -26,11 +26,11 @@ By pairing the Microsoft Dynamics 365 Remote Assist mobile application with Dyna
 
 ## How it works
 
-1. At the end of a Dynamics 365 Remote Assist mobile call, if no files, images, or snapshots are shared, the field technician is prompted to post their call log to their Dynamics 365 Field Service work order. Select **Post**.
+1. At the end of a Dynamics 365 Remote Assist mobile call, if no files, images, or snapshots are shared, the field technician is prompted to post their call log to their Dynamics 365 Field Service work order.
 
     ![Screenshot of Dynamics 365 Remote Assist on a mobile device showing the end of a call, with the option to post the call log to a work order.](./media/postfs_2.png "Call log")
 
-2. If files, images, and/or snapshots are shared in the Dynamics 365 Remote Assist text chat, you'll see a list with your call log and files, images, and snapshots that you can post to your Field Service work order. Select **Post All**.
+    If files, images, and/or snapshots are shared in the Dynamics 365 Remote Assist text chat, you'll see a list with your call log and files, images, and snapshots that you can post to your Field Service work order. Select **Post All**.
 
     > [!Tip]
     > If you want to post the Dynamics 365 Remote Assist call recording to your Field Service work order, you can copy and paste the Microsoft Stream URL that will be in your Microsoft Teams chat into your work order. Remember to adjust the Microsoft Stream permissions to allow access to others.
