@@ -73,10 +73,10 @@ Use the guided tutorial to:
 
 ## Limitations that may hinder accurate surface detection
 
-- Flat surfaces without texture, such as a white desk.
-- Environments with dim lighting or very bright lighting.
-- Transparent or reflective surfaces like glass.
-- Dynamic or moving surfaces.
+- Flat surfaces without texture, such as a white desk
+- Environments with dim lighting or very bright lighting
+- Transparent or reflective surfaces like glass
+- Dynamic or moving surfaces
 
 ## How to resolve error messages
 
