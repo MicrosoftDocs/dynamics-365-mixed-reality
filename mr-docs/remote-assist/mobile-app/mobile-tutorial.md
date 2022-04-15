@@ -48,7 +48,7 @@ Use the guided tutorial to:
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing a placed arrow.](./media/17a.png "Place Arrow")
 
-5. Tap and drag to **rotate** the arrow. 
+5. Tap and drag to rotate the arrow. 
 
     ![Rotate arrow.](./media/04.05-oobe.png)
 
