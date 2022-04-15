@@ -52,7 +52,7 @@ Use the guided tutorial to:
 
     ![Rotate arrow.](./media/04.05-oobe.png)
 
-6. Select the **Inking tool**.
+6. Select the **Inking** tool.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the ink icon in the menu.](./media/18.png "Select Ink")
 
