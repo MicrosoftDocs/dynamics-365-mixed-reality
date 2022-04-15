@@ -85,19 +85,19 @@ Throughout the tutorial or during the call, you may see a message that says you'
 > [!NOTE]
 > Remote collaborators won't be able to place mixed-reality annotations in your shared spaced if you lose tracking.
 
-1. Move your device from **side-to-side** to better detect your surroundings or surfaces.
+- Move your device from side-to-side to better detect your surroundings or surfaces.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space.](./media/15.png "Map Space")
 
-2. Move your device **further away**.
+- Move your device farther away.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move further away.](./media/22.png "Far Away")
 
-3. Move your device **closer**.
+- Move your device closer.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move closer.](./media/23.png "Closer")
 
-4. Try **turning on some lights** to brighten dimly lit spaces.
+- Turning on lights to brighten dimly lit spaces.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt that light is needed.](./media/24.png "More light needed")
 
