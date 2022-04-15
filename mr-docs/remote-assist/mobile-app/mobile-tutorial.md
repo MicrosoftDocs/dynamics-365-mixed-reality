@@ -96,7 +96,7 @@ Here are a few tips to help you bettter track your environment:
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move closer.](./media/23.png "Closer")
 
-- Turning on lights to brighten dimly lit spaces.
+- Turn on lights to brighten dimly lit spaces.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt that light is needed.](./media/24.png "More light needed")
 
