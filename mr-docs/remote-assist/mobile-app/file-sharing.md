@@ -50,13 +50,13 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, with a file upload in progress as designated by a progress bar.](./media/files_progress.PNG "Upload")
 
-3. If some of the files or images are not successfully uploaded in the text chat, the technician can select the **retry icon** to upload a file or image again or can discard any files or images before sending. 
+3. If some of the files or images are not successfully uploaded in the text chat, the technician can select the **Retry** button to upload a file or image again or can discard any files or images before sending. 
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, showing a list of attachments ready to be sent or to try again.](./media/files_fail.PNG "Retry")
 
 5. The technician selects the **Send** button.
 
-    Once sent, the file link and image preview are sent to the remote collaborator through **OneDrive**, which sets the permission to share the file. Afterwards, the remote collaborator on Microsoft Teams receives a link to the document in OneDrive in the Microsoft Teams text chat. The remote collaborator has full access to the files and images sent. 
+    Once sent, the file link and image preview are sent to the remote collaborator through OneDrive for Business, which sets the permission to share the file. Afterwards, the remote collaborator on Microsoft Teams receives a link to the document in OneDrive in the Microsoft Teams text chat. The remote collaborator has full access to the files and images sent. 
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, with a successfully uploaded attachment.](./media/files_view.PNG)
 
