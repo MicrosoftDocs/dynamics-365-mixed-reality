@@ -18,9 +18,9 @@ The following table shows the type of calls supported on Dynamics 365 Remote Ass
 
 |Type of call|Limitations|
 |----------------------------------------------------------|----------------------------------------------------------|
-|Two or more Dynamics 365 Remote Assist mobile users|One-to-one call or group call|
-|Two or more Dynamics 365 Remote Assist HoloLens users|One-to-one call or group call|
-|Two or more Teams desktop users|One-to-one call or group call|
+|Two or more Dynamics 365 Remote Assist mobile users|One-to-one or group call|
+|Two or more Dynamics 365 Remote Assist HoloLens users|One-to-one or group call|
+|Two or more Teams desktop users|One-to-one or group call|
 |One Teams mobile user|One-to-one call only|
 |Any combination of at least three or more Remote Assist mobile users, Remote Assist HoloLens users, or Teams desktop users|Group call only| 
 
