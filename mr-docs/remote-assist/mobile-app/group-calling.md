@@ -8,7 +8,7 @@ ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
-# Group calls in Dynamics 365 Remote Assist mobile
+# Group calling in Dynamics 365 Remote Assist mobile
 
 Many problems are easier to solve if you can bring together specialists from around the world with different knowledge sets. With the ability for three or more participants to join Dynamics 365 Remote Assist mobile calls, technicians can collaborate with more than one specialist for guidance, validation, or knowledge-sharing purposes.
 
