@@ -31,35 +31,36 @@ Use the guided tutorial to:
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the try it button.](./media/13.png "Try It")
 
-2. If you're already signed in and wish to launch the tutorial, you can also go to **Menu** > **Learn the Tools**. 
+   > [!TIP]
+   > If you're already signed in and want to start the tutorial, go to **Menu** > **Learn the Tools**. 
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the Learn the Tools option in the menu.](./media/14b.png "Try Tools")
 
-3. Once you have begun the tutorial, you're prompted with an animation to move your phone side-to-side for better surface detection. Complete this action. 
+2. Once you have begun the tutorial, you're prompted with an animation to move your phone side-to-side for better surface detection. Complete this action. 
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space.](./media/15.png "Map Space")
 
-4. Select the **Arrow tool** to place the arrow tool.
+3. Select the **Arrow tool** to place the arrow tool.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the arrow tool in the menu.](./media/16.png "Select Arrow")
 
-5. Place the arrow in your environment by tapping anywhere on your screen. 
+4. Place the arrow in your environment by tapping anywhere on your screen. 
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing a placed arrow.](./media/17a.png "Place Arrow")
 
-6. Tap and drag to **rotate** the arrow. 
+5. Tap and drag to **rotate** the arrow. 
 
     ![Rotate arrow.](./media/04.05-oobe.png)
 
-7. Select the **Inking tool**.
+6. Select the **Inking tool**.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the ink icon in the menu.](./media/18.png "Select Ink")
 
-8. Draw a line or circle by tapping and dragging on your screen. 
+7. Draw a line or circle by tapping and dragging on your screen. 
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing an example of a drawn annotation.](./media/19b.png "Draw")
 
-9. Practice placing and using other annotations. You can use the **Color picker**, **Undo**, or **Delete all** annotation icons. 
+8. Practice placing and using other annotations. You can use the **Color picker**, **Undo**, or **Delete all** annotation icons. 
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the other menu options.](./media/20a.png "Other")
 
