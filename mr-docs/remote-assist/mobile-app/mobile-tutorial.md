@@ -27,7 +27,7 @@ Use the guided tutorial to:
 
 ## How it works
 
-1. To launch the tutorial, select **Try It** on the **Sign in** screen.
+1. To launch the tutorial, on the **Sign in** screen, select **Try it**.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the try it button.](./media/13.png "Try It")
 
