@@ -27,10 +27,10 @@ Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCo
 - Send and receive messages, in-call snapshots, and files through text chat.
 - Capture session history through call recordings.
 - Annotate and share in-call snapshots in low-bandwidth scenarios.
-- Integration with Microsoft Dynamics 365 for Field Service.
-- Ability to link call history, in-call snapshots, and files shared during a Dynamics 365 Remote Assist mobile call to an associated Dynamics 365 Field Service work order.
-- Ability to start a call to a remote collaborator from the Dynamics 365 Field Service mobile app to the Dynamics 365 Remote Assist mobile app.
 - Availability on mobile devices without augmented reality (AR) support.
+- Integration with Microsoft Dynamics 365 for Field Service.
+   - Ability to link call history, in-call snapshots, and files shared during a Dynamics 365 Remote Assist mobile call to an associated Dynamics 365 Field Service work order.
+   - Ability to start a call to a remote collaborator from the Dynamics 365 Field Service mobile app to the Dynamics 365 Remote Assist mobile app.
 
 ![Simulated image of a technician using Dynamics 365 Remote Assist mobile to annotate their environment on a call.](./media/ram-overview.png "Dynamics 365 Remote Assist mobile Overview")
 
