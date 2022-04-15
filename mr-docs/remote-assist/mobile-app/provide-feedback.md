@@ -17,7 +17,7 @@ Technicians can provide feedback or make requests directly in the Dynamics 365 R
 
 ## How it works
 
-1. Select the **Main Menu** icon.
+1. Select the **Main Menu** button.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile, showing the Main Menu icon highlighted.](./media/mainmenu.png)
 
