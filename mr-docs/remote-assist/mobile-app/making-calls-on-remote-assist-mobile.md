@@ -27,7 +27,7 @@ The following table shows the type of calls supported on Dynamics 365 Remote Ass
 > [!NOTE]
 > The following calling scenarios are not supported on Dynamics 365 Remote Assist mobile at this time:
 >
-> - Making calls to browser-based Teams.
+> - Making calls to browser-based Teams users.
 > - Participating in a group call with Teams mobile users. 
 
 ## Definitions 
