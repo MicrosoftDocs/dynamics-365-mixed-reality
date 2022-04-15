@@ -12,15 +12,15 @@ ms.reviewer: v-bholmes
 
 Technicians can use the Dynamics 365 Remote Assist mobile in-app, guided tutorial to jump-start their ability to use the app's augmented reality (AR) capabilities. With AR, technicians can share their real-world environments and connect with remote collaborators to walk through repair or inspection processes. Both call participants can reference objects and provide instructions by placing mixed-reality annotations into the technician's shared environment.
 
-This guided tutorial addresses:
+Use the guided tutorial to:
 
-1. Learn to move your device around so that Dynamics 365 Remote Assist mobile can detect the technician's surroundings and surfaces for better mixed reality annotation placement experience
+- Learn how to move your device around so that the app can detect your surroundings and surfaces for a better mixed-reality annotation placement experience.
 
-2. Place and manipulate mixed reality annotations, such as the arrow and the ink tools.
+- Place and manipulate mixed-reality annotations, such as arrows and drawings.
 
 ## Prerequisites
 
-- In order to follow along with this guide, you should have a using a **mobile device with ARCore or ARKit support**. Learn more about the device requirements [here](../requirements.md).
+- To follow along with this guide, you should have a using a **mobile device with ARCore or ARKit support**. Learn more about the device requirements [here](../requirements.md).
 
 >[!Note]
 > No AR capabilities? No problem! Dynamics 365 Remote Assist mobile is available on unsupported AR mobile devices, too; learn more about using Dynamics 365 Remote Assist mobile on unsupported AR devices [here](./calls-using-devices-without-ar.md).
