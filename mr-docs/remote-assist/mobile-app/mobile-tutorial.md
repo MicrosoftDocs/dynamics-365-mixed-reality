@@ -60,7 +60,7 @@ Use the guided tutorial to:
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing an example of a drawn annotation.](./media/19b.png "Draw")
 
-8. Practice placing and using other annotations. You can use the **Color picker**, **Undo**, or **Delete all** annotation icons. 
+8. Practice placing and using other annotations. Try the **Color picker**, **Undo**, or **Delete all** annotation buttons. 
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the other menu options.](./media/20a.png "Other")
 
