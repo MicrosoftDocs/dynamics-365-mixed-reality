@@ -57,6 +57,6 @@ By pairing the Microsoft Dynamics 365 Remote Assist mobile application with Dyna
 5. The technician can go to the work order and view the call log and files that have been posted from Dynamics 365 Remote Assist mobile. They can then copy and paste the files URL in a new tab to view the files.
 
     > [!Note]
-    > If someone, such as an admin or dispatcher viewing the Field Service work order wants to view the files, they must request access to the technician's files on OneDrive for Business. 
+    > If someone (such as an admin or dispatcher) viewing the work order wants to view the files, they must request access to the technician's files on OneDrive for Business. 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
