@@ -65,7 +65,7 @@ To capture and view assets you need:
 
 ### The asset records I see aren't what I expected
 
-The user account might have access to more than one environment with Dynamics 365 Remote Assist installed. If this is the case, you need to select the correct environment.
+The user account might have access to more than one environment where Dynamics 365 Remote Assist is installed. Make sure to select the correct environment.
 
 1. Select **Settings** > **Dynamics 365 environment**.
 
