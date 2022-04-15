@@ -16,7 +16,7 @@ Microsoft Dynamics 365 Remote Assist mobile makes conducting repairs and remote 
 
 The following table shows the type of calls supported on Dynamics 365 Remote Assist mobile and whether one-to-one or group calls are supported for each.
 
-|Type of call|One-to-one calls|Group calls|
+|Type of call|One-to-one call|Group call|
 |----------------------------------------------------------|------------------|--------------------|
 |Other Dynamics 365 Remote Assist mobile users|Yes|Yes|
 |Dynamics 365 Remote Assist HoloLens users|Yes|Yes|
