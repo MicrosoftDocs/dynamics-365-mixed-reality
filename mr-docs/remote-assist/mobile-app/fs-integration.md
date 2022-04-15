@@ -50,13 +50,13 @@ By pairing the Microsoft Dynamics 365 Remote Assist mobile application with Dyna
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the Select an Instance screen.](./media/post_2.png "Select Instance")
 
-4. You will return to your contact list and you will be notified when your call log and files have successfully been posted to your Field Service work order and then you can sign in to your work order.
+4. The technician returns to their contact list and will be notified when their call log and files have successfully been posted to their work order. Then they can sign in to their work order.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on the contacts list, showing a notification that says items have been posted to a work order.](./media/postfs_3.png "End of call notification")
 
-5. You can go to the Field Service work order and view the call log and files that have been posted from Dynamics 365 Remote Assist mobile. Then you can copy and paste the files URL in a new tab to view the files.
+5. The technician can go to the work order and view the call log and files that have been posted from Dynamics 365 Remote Assist mobile. They can then copy and paste the files URL in a new tab to view the files.
 
     > [!Note]
-    > If someone viewing your Field Service work order, such as an admin or dispatcher, wants to view the files, they must request access to your files on OneDrive. 
+    > If someone, such as an admin or dispatcher viewing the Field Service work order wants to view the files, they must request access to the technician's files on OneDrive for Business. 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
