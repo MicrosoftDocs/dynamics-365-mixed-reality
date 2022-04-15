@@ -26,8 +26,6 @@ By pairing the Microsoft Dynamics 365 Remote Assist mobile application with Dyna
 
 ## How it works
 
-Now that we have it enabled, let's see how integration with Field Service works for Dynamics 365 Remote Assist mobile.
-
 1. At the end of a Dynamics 365 Remote Assist mobile call, you are prompted to post your call log, if no files, images, or snapshots are shared, to your Field Service work order. Select **Post**.
 
     ![Screenshot of Dynamics 365 Remote Assist on a mobile device showing the end of a call, with the option to post the call log to a work order.](./media/postfs_2.png "Call log")
