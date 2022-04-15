@@ -16,7 +16,7 @@ Microsoft Dynamics 365 Remote Assist mobile makes conducting repairs and remote 
 
 A one-to-one call includes two participants. For example, if you're repairing a machine and need help on-the-go, you might make a one-to-one call to a remote collaborator who is using Microsoft Teams desktop or Teams mobile.
 
-A group call is an ad-hoc call that includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, you (or any participant on the call) can add a third person to create a group call.
+A group call is an ad-hoc call that includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, you (or the other participant on the call) can add a third person to create a group call.
 
 The following table shows the type of calls supported on Dynamics 365 Remote Assist mobile and whether one-to-one or group calls are supported for each.
 
