@@ -33,15 +33,15 @@ By pairing the Microsoft Dynamics 365 Remote Assist mobile application with Dyna
     If files, images, and/or snapshots are shared in the Dynamics 365 Remote Assist text chat, the technician will see a list with their call log and files, images, and snapshots that can be posted to the work order. To post everything, the field technician selects **Post All**.
 
     > [!Tip]
-    > If you want to post the Dynamics 365 Remote Assist call recording to your Field Service work order, you can copy and paste the Microsoft Stream URL that will be in your Microsoft Teams chat into your work order. Remember to adjust the Microsoft Stream permissions to allow access to others.
+    > To post the Dynamics 365 Remote Assist call recording to a work order, copy and paste the Microsoft Stream URL from the Microsoft Teams chat into the work order. Remember to adjust the Microsoft Stream permissions to allow access to others.
 
     ![Screenshot of Dynamics 365 Remote Assist on a mobile device showing the list of items in the call log after the call has ended.](./media/postfs_1.png) 
 
-3. If you have **active bookings** assigned to you through Field Service, you'll see them listed. Select your booking and select **Post**.
+3. If active bookings have been assigned to the technician through Dynamics 365 Field Service, they'll appear in the list. The technician can select a booking, and then select **Post** to post it to the work order.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing available bookings pulled in from Field Service.](./media/post_1.png "Select Booking")
 
-4. If you have no bookings assigned to your account, you can **Refresh** your screen or **Discard** your post.
+4. If there aren't any bookings assigned to the technician's account, they can **Refresh** their screen or **Discard** the post.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the option to refresh Dynamics 365.](./media/post_3.png "No Bookings")
 
