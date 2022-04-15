@@ -23,7 +23,7 @@ Use the guided tutorial to:
 - To follow along with this guide, you should have a mobile device with ARCore or ARKit support. [Learn more about device requirements](../requirements.md)
 
 > [!Note]
-> No AR capabilities? No problem! Dynamics 365 Remote Assist mobile is also available on unsupported AR mobile devices. [Learn more about using Dynamics 365 Remote Assist mobile on devices without AR](./calls-using-devices-without-ar.md)
+> No AR capabilities? No problem! Dynamics 365 Remote Assist mobile is also available on unsupported AR mobile devices. [Learn more about using Dynamics 365 Remote Assist mobile on devices without AR](./calls-using-devices-without-AR.md)x
 
 ## How it works
 
