@@ -48,7 +48,7 @@ Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune'
 ## See also
 
 - [Try Dynamics 365 Remote Assist mobile for free](../try-remote-assist.md)
-- [Buy a Dynamics 365 Remote Assist license](../buy-remote-assist.md)
+- [Buy a Dynamics 365 Remote Assist subscription](../buy-remote-assist.md)
 - [Deploy Dynamics 365 Remote Assist](../deploy-remote-assist.md)
 - [How-to videos for Dynamics 365 Remote Assist mobile](../videos.md)
 - [Use Microsoft Intune to create an app configuration policy for Android devices](intune.md) 
