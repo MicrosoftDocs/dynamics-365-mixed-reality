@@ -36,7 +36,7 @@ Use the guided tutorial to:
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the Learn the Tools option in the menu.](./media/14b.png "Try Tools")
 
-2. Once you have begun the tutorial, you're prompted with an animation to move your phone side-to-side for better surface detection. Complete this action. 
+2. When you start the tutorial, you're prompted to move your phone side-to-side for better surface detection.  
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space.](./media/15.png "Map Space")
 
