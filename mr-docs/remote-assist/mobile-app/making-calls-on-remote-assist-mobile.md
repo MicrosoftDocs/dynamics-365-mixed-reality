@@ -38,9 +38,9 @@ A **group call** is an ad-hoc call that includes three or more participants. For
 
 ### See also
 
-- [Learn more about calls between Dynamics 365 Remote Assist mobile users](remote-assist-mobile-to-remote-assist-mobile-calls.md)
-- [Learn more about calls between Dynamics 365 Remote Assist mobile and Teams users](remote-assist-mobile-to-teams-calls.md)
-- [Learn more about group calls with Dynamics 365 Remote Assist mobile](group-calling.md)
-- [Learn more about calls with mobile devices without augmented reality (AR) support](calls-using-devices-without-AR.md)
+- [Calls between Dynamics 365 Remote Assist mobile users](remote-assist-mobile-to-remote-assist-mobile-calls.md)
+- [Calls between Dynamics 365 Remote Assist mobile and Teams users](remote-assist-mobile-to-teams-calls.md)
+- [Group calling in Dynamics 365 Remote Assist mobile](group-calling.md)
+- [Calls with mobile devices without augmented reality (AR) support](calls-using-devices-without-AR.md)
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
