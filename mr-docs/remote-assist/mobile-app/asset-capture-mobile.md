@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Capture asset conditions with spatial markup in the Dynamics 365 Remote Assist mobile app
 
-You can use the Dynamics 365 Remote Assist mobile app to capture procedures and defects during jobs such as inspections or repairs. For example, a technician can capture photos or videos of the equipment they're inspecting to highlight defects like wear and corrosion. Stakeholders within the organization, such as a service manager or site superintendent, can then view and download the captures by using the Dynamics 365 Remote Assist model-driven app.
+You can use the Microsoft Dynamics 365 Remote Assist mobile app to capture procedures and defects during jobs such as inspections or repairs. For example, a technician can capture photos or videos of the equipment they're inspecting to highlight defects like wear and corrosion. Stakeholders within the organization, such as a service manager or site superintendent, can then [view and download the captures by using the Dynamics 365 Remote Assist model-driven app](.././asset-capture-overview.md).
 
 ## Prerequisites
 
@@ -35,7 +35,7 @@ To capture and view assets you need:
 
     ![Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile.](./media/08.01-assets-list.png "Screenshot of the Assets tab in Dynamics 365 Remote Assist Mobile")
 
-2. Once you have selected an asset, you'll see a list of previously captured photos or videos associated with that asset. You can select any of the captures to view photos or to playback videos. You can also delete captures from this list view. To record a new capture, select the **Camera** tool at the bottom of the page.
+2. Once you have selected an asset, you'll see a list of previously captured photos or videos associated with that asset. You can select any of the captures to view photos or to play videos. You can also delete captures from this list view. To record a new capture, select the **Camera** tool at the bottom of the page.
 
     ![Asset media list in Dynamics 365 Remote Assist Mobile.](./media/08.07-asset-media.png "Asset media list in Dynamics 365 Remote Assist Mobile")
 
@@ -44,12 +44,12 @@ To capture and view assets you need:
     ![Take photo capture in Dynamics 365 Remote Assist Mobile.](./media/08.15-asset-capture-photo-mr.png "Take photo capture in Dynamics 365 Remote Assist Mobile")
 
     > [!NOTE]
-    > To switch to video capture view, select **Video**, and then tap the capture button to start the recording. The capture button will change and show a countdown timer from the maximum video length available. You can add further mixed-reality mark-up during the video capture. Tap the capture button again to stop recording.
+    > To switch to video capture view, select **Video**, and then tap the capture button to start the recording. The capture button will change and show a countdown timer from the maximum video length available. You can add further mixed-reality annotations during the video capture. Tap the capture button again to stop recording.
 
     ![Take video capture in Dynamics 365 Remote Assist Mobile.](./media/08.18-asset-capture-video-mr-recording.png "Take video capture in Dynamics 365 Remote Assist Mobile")
 
     > [!NOTE]
-    > Captured photos and videos are saved both locally to the mobile device and to Microsoft Dataverse, where they're viewable from the Dynamics 365 Remote Assist model-driven app.
+    > Captured photos and videos are saved locally to the mobile device and to Microsoft Dataverse, where they're viewable from the Dynamics 365 Remote Assist model-driven app.
 
 ## Next step
 
@@ -65,7 +65,9 @@ To capture and view assets you need:
 
 ### The asset records I see aren't what I expected
 
-The user account might have access to more than one environment with Dynamics 365 Remote Assist installed. If this is the case, you need to select the correct environment.
+The user account might have access to more than one environment where Dynamics 365 Remote Assist is installed. 
+
+To select the correct environment:
 
 1. Select **Settings** > **Dynamics 365 environment**.
 

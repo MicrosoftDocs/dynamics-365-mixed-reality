@@ -8,9 +8,9 @@ ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
-# Group calls in Dynamics 365 Remote Assist mobile
+# Group calling in Dynamics 365 Remote Assist mobile
 
-Many problems are easier to solve if you can bring together specialists from around the world with different knowledge sets. With the ability for three or more participants to join Dynamics 365 Remote Assist mobile calls, technicians can collaborate with more than one specialist for guidance, validation, or knowledge-sharing purposes.
+Many problems are easier to solve if you can bring together specialists from around the world with different knowledge sets. With the ability for three or more participants to join Microsoft Dynamics 365 Remote Assist mobile calls, technicians can collaborate with more than one specialist for guidance, validation, or knowledge-sharing purposes.
 
 A group call in Dynamics 365 Remote Assist mobile begins as a one-to-one call. Any call participant can then add additional participants to the call. During a group call, there can be any combination of three or more participants using Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, or Microsoft Teams desktop. For example, there can be two users on Dynamics 365 Remote Assist mobile and one user on Teams desktop, or two users on Dynamics 365 Remote Assist mobile and two users on Teams desktop.
 
@@ -93,7 +93,7 @@ Group calls on Dynamics 365 Remote Assist mobile can only be initiated from a on
 ## FAQ
 
 ### What is the difference between a group call and a meeting?
-A group call is a one-to-one call that call participants can add more participants to. A meeting is scheduled via Microsoft Teams or Outlook. At this time, Dynamics 365 Remote Assist mobile does not support meetings.
+A group call is a one-to-one call that call participants can add more participants to. A meeting is scheduled via Microsoft Teams or Outlook. 
 
 ### Can Teams mobile users join a group call with Dynamics 365 Remote Assist users?
 Yes, but Teams mobile users can't add mixed-reality annotations in the shared environment. 
