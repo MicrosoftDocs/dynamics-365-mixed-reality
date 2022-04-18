@@ -43,6 +43,6 @@ The following chart explains which call participant can initiate a call recordin
 
     ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the text chat and a recording indicator in the top-right corner of the screen.](./media/record-calls-stop-recording.jpg)
 
-5. After the call has ended, both call participants receive a notification that the call recording will be available in OneDrive for Business. Once the call recording has been uploaded to OneDrive for Business, both participants can access it through the Dynamics 365 Remote Assist mobile call text chat, Microsoft Teams text chat, or from the OneDrive for Business folder.
+5. After the call has ended, call participants receive a notification that the call recording will be available in OneDrive for Business. Once the call recording has been uploaded to OneDrive for Business, participants can access it through the Dynamics 365 Remote Assist mobile call text chat, Microsoft Teams text chat, or from the OneDrive for Business folder.
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
