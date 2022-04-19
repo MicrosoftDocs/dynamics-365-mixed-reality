@@ -18,7 +18,7 @@ This article describes details about the **current wave of features (April 2022 
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|Support for Teams for Mac]|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop or Teams for Mac](teams-pc-all.md)|
+|Support for Microsoft Teams for Mac|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop or Teams for Mac](teams-pc-all.md)|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
