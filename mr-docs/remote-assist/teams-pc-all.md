@@ -17,8 +17,8 @@ However, the features you can use to collaborate differ depending on which platf
 > [!NOTE]
 > At this time, Dynamics 365 Remote Assist does not support holographic annotations in [Teams for Virtualized Desktop Infrastructure (VDI)](/microsoftteams/teams-for-vdi). The mixed-reality toolbar does not appear for VDI users. 
 
-## Collaborating with Dynamics 365 Remote Assist HoloLens user versus Dynamics 365 Remote Assist mobile user
-|Task                                                                                            |Teams desktop features available when collaborating with Dynamics 365 Remote Assist HoloLens user                 |Teams desktop features available when collaborating with Dynamics 365 Remote Assist mobile user                   |
+## Collaborating with Dynamics 365 Remote Assist HoloLens users versus Dynamics 365 Remote Assist mobile users
+|Task                                                                                            |Teams desktop/Teams for Mac features available when collaborating with Dynamics 365 Remote Assist HoloLens user                 |Teams desktop/Teams for Mac features available when collaborating with Dynamics 365 Remote Assist mobile user                   |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |                                                                                                     |                                                                                                     |                                                                                                     |
 |Make outgoing call                                                                                   |Yes                                                                                                  |Yes      |
