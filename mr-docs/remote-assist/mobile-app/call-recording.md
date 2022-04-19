@@ -3,7 +3,7 @@ title: Record a call in Dynamics 365 Remote Assist mobile
 author: amaraanigbo
 description: Learn how to record a one-to-one call with a remote collaborator in Dynamics 365 Remote Assist mobile. 
 ms.author: soanigbo
-ms.date: 04/13/2022
+ms.date: 04/18/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -37,8 +37,12 @@ The following chart explains which call participant can initiate a call recordin
 
 3. At all times during the call, the technician can see that the call recording is in progress by viewing the call-recording indicator in the upper-right corner of the text chat.
 
-    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the text chat and a recording indicator in the top-right corner of the screen.](./media/textchatrecorder.PNG)
+    ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the text chat and a recording indicator in the top-right corner of the screen.](./media/call-recording-3.jpg)
 
-4. The technician can select the indicator to stop the call recording at any point. After the call has ended, both call participants receive a notification that the call recording will be available in OneDrive for Business. Once the call recording has been uploaded to OneDrive for Business, both participants can access it through the Dynamics 365 Remote Assist mobile call text chat, Microsoft Teams text chat, or from the OneDrive for Business folder.
+4. To stop the recording, the technician selects the **More** (ellipsis) button, and then selects **Stop recording**. 
+
+    ![Screenshot showing Stop recording command.](./media/record-calls-stop-recording.jpg)
+
+5. After the call has ended, call participants receive a notification that the call recording will be available in OneDrive for Business. Once the call recording has been uploaded to OneDrive for Business, participants can access it through the Dynamics 365 Remote Assist mobile call text chat, Microsoft Teams text chat, or from the OneDrive for Business folder.
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
