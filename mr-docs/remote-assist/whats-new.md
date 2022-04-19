@@ -12,6 +12,30 @@ ms.reviewer: v-bholmes
 
 This article describes details about the **current wave of features (April 2022 through September 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
+## May xx, 2022
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|Support for Teams for Mac]|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop or Teams for Mac](teams-pc-all.md)|
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|XXX|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
+
+### Bugs fixed 
+
+#### HoloLens 2
+
+- XXX
+
+#### Mobile
+
+- XXX
+
 ## April 13, 2022
 
 ### Features
