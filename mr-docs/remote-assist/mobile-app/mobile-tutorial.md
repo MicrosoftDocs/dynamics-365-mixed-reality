@@ -3,7 +3,7 @@ title: Use the Dynamics 365 Remote Assist mobile tutorial
 author: amaraanigbo
 description: Learn how to use the in-app tutorial for the Dynamics 365 Remote Assist mobile app.
 ms.author: soanigbo
-ms.date: 07/01/2020
+ms.date: 04/20/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -70,6 +70,7 @@ Use the guided tutorial to:
 - Place annotations in your device's field of view.
 - Avoid sudden movements.
 - Avoid minimizing the app frequently and reopening it while there are annotations present.
+- Maintain at least one foot of distance between your mobile device and the object you're annotating.
 
 ## Limitations that may hinder accurate surface detection
 
@@ -91,6 +92,8 @@ Here are a few tips to help you bettter track your environment:
 - Move your device farther away.
 
     ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move further away.](./media/22.png "Far Away")
+    
+    It's good to maintain at least one foot of distance between your mobile device and the object you're annotating.
 
 - Move your device closer.
 
