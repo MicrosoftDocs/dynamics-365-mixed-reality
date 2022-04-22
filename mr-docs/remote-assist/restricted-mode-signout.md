@@ -15,7 +15,7 @@ If you [have a scenario where you need to protect your company information](rest
 **HoloLens users must be on OS version 22H1 (Spring 2022 release) or later to use kiosk mode.** You can't use kiosk mode to restrict users of the mobile app from signing out of the app. 
 
 > [!NOTE]
-> At this time, if you configure HoloLens for multiple app kiosk mode, the Sign out button in Dynamics 365 Remote Assist is not disabled. The Sign out button is disabled if you configure HoloLens for single app kiosk mode. 
+> At this time, if you configure HoloLens for multiple app kiosk mode, the **Sign out** button in Dynamics 365 Remote Assist is not disabled. The **Sign out** button is disabled if you configure HoloLens for single app kiosk mode. 
 
 ## See also
 
