@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 04/20/2022
+ms.date: 04/22/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -28,8 +28,8 @@ This article describes details about the **current wave of features (April 2022 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2 app|309.2204.06001|
-|iOS mobile app|2022.4.13|
-|Android mobile app|2022.4.13|
+|iOS mobile app|2022.4.6|
+|Android mobile app|2022.4.6|
 
 ### Bugs fixed 
 
