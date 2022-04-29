@@ -86,7 +86,7 @@ You can search, call, or receive a call from a Dynamics 365 Remote Assist user i
 
 2. Search for the person you want to call, and then call them.
 
-[Learn more about who can join a group call](mobile-app/making-calls-on-remote-assist-mobile.md).
+[Learn more about who can join a group call](mobile-app/making-calls-on-remote-assist-mobile.md)
 
 ## Schedule and join a meeting (with a Dynamics 365 Remote Assist HoloLens user only)
 
