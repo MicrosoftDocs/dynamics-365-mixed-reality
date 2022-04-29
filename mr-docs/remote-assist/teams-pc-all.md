@@ -1,14 +1,14 @@
 ---
 author: amaraanigbo
-description: Learn how to collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop or Teams for Mac
+description: Learn how to collaborate with a Dynamics 365 Remote Assist user with Microsoft Teams desktop for PC or Mac
 ms.author: soanigbo
 ms.date: 05/01/2022
 ms.topic: article
-title: Collaborate with a Dynamics 365 Remote Assist user through Teams desktop or Teams for Mac
+title: Collaborate with a Dynamics 365 Remote Assist user with Teams desktop for PC or Mac
 ms.reviewer: v-bholmes
 ---
 
-# Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop or Teams for Mac
+# Collaborate with a Dynamics 365 Remote Assist user with Microsoft Teams desktop for PC or Mac
 
 When you use Microsoft Teams desktop for the PC or Mac, you can collaborate with people using Dynamics 365 Remote Assist on HoloLens (in this article, a "Dynamics 365 Remote Assist HoloLens user") or Dynamics 365 Remote Assist on a mobile device (in this article, a "Dynamics 365 Remote Assist mobile user").  
 
