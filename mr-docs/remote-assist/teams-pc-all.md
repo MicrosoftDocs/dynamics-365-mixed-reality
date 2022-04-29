@@ -75,7 +75,7 @@ When you select the **More Options** button, you'll see additional features.
  
 ### Call a Dynamics 365 Remote Assist user who is outside your organization
 
-You can search, call, or receive a call from a Dynamics 365 Remote Assist user in another organization if your organization is federated with that organizationg. When searching for this Dynamics 365 Remote Assist user, you must enter their full email address.
+You can search, call, or receive a call from a Dynamics 365 Remote Assist user in another organization if your organization is federated with that organization. When searching for this Dynamics 365 Remote Assist user, you must enter their full email address.
 
 >[!Note]
 > If you're not able to find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access)) has not been enabled. Contact your administrator for help.  
@@ -84,7 +84,7 @@ You can search, call, or receive a call from a Dynamics 365 Remote Assist user i
 
 1. Start by calling one person, and then select **Open Participants** (![Graphic showing the participants icon.](media/Teams_Participants.png)). 
 
-2. Search for the person you would like to call, and then call them.
+2. Search for the person you want to call, and then call them.
 
 [Learn more about who can join a group call](mobile-app/making-calls-on-remote-assist-mobile.md).
 
