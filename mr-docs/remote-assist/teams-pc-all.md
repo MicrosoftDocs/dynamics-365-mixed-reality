@@ -109,11 +109,11 @@ Check out the following links:
 
 - [Watch a video on joining a Teams meeting](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US)
 
-If the Dynamics 365 Remote Assist HoloLens user is invited to the meeting, they can sign in to Dynamics 365 Remote Assist and select **Join Meeting** at the bottom of the **Recent Contacts** page.
+If the Dynamics 365 Remote Assist HoloLens user is invited to the meeting, they can sign in to Dynamics 365 Remote Assist, and then select **Join Meeting** at the bottom of the **Recent Contacts** page.
 
 If the Dynamics 365 Remote Assist HoloLens user is not invited to the meeting, but you would like them to join the meeting: 
 
-1. Join the meeting, and then select **Participants** from the call controls.
+1. Join the meeting, and then select **Participants** from the Call Controls toolbar.
 
 2. Start typing their name, and then call them. 
 
