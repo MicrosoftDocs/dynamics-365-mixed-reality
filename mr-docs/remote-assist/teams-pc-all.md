@@ -40,7 +40,7 @@ When you join a call, you'll see the Mixed Reality toolbar.
 
 ![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
 
-You'll also see the **Call Controls panel**.
+You'll also see the **Call Controls** toolbar.
 
 ![Screenshot of call controls.](media/PC_CallControls.png "CC")
  
