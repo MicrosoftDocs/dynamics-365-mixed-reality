@@ -44,7 +44,7 @@ You'll also see the **Call Controls** toolbar.
 
 ![Screenshot of call controls.](media/PC_CallControls.png "CC")
  
-The **More Options** panel includes additional features. 
+When you select the **More Options** button, you'll see additional features. 
 
 ![Screenshot of the more options menu.](media/PC_MoreOptions.png "MoreOptions") 
 
