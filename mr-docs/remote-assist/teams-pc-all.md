@@ -67,13 +67,13 @@ When you select the **More Options** button, you'll see additional features.
 
 - When you see an incoming call notification in the bottom right side of your screen, select **Audio** or **Video** to join the call.
 
-### Call a Dynamics 365 Remote Assist user who is in your organization (tenant)	
+### Call a Dynamics 365 Remote Assist user who is in your organization
 
 1. After launching Teams, select the **Calls** tab on your left to see suggested contacts. 
 
 2. Select the **Video** button on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
  
-### Call a Dynamics 365 Remote Assist user who is outside your organization (tenant)
+### Call a Dynamics 365 Remote Assist user who is outside your organization
 
 You can search, call, or receive a call from a Dynamics 365 Remote Assist user in another organization if your organization is federated with that organizationg. When searching for this Dynamics 365 Remote Assist user, you must enter their full email address.
 
