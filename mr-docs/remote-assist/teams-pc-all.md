@@ -67,28 +67,15 @@ When you select the **More Options** button, you'll see additional features.
 
 - When you see an incoming call notification in the bottom right side of your screen, select **Audio** or **Video** to join the call.
 
-### Call a Dynamics 365 Remote Assist user who is in your tenant	
+### Call a Dynamics 365 Remote Assist user who is in your organization (tenant)	
 
 1. After launching Teams, select the **Calls** tab on your left to see suggested contacts. 
 
-2. Select the **Video** icon on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
-
-    >[!Note]
-    > Starting in the April 2020 release, Dynamics 365 Remote Assist users (HoloLens and mobile) can initiate a cloud-based recording of a one-to-one call with one Teams desktop user. If you're not using the April 2020 release or later, you can only record a one-to-one call with a Remote Assist HoloLens user if you initiate the call using the **Teams Meet Now** feature. (The **Meet Now** feature is not available for Teams mobile users.) 
-    > 
-    > To initiate a call using the **Meet Now** feature:
-    > 
-    > 1. Go to the **Calendar** tab. 
-    > 
-    > 2. Select **Meet Now** in the top-right corner of the page. 
-    > 
-    > 3. Invite people to the meeting using the **Invite someone or dial a number** field on the right half of the screen. 
-    > 
-    > 4. Select the ellipses icon […], and then select **Start Recording**. 
+2. Select the **Video** button on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
  
-### Call a Dynamics 365 Remote Assist user who is outside your tenant	
+### Call a Dynamics 365 Remote Assist user who is outside your organization (tenant)
 
-You can search, call, and receive a call from a Dynamics 365 Remote Assist user in another tenant if your tenant is federated with that tenant. When searching for this Dynamics 365 Remote Assist user, you must enter their full email address.
+You can search, call, or receive a call from a Dynamics 365 Remote Assist user in another organization if your organization is federated with that organizationg. When searching for this Dynamics 365 Remote Assist user, you must enter their full email address.
 
 >[!Note]
 > If you're not able to find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access)) has not been enabled. Contact your administrator for help.  
