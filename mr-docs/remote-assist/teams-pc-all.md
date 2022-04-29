@@ -36,7 +36,7 @@ However, the features you can use to collaborate differ depending on which platf
 
 ## Key terms
 
-When you join a call, you'll see the Mixed Reality toolbar, seen in the following screenshot.
+When you join a call, you'll see the Mixed Reality toolbar.
 
 ![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
 
