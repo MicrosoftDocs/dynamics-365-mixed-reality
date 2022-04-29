@@ -69,9 +69,9 @@ When you select the **More Options** button, you'll see additional features.
 
 ### Call a Dynamics 365 Remote Assist user who is in your tenant	
 
-- After launching Teams, select the **Calls** tab on your left to see suggested contacts. 
+1. After launching Teams, select the **Calls** tab on your left to see suggested contacts. 
 
-- Select the **Video** icon on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
+2. Select the **Video** icon on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
 
     >[!Note]
     > Starting in the April 2020 release, Dynamics 365 Remote Assist users (HoloLens and mobile) can initiate a cloud-based recording of a one-to-one call with one Teams desktop user. If you're not using the April 2020 release or later, you can only record a one-to-one call with a Remote Assist HoloLens user if you initiate the call using the **Teams Meet Now** feature. (The **Meet Now** feature is not available for Teams mobile users.) 
