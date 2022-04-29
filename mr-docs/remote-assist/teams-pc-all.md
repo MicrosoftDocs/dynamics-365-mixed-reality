@@ -78,7 +78,7 @@ When you select the **More Options** button, you'll see additional features.
 You can search, call, or receive a call from a Dynamics 365 Remote Assist user in another organization if your organization is federated with that organization. When searching for this Dynamics 365 Remote Assist user, you must enter their full email address.
 
 >[!Note]
-> If you're not able to find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access)) has not been enabled. Contact your administrator for help.  
+> If you can't find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access)) has not been enabled. Contact your administrator for help.  
 
 ### Make a group call 
 
@@ -88,7 +88,7 @@ You can search, call, or receive a call from a Dynamics 365 Remote Assist user i
 
 [Learn more about who can join a group call](mobile-app/making-calls-on-remote-assist-mobile.md)
 
-## Schedule and join a meeting (with a Dynamics 365 Remote Assist HoloLens user only)
+## Schedule and join a meeting with a Dynamics 365 Remote Assist HoloLens user
 
 > [!NOTE]
 > Dynamics 365 Remote Assist users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten.  
