@@ -48,9 +48,9 @@ When you select the **More Options** button, you'll see additional features.
 
 ![Screenshot of the more options menu.](media/PC_MoreOptions.png "MoreOptions") 
 
-- A **meeting** is a call scheduled using Teams. A meeting can include one or more participants.
-- A **one-to-one call** is a call between two people that is not scheduled using Teams.  
-- A **group call** is a call with more than two people that is not scheduled using Teams. To create a group call, start with a one-to-one call and then add more participants. 
+- A **meeting** is a call scheduled through Microsoft Teams. A meeting can include one or more participants.
+- A **one-to-one call** is a call between two people that is not scheduled through Teams.  
+- A **group call** is a call with more than two people that is not scheduled through Teams. To create a group call, start with a one-to-one call, and then add more participants. 
 
 ## Launch Teams 
 
