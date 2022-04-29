@@ -4,7 +4,7 @@ description: Learn about the do's and don'ts for a successful mixed reality guid
 ms.author: mamaylya
 ms.date: 08/25/2020
 ms.topic: article
-title: How to make a good mixed reality guide in Dynamics 365 Guides
+title: How to make a great mixed-reality guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
