@@ -105,9 +105,9 @@ Check out the following links:
 
 Check out the following links:
 
-- [Join a Teams meeting](https://support.office.com/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
+- [Join a meeting in Teams](https://support.office.com/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
 
-- [Watch a tutorial video](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US)
+- [Watch a video on joining a Teams meeting](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US)
 
 If the Dynamics 365 Remote Assist HoloLens user has been invited to the meeting, they can sign in to Dynamics 365 Remote Assist and select **Join Meeting** at the bottom of the **Recent Contacts** page.
 
