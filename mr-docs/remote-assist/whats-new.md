@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 05/01/2022
+ms.date: 05/11/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -20,21 +20,8 @@ This article describes details about the **current wave of features (April 2022 
 |-----------------------------------------------|----------------------------------------------------|
 |[Support for Microsoft Teams desktop for Mac](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-teams-desktop-mac)|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop or Teams for Mac](teams-pc-all.md)|
 
-|Device|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|XXX|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
-
-### Bugs fixed 
-
-#### HoloLens 2
-
-- XXX
-
-#### Mobile
-
-- XXX
+> [!NOTE]
+> You don't need to update the Dynamics 365 Remote Assist HoloLens or mobile apps to take advantage of Microsoft Teams desktop support for Mac.
 
 ## April 13, 2022
 
