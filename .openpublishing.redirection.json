@@ -1,6 +1,41 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/guides/anchor.md",
+      "redirect_url": "pc-app-anchor",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/try-remote-assist-free.md",
+      "redirect_url": "try-remote-assist",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/poor-network-connectivity.md",
+      "redirect_url": "../hololens-low-bandwidth",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/version-history-remote-assist-hololens.md",
+      "redirect_url": "version-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/version-history-remote-assist-mobile.md",
+      "redirect_url": "version-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/vendor-use-teams.md",
+      "redirect_url": "vendor-use-ra",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/index.md",
+      "redirect_url": "remote-assist-mobile-overview",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/import-tool/3ds-max.md",
       "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
       "redirect_document_id": "false"
