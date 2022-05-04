@@ -32,7 +32,7 @@ Yes, you can. To view all available trials, [visit the trial hub page](https://d
 > [!NOTE]
 > You can't use an email account to sign up for a Dynamics 365 Guides trial. [Learn how to sign up for a Dynamics 365 Guides trial](trial-signup.md)
 
-## Trial app
+## What should I do if I haven't received trial details?
 
 I didn't receive the trial details email after signing up, what should I do?
 
