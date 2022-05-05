@@ -185,7 +185,7 @@ Use the Mixed Reality toolbar to place arrows, draw, or add files in the HoloLen
 
 ### Finish editing
 
-When done annotating, you can either:
+When done annotating, do one of the following:
 
 -   Select **Stop editing**.
 
@@ -193,7 +193,7 @@ When done annotating, you can either:
 
 ### Make changes to your edits
 
-To make changes to your edits, you can:
+To make changes to your edits:
 
 - While in edit mode, select **Undo** to undo the last action.
 
