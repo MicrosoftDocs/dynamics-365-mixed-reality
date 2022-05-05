@@ -244,13 +244,13 @@ When you share a file, it appears as a new window in the Dynamics 365 Remote Ass
 
 ### Share files with a Dynamics 365 Remote Assist mobile user
 
-- From the Teams chat, select **Attach file** to share a file from OneDrive or your computer. When you share a file with a Dynamics 365 Remote Assist mobile user, it will be sent in the Dynamics 365 Remote Assist mobile text chat.
+- From the Teams chat, select **Attach file** to share a file from OneDrive or your computer. When you share a file with a Dynamics 365 Remote Assist mobile user, it's sent in the Dynamics 365 Remote Assist mobile text chat.
 
 To access the file after the call: 
 
 - Any call participant can find the link to the file in the Teams chat. 
 
-- During the call, the Dynamics 365 Remote Assist HoloLens user can save the file to their OneDrive by tapping the OneDrive icon in the top-right corner of the slate. The file is then automatically saved to a OneDrive folder called **HoloLens Received Files**. 
+- During the call, the Dynamics 365 Remote Assist HoloLens user can save the file to their OneDrive by tapping the OneDrive icon in the top-right corner of the window. The file is then automatically saved to a OneDrive folder called **HoloLens Received Files**. 
 
 ## Share your desktop or application window (with a Dynamics 365 Remote Assist HoloLens user only)
 
