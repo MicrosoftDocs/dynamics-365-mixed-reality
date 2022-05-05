@@ -322,13 +322,11 @@ If you're in a one-to-one call, ask the Dynamics 365 Remote Assist user (HoloLen
 
 The person who initiates the recording owns the video. When a recording ends, it begins uploading to OneDrive for Business or SharePoint. Once the video is uploaded, the recorder receives an email notification, and all call participants can view a link to OneDrive for Business or SharePoint via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. 
 
-You can [find all the videos you own](https://msit.microsoftstream.com/studio/videos).
-
 If your admin has configured Dynamics 365 Field Service integration, you can access the recording link and can post it in a Dynamics 365 Field Service work order.
 
 ### Record your Teams desktop screen using Windows Game bar
 
-If it is imperative that your recording only captures as much of the Dynamics 365 Remote Assist HoloLens user’s view as possible, and as little of the Teams user’s outgoing videos (or avatars), consider recording your desktop screen using the Windows Game Bar. 
+If it is imperative that your recording captures as much of the Dynamics 365 Remote Assist HoloLens user’s view as possible, and as little of the Teams user’s outgoing videos (or avatars) as possible, consider recording your desktop screen using the Windows Game Bar. 
 
 #### Initiate a recording of what the Teams Desktop user sees during the call 
 
