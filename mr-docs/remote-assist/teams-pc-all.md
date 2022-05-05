@@ -328,7 +328,7 @@ If your admin has configured Dynamics 365 Field Service integration, you can acc
 
 If it is imperative that your recording captures as much of the Dynamics 365 Remote Assist HoloLens user’s view as possible, and as little of the Teams user’s outgoing videos (or avatars) as possible, consider recording your desktop screen using the Windows Game Bar. 
 
-#### Initiate a recording of what the Teams Desktop user sees during the call 
+#### Initiate a recording of what the Teams desktop user sees during the call 
 
 1. Join a Remote Assist call using the Teams desktop application.
 
