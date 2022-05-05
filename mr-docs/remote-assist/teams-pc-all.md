@@ -262,7 +262,7 @@ To share your desktop or a running application:
 
    ![Screenshot of the share tray button.](media/share-tray.PNG "Share tray button")
    
-2. Select the application window you would like to share, or share your screen. 
+2. Select the application window you want to share, or share your screen. 
 
 > [!Note]
 > You can share one application window or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
