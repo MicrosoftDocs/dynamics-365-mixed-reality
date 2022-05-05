@@ -254,7 +254,7 @@ To access the file after the call:
 
 ## Share your desktop or application window (with a Dynamics 365 Remote Assist HoloLens user only)
 
-You may want to share your desktop or application window with a Dynamics 365 Remote Assist HoloLens user. This is useful if you'd like to communicate information that's not captured in a file type that is supported by the file sharing feature (.jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.). For example, you may want to share an instructional video that is playing in your browser, or a series of instructions embedded in a PowerPoint presentation.  
+You may want to share your desktop or application window with a Dynamics 365 Remote Assist HoloLens user. This is useful if you'd like to communicate information that's not captured in a file type that is supported by the file sharing feature (.jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.). For example, you may want to share an instructional video playing in your browser, or a series of instructions embedded in a PowerPoint presentation.  
 
 To share your desktop or a running application:
 
