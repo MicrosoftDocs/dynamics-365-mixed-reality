@@ -324,7 +324,7 @@ The person who initiates the recording owns the video. When a recording ends, it
 
 If your admin has configured Dynamics 365 Field Service integration, you can access the recording link and can post it in a Dynamics 365 Field Service work order.
 
-### Record your Teams desktop screen using Windows Game bar
+### Record your Teams desktop screen using Windows Game Bar
 
 If it is imperative that your recording captures as much of the Dynamics 365 Remote Assist HoloLens user’s view as possible, and as little of the Teams user’s outgoing videos (or avatars) as possible, consider recording your desktop screen using the Windows Game Bar. 
 
@@ -346,7 +346,7 @@ If it is imperative that your recording captures as much of the Dynamics 365 Rem
 
    The video of the recording will appear in your **Videos/Captures** folder.
    
-[Learn more about the Windows Game bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
+[Learn more about the Windows Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
 
 ### Record the HoloLens user's view using the HoloLens OS
 
