@@ -13,4 +13,6 @@ Your Microsoft Dynamics 365 Guides trial will be ready to use in about 5 minutes
     > [!NOTE]
     > For information about how to open and sign in to the app, see [Install, open, and sign in to the PC app](install-sign-in-pc-app.md).
 
-After downloading the PC app, learn how to [Get started with Dynamics 365 Guides](get-started.md). 
+## Next step
+
+Learn how to [Get started with Dynamics 365 Guides](get-started.md). 
