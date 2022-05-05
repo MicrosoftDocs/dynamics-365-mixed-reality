@@ -208,7 +208,7 @@ To make changes to your edits:
 
 ## Annotate a 2D snapshot
 
-Dynamics 365 Remote Assist enables users to take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. Snapshots are critical in situations where a still image might be needed to carefully add annotations to it. These snapshots can be used for reference later or work validation. Snapshots can also be utilized in low-bandwidth situations.
+Dynamics 365 Remote Assist enables users to take 2D snapshots of their environment and mixed-reality annotations, and annotate them during a call. Snapshots are critical in situations where a still image might be needed to add annotations. These snapshots can be used for reference later or work validation. Snapshots can also be utilized in low-bandwidth situations.
 
 When a Dynamics 365 Remote Assist user takes a snapshot, the video feed will freeze. They can then start editing to begin adding annotations. After both call participants are finished annotating the snapshot, the Dynamics 365 Remote Assist user can select the check mark to exit from annotation mode, and can choose to save the snapshot.
 
