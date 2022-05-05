@@ -21,7 +21,7 @@ This article describes details about the **current wave of features (April 2022 
 |[Support for Microsoft Teams desktop for Mac](https://docs.microsoft.com/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-teams-desktop-mac)|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop or Teams for Mac](teams-pc-all.md)|
 
 > [!NOTE]
-> You don't need to update the Dynamics 365 Remote Assist HoloLens or mobile apps to take advantage of Microsoft Teams desktop support for Mac.
+> You don't need to update the Dynamics 365 Remote Assist HoloLens app or mobile app to take advantage of Microsoft Teams desktop support for Mac.
 
 ## April 13, 2022
 
