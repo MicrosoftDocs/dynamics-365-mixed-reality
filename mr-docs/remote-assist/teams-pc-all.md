@@ -69,7 +69,7 @@ When you select the **More Options** button, you'll see additional features.
 
 ### Call a Dynamics 365 Remote Assist user who is in your organization
 
-1. After launching Teams, select the **Calls** tab on your left to see suggested contacts. 
+1. After launching Teams, select the **Calls** tab to see suggested contacts. 
 
 2. Select the **Video** button on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
  
