@@ -320,11 +320,11 @@ If you're in a group call or meeting, go to the call controls, select the **More
 
 If you're in a one-to-one call, ask the Dynamics 365 Remote Assist user (HoloLens or mobile) to initiate the recording.
 
-The person who initiates the recording owns the video. When a recording ends, it begins uploading to OneDrive for Business or SharePoint. Once the video is uploaded, the recorder receives an email notification, and all call participants can view a link to OneDrive for Business or SharePoint via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. [Learn more about OneDrive for Business or SharePoint video permissions](/stream/portal-permissions).
+The person who initiates the recording owns the video. When a recording ends, it begins uploading to OneDrive for Business or SharePoint. Once the video is uploaded, the recorder receives an email notification, and all call participants can view a link to OneDrive for Business or SharePoint via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. 
 
 You can [find all the videos you own](https://msit.microsoftstream.com/studio/videos).
 
-If your admin has configured Field Service integration, you can access the recording link and can post it in a Dynamics 365 Field Service work order.
+If your admin has configured Dynamics 365 Field Service integration, you can access the recording link and can post it in a Dynamics 365 Field Service work order.
 
 ### Record your Teams desktop screen using Windows Game bar
 
