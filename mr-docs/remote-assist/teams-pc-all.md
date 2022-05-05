@@ -174,15 +174,14 @@ In edit mode, the expert will still see a live stream of the call in the corner 
 
 ### Add arrows, ink, and files
 
-Use the Mixed Reality toolbar to place arrows, draw, or add files in the HoloLens user's space:
+Use the Mixed Reality toolbar to place arrows, draw, or add files in the HoloLens user's space. The following table describes the buttons in the Mixed Reality toolbar.
 
-- To add arrows, select **Place arrow** (![Graphic showing the place arrow icon.](media/6584f4b7932378aa23f6efbf460b304c.png)).
-
-- To add ink, select **Ink** (![Graphic showing the ink icon, which looks like a pen.](media/187307e30fd713f5ae67aba854b78bc4.png)).
-
-- To add a file in the HoloLens user's space, select  **Insert files** (![Graphic showing the insert files icon.](media/insert-document-button.png)), and then add an image file or a PDF from OneDrive or from your device. 
-
-- To change the arrow or ink color, select **Pick a color** (![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)).
+|Button|Description|
+|---------|----------------------------------------------------|
+|![Graphic showing the place arrow icon.](media/6584f4b7932378aa23f6efbf460b304c.png)|Add an arrow|
+|![Graphic showing the ink icon, which looks like a pen.](media/187307e30fd713f5ae67aba854b78bc4.png)|Add ink (draw)|
+|![Graphic showing the insert files icon.](media/insert-document-button.png)|Insert a file in the HoloLens user's space. You can select an image or PDF file from OneDrive or from your device.|
+|![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)|Change the arrow or ink color.|
 
 ### Finish editing
 
