@@ -330,7 +330,7 @@ If it is imperative that your recording captures as much of the Dynamics 365 Rem
 
 #### Initiate a recording of what the Teams desktop user sees during the call 
 
-1. Join a Remote Assist call using the Teams desktop application.
+1. Join a Dynamics 365 Remote Assist call using the Teams desktop application.
 
 2. Press the **Windows logo key** (![Graphic showing the windows logo key.](media/windows-logo-key.png)) + **G** to open the Game Bar.
 
