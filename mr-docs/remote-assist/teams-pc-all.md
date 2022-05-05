@@ -361,7 +361,7 @@ From the call controls, select **Text Chat** (![Graphic showing the text chat ic
 You can also attach a OneDrive or local file through the Teams chat **Attach file** feature.
 
 >[!Note]
-> Dynamics 365 Remote Assist chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlinks. However, it does not support HTML-formatted or lists, such as a passage you copy and paste from a website. 
+> Dynamics 365 Remote Assist chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlinks. However, it does not support HTML-formatted text or lists, such as a passage you copy and paste from a website. 
 >
 > For example, if you copy and paste text from a website that has HTML formatting and send it during a Dynamics 365 Remote Assist call, the Dynamics 365 Remote Assist HoloLens user will see the text in the Dynamics 365 Remote Assist chat window, but the formatting may not be what you expect.
 
