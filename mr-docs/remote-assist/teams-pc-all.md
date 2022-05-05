@@ -178,8 +178,8 @@ Use the Mixed Reality toolbar to place arrows, draw, or add files in the HoloLen
 
 |Button|Description|
 |---------|----------------------------------------------------|
-|![Graphic showing the place arrow icon.](media/6584f4b7932378aa23f6efbf460b304c.png)|Add an arrow|
-|![Graphic showing the ink icon, which looks like a pen.](media/187307e30fd713f5ae67aba854b78bc4.png)|Add ink (draw)|
+|![Graphic showing the place arrow icon.](media/6584f4b7932378aa23f6efbf460b304c.png)|Add an arrow.|
+|![Graphic showing the ink icon, which looks like a pen.](media/187307e30fd713f5ae67aba854b78bc4.png)|Add ink (draw).|
 |![Graphic showing the insert files icon.](media/insert-document-button.png)|Insert a file in the HoloLens user's space. You can select an image or PDF file from OneDrive or from your device.|
 |![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)|Change the arrow or ink color.|
 
