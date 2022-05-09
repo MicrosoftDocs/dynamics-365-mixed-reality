@@ -36,7 +36,7 @@ To generate links for one-time calls:
  
 - The agent must use the Dynamics 365 Remote Assist model-driven app on a [compatible browser](/power-platform/admin/web-application-requirements).
 
-- Pop-ups must be enabled for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Dynamics 365 Remote Assist model-driven app. Pop-ups are used for authentication purposes.
+- Pop-ups must be enabled for `https://call.d365ra.com` and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Dynamics 365 Remote Assist model-driven app. Pop-ups are used for authentication purposes.
 
 - The agent’s organization must [enable anonymous users to join a Teams meeting](/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
 
@@ -143,7 +143,7 @@ If you want to access the Dynamics 365 Remote Assist features from Teams (for ex
 
 **When the agent selects “Generate a link,” no pop-ups appear, and the agent is unable to copy the link to send to their customer**
 
-Each browser handles pop-ups differently. Refer to browser-specific instructions to enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL. Contact your administrator for your tenant-specific environment URL. 
+Each browser handles pop-ups differently. Refer to browser-specific instructions to enable pop-ups for `https://call.d365ra.com` and for your organization’s tenant-specific environment URL. Contact your administrator for your tenant-specific environment URL. 
 
 **Can an agent modify the instructions they copy and share with their customer?**
 
