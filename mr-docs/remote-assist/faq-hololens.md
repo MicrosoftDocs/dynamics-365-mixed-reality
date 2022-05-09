@@ -24,7 +24,7 @@ There are several ways to [update your app](/hololens/holographic-store-apps#upd
 
 ## What languages is Dynamics 365 Remote Assist HoloLens available in?
 
-Dynamics 365 Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](/hololens/hololens1-install-localized).
+Dynamics 365 Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](/windows/mixed-reality/enthusiast-guide/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](/hololens/hololens1-install-localized).
 
 Dynamics 365 Remote Assist on HoloLens 2 is available in the [following languages](/hololens/hololens2-language-support).
 
