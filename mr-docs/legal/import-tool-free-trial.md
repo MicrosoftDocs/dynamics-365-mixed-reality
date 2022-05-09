@@ -21,7 +21,7 @@ interact with the Microsoft Dynamics 365 Import Tool (Preview) (“Dynamics 365 
 Dynamics 365 Import Tool (Preview) through this free offer must comply with these terms. You must uninstall the software 
 after the trial period expires unless you have purchased a subscription covering the device on which the software is installed.
 
-> **b)	Limitations and Exclusions.** the Microsoft Online Services Terms (see http://microsoftvolumelicensing.com/) and any 
+> **b)	Limitations and Exclusions.** the Microsoft Online Services Terms (see https://www.microsoft.com/Licensing/servicecenter) and any 
 Microsoft volume licensing agreement you have entered into with Microsoft, or any other applicable agreement (collectively, 
 the “Microsoft Licensing Agreement” or “MLA”), and any references or statements made in the Trust Center do not apply to the 
 Dynamics 365 Import Tool (Preview), including, but not limited to, data security, GDPR, and professional services related terms. 
