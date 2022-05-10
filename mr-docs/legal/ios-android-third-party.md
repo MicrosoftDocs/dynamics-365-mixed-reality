@@ -540,7 +540,7 @@ Copyright (c) 2013 Calvin Rien
 
 Based on the JSON parser by Patrick van Bergen
 
-http://techblog.procurios.nl/k/618/news/view/14605/14863/How-do-I-write-my-own-parser-for-JSON.html 
+https://patrick-van-bergen.blogspot.com/2021/02/how-do-i-write-my-own-parser-for-json.html
 
 Simplified it so that it doesn't throw exceptions and can be used in Unity iPhone with maximum code stripping.
 
