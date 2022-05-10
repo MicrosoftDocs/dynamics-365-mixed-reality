@@ -23,7 +23,7 @@ BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 interact with the software. Your access and use of this software must comply with these terms. You must uninstall the software 
 after the trial period ends unless you have purchased a subscription covering the device on which the software is installed. 
 
-> **b) Limitations and Exclusions.** The Microsoft Online Services Terms (see [http://microsoftvolumelicensing.com/](http://microsoftvolumelicensing.com/)) and any Microsoft 
+> **b) Limitations and Exclusions.** The Microsoft Online Services Terms (see [http://microsoftvolumelicensing.com/](https://www.microsoft.com/Licensing/servicecenter)) and any Microsoft 
 volume licensing agreement you have entered into with Microsoft, or any other applicable agreement (collectively, the “Microsoft 
 Licensing Agreement” or “MLA”), and any references or statements made in the Trust Center do not apply to the Preview, including, 
 but not limited to, data security, GDPR, and professional services related terms. Microsoft also may, in its sole discretion, 
