@@ -30,7 +30,7 @@ application to which you have access rights via your company’s Dynamics 365
 Layout subscription. Your access to Dynamics 365 Layout through the use of
 this software must comply with the existing license terms for Dynamics 365
 Layout that apply to you through your company’s subscription, including the Microsoft Online Services Terms 
-(see http://microsoftvolumelicensing.com/) and your Microsoft volume licensing agreement, or any other applicable agreement (collectively, the “Microsoft Licensing Agreement” or “MLA”). You may use
+(see https://www.microsoft.com/Licensing/servicecenter) and your Microsoft volume licensing agreement, or any other applicable agreement (collectively, the “Microsoft Licensing Agreement” or “MLA”). You may use
 and install copies of the software on Windows devices you own or control
 only if you have a valid subscription license to Dynamics 365 Layout. The
 Dynamics 365 Import Tool (Preview)is currently provided without additional
