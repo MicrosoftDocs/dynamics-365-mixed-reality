@@ -34,12 +34,13 @@ This article describes details about the **current wave of features (April 2022 
 |Adjusting outgoing video on a call to lower HoloLens device temperature |[How Dynamics 365 Remote Assist adjusts HoloLens device temperature](hololens-thermal-adjusting.md)|
 |New voice commands for navigating app settings and managing windows|[Voice commands for Dynamics 365 Remote Assist on HoloLens](voice-commands-hololens.md)|
 |Use Microsoft Teams policy to turn off ability to send files|[Microsoft Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md#file-sharing-policies)|
+|[Improvement to incoming call notifications on Android](https://docs.microsoft.com/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/improvement-incoming-call-notifications-android)|[Make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams](mobile-app/remote-assist-mobile-to-teams-calls.md#what-happens-when-dynamics-365-remote-assist-mobile-and-teams-mobile-are-installed-on-the-same-device)|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2 app|309.2204.06001|
-|iOS mobile app|2022.4.13|
-|Android mobile app|2022.4.13|
+|iOS mobile app|2022.4.6|
+|Android mobile app|2022.4.6|
 
 ### Bugs fixed 
 

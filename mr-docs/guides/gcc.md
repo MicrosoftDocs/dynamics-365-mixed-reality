@@ -4,7 +4,7 @@ description: Learn how to use Dynamics 365 Guides US Government for government o
 ms.author: mamaylya
 ms.date: 11/25/2020
 ms.topic: article
-title: Dynamics 365 Guides Us Government
+title: Dynamics 365 Guides US Government
 ms.reviewer: v-brycho
 ---
 

@@ -139,7 +139,7 @@ This will occur if you try to install Dynamics 365 Remote Assist in an environme
 
 ### Can't enable Dynamics 365 apps
 
-If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch when you create an environment, ensure that you have an active Dynamics 365 Remote Assist subscription. You can view your subscriptions in the [Microsoft 365 admin center](https://www.admin.microsoft.com).
+If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch when you create an environment, ensure that you have an active Dynamics 365 Remote Assist subscription. You can view your subscriptions in the [Microsoft 365 admin center](https://admin.microsoft.com/).
 
 ### Not enough capacity to create environments
 
