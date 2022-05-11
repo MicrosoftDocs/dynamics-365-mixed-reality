@@ -258,9 +258,9 @@ You may want to share your desktop or application window with a Dynamics 365 Rem
 
 To share your desktop or a running application:
 
-1. Select the **Open share tray** icon.
+1. Select **Share**.
 
-   ![Screenshot of the share tray button.](media/share-tray.PNG "Share tray button")
+   ![Screenshot of the share tray button.](media/teams-pc-call-controls-share.jpg "Share tray button")
    
 2. Select the application window you want to share, or share your screen. 
 
