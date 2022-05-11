@@ -3,7 +3,7 @@ title: Make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams
 author: amaraanigbo
 description: Learn how to make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams desktop or Teams mobile 
 ms.author: soanigbo
-ms.date: 04/13/2022
+ms.date: 05/11/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -76,8 +76,13 @@ If the remote collaborator receives the call on a mobile device with both Dynami
 
 - Only on Teams mobile if Teams mobile incoming call notifications are enabled in the **Settings** page.
  
-- Only on Remote Assist mobile, if Teams mobile incoming call notifications are disabled in the **Settings** page. 
+- Only on Remote Assist mobile, if Teams mobile incoming call notifications are disabled in the **Settings** page.  
+
+- Neither of the apps if all notifications are disabled in the **Settings** page. 
 
     ![Screenshot of Teams Settings page.](./media/teams-settings.jpg)
+    
+> [!IMPORTANT]
+> The Dynamics 365 Remote Assist mobile app needs to be installed or updated after installing the Teams mobile app for the Dynamics 365 Remote Assist app to successfully access Teams settings data.
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
