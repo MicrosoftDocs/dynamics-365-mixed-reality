@@ -42,7 +42,7 @@ When you join a call, you'll see the Mixed Reality toolbar.
 
 You'll also see the Call Controls toolbar.
 
-![Screenshot of call controls.](media/PC_CallControls.png "CC")
+![Screenshot of call controls.](media/teams-pc-call-controls.jpg "CC")
  
 When you select the **More options** button, you'll see additional features. 
 
