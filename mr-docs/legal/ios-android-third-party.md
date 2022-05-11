@@ -14,7 +14,7 @@ NOTICES AND INFORMATION
 
 Do Not Translate or Localize
 
-This software incorporates material from third parties. Microsoft makes certain open source code available at http://3rdpartysource.microsoft.com, or you may send a check or money order for US $5.00, including the product name, the open source component name, and version number, to:
+This software incorporates material from third parties. Microsoft makes certain open source code available at https://3rdpartysource.microsoft.com, or you may send a check or money order for US $5.00, including the product name, the open source component name, and version number, to:
 
 Source Code Compliance Team
 
@@ -540,7 +540,7 @@ Copyright (c) 2013 Calvin Rien
 
 Based on the JSON parser by Patrick van Bergen
 
-http://techblog.procurios.nl/k/618/news/view/14605/14863/How-do-I-write-my-own-parser-for-JSON.html 
+https://patrick-van-bergen.blogspot.com/2021/02/how-do-i-write-my-own-parser-for-json.html
 
 Simplified it so that it doesn't throw exceptions and can be used in Unity iPhone with maximum code stripping.
 
