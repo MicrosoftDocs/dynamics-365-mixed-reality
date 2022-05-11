@@ -46,7 +46,7 @@ You'll also see the Call Controls toolbar.
  
 When you select the **More options** button, you'll see additional features. 
 
-![Screenshot of the more options menu.](media/PC_MoreOptions.png "MoreOptions") 
+In Dynamics 365 Remote Assist:
 
 - A **meeting** is a call scheduled through Microsoft Teams. A meeting can include one or more participants.
 - A **one-to-one call** is a call between two people that is not scheduled through Teams.  
