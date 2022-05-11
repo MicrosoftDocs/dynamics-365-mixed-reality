@@ -44,7 +44,7 @@ You'll also see the Call Controls toolbar.
 
 ![Screenshot of call controls.](media/teams-pc-call-controls.jpg "CC")
  
-When you select the **More options** button, you'll see additional features. 
+When you select the **More** button, you'll see additional features. 
 
 In Dynamics 365 Remote Assist:
 
@@ -146,7 +146,7 @@ When you're in a call, you'll see the call controls at the bottom of the screen.
 |	![The text chat icon.](media/Teams_Text.png)| Open a chat window to send text messages| 
 |	![The participants icon.](media/Teams_Participants.png)| See current participants, or add more|
 
-To use additional features, select the **More options** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting with a Dynamics 365 Remote Assist HoloLens user, the **More options** […] button will also provide the option to record the call.  
+To use additional features, select the **More** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting with a Dynamics 365 Remote Assist HoloLens user, the **More** […] button will also provide the option to record the call.  
 
 ## Add annotations in the Dynamics 365 Remote Assist user's environment 
 
@@ -312,7 +312,7 @@ A recording including four or more participants splits the horizontal recording 
 
 #### How to initiate a cloud-based recording
 
-If you're in a group call or meeting, go to the call controls, select the **More options** […] button, and then select **Start recording.** A call recording ends if:
+If you're in a group call or meeting, go to the call controls, select the **More** […] button, and then select **Start recording.** A call recording ends if:
 
 - You select **Stop recording**.
 
