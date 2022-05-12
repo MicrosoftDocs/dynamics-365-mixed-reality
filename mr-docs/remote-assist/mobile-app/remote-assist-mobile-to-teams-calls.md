@@ -78,7 +78,7 @@ If the remote collaborator receives the call on a mobile device with both Dynami
  
 - Only on Remote Assist mobile, if Teams mobile incoming call notifications are disabled in the **Settings** page.  
 
-- Neither of the apps if all notifications are disabled in the **Settings** page. 
+- In neither of the apps if all notifications are disabled in the **Settings** page. 
 
     ![Screenshot of Teams Settings page.](./media/teams-settings.jpg)
     
