@@ -28,10 +28,6 @@ Dynamics 365 Remote Assist on HoloLens is available in English. As of October 20
 
 Dynamics 365 Remote Assist on HoloLens 2 is available in the [following languages](/hololens/hololens2-language-support).
 
-## Does Dynamics 365 Remote Assist support QR-code scanning?
-
-A HoloLens user can scan a QR code (for example, to go directly to a specific URL when using the browser) from the OS shell (outside of an immersive application). You can't scan a QR code from 365 Remote Assist. 
-
 ## How do I stream my HoloLens view to a PC using Miracast?
 
 The Connect app for wireless projection using Miracast is no longer installed by default, but is available as an optional feature. To install the app, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app.
