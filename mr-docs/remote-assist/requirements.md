@@ -2,7 +2,7 @@
 author: amaraanigbo
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 04/20/2022
+ms.date: 05/20/2022
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
 ms.reviewer: v-bholmes
@@ -27,7 +27,7 @@ The Dynamics 365 Remote Assist app is available on HoloLens, HoloLens 2, and qua
 > [!NOTE]
 > Android devices that have a time-of-flight (ToF) sensor and support the [Depth API](https://developers.google.com/ar/discover/supported-devices) and iOS devices that have a LiDAR sensor [(see LiDAR sensor in the tables listed for iOS and iPadOS devices)](https://en.wikipedia.org/wiki/List_of_iOS_and_iPadOS_devices) are likely to have better accuracy with annotation placement.
 
-If an individual wants to join a Dynamics 365 Remote Assist call using the Teams app, they must use the Teams app on Windows 10 PC or mobile devices.
+If an individual wants to join a Dynamics 365 Remote Assist call using the Teams app, they must use the Teams app on Windows, Mac, or mobile. 
 
 ### Device options and requirements for a Dynamics 365 Remote Assist user
 
@@ -40,7 +40,8 @@ If an individual wants to join a Dynamics 365 Remote Assist call using the Teams
 
 | Device                             | OS requirements                                             | Details                                                                                                                                                                                                                                                                                 |
 | ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Teams application on Windows 10 PC | Any Windows 10 build.                                       | A Windows 10 PC running the Teams PC application can collaborate with Dynamics 365 Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.                |
+| Teams application on Windows 10 (or later) PC | Any Windows 10 (or later) build.                                       | A Windows 10 (or later) PC running the Teams PC application can collaborate with Dynamics 365 Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.                |
+| Teams application on Mac|||
 | Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with Dynamics 365 Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices. |
 
 > [!Note] 
