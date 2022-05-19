@@ -6,6 +6,11 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/remote-assist/report-a-bug-hololens.md",
+      "redirect_url": "file-support-ticket",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/remote-assist/mobile-app/sending-chat-messages.md",
       "redirect_url": "send-chat-messages",
       "redirect_document_id": "false"
