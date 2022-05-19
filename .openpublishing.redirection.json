@@ -1,6 +1,26 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/remote-assist/remote-assist-language.md",
+      "redirect_url": "faq-hololens#what-languages-is-dynamics-365-remote-assist-hololens-available-in",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/sending-chat-messages.md",
+      "redirect_url": "send-chat-messages",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/analytics-data-collected.md",
+      "redirect_url": "analytics-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/author-convert-3D-models.md",
+      "redirect_url": "3d-content-guidelines",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/anchor.md",
       "redirect_url": "pc-app-anchor",
       "redirect_document_id": "false"
