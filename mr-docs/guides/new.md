@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 04/05/2022
+ms.date: 06/07/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -20,6 +20,24 @@ This page provides details about the **current wave of features (April 2022 thro
 > Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md). See the **Features** table below to determine if a new feature requires a solution update. 
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
+
+## June 7, 2022
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|XXX|
+|HoloLens app (HoloLens 2 only)|XXX|
+|Solution|XXX|
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">New Guide Author Session table tracks interactions each time a user in Authoring mode opens, navigates, or closes a guide.</a>| Yes |<a href="/dynamics365/mixed-reality/guides/analytics-overview" target="_blank">Analytics overview</a>|
+
+### Bugs fixed and other improvements
+
+- XXX
 
 ## April 5, 2022
 
