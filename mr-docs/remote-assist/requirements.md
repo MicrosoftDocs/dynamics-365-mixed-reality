@@ -2,7 +2,7 @@
 author: amaraanigbo
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 05/20/2022
+ms.date: 05/19/2022
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
 ms.reviewer: v-bholmes
