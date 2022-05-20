@@ -14,6 +14,8 @@ To find a guide in the Microsoft Dynamics 365 Guides PC app, you can:
 
 - Use the filter box 
 
+- Use the search box
+
 - Navigate the folder structure
 
 - Use the **All** or **Recent** tabs, and then sort the resulting lists
@@ -25,6 +27,20 @@ To find a guide in the Microsoft Dynamics 365 Guides PC app, you can:
 2. Open the **Home** page, enter a name in the filter box, and then select the **Filter** button.
 
     ![Filter box on the Home page.](media/find-guide.PNG "Search box on the Home page")
+
+    > [!NOTE]
+    > When you use the filter box, you can filter the current view. To filter inside a folder, you need to open the folder first.
+    
+## Use the search box
+
+1. [Open the PC app](install-sign-in-pc-app.md).
+
+2. Open the **Home** page, and then start entering characters in the search box. 
+
+    SCREEN SHOT GOES HERE
+    
+    > [!NOTE]
+    > When you search for a guide using the search box, Dynamics 365 Guides searches all folders in the instance. At this time, you can't use the Search box to search for a folder, however. 
     
 ## Navigate the folder structure
 
