@@ -37,14 +37,13 @@ When you search for a guide using the search box, Dynamics 365 Guides searches a
 
 ## Use the filter box
 
+When you use the filter box, you can filter just the current view (the list you see on your screen). To filter inside a folder, you need to open the folder first.
+
 1. [Open the PC app](install-sign-in-pc-app.md).
 
 2. Open the **Home** page, enter a name in the filter box, and then select the **Filter** button.
 
-    ![Filter box on the Home page.](media/find-guide.PNG "Filter box on the Home page")
-
-    > [!NOTE]
-    > When you use the filter box, you can filter just the current view. To filter inside a folder, you need to open the folder first.
+    ![Filter box on the Home page.](media/find-guide.PNG "Filter box on the Home page")    
     
 ## Navigate the folder structure
 
