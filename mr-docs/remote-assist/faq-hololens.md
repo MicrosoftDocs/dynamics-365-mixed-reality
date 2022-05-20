@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist on Microsoft HoloLens.
 ms.author: soanigbo
-ms.date: 06/02/2021
+ms.date: 05/19/2022
 ms.topic: article
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
 ms.reviewer: v-bholmes
@@ -27,6 +27,10 @@ There are several ways to [update your app](/hololens/holographic-store-apps#upd
 Dynamics 365 Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](/windows/mixed-reality/enthusiast-guide/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](/hololens/hololens1-install-localized).
 
 Dynamics 365 Remote Assist on HoloLens 2 is available in the [following languages](/hololens/hololens2-language-support).
+
+## Does Dynamics 365 Remote Assist support QR-code scanning?
+
+A HoloLens user can scan a QR code (for example, to go directly to a specific URL when using the browser) from the OS shell (outside of an immersive application). You can't scan a QR code from Dynamics 365 Remote Assist. 
 
 ## How do I stream my HoloLens view to a PC using Miracast?
 
