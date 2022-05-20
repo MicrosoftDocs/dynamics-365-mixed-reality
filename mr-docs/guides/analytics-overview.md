@@ -2,7 +2,7 @@
 author: BryceHo
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
 ms.author: cynielse
-ms.date: 04/05/2022
+ms.date: 05/20/2022
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data
 ms.reviewer: v-bholmes
