@@ -40,7 +40,7 @@ To find a guide in the Microsoft Dynamics 365 Guides PC app, you can:
     SCREEN SHOT GOES HERE
     
     > [!NOTE]
-    > When you search for a guide using the search box, Dynamics 365 Guides searches all folders in the instance. At this time, you can't use the Search box to search for a folder, however. 
+    > When you search for a guide using the search box, Dynamics 365 Guides searches all folders in the instance. At this time, you can't use the search box to search for a folder, however. 
     
 ## Navigate the folder structure
 
