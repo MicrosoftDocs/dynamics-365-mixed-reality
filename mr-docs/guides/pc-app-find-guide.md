@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to find a guide when you're using the Dynamics 365 Guides PC app
 ms.author: mamaylya
-ms.date: 06/29/2021
+ms.date: 06/07/2022
 ms.topic: article
 title: Find a guide in the Dynamics 365 Guides PC app
 ms.reviewer: v-bholmes
