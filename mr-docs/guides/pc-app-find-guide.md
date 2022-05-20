@@ -62,4 +62,4 @@ Note that folders do not appear on the **Recent** tab. [Learn how to create fold
 ## See also
 
 - [Create a guide](create-guide.md)
-- [Create folders if you're an admin or author](admin-create-folders.md)
+- [Create a folder (admins and authors)](admin-create-folders.md)
