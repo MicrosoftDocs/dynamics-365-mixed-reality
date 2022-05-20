@@ -43,7 +43,7 @@ When you use the filter box, you can filter just the current view (the list you 
 
 2. Open the **Home** page, enter a name in the filter box, and then select the **Filter** button.
 
-    ![Filter box on the Home page.](media/find-guide.PNG "Filter box on the Home page")    
+    ![Filter box on the Home page.](media/filter-guide.jpg "Filter box on the Home page")    
     
 ## Navigate the folder structure
 
