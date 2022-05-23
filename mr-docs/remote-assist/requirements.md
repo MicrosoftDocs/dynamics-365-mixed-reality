@@ -2,7 +2,7 @@
 author: amaraanigbo
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 05/19/2022
+ms.date: 05/23/2022
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
 ms.reviewer: v-bholmes
@@ -35,6 +35,9 @@ If an individual wants to join a Dynamics 365 Remote Assist call using the Teams
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Dynamics 365 Remote Assist on HoloLens or HoloLens 2 | HoloLens or HoloLens 2 running 10.0.17134.0 (Windows 10 April 2018) build or later. We recommend [updating](/hololens/hololens-updates) HoloLens to newer versions when available. | See [Manage updates to HoloLens](/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
 | Dynamics 365 Remote Assist on mobile devices          | Dynamics 365 Remote Assist mobile is available on all devices, including ARCore-enabled Android phones or tablets, ARKit-enabled iOS iPhones or iPads, and mobile devices without AR support. <p><p>**For Android devices, the minimum operating system required is Android 7.0. For iOS devices, the minimum operating system required is iOS 12.2.**                                                                              | See [Android AR-supported devices](https://developers.google.com/ar/discover/supported-devices) and [iOS ARCore-supported devices](https://developers.google.com/ar/discover/supported-devices#ios). For more information on how to use Dynamics 365 Remote Assist on devices without AR support, see [Dynamics 365 Remote Assist mobile calls on mobile devices without augmented reality support](./mobile-app/calls-using-devices-without-ar.md).                                         |
+  
+> [!IMPORTANT]
+> When you use Dynamics 365 Remote Assist on a non-Windows device, the operating system of the device processes some personal data to enable push and incoming call notifications. Microsoft may, accordingly, send data to the external, third-party notification services so users can see who is calling or be notified of a chat message. Google Firebase Cloud Messaging (FCM) and Apple Push Notification services are not provisioned in a dedicated data center for exclusive use by you and are governed by their own service-specific terms and privacy statements, which you should carefully review.   
 
 ### Device options and requirements for a Teams user
 
