@@ -12,6 +12,9 @@ ms.reviewer: v-bholmes
 
 You can add an image or video in the Dynamics 365 Guides PC app to help an operator with a complex step. You could add a diagram, for example, or a short video to explain a difficult process. 
 
+> [!NOTE]
+> The PC app converts and resizes videos when they're uploaded to ensure optimal performance on HoloLens. This transcoding process depends on the codecs installed on the PC and errors can occur if codecs are removed from the PC. 
+
 1. In the PC app, on the right side of the page, select the **Images** or **Videos** tab.
 
     ![Images and Videos tabs.](media/select-image-video.PNG "Images and Videos tabs")
@@ -20,7 +23,7 @@ You can add an image or video in the Dynamics 365 Guides PC app to help an opera
 
     ![Dragging an image or video to the Image or video box.](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
     
-> [!NOTE]
+> [!TIP]
 > You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**. 
 
 ## Change a video thumbnail
