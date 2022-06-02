@@ -33,3 +33,9 @@ The model-driven app flow adds steps in the correct places in the PC app for any
 The other guide steps might appear in random positions, however, after running the flow. For example, if your guide has three steps, and the issue is with step 2, when you open the PC app, the steps might look like this. 
 
 ![Screenshot of steps in the PC app after running the flow.](media/corrupted-guide-pc-app-steps.jpg "Screenshot of steps in the PC app after running the flow")
+
+At this point, you'll need to:
+
+1. Add content to any recreated steps.
+
+2. Drag steps to place them in the right order.
