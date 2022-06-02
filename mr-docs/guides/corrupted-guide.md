@@ -18,7 +18,7 @@ For guides shared with an author between September 2021 and December 2021, howev
 
 ![Screenshot of message that appears when a guide is corrupted.](media/corrupted-guide-message.jpg "Screenshot of message that appears when a guide is corrupted")
 
-A guide can also become corrupted if you use the [model-driven app](open-model-driven-app.md) to delete a step (instead of the PC app). 
+A guide can also become corrupted if you use the [model-driven app](open-model-driven-app.md) to delete a step (instead of deleting the step in the PC app). 
 
 ## Run a flow to fix a corrupted guide
 
