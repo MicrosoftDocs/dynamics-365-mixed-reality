@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Known issues with Microsoft Dynamics 365 Guides
 
-## Fix a corrupted guide
+## I can't open a guide because it's corrupted
 
 In very rare cases, you may find that a guide has become corrupted. This is most commonly associated with guides that were [shared with authors](admin-share-guide.md) in the time period from September 2021 to December 2021. If you open a corrupted guide in the PC app, you'll see the following message. 
 
