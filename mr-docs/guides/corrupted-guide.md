@@ -29,7 +29,7 @@ You can fix a corrupted guide by running a flow in the model-driven app.
 
 2. Open the corrupted guide. 
 
-3. In the model driven app, on the **Flow** menu, select **Repair corrupted guide**.
+3. On the **Flow** menu, select **Repair corrupted guide**.
 
     ![Screenshot of Repair corrupted guide flow command.](media/repair-corrupted-guide-flow.jpg "Screenshot of Repair corrupted guide flow command")
 
