@@ -6,7 +6,7 @@ In very rare cases, you may find that a guide has become corrupted. This is most
 
 A guide can also become corrupted if you delete a step [from the model-driven app](open-model-driven-app.md) (instead of from the PC app). 
 
-## Fix a corrupted guide
+## Run a flow to fix a corrupted guide
 
 You can fix a corrupted guide by running a flow in the model-driven app. 
 
@@ -24,4 +24,6 @@ You can fix a corrupted guide by running a flow in the model-driven app.
 
 ## Make fixes in the PC app
 
+The model-driven app flow adds steps in the correct places in the PC app for any steps that an author added in a shared guide for the situation described above. The other guide steps will appear in random positions, however. For example, if your guide has three steps, 
 
+![Screenshot of steps in the PC app after running the flow.](media/corrupted-guide-pc-app-steps.jpg "Screenshot of steps in the PC app after running the flow")
