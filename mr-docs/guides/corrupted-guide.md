@@ -31,7 +31,7 @@ You can fix a corrupted guide by running a flow in the model-driven app.
 
     ![Screenshot of Repair corrupted guide flow command.](media/repair-corrupted-guide-flow.jpg "Screenshot of Repair corrupted guide flow command")
 
-3. In the Confirmation Application of Workflow dialog box, select **OK**.
+3. In the **Confirmation Application of Workflow** dialog box, select **OK**.
     
     ![Screenshot of Workflow confirmation dialog box.](media/workflow-confirmation.jpg "Screenshot of Workflow confirmation dialog box")
     
