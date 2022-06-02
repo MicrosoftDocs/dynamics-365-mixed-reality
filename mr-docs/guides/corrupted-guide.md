@@ -24,6 +24,6 @@ You can fix a corrupted guide by running a flow in the model-driven app.
 
 ## Make fixes in the PC app
 
-The model-driven app flow adds steps in the correct places in the PC app for any steps that an author added in a shared guide for the situation described above. The other guide steps might appear in random positions, however, after running the flow. For example, if your guide has three steps, and the issue is with step 2, the PC app might look like this. 
+The model-driven app flow adds steps in the correct places in the PC app for any steps that an author added in a shared guide for the situation described above. The other guide steps might appear in random positions, however, after running the flow. For example, if your guide has three steps, and the issue is with step 2, the steps in the PC app might look like this. 
 
 ![Screenshot of steps in the PC app after running the flow.](media/corrupted-guide-pc-app-steps.jpg "Screenshot of steps in the PC app after running the flow")
