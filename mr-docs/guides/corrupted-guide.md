@@ -14,7 +14,7 @@ In very rare cases, you may find that a guide created in Microsoft Dynamics 365 
 
 ![Screenshot of Share records dialog box with privileges selected.](media/corrupted-guide-share-records.jpg "Screenshot of Share records dialog box with privileges selected")
 
-Otherwise, the author can't save any steps that they add to a guide. For guides shared with an author between September 2021 and December 2021, however, due to a bug in Dynamics 365 Guides, the **Append to** privilege could not be set. If an author added one or more steps to a shared guide, and then saved the guide, the guide would become corrupted. If you open a corrupted guide in the PC app, you'll see the following message. 
+If you don't select the **Append to** privilege when sharing a guide with an author, the author can't save any steps that they add to a guide. For guides shared with an author between September 2021 and December 2021, however, due to a bug in Dynamics 365 Guides, the **Append to** privilege could not be set. If an author added one or more steps to a shared guide, and then saved the guide, the guide would become corrupted. If you open a corrupted guide in the PC app, you'll see the following message. 
 
 ![Screenshot of message that appears when a guide is corrupted.](media/corrupted-guide-message.jpg "Screenshot of message that appears when a guide is corrupted")
 
