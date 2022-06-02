@@ -25,17 +25,19 @@ For guides shared with an author between September 2021 and December 2021, howev
 
 You can fix a corrupted guide by running a flow in the model-driven app. 
 
-1. [Open the model-driven app](open-model-driven-app.md), and then open the corrupted guide. 
+1. [Open the model-driven app](open-model-driven-app.md).
 
-2. In the model driven app, on the **Flow** menu, select **Repair corrupted guide**.
+2. Open the corrupted guide. 
+
+3. In the model driven app, on the **Flow** menu, select **Repair corrupted guide**.
 
     ![Screenshot of Repair corrupted guide flow command.](media/repair-corrupted-guide-flow.jpg "Screenshot of Repair corrupted guide flow command")
 
-3. In the **Confirmation Application of Workflow** dialog box, select **OK**.
+4. In the **Confirmation Application of Workflow** dialog box, select **OK**.
     
     ![Screenshot of Workflow confirmation dialog box.](media/workflow-confirmation.jpg "Screenshot of Workflow confirmation dialog box")
     
-3. Wait a few minutes for the flow to complete.
+5. Wait a few minutes for the flow to complete.
 
 ## Make fixes in the PC app
 
