@@ -9,3 +9,7 @@ A guide can also become corrupted if you delete a step [from the model-driven ap
 ## Fix a corrupted guide
 
 You can fix a corrupted guide by running a flow in the model-driven app. 
+
+1. [Open the model-driven app](open-model-driven-app.md). 
+
+2. 
