@@ -10,8 +10,18 @@ A guide can also become corrupted if you delete a step [from the model-driven ap
 
 You can fix a corrupted guide by running a flow in the model-driven app. 
 
-1. [Open the model-driven app](open-model-driven-app.md). 
+1. [Open the model-driven app](open-model-driven-app.md), and then open the corrupted guide. 
 
 2. In the model driven app, on the **Flow** menu, select **Repair corrupted guide**.
 
     ![Screenshot of Repair corrupted guide flow command.](media/repair-corrupted-guide-flow.jpg "Screenshot of Repair corrupted guide flow command")
+
+    You'll see the following message.
+    
+    ![Screenshot of Workflow confirmation dialog box.](media/workflow-confirmation.jpg "Screenshot of Workflow confirmation dialog box")
+    
+3. Wait a few minutes for the flow to complete.
+
+## Make fixes in the PC app
+
+
