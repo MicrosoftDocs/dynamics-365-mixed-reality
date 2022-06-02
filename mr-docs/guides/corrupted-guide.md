@@ -39,7 +39,7 @@ You can fix a corrupted guide by running a flow in the model-driven app.
 
 ## Make fixes in the PC app
 
-The flow that you run from the model-driven app adds steps in the correct places in the PC app for any steps that:
+The flow that you run from the model-driven app recreates steps in the correct places in the PC app for any steps that:
 
 - Weren't saved correctly due to the **Append to** issue described above
 
