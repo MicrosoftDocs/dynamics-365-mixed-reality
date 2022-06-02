@@ -34,7 +34,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="/dynamics365-release-plan/2021wave2/guides/dynamics365-guides/planned-features" target="_blank">Use the search box in the PC and HoloLens apps to search for a guide across all folders in an instance.</a>| No |<a href="/dynamics365/mixed-reality/guides/pc-app-find-guide" target="_blank">Find a guide in the PC app</a>|
-| Use the search box in the PC and HoloLens apps to search for a guide across all folders in an instance.| No |<a href="/dynamics365/mixed-reality/guides/corrupted-guide" target="_blank">Fix a corrupted guide</a>|
+| Fix guides that won't load due to accidental deletion of tasks or steps outside of the app.| No |<a href="/dynamics365/mixed-reality/guides/corrupted-guide" target="_blank">Fix a corrupted guide</a>|
 
 ### Bugs fixed and other improvements
 
