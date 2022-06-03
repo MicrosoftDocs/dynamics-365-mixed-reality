@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to filter a long list of guides with the HoloLens app (HoloLens 2 only) in Microsoft Dynamics 365 Guides to find the guide you're looking for.
 ms.author: mamaylya
-ms.date: 06/07/2022
+ms.date: 06/09/2022
 ms.topic: article
 title: Find a guide with the HoloLens app (for HoloLens  2 only) for Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -23,7 +23,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
     > [!TIP]
     > To clear the **Select a guide or folder** screen from your view at any time, select the **Minimize** button on the right side of the screen. You don't have to remember where you put the screen in your environment. To open it again quickly, just look at the palm of your hand again to open the Main menu, and then select the **Work activity** button again. 
 
-3. To search for a guide, select the **Search** button at the bottom of the screen to display the holographic keyboard, and then enter some characters for the guide you're looking for or use the **Microphone** button to say the characters. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters. Search returns all results that match the characters you enter, and shows the folder hierarchy, if applicable. 
+3. To search for a guide, select the **Search** button at the bottom of the screen to display the holographic keyboard, and then enter some characters for the guide you're looking for or use the **Microphone** button to say the characters. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters. Search returns all results that match the characters you enter. 
 
     ![Screenshot of holographic keyboard.](media/select-guide-search.PNG "Screenshot of holographic keyboard")
 
