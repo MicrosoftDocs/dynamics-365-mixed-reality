@@ -25,7 +25,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
 
 3. To search for a guide, select the **Search** button at the bottom of the screen to display the holographic keyboard, and then enter some characters for the guide you're looking for or use the **Microphone** button to say the characters. As you start to enter the characters, the guide list automatically filters to the guide names that match those characters. Search returns all results that match the characters you enter. 
 
-    ![Screenshot of holographic keyboard.](media/select-guide-search.PNG "Screenshot of holographic keyboard")
+    ![Screenshot of holographic keyboard.](media/hololens-app-search.jpg "Screenshot of holographic keyboard")
 
     Select the **Close** button on the upper-right side of the keyboard to close the keyboard and return to the guide list.
 
