@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 06/07/2022
+ms.date: 06/09/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -21,7 +21,7 @@ This page provides details about the **current wave of features (April 2022 thro
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
-## June 7, 2022
+## June 9, 2022
 
 |Item|Version|
 |-------------------------|--------------------------------|
@@ -38,7 +38,12 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ### Bugs fixed and other improvements
 
-- XXX
+- Reduced number of “Out of Memory” crashes on HoloLens 2.
+-	Adjusted default microphone volume (which was too loud) for calls using Mixed Reality Capture.
+-	<I> (capital I) markup tag or <i> (lowercase i) markup tag can be used to render italicized text.
+-	Cache of 3D models will be cleared, and most recent model will be shown when a new model is uploaded
+-	Hebrew fallback font fixed.
+
 
 ## April 5, 2022
 
