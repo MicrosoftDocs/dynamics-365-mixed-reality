@@ -39,10 +39,10 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 ### Bugs fixed and other improvements
 
 - Reduced number of “Out of Memory” crashes on HoloLens 2.
--	Adjusted default microphone volume (which was too loud) for calls using Mixed Reality Capture.
--	```<I>``` (capital I) and ```<i>``` (lowercase i) markup tags can now be used to render italicized text.
--	Cache of 3D models will be cleared, and most recent model will be shown when a new model is uploaded
--	Fixed Hebrew fallback font.
+-	Adjusted the default microphone volume for calls recorded using Mixed Reality Capture. The default volume is now lower.
+-	Fixed issue with ```<I>``` (capital I) tag not rendering italicized text correctly.  
+-	Fixed issue with most recent version of a 3D model not being shown in a guide when a model was uploaded. The cached version of the 3D model is now cleared and updated when a new model is uploaded.
+-	Fixed issue with Hebrew fallback font not rendering correctly in some scenarios.
 
 
 ## April 5, 2022
