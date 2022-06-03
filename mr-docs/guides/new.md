@@ -40,7 +40,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 - Reduced number of “Out of Memory” crashes on HoloLens 2.
 -	Adjusted default microphone volume (which was too loud) for calls using Mixed Reality Capture.
--	<I> (capital I) and <i> (lowercase i) markup tags can now be used to render italicized text.
+-	```<I>``` (capital I) and ```<i>``` (lowercase i) markup tags can now be used to render italicized text.
 -	Cache of 3D models will be cleared, and most recent model will be shown when a new model is uploaded
 -	Fixed Hebrew fallback font.
 
