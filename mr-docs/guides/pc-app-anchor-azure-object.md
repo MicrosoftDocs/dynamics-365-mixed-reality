@@ -72,12 +72,6 @@ Then look at your target object to avoid false positives. This allows HoloLens t
 
 Highly reflective and dark materials are difficult to detect with HoloLens. If HoloLens is unable to detect the surface, Azure Object Anchors will not be able to use sensor data for alignment and detection.
 
-### Limitations
-
-If the target object is moved, for absolute accuracy, the author or operator needs to clear the Surface Reconstruction (SR) mesh before rescanning the anchor. To clear the SR mesh, on HoloLens, go to **Settings**, select **Holograms**, and then select **Clear all holograms**. 
-
-> [!NOTE]
-> This will clear all cached locations of all holograms that you may have placed in other running HoloLens applications.
 
 ## Overall process for converting a 3D model to an object anchor and assigning it to a guide
 
@@ -202,8 +196,6 @@ If you want to be able to easily identify your object anchor in the **Library** 
 
 At this point, your guide should be successfully anchored to the object anchor. 
 
-> [!NOTE]
-> Objects that have moved or are moving may cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.   
 
 ## Troubleshooting
 
