@@ -135,10 +135,6 @@ The user will also see a message that says that file sharing is unavailable.
 
 To set up the policy, you use the Microsoft Teams PowerShell Module. You can set up the policy for individual users or entire organizations. 
 
-1. [Install the Microsoft Teams PowerShell Module](https://docs.microsoft.com/microsoftteams/teams-powershell-install) if you haven't already. 
+1. [Install the Microsoft Teams PowerShell Module](/microsoftteams/teams-powershell-install) if you haven't already. 
 
-2. [Turn off file sharing for a specific account or organization](https://docs.microsoft.com/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
-
-
-
-
+2. [Turn off file sharing for a specific account or organization](/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
