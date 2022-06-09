@@ -78,6 +78,7 @@
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Deactivate a guide or guide content](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
+#### [Fix a corrupted guide](corrupted-guide.md)
 
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)

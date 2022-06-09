@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 04/05/2022
+ms.date: 06/09/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -20,6 +20,33 @@ This page provides details about the **current wave of features (April 2022 thro
 > Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md). See the **Features** table below to determine if a new feature requires a solution update. 
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
+
+## June 9, 2022
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|703.2206.6001.0|
+|HoloLens app (HoloLens 2 only)|703.2206.6001.0|
+|Solution|700.3.0.0 |
+
+### Features
+
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| Search for a guide across all folders in an instance| No |<a href="/dynamics365/mixed-reality/guides/pc-app-find-guide" target="_blank">Find a guide in the PC app</a>|
+| Fix guides that won't load due to accidental deletion of tasks or steps outside the PC app| Yes |<a href="/dynamics365/mixed-reality/guides/corrupted-guide" target="_blank">Fix a corrupted guide</a>|
+
+> [!NOTE]
+> You must be a system administrator to update the Dynamics 365 Guides solution. 
+
+### Bugs fixed and other improvements
+
+- Reduced number of “Out of Memory” crashes on HoloLens 2.
+-	Adjusted the default microphone volume for calls recorded using Mixed Reality Capture. The default volume is now lower.
+-	Fixed issue with ```<I>``` (capital I) tag not rendering italicized text correctly.  
+-	Fixed issue with most recent version of a 3D model not being shown in a guide when a model was uploaded. The cached version of the 3D model is now cleared and updated when a new model is uploaded.
+-	Fixed issue with Hebrew fallback font not rendering correctly in some scenarios.
+
 
 ## April 5, 2022
 
