@@ -51,7 +51,7 @@ Other guide steps might appear in random positions, however, after running the f
 
 ![Screenshot of steps in the PC app after running the flow.](media/corrupted-guide-pc-app-steps.jpg "Screenshot of steps in the PC app after running the flow")
 
-At this point, you'll need to:
+At this point, you need to:
 
 1. Add content to any recreated steps.
 
