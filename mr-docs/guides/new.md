@@ -36,6 +36,9 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 | Search for a guide across all folders in an instance| No |<a href="/dynamics365/mixed-reality/guides/pc-app-find-guide" target="_blank">Find a guide in the PC app</a>|
 | Fix guides that won't load due to accidental deletion of tasks or steps outside the PC app| Yes |<a href="/dynamics365/mixed-reality/guides/corrupted-guide" target="_blank">Fix a corrupted guide</a>|
 
+> [!NOTE]
+> You must be a system administrator to update the Dynamics 365 Guides solution. 
+
 ### Bugs fixed and other improvements
 
 - Reduced number of “Out of Memory” crashes on HoloLens 2.
