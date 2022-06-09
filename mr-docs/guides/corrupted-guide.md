@@ -43,9 +43,9 @@ You can fix a corrupted guide by running a flow in the model-driven app.
 
 The flow that you run from the model-driven app recreates steps in the correct places in the PC app for any steps that:
 
-- Weren't saved correctly due to the **Append to** issue described above
+- Weren't saved correctly due to the **Append to** issue described above.
 
-- You deleted in the model-driven app
+- You deleted in the model-driven app.
 
 Other guide steps might appear in random positions, however, after running the flow. For example, if your guide has three steps, and the issue is with step 2, when you open the PC app, the steps might look like this. 
 
