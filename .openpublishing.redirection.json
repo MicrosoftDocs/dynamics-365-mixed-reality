@@ -1,6 +1,202 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/remote-assist/remote-assist-language.md",
+      "redirect_url": "faq-hololens#what-languages-is-dynamics-365-remote-assist-hololens-available-in",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/report-a-bug-hololens.md",
+      "redirect_url": "file-support-ticket",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/sending-chat-messages.md",
+      "redirect_url": "send-chat-messages",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/analytics-data-collected.md",
+      "redirect_url": "analytics-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/author-convert-3D-models.md",
+      "redirect_url": "3d-content-guidelines",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/anchor.md",
+      "redirect_url": "pc-app-anchor",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/try-remote-assist-free.md",
+      "redirect_url": "try-remote-assist",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/poor-network-connectivity.md",
+      "redirect_url": "../hololens-low-bandwidth",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/version-history-remote-assist-hololens.md",
+      "redirect_url": "version-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/version-history-remote-assist-mobile.md",
+      "redirect_url": "version-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/vendor-use-teams.md",
+      "redirect_url": "vendor-use-ra",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/index.md",
+      "redirect_url": "remote-assist-mobile-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/3ds-max.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/agisoft-metashape.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/autodesk-recap-photo.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/best-practices.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/blender.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/convert-models.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/houdini-point-cloud.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/houdini.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/import-tool.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/install.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/inventor.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/layout.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/optimize-models.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/pixyz-studio.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/requirements.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/solidworks.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/try-import-tool-free.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/import-tool/tutorials-overview.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/layout/buy-and-deploy-layout.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/layout/faq.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/layout/import-tool.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/layout/index.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/layout/media.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/layout/requirements.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/layout/user-guide.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/layout/videos.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_document_id": "false"
+    },
+
+    {
+      "source_path": "mr-docs/import-tool/index.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/remote-assist/join-meeting-mobile.md",
       "redirect_url": "mobile-app/join-meeting-mobile",
       "redirect_document_id": "false"

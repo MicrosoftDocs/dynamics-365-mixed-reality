@@ -2,7 +2,7 @@
 author: BryceHo
 description: Take a tour of Guides Analytics Power BI reports for Microsoft Dynamics 365 Guides
 ms.author: cynielse
-ms.date: 02/03/2021
+ms.date: 04/05/2022
 ms.topic: article
 title: Take a tour of Guides Analytics reports for Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -154,9 +154,6 @@ step visits not being correctly recorded or the guide session being interrupted.
 - [Set up Guides Analytics reports](analytics-ga-setup.md)
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
 - [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
-- [What data is collected and how can you use it?](analytics-data-collected.md)
-
-
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

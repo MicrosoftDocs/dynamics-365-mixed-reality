@@ -30,7 +30,7 @@ application to which you have access rights via your company’s Dynamics 365
 Layout subscription. Your access to Dynamics 365 Layout through the use of
 this software must comply with the existing license terms for Dynamics 365
 Layout that apply to you through your company’s subscription, including the Microsoft Online Services Terms 
-(see http://microsoftvolumelicensing.com/) and your Microsoft volume licensing agreement, or any other applicable agreement (collectively, the “Microsoft Licensing Agreement” or “MLA”). You may use
+(see https://www.microsoft.com/Licensing/servicecenter) and your Microsoft volume licensing agreement, or any other applicable agreement (collectively, the “Microsoft Licensing Agreement” or “MLA”). You may use
 and install copies of the software on Windows devices you own or control
 only if you have a valid subscription license to Dynamics 365 Layout. The
 Dynamics 365 Import Tool (Preview)is currently provided without additional
@@ -51,7 +51,7 @@ will not take steps to circumvent or disable any technical measures
 Microsoft may put in place to enforce Throttling. The Dynamics 365 Import Tool (Preview) is subject to reduced or different security, compliance and privacy commitments.  Any data provided to Microsoft through your use of the Dynamics 365 Import Tool (Preview) may be transferred, stored, and processed in the United States, or in any other country where Microsoft of its subcontractors operate.
 
 > [!IMPORTANT]
-> If you are the administrator for the organization and have authority to act on behalf of and to bind the organization, then by installing or using the Dynamics 365 Import Tool (Preview), you consent to allow authorized users of Microsoft Dynamics 365 online services to activate, configure and enable certain functionality which transmits Customer Data (as defined in the MLA) to external systems. Please consult the feature technical documentation available at: https://docs.microsoft.com/dynamics365/mixed-reality/layout/.
+> If you are the administrator for the organization and have authority to act on behalf of and to bind the organization, then by installing or using the Dynamics 365 Import Tool (Preview), you consent to allow authorized users of Microsoft Dynamics 365 online services to activate, configure and enable certain functionality which transmits Customer Data (as defined in the MLA) to external systems. Please consult the feature technical documentation available at: /dynamics365/mixed-reality/layout/.
 
 b. **Included Microsoft Applications**. The software may include other
 Microsoft applications. These license terms apply to those included

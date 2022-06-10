@@ -27,10 +27,11 @@
 ##### [Assign to individual users](assign-role.md)
 ##### [Assign using Azure AD groups](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
-#### Assign or share a guide
-##### [By changing ownership](admin-access-assign.md)
-##### [By sharing through an access team](admin-access-teams.md)
-#### [Share the Guides model-driven app](admin-share-guides-hub.md)
+#### Assign ownership or share a guide
+##### [Change ownership of a guide](admin-access-assign.md)
+##### [Create an access team](admin-access-teams.md)
+##### [Share a guide with an access team or specific user](admin-share-guide.md)
+##### [Share the Guides model-driven app](admin-share-guides-hub.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling (Preview)](admin-enable-calls.md)
@@ -71,7 +72,7 @@
 ##### [Add media (images or videos)](pc-app-add-media.md)
 ##### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
 ##### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
-##### [Use HTML in instruction card text](pc-app-colors-rich-text.md)
+##### [Use rich-text formatting in instruction card text](pc-app-colors-rich-text.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
 #### [Create a branching (non-linear) guide](pc-app-branching.md)
 #### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
@@ -79,6 +80,7 @@
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Deactivate a guide or guide content](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
+#### [Fix a corrupted guide](corrupted-guide.md)
 
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
@@ -138,7 +140,6 @@
 
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
-### [Data collected and how to use it](analytics-data-collected.md)
 ### Use the Guides Analytics Power BI templates
 #### [Overview of Guides Analytics](analytics-guide.md)
 #### [Set up Guides Analytics](analytics-ga-setup.md)

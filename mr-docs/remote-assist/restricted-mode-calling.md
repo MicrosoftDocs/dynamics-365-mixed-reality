@@ -3,7 +3,7 @@ title: Restrict calling and the ability to search and access contacts in Dynamic
 author: amaraanigbo
 description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 01/27/2022
+ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -34,7 +34,7 @@ With this combination of restrictions and abilities, your company data stays saf
 To restrict calling, first you create a new Microsoft Teams policy, and then you assign that policy to the appropriate user(s). 
 
 > [!TIP]
-> You can also assign policies to groups. [Learn more](https://docs.microsoft.com/microsoftteams/assign-policies-users-and-groups) 
+> You can also assign policies to groups. [Learn more](/microsoftteams/assign-policies-users-and-groups) 
 
 1. Go to the [Microsoft Teams admin center](https://admin.teams.microsoft.com) and sign in with your admin credentials.      
 
@@ -43,7 +43,7 @@ To restrict calling, first you create a new Microsoft Teams policy, and then you
     ![Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted.](media/restricted-mode-calling-add-policy.jpg "Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted")
     
     > [!NOTE]
-    > [Learn about Microsoft Teams policies supported by Dynamics 365 Remote Assist](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-policies)
+    > [Learn about Microsoft Teams policies supported by Dynamics 365 Remote Assist](/dynamics365/mixed-reality/remote-assist/teams-policies)
 
 3. Enter a name for your policy, turn the **Make private calls** setting to **Off**, and then select **Save**. 
 
@@ -71,4 +71,4 @@ To restrict calling, first you create a new Microsoft Teams policy, and then you
 - [Overview of restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)
 - [Restrict the ability to access OneDrive files](restricted-mode-files.md)
 - [Restrict the ability to access asset records](restricted-mode-assets.md)
-
+- [Restrict the ability to sign out of the HoloLens app](restricted-mode-signout.md)

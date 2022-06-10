@@ -57,7 +57,7 @@ The exclamation point will also appear next to the model on the parts shelf to l
 
 ![Screenshot of exclamation point next to model.](media/exclamation-point-model.jpg "Screenshot of exclamation point next to model")
 
-For information on reducing step complexity, see [Optimize your 3D models to use with Dynamics 365 Guides and Power Apps](https://docs.microsoft.com/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models).
+For information on reducing step complexity, see [Optimize your 3D models to use with Dynamics 365 Guides and Power Apps](/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models).
 
 ## Best practices for working with 3D content
 

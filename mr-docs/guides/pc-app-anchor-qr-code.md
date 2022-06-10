@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a QR code anchor
 ms.author: mamaylya
-ms.date: 06/29/2020
+ms.date: 03/23/2022
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
@@ -166,6 +166,8 @@ negatively affected.
 
     - If you have trouble detecting an anchor that you provide, try to adjust the anchor's image brightness so that it matches the average environmental brightness around the 
     anchor.
+
+[Learn more about best practices for QR code detection](/windows/mixed-reality/develop/advanced-concepts/qr-code-tracking-overview#best-practices-for-qr-code-detection)
 
 ## What's next?
 

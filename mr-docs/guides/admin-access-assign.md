@@ -4,12 +4,10 @@ description: Learn how to assign ownership of a guide in Microsoft Dynamics 365 
 author:  MattHoag-MS
 manager: tfehr
 ms.topic: conceptual
-ms.date: 11/08/2021
+ms.date: 04/05/2022
 ms.author: v-mhoag
 ms.reviewer: v-bholmes
 ---
-<!-- This article is a copy of the article below with the term "record" updated to "guide".   A better solution will have to be found to "customize" core power apps support documents to address the specific D365 Guides user experience.  
-https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 # Assign ownership of a guide in Dynamics 365 Guides
 
@@ -28,10 +26,10 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 |To|See this article|
 |---------------------------------------|-----------------------------------------------------|
-|Learn how privileges and access work| [How access to a record (guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined)|
-|Learn about the three types of teams (*owner* team, Azure Active Directory *group* team, or *access* team)|[Manage teams](https://docs.microsoft.com/power-platform/admin/manage-teams)|
-|Control access to the Dynamics 365 Guides HoloLens app or PC app|[Security roles and privileges](https://docs.microsoft.com/power-platform/admin/security-roles-privileges#team-members-privilege-inheritance)|
-|Control access to the Guides model-driven app| [Share a model-driven app using Power Apps](https://docs.microsoft.com/powerapps/maker/model-driven-apps/share-model-driven-app)|
+|Learn how privileges and access work| [How access to a record (guide) is determined](/power-platform/admin/how-record-access-determined)|
+|Learn about the three types of teams (*owner* team, Azure Active Directory *group* team, or *access* team)|[Manage teams](/power-platform/admin/manage-teams)|
+|Control access to the Dynamics 365 Guides HoloLens app or PC app|[Security roles and privileges](/power-platform/admin/security-roles-privileges#team-members-privilege-inheritance)|
+|Control access to the Guides model-driven app| [Share a model-driven app using Power Apps](/powerapps/maker/model-driven-apps/share-model-driven-app)|
 
 ## Assign a guide to a user or an owner team
 
@@ -64,7 +62,7 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 ## Share a guide with someone else
 
-Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In exceptional cases, you can use the **Share** option for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
+Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In exceptional cases, you can use the **Share** option for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](/dynamics365/mixed-reality/guides/admin-access-teams).
 
 > [!NOTE]
 > When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
@@ -73,6 +71,11 @@ Teams should be structured so that ownership of a guide is assigned to one or mo
 
 ## See also
 
-[Share a guide through an access team](admin-access-teams.md)
+- [Create an access team](admin-access-teams.md)
+- [Assign an Operator or Author role to an individual user](assign-role.md)
+- [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
+- [Restrict access to an environment by using security groups](admin-security.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -8,7 +8,7 @@ title: Use the Outline page to structure your guide in the Dynamics 365 Guides P
 ms.reviewer: v-brycho
 ---
 
-# Structure your guide on the Outline page in the Dynamics 365 Guides PC app
+# Structure your guide in the Outline page in the Dynamics 365 Guides PC app
 
 After you [create a guide](create-guide.md) by using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, or when you open an existing guide, the **Outline** page appears. On the **Outline** page, you create a framework for your guide by adding as many *tasks* and *steps* as you need. Tasks are groups of steps. Steps are the short, separate work items that operators complete to perform the task. Steps are the central building blocks in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
@@ -50,11 +50,11 @@ The following table describes the actions for working with tasks and steps.
 | Action | Steps |
 |---|---|
 | Change the name of a task. | Enter a new name in the **Task name** box. |
-| Enter instruction text for a step. | Enter text in the box below the task name. When you start to enter text, the **Step Editor** page appears. For more information about how to use the Step Editor, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md). |
+| Enter instruction text for a step. | Enter text in the box below the task name. When you start to enter text, the **Step Editor** page appears. For more information about how to use the Step Editor, see [Step Editor overview](pc-app-step-editor-overview.md). |
 | Add a new task. | Select **Add task** below the last task or set of steps. Alternatively, select the **Task menu** (**...**) button to the right of the task name, and then select **Insert a task**. |
 | Add a new step. | Select **Add step**. |
 | Remove a task and its steps. | Select the **Task menu** (**...**) button to the right of the task name, and then select **Remove task and steps**. |
-| Change the instruction text for the **Completion** step. | Select the **Completion** step. The **Step Editor** page appears. For more information about how to use the Step Editor, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md). |
+| Change the instruction text for the **Completion** step. | Select the **Completion** step. The **Step Editor** page appears. For more information about how to use the Step Editor, see [Step Editor overview](pc-app-step-editor-overview.md). |
 | Rearrange tasks or steps. | Drag the task or step to move it where you want. |
 
 ## Best practices for the Outline page
@@ -70,7 +70,7 @@ The following table describes the actions for working with tasks and steps.
 ## What's next?
 
 - [Anchor your guide to the real world](anchor.md)
-- [Create steps and add 3D content or 2D media](create-steps-assign-media.md)
+- [Learn about the Step Editor](pc-app-step-editor-overview.md)
 - [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 - [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)
 - [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)

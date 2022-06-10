@@ -3,20 +3,20 @@ title: Record calls in Dynamics 365 Remote Assist on HoloLens
 author: amaraanigbo
 description: Use cloud-based recording or several other alternatives in Microsoft Dynamics 365 Remote Assist on HoloLens
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 04/07/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
 # Record calls in Dynamics 365 Remote Assist on HoloLens
 
-Recording a call is great for training or record-keeping purposes. Cloud-based recordings are automatically uploaded to Microsoft Stream. When the recording finishes uploading, all call participants can find the Stream link via the Teams chat.
+Recording a call is great for training or record-keeping purposes. Cloud-based recordings are automatically uploaded to Microsoft OneDrive or SharePoint. When the recording finishes uploading, all call participants can access the link in the Teams chat.
 
 Read about the [layout](#cloud-based-recording-layout) of this type of call before deciding whether to record using this method. You may also consider [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording).
 
 ## Overview of cloud-based recording
 
-The following chart explains which call participant can initiate a cloud-based call recording in each type of call:
+The following chart explains which call participant can initiate a cloud-based call recording in each type of call.
 
 |     Type of call    |     Can a Dynamics 365   Remote Assist HoloLens user record?     |     Can a Dynamics 365   Remote Assist mobile user record?     |     Can a Teams desktop user record?    | Can a Teams mobile user record? | 
 |-----------------|------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------|-----------------|
@@ -29,7 +29,7 @@ Exceptions include:
 * Call participant without the [required license](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
 * Additional exceptions described by [Microsoft Teams documentation](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
 
-Learn more about using [Teams desktop]( https://support.office.com/article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24) to record the call. 
+Learn more about using [Teams desktop](https://support.office.com/article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24) to record the call. 
 
 > [!Note]
 > The recorder is the owner of the video. The owner needs to [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) the video to share the recording beyond these people.  
@@ -46,21 +46,19 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the notification that recording has started.](media/03.08-call-recording-started.png)
     
-4. The **Start Recording** button now becomes a **Stop Recording** button. You'll also see a persistent recording indication in the top left of the video card.
+    The **Start Recording** button becomes a **Stop Recording** button. You'll also see a persistent recording indication in the top left of the video card.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing a call being recorded.](media/03.00-call-recording-in-progress.png)
     
-5. The persistent recording indication will be visible even if you open the **Files** tab, so you can always verify whether a recording is ongoing.
+    The persistent recording indication will be visible even if you open the **Files** tab, so you can always verify whether a recording is ongoing.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing the persistent recording indicator.](media/06.00-files-recording-indicator.png)
     
-6. To end the recording, press the **Stop Recording** (![Stop recording button.](media/RAHL_CallRecording_StopButton.png)) button or end the call. You'll see a reminder that the recording is being processed and saved securely in Microsoft Stream.  
+4. To end the recording, press the **Stop Recording** (![Stop recording button.](media/RAHL_CallRecording_StopButton.png)) button or end the call. You'll see a reminder that the recording is being processed and saved securely in OneDrive or SharePoint.  
 
-    ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the notification explaining that the call recording is being saved.](media/03.10-call-recording-saving.png)
-    
-7. After the recording is processed and saved, it will appear in your Dynamics 365 Remote Assist chat history (if you are still in the call) and also your Teams chat history. Remember that your Dynamics 365 Remote Assist chat history does not persist when the call ends, but your Teams chat history does. To view the recording in your HoloLens browser, select the link in the Dynamics 365 Remote Assist chat. To view all the call recordings you initiated, visit your [Stream videos page](https://msit.microsoftstream.com/studio/videos).
+     ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing the recording being saved.](media/recording-saved.jpg)
 
-    ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the chat window where there's a notification that the video is available on Stream.](media/03.13-call-chat-recorded.png)
+5. After the recording is processed and saved, it will appear in your Dynamics 365 Remote Assist chat history (if you are still in the call) and also your Teams chat history. Remember that your Dynamics 365 Remote Assist chat history does not persist when the call ends, but your Teams chat history does. To view the recording in your HoloLens browser, select the link in the Dynamics 365 Remote Assist chat. 
 
 ## Cloud-based recording layout
 
@@ -129,7 +127,7 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
 
     - Press and hold the volume-up and volume-down buttons simultaneously until a three-second countdown begins. To stop recording, tap both buttons simultaneously.
 
-    These videos are saved to the HoloLens camera roll. Keep in mind that the video will not be automatically uploaded to Stream, but there are two ways to get a photo or video off the HoloLens camera roll.
+    These videos are saved to the HoloLens camera roll. Keep in mind that the video will not be automatically uploaded, but there are two ways to get a photo or video off the HoloLens camera roll.
 
     **Upload to OneDrive**
 

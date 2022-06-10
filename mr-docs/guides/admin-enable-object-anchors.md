@@ -19,11 +19,11 @@ disabled for each Dynamics 365 environment.
 
 Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin that has been imported into Dynamics 365 Guides, 
 converted to an object anchor, and assigned to a guide. [Learn more about Azure Object 
-Anchors](https://docs.microsoft.com/ynamics365/mixed-reality/guides/pc-app-anchor-azure-object).
+Anchors](/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object).
 
 If you're an administrator for Dynamics 365 Guides, you can enable or disable Azure Object Anchors in a specific Dynamics 365 Guides environment. If Azure Object Anchors 
 is disabled, authors cannot update a guide's anchor type to an Object Anchor. [Learn more about converting 3D objects to Azure Object 
-Anchors](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object#convert-the-file-in-the-guides-model-driven-app).
+Anchors](/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object#convert-the-file-in-the-guides-model-driven-app).
 
 ## Enable or disable Object Anchors
 
@@ -54,7 +54,7 @@ Anchors](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-anch
 
     > [!NOTE]
     > Enabling or disabling Object Anchors is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in 
-    Azure Active Directory](https://docs.microsoft.com/azure/active-directory/enterprise-users/users-revoke-access).
+    Azure Active Directory](/azure/active-directory/enterprise-users/users-revoke-access).
 
 ## See also
 

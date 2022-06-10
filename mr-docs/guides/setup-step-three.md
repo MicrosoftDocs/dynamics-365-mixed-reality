@@ -44,7 +44,7 @@ Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to 
 > [!NOTE]
 > If Dynamics 365 Guides isn't pinned to the **Start** menu, [learn how to install and sign in to the HoloLens app](hololens-app-install-sign-in.md). 
 
-We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](/hololens/hololens-update-hololen). You can also manually update your HoloLens. 
+We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](/hololens/hololens-updates). You can also manually update your HoloLens. 
 
 ## Distribute the apps through Microsoft Store for Business
 

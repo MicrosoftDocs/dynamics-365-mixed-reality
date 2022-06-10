@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Answers to common questions about deploying Microsoft Dynamics 365 Remote Assist.
 ms.author: soanigbo
-ms.date: 06/02/2021
+ms.date: 04/14/2022
 ms.topic: article
 title: Frequently asked questions for deploying Dynamics 365 Remote Assist 
 ms.reviewer: v-bholmes
@@ -14,7 +14,13 @@ Here are some answers to common questions about deploying Dynamics 365 Remote As
 
 ## What are the technical requirements for deploying Dynamics 365 Remote Assist?
 
-Learn about the technical requirements [here](requirements.md).
+[Learn about technical requirements](requirements.md)
+
+## How do I enable map visualization on the Dynamics 365 Remote Assist Calls Dashboard?
+
+Map visualization is available in all regions except Europe. To enable map visualization, you must [enable the Power BI Azure Maps visual](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
+
+[Learn more about the Calls Dashboard](calls-dashboard.md).
 
 ## Can I use Dynamics 365 Remote Assist to collaborate with a Microsoft Teams user outside my tenant, or vice versa?
 
@@ -34,6 +40,6 @@ No.  Dynamics 365 Remote Assist licenses must be assigned to an AAD account crea
 
 ## How do I file a support ticket?
 
-If you encounter an issue that blocks you from using the application and you don't see an answer on our user forum, please file a support ticket. Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](https://docs.microsoft.com/dynamics365/get-started/support/).
+If you encounter an issue that blocks you from using the application and you don't see an answer on our user forum, please file a support ticket. Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](/dynamics365/get-started/support/).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

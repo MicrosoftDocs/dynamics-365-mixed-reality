@@ -3,102 +3,105 @@ title: Use the Dynamics 365 Remote Assist mobile tutorial
 author: amaraanigbo
 description: Learn how to use the in-app tutorial for the Dynamics 365 Remote Assist mobile app.
 ms.author: soanigbo
-ms.date: 07/01/2020
+ms.date: 04/20/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
 # Use the in-app tutorial on Dynamics 365 Remote Assist mobile
 
-Technicians can use Dynamics 365 Remote Assist mobile's in-app, guided tutorial to jump-start their ability to use its augmented reality (AR) capabilities. With AR, technicians to share their real-world environments and connect with remote collaborators to walk through the repair or inspection process. Both call participants can better reference objects and provide instructions by placing mixed reality annotations into the technician's shared environment.
+Technicians can use the in-app, guided tutorial in Microsoft Dynamics 365 Remote Assist mobile to jump-start their ability to use the app's augmented reality (AR) capabilities. With AR, technicians can share their real-world environments and connect with remote collaborators to walk through repair or inspection processes. Both call participants can reference objects and provide instructions by placing mixed-reality annotations into the technician's shared environment.
 
-This guided tutorial addresses:
+Use the guided tutorial to:
 
-1. Learn to move your device around so that Dynamics 365 Remote Assist mobile can detect the technician's surroundings and surfaces for better mixed reality annotation placement experience
+- Learn how to move your device around so that the app can detect your surroundings and surfaces for a better mixed-reality annotation placement experience.
 
-2. Place and manipulate mixed reality annotations, such as the arrow and the ink tools.
+- Place and manipulate mixed-reality annotations, such as arrows and drawings.
 
 ## Prerequisites
 
-- In order to follow along with this guide, you should have a using a **mobile device with ARCore or ARKit support**. Learn more about the device requirements [here](../requirements.md).
+- To follow along with this guide, you should have a mobile device with ARCore or ARKit support. [Learn more about device requirements](../requirements.md)
 
->[!Note]
-> No AR capabilities? No problem! Dynamics 365 Remote Assist mobile is available on unsupported AR mobile devices, too; learn more about using Dynamics 365 Remote Assist mobile on unsupported AR devices [here](./calls-using-devices-without-ar.md).
+> [!Note]
+> No AR capabilities? No problem! Dynamics 365 Remote Assist mobile is also available on unsupported AR mobile devices. [Learn more about using Dynamics 365 Remote Assist mobile on devices without AR](./calls-using-devices-without-AR.md)
 
 ## How it works
 
-1. To launch the tutorial, select **Try It** on the **Sign in** screen.
+1. To launch the tutorial, on the **Sign in** screen, select **Try it**.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the try it button.](./media/13.png "Try It")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the try it button.](./media/13.png "Try It")
 
-2. If you're already signed in and wish to launch the tutorial, you can also go to **Menu** > **Learn the Tools**. 
+   > [!TIP]
+   > If you're already signed in and want to start the tutorial, go to **Menu** > **Learn the tools**. 
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the Learn the Tools option in the menu.](./media/14b.png "Try Tools")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the Learn the Tools option in the menu.](./media/14b.png "Try Tools")
 
-3. Once you have begun the tutorial, you're prompted with an animation to move your phone side-to-side for better surface detection. Complete this action. 
+2. When you start the tutorial, you're prompted to move your phone side-to-side for better surface detection.  
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space.](./media/15.png "Map Space")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space.](./media/15.png "Map Space")
 
-4. Select the **Arrow tool** to place the arrow tool.
+3. Select the **Arrow** tool.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the arrow tool in the menu.](./media/16.png "Select Arrow")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the arrow tool in the menu.](./media/16.png "Select Arrow")
 
-5. Place the arrow in your environment by tapping anywhere on your screen. 
+4. Place the arrow in your environment by tapping anywhere on your screen. 
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing a placed arrow.](./media/17a.png "Place Arrow")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing a placed arrow.](./media/17a.png "Place Arrow")
 
-6. Tap and drag to **rotate** the arrow. 
+5. Tap and drag to rotate the arrow. 
 
-![Rotate arrow.](./media/04.05-oobe.png)
+    ![Rotate arrow.](./media/04.05-oobe.png)
 
-7. Select the **Inking tool**.
+6. Select the **Inking** tool.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the ink icon in the menu.](./media/18.png "Select Ink")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the ink icon in the menu.](./media/18.png "Select Ink")
 
-8. Draw a line or circle by tapping and dragging on your screen. 
+7. Draw a line or circle by tapping and dragging on your screen. 
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing an example of a drawn annotation.](./media/19b.png "Draw")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing an example of a drawn annotation.](./media/19b.png "Draw")
 
-9. Practice placing and using other annotations. You can use the **Color picker**, **Undo**, or **Delete all** annotation icons. 
+8. Practice placing and using other annotations. Try the **Color picker**, **Undo**, or **Delete all** annotation buttons. 
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the other menu options.](./media/20a.png "Other")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the other menu options.](./media/20a.png "Other")
 
 ## Techniques to improve surface detection
 
-- Move your phone from side-to-side at the beginning of a video call.
-- Try moving your phone more slowly.
-- Place annotations in your device's field of view and avoid lots of sudden movements.
-- Avoid frequently minimizing the app and reopening it while there are annotations present.
+- Move your phone from side-to-side at the beginning of a video call. Move your phone slowly.
+- Place annotations in your device's field of view.
+- Avoid sudden movements.
+- Avoid minimizing the app frequently and reopening it while there are annotations present.
+- Maintain at least one foot of distance between your mobile device and the object you're annotating.
 
 ## Limitations that may hinder accurate surface detection
 
-- Flat surfaces without texture, such as a white desk.
-- Environments with dim lighting or very bright lighting.
-- Transparent or reflective surfaces like glass.
-- Dynamic or moving surfaces.
+- Flat surfaces without texture, such as a white desk
+- Environments with dim lighting or very bright lighting
+- Transparent or reflective surfaces like glass
+- Dynamic or moving surfaces
 
-## How to resolve error messages
+## What happens if the app loses tracking?
 
-Throughout the tutorial or during the call, technicians may be prompted that they have "**lost tracking**" because Dynamics 365 Remote Assist has not adequately detected their surroundings or surfaces. In this case, technicians will be unable to place any mixed reality annotations until their surfaces are detected. Let's look at a few ways technicians can better track their environment.
+Throughout the tutorial or during a call, you may see a message that says the app has lost tracking because it can't adequately detect your surroundings or surfaces. In this case, you won't be able to place mixed-reality annotations until your surfaces are detected, and remote collaborators won't be able to place mixed-reality annotations in your shared space. 
 
-> [!NOTE]
-> Remote collaborators won't be able to place mixed reality annotations when the technician has lost tracking.
+Here are a few tips to help you bettter track your environment:
 
-1. Move your device from **side-to-side** to better detect your surroundings or surfaces.
+- Move your device from side-to-side to better detect your surroundings or surfaces.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space.](./media/15.png "Map Space")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt asking users to map their space.](./media/15.png "Map Space")
 
-2. Move your device **further away**.
+- Move your device farther away.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move further away.](./media/22.png "Far Away")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move further away.](./media/22.png "Far Away")
+    
+    It's good to maintain at least one foot of distance between your mobile device and the object you're annotating.
 
-3. Move your device **closer**.
+- Move your device closer.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move closer.](./media/23.png "Closer")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt to move closer.](./media/23.png "Closer")
 
-4. Try **turning on some lights** to brighten dimly lit spaces.
+- Turn on lights to brighten dimly lit spaces.
 
-![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt that light is needed.](./media/24.png "More light needed")
+    ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt that light is needed.](./media/24.png "More light needed")
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

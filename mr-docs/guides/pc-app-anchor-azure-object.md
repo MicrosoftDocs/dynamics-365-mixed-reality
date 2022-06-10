@@ -36,7 +36,7 @@ To use Azure Object Anchors in Dynamics 365 Guides, you need:
    > Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product. 
 
 > [!NOTE]
-> You may want to create a test Microsoft Dataverse environment separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](https://docs.microsoft.com/power-platform/admin/environments-overview).
+> You may want to create a test Microsoft Dataverse environment separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](/power-platform/admin/environments-overview).
 
 ## Best practices for choosing a target object for your object anchor
 
@@ -72,12 +72,6 @@ Then look at your target object to avoid false positives. This allows HoloLens t
 
 Highly reflective and dark materials are difficult to detect with HoloLens. If HoloLens is unable to detect the surface, Azure Object Anchors will not be able to use sensor data for alignment and detection.
 
-### Limitations
-
-If the target object is moved, for absolute accuracy, the author or operator needs to clear the Surface Reconstruction (SR) mesh before rescanning the anchor. To clear the SR mesh, on HoloLens, go to **Settings**, select **Holograms**, and then select **Clear all holograms**. 
-
-> [!NOTE]
-> This will clear all cached locations of all holograms that you may have placed in other running HoloLens applications.
 
 ## Overall process for converting a 3D model to an object anchor and assigning it to a guide
 
@@ -202,8 +196,6 @@ If you want to be able to easily identify your object anchor in the **Library** 
 
 At this point, your guide should be successfully anchored to the object anchor. 
 
-> [!NOTE]
-> Objects that have moved or are moving may cause variable accuracy. If you have issues with object detection and content alignment, try clearing the mesh and all holograms. To do this, on HoloLens, go to **Settings** > **System** > **Holograms** > **Remove all holograms**. This will clear the location of all holograms placed in your world, not just the object anchor.   
 
 ## Troubleshooting
 
@@ -247,8 +239,4 @@ Azure Object Anchors is a preview feature for Dynamics 365 Guides and has the fo
 
 - If you switch from an object anchor to another anchor using **Change anchor method**, the saved position information for holograms is not migrated. Authors will need to check hologram placements.
 
-- Objects that have moved or are moving may cause variable accuracy. 
-
-
-
-
+- Objects that have moved or are moving may cause variable accuracy.

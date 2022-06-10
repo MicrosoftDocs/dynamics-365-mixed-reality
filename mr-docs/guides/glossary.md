@@ -22,7 +22,7 @@ A library of predefined objects included in [!include[pn-dyn-365-guides](../incl
 Shows the list of guides for the Work activity and the list of contacts for the Call activity.
 
 ## Air tap
-A gesture that's equivalent to a "click" with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
+A gesture that's equivalent to a "click" with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures-HL2.md).
 
 ## Anchoring (alignment)
 The process of making sure that a guide "lines up" with associated objects in the real world when it's used on [!include[pn-hololens](../includes/pn-hololens.md)]. Anchoring is a crucial and mandatory part of creating any guide. For more information, see [Anchor your guides in the real world](anchor.md).
@@ -46,7 +46,7 @@ The size of the [!include[pn-hololens](../includes/pn-hololens.md)] display wher
 The act of looking at a user interface element with [!include[pn-hololens](../includes/pn-hololens.md)]. In some cases, you can select an item just by gazing at it. In other cases, you use gaze to target an object and then act on that target with a gesture.
 
 ## Gesture
-A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
+A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](authoring-gestures-HL2.md).
 
 ## Holographic anchor (previously known as a digital anchor)
 A 3D representation that is used to anchor holograms in the real world. You place the digital representation directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor. The digital representation can be a computer-aided design (CAD) model or a scanned model. For more information, see [Anchor your guide in the real world](anchor.md).
@@ -71,7 +71,7 @@ A code that you print and attach to a physical object in the real world to ancho
 A short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
 
 ## Step card
-The fundamental building block in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You first add text and supporting assets to a Step card in the PC Authoring application. You then place holograms that are associated with each step in a real-world environment in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
+The fundamental building block in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You first add text and supporting assets to a Step card in the PC Authoring application. You then place holograms that are associated with each step in a real-world environment in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see [PC app Step Editor overview](pc-app-step-editor-overview.md).
 
 ## Style
 Visual properties that you can add to any 3D object to reinforce what you want the operator to do or know. Examples of styles include Pick up, Place, and Caution.
