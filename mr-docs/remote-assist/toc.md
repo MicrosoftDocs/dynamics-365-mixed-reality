@@ -86,15 +86,19 @@
 #### [Restrict ability to access OneDrive files](restricted-mode-files.md)
 #### [Restrict ability to access asset records](restricted-mode-assets.md)
 #### [Restrict ability to sign out of HoloLens](restricted-mode-signout.md)
-## [How-to videos](videos.md)
+
 ## [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
 
 ## Additional resources
-### [Version history](version-history.md)
+
 ### Metadata references
 #### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
 #### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
+
+## [Version history](version-history.md)
+
+## [How-to videos](videos.md)
 
 ## FAQ and support
 ### [FAQ: Deployment](faq-deploy.md)
