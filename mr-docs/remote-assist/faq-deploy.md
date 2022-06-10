@@ -16,6 +16,18 @@ Here are some answers to common questions about deploying Dynamics 365 Remote As
 
 [Learn about technical requirements](requirements.md)
 
+## When do I need to update the Dynamics 365 Remote Assist model-driven app (Remote Assist solution)?
+
+Dynamics 365 Remote Assist does not require the [Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md) to empower technicians to collaborate efficiently from different locations on HoloLens, Android, or iOS devices. By installing the model-driven app, users gain access to additional functionality, however. 
+
+If your organization uses any of the following features, you'll need to update the model-driven app when there are enhancements or bug fixes associated with these features: 
+
+- [Capture and view asset data](asset-capture-overview.md)
+- [Create and share one-time call links](one-time-call.md) 
+- [Monitor operational metrics through the Calls Dashboard](calls-dashboard.md) 
+
+[Learn how to update the model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version)
+
 ## How do I enable map visualization on the Dynamics 365 Remote Assist Calls Dashboard?
 
 Map visualization is available in all regions except Europe. To enable map visualization, you must [enable the Power BI Azure Maps visual](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
