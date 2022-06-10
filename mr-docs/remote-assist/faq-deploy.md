@@ -18,7 +18,7 @@ Here are some answers to common questions about deploying Dynamics 365 Remote As
 
 ## When do I need to update the Dynamics 365 Remote Assist model-driven app (Remote Assist solution)?
 
-Dynamics 365 Remote Assist does not require the [Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md) to empower technicians to collaborate efficiently from different locations on HoloLens, Android, or iOS devices. By installing the model-driven app, users gain access to additional functionality, however. 
+You don't need to use the [Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md) to empower technicians to collaborate efficiently from different locations on HoloLens, Android, or iOS devices. By installing the model-driven app, users gain access to additional functionality, however. 
 
 If your organization uses any of the following features, you'll need to update the model-driven app when there are enhancements or bug fixes associated with these features: 
 
