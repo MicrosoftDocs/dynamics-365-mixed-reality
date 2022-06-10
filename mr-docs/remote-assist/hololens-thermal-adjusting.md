@@ -3,7 +3,7 @@ title: How Dynamics 365 Remote Assist automatically adjusts HoloLens temperature
 author: amaraanigbo
 description: Learn how Dynamics 365 Remote Assist automatically adjusts HoloLens temperature by reducing outgoing video quality if the device overheats
 ms.author: soanigbo
-ms.date: 04/13/2022
+ms.date: 06/10/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -15,7 +15,7 @@ several device capabilities at the same time (for example, multiple cameras, Mix
 from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality (resolution and frame rate). If this happens, you'll see a series of messages to let you know how and why outgoing video quality is being adjusted. 
 
 > [!IMPORTANT]
-> You must use HoloLens OS version 22H1 (Spring 2022 release) or later to enable this feature. 
+> You must use HoloLens OS version 22H1 (Spring 2022 release) or later to use this feature. Also, the Dynamics 365 Remote Assist application must be in the foreground (have the focus) to adjust to temperature changes.  
 
 The first warning message tells you that HoloLens is heating up and that outgoing video quality has been reduced.
 
