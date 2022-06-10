@@ -15,7 +15,7 @@ several device capabilities at the same time (for example, multiple cameras, Mix
 from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality (resolution and frame rate). If this happens, you'll see a series of messages to let you know how and why outgoing video quality is being adjusted. 
 
 > [!IMPORTANT]
-> You must use HoloLens OS version 22H1 (Spring 2022 release) or later to enable this feature. 
+> You must use HoloLens OS version 22H1 (Spring 2022 release) or later to use this feature. Also, the Dynamics 365 Remote Assist application must be in the foreground (have the focus).  
 
 The first warning message tells you that HoloLens is heating up and that outgoing video quality has been reduced.
 
