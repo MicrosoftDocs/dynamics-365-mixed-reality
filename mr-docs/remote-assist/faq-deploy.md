@@ -26,6 +26,8 @@ If your organization uses any of the following features, you'll need to update t
 - [Create and share one-time call links](one-time-call.md) 
 - [Monitor operational metrics through the Calls Dashboard](calls-dashboard.md) 
 
+Enhancements and bug fixes associated with these features are recorded in [What's new in Dynamics 365 Remote Assist](whats-new.md)
+
 [Learn how to update the model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version)
 
 ## How do I enable map visualization on the Dynamics 365 Remote Assist Calls Dashboard?
