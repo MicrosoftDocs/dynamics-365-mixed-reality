@@ -2,6 +2,7 @@
 ## [Overview of Dynamics 365 Guides](index.md)
 ## Sign up for a free trial
 ### [How to sign up](trial-signup.md)
+### [Admin sign-up for companies that restrict viral trials](trial-admin-signup.md)
 ### [Trial FAQ](trial-faq.md)
 ## [Get started](get-started.md)
 ## [What's new](new.md)
