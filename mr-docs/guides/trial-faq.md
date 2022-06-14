@@ -3,7 +3,7 @@ title: "Trial FAQ - Dynamics 365 Guides | Microsoft Docs"
 description: "Solutions to common questions related to Dynamics 365 Guides trial setup and management. Learn how to resolve platform and app-specific issues."
 author: Mamaylya
 ms.author: v-bholmes
-ms.date: 03/06/2022
+ms.date: 06/15/2022
 ms.topic: get-started
 ms.service: dynamics-365-guides
 ms.custom: template-trial-faq <!--Required. Leave this value as is for tracking purposes.-->
