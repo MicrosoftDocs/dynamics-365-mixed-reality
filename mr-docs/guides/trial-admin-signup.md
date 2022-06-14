@@ -1,10 +1,10 @@
 ---
 author: alwinv
-description: Learn how to obtain and assign a viral license so users can sign up for the free Dynamics 365 Connected Spaces Preview
+description: Learn how to obtain and assign a viral license so users can sign up for the free Dynamics 365 Guides trial
 ms.author: alwinv
 ms.date: 06/15/2022
 ms.topic: article
-title: Obtain and assign a viral license to enable users to sign up for a free trial of Dynamics 365 Connected Spaces Preview
+title: Obtain and assign a viral license to enable users to sign up for a free trial of Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
@@ -54,9 +54,9 @@ In this case, an Azure Active Directory admin will need to use the following pro
 
     ![Screenshot of Microsoft 365 admin center.](media/admin-trial-signup-admin-portal.jpg "Screenshot of Microsoft 365 admin center")
  
-5. After a user is assigned a viral license, they can sign up by using the [Dynamics 365 Guides "Try for free" link](https://dynamics.microsoft.com/connected-spaces/overview/). 
+5. After a user is assigned a viral license, they can sign up by using the [Dynamics 365 Guides "Try for free" link](ttps://dynamics.microsoft.com/get-started/?appname=guides). 
 
-    ![Screenshot of Dynamics 365 Guides marketing page with Try for free link.](media/admin-trial-signup-try-for-free.jpg "Screenshot of Screenshot of Connected Spaces marketing page with Try for free link")
+    ![Screenshot of Dynamics 365 Guides marketing page with Try for free link.](media/admin-trial-signup-try-for-free.jpg "Screenshot of Screenshot of Dynamics 365 Guides marketing page with Try for free link")
     
 ## See also
 
