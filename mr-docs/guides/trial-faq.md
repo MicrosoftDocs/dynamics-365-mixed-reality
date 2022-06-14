@@ -78,6 +78,10 @@ All features are available during the trial. To use calling capabilities, you mu
 
 The trial lasts 60 days. At the end of the trial, you have the option to extend for another 30 days. 
 
+## What if my trial signup fails?
+
+You can sign up for a [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) (previous trial experience). 
+
 ## Can I access the previous 30-day trial?
 
 The 30-day trial is not recommended for new subscribers as it has a shorter trial period and is limited to one trial instance per tenant. The [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) is available, however, for customers who can't install the new trial due to corporate policies. 
