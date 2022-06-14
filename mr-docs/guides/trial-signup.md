@@ -1,8 +1,8 @@
 ---
 title: "Sign up for a free trial - Dynamics 365 Guides | Microsoft Docs"
 description: "Learn how to quickly sign up for and start a free Dynamics 365 Guides trial. Explore the app with tours and videos, and find additional learning resources."
-author: Mamaylya
-ms.author: v-bholmes
+author: davepinch
+ms.author: davepinch
 ms.date: 06/15/2022
 ms.topic: get-started
 ms.service: dynamics-365-guides
