@@ -1,7 +1,7 @@
 ---
-author: alwinv
+author: davepinch
 description: Learn how to obtain and assign a viral license so users can sign up for the free Dynamics 365 Guides trial
-ms.author: alwinv
+ms.author: davepinch
 ms.date: 06/15/2022
 ms.topic: article
 title: Obtain and assign a viral license to enable users to sign up for a free trial of Dynamics 365 Guides
