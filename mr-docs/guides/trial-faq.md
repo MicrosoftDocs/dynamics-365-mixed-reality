@@ -74,3 +74,7 @@ All features are available during the trial. To use calling capabilities, you mu
 ## How long does the trial last?
 
 The trial lasts 60 days. At the end of the trial, you have the option to extend for another 30 days. 
+
+## Can I access the previous 30-day trial?
+
+The 30-day trial is not recommended for new subscribers as it has a shorter trial period and is limited to one trial instance per tenant. The 30-day trial is available, however, for customers who can't install the new trial due to corporate policies. 
