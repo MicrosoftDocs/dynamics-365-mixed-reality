@@ -29,9 +29,6 @@ You need a PC and a HoloLens device. [Learn more about device requirements](requ
 
 Yes, you can. To view all available trials, [visit the trial hub page](https://dynamics.microsoft.com/dynamics-365-free-trial/). You can use the same email account to sign up for different trials. However, it's not possible to have multiple apps on the same trial site. Each trial will be on a different org and URL. The trial data can't be shared across apps.
 
-> [!NOTE]
-> You can't use an email account to sign up for a Dynamics 365 Guides trial. [Learn how to sign up for a Dynamics 365 Guides trial](trial-signup.md)
-
 ## What should I do if I haven't received trial details?
 
 I didn't receive the trial details email after signing up, what should I do?
