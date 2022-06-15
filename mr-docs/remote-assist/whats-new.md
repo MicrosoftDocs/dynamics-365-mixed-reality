@@ -18,10 +18,10 @@ This article describes details about the **current wave of features (April 2022 
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|Minimize the Mixed Reality toolbar in Microsoft Teams|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop for PC or Mac](teams-pc-all.md)|
+|Minimize the Mixed Reality toolbar in Microsoft Teams to focus on the HoloLens video feed|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop for PC or Mac](teams-pc-all.md)|
 
 > [!NOTE]
-> You don't need to update the Dynamics 365 Remote Assist HoloLens app or mobile app to minimize the Mixed Reality toolbar from Microsoft Teams.
+> You don't need to update the Dynamics 365 Remote Assist HoloLens app or mobile app to be able to minimize the Mixed Reality toolbar from Microsoft Teams.
 
 ## May 11, 2022
 
