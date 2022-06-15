@@ -1,3 +1,14 @@
+---  
+title: We're setting up your free Dynamics 365 Guides trial
+description: How to download the Dynamics 365 Guides PC authoring app while you're waiting for your free Dynamics 365 Guides trial to be set up.
+author: davepinch
+ms.author: davepinch
+ms.date: 06/15/2022
+ms.topic: get-started
+ms.service: dynamics-365-guides
+ms.reviewer: v-bholmes
+---
+
 # We're setting up your free Dynamics 365 Guides trial
 
 Your Microsoft Dynamics 365 Guides trial will be ready to use in about 5 minutes. In the meantime, use the following procedure to download the Dynamics 365 Guides PC authoring app so you'll be ready to start authoring right away!
