@@ -42,6 +42,8 @@ The Mixed Reality toolbar appears by default whenever you join a new call with a
 
 ![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
 
+[Learn about the buttons in the Mixed Reality toolbar](add-annotations-hololens.md)
+
 If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button. 
 
 ![Screenshot of HoloLens button.](media/minimize-MR-toolbar.jpg "Screenshot of HoloLens button")
