@@ -36,16 +36,17 @@ However, the features you can use to collaborate differ depending on which platf
 
 ## Key terms
 
-When you join a call, you'll see the Mixed Reality toolbar.
+The **Mixed Reality toolbar** appears by default whenever you join a new call with a Dynamics 365 Remote Assist user. 
 
 ![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
 
-> [!NOTE]
-> The Mixed Reality toolbar appears by default whenever you start a new call with a Dynamics 365 Remote Assist user. You can minimize the toolbar, however, by selecting the HoloLens button if you want to focus on the video stream from the HoloLens. The toolbar remains minimized if you switch to a different Dynamics 365 Remote Assist user's video feed. You can restore the toolbar by selecting the HoloLens button again. 
->
-> ![Screenshot of HoloLens button.](media/minimize-MR-toolbar.jpg "Screenshot of HoloLens button")
+If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the HoloLens button . 
 
-You'll also see the Call Controls toolbar.
+![Screenshot of HoloLens button.](media/minimize-MR-toolbar.jpg "Screenshot of HoloLens button")
+
+The toolbar remains minimized if you switch to a different Dynamics 365 Remote Assist user's video feed. You can restore the toolbar by selecting the HoloLens button again. 
+
+When you join a call, you'll also see the **Call Controls toolbar**.
 
 ![Screenshot of call controls.](media/teams-pc-call-controls.jpg "CC")
  
