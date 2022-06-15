@@ -40,11 +40,11 @@ The Mixed Reality toolbar appears by default whenever you join a new call with a
 
 ![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
 
-If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **HoloLens** button. 
+If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button. 
 
 ![Screenshot of HoloLens button.](media/minimize-MR-toolbar.jpg "Screenshot of HoloLens button")
 
-The toolbar remains minimized if you switch to a different Dynamics 365 Remote Assist user's video feed. You can restore the toolbar by selecting the **HoloLens** button again. 
+The toolbar remains minimized if you switch to a different Dynamics 365 Remote Assist user's video feed. You can restore the toolbar by selecting the **MR Toolbar** button again. 
 
 When you join a call, you'll also see the Call Controls toolbar.
 
