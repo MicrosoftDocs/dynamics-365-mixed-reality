@@ -34,7 +34,9 @@ However, the features you can use to collaborate differ depending on which platf
 |Record call                                                                                          |Yes, only in a group call or meeting. A one-to-one call can be recorded, but the HoloLens user must initiate the recording.      |A one-to-one call can be recorded, but the Dynamics 365 Remote Assist mobile user must initiate the recording.                  |
 |Share screen                                                                                         |Yes                                                                                                  |No, but you can send any file type to a Dynamics 365 Remote Assist mobile user.                                                                                                    |                               
 
-## Toolbars and buttons
+## Toolbars
+
+### Mixed Reality toolbar
 
 The Mixed Reality toolbar appears by default whenever you join a new call with a Dynamics 365 Remote Assist user. 
 
@@ -44,7 +46,12 @@ If you want to focus on the video stream from the HoloLens user, you can minimiz
 
 ![Screenshot of HoloLens button.](media/minimize-MR-toolbar.jpg "Screenshot of HoloLens button")
 
-The toolbar remains minimized if you switch to a different Dynamics 365 Remote Assist user's video feed. You can restore the toolbar by selecting the **MR Toolbar** button again. 
+> [!NOTE]
+> The toolbar remains minimized if you switch to a different Dynamics 365 Remote Assist user's video feed. 
+
+To restore the toolbar, select the **MR Toolbar** button again. 
+
+### Call Controls toolbar
 
 When you join a call, you'll also see the Call Controls toolbar.
 
