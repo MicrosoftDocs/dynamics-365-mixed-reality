@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 05/11/2022
+ms.date: 06/24/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -11,6 +11,17 @@ ms.reviewer: v-bholmes
 # What's new in Dynamics 365 Remote Assist
 
 This article describes details about the **current wave of features (April 2022 through September 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
+
+## June 24, 2022
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|Minimize the Mixed Reality toolbar in Microsoft Teams|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop for PC or Mac](teams-pc-all.md)|
+
+> [!NOTE]
+> You don't need to update the Dynamics 365 Remote Assist HoloLens app or mobile app to minimize the Mixed Reality toolbar from Microsoft Teams.
 
 ## May 11, 2022
 
