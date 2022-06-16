@@ -37,7 +37,7 @@ Return to the Feedback Hub app when you're finished.
 
 9. After you finish the recording, you have the option to delete  the logs and try again.   
 
-    ![XXX.](media/submit-feedback-recording.jpg "XXX")  
+    ![XXX.](media/submit-feedback-review-logs.jpg "XXX")  
     
 10. Select the **I agree to send attached files and diagnostics to Microsoft along with my feedback** check box, and then select **Submit**.
 
