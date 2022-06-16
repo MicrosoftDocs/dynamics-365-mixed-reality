@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Determine whether your Dynamics 365 Guides solution is compatible with the apps.
 ms.author: mamaylya
-ms.date: 06/09/2022
+ms.date: 06/16/2022
 ms.topic: article
 title: Compatibility between Dynamics 365 Guides solution and apps 
 ms.reviewer: v-bholmes
@@ -20,6 +20,9 @@ To find the app and solution versions that you're using, in the PC app, select t
 > HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
 
 ## App/solution compatibility
+
+> [!TIP]
+> [View the solution history](/power-apps/maker/data-platform/solution-history)
 
 | PC and HoloLens app version | Release date | Compatible Guides Dataverse solution versions |HoloLens version(s) supported|
 |-----------------------------|--------------|--------------------------------------------------|--------------------|
