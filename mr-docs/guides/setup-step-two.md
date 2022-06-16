@@ -146,5 +146,6 @@ If you have trouble with any of the procedures in this step, you can get help in
 
 - Contact customer service at <https://dynamics.microsoft.com/support/>.
 
+If the solution installation fails, you can also [go to the solution history page to see details](https://docs.microsoft.com/power-apps/maker/data-platform/solution-history). 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
