@@ -1,8 +1,6 @@
 # Submit feedback on Dynamics 365 Guides through the Feedback Hub
 
-Use the following instructions to report a Dynamics 365 Guides problem through the Feedback Hub. The Feedback Hub is available on Windows devices. 
-Use the Feedback Hub to submit screenshots and provide extra telemetry to help Microsoft investigate a problem. You can follow this process on  
-your HoloLens or your PC.
+If you run into an issue with Dynamics 365 Guides, you can report it through the Feedback Hub app (available for Windows devices). Use the Feedback Hub to submit screenshots and provide extra telemetry to help Microsoft investigate a problem. You can follow this process on your HoloLens or your PC.
 
 1. Start the Feedback Hub app. If you uninstalled it previously, you can download from the Windows Store.
 
