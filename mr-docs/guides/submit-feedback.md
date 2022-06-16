@@ -12,7 +12,7 @@ If you run into an issue with Dynamics 365 Guides, you can report it through the
 
      ![XXX.](media/submit-feedback-enter-feedback.jpg "XXX")
     
-4. Select **Apps**, and then **Microsoft Dynamics 365 Guides**. If the app isn't listed, start Dynamics 365 Guides on your device, and then 
+4. Under **Choose a category**, select **Apps**, and then **Microsoft Dynamics 365 Guides**. If the app isn't listed, start Dynamics 365 Guides on your device, and then 
 select the **Refresh** button.
 
      ![XXX.](media/submit-feedback-choose-category.jpg "XXX")
