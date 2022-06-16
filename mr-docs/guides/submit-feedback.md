@@ -29,7 +29,7 @@ feedback**, and then select **Next**.
 
      ![XXX.](media/submit-feedback-add-files.jpg "XXX")    
 
-8. Select **Start recording**, and then select **Reproduce the problem**. This will attach telemetry data to your feedback and make it easier for Microsoft 
+8. Select **Start recording**, and then select **Recreate my problem**. This will attach telemetry data to your feedback and make it easier for Microsoft 
 to diagnose the problem. Your data is protected under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). 
 Return to the Feedback Hub app when you're finished. 
 
