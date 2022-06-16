@@ -150,21 +150,6 @@ When you're in a call, you'll see your collaborator’s space, including hologra
 > -	The toolbar will not appear if the same Dynamics Remote Assist user is connected from Teams and Dynamics 365 Remote Assist at the same time, regardless of the device used.
 > - The toolbar will not appear if you have not turned on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
 
-### Minimize the Mixed Reality toolbar
-
-The Mixed Reality toolbar appears by default whenever you join a new call with a Dynamics 365 Remote Assist user. 
-
-![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
-
-If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button. 
-
-![Screenshot of HoloLens button.](media/minimize-MR-toolbar.jpg "Screenshot of HoloLens button")
-
-> [!NOTE]
-> The toolbar remains minimized if you switch to a different Dynamics 365 Remote Assist user's video feed. 
-
-To restore the toolbar, select the **MR Toolbar** button again. 
-
 ### Begin editing 
 
 To start annotating, first do one of the following to pause the video stream and enter edit mode:
@@ -210,6 +195,22 @@ To make changes to your edits:
 > - Specific drawings or arrows can’t be removed.
 > 
 > - Each call participant can only remove the annotations they added.
+
+### Minimize the Mixed Reality toolbar
+
+The Mixed Reality toolbar appears by default whenever you join a new call with a Dynamics 365 Remote Assist user. 
+
+![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
+
+If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button. 
+
+![Screenshot of HoloLens button.](media/minimize-MR-toolbar.jpg "Screenshot of HoloLens button")
+
+> [!NOTE]
+> The toolbar remains minimized if you switch to a different Dynamics 365 Remote Assist user's video feed. 
+
+To restore the toolbar, select the **MR Toolbar** button again. 
+
 
 ## Annotate a 2D snapshot
 
