@@ -21,7 +21,7 @@ feedback**, and then select **Next**.
 
     ![XXX.](media/submit-feedback-find-similar-feedback.jpg "XXX")
 
-6. Under **Which of the following best describes your problem?**, select the options that you feel are applicable.
+6. Under **Add more details**, select the options that you feel are applicable.
 
      ![XXX.](media/submit-feedback-add-details.jpg "XXX")
 
