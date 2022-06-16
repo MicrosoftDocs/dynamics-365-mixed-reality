@@ -48,7 +48,7 @@ To update the solution:
 
 If you encounter issues while you're upgrading the solution, make sure that you have the [System Administrator security role](/power-platform/admin/database-security). You must have this role to update the solution.
 
-You can also go to the [solution history page to see details about solution installations](power-apps/maker/data-platform/solution-history). 
+You can also go to the [solution history page to see details about solution installations](/power-apps/maker/data-platform/solution-history). 
 
 ### "Guide can't be opened" error message
 
