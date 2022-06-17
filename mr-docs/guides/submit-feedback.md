@@ -6,38 +6,38 @@ If you run into an issue with Dynamics 365 Guides, you can report it through the
 
 2. Select **Report a problem**.
 
-    ![XXX.](media/submit-feedback-report-problem.jpg "XXX")
+    ![Screenshot of the Report a problem button.](media/submit-feedback-report-problem.jpg "Screenshot of the Report a problem button")
 
 3. Under **Enter your feedback**, summarize the problem, describe it in more detail, and then select **Next**.
 
-    ![XXX.](media/submit-feedback-enter-feedback.jpg "XXX")
+    ![Screenshot of the Enter your feedback section.](media/submit-feedback-enter-feedback.jpg "Screenshot of the Enter your feedback section")
     
 4. Under **Choose a category**, select **Apps** in the first list, and then select **Microsoft Dynamics 365 Guides** in the second list. If the app isn't listed, start Dynamics 365 Guides on your device, and then select the **Refresh** button. Select **Next** when you're done. 
 
-    ![XXX.](media/submit-feedback-choose-category.jpg "XXX")
+    ![Screenshot of the Choose a category section.](media/submit-feedback-choose-category.jpg "Screenshot of the Choose a category section")
  
 5. When you're prompted to find similar feedback, take a quick look at the list to see if the same issue has already been reported. If not, select **New 
 feedback**, and then select **Next**. 
 
-   ![XXX.](media/submit-feedback-find-similar-feedback.jpg "XXX")
+   ![Screenshot of the New feedback command.](media/submit-feedback-find-similar-feedback.jpg "Screenshot of the New feedback command")
 
 6. Under **Add more details**, select the options that you feel are applicable.
 
-    ![XXX.](media/submit-feedback-add-details.jpg "XXX")
+    ![Screenshot of the Add more details section.](media/submit-feedback-add-details.jpg "Screenshot of the Add more details section")
 
 7. Attach any screenshots and/or 3D models (if permitted by your company policies).
 
-    ![XXX.](media/submit-feedback-add-files.jpg "XXX")    
+    ![Screenshot of the Add files section.](media/submit-feedback-add-files.jpg "Screenshot of the Add files section")    
 
 8. Select **Start recording**, and then select **Recreate my problem**. This will attach telemetry data to your feedback and make it easier for Microsoft 
 to diagnose the problem. Your data is protected under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). 
 Return to the Feedback Hub app when you're finished. 
 
-    ![XXX.](media/submit-feedback-recording.jpg "XXX")
+    ![Screenshot of the Start recording and Recreate my problem buttons.](media/submit-feedback-recording.jpg "Screenshot of the Start recording and Recreate my problem buttons")
 
 9. After you finish the recording, you have the option to delete  the logs and try again.   
 
-    ![XXX.](media/submit-feedback-review-logs.jpg "XXX")  
+    ![Screenshot of the Attached section.](media/submit-feedback-review-logs.jpg "creenshot of the Attached section")  
     
 10. If you agree, select the **I agree to send attached files and diagnostics to Microsoft along with my feedback** check box, and then select **Submit**.
 
