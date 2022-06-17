@@ -16,7 +16,7 @@ Here are some answers to common questions about deploying Dynamics 365 Remote As
 
 [Learn about technical requirements](requirements.md)
 
-## Which Microsoft platforms is Dynamics 365 Remote dependent on?
+## Which Microsoft platforms is Dynamics 365 Remote Assist dependent on?
  
 Dynamics 365 Remote Assist is dependent on three Microsoft platforms:
  
