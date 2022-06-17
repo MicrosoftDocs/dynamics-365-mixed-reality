@@ -35,14 +35,14 @@ Return to the Feedback Hub app when you're finished.
 
     ![Screenshot of the Start recording and Recreate my problem buttons.](media/submit-feedback-recording.jpg "Screenshot of the Start recording and Recreate my problem buttons")
 
-9. After you finish the recording, you have the option to delete  the logs and try again.   
+9. After you finish the recording, you have the option to delete the logs and try again.   
 
     ![Screenshot of the Attached section.](media/submit-feedback-review-logs.jpg "creenshot of the Attached section")  
     
-10. If you agree, select the **I agree to send attached files and diagnostics to Microsoft along with my feedback** check box, and then select **Submit**.
+10. If you agree to sending the attached files, select the **I agree to send attached files and diagnostics to Microsoft along with my feedback** check box, and then select **Submit**.
 
-    [!TIP]
-    If you're using a Wi-Fi connection, don't shut down your device right away. Allow a few minutes for the logs to upload.
+    [!IMPORTANT]
+    If you're using a Wi-Fi connection, don't shut down your device right away. Allow a few minutes for the attachments to be uploaded.
 
 ## See also
 
