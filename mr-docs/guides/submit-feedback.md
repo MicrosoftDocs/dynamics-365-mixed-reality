@@ -51,8 +51,8 @@ Return to the Feedback Hub app when you're finished.
     
 10. If you agree to sending the attached files, select the **I agree to send attached files and diagnostics to Microsoft along with my feedback** check box, and then select **Submit**.
 
-    [!IMPORTANT]
-    If you're using a Wi-Fi connection, don't shut down your device right away. Allow a few minutes for the attachments to be uploaded.
+    > [!IMPORTANT]
+    > If you're using a Wi-Fi connection, don't shut down your device right away. Allow a few minutes for the attachments to be uploaded.
 
 ## See also
 
