@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams mobile app.
 ms.author: soanigbo
-ms.date: 08/25/2021
+ms.date: 06/17/2022
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user via Microsoft Teams mobile
 ms.reviewer: v-bholmes
@@ -11,6 +11,9 @@ ms.reviewer: v-bholmes
 # Collaborate with a Dynamics 365 Remote Assist user via Microsoft Teams on mobile 
 
 Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using a variety of devices to solve problems together, faster. Dynamics 365 Remote Assist is available on HoloLens and HoloLens 2, and also AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Teams on PC or mobile to collaborate with Dynamics 365 Remote Assist users. The benefit of using Teams on mobile (versus PC) is that you can collaborate with Dynamics 365 Remote Assist users on-the-go. 
+
+> [!NOTE]
+> [Learn about the platforms that Dynamics 365 Remote Assist is dependent on and how those dependencies can affect the app](faq-deploy.md)
 
 When you use Teams on mobile, you can collaborate using the Mixed Reality toolbar in a one-to-one call with one person who is using Dynamics 365 Remote Assist on HoloLens or HoloLens 2 ("Dynamics 365 Remote Assist HoloLens user"). You can also collaborate using the Mixed Reality toolbar in a one-to-one call with one person who is using Dynamics 365 Remote Assist on mobile ("Dynamics 365 Remote Assist mobile user"). However, the available features differ.
 

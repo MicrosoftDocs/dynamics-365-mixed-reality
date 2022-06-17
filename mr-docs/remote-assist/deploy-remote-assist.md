@@ -3,7 +3,7 @@ title: Deploy Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Dynamics 365 Remote Assist users can deploy and set up Dynamics 365 Remote Assist on their devices. 
 ms.author: soanigbo
-ms.date: 07/06/2021
+ms.date: 06/17/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -69,6 +69,8 @@ Once prerequisites are met, you can now add and assign licenses to *individual u
 
 At this point, users in your organization can set up Dynamics 365 Remote Assist on their devices, as described below. 
 
+> [!NOTE]
+> [Learn about the platforms that Dynamics 365 Remote Assist is dependent on and how those dependencies can affect the app](faq-deploy.md)
 
 ## Download and install the app
 
@@ -114,6 +116,6 @@ After assigning licenses, users can set up and use the app on their HoloLens, Ho
 ## Next steps
 - [Set up Microsoft Teams on a PC or mobile for various scenarios](set-up-teams.md)
 - [Install the Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md)
-
+- [Learn about the platforms that Dynamics 365 Remote Assist is dependent on](faq-deploy.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
