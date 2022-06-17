@@ -47,6 +47,6 @@ Return to the Feedback Hub app when you're finished.
 ## See also
 
 - [FAQ](faq.md)
-- [Known issues](known-issues.md)
+- [Known issues affecting both apps](known-issues.md)
 - [Known issues: PC app](known-issues-pc-app.md)
 - [Known issues: HoloLens app](known-issues-hololens-app.md)
