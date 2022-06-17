@@ -116,6 +116,6 @@ After assigning licenses, users can set up and use the app on their HoloLens, Ho
 ## Next steps
 - [Set up Microsoft Teams on a PC or mobile for various scenarios](set-up-teams.md)
 - [Install the Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md)
-
+- [Learn about the platforms that Dynamics 365 Remote Assist is dependent on](faq-deploy.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
