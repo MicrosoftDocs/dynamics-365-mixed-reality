@@ -44,3 +44,9 @@ Return to the Feedback Hub app when you're finished.
     [!TIP]
     If you're using a Wi-Fi connection, don't shut down your device right away. Allow a few minutes for the logs to upload.
 
+## See also
+
+- [FAQ](faq.md)
+- [Known issues](known-issues.md)
+- [Known issues: PC app](known-issues-pc-app.md)
+- [Known issues: HoloLens app](known-issues-hololens-app.md)
