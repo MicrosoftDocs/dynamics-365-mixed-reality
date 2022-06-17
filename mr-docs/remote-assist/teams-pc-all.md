@@ -34,6 +34,9 @@ However, the features you can use to collaborate differ depending on which platf
 |Record call                                                                                          |Yes, only in a group call or meeting. A one-to-one call can be recorded, but the HoloLens user must initiate the recording.      |A one-to-one call can be recorded, but the Dynamics 365 Remote Assist mobile user must initiate the recording.                  |
 |Share screen                                                                                         |Yes                                                                                                  |No, but you can send any file type to a Dynamics 365 Remote Assist mobile user.                                                                                                    |                               
 
+> [!NOTE]
+> [Learn about the platforms that Dynamics 365 Remote Assist is dependent on and how those dependencies can affect the app](faq-deploy.md)
+
 ## Key terms
 
 When you join a call, you'll see the Mixed Reality toolbar.
