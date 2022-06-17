@@ -27,7 +27,7 @@ feedback**, and then select **Next**.
 
 7. Attach any screenshots and/or 3D models (if permitted by your company policies).
 
-    ![Screenshot of the Add files section.](media/submit-feedback-add-files.jpg "Screenshot of the Add files section")    
+    ![Screenshot of the Attachments section.](media/submit-feedback-add-files.jpg "Screenshot of the Attachments section")    
 
 8. Select **Start recording**, and then select **Recreate my problem**. This will attach telemetry data to your feedback and make it easier for Microsoft 
 to diagnose the problem. Your data is protected under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). 
