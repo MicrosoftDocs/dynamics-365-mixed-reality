@@ -174,9 +174,9 @@
 ### [Export/import folder structure](admin-export-import-folders.md)
 ### [Move content](migrate.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
-## [Get Help and provide feedback](help.md)
 ## [Version history](version-history.md)
-## FAQ, known issues, and feedback
+## FAQ, known issues, and support
+### [Get Help](help.md)
 ### [FAQ](faq.md)
 ### Known issues
 #### [Affecting both apps](known-issues.md)
