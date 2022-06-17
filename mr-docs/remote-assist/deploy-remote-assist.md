@@ -69,6 +69,8 @@ Once prerequisites are met, you can now add and assign licenses to *individual u
 
 At this point, users in your organization can set up Dynamics 365 Remote Assist on their devices, as described below. 
 
+> [!NOTE]
+> [Learn about the platforms that Dynamics 365 Remote Assist is dependent on and how those dependencies can affect the app](faq-deploy.md)
 
 ## Download and install the app
 
