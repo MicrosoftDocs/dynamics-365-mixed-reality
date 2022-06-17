@@ -174,15 +174,16 @@
 ### [Export/import folder structure](admin-export-import-folders.md)
 ### [Move content](migrate.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
-## [Get Help and provide feedback](help.md)
 ## [Version history](version-history.md)
-## FAQ, known issues, and glossary
+## FAQ, known issues, and support
+### [Get Help](help.md)
 ### [FAQ](faq.md)
 ### Known issues
 #### [Affecting both apps](known-issues.md)
 #### [PC app](known-issues-pc-app.md)
 #### [HoloLens app](known-issues-hololens-app.md)
-### [Glossary of terms](glossary.md)
+### [Submit feedback](submit-feedback.md)
+## [Glossary of terms](glossary.md)
 ## [Use HoloLens (1st gen) devices](HL1.md)
 ## [Legal terms and notices for Dynamics 365 Guides](legal.md)
 
