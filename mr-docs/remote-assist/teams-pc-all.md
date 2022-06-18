@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user with Microsoft Teams desktop for PC or Mac
 ms.author: soanigbo
-ms.date: 05/11/2022
+ms.date: 06/17/2022
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user with Teams desktop for PC or Mac
 ms.reviewer: v-bholmes
@@ -33,6 +33,9 @@ However, the features you can use to collaborate differ depending on which platf
 |Share files from OneDrive or device                                                                  |Yes                                                                                                  |Yes  |
 |Record call                                                                                          |Yes, only in a group call or meeting. A one-to-one call can be recorded, but the HoloLens user must initiate the recording.      |A one-to-one call can be recorded, but the Dynamics 365 Remote Assist mobile user must initiate the recording.                  |
 |Share screen                                                                                         |Yes                                                                                                  |No, but you can send any file type to a Dynamics 365 Remote Assist mobile user.                                                                                                    |                               
+
+> [!NOTE]
+> [Learn about the platforms that Dynamics 365 Remote Assist is dependent on and how those dependencies can affect the app](faq-deploy.md)
 
 ## Key terms
 

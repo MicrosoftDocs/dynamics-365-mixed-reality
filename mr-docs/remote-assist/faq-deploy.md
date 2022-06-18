@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Answers to common questions about deploying Microsoft Dynamics 365 Remote Assist.
 ms.author: soanigbo
-ms.date: 06/10/2022
+ms.date: 06/17/2022
 ms.topic: article
 title: Frequently asked questions for deploying Dynamics 365 Remote Assist 
 ms.reviewer: v-bholmes
@@ -15,6 +15,20 @@ Here are some answers to common questions about deploying Dynamics 365 Remote As
 ## What are the technical requirements for deploying Dynamics 365 Remote Assist?
 
 [Learn about technical requirements](requirements.md)
+
+## Which Microsoft platforms is Dynamics 365 Remote Assist dependent on?
+ 
+Dynamics 365 Remote Assist is dependent on three Microsoft platforms:
+ 
+- Microsoft Dataverse
+- Microsoft Dynamics 365 Core Service Scheduling
+- Microsoft Teams
+ 
+In rare cases, changes to these underlying platforms can cause issues in Dynamics 365 Remote Assist. Likewise, a change to one of these platforms can resolve a Dynamics 365 Remote Assist issue. To learn about the schedule for changes to these platforms, see the following topics:
+
+- [Released versions of Microsoft Dataverse](https://docs.microsoft.com/dynamics365/released-versions/microsoft-dataverse)
+- [Released versions of Dynamics 365 Core Service Scheduling](https://docs.microsoft.com/dynamics365/released-versions/dynamics365-css)
+- [Update history for Microsoft Teams app version (Public Cloud and GCC)](https://docs.microsoft.com/officeupdates/teams-app-versioning)
 
 ## When do I need to update the Dynamics 365 Remote Assist model-driven app (Remote Assist solution)?
 
