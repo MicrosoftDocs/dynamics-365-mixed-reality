@@ -21,7 +21,7 @@ Here are some answers to common questions about deploying Dynamics 365 Remote As
 Dynamics 365 Remote Assist is dependent on three Microsoft platforms:
  
 - Microsoft Dataverse
-- Microsoft Dynamics 365 Core Service Scheduling
+- Microsoft Dynamics 365 Core Service
 - Microsoft Teams
  
 In rare cases, changes to these underlying platforms can cause issues in Dynamics 365 Remote Assist. Likewise, a change to one of these platforms can resolve a Dynamics 365 Remote Assist issue. To learn about the schedule for changes to these platforms, see the following topics:
