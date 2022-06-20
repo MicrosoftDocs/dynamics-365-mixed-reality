@@ -149,6 +149,6 @@ If you have trouble with any of the procedures in this step, you can get help in
 If the solution installation fails, you can also [go to the solution history page to see details](/power-apps/maker/data-platform/solution-history). 
 
 > [!NOTE]
-> Dynamics 365 Guides is based on three Microsoft platforms. [Learn how changes to these platforms can cause or fix issues in Dynamics 365 Guides](faq.md). 
+> Dynamics 365 Guides is dependent on three Microsoft platforms. [Learn how changes to these platforms can cause or fix issues in Dynamics 365 Guides](faq.md). 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
