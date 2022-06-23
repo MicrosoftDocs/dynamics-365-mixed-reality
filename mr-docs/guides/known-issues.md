@@ -10,9 +10,9 @@ ms.reviewer: v-bholmes
 
 # Known issues with Microsoft Dynamics 365 Guides
 
-## I can't find the Dynamics 365 Guides model-driven app
+## I want to install the Dynamics 365 Guides solution in a different region. I installed the solution, but I can't find the Dynamics 365 Guides model-driven app.
 
-If you try to install the Dynamics 365 Guides solution into a Dataverse environment instance that is created in a different region than your tenant's region, the Dynamics 365 Guides model-driven app will not appear. To install the model driven app in another region, contact Microsoft support and ask to be listed as a multi-geo tenant for the Power Platform. 
+If you install the Dynamics 365 Guides solution into a Dataverse environment instance that is created in a different region than your tenant's region, the Dynamics 365 Guides model-driven app will not appear. To install the model driven app in another region, contact Microsoft support and ask to be listed as a multi-geo tenant for the Power Platform. 
 
 ## I can't open a guide because it's corrupted
 
