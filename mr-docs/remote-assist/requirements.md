@@ -114,7 +114,7 @@ When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5 Mbps up/down
 The list below contains the *minimum* URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
 
 > [!NOTE]
-> US Government Community Cloud (GCC) environments require additional URLs to be whitelisted. For more information, see the followiong topics:
+> US Government Community Cloud (GCC) environments require additional URLs to be whitelisted. For more information, see the following topics:
 > - [Office 365 U.S. Government GCC High endpoints](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints?view=o365-worldwide)
 > - [Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government)
 > - [Power Apps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)  
