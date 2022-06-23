@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 06/09/2022
+ms.date: 06/23/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -33,7 +33,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| Search for a guide across all folders in an instance| No |<a href="/dynamics365/mixed-reality/guides/pc-app-find-guide" target="_blank">Find a guide in the PC app</a>|
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/search-across-all-folders-database-instance-find-guide" target="_blank">Search for a guide across all folders in an instance</a>| No |<a href="/dynamics365/mixed-reality/guides/pc-app-find-guide" target="_blank">Find a guide in the PC app</a>|
 | Fix guides that won't load due to accidental deletion of tasks or steps outside the PC app| Yes |<a href="/dynamics365/mixed-reality/guides/corrupted-guide" target="_blank">Fix a corrupted guide</a>|
 
 > [!NOTE]
