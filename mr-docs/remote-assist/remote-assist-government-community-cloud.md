@@ -18,7 +18,7 @@ Support for GCC and GCC high applies to Dynamics 365 Remote Assist on the HoloLe
 
 Dynamics 365 Remote Assist on HoloLens and mobile are *unavailable* for the Department of Defense.
 
-GCC environments do not have access to:
+Also, GCC environments do not have access to:
 
 - [Calls Dashboard](calls-dashboard.md)
 - [One-time calling](one-time-call.md)
