@@ -21,7 +21,7 @@ Dynamics 365 Remote Assist on HoloLens and mobile are *unavailable* for the Depa
 GCC environments do not have access to:
 
 - [Calls Dashboard](calls-dashboard.md)
-- [One-time calling]()
+- [One-time calling](one-time-call.md)
 
 
 ### See also
