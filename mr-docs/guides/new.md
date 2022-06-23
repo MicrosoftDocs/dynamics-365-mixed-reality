@@ -21,6 +21,10 @@ This page provides details about the **current wave of features (April 2022 thro
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
+## August 2, 2022
+
+CONTENT TO COME
+
 ## June 9, 2022
 
 |Item|Version|
