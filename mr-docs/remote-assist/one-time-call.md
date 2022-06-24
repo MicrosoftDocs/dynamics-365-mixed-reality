@@ -162,7 +162,7 @@ No. The agent cannot join a one-time call with the Teams mobile app. In addition
 
 **When the agent selects Generate a link, a meeting will appear on their Teams calendar. Can a licensed Dynamics 365 Remote Assist user join the meeting from Dynamics 365 Remote Assist on HoloLens?** 
 
-Yes. However, the Dynamics 365 Remote Assist HoloLens user cannot admit people from the lobby into the call. Follow instructions listed at the end of [this document](./join-meeting-hololens.md) to modify the meeting before inviting guests to join the meeting. 
+Yes. A licensed user can join the meeting from the HoloLens app. 
 
 **What’s the difference between the agent creating a meeting using Teams and forwarding it to their customer, versus setting up a call using the Dynamics 365 Remote Assist model-driven app and sending their customer the one-time call link?** 
 
