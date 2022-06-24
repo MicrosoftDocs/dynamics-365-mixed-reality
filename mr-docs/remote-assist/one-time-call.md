@@ -138,7 +138,7 @@ No.
 
 No. You can only access the model-driven app through the desktop web browser or mobile web browser.
 
-**Can a one-time call user join the call from Dynamics 365 Remote Assist on HoloLens?
+**Can a one-time call user join the call from Dynamics 365 Remote Assist on HoloLens?**
 
 No. At this time, joining a one-time call without a Dynamics 365 Remote Assist account/license is not supported for Dynamics 365 Remote Assist on HoloLens.
 
