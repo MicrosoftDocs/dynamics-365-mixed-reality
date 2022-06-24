@@ -3,7 +3,7 @@ title: Invite a user to join a one-time call (public preview) in Microsoft Dynam
 author: amaraanigbo
 description: Invite a user to join a one-time call (public preview) in Dynamics 365 Remote Assist 
 ms.author: soanigbo
-ms.date: 10/06/2021
+ms.date: 06/24/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -24,6 +24,9 @@ There are several scenarios in which a Dynamics 365 Remote Assist user may want 
 Note that in these scenarios, the external user only needs to **join** a Dynamics 365 Remote Assist call on an ad-hoc, one-time basis. The external user does not need to initiate a call or use Dynamics 365 Remote Assist’s out-of-call asset capture functionalities. 
 
 Any licensed Dynamics 365 Remote Assist user can use the Dynamics 365 Remote Assist model-driven app with their desktop (or mobile) browser to generate a one-time call link. The licensed Dynamics 365 Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Dynamics 365 Remote Assist mobile app (or, in some scenarios, the Teams desktop app). The external user can also view files sent from a Dynamics 365 Remote Assist user. To ensure external users can view shared files, the Dynamics 365 Remote Assist user needs to [adjust their OneDrive sharing settings](/sharepoint/turn-external-sharing-on-or-off). 
+
+> [!NOTE]
+> At this time, joining a one-time call without a Dynamics 365 Remote Assist account/license is supported only for Dynamics 365 Remote Assist mobile users. It's not supported for Dynamics 365 Remote Assist HoloLens users.
 
 ## Requirements  
 
@@ -133,7 +136,11 @@ No.
 
 **Can an agent use the Dynamics 365 mobile app, instead of the mobile browser, to generate one-time call links?**
 
-No – you can only access the model-driven app through the desktop web browser or mobile web browser.
+No. You can only access the model-driven app through the desktop web browser or mobile web browser.
+
+**Can a one-time call user join the call from Dynamics 365 Remote Assist on HoloLens?
+
+No. At this time, joining a one-time call without a Dynamics 365 Remote Assist account/license is not supported for Dynamics 365 Remote Assist on HoloLens.
 
 **Can I embed the Dynamics 365 Remote Assist model-driven app in Teams?**
 
