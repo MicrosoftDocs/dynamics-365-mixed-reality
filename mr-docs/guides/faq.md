@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 06/20/2022
+ms.date: 06/24/2022
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -33,6 +33,10 @@ In rare cases, changes to these underlying platforms can cause issues in Dynamic
 - [Released versions of Microsoft Dataverse](https://docs.microsoft.com/dynamics365/released-versions/microsoft-dataverse)
 - [Released versions of Dynamics 365 Core Service Scheduling](https://docs.microsoft.com/dynamics365/released-versions/dynamics365-css)
 - [Update history for Microsoft Teams app version (Public Cloud and GCC)](https://docs.microsoft.com/officeupdates/teams-app-versioning)
+
+## I can't install the Dynamics 365 Guides solution because I can't find it in the Power Platform admin center
+
+If you previously set up a Dataverse environment instance in a different region than your tenant's default region, the Dynamics 365 Guides model-driven app will not be available to install. You must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for the Power Platform.  
 
 ## I'm connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
 
