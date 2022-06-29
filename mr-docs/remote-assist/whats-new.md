@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 05/11/2022
+ms.date: 06/29/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -11,6 +11,29 @@ ms.reviewer: v-bholmes
 # What's new in Dynamics 365 Remote Assist
 
 This article describes details about the **current wave of features (April 2022 through September 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
+
+## June 29, 2022
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|310.2206.15002|
+|iOS mobile app|2022.6.29|
+|Android mobile app|2022.6.29|
+
+### Bugs fixed 
+
+#### HoloLens 2
+
+- Improved the behavior of inking in user interface panels.
+- Increased reliability of contact search when searching by full email address.
+- Fixed an issue where the **Sign out** button was unexpectedly available when running in Kiosk mode configured for multiple applications on Hololens 2.
+- Addressed a rare issue where the keyboard would disappear when interacting with user interface panels.
+- Addressed a rare issue that would cause some chat messages to not be displayed.
+- Fixed localized text in several languages to better suit specific scenarios. 
+
+#### Mobile
+
+- Fix for microphone volume being too low during calls on certain Samsung devices.
 
 ## May 11, 2022
 
