@@ -26,7 +26,7 @@ This article describes details about the **current wave of features (April 2022 
 
 - Improved the behavior of inking in user interface panels.
 - Increased reliability of contact search when searching by full email address.
-- Fixed an issue where the **Sign out** button was unexpectedly available when running in Kiosk mode configured for multiple applications on Hololens 2.
+- Fixed an issue where the **Sign out** button was unexpectedly available when running in Kiosk mode configured for multiple applications on HoloLens 2.
 - Addressed a rare issue where the keyboard would disappear when interacting with user interface panels.
 - Addressed a rare issue that would cause some chat messages to not be displayed.
 - Fixed localized text in several languages to better suit specific scenarios. 
