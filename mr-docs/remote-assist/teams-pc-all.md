@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user with Microsoft Teams desktop for PC or Mac
 ms.author: soanigbo
-ms.date: 06/17/2022
+ms.date: 06/24/2022
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user with Teams desktop for PC or Mac
 ms.reviewer: v-bholmes
@@ -38,16 +38,6 @@ However, the features you can use to collaborate differ depending on which platf
 > [Learn about the platforms that Dynamics 365 Remote Assist is dependent on and how those dependencies can affect the app](faq-deploy.md)
 
 ## Key terms
-
-When you join a call, you'll see the Mixed Reality toolbar.
-
-![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
-
-You'll also see the Call Controls toolbar.
-
-![Screenshot of call controls.](media/teams-pc-call-controls.jpg "CC")
- 
-When you select the **More** button, you'll see additional features. 
 
 In Dynamics 365 Remote Assist:
 
@@ -143,7 +133,7 @@ When you're in a call, you'll see the call controls at the bottom of the screen.
 
 |Button|Description|
 |------------|----------------------------------------------|
-|![The video icon.](media/Teams_Video.png)| Control outgoing video|
+| ![The video icon.](media/Teams_Video.png)| Control outgoing video|
 | ![The microphone icon.](media/Teams_Microphone.png)| Control outgoing audio|
 | ![The share icon.](media/Teams_Share.png)| Share your desktop or a running application (with a Dynamics 365 Remote Assist HoloLens user only)|
 |	![The text chat icon.](media/Teams_Text.png)| Open a chat window to send text messages| 
@@ -160,7 +150,7 @@ When you're in a call, you'll see your collaborator’s space, including hologra
 > [!NOTE]
 > -	The toolbar appears only when the video on stage is from the Dynamics 365 Remote Assist user.
 > -	The toolbar will appear but will be disabled if the Dynamics 365 Remote Assist user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily lost tracking, or Dynamics 365 Remote Assist is not in the foreground because the user did the bloom gesture).
-> -	The toolbar will not appear if the same Dynamics Remote Assist user is connected from Teams and Dynamics 365 Remote Assist at the same time, regardless of the device used.
+> -	The toolbar will not appear if the same Dynamics 365 Remote Assist user is connected from Teams and Dynamics 365 Remote Assist at the same time, regardless of the device used.
 > - The toolbar will not appear if you have not turned on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
 
 ### Begin editing 
@@ -208,6 +198,22 @@ To make changes to your edits:
 > - Specific drawings or arrows can’t be removed.
 > 
 > - Each call participant can only remove the annotations they added.
+
+### Minimize the Mixed Reality toolbar
+
+The Mixed Reality toolbar appears by default whenever you join a new call with a Dynamics 365 Remote Assist user. 
+
+![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
+
+If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button. 
+
+![Screenshot of HoloLens button.](media/minimize-MR-toolbar.jpg "Screenshot of HoloLens button")
+
+> [!NOTE]
+> The toolbar remains minimized if you switch to a different Dynamics 365 Remote Assist user's video feed. 
+
+To restore the toolbar, select the **MR Toolbar** button again. 
+
 
 ## Annotate a 2D snapshot
 
