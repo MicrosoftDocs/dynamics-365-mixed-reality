@@ -23,7 +23,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ## June 29, 2022
 
-Version XXX of the PC and HoloLens apps provides a bug fix for a permissions issue in the June 9 release related to Microsoft Intune. 
+Version 703.2206.27001 of the HoloLens app provides a bug fix for a permissions issue in the June 9 release related to Microsoft Intune. 
 
 ## June 9, 2022
 
