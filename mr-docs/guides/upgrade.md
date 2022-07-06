@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 06/20/2022
 ms.topic: article
 title: Update the Dynamics 365 Guides solution
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Update the Dynamics 365 Guides solution
@@ -47,6 +47,11 @@ To update the solution:
 ## Troubleshooting
 
 If you encounter issues while you're upgrading the solution, make sure that you have the [System Administrator security role](/power-platform/admin/database-security). You must have this role to update the solution.
+
+You can also go to the [solution history page to see details about solution installations](/power-apps/maker/data-platform/solution-history). 
+
+> [!NOTE]
+> Dynamics 365 Guides is dependent on three Microsoft platforms. [Learn how changes to these platforms can cause or fix issues in Dynamics 365 Guides](faq.md). 
 
 ### "Guide can't be opened" error message
 

@@ -3,7 +3,7 @@ description: Learn which Microsoft Teams policies are supported by Dynamics 365 
 title: Microsoft Teams policies supported by Dynamics 365 Remote Assist
 author: amaraanigbo
 ms.author: soanigbo
-ms.date: 04/13/2022
+ms.date: 06/17/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -138,3 +138,7 @@ To set up the policy, you use the Microsoft Teams PowerShell Module. You can set
 1. [Install the Microsoft Teams PowerShell Module](/microsoftteams/teams-powershell-install) if you haven't already. 
 
 2. [Turn off file sharing for a specific account or organization](/microsoftteams/turn-off-teams-native-file-upload-policy#turn-off-nativefileentrypoints-for-specific-users). 
+
+## See also
+
+[Learn about the platforms that Dynamics 365 Remote Assist is dependent on and how those dependencies can affect the app](faq-deploy.md)

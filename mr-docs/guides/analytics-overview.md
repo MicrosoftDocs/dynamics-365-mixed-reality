@@ -2,7 +2,7 @@
 author: BryceHo
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
 ms.author: cynielse
-ms.date: 04/05/2022
+ms.date: 06/17/2022
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data
 ms.reviewer: v-bholmes
@@ -66,6 +66,9 @@ Each row in the Guide Author Session table corresponds to a HoloLens or PC app i
 ### Guide Session table 
 
 Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options that define completion (for example, if the completion step was visited, or the percentage of steps that the operator visited) are also recorded. For more information, [see the Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
+
+> [!IMPORTANT]
+> When a user **enters a Completion step,** that information is logged in the Guide Session table. This is different from the RunEnd event in the [Guide Event table](developer-entity-reference.md#dynamics-365-guides-tables), which is generated when an **operator closes a guide.** 
 
 ### Guide Session Step Visit table 
 

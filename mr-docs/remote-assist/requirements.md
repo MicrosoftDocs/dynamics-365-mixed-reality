@@ -2,7 +2,7 @@
 author: amaraanigbo
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 05/23/2022
+ms.date: 06/23/2022
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
 ms.reviewer: v-bholmes
@@ -111,7 +111,13 @@ If Dynamics 365 Remote Assist mobile autodetects that the technician is experien
 When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD-quality video calling with resolution of HD 1080p at 30 fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD-quality video calling with resolution of HD 1080p, 4-5 Mbps up/down is required. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
 
 ### URLs and ports
-The following list contains the *minimum* URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
+The list below contains the *minimum* URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
+
+> [!NOTE]
+> US Government Community Cloud (GCC) environments require additional URLs to be added to the allowlist. For more information, see the following topics:
+> - [Office 365 U.S. Government GCC High endpoints](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints?view=o365-worldwide)
+> - [Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government)
+> - [Power Apps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)  
 
 #### Teams
 - *.registrar.skype.com
