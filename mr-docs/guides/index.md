@@ -34,8 +34,9 @@ Managers can use [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboards 
 
 ## What's next?
 
-Check out these overview articles and videos:
+Check out these articles and videos:
 
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Sign up for a free 60-day trial](trial-signup.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Get started](get-started.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br>
