@@ -1,35 +1,23 @@
 ---
 author: Mamaylya
-description: Step 1 of the setup process for Microsoft Dynamics 365 Guides. In this step, you buy a subscription or sign up for a free 30-day trial.
+description: Learn how to buy a subscription for Microsoft Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 11/17/2020
 ms.topic: article
-title: Buy a Dynamics 365 Guides subscription or sign up for a free trial
-ms.reviewer: v-brycho
+title: Buy a Dynamics 365 Guides subscription
+ms.reviewer: v-bholmes
 ---
 
-# Dynamics 365 Guides setup, step 1: Buy a subscription or sign up for a free trial
+# Dynamics 365 Guides setup, step 1: Buy a subscription
 
-> [!NOTE]
-> Before you complete this step of the setup process, be sure to see [Overview of setting up Dynamics 365 Guides](setup.md).
+If you have a Microsoft work account, you can go directly to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home) to search for and buy a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription. If you can't access the Microsoft 365 admin center link, contact your Dynamics 365 administrator.
 
-## Two ways to get a Dynamics 365 Guides subscription
+After purchasing a subscription, assign the Dynamics 365 Guides license to user accounts as described in this article.
 
-There are two ways to get a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription:
-
-- If you have a Microsoft work account, you can go directly to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home) and search for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription there.
-
-    > [!NOTE]
-    > If you can't access the Microsoft 365 admin center link, contact your Dynamics 365 administrator.
-
-- Go to the [Get started](https://aka.ms/GetGuides) page. You can use this page to buy a subscription or sign up for a free 30-day trial. If you sign up for a trial, you can either use credentials for an existing Dynamics 365 account or create new credentials.
-
-    > [!IMPORTANT]
-    > If admin permissions aren't associated with your work account, you won't be able to complete step 2 of the setup process, [Install the solution](setup-step-two.md). In this case, you must coordinate the setup with your admin. Alternatively, you can sign up for a free 30-day trial by following the steps on the [Get started](https://aka.ms/GetGuides) page. When you sign up for a trial, you will create a new environment, and the user account that you create will have admin permissions.
+> [!TIP]
+> If you want to try out Dynamics 365 Guides before purchasing a subscription, you can [sign up for a free 60-day trial](trial-signup.md). You don't have to have administrator privileges to sign up for the 60-day trial. Dynamics 365 Guides also provides a [30-trial for users with Dynamics 365 admin privileges](https://dynamics.microsoft.com/get-started/?appname=guides). When you sign up for this type of trial, you can create a production environment that you can continue to use after purchasing a subscription. 
 
 ## Assign the Dynamics 365 Guides license to user accounts
-
-
 
 After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription, you must assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to user accounts.
 
