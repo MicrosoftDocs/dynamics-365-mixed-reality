@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 06/24/2022
+ms.date: 07/12/2022
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -64,25 +64,9 @@ If you plan to author guides, you'll need to use both apps. If not, you'll only 
 
 ## What languages is Dynamics 365 Guides available in?
 
-As of the August 27 update, Dynamics 365 Guides is available in the following languages for both the PC app and the HoloLens app:
+See a [list of product availability by language](https://dynamics.microsoft.com/en-us/availability-reports/languagereport/). 
 
-- English (US, UK)
-
-- Chinese (People's Republic of China, Taiwan, Hong Kong SAR)
-
-- German 
-
-- Dutch (Netherlands)
-
-- French (France, Canada)
-
-- Italian
-
-- Japanese
-
-- Korean
-
-- Spanish (Spain)
+Dynamics 365 Guides is listed in the hierarchy under **Dynamics 365**>**Operations Apps**. 
 
 ## Why do I see the Step content failed to load message in the HoloLens app?
 
