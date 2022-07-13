@@ -1,5 +1,8 @@
 # Dynamics 365 Guides
 ## [Overview of Dynamics 365 Guides](index.md)
+## Sign up for a free trial
+### [How to sign up](trial-signup.md)
+### [Trial FAQ](trial-faq.md)
 ## [Get started](get-started.md)
 ## [What's new](new.md)
 ## [Videos](videos.md)
@@ -7,8 +10,7 @@
 ## I'm an admin
 
 ### Set up Dynamics 365 Guides or upgrade the solution
-#### [Setup overview](setup.md)
-#### [1: Get a subscription (buy or trial)](setup-step-one.md)
+#### [1: Buy a subscription](setup-step-one.md)
 #### [2: Install the solution](setup-step-two.md)
 #### [3: Install the apps](setup-step-three.md)
 #### [4: Set up Power BI reports](setup-step-four.md)
@@ -25,10 +27,11 @@
 ##### [Assign to individual users](assign-role.md)
 ##### [Assign using Azure AD groups](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
-#### Assign or share a guide
-##### [By changing ownership](admin-access-assign.md)
-##### [By sharing through an access team](admin-access-teams.md)
-#### [Share the Guides model-driven app](admin-share-guides-hub.md)
+#### Assign ownership or share a guide
+##### [Change ownership of a guide](admin-access-assign.md)
+##### [Create an access team](admin-access-teams.md)
+##### [Share a guide with an access team or specific user](admin-share-guide.md)
+##### [Share the Guides model-driven app](admin-share-guides-hub.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling (Preview)](admin-enable-calls.md)
@@ -78,6 +81,7 @@
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Deactivate a guide or guide content](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
+#### [Fix a corrupted guide](corrupted-guide.md)
 
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
@@ -138,7 +142,6 @@
 
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
-### [Data collected and how to use it](analytics-data-collected.md)
 ### Use the Guides Analytics Power BI templates
 #### [Overview of Guides Analytics](analytics-guide.md)
 #### [Set up Guides Analytics](analytics-ga-setup.md)
@@ -175,15 +178,16 @@
 ### [Export/import folder structure](admin-export-import-folders.md)
 ### [Move content](migrate.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
-## [Get Help and provide feedback](help.md)
 ## [Version history](version-history.md)
-## FAQ, known issues, and glossary
+## FAQ, known issues, and support
+### [Get Help](help.md)
 ### [FAQ](faq.md)
 ### Known issues
 #### [Affecting both apps](known-issues.md)
 #### [PC app](known-issues-pc-app.md)
 #### [HoloLens app](known-issues-hololens-app.md)
-### [Glossary of terms](glossary.md)
+### [Submit feedback](submit-feedback.md)
+## [Glossary of terms](glossary.md)
 ## [Use HoloLens (1st gen) devices](HL1.md)
 ## [Legal terms and notices for Dynamics 365 Guides](legal.md)
 

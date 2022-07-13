@@ -4,11 +4,11 @@ description: Learn how to buy a subscription of the Dynamics 365 Remote Assist H
 ms.author: soanigbo
 ms.date: 04/01/2020
 ms.topic: article
-title: Buy and deploy Dynamics 365 Remote Assist
+title: Buy a Dynamics 365 Remote Assist subscription
 ms.reviewer: v-bholmes
 ---
 
-# Buy Dynamics 365 Remote Assist
+# Buy a Dynamics 365 Remote Assist subscription
 
 Dynamics 365 Remote Assist gives workers tools to complete tasks more quickly, safely, and efficiently, on a HoloLens or mobile device. 
 

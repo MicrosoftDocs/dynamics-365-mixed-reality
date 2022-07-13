@@ -10,11 +10,9 @@ ms.reviewer: v-bholmes
 
 # Overview of Dynamics 365 Guides
 
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch this video to get a quick overview of Dynamics 365 Guides on HoloLens 2](https://www.youtube.com/watch?v=V8c3pDKdHEc)
+> [!VIDEO https://www.youtube.com/embed/V8c3pDKdHEc]
 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. These instruction cards are visually tethered to the place where the work is done, and can include images, videos, and 3D holographic models. Operators see exactly what needs to be done, and where, so they can get the job done faster, with fewer errors and greater skill retention. When needed, they can make a call to a remote expert on Microsoft Teams. The remote expert can see what the operator sees on their HoloLens. [Read more about Dynamics 365 Guides capabilities](https://dynamics.microsoft.com/mixed-reality/guides/?ef_id=34bba79ef37214ad99adc7aaf4d29e4f:G:s&OCID=AID2100366_SEM_34bba79ef37214ad99adc7aaf4d29e4f:G:s&msclkid=34bba79ef37214ad99adc7aaf4d29e4f).
-
-![Person using Dynamics 365 Guides while working on a truck engine.](media/woman-at-work.PNG "Person using Dynamics 365 Guides while working on a truck engine") 
 
 ## No coding skills required to create mixed-reality guides
 
@@ -36,8 +34,9 @@ Managers can use [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboards 
 
 ## What's next?
 
-Check out these overview articles and videos:
+Check out these articles and videos:
 
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Sign up for a free 60-day trial](trial-signup.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Get started](get-started.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br>

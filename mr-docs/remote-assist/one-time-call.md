@@ -3,7 +3,7 @@ title: Invite a user to join a one-time call (public preview) in Microsoft Dynam
 author: amaraanigbo
 description: Invite a user to join a one-time call (public preview) in Dynamics 365 Remote Assist 
 ms.author: soanigbo
-ms.date: 10/06/2021
+ms.date: 06/24/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -25,6 +25,9 @@ Note that in these scenarios, the external user only needs to **join** a Dynamic
 
 Any licensed Dynamics 365 Remote Assist user can use the Dynamics 365 Remote Assist model-driven app with their desktop (or mobile) browser to generate a one-time call link. The licensed Dynamics 365 Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Dynamics 365 Remote Assist mobile app (or, in some scenarios, the Teams desktop app). The external user can also view files sent from a Dynamics 365 Remote Assist user. To ensure external users can view shared files, the Dynamics 365 Remote Assist user needs to [adjust their OneDrive sharing settings](/sharepoint/turn-external-sharing-on-or-off). 
 
+> [!NOTE]
+> At this time, joining a one-time call without a Dynamics 365 Remote Assist account/license is supported only for Dynamics 365 Remote Assist mobile users. It's not supported for Dynamics 365 Remote Assist HoloLens users.
+
 ## Requirements  
 
 > [!NOTE]
@@ -36,7 +39,7 @@ To generate links for one-time calls:
  
 - The agent must use the Dynamics 365 Remote Assist model-driven app on a [compatible browser](/power-platform/admin/web-application-requirements).
 
-- Pop-ups must be enabled for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Dynamics 365 Remote Assist model-driven app. Pop-ups are used for authentication purposes.
+- Pop-ups must be enabled for `https://call.d365ra.com` and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Dynamics 365 Remote Assist model-driven app. Pop-ups are used for authentication purposes.
 
 - The agent’s organization must [enable anonymous users to join a Teams meeting](/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
 
@@ -133,7 +136,11 @@ No.
 
 **Can an agent use the Dynamics 365 mobile app, instead of the mobile browser, to generate one-time call links?**
 
-No – you can only access the model-driven app through the desktop web browser or mobile web browser.
+No. You can only access the model-driven app through the desktop web browser or mobile web browser.
+
+**Can a one-time call user join the call from Dynamics 365 Remote Assist on HoloLens?**
+
+No. At this time, joining a one-time call without a Dynamics 365 Remote Assist account/license is supported for Dynamics 365 Remote Assist mobile users but is not supported for Dynamics 365 Remote Assist HoloLens users.
 
 **Can I embed the Dynamics 365 Remote Assist model-driven app in Teams?**
 
@@ -143,7 +150,7 @@ If you want to access the Dynamics 365 Remote Assist features from Teams (for ex
 
 **When the agent selects “Generate a link,” no pop-ups appear, and the agent is unable to copy the link to send to their customer**
 
-Each browser handles pop-ups differently. Refer to browser-specific instructions to enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL. Contact your administrator for your tenant-specific environment URL. 
+Each browser handles pop-ups differently. Refer to browser-specific instructions to enable pop-ups for `https://call.d365ra.com` and for your organization’s tenant-specific environment URL. Contact your administrator for your tenant-specific environment URL. 
 
 **Can an agent modify the instructions they copy and share with their customer?**
 
@@ -162,7 +169,7 @@ No. The agent cannot join a one-time call with the Teams mobile app. In addition
 
 **When the agent selects Generate a link, a meeting will appear on their Teams calendar. Can a licensed Dynamics 365 Remote Assist user join the meeting from Dynamics 365 Remote Assist on HoloLens?** 
 
-Yes. However, the Dynamics 365 Remote Assist HoloLens user cannot admit people from the lobby into the call. Follow instructions listed at the end of [this document](./join-meeting-hololens.md) to modify the meeting before inviting guests to join the meeting. 
+Yes. A licensed user can join the meeting from the HoloLens app. 
 
 **What’s the difference between the agent creating a meeting using Teams and forwarding it to their customer, versus setting up a call using the Dynamics 365 Remote Assist model-driven app and sending their customer the one-time call link?** 
 

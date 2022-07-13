@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 03/24/2022
+ms.date: 07/12/2022
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -19,6 +19,24 @@ If you're not able to use Microsoft Dynamics 365 Guides, or if you have an issue
 2. Under **Customer Engagement help + support**, select **GET SUPPORT**.
 
 3. Find a phone number or submit a support request through the admin center. 
+
+## Which Microsoft platforms is Dynamics 365 Guides dependent on?
+ 
+Dynamics 365 Guides is dependent on three Microsoft platforms:
+ 
+- Microsoft Dataverse
+- Microsoft Dynamics 365 Core Service
+- Microsoft Teams
+ 
+In rare cases, changes to these underlying platforms can cause issues in Dynamics 365 Guides. Likewise, a change to one of these platforms can resolve a Dynamics 365 Guides issue. To learn about the schedule for changes to these platforms, see the following articles:
+
+- [Released versions of Microsoft Dataverse](https://docs.microsoft.com/dynamics365/released-versions/microsoft-dataverse)
+- [Released versions of Dynamics 365 Core Service Scheduling](https://docs.microsoft.com/dynamics365/released-versions/dynamics365-css)
+- [Update history for Microsoft Teams app version (Public Cloud and GCC)](https://docs.microsoft.com/officeupdates/teams-app-versioning)
+
+## I can't install the Dynamics 365 Guides solution because I can't find it in the Power Platform admin center
+
+If you previously set up a Dataverse environment instance in a different region than your tenant's default region, the Dynamics 365 Guides model-driven app will not be available to install. You must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for the Power Platform.  
 
 ## I'm connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
 
@@ -46,25 +64,9 @@ If you plan to author guides, you'll need to use both apps. If not, you'll only 
 
 ## What languages is Dynamics 365 Guides available in?
 
-As of the August 27 update, Dynamics 365 Guides is available in the following languages for both the PC app and the HoloLens app:
+See a [list of product availability by language](https://dynamics.microsoft.com/en-us/availability-reports/languagereport/). 
 
-- English (US, UK)
-
-- Chinese (People's Republic of China, Taiwan, Hong Kong SAR)
-
-- German 
-
-- Dutch (Netherlands)
-
-- French (France, Canada)
-
-- Italian
-
-- Japanese
-
-- Korean
-
-- Spanish (Spain)
+Dynamics 365 Guides is listed in the hierarchy under **Dynamics 365**>**Operations Apps**. 
 
 ## Why do I see the Step content failed to load message in the HoloLens app?
 

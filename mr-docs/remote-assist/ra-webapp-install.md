@@ -3,7 +3,7 @@ title: Set up an environment and install the Microsoft Dynamics 365 Remote Assis
 author: amaraanigbo
 description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
 ms.author: soanigbo
-ms.date: 04/28/2021
+ms.date: 07/12/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -105,7 +105,9 @@ More information: [Create and manage environments in the Power Platform admin ce
 4. Select an environment, review the packages to be installed, agree to the terms of service, and then select **Install**. This process might take a while.
 
 > [!IMPORTANT]
-> The environment selected must be Dynamics 365 apps&ndash;enabled (for example, you can't use the default environment). If it isn't compatible, the installation will fail. Choose another environment that's compatible, or create a new environment with Dynamics 365 apps enabled.
+> The environment selected must be Dynamics 365 apps&ndash;enabled.
+> 
+>  Do not install into the Default environment. If you select the Default environment, some Dynamics 365 Remote Assist features, such as the Calls Dashboard, won't work. 
 
 ## Update the model-driven app to the latest version
 
@@ -139,7 +141,7 @@ This will occur if you try to install Dynamics 365 Remote Assist in an environme
 
 ### Can't enable Dynamics 365 apps
 
-If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch when you create an environment, ensure that you have an active Dynamics 365 Remote Assist subscription. You can view your subscriptions in the [Microsoft 365 admin center](https://www.admin.microsoft.com).
+If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch when you create an environment, ensure that you have an active Dynamics 365 Remote Assist subscription. You can view your subscriptions in the [Microsoft 365 admin center](https://admin.microsoft.com/).
 
 ### Not enough capacity to create environments
 

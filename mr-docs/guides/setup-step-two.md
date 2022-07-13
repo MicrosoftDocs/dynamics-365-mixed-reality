@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 02/23/2020
+ms.date: 06/24/2022
 ms.topic: article
 title: Install the Dynamics 365 Guides solution 
 ms.reviewer: v-brycho
@@ -53,6 +53,9 @@ The type of environment that you create depends on whether you purchased a [!inc
         ![New environment dialog box.](media/new-environment-pane.PNG "New environment dialog box")
 
     3. In the **Region** field, keep the default setting.
+
+        > [!IMPORTANT]
+        > If you set up a Dataverse environment instance in a different region than your default Azure Active Directory tenant region, the Dynamics 365 Guides model-driven app will not be available to install. If you'd like to set up a Dataverse environment instance in a region other than your default region, you must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for the Power Platform.  
 
     4. Set the **Create a database for this environment?** option to **Yes**. 
 
@@ -146,5 +149,9 @@ If you have trouble with any of the procedures in this step, you can get help in
 
 - Contact customer service at <https://dynamics.microsoft.com/support/>.
 
+If the solution installation fails, you can also [go to the solution history page to see details](/power-apps/maker/data-platform/solution-history). 
+
+> [!NOTE]
+> Dynamics 365 Guides is dependent on three Microsoft platforms. [Learn how changes to these platforms can cause or fix issues in Dynamics 365 Guides](faq.md). 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

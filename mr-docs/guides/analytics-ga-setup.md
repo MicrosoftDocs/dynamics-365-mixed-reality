@@ -2,7 +2,7 @@
 author: BryceHo
 description: Learn how to set up Guides Analytics Power BI reports for Microsoft Dynamics 365 Guides
 ms.author: cynielse
-ms.date: 03/23/2021
+ms.date: 04/05/2022
 ms.topic: article
 title: Set up Guides Analytics reports for Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -66,8 +66,5 @@ described in detail in [Take a tour of Guides Analytics reports](analytics-ga-re
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
 - [Overview of analyzing or integrating Dynamics 365 Guides operations data](analytics-overview.md)
-- [What data is collected and how can you use it?](analytics-data-collected.md)
-
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

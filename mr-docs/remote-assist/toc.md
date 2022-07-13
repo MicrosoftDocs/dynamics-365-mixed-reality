@@ -19,6 +19,7 @@
 #### [Send text messages](send-texts-hololens.md)
 #### [Join a meeting](join-meeting-hololens.md)
 #### [Calls in low-bandwidth situations](hololens-low-bandwidth.md)
+#### [How Remote Assist automatically adjusts HoloLens temperature](hololens-thermal-adjusting.md)
 ### [Add annotations](add-annotations-hololens.md)
 ### Capture photos, videos, and asset conditions
 #### [Take a photo and save to OneDrive or Field Service booking](take-snapshot-save-booking-hololens.md)
@@ -46,6 +47,7 @@
 #### [Join a meeting](mobile-app/join-meeting-mobile.md)
 #### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
+### [Share your screen](mobile-app/share-screen.md)
 ### Capture photos, videos, and asset conditions
 #### [Capture and annotate snapshots](mobile-app/annotate-snapshot.md)
 #### [Record calls](mobile-app/call-recording.md)
@@ -67,7 +69,7 @@
 #### [Automate asset capture data](integrate-power-automate.md)
 
 ## Microsoft Teams and Dynamics 365 Remote Assist
-### [Collaborate with Remote Assist user from Teams PC](teams-pc-all.md)
+### [Collaborate with Remote Assist user from Teams PC or Teams for Mac](teams-pc-all.md)
 ### [Collaborate with Remote Assist user from Teams mobile](teams-mobile-all.md)
 ### [Supported Teams policies](teams-policies.md)
 
@@ -83,16 +85,22 @@
 #### [Restrict calling and contacts](restricted-mode-calling.md)
 #### [Restrict ability to access OneDrive files](restricted-mode-files.md)
 #### [Restrict ability to access asset records](restricted-mode-assets.md)
+#### [Restrict ability to sign out of HoloLens](restricted-mode-signout.md)
+
+## [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
+
 ## Additional resources
-### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
-### [Version history](version-history.md)
 
 ### Metadata references
 #### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
 #### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
-
-### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
+
+## [Version history](version-history.md)
+
+## [How-to videos](videos.md)
+
+## FAQ and support
 ### [FAQ: Deployment](faq-deploy.md)
 ### [FAQ: HoloLens](faq-hololens.md)
 ### [FAQ: Mobile app](./mobile-app/faq-mobile.md)

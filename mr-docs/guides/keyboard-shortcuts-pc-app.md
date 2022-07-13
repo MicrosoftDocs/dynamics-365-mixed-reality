@@ -36,7 +36,7 @@ You can use any of the following keyboard shortcuts in the Microsoft Dynamics 36
 
 - [Anchor your guide to the real world](anchor.md)
 - [Structure your guide in the Outline page](structure-guide.md)
-- [Create steps and add 3D content or 2D media](/mr-docs/guides/pc-app-step-editor-overview)
+- [Step Editor overview](pc-app-step-editor-overview.md)
 - [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 - [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)
 - [Deactivate a guide](pc-app-deactivate-guide.md)
