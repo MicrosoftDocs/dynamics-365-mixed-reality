@@ -2,7 +2,7 @@
 
 # Tips for pointing at small, closely spaced objects in Dynamics 365 Guides
 
-If you're working with small, or closely spaced objects in Microsoft Dynamics 365 Guides, you might experience problems when using holograms to point at those objects due to HoloLens accuracy thresholds. For example, the following graphic shows a machine that has buttons that are placed closer together than the HoloLens minimum accuracy thresholds. 
+If you're working with small or closely spaced objects in Microsoft Dynamics 365 Guides, you might experience problems when using holograms to point at those objects due to HoloLens accuracy thresholds. For example, the following graphic shows a machine that has buttons that are placed closer together than the HoloLens minimum accuracy thresholds. 
 
 ![Example of buttons placed close together.](media/small-holograms-example.jpg "Example of buttons placed close together")
 
