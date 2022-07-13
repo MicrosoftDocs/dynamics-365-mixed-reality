@@ -20,7 +20,7 @@ If you add holograms to point at the buttons in this case, it may be difficult f
 
 ![Example of buttons placed close together with holographic pointers.](media/small-holograms-example-with-pointers.jpg "Example of buttons placed close together with holographic pointers")
 
-This article shows how you can use and place a 3D image together with a real-world object to point at small, closely spaced objects accurately and consistently. 
+This article shows how you can use and place a 3D image together with a real-world object to point at small or closely spaced objects accurately and consistently. 
 
 ## Use a 3D image together with a real-world object
 
