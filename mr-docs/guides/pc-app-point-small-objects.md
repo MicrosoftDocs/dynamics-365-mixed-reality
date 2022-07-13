@@ -6,7 +6,7 @@ If you're working with small or closely spaced objects in Microsoft Dynamics 365
 
 ![Example of buttons placed close together.](media/small-holograms-example.jpg "Example of buttons placed close together")
 
-This means there might be small variations in the exact placement of the holograms between devices or sessions. When such accuracy is required in small spaces, a small variation can mean pointing to the wrong button. 
+In this case, there might be small variations in the exact placement of the holograms between devices or sessions. When such accuracy is required in small spaces, a small variation can mean pointing to the wrong button. 
 
 If you add holograms to point at the cable plug in in this case, it may be difficult for the operator to see small but important parts of the equipment as the holograms might obstruct them, as shown in the following graphic.
 
