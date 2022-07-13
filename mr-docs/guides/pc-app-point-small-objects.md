@@ -2,19 +2,21 @@
 
 # Tips for pointing at small, closely spaced objects in Dynamics 365 Guides
 
-If you're working with small, closely spaced objects in Microsoft Dynamics 365 Guides, you might experience problems when using holograms to point at those objects due to HoloLens accuracy thresholds. For example, the following graphic shows a machine that has buttons that are placed very close together.
+If you're working with small, or closely spaced objects in Microsoft Dynamics 365 Guides, you might experience problems when using holograms to point at those objects due to HoloLens accuracy thresholds. For example, the following graphic shows a machine that has buttons that are placed closer together than the HoloLens minimum accuracy thresholds. 
 
 ![Example of buttons placed close together.](media/small-holograms-example.jpg "Example of buttons placed close together")
 
-If you add holograms to point at the buttons in this case, it may create holographic clutter that's difficult for the operator to interpret, as shown in the following graphic.
+This means there might be small variations in the exact placement of the holograms between devices or sessions. When such accuracy is required in small spaces, a small variation can mean pointing to the wrong button. 
+
+If you add holograms to point at the cable plug in in this case, it may be difficult for the operator to see small but important parts of the equipment as the holograms might obstruct them, as shown in the following graphic.
 
 ![Example of buttons placed close together with holographic pointers.](media/small-holograms-example-with-pointers.jpg "Example of buttons placed close together with holographic pointers")
 
-This article shows how you can use a 3D image together with a real-world object to point at small, closely spaced objects. 
+This article shows how you can use and place a 3D image together with a real-world object to point at small, closely spaced objects accuratelhy and consistently. 
 
 ## Use a 3D image together with a real-world object
 
-You can create a 3D image that replicates an object (a machine, for example) or part of an object and use the image together with the real-world object. This works particularly well if the object is relatively flat. Using a 3D image this way offers the following advantages over attaching holograms directly to a real-world object:
+You can create a 3D image that replicates an object (a machine, for example) or part of an object and place the image in space to keep it in the context of the real-world object. Using a 3D image this way offers the following advantages over attaching holograms directly to a real-world object:
 
 - When you attach 3D pointers to an image, the pointers always stay in the exact same position relative to the image.     
 
@@ -69,6 +71,9 @@ You can use Paint 3D, which comes with Windows, to create a 3D panel that you ca
     ![Screenshot of Paint 3D with sticker resized to fit 3D panel.](media/Paint-3D-sticker-added.jpg "Screenshot of Paint 3D with sticker resized to fit 3D panel")
 
 8. Select **Menu** in the upper-left corner of the screen, select **3D model**, and then save the file in .GLB format so you can import it easily into Dynamics 365 Guides.
+
+    > [!NOTE]
+    > As an alternative, you can import an image into Paint 3D by selecting **Menu** > **Insert**. While the image is still selected, on the **2D selection** panel to the right, select **Make 3D**.  Then export it as described above. 
 
 9. [Import the file into the Dynamics 365 Guides PC app](pc-app-add-3D-part.md). 
 
