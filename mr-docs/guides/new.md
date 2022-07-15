@@ -33,7 +33,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/grant-guide-access-third-parties" target="_blank">Grant guide access to third parties</a>| No |<a href="/dynamics365/mixed-reality/guides/admin-guest-access" target="_blank">Grant guest access to a third party</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/grant-guide-access-third-parties" target="_blank">Grant guide access to third parties</a>| Yes|<a href="/dynamics365/mixed-reality/guides/admin-guest-access" target="_blank">Grant guest access to a third party</a>|
 | HoloLens auto update| Yes |<a href="/dynamics365/mixed-reality/guides/corrupted-guide" target="_blank">Download the apps</a>|
 
 > [!NOTE]
