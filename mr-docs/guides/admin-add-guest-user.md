@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 Anyone who is not part of a Microsoft Dynamics 365 Guides organization, but has an Azure Active Directory account, can be added as a guest user by a global admin. The user can then access Dynamics 365 Guides content in that organization as an operator. A "guest" is defined as someone who doesn't have a school or work account with the organization. For example, a guest could be a partner, vendor, supplier, or consultant. 
 
 > [!NOTE]
-> Anyone with a consumer email account (for example, Outlook.com or Gmail.com) can be a guest user in Azure Active Directory, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
+> Anyone with a consumer email account (for example, an Outlook.com or Gmail.com account) can be a guest user in Azure Active Directory, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
 
 To add a user as a guest, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Azure Active Directory](https://docs.microsoft.com/microsoft-365/admin/add-users/about-guest-users?view=o365-worldwide). Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
 
