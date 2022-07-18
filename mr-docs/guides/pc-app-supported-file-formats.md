@@ -18,7 +18,7 @@ In Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], yo
 | Images | PNG, JPG, JPEG, BMP, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV| Keep your videos less than two minutes long and focused on one step at a time. |
 
-## Important
+## Important notes
 
 - The August 9, 2022 release introduced a new setting that improves video transcoding. If the PC app detects a hardware transcoding failure, it automatically uses software transcoding instead. If the software transcoding is successful, the **Use hardware video encoding on this device** setting is automatically updated to switch off hardware video encoding. 
 
