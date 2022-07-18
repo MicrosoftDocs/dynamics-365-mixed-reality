@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get an overview of the process of authoring a guide in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 08/09/2022
 ms.topic: overview
 title: Authoring overview--Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
@@ -26,10 +26,8 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 
     ![Testing a guide.](media/test-your-guide.PNG "Testing a guide")
 
-> [!TIP]
-> **New for [!include[pn-hololens](../includes/pn-hololens.md)] 2.** [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now includes [!include[pn-hololens](../includes/pn-hololens.md)] 2 advanced hand-tracking capabilities. When you author a guide, you can now work directly with holograms by grabbing the manipulation controls with your hands to position the holograms, rotate them, and change their size. However, when you select a guide, scan an anchor, or work in the Step card editor, you make selections in the same way that you did on [!include[pn-hololens](../includes/pn-hololens.md)] 1.
->
-> Watch this space for future developments about [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]!
+> [!NOTE]
+> You can [add a guest user in Dynamics 365 Guides](add-users.md#add-a-guest-user) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
 
 ## What's next?
 
