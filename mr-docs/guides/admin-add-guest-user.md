@@ -19,6 +19,9 @@ To add a user as a guest, you [invite them as a guest to Microsoft Teams, or cre
 
 The guest experience has limitations by design. For a full list of what a guest can and can't do in Teams, see [Guest access in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access). 
 
+> [!IMPORTANT]
+> A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
+
 ## Guest user management
 
 When a guest is invited to join an organization, they receive a welcome email message. This message includes some information about the organization and what to expect as a member. The guest must accept the invitation by selecting **Accept Invitation** in the email message before they can access the organization and the organization's guides.
