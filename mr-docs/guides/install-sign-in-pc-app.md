@@ -36,6 +36,9 @@ Use these instructions to install the [!include[cc-microsoft](../includes/cc-mic
 4. On the **Sign in** page, enter the user account and password that your organization assigned to you.
 
     ![Sign in page.](media/sign-in-pc.PNG "Sign in page")
+    
+    > [!NOTE]
+    > You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
 
 5. Select the instance that you want to use, if there is more than one instance. Then select **OK**.
 
