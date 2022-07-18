@@ -27,7 +27,7 @@ The second major step in the process of authoring a guide in [!include[cc-micros
     ![Testing a guide.](media/test-your-guide.PNG "Testing a guide")
 
 > [!NOTE]
-> You can [add a guest user in Dynamics 365 Guides](add-users.md#add-a-guest-user) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
+> You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
 
 ## What's next?
 
