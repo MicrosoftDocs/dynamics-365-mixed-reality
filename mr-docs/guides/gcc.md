@@ -63,7 +63,7 @@ only in the United States.
 
 ## Guest access and the GCC environment
 
-If you try to [invite a guest user](add-users.md#add-a-guest-user) who is not in the same government cloud, you'll see the following error message:
+If you try to [invite a guest user](admin-add-guest-user.md) who is not in the same government cloud, you'll see the following error message:
 
 >[!CAUTION]
 >_"The user you are inviting does not exist in this national cloud. To collaborate with this user, ask them for a different email address associated with the directory in this national cloud or create User Account for them in your AAD"._
