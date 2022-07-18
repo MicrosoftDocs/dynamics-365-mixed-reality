@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 06/09/2022
+ms.date: 06/29/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -21,27 +21,9 @@ This page provides details about the **current wave of features (April 2022 thro
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
-## August 2, 2022
+## June 29, 2022
 
-|Item|Version|
-|-------------------------|--------------------------------|
-|PC app|XXX|
-|HoloLens app (HoloLens 2 only)|XXX|
-|Solution|XXX |
-
-### Features
-
-| Feature | Solution update required? |How to|
-|----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/grant-guide-access-third-parties" target="_blank">Grant guide access to third parties</a>| Yes|<a href="/dynamics365/mixed-reality/guides/admin-add-guest-user" target="_blank">Add a guest user</a>|
-| Automatically update the HoloLens app to stay compatible with the latest solution| Yes |<a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/setup-step-three" target="_blank">Download and install the PC and HoloLens apps</a>|
-
-> [!NOTE]
-> You must be a system administrator to update the Dynamics 365 Guides solution. 
-
-### Bugs fixed and other improvements
-
-XXX
+Version 703.2206.27001 of the HoloLens app provides a bug fix for a permissions issue in the June 9 release related to Microsoft Intune. 
 
 ## June 9, 2022
 
@@ -55,8 +37,8 @@ XXX
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| Search for a guide across all folders in an instance| No |<a href="/dynamics365/mixed-reality/guides/pc-app-find-guide" target="_blank">Find a guide in the PC app</a>|
-| Fix guides that won't load due to accidental deletion of tasks or steps outside the PC app| Yes |<a href="/dynamics365/mixed-reality/guides/corrupted-guide" target="_blank">Fix a corrupted guide</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/search-across-all-folders-database-instance-find-guide" target="_blank">Search across all folders in the database (instance) to find a guide</a>| No |<a href="/dynamics365/mixed-reality/guides/pc-app-find-guide" target="_blank">Find a guide in the PC app</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/fix-guides-that-wont-load-due-accidental-deletion-tasks-or-steps-outside-app" target="_blank">Fix guides that won't load due to accidental deletion of tasks or steps outside the PC app</a>| Yes |<a href="/dynamics365/mixed-reality/guides/corrupted-guide" target="_blank">Fix a corrupted guide</a>|
 
 > [!NOTE]
 > You must be a system administrator to update the Dynamics 365 Guides solution. 

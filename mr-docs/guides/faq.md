@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 06/20/2022
+ms.date: 07/12/2022
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -34,6 +34,10 @@ In rare cases, changes to these underlying platforms can cause issues in Dynamic
 - [Released versions of Dynamics 365 Core Service Scheduling](https://docs.microsoft.com/dynamics365/released-versions/dynamics365-css)
 - [Update history for Microsoft Teams app version (Public Cloud and GCC)](https://docs.microsoft.com/officeupdates/teams-app-versioning)
 
+## I can't install the Dynamics 365 Guides solution because I can't find it in the Power Platform admin center
+
+If you previously set up a Dataverse environment instance in a different region than your tenant's default region, the Dynamics 365 Guides model-driven app will not be available to install. You must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for the Power Platform.  
+
 ## I'm connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
 
 If you're having problems signing in to or using Dynamics 365 Guides, it may be that your network isn't configured correctly. 
@@ -60,25 +64,9 @@ If you plan to author guides, you'll need to use both apps. If not, you'll only 
 
 ## What languages is Dynamics 365 Guides available in?
 
-As of the August 27 update, Dynamics 365 Guides is available in the following languages for both the PC app and the HoloLens app:
+See a [list of product availability by language](https://dynamics.microsoft.com/en-us/availability-reports/languagereport/). 
 
-- English (US, UK)
-
-- Chinese (People's Republic of China, Taiwan, Hong Kong SAR)
-
-- German 
-
-- Dutch (Netherlands)
-
-- French (France, Canada)
-
-- Italian
-
-- Japanese
-
-- Korean
-
-- Spanish (Spain)
+Dynamics 365 Guides is listed in the hierarchy under **Dynamics 365**>**Operations Apps**. 
 
 ## Why do I see the Step content failed to load message in the HoloLens app?
 

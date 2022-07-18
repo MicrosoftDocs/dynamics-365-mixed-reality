@@ -1,5 +1,8 @@
 # Dynamics 365 Guides
 ## [Overview of Dynamics 365 Guides](index.md)
+## Sign up for a free trial
+### [How to sign up](trial-signup.md)
+### [Trial FAQ](trial-faq.md)
 ## [Get started](get-started.md)
 ## [What's new](new.md)
 ## [Videos](videos.md)
@@ -7,8 +10,7 @@
 ## I'm an admin
 
 ### Set up Dynamics 365 Guides or upgrade the solution
-#### [Setup overview](setup.md)
-#### [1: Get a subscription (buy or trial)](setup-step-one.md)
+#### [1: Buy a subscription](setup-step-one.md)
 #### [2: Install the solution](setup-step-two.md)
 #### [3: Install the apps](setup-step-three.md)
 #### [4: Set up Power BI reports](setup-step-four.md)
@@ -68,6 +70,7 @@
 ##### [Step Editor overview](pc-app-step-editor-overview.md)
 ##### [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
 ##### [Add a custom 3D part that you import](pc-app-add-3D-part.md)
+##### [Tips for pointing at small objects](pc-app-point-small-objects.md) 
 ##### [Add media (images or videos)](pc-app-add-media.md)
 ##### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
 ##### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
@@ -93,6 +96,7 @@
 #### Work with holograms
 ##### [Get oriented with the HoloLens app](hololens-app-orientation.md)
 ##### [Place and manipulate holograms](hololens-app-place-holograms.md)
+##### [Tips for pointing at small objects](pc-app-point-small-objects.md)
 ##### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 ##### [Use a style to add emphasis](hololens-app-styles.md)
 ##### [Duplicate a 3D model](hololens-app-duplicate-model.md)
