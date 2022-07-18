@@ -2,7 +2,7 @@
 author: MattHoag-MS
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 08/09/2022
 ms.topic: article
 title: Install and sign in to the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
@@ -12,8 +12,10 @@ ms.reviewer: v-brycho
 
 If you haven't already installed the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app on your [!include[pn-hololens](../includes/pn-hololens.md)] device (or if it hasn't already been installed for you), you can install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store.
 
+You must have a license to install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. You can also [sign up for a free trial of Dynamics 365 Guides](setup.md).
+
 > [!NOTE]
-> You must have a license to install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. You can also [sign up for a free trial of Dynamics 365 Guides](setup.md).
+> You can [add a guest user in Dynamics 365 Guides](add-users.md#add-a-guest-user) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
 
 ## Install the app from the Microsoft Store
 
@@ -52,14 +54,17 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
     ![Work or school account page.](media/credentials.PNG "Work or school account page")
 
-6. If you have access to more than one instance, select an instance to use.
+6. If you have been granted [guest access](admin-add-user.md) to more than one organization, select an organization.
 
-    ![HoloLens Instance Select.](media/choose-instance.PNG "HoloLens Instance Select")
+    ![Screenshot of Choose organization dialog box.](media/choose-organization.JPG "Screenshot of Organization dialog box")
 
-7. Follow the instructions to access the Main menu and choose an activity. [Learn more about the Main menu](main-menu.md). 
+7. If you have access to more than one instance, select an instance to use.
+
+    ![Screenshot of Choose instance dialog box.](media/choose-instance.JPG "Screenshot of Instance dialog box")
+
+8. Follow the instructions to access the **Main** menu and choose an activity. [Learn more about the Main menu](main-menu.md).
 
     ![Animation of tutorial showing how to open Main menu.](media/Tutorial.gif "Animation of tutorial showing how to open Main menu")
-
 
 ## Sign out of the HoloLens app
 
