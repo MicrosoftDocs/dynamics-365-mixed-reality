@@ -56,11 +56,11 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 6. If you have been granted [guest access](admin-add-user.md) to more than one organization, select an organization.
 
-    ![Screenshot of Choose organization dialog box.](media/choose-organization.jpg "Screenshot of Organization dialog box")
+    ![Screenshot of Choose organization dialog box.](media/choose-organization.JPG "Screenshot of Organization dialog box")
 
 7. If you have access to more than one instance, select an instance to use.
 
-    ![Screenshot of Choose instance dialog box.](media/choose-instance.jpg "Screenshot of Instance dialog box")
+    ![Screenshot of Choose instance dialog box.](media/choose-instance.JPG "Screenshot of Instance dialog box")
 
 8. Follow the instructions to access the **Main** menu and choose an activity. [Learn more about the Main menu](main-menu.md).
 
