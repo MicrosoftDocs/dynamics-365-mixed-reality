@@ -20,7 +20,7 @@ In Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], yo
 
 > [!IMPORTANT]
 > - The August 9, 2022 release introduced a new setting that improves video transcoding. If the PC app detects a hardware transcoding failure, it automatically uses software transcoding instead. If the software transcoding is successful, the **Use hardware video encoding on this device** setting is automatically updated to switch off hardware encoding. 
->   
+> ![Screenshot of Use hardware video encoding on this device setting.](media/video-transcoding-setting.PNG "Screenshot of Use hardware video encoding on this device setting")
 > - The supported video format and resolution is 854 x 480 H.264 MP4 (commonly called Advanced Video Recording or "AVC"). Any other formats are transcoded when imported and may result in a larger file size than the original.
 > - **The file size limit for a video, image, or 3D model is 128 MB. Transcoding may occur when uploading. This may change the size of the file that needs to be stored, which can cause the upload to fail if the file is too big.**
   
