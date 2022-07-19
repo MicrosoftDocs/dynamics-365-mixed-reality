@@ -12,6 +12,9 @@ ms.reviewer: v-bholmes
 
 We recommend that you always update the Microsoft Dynamics 365 Guides solution at every release, so that you have access to the latest features and updates. However, if you suspect that you have an older solution version, and must verify that it's compatible with the PC and HoloLens apps that you're using, see the table that follows.
 
+> [!TIP]
+> You can make sure that the HoloLens app is automatically updated to be compatible with the latest solution version by turning on the **Update apps automatically** setting in the Microsoft Store.  
+
 To find the app and solution versions that you're using, in the PC app, select the **About** command. You must be signed in to see both version numbers.
 
 ![Version numbers on the About page.](media/about-command.PNG "Version numbers on the About page")
@@ -28,7 +31,7 @@ To find the app and solution versions that you're using, in the PC app, select t
 |-----------------------------|--------------|--------------------------------------------------|--------------------|
 | 703.2206.27001 (HoloLens app only) | June 29, 2022 | 700.3.0.1, 700.2.0.1, 700.1.0.1, 700.0.0.1|HoloLens 2 only|
 | 703.2206.6001.0 | June 9, 2022 | 700.3.0.1, 700.2.0.1, 700.1.0.1, 700.0.0.1|HoloLens 2 only|
-| 702.2203.31001| April 5, 2022 | 700.2.0.1, 700.1.0.1, 700.0.0.1|HoloLens 2 only|
+| 702.2203.31001|April 5, 2022| 700.2.0.1, 700.1.0.1, 700.0.0.1|HoloLens 2 only|
 | 701.2201.31001| February 2, 2022 | 700.1.0.1, 700.0.0.1|HoloLens 2 only|
 | 701.2201.20001| January 26, 2022 | 700.1.0.1, 700.0.0.1|HoloLens 2 only|
 | 700.2111.3001| November 8, 2021 | 700.0.0.1, 600.4.0.2, 600.3.0.1, 600.2.0.2, 600.1|HoloLens 2 only|

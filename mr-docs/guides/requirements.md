@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Learn about the device and licensing requirements for installing and using Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 01/07/2022
+ms.date: 08/09/2022
 ms.topic: article
 title: Device and licensing requirements for Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Device and licensing requirements for Dynamics 365 Guides
@@ -13,7 +13,8 @@ ms.reviewer: v-brycho
 The following table lists technical requirements for deploying and using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] throughout your organization.
 
 > [!Note] 
-> Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](faq.md).
+> Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](faq.md) and
+> [Geographical availability for Power Apps](https://dynamics.microsoft.com/availability-reports/georeport/) (filter the view by **Dynamics 365** > **Operations Apps**, and then scroll the table to see Dynamics 365 Guides availability).
 
 ## Device requirements
 | Device | Platform | Operating system requirements | Details |

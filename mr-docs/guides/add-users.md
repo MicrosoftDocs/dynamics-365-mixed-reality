@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Add additional user accounts to a Microsoft Dynamics 365 Guides license.
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 08/09/2022
 ms.topic: article
 title: Add additional users in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -68,6 +68,16 @@ After you add user accounts, the next step is to assign the **Author**, **Operat
     ![Verify check boxes.](media/verify-check-boxes.PNG "Verify check boxes")
 
 5. Select **Save changes**.
+
+## Add a guest user
+
+Anyone who is not part of your organization, but has an Azure Active Directory account, can be added as a guest by a global admin. The user can then access Dynamics 365 Guides content in your organization as an operator. [Learn about adding a guest user in Dynamics 365 Guides](admin-add-guest-user.md)
+
+## What's next?
+
+- [Assign user roles](assign-role.md)
+- [Add a guest user](admin-add-guest-user.md)
+
 
 ## What's next?
 
