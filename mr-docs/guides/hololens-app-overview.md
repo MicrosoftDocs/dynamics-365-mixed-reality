@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get an overview of the process of authoring a guide in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 08/09/2022
+ms.date: 07/19/2022
 ms.topic: overview
 title: Authoring overview--Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
@@ -25,9 +25,6 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 - Test the flow of your guide.
 
     ![Testing a guide.](media/test-your-guide.PNG "Testing a guide")
-
-> [!NOTE]
-> You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
 
 ## What's next?
 
