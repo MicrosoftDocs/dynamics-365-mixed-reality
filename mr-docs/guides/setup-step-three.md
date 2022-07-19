@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 3 of the setup process for Microsoft Dynamics 365 Guides. In this step, you download and install the PC and HoloLens apps.
 ms.author: mamaylya
-ms.date: 08/09/2022
+ms.date: 07/19/2022
 ms.topic: article
 title: Download and install the Dynamics 365 Guides apps (PC and HoloLens)
 ms.reviewer: v-brycho
@@ -45,9 +45,6 @@ Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to 
 > If Dynamics 365 Guides isn't pinned to the **Start** menu, [learn how to install and sign in to the HoloLens app](hololens-app-install-sign-in.md). 
 
 We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](/hololens/hololens-updates). You can also manually update your HoloLens. 
-
-> [!TIP]
-> You can make sure that the HoloLens app is automatically updated to be compatible with the latest solution version by turning on the **Update apps automatically** setting in the Microsoft Store.  
 
 ## Distribute the apps through Microsoft Store for Business
 
