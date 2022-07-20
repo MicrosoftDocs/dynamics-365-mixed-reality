@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the device and licensing requirements for installing and using Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 08/09/2022
+ms.date: 07/19/2022
 ms.topic: article
 title: Device and licensing requirements for Dynamics 365 Guides
 ms.reviewer: v-bholmes

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Dynamics 365 Guides US Government for government organizations
 ms.author: mamaylya
-ms.date: 08/09/2022
+ms.date: 07/19/2022
 ms.topic: article
 title: Dynamics 365 Guides US Government
 ms.reviewer: v-brycho
@@ -60,14 +60,5 @@ For more information on Dynamics 365 Guides protection of customer data, see the
 
 GCC plan services are provided from datacenters physically located in the United States. GCC plan customer content is stored at rest in datacenters physically located 
 only in the United States.
-
-## Guest access and the GCC environment
-
-If you try to [invite a guest user](admin-add-guest-user.md) who is not in the same government cloud, you'll see the following error message:
-
->[!CAUTION]
->_"The user you are inviting does not exist in this national cloud. To collaborate with this user, ask them for a different email address associated with the directory in this national cloud or create User Account for them in your AAD"._
-
-For more info, see [⁠Azure AD B2B in government and national clouds](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-government-national-clouds).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
