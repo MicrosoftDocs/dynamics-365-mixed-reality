@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about IP addresses and endpoints required for Dynamics 365 Guides 
 ms.author: mamaylya
-ms.date: 02/18/2022
+ms.date: 07/20/2022
 ms.topic: article
 title: Network requirements for Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -21,7 +21,7 @@ Dynamics 365 Guides is a cloud-based application and might require that your net
 
 #### Teams
 
-- *.registrar.skype.com
+- *.skype.com
 - *.teams.microsoft.com
 - UDP: 3478, 3479, 3480, 3481
 
