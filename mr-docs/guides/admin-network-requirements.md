@@ -21,7 +21,7 @@ Dynamics 365 Guides is a cloud-based application and might require that your net
 
 #### Teams
 
-- *.registrar.skype.com
+- *.skype.com
 - *.teams.microsoft.com
 - UDP: 3478, 3479, 3480, 3481
 
