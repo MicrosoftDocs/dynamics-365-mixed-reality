@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Overview of authoring in Dynamics 365 Guides, including PC authoring and HoloLens authoring
 ms.author: mamaylya
-ms.date: 08/09/2022
+ms.date: 07/19/2022
 ms.topic: overview
 title: Authoring overview--Dynamics 365 Guides PC and Hololens apps
 ms.reviewer: v-brycho
@@ -30,9 +30,6 @@ Supporting assets include:
     > You can use both apps to edit the same guide simultaneously for the fastest workflow. Create the structure and text in the PC app, do the 3D placement in the HoloLens app, and then work back and forth until you have your guide just the way you want it. 
 
     ![Authoring overview.](media/authoring-overview.PNG "Authoring overview")
-    
-     >[!NOTE]
-     > You can [add a guest user in Dynamics 365 Guides](add-users.md#add-a-guest-user) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
 
 Ready to jump in? Choose one or more of these links to get underway:
 
