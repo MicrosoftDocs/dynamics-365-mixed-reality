@@ -23,7 +23,8 @@ To add a guest user, you [invite them as a guest to Microsoft Teams, or create a
 
 - The Dynamics 365 Guides PC app does not support guest access. Guests can operate guides; they can't edit them. 
 
-- A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
+> [!NOTE]
+> A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
 
 ## Guest user management
 
