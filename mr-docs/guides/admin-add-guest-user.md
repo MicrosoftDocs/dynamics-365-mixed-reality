@@ -17,7 +17,7 @@ Anyone who is not part of a Microsoft Dynamics 365 Guides organization, but has 
 
 To add a user as a guest, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Azure Active Directory](https://docs.microsoft.com/microsoft-365/admin/add-users/about-guest-users?view=o365-worldwide). Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
 
-The guest experience has limitations by design. For a full list of what a guest can and can't do in Teams, see [Guest experience in Teams](https://docs.microsoft.com/microsoftteams/guest-experience). 
+The guest experience has limitations by design. For a full list of what a guest can and can't do in Teams, see [Guest calling experience in Teams](https://docs.microsoft.com/microsoftteams/guest-experience). 
 
 > [!IMPORTANT]
 > A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
