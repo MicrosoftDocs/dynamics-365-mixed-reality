@@ -12,12 +12,9 @@ ms.reviewer: v-bholmes
 
 Anyone who is not part of a Microsoft Dynamics 365 Guides organization, but has an Azure Active Directory account, can be added as a guest user by a global admin. The user can then access Dynamics 365 Guides content in that organization **as an operator.** A "guest" is defined as someone who doesn't have a school or work account with the organization. For example, a guest could be a partner, vendor, supplier, or consultant. 
 
-> [!NOTE]
-> Anyone with a consumer email account (for example, an Outlook.com or Gmail.com account) can be a guest user in Azure Active Directory, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
+## Invite a guest
 
 To add a guest user, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Azure Active Directory](https://docs.microsoft.com/microsoft-365/admin/add-users/about-guest-users?view=o365-worldwide). Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
-
-## Guest user management
 
 When a guest is invited to join an organization, they receive a welcome email message. This message includes some information about the organization and what to expect as a member. The guest must accept the invitation by selecting **Accept Invitation** in the email message before they can access the organization and the organization's guides.
 
@@ -28,9 +25,14 @@ When a user joins an organization as a guest, a **(Guest)** label appears next t
 
 ## Limitations
 
-- The guest experience has limitations by design. For a full list of what a guest can and can't do in Teams, see [Guest calling experience in Teams](https://docs.microsoft.com/microsoftteams/guest-experience). 
+- The guest calling experience has limitations by design. For a full list of what a guest can and can't do in Teams, see [Guest calling experience in Teams](https://docs.microsoft.com/microsoftteams/guest-experience). 
 
 - The Dynamics 365 Guides PC app does not support guest access. 
+
+- Anyone with a consumer email account (for example, an Outlook.com or Gmail.com account) can be a guest user in Azure Active Directory, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
+
+> [!NOTE]
+> A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
 
 ## Restrict guests from searching when making calls in Dynamics 365 Guides
 
@@ -53,9 +55,6 @@ The **Guest user access restrictions** policy in Azure Active Directory determin
 |**Guest user access is restricted to properties and memberships of their own directory objects (most restrictive)**|Guests can only access their own directory objects.|
 
 To learn more, see [What are the default user permissions in Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions)
-
-> [!NOTE]
-> A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
 
 ## See also
 
