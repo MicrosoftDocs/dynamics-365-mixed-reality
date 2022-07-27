@@ -32,8 +32,6 @@ When a user joins an organization as a guest, a **(Guest)** label appears next t
 
 - The Dynamics 365 Guides PC app does not support guest access. 
 
-- A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
-
 ## Restrict guests from searching when making calls in Dynamics 365 Guides
 
 Some organizations might want to restrict guest access to prevent guests from starting a chat or a call by searching for a user in the directory. This restriction is controlled in the **External collaboration settings** section of the Azure Active Directory admin center. For details, see [Restrict guest access permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/enterprise-users/users-restrict-guest-permissions).
@@ -55,6 +53,9 @@ The **Guest user access restrictions** policy in Azure Active Directory determin
 |**Guest user access is restricted to properties and memberships of their own directory objects (most restrictive)**|Guests can only access their own directory objects.|
 
 To learn more, see [What are the default user permissions in Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions)
+
+> [!NOTE]
+> A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
 
 ## See also
 
