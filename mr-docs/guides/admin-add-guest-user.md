@@ -32,8 +32,7 @@ When a user joins an organization as a guest, a **(Guest)** label appears next t
 
 - The Dynamics 365 Guides PC app does not support guest access. 
 
-> [!NOTE]
-> A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
+- A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
 
 ## Restrict guests from searching when making calls in Dynamics 365 Guides
 
