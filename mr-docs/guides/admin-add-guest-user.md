@@ -18,7 +18,7 @@ To add a guest user, you [invite them as a guest to Microsoft Teams, or create a
 
 When a guest is invited to join an organization, they receive a welcome email message. This message includes some information about the organization and what to expect as a member. The guest must accept the invitation by selecting **Accept Invitation** in the email message before they can access the organization and the organization's guides.
 
-You must also assign user roles to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
+You must also [assign user roles](assign-role.md) to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
 
 > [!NOTE]
 > After a guest is added to an organization, it may take a few hours before they have access.    
