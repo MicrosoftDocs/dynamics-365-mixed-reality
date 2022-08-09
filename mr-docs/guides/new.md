@@ -34,7 +34,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/grant-guide-access-third-parties" target="_blank">Grant guide access to third parties</a>| No |<a href="/dynamics365/mixed-reality/guides/admin-add-guest-user" target="_blank">Add a guest user</a>|
-| Automatically update the HoloLens app to stay in sync with latest solution version| Yes |<a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/setup-step-three" target="_blank">Download the PC and HoloLens apps</a>|
+| Automatically update the HoloLens app to stay in sync with the latest solution version| Yes |<a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/setup-step-three" target="_blank">Download the PC and HoloLens apps</a>|
 
 > [!NOTE]
 > You must be a system administrator to update the Dynamics 365 Guides solution. 
