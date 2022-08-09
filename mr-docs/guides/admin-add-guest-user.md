@@ -62,4 +62,4 @@ To learn more, see [What are the default user permissions in Azure Active Direct
 
 - [Use guest access and external access to collaborate with people outside your organization](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations)
 - [Quickstart: Add a guest user and send an invitation](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal)
-- [Leave an organization as a B2B collaboration user](https://docs.microsoft.com/azure/active-directory/b2b/leave-the-organization)
+- [Leave an organization as an external user](https://docs.microsoft.com/azure/active-directory/b2b/leave-the-organization)
