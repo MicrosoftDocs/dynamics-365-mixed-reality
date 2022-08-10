@@ -39,6 +39,10 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 > [!NOTE]
 > You must be a system administrator to update the Dynamics 365 Guides solution. 
 
+### Bugs fixed and other improvements
+
+- Fixed issue with QR code detection
+
 ## June 29, 2022
 
 Version 703.2206.27001 of the HoloLens app provides a bug fix for a permissions issue in the June 9 release related to Microsoft Intune. 
