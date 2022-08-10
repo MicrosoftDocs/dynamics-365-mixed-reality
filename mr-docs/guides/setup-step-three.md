@@ -46,6 +46,9 @@ Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to 
 
 We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](/hololens/hololens-updates). You can also manually update your HoloLens. 
 
+> [!TIP]
+> You can make sure that the HoloLens app is automatically updated to be compatible with the latest solution version by turning on the **Update apps automatically** setting in the Microsoft Store. 
+
 ## Distribute the apps through Microsoft Store for Business
 
 1. Open [Microsoft Store for Business](https://businessstore.microsoft.com/store).
