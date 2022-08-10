@@ -2,7 +2,7 @@
 author: Mamaylya
 ms.author: mamaylya
 description: Learn about supported file formats for 3D models, images, and videos in Microsoft Dynamics 365 Guides.
-ms.date: 08/09/2022
+ms.date: 08/10/2022
 ms.topic: article
 title: Supported file formats for 3D models, images, and videos in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -20,7 +20,7 @@ In Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], yo
 
 ## Important notes
 
-- The August 9, 2022 release introduced a new setting that improves video transcoding. If the PC app detects a hardware transcoding failure, it automatically uses software transcoding instead. If the software transcoding is successful, the **Use hardware video encoding on this device** setting is automatically updated to switch off hardware video encoding. 
+- The August 10, 2022 release introduced a new setting that improves video transcoding. If the PC app detects a hardware transcoding failure, it automatically uses software transcoding instead. If the software transcoding is successful, the **Use hardware video encoding on this device** setting is automatically updated to switch off hardware video encoding. 
 
      ![Screenshot of Use hardware video encoding on this device setting.](media/video-transcoding-setting.PNG "Screenshot of Use hardware video encoding on this device setting")
 
