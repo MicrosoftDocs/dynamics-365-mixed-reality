@@ -27,7 +27,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 |-------------------------|--------------------------------|
 |PC app|704.2207.27002.0|
 |HoloLens app (HoloLens 2 only)|704.2207.27002.0|
-|Solution|XXX|
+|Solution|700.4.0.1|
 
 ### Features
 
@@ -38,10 +38,6 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 > [!NOTE]
 > You must be a system administrator to update the Dynamics 365 Guides solution. 
-
-### Bugs fixed and other improvements
-
-- XXX
 
 ## June 29, 2022
 
