@@ -69,9 +69,13 @@ After you add user accounts, the next step is to assign the **Author**, **Operat
 
 5. Select **Save changes**.
 
+## Add a guest user
+
+Anyone who is not part of your organization, but has an Azure Active Directory account, can be added as a guest by a global admin. The user can then access Dynamics 365 Guides content in your organization as an operator. [Learn about adding a guest user in Dynamics 365 Guides](admin-add-guest-user.md)
+
 ## What's next?
 
 - [Assign user roles](assign-role.md)
-
+- [Add a guest user](admin-add-guest-user.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
