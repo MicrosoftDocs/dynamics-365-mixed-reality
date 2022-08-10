@@ -34,6 +34,9 @@ Use the PC app to complete these tasks:
 
 ![PC authoring.](media/pc-authoring.PNG "PC authoring")
 
+> [!NOTE]
+> You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
+
 ## What's next?
 
 - [Install and sign in to the PC app](install-sign-in-pc-app.md)
