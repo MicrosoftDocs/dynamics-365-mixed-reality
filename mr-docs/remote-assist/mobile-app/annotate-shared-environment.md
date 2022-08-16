@@ -3,12 +3,15 @@ title: Annotate the technician's environment in Dynamics 365 Remote Assist mobil
 author: amaraanigbo
 description: How to add annotations to your environment in Dynamics 365 Remote Assist mobile 
 ms.author: soanigbo
-ms.date: 04/13/2022
+ms.date: 08/15/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
 # Annotate the technician's shared environment
+
+> [!IMPORTANT]
+> A known issue is preventing Microsoft Teams Desktop users from adding annotations in Dynamics 365 Remote Assist. The Remote Assist team is actively working on this issue and expects to provide a fix by end of August. We'll share any updated guidance as it becomes available.
 
 In Microsoft Dynamics 365 Remote Assist mobile, mixed-reality annotations give technicians and remote collaborators the power to visually specify an area or a particular asset in their environment to look at or manipulate. During a Dynamics 365 Remote Assist mobile video call, the technician shares their environment with the remote collaborator through their rear-facing camera. The technician can instantly place mixed-reality annotations in the shared environment. The remote collaborator  places mixed-reality annotations on a snapshot of the technician's shared environment. 
 
