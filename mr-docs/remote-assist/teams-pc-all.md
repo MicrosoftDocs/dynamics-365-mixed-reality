@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 # Collaborate with a Dynamics 365 Remote Assist user with Microsoft Teams desktop for PC or Mac
 
 > [!IMPORTANT]
-> A known issue is preventing Microsoft Teams Desktop users from adding annotations in Dynamics 365 Remote Assist. The Remote Assist team is actively working on this issue and expects to provide a fix by end of August. We'll share any updated guidance as it becomes available.
+> A known issue is preventing Microsoft Teams Desktop users from adding annotations in Dynamics 365 Remote Assist. The Remote Assist team is actively working on this issue and will provide a fix as soon as possible. We'll share any updated guidance as it becomes available.
 
 When you use Microsoft Teams desktop for the PC or Mac, you can collaborate with people using Dynamics 365 Remote Assist on HoloLens (in this article, a "Dynamics 365 Remote Assist HoloLens user") or Dynamics 365 Remote Assist on a mobile device (in this article, a "Dynamics 365 Remote Assist mobile user").  
 
