@@ -101,6 +101,9 @@ Select the **Text icon** (which looks like this: ![Graphic showing the text icon
 
 ## Share OneDrive file 
 
+> [!NOTE]
+> Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other.
+
 You can display OneDrive files in the Dynamics 365 Remote Assist HoloLens user's space or send OneDrive files in the Dynamics 365 Remote Assist mobile text chat. For example, add a PDF of a diagram to assist with the call.
 
 Go to the call controls and select the ellipses icon [...]. Then select **Insert Files** and select whether to insert file from OneDrive or from Teams teams and channels. You can insert an image, still gif, video, or PDF.
