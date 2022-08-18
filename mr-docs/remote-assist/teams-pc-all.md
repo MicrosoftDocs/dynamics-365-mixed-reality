@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user with Microsoft Teams desktop for PC or Mac
 ms.author: soanigbo
-ms.date: 08/15/2022
+ms.date: 08/18/2022
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user with Teams desktop for PC or Mac
 ms.reviewer: v-bholmes
