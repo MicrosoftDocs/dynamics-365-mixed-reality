@@ -243,6 +243,9 @@ You can share a OneDrive file or local file with a Dynamics 365 Remote Assist us
 
 ### Share files with a Dynamics 365 Remote Assist HoloLens user
 
+> [!NOTE]
+> Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other.
+
 Use one of the following methods to share files with a Dynamics 365 Remote Assist HoloLens user:
 
 - In the Mixed Reality toolbar, select **Add file** (![Graphic showing the insert files icon.](media/insert-document-button.png)) to share a file from OneDrive or your computer. The file will be uploaded in your personal OneDrive and permissions to access that single file will be granted to call participants. 
