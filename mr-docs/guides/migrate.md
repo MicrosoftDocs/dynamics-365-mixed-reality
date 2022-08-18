@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 02/17/2022
+ms.date: 08/18/2022
 ms.topic: article
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-bholmes
@@ -45,6 +45,8 @@ The tool supports the following types of migration.
 - You must use [Windows PowerShell](/powershell/scripting/install/installing-windows-powershell#how-to-check-the-version-of-powershell) version 5.1.18362.752 or later.
 
 - Both the source instance and the destination instance must use Dynamics 365 Guides solution version 700.0.0.x or later. 
+
+- Both the source instance and the destination instance must have the same major and minor version numbers.
 
 - You must have credentials to sign in to the source instance in the **System Admin** role (preferable) or **Operator/Author** role (required).
 
