@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams mobile app.
 ms.author: soanigbo
-ms.date: 06/17/2022
+ms.date: 08/18/2022
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user via Microsoft Teams mobile
 ms.reviewer: v-bholmes
@@ -100,6 +100,9 @@ Select the **Text icon** (which looks like this: ![Graphic showing the text icon
 > You may notice that you can attach a photo, gif, or file via the text message. This is not the best way to share a file. Please read the next two sections to learn how to share a OneDrive file and a photo from your device.
 
 ## Share OneDrive file 
+
+> [!NOTE]
+> Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other.
 
 You can display OneDrive files in the Dynamics 365 Remote Assist HoloLens user's space or send OneDrive files in the Dynamics 365 Remote Assist mobile text chat. For example, add a PDF of a diagram to assist with the call.
 
