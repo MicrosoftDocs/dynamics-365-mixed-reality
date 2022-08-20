@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Learn how to share and save files in Microsoft Dynamics 365 Remote Assist on HoloLens. 
 ms.author: soanigbo
-ms.date: 08/18/2022
+ms.date: 08/19/2022
 ms.topic: article
 title: Share and save files in Dynamics 365 Remote Assist on HoloLens
 ms.reviewer: v-bholmes
@@ -14,7 +14,9 @@ During your repair or inspection, you may want to refer to an image or PDF relat
 For example, you can place a wiring diagram in the space next to the asset you are working on. During a video call, a remote collaborator can share a reference to help you better understand what an asset should look like after you've successfully repaired it.
 
 > [!NOTE]
-> Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other.
+> Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
+> - [Use guest access and external access to collaborate with people outside your organization](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
+> - [Native chat experience for external (federated) users in Microsoft Teams](https://docs.microsoft.com/microsoftteams/native-chat-for-external-users)
 
 If you're in a video call, any call participant can annotate the file, just as they would annotate any physical object.
 

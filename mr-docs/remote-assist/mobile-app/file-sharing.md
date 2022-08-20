@@ -3,7 +3,7 @@ title: Share a file in Dynamics 365 Remote Assist mobile
 author: amaraanigbo
 description: Share documents between technicians and collaborators with the Dynamics 365 Remote Assist mobile app.
 ms.author: soanigbo
-ms.date: 08/18/2022
+ms.date: 08/19/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -13,7 +13,9 @@ ms.reviewer: v-bholmes
 Microsoft Dynamics 365 Remote Assist mobile provides technicians and remote collaborators with document-sharing capabilities. Sharing documents promotes collaboration during a call by adding more context and information (such as visual aids or schematics) to the technician's environment. Sharing files can help technicians have richer conversations with remote collaborators and solve problems more quickly.  
 
 > [!NOTE]
-> Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other.
+> Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
+> - [Use guest access and external access to collaborate with people outside your organization](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
+> - [Native chat experience for external (federated) users in Microsoft Teams](https://docs.microsoft.com/microsoftteams/native-chat-for-external-users)
  
 Both the technician and remote collaborators can send *any* file type to each other. File types include, but are not limited to: 
 

@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user with Microsoft Teams desktop for PC or Mac
 ms.author: soanigbo
-ms.date: 08/18/2022
+ms.date: 08/19/2022
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user with Teams desktop for PC or Mac
 ms.reviewer: v-bholmes
@@ -244,7 +244,9 @@ You can share a OneDrive file or local file with a Dynamics 365 Remote Assist us
 ### Share files with a Dynamics 365 Remote Assist HoloLens user
 
 > [!NOTE]
-> Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other.
+> Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
+> - [Use guest access and external access to collaborate with people outside your organization](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
+> - [Native chat experience for external (federated) users in Microsoft Teams](https://docs.microsoft.com/microsoftteams/native-chat-for-external-users)
 
 Use one of the following methods to share files with a Dynamics 365 Remote Assist HoloLens user:
 
