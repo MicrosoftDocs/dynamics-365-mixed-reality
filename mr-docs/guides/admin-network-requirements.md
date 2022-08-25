@@ -42,6 +42,7 @@ If you have specialized needs and/or scale, see the [Teams comprehensive list](/
 
 #### Power Apps
 - service.powerapps.com
+- api.bap.microsoft.com
 - TCP: 80, 443
 
 #### Documentation 
