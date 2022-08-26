@@ -20,6 +20,8 @@ When a guest is invited to join an organization, they receive a welcome email me
 
 You must also [assign user roles](assign-role.md) to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
 
+Your network admin will also need to add one additional endpoint to [the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/admin-network-requirements).
+
 > [!NOTE]
 > After a guest is added to an organization, it may take a few hours before they have access.    
 
