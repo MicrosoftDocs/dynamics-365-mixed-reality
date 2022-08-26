@@ -3,17 +3,14 @@ title: Add annotations in Dynamics 365 Remote Assist on HoloLens (contains video
 author: amaraanigbo
 description: Learn how to add and edit annotations in Dynamics 365 Remote Assist on HoloLens 
 ms.author: soanigbo
-ms.date: 08/15/2022
+ms.date: 08/26/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
 # Add annotations in Dynamics 365 Remote Assist on HoloLens
 
-> [!IMPORTANT]
-> A known issue is preventing Microsoft Teams Desktop users from adding annotations in Dynamics 365 Remote Assist. The Remote Assist team is actively working on this issue and will provide a fix as soon as possible. We'll share any updated guidance as it becomes available.
-
-Once a video call has connected, the Microsoft Teams user will see everything the HoloLens user sees in their space – including holograms. 
+Once a video call has connected, the Microsoft Teams user will see everything the HoloLens user sees in their spce – including holograms. 
 
 Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it will remain anchored in your space until the person who placed the annotation deletes it. Adding annotations to files works the same way.
 
