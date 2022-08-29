@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to submit feedback if you run into an issue with Microsoft Dynamics 365 Guides.
 ms.author: davepinch
-ms.date: 06/17/2022
+ms.date: 08/26/2022
 ms.topic: article
 title: Submit feedback on Dynamics 365 Guides through the Feedback Hub
 ms.reviewer: v-bholmes
@@ -39,7 +39,7 @@ feedback**, and then select **Next**.
 
     ![Screenshot of the Attachments section.](media/submit-feedback-add-files.jpg "Screenshot of the Attachments section")    
 
-8. Select **Start recording**, and then select **Recreate my problem**. This will attach telemetry data to your feedback and make it easier for Microsoft 
+8. Select **Recreate my problem**, and then select **Start recording**. This will attach telemetry data to your feedback and make it easier for Microsoft 
 to diagnose the problem. Your data is protected under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). 
 Return to the Feedback Hub app when you're finished. 
 

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about IP addresses and endpoints required for Dynamics 365 Guides 
 ms.author: mamaylya
-ms.date: 07/20/2022
+ms.date: 08/26/2022
 ms.topic: article
 title: Network requirements for Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -42,6 +42,7 @@ If you have specialized needs and/or scale, see the [Teams comprehensive list](/
 
 #### Power Apps
 - service.powerapps.com
+- api.bap.microsoft.com
 - TCP: 80, 443
 
 #### Documentation 
