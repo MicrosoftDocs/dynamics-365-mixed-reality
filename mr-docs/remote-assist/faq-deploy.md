@@ -26,9 +26,9 @@ Dynamics 365 Remote Assist is dependent on three Microsoft platforms:
  
 In rare cases, changes to these underlying platforms can cause issues in Dynamics 365 Remote Assist. Likewise, a change to one of these platforms can resolve a Dynamics 365 Remote Assist issue. To learn about the schedule for changes to these platforms, see the following topics:
 
-- [Released versions of Microsoft Dataverse](https://docs.microsoft.com/dynamics365/released-versions/microsoft-dataverse)
-- [Released versions of Dynamics 365 Core Service Scheduling](https://docs.microsoft.com/dynamics365/released-versions/dynamics365-css)
-- [Update history for Microsoft Teams app version (Public Cloud and GCC)](https://docs.microsoft.com/officeupdates/teams-app-versioning)
+- [Released versions of Microsoft Dataverse](/dynamics365/released-versions/microsoft-dataverse)
+- [Released versions of Dynamics 365 Core Service Scheduling](/dynamics365/released-versions/dynamics365-css)
+- [Update history for Microsoft Teams app version (Public Cloud and GCC)](/officeupdates/teams-app-versioning)
 
 ## When do I need to update the Dynamics 365 Remote Assist model-driven app (Remote Assist solution)?
 
