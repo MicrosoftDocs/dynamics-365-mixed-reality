@@ -68,7 +68,7 @@ In rare cases, you might notice that text is wrapped in the Step card view in [!
 
 ## I have an issue that isn't listed in these troubleshooting steps
 
-Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
+Please contact customer service: [Get support for your Dynamics 365 product](/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
 
 ## See also
 
