@@ -14,8 +14,8 @@ Microsoft Dynamics 365 Remote Assist mobile provides technicians and remote coll
 
 > [!NOTE]
 > Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
-> - [Use guest access and external access to collaborate with people outside your organization](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
-> - [Native chat experience for external (federated) users in Microsoft Teams](https://docs.microsoft.com/microsoftteams/native-chat-for-external-users)
+> - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
+> - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
  
 Both the technician and remote collaborators can send *any* file type to each other. File types include, but are not limited to: 
 

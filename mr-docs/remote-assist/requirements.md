@@ -115,9 +115,9 @@ The list below contains the *minimum* URL end points and TCP/UDP ports utilized 
 
 > [!NOTE]
 > US Government Community Cloud (GCC) environments require additional URLs to be added to the allowlist. For more information, see the following topics:
-> - [Office 365 U.S. Government GCC High endpoints](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints?view=o365-worldwide)
-> - [Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government)
-> - [Power Apps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)  
+> - [Office 365 U.S. Government GCC High endpoints](/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints?view=o365-worldwide)
+> - [Dynamics 365 US Government](/power-platform/admin/microsoft-dynamics-365-government)
+> - [Power Apps US Government](/power-platform/admin/powerapps-us-government)  
 
 #### Teams
 - *.registrar.skype.com
