@@ -68,6 +68,6 @@ If you try to [invite a guest user](admin-add-guest-user.md) who is not in the s
 >[!CAUTION]
 >_"The user you are inviting does not exist in this national cloud. To collaborate with this user, ask them for a different email address associated with the directory in this national cloud or create User Account for them in your AAD"._
 
-For more info, see [⁠Azure AD B2B in government and national clouds](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-government-national-clouds).
+For more info, see [⁠Azure AD B2B in government and national clouds](/azure/active-directory/external-identities/b2b-government-national-clouds).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

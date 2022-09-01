@@ -14,13 +14,13 @@ Anyone who is not part of a Microsoft Dynamics 365 Guides organization, but has 
 
 ## Invite a guest
 
-To add a guest user, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Azure Active Directory](https://docs.microsoft.com/microsoft-365/admin/add-users/about-guest-users?view=o365-worldwide). 
+To add a guest user, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Azure Active Directory](/microsoft-365/admin/add-users/about-guest-users?view=o365-worldwide).
 
 When a guest is invited to join an organization, they receive a welcome email message. This message includes some information about the organization and what to expect as a member. The guest must accept the invitation by selecting **Accept Invitation** in the email message before they can access the organization and the organization's guides.
 
 You must also [assign user roles](assign-role.md) to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
 
-Your network admin will also need to add one additional endpoint to [the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-network-requirements).
+Your network admin will also need to add one additional endpoint to [the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers](/dynamics365/mixed-reality/guides/admin-network-requirements).
 
 > [!NOTE]
 > After a guest is added to an organization, it may take a few hours before they have access.    
@@ -29,26 +29,26 @@ When a user joins an organization as a guest, a **(Guest)** label appears next t
 
 ## Limitations
 
-- The guest calling experience has limitations by design. For a full list of what a guest can and can't do in Teams, see [Guest calling experience in Teams](https://docs.microsoft.com/microsoftteams/guest-experience). 
+- The guest calling experience has limitations by design. For a full list of what a guest can and can't do in Teams, see [Guest calling experience in Teams](/microsoftteams/guest-experience).
 
 - The Dynamics 365 Guides PC app does not support guest access. 
 
 - Anyone with a consumer email account (for example, an Outlook.com or Gmail.com account) can be a guest user in Azure Active Directory, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
 
 > [!NOTE]
-> A Microsoft Teams admin can [configure Teams to block guest users](https://docs.microsoft.com/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens. 
+> A Microsoft Teams admin can [configure Teams to block guest users](/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens.
 
 ## Restrict guests from searching when making calls in Dynamics 365 Guides
 
-Some organizations might want to restrict guest access to prevent guests from starting a chat or a call by searching for a user in the directory. This restriction is controlled in the **External collaboration settings** section of the Azure Active Directory admin center. For details, see [Restrict guest access permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/enterprise-users/users-restrict-guest-permissions).
+Some organizations might want to restrict guest access to prevent guests from starting a chat or a call by searching for a user in the directory. This restriction is controlled in the **External collaboration settings** section of the Azure Active Directory admin center. For details, see [Restrict guest access permissions in Azure Active Directory](/azure/active-directory/enterprise-users/users-restrict-guest-permissions).
 
 - To restrict guest users from searching for a user in your organization, in the **Guest user access** section, select the **Guest users have limited access to properties and memberships of directory objects** option.
 
-- To allow guest users to search for a user in your organization, select the **Guest users have the same access as members (most inclusive)** option. 
+- To allow guest users to search for a user in your organization, select the **Guest users have the same access as members (most inclusive)** option.
 
 ## Comparison of team member and guest capabilities
 
-Dynamics 365 Guides is a Microsoft Teams client. Dynamics 365 Guides calling is based on Teams. Guest user capabilities in Dynamics 365 Guides also match those available in Teams. Global admins control guest user access for the calling features available to an organization's guests by assigning or removing a Team's license for the guest user. For more information, see [Use guest access and external access to collaborate with people outside your organization](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations). This article includes a [table that compares Teams functionality available for an organization's team members and its guests](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#external-access-external-chat-and-meetings). 
+Dynamics 365 Guides is a Microsoft Teams client. Dynamics 365 Guides calling is based on Teams. Guest user capabilities in Dynamics 365 Guides also match those available in Teams. Global admins control guest user access for the calling features available to an organization's guests by assigning or removing a Team's license for the guest user. For more information, see [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations). This article includes a [table that compares Teams functionality available for an organization's team members and its guests](/microsoftteams/communicate-with-users-from-other-organizations#external-access-external-chat-and-meetings).
 
 The **Guest user access restrictions** policy in Azure Active Directory determines permissions for guests in your directory. The following table describes the three policy options.
 
@@ -58,10 +58,10 @@ The **Guest user access restrictions** policy in Azure Active Directory determin
 |**Guest users have limited access to properties and membership of directory objects**|Guests don't have permissions for certain directory tasks, such as enumerating users, groups, or other directory resources using Microsoft Graph.|
 |**Guest user access is restricted to properties and memberships of their own directory objects (most restrictive)**|Guests can only access their own directory objects.|
 
-To learn more, see [What are the default user permissions in Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions)
+To learn more, see [What are the default user permissions in Azure Active Directory?](/azure/active-directory/fundamentals/users-default-permissions)
 
 ## See also
 
-- [Use guest access and external access to collaborate with people outside your organization](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations)
-- [Quickstart: Add a guest user and send an invitation](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal)
-- [Leave an organization as an external user](https://docs.microsoft.com/azure/active-directory/b2b/leave-the-organization)
+- [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations)
+- [Quickstart: Add a guest user and send an invitation](/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal)
+- [Leave an organization as an external user](/azure/active-directory/b2b/leave-the-organization)
