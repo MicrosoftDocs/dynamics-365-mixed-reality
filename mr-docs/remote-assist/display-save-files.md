@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Learn how to share and save files in Microsoft Dynamics 365 Remote Assist on HoloLens. 
 ms.author: soanigbo
-ms.date: 08/19/2022
+ms.date: 09/07/2022
 ms.topic: article
 title: Share and save files in Dynamics 365 Remote Assist on HoloLens
 ms.reviewer: v-bholmes
@@ -19,6 +19,9 @@ For example, you can place a wiring diagram in the space next to the asset you a
 > - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
 
 If you're in a video call, any call participant can annotate the file, just as they would annotate any physical object.
+
+> [!NOTE]
+> You can share an image file by attaching it from the Mixed Reality toolbar. You can't paste a bitmap image into the body of a chat message. If you do that, it will be pasted as [Image Image]. 
 
 ## Prepare your workspace with files from OneDrive
 
