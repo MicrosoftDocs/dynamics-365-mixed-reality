@@ -3,7 +3,7 @@ title: Share a file in Dynamics 365 Remote Assist mobile
 author: amaraanigbo
 description: Share documents between technicians and collaborators with the Dynamics 365 Remote Assist mobile app.
 ms.author: soanigbo
-ms.date: 08/19/2022
+ms.date: 09/07/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -64,6 +64,9 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
     Once sent, the file link and image preview are sent to the remote collaborator through OneDrive for Business, which sets the permission to share the file. Afterwards, the remote collaborator on Microsoft Teams receives a link to the document in OneDrive in the Microsoft Teams text chat. The remote collaborator has full access to the files and images sent. 
 
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, with a successfully uploaded attachment.](./media/files_view.PNG)
+
+> [!NOTE]
+> You can share an image file by attaching it as described in this article or by pasting it in a Teams chat. You can't, however, paste a bitmap image into the body of a chat message. If you do that, it will be pasted as [Image Image].
 
 ## Receive files 
 
