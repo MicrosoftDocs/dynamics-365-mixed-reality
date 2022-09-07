@@ -66,7 +66,7 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, with a successfully uploaded attachment.](./media/files_view.PNG)
 
 > [!NOTE]
-> You can share an image file by attaching it as described in this article or by pasting it in a Teams chat. You can't, however, paste a bitmap image into the body of a chat message. If you do that, it will be pasted as [Image Image].
+> You can share an image file by attaching it as described in this article. You can't, however, paste a bitmap image into the body of a chat message. If you do that, it will be pasted as [Image Image] in Dynamics 365 Remote Assist HoloLens. In Dynamic 365 Remote Assist mobile, you'll see a message saything that the message type isn't supported.
 
 ## Receive files 
 
