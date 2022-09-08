@@ -3,9 +3,8 @@
 ## Sign up for a free trial
 ### [How to sign up](trial-signup.md)
 ### [Trial FAQ](trial-faq.md)
-## [Get started](get-started.md)
 ## [What's new](new.md)
-## [Videos](videos.md)
+## [Get started](get-started.md)
 
 ## I'm an admin
 
@@ -46,7 +45,9 @@
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ### [Use the Calls Dashboard](admin-calls-dashboard.md)
-### [Move content between enviroments](migrate.md)
+### Move content between environments
+#### [Export/import folder structure](admin-export-import-folders.md)
+#### [Move content](migrate.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
 ### [Migrate from Dynamics 365 Remote Assist](migrate-remote-assist.md)
 
@@ -90,15 +91,16 @@
 #### [Fix a corrupted guide](corrupted-guide.md)
 
 ### Author in the HoloLens app
-#### [Overview](hololens-app-overview.md)
+
 #### [Calibrate your HoloLens 2 device](hololens-app-calibrate.md) 
 #### Install the app and sign in
 ##### [Install the app and sign in](hololens-app-install-sign-in.md)
 ##### [HoloLens permissions required for version 7.0](hololens-permissions.md)
-#### [Use the Main menu to start an activity](main-menu.md)
+#### Overview
+#### [Overview of authoring a guide](hololens-app-overview.md)
 #### [Find and open a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
-#### Work with holograms
+#### Work with a guide
 ##### [Get oriented with the HoloLens app](hololens-app-orientation.md)
 ##### [Place and manipulate holograms](hololens-app-place-holograms.md)
 ##### [Tips for pointing at small objects](pc-app-point-small-objects.md)
@@ -108,43 +110,62 @@
 ##### [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
 ##### [Change animation options](hololens-app-animations.md)
 ##### [Create a trigger for step navigation](hololens-app-trigger.md)
-#### [Make a call (Preview)](make-call.md)
-#### [HoloLens 2 gestures for authoring and navigating](authoring-gestures-HL2.md)
+#### Calling
+##### [Overview](calling-overview.md)
+##### One-to-one and group calls
+###### [Overview](calling-different-types.md)
+###### [Add people to a call](calling-add-people.md)
+###### [Mute or remove a caller](calling-mute-remove.md)
+##### [Meetings](calling-meetings.md)
+##### [Recording](calling-record-call.md)
+##### [Chat and file sharing](calling-chat-file-sharing.md)
+##### [Annotations](calling-annotations.md)
+##### [Reducing HoloLens temperature](calling-hololens-thermal-adjusting.md)
+#### [Files](hololens-app-files.md)
+#### [Gestures](authoring-gestures-HL2.md)
 #### [Voice commands](voice-commands.md)
-#### [Change a setting](change-setting.md)
+#### [Settings](change-setting.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [Open the model-driven app](open-model-driven-app.md)
 ### [How to make a great mixed-reality guide](great-guide.md)
 
 ## I'm an operator
-### [Overview of operating a guide](operator-overview.md)
 ### [Calibrate your HoloLens 2 device](operator-calibrate-HL2.md)
 ### Install the HoloLens app and sign in
 #### [Install the HoloLens app and sign in](hololens-app-install-sign-in.md)
 #### [HoloLens permissions required for Dynamics 365 Guides 7.0](hololens-permissions.md)
-### [Use the Main menu to start an activity](main-menu.md)
-### Open a guide
+### Overview
+#### [Overview of operating a guide](operator-overview.md)
+#### Open a guide
 #### [Find and open a guide](find-guide.md)
 #### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
-### [Anchor your guide](operator-anchor.md)
-### Work with a guide
-#### [Get oriented with the Step card](operator-step-card-orientation.md)
-#### [Use a dotted line to find a focus area](operator-dotted-line.md)
-#### [Use Follow mode and pinning](operator-follow-mode.md)
-#### [Use a branching (non-linear) guide](operator-branching-guide.md)
-#### [Use a trigger to move between steps](operator-trigger.md)
-#### [Open a website](operator-website-link.md)
-#### [Open an app in Power Apps](operator-powerapps-link.md)
-#### [Turn off holograms](operator-holograms-off.md)
-#### [Work offline](operator-offline-mode.md)
+#### [Anchor your guide](operator-anchor.md)
+#### Work with a guide
+##### [Get oriented with the Step card](operator-step-card-orientation.md)
+##### [Use a dotted line to find a focus area](operator-dotted-line.md)
+##### [Use Follow mode and pinning](operator-follow-mode.md)
+##### [Use a branching (non-linear) guide](operator-branching-guide.md)
+##### [Use a trigger to move between steps](operator-trigger.md)
+##### [Open a website](operator-website-link.md)
+##### [Open an app in Power Apps](operator-powerapps-link.md)
+##### [Turn off holograms](operator-holograms-off.md)
+##### [Work offline](operator-offline-mode.md)
+#### Calling
+##### [Overview](calling-overview.md)
+##### One-to-one and group calls
+###### [Overview](calling-different-types.md)
+###### [Add people to a call](calling-add-people.md)
+###### [Mute or remove a caller](calling-mute-remove.md)
+##### [Meetings](calling-meetings.md)
+##### [Recording](calling-record-call.md)
+##### [Chat and file sharing](calling-chat-file-sharing.md)
+##### [Annotations](calling-annotations.md)
+##### [Reducing HoloLens temperature](calling-hololens-thermal-adjusting.md)
+#### [Files](hololens-app-files.md)
+#### [Gestures](operator-gestures-HL2.md)
 #### [Voice commands](voice-commands.md)
 #### [Have HoloLens narrate instructions](operator-narrator.md)
-### [Make a call](make-call.md)
-### [Hololens 2 gestures for navigating a guide](operator-gestures-HL2.md)
-### [Change a setting](change-setting.md)
-### [Voice commands](voice-commands.md)
-
-## [Make a call (Preview) from the HoloLens app](make-call.md)
+#### [Settings](change-setting.md)
 
 ## Analyze your guides
 ### [Overview](analytics-overview.md)
@@ -173,6 +194,7 @@
 #### SideFX Houdini
 ##### [Prepare 3D models](3d-content-guidelines/houdini.md)
 ##### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
+
 ## Use Power Automate to create workflows
 ### [Workflow examples overview](workflow-examples-overview.md)
 ### [Example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
@@ -180,11 +202,9 @@
 ### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
 ### [Tables and fields required to create a guide in Power Automate](workflow-create-guide.md)
 ### [Dataverse tables reference](developer-entity-reference.md)
-## Move content between environments
-### [Export/import folder structure](admin-export-import-folders.md)
-### [Move content](migrate.md)
+
 ## [Dynamics 365 Guides US Government](gcc.md)
-## [Version history](version-history.md)
+
 ## FAQ, known issues, and support
 ### [Get Help](help.md)
 ### [FAQ](faq.md)
@@ -193,7 +213,10 @@
 #### [PC app](known-issues-pc-app.md)
 #### [HoloLens app](known-issues-hololens-app.md)
 ### [Submit feedback](submit-feedback.md)
+
+## [Version history](version-history.md)
 ## [Glossary of terms](glossary.md)
+## [Videos](videos.md)
 ## [Use HoloLens (1st gen) devices](HL1.md)
 ## [Legal terms and notices for Dynamics 365 Guides](legal.md)
 
