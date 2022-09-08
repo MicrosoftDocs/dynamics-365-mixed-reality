@@ -3,7 +3,7 @@ title: Share a file in Dynamics 365 Remote Assist mobile
 author: amaraanigbo
 description: Share documents between technicians and collaborators with the Dynamics 365 Remote Assist mobile app.
 ms.author: soanigbo
-ms.date: 09/07/2022
+ms.date: 09/08/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -66,7 +66,7 @@ For Dynamics 365 Field Service users, the files shared during the Dynamics 365 R
    ![Screenshot showing Dynamics 365 Remote Assist on a mobile device, in the text chat, with a successfully uploaded attachment.](./media/files_view.PNG)
 
 > [!NOTE]
-> You can share an image file by attaching it as described in this article. You can't, however, paste a bitmap image into the body of a chat message. If you do that, you'll see a message saything that the message type isn't supported.
+> You can share an image file by attaching it as described in this article. You can't, however, paste a bitmap image into the body of a chat message. If you do that, you'll see a message saying that the message type isn't supported.
 
 ## Receive files 
 
