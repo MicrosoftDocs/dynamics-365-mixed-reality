@@ -33,6 +33,7 @@
 ##### [Share a guide with an access team or specific user](admin-share-guide.md)
 ##### [Share the Guides model-driven app](admin-share-guides-hub.md)
 #### [Invite a user as a guest](admin-add-guest-user.md)
+### [Managing Microsoft Teams policies](admin-teams-policies.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling (Preview)](admin-enable-calls.md)
