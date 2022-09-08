@@ -58,7 +58,7 @@ Below are several examples of what the recording layout looks like when you use 
 
 - In a recording with two participants, each participant's outgoing video (or avatar) occupies one-half of the recording, and both halves are vertical. This means that during a Dynamics 365 Guides call, a Teams user sees a horizontal slice of what you see, but the recording only captures the middle vertical slice of what you see. Furthermore, during the Dynamics 365 Guides call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies half the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy half the recording.)
 
-    ![Screenshot of Teams recording, showing half of the screen with the HoloLens participant, and the other half with the Teams avatar.](media/recording-two-person-layout.jpg)
+    ![Screenshot of Teams recording, showing half of the screen with the HoloLens participant, and the other half with the Teams avatar.](media/recording-two-person-layout.JPG)
     
 ## Alternatives to cloud-based recording
 
@@ -82,7 +82,7 @@ You can use the HoloLens operating system to record only what you see in the Hol
   
    3. To stop recording, do the **Start Gesture**, and then press the **Video** button.
   
-      ![Screenshot from the HoloLens field of view, showing the video icon on the bottom tool pane.](media/recording-hololens-stop-recording.jpg)
+      ![Screenshot from the HoloLens field of view, showing the video icon on the bottom tool pane.](media/recording-hololens-stop-recording.JPG)
 
       > [!NOTE]
       > If you use this method to record your environment outside a call, joining a call will end the recording.
