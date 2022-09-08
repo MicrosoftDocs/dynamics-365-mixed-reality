@@ -45,8 +45,10 @@
 ### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
+### [Use the Calls Dashboard](admin-calls-dashboard.md)
 ### [Move content between enviroments](migrate.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
+### [Migrate from Dynamics 365 Remote Assist](migrate-remote-assist.md)
 
 ## I'm an author
 ### [Authoring overview](authoring-overview.md)
