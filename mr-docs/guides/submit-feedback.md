@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Submit feedback on Dynamics 365 Guides through the Feedback Hub
 
-If you run into an issue with Dynamics 365 Guides, you can report it through the Feedback Hub app (available for Windows devices). Use the Feedback Hub app to submit screenshots and provide extra telemetry to help Microsoft investigate a problem. You can follow this process on your HoloLens or your PC.
+If you run into an issue with Dynamics 365 Guides, you can report it through the Feedback Hub app (available for Windows devices). Use the Feedback Hub app to submit screenshots and provide extra telemetry to help Microsoft investigate a problem. Follow this process on the device you are having issues with (HoloLens or PC).
 
 1. Start the Feedback Hub app. If you uninstalled it previously, download the app from the Windows Store.
 
@@ -39,7 +39,7 @@ feedback**, and then select **Next**.
 
     ![Screenshot of the Attachments section.](media/submit-feedback-add-files.jpg "Screenshot of the Attachments section")    
 
-8. Select **Recreate my problem**, and then select **Start recording**. This will attach telemetry data to your feedback and make it easier for Microsoft 
+8. Select **Recreate my problem**, and then select **Start recording**. Open back up Dynamics 365 Guides and repeat the actions you have taken to recreate the problem you are facing. This will attach telemetry data to your feedback and make it easier for Microsoft 
 to diagnose the problem. Your data is protected under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). 
 Return to the Feedback Hub app when you're finished. 
 
@@ -47,7 +47,7 @@ Return to the Feedback Hub app when you're finished.
 
 9. After you finish the recording, you have the option to delete the logs and try again.   
 
-    ![Screenshot of the Attached section.](media/submit-feedback-review-logs.jpg "creenshot of the Attached section")  
+    ![Screenshot of the Attached section.](media/submit-feedback-review-logs.jpg "Screenshot of the Attached section")  
     
 10. If you agree to sending the attached files, select the **I agree to send attached files and diagnostics to Microsoft along with my feedback** check box, and then select **Submit**.
 
