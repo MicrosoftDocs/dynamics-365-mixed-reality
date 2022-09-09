@@ -61,3 +61,5 @@ See [Enterprise Firewall Configurations to Support WNS Traffic](/windows/apps/de
 
 - [Unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls)
 - [Deployment Playbook](admin-deployment-playbook.md)
+- [Additional Power Platform Endpoints](/power-platform/admin/online-requirements#internet-accessible-urls-required)
+- [Additional HoloLens Endpoints](/hololens/hololens-offline)
