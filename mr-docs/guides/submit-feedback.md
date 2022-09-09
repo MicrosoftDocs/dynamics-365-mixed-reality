@@ -39,9 +39,7 @@ feedback**, and then select **Next**.
 
     ![Screenshot of the Attachments section.](media/submit-feedback-add-files.jpg "Screenshot of the Attachments section")    
 
-8. Select **Recreate my problem**, and then select **Start recording**. Open Dynamics 365 Guides again anhd repeat the actions that caused the problem. This will attach telemetry data to your feedback and make it easier for Microsoft 
-to diagnose the problem. Your data is protected under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). 
-Return to the Feedback Hub app when you're finished. 
+8. Select **Recreate my problem**, and then select **Start recording**. Open Dynamics 365 Guides again, and then repeat the actions that caused the problem. This will attach telemetry data to your feedback and make it easier for Microsoft to diagnose the problem. Your data is protected under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). Return to the Feedback Hub app when you're finished. 
 
     ![Screenshot of the Start recording and Recreate my problem buttons.](media/submit-feedback-recording.jpg "Screenshot of the Start recording and Recreate my problem buttons")
 
