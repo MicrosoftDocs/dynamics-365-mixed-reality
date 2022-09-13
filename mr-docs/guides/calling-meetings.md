@@ -40,7 +40,7 @@ You can join a Microsoft Teams meeting or Microsoft Teams live event by using Dy
 
    ![Screenshot of the top of the bottom of the calendar highlighting meetin time and duration and Now.](media/calling-meetings-5.JPG "Screenshot of the top of the bottom of the calendar highlighting meetin time and duration and Now")
     
-3. To open a specific meeting, select the meeting. You'll see the meeting details, including the meeting date and time, meeting name, and organizer. 
+3. To open a specific meeting, select the meeting on the calendar. In the window that appears, you'll see the meeting details, including the meeting date and time, meeting name, and organizer. 
 
     ![Screenshot of Meeting details window.](media/calling-meetings-6.JPG "Screenshot of Meeting details window")
 
