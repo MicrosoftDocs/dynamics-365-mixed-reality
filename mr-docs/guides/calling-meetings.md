@@ -19,62 +19,59 @@ You can join a Microsoft Teams meeting or Microsoft Teams live event by using Dy
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Communications** button.
 
-    SCREENSHOT GOES HERE
+    ![Screenshot of Communications button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Communications button on Main menu")
     
 2. Select **Meetings**
 
-    SCREENSHOT GOES HERE
+    ![Screenshot highlighting Meetings button.](media/calling-meetings-2.JPG "Screenshot highlighting Meetings button")
 
     The Meeting window opens to the current day so you can see all your meetings for that day. 
 
-    SCREENSHOT GOES HERE
+    ![Screenshot of calendar in Meetings window.](media/calling-meetings-3.JPG "Screenshot of calendar in Meetings window")
 
     > [!NOTE]
-    > Dynamics 365 Guides supports the default calendar only. (no option to choose the calendar or view meetings from all calendars user has)
+    > Dynamics 365 Guides supports the default calendar only. (???no option to choose the calendar or view meetings from all calendars user has???)
 
     To change to a different day, select the day at the top of the screen. To switch to a different week, use the arrows in the upper right-corner of the screen. To go back to the current day at any time, select **Today**. 
 
-    SCREENSHOT GOES HERE
+    ![Screenshot of the top of the calendar highlighting the Today button.](media/calling-meetings-4.JPG "Screenshot of the top of the calendar highlighting the Today button")
 
     The bottom of the Meeting window shows the meeting time and duration (left side) and whether the meeting is occurring now (right side). 
 
-    SCREENSHOT GOES HERE
+   ![Screenshot of the top of the bottom of the calendar highlighting meetin time and duration and Now.](media/calling-meetings-5.JPG "Screenshot of the top of the bottom of the calendar highlighting meetin time and duration and Now")
     
 3. To open a specific meeting, select the meeting. You'll see the meeting details, including the meeting date and time, meeting name, and organizer. 
 
-    SCREENSHOT GOES HERE
+    ![Screenshot of Meeting details window.](media/calling-meetings-6.JPG "Screenshot of Meeting details window")
 
-4. Select **Join** to join the meeting.
-
-    SCREENSHOT GOES HERE
-
-    You'll see the following screen while participants are joining the meeting.
+4. Select **Join** to join the meeting. You'll see the following screen while participants are joining the meeting.
     
-    SCREENSHOT GOES HERE
+    ![Screenshot of Meeting window before participants join.](media/calling-meetings-7.JPG "Screenshot of Meeting window before participants join")
 
     When a participant joins the meeting, their avatar is displayed in the upper-right corner of the Meeting window. 
+
+    ![Screenshot of Meeting window before participants join.](media/calling-meetings-8.JPG "Screenshot of Meeting window before participants join")
     
 ## Add a participant from your organization to the meeting
 
 To add a participant to the call that was included in the original invite:
 
-???HOW TO DO THIS???
+![Placeholder for screen to come.](media/calling-meetings-9.JPG "Placeholder for screen to come")
 
 ## Admit a participant from outside your organization
     
-If a participant wants to join the meeting, but they're not part of your organization, a notification appears at the top of the screen to let you know that the participant is waiting in the Lobby and a **Participants button** with a red dot (showing action required) appears at the bottom-right corner of the screen. 
+If a participant wants to join the meeting, but they're not part of your organization, a notification appears at the top of the screen to let you know that the participant is waiting in the Lobby, and a **Participants button** with a red dot (showing action required) appears at the bottom-right corner of the screen. 
 
-SCREENSHOT GOES HERE
+![Screenshot showing notification that someone is waiting in the Lobby.](media/calling-meetings-10.JPG "Screenshot showing notification that someone is waiting in the lobby")
     
 To admit or decline the participant:
 
 - Select the **Participants** button to display participant tiles on the right of the screen. In the first tile, select **Admit** or **Decline**. 
 
-    SCREENSHOT GOES HERE
+    ![Screenshot highlighting Participants button and tile to the right of the video feed.](media/calling-meetings-11.JPG "Screenshot highlighting Participants button and tile to the right of the video feed")
 
 > [!NOTE]
 > The meeting organizer can decide who is admitted into a meeting directly and who has to wait for someone to admit them. [Learn more about choosing who can bypass the lobby](https://support.microsoft.com/en-us/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e). 
 > Dynamics 365 Guides users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten. 
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
