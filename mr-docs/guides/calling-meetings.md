@@ -21,7 +21,7 @@ You can join a Microsoft Teams meeting or Microsoft Teams live event by using Dy
 
     ![Screenshot of Communications button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Communications button on Main menu")
     
-2. Select **Meetings**
+2. Select **Meetings**.
 
     ![Screenshot highlighting Meetings button.](media/calling-meetings-2.JPG "Screenshot highlighting Meetings button")
 
