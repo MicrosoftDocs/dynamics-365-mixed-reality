@@ -54,7 +54,7 @@ You can join a Microsoft Teams meeting or Microsoft Teams live event by using Dy
     
 ## Add a participant from your organization to the meeting
 
-To add a participant to the call that was included in the original invite:
+To add a participant from your organizaion that wasn't included in the original invite:
 
 ![Placeholder for screen to come.](media/calling-meetings-9.JPG "Placeholder for screen to come")
 
