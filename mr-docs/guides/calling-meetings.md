@@ -59,6 +59,9 @@ To add a participant from your organizaion that wasn't included in the original 
 ![Placeholder for screen to come.](media/calling-meetings-9.JPG "Placeholder for screen to come")
 
 ## Admit a participant from outside your organization
+
+> [!NOTE]
+> Dynamics 365 Guides users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten. 
     
 If a participant wants to join the meeting, but they're not part of your organization, a notification appears at the top of the Meeting window to let you know that the participant is waiting in the lobby. A **Participants** button with a red dot (showing action required) appears in the bottom-right corner of the Meeting window. 
 
@@ -72,7 +75,5 @@ To admit or decline the participant:
 
 > [!NOTE]
 > The meeting organizer can decide who is admitted into a meeting directly and who has to wait for someone to admit them. [Learn more about choosing who can bypass the lobby](https://support.microsoft.com/en-us/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e). 
-> 
-> Dynamics 365 Guides users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten. 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
