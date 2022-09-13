@@ -34,7 +34,7 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
 
     ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.JPG "Screenshot showing example file shared with the user")
 
-   The file or page opens in a new window. You can move this window around in the same way that you move any other window in a meeting. 
+   The file or page opens in a new window. You can move this window wherever you want or size it directly with your hands. 
    
 
 ???Can the HL user initiate a chat or just receive a chat???
