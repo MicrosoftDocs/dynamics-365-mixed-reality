@@ -60,7 +60,7 @@ To add a participant from your organizaion that wasn't included in the original 
 
 ## Admit a participant from outside your organization
     
-If a participant wants to join the meeting, but they're not part of your organization, a notification appears at the top of the Meeting window to let you know that the participant is waiting in the Lobby, and a **Participants button** with a red dot (showing action required) appears at the bottom-right corner of the screen. 
+If a participant wants to join the meeting, but they're not part of your organization, a notification appears at the top of the Meeting window to let you know that the participant is waiting in the lobby. A **Participants button** with a red dot (showing action required) appears in the bottom-right corner of the Meeting window. 
 
 ![Screenshot showing notification that someone is waiting in the Lobby.](media/calling-meetings-10.JPG "Screenshot showing notification that someone is waiting in the lobby")
     
