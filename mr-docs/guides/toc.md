@@ -136,8 +136,9 @@
 #### [Add people to a call](calling-add-people.md)
 #### [Mute or remove a caller](calling-mute-remove.md)
 #### [Join a meeting](calling-meetings.md)
+#### [Start a chat](calling-chat-file-share.md)
 #### [Recording](calling-record-call.md)
-#### [Screen sharing](calling-file-sharing.md)
+#### [Screen sharing](calling-screen-sharing.md)
 #### [Annotations](calling-annotations.md)
 #### [Reducing HoloLens temperature](calling-hololens-thermal-adjusting.md)
 
