@@ -8,6 +8,10 @@ ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
+
+
+Include description of spotlight behavior as part of group calling, alongside ability to freely switch the video to any remote participant 
+
 # Calling overview for Dynamics 365 Guides on HoloLens
 
 With Microsoft Dynamics 365 Guides, you can make or take the following types of calls:  
@@ -28,6 +32,8 @@ With Dynamics 365 Guides on HoloLens, you can collaborate with:
 
 ## Make a one-to-one call to a contact in your company
 
+> [!NOTE]
+> You can't mute/kick/tile flip in 1:1 calls(from Bogdan and Margarita notes)
 
 OLD REMOTE ASSIST INFO STARTS HERE
 
