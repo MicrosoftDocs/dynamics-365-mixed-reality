@@ -18,7 +18,7 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
 
     ![Screenshot of Meetings window with Chat button highlighted.](media/calling-chat-file-sharing-1.JPG "Screenshot of Meetings window with Chat button highlighted")
     
-    A new Chat window appears to the right of the Meetings window.
+    A new Chat window appears to the right of the Meetings window. A recording button appears in the upper-left corner of the Chat window to let you know that the hat is being recorded. 
     
     ![Screenshot showing Chat window next to Meetings window.](media/calling-chat-file-sharing-2.JPG "Screenshot showing Chat window next to Meetings window")
     
