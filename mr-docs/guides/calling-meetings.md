@@ -17,7 +17,7 @@ You can join a Microsoft Teams meeting or Microsoft Teams live event by using Dy
 
 ## Join a scheduled meeting
 
-1. On the Main menu, select the **Communications** button.
+1. Look at the palm of your hand to open the Main menu, and then select the **Communications** button.
 
     SCREENSHOT GOES HERE
     
