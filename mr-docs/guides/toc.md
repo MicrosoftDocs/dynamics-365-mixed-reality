@@ -135,7 +135,7 @@
 #### [Calling overview](calling-overview.md)
 #### [Add people to a call](calling-add-people.md)
 #### [Mute or remove a caller](calling-mute-remove.md)
-#### [Meetings](calling-meetings.md)
+#### [Join a meeting](calling-meetings.md)
 #### [Recording](calling-record-call.md)
 #### [Chat and file sharing](calling-chat-file-sharing.md)
 #### [Annotations](calling-annotations.md)
