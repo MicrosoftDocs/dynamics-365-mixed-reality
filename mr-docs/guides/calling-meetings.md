@@ -1,1 +1,37 @@
-# Placeholder for new Meetings topic
+---
+title: 
+author: 
+description: 
+ms.author: 
+ms.date: 10/04/2022
+ms.topic: article
+ms.reviewer: v-bholmes
+---
+
+# Join a meeting or live event on Dynamics 365 Guides HoloLens
+
+A [Microsoft Teams meeting](/microsoftteams/quick-start-meetings-live-events) is a meeting scheduled using Teams involving any number of participants. 
+
+[Microsoft Teams live events](/microsoftteams/teams-live-events/what-are-teams-live-events) are an extension of Teams meetings, enabling users to broadcast video and meeting content to a large online audience. These events are meant for one-to-many communications where the host of the event is leading the interactions and audience participation is primarily to view the content shared by host.
+
+A Dynamics 365 Guides HoloLens user can join a live event as a presenter or attendee in the same way they join a meeting.
+
+> [!Note]
+> If a remote collaborator joins a meeting, you will not receive a call or notification, regardless of whether you are in the app. You must select **Join Meeting** to join the meeting. In addition, calling the participants involved in a scheduled meeting will not enable you to join the meeting; you must actually join the meeting.
+
+If for some reason you're unable to join the meeting, you may also ask the Teams user to join the meeting and use the **Open Participants** feature to call you. You'll receive an incoming call notification. Accept the call using audio or video, and you will join the meeting.
+
+SCREENSHOT GOES HERE
+
+> [!NOTE]
+> Dynamics 365 Guides users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten.  
+
+To join a meeting, select **Join Meeting**. The **Join Meeting** button appears if the meeting is happening now or within the next 15 minutes. If your upcoming meetings overlap, you can use the arrows to select which meeting to join.  
+
+After you join a meeting, you or the Teams user can add more people to the meeting. Select **Open Participants**. You'll see the first person you called on the left side of the video card, and a list of participants on the right side of the video card. On the bottom of the video card, there's a text field. Select the text field, and a holographic keyboard will pop out. A list of your recent contacts will appear. If the person you'd like to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
+
+> [!NOTE]
+> Dynamics 365 Guides supports the Teams lobby on HoloLens. A HoloLens user can admit a Teams guest into a meeting. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
