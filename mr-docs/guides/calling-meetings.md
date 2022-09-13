@@ -10,28 +10,71 @@ ms.reviewer: v-bholmes
 
 # Join a meeting or live event on Dynamics 365 Guides HoloLens
 
-A [Microsoft Teams meeting](/microsoftteams/quick-start-meetings-live-events) is a meeting scheduled using Teams involving any number of participants. 
+You can join a Microsoft Teams meeting or Microsoft Teams live event by using Dynamics 365 Guides on HoloLens. A [Microsoft Teams meeting](/microsoftteams/quick-start-meetings-live-events) is a meeting **scheduled** with Teams that includes any number of participants. A [Microsoft Teams live event](/microsoftteams/teams-live-events/what-are-teams-live-events) is an extension of a Teams meeting used to broadcast video and meeting content to a large online audience. A Microsoft Teams live event is useful for one-to-many communications where the host of the event is leading the interactions and audience participation is primarily limited to viewing the content shared by the host. A Dynamics 365 Guides HoloLens user can join a live event as a presenter or attendee in the same way that they join a meeting.
 
-[Microsoft Teams live events](/microsoftteams/teams-live-events/what-are-teams-live-events) are an extension of Teams meetings, enabling users to broadcast video and meeting content to a large online audience. These events are meant for one-to-many communications where the host of the event is leading the interactions and audience participation is primarily to view the content shared by host.
+> [!IMPORTANT] 
+> To join a meeting from Dynamics 365 Guides on HoloLens, you must have an Exchange Online license (not Exchange on-premises). 
 
-A Dynamics 365 Guides HoloLens user can join a live event as a presenter or attendee in the same way they join a meeting.
+## Join a scheduled meeting
 
-> [!Note]
-> If a remote collaborator joins a meeting, you will not receive a call or notification, regardless of whether you are in the app. You must select **Join Meeting** to join the meeting. In addition, calling the participants involved in a scheduled meeting will not enable you to join the meeting; you must actually join the meeting.
+1. On the Main menu, select the **Communications** button.
 
-If for some reason you're unable to join the meeting, you may also ask the Teams user to join the meeting and use the **Open Participants** feature to call you. You'll receive an incoming call notification. Accept the call using audio or video, and you will join the meeting.
+    SCREENSHOT GOES HERE
+    
+2. Select **Meetings**
+
+    SCREENSHOT GOES HERE
+
+    The Meeting window opens to the current day so you can see all your meetings for that day. 
+
+    SCREENSHOT GOES HERE
+
+    > [!NOTE]
+    > Dynamics 365 Guides supports the default calendar only. (no option to choose the calendar or view meetings from all calendars user has)
+
+    To change to a different day, select the day at the top of the screen. To switch to a different week, use the arrows in the upper right-corner of the screen. To go back to the current day at any time, select **Today**. 
+
+    SCREENSHOT GOES HERE
+
+    The bottom of the Meeting window shows the meeting time and duration (left side) and whether the meeting is occurring now (right side). 
+
+    SCREENSHOT GOES HERE
+    
+3. To open a specific meeting, select the meeting. You'll see the meeting details, including the meeting date and time, meeting name, and organizer. 
+
+    SCREENSHOT GOES HERE
+
+4. Select **Join** to join the meeting.
+
+    SCREENSHOT GOES HERE
+
+    You'll see the following screen while participants are joining the meeting.
+    
+    SCREENSHOT GOES HERE
+
+    When a participant joins the meeting, their avatar is displayed in the upper-right corner of the Meeting window. 
+    
+## Add a participant from your organization to the meeting
+
+To add a participant to the call that was included in the original invite:
+
+???HOW TO DO THIS???
+
+## Admit a participant from outside your organization
+    
+If a participant wants to join the meeting, but they're not part of your organization, a notification appears at the top of the screen to let you know that the participant is waiting in the Lobby and a **Participants button** with a red dot (showing action required) appears at the bottom-right corner of the screen. 
 
 SCREENSHOT GOES HERE
+    
+To admit or decline the participant:
+
+- Select the **Participants** button to display participant tiles on the right of the screen. In the first tile, select **Admit** or **Decline**. 
+
+    SCREENSHOT GOES HERE
 
 > [!NOTE]
-> Dynamics 365 Guides users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten.  
-
-To join a meeting, select **Join Meeting**. The **Join Meeting** button appears if the meeting is happening now or within the next 15 minutes. If your upcoming meetings overlap, you can use the arrows to select which meeting to join.  
-
-After you join a meeting, you or the Teams user can add more people to the meeting. Select **Open Participants**. You'll see the first person you called on the left side of the video card, and a list of participants on the right side of the video card. On the bottom of the video card, there's a text field. Select the text field, and a holographic keyboard will pop out. A list of your recent contacts will appear. If the person you'd like to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
-
-> [!NOTE]
-> Dynamics 365 Guides supports the Teams lobby on HoloLens. A HoloLens user can admit a Teams guest into a meeting. 
+> The meeting organizer can decide who is admitted into a meeting directly and who has to wait for someone to admit them. [Learn more about choosing who can bypass the lobby](https://support.microsoft.com/en-us/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e). 
+> Dynamics 365 Guides users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten. 
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
