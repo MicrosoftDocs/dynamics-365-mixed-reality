@@ -16,26 +16,27 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
 
 1. If you receive a chat message while you're on a call, a red circle appears on the **Chat** button, and the **Chat** button animates. Select the **Chat** button to open the chat. 
 
-    SCREENSHOT GOES HERE
+    ![Screenshot of Meetings window with Chat button highlighted.](media/calling-chat-file-sharing-1.JPG "Screenshot of Meetings window with Chat button highlighted")
     
-    A new Chat window appears to the right of the Meeting window.
+    A new Chat window appears to the right of the Meetings window.
     
-    SCREENSHOT GOES HERE
+    ![Screenshot showing Chat window next to Meetings window.](media/calling-chat-file-sharing-2.JPG "Screenshot showing Chat window next to Meetings window")
     
 2. To respond to the chat, place your gaze cursor over the box that says "Type a new message". 
 
-    SCREENSHOT GOES HERE
+    ![Screenshot highlighting where to enter message.](media/calling-chat-file-sharing-3.JPG "Screenshot highlighting where to enter message")
     
 3. In the holographic keyboard that appears, enter your message or use the microphone button to dictate a message.
 
-    SCREENSHOT GOES HERE
+    ![Screenshot showing holographic keyboard with Microphone button highlighted for dictation option.](media/calling-chat-file-sharing-4.JPG "Screenshot showing holographic keyboard with Microphone button highlighted for dictation option")
     
-???Can the HL user initiate a chat or just receive a chat???
-    
-4. If the remote expert on the call shares a file or sends a web link in the Chat window, select the link to open the file or page. 
+4. If a remote expert on the call shares a file or sends a web link in the Chat window, select the link to open the file or page. 
 
-    SCREENSHOT GOES HERE
+    ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.JPG "Screenshot showing example file shared with the user")
 
    The file or page opens in a new window. You can move this window around in the same way that you move any other window in a meeting. 
+   
+
+???Can the HL user initiate a chat or just receive a chat???
 
 
