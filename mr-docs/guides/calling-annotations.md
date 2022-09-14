@@ -18,7 +18,7 @@ Any user on Teams desktop, Teams Mac, or Dynamics 365 Remote Assist mobile can a
 
 1. Select the **Ink** tool on the **Annotate** toolbar.
 
-    SCREENSHOT GOES HERE
+    ![Screenshot of Meeting window and Annotate toolbar with focus on Ink tool.](media/calling-annotations-annotate-toolbar.JPG)
 
 2. Use your hand ray to place the cursor where you want to start drawing.
 
@@ -34,7 +34,7 @@ Any user on Teams desktop, Teams Mac, or Dynamics 365 Remote Assist mobile can a
 
 - Select the **Color** tool on the **Annotate** toolbar, and then select the color you want. The next drawing that you do will be that color.
 
-    SCREEN SHOT GOES HERE
+    ![Screenshot showing example of drawing with hand rays.](media/calling-annotations-drawing-example.JPG)
     
 ### Erase your annotations
 
@@ -47,7 +47,7 @@ Any user on Teams desktop, Teams Mac, or Dynamics 365 Remote Assist mobile can a
 
 When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides collaborator’s space, including holograms, and can use the **Mixed Reality** toolbar in Teams to add annotations.
 
-![Screenshot of the mixed reality toolbar.](media/mixed-reality-toolbar.PNG)
+![Screenshot of the Teams mixed reality toolbar.](media/calling-annotations-teams-desktop-mr-toolbar.JPG)
 
 > [!NOTE]
 > -	The toolbar appears only when the video on stage is from the Dynamics 365 Guides user.
@@ -73,10 +73,10 @@ Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the Hol
 
 |Button|Description|
 |---------|----------------------------------------------------|
-|![Graphic showing the place arrow icon.](media/6584f4b7932378aa23f6efbf460b304c.png)|Add an arrow.|
-|![Graphic showing the ink icon, which looks like a pen.](media/187307e30fd713f5ae67aba854b78bc4.png)|Add ink (draw).|
-|![Graphic showing the insert files icon.](media/insert-document-button.png)|Insert a file in the HoloLens user's space. You can select an image or PDF file from OneDrive or from your device.|
-|![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)|Change the arrow or ink color.|
+|![Graphic showing the Place arrow button.](media/calling-annotations-teams-draw-button.JPG)|Add an arrow.|
+|![Graphic showing the Ink button, which looks like a pen.](media/calling-annotations-teams-edit-button.JPG)|Add ink (draw).|
+|![Graphic showing the Insert file button.](media/calling-annotations-teams-insert-file-button.JPG)|Insert a file in the HoloLens user's space. You can select an image or PDF file from OneDrive or from your device.|
+|![Graphic showing the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
 
 ### Finish editing
 
@@ -92,9 +92,9 @@ To make changes to your edits:
 
 - While in edit mode, select **Undo** to undo the last action.
 
-- While in edit mode, select **Erase all** (![Graphic showing the Erase icon, which looks like a trashcan.](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")) to erase all of the annotations made during that editing session.
+- While in edit mode, select **Erase all** (![Graphic showing the Erase icon, which looks like a trashcan.](media/calling-annotations-teams-erase-all-button.JPG) to erase all of the annotations made during that editing session.
 
-- While in live mode, select **Erase all** (![Graphic showing the Erase icon, which looks like a trashcan.](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")) to erase all of the annotations made during that call.
+- While in live mode, select **Erase all** (![Graphic showing the Erase icon, which looks like a trashcan.](media/calling-annotations-teams-erase-all-button.JPG) to erase all of the annotations made during that call.
 
 > [!Note]
 > - Specific drawings or arrows can’t be removed.
