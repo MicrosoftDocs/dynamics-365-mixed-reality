@@ -119,19 +119,19 @@ Then, the Dynamics 365 Remote Assist user's video feed will freeze and you will 
 
 ![Screenshot of the mixed reality toolbar, with the Ink button selected.](media/calling-annotations-teams-desktop-minimize-toolbar.JPG)
 
-- To add arrows, select the **Arrow** button (![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-draw-button.JPG). Then, tap where you would like to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it is at the correct direction. Then release.
+- To add arrows, select the **Arrow** button (![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-draw-button.JPG)). Then, tap where you would like to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it is at the correct direction. Then release.
 
-- To make drawing annotations, select the **Ink** button (![Graphic of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG).
+- To make drawing annotations, select the **Ink** button (![Graphic of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)).
 
-- To change the arrow or ink color, select the **Color** button (![Graphic of the Color button.](media/calling-annotations-teams-color-button.JPG). 
+- To change the arrow or ink color, select the **Color** button (![Graphic of the Color button.](media/calling-annotations-teams-color-button.JPG)). 
   
 - While in edit mode, select the **Undo** button (![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)) to undo the last action.
 
 - To undo the most recent annotation you added, select **Undo**.
 
-- To delete every annotation you’ve added, select the **Erase all** button (![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG) and then select **Delete All Notes**.
+- To delete every annotation you’ve added, select the **Erase all** button (![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)) and then select **Delete All Notes**.
 
-- To delete only the annotations you added recently, select the **Erase all** button ([Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG), and then select **Clear Current Notes**. It does not clear the annotations your collaborator added.
+- To delete only the annotations you added recently, select the **Erase all** button ([Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)), and then select **Clear Current Notes**. It does not clear the annotations your collaborator added.
 
 When you’re done adding annotations, select the checkmark button to resume the live video feed. All annotations will persist even after you stop editing. 
 
