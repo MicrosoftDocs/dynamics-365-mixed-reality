@@ -132,7 +132,7 @@ The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed
 
 - To delete only the annotations you added recently, select the **Erase all** button (![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)), and then select **Clear Current Notes**. This does not clear the annotations your collaborator added.
 
-When you’re done adding annotations, select the checkmark button on the **MR toolbar** to resume the live video feed. All annotations will persist even after you stop editing. 
+When you’re done adding annotations, select the **Checkmark** button on the **Mixed Reality** toolbar to resume the live video feed. All annotations will persist even after you stop editing. 
 
 > [!NOTE]
 > Each call participant can only undo and delete their own annotations.
