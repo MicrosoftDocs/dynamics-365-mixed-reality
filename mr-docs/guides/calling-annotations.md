@@ -69,7 +69,7 @@ In edit mode, you'll see a live stream of the call in the corner of the app wind
 
 ### Add arrows, ink, and files
 
-Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the HoloLens user's space. The following table describes the buttons in the **Mixed Reality toolbar.
+Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the HoloLens user's space. The following table describes the buttons in the **Mixed Reality** toolbar.
 
 |Button|Description|
 |---------|----------------------------------------------------|
