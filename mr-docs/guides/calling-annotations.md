@@ -16,7 +16,7 @@ Any user on Teams desktop, Teams for the Mac, or Dynamics 365 Remote Assist mobi
 > 
 > Annotations don't work well on black or reflective surfaces.
 
-1. Select the **Ink** button on the **Annotate** toolbar.
+1. When you're on a call, select the **Ink** button on the **Annotate** toolbar.
 
     ![Screenshot of Meeting window and Annotate toolbar with focus on Ink tool.](media/calling-annotations-annotate-toolbar.JPG)
 
