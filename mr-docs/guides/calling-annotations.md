@@ -20,7 +20,7 @@ Any user on Teams desktop, Teams for the Mac, or Dynamics 365 Remote Assist mobi
 
     ![Screenshot of Meeting window and Annotate toolbar with focus on Ink tool.](media/calling-annotations-annotate-toolbar.JPG)
 
-2. Use your hand ray to place the cursor where you want to start drawing.
+2. Use your hand rays to place the cursor where you want to start drawing.
 
     > [!NOTE
     > If hand rays are turned off in the HoloLens app, they're automatically turned back on again when you select the **Ink** button.
