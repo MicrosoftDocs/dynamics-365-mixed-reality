@@ -25,7 +25,7 @@ Any user on Teams desktop, Teams for the Mac, or Dynamics 365 Remote Assist mobi
     > [!NOTE
     > If hand rays are turned off in the HoloLens app, they're automatically turned back on again when you select the **Ink** button.
 
-3. Air tap, keep your index finger and thumb together, and start drawing in your space. Release the air tap to stop drawing. 
+3. Air tap, keep your index finger and thumb together, and then start drawing in your space. Release the air tap to stop drawing. 
 
     > [TIP]
     > To use a voice command, select the **Ink** button by saying "Guides, Ink." Then say "Guides, Start inking" and "Guides, Stop inking" to start and stop inking.
