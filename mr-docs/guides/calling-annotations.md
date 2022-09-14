@@ -38,9 +38,9 @@ Any user on Teams desktop, Teams for the Mac, or Dynamics 365 Remote Assist mobi
     
 ### Erase your annotations
 
-- To erase all drawings, select **Erase all** (![Screenshot of Erase all button.](media/calling-annotations-teams-erase-all-button.JPG)).
+- To erase all drawings, on the **Annotate** toolbar, select **Erase all** (![Screenshot of Erase all button.](media/calling-annotations-teams-erase-all-button.JPG)).
 
-- To undo your most recent action, including the Erase all action, select **Undo** (![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG)). 
+- To undo your most recent action, including the Erase all action, on the **Annotate** toolbar, select **Undo** (![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG)). 
 
 ## Annotate the Dynamics 365 Guides user's environment from Microsoft Teams desktop
 
