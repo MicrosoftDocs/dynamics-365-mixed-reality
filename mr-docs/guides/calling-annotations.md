@@ -7,7 +7,7 @@ At this time, a HoloLens user can draw in their environment but can't place arro
 Any user on Teams desktop, Teams Mac, or Dynamics 365 Remote Assist mobile can annotate the environment of the Dynamics 365 Guides user on HoloLens. Teams mobile users can only annotate in one-to-one calls, however, not group calls. Annotations are not supported for users on Teams Web. 
 
 > [!NOTE]
-> To use annotations, you must enable the appropriate permissions in Dynamics 365 Guides. [Learn more](hololens-app-permissions.md)
+> To use annotations, you must enable the appropriate permissions in Dynamics 365 Guides. [Learn more](hololens-permissions.md)
 
 ## Draw in your space
 
