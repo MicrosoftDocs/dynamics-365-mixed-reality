@@ -117,7 +117,7 @@ To add an annotation, select the **Ink button** (![Screenshot of the Ink button,
 
 Then, the Dynamics 365 Remote Assist user's video feed will freeze and you will see the **Mixed Reality toolbar**. 
 
-![Screenshot of the mixed reality toolbar, with the Ink button selected.](media/calling-annotations-teams-desktop-minimize-toolbar.JPG)
+![Screenshot of the mixed reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
 
 - To add arrows, select the **Arrow** button (![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-draw-button.JPG)). Then, tap where you would like to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it is at the correct direction. Then release.
 
