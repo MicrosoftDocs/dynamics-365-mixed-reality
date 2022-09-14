@@ -126,7 +126,7 @@ The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed
   
 - To undo your last action in edit mode, select the **Undo** button (![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)).
 
-- To undo the most recent annotation you added, select **Undo**.
+- To undo the most recent annotation you added, select the **Undo** button.
 
 - To delete every annotation you’ve added, select the **Erase all** button (![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)), and then select **Delete All Notes**.
 
