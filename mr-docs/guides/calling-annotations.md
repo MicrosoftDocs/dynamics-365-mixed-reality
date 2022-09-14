@@ -124,7 +124,7 @@ The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed
 
 - To change the arrow or ink color, select the **Color** button (![Graphic of the Color button.](media/calling-annotations-teams-color-button.JPG)). 
   
-- While in edit mode, select the **Undo** button (![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)) to undo the last action.
+- To undo your last action in edit mode, select the **Undo** button (![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)).
 
 - To undo the most recent annotation you added, select **Undo**.
 
