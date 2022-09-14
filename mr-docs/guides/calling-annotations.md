@@ -1,10 +1,8 @@
 # Work with annotations in Dynamics 365 Guides on HoloLens
 
-If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Teams desktop or Teams mobile, you and the remote collaborator can both annotate your shared environment. Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it will remain anchored in your space until the person who placed the annotation deletes it. Annotations are also deleted if the person that added the annotations leaves the call. Adding annotations to files works the same way.
+If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams desktop, Teams mobile, or Dynamics 365 Remote Assist mobile, you and your remote collaborator(s) can annotate your shared environment. Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it (or if the person who added the annotation leaves the call). Adding annotations to files works the same way.
 
-At this time, a HoloLens user can draw in their environment but can't place arrows. The remote expert on Teams desktop or Teams mobile can draw **and** place arrows.
-
-Any user on Teams desktop, Teams Mac, or Dynamics 365 Remote Assist mobile can annotate the environment of the Dynamics 365 Guides user on HoloLens. Teams mobile users can only annotate in one-to-one calls, however, not group calls. Annotations are not supported for users on Teams Web. 
+Any user on Teams desktop, Teams for the Mac, or Dynamics 365 Remote Assist mobile can annotate the environment of the Dynamics 365 Guides user on HoloLens. Teams mobile users can annotate only in one-to-one calls, however, not group calls. Annotations are not supported for users on Teams Web. 
 
 > [!NOTE]
 > To use annotations, you must enable the appropriate permissions in Dynamics 365 Guides. [Learn more](hololens-permissions.md)
@@ -14,6 +12,8 @@ Any user on Teams desktop, Teams Mac, or Dynamics 365 Remote Assist mobile can a
 ### Draw in your space
 
 > [!NOTE]
+> At this time, a HoloLens user can draw in their environment but can't place arrows. The remote expert on Teams desktop, Teams mobile, or Dynamics 365 Remote Assist mobile can draw **and** place arrows.
+> 
 > Annotations don't work well on black or reflective surfaces.
 
 1. Select the **Ink** button on the **Annotate** toolbar.
