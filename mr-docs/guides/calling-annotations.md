@@ -43,7 +43,7 @@ Any user on Teams desktop, Teams Mac, or Dynamics 365 Remote Assist mobile can a
 - To undo your most recent action, including the Erase all action, select **Undo**. 
 
 
-## Add annotations from Microsoft Teams 
+## Annotate the Dynamics 365 Guides user's environment from Microsoft Teams desktop
 
 When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides collaborator’s space, including holograms, and can use the **Mixed Reality** toolbar in Teams to add annotations.
 
@@ -115,3 +115,28 @@ If you want to focus on the video stream from the HoloLens user, you can minimiz
 > The toolbar remains minimized if you switch to a different Dynamics 365 Guides user's video feed. 
 
 To restore the toolbar, select the **MR Toolbar** button again. 
+
+## Annotate the Dynamics 365 Guides user's environment from Microsoft Teams mobile
+
+To add an annotation, select the **Edit icon**.
+
+Then, the Dynamics 365 Remote Assist user's video feed will freeze and you will see the **Mixed Reality toolbar**. 
+
+![Screenshot of the mixed reality toolbar, with the edit icon highlighted.](media/TeamsMobile_MRToolbar.png)
+
+- To add arrows, select **Place arrow** (shown here: ![Graphic of the Place arrow icon in the mixed reality toolbar.](media/6584f4b7932378aa23f6efbf460b304c.png)). Then, tap where you would like to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it is at the correct direction. Then release.
+
+- To make drawing annotations, select the **Ink icon** (shown here: ![Graphic of the ink icon, as represented by a pencil.](media/187307e30fd713f5ae67aba854b78bc4.png)).
+
+- To change the arrow or ink color, select the **Pick a color icon** (shown here: ![Graphic of the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)). 
+  
+- To undo the most recent annotation you added, select **Undo**.
+
+- To delete every annotation you’ve added, select **Erase** (shown here: ![Graphic showing the erase icon, which looks like a trash can.](media/3aab547aa81003ad181eceadc2c83a47.png)) and then select **Delete All Notes**.
+
+- To delete only the annotations you added recently, select the **Erase icon** (shown here: ![Graphic showing the erase icon, which looks like a trash can.](media/3aab547aa81003ad181eceadc2c83a47.png)) and then select **Clear Current Notes**. It does not clear the annotations your collaborator added.
+
+When you’re done adding annotations, select the checkmark icon to resume the live video feed. All annotations will persist even after you stopped editing. 
+
+> [!NOTE]
+> Each call participant can only undo and delete their own annotations.
