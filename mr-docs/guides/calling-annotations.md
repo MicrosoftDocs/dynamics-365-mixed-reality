@@ -118,7 +118,7 @@ The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed
 
 ![Screenshot of the mixed reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
 
-- To add arrows, select the **Arrow** button (![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-arrow-button.JPG)). Then tap where you want to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it's facing the desired direction. Release to lock the arrow in place.
+- To add an arrow, select the **Arrow** button (![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-arrow-button.JPG)). Then tap where you want to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it's facing the desired direction. Release to lock the arrow in place.
 
 - To draw, select the **Ink** button (![Graphic of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)).
 
