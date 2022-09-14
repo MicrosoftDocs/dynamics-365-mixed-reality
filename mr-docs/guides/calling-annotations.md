@@ -43,7 +43,7 @@ Any user on Teams desktop, Teams Mac, or Dynamics 365 Remote Assist mobile can a
 - To undo your most recent action, including the Erase all action, select **Undo**. 
 
 
-## Add annotations in Microsoft Teams that appear in the Dynamics 365 Guides HoloLens user's space
+## Add annotations from Microsoft Teams 
 
 When you join a call in Microsoft Teams, you'll see your collaborator’s space, including holograms, and can use the Mixed Reality toolbar in Teams to add annotations.
 
