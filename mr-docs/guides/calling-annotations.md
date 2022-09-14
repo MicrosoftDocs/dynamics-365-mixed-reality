@@ -79,7 +79,7 @@ Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the Hol
 
 ### Finish editing
 
-When you're annotating, do one of the following:
+When you're done annotating, do one of the following:
 
 -   Select **Stop editing**.
 
