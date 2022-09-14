@@ -45,7 +45,7 @@ Any user on Teams desktop, Teams Mac, or Dynamics 365 Remote Assist mobile can a
 
 ## Add annotations from Microsoft Teams 
 
-When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides collaborator’s space, including holograms, and can use the Mixed Reality toolbar in Teams to add annotations.
+When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides collaborator’s space, including holograms, and can use the **Mixed Reality** toolbar in Teams to add annotations.
 
 ![Screenshot of the mixed reality toolbar.](media/mixed-reality-toolbar.PNG)
 
