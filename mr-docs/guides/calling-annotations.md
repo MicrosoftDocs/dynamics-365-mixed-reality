@@ -74,7 +74,7 @@ Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the Hol
 |Button|Description|
 |---------|----------------------------------------------------|
 |![Graphic showing the Place arrow button.](media/calling-annotations-teams-draw-button.JPG)|Add an arrow.|
-|![Graphic showing the Ink button, which looks like a pen.](media/calling-annotations-teams-edit-button.JPG)|Add ink (draw).|
+|![Graphic showing the Ink button, which looks like a pen.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
 |![Graphic showing the Insert file button.](media/calling-annotations-teams-insert-file-button.JPG)|Insert a file in the HoloLens user's space. You can select an image or PDF file from OneDrive or from your device.|
 |![Graphic showing the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
 
@@ -103,13 +103,9 @@ To make changes to your edits:
 
 ### Minimize the Mixed Reality toolbar
 
-The Mixed Reality toolbar appears by default whenever you join a new call with a Dynamics 365 Guides user. 
+The Mixed Reality toolbar appears by default whenever you join a new call with a Dynamics 365 Guides user. If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button. 
 
-![Screenshot of the Mixed Reality toolbar.](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
-
-If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button. 
-
-![Screenshot of HoloLens button.](media/minimize-MR-toolbar.jpg "Screenshot of HoloLens button")
+![Screenshot of MR Toolbar (HoloLens) button.](media/calling-annotations-teams-desktop-minimize-toolbar.JPG)
 
 > [!NOTE]
 > The toolbar remains minimized if you switch to a different Dynamics 365 Guides user's video feed. 
@@ -122,21 +118,21 @@ To add an annotation, select the **Edit icon**.
 
 Then, the Dynamics 365 Remote Assist user's video feed will freeze and you will see the **Mixed Reality toolbar**. 
 
-![Screenshot of the mixed reality toolbar, with the edit icon highlighted.](media/TeamsMobile_MRToolbar.png)
+![Screenshot of the mixed reality toolbar, with the Ink tool selected.](media/calling-annotations-teams-desktop-minimize-toolbar.JPG)
 
-- To add arrows, select **Place arrow** (shown here: ![Graphic of the Place arrow icon in the mixed reality toolbar.](media/6584f4b7932378aa23f6efbf460b304c.png)). Then, tap where you would like to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it is at the correct direction. Then release.
+- To add arrows, select **Place arrow** (shown here: ![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-draw-button.JPG). Then, tap where you would like to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it is at the correct direction. Then release.
 
-- To make drawing annotations, select the **Ink icon** (shown here: ![Graphic of the ink icon, as represented by a pencil.](media/187307e30fd713f5ae67aba854b78bc4.png)).
+- To make drawing annotations, select the **Ink icon** (shown here: ![Graphic of the ink icon, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG).
 
-- To change the arrow or ink color, select the **Pick a color icon** (shown here: ![Graphic of the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)). 
+- To change the arrow or ink color, select the **Pick a color icon** (shown here: ![Graphic of the pick a color icon.](media/calling-annotations-teams-color-button.JPG). 
   
 - To undo the most recent annotation you added, select **Undo**.
 
-- To delete every annotation you’ve added, select **Erase** (shown here: ![Graphic showing the erase icon, which looks like a trash can.](media/3aab547aa81003ad181eceadc2c83a47.png)) and then select **Delete All Notes**.
+- To delete every annotation you’ve added, select **Erase** (shown here: ![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG) and then select **Delete All Notes**.
 
-- To delete only the annotations you added recently, select the **Erase icon** (shown here: ![Graphic showing the erase icon, which looks like a trash can.](media/3aab547aa81003ad181eceadc2c83a47.png)) and then select **Clear Current Notes**. It does not clear the annotations your collaborator added.
+- To delete only the annotations you added recently, select the **Erase icon** (shown here: ![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG), and then select **Clear Current Notes**. It does not clear the annotations your collaborator added.
 
-When you’re done adding annotations, select the checkmark icon to resume the live video feed. All annotations will persist even after you stopped editing. 
+When you’re done adding annotations, select the checkmark button to resume the live video feed. All annotations will persist even after you stop editing. 
 
 > [!NOTE]
 > Each call participant can only undo and delete their own annotations.
