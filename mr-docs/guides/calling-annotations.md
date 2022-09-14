@@ -114,7 +114,7 @@ To restore the toolbar, select the **MR Toolbar** button again.
 ## Use Microsoft Teams mobile to annotate the Dynamics 365 Guides user's environment 
 
 To add an annotation, select the **Ink button** (![Screenshot of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)).
-The Dynamics 365 Guides user's video feed will freeze and you will see the **Mixed Reality toolbar**. 
+The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed Reality toolbar**. 
 
 ![Screenshot of the mixed reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
 
