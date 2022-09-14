@@ -102,7 +102,7 @@ To make changes to your edits:
 
 ### Minimize the Mixed Reality toolbar
 
-The Mixed Reality toolbar appears by default whenever you join a new call with a Dynamics 365 Guides user. If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button. 
+The **Mixed Reality** toolbar appears by default whenever you join a new call with a Dynamics 365 Guides user. If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button. 
 
 ![Screenshot of MR Toolbar (HoloLens) button.](media/calling-annotations-teams-desktop-minimize-toolbar.JPG)
 
