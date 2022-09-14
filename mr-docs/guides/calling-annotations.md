@@ -1,6 +1,6 @@
 # Work with annotations in Dynamics 365 Guides on HoloLens
 
-If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Teams desktop or Teams mobile, you and the remote collaborator can both annotate your shared environment. Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it will remain anchored in your space until the person who placed the annotation deletes it. Adding annotations to files works the same way.
+If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Teams desktop or Teams mobile, you and the remote collaborator can both annotate your shared environment. Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it will remain anchored in your space until the person who placed the annotation deletes it. Annotations are also deleted if the person that added the annotations leaves the call. Adding annotations to files works the same way.
 
 At this time, a HoloLens user can draw in their environment but can't place arrows. The remote expert on Teams desktop or Teams mobile can draw **and** place arrows.
 
