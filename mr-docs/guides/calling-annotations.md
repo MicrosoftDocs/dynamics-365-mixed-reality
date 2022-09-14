@@ -7,7 +7,7 @@ Any user on Teams desktop, Teams for the Mac, or Dynamics 365 Remote Assist mobi
 > [!NOTE]
 > To use annotations, you must enable the appropriate permissions in Dynamics 365 Guides. [Learn more](hololens-permissions.md)
 
-## Annotate your space in Dynamics 365 Guides on HoloLens
+## Use Dynamics 365 Guides on HoloLens to annotate
 
 ### Draw in your space
 
@@ -42,7 +42,7 @@ Any user on Teams desktop, Teams for the Mac, or Dynamics 365 Remote Assist mobi
 
 - To undo your most recent action, including the Erase all action, on the **Annotate** toolbar, select **Undo** (![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG)). 
 
-## Annotate the Dynamics 365 Guides user's environment from Microsoft Teams desktop
+## Use Microsoft Teams desktop to annotate the Dynamics 365 Guides user's environment
 
 When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides collaborator’s space, including holograms, and can use the **Mixed Reality** toolbar in Teams to add annotations.
 
@@ -111,7 +111,7 @@ The Mixed Reality toolbar appears by default whenever you join a new call with a
 
 To restore the toolbar, select the **MR Toolbar** button again. 
 
-## Annotate the Dynamics 365 Guides user's environment from Microsoft Teams mobile
+## Use Microsoft Teams mobile to annotate the Dynamics 365 Guides user's environment 
 
 To add an annotation, select the **Ink button** (![Screenshot of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)).
 
