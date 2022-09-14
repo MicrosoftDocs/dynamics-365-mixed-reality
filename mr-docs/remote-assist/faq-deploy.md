@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Answers to common questions about deploying Microsoft Dynamics 365 Remote Assist.
 ms.author: soanigbo
-ms.date: 06/17/2022
+ms.date: 09/14/2022
 ms.topic: article
 title: Frequently asked questions for deploying Dynamics 365 Remote Assist 
 ms.reviewer: v-bholmes
@@ -43,6 +43,13 @@ If your organization uses any of the following features, you'll need to update t
 Enhancements and bug fixes associated with these features are recorded in [What's new in Dynamics 365 Remote Assist](whats-new.md).
 
 [Learn how to update the model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version)
+
+## Does Dynamics 365 Remote Assist mobile support conditional access policies?
+
+Dynamics 365 Remote Assist mobile supports Azure Conditional Access policies through Microsoft Intune mobile application management (MAM). If a Conditional Access policy restricts file sharing for iOS devices, an error appears when the user selects the **Attach file** button in Dynamics 365 Remote Assist mobile, and then the **Attach file** button disappears. On Android, files will not upload when the restriction policy is set. Your organization may have older ["classic" Conditional Access policies](/azure/active-directory/conditional-access/policy-migration) that require managed apps, but Dynamics 365 Remote Assist mobile does not support classic Conditional Access policies. To work around this issue, replicate the classic policy as a new Conditional Access policy, and then delete the classic policy. [Learn more](/azure/active-directory/conditional-access/policy-migration).  
+
+> [!NOTE]
+> Conditional Access policies do not apply to Dynamics 365 Remote Assist on HoloLens.
 
 ## How do I enable map visualization on the Dynamics 365 Remote Assist Calls Dashboard?
 
