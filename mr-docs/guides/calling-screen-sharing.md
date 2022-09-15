@@ -12,7 +12,7 @@ If the video feed is switched to another person on the call while a screen is be
 
 ![Screenshot of a suspended shared screen with button highlighted.](media/calling-screen-sharing-3.JPG "Screenshot of a suspended shared screen with button highlighted")
 
-You can also make the shared screen active again by selecting a similar button in the live video feed in the Meeting window. 
+You can also make the shared screen active by selecting a similar button in the live video feed in the Meeting window. 
 
 ![Screenshot of Meeting window with new live feed and button that you can use to switch back to the shared screen.](media/calling-screen-sharing-2.JPG "Screenshot of Meeting window with new live feed and button that you can use to switch back to the shared screen")
 
