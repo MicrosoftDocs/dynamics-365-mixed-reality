@@ -24,7 +24,7 @@ If you make the shared screen active by using either of these buttons, the video
 
 If the person who shared their screen stops sharing, the shared screen disappears, and the video feed for the person sharing their screen appears in the Meeting window again. 
 
-## Use Microsoft Teams (PC or Mac) to share your desktop or a running application
+## Use Microsoft Teams (PC or Mac) to share your desktop or a running application with a Dynamics 365 Guides user on HoloLens
 
 1. Select **Share**.
 
@@ -35,4 +35,15 @@ If the person who shared their screen stops sharing, the shared screen disappear
   > [!Note]
   > You can share one application window or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
 
+The behavior of that window and the live video feed are as described earlier in this article.
 
+## Use Microsoft Teams mobile to share your screen with a Dynamics 365 Guides user on HoloLens
+
+To share your screen, go to the call controls, select the ellipses icon […], select **Share**, then select **Start Broadcast**.
+
+![Screenshot of the Start broadcast window in Teams mobile.](media/calling-screen-sharing-5.JPG "Screenshot of the Start broadcast window in Teams mobile")
+
+The behavior of that window and the live video feed are as described earlier in this article.
+
+
+After a few seconds, a live view of your screen will be displayed as a new window in the Dynamics 365 Guides HoloLens user’s environment. 
