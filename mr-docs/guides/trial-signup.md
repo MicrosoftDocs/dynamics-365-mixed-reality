@@ -40,6 +40,6 @@ Your trial includes the same features as the paid version. The links below guide
 
 ## Additional resources
 
-- [Explore training on Microsoft training](/training/browse/?expanded=dynamics-365&products=dynamics-guides)
+- [Explore Microsoft Learn training](/training/browse/?expanded=dynamics-365&products=dynamics-guides)
 - [Watch videos on Dynamics 365 Guides](videos.md)
 - [Trial FAQ](trial-faq.md)
