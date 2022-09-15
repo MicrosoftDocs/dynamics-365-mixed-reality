@@ -1,6 +1,10 @@
 # View and work with a remote collaborator's screen in Dynamics 365 Guides on HoloLens
 
-When a remote collaborator using Microsoft Teams (PC, Mac, or mobile) shares their screen with you on a call in Dynamics 365 Guides on HoloLens, the screen automatically appears as a new window in your environment.
+A remote collaborator on Microsoft Teams (PC, Mac, or mobile) may want to share their desktop or application window with you when you're on a call in Dynamics 365 Guides on HoloLens. Sharing a desktop or application window is useful if the remote collaborator wants to communicate information that's not captured in a file type that's supported by the file-sharing feature (.jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.). For example, the remote collaborator might want to share an instructional video playing in their browser, or a series of instructions embedded in a PowerPoint presentation. 
+
+## Behavior in Dynamics 365 Guides
+
+When a remote collaborator shares their screen, the screen automatically appears as a new window in your Dynamics 365 Guides environment.
 
 ![Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens.](media/calling-screen-sharing-1.JPG "Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens")
 
@@ -19,3 +23,16 @@ You can also make the shared screen active by selecting a similar button in the 
 If you make the shared screen active by using either of these buttons, the video feed for the person displayed in the Meeting window is suspended again. 
 
 If the person who shared their screen stops sharing, the shared screen disappears, and the video feed for the person sharing their screen appears in the Meeting window again. 
+
+## Use Microsoft Teams (PC or Mac) to share your desktop or a running application
+
+1. Select **Share**.
+
+   ![Screenshot of the share tray button.](media/calling-screen-sharing-4.JPG "Screenshot of the Share tray button")
+   
+2. Select the application window you want to share, or share your screen. 
+
+  > [!Note]
+  > You can share one application window or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
+
+
