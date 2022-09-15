@@ -35,7 +35,7 @@ If the person who shared their screen stops sharing, the shared screen disappear
   > [!Note]
   > You can share one application window or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
 
-The behavior of that window and the live video feed are as described earlier in this article.
+The shared screen and the live video feed follow the behavior described earlier in this article.
 
 ## Use Microsoft Teams mobile to share your screen with a Dynamics 365 Guides user on HoloLens
 
@@ -43,7 +43,7 @@ To share your screen, go to the call controls, select the ellipses icon […], s
 
 ![Screenshot of the Start broadcast window in Teams mobile.](media/calling-screen-sharing-5.JPG "Screenshot of the Start broadcast window in Teams mobile")
 
-The behavior of that window and the live video feed are as described earlier in this article.
+The shared screen and the live video feed follow the behavior described earlier in this article.
 
 
 After a few seconds, a live view of your screen will be displayed as a new window in the Dynamics 365 Guides HoloLens user’s environment. 
