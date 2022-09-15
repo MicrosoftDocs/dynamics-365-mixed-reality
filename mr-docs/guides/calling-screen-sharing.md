@@ -1,4 +1,4 @@
-# Screen sharing in the Dynamics 365 Guides HoloLens app
+# View a remote expert's screen in the Dynamics 365 Guides HoloLens app
 
 When a remote export using Microsoft Teams (desktop or mobile) shares their screen with you on a call in Dynamics 365 Guides on HoloLens, the screen automatically appears as a new window in your environment.
 
