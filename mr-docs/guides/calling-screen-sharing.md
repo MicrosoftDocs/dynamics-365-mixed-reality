@@ -2,9 +2,9 @@
 
 A remote collaborator on Microsoft Teams (PC, Mac, or mobile) may want to share their desktop or application window with you when you're on a call in Dynamics 365 Guides on HoloLens. Sharing a desktop or application window is useful if the remote collaborator wants to communicate information that's not captured in a file type that's supported by the file-sharing feature (.jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.). For example, the remote collaborator might want to share an instructional video playing in their browser, or a series of instructions embedded in a PowerPoint presentation. 
 
-## Behavior in Dynamics 365 Guides
+## Use Dynamics 365 Guides to view and work with a remote collaborator's shared screen 
 
-When a remote collaborator shares their screen, the screen automatically appears as a new window in your Dynamics 365 Guides environment.
+When a remote collaborator shares their screen with you, the screen automatically appears as a new window in your Dynamics 365 Guides environment.
 
 ![Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens.](media/calling-screen-sharing-1.JPG "Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens")
 
