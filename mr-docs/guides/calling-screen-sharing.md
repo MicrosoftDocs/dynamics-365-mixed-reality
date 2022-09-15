@@ -39,7 +39,7 @@ The shared screen and the live video feed follow the behavior described earlier 
 
 ## Use Microsoft Teams mobile to share your screen with a Dynamics 365 Guides user on HoloLens
 
-To share your screen, go to the call controls, select the ellipses icon […], select **Share**, then select **Start Broadcast**.
+To share your screen, go to the call controls, select the ellipses icon […], select **Share**, and then select **Start Broadcast**.
 
 ![Screenshot of the Start broadcast window in Teams mobile.](media/calling-screen-sharing-5.JPG "Screenshot of the Start broadcast window in Teams mobile")
 
