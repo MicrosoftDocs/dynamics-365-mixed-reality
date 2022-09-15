@@ -8,7 +8,7 @@ The live video feed of the person sharing their screen is suspended in the Meeti
 
 You can use direct touch to move the shared screen around, and to size it. You can also interact with the screen by using your gaze cursor. This is particularly useful for situations where you want to move the window further away from you. 
 
-If the video feed is switched to another person on the call, that person's video feed is displayed in the Meeting window and the shared screen is suspended. A button appears in the live video feed that you can select to make the shared screen active again. 
+If the video feed is switched to another person on the call, that person's video feed is displayed in the Meeting window and the shared screen is suspended (turns gray). A button appears in the live video feed that you can select to make the shared screen active again. 
 
 ![Screenshot of Meeting window with new live feed and button that you can use to switch back to the shared screen.](media/calling-screen-sharing-2.JPG "Screenshot of Meeting window with new live feed and button that you can use to switch back to the shared screen")
 
