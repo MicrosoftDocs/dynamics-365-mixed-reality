@@ -98,9 +98,9 @@ When you're done annotating, do one of the following:
 
 -   Select the live video feed in the corner of your screen.
 
-### Make changes to your edits
+### Erase your annotations
 
-Use the following buttons to make changes to your edits:
+Use the following buttons to make changes to your edits>
 
 |Button|Description|
 |---------|----------------------------------------------------|
