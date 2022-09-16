@@ -19,9 +19,11 @@ You can share a OneDrive file or a local file with a Dynamics 365 Guides user. S
 
 Use one of the following methods to share a file:
 
-- In the **Mixed Reality** toolbar, select **Add file** to share a file from OneDrive or your computer. The file will be uploaded in your personal OneDrive and permissions to access that single file will be granted to all call participants. 
+- In the **Mixed Reality** toolbar, select **Add file** to share a file from OneDrive or your computer. 
 
-   ![Screenshot of Mixed Reality toolbar with Add file button highlighted.](media/calling-file-sharing-teams-desktop-mr-toolbar.JPG "SharePhoto")    
+   ![Screenshot of Mixed Reality toolbar with Add file button highlighted.](media/calling-file-sharing-teams-desktop-mr-toolbar.JPG "SharePhoto") 
+
+   The file will be uploaded in your personal OneDrive and permissions to access that single file will be granted to all call participants.    
 
 - In the Teams Chat window, select **Attach file** to share a file from OneDrive or your computer. 
 
