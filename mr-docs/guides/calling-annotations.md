@@ -48,7 +48,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
     
 ### Erase your annotations
 
-Use the following two buttons to erase your annotations
+Use the following buttons to erase your annotations
 
 |Button|Description|
 |---------|----------------------------------------------------|
@@ -100,7 +100,7 @@ When you're done annotating, do one of the following:
 
 ### Erase your annotations
 
-Use the following buttons to make changes to your edits>
+Use the following buttons to erase your annotations.
 
 |Button|Description|
 |---------|----------------------------------------------------|
