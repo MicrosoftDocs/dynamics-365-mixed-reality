@@ -52,7 +52,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 
 - To undo your most recent action, including the Erase all action, on the **Annotate** toolbar, select **Undo** (![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG)). 
 
-## Use Microsoft Teams desktop to annotate the Dynamics 365 Guides user's environment
+## Use Microsoft Teams (PC or Mac) to annotate the Dynamics 365 Guides user's environment
 
 When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides collaborator’s space, including holograms, and can use the **Mixed Reality** toolbar in Teams to add annotations.
 
@@ -121,7 +121,7 @@ The **Mixed Reality** toolbar appears by default whenever you join a new call wi
 
 To restore the toolbar, select the **MR Toolbar** button again. 
 
-## Use Microsoft Teams mobile to annotate the Dynamics 365 Guides user's environment 
+## Use Teams mobile to annotate the Dynamics 365 Guides user's environment 
 
 To add an annotation, select the **Ink button** (![Screenshot of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)).
 The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed Reality toolbar**. 
