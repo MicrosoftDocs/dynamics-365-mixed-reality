@@ -48,9 +48,9 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
     
 ### Erase your annotations
 
-- To erase all drawings, on the **Annotate** toolbar, select **Erase all** (![Screenshot of Erase all button.](media/calling-annotations-teams-erase-all-button.JPG)).
+- To erase all drawings, on the **Annotate** toolbar, select **Erase all** ![Screenshot of Erase all button.](media/calling-annotations-teams-erase-all-button.JPG).
 
-- To undo your most recent action, including the Erase all action, on the **Annotate** toolbar, select **Undo** (![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG)). 
+- To undo your most recent action, including the Erase all action, on the **Annotate** toolbar, select **Undo** ![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG). 
 
 ## Use Microsoft Teams (PC or Mac) to annotate the Dynamics 365 Guides user's environment
 
