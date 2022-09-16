@@ -135,7 +135,7 @@ The following table describes the buttons in the **Mixed Reality** toolbar.
 |![Graphic of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
 |![Graphic of the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
 |![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)|Undo your last action in edit mode or undo the most recent annotation you added.|
-|![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)|To delete all annotations that you added, select the **Erase all** button, and then select **Delete All Notes**. To delete only the annotations you added recently, select the **Erase all** button, and then select **Clear Current Notes**. This does not clear the annotations your collaborator added.
+|![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)|To delete all annotations that you added, select this button, and then select **Delete All Notes**. To delete only the annotations you added recently, select this button, and then select **Clear Current Notes**. This does not clear the annotations your collaborator added.
 
 When you’re done adding annotations, select the **Checkmark** button on the **Mixed Reality** toolbar to resume the live video feed. All annotations will persist even after you stop editing. 
 
