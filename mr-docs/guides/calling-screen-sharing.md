@@ -6,7 +6,7 @@ A remote collaborator on Microsoft Teams (PC, Mac, or mobile) might want to shar
 
 - **When to share a desktop or application window**. To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can share their desktop or application window. 
 
-This article shows how to share a file, or a desktop or application window, with a Dynamics 365 Guides user. The article also describes the behavior of the shared file or screen. 
+This article shows how to share a file or a desktop or application window with a Dynamics 365 Guides user. The article also describes the behavior of the shared file or screen. 
 
 > [!NOTE]
 > Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
