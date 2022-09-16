@@ -129,11 +129,10 @@ The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed
 ![Screenshot of the Mixed Reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
 
 The following table describes the buttons in the **Mixed Reality** toolbar.
-
 |Button|Description|
 |---------|----------------------------------------------------|
 |![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-arrow-button.JPG)| Add an arrow. To draw an arrow tap where you want to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it's facing the desired direction. Release to lock the arrow in place.|
-|![Graphic of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)|Draw|
+|![Graphic of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
 |![Graphic of the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the color of arrow or ink.|
 |![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)|Undo your last action in edit mode or undo the most recent annotation you added.|
 |![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)|To delete all annotations that you added, select the **Erase all** button, and then select **Delete All Notes**. To delete only the annotations you added recently, select the **Erase all** button, and then select **Clear Current Notes**. This does not clear the annotations your collaborator added.
