@@ -97,9 +97,9 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
     ![Screenshot of the Start broadcast window in Teams mobile.](media/calling-screen-sharing-5.JPG "Screenshot of the Start broadcast window in Teams mobile")
 
-    After a few seconds, a live view of your screen will be displayed as a new window in the Dynamics 365 Guides HoloLens user’s environment. 
+    After a few seconds, a live view of your screen will be displayed as a new window in the Dynamics 365 Guides user’s environment. 
 
-    The shared screen and the live video feed follow the behavior described earlier in this article.
+    The shared screen and the live video feed follow the behavior described below.
 
 ## Work with a shared screen 
 
