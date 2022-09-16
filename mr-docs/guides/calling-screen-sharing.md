@@ -74,9 +74,9 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
     The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
-## Use Teams (PC or Mac) to share your desktop or a running application with a Dynamics 365 Guides user on HoloLens
+## Use Teams (PC or Mac) to share a screen with a Dynamics 365 Guides user on HoloLens
 
-1. Select **Share**.
+1. To share a screen of your desktop or a running application, select **Share**.
 
    ![Screenshot of the share tray button.](media/calling-screen-sharing-4.JPG "Screenshot of the Share tray button")
    
