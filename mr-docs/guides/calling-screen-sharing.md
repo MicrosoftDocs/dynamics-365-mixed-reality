@@ -39,7 +39,7 @@ Use one of the following methods to share a file:
 
 - In the Teams Chat window, select **Attach file** to share a file from OneDrive or your computer. 
 
-When you share a file, it appears as a new window in the Dynamics 365 Guides HoloLens user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space.
+When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space.
 
 > [!Note]
 > After you share a file, you can't move, delete, or resize the file.
