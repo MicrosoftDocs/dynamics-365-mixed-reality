@@ -1,28 +1,54 @@
-# Screen screens or files in Dynamics 365 Guides on HoloLens
+# Share a file or screen with a Dynamics 365 Guides user on HoloLens
 
-A remote collaborator on Microsoft Teams (PC, Mac, or mobile) may want to share their desktop or application window with you when you're on a call in Dynamics 365 Guides on HoloLens. Sharing a desktop or application window is useful if the remote collaborator wants to communicate information that's not captured in a file type that's supported by the file-sharing feature (.jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.). For example, the remote collaborator might want to share an instructional video playing in their browser, or a series of instructions embedded in a PowerPoint presentation. 
+A remote collaborator on Microsoft Teams (PC, Mac, or mobile) might want to share a file or their desktop or application window when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a PDF of a diagram to assist with a call.
 
-## Use Dynamics 365 Guides to view and work with a remote collaborator's shared screen 
+**When to share a file**. The remote collaborator can share a file for the following file types: .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.
 
-When a remote collaborator shares their screen with you, the screen automatically appears as a new window in your Dynamics 365 Guides environment.
+**When to share a desktop or application window**. To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can share their desktop or application window. 
 
-![Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens.](media/calling-screen-sharing-1.JPG "Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens")
+This article shows how to share a file, or a desktop or application window, with a Dynamics 365 Guides user. The article also describes the behavior of the shared file or screen. 
 
-The live video feed of the person sharing their screen is suspended in the Meeting window in this case. The video feed and the shared screen cannot both be on at the same time.
+> [!NOTE]
+> Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
+> - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
+> - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
 
-You can use direct touch to move the shared screen around, and to size it. You can also interact with the screen by using your gaze cursor. Using the gaze cursor is particularly useful for situations where you want to move the window further away from you. 
+## Use Teams (PC or Mac) to share a file with a Dynamics 365 Guides user on HoloLens
 
-If the video feed is switched to another person on the call while a screen is being shared, that person's video feed is displayed in the Meeting window and the shared screen is suspended (turns gray). A button appears on the suspended screen that you can select to make the shared screen active again. 
+You can share a OneDrive file or local file with a Dynamics 365 Guides user. Supported files include .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.  
 
-![Screenshot of a suspended shared screen with button highlighted.](media/calling-screen-sharing-3.JPG "Screenshot of a suspended shared screen with button highlighted")
+Use one of the following methods to share a file:
 
-You can also make the shared screen active by selecting a similar button in the live video feed in the Meeting window. 
+- In the **Mixed Reality** toolbar, select **Add file** (![Graphic showing the insert files icon.](media/insert-document-button.png)) to share a file from OneDrive or your computer. The file will be uploaded in your personal OneDrive and permissions to access that single file will be granted to all call participants. 
 
-![Screenshot of Meeting window with new live feed and button that you can use to switch back to the shared screen.](media/calling-screen-sharing-2.JPG "Screenshot of Meeting window with new live feed and button that you can use to switch back to the shared screen")
+- In the Teams Chat window, select **Attach file** to share a file from OneDrive or your computer. 
 
-If you make the shared screen active by using either of these buttons, the video feed for the person displayed in the Meeting window is suspended again. 
+When you share a file, it appears as a new window in the Dynamics 365 Guides HoloLens user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space.
 
-If the person who shared their screen stops sharing, the shared screen disappears, and the video feed for the person sharing their screen appears in the Meeting window again. 
+> [!Note]
+> After you share a file, you can't move, delete, or resize the file.
+
+## Use Teams mobile to share a file with a Dynamics 365 Guides user on HoloLens
+
+### Share a OneDrive file 
+
+- In the call controls, select the **More info** button […], select **Insert Files**, and then select whether to insert the file from OneDrive or from a team or channel. You can insert an image, still gif, video, or PDF.
+
+The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
+
+### Share a photo from your phone 
+
+1. Go to the call controls, select the **More info** button […], select **Insert Files**, and then select **Photo**. 
+
+2. Take a photo or select a photo from your mobile device’s photo gallery. 
+
+3. Select the text chat. The photo is attached to a blank message. 
+
+4. Send the photo.
+
+![Screenshot of the photo option in Teams mobile.](media/TeamsMobile_SharePhoto.png "SharePhoto")
+
+The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
 ## Use Microsoft Teams (PC or Mac) to share your desktop or a running application with a Dynamics 365 Guides user on HoloLens
 
@@ -47,27 +73,25 @@ If the person who shared their screen stops sharing, the shared screen disappear
 
     The shared screen and the live video feed follow the behavior described earlier in this article.
 
-## Use Microsoft Teams (PC or Mac) to share a file with a Dynamics 365 Guides user on HoloLens  
+## Use Dynamics 365 Guides to view and work with a remote collaborator's shared screen 
 
-You can share a OneDrive file or local file with a Dynamics 365 Guides user. Supported files include .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.  
+When a remote collaborator shares their screen with you, the screen automatically appears as a new window in your Dynamics 365 Guides environment.
 
->[!NOTE] 
-> To share a file that isn't supported (for example, show a video and control when it plays and pauses, or show a PowerPoint presentation and control which slide the Dynamics 365 Remote Assist HoloLens user sees), share your desktop or application window as described earlier in this article. 
+![Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens.](media/calling-screen-sharing-1.JPG "Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens")
 
-### Share a file 
+The live video feed of the person sharing their screen is suspended in the Meeting window in this case. The video feed and the shared screen cannot both be on at the same time.
 
-> [!NOTE]
-> Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
-> - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
-> - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
+You can use direct touch to move the shared screen around, and to size it. You can also interact with the screen by using your gaze cursor. Using the gaze cursor is particularly useful for situations where you want to move the window further away from you. 
 
-Use one of the following methods to share a file:
+If the video feed is switched to another person on the call while a screen is being shared, that person's video feed is displayed in the Meeting window and the shared screen is suspended (turns gray). A button appears on the suspended screen that you can select to make the shared screen active again. 
 
-- In the Mixed Reality toolbar, select **Add file** (![Graphic showing the insert files icon.](media/insert-document-button.png)) to share a file from OneDrive or your computer. The file will be uploaded in your personal OneDrive and permissions to access that single file will be granted to all call participants. 
+![Screenshot of a suspended shared screen with button highlighted.](media/calling-screen-sharing-3.JPG "Screenshot of a suspended shared screen with button highlighted")
 
-- From the Teams chat, select **Attach file** to share a file from OneDrive or your computer. 
+You can also make the shared screen active by selecting a similar button in the live video feed in the Meeting window. 
 
-When you share a file, it appears as a new window in the Dynamics 365 Guides HoloLens user's space and a link to the file is shared in the chat. All call participants can annotate a file displayed in the Dynamics 365 Guides user's space.
+![Screenshot of Meeting window with new live feed and button that you can use to switch back to the shared screen.](media/calling-screen-sharing-2.JPG "Screenshot of Meeting window with new live feed and button that you can use to switch back to the shared screen")
 
-> [!Note]
-> After you share a file, you can't move, delete, or resize the file.
+If you make the shared screen active by using either of these buttons, the video feed for the person displayed in the Meeting window is suspended again. 
+
+If the person who shared their screen stops sharing, the shared screen disappears, and the video feed for the person sharing their screen appears in the Meeting window again. 
+
