@@ -27,17 +27,17 @@ This article shows how to share a file or screen with a Dynamics 365 Guides user
 
 ## Use Teams (PC or Mac) to share a file with a Dynamics 365 Guides user on HoloLens
 
-You can share a OneDrive file or a local file with a Dynamics 365 Guides user.   
+You can share a OneDrive for Business file or a local file with a Dynamics 365 Guides user. Dynamics 365 Guides does not support sharing from a shared SharePoint site.   
 
 Use one of the following methods to share a file:
 
-- In the **Mixed Reality** toolbar, select **Add file** to share a file from OneDrive or your computer. 
+- In the **Mixed Reality** toolbar, select **Add file** to share a file from OneDrive for Business or your computer. 
 
    ![Screenshot of Mixed Reality toolbar with Add file button highlighted.](media/calling-file-sharing-teams-desktop-mr-toolbar.JPG "SharePhoto") 
 
-   The file will be uploaded in your personal OneDrive and permissions to access that single file will be granted to all call participants.    
+   The file will be uploaded to your OneDrive for Business folder and permissions to access that single file will be granted to all call participants.    
 
-- In the Teams Chat window, select **Attach file** to share a file from OneDrive or your computer. 
+- In the Teams Chat window, select **Attach file** to share a file from OneDrive for Business or your computer. 
 
 When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space.
 
@@ -46,15 +46,18 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 ## Use Teams mobile to share a file with a Dynamics 365 Guides user on HoloLens
 
-### Share a OneDrive file 
+### Share a OneDrive for Business file 
+
+> [!NOTE]
+> Dynamics 365 Guides does not support sharing from a shared SharePoint site.   
 
 1. In the call controls, select the **More info** button […].
 
     ![Screenshot of Call controls with More info button highlighted.](media/calling-file-sharing-mobile-call-controls.JPG "SharePhoto")
 
-2. Select **Insert file**, and then select whether to insert the file from OneDrive or from a Teams team or channel. You can insert an image, still gif, video, or .pdf file.
+2. Select **Insert file**, and then select whether to insert the file from OneDrive for Business or from a Teams team or channel. You can insert an image, still gif, video, or .pdf file.
 
-    The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
+    The file is uploaded to OneDrive for Business and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive for Business folder by selecting the **OneDrive** button in the upper-right corner of the window. The file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
 ### Share a photo from your phone 
 
@@ -72,7 +75,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 5. Send the photo.    
 
-    The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
+    The file is uploaded to OneDrive for Business and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive for Business folder by selecting the **OneDrive** button in the upper-right corner of the window. The file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
 ## Use Teams (PC or Mac) to share a screen with a Dynamics 365 Guides user on HoloLens
 
