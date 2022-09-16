@@ -128,7 +128,7 @@ The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed
 
 ![Screenshot of the Mixed Reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
 
-The following table describes the button in the **Mixed Reality** toolbar.
+The following table describes the buttons in the **Mixed Reality** toolbar.
 
 |Button|Description|
 |---------|----------------------------------------------------|
