@@ -101,7 +101,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
     The shared screen and the live video feed follow the behavior described below.
 
-## Work with a shared screen 
+## Work with a shared screen in Dynamics 365 Guides on HoloLens
 
 When a remote collaborator shares their screen, the screen automatically appears as a new window in the Dynamics 365 Guides user's environment.
 
