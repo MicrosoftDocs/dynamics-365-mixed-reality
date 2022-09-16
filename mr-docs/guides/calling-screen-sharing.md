@@ -34,23 +34,27 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides Hol
 
 1. In the call controls, select the **More info** button […].
 
-    ![Screenshot of the Call controls with More info button highlighted.](media/calling-file-sharing-mobile-call-controls.JPG "SharePhoto")
+    ![Screenshot of Call controls with More info button highlighted.](media/calling-file-sharing-mobile-call-controls.JPG "SharePhoto")
 
-- select **Insert file**, and then select whether to insert the file from OneDrive or from a team or channel. You can insert an image, still gif, video, or PDF.
+2. Select **Insert file**, and then select whether to insert the file from OneDrive or from a Teams team or channel. You can insert an image, still gif, video, or PDF.
 
     The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
 ### Share a photo from your phone 
 
-1. Go to the call controls, select the **More info** button […], select **Insert file**, and then select **Photo**. 
+1. In the call controls, select the **More info** button […].
 
-2. Take a photo or select a photo from your mobile device’s photo gallery. 
+    ![Screenshot of Call controls with More info button highlighted.](media/calling-file-sharing-mobile-call-controls.JPG "SharePhoto")
 
-3. Select the text chat. The photo is attached to a blank message. 
+2. Select **Insert file**, and then select **Photo**. 
 
-4. Send the photo.
+3. Take a photo or select a photo from your mobile device’s photo gallery. 
 
     ![Screenshot of the photo option in Teams mobile.](media/calling-file-sharing-photo-teams-mobile.JPG "SharePhoto")
+
+4. Select the text chat. The photo is attached to a blank message. 
+
+5. Send the photo.    
 
     The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
