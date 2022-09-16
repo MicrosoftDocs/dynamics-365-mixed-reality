@@ -132,15 +132,15 @@
 ##### [Work offline](operator-offline-mode.md)
 
 ### Calling in the HoloLens app
-#### [Calling overview](calling-overview.md)
+#### [Overview](calling-overview.md)
+#### [Join a meeting](calling-meetings.md)
 #### [Add people to a call](calling-add-people.md)
 #### [Mute or remove a caller](calling-mute-remove.md)
-#### [Join a meeting](calling-meetings.md)
 #### [Start a chat](calling-chat-file-sharing.md)
-#### [Recording](calling-record-call.md)
+#### [Record a call](calling-record-call.md)
 #### [Screen and file sharing](calling-screen-sharing.md)
 #### [Annotations](calling-annotations.md)
-#### [Reducing HoloLens temperature](calling-hololens-thermal-adjusting.md)
+#### [Reduce HoloLens temperature](calling-hololens-thermal-adjusting.md)
 
 ### [Files](hololens-app-files.md)
 ### Gestures
