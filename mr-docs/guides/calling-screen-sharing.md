@@ -10,22 +10,24 @@ ms.reviewer: v-bholmes
 
 # Share a file or screen with a Dynamics 365 Guides user on HoloLens
 
-A remote collaborator on Microsoft Teams (PC, Mac, or mobile) might want to share a file or their desktop or application window when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a PDF of a diagram to assist with a call.
+A remote collaborator on Microsoft Teams (PC, Mac, or mobile) can share a file or their screen when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a PDF of a diagram to help the Dynamics 365 Guides user resolve a problem.
 
-- **When to share a file**. The remote collaborator can share a file for the following file types: .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.
+- **When to share a file**. The remote collaborator can share a file for the following file types: .JPG, .BMP, .PNG, .TIF/.TIFF, .PDF, still .GIF.
 
 - **When to share a desktop or application window**. To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can share their desktop or application window. 
 
-This article shows how to share a file or a desktop or application window with a Dynamics 365 Guides user. The article also describes the behavior of the shared file or screen. 
+This article shows how to share a file or screen with a Dynamics 365 Guides user. The article also describes the behavior of a shared screen. 
 
 > [!NOTE]
 > Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
+>
 > - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
+>
 > - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
 
 ## Use Teams (PC or Mac) to share a file with a Dynamics 365 Guides user on HoloLens
 
-You can share a OneDrive file or a local file with a Dynamics 365 Guides user. Supported files include .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.  
+You can share a OneDrive file or a local file with a Dynamics 365 Guides user.   
 
 Use one of the following methods to share a file:
 
