@@ -89,7 +89,11 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 ## Use Microsoft Teams mobile to share your screen with a Dynamics 365 Guides user on HoloLens
 
-- Go to the call controls, select the **More info** button […], select **Share**, and then select **Start Broadcast**.
+1. Go to the call controls, and then select the **More info** button […].
+
+    ![Screenshot of Call controls with More info button highlighted.](media/calling-file-sharing-mobile-call-controls.JPG "Screenshot of Call controls with More info button highlighted")
+
+2. Select **Share**, and then select **Start Broadcast**.
 
     ![Screenshot of the Start broadcast window in Teams mobile.](media/calling-screen-sharing-5.JPG "Screenshot of the Start broadcast window in Teams mobile")
 
