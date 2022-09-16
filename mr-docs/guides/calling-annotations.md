@@ -10,9 +10,9 @@ ms.reviewer: v-bholmes
 
 # Work with annotations in Dynamics 365 Guides on HoloLens
 
-If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams desktop, Teams mobile, or Dynamics 365 Remote Assist mobile, you and your remote collaborator(s) can annotate your shared environment. Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it (or if the person who added the annotation leaves the call). Adding annotations to files works the same way.
+If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams (PC, Mac, or mobile) or Dynamics 365 Remote Assist mobile, you and your remote collaborator(s) can annotate your shared environment. Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it (or if the person who added the annotation leaves the call). Adding annotations to files works the same way.
 
-Any user on Teams (PC, Mac, or mobile) or Dynamics 365 Remote Assist mobile can annotate the environment of the Dynamics 365 Guides user on HoloLens. Teams mobile users can annotate only in one-to-one calls, however, not group calls. Annotations are not supported for users on Teams Web. 
+Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate the environment of the Dynamics 365 Guides user on HoloLens in a one-to-one or group call. Teams mobile users can also annotate, but only for one-to-one calls. Annotations are not supported for users on Teams Web. 
 
 > [!NOTE]
 > To use annotations, you must enable the appropriate permissions in Dynamics 365 Guides. [Learn more](hololens-permissions.md)
