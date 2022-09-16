@@ -1,3 +1,13 @@
+---
+title: 
+author: 
+description: 
+ms.author: 
+ms.date: 10/04/2022
+ms.topic: article
+ms.reviewer: v-bholmes
+---
+
 # Share a file or screen with a Dynamics 365 Guides user on HoloLens
 
 A remote collaborator on Microsoft Teams (PC, Mac, or mobile) might want to share a file or their desktop or application window when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a PDF of a diagram to assist with a call.
