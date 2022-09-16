@@ -10,9 +10,9 @@ ms.reviewer: v-bholmes
 
 # Share a file or screen with a Dynamics 365 Guides user on HoloLens
 
-A remote collaborator on Microsoft Teams (PC, Mac, or mobile) can share a file or their screen when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a PDF of a diagram to help the Dynamics 365 Guides user resolve a problem.
+A remote collaborator on Microsoft Teams (PC, Mac, or mobile) can share a file or their screen when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a .pdf file of a diagram to help the Dynamics 365 Guides user resolve a problem.
 
-- **When to share a file**. The remote collaborator can share a file for the following file types: .JPG, .BMP, .PNG, .TIF/.TIFF, .PDF, still .GIF.
+- **When to share a file**. The remote collaborator can share a file for the following file types: .jpg, .bmp, .png, .tif/.tiff, .pdf, still gif.
 
 - **When to share a desktop or application window**. To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can share their desktop or application window. 
 
@@ -52,7 +52,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
     ![Screenshot of Call controls with More info button highlighted.](media/calling-file-sharing-mobile-call-controls.JPG "SharePhoto")
 
-2. Select **Insert file**, and then select whether to insert the file from OneDrive or from a Teams team or channel. You can insert an image, still gif, video, or PDF.
+2. Select **Insert file**, and then select whether to insert the file from OneDrive or from a Teams team or channel. You can insert an image, still gif, video, or .pdf.
 
     The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
