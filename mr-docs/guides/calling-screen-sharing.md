@@ -85,7 +85,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
     > [!Note]
     > You can share one application window or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
 
-    The shared screen and the live video feed follow the behavior described earlier in this article.
+    The shared screen and the live video feed follow the behavior described later in this article.
 
 ## Use Microsoft Teams mobile to share your screen with a Dynamics 365 Guides user on HoloLens
 
