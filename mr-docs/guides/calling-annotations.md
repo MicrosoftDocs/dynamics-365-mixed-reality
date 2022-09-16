@@ -100,13 +100,12 @@ When you're done annotating, do one of the following:
 
 ### Make changes to your edits
 
-To make changes to your edits:
+Use the following buttons to make changes to your edits:
 
-- In edit mode, select **Undo** ![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG) to undo the last action.
-
-- In edit mode, select **Erase all** ![Graphic showing the Erase button, which looks like a trashcan.](media/calling-annotations-teams-erase-all-button.JPG) to erase all of the annotations made during that editing session.
-
-- In live mode, select **Erase all** ![Graphic showing the Erase button, which looks like a trashcan.](media/calling-annotations-teams-erase-all-button.JPG) to erase all of the annotations made during that call.
+|Button|Description|
+|---------|----------------------------------------------------|
+|![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)|In edit mode, undo the last action.|
+|![Graphic showing the Erase button, which looks like a trashcan.](media/calling-annotations-teams-erase-all-button.JPG)|If you're in edit mode, erase all of the annotations made during that editing session. In you're in live mode, erase all of the annotations made during that call.
 
 > [!Note]
 > - Specific drawings or arrows can’t be removed.
