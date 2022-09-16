@@ -138,7 +138,7 @@
 #### [Join a meeting](calling-meetings.md)
 #### [Start a chat](calling-chat-file-sharing.md)
 #### [Recording](calling-record-call.md)
-#### [Screen sharing](calling-screen-sharing.md)
+#### [Screen and file sharing](calling-screen-sharing.md)
 #### [Annotations](calling-annotations.md)
 #### [Reducing HoloLens temperature](calling-hololens-thermal-adjusting.md)
 
