@@ -54,7 +54,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 2. Select **Insert file**, and then select whether to insert the file from OneDrive or from a Teams team or channel. You can insert an image, still gif, video, or .pdf file.
 
-    The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
+    The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
 ### Share a photo from your phone 
 
@@ -72,7 +72,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 5. Send the photo.    
 
-    The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
+    The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
 ## Use Teams (PC or Mac) to share your desktop or a running application with a Dynamics 365 Guides user on HoloLens
 
