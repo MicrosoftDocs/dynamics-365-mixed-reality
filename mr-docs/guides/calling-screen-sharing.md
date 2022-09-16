@@ -15,11 +15,13 @@ This article shows how to share a file or a desktop or application window with a
 
 ## Use Teams (PC or Mac) to share a file with a Dynamics 365 Guides user on HoloLens
 
-You can share a OneDrive file or local file with a Dynamics 365 Guides user. Supported files include .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.  
+You can share a OneDrive file or a local file with a Dynamics 365 Guides user. Supported files include .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.  
 
 Use one of the following methods to share a file:
 
 - In the **Mixed Reality** toolbar, select **Add file** (![Graphic showing the insert files icon.](media/insert-document-button.png)) to share a file from OneDrive or your computer. The file will be uploaded in your personal OneDrive and permissions to access that single file will be granted to all call participants. 
+
+   ![Screenshot of Mixed Reality toolbar with Add file button highlighted.](media/calling-file-sharing-teams-desktop-mr-toolbar.JPG "SharePhoto")    
 
 - In the Teams Chat window, select **Attach file** to share a file from OneDrive or your computer. 
 
@@ -58,7 +60,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides Hol
 
     The file is uploaded to OneDrive and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive by selecting the **OneDrive** button in the upper-right corner of the window. The OneDrive file is saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
-## Use Microsoft Teams (PC or Mac) to share your desktop or a running application with a Dynamics 365 Guides user on HoloLens
+## Use Teams (PC or Mac) to share your desktop or a running application with a Dynamics 365 Guides user on HoloLens
 
 1. Select **Share**.
 
@@ -81,9 +83,9 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides Hol
 
     The shared screen and the live video feed follow the behavior described earlier in this article.
 
-## Use Dynamics 365 Guides to view and work with a remote collaborator's shared screen 
+## Work with a shared screen 
 
-When a remote collaborator shares their screen with you, the screen automatically appears as a new window in your Dynamics 365 Guides environment.
+When a remote collaborator shares their screen, the screen automatically appears as a new window in the Dynamics 365 Guides user's environment.
 
 ![Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens.](media/calling-screen-sharing-1.JPG "Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens")
 
