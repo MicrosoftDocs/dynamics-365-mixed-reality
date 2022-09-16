@@ -39,6 +39,8 @@ Use one of the following methods to share a file:
 
 - In the Teams Chat window, select **Attach file** to share a file from OneDrive for Business or your computer. 
 
+- Paste the file into the Chat window.
+
 When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space.
 
 > [!Note]
