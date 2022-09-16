@@ -142,12 +142,11 @@
 #### [Annotations](calling-annotations.md)
 #### [Reduce HoloLens temperature](calling-hololens-thermal-adjusting.md)
 
-### [Files](hololens-app-files.md)
 ### Gestures
 #### [Author gestures](authoring-gestures-HL2.md)
 #### [Operator gestures](operator-gestures-HL2.md)
 ### [Voice commands](voice-commands.md)
-### [Have HoloLens narrate instructions](operator-narrator.md)
+### [Narrate instructions](operator-narrator.md)
 ### [Settings](change-setting.md)
 
 ## Analyze your guides
