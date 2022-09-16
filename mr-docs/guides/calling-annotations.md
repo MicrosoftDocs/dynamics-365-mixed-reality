@@ -48,9 +48,12 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
     
 ### Erase your annotations
 
-- To erase all drawings, on the **Annotate** toolbar, select **Erase all** ![Screenshot of Erase all button.](media/calling-annotations-teams-erase-all-button.JPG).
+Use the following two buttons to erase your annotations
 
-- To undo your most recent action, including the Erase all action, on the **Annotate** toolbar, select **Undo** ![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG). 
+|Button|Description|
+|---------|----------------------------------------------------|
+|![Screenshot of Erase all button.](media/calling-annotations-teams-erase-all-button.JPG)|Erase all drawings.|
+|![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG)|Undo your most recent action, including the Erase all action. 
 
 ## Use Microsoft Teams (PC or Mac) to annotate the Dynamics 365 Guides user's environment
 
@@ -129,6 +132,7 @@ The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed
 ![Screenshot of the Mixed Reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
 
 The following table describes the buttons in the **Mixed Reality** toolbar.
+
 |Button|Description|
 |---------|----------------------------------------------------|
 |![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-arrow-button.JPG)| Add an arrow. To add an arrow, tap where you want to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it's facing the desired direction. Release to lock the arrow in place.|
