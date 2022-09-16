@@ -80,7 +80,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
    ![Screenshot of the share tray button.](media/calling-screen-sharing-4.JPG "Screenshot of the Share tray button")
    
-2. Select the application window you want to share, or share your screen. 
+2. Select the application window you want to share, or share your desktop screen. 
 
     > [!Note]
     > You can share one application window or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
