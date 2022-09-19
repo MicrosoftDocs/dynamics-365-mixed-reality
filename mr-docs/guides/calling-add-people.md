@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Start a call in Dynamics 365 Guides on HoloLens 
 
-With Microsoft Dynamics 365 Guides, you can have the following types of calls:  
+The following types of calls are available in Microsoft Dynamics 365 Guides:  
 
 - **One-to-one call**. A one-to-one call includes two participants. For example, if you're repairing a machine and need help on-the-go, you can start a one-to-one call with a remote collaborator on Microsoft Teams or Dynamics 365 Remote Assist.
 
