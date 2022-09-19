@@ -48,9 +48,7 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
     ![XXX.](media/calling-start-call-2.JPG "XXX")
 
    You'll see the contact's video feed. The green indicator to the lower left of the video feed shows that you're on a call with that contact. This is useful if you select a different activity such as opening a guide or file. 
-
-    ![XXX.](media/calling-start-call-3.JPG "XXX")
-    
+       
 ### Start a one-to-one call with a Teams user outside your organization
 
 You can search, call, and receive a call from a Teams user in another organization if your organization is federated with that tenant. To call a federated user, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Mic** button if you prefer to use your voice). You won't see any search results if you enter just a name or a partial email address. 
