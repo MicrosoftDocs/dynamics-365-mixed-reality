@@ -41,15 +41,15 @@ With Dynamics 365 Guides on HoloLens, you can collaborate with:
         
 2. Select the contact that you want to call.
 
-    ![XXX.](media/calling-start-call- .JPG "XXX")
+    ![XXX.](media/calling-start-call-1.JPG "XXX")
     
-3. In the person's contact card, select the **Phone** button. 
+3. In the Call window that appears, select the **Phone** button. 
 
-    ![XXX.](media/calling-start-call- .JPG "XXX")
+    ![XXX.](media/calling-start-call-2.JPG "XXX")
 
    You'll see the contact's video feed. The green indicator to the lower left of the video feed shows that you're on a call with that contact. This is useful if you select a different activity such as opening a guide or file. 
 
-    ![XXX.](media/calling-start-call- .JPG "XXX")
+    ![XXX.](media/calling-start-call-3.JPG "XXX")
     
 ### Make a one-to-one call to a Teams user outside your organization
 
@@ -81,9 +81,9 @@ You can combine HoloLens users with Teams users in different combinations:
 
 1. Start by calling one person as described above, and then select the **Open Participants** button (or say "Guides, Open Participants).
 
-    ![XXX.](media/calling-start-call- .JPG "XXX")
+    ![XXX.](media/calling-start-call-4.JPG "XXX")
 
-    You'll see the tile for the first person you called on the right side of the Meeting window. 
+    You'll see the tile for the first person you called on the right side of the video feed. 
     
 2. Select the **Participants** button in the Participants area to display a list of recent contacts.
 
@@ -128,18 +128,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 ### Accept a call
 
-You can do any of the following when you receive a call:
-
-- Select **Video** (or say "Guides, Video") to accept the call as a video call.
-
-- Select **Audio** (or say "Guides, Audio") to accept the call as a voice-only call. 
-
-- Select **Ignore** (or say "Guides, Ignore") to decline the call.
-
-If you join the call, remote collaborators will be able to see what you see in your space, including holograms.
-
-> [!Note]
-> In you're using another HoloLens app, you can have Dynamics 365 Guides run in the background to receive any incoming calls. To do this, first open Dynamics 365 Guides. Then use the Start gesture to go to the **Start** menu and select another app to use. You'll get a notification if a Dynamics 365 Guides call comes in, and you'll be able to select **Accept** to initiate an audio call, **Video** to initiate a video call, or **Ignore** to ignore the call.
+At this time, you can't accept a call from a Teams or Dynamics 365 Remote Assist user in Dynamics 365 Guides. You must initiate the call from Dynamics 365 Guides. 
 
 ### End a call
 
