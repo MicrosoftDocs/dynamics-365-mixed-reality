@@ -131,10 +131,9 @@
 ##### [Turn off holograms](operator-holograms-off.md)
 ##### [Work offline](operator-offline-mode.md)
 
-### Calling in the HoloLens app
-#### [Overview](calling-overview.md)
-#### [Join a meeting](calling-meetings.md)
-#### [Add people to a call](calling-add-people.md)
+### Collaborate on a call in the HoloLens app
+#### [Start a call](calling-add-people.md)
+#### [Join a scheduled meeting](calling-meetings.md)
 #### [Start a chat](calling-chat-file-sharing.md)
 #### [Record a call](calling-record-call.md)
 #### [Screen and file sharing](calling-screen-sharing.md)
