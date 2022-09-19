@@ -31,7 +31,7 @@ With Dynamics 365 Guides on HoloLens, you can collaborate with:
 > [!NOTE]
 > The mixed-reality toolbar will not appear if the Dynamics 365 Guides user joins the call from two different devices.
 
-## Start or receive a call in Dynamics 365 Guides
+## Start a call in Dynamics 365 Guides
 
 ### Make a one-to-one call to a contact in your organization 
 
