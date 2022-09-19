@@ -31,7 +31,9 @@ With Dynamics 365 Guides on HoloLens, you can collaborate with:
 > [!NOTE]
 > The mixed-reality toolbar will not appear if the Dynamics 365 Guides user joins the call from two different devices.
 
-## Make a one-to-one call to a contact in your organization from Dynamics 365 Guides
+## Start or receive a call in Dynamics 365 Guides
+
+### Make a one-to-one call to a contact in your organization 
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Communications** button.
 
@@ -49,7 +51,7 @@ With Dynamics 365 Guides on HoloLens, you can collaborate with:
 
     ![XXX.](media/calling-start-call- .JPG "XXX")
     
-## Make a one-to-one call to a Teams user outside your organization
+### Make a one-to-one call to a Teams user outside your organization
 
 You can search, call, and receive a call from a Teams user in another organization if your organization is federated with that tenant. To call a federated user, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Mic** button if you prefer to use your voice). You won't see any search results if you enter just a name or a partial email address. 
 
@@ -58,7 +60,7 @@ After you call a federated contact, they will appear in your recent contacts lis
 >[!Note]
 > If you can't find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access#:~:text=Enable%20your%20Organization%20to%20Communicate%20with%20another%20Teams,your%20organization%2C%20skip%20to%20step%205.%20See%20More.)) has not been enabled. Contact your administrator for help.
 
-## Group calls in Dynamics 365 Guides 
+### Group calls in Dynamics 365 Guides 
 
 A group call can include a Dynamics 365 Guides user on HoloLens and a Teams desktop user (PC or Mac) or Dynamics 365 Remote Assist mobile user. 
 
@@ -75,7 +77,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 - Multiple Teams desktop users can annotate on the same HoloLens user's space at the same time.
 
-### Start a group call in Dynamics 365 Guides on HoloLens
+#### Start a group call 
 
 1. Start by calling one person as described above, and then select the **Open Participants** button (or say "Guides, Open Participants).
 
@@ -97,7 +99,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
       ![XXX.](media/calling-start-call- .JPG "XXX")
       
-### Mute a participant in a group call
+#### Mute a participant in a group call
 
 1. Select the **Open Participants** button or say "Guides, Open Participants." 
 
@@ -114,7 +116,7 @@ You can combine HoloLens users with Teams users in different combinations:
 > [!Note]
 > If the call includes a large number of participants, you might experience performance issues, such as delays in viewing annotations and lower video resolution. [Learn more about the number of participants that can join a Microsoft Teams call](/microsoftteams/limits-specifications-teams#meetings-and-calls). 
 
-### Remote a participant in a group call
+#### Remove a participant in a group call
 
 1. Select the **Open Participants** button or say "Guides, Open Participants." 
 
@@ -124,7 +126,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
     ![XXX.](media/calling-start-call- .JPG "XXX")
 
-## Accept a call
+### Accept a call
 
 You can do any of the following when you receive a call:
 
@@ -139,12 +141,12 @@ If you join the call, remote collaborators will be able to see what you see in y
 > [!Note]
 > In you're using another HoloLens app, you can have Dynamics 365 Guides run in the background to receive any incoming calls. To do this, first open Dynamics 365 Guides. Then use the Start gesture to go to the **Start** menu and select another app to use. You'll get a notification if a Dynamics 365 Guides call comes in, and you'll be able to select **Accept** to initiate an audio call, **Video** to initiate a video call, or **Ignore** to ignore the call.
 
-## End a call
+### End a call
 
 - Select the **End Call** button or say "Guides, End Call."
 
    ![XXX.](media/calling-start-call- .JPG "XXX")
 
-## Adjust outgoing video quality if the HoloLens device gets too hot
+### Adjust outgoing video quality if the HoloLens device gets too hot
 
 If you're on a longer call in Dynamics 365 Guides on HoloLens, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Guides gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Guides adjusts video quality](calling-hololens-thermal-adjusting.md)
