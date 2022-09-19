@@ -8,7 +8,7 @@ ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
-# One-to-one and group calls in Dynamics 365 Guides on HoloLens 
+# Start a call in Dynamics 365 Guides on HoloLens 
 
 With Microsoft Dynamics 365 Guides, you can make or take the following types of calls:  
 
