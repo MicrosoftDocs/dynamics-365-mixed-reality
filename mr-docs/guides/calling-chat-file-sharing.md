@@ -30,9 +30,9 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
     
 4. If a remote expert on the call shares a file or sends a web link in the Chat window, select the link to open the file or page. 
 
-    ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.JPG "Screenshot showing example file shared with the user")
-
    The file or page opens in a new window. You can move this window wherever you want or size it directly with your hands. 
+
+   ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.JPG "Screenshot showing example file shared with the user")
    
    > [!NOTE]
    > A remote collaborator can share a file with a Dynamics 365 Guides user, but the Dynamics 365 Guides user cannot share a file with a remote collaborator.  
