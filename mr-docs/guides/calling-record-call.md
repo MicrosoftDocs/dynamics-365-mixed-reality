@@ -20,7 +20,7 @@ Read about the [layout for this type of call](#cloud-based-recording-layout) bef
 A cloud-based call recording can be initiated by the Dynamics 365 Guides Hololens user or the Teams user. 
 
 > [!NOTE]
-> You can record one-to-one calls in Dynamics 365 Guides. You can't record group calls or meetings at this time.  [Learn about prerequisites for Teams cloud meeting recordings and additional exceptions](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording) 
+> You can record one-to-one or group calls in Dynamics 365 Guides. [Learn about prerequisites for Teams cloud meeting recordings and additional exceptions](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording) 
 
 The recorder is the owner of the video. The owner needs to give permission or download the video to share the recording beyond people on the call. 
 
