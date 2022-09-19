@@ -55,7 +55,7 @@ Use the following buttons to erase your annotations
 |![Screenshot of Erase all button.](media/calling-annotations-teams-erase-all-button.JPG)|Erase all drawings.|
 |![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG)|Undo your most recent action, including the Erase all action. 
 
-## Use Microsoft Teams (PC or Mac) to annotate the Dynamics 365 Guides user's environment
+## Use Teams (PC or Mac) to annotate the Dynamics 365 Guides user's environment
 
 When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides collaborator’s space, including holograms, and can use the **Mixed Reality** toolbar in Teams to add annotations.
 
@@ -129,6 +129,9 @@ To add an annotation, select the **Ink button** ![Screenshot of the Ink button, 
 The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed Reality toolbar**. 
 
 ![Screenshot of the Mixed Reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
+
+> [!NOTE
+> You can only annotate in one-to-one calls with Teams mobile.
 
 The following table describes the buttons in the **Mixed Reality** toolbar.
 
