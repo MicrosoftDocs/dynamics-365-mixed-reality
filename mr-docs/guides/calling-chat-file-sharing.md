@@ -34,7 +34,6 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
 
    The file or page opens in a new window. You can move this window wherever you want or size it directly with your hands. 
    
-
-???Can the HL user initiate a chat or just receive a chat???
-
+   > [!NOTE]
+   > A remote collaborator can share a file with a Dynamics 365 Guides user, but the Dynamics 365 Guides user cannot share a file with a remote collaborator.  
 
