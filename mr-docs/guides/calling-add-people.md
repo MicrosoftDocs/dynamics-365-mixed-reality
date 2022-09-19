@@ -1,5 +1,3 @@
-REMOTE ASSIST CONTENT
-
 ---
 title: One-to-one and group calls in Dynamics 365 Guides on HoloLens 
 author: 
