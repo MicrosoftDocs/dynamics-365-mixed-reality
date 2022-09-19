@@ -25,7 +25,7 @@ This article shows how to share a file or screen with a Dynamics 365 Guides user
 >
 > - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
 
-## Use Teams (PC or Mac) to share a file 
+## Use Teams desktop (PC or Mac) to share a file 
 
 You can share a OneDrive for Business file or a local file with a Dynamics 365 Guides user. Dynamics 365 Guides does not support sharing from a shared SharePoint site.   
 
@@ -79,7 +79,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
     The file is uploaded to OneDrive for Business and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive for Business folder by selecting the **OneDrive** button in the upper-right corner of the window. The file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
-## Use Teams (PC or Mac) to share a screen 
+## Use Teams desktop (PC or Mac) to share a screen 
 
 1. To share a screen of your desktop or a running application, select **Share**.
 
