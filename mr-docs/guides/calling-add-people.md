@@ -18,7 +18,7 @@ With Microsoft Dynamics 365 Guides, you can make or take the following types of 
 
 - **Meeting**. A meeting is a scheduled call using Teams or Outlook. Meetings can include any number of participants. For example, if you want to have a weekly inspection with your team, you can create a meeting so that everyone receives notifications about the meeting and can join the meeting. [Learn more about joining a meeting in Dynamics 365 Guides](calling-meetings.md)
 
-## Supported scenarios
+## Who can you collaborate with?
 
 With Dynamics 365 Guides on HoloLens, you can collaborate with:
 
@@ -33,23 +33,12 @@ With Dynamics 365 Guides on HoloLens, you can collaborate with:
 
 ## Make a one-to-one call to a contact in your company from Dynamics 365 Guides
 
-1. When you open Dynamics 365 Remote Assist, you'll see your recent contacts list in the **Call** tab. To call one of the contacts you see, select the contact. If you don't see the contact you want, select **Search**, and then use the holographic keyboard to enter a name or email address. 
+1. Look at the palm of your hand to open the Main menu, and then select the **Communications** button.
 
-    ![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen.](media/02.00-contacts.png)
+    ![Screenshot of Communications button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Communications button on Main menu")
     
-    > [!NOTE]
-    > If your organization has enabled integration with Dynamics 365 Field Service, you can view and call the contact assigned to your Field Service booking. Select the Dynamics 365 Field Service icon (or say, "Remote Assist, Dynamics"), go to your instance and booking, and then select the **Support Contact** listed.
-    >
-    > ![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/07.01-dynamics-booking.png)
-    
-2. You may see the following screen that you can use to select an environment to store the call information.
-
-    ![Select environment button highlighted](media/select-environment-2.PNG)
-    
-    > [!NOTE]
-    > You don't have to select an environment to make a call. To start a call without selecting an environment, select **Launch call**. [Learn about storing data for the Calls dashboard](calls-dashboard.md).
-
-3. While you're on a call, you can mute yourself at any point if you need to. You can't mute the other participant in a one-to-one call, however. 
+        
+2. 
 
 ## Make a one-to-one call to a Teams user outside your tenant
 
