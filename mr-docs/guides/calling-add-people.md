@@ -18,9 +18,9 @@ The following types of calls are available in Microsoft Dynamics 365 Guides:
     
 - **Meeting**. A meeting is a scheduled call using Teams or Outlook. Meetings can include any number of participants. For example, if you want to have a weekly inspection with your team, you can create a meeting so that everyone receives notifications about the meeting and can join the meeting. [Learn more about joining a meeting in Dynamics 365 Guides](calling-meetings.md)
 
-## Who can you collaborate with on a call?
+## Who can collaborate on a call?
 
-With Dynamics 365 Guides on HoloLens, you can collaborate with:
+A Dynamics 365 Guides on HoloLens user can collaborate with:
 
 - A Teams desktop user (PC or Mac) on a one-to-one call, group call, or scheduled meeting that's set up through Teams or Outlook. To learn more about different combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
 
