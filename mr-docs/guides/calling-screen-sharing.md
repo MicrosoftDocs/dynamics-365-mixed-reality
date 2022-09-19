@@ -92,7 +92,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
     The shared screen and the live video feed follow the behavior described later in this article.
 
-## Use Microsoft Teams mobile to share your screen 
+## Use Teams mobile to share your screen 
 
 1. In the call controls, select the **More info** button […].
 
