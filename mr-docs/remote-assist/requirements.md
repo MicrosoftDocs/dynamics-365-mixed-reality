@@ -2,7 +2,7 @@
 author: amaraanigbo
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 06/23/2022
+ms.date: 10/14/2022
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
 ms.reviewer: v-bholmes
@@ -25,7 +25,7 @@ Both Dynamics 365 Remote Assist users and Teams users can join a Dynamics 365 Re
 The Dynamics 365 Remote Assist app is available on HoloLens, HoloLens 2, and qualifying Android or iOS mobile devices.
 
 > [!NOTE]
-> Android devices that have a time-of-flight (ToF) sensor and support the [Depth API](https://developers.google.com/ar/discover/supported-devices) and iOS devices that have a LiDAR sensor [(see LiDAR sensor in the tables listed for iOS and iPadOS devices)](https://en.wikipedia.org/wiki/List_of_iOS_and_iPadOS_devices) are likely to have better accuracy with annotation placement.
+> Accuracy of annotations is highly dependent on the capabilities of the device. Use Android devices that have a time-of-flight (ToF) sensor and support the [Depth API](https://developers.google.com/ar/discover/supported-devices) and iOS devices that have a LiDAR sensor [(see LiDAR sensor in the tables listed for iOS and iPadOS devices)](https://en.wikipedia.org/wiki/List_of_iOS_and_iPadOS_devices) for a better augmented reality experience.
 
 If an individual wants to join a Dynamics 365 Remote Assist call using the Teams app, they must use the Teams app on Windows, Mac, or mobile. 
 
