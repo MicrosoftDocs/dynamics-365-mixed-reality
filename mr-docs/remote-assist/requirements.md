@@ -115,7 +115,7 @@ The list below contains the *minimum* URL end points and TCP/UDP ports utilized 
 
 > [!NOTE]
 > US Government Community Cloud (GCC) environments require additional URLs to be added to the allowlist. For more information, see the following topics:
-> - [Office 365 U.S. Government GCC High endpoints](/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints?view=o365-worldwide)
+> - [Office 365 U.S. Government GCC High endpoints](/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints)
 > - [Dynamics 365 US Government](/power-platform/admin/microsoft-dynamics-365-government)
 > - [Power Apps US Government](/power-platform/admin/powerapps-us-government)  
 
