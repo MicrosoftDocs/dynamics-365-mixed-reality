@@ -22,11 +22,11 @@ With Microsoft Dynamics 365 Guides, you can make or take the following types of 
 
 With Dynamics 365 Guides on HoloLens, you can collaborate with:
 
-- A Teams PC or Mac user in a one-to-one call, group call, or meeting scheduled using Microsoft Teams or Outlook. To learn more about different combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
+- A Teams desktop user (PC or Mac) in a one-to-one call, group call, or meeting scheduled using Microsoft Teams or Outlook. To learn more about different combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
 
 - A Teams mobile user in a one-to-one call.
 
-- A Dynamics 365 Remote Assist mobile user in a one-to-one call or group call.
+- A Dynamics 365 Remote Assist mobile user in a one-to-one or group call.
 
 > [!NOTE]
 > The mixed-reality toolbar will not appear if the Dynamics 365 Guides user joins the call from two different devices.
@@ -51,23 +51,47 @@ With Dynamics 365 Guides on HoloLens, you can collaborate with:
 
 ## Group calls
 
-A group call can include a Dynamics 365 Guides user on HoloLens and a Teams PC or Mac user or Dynamics 365 Remote Assist mobile user. On grooup calls, you can switch between participants' video feeds and mute  or remove participants as needed. 
+A group call can include a Dynamics 365 Guides user on HoloLens and a Teams desktop user (PC or Mac) or Dynamics 365 Remote Assist mobile user. 
+
+> [!NOTE]
+> A Teams mobile user cannot collaborate on a group call with a Dynamics 365 Guides user on HoloLens.
+
+On grooup calls, you can switch between participants' video feeds and mute or remove participants as needed. 
 
 You can combine HoloLens users with Teams users in different combinations:
 
 - Multiple HoloLens users can collaborate on the same Dynamics 365 Guides call. 
 
-- Any Teams user can choose any HoloLens user's space to annotate on if there is more than one HoloLens user. 
+- Any Teams desktop user can choose any HoloLens user's space to annotate on if there is more than one HoloLens user. 
 
-- Multiple Teams users can annotate on the same HoloLens user's space at the same time.
+- Multiple Teams desktop users can annotate on the same HoloLens user's space at the same time.
 
-### Make a group call
+### Make a group call in Dynamics 365 Guides on HoloLens
 
-1. Start by calling one person, and then select **Open Participants** (![Graphic showing the open participants icon.](media/open-participants.jpg)) or say "Remote Assist, Open Participants."
+1. Start by calling one person as described above, and then select the **Open Participants** button (or say "Guides, Open Participants).
 
-    You'll see the first person you called on the left side of the video card, and a list of participants on the right side. 
+    SCREENSHOT GOES HERE
 
-2. On the bottom of the video card, select the text field to pop out a holographic keyboard with a list of your recent contacts. If the person you want to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
+    You'll see the tile for the first person you called on the right side of the Meeting window. 
+    
+2. Select the **Participants** button in the Participants area to display a list of recent contacts.
+
+    SCREENSHOT GOES HERE
+   
+3. Do one of the following:
+
+    - If the person you want to add is listed in the **Recent** list, select the contact's tile, and then select **Show video**.
+
+      SCREENSHOT GOES HERE
+ 
+    - If the person isn't listed in the **Recent** list, place your cursor in the Search box, to display the holographic keyboard, and then use the holographic keyboard to enter the person's name or email address. You can also use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
+
+      SCREENSHOT GOES HERE
+
+      
+
+
+
 
 To mute a participant in a group call:
 
