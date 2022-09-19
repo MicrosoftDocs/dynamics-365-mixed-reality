@@ -20,7 +20,7 @@ The following types of calls are available in Microsoft Dynamics 365 Guides:
 
 ## Who can collaborate on a call?
 
-A Dynamics 365 Guides on HoloLens user can collaborate with:
+A Dynamics 365 Guides HoloLens user can collaborate with:
 
 - A Teams desktop user (PC or Mac) on a one-to-one call, group call, or scheduled meeting that's set up through Teams or Outlook. To learn more about different combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
 
