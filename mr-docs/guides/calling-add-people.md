@@ -48,8 +48,17 @@ With Dynamics 365 Guides on HoloLens, you can collaborate with:
    You'll see the contact's video feed. The green indicator to the lower left of the video feed shows that you're on a call with that contact. This is useful if you select a different activity such as opening a guide or file. 
 
     SCREENSHOT GOES HERE
+    
+## Make a one-to-one call to a Teams user outside your organization
 
-## Group calls
+You can search, call, and receive a call from a Teams user in another organization if your organization is federated with that tenant. To call a federated user, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Mic** button if you prefer to use your voice). You won't see any search results if you enter just a name or a partial email address. 
+
+After you call a federated contact, they will appear in your recent contacts list, so you don't have to search for that contact again.
+
+>[!Note]
+> If you can't find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access#:~:text=Enable%20your%20Organization%20to%20Communicate%20with%20another%20Teams,your%20organization%2C%20skip%20to%20step%205.%20See%20More.)) has not been enabled. Contact your administrator for help.
+
+## Group calls in Dynamics 365 Guides 
 
 A group call can include a Dynamics 365 Guides user on HoloLens and a Teams desktop user (PC or Mac) or Dynamics 365 Remote Assist mobile user. 
 
@@ -66,7 +75,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 - Multiple Teams desktop users can annotate on the same HoloLens user's space at the same time.
 
-### Make a group call in Dynamics 365 Guides on HoloLens
+### Start a group call in Dynamics 365 Guides on HoloLens
 
 1. Start by calling one person as described above, and then select the **Open Participants** button (or say "Guides, Open Participants).
 
@@ -87,50 +96,54 @@ You can combine HoloLens users with Teams users in different combinations:
     - If the person isn't listed in the **Recent** list, place your cursor in the Search box, to display the holographic keyboard, and then use the holographic keyboard to enter the person's name or email address. You can also use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
 
       SCREENSHOT GOES HERE
-
       
+### Mute a participant in a group call
 
+1. Select the **Open Participants** button or say "Guides, Open Participants." 
 
+2. Select the tile for the participant that you want to mute.
 
+3. When the tile flips over, select **Mute**
 
-To mute a participant in a group call:
+    SCREENSHOT GOES HERE
 
-1. Select **Open Participants** (![Graphic showing the open participants icon.](media/open-participants.jpg)) or say "Remote Assist, Open Participants." 
-
-2. Tap a participant to see their video feed. 
-
-3. Tap the mute button next to the participant's name to mute them. Muted participants can unmute themselves. Other people on the call can't unmute a muted participant.
+    > [!NOTE]
+    > Muted participants can unmute themselves. Other people on the call can't unmute a muted participant.
 
 > [!Note]
 > If the call includes a large number of participants, you might experience performance issues, such as delays in viewing annotations and lower video resolution. [Learn more about the number of participants that can join a Microsoft Teams call](/microsoftteams/limits-specifications-teams#meetings-and-calls). 
+
+### Remote a participant in a group call
+
+1. Select the **Open Participants** button or say "Guides, Open Participants." 
+
+2. Select the tile for the participant that you want to remove.
+
+3. When the tile flips over, select **Remove**
+
+    SCREENSHOT GOES HERE
 
 ## Accept a call
 
 You can do any of the following when you receive a call:
 
-- Select **Video** (or say "Remote Assist, Video") to accept the call as a video call.
+- Select **Video** (or say "Guides, Video") to accept the call as a video call.
 
-- Select **Audio** (or say "Remote Assist, Audio") to accept the call as a voice-only call. 
+- Select **Audio** (or say "Guides, Audio") to accept the call as a voice-only call. 
 
-- Select **Ignore** (or say "Remote Assist, Ignore") to decline the call.
+- Select **Ignore** (or say "Guides, Ignore") to decline the call.
 
 If you join the call, remote collaborators will be able to see what you see in your space, including holograms.
 
 > [!Note]
-> In you're using another HoloLens app, you can have Dynamics 365 Remote Assist run in the background to receive any incoming calls. To do this, first open Dynamics 365 Remote Assist. Then use the Start gesture to go to the **Start** menu and select another app to use. You'll get a notification if a Dynamics 365 Remote Assist call comes in, and you'll be able to select **Accept** to initiate an audio call, **Video** to initiate a video call, or **Ignore** to ignore the call.
+> In you're using another HoloLens app, you can have Dynamics 365 Guides run in the background to receive any incoming calls. To do this, first open Dynamics 365 Guides. Then use the Start gesture to go to the **Start** menu and select another app to use. You'll get a notification if a Dynamics 365 Guides call comes in, and you'll be able to select **Accept** to initiate an audio call, **Video** to initiate a video call, or **Ignore** to ignore the call.
 
 ## End a call
 
-- Select **End Call** (![Graphic showing the end call icon.](media/end-call.jpg)), or say "Remote Assist, End Call."
+- Select the **End Call** button or say "Guides, End Call."
 
-## Make a one-to-one call to a Teams user outside your organization
+    SCREENSHOT GOES HERE
 
-You can search, call, and receive a call from a Teams user in another organization if your organization is federated with that tenant. To call a federated user, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their full email address. You won't see any search results if you enter just a name or a partial email address. After you call a federated contact, they will appear in your recent contacts list, so you don't have to search for that contact again.
+## Adjust outgoing video quality if the HoloLens device gets too hot
 
->[!Note]
-> If you can't find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access#:~:text=Enable%20your%20Organization%20to%20Communicate%20with%20another%20Teams,your%20organization%2C%20skip%20to%20step%205.%20See%20More.)) has not been enabled. Contact your administrator for help.
-
-
-## Adjusting outgoing video quality if the HoloLens device gets too hot
-
-If you're on a longer call in Dynamics 365 Remote Assist for HoloLens, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and wi-fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Remote Assist adjusts video quality](hololens-thermal-adjusting.md)
+If you're on a longer call in Dynamics 365 Guides on HoloLens, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Guides gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Guides adjusts video quality](calling-hololens-thermal-adjusting.md)
