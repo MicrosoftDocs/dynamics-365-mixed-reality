@@ -92,7 +92,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
     ![XXX.](media/calling-start-call-4.JPG "XXX")
 
-    You'll see the tile for the first person you called on the right side of the video feed. 
+    You'll see the tile for the first person you called to the right of the video feed. 
     
 2. Select the **Participants** button to the right of the video feed to display a list of recent contacts.
 
