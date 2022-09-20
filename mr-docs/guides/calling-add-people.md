@@ -124,8 +124,6 @@ You can combine HoloLens users with Teams users in different combinations:
 
 - Select the **End Call** button or say "Guides, End Call."
 
-   ![XXX.](media/calling-start-call- .JPG "XXX")
-
 ### Adjust outgoing video quality if the HoloLens device gets too hot
 
 If you're on a longer call in Dynamics 365 Guides on HoloLens, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Guides gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Guides adjusts video quality](calling-hololens-thermal-adjusting.md)
