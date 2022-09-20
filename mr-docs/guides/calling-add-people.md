@@ -145,31 +145,37 @@ When you're on a call, you'll see the call controls at the bottom of the screen.
 
 |Button|Description|
 |------------|----------------------------------------------|
-|![The video icon.](media/calling-teams-video-button.JPG)|Control outgoing video.|
-|![The microphone icon.](media/calling-teams-audio-button.JPG)|Control outgoing audio.|
-|![The share icon.](media/calling-teams-share-button.JPG)|Share your desktop or a running application.|
-|![The text chat icon.](media/calling-teams-chat-button.JPG)|Open a chat window to send text messages.| 
-|![The participants icon.](media/calling-teams-participants-button.JPG)|See current participants, or add more.|
+|![The Video button.](media/calling-teams-video-button.JPG)|Control outgoing video.|
+|![The Microphone button.](media/calling-teams-audio-button.JPG)|Control outgoing audio.|
+|![The Share button.](media/calling-teams-share-button.JPG)|Share your desktop or a running application.|
+|![The Chat button.](media/calling-teams-chat-button.JPG)|Open a chat window to send text messages.| 
+|![The Participants button.](media/calling-teams-participants-button.JPG)|See current participants, or add more.|
 
 To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you're on a group call or meeting with a Dynamics 365 Guides user, the **More** […] button will also provide the option to record the call.  
 
 ## Receive a call in Teams mobile from a Dynamics 365 Guides user 
 
-Use the call controls at the bottom of the screen in Teams mobile to specify whether your collaborator can see what you see, hear what you hear, and more.
+Use the call controls at the bottom of the screen in Teams mobile.
 
 ![Screenshot showing the call controls in Teams mobile.](media/calling-teams-mobile-call-controls.JPG "Call control")
 
-- The **Video icon** controls outgoing video.
-- The **Microphone icon** controls outgoing audio.
-- The **Speaker icon** controls incoming audio.
+The following table describes the call controls buttons.
 
-For additional actions, select the ellipses icon. Additional actions include:
--	**Toggle incoming video**
--	**Share your screen** – your screen will pop up as a video in the Dynamics 365 Remote Assist HoloLens user’s world.
--	**Start video with blur** (iOS only) - useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
-- **Insert file** to share a file 
+|Button|Description|
+|------------|----------------------------------------------|
+|![The Video button.](media/calling-teams-video-button.JPG)|Control outgoing video.|
+|![The Microphone button.](media/calling-teams-audio-button.JPG)|Control outgoing audio.|
+|![The Speaker button.](media/calling-teams-audio-button.JPG)|Control incoming audio.|
+|![The More info button.](media/calling-teams-audio-button.JPG)|Control incoming audio.|
+
+For additional actions, select the **More info** button. Additional actions include:
+
+- **Toggle incoming video**
+- **Share your screen**: Your screen will pop up as a video for the Dynamics 365 Remote Guides user.
+- **Start video with blur**: For iOS only, useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
+- **Insert file**: Share a file.  
 
 > [!NOTE]
-> Turn your phone horizonal to see more of the Dynamics 365 Remote Assist Guides user’s environment.  
+> Turn your phone horizonal to see more of the Dynamics 365 Guides user’s environment.  
 
 
