@@ -143,7 +143,7 @@ If you're on a longer call, the HoloLens device can become hot if it's using sev
    > [!IMPORTANT]
    > If this is the first time you have launched Teams and you have not been invited to any other teams, Teams will automatically take you to the correct place. If you have been invited to other teams, you might need to switch to the appropriate organization.  
    >     
-   > To switch tenants, in the drop-down menu in the upper-right corner of the window, select the appropriate guest tenant. Teams might take a few seconds to reload.
+   > To switch organizations, in the drop-down menu in the upper-right corner of the window, select the appropriate guest organization. Teams might take a few seconds to reload.
 
  2. When you see an incoming call notification in the bottom right side of your screen, select **Audio** or **Video** to join the call.
 
