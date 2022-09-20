@@ -159,14 +159,14 @@ When you're on a call, you'll see the call controls at the bottom of the screen.
 |![The Chat button.](media/calling-teams-chat-button.JPG)|Open a chat window to send text messages.| 
 |![The Participants button.](media/calling-teams-participants-button.JPG)|See current participants, or add more.|
 
-To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you're on a group call or meeting with a Dynamics 365 Guides user, the **More** […] button will also provide the option to record the call.  
+To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. If you want to record the meeting, you can access the **Record** command here. 
 
 ## Receive a call in Teams mobile from a Dynamics 365 Guides user 
 
 > [!NOTE]
-> At this time, you can't call a Dynamics 365 Guides from Teams mobile. You must initiate the call from Dynamics 365 Guides. 
+> At this time, you can't call a Dynamics 365 Guides user from Teams mobile. You must initiate the call from Dynamics 365 Guides. 
 
-Use the call controls at the bottom of the screen in Teams mobile. The following table describes the call controls buttons.
+Use the call controls at the bottom of the screen in Teams mobile for the following actions.
 
 |Button|Description|
 |------------|----------------------------------------------|
