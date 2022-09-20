@@ -178,7 +178,7 @@ Select the **More info** [...] button to access the following additional command
 
 - **Toggle incoming video**
 - **Share your screen**: Your screen will pop up as a video for the Dynamics 365 Guides user.
-- **Start video with blur**: For iOS only, useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
+- **Start video with blur**: For iOS devices only, if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you, select this command. 
 - **Insert file**: Share a file.  
 
 > [!TIP]
