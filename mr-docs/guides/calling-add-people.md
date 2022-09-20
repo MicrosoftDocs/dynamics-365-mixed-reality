@@ -145,11 +145,11 @@ When you're on a call, you'll see the call controls at the bottom of the screen.
 
 |Button|Description|
 |------------|----------------------------------------------|
-|![The video icon.](media/calling-teams-video-button.JPG)|Control outgoing video|
-|![The microphone icon.](media/calling-teams-audio-button.JPG)|Control outgoing audio|
-|![The share icon.](media/calling-teams-share-button.JPG)|Share your desktop or a running application|
-|![The text chat icon.](media/calling-teams-chat-button.JPG)|Open a chat window to send text messages| 
-|![The participants icon.](media/calling-teams-participants-button.JPG)|See current participants, or add more|
+|![The video icon.](media/calling-teams-video-button.JPG)|Control outgoing video.|
+|![The microphone icon.](media/calling-teams-audio-button.JPG)|Control outgoing audio.|
+|![The share icon.](media/calling-teams-share-button.JPG)|Share your desktop or a running application.|
+|![The text chat icon.](media/calling-teams-chat-button.JPG)|Open a chat window to send text messages.| 
+|![The participants icon.](media/calling-teams-participants-button.JPG)|See current participants, or add more.|
 
 To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting with a Dynamics 365 Guides user, the **More** […] button will also provide the option to record the call.  
 
