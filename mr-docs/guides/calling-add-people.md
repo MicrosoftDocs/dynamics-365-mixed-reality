@@ -93,7 +93,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
     - If the person isn't listed in the **Recent** list, place your cursor in the Search box, and then in the holographic keyboard that appears, enter the person's name or email address. You can also use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
 
-      ![XXX.](media/calling-start-call- .JPG "XXX")
+      ![XXX.](media/calling-start-call-6.JPG "XXX")
       
 #### Mute a participant in a group call
 
