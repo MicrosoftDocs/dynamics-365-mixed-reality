@@ -46,7 +46,7 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
         
 2. Do one of the following:
 
-    - If the person you want to add is listed in the **Recent** list, select the contact's tile.
+    - If the person you want to add is listed in the **Recent** list, select the contact.
 
       ![XXX.](media/calling-start-call-1.JPG "XXX")
 
