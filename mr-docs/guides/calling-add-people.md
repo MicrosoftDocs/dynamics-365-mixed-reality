@@ -122,7 +122,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 ### End a call
 
-- Select the **End Call** button or say "Guides, End Call."
+- Select the **End call** button or say "Guides, End call."
 
 ### Adjust outgoing video quality if the HoloLens device gets too hot
 
