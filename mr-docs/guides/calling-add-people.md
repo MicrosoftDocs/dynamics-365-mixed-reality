@@ -115,7 +115,7 @@ You can combine HoloLens users with Teams users in different combinations:
 3. When the tile flips over, select **Mute**.
 
     > [!NOTE]
-    > Muted participants can unmute themselves. Other people on the call can't unmute a muted participant.
+    > Muted participants can unmute themselves. 
 
 > [!Note]
 > If the call includes a large number of participants, you might experience performance issues, such as delays in viewing annotations and lower video resolution. [Learn more about the number of participants that can join a Microsoft Teams call](/microsoftteams/limits-specifications-teams#meetings-and-calls). 
