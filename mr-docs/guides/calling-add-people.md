@@ -67,7 +67,7 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams desk
 > [!NOTE]
 > A Teams mobile user cannot collaborate on a group call with a Dynamics 365 Guides user on HoloLens.
 
-On grooup calls, you can switch between participants' video feeds and mute or remove participants as needed. 
+On group calls, you can switch between participants' video feeds and mute or remove participants as needed. 
 
 You can combine HoloLens users with Teams users in different combinations:
 
