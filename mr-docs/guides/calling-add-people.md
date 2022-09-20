@@ -31,7 +31,10 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 > [!NOTE]
 > The mixed-reality toolbar will not appear if the Dynamics 365 Guides user joins the call from two different devices.
 
-## Start a call in Dynamics 365 Guides
+## Start a call from Dynamics 365 Guides
+
+> [!NOTE]
+> At this time, you can't accept a call in Dynamics 365 Guides from a Teams or Dynamics 365 Remote Assist user. You must initiate the call from Dynamics 365 Guides. 
 
 ### Start a one-to-one call with a contact in your organization 
 
@@ -101,10 +104,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 2. Select the tile for the participant that you want to mute.
 
-3. When the tile flips over, select **Mute**
-
-    ![XXX.](media/calling-start-call- .JPG "XXX")
-
+3. When the tile flips over, select **Mute**.
 
     > [!NOTE]
     > Muted participants can unmute themselves. Other people on the call can't unmute a muted participant.
@@ -118,13 +118,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 2. Select the tile for the participant that you want to remove.
 
-3. When the tile flips over, select **Remove**
-
-    ![XXX.](media/calling-start-call- .JPG "XXX")
-
-### Accept a call
-
-At this time, you can't accept a call from a Teams or Dynamics 365 Remote Assist user in Dynamics 365 Guides. You must initiate the call from Dynamics 365 Guides. 
+3. When the tile flips over, select **Remove**.
 
 ### End a call
 
