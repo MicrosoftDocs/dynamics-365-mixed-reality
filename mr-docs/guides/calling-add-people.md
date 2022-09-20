@@ -147,7 +147,7 @@ When you're on a call, you'll see the call controls at the bottom of the screen.
 |------------|----------------------------------------------|
 |![The video icon.](media/Teams_Video.png)|Control outgoing video|
 |![The microphone icon.](media/Teams_Microphone.png)|Control outgoing audio|
-|![The share icon.](media/Teams_Share.png)|Share your desktop or a running application (with a Dynamics 365 Remote Assist HoloLens user only)|
+|![The share icon.](media/Teams_Share.png)|Share your desktop or a running application|
 |![The text chat icon.](media/Teams_Text.png)|Open a chat window to send text messages| 
 |![The participants icon.](media/Teams_Participants.png)|See current participants, or add more|
 
