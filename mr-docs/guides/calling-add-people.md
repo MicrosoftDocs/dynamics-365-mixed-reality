@@ -50,7 +50,7 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
       ![XXX.](media/calling-start-call-1.JPG "XXX")
 
-    - If the contact isn't listed in the **Recent** list, place your cursor in the Search box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
+    - If the contact isn't listed in the **Recent** list, place your cursor in the Search box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box. 
 
       ![XXX.](media/calling-start-call-6.JPG "XXX")    
     
@@ -66,7 +66,7 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
 You can search, call, and receive a call from a Teams user in another organization if your organization is federated with that organization. To call a federated user, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Mic** button if you prefer to use your voice). You won't see any search results if you enter just a name or a partial email address. 
 
-After you call a federated contact, they will appear in your recent contacts list, so you don't have to search for that contact again.
+After you call a federated contact, they appear in your recent contacts list, so you don't have to search for that contact again.
 
 >[!Note]
 > If you can't find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access#:~:text=Enable%20your%20Organization%20to%20Communicate%20with%20another%20Teams,your%20organization%2C%20skip%20to%20step%205.%20See%20More.)) has not been enabled. Contact your administrator for help.
