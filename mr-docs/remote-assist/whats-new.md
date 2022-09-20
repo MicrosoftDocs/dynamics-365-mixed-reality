@@ -20,8 +20,8 @@ The September 21 release includes the following mobile app bug fixes.
 
 #### Mobile
 
-- Fixed issue causing call recording video to be cropped when the mobile app is in portrait orientation
-- Fixed crash happening intermittently during authentication failures (iOS only)
+- Fixed issue causing call recording video to be cropped when the mobile app is in portrait orientation.
+- Fixed crash happening intermittently during authentication failures (iOS only).
 
 The following app versions include the above bug fixes.
 
