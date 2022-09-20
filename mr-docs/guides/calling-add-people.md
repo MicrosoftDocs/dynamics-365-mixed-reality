@@ -79,7 +79,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 #### Start a group call 
 
-1. Start by calling one person as described above, and then select the **Open Participants** button (or say "Guides, Open Participants).
+1. Start by calling one person as described above, and then select the **Open Participants** button (or say "Guides, Open Participants").
 
     ![XXX.](media/calling-start-call-4.JPG "XXX")
 
