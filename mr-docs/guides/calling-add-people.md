@@ -155,11 +155,7 @@ To use additional features, select the **More info** […] button. For example, 
 
 ## Receive a call in Teams mobile from a Dynamics 365 Guides user 
 
-Use the call controls at the bottom of the screen in Teams mobile.
-
-![Screenshot showing the call controls in Teams mobile.](media/calling-teams-mobile-call-controls.JPG "Call control")
-
-The following table describes the call controls buttons.
+Use the call controls at the bottom of the screen in Teams mobile. The following table describes the call controls buttons.
 
 |Button|Description|
 |------------|----------------------------------------------|
