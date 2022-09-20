@@ -10,9 +10,11 @@ ms.reviewer: v-bholmes
 
 # Start a call in Dynamics 365 Guides on HoloLens 
 
+When you're working in Dynamics 365 Guides on HoloLens, if you need help with a task in your world, you might want to call a remote collaborator on Microsoft Teams (desktop or mobile) or Dynamics 365 Remote Assist. 
+
 The following types of calls are available in Microsoft Dynamics 365 Guides:  
 
-- **One-to-one call**. A one-to-one call includes two participants. For example, if you're repairing a machine and need help on-the-go, you can start a one-to-one call with a remote collaborator on Microsoft Teams or Dynamics 365 Remote Assist.
+- **One-to-one call**. A one-to-one call includes two participants. For example, if you're repairing a machine, you can start a one-to-one call with a remote collaborator.
 
 - **Group call**. A group call includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, any participant can add the third person to the call to form a group call. 
     
@@ -22,11 +24,11 @@ The following types of calls are available in Microsoft Dynamics 365 Guides:
 
 A Dynamics 365 Guides HoloLens user can collaborate with:
 
-- A Teams desktop user (PC or Mac) on a one-to-one call, group call, or scheduled meeting that's set up through Teams or Outlook. To learn more about different combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
-
-- A Teams mobile user on a one-to-one call.
+- A Teams desktop user (PC or Mac) on a one-to-one call, group call, or scheduled meeting set up through Teams or Outlook. To learn more about different combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
 
 - A Dynamics 365 Remote Assist mobile user on a one-to-one or group call.
+
+- A Teams mobile user on a one-to-one call.
 
 > [!NOTE]
 > The mixed-reality toolbar will not appear if the Dynamics 365 Guides user joins the call from two different devices.
@@ -130,6 +132,9 @@ If you're on a longer call in Dynamics 365 Guides on HoloLens, the HoloLens devi
 
 ## Receive a call in Teams desktop (PC or Mac) from a Dynamics 365 Guides user 
 
+> [!NOTE]
+> At this time, you can't call a Dynamics 365 Guides from Teams desktop. You must initiate the call from Dynamics 365 Guides. 
+
 1. Launch the Teams app.
 
    > [!IMPORTANT]
@@ -154,6 +159,9 @@ When you're on a call, you'll see the call controls at the bottom of the screen.
 To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you're on a group call or meeting with a Dynamics 365 Guides user, the **More** […] button will also provide the option to record the call.  
 
 ## Receive a call in Teams mobile from a Dynamics 365 Guides user 
+
+> [!NOTE]
+> At this time, you can't call a Dynamics 365 Guides from Teams mobile. You must initiate the call from Dynamics 365 Guides. 
 
 Use the call controls at the bottom of the screen in Teams mobile. The following table describes the call controls buttons.
 
