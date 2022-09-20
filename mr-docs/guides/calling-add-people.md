@@ -50,15 +50,15 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
     - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box. 
 
-      ![XXX.](media/calling-start-call-1.JPG "XXX")   
+      ![Screenshot of Recent list with Search box below and holographic keyboard displayed.](media/calling-start-call-1.JPG "Screenshot of Recent list with Search box below and holographic keyboard displayed")   
     
 3. In the window that appears, select the **Phone** button to call the contact. 
 
-      ![XXX.](media/calling-start-call-2.JPG "XXX")
+      ![Screenshot of call details screen.](media/calling-start-call-2.JPG "Screenshot of call details screen")
 
     You'll see the contact's video feed, calling and activity controls, and the **Annotate** toolbar. The green indicator to the lower left of the video feed shows that you're on a call with that contact. This is useful to remind you that you're on a call, if you select a different type of activity such as opening a guide or file. 
 
-    ![XXX.](media/calling-start-call-3.JPG "XXX")
+    ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.JPG "Screenshot of video feed, controls, and Annotate toolbar")
        
 ### Start a one-to-one call with a Teams user outside your organization
 
@@ -90,13 +90,13 @@ You can combine HoloLens users with Teams users in different combinations:
 
 1. Start by calling one person as described above for a one-to-one call, and then select the **Open Participants** button (or say "Guides, Open Participants").
 
-    ![XXX.](media/calling-start-call-4.JPG "XXX")
+    ![Screenshot of one-to-one call with Open Participants button highlighted.](media/calling-start-call-4.JPG "Screenshot of one-to-one call with Open Participants button highlighted")
 
     You'll see the tile for the first person you called to the right of the video feed. 
     
 2. Select the **Participants** button to the right of the video feed to display a list of recent contacts.
 
-    ![XXX.](media/calling-start-call-5.JPG "XXX")
+    ![Screenshot of right side of screen with Participants button highlighted.](media/calling-start-call-5.JPG "Screenshot of right side of screen with Participants button highlighted")
    
 3. Do one of the following:
 
@@ -104,7 +104,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
     - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box. 
 
-      ![XXX.](media/calling-start-call-6.JPG "XXX")
+      ![Screenshot of Recent list with Search box and holographic keyboard showing.](media/calling-start-call-6.JPG "Screenshot of Recent list with Search box and holographic keyboard showing")
       
 #### Mute a participant in a group call
 
@@ -153,11 +153,11 @@ When you're on a call, you'll see the call controls at the bottom of the screen.
 
 |Button|Description|
 |------------|----------------------------------------------|
-|![The Video button.](media/calling-teams-video-button.JPG)|Control outgoing video.|
-|![The Microphone button.](media/calling-teams-audio-button.JPG)|Control outgoing audio.|
-|![The Share button.](media/calling-teams-share-button.JPG)|Share your desktop or a running application.|
-|![The Chat button.](media/calling-teams-chat-button.JPG)|Open a chat window to send text messages.| 
-|![The Participants button.](media/calling-teams-participants-button.JPG)|See current participants, or add more.|
+|![Video button.](media/calling-teams-video-button.JPG)|Control outgoing video.|
+|![Microphone button.](media/calling-teams-audio-button.JPG)|Control outgoing audio.|
+|![Share button.](media/calling-teams-share-button.JPG)|Share your desktop or a running application.|
+|![Chat button.](media/calling-teams-chat-button.JPG)|Open a chat window to send text messages.| 
+|![Participants button.](media/calling-teams-participants-button.JPG)|See current participants, or add more.|
 
 To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. If you want to record the meeting, you can access the **Record** command here. 
 
@@ -170,9 +170,9 @@ Use the call controls at the bottom of the screen in Teams mobile for the follow
 
 |Button|Description|
 |------------|----------------------------------------------|
-|![The Video button.](media/calling-teams-mobile-video-button.JPG)|Control outgoing video.|
-|![The Microphone button.](media/calling-teams-mobile-audio-button.JPG)|Control outgoing audio.|
-|![The Speaker button.](media/calling-teams-mobile-speaker-button.JPG)|Control incoming audio.|
+|![Video button.](media/calling-teams-mobile-video-button.JPG)|Control outgoing video.|
+|![Microphone button.](media/calling-teams-mobile-audio-button.JPG)|Control outgoing audio.|
+|![Speaker button.](media/calling-teams-mobile-speaker-button.JPG)|Control incoming audio.|
 
 Select the **More info** [...] button to access the following additional commands:
 
