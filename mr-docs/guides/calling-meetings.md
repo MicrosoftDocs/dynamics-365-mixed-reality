@@ -8,9 +8,11 @@ ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
-# Join a meeting or live event on Dynamics 365 Guides HoloLens
+# Join a meeting from Dynamics 365 Guides
 
-You can join a Microsoft Teams meeting or Microsoft Teams live event by using Dynamics 365 Guides on HoloLens. A [Microsoft Teams meeting](/microsoftteams/quick-start-meetings-live-events) is a meeting **scheduled** with Teams that includes any number of participants. A [Microsoft Teams live event](/microsoftteams/teams-live-events/what-are-teams-live-events) is an extension of a Teams meeting used to broadcast video and meeting content to a large online audience. A Microsoft Teams live event is useful for one-to-many communications where the host of the event is leading the interactions and audience participation is primarily limited to viewing the content shared by the host. A Dynamics 365 Guides HoloLens user can join a live event as a presenter or attendee in the same way that they join a meeting.
+You can join a Microsoft Teams meeting from Dynamics 365 Guides on HoloLens. A [Microsoft Teams meeting](/microsoftteams/quick-start-meetings-live-events) is a meeting **scheduled** with Teams that includes any number of participants. 
+
+It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-live-events/what-are-teams-live-events) from Dynamics 365 Guides, but this scenario is not officially supported.  
 
 > [!IMPORTANT] 
 > To join a meeting from Dynamics 365 Guides on HoloLens, you must have an Exchange Online license (not Exchange on-premises). 
