@@ -153,6 +153,23 @@ When you're on a call, you'll see the call controls at the bottom of the screen.
 
 To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you're on a group call or meeting with a Dynamics 365 Guides user, the **More** […] button will also provide the option to record the call.  
 
+## Receive a call in Teams mobile from a Dynamics 365 Guides user 
 
+Use the call controls at the bottom of the screen in Teams mobile to specify whether your collaborator can see what you see, hear what you hear, and more.
+
+![Screenshot showing the call controls in Teams mobile.](media/calling-teams-mobile-call-controls.JPG "Call control")
+
+- The **Video icon** controls outgoing video.
+- The **Microphone icon** controls outgoing audio.
+- The **Speaker icon** controls incoming audio.
+
+For additional actions, select the ellipses icon. Additional actions include:
+-	**Toggle incoming video**
+-	**Share your screen** – your screen will pop up as a video in the Dynamics 365 Remote Assist HoloLens user’s world.
+-	**Start video with blur** (iOS only) - useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
+- **Insert file** to share a file 
+
+> [!NOTE]
+> Turn your phone horizonal to see more of the Dynamics 365 Remote Assist Guides user’s environment.  
 
 
