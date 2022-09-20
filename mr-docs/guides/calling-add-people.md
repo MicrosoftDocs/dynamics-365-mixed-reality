@@ -173,9 +173,8 @@ Use the call controls at the bottom of the screen in Teams mobile for the follow
 |![The Video button.](media/calling-teams-mobile-video-button.JPG)|Control outgoing video.|
 |![The Microphone button.](media/calling-teams-mobile-audio-button.JPG)|Control outgoing audio.|
 |![The Speaker button.](media/calling-teams-mobile-speaker-button.JPG)|Control incoming audio.|
-|![The More info button.](media/calling-teams-mobile-more-info-button.JPG)|Access more commands.|
 
-Select the **More info** [...] button to access the following commands:
+Select the **More info** [...] button to access the following additional commands:
 
 - **Toggle incoming video**
 - **Share your screen**: Your screen will pop up as a video for the Dynamics 365 Guides user.
