@@ -58,7 +58,10 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
     You'll see the contact's video feed, calling and activity controls, and the **Annotate** toolbar. The green indicator to the lower left of the video feed shows that you're on a call with that contact. This is useful to remind you that you're on a call, if you select a different type of activity such as opening a guide or file. 
 
-    ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.JPG "Screenshot of video feed, controls, and Annotate toolbar")
+    ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.JPG "Screenshot of video feed, controls, and Annotate toolbar!NO
+    
+> [!NOTE]
+> You can't mute or remove a call participant in a one-to-one call. 
        
 ### Start a one-to-one call with a Teams user outside your organization
 
@@ -124,6 +127,12 @@ You can combine HoloLens users with Teams users in different combinations:
 2. Select the tile for the participant that you want to remove.
 
 3. When the tile flips over, select **Remove**.
+
+#### Spotlighting in Dynamics 365 Guides 
+
+Dynamics 365 Guides supports [Teams spotlighting](https://support.microsoft.com/en-us/office/spotlight-someone-s-video-in-a-teams-meeting-58be74a4-efac-4e89-a212-8d198182081e). When someone is spotlighted in Teams, the video feed in Dynamics 365 Guides changes to show the spotlighted person. If the spotlighted person is the Dynamics 365 Guides user, the user will see a notification above the video feed that indicates that they've been spotlighted.
+
+A Dynamics 365 Guides user cannot spotlight anyone else on the call, including themselves.  
 
 ### End a call
 
