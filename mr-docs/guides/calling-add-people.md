@@ -44,9 +44,15 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
     ![Screenshot of Communications button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Communications button on Main menu")    
         
-2. Select the contact that you want to call.
+2. Do one of the following:
 
-    ![XXX.](media/calling-start-call-1.JPG "XXX")
+    - If the person you want to add is listed in the **Recent** list, select the contact's tile.
+
+      ![XXX.](media/calling-start-call-1.JPG "XXX")
+
+    - If the person isn't listed in the **Recent** list, place your cursor in the Search box, and then in the holographic keyboard that appears, enter the person's name or email address. You can also use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
+
+      ![XXX.](media/calling-start-call-6.JPG "XXX")    
     
 3. In the window that appears, select the **Phone** button to call the contact. 
 
@@ -97,8 +103,6 @@ You can combine HoloLens users with Teams users in different combinations:
     - If the person you want to add is listed in the **Recent** list, select the contact's tile, and then select **Show video**.
 
     - If the person isn't listed in the **Recent** list, place your cursor in the Search box, and then in the holographic keyboard that appears, enter the person's name or email address. You can also use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
-
-      ![XXX.](media/calling-start-call-6.JPG "XXX")
       
 #### Mute a participant in a group call
 
