@@ -164,7 +164,7 @@ The following table describes the call controls buttons.
 |Button|Description|
 |------------|----------------------------------------------|
 |![The Video button.](media/calling-teams-mobile-video-button.JPG)|Control outgoing video.|
-|![The Microphone button.](media/calling-teams-audio-button.JPG)|Control outgoing audio.|
+|![The Microphone button.](media/calling-teams-mobile-audio-button.JPG)|Control outgoing audio.|
 |![The Speaker button.](media/calling-speaker-button.JPG)|Control incoming audio.|
 |![The More info button.](media/calling-more-info-button.JPG)|Access more commands.|
 
