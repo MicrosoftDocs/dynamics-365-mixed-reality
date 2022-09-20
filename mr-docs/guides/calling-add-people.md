@@ -43,11 +43,9 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
     ![XXX.](media/calling-start-call-1.JPG "XXX")
     
-3. In the Call window that appears, select the **Phone** button. 
+3. In the window that appears, select the **Phone** button to call the contact. 
 
-    ![XXX.](media/calling-start-call-2.JPG "XXX")
-
-   You'll see the contact's video feed. The green indicator to the lower left of the video feed shows that you're on a call with that contact. This is useful if you select a different type of activity such as opening a guide or file. 
+    You'll see the contact's video feed. The green indicator to the lower left of the video feed shows that you're on a call with that contact. This is useful if you select a different type of activity such as opening a guide or file. 
 
     ![XXX.](media/calling-start-call-3.JPG "XXX")
        
