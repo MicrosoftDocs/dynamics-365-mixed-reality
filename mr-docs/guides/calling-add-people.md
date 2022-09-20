@@ -136,7 +136,7 @@ If you're on a longer call, the HoloLens device can become hot if it's using sev
 ## Receive a call in Teams desktop (PC or Mac) from a Dynamics 365 Guides user 
 
 > [!NOTE]
-> At this time, you can't call a Dynamics 365 Guides from Teams desktop. You must initiate the call from Dynamics 365 Guides. 
+> At this time, you can't call a Dynamics 365 Guides user from Teams desktop. You must initiate the call from Dynamics 365 Guides. 
 
 1. Launch the Teams app.
 
