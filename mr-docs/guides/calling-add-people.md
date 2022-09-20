@@ -127,3 +127,32 @@ You can combine HoloLens users with Teams users in different combinations:
 ### Adjust outgoing video quality if the HoloLens device gets too hot
 
 If you're on a longer call in Dynamics 365 Guides on HoloLens, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Guides gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Guides adjusts video quality](calling-hololens-thermal-adjusting.md)
+
+## Receive a call in Teams desktop (PC or Mac) from a Dynamics 365 Guides user 
+
+1. Launch the Teams app.
+
+   > [!IMPORTANT]
+   > If this is the first time you have launched Teams and you have not been invited to any other teams, Teams will automatically take you to the correct place. If you have been invited to other teams, you might need to switch to the appropriate tenant.  
+   >     
+   > To switch tenants, in the drop-down menu in the upper-right corner of the window, select the appropriate guest tenant. Teams might take a few seconds to reload.
+
+ 2. When you see an incoming call notification in the bottom right side of your screen, select **Audio** or **Video** to join the call.
+
+### Use the call controls
+
+When you're on a call, you'll see the call controls at the bottom of the screen. 
+
+|Button|Description|
+|------------|----------------------------------------------|
+|![The video icon.](media/Teams_Video.png)|Control outgoing video|
+|![The microphone icon.](media/Teams_Microphone.png)|Control outgoing audio|
+|![The share icon.](media/Teams_Share.png)|Share your desktop or a running application (with a Dynamics 365 Remote Assist HoloLens user only)|
+|![The text chat icon.](media/Teams_Text.png)|Open a chat window to send text messages| 
+|![The participants icon.](media/Teams_Participants.png)|See current participants, or add more|
+
+To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting with a Dynamics 365 Guides user, the **More** […] button will also provide the option to record the call.  
+
+
+
+
