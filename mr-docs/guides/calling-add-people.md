@@ -69,7 +69,7 @@ After you call a federated contact, they appear in your recent contacts list, so
 >[!Note]
 > If you can't find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access#:~:text=Enable%20your%20Organization%20to%20Communicate%20with%20another%20Teams,your%20organization%2C%20skip%20to%20step%205.%20See%20More.)) has not been enabled. Contact your administrator for help.
 
-### Group calls in Dynamics 365 Guides 
+### Group calls
 
 A group call can include a Dynamics 365 Guides user on HoloLens and a Teams desktop user (PC or Mac) or Dynamics 365 Remote Assist mobile user. 
 
