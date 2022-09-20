@@ -12,6 +12,24 @@ ms.reviewer: v-bholmes
 
 This article describes details about the **current wave of features (April 2022 through September 2022)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
+## September 21, 2022
+
+### Bugs fixed 
+
+The September 21 release includes the following mobile app bug fixes. 
+
+#### Mobile
+
+- Fixed issue causing call recording video to be cropped when the mobile app is in portrait orientation
+- Fixed crash happening intermittently during authentication failures (iOS only)
+
+The following app versions include the above bug fixes.
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2022.9.21|
+|Android mobile app|2022.9.21|
+
 ## June 29, 2022
 
 ### Features
