@@ -46,11 +46,11 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
         
 2. Do one of the following:
 
-    - If the person you want to add is listed in the **Recent** list, select the contact.
+    - If the contact you want to call is listed in the **Recent** list, select the contact.
 
       ![XXX.](media/calling-start-call-1.JPG "XXX")
 
-    - If the person isn't listed in the **Recent** list, place your cursor in the Search box, and then in the holographic keyboard that appears, enter the person's name or email address. You can also use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
+    - If the contact isn't listed in the **Recent** list, place your cursor in the Search box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
 
       ![XXX.](media/calling-start-call-6.JPG "XXX")    
     
