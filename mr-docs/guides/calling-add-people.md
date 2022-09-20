@@ -85,17 +85,15 @@ You can combine HoloLens users with Teams users in different combinations:
 
     You'll see the tile for the first person you called on the right side of the video feed. 
     
-2. Select the **Participants** button in the Participants area to display a list of recent contacts.
+2. Select the **Participants** button to the right of the video feed to display a list of recent contacts.
 
-    ![XXX.](media/calling-start-call- .JPG "XXX")
+    ![XXX.](media/calling-start-call-5.JPG "XXX")
    
 3. Do one of the following:
 
     - If the person you want to add is listed in the **Recent** list, select the contact's tile, and then select **Show video**.
 
-      ![XXX.](media/calling-start-call- .JPG "XXX")
- 
-    - If the person isn't listed in the **Recent** list, place your cursor in the Search box, to display the holographic keyboard, and then use the holographic keyboard to enter the person's name or email address. You can also use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
+    - If the person isn't listed in the **Recent** list, place your cursor in the Search box, and then in the holographic keyboard that appears, enter the person's name or email address. You can also use the **Mic** button if you prefer to use your voice to enter the person's name in the Search box. 
 
       ![XXX.](media/calling-start-call- .JPG "XXX")
       
