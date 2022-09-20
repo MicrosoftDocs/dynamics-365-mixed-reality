@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 When you're working in Microsoft Dynamics 365 Guides on HoloLens, if you need help with a task in your world, you might want to call a remote collaborator on Microsoft Teams (desktop or mobile) or Dynamics 365 Remote Assist. 
 
-The following types of calls are available in Microsoft Dynamics 365 Guides:  
+Dynamics 365 Guides supports the following types of calls:  
 
 - **One-to-one call**. A one-to-one call includes two participants. For example, if you're repairing a machine, you can start a one-to-one call with a remote collaborator.
 
