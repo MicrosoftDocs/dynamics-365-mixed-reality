@@ -175,7 +175,7 @@ For additional actions, select the **More info** button. Additional actions incl
 - **Start video with blur**: For iOS only, useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
 - **Insert file**: Share a file.  
 
-> [!NOTE]
+> [!TIP]
 > Turn your phone horizonal to see more of the Dynamics 365 Guides user’s environment.  
 
 
