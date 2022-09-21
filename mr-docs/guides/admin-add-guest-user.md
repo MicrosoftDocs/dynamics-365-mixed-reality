@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to invite a guest user to operate a guide in Microsoft Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 08/26/2022
+ms.date: 09/21/2022
 ms.topic: article
 title: Invite a guest user to operate a guide in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -14,11 +14,11 @@ Anyone who is not part of a Microsoft Dynamics 365 Guides organization, but has 
 
 ## Invite a guest
 
-To add a guest user, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Azure Active Directory](/microsoft-365/admin/add-users/about-guest-users?view=o365-worldwide).
+To add a guest user, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Azure Active Directory](/microsoft-365/admin/add-users/about-guest-users).
 
 When a guest is invited to join an organization, they receive a welcome email message. This message includes some information about the organization and what to expect as a member. The guest must accept the invitation by selecting **Accept Invitation** in the email message before they can access the organization and the organization's guides.
 
-You must also [assign user roles](assign-role.md) to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
+You must also [assign a Dynamics 365 Guides license](add-users.md#assign-a-dynamics-365-guides-license-to-an-existing-user) and [assign user roles](assign-role.md) to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
 
 Your network admin will also need to add one additional endpoint to [the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers](/dynamics365/mixed-reality/guides/admin-network-requirements).
 
