@@ -34,7 +34,7 @@ The following table describes the features that are available as a Teams mobile 
 
 To learn more about limitations and specifics when collaborating with a Dynamics 365 Guides user from Microsoft Teams, check out these topics:
 
-- [Start a call](calling-add-people.md)
+- [Start a call](calling-start-call.md)
 - [Join a scheduled meeting](calling-meetings.md)
 - [Chat](calling-chat-file-sharing.md)
 - [Record a call](calling-record-call.md)
