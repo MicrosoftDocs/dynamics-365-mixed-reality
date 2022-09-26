@@ -46,7 +46,7 @@ To start a chat:
 
     ![Screenshot showing call controls with Chat button highlighted.](media/calling-teams-start-chat.JPG)    
 
-2. To send a OneDrive or local file through chat, select the **Attach** button or paste the file directly into the Chat window. 
+2. To send a OneDrive or local file through chat, select the **Attach file** button or paste the file directly into the Chat window. 
 
     >[!Note]
     > Dynamics 365 Guides chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlinks. However, it does not support HTML-formatted text or lists, such as a passage you copy and paste from a website. 
