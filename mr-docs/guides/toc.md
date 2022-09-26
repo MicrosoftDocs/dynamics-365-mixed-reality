@@ -110,6 +110,7 @@
 #### Basics
 ##### [Overview of authoring a guide](hololens-app-overview.md)
 ##### [Find and open a guide](find-guide.md)
+##### [Create folders to organize your guides](admin-create-folders.md)
 ##### [Anchor your guide to the real world](hololens-app-anchor.md)
 ##### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ##### [Open the model-driven app](open-model-driven-app.md)
