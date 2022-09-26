@@ -36,7 +36,7 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
    
    > [!NOTE]
    > A remote collaborator can share a file with a Dynamics 365 Guides user, but the Dynamics 365 Guides user cannot share a file with other participants on the call.  
-## Send a text message from Teams desktop (PC or Mac)
+## Start a chat from Teams desktop (PC or Mac)
 
 During a call with a Dynamics 365 Guides user, participants can communicate through the text chat. The chat log is available through Teams after the call ends.
 
