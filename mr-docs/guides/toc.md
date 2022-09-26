@@ -1,12 +1,16 @@
 # Dynamics 365 Guides
 ## [Overview of Dynamics 365 Guides](index.md)
-## Sign up for a free trial
-### [How to sign up](trial-signup.md)
-### [Trial FAQ](trial-faq.md)
+
 ## What's new
 ### [What's new](new.md)
 ### [Version history](version-history.md)
-## [Get started](get-started.md)
+## Get started
+### Sign up for a free trial
+#### [How to sign up](trial-signup.md)
+#### [Trial FAQ](trial-faq.md)
+### [Get started](get-started.md)
+### [Glossary of terms](glossary.md)
+### [Videos](videos.md)
 
 ## Set up and administer Dynamics 365 Guides
 ### Set up Dynamics 365 Guides or upgrade the solution
@@ -199,8 +203,6 @@
 #### [HoloLens app](known-issues-hololens-app.md)
 ### [Submit feedback](submit-feedback.md)
 
-## [Glossary of terms](glossary.md)
-## [Videos](videos.md)
 ## [Use HoloLens (1st gen) devices](HL1.md)
 ## [Legal terms and notices for Dynamics 365 Guides](legal.md)
 
