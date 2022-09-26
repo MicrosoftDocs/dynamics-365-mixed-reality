@@ -4,7 +4,7 @@ When you use Microsoft Teams desktop (PC or Mac) or Teams mobile, you can collab
 
 The following table describes the features that are available to you as a Teams desktop user when you're collaborating on a call with a Dynamics 365 Guides user. 
 
-|Task |Teams desktop features available when collaborating with HoloLens user |
+|Task |Available on Teams desktop? |
 |-----------------------------------------------|------------|                                                                                               
 |Make outgoing call |No|    
 |Receive incoming call  |Yes|   
