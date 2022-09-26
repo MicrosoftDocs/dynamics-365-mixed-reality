@@ -55,7 +55,7 @@ To start a chat:
 
 ## Start a chat from Teams mobile
 
-- Select the **Text icon** ![Graphic showing the text icon, which looks like a chat bubble.](media/TeamsMobile_Text.png) to open the text chat and send text messages. 
+- Select the **Chat** button ![Graphic showing the Chat button.](media/calling-teams-mobile-start-chat.JPG) to open the text chat and send text messages. 
 
 After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat. 
 
