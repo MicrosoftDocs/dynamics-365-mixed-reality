@@ -102,7 +102,7 @@
 #### [Record a call](calling-record-call.md)
 #### [Screen and file sharing](calling-screen-sharing.md)
 #### [Annotations](calling-annotations.md)
-#### [Reduce HoloLens temperature](calling-hololens-thermal-adjusting.md)
+#### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
 
 ### Work with the HoloLens app as an author
 #### Basics
