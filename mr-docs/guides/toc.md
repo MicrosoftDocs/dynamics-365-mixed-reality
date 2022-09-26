@@ -109,7 +109,7 @@
 #### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
 #### [Teams users](calling-teams-users.md)
 
-### Work with the HoloLens app as an author
+### Author a guide (HoloLens)
 #### Basics
 ##### [Overview of authoring a guide](hololens-app-overview.md)
 ##### [Find and open a guide](find-guide.md)
@@ -128,7 +128,7 @@
 ##### [Change animation options](hololens-app-animations.md)
 ##### [Create a trigger for step navigation](hololens-app-trigger.md)
 
-### Work with the HoloLens app as an operator
+### Operate a guide (HoloLens)
 #### Basics
 ##### [Overview of operating a guide with the HoloLens app](operator-overview.md)
 ##### [Open a guide](find-guide.md)
