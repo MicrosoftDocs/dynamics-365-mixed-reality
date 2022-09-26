@@ -30,9 +30,9 @@ The recorder is the owner of the video. The owner needs to give permission or do
 
      ![Screenshot with Start Recording button highlighted.](media/call-recording-record-button.JPG)
 
-2. You'll see a message to let you know that the recording has started. Select **Dismiss**. 
+2. You'll see a message that lets you know that you're giving consent for the meeting to be recorded. Select **Dismiss**. 
     
-    The **Start Recording** button becomes a **Stop Recording** button. You'll also see a persistent recording indication at the bottom left of the video card. The persistent recording indication will be visible even if you open the **Settings** tab, so you can always verify whether a recording is ongoing. 
+    The **Start Recording** button becomes a **Stop Recording** button. You'll see a persistent recording indication at the bottom left of the video card. The persistent recording indication will be visible even if you do another action such as opening a guide or file, so you can always verify whether a recording is ongoing. 
     
     ![Screenshot with yellow arrow highlighting the persistent recording indicator.](media/calling-persistent-recording-indicator.JPG)
 
