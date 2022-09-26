@@ -158,7 +158,6 @@
 #### [Share Guides Analytics reports](analytics-ga-share-reports.md)
 
 ## Advanced topics
-
 ### Convert 3D models to use as holograms
 #### [Overview of converting 3D models](3d-content-guidelines/index.md)
 #### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
