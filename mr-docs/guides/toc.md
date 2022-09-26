@@ -103,6 +103,7 @@
 #### [Screen and file sharing](calling-screen-sharing.md)
 #### [Annotations](calling-annotations.md)
 #### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
+#### [Teams users](teams-users.md)
 
 ### Work with the HoloLens app as an author
 #### Basics
