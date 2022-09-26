@@ -34,7 +34,7 @@ The recorder is the owner of the video. The owner needs to give permission or do
     
     The **Start Recording** button becomes a **Stop Recording** button. You'll also see a persistent recording indication at the bottom left of the video card. The persistent recording indication will be visible even if you open the **Settings** tab, so you can always verify whether a recording is ongoing. 
     
-    ![Screenshot highlighting the persistent recording indicator.](media/recording-persistent-call.jpg)
+    ![Screenshot with yellow arrow highlighting the persistent recording indicator.](media/recording-persistent-call.JPG)
 
 3. To end the recording, press the **Stop Recording** button or end the call. You'll see a reminder that the recording is being processed and saved securely in OneDrive for Business or SharePoint. 
 
