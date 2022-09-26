@@ -32,7 +32,7 @@ The recorder is the owner of the video. The owner needs to give permission or do
 
 2. You'll see a message that lets you know that you're giving consent for the meeting to be recorded. Select **Dismiss**. 
     
-    The **Start Recording** button becomes a **Stop Recording** button. You'll see a persistent recording indication at the bottom left of the video card. The persistent recording indication will be visible even if you do another action such as opening a guide or file, so you can always verify whether a recording is ongoing. 
+    At the bottom left of the video card, you'll see an indicator to let you know that you're recording. This indicator remains visible even if you do another action such as opening a guide or file, so you always know whether a recording is ongoing. 
     
     ![Screenshot with yellow arrow highlighting the persistent recording indicator.](media/calling-persistent-recording-indicator.JPG)
 
