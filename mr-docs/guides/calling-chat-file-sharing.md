@@ -60,4 +60,4 @@ To start a chat:
    After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat. 
 
 > [!NOTE]
-> You may notice that you can attach a photo, gif, or file via the text message. This is not the best way to share a file. Please read the next two sections to learn how to share a OneDrive file and a photo from your device.
+> You can attach a photo, GIF, or file via the text message but this isn't the best way to share a file. See the next two sections to learn how to share a OneDrive file and a photo from your device.
