@@ -100,14 +100,14 @@
 #### [HoloLens permissions required](hololens-permissions.md)
 
 ### Call a remote collaborator from the HoloLens app
-#### [Start a call](calling-add-people.md)
+#### [Start a call](calling-start-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
 #### [Chat](calling-chat-file-sharing.md)
 #### [Record a call](calling-record-call.md)
 #### [Screen and file sharing](calling-screen-sharing.md)
 #### [Annotations](calling-annotations.md)
 #### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
-#### [Teams users](teams-users.md)
+#### [Teams users](calling-teams-users.md)
 
 ### Work with the HoloLens app as an author
 #### Basics
