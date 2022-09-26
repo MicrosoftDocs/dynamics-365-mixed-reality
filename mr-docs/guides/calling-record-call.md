@@ -36,7 +36,9 @@ The recorder is the owner of the video. The owner needs to give permission or do
     
     ![Screenshot with yellow arrow highlighting the persistent recording indicator.](media/calling-persistent-recording-indicator.JPG)
 
-3. To end the recording, press the **Stop Recording** button or end the call. You'll see a reminder that the recording is being processed and saved securely in OneDrive for Business or SharePoint. 
+3. To end the recording, press the **Stop Recording** button or end the call. 
+
+    You'll see a reminder that the recording is being processed and saved securely in OneDrive for Business or SharePoint. 
 
 After the recording is processed and saved, it will appear in your Teams chat history. To view all the call recordings you initiated, go to your OneDrive for Business or SharePoint folder. 
 
