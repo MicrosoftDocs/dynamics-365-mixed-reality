@@ -52,3 +52,12 @@ To start a chat:
     > Dynamics 365 Guides chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlinks. However, it does not support HTML-formatted text or lists, such as a passage you copy and paste from a website. 
     >
     > For example, if you copy and paste text from a website that has HTML formatting and send it during a Dynamics 365 Guides call, the Dynamics 365 Guides user will see the text in the Chat window, but the formatting may not be what you expect.
+
+## Start a chat from Teams mobile
+
+- Select the **Text icon** ![Graphic showing the text icon, which looks like a chat bubble.](media/TeamsMobile_Text.png) to open the text chat and send text messages. 
+
+After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat. 
+
+> [!NOTE]
+> You may notice that you can attach a photo, gif, or file via the text message. This is not the best way to share a file. Please read the next two sections to learn how to share a OneDrive file and a photo from your device.
