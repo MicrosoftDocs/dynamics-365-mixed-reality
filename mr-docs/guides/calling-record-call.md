@@ -31,9 +31,7 @@ The recorder is the owner of the video. The owner needs to give permission or do
      ![Screenshot with Start Recording button highlighted.](media/calling-recording-record-button.JPG)
 
 2. You'll see a reminder that the call recording only captures the middle vertical section of your field of view. This means that if there are procedures or assets that are critical for you to record, you'll need to keep them in the middle of your field of view. [Learn about the Teams recording layout for calls with two participants](#cloud-based-recording-layout). Select **OK** to dismiss the notification. 
-
-    ![Screenshot of the reminder that the call recording captures the middle of the field of view.](media/recording-notification.jpg)
-
+    
     The **Start Recording** button becomes a **Stop Recording** button. You'll also see a persistent recording indication at the bottom left of the video card. The persistent recording indication will be visible even if you open the **Settings** tab, so you can always verify whether a recording is ongoing. 
     
     ![Screenshot highlighting the persistent recording indicator.](media/recording-persistent-call.jpg)
