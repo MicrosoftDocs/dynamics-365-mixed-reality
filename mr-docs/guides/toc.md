@@ -3,7 +3,9 @@
 ## Sign up for a free trial
 ### [How to sign up](trial-signup.md)
 ### [Trial FAQ](trial-faq.md)
-## [What's new](new.md)
+## What's new
+### [What's new](new.md)
+### [Version history](version-history.md)
 ## [Get started](get-started.md)
 
 ## Set up and administer Dynamics 365 Guides
@@ -155,35 +157,37 @@
 #### [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
 #### [Share Guides Analytics reports](analytics-ga-share-reports.md)
 
-## Convert 3D models to use as holograms
-### [Overview of converting 3D models](3d-content-guidelines/index.md)
-### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
-### [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
-### [Best practices for real-time 3D models](3d-content-guidelines/best-practices.md)
-### [Review a 3D model](3d-content-guidelines/review-3d-model.md)
-### Tutorials
-#### [Overview](3d-content-guidelines/tutorials-overview.md)
-#### [Agisoft Metashape](3d-content-guidelines/agisoft-metashape.md)
-#### Autodesk
-##### [Inventor](3d-content-guidelines/inventor.md)
-##### [3ds Max](3d-content-guidelines/3ds-max.md)
-##### [ReCap Photo](3d-content-guidelines/autodesk-recap-photo.md) 
-#### [Blender](3d-content-guidelines/blender.md)
-#### [Dassault Systèmes SOLIDWORKS](3d-content-guidelines/solidworks.md)
-#### [Pixyz Studio](3d-content-guidelines/pixyz-studio.md)
-#### SideFX Houdini
-##### [Prepare 3D models](3d-content-guidelines/houdini.md)
-##### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
+## Advanced topics
 
-## Use Power Automate to create workflows
-### [Workflow examples overview](workflow-examples-overview.md)
-### [Example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
-### [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
-### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
-### [Tables and fields required to create a guide in Power Automate](workflow-create-guide.md)
-### [Dataverse tables reference](developer-entity-reference.md)
+### Convert 3D models to use as holograms
+#### [Overview of converting 3D models](3d-content-guidelines/index.md)
+#### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
+#### [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
+#### [Best practices for real-time 3D models](3d-content-guidelines/best-practices.md)
+#### [Review a 3D model](3d-content-guidelines/review-3d-model.md)
+#### Tutorials
+##### [Overview](3d-content-guidelines/tutorials-overview.md)
+##### [Agisoft Metashape](3d-content-guidelines/agisoft-metashape.md)
+##### Autodesk
+###### [Inventor](3d-content-guidelines/inventor.md)
+###### [3ds Max](3d-content-guidelines/3ds-max.md)
+###### [ReCap Photo](3d-content-guidelines/autodesk-recap-photo.md) 
+##### [Blender](3d-content-guidelines/blender.md)
+##### [Dassault Systèmes SOLIDWORKS](3d-content-guidelines/solidworks.md)
+##### [Pixyz Studio](3d-content-guidelines/pixyz-studio.md)
+##### SideFX Houdini
+###### [Prepare 3D models](3d-content-guidelines/houdini.md)
+###### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
 
-## [Dynamics 365 Guides US Government](gcc.md)
+### Use Power Automate to create workflows
+#### [Workflow examples overview](workflow-examples-overview.md)
+#### [Example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
+#### [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
+#### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
+#### [Tables and fields required to create a guide in Power Automate](workflow-create-guide.md)
+#### [Dataverse tables reference](developer-entity-reference.md)
+
+### [Dynamics 365 Guides US Government](gcc.md)
 
 ## FAQ, known issues, and support
 ### [Get Help](help.md)
@@ -194,7 +198,6 @@
 #### [HoloLens app](known-issues-hololens-app.md)
 ### [Submit feedback](submit-feedback.md)
 
-## [Version history](version-history.md)
 ## [Glossary of terms](glossary.md)
 ## [Videos](videos.md)
 ## [Use HoloLens (1st gen) devices](HL1.md)
