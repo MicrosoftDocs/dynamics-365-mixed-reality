@@ -97,6 +97,15 @@
 #### [Install the app and sign in](hololens-app-install-sign-in.md)
 #### [HoloLens permissions required](hololens-permissions.md)
 
+### Call a remote collaborator from the HoloLens app
+#### [Start a call](calling-add-people.md)
+#### [Join a scheduled meeting](calling-meetings.md)
+#### [Chat](calling-chat-file-sharing.md)
+#### [Record a call](calling-record-call.md)
+#### [Screen and file sharing](calling-screen-sharing.md)
+#### [Annotations](calling-annotations.md)
+#### [Reduce HoloLens temperature](calling-hololens-thermal-adjusting.md)
+
 ### Work with the HoloLens app as an author
 #### Basics
 ##### [Overview of authoring a guide](hololens-app-overview.md)
@@ -114,7 +123,6 @@
 ##### [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
 ##### [Change animation options](hololens-app-animations.md)
 ##### [Create a trigger for step navigation](hololens-app-trigger.md)
-### [How to make a great mixed-reality guide](great-guide.md)
 
 ### Work with the HoloLens app as an operator
 #### Basics
@@ -133,20 +141,12 @@
 ##### [Turn off holograms](operator-holograms-off.md)
 ##### [Work offline](operator-offline-mode.md)
 
-### Collaborate on a call in the HoloLens app
-#### [Start a call](calling-add-people.md)
-#### [Join a scheduled meeting](calling-meetings.md)
-#### [Chat](calling-chat-file-sharing.md)
-#### [Record a call](calling-record-call.md)
-#### [Screen and file sharing](calling-screen-sharing.md)
-#### [Annotations](calling-annotations.md)
-#### [Reduce HoloLens temperature](calling-hololens-thermal-adjusting.md)
-
 ### Gestures
 #### [Author gestures](authoring-gestures-HL2.md)
 #### [Operator gestures](operator-gestures-HL2.md)
 ### [Voice commands](voice-commands.md)
 ### [Narrate instructions](operator-narrator.md)
+### [How to make a great mixed-reality guide](great-guide.md)
 ### [Settings](change-setting.md)
 
 ## Analyze your guides
