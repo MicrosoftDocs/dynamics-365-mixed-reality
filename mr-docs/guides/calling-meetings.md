@@ -78,4 +78,33 @@ To admit or decline the participant:
 > [!NOTE]
 > The meeting organizer can decide who is admitted into a meeting directly and who has to wait for someone to admit them. [Learn more about choosing who can bypass the lobby](https://support.microsoft.com/en-us/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e). 
 
+## Schedule and join a meeting from Teams desktop (PC or Mac)
+
+> [!NOTE]
+> Dynamics 365 Guides users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten.  
+
+### Schedule a meeting ahead of the call
+
+Check out the following links:
+
+- [Schedule a meeting in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAABAAA=Desktop)
+
+- [Watch a video on managing Teams meetings](https://support.office.com/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137)
+
+### Join a Teams meeting
+
+Check out the following links:
+
+- [Join a meeting in Teams](https://support.office.com/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
+
+- [Watch a video on joining a Teams meeting](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US)
+
+If the Dynamics 365 Guides user is invited to the meeting, they can sign in to Dynamics 365 Guides, and then select **Join Meeting** at the bottom of the **Recent Contacts** page.
+
+If the Dynamics 365 Remote Assist Guides user is not invited to the meeting, but you would like them to join the meeting: 
+
+1. Join the meeting, and then select **Participants** from the **Call Controls** toolbar.
+
+2. Start typing their name, and then call them. 
+
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
