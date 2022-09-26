@@ -36,4 +36,17 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
    
    > [!NOTE]
    > A remote collaborator can share a file with a Dynamics 365 Guides user, but the Dynamics 365 Guides user cannot share a file with other participants on the call.  
+## Send a text message from Teams desktop (PC or Mac)
 
+During a call with a Dynamics 365 Guides user, participants can communicate through the text chat. The chat log is available through Teams after the call ends.
+
+To start a chat, in the call controls, select **Text Chat** (![Graphic showing the text chat icon.](media/Teams_Text.png) to open the chat. 
+
+The Dynamics 365 Guides user can only see messages that are exchanged during the call. 
+
+You can also attach a OneDrive or local file through the Teams chat **Attach file** feature.
+
+>[!Note]
+> Dynamics 365 Guides chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlinks. However, it does not support HTML-formatted text or lists, such as a passage you copy and paste from a website. 
+>
+> For example, if you copy and paste text from a website that has HTML formatting and send it during a Dynamics 365 Guides call, the Dynamics 365 Guides user will see the text in the Chat window, but the formatting may not be what you expect.
