@@ -24,7 +24,7 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
 
     ![Screenshot highlighting where to enter message.](media/calling-chat-file-sharing-3.JPG "Screenshot highlighting where to enter message")
     
-3. In the holographic keyboard that appears, enter your message or use the microphone button to dictate a message. Select the **Send** button (or press the Return key on the holographic keyboard) when you're ready to send the message. 
+3. In the holographic keyboard that appears, enter your message, or use the **Microphone** button to dictate a message. Select the **Send** button (or press the Return key on the holographic keyboard) when you're ready to send the message. 
 
     ![Screenshot showing holographic keyboard with Microphone button highlighted for dictation option.](media/calling-chat-file-sharing-4.JPG "Screenshot showing holographic keyboard with Microphone button highlighted for dictation option")
     
