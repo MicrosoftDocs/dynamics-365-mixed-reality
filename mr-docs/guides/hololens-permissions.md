@@ -18,9 +18,7 @@ If you don't provide the necessary permissions, you'll see the following dialog 
 
 ![Guides permissions dialog box.](media/hololens-permissions-guides.jpg "Guides permissions dialog box")
 
-You can't use the HoloLens app until you provide these permissions. 
-
-The following table describes each of the permissions for the HoloLens app, and why they're required. 
+You can't use the HoloLens app until you provide the required permissions, as described in the following table. 
 
 |Permission|Why required|
 |----------------------|----------------------------------------------------------|
@@ -28,7 +26,7 @@ The following table describes each of the permissions for the HoloLens app, and 
 |Camera|Required to make video calls, to understand the space around you, and more.| 
 |Microphone|Required to make voice calls and use voice commands.|  
 |Movements|Required for annotations.|
-|Location|Optional, but required for call logging.|
+|Location|Optional, but required if you do call logging.|
 
 You can also turn on each permission through **Settings**. 
 
