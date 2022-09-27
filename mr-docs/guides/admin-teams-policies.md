@@ -80,7 +80,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ## Policies for guest users
 
-Users you [invite as guests](add-add-guest-user.md) have limited scope of access by design. For example, guest users cannot start call recordings by default. Other access is imposed through policy. 
+Users you [invite as guests](admin-add-guest-user.md) have limited scope of access by design. For example, guest users cannot start call recordings by default. Other access is imposed through policy. 
 
 ### Access guest policies
 
