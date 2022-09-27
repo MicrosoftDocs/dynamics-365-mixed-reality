@@ -10,8 +10,6 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ### In meetings
 
-To access the recording policy for meetings:
-
 1. Go to https://admin.teams.microsoft.com/.
 2. On the left side of the screen, select **Meeting policies**.
 3. Create a new policy or edit an existing policy.
