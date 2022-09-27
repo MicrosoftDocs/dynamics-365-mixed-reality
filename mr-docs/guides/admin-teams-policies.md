@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the Microsoft Teams policies supported by Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 08/10/2022
+ms.date: 10/12/2022
 ms.topic: article
 title: Teams policies supported by Dynamics 365 Guides
 ms.reviewer: v-bholmes
