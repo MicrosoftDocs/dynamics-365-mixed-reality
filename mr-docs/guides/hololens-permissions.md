@@ -25,7 +25,7 @@ The following table describes the five permissions and what they're required for
 |Eye tracking|Required to use the Main menu and to create a great experience. Eye tracking lets HoloLens know what you’re looking at and helps validate your intentions.<br><br>Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information.| 
 |Camera|Required to make video calls, to understand the space around you, and more.| 
 |Microphone|Required to make voice calls and use voice commands.|  
-|Movements|Required for annotations.|
+|Movements|Required for [annotations](calling-annotations.md).|
 |Location|Optional, but required if you do call logging.|
 
 You can also turn each permission on/off through **Settings**. 
