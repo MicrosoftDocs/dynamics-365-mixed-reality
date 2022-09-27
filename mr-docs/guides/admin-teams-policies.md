@@ -30,7 +30,7 @@ To access the recording policy for meetings:
 3. Create a new policy or edit an existing policy.
 4. Turn off the **Cloud recording for calling** setting. 
 
-    ![XXX.](media/calling-teams-policies-recordings-one-to-one.JPG "XXX")
+    ![XXX.](media/calling-teams-policies-recording-one-to-one.JPG "XXX")
     
 5. Save the new or modified policy.
 6. Assign the policy to a user.
