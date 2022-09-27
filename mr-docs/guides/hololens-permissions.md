@@ -28,7 +28,7 @@ The following table describes the five permissions and what they're required for
 |Movements|Required for annotations.|
 |Location|Optional, but required if you do call logging.|
 
-You can also turn on each permission through **Settings**. 
+You can also turn each permission on/off through **Settings**. 
 
 
 ## See also
