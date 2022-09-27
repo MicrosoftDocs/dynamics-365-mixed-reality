@@ -18,7 +18,7 @@ If you don't provide the necessary permissions, you'll see the following dialog 
 
 ![Guides permissions dialog box.](media/hololens-permissions-guides.jpg "Guides permissions dialog box")
 
-You can't use the HoloLens app until you provide the required permissions, as described in the following table. 
+The following table describes the five permissions and what they're required for.  
 
 |Permission|Why required|
 |----------------------|----------------------------------------------------------|
