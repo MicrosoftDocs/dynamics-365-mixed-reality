@@ -1,6 +1,6 @@
 # Teams policies supported by Dynamics 365 Guides
 
-Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies and capabilities.
+Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies and capabilities:
 
 - Recording policy: turn off recordings for meetings and one-to-one calls
 - Chat policy: turn off the ability to chat in meetings and one-to-one calls
