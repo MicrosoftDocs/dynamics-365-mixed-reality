@@ -17,7 +17,7 @@ To access the recording policy for meetings:
 3. Create a new policy or edit an existing policy.
 4. In the **Audio & video** section, turn off the **Allow cloud recording** setting. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-teams-policies-recording-meetings.JPG "XXX")
     
 5. Save the new or modified policy.
 6. Assign the policy to a user.
@@ -30,7 +30,7 @@ To access the recording policy for meetings:
 3. Create a new policy or edit an existing policy.
 4. Turn off the **Cloud recording for calling** setting. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-teams-policies-recordings-one-to-one.JPG "XXX")
     
 5. Save the new or modified policy.
 6. Assign the policy to a user.
@@ -46,7 +46,7 @@ To access the recording policy for meetings:
 4. Scroll down to the **Participants & guests** section.
 5. In the **Allow chat in meetings** field, select **Disabled** to turn off the ability to chat. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-teams-policies-chat-meetings.JPG "XXX")
     
 5. Save the new or modified policy.
 6. Assign the policy to a user.
@@ -59,7 +59,7 @@ To access the recording policy for meetings:
 3. Create a new policy or edit an existing policy.
 4. Turn off the **Chat** setting. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-teams-policies-chat-one-to-one.JPG "XXX")
     
 5. Save the new or modified policy.
 6. Assign the policy to a user.
@@ -74,7 +74,7 @@ To access the recording policy for meetings:
     - In the **Mode for IP video** section, select **Disabled**
     - Turn off the **Allow IP video** setting.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-teams-policies-video.JPG "XXX")
     
 5. Save the new or modified policy.
 6. Assign the policy to a user.
@@ -91,7 +91,7 @@ Users you [invite as guests](add-add-guest-user.md) have limited scope of access
 3. Create a new policy or edit an existing policy.
 4. Make your changes.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-teams-policies-guest-access.JPG "XXX")
 
 5. Save the new or modified policy.
 6. Assign the policy to a user.
@@ -103,13 +103,11 @@ Users you [invite as guests](add-add-guest-user.md) have limited scope of access
 2. On the left side of the screen, select **Users**, and then select the user you want to modify policies for.
 3. Next to **Assigned policies**, select the **Edit** button.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-teams-policies-edit.JPG "XXX")
     
 4. On the right side of the screen, in the **Meeting policy** and/or the **Messaging policy** fields, enter the name of the policy.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-teams-policies-edit-pane-settings.JPG "XXX")
     
 5. Select **Apply**.
 6. Verify that the policy is working as expected in Teams desktop.
-
-    SCREENSHOT GOES HERE
