@@ -44,7 +44,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 4. Scroll down to the **Participants & guests** section.
 5. In the **Allow chat in meetings** field, select **Disabled**. 
 
-    ![Screenshot of Microsoft Teams admin center with Allow chat in meetings field highlighted.](media/calling-teams-policies-chat-meetings.JPG "Screenshot of Microsoft Teams admin center with Cloud recording for calling setting highlighted")
+    ![Screenshot of Microsoft Teams admin center with Allow chat in meetings field highlighted.](media/calling-teams-policies-chat-meetings.JPG "Screenshot of Microsoft Teams admin center with Allow chat in meetings field highlighted")
     
 5. Save the new or modified policy.
 6. [Assign the policy to a user](#assign-a-policy-to-a-user).
