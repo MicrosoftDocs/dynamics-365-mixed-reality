@@ -8,7 +8,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ## Turn off the ability to record calls
 
-### In meetings
+### For meetings
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Meeting policies**.
@@ -21,7 +21,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop. 
 
-### In one-to-one calls
+### For one-to-one calls
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Voice** > **Calling policies**. 
@@ -36,7 +36,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ## Turn off the ability to chat
 
-### In meetings
+### For meetings
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Meeting > Meetings policies**.
@@ -50,7 +50,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop. 
 
-### In one-to-one calls
+### For one-to-one calls
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Messaging policies**.
