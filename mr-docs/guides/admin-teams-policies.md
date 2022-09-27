@@ -18,7 +18,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
     ![XXX.](media/calling-teams-policies-recording-meetings.JPG "XXX")
     
 5. Save the new or modified policy.
-6. Assign the policy to a user.
+6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop. 
 
 ### In one-to-one calls
@@ -95,7 +95,7 @@ Users you [invite as guests](add-add-guest-user.md) have limited scope of access
 6. Assign the policy to a user.
 7. Verify that the policy is working as expected in Teams desktop.
 
-## Assign a policy to a selected user
+## Assign a policy to a user
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Users**, and then select the user you want to modify policies for.
