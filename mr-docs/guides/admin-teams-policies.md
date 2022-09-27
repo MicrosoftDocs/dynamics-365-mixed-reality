@@ -31,7 +31,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
     ![XXX.](media/calling-teams-policies-recording-one-to-one.JPG "XXX")
     
 5. Save the new or modified policy.
-6. Assign the policy to a user.
+6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop. 
 
 ## Turn off the ability to chat
@@ -47,7 +47,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
     ![XXX.](media/calling-teams-policies-chat-meetings.JPG "XXX")
     
 5. Save the new or modified policy.
-6. Assign the policy to a user.
+6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop. 
 
 ### In one-to-one calls
@@ -60,7 +60,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
     ![XXX.](media/calling-teams-policies-chat-one-to-one.JPG "XXX")
     
 5. Save the new or modified policy.
-6. Assign the policy to a user.
+6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop. 
 
 ## Turn off the ability to see video 
@@ -75,7 +75,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
     ![XXX.](media/calling-teams-policies-video.JPG "XXX")
     
 5. Save the new or modified policy.
-6. Assign the policy to a user.
+6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop.
 
 ## Policies for guest users
@@ -92,7 +92,7 @@ Users you [invite as guests](add-add-guest-user.md) have limited scope of access
     ![XXX.](media/calling-teams-policies-guest-access.JPG "XXX")
 
 5. Save the new or modified policy.
-6. Assign the policy to a user.
+6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop.
 
 ## Assign a policy to a user
