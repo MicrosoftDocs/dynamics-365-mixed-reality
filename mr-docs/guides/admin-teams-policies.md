@@ -15,7 +15,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 3. Create a new policy or edit an existing policy.
 4. In the **Audio & video** section, turn off the **Allow cloud recording** setting. 
 
-    ![XXX.](media/calling-teams-policies-recording-meetings.JPG "XXX")
+    ![Screenshot of Microsoft admin center with Allow cloud recording setting highlighted.](media/calling-teams-policies-recording-meetings.JPG "Screenshot of Microsoft admin center with Allow cloud recording setting highlighted")
     
 5. Save the new or modified policy.
 6. [Assign the policy to a user](#assign-a-policy-to-a-user).
