@@ -53,7 +53,7 @@
 #### [Move content](migrate.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
 
-## Author in the PC app
+## PC app (authoring)
 ### [How the PC app and HoloLens app work together](authoring-overview.md)
 ### PC app basics
 #### [PC app authoring overview](pc-app-overview.md)
@@ -90,7 +90,7 @@
 ### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 ### [Fix a corrupted guide](corrupted-guide.md)
 
-## Work with the HoloLens app (authors and operators)
+## HoloLens app (authoring and operating)
 ### Calibrate your HoloLens 2 device
 #### [Calibrate your HoloLens 2 device (authors)](hololens-app-calibrate.md)
 #### [Calibrate your HoloLens 2 device (operators](operator-calibrate-HL2.md)
@@ -98,7 +98,7 @@
 #### [Install the app and sign in](hololens-app-install-sign-in.md)
 #### [HoloLens permissions required](hololens-permissions.md)
 
-### Call a remote collaborator from the HoloLens app
+### Remote collaboration
 #### [Start a call](calling-start-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
 #### [Chat](calling-chat-file-sharing.md)
