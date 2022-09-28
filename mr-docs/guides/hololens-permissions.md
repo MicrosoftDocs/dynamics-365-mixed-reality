@@ -16,7 +16,7 @@ To use the Microsoft Dynamics 365 Guides HoloLens app, you must first provide ne
 
 If you don't provide the necessary permissions, you'll see the following dialog box that prompts you to provide them.
 
-![Guides permissions dialog box.](media/hololens-permissions-guides.jpg "Guides permissions dialog box")
+![Guides permissions dialog box.](media/hololens-permissions.JPG "Guides permissions dialog box")
 
 The following table describes the five permissions and what they're required for.  
 
