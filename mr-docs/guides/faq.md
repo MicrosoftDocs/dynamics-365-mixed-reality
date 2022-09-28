@@ -152,7 +152,7 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 
 ## Why does the HoloLens app require permissions to launch?
 
-The HoloLens app includes advanced features that rely on eye-tracking, voice, camera, and movement to function properly. For example, you need eye tracking to access the Main menu. This is intended to prevent false positives so the menu doesn't appear at the wrong time. [Learn more about the permissions required to use the HoloLens app](hololens-permissions.md)  
+The HoloLens app includes advanced features that rely on eye-tracking, voice, camera, and movement to function properly. For example, you need eye tracking to access the Main menu. [Learn more about the permissions required to use the HoloLens app](hololens-permissions.md)  
 
 ## Why can't I make a video call?
 
