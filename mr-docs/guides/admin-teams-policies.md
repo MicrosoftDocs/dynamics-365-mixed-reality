@@ -33,6 +33,9 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ### For one-to-one calls
 
+> [!NOTE]
+> Changes you make to one-to-one policies also apply to group calls.
+
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Voice** > **Calling policies**. 
 3. Create a new policy or edit an existing policy.
@@ -61,6 +64,9 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 7. Verify that the policy is working as expected in Teams desktop. 
 
 ### For one-to-one calls
+
+> [!NOTE]
+> Changes you make to one-to-one policies also apply to group calls.
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Messaging policies**.
@@ -119,3 +125,19 @@ Users you [invite as guests](admin-add-guest-user.md) have limited scope of acce
     
 5. Select **Apply**.
 6. Verify that the policy is working as expected in Teams desktop.
+
+## FAQ on Teams policies
+
+### Can a policy be applied to a device or an app?
+
+No, policies can only be applied to users or groups.
+
+### Do one-to-one policies also apply to group calls?
+
+Yes, one-to-one policies also apply to group calls, but meetings have their own policy.
+
+
+
+
+
+
