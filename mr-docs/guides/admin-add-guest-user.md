@@ -33,6 +33,8 @@ When a user joins an organization as a guest, a **(Guest)** label appears next t
 
 - The Dynamics 365 Guides PC app does not support guest access. 
 
+- Guest users cannot record calls in the HoloLens app.
+
 - Anyone with a consumer email account (for example, an Outlook.com or Gmail.com account) can be a guest user in Azure Active Directory, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
 
 > [!NOTE]
