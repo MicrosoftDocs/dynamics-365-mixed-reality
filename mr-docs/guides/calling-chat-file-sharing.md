@@ -51,7 +51,7 @@ To start a chat:
     >[!Note]
     > Dynamics 365 Guides chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlinks. However, it does not support HTML-formatted text or lists, such as a passage you copy and paste from a website. 
     >
-    > For example, if you copy and paste text from a website that has HTML formatting and send it during a Dynamics 365 Guides call, the Dynamics 365 Guides user will see the text in the Chat window, but the formatting may not be what you expect.
+    > For example, if you copy and paste text from a website that has HTML formatting and send it during a Dynamics 365 Guides call, the Dynamics 365 Guides user will see the plain text in the Chat window, but the formatting may not be what you expect.
 
 ## Start a chat from Teams mobile
 
