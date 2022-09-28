@@ -26,7 +26,7 @@ The following table describes the five permissions and what they're required for
 |Camera|Required to [make video calls](calling-start-call.md), to understand the space around you, and more.| 
 |Microphone|Required to [make voice calls](calling-start-call.md) and use [voice commands](voice-commands.md).|  
 |Background spatial perception (movement)|Required for [annotations](calling-annotations.md).|
-|Location|Optional, but required if you do call logging through the Calls Dashboard.|
+|Location|Optional, but required if you do call logging with call data.|
 
 You can also turn each permission on/off through **Settings**. 
 
