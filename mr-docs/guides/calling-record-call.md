@@ -15,6 +15,9 @@ Recording a call in the Dynamics 365 Guides HoloLens app is great for training o
 
 Read about the [layout for this type of call](#cloud-based-recording-layout) before deciding whether to record using this method. You may also want to consider [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording). 
 
+> [!NOTE]
+> Call recording is not available to users [signed in to Dynamics 365 Guides as a guest](admin-add-guest-user.md).
+
 ## Overview of cloud-based recording 
 
 A cloud-based call recording can be initiated by the Dynamics 365 Guides Hololens user or the Teams user. 
