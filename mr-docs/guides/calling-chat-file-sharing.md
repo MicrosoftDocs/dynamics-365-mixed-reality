@@ -145,7 +145,6 @@ This article shows how to share a file or screen with a Dynamics 365 Guides user
 ## Use Teams desktop (PC or Mac) to share a file 
 
 You can share a OneDrive for Business file or a local file with a Dynamics 365 Guides user. Dynamics 365 Guides does not support sharing from a shared SharePoint site.   
-
 Use one of the following methods to share a file:
 
 - In the **Mixed Reality** toolbar, select **Add file** to share a file from OneDrive for Business or your computer. 
@@ -158,7 +157,7 @@ Use one of the following methods to share a file:
 
 - Paste the file into the **Chat** window.
 
-When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space.
+When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space. Note, however, that Teams mobile users can only annotate in one-to-one calls. 
 
 > [!Note]
 > After you share a file, you can't move, delete, or resize the file.
