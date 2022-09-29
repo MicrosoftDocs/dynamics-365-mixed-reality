@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Start a chat and share a file in Dynamics 365 Guides on HoloLens 
 
-When a Dynamics 365 Guides user on HoloLens is on a call with one or more remote collaborators on Microsoft Teams desktop, Microsoft Teams mobile, or Dynamics 365 Remote Assist, call participants can chat with each other, and the remote collaborator(s) on Teams or Dynamics 365 Remote Assist can share files or page links in the Chat window. This is particularly useful in service-related scenarios where the remote expert wants to share a diagram or some other illustration to help the Dynamics 365 Guides user diagnose and/or solve a problem.
+When a Dynamics 365 Guides user on HoloLens is on a call with one or more remote collaborators on Microsoft Teams desktop, Microsoft Teams mobile, or Dynamics 365 Remote Assist, call participants can chat with each other, and the remote collaborator(s) on Teams or Dynamics 365 Remote Assist can share files or page links in the **Chat** window. This is particularly useful in service-related scenarios where the remote expert wants to share a diagram or some other illustration to help the Dynamics 365 Guides user diagnose and/or solve a problem.
 
 > [!NOTE]
 > An adminstrator can remove the ability for a user to chat by modifying a Microsoft Teams policy. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
@@ -37,7 +37,7 @@ When a Dynamics 365 Guides user on HoloLens is on a call with one or more remote
 
    ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.JPG "Screenshot showing example file shared with the user")
 
-   The remote collaborator can also paste a link into the Chat window to share a file.  
+   The remote collaborator can also paste a link into the **Chat** window to share a file.  
    
    > [!NOTE]
    > A remote collaborator can share a file with a Dynamics 365 Guides user, but the Dynamics 365 Guides user cannot share a file with other participants on the call.
@@ -56,12 +56,12 @@ To start a chat:
 
     ![Screenshot showing call controls with Chat button highlighted.](media/calling-teams-start-chat.JPG)    
 
-2. To send a OneDrive or local file through chat, select the **Attach file** button or paste the file directly into the Chat window. 
+2. To send a OneDrive or local file through chat, select the **Attach file** button or paste the file directly into the **Chat** window. 
 
     >[!Note]
     > Dynamics 365 Guides chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlinks. However, it does not support HTML-formatted text or lists, such as a passage you copy and paste from a website. 
     >
-    > For example, if you copy and paste text from a website that has HTML formatting and send it during a Dynamics 365 Guides call, the Dynamics 365 Guides user will see the plain text in the Chat window, but the formatting may not be what you expect.
+    > For example, if you copy and paste text from a website that has HTML formatting and send it during a Dynamics 365 Guides call, the Dynamics 365 Guides user will see the plain text in the **Chat** window, but the formatting may not be what you expect.
 
 ## Start a chat from Teams mobile
 
@@ -97,9 +97,9 @@ Use one of the following methods to share a file:
 
    The file will be uploaded to your OneDrive for Business folder and permissions to access that single file will be granted to all call participants.    
 
-- In the Teams Chat window, select **Attach file** to share a file from OneDrive for Business or your computer. 
+- In the Teams **Chat** window, select **Attach file** to share a file from OneDrive for Business or your computer. 
 
-- Paste the file into the Chat window.
+- Paste the file into the **Chat** window.
 
 When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space.
 
@@ -157,9 +157,9 @@ Use one of the following methods to share a file:
 
    The file will be uploaded to your OneDrive for Business folder and permissions to access that single file will be granted to all call participants.    
 
-- In the Teams Chat window, select **Attach file** to share a file from OneDrive for Business or your computer. 
+- In the Teams **Chat** window, select **Attach file** to share a file from OneDrive for Business or your computer. 
 
-- Paste the file into the Chat window.
+- Paste the file into the **Chat** window.
 
 When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space.
 
