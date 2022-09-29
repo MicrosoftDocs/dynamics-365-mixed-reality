@@ -7,4 +7,5 @@ Location data is only stored in Microsoft Dataverse if the user consents to stor
 ## View calling data
 
 1. [Open the Guides model-driven app](open-model-driven-app.md).
-2. 
+2. Do what?
+3. ![Screenshot of model-driven app with call information.](media/call-logging-model-driven-app.JPG "Screenshot of model-driven app with call information")
