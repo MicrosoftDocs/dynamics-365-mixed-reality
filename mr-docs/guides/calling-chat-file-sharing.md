@@ -31,7 +31,7 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
 
     ![Screenshot showing holographic keyboard with Microphone button highlighted for dictation option.](media/calling-chat-file-sharing-4.JPG "Screenshot showing holographic keyboard with Microphone button highlighted for dictation option")
     
-4. If a remote expert on the call shares a file, the file or page automatically opens in a new window in your space. You can move this window wherever you want or size it directly with your hands. 
+4. When a remote collaborator shares a file, the file or page automatically opens in a new window in Dynamiccs 365 Guides user's space. The Dynamics 365 Guides user can move this window wherever they want or size it directly with their hands. 
 
    ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.JPG "Screenshot showing example file shared with the user")
 
