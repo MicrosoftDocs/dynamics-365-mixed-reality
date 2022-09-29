@@ -200,27 +200,28 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 ## Access a OneDrive file through the Main menu 
 
-You can access OneDrive files from the Main menu. This makes it easy to find a file whether you're on a call or working with a guide. You can only open image files and .pdf files through the Main menu. 
+You can access OneDrive files from the Main menu. This makes it easy to find a file whether you're on a call or working with a guide. You can only open image files and .pdf files through the Main menu, however. 
 
 1. Look at the palm of your hand to open the **Main** menu, and then select the **Files** button.
 
     SCREENSHOT GOES HERE
 
-2. This opens the OneDrive screen.
+   This opens the OneDrive screen.
 
     SCREENSHOT GOES HERE
     
-3. Use direct touch to open a folder. When you open a folder, breadcrumbs appear at the top of the screen to show you where you are in the folder structure.
+2. Use direct touch to open a folder. When you open a folder, breadcrumbs appear at the top of the screen to show you where you are in the folder structure.
 
     SCREENSHOT GOES HERE   
     
-    You can select a folder in the breadcrumb to access that folder. If there are too many folders to list in the breadcrumps, an ellipsis (...) appears at the beginning of the breadcrumb.
-    
-    To go back to the root folder, select the **OneDrive** button.
+    You can select a folder in the breadcrumb to access that folder. If there are too many folders to list in the breadcrumps, an ellipsis (...) appears at the beginning of the breadcrumb. To go back to the root folder, select the **OneDrive** button.
     
     SCREENSHOT GOES HERE
+
+    > [!TIP]
+    > If a folder name is truncated, you can see the full folder name by hovering your cursor over the folder. 
     
-4. When you open a file, the file appears in a new window. You can manipulate that window like any other window in Dynamics 365 Guides.
+3. When you open a file, the file appears in a new window. You can manipulate that window like any other window in Dynamics 365 Guides.
 
     SCREENSHOT GOES HERE
     
