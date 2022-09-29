@@ -15,11 +15,11 @@ When a Dynamics 365 Guides user on HoloLens is on a call with one or more remote
 > [!NOTE]
 > An adminstrator can remove the ability for a user to chat by modifying a Microsoft Teams policy. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
 
-## Chat from Dynamics 365 Guides
+## Start a chat from Dynamics 365 Guides
 
 ### Receive a chat message 
 
-1. If you receive a chat message while you're on a call, a red circle appears on the **Chat** button, and the **Chat** button animates. Select the **Chat** button to open the chat. 
+1. If you receive a chat message, a red circle appears on the **Chat** button, and the **Chat** button animates. Select the **Chat** button to open the chat. 
 
     ![Screenshot of Meetings window with Chat button highlighted.](media/calling-chat-file-sharing-1.JPG "Screenshot of Meetings window with Chat button highlighted")
     
@@ -45,9 +45,6 @@ When a Dynamics 365 Guides user on HoloLens is on a call with one or more remote
 ### Start a chat
 
 - Select the **Chat** button. 
-
-> [!NOTE]
-> You can't share a file from Dynamics 365 Guides. You can only receive files. 
 
 ## Start a chat from Teams desktop (PC or Mac)
 
