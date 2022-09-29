@@ -15,7 +15,7 @@ When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one 
 > [!NOTE]
 > An adminstrator can remove the ability for a user to chat by modifying a Microsoft Teams policy. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
 
-## Start a chat
+## Start a chat in Dynamics 365 Guides
 
 1. If you receive a chat message while you're on a call, a red circle appears on the **Chat** button, and the **Chat** button animates. Select the **Chat** button to open the chat. 
 
@@ -123,6 +123,66 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 2. Select **Insert file**, and then select **Photo**. 
 
 3. Take a photo or select a photo from your mobile device’s photo gallery. 
+A remote collaborator on Microsoft Teams (PC, Mac, or mobile) can share a file or their screen when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a .pdf file of a diagram to help the Dynamics 365 Guides user resolve a problem.
+
+- **When to share a file**. The remote collaborator can share a file for the following file types: .jpg, .bmp, .png, .tif/.tiff, .pdf, still gif.
+
+- **When to share a desktop or application window**. To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can share their desktop or application window. 
+
+This article shows how to share a file or screen with a Dynamics 365 Guides user. The article also describes the behavior of a shared screen. 
+
+> [!NOTE]
+> Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
+>
+> - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
+>
+> - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
+
+## Use Teams desktop (PC or Mac) to share a file 
+
+You can share a OneDrive for Business file or a local file with a Dynamics 365 Guides user. Dynamics 365 Guides does not support sharing from a shared SharePoint site.   
+
+Use one of the following methods to share a file:
+
+- In the **Mixed Reality** toolbar, select **Add file** to share a file from OneDrive for Business or your computer. 
+
+   ![Screenshot of Mixed Reality toolbar with Add file button highlighted.](media/calling-file-sharing-teams-desktop-mr-toolbar.JPG "SharePhoto") 
+
+   The file will be uploaded to your OneDrive for Business folder and permissions to access that single file will be granted to all call participants.    
+
+- In the Teams Chat window, select **Attach file** to share a file from OneDrive for Business or your computer. 
+
+- Paste the file into the Chat window.
+
+When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space.
+
+> [!Note]
+> After you share a file, you can't move, delete, or resize the file.
+
+## Use Teams mobile to share a file 
+
+### Share a OneDrive for Business file 
+
+> [!NOTE]
+> Dynamics 365 Guides does not support sharing from a shared SharePoint site.   
+
+1. In the call controls, select the **More info** button […].
+
+    ![Screenshot of Call controls with More info button highlighted.](media/calling-file-sharing-mobile-call-controls.JPG "SharePhoto")
+
+2. Select **Insert file**, and then select whether to insert the file from OneDrive for Business or from a Teams team or channel. You can insert an image, still gif, video, or .pdf file.
+
+    The file is uploaded to OneDrive for Business and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive for Business folder by selecting the **OneDrive** button in the upper-right corner of the window. The file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
+
+### Share a photo from your phone 
+
+1. In the call controls, select the **More info** button […].
+
+    ![Screenshot of Call controls with More info button highlighted.](media/calling-file-sharing-mobile-call-controls.JPG "SharePhoto")
+
+2. Select **Insert file**, and then select **Photo**. 
+
+3. Take a photo or select a photo from your mobile device’s photo gallery. 
 
     ![Screenshot of the photo option in Teams mobile.](media/calling-file-sharing-photo-teams-mobile.JPG "SharePhoto")
 
@@ -130,5 +190,37 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 5. Send the photo.    
 
+    The file is uploaded to OneDrive for Business and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive for Business folder by selecting the **OneDrive** button in the upper-right corner of the window. The file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.    ![Screenshot of the photo option in Teams mobile.](media/calling-file-sharing-photo-teams-mobile.JPG "SharePhoto")
+
+4. Select the text chat. The photo is attached to a blank message. 
+
+5. Send the photo.    
+
     The file is uploaded to OneDrive for Business and appears as a new window in the Dynamics 365 Guides user’s environment. The Dynamics 365 Guides user can save the file to their OneDrive for Business folder by selecting the **OneDrive** button in the upper-right corner of the window. The file is then saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat after the call ends.
 
+## Access a OneDrive file through the Main menu 
+
+You can access OneDrive files from the Main menu. This makes it easy to find a file whether you're on a call or working with a guide. You can only open image files and .pdf files through the Main menu. 
+
+1. Look at the palm of your hand to open the **Main** menu, and then select the **Files** button.
+
+    SCREENSHOT GOES HERE
+
+2. This opens the OneDrive screen.
+
+    SCREENSHOT GOES HERE
+    
+3. Use direct touch to open a folder. When you open a folder, breadcrumbs appear at the top of the screen to show you where you are in the folder structure.
+
+    SCREENSHOT GOES HERE   
+    
+    You can select a folder in the breadcrumb to access that folder. If there are too many folders to list in the breadcrumps, an ellipsis (...) appears at the beginning of the breadcrumb.
+    
+    To go back to the root folder, select the **OneDrive** button.
+    
+    SCREENSHOT GOES HERE
+    
+4. When you open a file, the file appears in a new window. You can manipulate that window like any other window in Dynamics 365 Guides.
+
+    SCREENSHOT GOES HERE
+    
