@@ -107,6 +107,7 @@
 #### [Annotations](calling-annotations.md)
 #### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
 #### [Teams users](calling-teams-users.md)
+#### [Call logging](call-logging.md)
 
 ### Author a guide (HoloLens)
 #### Basics
