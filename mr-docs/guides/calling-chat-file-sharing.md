@@ -8,7 +8,7 @@ ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
-# Start a chat and share files in Dynamics 365 Guides on HoloLens 
+# Start a chat and share a file in Dynamics 365 Guides on HoloLens 
 
 When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one or more remote collaborators on Microsoft Teams desktop or Microsoft Teams mobile. A remote collaborator on the call can share files or links with you in the Chat window. This is particularly useful in service-related scenarios where the remote expert wants to share a diagram or some other illustration to help you diagnose and/or solve a problem.
 
