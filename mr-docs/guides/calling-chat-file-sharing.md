@@ -98,7 +98,7 @@ Use one of the following methods to share a file:
 
 - Paste the file into the **Chat** window.
 
-When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) (Teams mobile users can only annotate in one-to-one calls, however) displayed in the Dynamics 365 Guides user's space.
+When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space. Note, however, that Teams mobile users can only annotate in one-to-one calls. 
 
 > [!Note]
 > After you share a file, you can't move, delete, or resize the file.
