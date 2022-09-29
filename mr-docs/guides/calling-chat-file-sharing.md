@@ -10,12 +10,12 @@ ms.reviewer: v-bholmes
 
 # Start a chat and share a file in Dynamics 365 Guides on HoloLens 
 
-When you're on a call in Dynamics 365 Guides on HoloLens, you can chat with one or more remote collaborators on Microsoft Teams desktop, Microsoft Teams mobile, or Dynamics 365 Remote Assist. A remote collaborator on the call can share files or links with you in the Chat window. This is particularly useful in service-related scenarios where the remote expert wants to share a diagram or some other illustration to help you diagnose and/or solve a problem.
+When a Dynamics 365 Guides user on HoloLens is on a call with one or more remote collaborators on Microsoft Teams desktop, Microsoft Teams mobile, or Dynamics 365 Remote Assist, call participants can chat with each other, and the remote collaborator(s) on Teams or Dynamics 365 Remote Assist can share files or links in the Chat window. This is particularly useful in service-related scenarios where the remote expert wants to share a diagram or some other illustration to help the Dynamics 365 Guides user diagnose and/or solve a problem.
 
 > [!NOTE]
 > An adminstrator can remove the ability for a user to chat by modifying a Microsoft Teams policy. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
 
-## Start a chat in Dynamics 365 Guides
+## Start a chat from Dynamics 365 Guides
 
 1. If you receive a chat message while you're on a call, a red circle appears on the **Chat** button, and the **Chat** button animates. Select the **Chat** button to open the chat. 
 
@@ -200,7 +200,10 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 ## Access a OneDrive file through the Main menu 
 
-You can access OneDrive files from the Main menu. This makes it easy to find a file whether you're on a call or working with a guide. You can only open image files and .pdf files through the Main menu, however. 
+You can access OneDrive for Business files from the Main menu. This makes it easy to find a file whether you're on a call or working with a guide. You can only open image files and .pdf files through the Main menu, however. 
+
+> [!NOTE]
+> Dynamics 365 Guides does not support uploading content from shared SharePoint sites.
 
 1. Look at the palm of your hand to open the **Main** menu, and then select the **Files** button.
 
