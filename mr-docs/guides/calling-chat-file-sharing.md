@@ -71,7 +71,7 @@ To start a chat:
 
 ## Share a file from Teams
 
-A remote collaborator on Teams (PC, Mac, or mobile) can share a file when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a .pdf file of a diagram to help the Dynamics 365 Guides user resolve a problem. The remote collaborator can share the following types of files: .jpg, .bmp, .png, .tif/.tiff, .pdf, still gif.
+A remote collaborator on Teams (PC, Mac, or mobile) can share a file when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a .pdf file of a diagram to help the Dynamics 365 Guides user resolve a problem. The remote collaborator can share the following types of files: .jpg, .bmp, .png, .tif/.tiff, .pdf, still gif. 
 
 To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can [share their desktop or application window](calling-screen-sharing.md). 
 
