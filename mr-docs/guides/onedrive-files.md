@@ -23,3 +23,6 @@ You can access OneDrive for Business files from the Main menu in the Microsoft D
 3. When you open a file, the file appears in a new window. You can manipulate that window like any other window in Dynamics 365 Guides.
 
     ![XXX.](media/calling-one-drive-files-opened-file.JPG "XXX")
+    
+> [!NOTE]
+> If a remote collaborator on Microsoft Teams sends a file to a Dynamics 365 Guides user through chat, the file is displayed in the same was as if the user opened the file from their OneDrive for Business folder, but the file isn't saved to the user's OneDrive for Business folder. 
