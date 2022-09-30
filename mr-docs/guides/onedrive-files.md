@@ -7,13 +7,13 @@ You can access OneDrive for Business files from the Main menu in Microsoft Dynam
 
 1. Look at the palm of your hand to open the **Main** menu, and then select the **Files** button.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-one-drive-files-main-menu.JPG "XXX")
 
    This opens the OneDrive screen.
 
 2. Use direct touch to open a folder. When you open a folder, breadcrumbs appear at the top of the screen to show you where you are in the folder structure.
 
-    SCREENSHOT GOES HERE   
+    ![XXX.](media/calling-one-drive-files-breadcrumbs.JPG "XXX")
     
     You can select a folder in the breadcrumb to access that folder. If there are too many folders to list in the breadcrumps, an ellipsis (...) appears at the beginning of the breadcrumb. To go back to the root folder, select the **OneDrive** button.
     
@@ -22,4 +22,4 @@ You can access OneDrive for Business files from the Main menu in Microsoft Dynam
     
 3. When you open a file, the file appears in a new window. You can manipulate that window like any other window in Dynamics 365 Guides.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/calling-one-drive-files-opened-file.JPG "XXX")
