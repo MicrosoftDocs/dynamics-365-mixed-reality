@@ -91,9 +91,8 @@
 ### [Fix a corrupted guide](corrupted-guide.md)
 
 ## HoloLens app (authoring and operating)
-### Calibrate your HoloLens 2 device
-#### [Calibrate your HoloLens 2 device (authors)](hololens-app-calibrate.md)
-#### [Calibrate your HoloLens 2 device (operators](operator-calibrate-HL2.md)
+### Calibrate your HoloLens
+#### [Calibrate your HoloLens](hololens-app-calibrate.md)
 ### Install the app and sign in
 #### [Install the app and sign in](hololens-app-install-sign-in.md)
 #### [HoloLens permissions required](hololens-permissions.md)
