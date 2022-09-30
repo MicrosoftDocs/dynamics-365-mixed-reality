@@ -25,4 +25,4 @@ You can open a OneDrive for Business file from the Main menu in the Microsoft Dy
     ![XXX.](media/calling-one-drive-files-opened-file.JPG "XXX")
     
 > [!NOTE]
-> If a remote collaborator on Microsoft Teams sends a file to a Dynamics 365 Guides user through chat, the file is displayed in the same was as if the user opened the file from their OneDrive for Business folder, but the file isn't saved to the user's OneDrive for Business folder. 
+> If a remote collaborator on Microsoft Teams sends a file to a Dynamics 365 Guides user through chat, the file is displayed in the same was as if the user opened the file from their OneDrive for Business folder, but the file can't be saved to the user's OneDrive for Business folder. 
