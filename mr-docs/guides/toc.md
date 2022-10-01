@@ -53,12 +53,13 @@
 #### [Move content](migrate.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
 
-## HoloLens app
-
-### Install the app and sign in
+## Install the HoloLens and PC apps
+### Install the HoloLens app and sign in
 #### [Install the app and sign in](hololens-app-install-sign-in.md)
 #### [HoloLens permissions required](hololens-permissions.md)
-### [Start an activity](main-menu.md)
+### [Install the PC app and sign in](install-sign-in-pc-app.md)
+
+## [Start an activity](main-menu.md)
 
 ### Collaborate with Teams users
 #### [Start a call](calling-start-call.md)
@@ -77,17 +78,12 @@
 #### [How the PC app and HoloLens apps work together](authoring-overview.md)
 
 #### Author a guide in the PC app
-
 ##### Basics
-
 ###### [PC app authoring overview](pc-app-overview.md)
-###### [Install the app and sign in](install-sign-in-pc-app.md)
-###### [Calibrate your HoloLens](hololens-app-calibrate.md)
 ###### [Create a guide](create-guide.md)
 ###### [Find a guide](pc-app-find-guide.md)
 ###### [Rename a guide](pc-app-rename-guide.md)
 ###### [Create folders to organize your guides](admin-create-folders.md)
-
 ##### Anchor your guide to the real world
 ###### [Overview of anchoring a guide with the PC app](pc-app-anchor.md)
 ###### [Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md)
@@ -97,7 +93,6 @@
 ###### [Change anchor type](pc-app-anchor-change-type.md)
 ###### [Effect of calibration, pre-scanning, and environment on hologram precision](pc-app-anchor-improve-hologram-precision.md)
 ###### [Effect of anchor types/placement on hologram precision](pc-app-anchor-types-placement-precision.md)
-
 ##### [Structure your guide in the Outline page](structure-guide.md)
 ##### Create steps and add 3D models or media
 ###### [Step Editor overview](pc-app-step-editor-overview.md)
@@ -108,7 +103,6 @@
 ###### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
 ###### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 ###### [Use rich-text formatting in instruction card text](pc-app-colors-rich-text.md)
-
 ##### [Create a trigger for step navigation](pc-app-trigger.md)
 ##### [Create a branching (non-linear) guide](pc-app-branching.md)
 ##### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
@@ -120,7 +114,8 @@
 
 #### Author a guide in the HoloLens app
 ##### Basics
-###### [Overview of authoring a guide](hololens-app-overview.md)
+###### [Overview of authoring a guide in the HoloLens app](hololens-app-overview.md)
+###### [Calibrate your HoloLens](hololens-app-calibrate.md)
 ###### [Find and open a guide](find-guide.md)
 ###### [Create folders to organize your guides](admin-create-folders.md)
 ###### [Anchor your guide to the real world](hololens-app-anchor.md)
