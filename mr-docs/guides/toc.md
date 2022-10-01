@@ -59,8 +59,8 @@
 #### [HoloLens permissions required](hololens-permissions.md)
 ### [Install the PC app and sign in](install-sign-in-pc-app.md)
 
-## [Start an activity](main-menu.md)
-
+## Start an activity
+### [Start an activity](main-menu.md)
 ### Collaborate with Teams users
 #### [Start a call](calling-start-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
@@ -159,7 +159,7 @@
 ###### [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
 ###### [Share Guides Analytics reports](analytics-ga-share-reports.md)
 
-### [Files](open-one-drive-files.md)
+### [Files](onedrive-files.md)
 ### Gestures
 #### [Authoring gestures](authoring-gestures-HL2.md)
 #### [Operatoring gestures](operator-gestures-HL2.md)
