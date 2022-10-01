@@ -214,7 +214,6 @@
 #### [HoloLens app](known-issues-hololens-app.md)
 ### [Submit feedback](submit-feedback.md)
 
-## [Use HoloLens (1st gen) devices](HL1.md)
 ## [Legal terms and notices for Dynamics 365 Guides](legal.md)
 
 
