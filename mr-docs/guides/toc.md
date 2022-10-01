@@ -72,7 +72,7 @@
 #### [Teams users](calling-teams-users.md)
 #### [Call logging](call-logging.md)
 
-### Author and operate guides
+### Author, operate, and analyze guides
 
 #### [How the PC app and HoloLens apps work together](authoring-overview.md)
 
