@@ -159,7 +159,7 @@ If you're on a longer call, the HoloLens device can become hot if it's using sev
 
 ### Use the call controls
 
-When you're on a call, you'll see the call controls at the bottom of the screen. 
+When you're on a call, you'll see the call controls at the bottom of the screen. The following table describes the call controls. 
 
 |Button|Description|
 |------------|----------------------------------------------|
