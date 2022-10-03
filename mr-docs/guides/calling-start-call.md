@@ -68,7 +68,7 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
        
 ### Start a one-to-one call with a Teams contact outside your organization
 
-You can search for and call a Teams user in another organization if your organization is federated with that organization. To call a federated user, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Microphone** button if you prefer to use your voice). You won't see any search results if you enter just a name or a partial email address. 
+You can search for and call a Teams contact in another organization if your organization is federated with that organization. To call a federated user, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Microphone** button if you prefer to use your voice). You won't see any search results if you enter just a name or a partial email address. 
 
 After you call a federated contact, they appear in your recent contacts list, so you don't have to search for that contact again.
 
