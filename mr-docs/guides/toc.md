@@ -62,7 +62,7 @@
 ## Activities
 ### [Start an activity](main-menu.md)
 ### Collaborate with Teams users
-#### [Start a call](calling-start-call.md)
+#### [Call a remote collaborator](calling-start-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
 #### [Chat](calling-chat-file-sharing.md)
 #### [Record a call](calling-record-call.md)
