@@ -15,7 +15,8 @@ The following table describes the features that are available as a Teams desktop
 |Send a text message    |Yes |   
 |Share a file from OneDrive or your device  |Yes |       
 |Record a call  |Yes|
-|Share your screen  |Yes|                                                                                                                                                                                                                      
+|Share your screen  |Yes|                                                                                                                                                                   
+
 The following table describes the features that are available as a Teams mobile user when you're collaborating on a call with a Dynamics 365 Guides user. 
 
 | Feature | Available on Teams mobile? | 
