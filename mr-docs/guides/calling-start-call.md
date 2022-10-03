@@ -59,7 +59,7 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
       ![Screenshot of call details screen.](media/calling-start-call-2.JPG "Screenshot of call details screen")
 
-    You'll see the contact's video feed, activity controls, calling controls, and the **Annotate** toolbar. The green indicator below the activity controls shows that you're on a call with that contact. This is useful to remind you that you're on a call if you select a different type of activity, such as opening a guide or file. 
+    You'll see the contact's video feed, activity controls, calling controls, and the **Annotate** toolbar. The green indicator below the activity controls shows that you're on a call with that contact. This is useful as a reminder in case you select a different type of activity, such as opening a guide or file. 
 
     ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.JPG "Screenshot of video feed, controls, and Annotate toolbar")
     
