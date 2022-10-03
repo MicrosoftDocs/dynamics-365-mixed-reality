@@ -22,7 +22,7 @@ The following table describes each button on the Main menu.
 |Button|Description|
 |--------|-------------------------------------------------------------------------------------------------|
 |![Work activity button.](media/main-menu-work-activity1-button.JPG "Work activity button")|Select and open a guide or search for a guide.|
-|![Communications button.](media/main-menu-communications1-button.JPG "Communications button")|Start a call, chat, share screen or files, annotate.|
+|![Communications button.](media/main-menu-communications1-button.JPG "Communications button")|Call a Microsoft Teams collaborator, share files, screens, or annotations, and chat.|
 |![Files button.](media/main-menu-files1-button.JPG "Settings button")|Open a OneDrive for Business file. |
 |![Profile button.](media/main-menu-profile1-button.JPG "Profile button")| Access your profile settings or sign out.|
 
