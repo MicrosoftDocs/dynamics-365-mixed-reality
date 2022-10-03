@@ -98,7 +98,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
     ![Screenshot of one-to-one call with Open Participants button highlighted.](media/calling-start-call-4.JPG "Screenshot of one-to-one call with Open Participants button highlighted")
         
-2. Select the **Participants** button to the right of the video feed to display a list of recent contacts.
+2. Select the **Participants** button in the Participants area (to the right of the video feed) to display a list of recent contacts.
 
     ![Screenshot of right side of screen with Participants button highlighted.](media/calling-start-call-5.JPG "Screenshot of right side of screen with Participants button highlighted")
    
