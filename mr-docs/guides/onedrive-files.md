@@ -3,7 +3,7 @@
 You can open a OneDrive for Business file from the Main menu in the Microsoft Dynamics 365 Guides HoloLens app. This makes it easy to open a file whether you're on a call, authoring a guide, or operating a guide. You can only open image files and .pdf files through the Main menu, however. 
 
 > [!NOTE]
-> Dynamics 365 Guides does not support uploading content from shared SharePoint folders or personal OneDrive folders.
+> You can't open content from shared SharePoint folders or personal OneDrive folders in Dynamics 365 Guides.
 
 1. Look at the palm of your hand to open the **Main** menu, and then select the **Files** button.
 
