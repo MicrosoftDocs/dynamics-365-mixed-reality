@@ -8,14 +8,15 @@ title: Enable or disable calling for a Dynamics 365 Guides environment
 ms.reviewer: v-bholmes
 ---
 
-# Enable or disable calling (Preview) in a Dynamics 365 Guides environment
+# Enable or disable calling in a Dynamics 365 Guides environment
 
-> [!IMPORTANT]
-> The Calling feature for Dynamics 365 Guides is in Preview, so not all functionality is available yet. We're working to bring additional features such as chat and text scaling in later Dynamics 365 Guides releases. Please be aware of these limitations before using the Calling Preview.
+Calling in Microsoft Dynamics 365 Guides is enabled by default. When calling is enabled, a Dynamics 365 Guides HoloLens user can call a remote collaborator. The remote collaborator can join the call using Microsoft Teams desktop (PC or Mac) or the Teams mobile app. During the call, the remote collaborator can see everything seen by the Dynamics 365 Guides user, including holograms and the real world behind the holograms.
 
-As of the November 2021 release of Dynamics 365 Guides, calling is enabled by default. When calling is enabled, a Microsoft Dynamics 365 Guides HoloLens user can make a one-to-one call to a remote collaborator. The remote collaborator can join the call using the Microsoft Teams desktop app or the mobile app. During the call, the remote collaborator can see everything seen by the Dynamics 365 Guides user, including holograms and the real world behind the holograms.
+If you're an admin for Dynamics 365 Guides, you can enable or disable calling for a user in a specific Dynamics 365 Guides environment. Enabling or disabling calling for a specific environment is useful:
 
-If you're an admin for Dynamics 365 Guides, you can enable or disable calling for a user in a specific Dynamics 365 Guides environment. Enabling or disabling calling by environment is useful when operators or authors do not need to work with remote collaborators. Or if it is preferred that HoloLens users are not able to start a call and allow remote collaborators to see everything that they see while working in Dynamics 365 Guides.  
+- When operators or authors do not need to work with remote collaborators. 
+
+- You don't want HoloLens users to be able to reveal proprietary through a call. 
 
 [Learn about licensing requirements and limitations when making calls in Dynamics 365 Guides](requirements.md)
 
