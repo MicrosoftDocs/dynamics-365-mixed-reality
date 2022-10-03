@@ -61,7 +61,7 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
     You'll see the contact's video feed, calling and activity controls, and the **Annotate** toolbar. The green indicator to the lower left of the video feed shows that you're on a call with that contact. This is useful to remind you that you're on a call, if you select a different type of activity such as opening a guide or file. 
 
-    ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.JPG "Screenshot of video feed, controls, and Annotate toolbar!NO
+    ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.JPG "Screenshot of video feed, controls, and Annotate toolbar")
     
 > [!NOTE]
 > You can't mute or remove a call participant in a one-to-one call. 
