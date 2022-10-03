@@ -174,7 +174,7 @@ To use additional features, select the **More info** […] button. For example, 
 ## Receive a call in Teams mobile from a Dynamics 365 Guides user 
 
 > [!NOTE]
-> At this time, you can't call a Dynamics 365 Guides user from Teams mobile. You must initiate the call from Dynamics 365 Guides. 
+> At this time, you can't call a Dynamics 365 Guides user from Teams mobile. The Dynamics 365 Guides user must initiate the call. 
 
 Use the call controls at the bottom of the screen in Teams mobile for the following actions.
 
