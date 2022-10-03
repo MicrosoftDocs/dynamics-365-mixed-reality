@@ -41,7 +41,7 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 > [!NOTE]
 > At this time, you can't receive a call in Dynamics 365 Guides from a Teams or Dynamics 365 Remote Assist user. You must initiate the call from Dynamics 365 Guides. 
 
-### Start a one-to-one call with a contact in your organization 
+### Start a one-to-one call with a Teams contact in your organization 
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Communications** button.
 
