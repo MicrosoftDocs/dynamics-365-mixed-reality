@@ -21,10 +21,10 @@ The following table describes each button on the Main menu.
 
 |Button|Description|
 |--------|-------------------------------------------------------------------------------------------------|
-|![Work activity button.](media/main-menu-work-activity-button.jpg "Work activity button")|Select and open a guide or search for a guide.|
-|![Call activity button.](media/main-menu-call-activity-button.jpg "Call activity button")|Find a contact and start a call.|
-|![Settings button.](media/main-menu-settings-button.jpg "Settings button")|Change the **Narrator** or **Telemetry** setting. You can also use the **Settings** button to access Help topics and videos, access policy and license links, and determine which version of the HoloLens software you're using. |
-|![Profile button.](media/main-menu-profile-button.jpg "Profile button")| Sign out.|
+|![Work activity button.](media/main-menu-work-activity1-button.JPG "Work activity button")|Select and open a guide or search for a guide.|
+|![Communications button.](media/main-menu-communications1-button.JPG "Communications button")|Start a call, chat, share screen or files, annotate.|
+|![Files button.](media/main-menu-files1-button.JPG "Settings button")|Open a OneDrive for Business file. |
+|![Profile button.](media/main-menu-profile1-button.JPG "Profile button")| Access your profile settings or sign out.|
 
 ## Summon the Main menu whenever you need to start an activity or switch activities
 
