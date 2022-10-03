@@ -201,8 +201,8 @@
 ## FAQ, known issues, and support
 ### [Get Help](help.md)
 ### FAQ
-### [FAQ](faq.md)
-### [Dynamics 365 Guides 8.0 FAQ](faq-version-8.md)
+#### [FAQ](faq.md)
+#### [Dynamics 365 Guides 8.0 FAQ](faq-version-8.md)
 ### Known issues
 #### [Affecting both apps](known-issues.md)
 #### [PC app](known-issues-pc-app.md)
