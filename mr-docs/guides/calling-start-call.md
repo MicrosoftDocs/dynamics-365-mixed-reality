@@ -155,7 +155,7 @@ If you're on a longer call, the HoloLens device can become hot if it's using sev
    >     
    > To switch organizations, in the drop-down menu in the upper-right corner of the window, select the appropriate guest organization. Teams might take a few seconds to reload.
 
- 2. When you see an incoming call notification in the bottom right side of your screen, select **Audio** or **Video** to join the call.
+ 2. When you see an incoming call notification at the bottom right side of your screen, select **Audio** or **Video** to join the call.
 
 ### Use the call controls
 
