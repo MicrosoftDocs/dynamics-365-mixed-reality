@@ -94,7 +94,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 #### Start a group call 
 
-1. Start by calling one person as described above for a one-to-one call, and then select the **Open Participants** button (or say "Guides, Open Participants").
+1. Start by calling one person as described above for a one-to-one call, and then select the **Open Participants** button (or say "Guides, Open Participants"). When you select the **Open Participants** button, tiles for all participants on the call appear to the right of the video feed. The first tile shows the first person that you called. 
 
     ![Screenshot of one-to-one call with Open Participants button highlighted.](media/calling-start-call-4.JPG "Screenshot of one-to-one call with Open Participants button highlighted")
 
