@@ -34,9 +34,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
     > [!NOTE]
     > Dynamics 365 Guides supports the default calendar only. You can't change the layout of the calendar to the day, week, or month view, and you can't substitute a user's secondary calendar (for vacations or team-wide events, for example). 
 
-    To change to a different day, select the day at the top of the screen. To switch to a different week, use the arrows in the upper right-corner of the screen. To go back to the current day at any time, select **Today**. 
-
-    ![Screenshot of the top of the calendar highlighting the Today button.](media/calling-meetings-4.JPG "Screenshot of the top of the calendar highlighting the Today button")
+    To change to a different day, select the day at the top of the screen. To switch to a different week, use the arrows in the upper right-corner of the screen. To go back to the current day at any time, select **Today** at the top of the screen. 
 
     The bottom of the Meeting window shows the meeting time and duration (left side) and whether the meeting is occurring now (right side). 
 
