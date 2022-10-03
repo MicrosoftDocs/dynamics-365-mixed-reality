@@ -16,7 +16,7 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
 - When operators or authors do not need to work with remote collaborators. 
 
-- You don't want HoloLens users to be able to reveal proprietary through a call. 
+- You don't want HoloLens users to be able to inadvertently reveal proprietary through a call. 
 
 [Learn about licensing requirements and limitations when making calls in Dynamics 365 Guides](requirements.md)
 
