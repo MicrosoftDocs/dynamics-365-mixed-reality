@@ -97,9 +97,7 @@ You can combine HoloLens users with Teams users in different combinations:
 1. Start by calling one person as described above for a one-to-one call, and then select the **Open Participants** button (or say "Guides, Open Participants"). When you select the **Open Participants** button, tiles for all participants on the call appear to the right of the video feed. The first tile shows the first person that you called. 
 
     ![Screenshot of one-to-one call with Open Participants button highlighted.](media/calling-start-call-4.JPG "Screenshot of one-to-one call with Open Participants button highlighted")
-
-    You'll see the tile for the first person you called to the right of the video feed. 
-    
+        
 2. Select the **Participants** button to the right of the video feed to display a list of recent contacts.
 
     ![Screenshot of right side of screen with Participants button highlighted.](media/calling-start-call-5.JPG "Screenshot of right side of screen with Participants button highlighted")
