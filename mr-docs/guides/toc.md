@@ -59,7 +59,7 @@
 #### [HoloLens permissions required](hololens-permissions.md)
 ### [Install the PC app and sign in](install-sign-in-pc-app.md)
 
-## Start an activity
+## Activities
 ### [Start an activity](main-menu.md)
 ### Collaborate with Teams users
 #### [Start a call](calling-start-call.md)
