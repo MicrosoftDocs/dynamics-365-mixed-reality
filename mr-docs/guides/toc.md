@@ -160,11 +160,11 @@
 ###### [Share Guides Analytics reports](analytics-ga-share-reports.md)
 
 ### [Files](onedrive-files.md)
-### Gestures
+### Gestures, voice commands, and narration
 #### [Authoring gestures](authoring-gestures-HL2.md)
-#### [Operatoring gestures](operator-gestures-HL2.md)
-### [Voice commands](voice-commands.md)
-### [Narrate instructions](operator-narrator.md)
+#### [Operating gestures](operator-gestures-HL2.md)
+#### [Voice commands](voice-commands.md)
+#### [Have HoloLens narrate instructions](operator-narrator.md)
 ### [Settings](change-setting.md)
 
 ## Advanced topics
