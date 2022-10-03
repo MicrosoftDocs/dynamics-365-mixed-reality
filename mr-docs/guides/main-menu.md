@@ -54,5 +54,5 @@ The following table summarizes when to use direct touch vs. gaze in the Dynamics
 
 - [Call a remote collaborator on Microsoft Teams](calling-start-call.md)
 - [Find and open a guide](find-guide.md)
-- [Open a OneDrive file](onedrive-files.md)
+- [Open a OneDrive for Business file](onedrive-files.md)
 - [Learn about permissions required to use the HoloLens app](hololens-permissions.md)
