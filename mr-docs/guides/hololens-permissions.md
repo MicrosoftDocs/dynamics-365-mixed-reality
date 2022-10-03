@@ -26,7 +26,7 @@ The following table describes the five permissions and what they're required for
 |Camera|Yes|Required to [make video calls](calling-start-call.md), to understand the space around you, and more.| 
 |Microphone|Yes|Required to [make voice calls](calling-start-call.md) and use [voice commands](voice-commands.md).|  
 |Background spatial perception (movement)|Yes|Required for [annotations](calling-annotations.md).|
-|Location|No|Optional. If you choose to allow location permissions, the location data is stored in Microsoft Dataverse and is displayed in the [**Phone Calls** form  in the Guides model-driven app](call-logging.md).|
+|Location|No|If you choose to allow location permissions, the location data is stored in Microsoft Dataverse and is displayed in the [**Phone Calls** form  in the Guides model-driven app](call-logging.md).|
 
 You can also turn each permission on/off through **Settings**. 
 
