@@ -56,7 +56,7 @@
 ## Install the HoloLens and PC apps
 ### Install the HoloLens app and sign in
 #### [Install the app and sign in](hololens-app-install-sign-in.md)
-#### [HoloLens permissions required](hololens-permissions.md)
+#### [Permissions required](hololens-permissions.md)
 ### [Install the PC app and sign in](install-sign-in-pc-app.md)
 
 ## Activities
