@@ -30,7 +30,7 @@ The following table describes each button on the Main menu.
 
 When you're working with complex machinery in a busy environment, you need the right holographic information at your fingertips to help you with your work, but you also need to be able to clear holographic content quickly to focus on the task at hand. The Main menu makes it very quick and easy to access the information you need but also helps avoid holographic clutter because it doesn't follow you around in your environment. For example, if you're on a call and working with a guide, you don't need to remember where the Call window is—**just look at the palm of your hand again to bring the Main menu to you**, and then select the **Call activity** button. 
 
-![Animation of summoning the Call window.](media/call-summon-new.gif "Animation of summoning the Call window")
+![Animation of summoning the Call window.](media/Summon_Hand_Menu.gif "Animation of summoning the Call window")
 
 Need to open a different guide? Summon the Main menu again, select the **Work activity** button, and then select the guide you want to open. 
 
