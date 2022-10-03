@@ -1,14 +1,14 @@
 ---
-title: One-to-one and group calls in Dynamics 365 Guides on HoloLens 
+title: Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides  
 author: 
 description: 
 ms.author: 
-ms.date: 11/14/2022
+ms.date: 11/12/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
 
-# Call a remote collaborator from Dynamics 365 Guides 
+# Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides 
 
 When you're working in Microsoft Dynamics 365 Guides on HoloLens, if you need help with a task in your world, you might want to call a remote collaborator on Microsoft Teams (desktop or mobile) or Dynamics 365 Remote Assist. 
 
