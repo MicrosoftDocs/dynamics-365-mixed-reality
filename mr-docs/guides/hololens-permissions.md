@@ -22,11 +22,11 @@ The following table describes the five permissions and what they're required for
 
 |Permission|Required?|Description|
 |----------------------|--------|---------------------------------------------------------|
-|Eye tracking||Required to use the Main menu and to create a great experience. Eye tracking lets HoloLens know what you’re looking at and helps validate your intentions.<br><br>Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information.| 
-|Camera||Required to [make video calls](calling-start-call.md), to understand the space around you, and more.| 
-|Microphone||Required to [make voice calls](calling-start-call.md) and use [voice commands](voice-commands.md).|  
-|Background spatial perception (movement)||Required for [annotations](calling-annotations.md).|
-|Location||Optional. If you choose to allow location permissions, the location data is stored in Microsoft Dataverse and is displayed in the [**Phone Calls** form  in the Guides model-driven app](call-logging.md).|
+|Eye tracking|Yes|Required to use the Main menu and to create a great experience. Eye tracking lets HoloLens know what you’re looking at and helps validate your intentions.<br><br>Eye tracking has been designed with user privacy in mind. Microsoft doesn’t store any biometric or other identifiable information.| 
+|Camera|Yes|Required to [make video calls](calling-start-call.md), to understand the space around you, and more.| 
+|Microphone|Yes|Required to [make voice calls](calling-start-call.md) and use [voice commands](voice-commands.md).|  
+|Background spatial perception (movement)|Yes|Required for [annotations](calling-annotations.md).|
+|Location|No|Optional. If you choose to allow location permissions, the location data is stored in Microsoft Dataverse and is displayed in the [**Phone Calls** form  in the Guides model-driven app](call-logging.md).|
 
 You can also turn each permission on/off through **Settings**. 
 
