@@ -1,14 +1,14 @@
 ---
 author: chantiff
-description: Learn about the HoloLens permissions required to use the Dynamics 365 Guides HoloLens app
+description: Learn about the permissions required to use the Dynamics 365 Guides HoloLens app
 ms.author: chantiffany
-ms.date: 11/08/2021
+ms.date: 11/12/2022
 ms.topic: article
-title: HoloLens permissions required to use the Dynamics 365 Guides HoloLens app
+title: Permissions required to use the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
 ---
 
-# HoloLens permissions required to use Dynamics 365 Guides
+# Permissions required to use the Dynamics 365 Guides HoloLens app
 
 To use the Microsoft Dynamics 365 Guides HoloLens app, you must first provide necessary permissions. When you open the HoloLens app for the first time, you're prompted to provide these permissions through separate dialog boxes. For example, you'll see this dialog box for the eye tracker.
 
