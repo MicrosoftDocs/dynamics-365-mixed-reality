@@ -48,9 +48,13 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
     
 ## Add a participant from your organization to the meeting
 
-To add a participant from your organizaion that wasn't included in the original invite:
+To add a participant from your organization that wasn't included in the original invite:
+
+1. Select the **Open Participants** button.
 
 ![Placeholder for screen to come.](media/calling-meetings-9.JPG "Placeholder for screen to come")
+
+2. 
 
 ## Admit a participant from outside your organization
 
