@@ -25,7 +25,7 @@ This article shows how to share a screen with a Dynamics 365 Guides user. To lea
 
 ## Use Teams desktop (PC or Mac) to share a screen 
 
-1. To share a screen of your desktop or a running application, select **Share**.
+1. To share your desktop screen or an applicanon screen, select **Share**.
 
    ![Screenshot of the share tray button.](media/calling-screen-sharing-4.JPG "Screenshot of the Share tray button")
    
