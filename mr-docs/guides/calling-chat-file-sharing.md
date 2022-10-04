@@ -95,7 +95,7 @@ Use one of the following methods to share a file:
 
 - In the Teams **Chat** window, select the **Attach file** button. 
 
-- Copy and paste the a file into the **Chat** window.
+- Copy and paste the file into the **Chat** window.
 
 When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space. Note, however, that Teams mobile users can only annotate in one-to-one calls. 
 
