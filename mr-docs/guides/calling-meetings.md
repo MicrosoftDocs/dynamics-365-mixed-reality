@@ -54,11 +54,17 @@ To add a participant from your organization that wasn't included in the original
 
     ![Screenshot highlighting Open Participants button.](media/calling-start-call-4.JPG "Screenshot highlighting Open Participants button")
 
-2. In the Participants area (to the right of the video feed), select the **Participants** button.
+2. In the Participants area (to the right of the video feed), select the **Participants** button to open the **Recent** list.
     
     ![Screenshot highlighting Participants button in Participants area.](media/calling-start-call-5.JPG "Screenshot highlighting Participants button in Participants area")
 
+3. Do one of the following:
 
+    - If the contact you want to add is listed in the **Recent** list, select the contact's tile, and then select **Show video**.
+
+    - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box. 
+
+      ![Screenshot of Recent list with Search box and holographic keyboard showing.](media/calling-start-call-6.JPG "Screenshot of Recent list with Search box and holographic keyboard showing")
 
 ## Admit a participant from outside your organization
 
