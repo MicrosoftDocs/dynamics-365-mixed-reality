@@ -29,7 +29,7 @@ The recorder is the owner of the video. The owner needs to give permission or do
 
 ## Start a recording from the HoloLens app
 
-1. Select the **Start Recording** button. 
+1. Select the **Recording** button. 
 
      ![Screenshot with Start Recording button highlighted.](media/call-recording-record-button.JPG)
 
