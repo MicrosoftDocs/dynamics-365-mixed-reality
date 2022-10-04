@@ -83,7 +83,7 @@ To share a different type of file, for example, an instructional video or a seri
 
 ### Use Teams desktop (PC or Mac) to share a file 
 
-You can share a OneDrive for Business file or a local file with a Dynamics 365 Guides user. Dynamics 365 Guides does not support sharing from a shared SharePoint site.   
+You can share a OneDrive for Business file or a local file with a Dynamics 365 Guides user. Dynamics 365 Guides does not support sharing from a shared SharePoint folder or from a personal OneDrive folder.   
 
 Use one of the following methods to share a file:
 
