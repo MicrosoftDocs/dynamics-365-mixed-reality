@@ -55,9 +55,9 @@ The layout of the cloud-based recording depends on the number of call participan
 
 If it's imperative that your recording capture as much of the HoloLens user's view as possible and as little of the Teams user's outgoing video feed or avatars as possible, consider using one of the [alternative recording methods](#alternatives-to-cloud-based-recording). 
 
-If you you use Teams or Dynamics 365 Guides to record the a call with two participants, each participant's outgoing video (or avatar) occupies one-half of the recording, and both halves are vertical. This means that during a Dynamics 365 Guides call, a Teams user sees a horizontal slice of what you see, but the recording only captures the middle vertical slice of what you see. Furthermore, during the Dynamics 365 Guides call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies half the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy half the recording.)
+If you use Teams or Dynamics 365 Guides to record the a call with two participants, each participant's outgoing video (or avatar) occupies one-half of the recording, and both halves are vertical. This means that during a Dynamics 365 Guides call, a Teams user sees a horizontal slice of what you see, but the recording only captures the middle vertical slice of what you see. Furthermore, during the Dynamics 365 Guides call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies half the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy half the recording.)
 
-    ![Screenshot of Teams recording, showing half of the screen with the HoloLens participant, and the other half with the Teams avatar.](media/recording-two-person-layout.JPG)
+![Screenshot of Teams recording, showing half of the screen with the HoloLens participant, and the other half with the Teams avatar.](media/recording-two-person-layout.JPG)
     
 ## Alternatives to cloud-based recording
 
