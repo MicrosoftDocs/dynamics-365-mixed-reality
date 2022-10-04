@@ -87,7 +87,7 @@ You can share a OneDrive for Business file or a local file with a Dynamics 365 G
 
 Use one of the following methods to share a file:
 
-- In the **Mixed Reality** toolbar, select **Add file** to share a file from OneDrive for Business or your computer. 
+- In the **Mixed Reality** toolbar, select the **Add file** button to share a file from OneDrive for Business or your computer. 
 
    ![Screenshot of Mixed Reality toolbar with Add file button highlighted.](media/calling-file-sharing-teams-desktop-mr-toolbar.JPG "SharePhoto") 
 
