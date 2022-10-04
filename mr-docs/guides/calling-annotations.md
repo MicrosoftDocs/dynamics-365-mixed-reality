@@ -63,7 +63,7 @@ When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides col
 
 > [!NOTE]
 > -	The toolbar appears only when the video feed for the Dynamics 365 Guides user is active.
-> -	The toolbar will appear but will be disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily loses tracking, or Dynamics 365 Guides is not in the foreground because the user did the bloom gesture).
+> -	The toolbar will appear but will be disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily loses tracking, or Dynamics 365 Guides is not in the foreground because the user did the Bloom gesture).
 > -	The toolbar will not appear if the same Dynamics 365 Guides user is connected from Teams and Dynamics Guides at the same time, regardless of the device used.
 > - The toolbar will not appear if you have not turned on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
 
