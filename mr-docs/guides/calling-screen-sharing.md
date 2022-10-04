@@ -62,7 +62,7 @@ You can use direct touch to move the shared screen around, and to size it.
 
 ![Animation of moving screen around with direct touch.](media/Slate_NearInteractions.gif "Animation of moving screen around with direct touch")
 
-You can also interact with the screen by using your gaze cursor. Using the gaze cursor is particularly useful for situations where you want to move the window further away from you. 
+You can also interact with the screen by using your hand rays and air tap (far-field interactions). Using far-field interactions is particularly useful for situations where you want to move the window further away from you. 
 
 ![Animation of moving screen around with far-field interactions.](media/Slate_FarInteractions.gif "Animation of moving screen around with far-field interactions")
 
