@@ -60,6 +60,10 @@ The live video feed of the person sharing their screen is suspended in this case
 
 You can use direct touch to move the shared screen around, and to size it. You can also interact with the screen by using your gaze cursor. Using the gaze cursor is particularly useful for situations where you want to move the window further away from you. 
 
+![Animation of opening the Main menu with either hand.](media/Slate_NearInteractions.gif "Animation of opening the Main menu with either hand")
+
+![Animation of opening the Main menu with either hand.](media/Slate_FarInteractions.gif "Animation of opening the Main menu with either hand")
+
 If the video feed is switched to another person on the call while a screen is being shared, that person's video feed is displayed and the shared screen is suspended (turns gray). A button appears on the suspended screen that you can select to make the shared screen active again. 
 
 ![Screenshot of a suspended shared screen with button highlighted.](media/calling-screen-sharing-3.JPG "Screenshot of a suspended shared screen with button highlighted")
