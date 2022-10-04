@@ -87,15 +87,15 @@ You can share a OneDrive for Business file or a local file with a Dynamics 365 G
 
 Use one of the following methods to share a file:
 
-- In the **Mixed Reality** toolbar, select the **Add file** button to share a file from OneDrive for Business or your computer. 
+- In the **Mixed Reality** toolbar, select the **Add file** button. 
 
    ![Screenshot of Mixed Reality toolbar with Add file button highlighted.](media/calling-file-sharing-teams-desktop-mr-toolbar.JPG "SharePhoto") 
 
    The file will be uploaded to your OneDrive for Business folder and permissions to access that single file will be granted to all call participants.    
 
-- In the Teams **Chat** window, select **Attach file** to share a file from OneDrive for Business or your computer. 
+- In the Teams **Chat** window, select the **Attach file** button. 
 
-- Paste the file into the **Chat** window.
+- Copy and paste the a file into the **Chat** window.
 
 When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space. Note, however, that Teams mobile users can only annotate in one-to-one calls. 
 
