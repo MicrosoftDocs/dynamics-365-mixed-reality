@@ -58,11 +58,13 @@ When a remote collaborator shares their screen, the screen automatically appears
 
 The live video feed of the person sharing their screen is suspended in this case. The video feed and the shared screen cannot both be on at the same time.
 
-You can use direct touch to move the shared screen around, and to size it. You can also interact with the screen by using your gaze cursor. Using the gaze cursor is particularly useful for situations where you want to move the window further away from you. 
+You can use direct touch to move the shared screen around, and to size it. 
 
-![Animation of opening the Main menu with either hand.](media/Slate_NearInteractions.gif "Animation of opening the Main menu with either hand")
+![Animation of moving screen around with direct touch.](media/Slate_NearInteractions.gif "Animation of moving screen around with direct touch")
 
-![Animation of opening the Main menu with either hand.](media/Slate_FarInteractions.gif "Animation of opening the Main menu with either hand")
+You can also interact with the screen by using your gaze cursor. Using the gaze cursor is particularly useful for situations where you want to move the window further away from you. 
+
+![Animation of moving screen around with far-field interactions.](media/Slate_FarInteractions.gif "Animation of moving screen around with far-field interactions")
 
 If the video feed is switched to another person on the call while a screen is being shared, that person's video feed is displayed and the shared screen is suspended (turns gray). A button appears on the suspended screen that you can select to make the shared screen active again. 
 
