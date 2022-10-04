@@ -71,7 +71,7 @@ When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides col
 
 To start annotating, first do one of the following to pause the video stream and enter edit mode:
 
--   Select anywhere in the Meeting window.
+-   Select anywhere in the call window.
 
 -   Select one of the items on the **Mixed Reality** toolbar.
 
