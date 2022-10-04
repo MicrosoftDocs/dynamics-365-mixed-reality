@@ -17,7 +17,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 > [!NOTE]
 > To use annotations, you must enable the appropriate permissions in Dynamics 365 Guides. [Learn more](hololens-permissions.md)
 
-## Use Dynamics 365 Guides on HoloLens to annotate
+## Use Dynamics 365 Guides to annotate
 
 ### Draw in your space
 
