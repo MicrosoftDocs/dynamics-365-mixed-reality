@@ -69,7 +69,7 @@ Use this option when:
 
 - No call participant can initiate a cloud-based call recording.
 
-- You only want the recording to capture what you see through the HoloLens. For example, the recording will only show the participants in the Dynamics 365 Guides call if you manually navigate to the participants panel and it is in your field of view.
+- You only want the recording to capture what you see through the HoloLens. For example, the recording will only show the participants in the Dynamics 365 Guides call if you manually navigate to the participants panel and it's in your field of view.
 
 You can use the HoloLens operating system to record only what you see in the HoloLens, what you hear around you, and what you hear through the HoloLens speakers. There are three ways to do this:
 
