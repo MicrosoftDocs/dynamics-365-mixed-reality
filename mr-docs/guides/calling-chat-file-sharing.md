@@ -17,7 +17,7 @@ When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or m
 
 ## Start a chat from Dynamics 365 Guides
 
-1. Select the **Chat** button to open the chat. 
+1. Select the **Chat** button to start a chat. 
 
     > [!NOTE]
     > If you receive a chat invite from a remote collaborator, a red circle appears on the **Chat** button and the **Chat** button animates. 
