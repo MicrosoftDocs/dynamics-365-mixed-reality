@@ -40,9 +40,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
     ![Screenshot of Meeting details window.](media/calling-meetings-6.JPG "Screenshot of Meeting details window")
 
-4. Select **Join** to join the meeting. You'll see the following screen while participants are joining the meeting.
-    
-    ![Screenshot of Meeting window before participants join.](media/calling-meetings-7.JPG "Screenshot of Meeting window before participants join")
+4. Select **Join** to join the meeting. 
 
     When a participant joins the meeting, their avatar is displayed in the upper-right corner of the Meeting window. 
 
