@@ -34,7 +34,7 @@ When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or m
 
     ![Screenshot showing holographic keyboard with Microphone button highlighted for dictation option.](media/calling-chat-file-sharing-4.JPG "Screenshot showing holographic keyboard with Microphone button highlighted for dictation option")
     
-    If a remote collaborator shares a file or page link, the file or page automatically opens in a new window in the Dynamics 365 Guides user's space. The Dynamics 365 Guides user can move this window wherever they want or size it directly with their hands. 
+    If a remote collaborator shares a file or page link, the file or page automatically opens in a new window in your space. You can move this window wherever you want or size it directly with your hands. 
 
    ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.JPG "Screenshot showing example file shared with the user")
 
