@@ -126,4 +126,4 @@ You can use the HoloLens operating system to record only what you see in the Hol
 
       3. Copy your images or videos from this folder.
 
-    [Learn more about taking photos and videos, and getting them off the device](/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
+    [Learn more about taking photos and videos and getting them off the device](/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
