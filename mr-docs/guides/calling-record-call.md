@@ -90,7 +90,7 @@ You can use the HoloLens operating system to record only what you see in the Hol
 
     1. Say "Hey Cortana, Record a video."
 
-    2. Cortana's blue ring will appear, and your voice command will be displayed on the screen while giving feedback by voice.
+    2. Cortana's blue ring will appear, and your voice command will be displayed on the screen.
 
     3. There will be a countdown from three to one, and then the recording will start.
 
