@@ -105,7 +105,7 @@ Check out the following links:
 
 If the Dynamics 365 Guides user is invited to the meeting, they can sign in to Dynamics 365 Guides, and then select **Join Meeting** at the bottom of the **Recent Contacts** page.
 
-If the Dynamics 365 Remote Assist Guides user is not invited to the meeting, but you would like them to join the meeting: 
+If the Dynamics 365 Guides user is not invited to the meeting, but you would like them to join the meeting: 
 
 1. Join the meeting, and then select **Participants** from the **Call Controls** toolbar.
 
