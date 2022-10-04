@@ -54,7 +54,7 @@ To add a participant from your organization that wasn't included in the original
 
     ![Screenshot highlighting Open Participants button.](media/calling-start-call-4.JPG "Screenshot highlighting Open Participants button")
 
-2. In the Participants area (to the right of the video feed), select the **Participants** button to open the **Recent** list.
+2. In the Participants area (to the right of the video feed), select the **Participants** button. This opens the **Recent** list.
     
     ![Screenshot highlighting Participants button in Participants area.](media/calling-start-call-5.JPG "Screenshot highlighting Participants button in Participants area")
 
