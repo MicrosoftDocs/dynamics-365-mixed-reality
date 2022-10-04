@@ -107,7 +107,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 #### Share a OneDrive for Business file 
 
 > [!NOTE]
-> Dynamics 365 Guides does not support sharing from a shared SharePoint site.   
+> Dynamics 365 Guides does not support sharing from a shared SharePoint folder or a personal OneDrive folder.   
 
 1. In the call controls, select the **More info** button […].
 
