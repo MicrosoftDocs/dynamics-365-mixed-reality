@@ -14,7 +14,7 @@ A remote collaborator on Microsoft Teams (PC, Mac, or mobile) can share their sc
 
 For other types of files, the remote collaborator can share a file through Teams chat. The remote collaborator can share the following types of files through Teams chat: .jpg, .bmp, .png, .tif/.tiff, .pdf, still gif. 
 
-This article shows how to share a screen with a Dynamics 365 Guides user. To learn how to share a file, see [Start a chat and share a file](calling-chat-file-sharing.md).
+This article shows how to share a screen with a Dynamics 365 Guides user. To learn how to share a file in a chat, see [Start a chat and share a file](calling-chat-file-sharing.md).
 
 > [!NOTE]
 > Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
