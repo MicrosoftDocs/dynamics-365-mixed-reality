@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 
 # Record a call from the Dynamics 365 Guides HoloLens app
 
-Recording a call in the Dynamics 365 Guides HoloLens app is great for training or record-keeping purposes. The HoloLens app creates cloud-based recordings that are automatically uploaded to OneDrive for Business or Sharepoint. When the recording finishes uploading, all call participants can access the recording through Microsoft Teams chat. 
+Recording a call in the Microsoft Dynamics 365 Guides HoloLens app is great for training or record-keeping purposes. The HoloLens app creates cloud-based recordings that are automatically uploaded to OneDrive for Business or Sharepoint. When the recording finishes uploading, all call participants can access the recording through Microsoft Teams chat. 
 
 Read about the [layout for this type of call](#cloud-based-recording-layout) before deciding whether to record using this method. You may also want to consider [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording). 
 
