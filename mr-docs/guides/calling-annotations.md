@@ -42,7 +42,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 
 ### Change ink color
 
-- Select the **Color** button on the **Annotate** toolbar, and then select the color you want. That color will be used the next time that you draw. 
+- Select the **Color** button on the **Annotate** toolbar, and then when the **Annotate** toolbar flips over, select the color you want. That color will be used the next time that you draw. 
 
     ![Screenshot showing example of drawing with hand rays.](media/calling-annotations-drawing-example.JPG)
     
