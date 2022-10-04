@@ -79,7 +79,7 @@ You can use the HoloLens operating system to record only what you see in the Hol
   
    2. Air tap when you're ready to record.
   
-   3. To stop recording, do the **Start Gesture**, and then press the **Video** button.
+   3. To stop recording, do the **Start Gesture**, and then press the **Video** button again.
   
       ![Screenshot from the HoloLens field of view, showing the video icon on the bottom tool pane.](media/recording-hololens-stop-recording.JPG)
 
