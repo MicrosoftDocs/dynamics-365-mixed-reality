@@ -11,7 +11,7 @@ You can open a OneDrive for Business file from the Main menu in the Microsoft Dy
 
 2. In the OneDrive screen, use direct touch to open a folder. When you open a folder, breadcrumbs appear at the top of the screen to show you where you are in the folder structure.
 
-    ![XXX.](media/calling-one-drive-breadcrumbs.JPG "XXX")
+    ![Animation of using OneDrive breadcrumbs.](media/Files_Breadcrumbs.gif "Animation of using OneDrive breadcrumbs")
     
     You can select a folder in the breadcrumbs to access that folder. If there are too many folders to list in the breadcrumbs, an ellipsis (...) appears at the beginning of the breadcrumbs. To go back to the root folder, select the **OneDrive** button.
     
