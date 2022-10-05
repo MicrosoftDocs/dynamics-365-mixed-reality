@@ -37,7 +37,7 @@ The following data is updated at the start of the call:
 
 The following data is updated soon (within 2-5 seconds) after the start of the call, but only if the user provided permission to store location data:
 
-- City (city where the call was taken)
+- City (the city where the call was placed)
 - StateOrProvince
 - Country
 - Latitude
