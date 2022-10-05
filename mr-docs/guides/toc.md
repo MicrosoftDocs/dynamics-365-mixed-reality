@@ -75,7 +75,7 @@
 
 ### Author, operate, and analyze guides
 
-#### [How the PC app and HoloLens apps work together](authoring-overview.md)
+#### [How the PC app and HoloLens app work together](authoring-overview.md)
 
 #### Author a guide in the PC app
 ##### Basics
