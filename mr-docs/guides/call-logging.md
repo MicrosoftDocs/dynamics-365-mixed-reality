@@ -20,7 +20,7 @@ Location data is only stored in Microsoft Dataverse if the user consents to stor
 ## What data is stored and when
 
 > [!NOTE]
-> Dynamics 365 Guides stores calls data to a persistent queue in Microsoft Dataverse. If the call data isn't uploaded the first time, Dynamics 365 Guides attempts to  upload data three more times at different time intervals. This increases the reliability of data uploading.
+> Dynamics 365 Guides stores calls data in a persistent queue in Microsoft Dataverse. If the call data isn't uploaded the first time, Dynamics 365 Guides attempts to  upload data three more times at different time intervals. This increases the reliability of data uploading.
 
 ### Data updated at the start of the call
 
