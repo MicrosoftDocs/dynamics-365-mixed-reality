@@ -41,3 +41,4 @@ To learn more about limitations and specifics when collaborating with a Dynamics
 - [Record a call](calling-record-call.md)
 - [Share a screen](calling-screen-sharing.md)
 - [Add annotations](calling-annotations.md)
+- [Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
