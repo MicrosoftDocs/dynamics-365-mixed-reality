@@ -55,7 +55,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Main menu
 
-![Main menu.](media/voice-commands-main-menu.jpg "Main menu")
+![Main menu.](media/voice-commands-main-menu-8.JPG "Main menu")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
