@@ -22,9 +22,13 @@ You can open a OneDrive for Business file from the Main menu in the Microsoft Dy
     
 3. If you want to go back to the root OneDrive folder at any time, select the **OneDrive** button.
 
-   When you open a file, the file appears in a new window. You can manipulate that window like any other window in Dynamics 365 Guides.
+   When you open a file, the file appears in a new window. You can use direct touch to move the window around, and to size it. 
 
-    ![XXX.](media/calling-one-drive-files-opened-file.JPG "XXX")
+    ![Animation of moving screen around with direct touch.](media/Slate_NearInteractions.gif "Animation of moving screen around with direct touch")
+
+   You can also interact with the screen by using your hand rays and air tap (far-field interactions). Using far-field interactions is particularly useful for situations where you want to move the window further away from you. 
+
+    ![Animation of moving screen around with far-field interactions.](media/Slate_FarInteractions.gif "Animation of moving screen around with far-field interactions")
     
 > [!NOTE]
 > If a remote collaborator sends a file to a Dynamics 365 Guides user through chat, the file is displayed in the same way as if the user opened the file from their OneDrive for Business folder, but the file can't be saved to the user's OneDrive for Business folder. To send a file this way in chat, the Teams user must attach the file to a message. The file can't be embedded (pasted) in the message. 
