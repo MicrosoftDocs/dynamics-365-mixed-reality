@@ -186,7 +186,7 @@ Use the commands in the following table to turn narration on or off or to select
 
 ## Start a call
 
-![Start a call screen.](media/voice-commands-start-call.jpg "Start a call screen")
+![Start a call screen.](media/voice-commands-start-call-8.JPG "Start a call screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
