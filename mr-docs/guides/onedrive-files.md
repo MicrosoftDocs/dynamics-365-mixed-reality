@@ -22,7 +22,7 @@ You can open a OneDrive for Business file from the Main menu in the Microsoft Dy
     
 3. If you want to go back to the root OneDrive folder at any time, select the **OneDrive** button.
 
-    ![Screenshot of OneDrive screen with OneDrive button highlighted.](media/calling-one-drive-files-main-menu.JPG "Screenshot of OneDrive screen with OneDrive button highlighted")
+    ![Screenshot of OneDrive screen with OneDrive button highlighted.](media/calling-onedrive-button.JPG "Screenshot of OneDrive screen with OneDrive button highlighted")
 
    When you open a file, the file appears in a new window. You can use direct touch to move the window around, and to size it. 
 
