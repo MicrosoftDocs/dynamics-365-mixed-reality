@@ -147,3 +147,15 @@ When you’re done adding annotations, select the **Checkmark** button on the **
 
 > [!NOTE]
 > Each call participant can only undo and delete their own annotations.
+
+## See also
+
+- [Call a remote collaborator](calling-start-call.md)
+- [Join a scheduled meeting](calling-meetings.md)
+- [Chat](calling-chat-file-sharing.md)
+- [Record a call](calling-record-call.md)
+- [Screen and file sharing](calling-screen-sharing.md)
+- [Access OneDrive files](onedrive-files.md)
+- [Teams users capabilities](calling-teams-users.md)
+- [Where call data is stored](call-logging.md)
+
