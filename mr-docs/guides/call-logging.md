@@ -22,18 +22,18 @@ Location data is only stored in Microsoft Dataverse if the user consents to stor
 > [!NOTE]
 > Dynamics 365 Guides stores calls data to a persistent queue in Microsoft Dataverse. If the call data isn't uploaded the first time, Dynamics 365 Guides attempts to  upload data three more times at different time intervals. This increases the reliability of data uploading.
 
-### Updated at the start of the call
+### Data updated at the start of the call
 
 The following data is updated at the start of the call: 
 
 - CallId
 - CallStart
-- CallEnd - intentionally set to same value as 'CallStart' at the beginning, until we know the real time of end
-- ClientType (Hololens, Hololens 2, Android, iOS)
+- CallEnd (set to the same value as CallStart at the beginning of the call, and then updated at the end of the call)
+- ClientType (HoloLens, HoloLens 2, Android, iOS)
 - Subject (to 'Dynamics 365 Remote Assist Call' or localized version as appropriate OR 'Dynamics 365 Guides')
 - IsOutgoing
  
-### Updated soon after the call starts
+### Data updated soon after the call starts
 
 The following data is updated soon (within 2-5 seconds) after the start of the call, but only if the user provided permission to store location data:
 
@@ -43,7 +43,7 @@ The following data is updated soon (within 2-5 seconds) after the start of the c
 - Latitude
 - Longitude 
 
-### Updated at the end of the call
+### Data updated at the end of the call
 
 The following data is updated at the end of the call, but only if the Dynamics 365 Guides app is in foreground:
 
