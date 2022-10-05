@@ -87,4 +87,4 @@ If the person who shared their screen stops sharing, the shared screen disappear
 - [Annotations](calling-annotations.md)
 - [Access OneDrive files](onedrive-files.md)
 - [Teams users capabilities](calling-teams-users.md)
-- [Where call data is stored](call-logging.md)
+
