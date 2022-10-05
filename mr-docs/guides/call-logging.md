@@ -16,3 +16,12 @@ Location data is only stored in Microsoft Dataverse if the user consents to stor
     ![Screenshot of model-driven app with call information.](media/call-logging-model-driven-app.JPG "Screenshot of model-driven app with call information")
 
 3. If you're a user, you can view your own call records. If you're an administrator, to view all call records, select the **All Phone Calls** view. 
+
+## See also
+
+- [Call a remote collaborator](calling-start-call.md)
+- [Join a scheduled meeting](calling-meetings.md)
+- [Chat](calling-chat-file-sharing.md)
+- [Record a call](calling-record-call.md)
+- [Teams users capabilities](calling-teams-users.md)
+
