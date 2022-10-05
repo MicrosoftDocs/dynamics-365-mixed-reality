@@ -70,8 +70,8 @@
 #### [Annotations](calling-annotations.md)
 #### [Access OneDrive files](onedrive-files.md)
 #### [Teams users capabilities](calling-teams-users.md)
-#### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
 #### [Where call data is stored](call-logging.md)
+#### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
 
 ### Author, operate, and analyze guides
 
