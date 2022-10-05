@@ -31,7 +31,6 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 
 ## What's next?
 
-- [Install and sign in to the app](hololens-app-install-sign-in.md)
 - [Anchor your guide](hololens-app-anchor.md)
 - [Place holograms, add styles, and more](hololens-app-orientation.md)
 
