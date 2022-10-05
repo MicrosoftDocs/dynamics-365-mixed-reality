@@ -20,7 +20,7 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 
 - [Add dotted lines](hololens-app-dotted-line.md) to visually link your steps to physical objects in the real world.
 
-- Optional: [Add styles](hololens-app-styles.md) to 3D content to add various treatments. For example, you can indicate a warning or caution.
+- Optional: [Add styles](hololens-app-styles.md) to 3D content to add various treatments. For example, add a warning or caution.
 
 - Test the flow of your guide.
 
