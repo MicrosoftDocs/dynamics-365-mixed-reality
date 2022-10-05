@@ -9,9 +9,7 @@ You can open a OneDrive for Business file from the Main menu in the Microsoft Dy
 
     ![XXX.](media/calling-one-drive-files-main-menu.JPG "XXX")
 
-   This opens the OneDrive screen.
-
-2. Use direct touch to open a folder. When you open a folder, breadcrumbs appear at the top of the screen to show you where you are in the folder structure.
+2. In the OneDrive screen, use direct touch to open a folder. When you open a folder, breadcrumbs appear at the top of the screen to show you where you are in the folder structure.
 
     ![XXX.](media/calling-one-drive-breadcrumbs.JPG "XXX")
     
