@@ -18,7 +18,7 @@ You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft 
     
 2. Use direct touch to select the **Recent** or **All** tab, and then select the appropriate guide or guide folder. Folders appear on the **All** tab, but not the **Recent** tab. If you have a long list of guides and/or folders, use the up and down arrows on the right side of the screen to scroll the list. 
 
-    ![Screenshot of submenu showing Recent tab, All tab, and folders/files.](media/submenu-recent-all.PNG "Screenshot of submenu showing Recent tab, All tab, and folders/files") 
+    ![Screenshot of submenu showing Recent tab, All tab, and folders/files.](media/submenu-recent-all.JPG "Screenshot of submenu showing Recent tab, All tab, and folders/files") 
 
     > [!TIP]
     > To clear the **Select a guide or folder** screen from your view at any time, select the **Minimize** button on the right side of the screen. You don't have to remember where you put the screen in your environment. To open it again quickly, just look at the palm of your hand again to open the Main menu, and then select the **Work activity** button again. 
