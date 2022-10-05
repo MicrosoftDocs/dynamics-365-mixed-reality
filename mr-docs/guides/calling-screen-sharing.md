@@ -78,3 +78,13 @@ If you make the shared screen active by using either of these buttons, the video
 
 If the person who shared their screen stops sharing, the shared screen disappears, and the video feed for the person sharing their screen appears again. 
 
+## See also
+
+- [Call a remote collaborator](calling-start-call.md)
+- [Join a scheduled meeting](calling-meetings.md)
+- [Chat](calling-chat-file-sharing.md)
+- [Record a call](calling-record-call.md)
+- [Annotations](calling-annotations.md)
+- [Access OneDrive files](onedrive-files.md)
+- [Teams users capabilities](calling-teams-users.md)
+- [Where call data is stored](call-logging.md)
