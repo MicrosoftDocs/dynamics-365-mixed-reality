@@ -16,7 +16,7 @@ For privacy reasons, you can turn off the ability to send telemetry data to Micr
 
     ![Settings button on Main menu.](media/main-menu-profile-settings.JPG "Settings button on Main menu")
 
-2. Turn off the **Telemetry** option.
+2. Select the **Preferences** button, and then turn off the **Telemetry** option.
 
     ![Screenshot of Telemetry option.](media/main-menu-profile-settings-telemetry.JPG "Screenshot of Telemetry option")
 
