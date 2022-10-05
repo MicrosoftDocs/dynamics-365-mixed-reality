@@ -17,6 +17,42 @@ Location data is only stored in Microsoft Dataverse if the user consents to stor
 
 3. If you're a user, you can view your own call records. If you're an administrator, to view all call records, select the **All Phone Calls** view. 
 
+## What is stored and when
+
+> [!NOTE]
+> Dynamics 365 Guides stores calls data to a persistent queue in Microsoft Dataverse. If the call data isn't uploaded the first time, Dynamics 365 Guides will attempt to  upload data three more times at different time intervals. this increases the reliability of data uploads.
+
+### Updated at the start of the call
+
+The following data is updated at the start of the call: 
+
+- CallId
+- CallStart
+- CallEnd - intentionally set to same value as 'CallStart' at the beginning, until we know the real time of end
+- ClientType (Hololens, Hololens 2, Android, iOS)
+- Subject (to 'Dynamics 365 Remote Assist Call' or localized version as appropriate OR 'Dynamics 365 Guides')
+- IsOutgoing
+ 
+### Updated soon after the call starts
+
+The following data is updated soon (within 2-5 seconds) after the start of the call, but only if the user provided permission to store location data:
+
+- City (city where the call was taken)
+- StateOrProvince
+- Country
+- Latitude
+- Longitude 
+
+### Updated at the end of the call
+
+The following data is updated at the end of the call, but only if the Dynamics 365 Guides app is in foreground:
+
+- CallDurationMinutes (duration of the call in minutes)
+- CallDurationSeconds
+- CallEnd
+- StateCode (to 'Completed')
+- StatusCode (to 'Made' or 'Received')
+
 ## See also
 
 - [Call a remote collaborator](calling-start-call.md)
