@@ -83,7 +83,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Select mode
 
-![Select mode screen.](media/voice-commands-select-mode.jpg "Select mode screen")
+![Select mode screen.](media/voice-commands-select-mode-8.JPG "Select mode screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
