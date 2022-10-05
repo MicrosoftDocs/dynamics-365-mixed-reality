@@ -16,9 +16,9 @@ For privacy reasons, you can turn off the ability to send telemetry data to Micr
 
     ![Settings button on Main menu.](media/main-menu-profile-settings.JPG "Settings button on Main menu")
 
-2. In **Settings**, turn off the **Telemetry** option.
+2. Turn off the **Telemetry** option.
 
-    ![Telemetry option in Settings screen.](media/telemetry-option.jpg "Telemetry option in Settings screen")
+    ![Screenshot of Telemetry option.](media/main-menu-profile-settings-telemetry.JPG "Screenshot of Telemetry option")
 
 > [!NOTE]
 > This option applies only to the device where it's set. If you use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on more than one device, you must change the setting on the other devices too. For information about how to turn off this setting for the PC app, see [Author a guide in the PC application](pc-app-overview.md).
