@@ -37,3 +37,9 @@ You can also interact with the screen by using your hand rays and air tap (far-f
 ## Share a OneDrive file through Teams chat
 
 If a remote collaborator sends a file to a Dynamics 365 Guides user through Teams chat, the file is displayed in the same way as if the user opened the file from their OneDrive for Business folder, but the file can't be saved to the user's OneDrive for Business folder. To send a file this way in chat, the Teams user must attach the file to a message. The file can't be embedded (pasted) in the message. 
+
+## See also
+
+- [Chat and share files with a Microsoft Teams user](calling-chat-file-sharing.md)
+- [Screen sharing with Microsoft Teams users](calling-screen-sharing.md)
+
