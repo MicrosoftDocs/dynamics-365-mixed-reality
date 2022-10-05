@@ -69,9 +69,9 @@
 #### [Screen and file sharing](calling-screen-sharing.md)
 #### [Annotations](calling-annotations.md)
 #### [Access OneDrive files](onedrive-files.md)
+#### [Teams users capabilities](calling-teams-users.md)
 #### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
-#### [Teams users](calling-teams-users.md)
-#### [Call logging](call-logging.md)
+#### [Call data storage](call-logging.md)
 
 ### Author, operate, and analyze guides
 
