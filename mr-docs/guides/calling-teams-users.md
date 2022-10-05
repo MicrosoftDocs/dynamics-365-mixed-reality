@@ -33,7 +33,7 @@ The following table describes the features that are available as a Teams mobile 
 |Record a call | Yes | 
 |Share your screen | Yes | 
 
-To learn more about limitations and specifics when collaborating with a Dynamics 365 Guides user from Microsoft Teams, check out these topics:
+To learn more about limitations and specifics when collaborating with a Dynamics 365 Guides user, check out these topics:
 
 - [Start a call](calling-start-call.md)
 - [Join a scheduled meeting](calling-meetings.md)
