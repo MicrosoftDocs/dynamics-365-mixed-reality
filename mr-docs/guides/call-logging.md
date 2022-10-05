@@ -17,7 +17,7 @@ Location data is only stored in Microsoft Dataverse if the user consents to stor
 
 3. If you're a user, you can view your own call records. If you're an administrator, to view all call records, select the **All Phone Calls** view. 
 
-## What is stored and when
+## What data is stored and when
 
 > [!NOTE]
 > Dynamics 365 Guides stores calls data to a persistent queue in Microsoft Dataverse. If the call data isn't uploaded the first time, Dynamics 365 Guides will attempt to  upload data three more times at different time intervals. this increases the reliability of data uploads.
