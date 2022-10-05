@@ -44,7 +44,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
     When a participant joins the meeting, their avatar is displayed in the upper-right corner of the Meeting window. 
 
-    ![Screenshot of Meeting window before participants join.](media/calling-meetings-8.JPG "Screenshot of Meeting window before participants join")
+    ![Screenshot of Meeting window with avatars highlighted.](media/calling-meetings-avatars.JPG "Screenshot of Meeting window with avatars highlighted")
     
 ## Add a participant from your organization to the meeting
 
