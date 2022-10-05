@@ -13,7 +13,7 @@ You can open a OneDrive for Business file from the Main menu in the Microsoft Dy
 
     ![XXX.](media/calling-one-drive-breadcrumbs.JPG "XXX")
     
-    You can select a folder in the breadcrumb to access that folder. If there are too many folders to list in the breadcrumps, an ellipsis (...) appears at the beginning of the breadcrumb. To go back to the root folder, select the **OneDrive** button.
+    You can select a folder in the breadcrumbs to access that folder. If there are too many folders to list in the breadcrumbs, an ellipsis (...) appears at the beginning of the breadcrumbs. To go back to the root folder, select the **OneDrive** button.
     
     > [!TIP]
     > If a folder name is truncated, you can see the full folder name by hovering your cursor over the folder. 
