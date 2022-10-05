@@ -157,5 +157,5 @@ When you’re done adding annotations, select the **Checkmark** button on the **
 - [Screen and file sharing](calling-screen-sharing.md)
 - [Access OneDrive files](onedrive-files.md)
 - [Teams users capabilities](calling-teams-users.md)
-- [Where call data is stored](call-logging.md)
+
 
