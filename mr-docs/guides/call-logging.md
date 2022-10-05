@@ -59,5 +59,5 @@ The following data is updated at the end of the call, but only if the Dynamics 3
 - [Join a scheduled meeting](calling-meetings.md)
 - [Chat](calling-chat-file-sharing.md)
 - [Record a call](calling-record-call.md)
-- [Teams users capabilities](calling-teams-users.md)
+
 
