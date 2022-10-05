@@ -104,3 +104,15 @@ Check out the following links:
 - [Watch a video on joining a Teams meeting](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
+
+## See also
+
+- [Call a remote collaborator](calling-start-call.md)
+- [Chat](calling-chat-file-sharing.md)
+- [Record a call](calling-record-call.md)
+- [Screen and file sharing](calling-screen-sharing.md)
+- [Annotations](calling-annotations.md)
+- [Access OneDrive files](onedrive-files.md)
+- [Teams users capabilities](calling-teams-users.md)
+- [Where call data is stored](call-logging.md)
+
