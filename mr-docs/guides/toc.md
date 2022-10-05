@@ -71,7 +71,7 @@
 #### [Access OneDrive files](onedrive-files.md)
 #### [Teams users capabilities](calling-teams-users.md)
 #### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
-#### [Call data storage](call-logging.md)
+#### [Where call data is stored](call-logging.md)
 
 ### Author, operate, and analyze guides
 
