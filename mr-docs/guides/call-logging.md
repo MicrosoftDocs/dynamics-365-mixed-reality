@@ -29,7 +29,7 @@ The following data is updated at the start of the call:
 - CallId
 - CallStart
 - CallEnd (set to the same value as CallStart at the beginning of the call, and then updated at the end of the call)
-- ClientType (HoloLens, HoloLens 2, Android, iOS)
+- ClientType (possible values: **HoloLens**, **HoloLens 2**, **Android**, **iOS**)
 - Subject (set to **Dynamics 365 Guides**)
 - IsOutgoing
  
