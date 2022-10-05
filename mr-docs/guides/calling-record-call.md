@@ -127,3 +127,15 @@ You can use the HoloLens operating system to record only what you see in the Hol
       3. Copy your images or videos from this folder.
 
     [Learn more about taking photos and videos and getting them off the device](/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
+
+## See also
+
+- [Call a remote collaborator](calling-start-call.md)
+- [Join a scheduled meeting](calling-meetings.md)
+- [Chat](calling-chat-file-sharing.md)
+- [Screen and file sharing](calling-screen-sharing.md)
+- [Annotations](calling-annotations.md)
+- [Access OneDrive files](onedrive-files.md)
+- [Teams users capabilities](calling-teams-users.md)
+- [Where call data is stored](call-logging.md)
+
