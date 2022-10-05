@@ -10,9 +10,7 @@ ms.reviewer: v-brycho
 
 # Overview of authoring a guide in Dynamics 365 Guides
  
-If you're ready to start creating a guide with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you're in the right place! 
-
-To create a guide, you use two apps:
+To author a guide in Microsoft Dynamics 365 Guides, you use two apps:
 
 - **PC app.** You start with the PC application. Use this application to create the guide, choose an anchoring method, 
 add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
