@@ -34,9 +34,6 @@ has reached critical temperature")
 
 If you attempt to activate video after it has been disabled, you'll see a message that says outgoing video is unavailable. 
 
-![Screenshot of HoloLens message showing device has been disabled.](media/hololens-thermal-warning-4.jpg "Screenshot of HoloLens message showing device has been 
-disabled")
-
 When the device returns to an optimal operating temperature, you'll see a message that says outgoing video quality has been restored.
 
 ![Screenshot of HoloLens message showing outgoing video has been restored.](media/hololens-thermal-warning-normal.JPG "Screenshot of HoloLens message showing outgoing video 
