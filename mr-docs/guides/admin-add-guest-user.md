@@ -62,6 +62,9 @@ The **Guest user access restrictions** policy in Azure Active Directory determin
 
 To learn more, see [What are the default user permissions in Azure Active Directory?](/azure/active-directory/fundamentals/users-default-permissions)
 
+> [!NOTE]
+> Guests cannot start recordings in Microsoft Teams calls. 
+
 ## See also
 
 - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations)
