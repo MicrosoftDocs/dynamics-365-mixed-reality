@@ -205,7 +205,7 @@ Use the commands in the following table to turn narration on or off or to select
 
 ## Profile (sign out)
 
-![Profile screen.](media/voice-commands-profile.jpg "Profile screen")
+![Profile screen.](media/voice-commands-profile-8.JPG "Profile screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
