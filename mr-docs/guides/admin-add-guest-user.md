@@ -62,8 +62,10 @@ The **Guest user access restrictions** policy in Azure Active Directory determin
 
 To learn more, see [What are the default user permissions in Azure Active Directory?](/azure/active-directory/fundamentals/users-default-permissions)
 
+Also see [Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md).
+
 > [!NOTE]
-> Guests cannot start recordings in Microsoft Teams calls. 
+> Guests cannot start recordings in Teams calls. 
 
 ## See also
 
