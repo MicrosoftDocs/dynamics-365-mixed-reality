@@ -20,17 +20,17 @@ you know how and why outgoing video quality is being adjusted.
 
 The first warning message tells you that HoloLens is heating up and that outgoing video quality has been reduced.
 
-![Screenshot of HoloLens message showing that device is heating up.](media/hololens-thermal-warning-1.jpg "Screenshot of HoloLens message showing device is heating up")
+![Screenshot of HoloLens message showing that device is heating up.](media/hololens-thermal-warning-1.JPG "Screenshot of HoloLens message showing device is heating up")
 
 If the device continues to heat up, you'll see a warning that the device is continuing to reach critical temperatures and that outgoing video quality has been further 
 reduced.
 
-![Screenshot of HoloLens message showing that device is continuing to heat up.](media/hololens-thermal-warning-2.jpg "Screenshot of HoloLens message showing device is 
+![Screenshot of HoloLens message showing that device is continuing to heat up.](media/hololens-thermal-warning-2.JPG "Screenshot of HoloLens message showing device is 
 continuing to heat up")
 
 If the device reaches a critical temperature, you'll see a warning that outgoing video has been disabled. 
 
-![Screenshot of HoloLens message showing device has reached critical temperature.](media/hololens-thermal-warning-3.jpg "Screenshot of HoloLens message showing device 
+![Screenshot of HoloLens message showing device has reached critical temperature.](media/hololens-thermal-warning-3.JPG "Screenshot of HoloLens message showing device 
 has reached critical temperature")
 
 If you attempt to activate video after it has been disabled, you'll see a message that says outgoing video is unavailable. 
@@ -40,7 +40,7 @@ disabled")
 
 When the device returns to an optimal operating temperature, you'll see a message that says outgoing video quality has been restored.
 
-![Screenshot of HoloLens message showing outgoing video has been restored.](media/hololens-thermal-restore.jpg "Screenshot of HoloLens message showing outgoing video 
+![Screenshot of HoloLens message showing outgoing video has been restored.](media/hololens-thermal-warning-normal.JPG "Screenshot of HoloLens message showing outgoing video 
 has been restored")
 
 If you had video turned on before it was disabled, the video will automatically be turned back on. If you had video turned off before it was disabled, it will remain 
