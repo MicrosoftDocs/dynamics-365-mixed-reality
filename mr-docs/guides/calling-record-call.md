@@ -24,9 +24,7 @@ Call recording is not available to users [signed in to Dynamics 365 Guides as a 
 
 ## Overview of cloud-based recording 
 
-A cloud-based call recording can be initiated by the Dynamics 365 Guides Hololens user or the Teams user. 
-
-The recorder is the owner of the video. The owner needs to give permission or download the video to share the recording beyond people on the call. 
+A cloud-based call recording can be initiated by the Dynamics 365 Guides Hololens user or the Teams user. The recorder is the owner of the video. The owner needs to give permission or download the video to share the recording beyond people on the call. 
 
 ## Start a recording from the HoloLens app
 
