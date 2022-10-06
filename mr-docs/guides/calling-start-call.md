@@ -186,7 +186,7 @@ Use the call controls at the bottom of the screen in Teams mobile for the follow
 
 Select the **More info** [...] button to access the following additional commands:
 
-- **Toggle incoming video**
+- **Toggle incoming video**: Turn incoming video off or on. You might want to do this to conserve your battery on your device or if incoming video is distracting. 
 - **Share your screen**: Your screen will pop up as a video for the Dynamics 365 Guides user.
 - **Start video with blur**: For iOS devices only, if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you, select this command. 
 - **Insert file**: Share a file.  
