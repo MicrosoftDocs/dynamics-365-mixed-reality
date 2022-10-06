@@ -195,7 +195,7 @@ Use the commands in the following table to turn narration on or off or to select
 
 ## Active call
 
-![Active call screen.](media/voice-commands-active-call.jpg "Active call screen")
+![Active call screen.](media/voice-commands-active-call-8.JPG "Active call screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
