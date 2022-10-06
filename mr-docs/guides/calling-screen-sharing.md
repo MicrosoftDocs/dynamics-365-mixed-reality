@@ -69,6 +69,8 @@ You can also interact with the screen by using your hand rays and air tap (far-f
 
 ![Animation of moving screen around with far-field interactions.](media/Slate_FarInteractions.gif "Animation of moving screen around with far-field interactions")
 
+## Switching video feeds
+
 If the video feed is switched to another person on the call while a screen is being shared, that person's video feed is displayed and the shared screen is suspended (turns gray). A button appears on the suspended screen that you can select to make the shared screen active again. 
 
 ![Screenshot of a suspended shared screen with button highlighted.](media/calling-screen-sharing-3.JPG "Screenshot of a suspended shared screen with button highlighted")
