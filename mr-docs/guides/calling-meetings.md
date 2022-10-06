@@ -29,7 +29,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
     The Meeting window opens to the current day so you can see all of your meetings for that day. 
 
-    ![Screenshot of calendar in Meetings window.](media/calling-meetings-3.JPG "Screenshot of calendar in Meetings window")
+    ![Screenshot of calendar in Meetings window.](media/calling-meetings-4.JPG "Screenshot of calendar in Meetings window")
 
     > [!NOTE]
     > Dynamics 365 Guides supports the default calendar only. You can't change the layout of the calendar to the day, week, or month view, and you can't substitute a user's secondary calendar (for vacations or team-wide events, for example). 
