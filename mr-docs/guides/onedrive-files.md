@@ -23,6 +23,9 @@ You can open a OneDrive for Business file from the **Main** menu in the Microsof
 3. If you want to go back to the root OneDrive folder at any time, select the **OneDrive** button.
 
     ![Screenshot of OneDrive screen with OneDrive button highlighted.](media/calling-onedrive-button.JPG "Screenshot of OneDrive screen with OneDrive button highlighted")
+    
+    > [!NOTE]
+    > If a PDF document includes a lot of vector content and embedded graphics, the document might take a while to load. 
    
 ## Manipulate the file screen
    
