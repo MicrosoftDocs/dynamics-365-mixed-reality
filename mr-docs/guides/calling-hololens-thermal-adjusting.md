@@ -27,14 +27,14 @@ If the device continues to heat up, you'll see a warning that the device is appr
 ![Screenshot of HoloLens message showing that device is continuing to heat up.](media/hololens-thermal-warning-2.JPG "Screenshot of HoloLens message showing device is 
 continuing to heat up")
 
-If the device reaches a critical temperature, you'll see a warning that outgoing video has been disabled. 
+If the device reaches a critical temperature, you'll see a warning that outgoing video for calling has been disabled. 
 
 ![Screenshot of HoloLens message showing device has reached critical temperature.](media/hololens-thermal-warning-3.JPG "Screenshot of HoloLens message showing device 
 has reached critical temperature")
 
 If you attempt to activate video after it has been disabled, you'll see a message that says outgoing video is unavailable. 
 
-When the device returns to an optimal operating temperature, you'll see a message that says outgoing video quality has been restored.
+When the device returns to an optimal operating temperature, you'll see a message that says outgoing video quality for calling has been restored.
 
 ![Screenshot of HoloLens message showing outgoing video has been restored.](media/hololens-thermal-warning-normal.JPG "Screenshot of HoloLens message showing outgoing video 
 has been restored")
