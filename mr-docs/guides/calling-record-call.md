@@ -13,14 +13,14 @@ ms.reviewer: v-bholmes
 
 Recording a call in the Microsoft Dynamics 365 Guides HoloLens app is great for training or record-keeping purposes. The HoloLens app creates cloud-based recordings that are automatically uploaded to OneDrive for Business for the user who initiates the recording. When the recording finishes uploading, all call participants can access the recording through Microsoft Teams chat. 
 
-The cloud recording layout is different from what participants in a call see. On a call, the video of the HoloLens user takes over the full stage for Teams users. In the recording, all video streams have the same amount of screen space. Read more about the [layout for this type of call](#cloud-based-recording-layout) before deciding whether to record using this method. You may also want to consider [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording). 
-
 You can record one-to-one or group calls in Dynamics 365 Guides. [Learn about prerequisites for Teams cloud meeting recordings and additional exceptions](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording) 
+
+> [!NOTE]
+> A cloud recording layout is different from what participants in a call see. On a call, the video of the HoloLens user takes over the full stage for Teams users. In the recording, all video streams have the same amount of screen space. Read more about the [layout for this type of call](#cloud-based-recording-layout) before deciding whether to record using this method. You may also want to consider [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording). 
 
 Recordings of scheduled Teams channel meetings are saved to the SharePoint folder for that channel. 
 
-> [!NOTE]
-> Call recording is not available to users [signed in to Dynamics 365 Guides as a guest](admin-add-guest-user.md).
+Call recording is not available to users [signed in to Dynamics 365 Guides as a guest](admin-add-guest-user.md).
 
 ## Overview of cloud-based recording 
 
