@@ -15,6 +15,8 @@ Recording a call in the Microsoft Dynamics 365 Guides HoloLens app is great for 
 
 The cloud recording layout is different from what participants in a call see. On a call, the video of the HoloLens user takes over the full stage for Teams users. In the recording, all video streams have the same amount of screen space. Read more about the [layout for this type of call](#cloud-based-recording-layout) before deciding whether to record using this method. You may also want to consider [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording). 
 
+You can record one-to-one or group calls in Dynamics 365 Guides. [Learn about prerequisites for Teams cloud meeting recordings and additional exceptions](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording) 
+
 Recordings of scheduled Teams channel meetings are saved to the SharePoint folder for that channel. 
 
 > [!NOTE]
@@ -23,9 +25,6 @@ Recordings of scheduled Teams channel meetings are saved to the SharePoint folde
 ## Overview of cloud-based recording 
 
 A cloud-based call recording can be initiated by the Dynamics 365 Guides Hololens user or the Teams user. 
-
-> [!NOTE]
-> You can record one-to-one or group calls in Dynamics 365 Guides. [Learn about prerequisites for Teams cloud meeting recordings and additional exceptions](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording) 
 
 The recorder is the owner of the video. The owner needs to give permission or download the video to share the recording beyond people on the call. 
 
