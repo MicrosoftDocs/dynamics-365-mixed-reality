@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 A remote collaborator on Microsoft Teams (PC, Mac, or mobile) can share their desktop or application screen to help a Dynamics 365 Guides user identify and/or resolve a problem. For example, the remote collaborator might want to share a video or a series of instructions in a PowerPoint presentation. 
 
 > [!NOTE]
-> Dynamics 365 Guides does not support interactive screen-sharing content. For example, you can't share a PowerPoint presentation in presentation mode. 
+> Dynamics 365 Guides does not support interactive screen-sharing content. For example, you can't share a PowerPoint presentation in Presenter view. 
 
 For other types of files, the remote collaborator can share a file through Teams chat. The remote collaborator can share the following types of files through Teams chat: .jpg, .bmp, .png, .tif/.tiff, .pdf, still gif. 
 
