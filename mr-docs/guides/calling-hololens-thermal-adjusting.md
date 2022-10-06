@@ -18,12 +18,11 @@ you know how and why outgoing video quality is being adjusted.
 > [!IMPORTANT]
 > You must use HoloLens OS version 22H1 (Spring 2022 release) or later to use this feature. Also, the Dynamics 365 Guides application must be in the foreground (have the focus) to adjust to temperature changes.  
 
-The first warning message tells you that HoloLens is heating up and that outgoing video quality has been reduced.
+The first warning message tells you that HoloLens is heating up and that outgoing video quality for calling has been reduced.
 
 ![Screenshot of HoloLens message showing that device is heating up.](media/hololens-thermal-warning-1.JPG "Screenshot of HoloLens message showing device is heating up")
 
-If the device continues to heat up, you'll see a warning that the device is continuing to reach critical temperatures and that outgoing video quality has been further 
-reduced.
+If the device continues to heat up, you'll see a warning that the device is continuing to reach critical temperatures and that outgoing video quality for calling has been further reduced.
 
 ![Screenshot of HoloLens message showing that device is continuing to heat up.](media/hololens-thermal-warning-2.JPG "Screenshot of HoloLens message showing device is 
 continuing to heat up")
