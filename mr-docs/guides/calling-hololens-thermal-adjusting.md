@@ -22,7 +22,7 @@ The first warning message tells you that HoloLens is starting to heat up and tha
 
 ![Screenshot of HoloLens message showing that device is heating up.](media/hololens-thermal-warning-1.JPG "Screenshot of HoloLens message showing device is heating up")
 
-If the device continues to heat up, you'll see a warning that the device is approaching a critical temperatures and that outgoing video quality for calling has been further reduced.
+If the device continues to heat up, you'll see a warning that the device is approaching a critical temperature and that outgoing video quality for calling has been further reduced.
 
 ![Screenshot of HoloLens message showing that device is continuing to heat up.](media/hololens-thermal-warning-2.JPG "Screenshot of HoloLens message showing device is 
 continuing to heat up")
