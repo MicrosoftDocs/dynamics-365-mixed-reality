@@ -22,9 +22,9 @@ Narration uses the built-in HoloLens Text-to-Speech system. Narration is read in
 
 If you turn narration on or off, narration will stay on or off for the current and subsequent steps.
 
-1. Look at the palm of your hand to open the Main menu, and then touch the **Settings** button. 
+1. Look at the palm of your hand to open the Main menu, and then select the **Profile** button. 
 
-    ![Main menu with Settings button highlighted.](media/main-menu-settings.jpg "Main menu with Settings button highlighted")
+    ![Main menu with Settings button highlighted.](media/main-menu-profile-button.JPG "Main menu with Settings button highlighted")
 
 2. Move the **Narration** slider to the on position.
 
