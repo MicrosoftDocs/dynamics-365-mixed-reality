@@ -26,7 +26,7 @@ Use can also use the **Settings** screen to access documentation and how-to vide
     
 2. Use touch to change the setting you want. 
 
-    ![Screen shot of Settings window.](media/hololens-settings-8 "Screen shot of Settings window")
+    ![Screen shot of Settings window.](media/hololens-settings-8.JPG "Screen shot of Settings window")
 
 ## See also
 
