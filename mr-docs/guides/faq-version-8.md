@@ -17,7 +17,7 @@ This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 36
 |File access| Yes| Yes|
 |Call data storage| Yes| Yes|
 |Teams policy support| Yes| Yes|
-|Automatic HoloLens temperature management| New| Yes|
+|Automatic HoloLens temperature management| New: ???Not sure what New means here since RA also has HL temperature management| Yes|
 
 ## What licenses do I need to access collaboration functionality in Dynamics 365 Guides?
 
