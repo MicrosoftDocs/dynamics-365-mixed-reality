@@ -8,16 +8,16 @@ This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 36
 |Feature|Dynamics 365 Remote Assist|Dynamics 365 Guides 8.0|
 |-------------------------------------|-------------------------------------|-------------------------------------|
 |Annotations (ability for both the remote expert and HoloLens user to annotate the HoloLens user's environment)| Yes| Yes|
-|Join and schedule a meeting| Yes| Yes, but significantly improved in Dynamics 365 Guides 8.0|
+|Join and schedule a meeting| Yes| Yes (significantly improved in Dynamics 365 Guides 8.0)|
 |Group calling| Yes| Yes|
 |Call recording| Yes| Yes|
-|Chat| Yes|Yes, and improved in Dynamics 365 Guides 8.0|
-|Screen sharing| Yes| Yes|
-|Spotlighting| No?| Yes|
+|Chat| Yes|Yes (improved in Dynamics 365 Guides 8.0)|
+|Screen sharing| Yes| Yes (improved in Dynamics 365 Guides 8.0)|
+|Spotlighting| Yes| Yes|
 |File access| Yes| Yes|
 |Call data storage| Yes| Yes|
 |Teams policy support| Yes| Yes|
-|HoloLens temperature management| New: ???Not sure what New means here since RA also has HL temperature management| Yes|
+|HoloLens temperature management| Yes| Yes|
 
 ## What licenses do I need to access the new collaboration features in Dynamics 365 Guides?
 
