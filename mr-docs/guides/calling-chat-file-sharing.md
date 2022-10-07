@@ -76,11 +76,15 @@ A remote collaborator on Teams (PC, Mac, or mobile) can share a file when they'r
 To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can [share their desktop or application window](calling-screen-sharing.md). 
 
 > [!NOTE]
-> Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
->
-> - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
->
-> - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
+> After you share a file from Teams, only the Dynamics 365 Guides user can move, resize, or delete the file from their space.
+
+### Teams policies and file sharing
+
+Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
+
+- [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
+
+- [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
 
 ### Use Teams desktop (PC or Mac) to share a file 
 
@@ -99,9 +103,6 @@ Use one of the following methods to share a file:
 - Copy and paste the file into the **Chat** window.
 
 When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space. Note, however, that Teams mobile users can only annotate in one-to-one calls. 
-
-> [!Note]
-> After you share a file from Teams, only the Dynamics 365 Guides user can move, resize, or delete the file from their space.
 
 ### Use Teams mobile to share a file 
 
