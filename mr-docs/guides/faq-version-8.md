@@ -10,13 +10,14 @@ This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 36
 |Annotations (ability for both the remote expert and HoloLens user to annotate the HoloLens user's environment)| Yes| Yes|
 |Join and schedule a meeting| Yes| Yes (significantly improved in Dynamics 365 Guides 8.0)|
 |Group calling| Yes| Yes|
-|Incoming calls|Yes|No. This feature will be adding in an upcoming release to Dynamics 365 Guides.|
+|Incoming calls|Yes|No. This feature will be adding in an upcoming Dynamics 365 Guides release.|
 |Call recording| Yes| Yes|
 |Chat| Yes|Yes (improved in Dynamics 365 Guides 8.0)|
 |Screen sharing| Yes| Yes (improved in Dynamics 365 Guides 8.0)|
-|Snaphots (for poor connectivity situations)|Yes|No. This feature will be adding in an upcoming release to Dynamics 365 Guides.|
+|Snaphots (for poor connectivity situations)|Yes|No. This feature will be adding in an upcoming Dynamics 365 Guides release.|
 |Spotlighting| Yes| Yes|
 |File access| Yes| Yes|
+|Restricted access (calling, contacts, OneDrive files and ability to sign out of the HoloLens app)|Yes|No. This feature will be adding in an upcoming Dynamics 365 Guides release.|
 |Call data storage/display| Yes| Yes (Dynamics 365 Guides does not provide a built-in Calls dashboard, however)|
 |Teams policy support| Yes| Yes|
 |HoloLens temperature management| Yes| Yes|
@@ -66,14 +67,6 @@ There are two new permissions:
 
 - The Background spatial perception (movement) permission is required if you want to use the new annotations capabilities.
 
-## What Dynamics 365 Remote Assist functionality is not supported in the Dynamics 365 Guides 8.0 October release but will be added in upcoming releases?
-
-- Support for incoming calls on HoloLens
-
-- Ability to restrict access (calling and contacts, OneDrive files, and ability to sign out of the HoloLens app). 
-
-- Ability to take a snapshot during a call (for low-connectivity situations)
-
 ## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for a period of time, will I be able to filter call data by app?
 
 Yes, you can filter by subject in the Guides model-driven app. The subject value for Dynamics 365 Remote Assist calls is "Dynamics 365 Remote Assist Call".
@@ -90,12 +83,6 @@ To transition a specific user to Dynamics 365 Guides 8.0, you need to do two thi
 
 The user will be able to sign into Dynamics 365 Guides after doing these two steps.
 
-## Does Guides 8.0 support HoloLens kiosk mode? 
 
-The 8.0 release does not support kiosk mode. This will be added in an upcoming release.
-
-## Can I send a deep link to a guide from a meeting in Dynamics 365 Guides 8.0?
-
-The 8.0 release does not support sending a deep link from a meeting. This will be added in an upcoming release.
 
 
