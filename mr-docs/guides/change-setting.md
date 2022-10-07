@@ -24,7 +24,9 @@ Use can also use the **Settings** screen to access documentation and how-to vide
 
     ![Screen shot of hand and Main menu.](media/main-menu-profile-settings.JPG "Screen shot of hand and Main menu")
     
-2. Make changes to settings. 
+2. Select the **Preferences** button.
+
+3. Make changes to settings. 
 
     ![Screen shot of Settings window.](media/hololens-settings-8.JPG "Screen shot of Settings window")
 
