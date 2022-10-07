@@ -84,7 +84,7 @@ Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the Hol
 |---------|----------------------------------------------------|
 |![Graphic showing the Arrow button.](media/calling-annotations-teams-arrow-button.JPG)|Add an arrow.|
 |![Graphic showing the Ink button.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
-|![Graphic showing the Insert file button.](media/calling-annotations-teams-insert-file-button.JPG)|Insert a file in the HoloLens user's space. You can select an image or .pdf file from OneDrive or from your device. [Learn more about sharing a file or your screen](calling-screen-sharing.md)|
+|![Graphic showing the Insert file button.](media/calling-annotations-teams-insert-file-button.JPG)|Insert a file in the HoloLens user's space. You can select an image or .pdf file from OneDrive or from your device. [Learn more about sharing a file](calling-chat-file-sharing.md)|
 |![Graphic showing the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
 
 ### Finish editing
