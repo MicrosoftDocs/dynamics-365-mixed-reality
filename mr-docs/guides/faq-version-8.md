@@ -105,14 +105,14 @@ The 8.0 release does not support sending a deep link from a meeting. This will b
 
 |Feature|Dynamics 365 Remote Assist|Dynamics 365 Guides 8.0|
 |-------------------------------------|-------------------------------------|-------------------------------------|
-|Ability for both the remote expert and HoloLens user to annotate the HoloLens user's environment| Yes| Yes|
+|Annotations (ability for both the remote expert and HoloLens user to annotate the HoloLens user's environment)| Yes| Yes|
 |Join and schedule a meeting| Significantly improved| Oct, Guides 8.0|
-|Group calling| Exists in RA| Oct, Guides 8.0|
-|Call recording| Exists in RA| Oct, Guides 8.0|
-|Spotlighting| New| Oct, Guides 8.0|
-|Teams policy support| Exists in RA| Oct, Guides 8.0|
-|Automatic HoloLens temperature management| New| Oct, Guides 8.0|
-|Chat| Exists in RA|, Improved Oct, Guides 8.0|
-|Screen sharing| Exists in RA| Oct, Guides 8.0|
-|File access| Exists in RA| Oct, Guides 8.0|
-|Calls data storage| Exists in RA| Oct, Guides|
+|Group calling| Yes| Yes|
+|Call recording| Yes| Yes|
+|Spotlighting| New| Yes|
+|Teams policy support| Yes| Yes|
+|Automatic HoloLens temperature management| New| Yes|
+|Chat| Yes|Yes, and improved in Dynamics 365 Guides 8.0|
+|Screen sharing| Yes| Yes|
+|File access| Yes| Yes|
+|Call data storage| Yes| Yes|
