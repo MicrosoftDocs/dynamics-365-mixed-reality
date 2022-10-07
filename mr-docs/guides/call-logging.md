@@ -69,7 +69,7 @@ You may notice that certain fields in the Phone Calls form aways appear empty (d
 - Description
 - Regarding
 
-Dynamics 365 Guides doesn't store values in these fields, but they're included because the form is shared with other products such as Dynamics 365 Remote Assist and Dynamics 365 Field Service. 
+Dynamics 365 Guides doesn't store values in these fields, but they're included because the form is shared with other Microsoft products such as Dynamics 365 Field Service. 
 
 ## See also
 
