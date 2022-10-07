@@ -1,4 +1,4 @@
-# View calling data stored by Dynamics 365 Guides
+# View and access call data stored by Dynamics 365 Guides
 
 When Microsoft Dynamics 365 Guides users make or receive calls in the HoloLens app, call information is stored in Microsoft Dataverse. Anyone who has access to make.powerapps.com or the Guides environment can view calling data in the Guides model-driven app. Users can view only their own calling data; administrators can view calling data from all users. 
 
