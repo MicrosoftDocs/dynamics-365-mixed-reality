@@ -37,9 +37,9 @@ The following table lists product requirements for services, apps, and features 
 |Outbound calling from Dynamics 365 Guides| Microsoft Teams or Dynamics 365 Remote Assist<br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](https://powerbi.microsoft.com/desktop/) |
 |Analytics dashboard| Power BI Desktop app ([available as a free download](https://powerbi.microsoft.com/desktop/)).</p> | [Learn more about Power BI](https://powerbi.microsoft.com/desktop/) |
 
-## Making and receiving calls
+## Calling features
 
-You must have a Microsoft Teams license to make outgoing calls from the Dynamics 365 Guides HoloLens app. This section describes specific Microsoft Teams requirements and describes limitations for the calling feature. 
+You must have a Microsoft Teams license to use the calling features in Dynamics 365 Guides. This section describes specific Microsoft Teams requirements and describes limitations for calling features. 
 
 ### Microsoft Teams requirements
 
