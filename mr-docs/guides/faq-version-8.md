@@ -15,7 +15,7 @@ This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 36
 |Screen sharing| Yes| Yes (improved in Dynamics 365 Guides 8.0)|
 |Spotlighting| Yes| Yes|
 |File access| Yes| Yes|
-|Call data storage| Yes| Yes|
+|Call data storage/display| Yes| Yes (Dynamics 365 Guides does not provide a built-in Calls dashboard, however)|
 |Teams policy support| Yes| Yes|
 |HoloLens temperature management| Yes| Yes|
 
