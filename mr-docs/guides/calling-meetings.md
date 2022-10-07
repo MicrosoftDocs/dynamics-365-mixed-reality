@@ -86,9 +86,6 @@ To admit or decline the participant:
 
 ## Schedule and join a meeting from Teams desktop (PC or Mac)
 
-> [!NOTE]
-> Dynamics 365 Guides users might not be able to join scheduled meetings between different companies if link-rewriting (URL-rewriting services) are used to fight spam. To make sure that users can join scheduled meetings in this situation, add an exception so that links from teams.microsoft.com are not rewritten.  
-
 ### Schedule a meeting ahead of the call
 
 Check out the following links:
