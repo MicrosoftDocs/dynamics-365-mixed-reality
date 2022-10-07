@@ -59,32 +59,6 @@ There are two new permissions:
 
 - Ability to take a snapshot during a call (for low-connectivity situations)
 
-## What do I need to do to ensure that call data is displayed correctly?
-
-Summary: The first iteration of this project is to instrument the HL client app with the necessary telemetry to be able to collect data for customers to analyze. We will be adding a page in the MDA with a table that will have similar information to the dashboard Remote Assist provides today.
-
-Background: Remote Assist sends call usage events into PhoneCall entity. This is a default entity in the dataverse which is customized in RA solution to have a few more fields.
-
-Assumptions:
-
-· It is assumed Guides solution is installed in the dataverse instance.
-
-· It is assumed that a customer would be able to see Calls Data from Guides on the existing RA Dashboard if both solutions are installed in the same environment.
-
-To log Calls data from Guides we will be using the same PhoneCall entity with similar customizations made in RA solution.
-
-We will update the existing security roles to give read-write privileges to Phone Call table so that Guides client can safely write the data for authors and operators.
-
-o Dynamics 365 Restricted Guides Author
-
-o Dynamics 365 Restricted Guides Operator
-
-o Dynamics 365Guides Author
-
-o Dynamics 365 Guides Operator
-
-Built in System admin role can be used if a user wants full access to Calls data.
-
 ## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for a period of time, will I be able to filter call data by app?
 
 Yes, you can filter by subject in the Guides model-driven app. The subject value for Dynamics 365 Remote Assist calls is "Dynamics 365 Remote Assist Call".
