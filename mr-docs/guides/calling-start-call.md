@@ -80,7 +80,7 @@ After you call a federated contact, they appear in your recent contacts list, so
 A group call can include a Dynamics 365 Guides user on HoloLens and a Teams desktop user (PC or Mac) or Dynamics 365 Remote Assist mobile user. 
 
 > [!NOTE]
-> A Teams mobile user cannot collaborate on a group call with a Dynamics 365 Guides user on HoloLens.
+> A Teams mobile user cannot annotate in a group call.
 
 On group calls, you can switch between participants' video feeds and mute or remove participants as needed. 
 
