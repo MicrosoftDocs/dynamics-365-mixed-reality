@@ -61,7 +61,7 @@ The following data is updated at the end of the call, but only if the Dynamics 3
 
 ## Fields that don't have values in the Phone Calls form
 
-You may notice that certain fields in the Phone Calls table aways appear empty (don't have displayed vallues). This includes the following fields:
+You may notice that certain fields in the Phone Calls form aways appear empty (don't have displayed vallues). This includes the following fields:
 
 - Call From
 - Call To
