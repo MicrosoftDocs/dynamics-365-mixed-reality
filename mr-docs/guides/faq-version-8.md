@@ -1,7 +1,23 @@
 
 # FAQ: Dynamics 365 Guides 8.0
 
-This FAQ addresses questions related to Dynamics 365 Guides 8.0, which includes many of the Microsoft Teams collaboration/calling features currently available in Dynamics 365 Remote Assist.  
+This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 365 Guides release includes many of the Microsoft Teams collaboration/calling features that are also available in Dynamics 365 Remote Assist.  
+
+## Feature comparison: Dynamics 365 Remote Assist and Dynamics 365 Guides 8.0
+
+|Feature|Dynamics 365 Remote Assist|Dynamics 365 Guides 8.0|
+|-------------------------------------|-------------------------------------|-------------------------------------|
+|Annotations (ability for both the remote expert and HoloLens user to annotate the HoloLens user's environment)| Yes| Yes|
+|Join and schedule a meeting| Yes| Yes, but significantly improved in Dynamics 365 Guides 8.0|
+|Group calling| Yes| Yes|
+|Call recording| Yes| Yes|
+|Chat| Yes|Yes, and improved in Dynamics 365 Guides 8.0|
+|Screen sharing| Yes| Yes|
+|Spotlighting| No?| Yes|
+|File access| Yes| Yes|
+|Call data storage| Yes| Yes|
+|Teams policy support| Yes| Yes|
+|Automatic HoloLens temperature management| New| Yes|
 
 ## What licenses do I need to access collaboration functionality in Dynamics 365 Guides?
 
@@ -101,18 +117,4 @@ The 8.0 release does not support kiosk mode. This will be added in an upcoming r
 
 The 8.0 release does not support sending a deep link from a meeting. This will be added in an upcoming release.
 
-## Feature comparison between Dynamics 365 Remote Assist and Dynamics 365 Guides 8.0
 
-|Feature|Dynamics 365 Remote Assist|Dynamics 365 Guides 8.0|
-|-------------------------------------|-------------------------------------|-------------------------------------|
-|Annotations (ability for both the remote expert and HoloLens user to annotate the HoloLens user's environment)| Yes| Yes|
-|Join and schedule a meeting| Yes| Yes, but significantly improved in Dynamics 365 Guides 8.0|
-|Group calling| Yes| Yes|
-|Call recording| Yes| Yes|
-|Chat| Yes|Yes, and improved in Dynamics 365 Guides 8.0|
-|Screen sharing| Yes| Yes|
-|Spotlighting| No?| Yes|
-|File access| Yes| Yes|
-|Call data storage| Yes| Yes|
-|Teams policy support| Yes| Yes|
-|Automatic HoloLens temperature management| New| Yes|
