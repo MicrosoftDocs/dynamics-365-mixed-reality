@@ -22,9 +22,9 @@ The following table describes the features that are available as a Teams mobile 
 | Feature | Available on Teams mobile? | 
 |-----------------------------------------------|------------| 
 |Make outgoing call to Dynamics 365 Guides user | No, the Dynamics 365 Guides user must initiate the call. | 
-|Receive an incoming call | Yes| Yes|
+|Receive an incoming call | Yes| 
 |Join a one-to-one call |Yes|  
-|Join a group call  |No | 
+|Join a group call  |Yes | 
 |Control outgoing video, outgoing audio, and incoming audio  | Yes |
 |Annotate the Dynamics 365 Guides user’s environment using arrows and ink  | Yes, but only for one-to-one calls. |
 |Send a text message | Yes |
