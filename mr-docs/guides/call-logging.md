@@ -53,6 +53,22 @@ The following data is updated at the end of the call, but only if the Dynamics 3
 - StateCode (set to **Completed** at the end of the call)
 - StatusCode (set to **Made** or **Received**)
 
+## Fields that don't have values in the Phone Calls form
+
+You may notice that certain fields in the **Phone Calls** form don't have any displayed values. These include the following fields: 
+
+- Call From
+- Call To
+- Phone Number
+- Description
+- Regarding
+
+Data **is** stored in these fields, but is not displayed on the **Phone Calls** form. You can access this data by
+
+- Using Advanced Find
+- Browsing the data model in https://make.powerapps.com
+- Customizations
+
 ## See also
 
 - [Call a remote collaborator](calling-start-call.md)
