@@ -101,7 +101,7 @@ The 8.0 release does not support kiosk mode. This will be added in an upcoming r
 
 The 8.0 release does not support sending a deep link from a meeting. This will be added in an upcoming release.
 
-## What functionality is supported in Guides 8.0 October release?
+## Which Dynamics 365 Remote Assist features are included in Dynamics 365 Guides 8.0?
 
 |Feature|Dynamics 365 Remote Assist|Dynamics 365 Guides 8.0|
 |-------------------------------------|-------------------------------------|-------------------------------------|
