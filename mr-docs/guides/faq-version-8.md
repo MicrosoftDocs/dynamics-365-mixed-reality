@@ -10,9 +10,11 @@ This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 36
 |Annotations (ability for both the remote expert and HoloLens user to annotate the HoloLens user's environment)| Yes| Yes|
 |Join and schedule a meeting| Yes| Yes (significantly improved in Dynamics 365 Guides 8.0)|
 |Group calling| Yes| Yes|
+|Incoming calls|Yes|No. This feature will be adding in an upcoming release to Dynamics 365 Guides.|
 |Call recording| Yes| Yes|
 |Chat| Yes|Yes (improved in Dynamics 365 Guides 8.0)|
 |Screen sharing| Yes| Yes (improved in Dynamics 365 Guides 8.0)|
+|Snaphots (for poor connectivity situations)|Yes|No. This feature will be adding in an upcoming release to Dynamics 365 Guides.|
 |Spotlighting| Yes| Yes|
 |File access| Yes| Yes|
 |Call data storage/display| Yes| Yes (Dynamics 365 Guides does not provide a built-in Calls dashboard, however)|
