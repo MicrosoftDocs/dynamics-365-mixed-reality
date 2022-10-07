@@ -102,6 +102,9 @@ Use one of the following methods to share a file:
 
 - Copy and paste the file into the **Chat** window.
 
+    > [!NOTE]
+    > If you paste a bitmap file this way, it won't appear for the Dynamics 365 Guides user. To share a bitmap file, make sure to use one of the methods above to attach the file. 
+
 When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space. Note, however, that Teams mobile users can only annotate in one-to-one calls. 
 
 ### Use Teams mobile to share a file 
