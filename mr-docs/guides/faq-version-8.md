@@ -111,7 +111,7 @@ The 8.0 release does not support sending a deep link from a meeting. This will b
 |Call recording| Yes| Yes|
 |Chat| Yes|Yes, and improved in Dynamics 365 Guides 8.0|
 |Screen sharing| Yes| Yes|
-|Spotlighting| New| Yes|
+|Spotlighting| No?| Yes|
 |File access| Yes| Yes|
 |Call data storage| Yes| Yes|
 |Teams policy support| Yes| Yes|
