@@ -50,7 +50,7 @@ You must have a Microsoft Teams license to use the calling features in Dynamics 
 
 The Microsoft Teams user can be in the same organization as the Dynamics 365 Guides user, in a federated organization, or a guest in the organization.
 
-### Calling feature limitations
+### Limitations
 
 The calling feature in Dynamics 365 Guides does not support:
 
