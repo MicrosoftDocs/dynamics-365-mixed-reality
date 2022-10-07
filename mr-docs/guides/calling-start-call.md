@@ -27,11 +27,9 @@ Dynamics 365 Guides supports the following types of calls:
 
 A Dynamics 365 Guides HoloLens user can collaborate with:
 
-- A Teams desktop user (PC or Mac) on a one-to-one call, group call, or scheduled meeting. To learn more about different combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
+- A Teams desktop user (PC or Mac) or Teams mobile user on a one-to-one call, group call, or scheduled meeting. To learn more about different combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
 
 - A Dynamics 365 Remote Assist mobile user on a one-to-one or group call.
-
-- A Teams mobile user on a one-to-one call.
 
 > [!NOTE]
 > The mixed-reality toolbar will not appear if the Dynamics 365 Guides user joins the call from two different devices.
