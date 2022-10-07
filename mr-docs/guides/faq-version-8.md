@@ -77,7 +77,7 @@ Yes, you can filter by subject in the Guides model-driven app. The subject value
 
 ## How do I configure roles for users who need to use calling and annotations functionality only and who are mostly using Dynamics 365 Remote Assist currently?
 
-There’s no built-in way to limit access in Dynamics 365 Guides to just calling functionality. Dynamics 365 Guides users also get access to the ability to author and operate guides. 
+There’s no built-in way to limit access in Dynamics 365 Guides to just calling functionality. Dynamics 365 Guides users by default get access to the ability to author and operate guides. 
 
 To transition a specific user to Dynamics 365 Guides 8.0, you need to do two things:
 
