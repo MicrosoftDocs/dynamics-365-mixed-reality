@@ -49,6 +49,8 @@ Yes. Activity table (PhoneCall table) privileges are mandatory for users that wa
 
 ![Screenshot of required privileges for Activity table.](media/admin-security-roles-activity-table.JPG "Screenshot of required privileges for Activity table")
 
+???Aren'there 8? What about delete??? Is it important to list the privileges above or just show the screenshot???
+
 ## Can I share a deep link to a guide through a HoloLens chat?
 
 Yes, Teams desktop users can share a link to a guide directly in chat. HoloLens users can open a guide directly (or even a particular step in a specific guide) by selecting the link. 
