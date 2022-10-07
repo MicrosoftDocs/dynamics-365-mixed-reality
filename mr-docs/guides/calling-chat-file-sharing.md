@@ -24,7 +24,7 @@ When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or m
     > [!NOTE]
     > If you receive a chat invite from a remote collaborator, a red circle appears on the **Chat** button and the **Chat** button animates. 
 
-    ![Screenshot of Meetings window with Chat button highlighted.](media/calling-chat-file-sharing-1.JPG "Screenshot of Meetings window with Chat button highlighted")    
+    ![Screenshot of Meetings window with Chat button highlighted.](media/calling-chat-file-sharing-1.JPG "Screenshot of Meetings window with Chat button highlighted") 
     
     A new **Chat** window appears to the right of the video feed.     
     
@@ -101,7 +101,7 @@ Use one of the following methods to share a file:
 When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space. Note, however, that Teams mobile users can only annotate in one-to-one calls. 
 
 > [!Note]
-> After you share a file, you can't move, delete, or resize the file.
+> After you share a file from Teams, only the Dynamics 365 Guides user can move, resize, or delete the file from their space.
 
 ### Use Teams mobile to share a file 
 
