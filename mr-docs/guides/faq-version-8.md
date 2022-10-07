@@ -109,10 +109,10 @@ The 8.0 release does not support sending a deep link from a meeting. This will b
 |Join and schedule a meeting| Significantly improved| Oct, Guides 8.0|
 |Group calling| Yes| Yes|
 |Call recording| Yes| Yes|
+|Chat| Yes|Yes, and improved in Dynamics 365 Guides 8.0|
+|Screen sharing| Yes| Yes|
 |Spotlighting| New| Yes|
 |Teams policy support| Yes| Yes|
 |Automatic HoloLens temperature management| New| Yes|
-|Chat| Yes|Yes, and improved in Dynamics 365 Guides 8.0|
-|Screen sharing| Yes| Yes|
 |File access| Yes| Yes|
 |Call data storage| Yes| Yes|
