@@ -54,10 +54,12 @@ The Microsoft Teams user can be in the same organization as the Dynamics 365 Gui
 
 The calling feature in Dynamics 365 Guides does not support:
 
-- Access to the Dynamics 365 Remote Assist model-driven app. Outbound calls from Dynamics 365 Guides are not included in Dynamics 365 Remote Assist call record analytics/insights.
 - [Creating and managing assets](/dynamics365/mixed-reality/remote-assist/asset-capture-overview) either within or outside a Dynamics 365 Guides call.
 - Creating and sharing one-time-call links.
 - Creating or viewing analytics and insights based on call records. 
+
+  > [NOTE]
+  > Dynamics 365 Guides does not include a Calls dashboard, but you can [view call data with the Guides model-driven app](call-logging.md). 
 
 Dynamics 365 Remote Assist and Dynamics 365 Guides do not currently comply with Microsoft Teams policies.
 
