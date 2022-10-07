@@ -85,13 +85,13 @@ o Dynamics 365 Guides Operator
 
 Built in System admin role can be used if a user wants full access to Calls data.
 
-## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for a period of time, will I be able to filter calls data by app?
+## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for a period of time, will I be able to filter call data by app?
 
 Yes, you can filter by subject in the Guides model-driven app. The subject value for Dynamics 365 Remote Assist calls is "Dynamics 365 Remote Assist Call".
 
-## How do I configure roles for users who need/use calling and annotations functionality only and who are mostly using Dynamics 365 Remote Assist currently?
+## How do I configure roles for users who need to use calling and annotations functionality only and who are mostly using Dynamics 365 Remote Assist currently?
 
-There’s no built-in way to limit access in Dynamics 365 Guides to just calling functionality.
+There’s no built-in way to limit access in Dynamics 365 Guides to just calling functionality. Dynamics 365 Guides users also get access to the ability to author and operate guides. 
 
 To transition a specific user to Dynamics 365 Guides 8.0, you need to do two things:
 
