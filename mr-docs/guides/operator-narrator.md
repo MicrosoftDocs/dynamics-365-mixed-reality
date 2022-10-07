@@ -26,9 +26,11 @@ If you turn narration on or off, narration will stay on or off for the current a
 
     ![Main menu with Settings button highlighted.](media/main-menu-profile-settings.JPG "Main menu with Settings button highlighted")
 
-2. Move the **Narration** slider to the on position.
+2. Select the **Preferences** button.
 
-   ![Screenshot of narration setting.](media/narration-setting.jpg "Screenshot of narration setting")
+3. Move the **Narration** slider to the on position.
+
+   ![Screenshot of narration setting.](media/narration-hololens.JPG "Screenshot of narration setting")
 
 ## Use voice commands to turn narration on or off or to select a response in a question card
 
