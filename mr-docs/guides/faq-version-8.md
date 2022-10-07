@@ -75,12 +75,6 @@ To transition a specific user to Dynamics 365 Guides 8.0, you need to do two thi
 
 The user will be able to sign into Dynamics 365 Guides after doing these two steps.
 
-
-
-Add - What happens if user just wants to use calling functionality? (add a matrix)
-
-Add - What happens if user wants to use both calling and guides functionality?
-
 ## Does Guides 8.0 support HoloLens kiosk mode? 
 
 The 8.0 release does not support kiosk mode. This will be added in an upcoming release.
