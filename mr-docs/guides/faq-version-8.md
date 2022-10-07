@@ -106,7 +106,7 @@ The 8.0 release does not support sending a deep link from a meeting. This will b
 |Feature|Dynamics 365 Remote Assist|Dynamics 365 Guides 8.0|
 |-------------------------------------|-------------------------------------|-------------------------------------|
 |Annotations (ability for both the remote expert and HoloLens user to annotate the HoloLens user's environment)| Yes| Yes|
-|Join and schedule a meeting| Significantly improved| Oct, Guides 8.0|
+|Join and schedule a meeting| Yes| Yes, but significantly improved in Dynamics 365 Guides 8.0|
 |Group calling| Yes| Yes|
 |Call recording| Yes| Yes|
 |Chat| Yes|Yes, and improved in Dynamics 365 Guides 8.0|
