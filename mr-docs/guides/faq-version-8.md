@@ -35,7 +35,7 @@ Yes, it stores data in the same table and columns. In addition, Dynamics 365 Gui
 
 No, Dynamics 365 Guides 8.0 doesn't have a Calls dashboard but it provides a table-like view with all of the same information. And since Dynamics 365 Guides 8.0 sends call usage events to the same PhoneCall table that Dynamics 365 Remote Assist uses (which is the default table in Microsoft Dataverse), calls made from Dynamics 365 Guides are displayed in the Dynamics 365 Remote Assist Calls dashboard if both apps are installed in the same environment.
 
-## Do I need to update privileges for any custom security roles?
+## Do I need to update privileges for custom security roles?
 
 Yes. If you have created custom security roles, you must update those roles to provide privileges to the Activity table (PhoneCall table). **Users won't be able to sign in to either app if you don't update custom security roles.** Users must have the following seven privileges to be able to sign in:
 
