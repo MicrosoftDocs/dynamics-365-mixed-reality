@@ -27,7 +27,7 @@ You need a Dynamics 365 Guides license and a Microsoft Teams license.
 
 Yes.
 
-## Does Dynamics 365 Guides 8.0 store calls data the same way as Dynamics 365 Remote Assist?
+## Does Dynamics 365 Guides 8.0 store call data the same way as Dynamics 365 Remote Assist?
 
 Yes, it stores data in the same table and columns. In addition, Dynamics 365 Guides provides many improvements to the reliability of data collection, especially in environments where internet connections are spotty. 
 
