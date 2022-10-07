@@ -47,7 +47,7 @@ Yes. Having privileges to the Activity table (PhoneCalls table) is mandatory for
 - prvShareActivity
 - prvWriteActivity
 
-
+![Screenshot of required privileges for Activity table.](media/admin-security-roles-activity-table "Screenshot of required privileges for Activity table")
 
 ## Can I share a deep link to a guide through a HoloLens chat?
 
