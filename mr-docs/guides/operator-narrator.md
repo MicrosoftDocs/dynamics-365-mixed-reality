@@ -24,7 +24,7 @@ If you turn narration on or off, narration will stay on or off for the current a
 
 1. Look at the palm of your hand to open the Main menu, and then select the **Profile** button. 
 
-    ![Main menu with Settings button highlighted.](media/main-menu-profile-button.JPG "Main menu with Settings button highlighted")
+    ![Main menu with Settings button highlighted.](media/main-menu-profile-settings.JPG "Main menu with Settings button highlighted")
 
 2. Move the **Narration** slider to the on position.
 
