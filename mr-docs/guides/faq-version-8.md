@@ -37,7 +37,7 @@ No, Dynamics 365 Guides 8.0 doesn't have a Calls dashboard but it provides a tab
 
 ## Do I need to update privileges for custom security roles to write call data to the PhoneCall table?
 
-Yes. Having privileges to the Activity table (PhoneCalls table) is mandatory for users trying to sign in to both apps. Users must have the following seven privileges to be able to sign in:
+Yes. Activity table (PhoneCalls table) privileges are mandatory for users trying to sign in to both apps. Users must have the following seven privileges to be able to sign in:
 
 - prvAppendActivity
 - prvAppendToActivity
