@@ -1,5 +1,5 @@
 
-# FAQ: Dynamics 365 Guides 8.0
+# FAQ: Dynamics 365 Guides 8.0 and Dynamics 365 Remote Assist
 
 This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 365 Guides release includes many of the Microsoft Teams collaboration/calling features that are also available in Dynamics 365 Remote Assist.  
 
