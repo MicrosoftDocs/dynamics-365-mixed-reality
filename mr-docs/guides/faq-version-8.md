@@ -85,6 +85,6 @@ To transition a specific user to Dynamics 365 Guides 8.0, you need to do two thi
 
 The user will be able to sign into Dynamics 365 Guides after doing these two steps.
 
-[Learn more about assigning security roles](admin-security-roles.md)
+[Learn more about assigning security roles](assign-role.md)
 
 
