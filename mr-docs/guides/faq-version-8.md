@@ -24,7 +24,7 @@ This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 36
 
 ## What licenses do I need to access the new collaboration features in Dynamics 365 Guides?
 
-You need a Dynamics 365 Guides license and a Microsoft Teams license.
+You need a Dynamics 365 Guides license and a Microsoft Teams license. [Learn more about licensing requirements](requirements.md)
 
 ## Can I collaborate with Teams users in the same way as I do in Dynamics 365 Remote Assist?
 
@@ -32,11 +32,11 @@ Yes.
 
 ## Does Dynamics 365 Guides 8.0 store call data the same way as Dynamics 365 Remote Assist?
 
-Yes, it stores data in the same table and columns. In addition, Dynamics 365 Guides provides many improvements to the reliability of data collection, especially in environments where internet connections are spotty. 
+Yes, it stores data in the same table and columns. In addition, Dynamics 365 Guides provides many improvements to the reliability of data collection, especially in environments where internet connections are spotty. [Learn more about viewing and accessing call data in Dynamics 365 Guides](call-logging.md)
 
 ## Does Dynamics 365 Guides 8.0 provide a Calls dashboard like Dynamics 365 Remote Assist to analyse call data?
 
-No, Dynamics 365 Guides 8.0 doesn't have a Calls dashboard but it provides a table-like view with all of the same information. And since Dynamics 365 Guides 8.0 sends call usage events to the same PhoneCall table that Dynamics 365 Remote Assist uses (which is the default table in Microsoft Dataverse), calls made from Dynamics 365 Guides are displayed in the Dynamics 365 Remote Assist Calls dashboard if both apps are installed in the same environment.
+No, Dynamics 365 Guides 8.0 doesn't have a Calls dashboard but it provides a table-like view with all of the same information. And since Dynamics 365 Guides 8.0 sends call usage events to the same PhoneCall table that Dynamics 365 Remote Assist uses (which is the default table in Microsoft Dataverse), calls made from Dynamics 365 Guides are displayed in the Dynamics 365 Remote Assist Calls dashboard if both apps are installed in the same environment. [Learn more about viewing and accessing call data in Dynamics 365 Guides](call-logging.md)
 
 ## Do I need to update privileges for custom security roles?
 
@@ -52,12 +52,12 @@ Yes. If you have created custom security roles, you must update those roles to p
 
 ![Screenshot of required privileges for Activity table.](media/admin-security-roles-activity-table.JPG "Screenshot of required privileges for Activity table")
 
-> [!NOTE
+> [!NOTE]
 > The Delete privilege is not required. 
 
 ## Can I share a deep link to a guide through a HoloLens chat?
 
-Yes, Teams desktop users can share a link to a guide directly in chat. HoloLens users can open a guide directly (or even a particular step in a specific guide) by selecting the link. 
+Yes, Teams desktop users can share a link to a guide directly in chat. HoloLens users can open a guide directly (or even a particular step in a specific guide) by selecting the link. [Learn more about creating a deep link]()
 
 ## Do I need to configure any new permissions?
 
@@ -66,6 +66,8 @@ There are two new permissions:
 - The Location permission (optional) can be enabled if you want to store location information in the PhoneCall table.
 
 - The Background spatial perception (movement) permission is required if you want to use the new annotations capabilities.
+
+[Learn more about permissions required for the HoloLens app](calling-hololens-permissions.md)
 
 ## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for a period of time, will I be able to filter call data by app?
 
@@ -83,6 +85,6 @@ To transition a specific user to Dynamics 365 Guides 8.0, you need to do two thi
 
 The user will be able to sign into Dynamics 365 Guides after doing these two steps.
 
-
+[Learn more about assigning security roles](admin-security-roles.md)
 
 
