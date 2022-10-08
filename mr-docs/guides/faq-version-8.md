@@ -57,7 +57,7 @@ Yes. If you have created custom security roles, you must update those roles to p
 
 ## Can I share a deep link to a guide through a HoloLens chat?
 
-Yes, Teams desktop users can share a link to a guide directly in chat. HoloLens users can open a guide directly (or even a particular step in a specific guide) by selecting the link. [Learn more about creating a deep link]()
+Yes, Teams desktop users can share a link to a guide directly in chat. HoloLens users can open a guide directly (or even a particular step in a specific guide) by selecting the link. [Learn more about creating a deep link](pc-app-copy-link-guide-step.md)
 
 ## Do I need to configure any new permissions?
 
