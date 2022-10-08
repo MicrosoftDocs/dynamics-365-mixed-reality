@@ -67,7 +67,7 @@ There are two new permissions:
 
 - The Background spatial perception (movement) permission is required if you want to use the new annotations capabilities.
 
-[Learn more about permissions required for the HoloLens app](calling-hololens-permissions.md)
+[Learn more about permissions required for the HoloLens app](hololens-permissions.md)
 
 ## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for a period of time, will I be able to filter call data by app?
 
