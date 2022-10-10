@@ -17,15 +17,16 @@ Ready to get started with Microsoft Dynamics 365 Guides? Review the learning pat
 
 If you're ready to get started with Teams collaboration features, check out the following topics:
 
-- Call a remote collaborator on Teams
-- Join a scheduled meeting
-- Start a chat and share files
-- Record a call
-- Screen sharing
-- Annotations
-- Access OneDrive files
-- View and access call data
-- Learn about Teams policies supported by Dynamics 365 Guides
+- [Call a remote collaborator on Teams](calling-start-call.md)
+- [Join a scheduled meeting](calling-meetings.md)
+- [Start a chat and share files](calling-chat-file-sharing.md)
+- [Record a call](calling-record-call.md)
+- [Screen sharing](calling-screen-sharing.md)
+- [Annotations](calling-annotations.md)
+- [Access OneDrive files](onedrive-files.md)
+- [View and access call data](call-logging.md)
+- [Learn about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
+- [Read the FAQ about Dynamics 365 Guides 8.0 and migration from Dynamics 365 Remote Assist](faq-version-8.md)
 
 ## Get started with guide authoring/operating
 
