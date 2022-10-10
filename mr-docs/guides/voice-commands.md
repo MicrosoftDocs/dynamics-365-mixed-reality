@@ -61,8 +61,8 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | Not shown | "Show Main menu" | Open the Main menu or bring it to you. |
 | Not shown | "Hide Main menu" | Hide the Main menu. |
-| 1 | "Show Work" | Open the Work activity to see your guides and folders. |
-| 2 | "Show Call" | Open the Call activity to see your contacts. |
+| 1 | "Show Work" | Open the Work activity screen to see your guides and folders. |
+| 2 | "Show Collaborate" | Open the Collaboration activity screen to start collaborating. |
 | 3 | "Show Settings" | Open the **Settings** page. |
 | 4 | "Show Profile" | Open the **Profile** page. |
 
@@ -172,26 +172,37 @@ Use the commands in the following table to turn narration on or off or to select
 |Narrate step| Narrate the current step.|
 |Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1".|
 
-## Call activity
+## Collaboration activity
 
-![Call activity screen.](media/voice-commands-call-activity.jpg "Call activity screen")
+![Collaboration activity screen.](media/voice-commands-call-activity.jpg "Collaboration activity screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Minimize" | Minimize the Call activity screen and the Main menu. |
+| 1 | "Minimize" | Minimize the Collaboration activity screen and the Main menu. |
 | 2 | "Scroll up" | Scroll up the list. |
 | 3 | "Scroll down" | Scroll down the list. |
-| 4 | "Start search" | Trigger search and open the keyboard. |
+| 4 | "Start search" | Trigger search and open the holographic keyboard. |
 | Not shown | "Clear search" | Delete the search string currently in the search box. |
-
-## Start a call
-
-![Start a call screen.](media/voice-commands-start-call-8.JPG "Start a call screen")
-
+    
+## Call confirmation
+    
+SCREENSHOT GOES HERE
+    
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Launch call" | Call the selected contact. |
+| 1 | "Start call" | Call the selected contact. |
 | 2| "Back" | Go back to the contact list and cancel the call. |
+| 3| "End call" | End the call. |
+    
+## Meeting confirmation
+    
+SCREENSHOT GOES HERE
+    
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Start meeting" | Join the meeting. |
+| 2| "Back" | Go back to the contact list and leave the meeting. |
+| 3| "End call" | Leave the meeting. |
 
 ## Active call
 
@@ -203,6 +214,18 @@ Use the commands in the following table to turn narration on or off or to select
 | 2| "End call" | Close the current call. |
 | 3 | "Mute" or "Unmute" | Mute or unmute the microphone. |
 
+## Meetings
+    
+SCREENSHOT GOES HERE
+    
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1| "Today" | Select the **Today** button. |
+| 2| "Last week" | Select the arrow for the previous week. |
+| 3| "Next week" | Select the arrow for the next week. |
+| 4| "Minimize" | Minimize the Meetings window and the Main menu. |
+| 5| "Scroll up" | Scroll up the list. |
+    
 ## Profile (sign out)
 
 ![Profile screen.](media/voice-commands-profile-8.JPG "Profile screen")
