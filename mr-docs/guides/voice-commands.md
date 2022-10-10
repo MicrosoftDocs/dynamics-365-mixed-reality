@@ -66,6 +66,60 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 3 | "Show Settings" | Open the **Settings** page. |
 | 4 | "Show Profile" | Open the **Profile** page. |
 
+## Collaboration activity
+
+![Collaboration activity screen.](media/voice-commands-call-activity.jpg "Collaboration activity screen")
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Minimize" | Minimize the Collaboration activity screen and the Main menu. |
+| 2 | "Scroll up" | Scroll up the list. |
+| 3 | "Scroll down" | Scroll down the list. |
+| 4 | "Start search" | Trigger search and open the holographic keyboard. |
+| Not shown | "Clear search" | Delete the search string currently in the search box. |
+    
+## Call confirmation
+    
+![Collaboration activity screen.](media/voice-commands-call-confirmation.JPG "Collaboration activity screen")
+    
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Start call" | Call the selected contact. |
+| 2| "Back" | Go back to the contact list and cancel the call. |
+| Not shown| "End call" | End the call. |
+    
+## Meeting confirmation
+    
+![Collaboration activity screen.](media/voice-commands-meeting-confirmation.JPG "Collaboration activity screen")
+    
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Join meeting" | Join the meeting. |
+| 2| "Back" | Go back to the contact list and leave the meeting. |
+| Not shown| "End meeting" | Leave the meeting. |
+
+## Active call
+
+![Active call screen.](media/voice-commands-active-call-8.JPG "Active call screen")
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1| "Start video" or "Stop video" | Turn the video camera on or off. |
+| 2| "End call" | Close the current call. |
+| 3 | "Mute" or "Unmute" | Mute or unmute the microphone. |
+
+## Meetings
+    
+SCREENSHOT GOES HERE
+    
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1| "Today" | Select the **Today** button. |
+| 2| "Last week" | Select the arrow for the previous week. |
+| 3| "Next week" | Select the arrow for the next week. |
+| 4| "Minimize" | Minimize the Meetings window and the Main menu. |
+| 5| "Scroll up" | Scroll up the list. |
+
 ## Work activity
 
 ### Guides and folders list
@@ -172,59 +226,7 @@ Use the commands in the following table to turn narration on or off or to select
 |Narrate step| Narrate the current step.|
 |Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1".|
 
-## Collaboration activity
 
-![Collaboration activity screen.](media/voice-commands-call-activity.jpg "Collaboration activity screen")
-
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Minimize" | Minimize the Collaboration activity screen and the Main menu. |
-| 2 | "Scroll up" | Scroll up the list. |
-| 3 | "Scroll down" | Scroll down the list. |
-| 4 | "Start search" | Trigger search and open the holographic keyboard. |
-| Not shown | "Clear search" | Delete the search string currently in the search box. |
-    
-## Call confirmation
-    
-![Collaboration activity screen.](media/voice-commands-call-confirmation.JPG "Collaboration activity screen")
-    
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Start call" | Call the selected contact. |
-| 2| "Back" | Go back to the contact list and cancel the call. |
-| Not shown| "End call" | End the call. |
-    
-## Meeting confirmation
-    
-![Collaboration activity screen.](media/voice-commands-meeting-confirmation.JPG "Collaboration activity screen")
-    
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Join meeting" | Join the meeting. |
-| 2| "Back" | Go back to the contact list and leave the meeting. |
-| Not shown| "End meeting" | Leave the meeting. |
-
-## Active call
-
-![Active call screen.](media/voice-commands-active-call-8.JPG "Active call screen")
-
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1| "Start video" or "Stop video" | Turn the video camera on or off. |
-| 2| "End call" | Close the current call. |
-| 3 | "Mute" or "Unmute" | Mute or unmute the microphone. |
-
-## Meetings
-    
-SCREENSHOT GOES HERE
-    
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1| "Today" | Select the **Today** button. |
-| 2| "Last week" | Select the arrow for the previous week. |
-| 3| "Next week" | Select the arrow for the next week. |
-| 4| "Minimize" | Minimize the Meetings window and the Main menu. |
-| 5| "Scroll up" | Scroll up the list. |
     
 ## Profile (sign out)
 
