@@ -111,9 +111,9 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 5 | "Open participants" or "Close participants" | Display or hide the active participants tiles (right side of video feed). |
 | 6 | "Open chat" or "close chat"| Open or close the **Chat** window (right side of video feed). |
 | 7 | "Drawing on" or "Drawing off"| Select the **Ink** tool or turn off the **Ink** tool. |
-| 8 | "Select color", and then say one of these colors: "blue", "gray", "green", "red", "yellow"| Select the **Color** tool, and then apply the selected color to ink. |
+| 8 | "Select color", and then say one of these colors: "blue", "gray", "green", "red", "yellow"| Select the **Color** tool, and then apply the selected color to the ink. |
 | 9 | "Undo" | Undo the latest action. |
-| 10 | "Delete all" | Delete all annotations |
+| 10 | "Delete all" | Delete all annotations. |
 
 ## Meetings
     
