@@ -41,7 +41,7 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
 ### Start a one-to-one call with a Teams contact in your organization 
 
-1. Look at the palm of your hand to open the Main menu, and then select the **Communications** button.
+1. Look at the palm of your hand to open the **Main** menu, and then select the **Communications** button.
 
     ![Screenshot of Communications button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Communications button on Main menu")    
         
