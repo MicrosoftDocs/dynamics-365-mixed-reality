@@ -36,29 +36,7 @@ If you're ready to get started with Teams collaboration features, check out the 
 |Create step-by-step instructions and customize with images, videos, and 3D models.|Use the HoloLens app to place and customize the 3D models you chose in the PC app into the world. |Review your step-by-step instructions and share with others.|
 |[Download the PC app](setup-step-three.md#download-the-pc-app)|[Launch the HoloLens app](setup-step-three.md#launch-the-hololens-app)|[View best practices](great-guide.md)|
 
-## Top resources for learning about Dynamics 365 Guides
-
-### Documentation
-
-This resource is where you are right now. We've organized the documentation by role, so that you can quickly find the content that you need, depending on whether you're an admin, author, or operator.
-
-![Table of contents organized by role.](media/organized-by-role.PNG "Table of contents organized by role")
-
-### Video tutorials
-
-These step-by-step video tutorials provide a quick overview of key concepts:
-
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)
-
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)
-
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor to anchor your guide to the real world](https://youtu.be/NhdBG3emNUs)  
-   
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app (shows HoloLens 1 version)](https://aka.ms/hololensauthor)
-
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)
-
-### Demo
+## Demo
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a five-minute demo that showcases the value of holographic work instructions for your company. This demo is useful for every [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to sign in or be online to use the demo.
 
