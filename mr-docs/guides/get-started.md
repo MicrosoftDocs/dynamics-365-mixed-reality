@@ -44,7 +44,7 @@ To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-3
 
 ![Try the demo button.](media/touch-sign-in.jpg "Try the demo button")
 
-## Understand concepts
+## Understand concepts for authoring/operating guides
 
 Use these pages to get a quick overview of the product and the process of authoring a guide:
 
