@@ -17,7 +17,7 @@ Ready to get started with Microsoft Dynamics 365 Guides? Review the learning pat
 
 If you're ready to get started with Teams collaboration features, check out the following topics:
 
-- [Call a remote collaborator on Teams](calling-start-call.md)
+- [Call a remote collaborator (one-to-one or group call)](calling-start-call.md)
 - [Join a scheduled meeting](calling-meetings.md)
 - [Start a chat and share files](calling-chat-file-sharing.md)
 - [Record a call](calling-record-call.md)
