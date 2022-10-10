@@ -11,7 +11,23 @@ ms.custom: "intro-internal"
 
 # Get started with Dynamics 365 Guides
 
-Ready to get started with Microsoft Dynamics 365 Guides? Follow these three steps to jumpstart your learning curve. 
+Ready to get started with Microsoft Dynamics 365 Guides? Review the learning paths below.
+
+## Get started with Microsoft Teams collaboration features
+
+If you're ready to get started with Teams collaboration features, check out the following topics:
+
+- Call a remote collaborator on Teams
+- Join a scheduled meeting
+- Start a chat and share files
+- Record a call
+- Screen sharing
+- Annotations
+- Access OneDrive files
+- View and access call data
+- Learn about Teams policies supported by Dynamics 365 Guides
+
+## Get started with guide authoring/operating
 
 |![Screenshot of PC app.](media/pc-app.jpg "Screenshot of PC app")|![Screenshot of HoloLens app.](media/hololens-app.jpg "Screenshot of HoloLens app")|![Screenshot of woman operating a guide.](media/best-practices.jpg "Screenshot of woman operating a guide")|
 |-----------------------------------|-----------------------------------|-----------------------------------|
