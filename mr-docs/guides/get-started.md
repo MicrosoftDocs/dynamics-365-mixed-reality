@@ -29,6 +29,8 @@ If you're ready to get started with Teams collaboration features, check out the 
 
 ## Get started with guide authoring/operating
 
+If you're ready to get started with guide authoring/operating, check out the following steps. 
+
 |![Screenshot of PC app.](media/pc-app.jpg "Screenshot of PC app")|![Screenshot of HoloLens app.](media/hololens-app.jpg "Screenshot of HoloLens app")|![Screenshot of woman operating a guide.](media/best-practices.jpg "Screenshot of woman operating a guide")|
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |**STEP 1**|**STEP 2**|**STEP 3**|
