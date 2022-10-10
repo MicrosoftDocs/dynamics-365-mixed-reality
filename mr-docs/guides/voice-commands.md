@@ -78,8 +78,8 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 2 | "Scroll up" | Scroll the list up. |
 | 3 | "Scroll down" | Scroll the list down. |
 | 4 | "Start search" | Activate the search and open the holographic keyboard. |
-| | "Clear search" | Delete the text in the Search box. |
-| | "Previous folder" | Go back to the previous folder. |
+|Not shown | "Clear search" | Delete the text in the Search box. |
+|Not shown | "Previous folder" | Go back to the previous folder. |
 
 ## Select mode
 
