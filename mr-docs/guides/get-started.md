@@ -27,9 +27,9 @@ If you're ready to get started with Teams collaboration features, check out the 
 - [Learn about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
 - [Read the FAQ about Dynamics 365 Guides 8.0 and migration from Dynamics 365 Remote Assist](faq-version-8.md)
 
-## Get started with guide authoring/operating
+## Get started with guide authoring
 
-If you're ready to get started with guide authoring/operating, check out the following steps. 
+If you're ready to get started with guide authoring, check out the following steps. 
 
 |![Screenshot of PC app.](media/pc-app.jpg "Screenshot of PC app")|![Screenshot of HoloLens app.](media/hololens-app.jpg "Screenshot of HoloLens app")|![Screenshot of woman operating a guide.](media/best-practices.jpg "Screenshot of woman operating a guide")|
 |-----------------------------------|-----------------------------------|-----------------------------------|
