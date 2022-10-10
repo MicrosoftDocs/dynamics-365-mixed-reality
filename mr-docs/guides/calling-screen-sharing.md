@@ -73,11 +73,11 @@ You can also interact with the screen by using your hand rays and air tap (far-f
 
 If the video feed is switched to another person on the call while a screen is being shared, that person's video feed is displayed and the shared screen is suspended (turns gray). A button appears on the suspended screen that you can select to make the shared screen active again. 
 
-![Screenshot of a suspended shared screen with button highlighted.](media/calling-screen-sharing-3.JPG "Screenshot of a suspended shared screen with button highlighted")
+![Screenshot of a suspended shared screen with button highlighted.](media/calling-screen-sharing-2.JPG "Screenshot of a suspended shared screen with button highlighted")
 
 You can also make the shared screen active by selecting a similar button in the live video feed. 
 
-![Screenshot of window with new live feed and button that you can use to switch back to the shared screen.](media/calling-screen-sharing-2.JPG "Screenshot of window with new live feed and button that you can use to switch back to the shared screen")
+![Screenshot of window with new live feed and button that you can use to switch back to the shared screen.](media/calling-screen-sharing-3.JPG "Screenshot of window with new live feed and button that you can use to switch back to the shared screen")
 
 If you make the shared screen active by using either of these buttons, the video feed for the person displayed is suspended again. 
 
