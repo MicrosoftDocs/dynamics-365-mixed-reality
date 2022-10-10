@@ -23,7 +23,7 @@ If you're ready to get started with Teams collaboration features, check out the 
 - [Record a call](calling-record-call.md)
 - [Screen sharing](calling-screen-sharing.md)
 - [Annotations](calling-annotations.md)
-- [View and access call data](call-logging.md)
+- [View and access stored call data](call-logging.md)
 - [Learn about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
 - [Read the FAQ about Dynamics 365 Guides 8.0 and migration from Dynamics 365 Remote Assist](faq-version-8.md)
 
