@@ -35,9 +35,9 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
 3. In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Get** to download and install the application.
 
     > [!TIP]
-    > You can make sure that the PC app is automatically updated to be compatible with the latest solution version by turning on the **Update apps automatically** setting in the Microsoft Store. 
+    > You can make sure that the PC app is automatically updated to be compatible with the latest Dynamics 365 Guides solution version by turning on the **Update apps automatically** setting in the Microsoft Store. 
 
-4. [Learn how to open and sign in to the PC app](install-sign-in-pc-app.md). 
+4. [Learn how to open and sign in to the PC app](install-sign-in-pc-app.md).
     
 ## Launch the HoloLens app
 
@@ -49,7 +49,7 @@ Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to 
 We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](/hololens/hololens-updates). You can also manually update your HoloLens. 
 
 > [!TIP]
-> You can make sure that the HoloLens app is automatically updated to be compatible with the latest solution version by turning on the **Update apps automatically** setting in the Microsoft Store. 
+> You can make sure that the HoloLens app is automatically updated to be compatible with the latest Dynamics 365 Guides solution version by turning on the **Update apps automatically** setting in the Microsoft Store. 
 
 ## Distribute the apps through Microsoft Store for Business
 
