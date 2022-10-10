@@ -38,15 +38,7 @@ If you're ready to get started with guide authoring, check out the following ste
 |Create step-by-step instructions and customize with images, videos, and 3D models.|Use the HoloLens app to place and customize the 3D models you chose in the PC app into the world. |Review your step-by-step instructions and share with others.|
 |[Download the PC app](setup-step-three.md#download-the-pc-app)|[Launch the HoloLens app](setup-step-three.md#launch-the-hololens-app)|[View best practices](great-guide.md)|
 
-## Demo
-
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a five-minute demo that showcases the value of holographic work instructions for your company. This demo is useful for every [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to sign in or be online to use the demo.
-
-To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select **Try a guide**.
-
-![Try the demo button.](media/touch-sign-in.jpg "Try the demo button")
-
-## Understand concepts for authoring/operating guides
+### Understand concepts for authoring guides
 
 Use these pages to get a quick overview of the product and the process of authoring a guide:
 
@@ -57,6 +49,14 @@ Use these pages to get a quick overview of the product and the process of author
 - [How to create a great mixed-reality guide](great-guide.md)
 
 - [Glossary of terms](glossary.md)
+
+## Demo
+
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a five-minute demo that showcases the value of holographic work instructions for your company. This demo is useful for every [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to sign in or be online to use the demo.
+
+To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select **Try a guide**.
+
+![Try the demo button.](media/touch-sign-in.jpg "Try the demo button")
 
 ## Set up and administer Dynamics 365 Guides
 
