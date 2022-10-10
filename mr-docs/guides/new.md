@@ -42,6 +42,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 | Access OneDrive files from HoloLens| Yes |<a href="/dynamics365/mixed-reality/guides/onedrive-files" target="_blank">Open a OneDrive for Business file</a>|
 | View call data| Yes |<a href="/dynamics365/mixed-reality/guides/call-logging" target="_blank">View and access call data</a>|
 | Automatically apply Microsoft Teams policies| Yes |<a href="/dynamics365/mixed-reality/guides/admin-teams-policies" target="_blank">Teams policies supported by Dynamics 365 Guides</a>|
+| HoloLens temperature management| Yes |<a href="/dynamics365/mixed-reality/guides/calling-hololens-thermal-adjusting" target="_blank">How Dynamics 365 Guides automatically adjusts HoloLens temperature if the device overheats</a>|
 | Automatically update the PC app| Yes |<a href="/dynamics365/mixed-reality/guides/setup-step-three" target="_blank">Download and install the PC and HoloLens apps</a>|
 
 > [!NOTE]
