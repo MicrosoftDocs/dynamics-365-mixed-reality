@@ -32,7 +32,7 @@ A cloud-based call recording can be initiated by the Dynamics 365 Guides Hololen
 
      ![Screenshot with Start Recording button highlighted.](media/call-recording-record-button.JPG)
 
-2. You'll see a message that lets you know that you're giving consent for the meeting to be recorded. Select **Dismiss**. 
+2. You'll see a message that lets you know that you're giving consent for the meeting to be recorded. 
     
     At the bottom left of the video card, you'll see an indicator to let you know that you're recording. This indicator remains visible even if you do another action such as opening a guide or file, so you always know whether a recording is ongoing. 
     
