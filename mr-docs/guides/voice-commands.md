@@ -186,7 +186,7 @@ Use the commands in the following table to turn narration on or off or to select
     
 ## Call confirmation
     
-SCREENSHOT GOES HERE
+![Collaboration activity screen.](media/voice-commands-call-confirmation.JPG "Collaboration activity screen")
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -196,7 +196,7 @@ SCREENSHOT GOES HERE
     
 ## Meeting confirmation
     
-SCREENSHOT GOES HERE
+![Collaboration activity screen.](media/voice-commands-meeting-confirmation.JPG "Collaboration activity screen")
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
