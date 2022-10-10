@@ -1,4 +1,4 @@
-## Open a OneDrive for Business file in Dynamics 365 Guides on HoloLens
+# Open a OneDrive for Business file in Dynamics 365 Guides on HoloLens
 
 You can open a OneDrive for Business file from the **Main** menu in the Microsoft Dynamics 365 Guides HoloLens app. This makes it easy to open a file whether you're on a call, authoring a guide, or operating a guide. You can only open image files and .pdf files through the **Main** menu, however. 
 
