@@ -200,9 +200,9 @@ Use the commands in the following table to turn narration on or off or to select
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Start meeting" | Join the meeting. |
+| 1 | "Join meeting" | Join the meeting. |
 | 2| "Back" | Go back to the contact list and leave the meeting. |
-| Not shown| "End call" | Leave the meeting. |
+| Not shown| "End meeting" | Leave the meeting. |
 
 ## Active call
 
