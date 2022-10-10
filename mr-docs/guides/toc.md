@@ -10,7 +10,6 @@
 #### [Trial FAQ](trial-faq.md)
 ### [Get started](get-started.md)
 ### [Glossary of terms](glossary.md)
-### [Videos](videos.md)
 
 ## Set up and administer Dynamics 365 Guides
 ### Set up Dynamics 365 Guides or upgrade the solution
