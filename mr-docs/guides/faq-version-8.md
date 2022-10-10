@@ -18,7 +18,7 @@ This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 36
 |Spotlighting| Yes| Yes|
 |File access| Yes| Yes|
 |Restricted access (calling, contacts, OneDrive files and ability to sign out of the HoloLens app)|Yes|No. This feature will be adding in an upcoming Dynamics 365 Guides release.|
-|Call data storage/display| Yes| Yes (Dynamics 365 Guides does not provide a built-in Calls dashboard, however)|
+|Call data storage/display| Yes| Yes (Dynamics 365 Guides does not provide a built-in Calls dashboard, however).|
 |Teams policy support| Yes| Yes|
 |HoloLens temperature management| Yes| Yes|
 
