@@ -104,9 +104,16 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1| "Start video" or "Stop video" | Turn the video camera on or off. |
-| 2| "End call" | Close the current call. |
-| 3 | "Mute" or "Unmute" | Mute or unmute the microphone. |
+| 1| "Video on" or "Video off" | Turn the video camera on or off. |
+| 2| "Mic on or "Mic off" | Turn the audio on or off. |
+| 3 | "Start recording" or "Stop recording" | Start recording the call or stop recording the call. |
+| 4 | "End call" | End the call and minimize the Main menu. |
+| 5 | "Open participants" or "Close participants" | Display or hide the active participants tiles (right side of video feed). |
+| 6 | "Open chat" or "close chat"| Open or close the **Chat** window (right side of video feed). |
+| 7 | "Drawing on" or "Drawing off"| Select the **Ink** tool or turn off the **Ink** tool. |
+| 8 | "Select color", and then say one of these colors: "blue", "gray", "green", "red", "yellow"| Select the **Color** tool. |
+| 9 | "Undo" | Undo the latest action. |
+| 10 | "Delete all" | Delete all annotations |
 
 ## Meetings
     
