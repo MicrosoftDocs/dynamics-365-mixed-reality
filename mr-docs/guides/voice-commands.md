@@ -192,7 +192,7 @@ Use the commands in the following table to turn narration on or off or to select
 |---|---|---|
 | 1 | "Start call" | Call the selected contact. |
 | 2| "Back" | Go back to the contact list and cancel the call. |
-| 3| "End call" | End the call. |
+| Not shown| "End call" | End the call. |
     
 ## Meeting confirmation
     
@@ -202,7 +202,7 @@ Use the commands in the following table to turn narration on or off or to select
 |---|---|---|
 | 1 | "Start meeting" | Join the meeting. |
 | 2| "Back" | Go back to the contact list and leave the meeting. |
-| 3| "End call" | Leave the meeting. |
+| Not shown| "End call" | Leave the meeting. |
 
 ## Active call
 
