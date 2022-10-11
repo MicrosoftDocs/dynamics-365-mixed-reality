@@ -127,6 +127,16 @@ SCREENSHOT GOES HERE
 | 4| "Minimize" | Minimize the Meetings window and the Main menu. |
 | 5| "Scroll up" | Scroll up the list. |
 
+## OneDrive files
+
+![OneDrive (files) screen.](media/voice-commands-onedrive.JPG "OneDrive (files) screen")
+
+|Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Minimize" | Hide the content panel and the Main menu. |
+| 2 | "Scroll up" | Scroll the list up. |
+| 3 | "Scroll down" | Scroll the list down. |
+
 ## Work activity
 
 ### Guides and folders list
