@@ -26,7 +26,7 @@ If you're ready to get started with guide authoring, check out the following ste
 
 ### Understand authoring concepts
 
-Use these pages to get a quick overview of the product and the process of authoring a guide:
+Use these pages to get a quick overview of the product and the guide-authoring process:
 
 - [Overview of Dynamics 365 Guides](index.md)
 
