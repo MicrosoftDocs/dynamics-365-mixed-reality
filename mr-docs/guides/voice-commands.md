@@ -117,7 +117,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Meetings
     
-![Meetings screen.](media/voice-commands-meeting-list.JPG "Meetings screen")
+![Meetings screen.](media/voice-commands-meetings-list.JPG "Meetings screen")
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
