@@ -41,7 +41,7 @@ To add additional users to [!include[cc-microsoft](../includes/cc-microsoft.md)]
 
     ![Profile info section.](media/expanded-profile-info.png "Profile info section")
 
-8. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish Adding**.
+8. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish adding**.
 
     ![Review page with Edit buttons.](media/review-page.png "Review page with Edit buttons")
 
