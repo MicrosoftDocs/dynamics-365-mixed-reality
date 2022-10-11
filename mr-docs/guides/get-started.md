@@ -13,20 +13,6 @@ ms.custom: "intro-internal"
 
 Ready to get started with Microsoft Dynamics 365 Guides? Find a learning path below that suits you best. 
 
-## Get started with Microsoft Teams collaboration features
-
-If you're ready to get started with Teams collaboration features, check out the following topics:
-
-- [Call a remote collaborator (one-to-one or group call)](calling-start-call.md)
-- [Join a scheduled meeting](calling-meetings.md)
-- [Start a chat and share files](calling-chat-file-sharing.md)
-- [Record a call](calling-record-call.md)
-- [Screen sharing](calling-screen-sharing.md)
-- [Annotations](calling-annotations.md)
-- [View and access stored call data](call-logging.md)
-- [Learn about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
-- [Read the FAQ about Dynamics 365 Guides 8.0 and migration from Dynamics 365 Remote Assist](faq-version-8.md)
-
 ## Get started with guide authoring
 
 If you're ready to get started with guide authoring, check out the following steps. 
@@ -49,6 +35,20 @@ Use these pages to get a quick overview of the product and the process of author
 - [How to create a great mixed-reality guide](great-guide.md)
 
 - [Glossary of terms](glossary.md)
+
+## Get started with Microsoft Teams collaboration features
+
+If you're ready to get started with Teams collaboration features, check out the following topics:
+
+- [Call a remote collaborator (one-to-one or group call)](calling-start-call.md)
+- [Join a scheduled meeting](calling-meetings.md)
+- [Start a chat and share files](calling-chat-file-sharing.md)
+- [Record a call](calling-record-call.md)
+- [Screen sharing](calling-screen-sharing.md)
+- [Annotations](calling-annotations.md)
+- [View and access stored call data](call-logging.md)
+- [Learn about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
+- [Read the FAQ about Dynamics 365 Guides 8.0 and migration from Dynamics 365 Remote Assist](faq-version-8.md)
 
 ## Demo
 
