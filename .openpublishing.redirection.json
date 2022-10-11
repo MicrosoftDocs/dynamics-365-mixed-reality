@@ -1,5 +1,80 @@
 {
-  "redirections": [
+  "redirections": [    {
+      "source_path": "mr-docs/legal/guides-preview.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104709",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/guides-service-terms.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104709",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/guides-third-party-notices.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2176031",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/import-tool-free-trial.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104709",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/import-tool-license-terms.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104709",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/ios-android-third-party.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2010811",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/layout-free-trial.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104709",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/layout-license-terms.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104709",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/remote-assist-license-terms.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2010578",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/remote-assist-license-terms-free-trial.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2072370",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/remote-assist-mobile-android.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104283",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/remote-assist-mobile-ios.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2103818",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/remote-assist-mobile-terms.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104283",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/remote-assist-third-party-notice.md",
+      "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2010811",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/legal/slt-dynamics365-provis-iospre.md",
+      "redirect_url": "https://dynamics.com/sales/overview",
+      "redirect_document_id": "false"
+    },
+
     {
       "source_path": "mr-docs/remote-assist/remote-assist-language.md",
       "redirect_url": "faq-hololens#what-languages-is-dynamics-365-remote-assist-hololens-available-in",
