@@ -19,7 +19,7 @@ When you're working with [!include[cc-microsoft](../includes/cc-microsoft.md)] [
 A library of predefined objects included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you can use to get started right away. For example, there are 3D objects such as pointers and arrows that you can add to a step to support that step.
 
 ## Activity card
-Shows the list of guides for the Work activity and the list of contacts for the Call activity.
+Shows the list of guides for the Work activity and the list of contacts for the Collaboration activity.
 
 ## Air tap
 A gesture that's equivalent to a "click" with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures-HL2.md).
