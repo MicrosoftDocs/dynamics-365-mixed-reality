@@ -29,11 +29,8 @@ If you're ready to get started with guide authoring, check out the following ste
 Use these pages to get a quick overview of the product and the guide-authoring process:
 
 - [Overview of Dynamics 365 Guides](index.md)
-
 - [Authoring overview](authoring-overview.md)
-
 - [How to create a great mixed-reality guide](great-guide.md)
-
 - [Glossary of terms](glossary.md)
 
 ## Get started with Microsoft Teams collaboration features
@@ -63,11 +60,8 @@ To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-3
 Here are the most important pages for admins:
 
 - [Requirements for installation](requirements.md)
-
 - [Setup overview](setup.md)
-
 - [Upgrade the solution](upgrade.md)
-
 - [Deployment playbook](admin-deployment-playbook.md)
 
 ## Find out what's new
