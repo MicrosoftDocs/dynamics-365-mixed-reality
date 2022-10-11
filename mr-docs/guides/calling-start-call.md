@@ -3,7 +3,7 @@ title: Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides
 author: 
 description: 
 ms.author: 
-ms.date: 11/12/2022
+ms.date: 11/17/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
