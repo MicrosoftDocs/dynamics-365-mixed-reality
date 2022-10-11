@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
 
-[See also Dynamics 365 Guides 8.0 FAQ](faq-dynamics-365-guides-8.md)
+[See also Dynamics 365 Guides 8.0 FAQ](faq-version-8.md)
 
 ## How do I contact Support if I don't find an answer in this FAQ?
 
