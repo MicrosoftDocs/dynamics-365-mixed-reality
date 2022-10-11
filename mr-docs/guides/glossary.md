@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Glossary of relevant terminology for Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 11/08/2021
+ms.date: 10/17/2022
 ms.topic: article
 title: Glossary of terms for Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -33,13 +33,13 @@ The person who creates a guide.
 ## Calibration
 A process in which [!include[pn-hololens](../includes/pn-hololens.md)] adjusts the hologram display according to a user's interpupillary distance (IPD). The [!include[pn-hololens](../includes/pn-hololens.md)] device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. [!include[pn-hololens](../includes/pn-hololens.md)] includes a Calibration app that can be used by authors and operators for this purpose. 
 
-## Circular code anchor (previously known as a printed anchor)
+## Circular code anchor
 A code that you print and attach to a physical object in the real world to anchor a guide. For more information, see [Anchor your guide in the real world](anchor.md).
 
 ## Dotted line
 A holographic link that ties a step visually to the area where you want the operator to focus. It helps the operator find content or understand what they're supposed to be looking at in the real world. You can use a holographic dotted line together with a 3D object, such as a holographic arrow or number. 
 
-## Field of view (fov)
+## Field of view
 The size of the [!include[pn-hololens](../includes/pn-hololens.md)] display where holograms show up. It's important to keep the field of view in mind when placing holograms in a real-world environment.
 
 ## Gaze
@@ -48,14 +48,13 @@ The act of looking at a user interface element with [!include[pn-hololens](../in
 ## Gesture
 A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](authoring-gestures-HL2.md).
 
-## Holographic anchor (previously known as a digital anchor)
+## Holographic anchor
 A 3D representation that is used to anchor holograms in the real world. You place the digital representation directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor. The digital representation can be a computer-aided design (CAD) model or a scanned model. For more information, see [Anchor your guide in the real world](anchor.md).
 
 ## Interpupillary distance (IPD)
 The distance between a user's eyes. Different users have different IPDs. To align content correctly, [!include[pn-hololens](../includes/pn-hololens.md)] needs to be calibrated for each user's IPD. 
 
 ## Main menu
-
 The menu that appears when a HoloLens user looks at their palm, anywhere and any time while using Dynamics 365 Guides. The Main menu includes buttons for activities (work or call) and buttons to access settings or to sign out.
 
 ## Operator
@@ -77,7 +76,6 @@ The fundamental building block in [!include[pn-dyn-365-guides](../includes/pn-dy
 Visual properties that you can add to any 3D object to reinforce what you want the operator to do or know. Examples of styles include Pick up, Place, and Caution.
 
 ## Submenu
-
 The submenu (attached to the activity card) that enables a user to filter the view of their activity content (**All** or **Recent**). 
 
 ## Task
