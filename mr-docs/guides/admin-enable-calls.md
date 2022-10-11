@@ -35,7 +35,7 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
 3. In the left pane, use the area picker at the bottom of the screen to switch the area selection from **Main** to **Settings** to view all settings for the instance.
 
-    ![Settings highlighted in the left pane.](media/Admin-EnableCalling01__Background-GuidesMDA-AreaPicker-Settings.png "Settings highlighted in left pane")
+    ![Settings highlighted in the left pane.](media/admin-enable-calling-settings.JPG "Settings highlighted in left pane")
 
 4. In the left pane, select **Environment**, and then move the **Enable Calling** slider as needed to enable or disable calling for the environment.
 
