@@ -4,7 +4,7 @@ description: Learn how record a call from the Dynamics 365 Guides HoloLens app
 author:  Mamaylya
 manager: tfehr
 ms.topic: article
-ms.date: 10/4/2022
+ms.date: 10/17/2022
 ms.author: mamaylya
 ms.reviewer: v-bholmes
 ---
