@@ -63,7 +63,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | Not shown | "Hide Main menu" | Hide the Main menu. |
 | 1 | "Show Work" | Open the Work activity screen to see your guides and folders. |
 | 2 | "Show Collaborate" | Open the Collaboration activity screen to start collaborating. |
-| 3 | "Show Settings" | Open the **Settings** page. |
+| 3 | "Show Files" | Open the OneDrive screen. |
 | 4 | "Show Profile" | Open the **Profile** page. |
 
 ## Collaboration activity
