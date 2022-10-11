@@ -39,7 +39,7 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
 4. In the left pane, select **Environment**, and then move the **Enable calls** slider as needed to enable or disable calling for the environment.
 
-    ![New command highlighted at top of Power Apps screen.](media/Admin-EnableCalling02__Background-GuidesMDA-AreaSettings-Environment.png "New command highlighted at top of Power Apps screen")
+    ![New command highlighted at top of Power Apps screen.](media/admin-enable-calling.JPG "New command highlighted at top of Power Apps screen")
 
     If a user tries to start a call while working in an environment where calling is disabled, the user will see the following error message:
 
