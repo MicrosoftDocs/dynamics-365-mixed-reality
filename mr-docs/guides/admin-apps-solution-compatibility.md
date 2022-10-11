@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Determine whether your Dynamics 365 Guides solution is compatible with the apps.
 ms.author: mamaylya
-ms.date: 08/10/2022
+ms.date: 10/17/2022
 ms.topic: article
 title: Compatibility between Dynamics 365 Guides solution and apps 
 ms.reviewer: v-bholmes
