@@ -11,7 +11,7 @@ ms.custom: "intro-internal"
 
 # Get started with Dynamics 365 Guides
 
-Ready to get started with Microsoft Dynamics 365 Guides? Find a learning path below that suits you best. 
+Ready to get started with Microsoft Dynamics 365 Guides? Find the learning path below that suits you best. 
 
 ## Get started with guide authoring
 
