@@ -48,12 +48,9 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 > [!NOTE]
 > You must be a system administrator to update the Dynamics 365 Guides solution. 
 
-### Bugs fixed and other improvements
+## Earlier releases
 
-- ???Anything to list here???
-
-> [!TIP]
-> Looking for a list of earlier features? Go to <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">Version history for Dynamics 365 Guides</a>.
+Looking for a list of features from earlier releases? Go to <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">Version history for Dynamics 365 Guides</a>.
 
 ## See also
 
