@@ -81,9 +81,9 @@ When you turn off the ability to chat, the HoloLens user sees the "Chat is unava
 6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop. 
 
-## Turn off the ability to see video 
+## Turn off the ability to receive video 
 
-When you turn off the ability to see video, the no-entry symbol appears on the **Video** button. 
+When you turn off the ability to receive video, the no-entry symbol appears on the **Video** button. 
 
 ![Screenshot of Call window with Video button disabled.](media/calling-teams-policies-video-disabled.JPG "Screenshot of Call window with Video button disabled")
 
