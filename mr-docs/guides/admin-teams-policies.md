@@ -23,7 +23,7 @@ When you turn off the ability to record calls, the no-entry symbol appears on th
 ![Screenshot of Call window with Recording button disabled.](media/calling-teams-policies-recording-disabled.JPG "Screenshot of Call window with Recording button disabled")
 
 > [!NOTE]
-> [Guest users](admin-add-guest-user.md) cannot record calls by default. 
+> By default, [Guest users](admin-add-guest-user.md) cannot record calls. 
 
 ### Turn off the ability to record in meetings
 
