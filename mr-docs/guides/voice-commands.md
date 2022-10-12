@@ -91,7 +91,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 4 | "Start search" | Trigger search and open the holographic keyboard. |
 | Not shown | "Clear search" | Delete the search string currently in the search box. |
     
-## Call confirmation
+### Call confirmation
     
 ![Call confirmation screen.](media/voice-commands-call-confirmation.JPG "Call confirmation screen")
     
@@ -101,7 +101,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 2| "Back" | Go back to the contact list and cancel the call. |
 | Not shown| "End call" | End the call. |
     
-## Meeting confirmation
+### Meeting confirmation
     
 ![Meeting confirmation screen.](media/voice-commands-meeting-confirmation.JPG "Meeting confirmation screen")
     
@@ -111,7 +111,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 2| "Back" | Go back to the contact list and leave the meeting. |
 | Not shown| "End call" | Leave the meeting. |
 
-## Active call
+### Active call
 
 ![Active call screen.](media/voice-commands-active-call-8.JPG "Active call screen")
 
@@ -128,7 +128,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 9 | "Undo" | Undo the latest action. |
 | 10 | "Delete all" | Delete all annotations. |
 
-## Meetings
+### Meetings
     
 ![Meetings screen.](media/voice-commands-meetings-list.JPG "Meetings screen")
     
