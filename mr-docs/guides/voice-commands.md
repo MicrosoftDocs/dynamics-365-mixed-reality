@@ -44,7 +44,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1 | "Sign in" | Start the sign-in process. |
 | 2 | "Try a guide" | Open the Dynamics 365 Guides demo. |
 
-## Instance selection
+### Instance selection
 
 ![Choose instance page.](media/voice-commands-choose-instance.jpg "Choose instance page")
 
