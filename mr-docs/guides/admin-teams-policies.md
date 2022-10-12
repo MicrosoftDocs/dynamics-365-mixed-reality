@@ -87,6 +87,8 @@ When you turn off the ability to receive video, the no-entry symbol appears on t
 
 ![Screenshot of Call window with Video button disabled.](media/calling-teams-policies-video-disabled.JPG "Screenshot of Call window with Video button disabled")
 
+### Turn off video
+
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Meetings > Meeting policies**.
 3. Create a new policy or edit an existing policy.
