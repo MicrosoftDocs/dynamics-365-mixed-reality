@@ -252,8 +252,6 @@ Use the commands in the following table to turn narration on or off or to select
 |Narrate step| Narrate the current step.|
 |Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1".|
 
-
-
 ## Dialog boxes
 
 For dialog boxes, read the label of the button (for example, say "Yes" or "No"). 
