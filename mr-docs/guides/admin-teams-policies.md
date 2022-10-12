@@ -18,6 +18,10 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ## Turn off the ability to record calls
 
+When you turn off the ability to record calls, the no-entry symbol appears on the video feed button.
+
+![Screenshot of Call window with Recording button disabled.](media/calling-teams-policies-recording-disabled.JPG "Screenshot of Call window with Recording button disabled")
+
 ### Turn off the ability to record in meetings
 
 1. Go to https://admin.teams.microsoft.com/
@@ -48,7 +52,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 When you turn off the ability to chat, the HoloLens user sees the "Chat is unavailable" message in the chat message box and a no-entry symbol appears on the right side of the message box.
 
-![Screenshot of Microsoft Teams admin center with Allow chat in meetings field highlighted.](media/calling-teams-policies-chat-disabled.JPG "Screenshot of Microsoft Teams admin center with Allow chat in meetings field highlighted")
+![Screenshot of Chat window with chat messaging disabled.](media/calling-teams-policies-chat-disabled.JPG "Screenshot of Chat window with chat messaging disabled")
 
 ### Turn off the ability to chat in meetings
 
@@ -78,6 +82,10 @@ When you turn off the ability to chat, the HoloLens user sees the "Chat is unava
 7. Verify that the policy is working as expected in Teams desktop. 
 
 ## Turn off the ability to see video 
+
+When you turn off the ability to see video, xxx
+
+![Screenshot of Call window with Video button disabled.](media/calling-teams-policies-video-disabled.JPG "Screenshot of Call window with Video button disabled")
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Meetings > Meeting policies**.
