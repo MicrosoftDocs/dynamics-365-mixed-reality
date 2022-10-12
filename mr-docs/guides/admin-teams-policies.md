@@ -96,7 +96,7 @@ When you turn off the ability to receive video, the no-entry symbol appears on t
 2. On the left side of the screen, select **Meetings > Meeting policies**.
 3. Create a new policy or edit an existing policy.
 4. In the **Audio & video** section:
-    - In the **Mode for IP video** field, select **Disabled**.
+    - In the **Mode for IP video** field, select **Not enabled**.
     - Turn off the **Allow IP video** setting.
 
     ![Screenshot of Microsoft Teams admin center with Audio & video settings highlighted.](media/calling-teams-policies-video.JPG "Screenshot of Microsoft Teams admin center with Audio & video settings highlighted")
