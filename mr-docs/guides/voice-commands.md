@@ -152,7 +152,18 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 2 | "Scroll up" | Scroll the list up. |
 | 3 | "Scroll down" | Scroll the list down. |
 
-## Select mode
+## Profile and settings
+
+![Profile screen.](media/voice-commands-profile-8.JPG "Profile screen")
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Minimize" | Hide the content panel and the Main menu. |
+| 2| "Sign out" | Sign out of Dynamics 365 Guides. |
+
+## Guides authoring/operating
+
+### Select mode
 
 ![Select mode screen.](media/voice-commands-select-mode-8.JPG "Select mode screen")
 
@@ -163,7 +174,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 3 | "Minimize" | Hide the content panel and the Main menu. |
 | 4 | "Go back" | Go back to the guides and folders list and cancel opening the current guide. |
 
-## Align holographic anchor 
+### Align holographic anchor 
 
 ![Align holographic anchor page.](media/voice-commands-holographic-anchor.jpg "Align holographic anchor page")
 
@@ -171,7 +182,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | 1 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
 
-## Scan anchor (QR code and circular code)
+### Scan anchor (QR code and circular code)
 
 ![Scan circular code anchor page.](media/voice-commands-circular-code-scan.jpg "Scan circular code anchor page")
 
@@ -179,7 +190,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | 1 | "Initiate scan" | Start anchor scanning. |
 
-## Anchor found (QR code and circular code)
+### Anchor found (QR code and circular code)
 
 ![Anchor found page.](media/voice-commands-anchor-found-confirm.jpg "Anchor found page")
 
@@ -188,7 +199,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1 | "Rescan" | Rescan the anchor if holograms aren't correctly aligned. |
 | 2 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
 
-## Step card 
+### Step card 
 
 ![Step card page with video and dotted line.](media/voice-commands-step-card.jpg "Step card page with video and dotted line")
 
@@ -209,7 +220,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 8 | ![Exit button.](media/exit-button.PNG "Exit button") | "Exit guide" | Exit the current guide.</p> |
 | 9 | ![Restart guide button.](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.|
 
-## Outline list
+### Outline list
 
 ![Task list page that shows scroll up and scroll down buttons.](media/voice-commands-outline-list.jpg "Task list page that shows scroll up and scroll down buttons")
 
@@ -218,7 +229,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1 | ![Scroll up button.](media/scroll-up-button.png "Scroll up button") | "Scroll up" | Scroll up the list. |
 | 2 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
 
-## Author mode commands
+### Author mode commands
 
 | Button or element | Say this | To do this |
 |---|---|---|
@@ -228,7 +239,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |None|"Copy 3D position"|Copy the 3D position (position, orientation, and scale) of a hologram to use with another hologram.|
 |None|"Paste 3D position"|Paste the 3D position (position, orientation, and scale) of a hologram onto another hologram.|
 
-## Narration
+### Narration
 
 You can use the built-in HoloLens Text-to-Speech system to have HoloLens read instructions out loud.
 
@@ -244,15 +255,6 @@ Use the commands in the following table to turn narration on or off or to select
 |Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1".|
 
 
-    
-## Profile (sign out)
-
-![Profile screen.](media/voice-commands-profile-8.JPG "Profile screen")
-
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Minimize" | Hide the content panel and the Main menu. |
-| 2| "Sign out" | Sign out of Dynamics 365 Guides. |
 
 ## Dialog boxes
 
