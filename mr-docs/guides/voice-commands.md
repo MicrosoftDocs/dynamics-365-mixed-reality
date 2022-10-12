@@ -81,7 +81,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |Not shown | "Clear search" | Delete the text in the Search box. |
 |Not shown | "Previous folder" | Go back to the previous folder. |
 
-## Teams activity
+## Teams (collaboration) activity
 
 ![Teams activity screen.](media/voice-commands-call-activity.jpg "Teams activity screen")
 
