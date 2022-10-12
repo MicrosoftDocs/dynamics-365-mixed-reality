@@ -28,7 +28,7 @@ When you turn off the ability to record calls, the no-entry symbol appears on th
 ### Turn off the ability to record in meetings
 
 1. Go to https://admin.teams.microsoft.com/
-2. On the left side of the screen, select **Meeting policies**.
+2. On the left side of the screen, select **Meetings > Meeting policies**.
 3. Create a new policy or edit an existing policy.
 4. In the **Audio & video** section, turn off the **Allow cloud recording** setting. 
 
