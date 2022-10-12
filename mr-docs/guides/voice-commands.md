@@ -225,7 +225,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ### Outline list
 
-![Task list page that shows scroll up and scroll down buttons.](media/voice-commands-outline-list.jpg "Task list page that shows scroll up and scroll down buttons")
+![Task list page that shows scroll up and scroll down buttons.](media/voice-commands-outline-list-8.JPG "Task list page that shows scroll up and scroll down buttons")
 
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
