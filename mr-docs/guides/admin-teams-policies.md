@@ -18,7 +18,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ## Turn off the ability to record calls
 
-When you turn off the ability to record calls, the no-entry symbol appears on the video feed button.
+When you turn off the ability to record calls, the no-entry symbol appears on the Recording button.
 
 ![Screenshot of Call window with Recording button disabled.](media/calling-teams-policies-recording-disabled.JPG "Screenshot of Call window with Recording button disabled")
 
