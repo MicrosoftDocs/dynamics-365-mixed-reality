@@ -157,8 +157,8 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Minimize" | Hide the content panel and the Main menu. |
-| 2| "Sign out" | Sign out of Dynamics 365 Guides. |
+| 1| "Minimize" | Hide the content panel and the Main menu. |
+| 2| "Sign out" and then say "Yes" or "No" in the next dialog box | Sign out of Dynamics 365 Guides. |
 
 ## Guides authoring/operating
 
