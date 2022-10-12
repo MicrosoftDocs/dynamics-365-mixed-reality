@@ -139,6 +139,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 3| "Next week" | Select the arrow for the next week. |
 | 4| "Minimize" | Minimize the Meetings window and the Main menu. |
 | 5| "Scroll up" | Scroll up the list. |
+| 6| "Scroll down" | Scroll down the list. |
 
 ## Files (OneDrive) screen
 
