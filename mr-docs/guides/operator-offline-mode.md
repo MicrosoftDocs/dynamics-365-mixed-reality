@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Work offline as an operator in Dynamics 365 Guides if you don't have an internet connection or you have an intermittent internet connection
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 11/17/2022
 ms.topic: article
 title: Work offline as an operator in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -14,7 +14,7 @@ You can work offline with a guide on HoloLens 1 or HoloLens 2 (for example, when
 
 You don't need to do anything to set up **Offline** mode. When you open a guide when you're connected to the internet, the guide is automatically downloaded for offline use. If you lose your internet connection or turn off your Wi-Fi connection, the guide will automatically be available and you'll see the word "Offline" at the top of your touch screen.
 
-![Offline mode.](media/offline-mode-touch-screen.jpg "Offline mode")
+![Offline mode.](media/operator-offline.JPG "Offline mode")
 
 Any guide that's available for offline use will appear under the **All** tab. If no guides are available offline, you'll see this message: 
 
