@@ -66,13 +66,28 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 3 | "Show Files" | Open the OneDrive screen. |
 | 4 | "Show Profile" | Open the **Profile** page. |
 
-## Collaboration activity
+## Work activity
 
-![Collaboration activity screen.](media/voice-commands-call-activity.jpg "Collaboration activity screen")
+### Guides and folders list
+
+![Work activity screen.](media/voice-commands-work-activities.JPG "Work activity screen")
+
+|Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Minimize" | Hide the content panel and the Main menu. |
+| 2 | "Scroll up" | Scroll the list up. |
+| 3 | "Scroll down" | Scroll the list down. |
+| 4 | "Start search" | Activate the search and open the holographic keyboard. |
+|Not shown | "Clear search" | Delete the text in the Search box. |
+|Not shown | "Previous folder" | Go back to the previous folder. |
+
+## Teams activity
+
+![Teams activity screen.](media/voice-commands-call-activity.jpg "Teams activity screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Minimize" | Minimize the Collaboration activity screen and the Main menu. |
+| 1 | "Minimize" | Minimize the Teams activity screen and the Main menu. |
 | 2 | "Scroll up" | Scroll up the list. |
 | 3 | "Scroll down" | Scroll down the list. |
 | 4 | "Start search" | Trigger search and open the holographic keyboard. |
@@ -80,7 +95,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
     
 ## Call confirmation
     
-![Collaboration activity screen.](media/voice-commands-call-confirmation.JPG "Collaboration activity screen")
+![Call confirmation screen.](media/voice-commands-call-confirmation.JPG "Call confirmation screen")
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -90,13 +105,13 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
     
 ## Meeting confirmation
     
-![Collaboration activity screen.](media/voice-commands-meeting-confirmation.JPG "Collaboration activity screen")
+![Meeting confirmation screen.](media/voice-commands-meeting-confirmation.JPG "Meeting confirmation screen")
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Join meeting" | Join the meeting. |
 | 2| "Back" | Go back to the contact list and leave the meeting. |
-| Not shown| "End meeting" | Leave the meeting. |
+| Not shown| "End call" | Leave the meeting. |
 
 ## Active call
 
@@ -127,30 +142,15 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 4| "Minimize" | Minimize the Meetings window and the Main menu. |
 | 5| "Scroll up" | Scroll up the list. |
 
-## OneDrive files
+## Files (OneDrive) screen
 
-![OneDrive (files) screen.](media/voice-commands-onedrive.JPG "OneDrive (files) screen")
-
-|Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Minimize" | Hide the content panel and the Main menu. |
-| 2 | "Scroll up" | Scroll the list up. |
-| 3 | "Scroll down" | Scroll the list down. |
-
-## Work activity
-
-### Guides and folders list
-
-![Work activity screen.](media/voice-commands-work-activities.JPG "Work activity screen")
+![Files (OneDrive) screen.](media/voice-commands-onedrive.JPG "Files (OneDrive) screen")
 
 |Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Minimize" | Hide the content panel and the Main menu. |
 | 2 | "Scroll up" | Scroll the list up. |
 | 3 | "Scroll down" | Scroll the list down. |
-| 4 | "Start search" | Activate the search and open the holographic keyboard. |
-|Not shown | "Clear search" | Delete the text in the Search box. |
-|Not shown | "Previous folder" | Go back to the previous folder. |
 
 ## Select mode
 
