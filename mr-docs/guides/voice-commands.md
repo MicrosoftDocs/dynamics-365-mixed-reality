@@ -120,7 +120,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 11 | "Add participants" | Display the holographic keyboard to search for participants to add. |
 | 12 | "Minimize" | Minimize the screen. |
 | 13 | "Scroll up" | Scroll up the list. |
-| 13 | "Scroll down" | Scroll down the list. |
+| 14 | "Scroll down" | Scroll down the list. |
 
 ### Meeting confirmation
     
