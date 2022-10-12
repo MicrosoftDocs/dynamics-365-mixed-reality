@@ -101,16 +101,6 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 2| "Back" | Go back to the contact list and cancel the call. |
 | Not shown| "End call" | End the call. |
     
-### Meeting confirmation
-    
-![Meeting confirmation screen.](media/voice-commands-meeting-confirmation.JPG "Meeting confirmation screen")
-    
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Join meeting" | Join the meeting. |
-| 2| "Back" | Go back to the contact list and leave the meeting. |
-| Not shown| "End call" | Leave the meeting. |
-
 ### Active call
 
 ![Active call screen.](media/voice-commands-active-call-8.JPG "Active call screen")
@@ -127,6 +117,16 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 8 | "Select color", and then say one of these colors: "blue", "gray", "green", "red", "yellow"| Select the **Color** tool, and then apply the selected color to the ink. |
 | 9 | "Undo" | Undo the latest action. |
 | 10 | "Delete all" | Delete all annotations. |
+
+### Meeting confirmation
+    
+![Meeting confirmation screen.](media/voice-commands-meeting-confirmation.JPG "Meeting confirmation screen")
+    
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Join meeting" | Join the meeting. |
+| 2| "Back" | Go back to the contact list and leave the meeting. |
+| Not shown| "End call" | Leave the meeting. |
 
 ### Meetings
     
