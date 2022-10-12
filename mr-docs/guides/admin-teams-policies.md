@@ -49,6 +49,10 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ## Turn off the ability to chat
 
+When you turn off the ability to chat, the HoloLens user sees the "Chat is unavailable" message in the chat message box and a no-entry symbol appears on the right side of the message box.
+
+![Screenshot of Microsoft Teams admin center with Allow chat in meetings field highlighted.](media/calling-teams-policies-chat-disabled.JPG "Screenshot of Microsoft Teams admin center with Allow chat in meetings field highlighted")
+
 ### For meetings
 
 1. Go to https://admin.teams.microsoft.com/
