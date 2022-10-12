@@ -18,7 +18,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ## Turn off the ability to record calls
 
-### Turn off the ability to chat in meetings
+### Turn off the ability to record in meetings
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Meeting policies**.
@@ -31,7 +31,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop. 
 
-### Turn off the ability to chat in one-to-one and group calls
+### Turn off the ability to record in one-to-one and group calls
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Voice** > **Calling policies**. 
@@ -50,7 +50,7 @@ When you turn off the ability to chat, the HoloLens user sees the "Chat is unava
 
 ![Screenshot of Microsoft Teams admin center with Allow chat in meetings field highlighted.](media/calling-teams-policies-chat-disabled.JPG "Screenshot of Microsoft Teams admin center with Allow chat in meetings field highlighted")
 
-### For meetings
+### Turn off the ability to chat in meetings
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Meeting > Meeting policies**.
@@ -64,10 +64,7 @@ When you turn off the ability to chat, the HoloLens user sees the "Chat is unava
 6. [Assign the policy to a user](#assign-a-policy-to-a-user).
 7. Verify that the policy is working as expected in Teams desktop. 
 
-### For one-to-one calls
-
-> [!NOTE]
-> Changes you make to one-to-one policies also apply to group calls.
+### Turn off the ability to chat in one-to-one and group calls
 
 1. Go to https://admin.teams.microsoft.com/
 2. On the left side of the screen, select **Messaging policies**.
