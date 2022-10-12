@@ -81,7 +81,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Teams (collaboration) activity
 
-![Teams activity screen.](media/voice-commands-call-activity.jpg "Teams activity screen")
+![Teams activity screen.](media/voice-commands-teams-activity.JPG "Teams activity screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
