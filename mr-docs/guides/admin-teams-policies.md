@@ -60,7 +60,7 @@ When you turn off the ability to chat, the HoloLens user sees the "Chat is unava
 ### Turn off the ability to chat in meetings
 
 1. Go to https://admin.teams.microsoft.com/
-2. On the left side of the screen, select **Meeting > Meeting policies**.
+2. On the left side of the screen, select **Meetings > Meeting policies**.
 3. Create a new policy or edit an existing policy.
 4. Scroll down to the **Participants & guests** section.
 5. In the **Allow chat in meetings** field, select **Disabled**. 
