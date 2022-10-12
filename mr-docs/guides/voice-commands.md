@@ -68,8 +68,6 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Work activity
 
-### Guides and folders list
-
 ![Work activity screen.](media/voice-commands-work-activities.JPG "Work activity screen")
 
 |Number in screenshot | Say this | To do this |
