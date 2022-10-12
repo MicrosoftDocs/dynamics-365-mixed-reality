@@ -46,7 +46,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ### Instance selection
 
-![Choose instance page.](media/voice-commands-choose-instance.jpg "Choose instance page")
+![Choose instance page.](media/voice-commands-choose-instance-8.JPG "Choose instance page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
