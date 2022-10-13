@@ -35,7 +35,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 3. Air tap, keep your index finger and thumb together, and then start drawing in your space. Release the air tap to stop drawing. 
 
     > [TIP]
-    > To use a voice command, select the **Ink** button by saying "Guides, Ink." Then say "Guides, Start inking" and "Guides, Stop inking" to start and stop inking.
+    > To use a voice command, select the **Ink** button by saying "Guides, Drawing on." 
 
 ### Change ink color
 
