@@ -1,8 +1,8 @@
 ---
-title: 
-author: 
-description: 
-ms.author: 
+title: Start a chat and share a file in Dynamics 365 Guides on HoloLens
+author: Mamaylya
+description: Learn how to chat and share files between Dynamics 365 Guides users and Teams users
+ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
 ms.reviewer: v-bholmes
