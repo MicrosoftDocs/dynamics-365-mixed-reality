@@ -66,7 +66,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 ## Sign out of the HoloLens app
 
-1. Look at your palm to open the Main menu, and then select the **Profile** button.
+1. Look at your palm to open the **Main** menu, and then select the **Profile** button.
 
     ![Screen shot of hand and Main menu.](media/main-menu-profile-settings.JPG "Screen shot of hand and Main menu")
 
