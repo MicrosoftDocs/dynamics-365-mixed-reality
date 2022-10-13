@@ -117,7 +117,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 8 | "Select color", and then say one of these colors: "blue", "gray", "green", "red", "yellow"| Select the **Color** tool, and then apply the selected color to the ink. |
 | 9 | "Undo" | Undo the latest action. |
 | 10 | "Delete all" | Delete all annotations. |
-| 11 | "Add participants" | Display the holographic keyboard to search for participants to add. |
+| 11 | "Add participants" | Display the holographic keyboard to search for contacts. |
 | 12 | "Minimize" | Minimize the screen. |
 | 13 | "Scroll up" | Scroll up the list. |
 | 14 | "Scroll down" | Scroll down the list. |
