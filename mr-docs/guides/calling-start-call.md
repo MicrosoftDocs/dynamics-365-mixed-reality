@@ -1,8 +1,8 @@
 ---
 title: Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides  
-author: 
-description: 
-ms.author: 
+author: Mamaylya
+description: Learn how to call a remote collaborator on Microsoft Teams from Dynamics 365 Guides on HoloLens
+ms.author: mamaylya
 ms.date: 11/17/2022
 ms.topic: article
 ms.reviewer: v-bholmes
