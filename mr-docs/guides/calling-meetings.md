@@ -54,7 +54,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
 To add a participant from your organization that wasn't included in the original invite:
 
-1. Select the **Open Participants** button.
+1. Select the **Open participants** button.
 
     ![Screenshot highlighting Open Participants button.](media/calling-start-call-4.JPG "Screenshot highlighting Open Participants button")
 
