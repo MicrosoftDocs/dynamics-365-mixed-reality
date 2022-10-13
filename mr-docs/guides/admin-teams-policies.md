@@ -53,7 +53,7 @@ When you turn off the ability to record calls, the **Recording** button is unava
 
 ## Turn off the ability to chat
 
-When you turn off the ability to chat, the HoloLens user sees the "Chat is unavailable" message in the chat message box and a no-entry symbol appears on the right side of the message box.
+When you turn off the ability to chat, the HoloLens user sees the "Chat is unavailable" message in the chat message box.
 
 ![Screenshot of Chat window with chat messaging disabled.](media/calling-teams-policies-chat-disabled.JPG "Screenshot of Chat window with chat messaging disabled")
 
