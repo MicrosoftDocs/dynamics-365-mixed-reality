@@ -18,7 +18,7 @@ For privacy reasons, you can turn off the ability to send telemetry data to Micr
 
 2. Select the **Preferences** button, and then turn off the **Telemetry** option.
 
-    ![Screenshot of Telemetry option.](media/main-menu-profile-settings-telemetry.JPG "Screenshot of Telemetry option")
+    ![Screenshot of Telemetry option.](media/hololens-settings-telemetry.JPG "Screenshot of Telemetry option")
 
 > [!NOTE]
 > This option applies only to the device where it's set. If you use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on more than one device, you must change the setting on the other devices too. For information about how to turn off this setting for the PC app, see [Author a guide in the PC application](pc-app-overview.md).
