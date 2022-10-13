@@ -98,7 +98,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
     When you select the **Open Participants** button, tiles for all participants on the call appear to the right of the video feed. The first tile shows the first person that you called. 
         
-2. Select the **Add participants** button in the Participants area (to the right of the video feed) to display a list of recent contacts.
+2. Select the **Add participants** button in the participants area (to the right of the video feed) to display a list of recent contacts.
 
     ![Screenshot of right side of screen with Participants button highlighted.](media/calling-start-call-5.JPG "Screenshot of right side of screen with Participants button highlighted")
    
