@@ -1,8 +1,8 @@
 ---
-author: MattHoag-MS
+author: Mamaylya
 description: Learn how to enable or disable calling in a Dynamics 365 Guides environment 
-ms.author: v-mhoag
-ms.date: 11/17/2022
+ms.author: mamaylya
+ms.date: 10/17/2022
 ms.topic: article
 title: Enable or disable calling for a Dynamics 365 Guides environment
 ms.reviewer: v-bholmes
