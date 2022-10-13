@@ -18,7 +18,7 @@ Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies an
 
 ## Turn off the ability to record calls
 
-When you turn off the ability to record calls, the no-entry symbol appears on the **Recording** button.
+When you turn off the ability to record calls, the **Recording** button is unavailable.
 
 ![Screenshot of Call window with Recording button disabled.](media/calling-teams-policies-recording-disabled.JPG "Screenshot of Call window with Recording button disabled")
 
@@ -86,7 +86,7 @@ When you turn off the ability to chat, the HoloLens user sees the "Chat is unava
 
 ## Turn off the ability to receive video 
 
-When you turn off the ability to receive video, the no-entry symbol appears on the **Video** button. 
+When you turn off the ability to receive video, the **Video** button. 
 
 ![Screenshot of Call window with Video button disabled.](media/calling-teams-policies-video-disabled.JPG "Screenshot of Call window with Video button disabled")
 
