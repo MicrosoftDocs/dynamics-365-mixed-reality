@@ -75,7 +75,7 @@ After you call a federated contact, they appear in your recent contacts list, so
 
 ### Group calls
 
-A group call can include a Dynamics 365 Guides user on HoloLens and a Teams desktop user (PC or Mac) or Dynamics 365 Remote Assist mobile user. 
+A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user or Dynamics 365 Remote Assist mobile user. 
 
 > [!NOTE]
 > A Teams mobile user cannot annotate in a group call.
