@@ -86,7 +86,7 @@ When you turn off the ability to chat, the HoloLens user sees the "Chat is unava
 
 ## Turn off the ability to receive video 
 
-When you turn off the ability to receive video, the **Video** button. 
+When you turn off the ability to receive video, the **Video** button is unavailable. 
 
 ![Screenshot of Call window with Video button disabled.](media/calling-teams-policies-video-disabled.JPG "Screenshot of Call window with Video button disabled")
 
