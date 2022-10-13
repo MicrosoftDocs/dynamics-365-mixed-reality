@@ -3,7 +3,7 @@ title: Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides
 author: Mamaylya
 description: Learn how to call a remote collaborator on Microsoft Teams from Dynamics 365 Guides on HoloLens
 ms.author: mamaylya
-ms.date: 11/17/2022
+ms.date: 10/17/2022
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
@@ -178,9 +178,9 @@ Use the call controls at the bottom of the screen in Teams mobile for the follow
 
 |Button|Description|
 |------------|----------------------------------------------|
-|![Video button.](media/calling-teams-mobile-video-button.JPG)|Control outgoing video.|
-|![Microphone button.](media/calling-teams-mobile-audio-button.JPG)|Control outgoing audio.|
-|![Speaker button.](media/calling-teams-mobile-speaker-button.JPG)|Control incoming audio.|
+|![Video button screenshot.](media/calling-teams-mobile-video-button.JPG)|Control outgoing video.|
+|![Microphone button screenshot.](media/calling-teams-mobile-audio-button.JPG)|Control outgoing audio.|
+|![Speaker button screenshot.](media/calling-teams-mobile-speaker-button.JPG)|Control incoming audio.|
 
 Select the **More info** [...] button to access the following additional commands:
 
