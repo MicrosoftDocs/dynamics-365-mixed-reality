@@ -1,8 +1,8 @@
 ---
-title: 
-author: 
-description: 
-ms.author: 
+title: Annotate a screen in Dynamics 365 Guides HoloLens
+author: Mamaylya
+description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen
+ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
 ms.reviewer: v-bholmes
