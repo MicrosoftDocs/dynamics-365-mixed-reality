@@ -59,8 +59,8 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| Not shown | "Show Main menu" | Open the Main menu or bring it to you. |
-| Not shown | "Hide Main menu" | Hide the Main menu. |
+| Not shown | "Show Main menu" | Open the **Main** menu or bring it to you. |
+| Not shown | "Hide Main menu" | Hide the **Main** menu. |
 | 1 | "Show Work" | Open the Work activity screen to see your guides and folders. |
 | 2 | "Show Collaborate" | Open the Collaboration activity screen to start collaborating. |
 | 3 | "Show Files" | Open the OneDrive screen. |
@@ -72,9 +72,9 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 |Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Minimize" | Hide the content panel and the Main menu. |
-| 2 | "Scroll up" | Scroll the list up. |
-| 3 | "Scroll down" | Scroll the list down. |
+| 1 | "Minimize" | Hide the content panel and the **Main** menu. |
+| 2 | "Scroll up" | Scroll up the list. |
+| 3 | "Scroll down" | Scroll down the list. |
 | 4 | "Start search" | Activate the search and open the holographic keyboard. |
 |Not shown | "Clear search" | Delete the text in the Search box. |
 |Not shown | "Previous folder" | Go back to the previous folder. |
@@ -85,7 +85,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Minimize" | Minimize the Teams activity screen and the Main menu. |
+| 1 | "Minimize" | Minimize the Teams activity screen and the **Main** menu. |
 | 2 | "Scroll up" | Scroll up the list. |
 | 3 | "Scroll down" | Scroll down the list. |
 | 4 | "Start search" | Trigger search and open the holographic keyboard. |
@@ -110,7 +110,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1| "Video on" or "Video off" | Turn the video camera on or off. |
 | 2| "Mic on or "Mic off" | Turn the audio on or off. |
 | 3 | "Start recording" or "Stop recording" | Start recording the call or stop recording the call. |
-| 4 | "End call" | End the call and minimize the Main menu. |
+| 4 | "End call" | End the call and minimize the **Main** menu. |
 | 5 | "Open participants" or "Close participants" | Display or hide the active participants tiles (right side of video feed). |
 | 6 | "Open chat" or "close chat"| Open or close the **Chat** window (right side of video feed). |
 | 7 | "Drawing on" or "Drawing off"| Select the **Ink** tool or turn off the **Ink** tool. |
@@ -141,7 +141,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1| "Today" | Select the **Today** button. |
 | 2| "Last week" | Select the arrow for the previous week. |
 | 3| "Next week" | Select the arrow for the next week. |
-| 4| "Minimize" | Minimize the Meetings window and the Main menu. |
+| 4| "Minimize" | Minimize the Meetings window and the **Main** menu. |
 | 5| "Scroll up" | Scroll up the list. |
 | 6| "Scroll down" | Scroll down the list. |
 
@@ -151,9 +151,9 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 |Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Minimize" | Hide the content panel and the Main menu. |
-| 2 | "Scroll up" | Scroll the list up. |
-| 3 | "Scroll down" | Scroll the list down. |
+| 1 | "Minimize" | Hide the content panel and the **Main** menu. |
+| 2 | "Scroll up" | Scroll up the list. |
+| 3 | "Scroll down" | Scroll down the list. |
 
 ## Profile and settings
 
@@ -161,7 +161,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1| "Minimize" | Hide the content panel and the Main menu. |
+| 1| "Minimize" | Hide the content panel and the **Main** menu. |
 | 2| "Sign out" and then say "Yes" or "No" in the next dialog box | Sign out of Dynamics 365 Guides. |
 
 ## Guides authoring/operating
@@ -174,7 +174,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | 1 | "Author" | Select **Author** mode. |
 | 2 | "Operate" | Select **Operate** mode. |
-| 3 | "Minimize" | Hide the content panel and the Main menu. |
+| 3 | "Minimize" | Hide the content panel and the **Main** menu. |
 | 4 | "Go back" | Go back to the guides and folders list and cancel opening the current guide. |
 
 ### Align holographic anchor 
