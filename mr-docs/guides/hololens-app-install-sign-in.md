@@ -62,15 +62,13 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
     ![Screenshot of Choose instance dialog box.](media/choose-instance.JPG "Screenshot of Instance dialog box")
 
-8. Follow the instructions to access the **Main** menu and choose an activity. [Learn more about the Main menu](main-menu.md).
-
-    ![Animation of tutorial showing how to open Main menu.](media/Tutorial.gif "Animation of tutorial showing how to open Main menu")
+8. Follow the instructions to access the **Main** menu and choose an activity. [Learn more about the Main menu](main-menu.md). 
 
 ## Sign out of the HoloLens app
 
 1. Look at your palm to open the Main menu, and then select the **Profile** button.
 
-    ![Screen shot of hand and Main menu.](media/main-menu-profile.jpg "Screen shot of hand and Main menu")
+    ![Screen shot of hand and Main menu.](media/main-menu-profile-settings.JPG "Screen shot of hand and Main menu")
 
 2. Select **Sign out**.
 
