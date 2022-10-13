@@ -15,7 +15,7 @@ If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a rem
 Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate the environment of the Dynamics 365 Guides user on HoloLens in a one-to-one or group call. Teams mobile users can also annotate, but only for one-to-one calls. Annotations are not supported for users on Teams Web. 
 
 > [!NOTE]
-> To use annotations, you must [enable the appropriate permissions in Dynamics 365 Guides](hololens-permissions.md)
+> To use annotations, you must [enable the appropriate permissions in Dynamics 365 Guides](hololens-permissions.md).
 
 ## Use Dynamics 365 Guides to annotate
 
