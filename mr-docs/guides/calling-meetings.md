@@ -81,7 +81,7 @@ If a participant wants to join the meeting, but they're not part of your organiz
     
 To admit or decline the participant:
 
-- Select the **Open Participants** button below the video feed to display the participant tiles on the right of the screen. In the first participant tile, select **Admit** or **Decline**. 
+- Select the **Open participants** button below the video feed to display the participant tiles on the right of the screen. In the first participant tile, select **Admit** or **Decline**. 
 
 > [!NOTE]
 > The meeting organizer can decide who is admitted into a meeting directly and who has to wait for someone to admit them. [Learn more about choosing who can bypass the lobby](https://support.microsoft.com/en-us/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e). 
