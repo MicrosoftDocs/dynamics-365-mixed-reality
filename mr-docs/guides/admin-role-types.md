@@ -1,11 +1,11 @@
 ---
 title: About the Author and Operator user roles in Dynamics 365 Guides
 description: Learn about the Author, Operator, Restricted Author, and Restricted Operator user roles in Dynamics 365 Guides
-author:  MattHoag-MS
+author:  Mamaylya
 manager: tfehr
 ms.topic: article
 ms.date: 11/08/2021
-ms.author: v-mhoag
+ms.author: mamaylya
 ms.reviewer: v-bholmes
 ---
 
