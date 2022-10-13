@@ -9,7 +9,7 @@ ms.author: v-mhoag
 ms.reviewer: v-bholmes
 ---
 <!-- This article could be a redirect to the article below with the term "App" updated to "Guides model-driven app".   A better solution will have to be found to "customize" core power apps support documents to address the specific D365 Guides user experience.  
-https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
+https://learn.microsoft.com/powerapps/user/assign-or-share-records -->
 
 # Share the Guides model-driven app to provide access
 

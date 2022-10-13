@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about IP addresses and endpoints required for Dynamics 365 Guides 
 ms.author: mamaylya
-ms.date: 08/26/2022
+ms.date: 09/09/2022
 ms.topic: article
 title: Network requirements for Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -61,3 +61,5 @@ See [Enterprise Firewall Configurations to Support WNS Traffic](/windows/apps/de
 
 - [Unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls)
 - [Deployment Playbook](admin-deployment-playbook.md)
+- [Additional Power Platform endpoints](/power-platform/admin/online-requirements#internet-accessible-urls-required)
+- [Additional HoloLens endpoints](/hololens/hololens-offline)
