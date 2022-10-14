@@ -2,13 +2,33 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 03/24/2022
+ms.date: 10/17/2022
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+## Guest users can't send or receive chat messages while in a group meeting
+
+If you [invite a guest user](admin-add-guest-user.md) to a group meeting, the guest is unable to send or receive chat messages in the meeting. The guest can still chat on a one-to-one call with users outside of the meeting.
+
+## Calling indicator not updated after recording has finished
+
+If you suspend the Dynamics 365 Guides HoloLens app during a call that is being recorded by a remote user, and then resume the app after the recording is finished, the calling indicator on the **Main** menu will incorrectly indicate that the recording is still in progress.
+
+## The Video and Record buttons might be disabled after restarting Dynamics 365 Guides and rejoining a call
+
+If you shut down the HoloLens app during a call, and you then restart the HoloLens app to resume the call in-progress, the **Video** and **Record** buttons may be disabled even if the video feed is turned on. To restore, disconnect from the call, restart the HoloLens app, and then re-join the meeting.
+
+## Guide doesn't go to the next step when rapidly air tap the Next button
+
+If you open a guide in operator mode and rapidly air tap the **Next** button, the guide may appear stuck and will not go to the next step. To restore navigation, stop air tapping until any animation has finished, and then air tap a single time.
+
+## The “Call From” and “Call To” fields are blank when viewing records in the Phone Calls table
+
+This is by design. The Phone Calls table is a common table used by Dynamics 365 apps to record phone call information. Dynamics 365 Guides and Dynamics 365 Remote Assist do not collect or populate these fields. 
 
 ## Why did my HoloLens display go blank for a few seconds when I placed a 3D model in the HoloLens app?
 
