@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 ## Guest users can't send or receive chat messages while in a group meeting
 
-If you [invite a guest user](admin-add-guest-user.md) to a group meeting, the guest is unable to send or receive chat messages in the meeting. The guest can still chat on a one-to-one call with users outside of the meeting.
+If you [invite a guest user](admin-add-guest-user.md) to a [meeting](calling-meetings.md), the guest is unable to send or receive chat messages in the meeting. The guest can still chat on a one-to-one call with users outside of the meeting.
 
 ## Calling indicator not updated after recording has finished
 
