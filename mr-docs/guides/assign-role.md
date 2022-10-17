@@ -24,7 +24,7 @@ To assign user roles:
 
 - The latest Dynamics 365 Guides solution must be installed. For more information, see [Update to the latest solution](upgrade.md).
 
-- You have access to the Microsoft Power Platform admin center and have full admin privileges.
+- You must have access to the Microsoft Power Platform admin center and have full admin privileges.
 
 ## Assign roles to a user
 > [!NOTE]

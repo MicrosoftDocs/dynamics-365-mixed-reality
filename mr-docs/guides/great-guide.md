@@ -1,14 +1,14 @@
 ---
 author: Mamaylya
-description: Learn about the do's and don'ts for a successful mixed reality guide created in Microsoft Dynamics 365 Guides
+description: Learn about the do's and don'ts for a successful mixed-reality guide created in Microsoft Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 08/25/2020
+ms.date: 10/17/2022
 ms.topic: article
 title: How to make a great mixed-reality guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# How to make a great mixed reality guide
+# How to make a great mixed-reality guide
 
 Other online documentation in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] focuses on helping you learn how to use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications and their various features. This document focuses on how to author great guide content to best communicate instructions to your operators. We suggest reading all other documentation first to get a good understanding of how to use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications, and then refer to this documentation to start authoring high-quality guides.
 

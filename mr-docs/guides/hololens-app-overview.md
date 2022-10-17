@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get an overview of the process of authoring a guide in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 08/10/2022
+ms.date: 10/17/2022
 ms.topic: overview
 title: Authoring overview--Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
@@ -20,7 +20,7 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 
 - [Add dotted lines](hololens-app-dotted-line.md) to visually link your steps to physical objects in the real world.
 
-- Optional: [Add styles](hololens-app-styles.md) to 3D content to add various treatments. For example, you can indicate a warning or caution.
+- Optional: [Add styles](hololens-app-styles.md) to 3D content to add various treatments. For example, add a warning or caution.
 
 - Test the flow of your guide.
 
@@ -31,7 +31,6 @@ The second major step in the process of authoring a guide in [!include[cc-micros
 
 ## What's next?
 
-- [Install and sign in to the app](hololens-app-install-sign-in.md)
 - [Anchor your guide](hololens-app-anchor.md)
 - [Place holograms, add styles, and more](hololens-app-orientation.md)
 

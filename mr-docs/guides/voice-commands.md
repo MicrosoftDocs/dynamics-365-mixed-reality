@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how you can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze.
 ms.author: mehellmu
-ms.date: 04/05/2021
+ms.date: 10/17/2022
 ms.topic: article
 title: Use voice commands in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -37,16 +37,16 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Sign-in
 
-![Sign-in page.](media/voice-commands-sign-in.jpg "Sign-in page")
+![Sign-in page.](media/voice-commands-sign-in-8.JPG "Sign-in page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Sign in" | Start the sign-in process. |
 | 2 | "Try a guide" | Open the Dynamics 365 Guides demo. |
 
-## Instance selection
+### Instance selection
 
-![Choose instance page.](media/voice-commands-choose-instance.jpg "Choose instance page")
+![Choose instance page.](media/voice-commands-choose-instance-8.JPG "Choose instance page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -55,44 +55,129 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ## Main menu
 
-![Main menu.](media/voice-commands-main-menu.jpg "Main menu")
+![Main menu.](media/voice-commands-main-menu-8.JPG "Main menu")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| Not shown | "Show Main menu" | Open the Main menu or bring it to you. |
-| Not shown | "Hide Main menu" | Hide the Main menu. |
-| 1 | "Show Work" | Open the Work activity to see your guides and folders. |
-| 2 | "Show Call" | Open the Call activity to see your contacts. |
-| 3 | "Show Settings" | Open the **Settings** page. |
-| 4 | "Show Profile" | Open the **Profile** page. |
+| Not shown | "Show Main menu" | Open the **Main** menu or bring it to you. |
+| Not shown | "Hide Main menu" | Hide the **Main** menu. |
+| 1 | "Show Work" | Open the Work activity screen to see your guides and folders. |
+| 2 | "Show Collaborate" | Open the Teams activity screen to start collaborating. |
+| 3 | "Show Files" | Open the OneDrive screen. |
+| 4 | "Show Profile" | Open the Profile/Settings screen. |
 
 ## Work activity
 
-### Guides and folders list
-
-![Work activity screen.](media/voice-commands-work-activity.jpg "Work activity screen")
+![Work activity screen.](media/voice-commands-work-activities.JPG "Work activity screen")
 
 |Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Minimize" | Hide the content panel and the Main menu. |
-| 2 | "Scroll up" | Scroll the list up. |
-| 3 | "Scroll down" | Scroll the list down. |
-| 4 | "Start search" | Activate the search and open the keyboard. |
-| 5 | "Clear search" | Delete the text in the Search box. |
-| 6 | "Previous folder" | Go back to the previous folder. |
+| 1 | "Minimize" | Hide the content panel and the **Main** menu. |
+| 2 | "Scroll up" | Scroll up the list. |
+| 3 | "Scroll down" | Scroll down the list. |
+| 4 | "Start search" | Activate the search and open the holographic keyboard. |
+|Not shown | "Clear search" | Delete the text in the Search box. |
+|Not shown | "Previous folder" | Go back to the previous folder. |
 
-## Select mode
+## Teams (collaboration) activity
 
-![Select mode screen.](media/voice-commands-select-mode.jpg "Select mode screen")
+![Teams activity screen.](media/voice-commands-teams-activity.JPG "Teams activity screen")
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Minimize" | Minimize the Teams activity screen and the **Main** menu. |
+| 2 | "Scroll up" | Scroll up the list. |
+| 3 | "Scroll down" | Scroll down the list. |
+| 4 | "Start search" | Trigger search and open the holographic keyboard. |
+| Not shown | "Clear search" | Delete the search string currently in the search box. |
+    
+### Call confirmation
+    
+![Call confirmation screen.](media/voice-commands-call-confirmation.JPG "Call confirmation screen")
+    
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Start call" | Call the selected contact. |
+| 2| "Back" | Go back to the contact list and cancel the call. |
+| Not shown| "End call" | End the call. |
+    
+### Active call
+
+![Active call screen.](media/voice-commands-active-call-8.JPG "Active call screen")
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1| "Video on" or "Video off" | Turn the video camera on or off. |
+| 2| "Mic on" or "Mic off" | Turn the audio on or off. |
+| 3 | "Start recording" or "Stop recording" | Start recording the call or stop recording the call. |
+| 4 | "End call" | End the call and minimize the **Main** menu. |
+| 5 | "Open participants" or "Close participants" | Display or hide the active participants tiles (right side of video feed). |
+| 6 | "Open chat" or "close chat"| Open or close the **Chat** window (right side of video feed). |
+| 7 | "Drawing on" or "Drawing off"| Select the **Ink** tool or turn off the **Ink** tool. |
+| 8 | "Select color", and then say one of these colors: "blue", "gray", "green", "red", "yellow"| Select the **Color** tool, and then apply the selected color to the ink. |
+| 9 | "Undo" | Undo the latest action. |
+| 10 | "Delete all" | Delete all annotations. |
+| 11 | "Add participants" | Display the holographic keyboard to search for contacts. |
+| 12 | "Minimize" | Minimize the screen. |
+| 13 | "Scroll up" | Scroll up the list. |
+| 14 | "Scroll down" | Scroll down the list. |
+
+### Meeting confirmation
+    
+![Meeting confirmation screen.](media/voice-commands-meeting-confirmation.JPG "Meeting confirmation screen")
+    
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Join meeting" | Join the meeting. |
+| 2| "Back" | Go back to the contact list and leave the meeting. |
+| Not shown| "End call" | Leave the meeting. |
+
+### Meetings
+    
+![Meetings screen.](media/voice-commands-meetings-list.JPG "Meetings screen")
+    
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1| "Today" | Select the **Today** button. |
+| 2| "Last week" | Select the arrow for the previous week. |
+| 3| "Next week" | Select the arrow for the next week. |
+| 4| "Minimize" | Minimize the Meetings window and the **Main** menu. |
+| 5| "Scroll up" | Scroll up the list. |
+| 6| "Scroll down" | Scroll down the list. |
+
+## Files (OneDrive) screen
+
+![Files (OneDrive) screen.](media/voice-commands-onedrive.JPG "Files (OneDrive) screen")
+
+|Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1 | "Minimize" | Hide the content panel and the **Main** menu. |
+| 2 | "Scroll up" | Scroll up the list. |
+| 3 | "Scroll down" | Scroll down the list. |
+
+## Profile and settings
+
+![Profile screen.](media/voice-commands-profile-8.JPG "Profile screen")
+
+| Number in screenshot | Say this | To do this |
+|---|---|---|
+| 1| "Minimize" | Hide the content panel and the **Main** menu. |
+| 2| "Sign out" and then say "Yes" or "No" in the next dialog box | Sign out of Dynamics 365 Guides. |
+
+## Guides authoring/operating
+
+### Select mode
+
+![Select mode screen.](media/voice-commands-select-mode-8.JPG "Select mode screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Author" | Select **Author** mode. |
 | 2 | "Operate" | Select **Operate** mode. |
-| 3 | "Minimize" | Hide the content panel and the Main menu. |
+| 3 | "Minimize" | Hide the content panel and the **Main** menu. |
 | 4 | "Go back" | Go back to the guides and folders list and cancel opening the current guide. |
 
-## Align holographic anchor 
+### Align holographic anchor 
 
 ![Align holographic anchor page.](media/voice-commands-holographic-anchor.jpg "Align holographic anchor page")
 
@@ -100,7 +185,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | 1 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
 
-## Scan anchor (QR code and circular code)
+### Scan anchor (QR code and circular code)
 
 ![Scan circular code anchor page.](media/voice-commands-circular-code-scan.jpg "Scan circular code anchor page")
 
@@ -108,7 +193,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | 1 | "Initiate scan" | Start anchor scanning. |
 
-## Anchor found (QR code and circular code)
+### Anchor found (QR code and circular code)
 
 ![Anchor found page.](media/voice-commands-anchor-found-confirm.jpg "Anchor found page")
 
@@ -117,7 +202,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1 | "Rescan" | Rescan the anchor if holograms aren't correctly aligned. |
 | 2 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
 
-## Step card 
+### Step card 
 
 ![Step card page with video and dotted line.](media/voice-commands-step-card.jpg "Step card page with video and dotted line")
 
@@ -138,16 +223,16 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 8 | ![Exit button.](media/exit-button.PNG "Exit button") | "Exit guide" | Exit the current guide.</p> |
 | 9 | ![Restart guide button.](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.|
 
-## Outline list
+### Outline list
 
-![Task list page that shows scroll up and scroll down buttons.](media/voice-commands-outline-list.jpg "Task list page that shows scroll up and scroll down buttons")
+![Task list page that shows scroll up and scroll down buttons.](media/voice-commands-outline-list-8.JPG "Task list page that shows scroll up and scroll down buttons")
 
 | Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
 | 1 | ![Scroll up button.](media/scroll-up-button.png "Scroll up button") | "Scroll up" | Scroll up the list. |
 | 2 | ![Scroll down button.](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
 
-## Author mode commands
+### Author mode commands
 
 | Button or element | Say this | To do this |
 |---|---|---|
@@ -157,7 +242,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |None|"Copy 3D position"|Copy the 3D position (position, orientation, and scale) of a hologram to use with another hologram.|
 |None|"Paste 3D position"|Paste the 3D position (position, orientation, and scale) of a hologram onto another hologram.|
 
-## Narration
+### Narration
 
 You can use the built-in HoloLens Text-to-Speech system to have HoloLens read instructions out loud.
 
@@ -171,46 +256,6 @@ Use the commands in the following table to turn narration on or off or to select
 |Narration off| Turn off narration for the current and subsequent steps. |
 |Narrate step| Narrate the current step.|
 |Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1".|
-
-## Call activity
-
-![Call activity screen.](media/voice-commands-call-activity.jpg "Call activity screen")
-
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Minimize" | Minimize the Call activity screen and the Main menu. |
-| 2 | "Scroll up" | Scroll up the list. |
-| 3 | "Scroll down" | Scroll down the list. |
-| 4 | "Start search" | Trigger search and open the keyboard. |
-| Not shown | "Clear search" | Delete the search string currently in the search box. |
-
-## Start a call
-
-![Start a call screen.](media/voice-commands-start-call.jpg "Start a call screen")
-
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Launch call" | Call the selected contact. |
-| 2| "Back" | Go back to the contact list and cancel the call. |
-
-## Active call
-
-![Active call screen.](media/voice-commands-active-call.jpg "Active call screen")
-
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1| "Start video" or "Stop video" | Turn the video camera on or off. |
-| 2| "End call" | Close the current call. |
-| 3 | "Mute" or "Unmute" | Mute or unmute the microphone. |
-
-## Profile (sign out)
-
-![Profile screen.](media/voice-commands-profile.jpg "Profile screen")
-
-| Number in screenshot | Say this | To do this |
-|---|---|---|
-| 1 | "Minimize" | Hide the content panel and the Main menu. |
-| 2| "Sign out" | Sign out of Dynamics 365 Guides. |
 
 ## Dialog boxes
 

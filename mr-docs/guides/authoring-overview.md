@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Overview of authoring in Dynamics 365 Guides, including PC authoring and HoloLens authoring
 ms.author: mamaylya
-ms.date: 08/10/2022
+ms.date: 10/17/2022
 ms.topic: overview
 title: Authoring overview--Dynamics 365 Guides PC and Hololens apps
 ms.reviewer: v-brycho
@@ -10,9 +10,7 @@ ms.reviewer: v-brycho
 
 # Overview of authoring a guide in Dynamics 365 Guides
  
-If you're ready to start creating a guide with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you're in the right place! 
-
-To create a guide, you use two apps:
+To author a guide in Microsoft Dynamics 365 Guides, you use two apps:
 
 - **PC app.** You start with the PC application. Use this application to create the guide, choose an anchoring method, 
 add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
@@ -24,7 +22,7 @@ Supporting assets include:
 
     - 2D media (images and videos)
 
-- **[!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode.** After creating the guide with the PC app, use the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
+- **HoloLens app.** After creating the guide with the PC app, use the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
 
     > [!TIP]
     > You can use both apps to edit the same guide simultaneously for the fastest workflow. Create the structure and text in the PC app, do the 3D placement in the HoloLens app, and then work back and forth until you have your guide just the way you want it. 

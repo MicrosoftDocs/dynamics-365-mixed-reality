@@ -2,13 +2,15 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 07/12/2022
+ms.date: 10/17/2022
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
+
+[See also Dynamics 365 Guides 8.0 FAQ](faq-version-8.md)
 
 ## How do I contact Support if I don't find an answer in this FAQ?
 
@@ -150,9 +152,9 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 
 - If the file exists in the library but the preview doesn't load, there's a problem with the file information in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
 
-## Why does the version 7.0 HoloLens app require permissions to launch?
+## Why does the HoloLens app require permissions to launch?
 
-Dynamics 365 Guides version 7.0 includes advanced features that rely on eye-tracking, voice, and camera to function properly. For example, you need eye tracking to access the Main menu (appears when you look at your palm). This is intended to prevent false positives so the menu doesn't appear at the wrong time. Similarly, without microphone access, voice commands won’t work. Without camera access, you can't anchor a guide or make a video call.
+The HoloLens app includes advanced features that rely on eye-tracking, voice, camera, and movement to function properly. For example, you need eye tracking to access the Main menu. [Learn more about the permissions required to use the HoloLens app](hololens-permissions.md)  
 
 ## Why can't I make a video call?
 

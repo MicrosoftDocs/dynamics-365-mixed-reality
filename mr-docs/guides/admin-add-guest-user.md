@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to invite a guest user to operate a guide in Microsoft Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 09/21/2022
+ms.date: 10/17/2022
 ms.topic: article
 title: Invite a guest user to operate a guide in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -33,6 +33,8 @@ When a user joins an organization as a guest, a **(Guest)** label appears next t
 
 - The Dynamics 365 Guides PC app does not support guest access. 
 
+- Guest users cannot record calls in the HoloLens app.
+
 - Anyone with a consumer email account (for example, an Outlook.com or Gmail.com account) can be a guest user in Azure Active Directory, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
 
 > [!NOTE]
@@ -48,7 +50,7 @@ Some organizations might want to restrict guest access to prevent guests from st
 
 ## Comparison of team member and guest capabilities
 
-Dynamics 365 Guides is a Microsoft Teams client. Dynamics 365 Guides calling is based on Teams. Guest user capabilities in Dynamics 365 Guides also match those available in Teams. Global admins control guest user access for the calling features available to an organization's guests by assigning or removing a Team's license for the guest user. For more information, see [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations). This article includes a [table that compares Teams functionality available for an organization's team members and its guests](/microsoftteams/communicate-with-users-from-other-organizations#external-access-external-chat-and-meetings).
+Dynamics 365 Guides is a Microsoft Teams client. Dynamics 365 Guides calling is based on Teams. Guest user capabilities in Dynamics 365 Guides also match those available in Teams. Global admins control guest user access for the calling features available to an organization's guests by assigning or removing a Team's license for the guest user. For more information, see [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations). This article includes a [table that compares Teams functionality available for an organization's team members and its guests](/microsoftteams/communicate-with-users-from-other-organizations#external-access-external-chat-and-meetings). See also [Collaborate with guests in a team](/microsoft-365/solutions/collaborate-as-team).
 
 The **Guest user access restrictions** policy in Azure Active Directory determines permissions for guests in your directory. The following table describes the three policy options.
 
@@ -59,6 +61,11 @@ The **Guest user access restrictions** policy in Azure Active Directory determin
 |**Guest user access is restricted to properties and memberships of their own directory objects (most restrictive)**|Guests can only access their own directory objects.|
 
 To learn more, see [What are the default user permissions in Azure Active Directory?](/azure/active-directory/fundamentals/users-default-permissions)
+
+See also [Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md).
+
+> [!NOTE]
+> Guests cannot start recordings in Teams calls. 
 
 ## See also
 
