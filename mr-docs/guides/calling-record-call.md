@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 
 Recording a call in the Microsoft Dynamics 365 Guides HoloLens app is great for training or record-keeping purposes. The HoloLens app creates cloud-based recordings that are automatically uploaded to OneDrive for Business for the user who initiates the recording. When the recording finishes uploading, all call participants can access the recording through Microsoft Teams chat. 
 
-You can record one-to-one or group calls. [Learn about prerequisites for Teams cloud meeting recordings and additional exceptions](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording) 
+You can record one-to-one or group calls. [Learn about prerequisites for Teams cloud meeting recordings and additional exceptions](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording) 
 
 > [!NOTE]
 > A cloud recording layout is different from what participants in a call see. On a call, the video of the HoloLens user takes over the full stage for Teams users. In the recording, all video streams have the same amount of screen space. Read more about the [layout for this type of call](#cloud-based-recording-layout) before deciding whether to record using this method. You may also want to consider [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording). 
@@ -46,7 +46,7 @@ After the recording is processed and saved, it will appear in your Teams chat hi
 
 ## Start a recording from Teams
 
-[Learn about using Teams to record the call](https://support.microsoft.com/office/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24?ui=en-us&rs=en-us&ad=us)
+[Learn about using Teams to record the call](https://support.microsoft.com/office/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24)
 
 ## Cloud-based recording layout 
 
@@ -57,7 +57,7 @@ If it's imperative that your recording capture as much of the HoloLens user's vi
 If you use Teams or Dynamics 365 Guides to record a call with two participants, each participant's outgoing video (or avatar) occupies one-half of the recording, and both halves are vertical. This means that during a Dynamics 365 Guides call, a Teams user sees a horizontal slice of what the Dynamics 365 Guides user sees, but the recording only captures the middle vertical slice of what the Dynamics 365 Guides user sees. Furthermore, during the Dynamics 365 Guides call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies half the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy half the recording.)
 
 ![Screenshot of Teams recording, showing half of the screen with the HoloLens participant, and the other half with the Teams avatar.](media/recording-two-person-layout.JPG)
-    
+
 ## Alternatives to cloud-based recording
 
 Consider the following alternatives to cloud-based recording if the cloud-based recording layouts don't work for your purposes. 
