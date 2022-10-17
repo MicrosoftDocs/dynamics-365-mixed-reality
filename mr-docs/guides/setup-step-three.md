@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 3 of the setup process for Microsoft Dynamics 365 Guides. In this step, you download and install the PC and HoloLens apps.
 ms.author: mamaylya
-ms.date: 08/10/2022
+ms.date: 10/17/2022
 ms.topic: article
 title: Download and install the Dynamics 365 Guides apps (PC and HoloLens)
 ms.reviewer: v-brycho
@@ -34,9 +34,11 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
 
 3. In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Get** to download and install the application.
 
-    > [!NOTE]
-    > For information about how to open and sign in to the app, see [Install, open, and sign in to the PC app](install-sign-in-pc-app.md).
+    > [!TIP]
+    > You can make sure that the PC app is automatically updated to be compatible with the latest Dynamics 365 Guides solution version by turning on the **Update apps automatically** setting in the Microsoft Store. 
 
+4. [Learn how to open and sign in to the PC app](install-sign-in-pc-app.md).
+    
 ## Launch the HoloLens app
 
 Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to the **Start** menu. Use the [Start gesture](operator-gestures-HL2.md) to open the **Start** menu. [Learn how to sign in to the HoloLens app](hololens-app-install-sign-in.md).
@@ -47,7 +49,7 @@ Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to 
 We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](/hololens/hololens-updates). You can also manually update your HoloLens. 
 
 > [!TIP]
-> You can make sure that the HoloLens app is automatically updated to be compatible with the latest solution version by turning on the **Update apps automatically** setting in the Microsoft Store. 
+> You can make sure that the HoloLens app is automatically updated to be compatible with the latest Dynamics 365 Guides solution version by turning on the **Update apps automatically** setting in the Microsoft Store. 
 
 ## Distribute the apps through Microsoft Store for Business
 

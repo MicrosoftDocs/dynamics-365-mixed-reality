@@ -1,5 +1,21 @@
 {
-  "redirections": [    {
+  "redirections": [
+    {
+      "source_path": "mr-docs/guides/operator-calibrate-hl2.md",
+      "redirect_url": "hololens-app-calibrate",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/make-call.md",
+      "redirect_url": "calling-start-call",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/videos.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/legal/guides-preview.md",
       "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104709",
       "redirect_document_id": "false"

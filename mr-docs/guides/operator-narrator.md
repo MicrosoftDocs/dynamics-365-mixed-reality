@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use the built-in Text-to-Speech capabilities in HoloLens to have HoloLens read Dynamics 365 Guides instruction text out loud. 
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 10/17/2022
 ms.topic: article
 title: Have HoloLens narrate Dynamics 365 Guides instructions to keep your focus on your work
 ms.reviewer: v-brycho
@@ -22,13 +22,15 @@ Narration uses the built-in HoloLens Text-to-Speech system. Narration is read in
 
 If you turn narration on or off, narration will stay on or off for the current and subsequent steps.
 
-1. Look at the palm of your hand to open the Main menu, and then touch the **Settings** button. 
+1. Look at the palm of your hand to open the **Main** menu, and then select the **Profile** button. 
 
-    ![Main menu with Settings button highlighted.](media/main-menu-settings.jpg "Main menu with Settings button highlighted")
+    ![Main menu with Settings button highlighted.](media/main-menu-profile-settings.JPG "Main menu with Settings button highlighted")
 
-2. Move the **Narration** slider to the on position.
+2. Select the **Preferences** button.
 
-   ![Screenshot of narration setting.](media/narration-setting.jpg "Screenshot of narration setting")
+3. Move the **Narration** slider to the on position.
+
+   ![Screenshot of narration setting.](media/narration-hololens.JPG "Screenshot of narration setting")
 
 ## Use voice commands to turn narration on or off or to select a response in a question card
 

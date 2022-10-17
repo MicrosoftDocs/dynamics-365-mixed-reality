@@ -1,16 +1,21 @@
 ---
 author: Mamaylya
-description: Learn how to calibrate your HoloLens 2 device for authoring in the Microsoft Dynamics 365 Guides HoloLens app.
+description: Learn how to calibrate your HoloLens to use with Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 11/08/2021
+ms.date: 10/17/2022
 ms.topic: article
-title: Calibrate your HoloLens 2 device for authoring in the Dynamics 365 Guides HoloLens app
+title: Calibrate your HoloLens to use with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Calibrate your HoloLens 2 for authoring in the Dynamics 365 Guides HoloLens app
+# Calibrate your HoloLens to use with Dynamics 365 Guides
 
-To make sure that holograms appear in the correct locations for guides you author in Dynamics 365 Guides, you must set the interpupillary distance (IPD) for your HoloLens. You can set your IPD by using the Calibration app included with HoloLens. This step must be completed for every HoloLens user, whether you're an author or operator. In an industrial setting where holograms are used to direct operators to perform operational tasks, it's crucial that holograms are correctly aligned. Incorrect alignment can cause operator confusion and costly damage. 
+To make sure that holograms appear in the correct locations in Microsoft Dynamics 365 Guides, you must set the interpupillary distance (IPD) for your HoloLens. This step must be completed for every HoloLens user, whether you're an author or operator. In an industrial setting where holograms are used to direct operators to perform operational tasks, it's crucial that holograms are correctly aligned. Incorrect alignment can cause operator confusion and costly damage. 
+
+> [!IMPORTANT]
+> It's particularly crucial for authors to make sure that their IPD is set correctly. Otherwise, all operators who use the guide will see misaligned holograms.
+
+You can set your IPD by using the Calibration app included with HoloLens. 
 
 If you don't configure the IPD for each user:
 
@@ -19,9 +24,6 @@ If you don't configure the IPD for each user:
 - Holograms will appear as if they're sunk into or floating above surfaces that they're sitting on.
 
 - Holograms won't be stable. As you walk around, you'll notice that they move.
-
-> [!IMPORTANT]
-> It's particularly crucial for authors to make sure that their IPD is set correctly. Otherwise, all operators who use the guide will see misaligned holograms.
 
 ## Calibrate your HoloLens 2 device
 

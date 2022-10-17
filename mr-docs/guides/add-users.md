@@ -41,7 +41,7 @@ To add additional users to [!include[cc-microsoft](../includes/cc-microsoft.md)]
 
     ![Profile info section.](media/expanded-profile-info.png "Profile info section")
 
-8. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish Adding**.
+8. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish adding**.
 
     ![Review page with Edit buttons.](media/review-page.png "Review page with Edit buttons")
 
@@ -63,7 +63,7 @@ After you add user accounts, the next step is to assign the **Author**, **Operat
 
     ![Select Manage product licenses.](media/select-manage-product-licenses.PNG "Select Manage product licenses")
 
-4. In the dialog box that appears, on the **Licenses and Apps** tab, select the **Dynamics 365 Guides** check box. Then, on the **Apps** FastTab, make sure that the **Common Data Service**, **Dynamics 365 Guides**, and **PowerApps for Guides** check boxes are selected. 
+4. In the dialog box that appears, on the **Licenses and Apps** tab, select the **Dynamics 365 Guides** check box. Then, under **Apps**, make sure that the **Common Data Service**, **Dynamics 365 Guides**, and **PowerApps for Guides** check boxes are selected. 
 
     ![Verify check boxes.](media/verify-check-boxes.PNG "Verify check boxes")
 
