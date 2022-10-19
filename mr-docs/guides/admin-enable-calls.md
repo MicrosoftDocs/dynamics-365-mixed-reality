@@ -14,9 +14,9 @@ Calling in Microsoft Dynamics 365 Guides is enabled by default. When calling is 
 
 If you're an admin for Dynamics 365 Guides, you can enable or disable calling for a user in a specific Dynamics 365 Guides environment. Enabling or disabling calling for a specific environment is useful:
 
-- When operators or authors do not need to work with remote collaborators.
+- When operators or authors do not need to work with remote collaborators. 
 
-- You don't want HoloLens users to be able to inadvertently reveal proprietary through a call.
+- You don't want HoloLens users to be able to inadvertently reveal proprietary through a call. 
 
 [Learn about licensing requirements and limitations when making calls in Dynamics 365 Guides](requirements.md)
 
@@ -39,12 +39,14 @@ If you're an admin for Dynamics 365 Guides, you can enable or disable calling fo
 
 4. In the left pane, select **Environment**, and then move the **Enable Calling** slider as needed to enable or disable calling for the environment.
 
-   If a user tries to start a call while working in an environment where calling is disabled, the user will see the following error message:
+    ![New command highlighted at top of Power Apps screen.](media/admin-enable-calling.JPG "New command highlighted at top of Power Apps screen")
 
-   "**Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license.**"
+    If a user tries to start a call while working in an environment where calling is disabled, the user will see the following error message:
 
-   > [!NOTE]
-   > Enabling or disabling calling is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in Azure Active Directory](/azure/active-directory/enterprise-users/users-revoke-access).
+    "**Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license.**"
+    
+    > [!NOTE]
+    > Enabling or disabling calling is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in Azure Active Directory](/azure/active-directory/enterprise-users/users-revoke-access).
 
 ## See also
 
