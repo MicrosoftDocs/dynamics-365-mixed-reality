@@ -25,7 +25,7 @@ The following app versions include the above bug fixes.
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens2|TBD|
+|HoloLens 2 app|TBD|
 
 ## October 26, 2022
 
