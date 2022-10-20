@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 10/17/2022
+ms.date: 10/20/2022
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-bholmes
@@ -47,10 +47,6 @@ If you have any questions, contact Microsoft Support.
 ## Telemetry data not stored for operators with **Restricted Operator** role in certain cases
 
 Operators with the **Restricted Operator** role that don't have the appendTo privilege can access and operate guides but their session data (telemetry) is not stored for time-tracking purposes.
-
-## The account picker becomes unresponsive if you stay on it for more than 25 seconds during HoloLens sign-in 
-
-On the page where you can select among the different accounts that are saved on [!include[pn-hololens](../includes/pn-hololens.md)], you must select an option within 25 seconds. After 25 seconds, the page becomes unresponsive, and you must restart the app. This issue has been fixed on RS5 but still exists on RS4 if you have that version installed.
 
 ## When you place large assets on HoloLens, you might experience minor loading delays
 
