@@ -6,8 +6,8 @@ ms.author: davepinch
 ms.date: 06/15/2022
 ms.topic: get-started
 ms.service: dynamics-365-guides
-ms.custom: template-trial-setup <!--Required. Leave this value as is for tracking purposes.-->
-ms.reviewer: v-bholmes
+ms.custom: template-trial-setup
+ms.reviewer: mhart
 ---
 
 # Sign up for a free Dynamics 365 Guides trial
@@ -18,7 +18,7 @@ Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial a
 
 **To sign up for the trial**:
 
-1. Go to the [trial overview page](https://dynamics.microsoft.com/get-started/?appname=guides), and then select the **Try for free** button.
+1. Go to the [trial overview page](https://aka.ms/TryGuides), and then select the **Try for free** button.
 
 2. Follow the on-screen guidance.
 
