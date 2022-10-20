@@ -12,11 +12,24 @@ ms.reviewer: mhart
 
 This article describes details about the **current wave of features (October 2022 through April 2023)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
-## October 26, 2022
+## November 2, 2022
 
 ### Bugs fixed
 
-The October 26 release includes the following mobile app bug fixes.
+- Improved contact search and asset search
+- Fixed some meetings missing from calendar view
+- Security and privacy updates
+- Improved app stability
+
+The following app versions include the above bug fixes.
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens2|TBD|
+
+## October 26, 2022
+
+### Bugs fixed
 
 #### Mobile
 
