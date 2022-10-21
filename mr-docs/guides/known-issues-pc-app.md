@@ -2,23 +2,21 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 04/01/2020
+ms.date: 10/20/2022
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides PC app
-ms.reviewer: v-brycho
+ms.reviewer: mhart
 ---
 
 # Known issues with the Dynamics 365 Guides PC app
 
 ## I can't find the guide that I created
 
-In the list of guides, look for newly created guides on the **All** tab. The **Recents** list shows only those guides that have previously been opened on the device. It doesn't include guides that were recently created in the PC authoring app. 
+In the list of guides, look for newly created guides on the **All** tab. The **Recents** list shows only those guides that have previously been opened on the device. It doesn't include guides that were recently created in the PC authoring app.
 
 ## Keep file names short for 3D models and media
 
-Before you upload custom 3D models or media files in the PC app, make sure that the file names are no longer than 60 characters. Also make sure that they don't contain special characters such as ampersands (&) and at signs (@). 
-
-Large 3D models are stored in [!include[pn-hololens](../includes/pn-hololens.md)] memory while they are used. Therefore, the experience is significantly slower if there are too many models in a guide. **For reasonable performance, we recommend that the total size of 3D models in a single guide not exceed 450 megabytes (MB).** 
+Before you upload custom 3D models or media files in the PC app, make sure that the file names are no longer than 60 characters. Also make sure that they don't contain special characters such as ampersands (&) and at signs (@).
 
 ## You can create guides that have the same name without overwriting old guides
 
