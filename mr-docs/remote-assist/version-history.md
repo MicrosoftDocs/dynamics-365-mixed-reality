@@ -12,6 +12,110 @@ ms.reviewer: v-bholmes
 
 This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the **most recent wave of features**, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
+## 2022 Release Wave 1
+
+## September 21, 2022
+
+### Bugs fixed 
+
+The September 21 release includes the following mobile app bug fixes. 
+
+#### Mobile
+
+- Fixed issue causing call recording video to be cropped when the mobile app is in portrait orientation.
+- Fixed crash happening intermittently during authentication failures (iOS only).
+
+The following app versions include the above bug fixes.
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2022.9.21|
+|Android mobile app|2022.9.21|
+
+## June 29, 2022
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|Minimize the Mixed Reality toolbar in Microsoft Teams to focus on the HoloLens video feed|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop for PC or Mac](teams-pc-all.md)|
+
+> [!NOTE]
+> You don't need to update the Dynamics 365 Remote Assist HoloLens app or mobile app to be able to minimize the Mixed Reality toolbar from Microsoft Teams.
+
+### Bugs fixed 
+
+The June 29 release also includes the following bug fixes. 
+
+#### HoloLens 2
+
+- Improved the behavior of inking in user interface panels.
+- Increased reliability of contact search when searching by full email address.
+- Fixed an issue where the **Sign out** button was unexpectedly available when running in Kiosk mode configured for multiple applications on HoloLens 2.
+- Addressed a rare issue where the keyboard would disappear when interacting with user interface panels.
+- Addressed a rare issue that would cause some chat messages to not be displayed.
+- Fixed localized text in several languages to better suit specific scenarios. 
+
+#### Mobile
+
+- Fix for microphone volume being too low during calls on certain Samsung devices.
+
+The following app versions include the above bug fixes.
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|310.2206.15002|
+|iOS mobile app|2022.6.29|
+|Android mobile app|2022.6.29|
+
+## May 11, 2022
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|----------------------------------------------------|
+|[Support for Microsoft Teams desktop for Mac](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-teams-desktop-mac)|[Collaborate with a Dynamics 365 Remote Assist user through Microsoft Teams desktop for PC or Mac](teams-pc-all.md)|
+
+> [!NOTE]
+> You don't need to update the Dynamics 365 Remote Assist HoloLens app or mobile app to take advantage of Microsoft Teams desktop support for Mac.
+
+## April 13, 2022
+
+### Features
+
+|Feature|How to|
+|-----------------------------------------------|---------------------------------------------------|
+|[Support for screen sharing in the mobile app](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-teams-desktop-mac)|[Share your screen in the mobile app](mobile-app/share-screen.md)|
+|[Restrict users from signing out of the HoloLens app](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/restrict-users-signing-out-hololens-app)|[Restrict users from signing out of the HoloLens app](restricted-mode-signout.md)|
+|[Adjust outgoing video quality to reduce HoloLens temperature](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/adjust-outgoing-video-quality-reduce-hololens-temperature)|[How Dynamics 365 Remote Assist adjusts HoloLens device temperature](hololens-thermal-adjusting.md)|
+|[New voice commands for navigating app settings and managing windows](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/new-voice-commands-navigating-app-settings-window-management)|[Voice commands for Dynamics 365 Remote Assist on HoloLens](voice-commands-hololens.md)|
+|[Disable file sharing by using a Microsoft Teams policy](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/disable-file-sharing-using-teams-policy)|[Microsoft Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md#file-sharing-policies)|
+|[Improvement to incoming call notifications on Android](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/improvement-incoming-call-notifications-android)|[Make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams](mobile-app/remote-assist-mobile-to-teams-calls.md#what-happens-when-dynamics-365-remote-assist-mobile-and-teams-mobile-are-installed-on-the-same-device)|
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|309.2204.06001|
+|iOS mobile app|2022.4.6|
+|Android mobile app|2022.4.6|
+
+### Bugs fixed 
+
+#### HoloLens 2
+
+- Added support for three new locales (nb-NO, pt-BR, sv-SE)
+- Addressed a problem where the ability to record a call was unavailable, unexpectedly
+- Bug fixes and stability improvements
+
+#### Mobile
+
+- Fix for **Camera** button status when joining a meeting 
+- Improvement to **Microphone** and **Speaker** buttons status 
+- Improvements for annotations accuracy on Android devices
+- Fix for the video recording owner displayed in the text chat 
+- Fix for the Recent contacts list not always appearing
+- Update for the Third-Party Software links in the application 
+- User interface improvements for the **More** (ellipsis) menu 
+
 ## 2021 Release Wave 2
 
 ## January 27, 2022
