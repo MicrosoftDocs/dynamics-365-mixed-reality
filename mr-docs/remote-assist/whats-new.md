@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 10/20/2022
+ms.date: 11/02/2022
 ms.topic: article
 ms.reviewer: mhart
 ---
@@ -25,7 +25,7 @@ The following app versions include the above bug fixes.
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|TBD|
+|HoloLens 2 app|311.2210.26003.0|
 
 ## October 26, 2022
 
