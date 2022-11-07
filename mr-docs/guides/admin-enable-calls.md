@@ -2,21 +2,21 @@
 author: Mamaylya
 description: Learn how to enable or disable calling in a Dynamics 365 Guides environment 
 ms.author: mamaylya
-ms.date: 10/17/2022
+ms.date: 12/2/2022
 ms.topic: article
 title: Enable or disable calling for a Dynamics 365 Guides environment
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Enable or disable calling in a Dynamics 365 Guides environment
 
 Calling in Microsoft Dynamics 365 Guides is enabled by default. When calling is enabled, a Dynamics 365 Guides HoloLens user can call a remote collaborator. The remote collaborator can join the call using Microsoft Teams desktop (PC or Mac) or the Teams mobile app. During the call, the remote collaborator can see everything seen by the Dynamics 365 Guides user, including holograms and the real world behind the holograms.
 
-If you're an admin for Dynamics 365 Guides, you can enable or disable calling for a user in a specific Dynamics 365 Guides environment. Enabling or disabling calling for a specific environment is useful:
+If you're an admin for Dynamics 365 Guides, enable or disable calling for a user in a specific Dynamics 365 Guides environment. Enabling or disabling calling for a specific environment is useful:
 
 - When operators or authors do not need to work with remote collaborators. 
 
-- You don't want HoloLens users to be able to inadvertently reveal proprietary through a call. 
+- You don't want HoloLens users to be able to inadvertently reveal proprietary information through a call. 
 
 [Learn about licensing requirements and limitations when making calls in Dynamics 365 Guides](requirements.md)
 
