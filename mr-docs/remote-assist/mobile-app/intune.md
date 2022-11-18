@@ -1,25 +1,22 @@
 ---
-title: Use Microsoft Intune to protect data in Dynamics 365 Remote Assist mobile (Android devices only)
+title: Use Microsoft Intune to protect data in Dynamics 365 Remote Assist mobile
 author: amaraanigbo
-description: Learn how to use Microsoft Intune to protect data in Dynamics 365 Remote Assist mobile by creating an app configuration policy for Android devices.
+description: Learn how to use Microsoft Intune to protect data in Dynamics 365 Remote Assist mobile by creating an app configuration policy for mobile devices.
 ms.author: soanigbo
-ms.date: 03/10/2022
+ms.date: 11/18/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: mhart
 ---
 
-# Use Microsoft Intune to protect data in Dynamics 365 Remote Assist mobile (Android devices only)
+# Use Microsoft Intune to protect data in Dynamics 365 Remote Assist mobile
 
 Microsoft Dynamics 365 Remote Assist mobile supports Microsoft Intune's app protection policies. These policies ensure that data remains safe and contained on the device through Intune policies.  
 
 ![Graphic showing Intune controls.](./media/RAM_IntuneControls.png)
 
-## Create an app configuration policy for Android devices
+## Create an app configuration policy for mobile devices
 
 You must be an administrator to create an app configuration policy.
-
-> [!NOTE]
-> At this time, you can't create an app configuration policy for iOS devices.
 
 1. Go to [Microsoft Endpoint Manager](https://endpoint.microsoft.com/). 
 
@@ -39,7 +36,7 @@ You must be an administrator to create an app configuration policy.
 
     ![Screenshot showing Select public apps highlighted.](./media/intune-4.jpg)
     
-7. On the right side of the screen, search for “Remote Assist”, select **Dynamics 365 Remote Assist Android**, and then choose the **Select** button. 
+7. On the right side of the screen, search for “Remote Assist”, select **Dynamics 365 Remote Assist Android** and **Dynamics 365 Remote Assist iOS**, and then choose the **Select** button. 
 
     ![Screenshot of the right side of the screen.](./media/intune-5.jpg)
     
