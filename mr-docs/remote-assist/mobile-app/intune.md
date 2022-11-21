@@ -54,15 +54,15 @@ You must be an administrator to create an app configuration policy.
 
 1. On the **Assignments** tab, under **Included groups**, select **Add groups**.
 
-    ![Screenshot showing Add groups highlighted.](./media/intune-7.jpg)
+   ![Screenshot showing Add groups highlighted.](./media/intune-7.jpg)
 
 1. On the right side of the screen, select the correct group for your organization, and then select **Next** at the bottom of the screen.
 
-       ![Screenshot showing the right side of the screen.](media/intune-8.jpg)
+   ![Screenshot showing the right side of the screen.](media/intune-8.jpg)
 
 1. On the **Review + create** tab, review the summary for the configuration policy, and then select **Create** to create the policy when you're ready.
 
-    ![Screenshot of the Review + create tab.](./media/intune-9.jpg)
+   ![Screenshot of the Review + create tab.](./media/intune-9.jpg)
 
 [Learn more about app configuration policies for Microsoft Intune](/mem/intune/apps/app-configuration-policies-overview)
 
