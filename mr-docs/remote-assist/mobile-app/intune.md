@@ -36,7 +36,7 @@ You must be an administrator to create an app configuration policy.
 
     ![Screenshot showing Select public apps highlighted.](./media/intune-4.jpg)
 
-1. On the right side of the screen, search for “Remote Assist”, select **Dynamics 365 Remote Assist Android** and **Dynamics 365 Remote Assist iOS**, and then choose the **Select** button.
+1. On the right side of the screen, search for *Remote Assist*, select **Dynamics 365 Remote Assist Android** and **Dynamics 365 Remote Assist iOS**, and then choose the **Select** button.
 
     ![Screenshot of the right side of the screen.](./media/intune-5.jpg)
 
@@ -44,7 +44,7 @@ You must be an administrator to create an app configuration policy.
 
 1. On the **Settings** tab, do the following:
 
-    1. Set the **Name** field to "com.microsoft.ramobile.environment.instance.url".
+    1. Set the **Name** field to *com.microsoft.ramobile.environment.instance.url*.
 
     2. In the **Value** field, enter the environment url. You can find this url in the [Power Platform admin center](https://admin.powerplatform.microsoft.com). Learn more: [Create and manage environments in the Power Platform admin center](/power-platform/admin/create-environment)
 
@@ -60,7 +60,7 @@ You must be an administrator to create an app configuration policy.
 
        ![Screenshot showing the right side of the screen.](media/intune-8.jpg)
 
-1. On the **Review + create** tab, review the summary for the configuration policy, and then select **Create** to create the policy when you’re ready.
+1. On the **Review + create** tab, review the summary for the configuration policy, and then select **Create** to create the policy when you're ready.
 
     ![Screenshot of the Review + create tab.](./media/intune-9.jpg)
 
