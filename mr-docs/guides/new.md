@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 10/17/2022
+ms.date: 12/5/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-bholmes
@@ -21,32 +21,24 @@ This page provides details about the **current wave of features (October 2022 th
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
-## October 17, 2022
+## December 6, 2022
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|800.2210.6001.0|
-|HoloLens app (HoloLens 2 only)|800.2210.6001.0|
-|Solution|800.0.0.1|
+|PC app||
+|HoloLens app (HoloLens 2 only)||
+|Solution||
 
-### Features
+### Bugs fixed and other improvements
 
-| Feature | Solution update required? |How to|
-|----------------------------------------------------------------------------------------|------|------------------------------------|
-| Make group calls| Yes |<a href="/dynamics365/mixed-reality/guides/calling-start-call" target="_blank">Call a remote collaborator on Microsoft Teams</a>|
-| Join Teams meetings| Yes |<a href="/dynamics365/mixed-reality/guides/calling-meetings" target="_blank">Join a Microsoft Teams meeting</a>|
-| Send chat messages and share files| Yes |<a href="/dynamics365/mixed-reality/guides/calling-chat-file-sharing" target="_blank">Start a chat and share a file</a>|
-| Annotate the HoloLens user's space| Yes |<a href="/dynamics365/mixed-reality/guides/calling-annotations" target="_blank">Annotate a screen</a>|
-| View a remote expert's screen| Yes |<a href="/dynamics365/mixed-reality/guides/calling-screen-sharing" target="_blank">Share your desktop or application screen with a HoloLens user</a>|
-| Record calls| Yes |<a href="/dynamics365/mixed-reality/guides/calling-record-call" target="_blank">Record a call</a>|
-| Access OneDrive files from HoloLens| Yes |<a href="/dynamics365/mixed-reality/guides/onedrive-files" target="_blank">Open a OneDrive for Business file</a>|
-| View call data| Yes |<a href="/dynamics365/mixed-reality/guides/call-logging" target="_blank">View and access call data</a>|
-| Automatically apply Microsoft Teams policies| Yes |<a href="/dynamics365/mixed-reality/guides/admin-teams-policies" target="_blank">Teams policies supported by Dynamics 365 Guides</a>|
-| HoloLens temperature management| Yes |<a href="/dynamics365/mixed-reality/guides/calling-hololens-thermal-adjusting" target="_blank">How Dynamics 365 Guides automatically adjusts HoloLens temperature if the device overheats</a>|
-| Automatically update the PC app| Yes |<a href="/dynamics365/mixed-reality/guides/setup-step-three" target="_blank">Download and install the PC and HoloLens apps</a>|
-
-> [!NOTE]
-> You must be a system administrator to update the Dynamics 365 Guides solution. 
+- Fixed an issue where video toggle and recording buttons might have been unavailable in certain conditions on Hololens 2
+- Fixed an issue with calling indicator not updating after recording had finished on Hololens 2
+- Improved behavior of automatic video switching while in a call on Hololens 2
+- Improved reliability of displaying screen shared by other participants while in a call/meeting on Hololens 2
+- Improved reliability of displaying participants that are currently speaking in a call/meeting in addition to some visual issues on Hololens 2
+- Improved app performance and optimized memory usage on Hololens 2
+- Extended Voice Command support through menus
+- Fixed issue with multiple slates highlighting when gazing
 
 ## Earlier releases
 
