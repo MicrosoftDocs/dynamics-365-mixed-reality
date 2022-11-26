@@ -22,6 +22,8 @@ You must also [assign a Dynamics 365 Guides license](add-users.md#assign-a-dynam
 
 Your network admin will also need to add one additional endpoint to [the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers](/dynamics365/mixed-reality/guides/admin-network-requirements).
 
+Your network admin will also need to include one additional endpoint to [the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/admin-network-requirements).
+
 > [!NOTE]
 > After a guest is added to an organization, it may take a few hours before they have access.    
 
