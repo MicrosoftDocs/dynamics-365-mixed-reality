@@ -20,11 +20,11 @@ Custom views are useful when you want to show a set of guides that is related to
 
 ## Prerequisites for a custom view
 
-- Dynamics 365 Guides solution version 104.1907.0.33 or later
+- Dynamics 365 Guides solution version 104.1907.0.33 or later.
 
-- Dynamics 365 Guides PC and HoloLens app versions 104.1907.19001 or later
+- Dynamics 365 Guides PC and HoloLens app versions 104.1907.19001 or later.
 
-- **System Administrator** role for the Dynamics 365 Guides instance that you're working with. 
+- **System Administrator** role for the Dynamics 365 Guides instance that you're working with.
 
 - A general understanding of [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro), the database that Dynamics 365 Guides is based on.
 
@@ -32,7 +32,7 @@ Custom views are useful when you want to show a set of guides that is related to
 
 The process of creating a custom view involves these basic steps:
 
-1. Create a new table in Microsoft Dataverse. This table contains the columns that will be included in the view. (It must contain at least two columns.)
+1. Create a new table in Microsoft Dataverse with the columns to include in the view. (It must contain at least two columns.)
 
 2. Create the view.
 
@@ -51,7 +51,7 @@ The remaining sections of this topic describe each step in detail.
 
     ![powerapps.microsoft.com.](media/custom-view-powerapps.PNG "powerapps.microsoft.com")
 
-1. Select **Environments** to open the Environments pane on the right side of the page. Select the instance where the Dynamics 365 Guides solution is installed (the instance that you want to add the custom tab to).
+1. Select **Environments** to open the Environments pane and select the instance where the Dynamics 365 Guides solution is installed (the instance that you want to add the custom tab to).
 
 1. In the left pane, select **Dataverse** > **Tables**. Then select **New table**.
 
@@ -109,11 +109,11 @@ The following illustration shows an example of a tab named **Custom Tab**. The n
 
 ![Custom tab elements.](media/custom-tab-elements.jpg "Custom tab elements")
 
-1. The name of the view that you create
+1. The name of the view that you create.
 
-1. The **Guides** field
+1. The **Guides** field.
 
-1. The **Date and Time** field
+1. The **Date and Time** field.
 
 1. An additional field. This field can be any field that you want to add.
 
@@ -190,9 +190,7 @@ In this step, add the list of guides that will appear on the HoloLens tab.
 > [!NOTE]
 > The following procedure is an example that shows how to use the App Designer. You can configure the App Designer in different ways, depending on your experience with Dynamics 365.
 
-1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin for the instance.
-
-1. In the left pane, select **Apps**. Then select the **More Commands** (**...**) button next to **Guides**, and select **Edit**.
+1. In Power Apps on the left pane, select **Apps**. Then select the **More Commands** (**...**) button next to **Guides**, and select **Edit**.
 
     ![Edit the Guides app.](media/custom-view-guides-edit-button.PNG "Edit the Guides app")
 

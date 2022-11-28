@@ -1,7 +1,7 @@
 ---
-author: keno-msft
+author: RobertButterworthMS
 description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Microsoft Power Apps
-ms.author: keno
+ms.author: robutter
 ms.date: 10/22/2019
 ms.topic: article
 title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Power Apps
