@@ -1,7 +1,7 @@
 ---
-author: MattHoag-MS
+author: Mamaylya
 description: Learn how to enable or disable Azure Object Anchors (Preview) in a Dynamics 365 Guides environment 
-ms.author: v-mhoag
+ms.author: mamaylya
 ms.date: 11/15/2021
 ms.topic: article
 title: Enable or disable Azure Object Anchors (Preview) for a Dynamics 365 Guides environment

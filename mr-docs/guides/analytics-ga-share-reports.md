@@ -1,7 +1,7 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Learn how to share Guides Analytics Power BI reports with other Microsoft Dynamics 365 Guides users
-ms.author: cynielse
+ms.author: mamaylya
 ms.date: 04/05/2022
 ms.topic: article
 title: Share Guides Analytics reports with other Dynamics 365 Guides users

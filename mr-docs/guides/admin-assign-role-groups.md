@@ -1,11 +1,11 @@
 ---
 title: Assign Dynamics 365 Guides Author and Operator roles to an Azure Active Directory group 
 description: Learn how to assign Author and Operator roles to a Dynamics 365 group team that's linked to an Azure Active Directory group.
-author:  MattHoag-MS
+author:  Mamaylya
 manager: tfehr
 ms.topic: article
 ms.date: 11/08/2021
-ms.author: v-mhoag
+ms.author: mamaylya
 ms.reviewer: v-bholmes
 ---
 
