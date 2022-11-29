@@ -31,12 +31,17 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ### Bugs fixed and other improvements
 
-- Fixed an issue where video toggle and recording buttons might have been unavailable in certain conditions on Hololens 2
-- Fixed an issue with calling indicator not updating after recording had finished on Hololens 2
-- Improved behavior of automatic video switching while in a call on Hololens 2
-- Improved reliability of displaying screen shared by other participants while in a call/meeting on Hololens 2
-- Improved reliability of displaying participants that are currently speaking in a call/meeting in addition to some visual issues on Hololens 2
-- Improved app performance and optimized memory usage on Hololens 2
+**Hololens 2 fixes and improvements**
+- Fixed an issue where video toggle and recording buttons might be disabled
+- Fixed an issue with calling indicator not updating after recording had finished
+- Improved behavior of automatic video switching while in a call
+- Improved reliability of displaying screen shared by other participants while in a call/meeting
+- Improved reliability of displaying participants that are currently speaking in a call/meeting in addition to some visual issues
+- Improved app performance and optimized memory usage
+
+**Other fixes and improvements**
+- Updated messaging on the **Settings** page of the mobile-driven app for calling capabilities
+- Improved media player stability on PC app
 - Extended Voice Command support through menus
 - Fixed issue with multiple slates highlighting when gazing
 
