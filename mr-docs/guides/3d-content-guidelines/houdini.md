@@ -1,7 +1,7 @@
 ---
-author: keno-msft
+author: RobertButterworthMS
 description: Describes, in tutorial format, how to use SideFX Houdini to prepare 3D models for use in Dynamics 365 Guides and Microsoft Power Apps
-ms.author: keno
+ms.author: robutter
 ms.date: 03/20/2020
 ms.topic: article
 title: Use SideFX Houdini to prepare 3D models for use in Dynamics 365 Guides and Power Apps

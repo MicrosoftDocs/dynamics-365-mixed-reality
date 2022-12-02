@@ -1,7 +1,7 @@
 ---
-author: keno-msft
+author: RobertButterworthMS
 description: How to optimize your 3D (CAD) models to use with Dynamics 365 Guides and Microsoft Power Apps
-ms.author: keno
+ms.author: robutter
 ms.date: 05/25/2021
 ms.topic: article
 title: Optimize your 3D models to use with Dynamics 365 Guides and Power Apps

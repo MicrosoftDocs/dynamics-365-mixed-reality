@@ -1,7 +1,7 @@
 ---
-author: keno-msft
+author: RobertButterworthMS
 description: This tutorial explains how to use Agisoft Metashape to create 3D models for Microsoft Dynamics 365 Guides and Microsoft Power Apps
-ms.author: keno
+ms.author: robutter
 ms.date: 3/20/2020
 ms.topic: article
 title: Use Agisoft Metashape to create 3D models for Dynamics 365 Guides and Power Apps
