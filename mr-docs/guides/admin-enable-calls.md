@@ -37,10 +37,7 @@ If you're an admin for Dynamics 365 Guides, enable or disable calling for users 
 
     ![Settings highlighted in the left pane.](media/admin-enable-calling-settings.JPG "Settings highlighted in left pane")
 
-4. In the left pane, select **Environment**, and then move the **Enable Calling** slider as needed to enable or disable calling for the environment. Disabling calling disables the functionality for all users signed into that environment. Disabling calling only disables the functionality in Dynamics 365 Guides and does not impact Microsoft Teams.
-
-    > [!NOTE]
-    > Receiving calls using Dynamics 365 Guides is not currently supported.
+4. In the left pane, select **Environment**, and then move the **Enable Calling** slider as needed to enable or disable calling for the environment. This action enables or disables the functionality for all configured users signed into that environment. Disabling calling in a Dynamics 365 environment only disables that functionality for Guides and has no impact on that capability in Microsoft Teams.
 
     ![New command highlighted at top of Power Apps screen.](media/admin-enable-calling.JPG "New command highlighted at top of Power Apps screen")
 
