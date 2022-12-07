@@ -27,7 +27,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ### Bugs fixed and other improvements
 
-This release fixes image quality issues for textures on 3D content and slate images. Highly detailed 2D and 3D content textures, especially those with linear patterns, now have restored clarity on the HoloLens. This change may increase memory requirements and cause new warnings or content loading issues if existing steps already exceed or nearly exceed recommended limits. Customers experiencing memory issues should review [Optimize your 3D models to use with Dynamics 365 Guides and Power Apps](/guides/3d-content-guidelines/optimize-models.md) and [Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 mixed-reality apps](/guides/3d-content-guidelines/best-practices.md).
+This release fixes image quality issues for textures on 3D content and slate images. Highly detailed 2D and 3D content textures, especially those with linear patterns, now have restored clarity on the HoloLens. This change may increase memory requirements and cause new warnings or content loading issues if existing steps already exceed or nearly exceed recommended limits. Customers experiencing memory issues should review [Optimize your 3D models to use with Dynamics 365 Guides and Power Apps](../guides/3d-content-guidelines/optimize-models.md) and [Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 mixed-reality apps](../guides/3d-content-guidelines/best-practices.md).
 
 **Calling**
 - Fixed issue where video toggle and recording buttons might have been disabled
