@@ -1,11 +1,11 @@
 ---
 title: Share a guide in Dynamics 365 Guides
 description: Learn how to share a guide in Microsoft Dynamics 365 Guides by using an access team.
-author:  MattHoag-MS
+author:  Mamaylya
 manager: tfehr
 ms.topic: conceptual
 ms.date: 04/05/2022
-ms.author: v-mhoag
+ms.author: mamaylya
 ms.reviewer: v-bholmes
 ---
 

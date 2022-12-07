@@ -1,7 +1,7 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides to improve process efficiencies.
-ms.author: cynielse
+ms.author: mamaylya
 ms.date: 04/05/2022
 ms.topic: overview
 title: Overview of Guides Analytics for Dynamics 365 Guides

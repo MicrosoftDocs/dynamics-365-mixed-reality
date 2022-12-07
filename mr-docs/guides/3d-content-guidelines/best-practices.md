@@ -1,7 +1,7 @@
 ---
-author: keno-msft
+author: RobertButterworthMS
 description: Learn about best practices for converting and optimizing real-time 3D models for use with Dynamics 365 mixed-reality applications
-ms.author: keno
+ms.author: robutter
 ms.date: 10/01/2019
 ms.topic: article
 title: Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 mixed-reality apps

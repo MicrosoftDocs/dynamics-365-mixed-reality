@@ -1,8 +1,8 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
-ms.author: cynielse
-ms.date: 06/17/2022
+ms.author: mamaylya
+ms.date: 12/1/2022
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data
 ms.reviewer: v-bholmes
@@ -48,7 +48,7 @@ Use the Power Platform to analyze and act on your data.
 ![Power Platform example.](media/analytics-alerts-visualize-data-1.PNG "Power Platform example")
 
 > [!NOTE]
-> Guides operations data is intended to help supervisors and managers derive insights regarding operational efficiencies and usage of Dynamics 365 Guides. This feature is not intended for use in making (and should not be used to make) decisions that affect the employment of an employee or group of employees, including compensation, rewards, seniority, or other rights or entitlements. Customers are solely responsible for using Dynamics 365, this feature, and any associated feature or service in compliance with all applicable laws, including laws relating to accessing individual employee analytics and monitoring. Customers are encouraged to have a mechanism in place to inform their users that analytics relating to their guides usage is collected. 
+> Guides operations data is intended to help supervisors and managers derive insights regarding operational efficiencies and usage of Dynamics 365 Guides. This feature is not intended for use in making (and should not be used to make) decisions that affect the employment of an employee or group of employees, including compensation, rewards, seniority, or other rights or entitlements. Customers are solely responsible for using Dynamics 365, this feature, and any associated feature or service in compliance with all applicable laws, including laws relating to accessing individual employee analytics and monitoring. Customers are encouraged to have a mechanism in place to inform, and if necessary collect consent from their users that analytics relating to their guides usage is collected. 
 
 ### MR App Session table
 
