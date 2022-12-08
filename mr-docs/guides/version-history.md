@@ -10,7 +10,7 @@ ms.reviewer: v-wendysmith
 
 # Version history for Dynamics 365 Guides
 
-This article provides a version history for Microsoft Dynamics 365 Guides features for all waves **except the current wave**. For current wave features, see [What's new in Dynamics 365 Guides](new.md). To see a comprehensive list of released and upcoming features for all waves, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+This article provides a version history for Microsoft Dynamics 365 Guides features for all waves. For the latest release, see [What's new in Dynamics 365 Guides](new.md). To see a comprehensive list of released and upcoming features for all waves, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 ## 2022 Release Wave 2
 
