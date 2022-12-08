@@ -2,51 +2,60 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 10/17/2022
+ms.date: 12/8/2022
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # What's new in Dynamics 365 Guides
 
-This page provides details about the **current wave of features (October 2022 through March 2023)** for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>. 
-
-> [!IMPORTANT]
-> Guides Dataverse solution version 800.0.0.1, which is now available, is a foundational change for key features in upcoming Dynamics 365 Guides releases and includes the new PhoneCall table. Updated versions of the PC and HoloLens apps are available for the new solution and **require the 800.0.0.1 or newer solution.** Also, if you have created any custom security roles, **make sure to update those custom roles to match the permissions for relevant Dynamics 365 Guides Security roles (Author, Restricted Author) so that any custom roles have access to the PhoneCall table. In the Power Apps Security Role dialog box, this is the Activity table. Users with custom roles derived from the Author or Restricted Author security roles will be unable to log into the HoloLens and PC apps until the custom security roles are updated.**  
-> 
-> If you choose not to update the solution and remain on the version 700 solution and compatible versions of the PC and HoloLens apps, there's no impact.
->
-> Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md). See the **Features** table below to determine if a new feature requires a solution update. 
+This page provides details about the latest release in the **current wave of features (October 2022 through March 2023)** for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 
-## October 17, 2022
+## December 8, 2022
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|800.2210.6001.0|
-|HoloLens app (HoloLens 2 only)|800.2210.6001.0|
-|Solution|800.0.0.1|
-
-### Features
-
-| Feature | Solution update required? |How to|
-|----------------------------------------------------------------------------------------|------|------------------------------------|
-| Make group calls| Yes |<a href="/dynamics365/mixed-reality/guides/calling-start-call" target="_blank">Call a remote collaborator on Microsoft Teams</a>|
-| Join Teams meetings| Yes |<a href="/dynamics365/mixed-reality/guides/calling-meetings" target="_blank">Join a Microsoft Teams meeting</a>|
-| Send chat messages and share files| Yes |<a href="/dynamics365/mixed-reality/guides/calling-chat-file-sharing" target="_blank">Start a chat and share a file</a>|
-| Annotate the HoloLens user's space| Yes |<a href="/dynamics365/mixed-reality/guides/calling-annotations" target="_blank">Annotate a screen</a>|
-| View a remote expert's screen| Yes |<a href="/dynamics365/mixed-reality/guides/calling-screen-sharing" target="_blank">Share your desktop or application screen with a HoloLens user</a>|
-| Record calls| Yes |<a href="/dynamics365/mixed-reality/guides/calling-record-call" target="_blank">Record a call</a>|
-| Access OneDrive files from HoloLens| Yes |<a href="/dynamics365/mixed-reality/guides/onedrive-files" target="_blank">Open a OneDrive for Business file</a>|
-| View call data| Yes |<a href="/dynamics365/mixed-reality/guides/call-logging" target="_blank">View and access call data</a>|
-| Automatically apply Microsoft Teams policies| Yes |<a href="/dynamics365/mixed-reality/guides/admin-teams-policies" target="_blank">Teams policies supported by Dynamics 365 Guides</a>|
-| HoloLens temperature management| Yes |<a href="/dynamics365/mixed-reality/guides/calling-hololens-thermal-adjusting" target="_blank">How Dynamics 365 Guides automatically adjusts HoloLens temperature if the device overheats</a>|
-| Automatically update the PC app| Yes |<a href="/dynamics365/mixed-reality/guides/setup-step-three" target="_blank">Download and install the PC and HoloLens apps</a>|
+|PC app|801.2212.2001.0 |
+|HoloLens app (HoloLens 2 only)|801.2212.2001.0 |
+|Solution|800.1.0.1 |
 
 > [!NOTE]
-> You must be a system administrator to update the Dynamics 365 Guides solution. 
+> Version 801.2212.2001.0 needs Dynamics 365 Guides solution version 800.0.0.1 or later. If you choose not to update your PC and HoloLens apps and the Dynamics 365 Guides solution, there's no impact and you can continue to use Dynamics 365 Guides with the existing feature set. To update your solution, see <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">Update the Dynamics 365 Guides solution</a>. For more information about solution and app compatibility, see [Compatibility between Dynamics 365 Guides solution and apps](admin-apps-solution-compatibility.md).
+
+### Bugs fixed and other improvements
+
+This release fixes image quality issues for textures on 3D content and slate images. Highly detailed 2D and 3D content textures, especially those with linear patterns, now have restored clarity on the HoloLens. This change may increase memory requirements and cause new warnings or content loading issues if existing steps already exceed or nearly exceed recommended limits. Customers experiencing memory issues should review [Optimize your 3D models to use with Dynamics 365 Guides and Power Apps](../guides/3d-content-guidelines/optimize-models.md) and [Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 mixed-reality apps](../guides/3d-content-guidelines/best-practices.md).
+
+**Calling**
+- Fixed issue where video toggle and recording buttons might have been disabled
+- Fixed issue where the call recording indicator wouldn’t show correct state
+- Improved behavior of automatic video switching while in a call
+- Improved reliability of displaying screen shared by other participants while in a call/meeting
+- Improved reliability of displaying participants that are currently speaking in a call/meeting and fixed some visual issues
+
+**Slates**
+- Fixed EXIF images that displayed incorrectly on slates 
+- Fixed aspect ratio sizing when screen sharing
+- Fixed cursor visibility on slates in authoring mode
+- Improved sound FX when interacting with slates
+- Added titles to images opened from a chat
+- Fixed cursor to remain at the grab position when moving slates
+- Fixed issue with multiple slates highlighting when gazing at a single slate
+
+**File browsing**
+- Fixed inconsistencies in the UI including button and breadcrumb positions
+- Fixed issue with file usage when internet connectivity is lost and recovered
+
+**Object anchors**
+- Fixed issue that prevented object anchor creation
+- Fixed issue that prevented object anchor detection on similar looking shapes
+
+**Other**
+- Removed preview indicator on the **Settings** page of the mobile-driven app for calling capabilities
+- Improved media player stability on PC app
 
 ## Earlier releases
 
