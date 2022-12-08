@@ -34,4 +34,4 @@ Set up Guides so that users of the Field Services mobile app has access to Guide
 
 ## See also
 
-[Create a custom app module based on Field Service Mobile](../field-service/mobile-powerapp-copy-app-module.md)
+[Create a custom app module based on Field Service Mobile](../dynamics365/field-service/mobile-powerapp-copy-app-module.md)
