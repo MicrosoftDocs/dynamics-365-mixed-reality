@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Use Power Apps to set up Guides users to access guides-only experience via Field Service app.
+description: Use Power Apps to set up Guides users to access guides-only experience via Field Service mobile app.
 ms.author: mamaylya
 ms.date: 12/8/2022
 ms.topic: how-to
