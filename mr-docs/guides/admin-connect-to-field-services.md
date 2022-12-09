@@ -1,16 +1,16 @@
 ---
 author: Mamaylya
-description: Use Power Apps to allow Field Services mobile app to access Guides
+description: Use Power Apps to set up Guides users to access guides only experience via Field Service app
 ms.author: mamaylya
 ms.date: 12/8/2022
 ms.topic: how-to
-title: Provide Field Services mobile app access to Guides
-ms.reviewer: v-bholmes
+title: Access guides from Field Service Mobile app
+ms.reviewer: v-wendysmith
 ---
 
-# Provide Field Service mobile app access to Guides
+# Access Guides from Field Service Mobile app
 
-Set up Guides so that users of the Field Services mobile app has access to Guides.
+Set up Guides on mobile to access from Field Service mobile app.
 
 1. Go to [make.powerapps.com](https://make.preview.powerapps.com/) and sign-in.
 
