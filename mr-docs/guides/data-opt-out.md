@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage data in Microsoft Dataverse, for privacy reasons.
 ms.author: mamaylya
-ms.date: 04/05/2022
+ms.date: 12/13/2022
 ms.topic: article
 title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 ms.reviewer: v-brycho
@@ -10,13 +10,11 @@ ms.reviewer: v-brycho
 
 # Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 
-Dynamics 365 Guides apps enable teams to capture usage statistics and detailed time-tracking information. This data is used to 
-provide metrics for operator and author performance and to help you identify opportunities for process optimization. Administrators can turn off 
-data collection for specific users if needed. 
+Dynamics 365 Guides apps enable teams to capture usage statistics and detailed time-tracking information. This data is used to provide metrics for operator and author performance and to help you identify opportunities for process optimization. Administrators can turn off data collection for specific users if needed. 
 
 ## Opt out of storing usage data
 
-1. Go to powerapps.microsoft.com and sign in with your admin account.
+1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com) and sign in as an admin.
 
 2. In the tenant/instance drop-down, select the instance that has Dynamics 365 Guides installed.
 
@@ -28,23 +26,23 @@ data collection for specific users if needed.
 4. On the left side of the screen, select the up arrow next to **Main**, and then select **Settings**.
 
     ![User Settings.](media/data-opt-out-user-setting.PNG "User Settings")
- 
+
 5. Select **New**.
 
     ![Select New.](media/data-opt-out-new.PNG "Select New")
- 
-6. In the **New User Settings** screen, under **User Settings**, fill out the form as follows:
+
+6. In the **New User Settings** screen, under **User Settings**, enter the following:
 
     - **Name:** Opt out for *[User name]*
 
-    - **Record Guide Usage:** Yes
+    - **Record Guide Usage:** No
 
     - **Belongs To:** *[User name]*
 
     ![Filled-out form.](media/data-opt-out-filled-out-form.PNG "Filled-out-form")
-    
+
 7. Select **Save** at the top of the screen.
- 
+
 ## See also
 
 [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
