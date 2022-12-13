@@ -14,9 +14,9 @@ This article describes details about the **current wave of features (October 202
 
 ## December 13, 2022
 
-## Bugs fixed
+## Bug fixed
 
-Fixed an issue causing the HoloLens app to unexpectedly shut down for EU customers
+- Fixed an issue causing the HoloLens app to unexpectedly shut down for EU customers
 
 The following app version includes the above bug fix.
 
