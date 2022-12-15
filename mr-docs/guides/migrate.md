@@ -54,7 +54,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
 ## Download the tool and run the script
 
-1. Download the Content Migration Tool from [https://aka.ms/ContentMigrationTool](https://aka.ms/ContentMigrationTool). The zipped folder is downloaded to your downloads folder.
+1. Download the Content Migration Tool from [https://aka.ms/guidesmigration](https://aka.ms/ContentMigrationTool). The zipped folder is downloaded to your downloads folder.
 
 1. In Windows File Explorer, select the zipped folder, right-click and then select **Properties**.
 
