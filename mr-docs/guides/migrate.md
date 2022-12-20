@@ -64,7 +64,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
 1. Select the zipped folder and extract the contents.
 
-1. Run Windows PowerShell [as an administrator](/powershell/scripting/windows-powershell/starting-windows-powershell?view=powershell-7.3#how-to-start-windows-powershell-on-earlier-versions-of-windows). Select **Start**, type **PowerShell**, choose **Windows PowerShell**, and then select **Run as administrator**.
+1. Run Windows PowerShell [as an administrator](/powershell/scripting/windows-powershell/starting-windows-powershell#how-to-start-windows-powershell-on-earlier-versions-of-windows). Select **Start**, type **PowerShell**, choose **Windows PowerShell**, and then select **Run as administrator**.
 
 1. Navigate to the **ContentMigrationTool\_D365GuidesR2\_v700** \> **MigrationToolScripts** folder in the extracted archive.
 
