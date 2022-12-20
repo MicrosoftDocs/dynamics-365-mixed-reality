@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 12/15/2022
+ms.date: 12/21/2022
 ms.topic: article
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-bholmes
@@ -64,15 +64,11 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
 1. Select the zipped folder and extract the contents.
 
-1. Go to the File Explorer location where you extracted the contents of the zipped folder, and open the **ContentMigrationTool\_D365GuidesR2\_v700** \> **MigrationToolScripts** folder.
+1. Run Windows PowerShell [as an administrator](/powershell/scripting/windows-powershell/starting-windows-powershell?view=powershell-7.3#how-to-start-windows-powershell-on-earlier-versions-of-windows). Select **Start**, type **PowerShell**, choose **Windows PowerShell**, and then select **Run as administrator**.
 
-1. Run Windows PowerShell [as an administrator](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831491(v=ws.11)#run-a-program-as-administrator-or-as-another-user) by following these steps:
+1. Navigate to the **ContentMigrationTool\_D365GuidesR2\_v700** \> **MigrationToolScripts** folder in the extracted archive.
 
-    1. On the **File** menu, select **Open Windows PowerShell** \> **Open Windows PowerShell as administrator**.
-
-        ![Open Windows PowerShell as administrator command.](media/migration-powershell-admin.PNG "Open Windows PowerShell as administrator command")
-
-    2. In the **User Account Control** message box, select **Yes** to allow Windows PowerShell to make changes to your device.
+1. In the **User Account Control** message box, select **Yes** to allow Windows PowerShell to make changes to your device.
 
 1. Enter **Set-ExecutionPolicy RemoteSigned**, and then select **Y** to accept the change in execution policy.
 
