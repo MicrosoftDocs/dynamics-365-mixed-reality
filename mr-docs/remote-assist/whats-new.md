@@ -14,7 +14,7 @@ This article describes details about the **current wave of features (October 202
 
 ## December 21, 2022
 
-## Bug fixed
+### Bug fixed
 
 - Fixed an issue where audio was not correctly directed to Bluetooth headsets during a call
 
@@ -26,7 +26,7 @@ The following app version includes the above bug fix.
 
 ## December 13, 2022
 
-## Bug fixed
+### Bug fixed
 
 - Fixed an issue causing the HoloLens app to unexpectedly shut down for EU customers
 
