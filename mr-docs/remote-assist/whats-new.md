@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: amaraanigbo
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 12/13/2022
+ms.date: 12/21/2022
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -12,9 +12,21 @@ ms.reviewer: v-wendysmith
 
 This article describes details about the **current wave of features (October 2022 through April 2023)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
+## December 21, 2022
+
+### Bug fixed
+
+- Fixed an issue where audio was not correctly directed to Bluetooth headsets during a call
+
+The following app version includes the above bug fix.
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|313.2212.21002.0|
+
 ## December 13, 2022
 
-## Bug fixed
+### Bug fixed
 
 - Fixed an issue causing the HoloLens app to unexpectedly shut down for EU customers
 
