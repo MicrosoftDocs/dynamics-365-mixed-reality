@@ -73,7 +73,7 @@
 ### [Collaborate with Remote Assist user from Teams mobile](teams-mobile-all.md)
 ### [Supported Teams policies](teams-policies.md)
 
-## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
+## [Integrate Dynamics 365 Field Service](dynamics365/field-service/remote-assist-hololens)
 
 ## Additional deployment scenarios
 ### [Scenarios overview](common-deployment-scenarios.md)
