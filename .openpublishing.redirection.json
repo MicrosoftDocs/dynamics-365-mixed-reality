@@ -631,6 +631,11 @@
       "source_path": "mr-docs/product-visualize/user-guide.md",
       "redirect_url": "/dynamics365/sales/deprecations-sales#dynamics-365-product-visualize-is-deprecated",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/troubleshoot-field-service.md",
+      "redirect_url": "/dynamics365/field-service/remote-assist-hololens",
+      "redirect_document_id": "false"
     }
   ]
 }
