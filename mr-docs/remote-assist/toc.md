@@ -2,7 +2,7 @@
 ## [Overview of Dynamics 365 Remote Assist](ra-overview.md)
 ## [What's new](whats-new.md)
 
-## Setup
+## Get started
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy](buy-remote-assist.md)
