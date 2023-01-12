@@ -5,7 +5,7 @@ ms.author: mehellmu
 ms.date: 12/21/2022
 ms.topic: article
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
@@ -60,7 +60,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
 1. In the **Properties** dialog box, on the **General** tab, select the **Unblock** check box, and then select **Apply**.
 
-    ![Unblock check box and Apply button.](media/migration-unblock.PNG "Unblock check box and Apply button")
+   :::image type="content" source="media/migration-unblock.PNG" alt-text="Unblock check box and Apply button":::
 
 1. Select the zipped folder and extract the contents.
 

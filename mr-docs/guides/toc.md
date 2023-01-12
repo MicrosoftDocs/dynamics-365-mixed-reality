@@ -52,6 +52,7 @@
 ### Move content between environments
 #### [Export/import folder structure](admin-export-import-folders.md)
 #### [Move content](migrate.md)
+#### [Troubleshooting moving content](migrate-troubleshoot.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
 
 ## Install the HoloLens and PC apps
