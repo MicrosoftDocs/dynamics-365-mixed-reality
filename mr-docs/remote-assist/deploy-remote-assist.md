@@ -21,7 +21,10 @@ You can also [deploy to multiple tenants](multi-tenant-deployment.md) or [enable
 
 ## Add users and assign licenses
 
-There are two types of users for Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach: remote experts and field service technicians. Field service technicians require a Dynamics 365 Remote Assist license **and** a Microsoft Teams license. When you buy a Dynamics 365 Remote Assist license, a Microsoft Teams license is included. However, remote experts (who aren't in the field) require only a Microsoft Teams license.
+There are two types of users for Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach:
+
+- Field service technicians who require a Dynamics 365 Remote Assist license and a Microsoft Teams license (which is included with a Dynamics 365 Remote Assist license).
+- Remote experts (who aren't in the field) require only a Microsoft Teams license.
 
 ### Prerequisites
 
@@ -33,19 +36,20 @@ Your organization must have:
 
 - An Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
 
-Make sure that users in your organization have the required licensing and devices. For more information, see [licensing and product requirements](./requirements.md).
+- Users in your organization have the [required licensing and devices](./requirements.md).
 
-### Adding and assigning licenses
+### Add and assign licenses
 
 Add and assign licenses to *individual users* or a *group of users* in your organization through the Microsoft 365 or Microsoft 365 administrator portal.
 
 1. Log into the [Microsoft 365 or Microsoft 365 administrator portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
 
-- To add a user and assign a license at the same time, see [Add users and assign licenses at the same time](/office365/admin/add-users/add-users). In the **Product licenses** section, make sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses.
+1. Add and assign licenses:
+   - To add a user and assign a license at the same time, see [Add users and assign licenses at the same time](/office365/admin/add-users/add-users). In the **Product licenses** section, make sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses.
 
-- To add multiple users at the same time, see [Add multiple users at the same time](/microsoft-365/admin/add-users/add-users#add-multiple-users-at-the-same-time-in-dashboard-view).
+   - To add multiple users at the same time, see [Add multiple users at the same time](/microsoft-365/admin/add-users/add-users#add-multiple-users-at-the-same-time-in-dashboard-view).
 
-- To assign licenses to existing users, see [Assign licenses to users](/office365/admin/manage/assign-licenses-to-users).
+   - To assign licenses to existing users, see [Assign licenses to users](/office365/admin/manage/assign-licenses-to-users).
 
 
 ## Download and install the app

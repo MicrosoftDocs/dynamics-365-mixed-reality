@@ -79,8 +79,6 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 - Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/microsoft-365/admin/add-users/about-admin-roles?#:~:text=In%20the%20Microsoft%20365%20admin%20center%2C%20you%20can,Assigned%20admins%20tab%20to%20add%20users%20to%20roles.).
 
-Admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal.
-
 1. Log into the [Microsoft 365 or Microsoft 365 administrator portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
 
 1. In the left navigation bar, select **Billing** > **Purchase services**.
@@ -95,7 +93,9 @@ Admins must acquire a 30-day Dynamics 365 Remote Assist trial license (for up to
 
 ## Option 3: Dynamics 365 Remote Assist Attach trial license (for Dynamics 365 Field Service customers)
 
-Dynamics 365 Remote Assist is integrated with Dynamics 365 Field Service to help users solve problems on-site. Admins must acquire the 30-day Dynamics 365 Remote Assist Attach trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal.
+### Prerequisites
+
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/microsoft-365/admin/add-users/about-admin-roles?#:~:text=In%20the%20Microsoft%20365%20admin%20center%2C%20you%20can,Assigned%20admins%20tab%20to%20add%20users%20to%20roles.).
 
 1. [Log into the Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
   
