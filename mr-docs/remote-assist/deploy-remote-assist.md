@@ -12,10 +12,10 @@ ms.custom: bap-template
 
 # Deploy Dynamics 365 Remote Assist
 
-After you get your [free trial](try-remote-assist.md) or [purchase](buy-remote-assist.md) Dynamics 365 Remote Assist, deploy it to your organization. Deploying Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach (for Field Service customers) includes:
+After you get your [free trial](try-remote-assist.md) or [purchase](buy-remote-assist.md) Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach (for Field Service customers), deploy it to your organization. To deploy:
 
-- Assigning licenses to users in your organization (for IT Admins)
-- Downloading and installing the app on a device (for individuals in your organization)
+- IT Admins assign licenses to users in your organization
+- Individual users in your organization download and install the app on a [supported device](./requirements.md)
 
 You can also [deploy to multiple tenants](multi-tenant-deployment.md) or [enable vendors and contractors to use Dynamics 365 Remote Assist](vendor-use-RA.md).
 
@@ -23,7 +23,7 @@ You can also [deploy to multiple tenants](multi-tenant-deployment.md) or [enable
 
 There are two types of users for Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach:
 
-- Field service technicians who require a Dynamics 365 Remote Assist license and a Microsoft Teams license (which is included with a Dynamics 365 Remote Assist license).
+- Field service technicians who require a Dynamics 365 Remote Assist license which also includes the required Microsoft Teams license.
 - Remote experts (who aren't in the field) require only a Microsoft Teams license.
 
 ### Prerequisites
@@ -34,9 +34,11 @@ Your organization must have:
 
 - A [free trial](try-remote-assist.md) of Dynamics 365 Remote Assist, or a [purchased license](buy-remote-assist.md).
 
-- An Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
+Individual users in your organization must have:
 
-- Users in your organization have the [required licensing and devices](./requirements.md).
+- The [required licensing and devices](./requirements.md).
+
+- An Azure Active Directory account to sign into the app.
 
 ### Add and assign licenses
 
@@ -86,8 +88,8 @@ You can now use Dynamics 365 Remote Assist on your HoloLens or HoloLens 2. Next,
 
 You can now use Dynamics 365 Remote Assist on your mobile device. Next, [Learn how to make calls](mobile-app/making-calls-with-ar.md).
 
->[!Note]
-> For Enterprise environments that manage application deployments using an MDM provider, contact d365rafb@microsoft.com for assistance obtaining the Dynamics 365 Remote Assist mobile application binary.
+> [!Note]
+> For Enterprise environments that manage application deployments using an Mobile Device Management (MDM) provider, contact d365rafb@microsoft.com for assistance obtaining the Dynamics 365 Remote Assist mobile application binary.
 
 ## Next steps
 

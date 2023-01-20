@@ -25,19 +25,19 @@ You can try Microsoft Dynamics 365 Remote Assist for free on your HoloLens, Holo
 
 ## Option 1: License-free 90-day trial for individuals
 
+The license-free trial grants access only to the client application. Additional Dynamics 365 Remote Assist functionality through the Dynamics 365 Remote Assist solution (asset capture, one-time calling, calls dashboard) is not included and requires additional licensing.
+
 ### Prerequisites
 
-- A [Microsoft account](https://account.microsoft.com/account) (required to use the Microsoft Teams freemium account). Note that a Microsoft account cannot be used with the Dynamics 365 Remote Assist trial license options. It can only be used for the license-free 90-day trial when combined with Microsoft Teams freemium. 
+- A [Microsoft account](https://account.microsoft.com/account) to use the Microsoft Teams Free account. A Microsoft account cannot be used with the Dynamics 365 Remote Assist trial license options. It can only be used for the license-free 90-day trial when combined with Microsoft Teams Free.
 
-- A [Microsoft Teams freemium account](https://products.office.com/microsoft-teams/free).
+- A [Microsoft Teams Free account](https://products.office.com/microsoft-teams/free).
 
-- Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only). Users will sign in to their accounts through Azure Active Directory. 
+- Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only). Users will sign in to their accounts through Azure Active Directory.
 
 - A HoloLens, HoloLens 2, or mobile device. [Learn about additional licensing and product requirements](./requirements.md).
 
 With the license-free 90-day free trial, each user must download Dynamics 365 Remote Assist from the appropriate app store to start the trial.
-
-This trial grants access only to the client application. Additional Dynamics 365 Remote Assist functionality through the Dynamics 365 Remote Assist solution (asset capture, one-time calling, calls dashboard) is not included and requires additional licensing.
 
 ### Steps for HoloLens and HoloLens 2
 
@@ -45,16 +45,14 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 1. Search for and download the Dynamics 365 Remote Assist app.
 
-1. Wait for three or four hours for the Teams trial licensing to be applied.
+1. Wait a few hours for the Teams trial licensing to be applied.
 
 1. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account.
 
-1. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. You will then be taken to your **Contacts** page.  
+1. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. Your **Contacts** page displays. You can now use Dynamics 365 Remote Assist on your HoloLens device.
 
    > [!NOTE]
    > If you see a message that says you don't have a Teams license, you need to wait longer for the Teams trial licensing to be applied.
-
-1. You can now use Dynamics 365 Remote Assist on your HoloLens device.  
 
 ### Steps for mobile
 
@@ -62,16 +60,14 @@ This trial grants access only to the client application. Additional Dynamics 365
 
 1. Search for and download the Dynamics 365 Remote Assist app.
 
-1. Wait for three or four hours for the Teams trial licensing to be applied.
+1. Wait a few hours for the Teams trial licensing to be applied.
 
 1. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account.
 
-1. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. You will then be taken to your **Contacts** page.
+1. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. Your **Contacts** page displays. You can now use Dynamics 365 Remote Assist on your mobile device. [Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile)](mobile-app/making-calls-with-ar.md).
 
    > [!NOTE]
    > If you see a message that says you don't have a Teams license, you need to wait longer for the Teams trial licensing to be applied.
-
-1. You can now use Dynamics 365 Remote Assist on your mobile device. [Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile)](mobile-app/making-calls-with-ar.md).
 
 ## Option 2: 30-day Dynamics 365 Remote Assist trial license for organizations
 

@@ -42,7 +42,8 @@ Now, set up **External access** or **Guest access** to enable users in different
 
 ### Solution 1: External access (federation)
 
-[!NOTE] At this time, external access is not supported for calls with Dynamics 365 Remote Assist mobile users.
+> [!NOTE]
+> At this time, external access is not supported for calls with Dynamics 365 Remote Assist mobile users.
 
 **External access** is a Teams feature that allows Teams users from an entire external tenant to use Teams to find, call, chat, and set up meetings with users in your tenant. See examples of when you may want to use external access [here](/microsoftteams/manage-external-access).
 
