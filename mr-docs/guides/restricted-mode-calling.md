@@ -25,17 +25,17 @@ When you restrict calling for Dynamics 365 Guides users, they can still:
 
 - Receive a request to join a meeting that's already in progress
 
-With this combination of restrictions and abilities, your company data stays safe and Dynamics 365 Guides users can continue to join meetings to troubleshoot issues with colleagues on an ad-hoc basis. 
+With this combination of restrictions and abilities, your company data stays safe and Dynamics 365 Guides users can continue to join meetings to troubleshoot issues with colleagues on an ad-hoc basis.
 
 > [!NOTE]
-> You can't restrict calling and the ability to search and access contacts for the Dynamics 365 Guides mobile app, but you can [set up one-time calls](one-time-call.md). 
+> You can't restrict calling and the ability to search and access contacts for the Dynamics 365 Guides mobile app, but you can set up one-time callsone-time-call.md.
 
 ## Restrict calling
 
-To restrict calling, first you create a new Microsoft Teams policy, and then you assign that policy to the appropriate user(s). 
+To restrict calling, first you create a new Microsoft Teams policy, and then you assign that policy to the appropriate user(s).
 
 > [!TIP]
-> You can also assign policies to groups. [Learn more](/microsoftteams/assign-policies-users-and-groups) 
+> You can also assign policies to groups. [Learn more](/microsoftteams/assign-policies-users-and-groups)
 
 1. Go to the [Microsoft Teams admin center](https://admin.teams.microsoft.com) and sign in with your admin credentials.
 
