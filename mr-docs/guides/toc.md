@@ -37,7 +37,12 @@
 ##### [Share a guide with an access team or specific user](admin-share-guide.md)
 ##### [Share the Guides model-driven app](admin-share-guides-hub.md)
 #### [Invite a user as a guest](admin-add-guest-user.md)
-### [Manage Microsoft Teams policies](admin-teams-policies.md)
+### Protect company information by restricting capabilities
+#### [Overview of restricting capabilities](restricted-mode-overview.md)
+#### [Manage Microsoft Teams policies](admin-teams-policies.md)
+#### [Restrict calling and contacts](restricted-mode-calling.md)
+#### [Restrict access to OneDrive files](restricted-mode-files.md)
+#### [Restrict sign out of HoloLens](restricted-mode-signout.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling](admin-enable-calls.md)
@@ -212,5 +217,3 @@
 ### [Submit feedback](submit-feedback.md)
 
 ## [Legal terms and notices for Dynamics 365 Guides](legal.md)
-
-
