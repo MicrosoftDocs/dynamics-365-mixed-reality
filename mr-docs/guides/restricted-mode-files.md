@@ -11,12 +11,7 @@ ms.custom: bap-template
 
 # Restrict the ability to access OneDrive files in Dynamics 365 Guides
 
-If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Guides users from accessing OneDrive files. Restricting the ability to access OneDrive files is also helpful in a situation where a service account is shared between users and you want to prevent users from accessing each other's files. 
-
-When you restrict the ability to access OneDrive files:
-
-- HoloLens users will see the **Files** tab, but no files will be visible and they'll see this message: "We can't connect to OneDrive."
-- Users of the mobile app will not be able to access OneDrive files.
+If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Guides users from accessing OneDrive files. Restricting the ability to access OneDrive files is also helpful in a situation where a service account is shared between users and you want to prevent users from accessing each other's files.
 
 ## Restrict access to OneDrive files
 
