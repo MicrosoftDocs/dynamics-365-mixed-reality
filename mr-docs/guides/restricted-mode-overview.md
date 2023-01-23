@@ -5,7 +5,7 @@ description: Learn how to protect company information in Microsoft Dynamics 365 
 ms.author: mhart
 ms.date: 01/20/2023
 ms.topic: overview
-ms.reviewer: mhart
+ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 

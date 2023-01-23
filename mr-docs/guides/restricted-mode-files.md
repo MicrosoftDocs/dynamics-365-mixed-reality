@@ -5,7 +5,7 @@ description: Learn how to restrict the ability to access OneDrive files in Micro
 ms.author: mhart
 ms.date: 01/20/2022
 ms.topic: how-to
-ms.reviewer: mhart
+ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
