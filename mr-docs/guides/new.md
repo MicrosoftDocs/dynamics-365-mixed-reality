@@ -2,10 +2,11 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 12/8/2022
-ms.topic: reference
+ms.date: 01/23/2023
+ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # What's new in Dynamics 365 Guides
@@ -13,6 +14,24 @@ ms.reviewer: v-wendysmith
 This page provides details about the latest release in the **current wave of features (October 2022 through March 2023)** for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
+
+## February 14, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|TBD |
+|HoloLens app (HoloLens 2 only)|TBD |
+|Solution|TBD |
+
+### Bugs fixed and other improvements
+
+- Added the ability to protect company information by restricting certain capabilities in Dynamics 365 Guides.
+- Fixed an issue with disconnected calls or meetings of users without contact information (bots, PSTN, or anonymous users). These users will be shown as "Unknown" in calls and meetings.
+- Improved performance for calls with a large number of participants.
+- Improved reliability of sending chat messages.
+- Improved reliability of video switching between remote participants.
+- Improved stability for loading 3D models.
+- Improved rendering quality that more closely matches the GLTF specification for 3D models.
 
 ## December 8, 2022
 

@@ -2,34 +2,16 @@
 author: Mamaylya
 description: Learn about FAQ associated with Dynamics 365 Guides 8.0 and features in common with Dynamics 365 Remote Assist
 ms.author: mamaylya
-ms.date: 10/17/2022
-ms.topic: article
-title: Frequently asked questions about Dynamics 365 Guides 8.0 and Dynamics 365 Remote Assist
-ms.reviewer: v-bholmes
+ms.date: 01/23/2023
+ms.topic: faq
+title: Dynamics 365 Guides 8.0 and Dynamics 365 Remote Assist FAQ
+ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
-# FAQ: Dynamics 365 Guides 8.0 and Dynamics 365 Remote Assist
+# Dynamics 365 Guides 8.0 and Dynamics 365 Remote Assist FAQ
 
-This FAQ addresses questions related to Dynamics 365 Guides 8.0. The Dynamics 365 Guides release includes many of the Microsoft Teams collaboration/calling features that are also available in Dynamics 365 Remote Assist.  
-
-## Feature comparison: Dynamics 365 Remote Assist and Dynamics 365 Guides 8.0
-
-|Feature|Dynamics 365 Remote Assist|Dynamics 365 Guides 8.0|
-|-------------------------------------|-------------------------------------|-------------------------------------|
-|Annotations (ability for both the remote expert and HoloLens user to annotate the HoloLens user's environment)| Yes| Yes|
-|Join and schedule a meeting| Yes| Yes (significantly improved in Dynamics 365 Guides 8.0)|
-|Group calling| Yes| Yes|
-|Incoming calls|Yes|No. This feature will be adding in an upcoming Dynamics 365 Guides release.|
-|Call recording| Yes| Yes|
-|Chat| Yes|Yes (improved in Dynamics 365 Guides 8.0)|
-|Screen sharing| Yes| Yes (improved in Dynamics 365 Guides 8.0)|
-|Snaphots (for poor connectivity situations)|Yes|No. This feature will be adding in an upcoming Dynamics 365 Guides release.|
-|Spotlighting| Yes| Yes|
-|File access| Yes| Yes|
-|Restricted access (calling, contacts, OneDrive files and ability to sign out of the HoloLens app)|Yes|No. This feature will be adding in an upcoming Dynamics 365 Guides release.|
-|Call data storage/display| Yes| Yes (Dynamics 365 Guides does not provide a built-in Calls dashboard, however).|
-|Teams policy support| Yes| Yes|
-|HoloLens temperature management| Yes| Yes|
+This FAQ addresses questions related to Dynamics 365 Guides 8.0.
 
 ## What licenses do I need to access the new collaboration features in Dynamics 365 Guides?
 
@@ -84,7 +66,7 @@ Yes, you can filter by subject in the Guides model-driven app. The subject value
 
 ## How do I configure roles for users who need to use calling and annotations functionality only and who are mostly using Dynamics 365 Remote Assist currently?
 
-There’s no built-in way to limit access in Dynamics 365 Guides to just calling functionality. 
+There’s no built-in way to limit access in Dynamics 365 Guides to just calling functionality.
 
 To transition a specific user to Dynamics 365 Guides 8.0, you need to do two things:
 
@@ -95,5 +77,3 @@ To transition a specific user to Dynamics 365 Guides 8.0, you need to do two thi
 The user will be able to sign into Dynamics 365 Guides after doing these two steps.
 
 [Learn more about assigning security roles](assign-role.md)
-
-
