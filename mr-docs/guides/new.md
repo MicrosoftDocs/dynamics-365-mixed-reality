@@ -25,11 +25,11 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ### Bugs fixed and other improvements
 
-- Added the ability to protect company information by restricting certain capabilities in Dynamics 365 Guides.
-- Fixed an issue with disconnected calls or meetings of users without contact information (bots, PSTN, or anonymous users). These users will be shown as "Unknown" in calls and meetings.
+- Added the ability to protect company information by [restricting certain capabilities in Dynamics 365 Guides](restricted-mode-overview.md).
+- Fixed an issue with disconnected calls or meetings with users without contact information (bots, PSTN, or anonymous users). These users will be shown as "Unknown" in calls and meetings.
 - Improved performance for calls with a large number of participants.
 - Improved reliability of sending chat messages.
-- Improved reliability of video switching between remote participants.
+- Improved reliability of switching video between remote participants.
 - Improved stability for loading 3D models.
 - Improved rendering quality that more closely matches the GLTF specification for 3D models.
 

@@ -18,6 +18,5 @@ If you [have a scenario where you need to protect your company information](rest
 ## Next steps
 
 - [Set up HoloLens as a kiosk](/hololens/hololens-kiosk?tabs=uisak%2Cautologon)
-- [Overview of restricting capabilities in Dynamics 365 Guides](restricted-mode-overview.md)
 - [Restrict calling and the ability to search and access contacts](restricted-mode-calling.md)
 - [Restrict the ability to access OneDrive files](restricted-mode-files.md)

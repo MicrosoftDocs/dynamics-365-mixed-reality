@@ -8,8 +8,8 @@
 ### Sign up for a free trial
 #### [How to sign up](trial-signup.md)
 #### [Trial FAQ](trial-faq.md)
-### [Get started](get-started.md)
 ### [Dynamics 365 Remote Assist features in Guides 8.0](ra-features-in-guides-8.md)
+### [Get started](get-started.md)
 ### [Glossary of terms](glossary.md)
 ### [How-to videos](videos.md)
 
