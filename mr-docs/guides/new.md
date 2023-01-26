@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 01/23/2023
+ms.date: 01/26/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -32,6 +32,8 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 - Improved reliability of switching video between remote participants.
 - Improved stability for loading 3D models.
 - Improved rendering quality that more closely matches the GLTF specification for 3D models.
+- Improved lighting quality and calculations, reducing flare/gloss on lit surfaces. Models in the HoloLens will more closely align visually with their representation in common viewers like 3D Viewer.
+- Improved OneDrive content loading in slates, resolving conditions that could cause load errors in rare conditions.
 
 ## December 8, 2022
 
