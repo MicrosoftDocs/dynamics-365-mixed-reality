@@ -1,12 +1,12 @@
 ---
 title: Call another Dynamics 365 Remote Assist mobile user from Dynamics 365 Remote Assist mobile
-author: amaraanigbo
+author: amaraanigbo 
 description: Learn how calling between two Dynamics 365 Remote Assist mobile users works
 ms.author: soanigbo
 ms.date: 02/01/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
-ms.custom:bap-template
+ms.custom: bap-template
 ---
 
 # Call another Dynamics 365 Remote Assist mobile user from Dynamics 365 Remote Assist mobile
@@ -38,7 +38,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
     ![Screenshot of Dynamics 365 Remote Assist mobile showing the Launch Call button.](./media/ram-to-ram-launch-call.jpg)
 
    > [!NOTE]
-   > If the remote collaborator is receiving the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile.     
+   > If the remote collaborator is receiving the call on a mobile device with both Dynamics 365 Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile.
 
 4. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed is shared to the remote collaborator's device screen.
 
@@ -72,15 +72,5 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
     ![Screenshot of the Dynamics 365 Remote Assist call controls toolbar with More button highlighted and opened.](./media/call-controls-more-menu.jpg)
 
 9. During the call, participants can capture and annotate on snapshots, send messages, share files, and more.
-
-## FAQ 
-
-**If remote collaborators (call receivers) have both Dynamics 365 Remote Assist mobile and Teams mobile installed on their devices, can they answer the call on Dynamics 365 Remote Assist mobile?** 
-
-If you receive an incoming call on a device with both Dynamics 365 Remote Assist and Teams mobile installed, the call will be received on Teams mobile. To receive the incoming call notification on Dynamics 365 Remote Assist mobile, Teams mobile must not be installed on your device.
-
-> [!NOTE] 
-> When a Dynamics 365 Remote Assist mobile user calls a remote collaborator and the remote collaborator answers on Teams mobile, the remote collaborator will have the same capabilities as they would if they answered on Dynamics 365 Remote Assist mobile, except that the remote collaborator cannot share their space.
-
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
