@@ -3,9 +3,10 @@ title: Call another Dynamics 365 Remote Assist mobile user from Dynamics 365 Rem
 author: amaraanigbo
 description: Learn how calling between two Dynamics 365 Remote Assist mobile users works
 ms.author: soanigbo
-ms.date: 04/13/2022
-ms.topic: article
-ms.reviewer: v-bholmes
+ms.date: 02/01/2023
+ms.topic: how-to
+ms.reviewer: v-wendysmith
+ms.custom:bap-template
 ---
 
 # Call another Dynamics 365 Remote Assist mobile user from Dynamics 365 Remote Assist mobile
@@ -18,7 +19,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
 ## Prerequisites
 
-- Call receivers must **not** have the Microsoft Teams application on their mobile devices. 
+- Call receivers with an iOS mobile device must **not** have the Microsoft Teams application on the device. Call receivers with an Android mobile device must choose Remote Assist Mobile for answering calls by [disabling Teams Mobile call notifications](remote-assist-mobile-to-teams-calls.md#what-happens-when-dynamics-365-remote-assist-mobile-and-teams-mobile-are-installed-on-the-same-device). 
 
 - Technicians must have a Dynamics 365 Remote Assist [free trial](../try-remote-assist.md) or [subscription](../buy-remote-assist.md).
 
