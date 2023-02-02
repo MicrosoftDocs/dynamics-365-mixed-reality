@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 06/07/2021
 ms.topic: article
 title: Tables and fields required to create a guide in Power Automate
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Tables and fields required to create a guide in Power Automate

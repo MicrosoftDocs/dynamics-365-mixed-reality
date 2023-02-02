@@ -5,7 +5,7 @@ ms.author: robutter
 ms.date: 01/08/2020
 ms.topic: overview
 title: Overview of preparing 3D models for Dynamics 365 Guides and Power Apps
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of preparing 3D models for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps

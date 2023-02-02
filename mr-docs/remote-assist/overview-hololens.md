@@ -5,7 +5,7 @@ description: Overview of Dynamics 365 Remote Assist features and links to HoloLe
 ms.author: soanigbo
 ms.date: 02/10/2022
 ms.topic: overview
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of Dynamics 365 Remote Assist on HoloLens and HoloLens 2

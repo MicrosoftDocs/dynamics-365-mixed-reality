@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
 title: View and access call data stored by Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # View and access call data stored by Dynamics 365 Guides

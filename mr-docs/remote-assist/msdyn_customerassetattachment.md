@@ -5,7 +5,7 @@ ms.author: soanigbo
 ms.date: 06/09/2020
 ms.topic: article
 title: msdyn_customerassetattachment EntityType
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # msdyn_customerassetattachment EntityType

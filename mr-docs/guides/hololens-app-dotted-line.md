@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
 title: Add a dotted line in the Dynamics 365 Guides HoloLens app to link a Step card to a focus area
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Add a dotted line in the Dynamics 365 Guides HoloLens app to link a Step card to a focus area 

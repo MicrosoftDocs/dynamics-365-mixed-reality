@@ -5,7 +5,7 @@ ms.author: robutter
 ms.date: 11/25/2020
 ms.topic: overview
 title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 Guides and Power Apps
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 Guides and in mixed-reality components included in apps created with Power Apps

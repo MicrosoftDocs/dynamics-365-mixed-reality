@@ -6,7 +6,7 @@ manager: tfehr
 ms.topic: conceptual
 ms.date: 04/05/2022
 ms.author: mamaylya
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Share a guide in Dynamics 365 Guides

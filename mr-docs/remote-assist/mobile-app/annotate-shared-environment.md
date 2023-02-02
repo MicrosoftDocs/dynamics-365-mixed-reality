@@ -5,7 +5,7 @@ description: How to add annotations to your environment in Dynamics 365 Remote A
 ms.author: soanigbo
 ms.date: 08/26/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Annotate the technician's shared environment

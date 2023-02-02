@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: overview
 title: Authoring overview--Dynamics 365 Guides HoloLens app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of authoring a guide in the Dynamics 365 Guides HoloLens app

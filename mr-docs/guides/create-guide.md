@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 06/29/2021
 ms.topic: article
 title: Create a guide in the Dynamics 365 Guides PC app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Create a guide in the Dynamics 365 Guides PC app

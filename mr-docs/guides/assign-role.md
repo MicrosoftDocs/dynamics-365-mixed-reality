@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
 title: Assign an Author or Operator role to a user to control whether a user can author a guide or just view a guide
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Assign an Author or Operator role to an individual user in Dynamics 365 Guides
