@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
 title: Copy a 3D model's position in the Dynamics 365 Guides HoloLens app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Copy a 3D model's position in the Dynamics 365 Guides HoloLens app

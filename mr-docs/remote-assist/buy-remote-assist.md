@@ -5,7 +5,7 @@ ms.author: soanigbo
 ms.date: 04/01/2020
 ms.topic: article
 title: Buy a Dynamics 365 Remote Assist subscription
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Buy a Dynamics 365 Remote Assist subscription

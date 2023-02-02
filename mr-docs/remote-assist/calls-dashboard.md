@@ -5,7 +5,7 @@ description: Overview, enablement and feature details for the Microsoft Dynamics
 ms.author: soanigbo
 ms.date: 05/31/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Remote Assist Calls Dashboard

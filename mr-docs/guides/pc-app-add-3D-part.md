@@ -5,7 +5,7 @@ description: Learn how to add a custom 3D part to a step in the Microsoft Dynami
 ms.date: 08/31/2021
 ms.topic: article
 title: Add a custom 3D part to a step in the Dynamics 365 Guides PC app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Add a custom 3D part (that you import) to a step in the Dynamics 365 Guides PC app

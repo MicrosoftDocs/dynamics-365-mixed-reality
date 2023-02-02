@@ -5,7 +5,7 @@ description: Learn how to set up an environment and install the Microsoft Dynami
 ms.author: soanigbo
 ms.date: 07/12/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Install the Dynamics 365 Remote Assist model-driven app

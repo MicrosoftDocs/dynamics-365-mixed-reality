@@ -6,7 +6,7 @@ manager: tfehr
 ms.topic: article
 ms.date: 11/08/2021
 ms.author: mamaylya
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Assign Author and Operator roles to a Dynamics 365 group team linked to an Azure Active Directory group

@@ -5,7 +5,7 @@ ms.author: soanigbo
 ms.date: 04/04/2021
 ms.topic: article
 title: Try Dynamics 365 Remote Assist for free 
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Free trial for Dynamics 365 Remote Assist

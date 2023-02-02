@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides HoloLens app (operators)
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Anchor a guide in the Dynamics 365 Guides HoloLens app (for operators)
