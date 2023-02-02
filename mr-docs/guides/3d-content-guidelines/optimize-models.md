@@ -22,7 +22,7 @@ The following table lists software tools that you can use to convert and/or opti
 |[Unreal Datasmith](https://aka.ms/UnrealDatasmithsoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ|Yes|No|
 |[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ, STL|Yes|Yes|
 |[Blender](https://www.blender.org/)|Collada (DAE), FBX, PLY, OBJ, STL, glTF, GLB, and more|FBX, OBJ, glTF 2.0, and more|Yes|Yes|
-|[gltfPack](https://www.npmjs.com/package/gltfpack)|GLB, glTF, OBJ|GLB, glTF|No|Yes
+|[gltfPack](https://www.npmjs.com/package/gltfpack)|GLB, glTF, OBJ|GLB, glTF|No|Yes|
 
 > [!IMPORTANT]
 > Dynamics 365 Guides uses meters as the default scale unit. If your 3D model scale is set to millimeters when you export from your CAD solution, the model will be converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it will be converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export. 
