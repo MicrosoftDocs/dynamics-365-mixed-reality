@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
 title: Use HoloLens (first gen) devices with Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Use HoloLens (1st gen) devices with Dynamics 365 Guides

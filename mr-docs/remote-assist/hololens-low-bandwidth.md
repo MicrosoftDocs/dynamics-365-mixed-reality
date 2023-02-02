@@ -5,7 +5,7 @@ description: How the Microsoft Dynamics 365 Remote Assist HoloLens app works in 
 ms.author: soanigbo
 ms.date: 07/29/2021
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Use Dynamics 365 Remote Assist HoloLens in low-bandwidth situations

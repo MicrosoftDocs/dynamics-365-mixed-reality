@@ -5,7 +5,7 @@ description: Learn how to run the Dynamics 365 Remote Assist tutorial to learn a
 ms.author: soanigbo
 ms.date: 03/15/2020
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Review tutorial for Dynamics 365 Remote Assist on HoloLens

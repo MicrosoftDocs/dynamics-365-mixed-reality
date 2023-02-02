@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
 title: Teams policies supported by Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Teams policies supported by Dynamics 365 Guides

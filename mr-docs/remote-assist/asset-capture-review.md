@@ -5,7 +5,7 @@ description: Learn how to review captured asset data from the Dynamics 365 Remot
 ms.author: soanigbo
 ms.date: 04/30/2021
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Review data from asset captures in the Dynamics 365 Remote Assist model-driven app

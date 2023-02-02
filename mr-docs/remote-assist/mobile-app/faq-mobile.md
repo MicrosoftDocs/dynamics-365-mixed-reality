@@ -5,7 +5,7 @@ ms.author: soanigbo
 ms.date: 06/02/2021
 ms.topic: article
 title: Dynamics 365 Remote Assist mobile frequently asked questions
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Frequently asked questions for Dynamics 365 Remote Assist mobile

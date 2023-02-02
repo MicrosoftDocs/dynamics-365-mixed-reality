@@ -5,7 +5,7 @@ description: Find version history for earlier versions of Microsoft Dynamics Rem
 ms.author: soanigbo
 ms.date: 10/20/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Version history for Dynamics 365 Remote Assist

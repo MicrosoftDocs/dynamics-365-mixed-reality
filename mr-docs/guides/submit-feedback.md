@@ -5,7 +5,7 @@ ms.author: davepinch
 ms.date: 09/09/2022
 ms.topic: article
 title: Submit feedback on Dynamics 365 Guides through the Feedback Hub
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Submit feedback on Dynamics 365 Guides through the Feedback Hub

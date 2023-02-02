@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 12/1/2022
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of analyzing and integrating Dynamics 365 Guides usage data

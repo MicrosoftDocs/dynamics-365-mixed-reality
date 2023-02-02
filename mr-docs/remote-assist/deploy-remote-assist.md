@@ -5,7 +5,7 @@ description: Dynamics 365 Remote Assist users can deploy and set up Dynamics 365
 ms.author: soanigbo
 ms.date: 06/17/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Deploy Dynamics 365 Remote Assist

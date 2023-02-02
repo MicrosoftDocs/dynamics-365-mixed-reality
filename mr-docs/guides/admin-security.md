@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 12/14/2021
 ms.topic: article
 title: Restrict access to an environment in Dynamics 365 Guides by using security groups
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Restrict access to an environment in Dynamics 365 Guides by using security groups

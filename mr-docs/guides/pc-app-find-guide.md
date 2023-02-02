@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 06/09/2022
 ms.topic: article
 title: Find a guide in the Dynamics 365 Guides PC app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Find a guide in the Dynamics 365 Guides PC app

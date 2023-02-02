@@ -5,7 +5,7 @@ description: Learn how to join a Microsoft Teams meeting or live event in Dynami
 ms.author: soanigbo
 ms.date: 12/14/2020
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Join a meeting or live event on HoloLens
