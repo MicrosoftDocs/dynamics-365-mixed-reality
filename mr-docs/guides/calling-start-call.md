@@ -5,7 +5,7 @@ description: Learn how to call a remote collaborator on Microsoft Teams from Dyn
 ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides 

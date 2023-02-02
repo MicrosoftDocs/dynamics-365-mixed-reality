@@ -7,7 +7,7 @@ ms.date: 06/15/2022
 ms.topic: get-started
 ms.service: dynamics-365-guides
 ms.custom: template-trial-faq <!--Required. Leave this value as is for tracking purposes.-->
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Guides trial FAQ

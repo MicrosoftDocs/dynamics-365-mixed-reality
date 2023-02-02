@@ -5,7 +5,7 @@ description: Learn how to record a one-to-one call with a remote collaborator in
 ms.author: soanigbo
 ms.date: 04/18/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Capture session history through call recording in Dynamics 365 Remote Assist mobile

@@ -6,7 +6,7 @@ manager: tfehr
 ms.topic: article
 ms.date: 11/08/2021
 ms.author: mamaylya
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # About the Author and Operator roles in Dynamics 365 Guides

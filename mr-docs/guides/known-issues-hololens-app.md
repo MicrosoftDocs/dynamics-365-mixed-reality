@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 12/5/2022
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app

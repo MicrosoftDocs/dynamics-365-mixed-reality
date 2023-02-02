@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 04/05/2022
 ms.topic: article
 title: Set up Guides Analytics reports for Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Set up Guides Analytics reports for Dynamics 365 Guides

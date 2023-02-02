@@ -5,7 +5,7 @@ description: Addresses all calling scenarios for Dynamics 365 Remote Assist mobi
 ms.author: soanigbo
 ms.date: 10/1/2020 
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Make Dynamics 365 Remote Assist mobile calls

@@ -5,7 +5,7 @@ ms.author: soanigbo
 ms.date: 05/19/2022
 ms.topic: article
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Frequently asked questions about Dynamics 365 Remote Assist HoloLens

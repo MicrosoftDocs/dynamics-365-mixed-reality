@@ -136,4 +136,3 @@ Yes, one-to-one policies also apply to group calls, but meetings have their own 
 ### When are policies applied
 
 Policies are applied when the user signs in. After making a policy change, the user will need to sign out and back in or close and open the app to apply the policy change. 
-

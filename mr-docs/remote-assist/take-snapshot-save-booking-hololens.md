@@ -5,7 +5,7 @@ description: Take a photo in Dynamics 365 Remote Assist and automatically save i
 ms.author: soanigbo
 ms.date: 10/11/2020
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Take a photo and save it to a Dynamics 365 Field Service booking

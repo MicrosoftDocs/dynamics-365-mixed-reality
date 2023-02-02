@@ -5,7 +5,7 @@ ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: article
 title: Invite a guest user to operate a guide in Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Invite a guest user to operate a guide in Dynamics 365 Guides

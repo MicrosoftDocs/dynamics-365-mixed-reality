@@ -5,7 +5,7 @@ description: Learn how to add a 3D model (for example, an arrow or a hand) to a 
 ms.date: 01/18/2022
 ms.topic: article
 title: Add a 3D model (arrow or hand, for example) to a step in the Dynamics 365 Guides PC app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Add a 3D model from the 3D toolkit to a step in the Dynamics 365 Guides PC app
@@ -44,7 +44,7 @@ To add a model from the 3D toolkit, follow these steps.
 
 - Use the arrow when you want the operator to insert a part into something stationary (for example, to hand-tighten a bolt into a tapped hole).
 
-- Use one of the hand poses when you want the operator to use his or her hand in a specific way to influence or manipulate something. There are various poses for specific interactions, such as Pull, Push, Pinch, and Grab. Combine these standard poses with arrows and/or icons to add additional meaning.
+- Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions, such as Pull, Push, Pinch, and Grab. Combine these standard poses with arrows and/or icons to add additional meaning.
 
 - You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**.
 

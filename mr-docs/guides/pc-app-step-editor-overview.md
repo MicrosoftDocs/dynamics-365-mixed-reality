@@ -5,7 +5,7 @@ description: Learn about using the Step Editor in the Microsoft Dynamics 365 Gui
 ms.date: 11/08/2021
 ms.topic: overview
 title: Overview of the Step Editor in the Dynamics 365 Guides PC app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of the Step Editor in the Dynamics 365 Guides PC app

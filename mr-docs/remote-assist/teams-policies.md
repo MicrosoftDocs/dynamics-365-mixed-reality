@@ -5,7 +5,7 @@ author: amaraanigbo
 ms.author: soanigbo
 ms.date: 06/17/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Microsoft Teams policies supported by Dynamics 365 Remote Assist
