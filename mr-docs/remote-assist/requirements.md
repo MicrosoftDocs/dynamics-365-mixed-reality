@@ -2,32 +2,33 @@
 author: amaraanigbo
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: soanigbo
-ms.date: 10/14/2022
-ms.topic: article
+ms.date: 02/03/20023
+ms.topic: conceptual
 title: Requirements for Dynamics 365 Remote Assist
 ms.reviewer: v-wendysmith
 ---
 
-# Technical requirements for deploying and using Dynamics 365 Remote Assist
+# Requirements for deploying and using Dynamics 365 Remote Assist
 
-This article describes the technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist.
-
-## Definitions
-
-**Dynamics 365 Remote Assist user:** Someone who uses the Dynamics 365 Remote Assist app on HoloLens or mobile devices.
-
-**Teams user:** Someone who uses the Teams app on the desktop or mobile devices.
+To deploy and use Microsoft Dynamics 365 Remote Assist, make sure you meet the following technical requirements.
 
 ## Device requirements
 
-Both Dynamics 365 Remote Assist users and Teams users can join a Dynamics 365 Remote Assist call. [Learn more about the different types of calls](./mobile-app/making-calls-on-remote-assist-mobile.md).
+Review the supported devices and device requirements for Dynamics 365 Remote Assist.
 
-The Dynamics 365 Remote Assist app is available on HoloLens, HoloLens 2, and qualifying Android or iOS mobile devices.
+### Supported devices
+
+The Dynamics 365 Remote Assist application is supported on:
+
+- [HoloLens](/hololens/hololens1-hardware)
+- [HoloLens 2](/hololens/hololens2-hardware)
+- Qualifying [Android](https://developers.google.com/ar/discover/supported-devices) mobile phones or tablets
+- Qualifying [iOS](https://www.apple.com/ios/augmented-reality/) mobile phones and tablets
+
+Individuals without the Dynamics 365 Remote Assist app can join a Dynamics 365 Remote Assist call using the Teams application on a [Windows 10 PC](teams-pc-all.md), Mac, or qualifying [mobile device](teams-mobile-all.md). [Learn more about the different types of calls](./mobile-app/making-calls-on-remote-assist-mobile.md).
 
 > [!NOTE]
 > Accuracy of annotations is highly dependent on the capabilities of the device. Use Android devices that have a time-of-flight (ToF) sensor and support the [Depth API](https://developers.google.com/ar/discover/supported-devices) and iOS devices that have a LiDAR sensor [(see LiDAR sensor in the tables listed for iOS and iPadOS devices)](https://en.wikipedia.org/wiki/List_of_iOS_and_iPadOS_devices) for a better augmented reality experience.
-
-If an individual wants to join a Dynamics 365 Remote Assist call using the Teams app, they must use the Teams app on Windows, Mac, or mobile. 
 
 ### Device options and requirements for a Dynamics 365 Remote Assist user
 
