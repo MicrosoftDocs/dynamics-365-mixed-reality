@@ -5,7 +5,7 @@ ms.author: soanigbo
 ms.date: 09/14/2022
 ms.topic: article
 title: Frequently asked questions for deploying Dynamics 365 Remote Assist 
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Frequently asked questions for deploying Dynamics 365 Remote Assist

@@ -5,7 +5,7 @@ description: Learn how to create a Power Automate flow based on Dynamics 365 Rem
 ms.author: soanigbo
 ms.date: 06/10/2020
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Integrate Dynamics 365 Remote Assist with Power Automate

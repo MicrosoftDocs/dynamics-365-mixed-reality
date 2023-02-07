@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 03/23/2022
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor

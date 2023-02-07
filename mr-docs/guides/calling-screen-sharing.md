@@ -5,7 +5,7 @@ description: Learn how to share a desktop or application screen between Microsof
 ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Share your desktop or application screen with a Dynamics 365 Guides user on HoloLens

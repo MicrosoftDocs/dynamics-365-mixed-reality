@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
 title: Duplicate a 3D model in the Dynamics 365 Guides HoloLens app 
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Duplicate a 3D model in the Dynamics 365 Guides HoloLens app 

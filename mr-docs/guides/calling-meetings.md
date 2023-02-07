@@ -5,7 +5,7 @@ description: Learn how to join a Microsoft Teams meeting from Dynamics 365 Guide
 ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Join a Microsoft Teams meeting from Dynamics 365 Guides

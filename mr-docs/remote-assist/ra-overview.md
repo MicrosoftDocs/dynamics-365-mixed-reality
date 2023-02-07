@@ -5,7 +5,7 @@ ms.author: soanigbo
 ms.date: 04/01/2020
 ms.topic: overview
 title: Overview of Dynamics 365 Remote Assist 
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of Dynamics 365 Remote Assist

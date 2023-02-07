@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 04/05/2022
 ms.topic: article
 title: Share Guides Analytics reports with other Dynamics 365 Guides users
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Share Guides Analytics reports with other Dynamics 365 Guides users

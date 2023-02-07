@@ -5,7 +5,7 @@ description: Get an overview of the Dynamics 365 Remote Assist mobile app capabi
 ms.author: soanigbo
 ms.date: 10/01/2020
 ms.topic: overview
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Remote Assist mobile overview

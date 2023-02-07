@@ -5,7 +5,7 @@ ms.author: mehellmu
 ms.date: 11/08/2021
 ms.topic: article
 title: Export and import Dynamics 365 Guides folders between environments
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Export and import Dynamics 365 Guides folders between environments

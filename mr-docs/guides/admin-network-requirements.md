@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 09/09/2022
 ms.topic: article
 title: Network requirements for Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Network requirements for Dynamics 365 Guides

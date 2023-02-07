@@ -5,7 +5,7 @@ description: Deployment scenarios overview
 ms.author: soanigbo
 ms.date: 09/15/2020
 ms.topic: overview
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Deployment scenarios overview 

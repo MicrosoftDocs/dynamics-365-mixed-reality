@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 06/09/2022
 ms.topic: article
 title: Fix a corrupted guide in Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Fix a corrupted guide in Dynamics 365 Guides

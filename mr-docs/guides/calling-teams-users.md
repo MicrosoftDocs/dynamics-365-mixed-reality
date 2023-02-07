@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
 title: Collaborate with a Dynamics 365 Guides user from Microsoft Teams
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Collaborate with a Dynamics 365 Guides user from Microsoft Teams

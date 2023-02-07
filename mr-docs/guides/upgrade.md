@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 06/20/2022
 ms.topic: article
 title: Update the Dynamics 365 Guides solution
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Update the Dynamics 365 Guides solution

@@ -5,7 +5,7 @@ description: How to capture asset conditions with spatial markup in Dynamics 365
 ms.author: soanigbo
 ms.date: 08/11/2021
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Capture asset conditions with spatial markup in the Dynamics 365 Remote Assist mobile app

@@ -70,9 +70,7 @@ After assigning licenses, users can install and use the app on their HoloLens, H
 
 ### Steps for HoloLens and HoloLens 2
 
-1. Go to the **Start** menu, and then select **Microsoft Store**.
-
-1. Search for and download **Dynamics 365 Remote Assist** and launch the app.
+1.	Go to the **Start** menu select **Dynamics 365 Remote Assist** to update or launch the app. If you don't find the app installed by default, go to the Microsoft Store and get it there. 
 
 1. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. Your **Contacts** page displays. If you're using a free trial, you'll be prompted to start your **Free Trial of Dynamics 365 Remote Assist**.
 

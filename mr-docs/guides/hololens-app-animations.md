@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 01/18/2022
 ms.topic: article
 title: Change animation options for a 3D model in the Dynamics 365 Guides HoloLens app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Change animation options for a 3D model in the Dynamics 365 Guides HoloLens app
