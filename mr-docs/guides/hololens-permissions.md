@@ -14,8 +14,8 @@ To use the Microsoft Dynamics 365 Guides HoloLens app, you must first provide ne
 
 ![Permissions dialog box for eye tracker.](media/hololens-permissions-eye-tracker.PNG "Permissions dialog box for eye tracker")
 
-> [Tip]
-> To change permissions later, go to the Settings app on the HoloLens. For example, to change eye tracking permissions, go to the HoloLens **Settings** > **Privacy** > **Eye Tracking**.
+> [!TIP]
+> To change permissions later, go to the Settings app on the HoloLens. For example, to change eye tracking permissions, go to **Settings** > **Privacy** > **Eye Tracking**.
 
 If you don't provide the necessary permissions, you'll see the following dialog box that prompts you to provide them.
 
