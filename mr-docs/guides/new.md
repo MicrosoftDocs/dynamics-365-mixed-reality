@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 01/26/2023
+ms.date: 02/10/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -19,9 +19,9 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|TBD |
-|HoloLens app (HoloLens 2 only)|TBD |
-|Solution|TBD |
+|PC app|802.2302.3001.0 |
+|HoloLens app (HoloLens 2 only)|802.2302.3001.0 |
+|Solution|800.2.0.0 |
 
 ### Bugs fixed and other improvements
 

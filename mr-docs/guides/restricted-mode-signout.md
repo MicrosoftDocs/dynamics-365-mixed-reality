@@ -3,7 +3,7 @@ title: Restrict the ability for Dynamics 365 Guides users on HoloLens from signi
 author: m-hartmann
 description: Learn how to restrict users of Microsoft Dynamics 365 Guides from signing out of the app. 
 ms.author: mhart
-ms.date: 01/20/2023
+ms.date: 02/10/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

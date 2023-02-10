@@ -3,7 +3,7 @@ title: Restrict calling and the ability to search and access contacts in Dynamic
 author: m-hartmann
 description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Guides.
 ms.author: mhart
-ms.date: 01/20/2023
+ms.date: 02/10/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

@@ -3,7 +3,7 @@ title: Protect company information by restricting capabilities in Dynamics 365 G
 author: m-hartmann
 description: Learn how to protect company information in Microsoft Dynamics 365 Guides by restricting capabilities, including calling, access to OneDrive files, and the ability to sign out of the app.
 ms.author: mhart
-ms.date: 01/20/2023
+ms.date: 02/10/2023
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
