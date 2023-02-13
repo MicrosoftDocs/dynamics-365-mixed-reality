@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about FAQ associated with Dynamics 365 Guides 8.0 and features in common with Dynamics 365 Remote Assist
 ms.author: mamaylya
-ms.date: 01/23/2023
+ms.date: 02/14/2023
 ms.topic: faq
 title: Dynamics 365 Guides 8.0 and Dynamics 365 Remote Assist FAQ
 ms.reviewer: v-wendysmith
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Dynamics 365 Guides 8.0 and Dynamics 365 Remote Assist FAQ
 
-This FAQ addresses questions related to Dynamics 365 Guides 8.0.
+Frequently asked questions related to Dynamics 365 Guides 8.0.
 
 ## What licenses do I need to access the new collaboration features in Dynamics 365 Guides?
 
@@ -27,7 +27,7 @@ Yes, it stores data in the same table and columns. In addition, Dynamics 365 Gui
 
 ## Does Dynamics 365 Guides 8.0 provide a Calls dashboard like Dynamics 365 Remote Assist to analyze call data?
 
-No, Dynamics 365 Guides 8.0 doesn't have a Calls dashboard but it provides a table-like view with all of the same information. And since Dynamics 365 Guides 8.0 sends call usage events to the same PhoneCall table that Dynamics 365 Remote Assist uses (which is the default table in Microsoft Dataverse), calls made from Dynamics 365 Guides are displayed in the Dynamics 365 Remote Assist Calls dashboard if both apps are installed in the same environment. [Learn more about viewing and accessing call data in Dynamics 365 Guides](call-logging.md)
+No, Dynamics 365 Guides 8.0 doesn't have a Calls dashboard but it provides a table-like view with all of the same information. And since Guides 8.0 sends call usage events to the same PhoneCall table that Dynamics 365 Remote Assist uses, calls made from Guides display in the Dynamics 365 Remote Assist Calls dashboard if both apps are installed in the same environment. [Learn more about viewing and accessing call data in Dynamics 365 Guides](call-logging.md)
 
 ## Do I need to update privileges for custom security roles?
 
@@ -60,7 +60,7 @@ There are two new permissions:
 
 [Learn more about permissions required for the HoloLens app](hololens-permissions.md)
 
-## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for a period of time, will I be able to filter call data by app?
+## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for awhile, will I be able to filter call data by app?
 
 Yes, you can filter by subject in the Guides model-driven app. The subject value for Dynamics 365 Remote Assist calls is "Dynamics 365 Remote Assist Call".
 

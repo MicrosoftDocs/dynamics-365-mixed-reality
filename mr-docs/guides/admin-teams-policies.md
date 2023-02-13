@@ -2,8 +2,8 @@
 author: Mamaylya
 description: Learn about the Microsoft Teams policies supported by Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 01/20/2023
-ms.topic: article
+ms.date: 02/14/2023
+ms.topic: how-to
 title: Manage Teams policies supported by Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -28,7 +28,7 @@ When you turn off the ability to record calls, the **Recording** button is unava
 
 ### Turn off the ability to record in meetings
 
-1. Go to https://admin.teams.microsoft.com/
+1. Go to https://admin.teams.microsoft.com/.
 1. On the left side of the screen, select **Meetings > Meeting policies**.
 1. Create a new policy or edit an existing policy.
 1. In the **Recording & transcription** section, turn off the **Cloud recording** setting.
@@ -41,7 +41,7 @@ When you turn off the ability to record calls, the **Recording** button is unava
 
 ### Turn off the ability to record in one-to-one and group calls
 
-1. Go to https://admin.teams.microsoft.com/
+1. Go to https://admin.teams.microsoft.com/.
 1. On the left side of the screen, select **Voice** > **Calling policies**.
 1. Create a new policy or edit an existing policy.
 1. Turn off the **Cloud recording for calling** setting. 
@@ -60,7 +60,7 @@ When you turn off the ability to chat, the HoloLens user sees the "Chat is unava
 
 ### Turn off the ability to chat in meetings
 
-1. Go to https://admin.teams.microsoft.com/
+1. Go to https://admin.teams.microsoft.com/.
 1. On the left side of the screen, select **Meetings > Meeting policies**.
 1. Create a new policy or edit an existing policy.
 1. Scroll down to the **Participants & guests** section.
@@ -74,7 +74,7 @@ When you turn off the ability to chat, the HoloLens user sees the "Chat is unava
 
 ### Turn off the ability to chat in one-to-one and group calls
 
-1. Go to https://admin.teams.microsoft.com/
+1. Go to https://admin.teams.microsoft.com/.
 1. On the left side of the screen, select **Messaging policies**.
 1. Create a new policy or edit an existing policy.
 1. Turn off the **Chat** setting.
@@ -93,7 +93,7 @@ When you turn off the ability to share video, the **Video** button is unavailabl
 
 ### Turn off video
 
-1. Go to https://admin.teams.microsoft.com/
+1. Go to https://admin.teams.microsoft.com/.
 1. On the left side of the screen, select **Meetings > Meeting policies**.
 1. Create a new policy or edit an existing policy.
 1. In the **Audio & video** section:
@@ -112,7 +112,7 @@ Users you [invite as guests](admin-add-guest-user.md) have limited scope of acce
 
 ### Access guest policies
 
-1. Go to https://admin.teams.microsoft.com/
+1. Go to https://admin.teams.microsoft.com/.
 1. On the left side of the screen, select **Guest access**.
 1. Create a new policy or edit an existing policy.
 1. Make your changes.
