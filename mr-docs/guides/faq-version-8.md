@@ -60,7 +60,7 @@ There are two new permissions:
 
 [Learn more about permissions required for the HoloLens app](hololens-permissions.md)
 
-## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for awhile, will I be able to filter call data by app?
+## If I'm using both Dynamics 365 Guides and Dynamics 365 Remote Assist for a while, will I be able to filter call data by app?
 
 Yes, you can filter by subject in the Guides model-driven app. The subject value for Dynamics 365 Remote Assist calls is "Dynamics 365 Remote Assist Call".
 
