@@ -25,7 +25,7 @@ Throughout this article, we'll be referring to a few account types:
 
 ## Scenario overview
 
-In this scenario, which is represented in Figure 1.1, a company leverages multiple tenants through different organizations and business units, all within the same company. Teams users in Tenant ABC want to collaborate with Dynamics 365 Remote Assist users in Tenant Contoso1 and Tenant Contoso2.
+In this scenario, as shown in Figure 1.1, a company leverages multiple tenants through different organizations and business units, all within the same company. Teams users in Tenant ABC want to collaborate with Dynamics 365 Remote Assist users in Tenant Contoso1 and Tenant Contoso2.
 
 Additional details:
 
@@ -42,7 +42,8 @@ Now, set up **External access** or **Guest access** to enable users in different
 
 ### Solution 1: External access (federation)
 
-[!NOTE] At this time, external access is not supported for calls with Dynamics 365 Remote Assist mobile users.
+> [!NOTE]
+> At this time, external access is not supported for calls with Dynamics 365 Remote Assist mobile users.
 
 **External access** is a Teams feature that allows Teams users from an entire external tenant to use Teams to find, call, chat, and set up meetings with users in your tenant. See examples of when you may want to use external access [here](/microsoftteams/manage-external-access).
 
@@ -56,7 +57,7 @@ In Figure 1.2, Tenant ABC and Tenant Contoso1 have enabled external access with 
 
 - Teams users in Tenant ABC can search and collaborate with Dynamics 365 Remote Assist users in Tenant Contoso1, and vice versa.
 - Teams users in Tenant ABC can search and collaborate with Dynamics 365 Remote Assist users in Tenant Contoso2, and vice versa.
--_Dynamics 365 Remote Assist users in Tenant Contoso1 cannot search or collaborate with Dynamics 365 Remote Assist users in Tenant Contoso2, and vice versa.
+-_Dynamics 365 Remote Assist users in Tenant Contoso1 can't search or collaborate with Dynamics 365 Remote Assist users in Tenant Contoso2, and vice versa.
 
 **Figure 1.2**
 ![Diagram showing how the different tenants relate to one another.](media/Federation.png)
@@ -67,18 +68,18 @@ In Figure 1.2, Tenant ABC and Tenant Contoso1 have enabled external access with 
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Open federation is typically on by default.                           | Tenant management may be more involved if not using open federation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | If open federation is not enabled by default, it's easy for your tenant to configure. | Open federation requires configuration on the additional tenants' side.                                                                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                       | External access has fewer control features than guest access. When you provide a user with guest access in a specific Teams team or channel, that user can only search and collaborate with people in the specific team or channel they were "guested" into. When a tenant enables external access for another tenant, every user in each tenant can search and collaborate with every user in the other tenant. |
-|                                                                       | External access enables fewer features than guest access. For example, when using external access, Dynamics 365 Remote Assist users and Teams users in different tenants cannot join group calls with each other and cannot share files with each other. See [this article](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between external access and guest access features. |
+|                                                                       | External access has fewer control features than guest access. When you provide a user with guest access in a specific Teams team or channel, that user can only search and collaborate with people in that specific team or channel. When a tenant enables external access for another tenant, every user in each tenant can search and collaborate with every user in the other tenant. |
+|                                                                       | External access enables fewer features than guest access. For example, when using external access, Dynamics 365 Remote Assist users and Teams users in different tenants can't join group calls with each other and can't share files with each other. See [this article](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between external access and guest access features. |
 
  >[!NOTE]
  >Tenants do *not* need to have the same external access configuration. Tenant ABC can have **Open federation** while Tenant Contoso1 and Tenant Contoso2 have **"Block"** or **"Allow"** settings.
  
  >[!NOTE]
- >If an user wants to initiate a Dynamics 365 Remote Assist call with a collaborator outside their tenant, that user will need to type out the full email address of the collaborator outside their tenant.
+ >If a user wants to initiate a Dynamics 365 Remote Assist call with a collaborator outside their tenant, that user will need to type out the full email address of the collaborator outside their tenant.
 
 #### External access (federation) implementation
 
-If you are following the steps in the [Deploy HoloLens in a commercial environment](/hololens/hololens-requirements#apps) article, go back to that document before implementing this solution.
+If you're following the steps in the [Deploy HoloLens in a commercial environment](/hololens/hololens-requirements#apps) article, go back to that document before implementing this solution.
 
 Learn how to implement the three types of external access and test your setup [here](/microsoftteams/manage-external-access#allow-or-block-domains). 
 
@@ -101,7 +102,7 @@ Figure 1.3 shows the tenant architecture when guest access is set up. Each tenan
 | Pros                                                                                                                                                                                                                                                                                                                                                                                                                                       | Cons                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | Tenant Contoso1 and Tenant Contoso2 can provide guest access to specific Teams users instead of enabling collaboration with everyone in Tenant ABC.                                                                                                                                                                                             | Compared to external access, guest access may require more user management. |
-| Guest access offers more control features. For example, an out-of-tenant user who is "guested" into a specific Teams team or channel and can only search and collaborate with others who are inside the same Teams team or channel. See [this article](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between guesting and external access features. | A Teams user can only use Teams in one tenant at a time, which means that the expert can only communicate with technicians in a certain tenant if the expert is currently using Teams in the technician's tenant. In our example, Expert1@ABC.com is in a member in their native tenant (Tenant ABC), a guest in Tenant Contoso1, and a guest in Tenant Contoso2. Thus, Expert1@ABC.com can only collaborate with technicians in Tenant Contoso1 if Expert1@ABC.com is using Teams in Tenant Contoso1. <br><br> To switch tenants when using the Teams desktop application, navigate to the top-right corner of Teams, select the name of the tenant you are currently in (it will be shown to the left of your profile picture), then select the tenant you'd like to switch to.  <br><br> To switch tenants when using the Teams mobile application, navigate to the top-left corner of Teams, select the menu, then select the tenant you'd like to switch to. |
+| Guest access offers more control features. For example, an out-of-tenant user who is "guested" into a specific Teams team or channel and can only search and collaborate with others who are inside the same Teams team or channel. See [this article](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between guesting and external access features. | A Teams user can only use Teams in one tenant at a time, which means that the expert can only communicate with technicians in a certain tenant if the expert is currently using Teams in the technician's tenant. In our example, Expert1@ABC.com is in a member in their native tenant (Tenant ABC), a guest in Tenant Contoso1, and a guest in Tenant Contoso2. Thus, Expert1@ABC.com can only collaborate with technicians in Tenant Contoso1 if Expert1@ABC.com is using Teams in Tenant Contoso1. <br><br> To switch tenants when using the Teams desktop application, navigate to the top-right corner of Teams, select the name of the tenant you're currently in (it will be shown to the left of your profile picture), then select the tenant you'd like to switch to.  <br><br> To switch tenants when using the Teams mobile application, navigate to the top-left corner of Teams, select the menu, then select the tenant you'd like to switch to. |
 
 For more information, see this Microsoft Teams article about [how guest access works](/microsoftteams/guest-access).
 

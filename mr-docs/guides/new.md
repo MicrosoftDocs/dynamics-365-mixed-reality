@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 01/26/2023
+ms.date: 02/14/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -19,9 +19,9 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|TBD |
-|HoloLens app (HoloLens 2 only)|TBD |
-|Solution|TBD |
+|PC app|802.2302.13001.0 |
+|HoloLens app (HoloLens 2 only)|802.2302.13001.0 |
+|Solution|800.2.0.0 |
 
 ### Bugs fixed and other improvements
 
@@ -31,7 +31,6 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 - Improved reliability of sending chat messages.
 - Improved reliability of switching video between remote participants.
 - Improved stability for loading 3D models.
-- Improved rendering quality that more closely matches the GLTF specification for 3D models.
 - Improved lighting quality and calculations, reducing flare/gloss on lit surfaces. Models in the HoloLens will more closely align visually with their representation in common viewers like 3D Viewer.
 - Improved OneDrive content loading in slates, resolving conditions that could cause load errors in rare conditions.
 

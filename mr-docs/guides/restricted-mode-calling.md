@@ -3,7 +3,7 @@ title: Restrict calling and the ability to search and access contacts in Dynamic
 author: m-hartmann
 description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Guides.
 ms.author: mhart
-ms.date: 01/20/2023
+ms.date: 02/14/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -23,7 +23,7 @@ With this combination of restrictions and abilities, your company data stays saf
 
 ## Restrict calling
 
-To restrict calling, first create a new Microsoft Teams policy, and then assign that policy to the appropriate user(s). The policy applied to a user takes affect on all devices and applications the user signs into, not just Guides.
+To restrict calling, first create a new Microsoft Teams policy, and then assign that policy to the appropriate user(s). The policy applied to a user takes effect on all devices and applications the user signs into, not just Guides.
 
 1. Go to the [Microsoft Teams admin center](https://admin.teams.microsoft.com) and sign in with your admin credentials.
 
@@ -40,7 +40,7 @@ To restrict calling, first create a new Microsoft Teams policy, and then assign 
 
 1. Apply the calling policy you created.
 
-   Once the policy takes effect, users will be able to join meetings or receive notifications for meetings already in progress but they won't be able to initiate calls outside of a meeting. They also won't be able to search for contacts or access the contacts list.
+   Once the policy takes effect, users will be able to join meetings or receive notifications for meetings already in progress, but they won't be able to initiate calls outside of a meeting. They also won't be able to search for contacts or access the contacts list.
 
     > [!NOTE]
     > It can take a few hours for the policy changes to go into effect.
