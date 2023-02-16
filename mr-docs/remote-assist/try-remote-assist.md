@@ -47,7 +47,7 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 
 1. Wait a few hours for the Teams trial licensing to be applied.
 
-1. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account.
+1. Sign in to Dynamics 365 Remote Assist with your Microsoft Teams account.
 
 1. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. Your **Contacts** page displays. You can now use Dynamics 365 Remote Assist on your HoloLens device.
 
@@ -62,7 +62,7 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 
 1. Wait a few hours for the Teams trial licensing to be applied.
 
-1. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account.
+1. Sign in to Dynamics 365 Remote Assist with your Microsoft Teams account.
 
 1. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. Your **Contacts** page displays. You can now use Dynamics 365 Remote Assist on your mobile device. [Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile)](mobile-app/making-calls-with-ar.md).
 
@@ -73,7 +73,7 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 
 ### Prerequisites
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/microsoft-365/admin/add-users/about-admin-roles?#:~:text=In%20the%20Microsoft%20365%20admin%20center%2C%20you%20can,Assigned%20admins%20tab%20to%20add%20users%20to%20roles.).
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/microsoft-365/admin/add-users/about-admin-roles).
 
 1. Log into the [Microsoft 365 or Microsoft 365 administrator portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
 
@@ -91,7 +91,7 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 
 ### Prerequisites
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/microsoft-365/admin/add-users/about-admin-roles?#:~:text=In%20the%20Microsoft%20365%20admin%20center%2C%20you%20can,Assigned%20admins%20tab%20to%20add%20users%20to%20roles.).
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/microsoft-365/admin/add-users/about-admin-roles).
 
 1. [Log into the Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
   

@@ -38,13 +38,13 @@ Individual users in your organization must have:
 
 - The [required licensing and devices](./requirements.md).
 
-- An Azure Active Directory account to sign into the app.
+- An Azure Active Directory account to sign in to the app.
 
 ### Add and assign licenses
 
 Add and assign licenses to *individual users* or a *group of users* in your organization through the Microsoft 365 or Microsoft 365 administrator portal.
 
-1. Log into the [Microsoft 365 or Microsoft 365 administrator portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
+1. Sign in to the [Microsoft 365 or Microsoft 365 administrator portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
 
 1. Add and assign licenses:
    - To add a user and assign a license at the same time, see [Add users and assign licenses at the same time](/office365/admin/add-users/add-users). In the **Product licenses** section, make sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses.
@@ -72,7 +72,7 @@ After assigning licenses, users can install and use the app on their HoloLens, H
 
 1. Go to the **Start** menu select **Dynamics 365 Remote Assist** to update or launch the app. If you don't find the app installed by default, go to the Microsoft Store and get it there.
 
-1. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. Your **Contacts** page displays. If you're using a free trial, a prompt to start your **Free Trial of Dynamics 365 Remote Assist** displays.
+1. Sign in to Dynamics 365 Remote Assist with your Microsoft Teams account. Your **Contacts** page displays. If you're using a free trial, a prompt to start your **Free Trial of Dynamics 365 Remote Assist** displays.
 
 You can now use Dynamics 365 Remote Assist on your HoloLens or HoloLens 2. Next, [Learn how to make calls](making-taking-calls-hololens.md).
 
@@ -82,7 +82,7 @@ You can now use Dynamics 365 Remote Assist on your HoloLens or HoloLens 2. Next,
 
 1. Search for and download **Dynamics 365 Remote Assist** and launch the app.
 
-1. Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. Your **Contacts** page displays. If you're using a free trial, a prompt to start your **Free Trial of Dynamics 365 Remote Assist** displays.
+1. Sign in to Dynamics 365 Remote Assist with your Microsoft Teams account. Your **Contacts** page displays. If you're using a free trial, a prompt to start your **Free Trial of Dynamics 365 Remote Assist** displays.
 
 You can now use Dynamics 365 Remote Assist on your mobile device. Next, [Learn how to make calls](mobile-app/making-calls-with-ar.md).
 
