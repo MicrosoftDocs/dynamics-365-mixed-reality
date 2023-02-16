@@ -2,7 +2,7 @@
 author: amaraanigbo
 description: Get an overview of the capabilities of the Dynamics 365 Remote Assist HoloLens and mobile apps.
 ms.author: soanigbo
-ms.date: 02/02/2023
+ms.date: 02/16/2023
 ms.topic: overview
 title: Overview of Dynamics 365 Remote Assist 
 ms.reviewer: v-wendysmith
@@ -84,9 +84,11 @@ In addition to using Dynamics 365 Remote Assist to consult with remote collabora
 - [Buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 
 ### For technicians and inspectors
+
 - Use [Dynamics 365 Remote Assist on HoloLens](overview-hololens.md) or [Dynamics 365 Remote Assist on mobile](./mobile-app/remote-assist-mobile-overview.md).
 
 ### For remote collaborators
+
 - Use [Teams on PC](teams-pc-all.md) or [Teams on mobile](teams-mobile-all.md) to collaborate with a Dynamics 365 Remote Assist user.
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
