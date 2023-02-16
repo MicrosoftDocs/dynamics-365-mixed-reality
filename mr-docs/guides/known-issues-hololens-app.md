@@ -2,13 +2,17 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 12/5/2022
+ms.date: 02/16/2023
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+## Remote participant's status in a call or meeting incorrectly shows "Connecting" even after they join
+
+The status of a remote participant on the Participants List may not update if that user was invitied to join a call or meeting by a Guides HoloLens user. The user can hear, see the video, and speak despite the incorrect status of "Connecting". However, the Guides HoloLens user can't switch to their video, mute, or remove the user.
 
 ## Guest users can't send or receive chat messages while in a group meeting
 
