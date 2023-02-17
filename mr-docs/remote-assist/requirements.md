@@ -10,7 +10,7 @@ ms.service: dynamics-365-remote-assist
 ms.custom: bap-templates
 ---
 
-# Technical requirements for deploying and using Dynamics 365 Remote Assist
+# Requirements for deploying and using Dynamics 365 Remote Assist
 
 To deploy and use Dynamics 365 Remote Assist, make sure you meet the following technical requirements.
 
@@ -21,6 +21,7 @@ Review the supported devices and device requirements for Dynamics 365 Remote Ass
 ### Supported devices
 
 The Dynamics 365 Remote Assist application is supported on:
+
 - [HoloLens](/hololens/hololens1-hardware)
 - [HoloLens 2](/hololens/hololens2-hardware)
 - Qualifying [Android](https://developers.google.com/ar/discover/supported-devices) mobile phones or tablets
