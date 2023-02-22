@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Review data from asset captures in the Dynamics 365 Remote Assist model-driven app
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Captured asset data from HoloLens or the mobile app is saved to Microsoft Dataverse. From there, the data can be viewed from the Microsoft Dynamics 365 Remote Assist model-driven app for validating work performed by technicians in the field, generating reports, and downloading artifacts like photos or videos for use in other applications.
 
 In this tutorial, you'll learn how to access captured asset data through the Dynamics 365 Remote Assist model-driven app and download that data to your computer.

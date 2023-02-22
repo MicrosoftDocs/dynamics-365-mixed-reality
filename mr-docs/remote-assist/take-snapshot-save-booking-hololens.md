@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Take a photo and save it to a Dynamics 365 Field Service booking
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 In this article, we'll take a look at how Dynamics 365 Remote Assist users can take a photo in their HoloLens and save it to OneDrive or a Field Service booking.
 
 ## Take a photo

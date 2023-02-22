@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Free trial for Dynamics 365 Remote Assist
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 You can try Microsoft Dynamics 365 Remote Assist for free on your HoloLens, HoloLens 2, and mobile phones and tablets. There are three types of free trials. 
 
 |Trial type|Designed for|

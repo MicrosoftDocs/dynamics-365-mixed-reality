@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Dynamics 365 Remote Assist solution metadata information
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Namespace: Microsoft.Dynamics.CRM
 
 Unique Name: RemoteAssist

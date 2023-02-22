@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Frequently asked questions for deploying Dynamics 365 Remote Assist
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Here are some answers to common questions about deploying Dynamics 365 Remote Assist on HoloLens, HoloLens 2, and mobile devices.
 
 ## What are the technical requirements for deploying Dynamics 365 Remote Assist?
