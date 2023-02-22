@@ -5,4 +5,4 @@
 >
 > With Guides, the same remote experts can assist you through a problem while you have the holographic content of a Guide appearing before you.  
 >
-> [Learn more and try Guides!](Aka.ms/tryguides)
+> [Learn more and try Guides!](https://Aka.ms/tryguides)
