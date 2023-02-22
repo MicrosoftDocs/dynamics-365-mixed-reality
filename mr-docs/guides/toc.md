@@ -15,6 +15,7 @@
 
 ## Set up and administer Dynamics 365 Guides
 ### Set up Dynamics 365 Guides or upgrade the solution
+#### [Installation overview](setup.md)
 #### [1: Buy a subscription](setup-step-one.md)
 #### [2: Install the solution](setup-step-two.md)
 #### [3: Install the apps](setup-step-three.md)

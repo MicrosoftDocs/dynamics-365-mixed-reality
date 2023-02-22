@@ -1,0 +1,103 @@
+### YamlMime:Hub
+
+# This template provides the structure of a product hub page. For additional guidance and information, see the article, Create a Dynamics 365 product hub page in the Contributors guide.
+# To provide feedback on this template, contact [bace feedback team](mailto:templateswg@microsoft.com).
+
+# Remove all comments and capitalized text in this template before you sign off or merge to the main branch
+
+title:  Microsoft Dynamics 365 Guides # < 60 chars
+summary: Dynamics 365 Guides is a mixed-reality application for Microsoft HoloLens that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # < 160 chars
+# brand: aspnet | azure | dotnet | dynamics | m365 | office | sql | windows | visual-studio | xamarin
+brand: dynamics
+
+metadata:
+  title: Dynamics 365 Guides # Required; page title displayed in search results. Include the brand. For example, Dynamics 365 Commerce < 60 chars.
+  description: products description # Required; product description that is displayed in search results. < 160 chars. 
+  ms.topic: hub-page # Required
+  author: v-wendysmith #Required; your GitHub user alias, with correct capitalization.
+  ms.author: v-wendysmith #Required; microsoft alias of author; optional team alias.
+  ms.date: 002/21/2023 #Required; mm/dd/yyyy format.
+  ms.custom: bap-template
+  hide_bc: true
+
+highlightedContent:
+# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
+
+# Do not change the following cards. You should only need to update the URLs to provide the correct links to your product documentation.
+
+  items:
+    # Card
+    - title: Get started
+      itemType: get-started
+      url: get-started.md
+    # Card
+    - title: What's new
+      itemType: whats-new
+      url: new.md
+    # Card
+    - title: Training
+      itemType: training
+      url: /training/paths/work-dynamics-365-guides/
+    # Card
+    - title: Troubleshoot
+      itemType: concept
+      url: faq.md
+      
+additionalContent: 
+  sections:
+  - title: Implement Guides
+# Guidance should be the first card under implement. On this card, include links for Security and Compliance, Implementation, Adoption frameworks, and Best practices. 
+# Each card should have at least three and no more than five links. Do not include a "See also" link.
+    items:
+    - title: Guidance 
+      links: 
+      - url: security-compliance.md
+        text: Security and compliance
+    - title: Try/Buy/Deploy
+      links: 
+      - url: trial-signup.md
+        text: Sign up for a free trial
+      - url: setup-step-one
+        text: Buy
+      - url: setup.md
+        text: Install
+    - title: Set up 
+      links:
+      - url: add-users.md
+        text: Add users
+      - url: admin-role-types.md
+        text: Assign user roles
+      - url: admin-create-folders.md
+        text: Create folders
+  - title: Administer Guides
+    items:
+    - title: Administer
+      links:
+      - url: admin-add-guest-user.md
+        text: Invite a guest operator
+      - url: migrate.md
+        text: Migrate content
+      - url: admin-share-guide.md
+        text: Share a guide
+    - title: Enable or disable settings
+      links: 
+      - url: admin-deactivate-guide.md
+        text: Activate or deactivate a guide
+      - url: admin-enable-calls.md
+        text: Enable or disable calls
+      - url: admin-enable-object-anchors.md
+        text: Enable or disable Object Anchors
+
+  - title: Related products
+    items:
+        # Card
+        
+        - title: Dynamics 365 Field Service
+          summary: Enable Field Service customers to attach guides to Field Service tasks.
+          url: field-service.md
+        - title: Dynamics 365 Field Service Mobile
+          summary: Access Guides from the Field Service mobile app
+          url: admin-connect-field-service-mobile.md
+        - title: Dynamics 365 Supply Chain Management
+          summary: First-line workers can benefit from mixed-reality guides in areas such as assembly, service, operations, certification, and safety as well as asset management roles.
+          url: admin-integrate-asset-management.md
