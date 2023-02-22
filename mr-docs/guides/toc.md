@@ -2,7 +2,7 @@
 ## [Dynamics 365 Guides documentation](index.yml)
 
 ## Dynamics 365 Guides
-### [Welcome to Dynamics 365 Guides](index.md)
+### [Welcome to Dynamics 365 Guides](overview-guides.md)
 
 ## What's new
 ### [What's new](new.md)
