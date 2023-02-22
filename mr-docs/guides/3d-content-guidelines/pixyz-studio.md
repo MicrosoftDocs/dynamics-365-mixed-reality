@@ -344,7 +344,7 @@ If the asset requires any additional editing or animation work in another stagin
 
 After preparing your 3D models, you can learn more about using the following Dynamics 365 apps to view your 3D models in mixed reality:
 
-- [Dynamics 365 Guides](../index.md)
+- [Dynamics 365 Guides](../overview-guides.md)
 
 - [Dynamics 365 Layout](../../layout/index.md) via [Dynamics 365 Import Tool (Preview)](../../import-tool/import-tool.md)
 

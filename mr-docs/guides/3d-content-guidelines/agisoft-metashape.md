@@ -224,7 +224,7 @@ The model is now completed and ready to be used in Dynamics 365 Guides and Power
 
 After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
-- [Dynamics 365 Guides](../index.md)
+- [Dynamics 365 Guides](../overview-guides.md)
 
 - [Power Apps](/powerapps/maker/canvas-apps/mixed-reality-overview)
 
