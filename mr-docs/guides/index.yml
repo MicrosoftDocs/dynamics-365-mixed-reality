@@ -53,11 +53,11 @@ additionalContent:
       links: 
       - url: security-compliance.md
         text: Security and compliance
-    - title: Try/Buy/Deploy
+    - title: Try/Buy/Install
       links: 
       - url: trial-signup.md
         text: Sign up for a free trial
-      - url: setup-step-one
+      - url: setup-step-one.md
         text: Buy
       - url: setup.md
         text: Install
@@ -96,7 +96,7 @@ additionalContent:
           summary: Enable Field Service customers to attach guides to Field Service tasks.
           url: field-service.md
         - title: Dynamics 365 Field Service Mobile
-          summary: Access Guides from the Field Service mobile app
+          summary: Access Guides from the Field Service mobile app.
           url: admin-connect-field-service-mobile.md
         - title: Dynamics 365 Supply Chain Management
           summary: First-line workers can benefit from mixed-reality guides in areas such as assembly, service, operations, certification, and safety as well as asset management roles.

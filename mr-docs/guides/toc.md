@@ -1,5 +1,8 @@
-# Dynamics 365 Guides
-## [Overview of Dynamics 365 Guides](index.md)
+# Dynamics 365 Guides documentation
+## [Dynamics 365 Guides documentation](index.yml)
+
+## Dynamics 365 Guides
+### [Welcome to Dynamics 365 Guides](index.md)
 
 ## What's new
 ### [What's new](new.md)
