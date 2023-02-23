@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Deploy Dynamics 365 Remote Assist
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 After you get your [free trial](try-remote-assist.md) or [purchase](buy-remote-assist.md) Dynamics 365 Remote Assist, you can assign licenses to users. Once assigned, users can deploy Dynamics 365 Remote Assist on their individual devices.
 
 > [!Note]

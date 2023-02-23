@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # msdyn_customerassetattachment EntityType
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Namespace: Microsoft.Dynamics.CRM
 
 Dedicated file attachment to a Customer Asset.

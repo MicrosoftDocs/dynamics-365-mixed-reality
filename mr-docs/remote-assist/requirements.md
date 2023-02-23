@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Technical requirements for deploying and using Dynamics 365 Remote Assist
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 This article describes the technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist.
 
 ## Definitions
