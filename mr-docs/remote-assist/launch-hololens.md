@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Launch Dynamics 365 Remote Assist on HoloLens
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 >[!Note]
 > HoloLens 2 uses eye-tracking technology to improve your experience seeing and interacting with the virtual environment. Calibrating the HoloLens 2 ensures that it can accurately track your eyes (and the eyes of anyone else who uses the device). When you put on HoloLens 2, it will likely prompt you to calibrate the device to your eyes. [Complete eye calibration](/hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds.
 > To complete eye calibration on HoloLens, [manually start the calibration process](/hololens/hololens-calibration#calibrating-your-hololens-1st-gen).

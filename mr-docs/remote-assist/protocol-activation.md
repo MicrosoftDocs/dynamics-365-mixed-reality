@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Launch Dynamics 365 Remote Assist from another app (protocol activation)
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 You can embed code in your HoloLens, iOS, or Android application to switch to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and begin a call using a Uniform Resource Identifier (URI).
 
 For example, let’s say you’re creating a helicopter maintenance app. You can add

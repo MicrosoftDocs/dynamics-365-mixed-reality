@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Microsoft Teams policies supported by Dynamics 365 Remote Assist
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Dynamics 365 Remote Assist supports the following Microsoft Teams policies: 
 
 - Video

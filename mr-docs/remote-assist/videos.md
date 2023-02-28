@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # How-to videos for Dynamics 365 Remote Assist on HoloLens and mobile devices 
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Watch these short videos to get up and running with Microsoft Remote Assist. 
 
 ## Use Dynamics 365 Remote Assist for HoloLens

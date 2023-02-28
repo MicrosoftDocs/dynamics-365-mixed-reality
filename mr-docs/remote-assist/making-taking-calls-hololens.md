@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Make or take calls in Dynamics 365 Remote Assist on HoloLens
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 With Microsoft Dynamics 365 Remote Assist, you can make or take the following types of calls:  
 
 - **One-to-one call**. A one-to-one call includes two participants. For example, if you're repairing a machine and need help on-the-go, you can make a one-to-one call to a remote collaborator who uses Microsoft Teams.

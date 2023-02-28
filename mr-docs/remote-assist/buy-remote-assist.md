@@ -12,6 +12,8 @@ ms.custom: bap-template
 
 # Buy a Dynamics 365 Remote Assist subscription
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Dynamics 365 Remote Assist gives workers tools to complete tasks more quickly, safely, and efficiently, on a HoloLens or mobile device. There are two types of Dynamics 365 Remote Assist licenses:
 
 - Dynamics 365 Remote Assist license
