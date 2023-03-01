@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Vendors and customers use full Dynamics 365 Remote Assist capabilities
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 ## Goal
 
 Learn how to deploy [common deployment scenario 3](common-deployment-scenarios.md#scenario-4-vendors-and-customers-use-full-remote-assist-capabilities).

@@ -12,6 +12,8 @@ ms.custom: bap-templates
 
 # Requirements for deploying and using Dynamics 365 Remote Assist
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 To deploy and use Dynamics 365 Remote Assist, make sure you meet the following technical requirements.
 
 ## Device requirements

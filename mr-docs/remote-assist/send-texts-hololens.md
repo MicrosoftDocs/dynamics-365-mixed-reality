@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Send text messages in Dynamics 365 Remote Assist on HoloLens
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 
 You can send text messages with other call participants.
 

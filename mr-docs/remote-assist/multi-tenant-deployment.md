@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Deploy multi-tenant collaboration
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 ## Goal
 
 Learn how to deploy [common deployment scenario 2](common-deployment-scenarios.md#scenario-2-multi-tenant-collaboration).

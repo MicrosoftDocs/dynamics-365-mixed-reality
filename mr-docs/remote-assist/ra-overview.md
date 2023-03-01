@@ -11,6 +11,8 @@ ms.custom: bap-template
 
 # Overview of Dynamics 365 Remote Assist
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens, HoloLens 2, Android, or iOS devices.
 
 ![Simulated real-life photo of a field technician wearing a HoloLens and communicating with a remote expert.](media/RA_official_photo.png)

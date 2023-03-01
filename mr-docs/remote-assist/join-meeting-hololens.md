@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Join a meeting or live event on HoloLens
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 A [Microsoft Teams meeting](/microsoftteams/quick-start-meetings-live-events) is a meeting scheduled using Teams involving any number of participants. Meetings are useful for maintenance and repairs that are scheduled in advance. They are also useful for inspections and other recurring scenarios.
 
 [Microsoft Teams live events](/microsoftteams/teams-live-events/what-are-teams-live-events) are an extension of Teams meetings, enabling users to broadcast video and meeting content to a large online audience. These events are meant for one-to-many communications where the host of the event is leading the interactions and audience participation is primarily to view the content shared by host.

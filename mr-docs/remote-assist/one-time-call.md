@@ -10,6 +10,8 @@ ms.reviewer: mhart
 
 # Invite a user to join a one-time call in Dynamics 365 Remote Assist
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 There are several scenarios in which a Dynamics 365 Remote Assist user may want to enable an external user without a Dynamics 365 Remote Assist license or Teams license (such as a B2B vendor, B2B customer, or B2C customer) to join a Dynamics 365 Remote Assist call on an ad-hoc, one-time basis. Examples:
 
 - A customer service agent wants to transition from a phone call to a mixed-reality video call to visually assess a product, and overlay mixed-reality instructions to guide their customer through the repair in real time.
