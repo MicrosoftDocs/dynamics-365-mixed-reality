@@ -16,7 +16,7 @@ metadata:
   ms.topic: hub-page # Required
   author: v-wendysmith #Required; your GitHub user alias, with correct capitalization.
   ms.author: v-wendysmith #Required; microsoft alias of author; optional team alias.
-  ms.date: 002/21/2023 #Required; mm/dd/yyyy format.
+  ms.date: 03/01/2023 #Required; mm/dd/yyyy format.
   ms.custom: bap-template
   hide_bc: true
 
@@ -92,20 +92,62 @@ additionalContent:
     items:
     - title: Author a guide - PC
       links:
-      - url: pc-app-overview
+      - url: pc-app-overview.md
         text: Authoring overview
       - url: create-guide.md
         text: Create a guide
-      - url: pc-app-anchor
+      - url: pc-app-anchor.md
         text: Anchor your guide
-      - url: structure-guide
+      - url: structure-guide.md
         text: Structure your guide
     - title: Author a guide - HoloLens
       links:
-      - url: hololens-app-overview
+      - url: hololens-app-overview.md
         text: Authoring overview
-      - url: hololens-app-overview
-        text: Authoring overview
+      - url: hololens-app-calibrate.md
+        text: Calibrate your HoloLens
+      - url: hololens-app-place-holograms.md
+        text: Work with holograms
+      - url: authoring-gestures-hl2.md
+        text: Authoring gestures
+    - title: Use 3D models
+      links:
+      - url: 3d-content-guidelines/index.md
+        text: Overview
+      - url: /3d-content-guidelines/convert-models.md
+        text: Convert your 3D models
+      - url: /3d-content-guidelines/optimize-models.md
+        text: Optimize your 3D models
+      - url: 3d-content-guidelines/tutorials-overview.md
+        text: Tutorials
+    - title: Operate a guide
+      links:
+      - url: main-menu.md
+        text: Main menu overview
+      - url: find-guide.md
+        text: Open a guide
+      - url: operator-step-card-orientation.md
+        text: Step cards overview
+      - url: operator-gestures-hl2.md
+        text: Operating gestures
+    - title: Collaborate with Teams users
+      links:
+      - url: main-menu.md
+        text: Teams collaboration features
+      - url: calling-start-call.md
+        text: Call a remote collaborator
+      - url: calling-meetings.md
+        text: Join a scheduled meeting
+      - url: calling-annotations.md
+        text: Make annotations
+    - title: Analyze guide usage
+      links:
+      - url: analytics-overview.md
+        text: Overview
+      - url: analytics-guide.md
+        text: Guides Analytics Power BI templates
+      - url: analytics-ga-reports.md
+        text: Guides Analytics reports
 
   - title: Related products
     items:
