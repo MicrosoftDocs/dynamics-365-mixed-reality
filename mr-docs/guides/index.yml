@@ -88,6 +88,25 @@ additionalContent:
       - url: admin-enable-object-anchors.md
         text: Enable or disable Object Anchors
 
+  - title: Use Guides
+    items:
+    - title: Author a guide - PC
+      links:
+      - url: pc-app-overview
+        text: Authoring overview
+      - url: create-guide.md
+        text: Create a guide
+      - url: pc-app-anchor
+        text: Anchor your guide
+      - url: structure-guide
+        text: Structure your guide
+    - title: Author a guide - HoloLens
+      links:
+      - url: hololens-app-overview
+        text: Authoring overview
+      - url: hololens-app-overview
+        text: Authoring overview
+
   - title: Related products
     items:
         # Card
