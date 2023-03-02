@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 > [!VIDEO https://www.youtube.com/embed/BXhMFjGFbTQ]
 
-Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This preview supports large static objects only. You may want to create a test Microsoft Dataverse environment separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](/power-platform/admin/environments-overview).
+Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This preview supports large static objects only. Create a Dataverse environment that is separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](/power-platform/admin/environments-overview).
 
 To use object anchors, authors:
 
