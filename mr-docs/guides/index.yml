@@ -73,10 +73,10 @@ additionalContent:
     items:
     - title: Administer
       links:
-      - url: admin-add-guest-user.md
-        text: Invite a guest operator
       - url: migrate.md
         text: Migrate content
+      - url: upgrade.md
+        text: Upgrade Guides
       - url: admin-share-guide.md
         text: Share a guide
     - title: Enable or disable settings
@@ -87,6 +87,14 @@ additionalContent:
         text: Enable or disable calls
       - url: admin-enable-object-anchors.md
         text: Enable or disable Object Anchors
+    - title: Integrate with other apps
+      links: 
+      - url: field-service.md
+        text: Integrate with Dynamics 365 Field Service
+      - url: admin-connect-field-service-mobile.md
+        text: Integrate with Field Service Mobile
+      - url: admin-integrate-asset-management.md
+        text: Integrate with Dynamics 365 Supply Chain Management
 
   - title: Use Guides
     items:
@@ -156,9 +164,9 @@ additionalContent:
         - title: Dynamics 365 Field Service
           summary: Enable Field Service customers to attach guides to Field Service tasks.
           url: field-service.md
-        - title: Dynamics 365 Field Service Mobile
-          summary: Access Guides from the Field Service mobile app.
-          url: admin-connect-field-service-mobile.md
+        - title: Dynamics 365 Remote Assist
+          summary: Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist.
+          url: /remote-assist/ra-overview
         - title: Dynamics 365 Supply Chain Management
           summary: First-line workers can benefit from mixed-reality guides in areas such as assembly, service, operations, certification, and safety as well as asset management roles.
           url: admin-integrate-asset-management.md
