@@ -9,7 +9,7 @@ ms.reviewer: v-wendysmith
 ---
 
 <br />
-<!--Keep line break!-->
+<!--Keep line break for proper in-app rendering!-->
 
 # What's new in Dynamics 365 Guides
 
