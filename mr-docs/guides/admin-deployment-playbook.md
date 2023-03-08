@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
 ms.author: mamaylya
-ms.date: 02/18/2022
+ms.date: 03/08/2023
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -34,9 +34,9 @@ Dynamics 365 Guides includes two client-side applications: the PC app (a Univers
 
 ## Test vs. production environments
 
-A basic Dynamics 365 Guides deployment should consist of at least two Dataverse environments in your tenant: a test environment and a production environment.
+A basic Dynamics 365 Guides deployment should consist of at least two Dataverse environments in your tenant: a test or sandbox environment and a production environment.
 
-You can use the test environment to validate any major updates before you push them to your production environment, where Dynamics 365 Guides is being used by your users.
+You can use the test or sandbox environment to validate any major updates before you push them to your production environment, where Dynamics 365 Guides is being used by your users.
 
 ![Test vs. production environments.](media/test-production-instances.png "Test vs. production environments")
 
