@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 ms.author: mamaylya
-ms.date: 01/28/2022
+ms.date: 03/01/2023
 ms.topic: article
 title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 ms.reviewer: v-wendysmith
@@ -12,31 +12,26 @@ ms.reviewer: v-wendysmith
 
 > [!VIDEO https://www.youtube.com/embed/BXhMFjGFbTQ]
 
-Anchoring a guide with Azure Object Anchors is a new preview capability for Dynamics 365 Guides on HoloLens 2. This feature is not available on HoloLens 1. This preview release supports large static objects only. Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin that has been  imported into Dynamics 365 Guides, converted to an object anchor, and assigned to a guide.  
+Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This preview supports large static objects only. Create a Dataverse environment that is separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](/power-platform/admin/environments-overview).
 
-Authors must do three steps to use object anchors:
+To use object anchors, authors:
 
-1. Identify an appropriate object in the physical world to anchor the guide to. 
+1. Identify an appropriate object in the physical world to anchor the guide to.
 
-2. Import and convert a digital twin of that object through the Guides model-driven app. 
+1. Import and convert a digital twin of that object through the Guides model-driven app.
 
-3. Choose **Object Anchor** as the anchor method for the guide and assign the resulting object anchor to the guide through the Dynamics 365 Guides PC app. 
+1. Choose **Object Anchor** as the anchor method for the guide and assign the resulting object anchor to the guide through the Guides PC app.
 
-## Requirements
-
-To use Azure Object Anchors in Dynamics 365 Guides, you need:
+## Prerequisites
 
 - An active Dynamics 365 Guides license (trial or paid)
 
 - Dynamics 365 Guides solution version 600.3.0.1 (July 27, 2021) or later
 
-- A digital 3D model of your target object. You can start with any 3D model or you can capture the object by using third-party scanning applications. 
+- A digital 3D model of your target object. You can start with any 3D model or you can capture the object by using third-party scanning applications.
 
    > [!NOTE]
-   > Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product. 
-
-> [!NOTE]
-> You may want to create a test Microsoft Dataverse environment separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](/power-platform/admin/environments-overview).
+   > Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product.
 
 ## Best practices for choosing a target object for your object anchor
 
@@ -71,7 +66,6 @@ Then look at your target object to avoid false positives. This allows HoloLens t
 ### Materials
 
 Highly reflective and dark materials are difficult to detect with HoloLens. If HoloLens is unable to detect the surface, Azure Object Anchors will not be able to use sensor data for alignment and detection.
-
 
 ## Overall process for converting a 3D model to an object anchor and assigning it to a guide
 
@@ -232,8 +226,6 @@ You can confirm object measurements and **Length Unit** type by double-clicking 
 ## Known issues 
 
 Azure Object Anchors is a preview feature for Dynamics 365 Guides and has the following limitations:
-
-- The Content Migration tool does not support object-anchored guides.
 
 - The Government Community Cloud (GCC) region is not supported. 
 

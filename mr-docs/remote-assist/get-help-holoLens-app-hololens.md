@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Use Dynamics 365 Remote Assist to get help in a different HoloLens app
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Having trouble in another HoloLens app? Use Dynamics 365 Remote Assist to show a remote collaborator what’s happening and get help.
 
 1.	Use the **Start** gesture to leave the 3D view of the app you are having trouble with, but don’t close the 3D app launcher.

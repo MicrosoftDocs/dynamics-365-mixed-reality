@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # View service-related documentation and save shared files
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 During your repair or inspection, you may want to refer to an image or PDF related to the asset or procedure you are completing.
 For example, you can place a wiring diagram in the space next to the asset you are working on. During a video call, a remote collaborator can share a reference to help you better understand what an asset should look like after you've successfully repaired it.
 

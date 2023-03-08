@@ -10,6 +10,8 @@ ms.author: soanigbo
 
 # Update a Dynamics 365 Field Service booking in Dynamics 365 Remote Assist on HoloLens
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Empower technicians to solve problems faster by pairing Dynamics 365 Remote Assist HoloLens application with the Dynamics 365 Field Service application. This allows technicians to:
 
 - Call the expert assigned to the booking.

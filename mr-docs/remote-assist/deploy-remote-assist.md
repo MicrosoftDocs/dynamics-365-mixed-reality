@@ -12,6 +12,8 @@ ms.custom: bap-template
 
 # Deploy Dynamics 365 Remote Assist
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 After you get your [free trial](try-remote-assist.md) or [purchase](buy-remote-assist.md) Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach (for Field Service customers), deploy it to your organization. To deploy:
 
 - IT Admins assign licenses to users in your organization

@@ -10,13 +10,15 @@ ms.reviewer: v-wendysmith
 
 # msdyn_customerassetattachment EntityType
 
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+
 Namespace: Microsoft.Dynamics.CRM
 
 Dedicated file attachment to a Customer Asset.
 
 Entity Set Path [organization URI]/api/data/v9.0/msdyn_customerassetattachment
 
-Base Type: [crmbaseentity](/dynamics365/customer-engagement/web-api/crmbaseentity?view=dynamics-ce-odata-9)
+Base Type: [crmbaseentity](/dynamics365/customer-engagement/web-api/crmbaseentity)
 
 Display Name: Customer Asset Attachment
 
@@ -64,15 +66,15 @@ Single-valued navigation properties represent lookup fields where a single entit
 
 |Name|Type|Partner|
 |----------|-----------|------------|
-|createdby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser?view=dynamics-ce-odata-9)|lk_msdyn_customerassetattachment_createdby|
-|createdonbehalfby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser?view=dynamics-ce-odata-9)|lk_msdyn_customerassetattachment_createdonbehalfby|
-|modifiedby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser?view=dynamics-ce-odata-9)|lk_msdyn_customerassetattachment_modifiedby|
-|modifiedonbehalfby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser?view=dynamics-ce-odata-9)|lk_msdyn_customerassetattachment_modifiedonbehalfby|
-|msdyn_customerasset|[msdyn_customerasset](/dynamics365/customer-engagement/web-api/msdyn_customerasset?view=dynamics-ce-odata-9)|msdyn_msdyn_customerasset|
-|ownerid|[principal](/dynamics365/customer-engagement/web-api/principal?view=dynamics-ce-odata-9)|owner_msdyn_customerassetattachment|
-|owningbusinessunit|[businessunit](/dynamics365/customer-engagement/web-api/businessunit?view=dynamics-ce-odata-9)|business_unit_msdyn_customerassetattachment|
-|owningteam|[team](/dynamics365/customer-engagement/web-api/team?view=dynamics-ce-odata-9)|team_msdyn_customerassetattachment|
-|owninguser|[systemuser](/dynamics365/customer-engagement/web-api/systemuser?view=dynamics-ce-odata-9)|user_msdyn_customerassetattachment|
+|createdby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser)|lk_msdyn_customerassetattachment_createdby|
+|createdonbehalfby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser)|lk_msdyn_customerassetattachment_createdonbehalfby|
+|modifiedby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser)|lk_msdyn_customerassetattachment_modifiedby|
+|modifiedonbehalfby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser)|lk_msdyn_customerassetattachment_modifiedonbehalfby|
+|msdyn_customerasset|[msdyn_customerasset](/dynamics365/customer-engagement/web-api/msdyn_customerasset)|msdyn_msdyn_customerasset|
+|ownerid|[principal](/dynamics365/customer-engagement/web-api/principal)|owner_msdyn_customerassetattachment|
+|owningbusinessunit|[businessunit](/dynamics365/customer-engagement/web-api/businessunit)|business_unit_msdyn_customerassetattachment|
+|owningteam|[team](/dynamics365/customer-engagement/web-api/team)|team_msdyn_customerassetattachment|
+|owninguser|[systemuser](/dynamics365/customer-engagement/web-api/systemuser)|user_msdyn_customerassetattachment|
 
 ## Operations
 
