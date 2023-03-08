@@ -365,7 +365,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
-- [Dynamics 365 Guides](../overview-guides.md)
+- [Dynamics 365 Guides](../index.md)
 
 - [Power Apps](/powerapps/maker/canvas-apps/mixed-reality-overview)
 

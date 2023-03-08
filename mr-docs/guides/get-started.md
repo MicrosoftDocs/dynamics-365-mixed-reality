@@ -28,7 +28,7 @@ If you're ready to get started with guide authoring, check out the following ste
 
 Use these pages to get a quick overview of the product and the guide-authoring process:
 
-- [Overview of Dynamics 365 Guides](overview-guides.md)
+- [Overview of Dynamics 365 Guides](index.md)
 - [Authoring overview](authoring-overview.md)
 - [How to create a great mixed-reality guide](great-guide.md)
 - [Glossary of terms](glossary.md)
