@@ -1,6 +1,6 @@
 ﻿---
 title: Govern guides through Power Platform environments and Power Apps
-description: 
+description: Learn about the separation of guides according to the life cycle stages using Power Platform or Power Apps
 ms.date: 03/09/2023
 ms.topic: conceptual
 author: davepinch
@@ -10,21 +10,21 @@ ms-reviewer: m-hartmann
 
 # Govern guides through Power Platform environments and Power Apps
 
-Organizations must be in control of their data as well as who has access to what and when. To govern guides, regulated industry companies are recommended to separate guides according to their life cycle stage. For example, is a specific guide under development or approved for daily usage? Depending on the life cycle stage of a guide, certain roles in your organization should be allowed to access and edit the guide and its content or restricted from accessing the guide altogether.
+Organizations must be in control of their data as well as who has access to what and when. To govern guides, we recommend regulated industry companies separate guides according to their life cycle stage. For example, is a specific guide under development or approved for daily usage? Depending on the life cycle stage of a guide, certain roles in your organization should be allowed to access and edit the guide and its content or restricted from accessing the guide altogether.
 
 The separation of guides according to life cycle stages can be achieved by creating Power Platform [environments](https://learn.microsoft.com/en-us/power-platform/admin/environments-overview) corresponding to the relevant life cycle stages for your organization and industry. A typical life cycle is authoring, validation, execution, and archive.
 
 :::image type="content" source="media/gxp-lifecycle.png" alt-text="A typical guides life cycle":::
 
-Practically, a specific guide will only live in one environment at a time. However, multiple versions of a guide can exist in different environments simultaneously. By separating guides according to their life cycle stage, you reduce potential production errors resulting from a machine operator following instructions in an unfinished, non-validated and/or obsolete guide. At the same time, we recommend your organization enforces role-based access control through Business Units and security roles so that employees only have access to environments in which they have duties to fulfill. In this way, you ensure a strict split between data and user access.
+Practically, a specific guide only lives in one environment at a time. However, multiple versions of a guide can exist in different environments simultaneously. By separating guides according to their life cycle stage, you reduce potential production errors resulting from a machine operator following instructions in an unfinished, non-validated and/or obsolete guide. At the same time, we recommend your organization enforces role-based access control through business units and security roles so that employees only have access to environments in which they have duties to fulfill. In this way, you ensure a strict split between data and user access.
 
-To facilitate a smooth flow of guides between environments, we recommend a [Power App](/power-apps/powerapps-overview) to enable the relevant employees to transfer guides from one environment to another. Hereby, your organization can establish an audit trail with the required metadata being added to support the regulatory requirements of your industry, company quality controls, and traceability.
+To facilitate a smooth flow of guides between environments, we recommend [Power App](/power-apps/powerapps-overview) to enable the relevant employees to transfer guides from one environment to another. Hereby, your organization can establish an audit trail with the required metadata being added to support the regulatory requirements of your industry, company quality controls, and traceability.
 
-The recommended flow structure between typical environments is illustrated below (arrows indicate the directions in which guides can be transferred). For instance, a guide can be transferred from Authoring to Validation and back again if it is deemed incorrect or not precise enough to be approved. However, a guide can't bypass the Validation environment and must go through Validation before being transferred to Execution where it will be used by operators, for example, at a production line.
+The recommended flow structure between typical environments is illustrated below (arrows indicate the directions in which guides can be transferred). For instance, a guide can be transferred from authoring to validation and back again if it is deemed incorrect or not precise enough to be approved. However, a guide can't bypass the validation environment and must go through validation before being transferred to execution where it will be used by operators at a production line for example.
 
 :::image type="content" source="media/flow-structure.png" alt-text="The recommended flow structure between 4 environments":::
 
-To make the concept of environments matching a life cycle stage more tangible, you'll find more thorough descriptions of the example environments: Authoring environment, Validation environment, Execution environment, and Archiving environment. However, while the environment structure and flow between them is typically relevant for regulated industry companies, it might not be a relevant setup for your company or compliant with the specific regulations you are subject to. To identify the relevant structure and flow for your company, it is advised to facilitate internal stakeholder workshops (see The Guides user journey in prerequisites for implementation and planning roll-out).
+To make the concept of environments matching a life cycle stage more tangible, you'll find more thorough descriptions of the example environments: authoring, validation, execution, and archiving. However, while the environment structure and flow between them is typically relevant for regulated industry companies, it might not be a relevant setup for your company or compliant with the specific regulations you are subject to. To identify the relevant structure and flow for your company, we recommend facilitating internal stakeholder workshops (see The Guides user journey in prerequisites for implementation and planning roll-out).
 
 ## Example environment 1: Authoring environment
 

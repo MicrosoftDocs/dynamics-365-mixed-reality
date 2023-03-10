@@ -11,9 +11,9 @@ manager:
 
 # Reusage of guides across sites
 
-If you have similar production lines or machinery across factories or labs, you might find that a specific guide is applicable at multiple sites. However, if guide access is provided through Business Units, you can encounter issues with cross-site sharing of guides.  
+If you have similar production lines or machinery across factories or labs, you might find that a specific guide is applicable at multiple sites. However, if guide access is provided through business units, you can encounter issues with cross-site sharing of guides.  
   
-In such instances, the guide in question can be copied and the copy subsequently placed in the Business Unit associated with the new site. In this way, the copy guide can be utilized as a functional replica of the original guide, or the copied guide can be utilized as 2) a template from which steps and tasks, i.e., orchestrations of text, images, 3D models etc., are reused during guides authoring. Potentially, replicating existing guides or utilizing them as templates for new guides might not only save your organization authoring time (and hereby cost) but also ensure consistency in similar procedures across factories.
+In such instances, the guide in question can be copied and the copy subsequently placed in the business unit associated with the new site. In this way, the copy guide can be utilized as a functional replica of the original guide, or the copied guide can be utilized as 2) a template from which steps and tasks, i.e., orchestrations of text, images, 3D models etc., are reused during guides authoring. Potentially, replicating existing guides or utilizing them as templates for new guides might not only save your organization authoring time (and hereby cost) but also ensure consistency in similar procedures across factories.
 
 However, it is recommended that your organization pays particular attention to the impact the copy process has on, among other things, the usage of QR codes with deep links, content in the guide and the related metadata such as name, ID etc.
 
@@ -27,7 +27,7 @@ It is recommended to generate a unique QR code for each station, equipment etc. 
 
 -   The copy will automatically be registered with a new ID. While not mandatory, it is advised to store the ID of the original guide as hidden metadata. This enables full traceability in relation to the origin of the copy. Whether or not to store the ID of the original guide as hidden metadata the copy guide is something you will decide upon when defining your data model.
 
--   All metadata in the copy needs to be wiped and the author must fill out new metadata that corresponds to the given Business Unit and potential QA requirements for approval.
+-   All metadata in the copy needs to be wiped and the author must fill out new metadata that corresponds to the given business unit and potential QA requirements for approval.
 
 **The content in the guide**
 
