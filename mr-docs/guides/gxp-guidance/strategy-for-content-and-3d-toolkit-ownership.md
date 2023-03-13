@@ -1,6 +1,6 @@
 ﻿---
 title: Strategy for content and 3D Toolkit ownership
-description: 
+description: Learn about controlling access to content in the 3D Toolkit
 ms.date: 03/09/2023
 ms.topic: conceptual
 author: davepinch
