@@ -1,15 +1,14 @@
 ﻿---
-title: 
-description: 
+title: Purpose of validation and traceability
+description: Learn about the reasons for validation and traceability in a regulated industry 
 ms.date: 03/09/2023
-ms.topic: 
-ms.service: 
-author: 
-ms.author: 
-manager: 
+ms.topic: conceptual
+author: davepinch
+ms.author: davepinch
+ms-reviewer: m-hartmann
 ---
 
-# The purpose of validation and traceability 
+# Purpose of validation and traceability
 
 The purpose of validation is to ensure the consistency of any process or system, and to make sure it is documented. Having the system validated is a requirement from regulating agencies such as the US Food and Drug Administration (FDA) (specifically for Life Science organizations). Validation is defined as follows: 
 

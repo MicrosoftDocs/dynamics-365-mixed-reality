@@ -1,7 +1,7 @@
 ---
-title: Strategy for content and 3D Toolkit ownership
-description: Learn about controlling access to content in the 3D Toolkit
-ms.date: 03/09/2023
+title: Administration
+description: Learn about three administrative layers when implementing Dynamics 365 Guides in a regulated industry
+ms.date: 03/13/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
