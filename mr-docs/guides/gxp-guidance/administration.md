@@ -19,6 +19,6 @@ Overall, we recommend conducting a risk assessment to identify critical updates 
   
 The sections in Administration link to common tasks you perform to set up and maintain HoloLens devices and Power Platform environments. However, be aware that this is not an exhaustive list.
 
-# Next steps
+## Next steps
 
 - [HoloLens devices](hololens-devices.md)

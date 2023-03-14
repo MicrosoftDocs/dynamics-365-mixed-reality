@@ -29,7 +29,7 @@ To enroll HoloLens devices, your mobile device management (MDM) / endpoint manag
 
 - Decide which [HoloLens deployment scenario](/hololens/hololens-requirements#scenario-a) is relevant for your situation and organization and follow the related deployment guide.
 
-- [Deploy and manage endpoints (HoloLens devices) through Microsoft's Endpoint Manager](/hololens/hololens-mdm-configure): [Intune](mem/endpoint-manager-overview). In Intune, you can enable and disable device settings and features, and automatically add devices to a group for them to inherit a specific configuration profile.
+- [Deploy and manage endpoints (HoloLens devices) through Microsoft's Endpoint Manager](/hololens/hololens-mdm-configure): [Intune](/mem/endpoint-manager-overview). In Intune, you can enable and disable device settings and features, and automatically add devices to a group for them to inherit a specific configuration profile.
 
 - Consider the connectivity method for HoloLens devices and the potential coverage. Will [WiFi certificates](/hololens/hololens-certificates-network) be part of the deployment or will other means of control to the network be established?
 

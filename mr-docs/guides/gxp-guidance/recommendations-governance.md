@@ -11,9 +11,9 @@ ms.custom: bap-template
 
 # Recommendations for governance and usage
 
-Production companies within regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. [Microsoft HoloLens](/hololens) (HoloLens) with the software [Microsoft Dynamics 365 Guides](index.md) (Guides) is an excellent example of such digital technology.
+Production companies within regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. [Microsoft HoloLens](/hololens) (HoloLens) with the software [Microsoft Dynamics 365 Guides](../index.mdindex.md) (Guides) is an excellent example of such digital technology.
 
-Effectively replacing paper-based approaches, Guides leverages [mixed reality](https://learn.microsoft.com/en-us/training/modules/intro-to-mixed-reality/) to train and/or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides showing operators what needs to be done and where. As a result, production tasks are completed faster, with fewer errors, and with greater skill retention.
+Effectively replacing paper-based approaches, Guides leverages [mixed reality](/training/modules/intro-to-mixed-reality) to train and/or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides showing operators what needs to be done and where. As a result, production tasks are completed faster, with fewer errors, and with greater skill retention.
 
 However, when implementing Guides in a regulated industry, adhering to industry-specific quality guidelines and regulations such as Good {industry} Practice (GxP) is mandatory. This means that strict governance plus validation and qualification requirements are posed to job training and instruction as these activities are part of regulated processes in hospitals, laboratories, production, and others.
 

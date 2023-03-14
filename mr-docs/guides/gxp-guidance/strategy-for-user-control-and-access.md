@@ -13,9 +13,9 @@ ms.custom: bap-template
 
 When you implement Guides, we recommend your organization considers how to take control of users and their access. What a user can access and do in Guides on PC and HoloLens is impacted by the business unit, [owner teams](/power-apps/developer/data-platform/use-access-teams-owner-teams-collaborate-share-information), and security roles assigned to the user.
 
-[Security roles](/customerengagement/on-premises/admin/security-roles-privileges#security-roles) provides users with privileges to perform certain actions. The Guides application has two primary security roles, [Author and Operator](../admin-role-types.md), that can be [assigned to users](../assign-role.md). As a default, these roles supply access on an Organization-level, the highest level of access. Therefore, all available guides in the environment are visible to users with the role assigned unless individual restrictions to the specific users have been set. However, in a regulated industry setting, you will likely deviate from the default settings or roles. In these cases, you can do the following:
+[Security roles](/customerengagement/on-premises/admin/security-roles-privileges.md#security-roles) provides users with privileges to perform certain actions. The Guides application has two primary security roles, [Author and Operator](../admin-role-types.md), that can be [assigned to users](../assign-role.md). As a default, these roles supply access on an Organization-level, the highest level of access. Therefore, all available guides in the environment are visible to users with the role assigned unless individual restrictions to the specific users have been set. However, in a regulated industry setting, you will likely deviate from the default settings or roles. In these cases, you can do the following:
 
-1. [Modify existing security roles](customerengagement/on-premises/admin/create-edit-security-role?view=op-9-1#edit-a-security-role) directly.
+1. [Modify existing security roles](/customerengagement/on-premises/admin/create-edit-security-role?view=op-9-1#edit-a-security-role) directly.
 
 1. Modify existing security indirectly by [copying an existing security role](/customerengagement/on-premises/admin/create-edit-security-role#create-a-security-role-by-copy-role) and [editing the copy role](/customerengagement/on-premises/admin/create-edit-security-role#edit-a-security-role).
 
@@ -29,6 +29,6 @@ As each user can only be assigned to one business unit, specific users can be in
   
 By utilizing the default team in Dataverse for business unit, you can link to an Active Directory Group ensuring that only access is given through proper Identity and Access Management (IAM) assignment within the organization.
 
-# Next steps
+## Next steps
 
 - [Strategy for access control and IAM](strategy-for-access-control-and-iam.md)

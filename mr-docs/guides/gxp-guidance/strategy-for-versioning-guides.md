@@ -43,6 +43,6 @@ Versioning refers to the versioning of guides within Power Platform. This is not
 
 We recommend that the versioning in Power Platform and the QMS is decoupled as this enables the most flexible process. Keeping the versioning synchronized can be cumbersome, as a change in versioning in QMS requires a versioning change in Power Platform. This will require a re-approval of the guide despite the change in the record in QMS not having any impact on the actual guide.
 
-# Next steps
+## Next steps
 
 - [Strategy for integrations to QMS and LMS](strategy-for-integrations-to-qmslms.md)
