@@ -1,6 +1,6 @@
 ﻿---
-title: 
-description: 
+title: Strategy for versioning guides
+description: Learn about setting up a strategy for versioning guides in a regulated industry
 ms.date: 03/13/2023
 ms.topic: conceptual
 author: davepinch

@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Recommendations for governance and usage
 
-Production companies within regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. [Microsoft HoloLens](/hololens) (HoloLens) with the software [Microsoft Dynamics 365 Guides](../index.mdindex.md) (Guides) is an excellent example of such digital technology.
+Production companies within regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. [Microsoft HoloLens](/hololens) (HoloLens) with the software [Microsoft Dynamics 365 Guides](../index.md) (Guides) is an excellent example of such digital technology.
 
 Effectively replacing paper-based approaches, Guides leverages [mixed reality](/training/modules/intro-to-mixed-reality) to train and/or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides showing operators what needs to be done and where. As a result, production tasks are completed faster, with fewer errors, and with greater skill retention.
 
