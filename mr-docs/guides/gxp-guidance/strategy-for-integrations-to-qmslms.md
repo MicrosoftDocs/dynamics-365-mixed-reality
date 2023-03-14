@@ -1,11 +1,12 @@
 ﻿---
 title: Strategy for integrations to QMS/LMS
-description: Learn about integrating Power Platform, a Quality Management System (QMS), and  a Learning Management System (LMS)
+description: Learn about integrating Power Platform, a Quality Management System (QMS), and  a Learning Management System (LMS) with Guides in a regulated industry
 ms.date: 03/13/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Strategy for integrations to QMS/LMS
@@ -64,3 +65,7 @@ If you have a device-based license, user statistics and logs cannot be used dire
 1. **Data model**
 
 As with the QMS integration, we recommend you prepare your data model for a LMS integration from the very beginning of the implementation. Adding a data field like "document type" in Power Platform eases the integration at a later point as it can be used to identify the records (guides) that are to be associated with LMS processes.
+
+## Next steps
+
+- [Electronic records and electronic signature](electronic-records-and-electronic-signature.md)

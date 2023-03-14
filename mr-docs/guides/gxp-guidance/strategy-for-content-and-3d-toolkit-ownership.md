@@ -1,11 +1,12 @@
 ﻿---
 title: Strategy for content and 3D Toolkit ownership
-description: Learn about controlling access to content in the 3D Toolkit
+description: Learn about controlling access to guides content in the 3D Toolkit in a regulated industry
 ms.date: 03/09/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Strategy for content and 3D Toolkit ownership
@@ -30,3 +31,7 @@ Alternatively, your organization can create a separate business unit named, for 
 Carefully choosing the ownership of the 3D toolkit can enable broad access to content for guides authors. However, it is necessary to regularly pay attention to content ownership. For instance, when someone updates the Guides solution, your organization needs to check that content ownership does not change. Otherwise, authors risk losing content access, or authors are granted unauthorized access to content.
 
 Also, whenever Microsoft adds 3D elements to the application package, ownership will need to be updated post deployment due to the automatic ownership assignment to the deploying user.
+
+## Next steps
+
+- [Strategy for versioning guides](strategy-for-versioning-guides.md)

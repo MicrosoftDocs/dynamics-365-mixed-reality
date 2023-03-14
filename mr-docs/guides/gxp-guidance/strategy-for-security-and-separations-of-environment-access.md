@@ -6,6 +6,7 @@ ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Strategy for security and separations of environment access
@@ -53,3 +54,7 @@ For effective management you need a scalable setup. We recommend automating perm
 For setups with multiple business units, the process requires that Azure AD security groups are created in each business unit for every role to add the user to the correct teams. Alternatively, you can assign teams directly in Power Platform.
 
 In case steps are handled directly in Power Platform, we recommend creating a supporting process to facilitate and eliminate error. For example, implement a Canvas App that can help the administrator assign membership to teams and to assign the user to the correct business unit.
+
+## Next steps
+
+-[Strategy for test and deployment](strategy-for-test-and-deployment.md)

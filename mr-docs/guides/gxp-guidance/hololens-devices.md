@@ -6,6 +6,7 @@ ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # HoloLens devices
@@ -48,7 +49,7 @@ We recommend utilizing Windows Autopilot and Intune to ensure a proper governanc
 
 ## User-based versus device-based setup
 
-Depending on use case, cost, operation, and organizational policies, HoloLens as well as Guides can be operated in a user-based or [device-based](/guides/device-license) setup. In user-based setup, individuals have their own Guides account, while a single device is used by multiple individuals under a shared user account in a device-based setup.  
+Depending on use case, cost, operation, and organizational policies, HoloLens as well as Guides can be operated in a user-based or [device-based](../device-license.md) setup. In user-based setup, individuals have their own Guides account, while a single device is used by multiple individuals under a shared user account in a device-based setup.  
   
 Usually, due to regulatory requirements, all authors and approvers of guides need to have individual users, meaning the licensing structure must be user-based for these personas. If your organization has operators who will be regular users of guides, we recommend having individual usage accounts as well.
 
@@ -100,3 +101,7 @@ Your organization can use small Bluetooth or GPS trackers placed on a device or 
 - **Theft**: HoloLens is a valuable mobile device with a weight of only 566 grams. This makes it easy and attractive to steal.
 
 - **Equipment damage**: Extend the life span of your HoloLens devices by ensuring they are not left in hazardous places potentially damaging the device.
+
+## Next steps
+
+- [Power Platform environments](power-platform-environments.md)

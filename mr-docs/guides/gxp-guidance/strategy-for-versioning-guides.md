@@ -6,6 +6,7 @@ ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Strategy for versioning guides
@@ -41,3 +42,7 @@ Only the highest minor version is transferred to the execution environment.
 Versioning refers to the versioning of guides within Power Platform. This is not necessarily the same as the record versioning in QMS (the record in QMS links to the guide in Power Platform). Depending on the system and process implemented, the record version in QMS could change whenever changes are made to the metadata such as change of title or author.
 
 We recommend that the versioning in Power Platform and the QMS is decoupled as this enables the most flexible process. Keeping the versioning synchronized can be cumbersome, as a change in versioning in QMS requires a versioning change in Power Platform. This will require a re-approval of the guide despite the change in the record in QMS not having any impact on the actual guide.
+
+# Next steps
+
+- [Strategy for integrations to QMS and LMS](strategy-for-integrations-to-qmslms.md)

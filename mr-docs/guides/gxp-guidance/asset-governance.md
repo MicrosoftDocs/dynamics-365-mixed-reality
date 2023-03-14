@@ -1,11 +1,12 @@
 ﻿---
 title: Asset governance
-description: Learn what to consider for governance of assets used in guides
+description: Learn what to consider for governance of assets used in guides in a regulated industry
 ms.date: 03/13/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Asset governance
@@ -36,3 +37,7 @@ Just like the authored guides at large, your organization should govern the indi
 - What naming conventions will support asset governance? Incorporating information such as asset type, expiration date, and geo-restrictions into the asset name will help asset owners and guides authors handle the asset appropriately.
 
 In the early stages of a Guides implementation, asset governance might seem redundant because it is likely that a project team is close to all processes. However, over time, as Guides usage scales throughout your organization and (parts of) machinery (including its manuals) become obsolete and replaced, maintaining assets will be difficult if asset governance has not been established. Most likely, utilizing an outdated asset in guides is non-compliant with your industry's (GxP) requirements.
+
+## Next steps
+
+- [Platform qualification and app validations](platform-qualification-app-validations.md)

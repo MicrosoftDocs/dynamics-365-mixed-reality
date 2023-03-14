@@ -1,11 +1,12 @@
 ﻿---
 title: Strategy for access control and IAM
-description: Learn about access control of Guides and Identity and Access Management
+description: Learn about access control of Guides and Identity and Access Management in a regulated industry
 ms.date: 03/09/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Strategy for access control and IAM
@@ -47,3 +48,7 @@ The environments each represent different stages of the content's life cycle. Wh
 The configured roles, functionalities, and environments can all be linked to your organization's existing IAM system by defining an [AD security group](/windows-server/identity/ad-ds/manage/understand-security-groups) with specific access and security elements related to each role. The benefit of this setup is that when users are granted a specific role, they are automatically provided with the necessary access to perform the assignments of the role they have. Furthermore, this IAM setup ensures that changes and terminations of access happen in a controlled and automated process in sync with the onboarding and offboarding of employees within the organization.
 
 :::image type="content" source="media/all-managed-elements.png" alt-text="A full overview of elements that can be managed by AD groups and linked to the IAM process and other systems of relevance":::
+
+## Next steps
+
+- [Strategy for content and 3D toolkit ownership](strategy-for-content-and-3d-toolkit-ownership.md)

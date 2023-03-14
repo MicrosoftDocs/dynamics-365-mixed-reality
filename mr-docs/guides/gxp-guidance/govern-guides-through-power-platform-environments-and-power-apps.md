@@ -6,13 +6,14 @@ ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Govern guides through Power Platform environments and Power Apps
 
 Organizations must be in control of their data as well as who has access to what and when. To govern guides, we recommend regulated industry companies separate guides according to their life cycle stage. For example, is a specific guide under development or approved for daily usage? Depending on the life cycle stage of a guide, certain roles in your organization should be allowed to access and edit the guide and its content or restricted from accessing the guide altogether.
 
-The separation of guides according to life cycle stages can be achieved by creating Power Platform [environments](https://learn.microsoft.com/en-us/power-platform/admin/environments-overview) corresponding to the relevant life cycle stages for your organization and industry. A typical life cycle is authoring, validation, execution, and archive.
+The separation of guides according to life cycle stages can be achieved by creating Power Platform [environments](/power-platform/admin/environments-overview) corresponding to the relevant life cycle stages for your organization and industry. A typical life cycle is authoring, validation, execution, and archive.
 
 :::image type="content" source="media/gxp-lifecycle.png" alt-text="A typical guides life cycle":::
 
@@ -28,7 +29,7 @@ To make the concept of environments matching a life cycle stage more tangible, y
 
 ## Example environment 1: Authoring environment
 
-During the first stage of a guide's life cycle, your organization creates the guide on the PC with its tasks and steps to be followed by end-users of the guide. Then, you place holographic 3D content in the physical space to help the users' understanding of the step-by-step instructions. This process is also known as [authoring](authoring-overview.md). When guides are being authored, we recommend they exist in an environment dedicated to authoring.
+During the first stage of a guide's life cycle, your organization creates the guide on the PC with its tasks and steps to be followed by end-users of the guide. Then, you place holographic 3D content in the physical space to help the users' understanding of the step-by-step instructions. This process is also known as [authoring](../authoring-overview.md). When guides are being authored, we recommend they exist in an environment dedicated to authoring.
 
 Since the guides in this environment are under creation, non-validated, and maybe even incomplete, it is paramount that end-users in a lab, for instance, cannot start using them. This is exactly the reason behind creating an authoring environment; that authors of a guide can create, develop, test, and evaluate the holographic content and wording without risking the guide being used before it is finalized, approved, and released for day-to-day usage.  
   
@@ -78,3 +79,7 @@ You should keep obsolete guides for audit trail purposes as this can be a regula
 
 > [!NOTE]
 > Compared to the authoring environment, the archive environment might require additional regulatory controls and limitations to changes, access, and traceability.
+
+## Next steps
+
+- [Common challenges and requirements](common-challenges-and-requirements.md)

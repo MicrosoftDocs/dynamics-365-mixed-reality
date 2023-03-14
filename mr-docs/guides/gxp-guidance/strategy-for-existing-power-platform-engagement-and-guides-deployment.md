@@ -1,11 +1,12 @@
 ﻿---
 title: Strategy for existing Power Platform engagement and Guides deployment
-description: Learn about using an existing Power Platform to deploy Guides
+description: Learn about using an existing Power Platform to deploy Guides in a regulated industry
 ms.date: 03/09/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Strategy for existing Power Platform engagement and Guides deployment
@@ -25,3 +26,7 @@ For regulated industries, we recommend deploying Guides in new environments with
 - **Reference to Power Apps** - if you refer to any Power Apps via URL in your guides, consider if these Power Apps are within the same environment as your Guides application. If not, we recommend you investigate whether the access controls applied for Guides also applies for the referenced Power Apps. To keep track of the usage and purpose of selected Power Apps, we recommend using the CoE kit tools to track and register mission-critical business apps.
 
 If you choose to have multiple business applications within the same environment, we recommend you ensure that the level of criticality is the same for all applications so that the requirements for monitoring, updating, and others are similar. However, if there is no immediate need to mix business applications within the same environment, the general recommendation is to separate them. This approach allows for the greatest degree of control and minimizes the risk of having multiple business applications with different access controls interfere with one another.
+
+## Next steps
+
+- [Strategy for security and separations of environment access](strategy-for-security-and-separations-of-environment-access.md)

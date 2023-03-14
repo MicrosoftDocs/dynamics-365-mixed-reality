@@ -6,6 +6,7 @@ ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Administration
@@ -17,3 +18,7 @@ These elements need to function independently as well as in conjunction with eac
 Overall, we recommend conducting a risk assessment to identify critical updates to devices, environments, and software. Based on the risk assessment, your organization should define if and where specific controls are needed to have devices, Power Platform components, and software in control.  
   
 The sections in Administration link to common tasks you perform to set up and maintain HoloLens devices and Power Platform environments. However, be aware that this is not an exhaustive list.
+
+# Next steps
+
+- [HoloLens devices](hololens-devices.md)

@@ -1,11 +1,12 @@
 ﻿---
 title: Electronic records and electronic signature
-description: 
+description: Learn about the use of electronic records and signatures when implementing Dynamics 365 Guides in a regulated industry
 ms.date: 03/13/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Electronic records and electronic signature

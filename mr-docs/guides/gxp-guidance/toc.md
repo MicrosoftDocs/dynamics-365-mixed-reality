@@ -1,4 +1,5 @@
-﻿# [Dynamics 365 in regulated industries - Recommendations for governance and usage](recommendations-governance.md)
+﻿# [Dynamics 365 in regulated industries
+## [Recommendations for governance and usage](recommendations-governance.md)
 ## [Govern guides through Power Platform environments and Power Apps](govern-guides-through-power-platform-environments-and-power-apps.md)
 ### [Example environment 1: Authoring environment](govern-guides-through-power-platform-environments-and-power-apps.md#example-environment-1-authoring-environment)
 ### [Example environment 2: Validation environment](govern-guides-through-power-platform-environments-and-power-apps.md#example-environment-2-validation-environment)

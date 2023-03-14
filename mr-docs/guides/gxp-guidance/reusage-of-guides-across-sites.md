@@ -1,11 +1,12 @@
 ﻿---
 title: Reusage of guides across sites
-description: Learn about using guides across multiple sites and how to avoid issues
+description: Learn about using guides across multiple sites in a regulated industry and how to avoid issues
 ms.date: 03/13/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Reusage of guides across sites
@@ -16,7 +17,7 @@ In such instances, the guide in question can be copied and the copy subsequently
 
 However, we recommend that your organization pay particular attention to the impact the copy process has on, among other things, the usage of QR codes with deep links, content in the guide and the related metadata such as name and ID.
 
-We recommend generating a unique QR code for each station or piece of equipment that has an associated guide and [embed a deep link](/guides/pc-app-anchor-embed-qr-code-link) in each QR code to a unique, validated, guide existing in an execution environment. This approach helps you be compliant with your organization's quality management processes because only approved and specific guides can be launched on location.
+We recommend generating a unique QR code for each station or piece of equipment that has an associated guide and [embed a deep link](../pc-app-anchor-embed-qr-code-link.md) in each QR code to a unique, validated, guide existing in an execution environment. This approach helps you be compliant with your organization's quality management processes because only approved and specific guides can be launched on location.
 
 **QR code with deep links**
 
@@ -42,3 +43,6 @@ When copied, all guide content matches the content in the original. However, it 
 
 - If your organization, as recommended, generates unique QR codes with deep links to unique validated guides, you will still have to do this when replicating existing guides or utilizing guides as templates.
 
+## Next steps
+
+- [Asset governance](asset-governance.md)

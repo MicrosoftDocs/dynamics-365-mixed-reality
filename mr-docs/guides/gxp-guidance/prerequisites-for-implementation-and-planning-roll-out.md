@@ -1,21 +1,22 @@
 ﻿---
 title: Prerequisites for implementation and planning roll-out
-description: 
+description: Learn the prerequisites before implementing Guides in a regulated industry and to help plan the roll-out of the solution
 ms.date: 03/09/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
 ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Prerequisites for implementation and planning roll-out
 
 As prerequisites for a successful Guides roll-out in regulated industries, it is advised to define the following elements in the initial phases of implementation:
 
-1. The Guides user journey
-1. The data model
-1. System integrations and reuse
-1. Notifications
+- The Guides user journey
+- The data model
+- System integrations and reuse
+- Notifications
 
 **The Guides user journey**
 
@@ -41,6 +42,6 @@ When creating a guide, there are multiple roles involved in the different steps 
 
 The four elements above need to be considered early in the process as they have significant influence on the overall implementation process and the possibilities for future development.
 
-## Establishing a Power Platform strategy for regulated industries
+## Next steps
 
-
+- [Establishing a Power Platform strategy for regulated industries](strategy-for-existing-power-platform-engagement-and-guides-deployment.md)

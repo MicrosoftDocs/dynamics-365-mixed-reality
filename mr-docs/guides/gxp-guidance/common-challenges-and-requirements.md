@@ -1,11 +1,12 @@
 ﻿---
 title: Common challenges and requirements
-description: Address questions regarding business and regulation requirements before implementing Dynamics 365 Guides
-ms.date: 03/09/2023
+description: Consider questions regarding business and regulation requirements before implementing Dynamics 365 Guides
+ms.date: 03/13/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
-ms-reviewer: m-hartmann 
+ms-reviewer: m-hartmann
+ms.custom: bap-template
 ---
 
 # Common challenges and requirements
@@ -32,7 +33,7 @@ For a successful scaling of Guides after a pilot, it is advised to address quest
 
 - How do you make access to content easy to scale? Consider this when building your data model.
 
-- What naming standards will be relevant to introduce from the beginning? For example, name of guides, content, AD groups, business units, and folders.
+- What naming standards will be relevant to introduce from the beginning? For example, name of guides, content, Active Directory (AD) groups, business units, and folders.
 
 - What roles/personas are involved in the guides lifecycle?
 
@@ -63,3 +64,7 @@ For a successful scaling of Guides after a pilot, it is advised to address quest
 - If considered relevant by your organizations' QA, has the qualification of infrastructure (Intune & Autopilot) and HoloLens devices (OS & Guides application) been conducted?
 
 Additional questions might apply due to your industry's specific requirements. Therefore, it is advised to have a continuous dialogue with business, IT, and QA to ensure all requirements are addressed.
+
+## Next steps
+
+- [Prerequisites for implementation and planning roll-out](prerequisites-for-implementation-and-planning-roll-out.md)
