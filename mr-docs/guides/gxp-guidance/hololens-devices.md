@@ -66,7 +66,7 @@ Always consult with a legal counsel or a GDPR specialist to ensure that your log
 
 If you prefer to run a device-based setup without sacrificing traceability, your organization has the option to utilize digital signatures whenever an action is completed.  
 
-## Maintain HoloLens devices
+## Maintain HoloLens devices
 
 Maintenance of the HoloLens devices helps to ensure that the device is running efficiently and effectively. Regular maintenance can prevent equipment failure and prolong the lifespan of the equipment. Best practices for maintaining devices include:
 
