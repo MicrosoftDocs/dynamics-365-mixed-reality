@@ -113,7 +113,7 @@ More information: [Create and manage environments in the Power Platform admin ce
 
 ## Update the model-driven app to the latest version
 
-As new versions of the Dynamics 365 Remote Assist model-driven app are released, you will need to update the app by following the steps below to ensure that the latest features are available.
+As new versions of the Dynamics 365 Remote Assist model-driven app are released, you  update the app by following the steps below to ensure that the latest features are available.
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 

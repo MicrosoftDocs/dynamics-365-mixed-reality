@@ -51,7 +51,7 @@ For a successful scaling of Guides after a pilot, it is advised to address quest
 
 - How will you establish a software development life cycle (SDLC) to ensure continuous compliance of components like Power Apps?
 
-- How will you manage storage capacity over time in the Power Platform?
+- How will you manage storage capacity over time in Power Platform?
 
 - How will you manage the reuse of assets used in multiple guides?
 

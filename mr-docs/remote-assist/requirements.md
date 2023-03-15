@@ -137,7 +137,7 @@ Review the *minimum* URL end points and TCP/UDP ports utilized by Dynamics 365 R
 |Microsoft Graph|graph.microsoft.com|TCP: 80, 443|
 |Enterprise Configuration Service|ecs.office.com|TCP: 80, 443|
 |Dynamics Services|*.crm.dynamics.com|TCP: 80, 443|
-|Sharepoint / OneDrive|*.sharepoint.com|TCP: 80, 443|
+|Sharepoint/OneDrive|*.sharepoint.com|TCP: 80, 443|
 |Windows Notification Service|See [Enterprise Firewall Configurations to Support WNS Traffic](/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config)| |
 |Connection Test|*.msftconnecttest.com|TCP: 80, 443|
 

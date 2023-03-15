@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Strategy for existing Power Platform engagement and Guides deployment
 
-Before initiating deployment of Guides, the recommendation is to investigate whether your organization already makes use of the Power Platform. If the Power Platform is well-established within your organization, you should consider whether you want to deploy Guides to new environments or let Guides co-exist in an already-existing environment with other business applications such as [Microsoft Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/).
+Before initiating deployment of Guides, the recommendation is to investigate whether your organization already makes use of Power Platform. If Power Platform is well-established within your organization, you should consider whether you want to deploy Guides to new environments or let Guides co-exist in an already-existing environment with other business applications such as [Microsoft Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/).
 
 To get a quick overview of any current environments within your organization and the usage, install the [Power Platform Center of Excellence Starter Kit](/power-platform/guidance/coe/starter-kit) (CoE) within your tenant.
 

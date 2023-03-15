@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Maintenance of the qualified and validated status
 
-Once you have qualified the infrastructure (Power Platform) and validated the applications (Guides and Power Apps), it is important to oversee they are kept under control. The computer systems and infrastructure are dynamic in nature. For example, in case of new system versions and infrastructure upgrades, procedures must be in place to maintain the qualified/validated state. These changes may directly or indirectly affect product quality, patient safety, data integrity, internal policies, regulatory compliance, or business.
+Once you have [qualified the infrastructure (Power Platform)](purpose-of-validation-and-traceability.md#platform-qualification) and [validated the applications (Guides and Power Apps)](purpose-of-validation-and-traceability.md#application-validations), it is important to oversee they are kept under control. The computer systems and infrastructure are dynamic in nature. For example, in case of new system versions and infrastructure upgrades, procedures must be in place to maintain the qualified/validated state. These changes may directly or indirectly affect product quality, patient safety, data integrity, internal policies, regulatory compliance, or business.
 
 The qualified/validated status must be maintained by implementing internal procedures.
 

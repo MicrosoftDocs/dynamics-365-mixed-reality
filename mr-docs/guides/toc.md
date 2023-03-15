@@ -207,15 +207,15 @@
 ### [Dynamics 365 Guides US Government](gcc.md)
 
 ## Dynamics 365 Guides in regulated industries
-### [Recommendations for governance and usage](gxp-guidance/recommendations-governance.md)
-#### [Govern guides through Power Platform environments and Power Apps](gxp-guidance/govern-guides-through-power-platform-environments-and-power-apps.md)
+### [Governance and usage recommendations](gxp-guidance/recommendations-governance.md)
+#### [Govern guides through Power Platform and Power Apps](gxp-guidance/govern-guides-through-power-platform-environments-and-power-apps.md)
 ##### [Example environment 1: Authoring environment](gxp-guidance/govern-guides-through-power-platform-environments-and-power-apps.md#example-environment-1-authoring-environment)
 ##### [Example environment 2: Validation environment](gxp-guidance/govern-guides-through-power-platform-environments-and-power-apps.md#example-environment-2-validation-environment)
 ##### [Example environment 3: Execution environment](gxp-guidance/govern-guides-through-power-platform-environments-and-power-apps.md#example-environment-3-execution-environment)
 ##### [Example environment 4: Archive environment](gxp-guidance/govern-guides-through-power-platform-environments-and-power-apps.md#example-environment-4-archive-environment)
 #### [Common challenges and requirements](gxp-guidance/common-challenges-and-requirements.md)
 #### [Prerequisites for implementation and planning roll-out](gxp-guidance/prerequisites-for-implementation-and-planning-roll-out.md)
-### Establishing a Power Platform strategy for regulated industries
+### Establishing a Power Platform strategy
 #### [Strategy for existing Power Platform engagement and Guides deployment](gxp-guidance/strategy-for-existing-power-platform-engagement-and-guides-deployment.md)
 #### [Strategy for security and separations of environment access](gxp-guidance/strategy-for-security-and-separations-of-environment-access.md)
 #### [Strategy for test and deployment](gxp-guidance/strategy-for-test-and-deployment.md)

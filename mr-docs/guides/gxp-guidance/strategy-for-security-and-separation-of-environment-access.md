@@ -1,5 +1,5 @@
 ﻿---
-title: Strategy for security and separations of environment access
+title: Strategy for security and separation of environment access
 description: Learn about restricted access, separate environments, and other security controls
 ms.date: 03/09/2023
 ms.topic: conceptual
@@ -9,11 +9,11 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Strategy for security and separations of environment access
+# Strategy for security and separation of environment access
 
 Access to environments and content should be restricted and generally follow a least privilege principle. In Power Platform, this can be handled on different levels.
 
-As mentioned in govern guides through Power Platform environments and Power Apps, you can use different Power Platform environments and user roles with limited access to drive compliance in the life cycle of a guide. To implement, only give the user access to required environments and  assign only relevant security roles in these environments. To learn more about security roles, see [Security roles and privileges](/power-platform/admin/security-roles-privileges).
+As mentioned in [govern guides through Power Platform environments and Power Apps](govern-guides-through-power-platform-environments-and-power-apps.md), you can use different Power Platform environments and user roles with limited access to drive compliance in the life cycle of a guide. To implement, only give the user access to required environments and  assign only relevant security roles in these environments. To learn more about security roles, see [Security roles and privileges](/power-platform/admin/security-roles-privileges).
 
 While planning the setup, decide the extent of automatically assigned access. Determine how the process should integrate with the company's existing practices for controlling assignment of access rights and, for example, integration to the Identity Access Management (IAM) system.
 

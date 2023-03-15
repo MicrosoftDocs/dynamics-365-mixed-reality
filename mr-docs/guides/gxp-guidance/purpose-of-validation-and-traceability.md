@@ -95,7 +95,7 @@ Applications (such as Guides and Power Apps) that support business processes wit
 
 - Risk Assessment
 
-- Application Functional / Configuration Technical Specification
+- Application Functional/Configuration Technical Specification
 
 - (IQ/OQ/UAT)
 
@@ -107,7 +107,7 @@ Applications (such as Guides and Power Apps) that support business processes wit
 
 - Summary Validation Report
 
-- Application / Operational Manual, Training Material
+- Application/Operational Manual, Training Material
 
 ## Next steps
 

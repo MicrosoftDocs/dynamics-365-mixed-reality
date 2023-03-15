@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 Guides in regulated industries - Recommendations for governance and usage
 description: Recommendations for using Dynamics 365 Guides in a regulated industry
-ms.date: 03/09/2023
+ms.date: 03/15/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch

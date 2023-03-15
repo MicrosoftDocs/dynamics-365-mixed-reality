@@ -23,7 +23,7 @@ There are two ways of doing integrations: process-based integration and technica
 
 **Process-based integration**
 
-With this approach, you do not make any technical integrations. Rather, you re-use the flow within the QMS and transfer data manually. As mentioned in strategy for access control & IAM, it makes sense to assign a role responsible for ensuring the synchronization between the systems when handling integration manually.
+With this approach, you do not make any technical integrations. Rather, you re-use the flow within the QMS and transfer data manually. As mentioned in [strategy for access control & IAM](strategy-for-access-control-and-iam.md), assign a role responsible for ensuring the synchronization between the systems when handling integration manually.
 
 Executing the integrations manually allows you to maintain control of the processes. It allows for the refinement of processes without having to adjust technical integration accordingly. We recommend this approach if you are still in the maturing phase and have a limited number of transactions. In this case, thoroughly investigate the ways in which the two systems must interact and prepare the data model in Power Platform accordingly. A well-planned data model simplifies the technical integration in the future.
 
@@ -35,14 +35,14 @@ As the solution matures, technical integrations are recommended to automatize pr
 
 :::image type="content" source="media/point-to-point-integration.png" alt-text="Example of point-to-point integration":::
 
-<u>API-based middleware integration</u> is when software acts as a bridge between two or several systems that need to communicate. Middleware integration allows the systems to communicate and establishes data flow amongst themselves without requiring the two applications to communicate directly. The bridge that the middleware integration creates also separates the system updates which means that both systems do not need to be re-validated if only one of the systems is changed and/or updated.
+<u>API-based middleware integration</u> is when software acts as a bridge between two or several systems that must communicate. Middleware integration allows the systems to communicate and establishes data flow amongst themselves without requiring the two applications to communicate directly. The bridge that the middleware integration creates also separates the system updates which means that both systems do not must be re-validated if only one of the systems is changed and/or updated.
 
 :::image type="content" source="media/middleware-integration.png" alt-text="Example of middleware integration":::
 
 Whether it is wise to choose point-to-point integration or API-based middleware integrations depends on your enterprise architecture strategy and the tools you have available within your organization. If you have middleware integration software, it makes sense to choose the API-based middleware integration. If you don't have middleware integration software, then point-to-point integration might be the best fit.
 
 > [!NOTE]
-> All technical integrations need to be a part of the potential GxP validation and test. This is an argument for starting with process-based integration as time to go-live can be reduced. Process-based integration also involves less maintenance work until a critical level of data transfer is needed.
+> All technical integrations must be a part of the potential GxP validation and test. This is an argument for starting with process-based integration as time to go-live can be reduced. Process-based integration also involves less maintenance work until a critical level of data transfer is needed.
 
 **Integration to LMS**
 
@@ -58,9 +58,9 @@ Establish an integration between QMS and LMS to automate the transfer of trainin
 
 1. **User-based or device-based licenses**
 
-The approach to the LMS integration for evidence of completion depends on whether you use a user-based or device-based Guides setup. If you have a user-based setup, user statistics can provide proof of execution via logs in Power Platform. The regulatory requirements that apply to this logging as evidence, for example GxP and EU GDPR, must be verified with the QA department within the business as well as the Data Protection Officer (DPO).  
+The approach to the LMS integration for evidence of completion depends on whether you use a [user-based or device-based Guides setup](hololens-devices.md#user-based-versus-device-based-setup). If you have a user-based setup, user statistics can provide proof of execution via logs in Power Platform. The regulatory requirements that apply to this logging as evidence, for example GxP and EU GDPR, must be verified with the QA department within the business as well as the Data Protection Officer (DPO).  
   
-If you have a device-based license, user statistics and logs cannot be used directly from Power Platform. Instead, you can create a functionality in the training flow (via a Power App) where employees sign-off from their profile and thereby provide proof of execution. This can be supported by a digital signature component to be compliant with regulatory requirements for documentation. Furthermore, you can create an integrated functionality that enables users to evaluate the training as additional proof of execution. This approach can also be used for user-based license if QA and/or the DPO does not accept the Power Platform log as evidence for execution.
+If you have a device-based license, user statistics and logs cannot be used directly from Power Platform. Instead, you can create a functionality in the training flow (via a Power App) where employees sign-off from their profile and thereby provide proof of execution. This can be supported by a [digital signature](electronic-records-and-electronic-signature.md) component to be compliant with regulatory requirements for documentation. Furthermore, you can create an integrated functionality that enables users to evaluate the training as additional proof of execution. This approach can also be used for user-based license if QA and/or the DPO does not accept the Power Platform log as evidence for execution.
 
 1. **Data model**
 

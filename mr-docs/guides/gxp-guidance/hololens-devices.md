@@ -25,7 +25,7 @@ Familiarize yourself with the hardware:
 
 - [Procure HoloLens](/hololens/hololens2-purchase) devices – find an authorized reseller that is relevant for your implementation plans and support the countries involved.
 
-To enroll HoloLens devices, your mobile device management (MDM) / endpoint management specialists need to:
+To enroll HoloLens devices, your mobile device management (MDM)/endpoint management specialists must:
 
 - Decide which [HoloLens deployment scenario](/hololens/hololens-requirements#scenario-a) is relevant for your situation and organization and follow the related deployment guide.
 
@@ -51,7 +51,7 @@ We recommend utilizing Windows Autopilot and Intune to ensure a proper governanc
 
 Depending on use case, cost, operation, and organizational policies, HoloLens as well as Guides can be operated in a user-based or [device-based](../device-license.md) setup. In user-based setup, individuals have their own Guides account, while a single device is used by multiple individuals under a shared user account in a device-based setup.  
   
-Usually, due to regulatory requirements, all authors and approvers of guides need to have individual users, meaning the licensing structure must be user-based for these personas. If your organization has operators who will be regular users of guides, we recommend having individual usage accounts as well.
+Usually, due to regulatory requirements, all authors and approvers of guides must have individual users, meaning the licensing structure must be user-based for these personas. If your organization has operators who will be regular users of guides, we recommend having individual usage accounts as well.
 
 For sporadic guides operators, a device-based setup can make sense from an operational and cost perspective but the regulatory requirements you are subject to might demand a user-based setup to ensure traceability.
 
@@ -64,7 +64,7 @@ If you choose this setup and operate within EU, ensure that any personal data th
 
 Always consult with a legal counsel or a GDPR specialist to ensure that your logging of actions complies with all relevant GDPR policies.
 
-If you prefer to run a device-based setup without sacrificing traceability, your organization has the option to utilize digital signatures whenever an action is completed.  
+If you prefer to run a device-based setup without sacrificing traceability, your organization has the option to utilize [digital signatures](electronic-records-and-electronic-signature.md) whenever an action is completed.  
 
 ## Maintain HoloLens devices
 
