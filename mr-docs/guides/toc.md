@@ -239,7 +239,7 @@
 ### Governance
 #### [Anchor guides content through QR codes and embed deep links](gxp-guidance/anchor-guides-content-through-qr-codes-and-embed-deep-links.md)
 #### [Reusage of guides across sites](gxp-guidance/reusage-of-guides-across-sites.md)
-#### [Asset governance](asset-governance.md)
+#### [Asset governance](gxp-guidance/asset-governance.md)
 ### [Platform qualification and app validations](gxp-guidance/platform-qualification-app-validations.md)
 #### [The purpose of validation and traceability](gxp-guidance/purpose-of-validation-and-traceability.md)
 ##### [Platform qualification](gxp-guidance/purpose-of-validation-and-traceability.md#platform-qualification)

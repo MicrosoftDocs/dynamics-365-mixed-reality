@@ -15,9 +15,9 @@ When you implement Guides, we recommend your organization considers how to take 
 
 [Security roles](/dynamics365/customerengagement/on-premises/admin/security-roles-privileges) provides users with privileges to perform certain actions. The Guides application has two primary security roles, [Author and Operator](../admin-role-types.md), that can be [assigned to users](../assign-role.md). As a default, these roles supply access on an Organization-level, the highest level of access. Therefore, all available guides in the environment are visible to users with the role assigned unless individual restrictions to the specific users have been set. However, in a regulated industry setting, you will likely deviate from the default settings or roles. In these cases, you can do the following:
 
-1. [Modify existing security roles](/dynamics365/customerengagement/on-premises/admin/create-edit-security-role.md#edit-a-security-role) directly.
+1. [Modify existing security roles](../../dynamics365/customerengagement/on-premises/admin/create-edit-security-role.md#edit-a-security-role) directly.
 
-1. Modify existing security indirectly by [copying an existing security role](/dynamics365/customerengagement/on-premises/admin/create-edit-security-role.md#create-a-security-role-by-copy-role) and [editing the copy role](/dynamics365/customerengagement/on-premises/admin/create-edit-security-role.md#edit-a-security-role).
+1. Modify existing security indirectly by [copying an existing security role](../..//dynamics365/customerengagement/on-premises/admin/create-edit-security-role.md#create-a-security-role-by-copy-role) and [editing the copy role](../..//dynamics365/customerengagement/on-premises/admin/create-edit-security-role.md#edit-a-security-role).
 
 1. [Create a new security role](/dynamics365/customerengagement/on-premises/admin/create-edit-security-role).
 
