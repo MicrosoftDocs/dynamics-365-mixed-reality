@@ -1,5 +1,5 @@
 ﻿---
-title: Strategy for existing Power Platform engagement and Guides deployment
+title: Existing Power Platform engagement and Guides deployment strategy
 description: Learn about using an existing Power Platform to deploy Guides in a regulated industry
 ms.date: 03/09/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Strategy for existing Power Platform engagement and Guides deployment
+# Existing Power Platform engagement and Guides deployment strategy
 
 Before initiating deployment of Guides, the recommendation is to investigate whether your organization already makes use of Power Platform. If Power Platform is well-established within your organization, you should consider whether you want to deploy Guides to new environments or let Guides co-exist in an already-existing environment with other business applications such as [Microsoft Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/).
 
@@ -29,4 +29,4 @@ If you choose to have multiple business applications within the same environment
 
 ## Next steps
 
-- [Strategy for security and separations of environment access](strategy-for-security-and-separations-of-environment-access.md)
+- [Strategy for security and separation of environment access](strategy-for-security-and-separation-of-environment-access.md)

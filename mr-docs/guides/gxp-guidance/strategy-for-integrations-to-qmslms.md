@@ -1,5 +1,5 @@
 ﻿---
-title: Strategy for integrations to QMS/LMS
+title: Integration to QMS/LMS strategy
 description: Learn about integrating Power Platform, a Quality Management System (QMS), and  a Learning Management System (LMS) with Guides in a regulated industry
 ms.date: 03/13/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Strategy for integrations to QMS/LMS
+# Integration to QMS/LMS strategy
 
 Integrations are useful if you want to automate the manual process of data handover between systems, such as Power Platform and a Quality Management System (QMS). If you have a well-established approval workflow within your QMS, you can re-use this workflow and its process triggers for the automation of approval flows. For example, integration allows for automation of the creation of a QMS record entry, automation of making guides effective in an execution environment, and automation of retiring guides from being effective (for example, if a SOP within the QMS is retired or the related content is retired). Whether or not integrations are a requirement from the beginning, we recommend considering this topic in the initial phases of the implementation, as it influences the user journey as well as the data model to be established.
 

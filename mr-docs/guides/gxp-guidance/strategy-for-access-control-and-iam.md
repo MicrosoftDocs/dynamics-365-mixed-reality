@@ -1,5 +1,5 @@
 ﻿---
-title: Strategy for access control and IAM
+title: Access control and IAM strategy
 description: Learn about access control of Guides and Identity and Access Management in a regulated industry
 ms.date: 03/09/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Strategy for access control and IAM
+# Access control and IAM strategy
 
 When working in a regulated industry, maintaining full control of access is key. To do so, we recommend using the principle of least privilege (PoLP). PoLP is an information security concept stating that a user should only be granted access to the specific data, resources, and/or applications that are needed to complete the required task.
 

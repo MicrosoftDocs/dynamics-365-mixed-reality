@@ -1,5 +1,5 @@
 ﻿---
-title: Strategy for versioning guides
+title: Versioning guides strategy
 description: Learn about setting up a strategy for versioning guides in a regulated industry
 ms.date: 03/13/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Strategy for versioning guides
+# Versioning guides strategy
 
 To manage changes made to guides, use a versioning strategy. We recommend your organization distinguish between two types of versioning: major revisions and minor revisions.
 

@@ -1,5 +1,5 @@
 ﻿---
-title: Strategy for user control and access
+title: User control and access strategy
 description: Learn about restricting access and user controls
 ms.date: 03/09/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Strategy for user control and access
+# User control and access strategy
 
 When you implement Guides, we recommend your organization considers how to take control of users and their access. What a user can access and do in Guides on PC and HoloLens is impacted by the business unit, [owner teams](/power-apps/developer/data-platform/use-access-teams-owner-teams-collaborate-share-information), and security roles assigned to the user.
 

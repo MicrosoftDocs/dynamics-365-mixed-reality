@@ -29,4 +29,4 @@ When working with QR code anchors at a production site, best practices regarding
 
 ## Next steps
 
-- [Reusage of guides across sites](reusage-of-guides-across-sites.md)
+- [Reuse guides across sites](reuse-guides-across-sites.md)

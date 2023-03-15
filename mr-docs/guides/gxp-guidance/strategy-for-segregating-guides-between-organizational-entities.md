@@ -1,5 +1,5 @@
 ﻿---
-title: Strategy for segregating guides between organizational entities
+title: Segregate guides between organizational entities strategy
 description: Learn about ways to segregate guides between users or organizational groups
 ms.date: 03/09/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Strategy for segregating guides between organizational entities
+# Segregate guides between organizational entities strategy
 
 In regulated industries, organizations are usually comprised of several factories, labs, departments, and divisions. When implementing Guides into such organizations, make strategic decisions on how to ensure that guides are only visible and editable to the relevant entities and individuals. This can be achieved by segregating guides between organizational entities with the help of [folders](../admin-create-folders.md) and [business units](/power-platform/admin/create-edit-business-units).
 

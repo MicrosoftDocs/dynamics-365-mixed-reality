@@ -1,5 +1,5 @@
 ﻿---
-title: Strategy for content and 3D Toolkit ownership
+title: Content and 3D Toolkit ownership strategy
 description: Learn about controlling access to guides content in the 3D Toolkit in a regulated industry
 ms.date: 03/09/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Strategy for content and 3D Toolkit ownership
+# Content and 3D Toolkit ownership strategy
 
 When authoring guides, assets such as images, videos, and 3D objects are at the author's disposal. A 3D toolkit with standard objects such as pointers and arrows are pre-installed, while all additional content such as a 3D model of a machine part or approved company logos, are provided by your organization or its suppliers.
 

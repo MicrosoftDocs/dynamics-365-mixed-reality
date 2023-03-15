@@ -1,5 +1,5 @@
 ﻿---
-title: Strategy for security and separation of environment access
+title: Security and separation of environment access strategy
 description: Learn about restricted access, separate environments, and other security controls
 ms.date: 03/09/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Strategy for security and separation of environment access
+# Security and separation of environment access strategy
 
 Access to environments and content should be restricted and generally follow a least privilege principle. In Power Platform, this can be handled on different levels.
 
