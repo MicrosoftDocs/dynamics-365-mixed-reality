@@ -17,7 +17,7 @@ As mentioned in [govern guides through Power Platform environments and Power App
 
 While planning the setup, decide the extent of automatically assigned access. Determine how the process should integrate with the company's existing practices for controlling assignment of access rights and, for example, integration to the Identity Access Management (IAM) system.
 
-We recommend creating Azure Active Directory (AD) Security Groups for each environment and assigning to the respective environment. The advantage to this is that you can limit access to an environment based on the membership of the specific Security Group. This is done via the [Power Platform admin center](https://aka.ms/PPAC). Read more about restricting access to an environment in Guides here.
+We recommend creating Azure Active Directory (AD) Security Groups for each environment and assigning to the respective environment. The advantage to this is that you can limit access to an environment based on the membership of the specific Security Group. This is done through the [Power Platform admin center](https://aka.ms/PPAC). Read more about restricting access to an environment in Guides here.
 
 After assignment, only users that are members of the Azure AD Security Groups can be created in the respective Power Platform environments. For more information about assigning Azure AD Security Groups, see [Control user access to environments](/power-platform/admin/control-user-access). Be sure to separate both test and production environments and create separate security groups for all environments to specifically control access.
 
@@ -35,21 +35,17 @@ If your organization is utilizing the platform with [business units](/power-plat
 
 For effective management you need a scalable setup. We recommend automating permission management as much as possible. The process should preferably be linked to the IAM system. An example of a high-level process for creating a new author (where the user has an existing user account):
 
-1. A request is initiated to create an author via IAM system.
+1. A request is initiated to create an author through the IAM system.
 
 1. The request is routed through an approval chain.
 
 1. The user is assigned relevant Azure AD groups:
 
-    1. Group that gives the user correct licenses, for example, Dynamics 365 Guides license.
+    - Group that gives the user correct licenses, for example, Dynamics 365 Guides license.
+    - Group(s) that give the user access to relevant Power Platform environments.
+    - Group(s) that give the user membership of relevant Power Platform teams, which give the user the necessary security roles.
 
-    1. Group(s) that give the user access to relevant Power Platform environments.
-
-    1. Group(s) that give the user membership of relevant Power Platform teams, which give the user the necessary security roles.
-
-1. The user is assigned to the correct business unit:
-
-    1. This is normally a manual process but can be automated with Power App and/or Power Automate to ensure consistent assignment and link IAM.
+1. The user is assigned to the correct business unit, which is normally a manual process but can be automated with Power App and/or Power Automate to ensure consistent assignment and link IAM.
 
 For setups with multiple business units, the process requires that Azure AD security groups are created in each business unit for every role to add the user to the correct teams. Alternatively, you can assign teams directly in Power Platform.
 
@@ -57,4 +53,4 @@ In case steps are handled directly in Power Platform, we recommend creating a su
 
 ## Next steps
 
--[Strategy for test and deployment](strategy-for-test-and-deployment.md)
+- [Strategy for test and deployment](strategy-for-test-and-deployment.md)

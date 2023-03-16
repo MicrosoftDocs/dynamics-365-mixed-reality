@@ -19,9 +19,9 @@ Whenever your organization needs a new version of a guide that exists in an exec
 
 When creating a new major version of a guide, consider what to do with the guide that the new major version supersedes:
 
-1. Immediate retirement: retire the superseded guide to an archiving environment before authoring the new major version.
+- Immediate retirement: retire the superseded guide to an archiving environment before authoring the new major version.
 
-1. Supersede retirement: retire the superseded guide to an archiving environment when the new major version is approved and ready for execution.
+- Supersede retirement: retire the superseded guide to an archiving environment when the new major version is approved and ready for execution.
 
 If a procedure has changed and the current guide is no longer compliant, you might need to follow the **immediate retirement** approach as the current guide might jeopardize the safety and/or regulative procedures if instructions are launched and followed by an operator. Here, the first step is to retire the guide by moving it to archive. Next, you create, validate, and launch the new major version of the guide.
 

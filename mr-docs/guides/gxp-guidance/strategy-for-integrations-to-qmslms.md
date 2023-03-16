@@ -31,7 +31,7 @@ Executing the integrations manually allows you to maintain control of the proces
 
 As the solution matures, technical integrations are recommended to automatize processes otherwise handled manually. There are two options for a technical integration: point-to-point integration or API-based middleware integration.
 
-<u>Point-to-point integration</u> is when you connect two apps via custom code. It is a simple and efficient way to connect systems within your business. However, point-to-point integrations are not designed to keep up with changes, which means that the integration falls short whenever changes and/or updates are introduced to either of the connected systems. In that case, qualify and validate both systems. Keeping the integration connectors up to date can be time-consuming which is why you might not find this type of integration to be the best choice. The frequency of updates to the connected systems affects how viable point-to-point integration is in the long run.
+<u>Point-to-point integration</u> is when you connect two apps through custom code. It is a simple and efficient way to connect systems within your business. However, point-to-point integrations are not designed to keep up with changes, which means that the integration falls short whenever changes and/or updates are introduced to either of the connected systems. In that case, qualify and validate both systems. Keeping the integration connectors up to date can be time-consuming which is why you might not find this type of integration to be the best choice. The frequency of updates to the connected systems affects how viable point-to-point integration is in the long run.
 
 :::image type="content" source="media/point-to-point-integration.png" alt-text="Example of point-to-point integration":::
 
@@ -54,17 +54,17 @@ There are three factors to consider if you plan to connect Guides with your LMS:
 
 1. **Integration between QMS and LMS**
 
-Establish an integration between QMS and LMS to automate the transfer of training from QMS and LMS and to ensure synchronization. If you don't have an integration, manually ensure that training material is made available from the QMS to the LMS.
+   Establish an integration between QMS and LMS to automate the transfer of training from QMS and LMS and to ensure synchronization. If you don't have an integration, manually ensure that training material is made available from the QMS to the LMS.
 
 1. **User-based or device-based licenses**
 
-The approach to the LMS integration for evidence of completion depends on whether you use a [user-based or device-based Guides setup](hololens-devices.md#user-based-versus-device-based-setup). If you have a user-based setup, user statistics can provide proof of execution via logs in Power Platform. The regulatory requirements that apply to this logging as evidence, for example GxP and EU GDPR, must be verified with the QA department within the business as well as the Data Protection Officer (DPO).  
+   The approach to the LMS integration for evidence of completion depends on whether you use a [user-based or device-based Guides setup](hololens-devices.md#user-based-versus-device-based-setup). If you have a user-based setup, user statistics can provide proof of execution through logs in Power Platform. The regulatory requirements that apply to this logging as evidence, for example GxP and EU GDPR, must be verified with the QA department within the business as well as the Data Protection Officer (DPO).  
   
-If you have a device-based license, user statistics and logs cannot be used directly from Power Platform. Instead, you can create a functionality in the training flow (via a Power App) where employees sign-off from their profile and thereby provide proof of execution. This can be supported by a [digital signature](electronic-records-and-electronic-signature.md) component to be compliant with regulatory requirements for documentation. Furthermore, you can create an integrated functionality that enables users to evaluate the training as additional proof of execution. This approach can also be used for user-based license if QA and/or the DPO does not accept the Power Platform log as evidence for execution.
+   If you have a device-based license, user statistics and logs cannot be used directly from Power Platform. Instead, you can create a functionality in the training flow (through a Power App) where employees sign-off from their profile and thereby provide proof of execution. This can be supported by a [digital signature](electronic-records-and-electronic-signature.md) component to be compliant with regulatory requirements for documentation. Furthermore, you can create an integrated functionality that enables users to evaluate the training as additional proof of execution. This approach can also be used for user-based license if QA and/or the DPO does not accept the Power Platform log as evidence for execution.
 
 1. **Data model**
 
-As with the QMS integration, we recommend you prepare your data model for a LMS integration from the very beginning of the implementation. Adding a data field like "document type" in Power Platform eases the integration at a later point as it can be used to identify the records (guides) that are to be associated with LMS processes.
+   As with the QMS integration, we recommend you prepare your data model for a LMS integration from the very beginning of the implementation. Adding a data field like "document type" in Power Platform eases the integration at a later point as it can be used to identify the records (guides) that are to be associated with LMS processes.
 
 ## Next steps
 
