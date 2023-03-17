@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 02/28/2023
+ms.date: 03/31/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -17,6 +17,21 @@ ms.custom: bap-template
 This page provides details about the latest release in the **current wave of features (October 2022 through March 2023)** for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## April 4, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| |
+|HoloLens app (HoloLens 2 only)| |
+|Solution|800.2.0.0 |
+
+### Bugs fixed and other improvements
+
+- Significantly improved reliability to remote linking and the ability for HoloLens operators to draw directly in their vicinity with direct linking.
+- Added the ability for users to toggle their camera off before joining a Teams HoloLens meeting or making an outgoing call
+- Added badges on the participant tiles for Guest and External participants wherever contacts are shown such as in meetings, in a call, or in a contact search.
+- Added linking for Authors to link to another guide or open a custom app on a guide step.
 
 ## February 28, 2023
 
