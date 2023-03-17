@@ -219,7 +219,7 @@
 #### [Segregate guides between organizational entities strategy](gxp-guidance/strategy-for-segregating-guides-between-organizational-entities.md)
 #### [User control and access strategy](gxp-guidance/strategy-for-user-control-and-access.md)
 #### [Access control and Identity and Access Management strategy](gxp-guidance/strategy-for-access-control-and-iam.md)
-#### [Content and 3D Toolkit ownership strategy](gxp-guidance/strategy-for-content-and-3d-toolkit-ownership.md)
+#### [Content and 3D toolkit ownership strategy](gxp-guidance/strategy-for-content-and-3d-toolkit-ownership.md)
 #### [Versioning guides strategy](gxp-guidance/strategy-for-versioning-guides.md)
 #### [Integration to a Quality Management or Learning Management system strategy](gxp-guidance/strategy-for-integrations-to-qmslms.md)
 #### [Electronic records and electronic signature](gxp-guidance/electronic-records-and-electronic-signature.md)

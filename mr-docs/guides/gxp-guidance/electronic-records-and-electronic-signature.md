@@ -21,9 +21,9 @@ The scope of Part 11 is visually summarized by this table.
 |-------------------------|-------------------------|
 | Scope | All electronic records created, modified, maintained, archived, retrieved, or transmitted under FDA regulation – predicate rules. |
 | Electronic record management | Computer system validation requires: </br>- System-enforced workflow sequencing</br>- Accurate, complete record accessibility throughout the record retention period |
-| Audit Trail | Computer-generated date and time stamp for all changes, identification of operator/signing person, and purpose of the signature.</br> Available throughout the record retention period. |
-| Security | Role based access control to prevent unauthorized access.</br>Guidelines for ID/password management, electronic signatures, and system documentation control. |
-| Electronic signatures | Unique to one individual and not reusable.</br>Signature manifestation in human readable form must use at least two distinct identification components, such as ID and password.</br>Must certify to FDA binding authority of electronic signature before use. |
+| Audit Trail | - Computer-generated date and time stamp for all changes, identification of operator/signing person, and purpose of the signature.</br> - Available throughout the record retention period. |
+| Security | - Role based access control to prevent unauthorized access.</br>- Guidelines for ID/password management, electronic signatures, and system documentation control. |
+| Electronic signatures | - Unique to one individual and not reusable.</br>- Signature manifestation in human readable form must use at least two distinct identification components, such as ID and password.</br>- Before use, must certify to FDA binding authority of electronic signature. |
 
 21 CFR Part 11 requirements apply when defined by FDA [predicate rules](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application). Records and signatures must be met by companies using digital systems to manage compliance-related processes and documentation. 21 CFR Part 11 applies to records required to be maintained under the applicable regulation requirements:
 

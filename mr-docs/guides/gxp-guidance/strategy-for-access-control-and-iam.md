@@ -15,7 +15,7 @@ When working in a regulated industry, maintaining full control of access is key.
 
 To properly configure your Identity and Access Management (IAM) and maintain full access control of Guides content, we recommend you define roles, functionalities, and environments. If your organization has facilitated stakeholder workshops as suggested in [prerequisites for implementation and planning roll-out](prerequisites-for-implementation-and-planning-roll-out.md), you have most of the information needed to define these roles.
 
-**Define roles**
+## Define roles
 
 To properly set up your IAM, consider which roles are involved in the process flow that guides undergo from their creation to archiving. In a process flow that adheres to regulated industry requirements, two roles are mandatory: an author and a quality assurance (QA). The guide needs to be authored and it needs to be validated.
 
@@ -25,7 +25,7 @@ QA might need support to do validation from a technical reviewer that validates 
 
 :::image type="content" source="media/defined-roles.png" alt-text="Example of a set of defined roles within a Guides process flow":::
 
-**Define functionalities**
+## Define functionalities
 
 When the necessary roles have been defined, define which technical features each of these roles require.  
   
@@ -37,7 +37,7 @@ To limit the number of users that can edit the guide, assign a role within the f
 
 :::image type="content" source="media/defined-functionalities.png" alt-text="Example of a set of defined functionalities within a Guides flow":::
 
-**Create the access control structure**
+## Create the access control structure
 
 When roles and functionalities have been defined, determine which environment they belong to. Assigning specific roles to specific environments ensures that content remains compliant and controlled by the right roles. The following example demonstrates the combined roles, functions, and environments.
 

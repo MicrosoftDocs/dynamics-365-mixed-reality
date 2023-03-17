@@ -13,15 +13,14 @@ ms.custom: bap-template
 
 To manage changes made to guides, use a versioning strategy. We recommend your organization distinguish between two types of versioning: major revisions and minor revisions.
 
-**Major versions**
+## Major versions
 
 Whenever your organization needs a new version of a guide that exists in an execution environment, a new major version should be created. This means that a guide named "Guide 1.0" will change to "Guide 2.0". The "2.0" indicates that the updated guide has superseded a previous version. Major versioning enables tracking of changes made to the affected guides. A new major version of a guide needs to be validated, as with any other guide, before being moved to the execution stage. The version is logged in the Quality Management System (QMS) and thereby traceable.
 
 When creating a new major version of a guide, consider what to do with the guide that the new major version supersedes:
 
-- Immediate retirement: retire the superseded guide to an archiving environment before authoring the new major version.
-
-- Supersede retirement: retire the superseded guide to an archiving environment when the new major version is approved and ready for execution.
+- **Immediate retirement**: retire the superseded guide to an archiving environment before authoring the new major version.
+- **Supersede retirement**: retire the superseded guide to an archiving environment when the new major version is approved and ready for execution.
 
 If a procedure has changed and the current guide is no longer compliant, you might need to follow the **immediate retirement** approach as the current guide might jeopardize the safety and/or regulative procedures if instructions are launched and followed by an operator. Here, the first step is to retire the guide by moving it to archive. Next, you create, validate, and launch the new major version of the guide.
 
@@ -31,7 +30,7 @@ In another scenario, Power BI reports for usage data of the guide show that the 
 
 :::image type="content" source="media/superseded-retirement.png" alt-text="Example of superseded retirement":::
 
-**Minor versions**
+## Minor versions
 
 Whereas major versions are mandatory, minor versions are optional. Minor versions are all version changes made before the guide reaches the execution environment. If your organization doesn't find it necessary to track the content life cycle before the execution stage, minor versions can be left out.
 

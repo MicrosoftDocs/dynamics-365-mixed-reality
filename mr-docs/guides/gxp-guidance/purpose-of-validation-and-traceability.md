@@ -62,10 +62,8 @@ Regulated industries must qualify the Microsoft Power Platform as infrastructure
 - Platform Design Technical Specification
 - Risk Assessment, for example, the risk of having the wrong version of a guide made available to operators
 - Testing
-
   - Installation testing, for example, testing that the environments are correctly installed
   - Operational testing, for example, testing that the right users have the right accesses
-
 - Summary Qualification Report
 - Platform/Operational Manual, Training Material
 

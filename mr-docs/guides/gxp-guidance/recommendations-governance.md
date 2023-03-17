@@ -25,5 +25,5 @@ The following GxP sections contain articles that introduce relevant consideratio
 - [Power Platform strategy](strategy-for-existing-power-platform-engagement-and-guides-deployment.md)
 - [Administration](administration.md)
 - [Governance](anchor-guides-content-through-qr-codes-and-embed-deep-links.md)
-- [Platform qualification and app validation](platform-qualification-app-validations.md)
+- [Platform qualification and app validation](platform-qualification-app-validation.md)
 - [Organizational change management recommendations](recommendations-org-change-management.md)
