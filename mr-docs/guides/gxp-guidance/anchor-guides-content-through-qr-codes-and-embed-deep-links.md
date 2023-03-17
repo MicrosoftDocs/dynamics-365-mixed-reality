@@ -25,7 +25,7 @@ We recommend generating a unique QR code for each station or piece of equipment 
 
 Without deep links embedded, operators are presented with an overview of selectable guides from the execution environment with the risk of selecting the wrong guide. This poses a risk, particularly if you have machinery with similar instructions, or have multiple guides for the same machinery, like switching settings.
 
-When working with QR code anchors at a production site, best practices regarding [printing settings, size, location, orientation, and contrast](../pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors) help you succeed with anchoring and expedite QA validation of your guides. However, your industry's specific requirements might collide with these anchor best practices: you might be forced to compromise with best practices to stay compliant. For example, your organization requires laminated QR codes in a lab setting, even though glossy materials can negatively affect scanning due to reflected light.
+When working with QR code anchors at a production site, best practices regarding [printing settings, size, location, orientation, and contrast](../pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors) help you succeed with anchoring and expedite quality assurance (QA) validation of your guides. However, your industry's specific requirements might collide with these anchor best practices: you might be forced to compromise with best practices to stay compliant. For example, your organization requires laminated QR codes in a lab setting, even though glossy materials can negatively affect scanning due to reflected light.
 
 ## Next steps
 

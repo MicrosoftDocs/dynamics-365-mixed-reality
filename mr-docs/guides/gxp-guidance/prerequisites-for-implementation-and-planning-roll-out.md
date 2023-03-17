@@ -1,5 +1,5 @@
 ﻿---
-title: Prerequisites for implementation and planning roll-out
+title: Prerequisites for implementation and roll-out
 description: Learn the prerequisites before implementing Guides in a regulated industry and to help plan the roll-out of the solution
 ms.date: 03/09/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Prerequisites for implementation and planning roll-out
+# Prerequisites for implementation and roll-out
 
 As prerequisites for a successful Guides roll-out in regulated industries, it is advised to define the following elements in the initial phases of implementation:
 
@@ -20,7 +20,7 @@ As prerequisites for a successful Guides roll-out in regulated industries, it is
 
 **The Guides user journey**
 
-It is recommended to facilitate a series of internal stakeholder workshops for employees with Standard Operation Procedure (SOP) touchpoints. The group of stakeholders should include, but is not limited to, SOP authors, digital training consultants, business and IT QAs, Power Platform personnel from IT, and operators.
+It is recommended to facilitate a series of internal stakeholder workshops for employees with standard operating procedures (SOP) touchpoints. The group of stakeholders should include, but is not limited to, SOP authors, digital training consultants, business and IT quality assurance (QA) specialists, Power Platform personnel from IT, and operators.
 
 The purpose of the workshops is to receive stakeholder input on the relevant steps and roles involved from the creation of a guide until its archiving and identify potential pain points in the life cycle. When this information is mapped in a detailed user journey, it will help you design the right environment structure, the flow of guides between environments, and select the right roles to be associated with each environment. Furthermore, it will help identify existing systems your organization can tap into and processes to reuse and/or simplify.
 

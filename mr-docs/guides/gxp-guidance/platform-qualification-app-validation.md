@@ -1,5 +1,5 @@
 ---
-title: Platform qualification and app validations
+title: Platform qualification and app validation
 description: Learn about qualifying Power Platform and validating the Guides and Power Apps applications
 ms.date: 03/13/2023
 ms.topic: conceptual
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Platform qualification and app validations
+# Platform qualification and app validation
 
 Prerequisites for implementing Guides in regulated industries is that your organization:
 

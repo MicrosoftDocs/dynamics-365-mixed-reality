@@ -207,32 +207,33 @@
 ## [Dynamics 365 Guides US Government](gcc.md)
 
 ## Dynamics 365 Guides in regulated industries
-### [Recommendations for governance and usage](gxp-guidance/recommendations-governance.md)
+### [Dynamics 365 Guides in regulated industries overview](gxp-guidance/recommendations-governance.md)
+### Governance and usage recommendations
 #### [Govern guides through Power Platform and Power Apps](gxp-guidance/govern-guides-through-power-platform-environments-and-power-apps.md)
 #### [Common challenges and requirements](gxp-guidance/common-challenges-and-requirements.md)
-#### [Prerequisites for implementation and planning roll-out](gxp-guidance/prerequisites-for-implementation-and-planning-roll-out.md)
-### Establish a Power Platform strategy
+#### [Prerequisites for implementation and roll-out](gxp-guidance/prerequisites-for-implementation-and-planning-roll-out.md)
+### Power Platform strategy
 #### [Existing Power Platform engagement and Guides deployment strategy](gxp-guidance/strategy-for-existing-power-platform-engagement-and-guides-deployment.md)
 #### [Security and separation of environment access strategy](gxp-guidance/strategy-for-security-and-separation-of-environment-access.md)
 #### [Test and deployment strategy](gxp-guidance/strategy-for-test-and-deployment.md)
-#### [Segregating guides between organizational entities strategy](gxp-guidance/strategy-for-segregating-guides-between-organizational-entities.md)
+#### [Segregate guides between organizational entities strategy](gxp-guidance/strategy-for-segregating-guides-between-organizational-entities.md)
 #### [User control and access strategy](gxp-guidance/strategy-for-user-control-and-access.md)
-#### [Access control and IAM strategy](gxp-guidance/strategy-for-access-control-and-iam.md)
+#### [Access control and Identity and Access Management strategy](gxp-guidance/strategy-for-access-control-and-iam.md)
 #### [Content and 3D Toolkit ownership strategy](gxp-guidance/strategy-for-content-and-3d-toolkit-ownership.md)
 #### [Versioning guides strategy](gxp-guidance/strategy-for-versioning-guides.md)
-#### [Integrations to QMS/LMS strategy](gxp-guidance/strategy-for-integrations-to-qmslms.md)
+#### [Integration to a Quality Management or Learning Management system strategy](gxp-guidance/strategy-for-integrations-to-qmslms.md)
 #### [Electronic records and electronic signature](gxp-guidance/electronic-records-and-electronic-signature.md)
 ### [Administration](gxp-guidance/administration.md)
 #### [HoloLens devices](gxp-guidance/hololens-devices.md)
-#### [Power Platform Environments](gxp-guidance/power-platform-environments.md)
+#### [Power Platform environments](gxp-guidance/power-platform-environments.md)
 ### Governance
 #### [Anchor guides content through QR codes and embed deep links](gxp-guidance/anchor-guides-content-through-qr-codes-and-embed-deep-links.md)
 #### [Reuse guides across sites](gxp-guidance/reuse-guides-across-sites.md)
 #### [Asset governance](gxp-guidance/asset-governance.md)
-### [Platform qualification and app validations](gxp-guidance/platform-qualification-app-validations.md)
+### [Platform qualification and app validation](gxp-guidance/platform-qualification-app-validation.md)
 #### [Purpose of validation and traceability](gxp-guidance/purpose-of-validation-and-traceability.md)
 #### [Maintenance of the qualified and validated status](gxp-guidance/maintenance-of-the-qualified-and-validated-status.md)
-### [Recommendations for Organizational Change Management](gxp-guidance/recommendations-org-change-management.md)
+### [Organizational change management recommendations](gxp-guidance/recommendations-org-change-management.md)
 
 ## FAQ, known issues, and support
 ### [Get Help](help.md)

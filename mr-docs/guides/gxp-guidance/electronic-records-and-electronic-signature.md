@@ -28,7 +28,6 @@ The scope of Part 11 is visually summarized by this table.
 21 CFR Part 11 requirements apply when defined by FDA [predicate rules](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application). Records and signatures must be met by companies using digital systems to manage compliance-related processes and documentation. 21 CFR Part 11 applies to records required to be maintained under the applicable regulation requirements:
 
 - That are maintained in electronic format in place of paper format
-
 - Not specifically identified in FDA regulations but are submissions the FDA accepts in electronic format
 
 [**Electronic records**](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11&showFR=1&subpartNode=21:1.0.1.1.8.2) - Electronic records are data and information that are created, modified, archived, retrieved, and distributed by a computer system.
@@ -38,9 +37,7 @@ The scope of Part 11 is visually summarized by this table.
 The electronic signature guarantees:
 
 - Authenticity – the person who signed is part of the document information
-
 - Integrity – after the document is signed, the records can't be modified
-
 - Non-repudiation – the person who signed electronically cannot say it wasn't them
 
 **Digital signatures** (other than digitized signatures) – Digital signatures are a type of electronically-based signatures that have a higher level of security. To perform the digital signature, a username and two keys, public and private, must be used.
@@ -57,21 +54,14 @@ Audit trails:
 **Security** - Access must be limited to authorized individuals. The FDA recommends that:
 
 - Each user of the system has an individual account.
-
 - The system is designed to limit the number of log-in attempts and to record unauthorized access log-in attempts.
-
 - Users can only work under their own user profiles encompassing unique user IDs and individual passwords.
-
 - The system doesn't allow an individual to log into the system to provide another person access to the system.
-
 - Passwords or other access keys can be changed only at established intervals.
-
 - Users log off the system when leaving a workstation.
-
 - An automatic protection is installed to activate after short periods of inactivity to avoid unauthorized data entry.
 
 You can find other supporting material regarding the 21 CFR Part 11 topic here:
 
 - Use of Electronic Records and Electronic Signatures in Clinical Investigations Under 21 CFR Part 11 – [Questions and Answers: Draft Guidance for Industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-electronic-records-and-electronic-signatures-clinical-investigations-under-21-cfr-part-11)
-
 - Part 11, Electronic Records; Electronic Signatures - Scope and Application: [Guidance for Industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application)

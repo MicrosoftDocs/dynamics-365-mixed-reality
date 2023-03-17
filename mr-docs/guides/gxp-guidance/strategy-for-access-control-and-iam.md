@@ -1,7 +1,7 @@
 ﻿---
 title: Access control and IAM strategy
 description: Learn about access control of Guides and Identity and Access Management in a regulated industry
-ms.date: 03/09/2023
+ms.date: 03/17/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -9,7 +9,7 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Access control and IAM strategy
+# Access control and Identity and Access Management strategy
 
 When working in a regulated industry, maintaining full control of access is key. To do so, we recommend using the principle of least privilege (PoLP). PoLP is an information security concept stating that a user should only be granted access to the specific data, resources, and/or applications that are needed to complete the required task.
 
@@ -17,7 +17,7 @@ To properly configure your Identity and Access Management (IAM) and maintain ful
 
 **Define roles**
 
-To properly set up your IAM, consider which roles are involved in the process flow that guides undergo from their creation to archiving. In a process flow that adheres to regulated industry requirements, two roles are mandatory: an author and a QA. The guide needs to be authored and it needs to be validated.
+To properly set up your IAM, consider which roles are involved in the process flow that guides undergo from their creation to archiving. In a process flow that adheres to regulated industry requirements, two roles are mandatory: an author and a quality assurance (QA). The guide needs to be authored and it needs to be validated.
 
 Consider if a process owner would be involved in the initial steps of the Guides user journey. For example, a process owner could request the creation of a guide based on a need identified in production. If you wish to integrate the Guides process flow with existing processes such as a Quality Management System (QMS) or a Learning Management System (LMS), you might need a role that handles the integration process and ensures that systems are in sync.  
   
@@ -47,7 +47,7 @@ The environments each represent different stages of the content's life cycle. Wh
 
 The configured roles, functionalities, and environments can all be linked to your organization's existing IAM system by defining an [AD security group](/windows-server/identity/ad-ds/manage/understand-security-groups) with specific access and security elements related to each role. The benefit of this setup is that when users are granted a specific role, they are automatically provided with the necessary access to perform the assignments of the role they have. Furthermore, this IAM setup ensures that changes and terminations of access happen in a controlled and automated process in sync with the onboarding and offboarding of employees within the organization.
 
-:::image type="content" source="media/all-managed-elements.png" alt-text="A full overview of elements that can be managed by AD groups and linked to the IAM process and other systems of relevance":::
+:::image type="content" source="media/all-managed-elements.png" alt-text="A full overview of elements that can be managed by Active Directory (AD) groups and linked to the IAM process and other systems of relevance":::
 
 ## Next steps
 

@@ -9,9 +9,9 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Integration to QMS/LMS strategy
+# Integration to a Quality Management or Learning Management system strategy
 
-Integrations are useful if you want to automate the manual process of data handover between systems, such as Power Platform and a Quality Management System (QMS). If you have a well-established approval workflow within your QMS, you can re-use this workflow and its process triggers for the automation of approval flows. For example, integration allows for automation of the creation of a QMS record entry, automation of making guides effective in an execution environment, and automation of retiring guides from being effective (for example, if a SOP within the QMS is retired or the related content is retired). Whether or not integrations are a requirement from the beginning, we recommend considering this topic in the initial phases of the implementation, as it influences the user journey as well as the data model to be established.
+Integrations are useful if you want to automate the manual process of data handover between systems, such as Power Platform and a Quality Management System (QMS). If you have a well-established approval workflow within your QMS, you can re-use this workflow and its process triggers for the automation of approval flows. For example, integration allows for automation of the creation of a QMS record entry, automation of making guides effective in an execution environment, and automation of retiring guides from being effective (for example, if a standard operating procedure (SOP) within the QMS is retired or the related content is retired). Whether or not integrations are a requirement from the beginning, we recommend considering this topic in the initial phases of the implementation, as it influences the user journey as well as the data model to be established.
 
 **Prerequisites for integration with QMS/Categorizing content in a regulated context**
 
@@ -42,7 +42,7 @@ As the solution matures, technical integrations are recommended to automatize pr
 Whether it is wise to choose point-to-point integration or API-based middleware integrations depends on your enterprise architecture strategy and the tools you have available within your organization. If you have middleware integration software, it makes sense to choose the API-based middleware integration. If you don't have middleware integration software, then point-to-point integration might be the best fit.
 
 > [!NOTE]
-> All technical integrations must be a part of the potential GxP validation and test. This is an argument for starting with process-based integration as time to go-live can be reduced. Process-based integration also involves less maintenance work until a critical level of data transfer is needed.
+> All technical integrations must be a part of the potential Good {industry} Practice (GxP) validation and test. This is an argument for starting with process-based integration as time to go-live can be reduced. Process-based integration also involves less maintenance work until a critical level of data transfer is needed.
 
 **Integration to LMS**
 
@@ -58,7 +58,7 @@ There are three factors to consider if you plan to connect Guides with your LMS:
 
 1. **User-based or device-based licenses**
 
-   The approach to the LMS integration for evidence of completion depends on whether you use a [user-based or device-based Guides setup](hololens-devices.md#user-based-versus-device-based-setup). If you have a user-based setup, user statistics can provide proof of execution through logs in Power Platform. The regulatory requirements that apply to this logging as evidence, for example GxP and EU GDPR, must be verified with the QA department within the business as well as the Data Protection Officer (DPO).  
+   The approach to the LMS integration for evidence of completion depends on whether you use a [user-based or device-based Guides setup](hololens-devices.md#user-based-versus-device-based-setup). If you have a user-based setup, user statistics can provide proof of execution through logs in Power Platform. The regulatory requirements that apply to this logging as evidence, for example GxP and EU GDPR, must be verified with the quality assurance (QA) department within the business as well as the Data Protection Officer (DPO).  
   
    If you have a device-based license, user statistics and logs cannot be used directly from Power Platform. Instead, you can create a functionality in the training flow (through a Power App) where employees sign-off from their profile and thereby provide proof of execution. This can be supported by a [digital signature](electronic-records-and-electronic-signature.md) component to be compliant with regulatory requirements for documentation. Furthermore, you can create an integrated functionality that enables users to evaluate the training as additional proof of execution. This approach can also be used for user-based license if QA and/or the DPO does not accept the Power Platform log as evidence for execution.
 

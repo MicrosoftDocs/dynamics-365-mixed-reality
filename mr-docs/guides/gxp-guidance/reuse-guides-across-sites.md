@@ -21,24 +21,20 @@ We recommend generating a unique QR code for each station or piece of equipment 
 
 **QR code with deep links**
 
-- If your organization, [as recommended](anchor-guides-content-through-qr-codes-and-embed-deep-links.md), generates unique QR codes with deep links to unique validated guides, you still have to do this when replicating existing guides or utilizing guides as templates.
+If your organization, [as recommended](anchor-guides-content-through-qr-codes-and-embed-deep-links.md), generates unique QR codes with deep links to unique validated guides, you still have to do this when replicating existing guides or utilizing guides as templates.
 
 **Metadata**
 
 - A copy is automatically registered with a new ID. While not mandatory, we recommend storing the ID of the original guide as hidden metadata. This approach enables full traceability in relation to the origin of the copy. Whether or not to store the ID of the original guide as hidden metadata, the copy guide is something to decide upon when defining your [data model](prerequisites-for-implementation-and-planning-roll-out.md).
-
-- All metadata in a copy must be wiped and the author must fill out new metadata that corresponds to the given business unit and potential QA requirements for approval.
+- All metadata in a copy must be wiped and the author must fill out new metadata that corresponds to the given business unit and potential quality assurance (QA) requirements for approval.
 
 **The content in the guide**
 
 When copied, all guide content matches the content in the original. However, it is of utmost importance to ensure that:
 
 - The QR code in the guide is replaced with the new, unique QR code (in the case your organization is using unique QR codes with deep links to unique, validated guides).
-
 - The QR code is placed at the exact same location as on the original machinery or equipment. Otherwise, Guides can't place content correctly in physical space since the QR code functions as the anchor point.
-
-- All content within the guide is applicable for the new use case however similar the use case might be to the original. Your organization can face instances where information in the first step card needs to be updated, for example, if the name of the guide is changed, or if it refers to another SOP than the original guide.
-
+- All content within the guide is applicable for the new use case however similar the use case might be to the original. Your organization can face instances where information in the first step card needs to be updated, for example, if the name of the guide is changed, or if it refers to another standard operating procedure (SOP) than the original guide.
 - All the 3D content shepherding end-user attention must be validated and adjusted for correct placement.
 
 ## Next steps
