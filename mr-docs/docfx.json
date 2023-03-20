@@ -80,6 +80,17 @@
           "Mixed Reality"
         ]
       },
+      "search.app": {
+        "guides/**.*": [
+          "guides-docs"          
+        ],
+        "layout/**.*": [
+          "layout-docs"
+        ],
+        "remote-assist/**.*": [
+          "remoteassist-docs"
+        ]
+      },
       "ms.service": {
         "guides/**/**.*": "dynamics-365-guides",
         "import-tool/**/**.*": "dynamics-365-import-tool",
