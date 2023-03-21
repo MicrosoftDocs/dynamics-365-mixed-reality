@@ -1,7 +1,7 @@
 ﻿---
 title: Govern guides through Power Platform environments and Power Apps
 description: Learn about the separation of guides according to the life cycle stages using Power Platform or Power Apps
-ms.date: 03/09/2023
+ms.date: 03/20/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -21,7 +21,7 @@ Practically, a specific guide only lives in one environment at a time. However, 
 
 To facilitate a smooth flow of guides between environments, we recommend [Power App](/power-apps/powerapps-overview) to enable the relevant employees to transfer guides from one environment to another. Hereby, your organization can establish an audit trail with the required metadata being added to support the regulatory requirements of your industry, company quality controls, and traceability.
 
-The recommended flow structure between typical environments is illustrated below (arrows indicate the directions in which guides can be transferred). For instance, a guide can be transferred from authoring to validation and back again if it is deemed incorrect or not precise enough to be approved. However, a guide can't bypass the validation environment and must go through validation before being transferred to execution where it will be used by operators at a production line for example.
+The recommended flow structure between typical environments is illustrated below (arrows indicate the directions in which guides can be transferred). For instance, a guide can be transferred from authoring to validation and back again if it is deemed incorrect or not precise enough to be approved. However, a guide can't bypass the validation environment and must go through validation before being transferred to execution where it's used by operators at a production line for example.
 
 :::image type="content" source="media/flow-structure.png" alt-text="The recommended flow structure between 4 environments":::
 
@@ -33,7 +33,7 @@ During the first stage of a guide's life cycle, your organization creates the gu
 
 Since the guides in this environment are under creation, non-validated, and maybe even incomplete, it is paramount that end-users in a lab, for instance, cannot start using them. This is exactly the reason behind creating an authoring environment; that authors of a guide can create, develop, test, and evaluate the holographic content and wording without risking the guide being used before it is finalized, approved, and released for day-to-day usage.  
   
-In your organization, an author could be a training consultant, a project engineer, or an operator with specialized knowledge of a particular production equipment.
+In your organization, an author could be a training consultant, a project engineer, or an operator with specialized knowledge of a particular piece of production equipment.
 
 When guides are in this stage of their life cycle, it is the author's responsibility to:
 
@@ -45,7 +45,7 @@ When guides are in this stage of their life cycle, it is the author's responsibi
 
 The validation environment is used for validating, rejecting, and approving guides created by authors in the authoring environment.  
   
-Most likely, validating guides is a duty for your quality assurance (QA) specialists. The QA specialist validates, among other things, the guide's content (such as SOP adherence), the placement of 3D objects in the physical space, and the overall quality.
+Most likely, validating guides is a duty for your quality assurance (QA) specialists. The QA specialist validates, among other things, the guide's content (such as standard operating procedure (SOP) adherence), the placement of 3D objects in the physical space, and the overall quality.
 
 As a result of these evaluations, QA decides whether the guide is ready to use at, for example, a production site and therefore transferred to the execution environment, or if the guide needs additional authoring before being approved for use. In the latter case, the guide is transferred back to the authoring environment to improve the augmented instructions by using Power App.
 
@@ -75,7 +75,7 @@ Eventually, the guides your organization has authored, approved, and utilized be
   
 Guides can also become obsolete because an operator realizes that instructions in a guide could be more efficient or accurate. In these cases, the related guide needs to be updated by creating a new, corrected version. Because it is recommended to keep track of the evolution of guides, updating a faulty or less efficient guide involves a duplication of the guide if it has been accessible in the execution environment and make the guide in the execution environment obsolete. For more information, see [guides versioning](strategy-for-versioning-guides.md).
 
-You should keep obsolete guides for audit trail purposes as this can be a regulatory or business quality requirement. It is recommended retiring guides in an environment dedicated to archiving. The retention period for guides in the archive environment should be set according to industry requirements and other standards in your organization.
+You should keep obsolete guides for audit trail purposes as this can be a regulatory or business quality requirement. We recommend retiring guides in an environment dedicated to archiving. The retention period for guides in the archive environment should be set according to industry requirements and other standards in your organization.
 
 > [!NOTE]
 > Compared to the authoring environment, the archive environment might require additional regulatory controls and limitations to changes, access, and traceability.
