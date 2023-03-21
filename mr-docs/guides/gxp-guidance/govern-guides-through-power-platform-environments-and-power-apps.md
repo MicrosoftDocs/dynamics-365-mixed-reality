@@ -17,7 +17,7 @@ The separation of guides according to life cycle stages can be achieved by creat
 
 :::image type="content" source="media/gxp-lifecycle.png" alt-text="A typical guides life cycle":::
 
-Practically, a specific guide only lives in one environment at a time. However, [multiple versions of a guide can exist in different environments simultaneously](strategy-for-versioning-guides.md). By separating guides according to their life cycle stage, you reduce potential production errors resulting from a machine operator following instructions in an unfinished, non-validated and/or obsolete guide. At the same time, we recommend your organization enforces role-based access control through [business units](/power-platform/admin/create-edit-business-units) and [security roles](/power-platform/admin/security-roles-privileges) so that employees only have access to environments in which they have duties to fulfill. In this way, you ensure a strict split between data and user access.
+Practically, a specific guide only lives in one environment at a time. However, [multiple versions of a guide can exist in different environments simultaneously](strategy-for-versioning-guides.md). By separating guides according to their life cycle stage, you reduce potential production errors resulting from a machine operator following instructions in an unfinished, non-validated or obsolete guide. At the same time, we recommend your organization enforces role-based access control through [business units](/power-platform/admin/create-edit-business-units) and [security roles](/power-platform/admin/security-roles-privileges) so that employees only have access to environments in which they have duties to fulfill. In this way, you ensure a strict split between data and user access.
 
 To facilitate a smooth flow of guides between environments, we recommend [Power App](/power-apps/powerapps-overview) to enable the relevant employees to transfer guides from one environment to another. Hereby, your organization can establish an audit trail with the required metadata being added to support the regulatory requirements of your industry, company quality controls, and traceability.
 
@@ -83,3 +83,5 @@ You should keep obsolete guides for audit trail purposes as this can be a regula
 ## Next steps
 
 - [Common challenges and requirements](common-challenges-and-requirements.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

@@ -1,7 +1,7 @@
 ﻿---
 title: Power Platform environments
 description: Learn how to setup and maintain Power Platform environments to use with Dynamics 365 Guides
-ms.date: 03/13/2023
+ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 Learn how to setup and maintain [environments](/power-platform/admin/environments-overview) in Power Platform.
 
-## Setup Power Platform environments
+## Power Platform environment setup
 
 To administer environments, the [Power Platform admin center](https://aka.ms/ppac) is used to complete administrative tasks. Your organization will perform the following tasks, among other things:
 
@@ -22,13 +22,13 @@ To administer environments, the [Power Platform admin center](https://aka.ms/ppa
 - [Add databases](/power-platform/admin/create-database)
 - [Configure approved environment capacity](/power-platform/guidance/coe/capacity-alerting)
 - [Enable Dataverse audit logging](/power-platform/guidance/adoption/cds-usage#dataverse-audit-logging)
-- [Delete](/power-platform/admin/delete-environment), [recover](/power-platform/admin/recover-environment), [reset](/power-platform/admin/reset-environment), [copy](/power-platform/admin/copy-environment) and [backup](/power-platform/admin/backup-restore-environments) environments.
+- [Delete](/power-platform/admin/delete-environment), [recover](/power-platform/admin/recover-environment), [reset](/power-platform/admin/reset-environment), [copy](/power-platform/admin/copy-environment) and [backup](/power-platform/admin/backup-restore-environments) environments
 
 We recommend setting up a governance structure for handling and managing the administrative actions. This is relevant from a consumption as well as compliance perspective. If multiple employees within your organization create environments, for instance for training and testing, storage is automatically allocated to these environments by Power Platform. If environments are created every now and then and forgotten, unused environments will continuously drive consumption and cost for your organization. More importantly, unmanaged environments aren't compliant in terms of creating a transparent, followable audit trail.
 
 If your organization hasn't adopted Power Platform yet or is low in maturity, consider exploring the [Power Platform Center of Excellence (CoE) Starter kit](/power-platform/guidance/coe/starter-kit).
 
-## Maintain Power Platform environments
+## Power Platform environment maintenance
 
 To maintain your Power Platform environments, we recommend to:
 
@@ -49,3 +49,5 @@ To stay on top of coming Power Platform features and potential changes to your g
 ## Next steps
 
 - [Governance - Anchor guides content](anchor-guides-content-through-qr-codes-and-embed-deep-links.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

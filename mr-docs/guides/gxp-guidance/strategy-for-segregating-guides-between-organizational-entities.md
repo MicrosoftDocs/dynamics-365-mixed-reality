@@ -22,3 +22,5 @@ On top of business units, you can manually [share a guide](../admin-share-guide.
 ## Next steps
 
 - [Strategy for user control and access](strategy-for-user-control-and-access.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

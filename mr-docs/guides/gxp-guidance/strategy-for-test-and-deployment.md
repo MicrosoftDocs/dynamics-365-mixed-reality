@@ -29,8 +29,10 @@ Many of the aspects mentioned in this section can be used as a baseline for best
 
 ## Developing Power Apps for handling Guides approval flow
 
-The support and handling of the Guides process flow can be achieved by incorporating the approval process of your QA organization and combining this with the utilization of Power Apps. When developing these Power Apps for the organization, it needs to follow, and to some extend replicate, the existing QA processes into the Power Apps. When you are conducting the test planning of these processes, be in close dialogue with the QA specialists to ensure that each step is conducted in alignment with the organization. In many cases, this might mean the test plan includes separate test environment(s) for each part of the process, so the test is not overlapping with other parts of Power Platform. From a compliance perspective, verify that the different components across Power Platform are still operating as expected during a test period. Consider staging a new test environment to allow parallel verification of the solution and a running Power Platform.
+The support and handling of the Guides process flow can be achieved by incorporating the approval process of your QA organization and combining this with the utilization of Power Apps. When developing these Power Apps for the organization, it needs to follow, and to some extend replicate, the existing QA processes into the Power Apps. When you are conducting the test planning of these processes, be in close dialogue with the QA specialists to ensure that each step is conducted in alignment with the organization. In many cases, this might mean the test plan includes separate test environments for each part of the process, so the test is not overlapping with other parts of Power Platform. From a compliance perspective, verify that the different components across Power Platform are still operating as expected during a test period. Consider staging a new test environment to allow parallel verification of the solution and a running Power Platform.
 
 ## Next steps
 
 - [Strategy for segregating guides between organizational entities](strategy-for-segregating-guides-between-organizational-entities.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

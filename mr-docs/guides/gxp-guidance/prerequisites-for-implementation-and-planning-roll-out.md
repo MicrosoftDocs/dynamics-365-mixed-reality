@@ -22,7 +22,7 @@ As prerequisites for a successful Guides roll-out in regulated industries, it is
 
 We recommend facilitating a series of internal stakeholder workshops for employees with standard operating procedure (SOP) touchpoints. The group of stakeholders should include, but is not limited to, SOP authors, digital training consultants, business and IT quality assurance (QA) specialists, Power Platform personnel from IT, and operators.
 
-The purpose of the workshops is to receive stakeholder input on the relevant steps and roles involved from the creation of a guide until its archived and identify potential pain points in the life cycle. When this information is mapped in a detailed user journey, it helps you design the right environment structure, the flow of guides between environments, and select the right roles to be associated with each environment. Furthermore, it helps identify existing systems your organization can tap into and processes to reuse and/or simplify.
+The purpose of the workshops is to receive stakeholder input on the relevant steps and roles involved from the creation of a guide until its archived and identify potential pain points in the life cycle. When this information is mapped in a detailed user journey, it helps you design the right environment structure, the flow of guides between environments, and select the right roles to be associated with each environment. Furthermore, it helps identify existing systems your organization can tap into and processes to reuse or simplify.
 
 ## The data model
 
@@ -45,3 +45,5 @@ Consider the four elements above early in the process as they have significant i
 ## Next steps
 
 - [Establishing a Power Platform strategy for regulated industries](strategy-for-existing-power-platform-engagement-and-guides-deployment.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

@@ -1,7 +1,7 @@
 ﻿---
 title: Common challenges and requirements
 description: Consider questions regarding business and regulation requirements before implementing Dynamics 365 Guides
-ms.date: 03/13/2023
+ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -46,3 +46,5 @@ Additional questions might apply due to your industry's specific requirements. T
 ## Next steps
 
 - [Prerequisites for implementation and planning roll-out](prerequisites-for-implementation-and-planning-roll-out.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

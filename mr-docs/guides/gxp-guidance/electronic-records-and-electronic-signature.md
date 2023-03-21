@@ -1,7 +1,7 @@
 ﻿---
 title: Electronic records and electronic signature
 description: Learn about the use of electronic records and signatures when implementing Dynamics 365 Guides in a regulated industry
-ms.date: 03/13/2023
+ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -61,7 +61,9 @@ Audit trails:
 - Users log off the system when leaving a workstation.
 - An automatic protection is installed to activate after short periods of inactivity to avoid unauthorized data entry.
 
-You can find other supporting material regarding the 21 CFR Part 11 topic here:
+Other supporting material regarding 21 CFR Part 11:
 
-- Use of Electronic Records and Electronic Signatures in Clinical Investigations Under 21 CFR Part 11 – [Questions and Answers: Draft Guidance for Industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-electronic-records-and-electronic-signatures-clinical-investigations-under-21-cfr-part-11)
+- Use of Electronic Records and Electronic Signatures in Clinical Investigations Under 21 CFR Part 11 – [Questions and Answers: Draft Guidance for Industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-systems-electronic-records-and-electronic-signatures-clinical-investigations-questions)
 - Part 11, Electronic Records; Electronic Signatures - Scope and Application: [Guidance for Industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

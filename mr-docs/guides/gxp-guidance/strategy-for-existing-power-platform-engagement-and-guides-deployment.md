@@ -21,7 +21,7 @@ For regulated industries, we recommend deploying Guides in new environments with
 
 - **Update of applications** – if you have multiple business applications within the same environment, you might face difficulties whenever updates are required to the Guides application, as the other applications within the environment must pass the same tests. This can potentially slow down processes.
 
-- **Custom code or customization** – if any of the business applications within the same environment use custom code and/or customization, verify that these custom features do not impact the functionality of the Guides application. For example, custom changes to security roles or updates of the data model can have a direct or indirect impact on the Guides application.
+- **Custom code or customization** – if any of the business applications within the same environment use custom code or customization, verify that these custom features do not impact the functionality of the Guides application. For example, custom changes to security roles or updates of the data model can have a direct or indirect impact on the Guides application.
 
 - **Reference to Power Apps** - if you refer to any Power Apps via URL in your guides, consider if these Power Apps are within the same environment as your Guides application. If not, we recommend you investigate whether the access controls applied for Guides also applies for the referenced Power Apps. To keep track of the usage and purpose of selected Power Apps, we recommend using the CoE kit tools to track and register mission-critical business apps.
 
@@ -30,3 +30,5 @@ If you choose to have multiple business applications within the same environment
 ## Next steps
 
 - [Strategy for security and separation of environment access](strategy-for-security-and-separation-of-environment-access.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

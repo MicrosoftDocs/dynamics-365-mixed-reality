@@ -1,7 +1,7 @@
 ---
 title: Recommendations for Organizational Change Management
 description: Learn about change management and the role it plays when implementing Dynamics 365 Guides in a regulated industry
-ms.date: 03/13/2023
+ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -32,7 +32,7 @@ To foster organizational adoption and ensure buy-in from departments, managers, 
    - Establish a use case selection process to make sure that the training and job instruction processes in question are relevant to support via Guides.
      > [!TIP]
      > Processes that are complex (involving multiple steps, for instance), rare (and thereby difficult to remember), difficult (because they tend to cause deviations), and prone to frequent onboarding of new operators (due to high staff turnover, for instance) are usually relevant.
-   - Make a list of local requirements needed to succeed with Guides adoption, including but not limited to the following requirements: management approval, allocated resources for adoption, finalized role distribution (for example, who will be authors?), and site acceptance of a planned adoption timeline.
+   - Make a list of local requirements needed to succeed with Guides adoption, including but not limited to the following requirements: management approval, allocated resources for adoption, finalized role distribution (for example, who will be authors), and site acceptance of a planned adoption timeline.
 
 1. **Prepare for onboarding of areas/sites and onboard them**
 
@@ -55,3 +55,5 @@ To foster organizational adoption and ensure buy-in from departments, managers, 
    - Create a process for rolling out changes such as new software features.
    - Develop area and site key performance indicators (KPIs) to track the performance of Guides.
    - Regularly distribute user satisfaction surveys and incorporate or respond to the feedback given.
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

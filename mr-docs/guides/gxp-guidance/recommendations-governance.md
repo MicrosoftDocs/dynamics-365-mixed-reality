@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 Production companies within regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. [Microsoft HoloLens](/hololens) (HoloLens) with the software [Microsoft Dynamics 365 Guides](../index.md) (Guides) is an excellent example of such digital technology.
 
-Effectively replacing paper-based approaches, Guides leverages [mixed reality](/training/modules/intro-to-mixed-reality) to train and/or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides showing operators what needs to be done and where. As a result, production tasks are completed faster, with fewer errors, and with greater skill retention.
+Effectively replacing paper-based approaches, Guides leverages [mixed reality](/training/modules/intro-to-mixed-reality) to train or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides showing operators what needs to be done and where. As a result, production tasks are completed faster, with fewer errors, and with greater skill retention.
 
 However, when implementing Guides in a regulated industry, adhering to industry-specific quality guidelines and regulations such as Good {industry} Practice (GxP) is mandatory. This means that strict governance plus validation and qualification requirements are posed to job training and instruction as these activities are part of regulated processes in hospitals, laboratories, production, and others.
 
@@ -27,3 +27,5 @@ The following GxP sections contain articles that introduce relevant consideratio
 - [Governance](anchor-guides-content-through-qr-codes-and-embed-deep-links.md)
 - [Platform qualification and app validation](platform-qualification-app-validation.md)
 - [Organizational change management recommendations](recommendations-org-change-management.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

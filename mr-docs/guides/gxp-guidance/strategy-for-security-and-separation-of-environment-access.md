@@ -42,10 +42,10 @@ For effective management you need a scalable setup. We recommend automating perm
 1. The user is assigned relevant Azure AD groups:
 
     - Group that gives the user correct licenses, for example, Dynamics 365 Guides license.
-    - Group(s) that give the user access to relevant Power Platform environments.
-    - Group(s) that give the user membership of relevant Power Platform teams, which give the user the necessary security roles.
+    - Groups that give the user access to relevant Power Platform environments.
+    - Groups that give the user membership of relevant Power Platform teams, which give the user the necessary security roles.
 
-1. The user is assigned to the correct business unit, which is normally a manual process but can be automated with Power App and/or Power Automate to ensure consistent assignment and link IAM.
+1. The user is assigned to the correct business unit, which is normally a manual process but can be automated with Power App or Power Automate to ensure consistent assignment and link IAM.
 
 For setups with multiple business units, the process requires that Azure AD security groups are created in each business unit for every role to add the user to the correct teams. Alternatively, you can assign teams directly in Power Platform.
 
@@ -54,3 +54,5 @@ In case steps are handled directly in Power Platform, we recommend creating a su
 ## Next steps
 
 - [Strategy for test and deployment](strategy-for-test-and-deployment.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

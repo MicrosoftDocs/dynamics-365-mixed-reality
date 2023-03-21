@@ -33,7 +33,7 @@ With this combination of restrictions and abilities, your company data stays saf
 
 ## Restrict calling
 
-To restrict calling, first you create a new Microsoft Teams policy, and then you assign that policy to the appropriate user(s). 
+To restrict calling, first you create a new Microsoft Teams policy, and then you assign that policy to the appropriate users. 
 
 > [!TIP]
 > You can also assign policies to groups. [Learn more](/microsoftteams/assign-policies-users-and-groups) 

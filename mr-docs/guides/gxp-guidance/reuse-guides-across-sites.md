@@ -1,7 +1,7 @@
 ﻿---
 title: Reuse guides across sites
 description: Learn about using guides across multiple sites in a regulated industry and how to avoid issues
-ms.date: 03/13/2023
+ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -17,11 +17,11 @@ In such instances, the guide in question can be copied and the copy subsequently
 
 However, we recommend that your organization pay particular attention to the impact the copy process has on, among other things, the usage of QR codes with deep links, content in the guide and the related metadata such as name and ID.
 
-We recommend generating a unique QR code for each station or piece of equipment that has an associated guide and [embed a deep link](../pc-app-anchor-embed-qr-code-link.md) in each QR code to a unique, validated, guide existing in an [execution environment](govern-guides-through-power-platform-environments-and-power-apps.md#example-environment-3-execution-environment). This approach helps you be compliant with your organization's quality management processes because only approved and specific guides can be launched on location.
+We recommend generating a unique QR code for each station or piece of equipment that has an associated guide and [embed a deep link](../pc-app-anchor-embed-qr-code-link.md) in each QR code to a unique, validated guide existing in an [execution environment](govern-guides-through-power-platform-environments-and-power-apps.md#example-environment-3-execution-environment). This approach helps you be compliant with your organization's quality management processes because only approved and specific guides can be launched on location.
 
 ## Copy process impacts
 
-- **QR code with deep links**: If your organization, [as recommended](anchor-guides-content-through-qr-codes-and-embed-deep-links.md), generates unique QR codes with deep links to unique, validated guides, when replicating existing guides or utilizing guides as templates you must generate a unique QR code with deep links for the copy.
+- **QR code with deep links**: If your organization, [as recommended](anchor-guides-content-through-qr-codes-and-embed-deep-links.md), generates unique QR codes with deep links to unique, validated guides when replicating existing guides or utilizing guides as templates you must generate a unique QR code with deep links for the copy.
 
 - **Metadata**
 
@@ -38,3 +38,5 @@ We recommend generating a unique QR code for each station or piece of equipment 
 ## Next steps
 
 - [Asset governance](asset-governance.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

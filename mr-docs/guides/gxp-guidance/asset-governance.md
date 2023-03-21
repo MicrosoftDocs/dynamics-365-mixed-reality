@@ -1,7 +1,7 @@
 ﻿---
 title: Asset governance
 description: Learn what to consider for governance of assets used in guides in a regulated industry
-ms.date: 03/13/2023
+ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -34,3 +34,5 @@ In the early stages of a Guides implementation, asset governance might seem redu
 ## Next steps
 
 - [Platform qualification and app validation](platform-qualification-app-validation.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

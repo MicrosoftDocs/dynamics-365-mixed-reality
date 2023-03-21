@@ -1,7 +1,7 @@
 ﻿---
-title: Content and 3D Toolkit ownership strategy
-description: Learn about controlling access to guides content in the 3D Toolkit in a regulated industry
-ms.date: 03/09/2023
+title: Content and 3D toolkit ownership strategy
+description: Learn about controlling access to guides content in the 3D toolkit in a regulated industry
+ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -9,14 +9,14 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Content and 3D Toolkit ownership strategy
+# Content and 3D toolkit ownership strategy
 
 When authoring guides, assets such as images, videos, and 3D objects are at the author's disposal. A 3D toolkit with standard objects such as pointers and arrows are pre-installed, while all additional content such as a 3D model of a machine part or approved company logos, are provided by your organization or its suppliers.
 
-In the implementation process, consider how to distribute ownership and hereby access to content within Guides. Let's take the objects in the built-in 3D toolkit as an example:
+In the implementation process, consider how to distribute ownership and hereby access to content within Guides. Let's take the objects in the built-in 3D toolkit as an example.
 
 > [!NOTE]
-> It is assumed that your organization's Power Platform strategy is to spread data across environments and control access to guides via business units.
+> It is assumed that your organization's Power Platform strategy is to spread data across environments and control access to guides through business units.
 
 When the Guides solution is initially deployed, by default, the ownership of the 3D toolkit elements is assigned to the user deploying the solution. Since the 3D toolkit elements are likely to be used by several authors in your organization, you can assign the ownership to a parent business unit instead. If allowed by your security role settings, all users in the business unit and its associated child business units are given access to utilize the toolkit elements. Because all child business units inherit the access rights of its parent unit, be careful to choose the right ownership level to enable as well as restrict guides authors' content access.  
   
@@ -35,3 +35,5 @@ Also, whenever Microsoft adds 3D elements to the application package, ownership 
 ## Next steps
 
 - [Strategy for versioning guides](strategy-for-versioning-guides.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]

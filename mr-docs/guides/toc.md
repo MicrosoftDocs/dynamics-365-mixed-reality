@@ -223,7 +223,8 @@
 #### [Versioning guides strategy](gxp-guidance/strategy-for-versioning-guides.md)
 #### [Integration to a Quality Management or Learning Management system strategy](gxp-guidance/strategy-for-integrations-to-qmslms.md)
 #### [Electronic records and electronic signature](gxp-guidance/electronic-records-and-electronic-signature.md)
-### [Administration](gxp-guidance/administration.md)
+### Administration
+#### [Administrative layers](gxp-guidance/administration.md)
 #### [HoloLens devices](gxp-guidance/hololens-devices.md)
 #### [Power Platform environments](gxp-guidance/power-platform-environments.md)
 ### Governance

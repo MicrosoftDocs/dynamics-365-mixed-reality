@@ -122,7 +122,7 @@ When using Dynamics 365 Remote Assist on HoloLens:
 
 ### URLs and ports
 
-Review the *minimum* URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist app. If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network).
+Review the *minimum* URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist app. If you have specialized needs or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network).
 
 > [!NOTE]
 > US Government Community Cloud (GCC) environments require additional URLs to be added to the allowlist. For more information, see the following topics:

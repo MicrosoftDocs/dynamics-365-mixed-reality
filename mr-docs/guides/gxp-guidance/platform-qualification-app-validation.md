@@ -17,8 +17,10 @@ Prerequisites for implementing Guides in regulated industries is that your organ
 - Validate the Guides app
 - Validate the Power Apps
 
-The requirements for qualification and validation varies depending on industry. The following section is based on requirements for Life Science, as this industry demands one of the highest levels of regulatory requirements. You might find that some of the requirements are relevant to your organization despite not being within Life Science. The following section covers the general purpose of validation and traceability, as well as the documents to provide and the tasks to complete to qualify Power Platform, validate apps, and maintain the qualified or validated status.
+The requirements for qualification and validation varies depending on industry. The following section is based on requirements for life science, as this industry demands one of the highest levels of regulatory requirements. You might find that some of the requirements are relevant to your organization despite not being within life science. The following section covers the general purpose of validation and traceability, as well as the documents to provide and the tasks to complete to qualify Power Platform, validate apps, and maintain the qualified or validated status.
 
 ## Next steps
 
 - [Purpose of validation and traceability](purpose-of-validation-and-traceability.md)
+
+[!INCLUDE [footer-include](../../includes/footer-banner.md)]
