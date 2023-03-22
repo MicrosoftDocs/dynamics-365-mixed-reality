@@ -13,9 +13,9 @@ ms.custom: bap-template
 
 Production companies within regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. [Microsoft HoloLens](/hololens) (HoloLens) with the software [Microsoft Dynamics 365 Guides](../index.md) (Guides) is an excellent example of such digital technology.
 
-Effectively replacing paper-based approaches, Guides uses [mixed reality](/training/modules/intro-to-mixed-reality) to train or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides showing operators what needs to be done and where. As a result, production tasks are completed faster, with fewer errors, and with greater skill retention.
+Effectively replacing paper-based approaches, Guides uses [mixed reality](/training/modules/intro-to-mixed-reality) to train or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides showing operators what and where to do a task. As a result, production tasks are completed faster, with fewer errors, and with greater skill retention.
 
-However, when implementing Guides in a regulated industry, adhering to industry-specific quality guidelines and regulations such as Good {industry} Practice (GxP) is mandatory. Use strict governance, validation, and qualification requirements for job training and instruction as these activities are part of regulated processes in places such as hospitals, laboratories, and production.
+However, when implementing Guides in a regulated industry, you must adhere to industry-specific quality guidelines and regulations such as Good {industry} Practice (GxP). Use strict governance, validation, and qualification requirements for job training and instruction as these activities are part of regulated processes in places such as hospitals, laboratories, and production.
 
 In most cases, [Microsoft Power Platform](https://powerplatform.microsoft.com/en-us/what-is-power-platform/) (Power Platform) can be used to set up the required governance for Guides, while helping you to technically scale and manage the life cycle of guides within your enterprise.
 
