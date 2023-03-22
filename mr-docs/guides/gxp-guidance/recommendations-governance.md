@@ -28,4 +28,21 @@ The following GxP sections contain articles that introduce relevant consideratio
 - [Platform qualification and app validation](platform-qualification-app-validation.md)
 - [Organizational change management recommendations](recommendations-org-change-management.md)
 
+## Contributors
+
+*This article is maintained by Microsoft. It was originally written by the following contributors.*
+
+Principal authors:
+
+- [Johannes Riis](https://www.linkedin.com/in/johannesriis/) | Author's job title or similar
+- [Kasper Kronmann Nielsen ](https://www.linkedin.com/in/kasperkronmannnielsen/) | Author's job title or similar  
+
+Other contributors:
+
+- [Caroline Duus](https://www.linkedin.com/in/caroline-duus-23041a124/) | Contributor's job title or similar  
+- [Heidi Lundø Laursen](https://www.linkedin.com/in/heidi-lund%C3%B8-laursen-139032150/) | Contributor's job title or similar  
+- [Joeb Høfdinghoff Grønborg](https://www.linkedin.com/in/joeb-h%C3%B8fdinghoff-gr%C3%B8nborg-b7429333/) | Contributor's job title or similar  
+- [Kevin Helge Hansen-Schwartz](https://www.linkedin.com/in/kevinhhschwartz/) | Contributor's job title or similar  
+- [Milan Uhlár](https://www.linkedin.com/in/milan-uhl%C3%A1r-56341246/) | Contributor's job title or similar 
+
 [!INCLUDE [footer-include](../../includes/footer-banner.md)]
