@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Test and deployment strategy
 
-We recommend developing a governance strategy around the test and deployment of Power Apps as well as Power Platform's related components with links to DevOps and automation. Power Apps is a crucial part of the controls of content and approval required within a regulated industry to support the roll-out of Guides.  
+We recommend developing a governance strategy around the test and deployment of Power Apps and Power Platform's related components with links to DevOps and automation. Power Apps is a crucial part of the controls of content and approval required within a regulated industry to support the roll-out of Guides.  
   
 A governance strategy ensures the basics and best practices of conducting controlled, planned, test and deployment activities for Power Apps facilitated by, for example, Azure DevOps. It also helps secure the required amount of documentation for your regulated industry. Your organization should always confirm what documentation is required. However, a test plan, compliance requirements, version control, and deployment process are elements to consider. Sometimes, there are requirements for the user documentation itself.
 
@@ -21,7 +21,7 @@ Keeping the Power Apps in the right condition for test and deployment is crucial
 
 ## Software development lifecycle
 
-The SDLC entails guidance for what needs to be covered when developing Power Apps. It can include guidance for which Power App Canvas Templates to follow, specific themes, fonts, and layouts, as well as which recommended components to use. An SDLC also covers areas on how to conduct quality assurance, risk assessment, testing procedures, and coverage within areas like unit testing, acceptance testing, security testing, and performance testing. Lastly, the SDLC defines how to handle the Power App after deployment. It includes details on maintenance requirements, Power App processes, which relevant data that needs to be carried out, or, for example, how access to the app should be requested, who should approve it, and when access is reverted again.
+The SDLC entails guidance for what needs to be covered when developing Power Apps. It can include guidance for which Power App Canvas Templates to follow, specific themes, fonts, and layouts, and which recommended components to use. An SDLC also covers areas on how to conduct quality assurance, risk assessment, testing procedures, and coverage within areas like unit testing, acceptance testing, security testing, and performance testing. Lastly, the SDLC defines how to handle the Power App after deployment. It includes details on maintenance requirements, Power App processes, which relevant data that needs to be carried out, or, for example, how access to the app should be requested, who should approve it, and when access is reverted again.
 
 ## Application lifecycle management
 

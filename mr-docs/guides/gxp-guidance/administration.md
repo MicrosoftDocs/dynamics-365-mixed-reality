@@ -17,11 +17,11 @@ Your organization should focus on three administrative layers when implementing 
 - Power Platform (such as environments and Power Apps)
 - Software
   
-These elements must function independently as well as in conjunction with each other for Guides to run seamlessly. Otherwise, you risk malfunction which is critical from a product and a compliance perspective.
+These elements must function independently and with each other for Guides to run seamlessly. Otherwise, you risk malfunction, which is critical from a product and a compliance perspective.
 
-Overall, we recommend conducting a risk assessment to identify critical updates to devices, environments, and software. Based on the risk assessment, your organization should define if and where specific controls are needed to have devices, Power Platform components, and software in control.  
+We recommend conducting a risk assessment to identify critical updates to devices, environments, and software. Based on the risk assessment, your organization should define if and where specific controls are needed to have devices, Power Platform components, and software in control.  
   
-The articles in Administration link to common tasks you perform to set up and maintain HoloLens devices and Power Platform environments. However, be aware that this is not an exhaustive list.
+The articles in Administration link to common tasks you perform to set up and maintain HoloLens devices and Power Platform environments. However, this isn't an exhaustive list.
 
 ## Next steps
 

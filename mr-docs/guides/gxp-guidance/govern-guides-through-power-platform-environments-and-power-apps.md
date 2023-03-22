@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Govern guides through Power Platform environments and Power Apps
 
-Organizations must be in control of their data as well as who has access to what and when. To govern guides, we recommend regulated industry companies separate guides according to their life cycle stage. For example, is a specific guide under development or approved for daily usage? Depending on the life cycle stage of a guide, certain roles in your organization should be allowed to access and edit the guide and its content or restricted from accessing the guide altogether.
+Organizations must be in control of their data and who has access to what and when. To govern guides, we recommend regulated industry companies separate guides according to their life cycle stage. For example, is a specific guide under development or approved for daily usage? Depending on the life cycle stage of a guide, certain roles in your organization should be allowed to access and edit the guide and its content or restricted from accessing the guide altogether.
 
 The separation of guides according to life cycle stages can be achieved by creating Power Platform [environments](/power-platform/admin/environments-overview) corresponding to the relevant life cycle stages for your organization and industry. A typical life cycle is authoring, validation, execution, and archive.
 
