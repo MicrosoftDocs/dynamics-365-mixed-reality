@@ -5,4 +5,4 @@
 >
 > With Guides, the same remote experts can assist you through a problem while you have the holographic content of a Guide appearing before you.  
 >
-> [Learn more](../guides/ra-features-in-guides-8.md) and [try Guides](https://aka.ms/tryguides)!
+> [Learn more](https://go.microsoft.com/fwlink/?linkid=2227374) and [try Guides](https://go.microsoft.com/fwlink/?linkid=2227510)!
