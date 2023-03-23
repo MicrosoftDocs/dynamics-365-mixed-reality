@@ -38,7 +38,7 @@ For scaling over time, automated system integration is recommended, as it will a
 
 ## Notifications
 
-When creating a guide, there are multiple roles involved in the different steps of the content lifecycle. To ensure that you adhere to validation requirements and that the process runs smoothly, it is important that the correct roles are notified at the right time. For example, if a guide awaits approval in a validation environment, QA should be notified immediately. These notifications can be set up as e-mails, alerts, or whichever fits your organization's systems. Your organization should ensure there is a well-functioning flow among the systems as well as among the roles involved in the content lifecycle. Consider tapping into existing notification flows already working and known by users by system integrations.
+When creating a guide, there are multiple roles involved in the different steps of the content lifecycle. To ensure that you adhere to validation requirements and that the process runs smoothly, it is important that the correct roles are notified at the right time. For example, if a guide awaits approval in a validation environment, QA should be notified immediately. These notifications can be set up as e-mails, alerts, or whichever fits your organization's systems. Your organization should ensure there is a well-functioning flow among the systems and among the roles involved in the content lifecycle. Consider tapping into existing notification flows already working and known by users by system integrations.
 
 Consider the four elements above early in the process as they have significant influence on the overall implementation process and the possibilities for future development.
 

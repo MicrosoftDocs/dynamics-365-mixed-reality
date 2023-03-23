@@ -42,7 +42,7 @@ We recommend utilizing Windows Autopilot and Intune to ensure a proper governanc
 
 ## User-based versus device-based setup
 
-Depending on use case, cost, operation, and organizational policies, HoloLens as well as Guides can be operated in a user-based or [device-based](../device-license.md) setup. In user-based setup, individuals have their own Guides account, while a single device is used by multiple individuals under a shared user account in a device-based setup.  
+Depending on use case, cost, operation, and organizational policies, HoloLens and Guides can be operated in a user-based or [device-based](../device-license.md) setup. In user-based setup, individuals have their own Guides account, while a single device is used by multiple individuals under a shared user account in a device-based setup.  
   
 Usually, due to regulatory requirements, all authors and approvers of guides must have individual users, meaning the licensing structure must be user-based for these personas. If your organization has operators who will be regular users of guides, we recommend having individual usage accounts as well.
 
@@ -68,7 +68,7 @@ Maintenance of the HoloLens devices helps to ensure that the device is running e
 - [Restart, reset, or recover the HoloLens](/hololens/hololens-recovery) if experiencing issues with a device
 - Check if your organization is covered by [warranty](https://support.microsoft.com/en-us/warranty) if your device is broken.
 
-A charged, clean, and functional device is always important for individual safety as well as for instant availability of specific guides for operation. However, if you run a device-based setup where a HoloLens device is shared among employees, your organization can't rely on best practices but also needs a governance model for the operation of devices. This includes but is not limited to information on how to book HoloLens devices, register them as unavailable due to software errors or hardware damage, and where to store or charge them.
+A charged, clean, and functional device is always important for individual safety and for instant availability of specific guides for operation. However, if you run a device-based setup where a HoloLens device is shared among employees, your organization can't rely on best practices but also needs a governance model for the operation of devices. This includes but is not limited to information on how to book HoloLens devices, register them as unavailable due to software errors or hardware damage, and where to store or charge them.
 
 ## HoloLens device storage in cabinets with charging capabilities
 
