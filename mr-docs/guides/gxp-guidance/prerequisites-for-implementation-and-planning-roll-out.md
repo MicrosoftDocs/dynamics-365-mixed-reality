@@ -1,6 +1,6 @@
 ﻿---
 title: Prerequisites for implementation and roll-out
-description: Learn the prerequisites before implementing Guides in a regulated industry and to help plan the roll-out of the solution
+description: Learn the prerequisites before implementing Guides in a regulated industry and to help plan the roll-out of the solution.
 ms.date: 03/09/2023
 ms.topic: conceptual
 author: davepinch
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Prerequisites for implementation and roll-out
 
-As prerequisites for a successful Guides roll-out in regulated industries, it is advised to define the following elements in the initial phases of implementation:
+As prerequisites for a successful Dynamics 365 Guides roll-out in regulated industries, it is advised to define the following elements in the initial phases of implementation:
 
 - The Guides user journey
 - The data model
@@ -38,7 +38,7 @@ For scaling over time, automated system integration is recommended, as it will a
 
 ## Notifications
 
-When creating a guide, there are multiple roles involved in the different steps of the content lifecycle. To ensure that you adhere to validation requirements and that the process runs smoothly, it is important that the correct roles are notified at the right time. For example, if a guide awaits approval in a validation environment, QA should be notified immediately. These notifications can be set up as e-mails, alerts, or whichever fits your organization's systems. Your organization should ensure there is a well-functioning flow among the systems and among the roles involved in the content lifecycle. Consider tapping into existing notification flows already working and known by users by system integrations.
+When creating a guide, there are multiple roles involved in the different steps of the content life cycle. To ensure that you adhere to validation requirements and that the process runs smoothly, it is important that the correct roles are notified at the right time. For example, if a guide awaits approval in a validation environment, QA should be notified immediately. These notifications can be set up as e-mails, alerts, or whichever fits your organization's systems. Your organization should ensure there is a well-functioning flow among the systems and among the roles involved in the content life cycle. Consider tapping into existing notification flows already working and known by users by system integrations.
 
 Consider the four elements above early in the process as they have significant influence on the overall implementation process and the possibilities for future development.
 

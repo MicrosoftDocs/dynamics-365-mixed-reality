@@ -1,6 +1,6 @@
 ﻿---
 title: Integration to QMS/LMS strategy
-description: Learn about integrating Power Platform, a Quality Management System (QMS), and  a Learning Management System (LMS) with Guides in a regulated industry
+description: Learn about integrating Power Platform, a Quality Management System (QMS), and a Learning Management System (LMS) with Guides in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -15,7 +15,7 @@ Integrations are useful if you want to automate the manual process of data hando
 
 ## Prerequisites for integration with QMS/Categorizing content in a regulated context
 
-The immersive content that guides consist of is stored within Power Platform. This content cannot be launched within the QMS, which means that you: create a link between the QMS and the externally stored content (the guide) and associate or create a new document type/record type in QMS that is chosen for digital guides. For this specific document type/record type, define the related requirements and documentation needed. A minimum requirement is to have the Guide ID and the QMS document/record type ID in both systems. These two IDs are recommended as part of the data model from the beginning - even if automatic integration is not implemented at first. It is a prerequisite for enabling an automatic integration that the data to be exchanged are present in both systems' data models.
+The immersive content that guides consist of is stored within Power Platform. This content cannot be launched within the QMS, which means that you: create a link between the QMS and the externally stored content (the guide) and associate or create a new document type/record type in QMS that is chosen for digital guides. For this specific document type/record type, define the related requirements and documentation needed. A minimum requirement is to have the Dynamics 365 Guide ID and the QMS document/record type ID in both systems. These two IDs are recommended as part of the data model from the beginning - even if automatic integration is not implemented at first. It is a prerequisite for enabling an automatic integration that the data to be exchanged are present in both systems' data models.
 
 After data model definitions, determine the points of integration in the user journey and what activities (actions in the systems) that will trigger the data flow between the systems.
 

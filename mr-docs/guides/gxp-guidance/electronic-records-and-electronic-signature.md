@@ -1,6 +1,6 @@
 ﻿---
 title: Electronic records and electronic signature
-description: Learn about the use of electronic records and signatures when implementing Dynamics 365 Guides in a regulated industry
+description: Learn about the use of electronic records and signatures when implementing Dynamics 365 Guides in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Electronic records and electronic signature
 
-When deploying Guides in a regulated company, electronic records and electronic signatures are required (to a greater or lesser extent) to ensure traceability and compliance with regulatory requirements.
+When deploying Dynamics 365 Guides in a regulated company, electronic records and electronic signatures are required (to a greater or lesser extent) to ensure traceability and compliance with regulatory requirements.
 
 For example, within life science, the United States Food and Drug Administration's (FDA) defines the electronic records and electronic signatures. [21 CFR Part 11](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11) is a section in the Code of Federal Regulations (CFR) that sets forth FDA's regulation on using electronic records and electronic signatures. It defines the criteria under which electronic records and electronic signatures are accurate, authentic, trustworthy, reliable, confidential, and equivalent to paper records and handwritten signatures.
 
@@ -42,9 +42,7 @@ The electronic signature guarantees:
 
 **Digital signatures** (other than digitized signatures) – Digital signatures are a type of electronically based signatures that have a higher level of security. To perform the digital signature, a username and two keys, public and private, must be used.
 
-**Audit trail** – Audit trails are journals or records of modifications, by users or by processes operating on the user's behalf, to electronic-records. Data needs to be protected from unauthorized modification and destruction to enable detection and after-the-fact investigations of security violations.
-
-Audit trails:
+**Audit trail** – Audit trails are journals or records of modifications, by users or by processes operating on the user's behalf, to electronic-records. Data needs to be protected from unauthorized modification and destruction to enable detection and after-the-fact investigations of security violations. Audit trails:
 
 - Must be computer generated
 - Can't be modified by the individual who created them

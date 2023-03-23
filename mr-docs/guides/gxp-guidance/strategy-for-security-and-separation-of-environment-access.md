@@ -1,6 +1,6 @@
 ﻿---
 title: Security and separation of environment access strategy
-description: Learn about restricted access, separate environments, and other security controls
+description: Learn about restricted access, separate environments, and other security controls.
 ms.date: 03/09/2023
 ms.topic: conceptual
 author: davepinch
@@ -17,7 +17,7 @@ As mentioned in [govern guides through Power Platform environments and Power App
 
 While planning the setup, decide the extent of automatically assigned access. Determine how the process should integrate with the company's existing practices for controlling assignment of access rights and, for example, integration to the Identity Access Management (IAM) system.
 
-We recommend creating Azure Active Directory (AD) Security Groups for each environment and assigning to the respective environment. The advantage to this is that you can limit access to an environment based on the membership of the specific Security Group. This is done through the [Power Platform admin center](https://aka.ms/PPAC). Read more about restricting access to an environment in Guides here.
+We recommend creating Azure Active Directory (AD) Security Groups for each environment and assigning to the respective environment. The advantage to this is that you can limit access to an environment based on the membership of the specific Security Group. This is done through the [Power Platform admin center](https://aka.ms/PPAC). For more information, see [restricting access to an environment in Dynamics 365 Guides](../admin-security.md).
 
 After assignment, only users that are members of the Azure AD Security Groups can be created in the respective Power Platform environments. For more information about assigning Azure AD Security Groups, see [Control user access to environments](/power-platform/admin/control-user-access). Be sure to separate both test and production environments and create separate security groups for all environments to specifically control access.
 

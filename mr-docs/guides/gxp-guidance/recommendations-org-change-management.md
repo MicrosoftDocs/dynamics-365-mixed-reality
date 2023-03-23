@@ -1,6 +1,6 @@
 ---
-title: Recommendations for Organizational Change Management
-description: Learn about change management and the role it plays when implementing Dynamics 365 Guides in a regulated industry
+title: Recommendations for organizational change management
+description: Learn about change management and the role it plays when implementing Dynamics 365 Guides in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -9,11 +9,11 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Recommendations for Organizational Change Management
+# Recommendations for organizational change management
 
-Implementing and adopting mixed reality in organizations requires strong orchestrating efforts. New hardware, new software, and new ways of working must be addressed, managed, and governed through controlled processes and well-executed Organizational Change Management (OCM).
+Implementing and adopting mixed reality in organizations requires strong orchestrating efforts. New hardware, new software, and new ways of working must be addressed, managed, and governed through controlled processes and well-executed organizational change management (OCM).
 
-OCM is an important part of your implementation process because it helps to ensure that Guides is effectively adopted and integrated into your organization: If your operators do not take advantage of guides for training and job instruction in their daily work life at the production sites, HoloLens and Guides won't provide any organizational benefits despite being technically implemented in an industry compliant way.
+OCM is an important part of your implementation process because it helps to ensure that Dynamics 365 Guides is effectively adopted and integrated into your organization: If your operators do not take advantage of guides for training and job instruction in their daily work life at the production sites, HoloLens and Guides won't provide any organizational benefits despite being technically implemented in an industry compliant way.
 
 To foster organizational adoption and ensure buy-in from departments, managers, training consultants, operators, and others, we recommend four activities inspired by [Prosci's ADKAR® model](https://www.prosci.com/methodology/adkar):
 
@@ -44,7 +44,7 @@ To foster organizational adoption and ensure buy-in from departments, managers, 
    When onboarding sites:
 
    - Utilize a similar onboarding plan across areas/sites with a clear division of responsibility and roles to ensure coherent and adequate onboarding.
-   - Equip sites/areas with adoption and training "packages", consisting of, for instance: Guides' instructions for end-users (role-based), scripts and templates for workshops/meetings/emails (to the local project team), and executive summaries (for local management).
+   - Equip sites/areas with adoption and training "packages", consisting of, for instance: Guides' instructions for users (role-based), scripts and templates for workshops/meetings/emails (to the local project team), and executive summaries (for local management).
    - Ensure standardized Guides training, that is continuously updated based on learnings and improvements across all sites.
    - Define and deploy a "train the trainer" concept to scale the standardized Guides training through local "ambassadors". An important success criterion for the concept is the empowerment of frontline workers – are they capable of authoring and operating guides because of the training?
 

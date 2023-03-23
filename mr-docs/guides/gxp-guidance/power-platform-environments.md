@@ -1,6 +1,6 @@
 ﻿---
 title: Power Platform environments
-description: Learn how to setup and maintain Power Platform environments to use with Dynamics 365 Guides
+description: Learn how to setup and maintain Power Platform environments to use with Dynamics 365 Guides.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -38,7 +38,7 @@ To maintain your Power Platform environments, we recommend your organization:
 
 **Software compatibility**
 
-Check [Guides software compatibility](../admin-apps-solution-compatibility.md): The software versions of Guides on PC, HoloLens, and Power Platform environments must be compatible with each other. If not, the end-user on the PC and the HoloLens receive an error message asking them to contact their admin because of non-updated software.
+Check [Dynamics 365 Guides software compatibility](../admin-apps-solution-compatibility.md): The software versions of Guides on PC, HoloLens, and Power Platform environments must be compatible with each other. If not, the user on the PC and the HoloLens receive an error message asking them to contact their admin because of non-updated software.
 
 It's critical to have governance for software compatibility and a well-established process to ensure that all is risk assessed, tested and in synch with Microsoft's Guides release cycle.
 

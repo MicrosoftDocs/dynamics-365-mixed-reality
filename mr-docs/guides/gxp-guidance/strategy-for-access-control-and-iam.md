@@ -1,6 +1,6 @@
 ﻿---
 title: Access control and IAM strategy
-description: Learn about access control of Guides and Identity and Access Management in a regulated industry
+description: Learn about access control of Guides and Identity and Access Management in a regulated industry.
 ms.date: 03/17/2023
 ms.topic: conceptual
 author: davepinch
@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 When working in a regulated industry, maintaining full control of access is key. To do so, we recommend using the principle of least privilege (PoLP). PoLP is an information security concept stating that a user should only be granted access to the specific data, resources, or applications that are needed to complete the required task.
 
-To properly configure your Identity and Access Management (IAM) and maintain full access control of Guides content, we recommend you define roles, functionalities, and environments. If your organization has facilitated stakeholder workshops as suggested in [prerequisites for implementation and planning roll-out](prerequisites-for-implementation-and-planning-roll-out.md), you have most of the information needed to define these roles.
+To properly configure your Identity and Access Management (IAM) and maintain full access control of Dynamics 365 Guides content, we recommend you define roles, functionalities, and environments. If your organization has facilitated stakeholder workshops as suggested in [prerequisites for implementation and planning roll-out](prerequisites-for-implementation-and-planning-roll-out.md), you have most of the information needed to define these roles.
 
 ## Define roles
 
@@ -23,7 +23,7 @@ Consider if a process owner would be involved in the initial steps of the Guides
   
 QA might need support to do validation from a technical reviewer that validates the guide in-depth with their HoloLens. There is an operator role who launches and follows the instructions in the guide. The roles within your Guides flow fully depend upon your organization, your processes, and your needs. Identifying these roles in the preliminary implementation phases is key.
 
-:::image type="content" source="media/defined-roles.png" alt-text="Example of a set of defined roles within a Guides process flow":::
+:::image type="content" source="media/defined-roles.png" alt-text="Example of a set of defined roles within a Guides process flow.":::
 
 ## Define functionalities
 
@@ -35,7 +35,7 @@ The QA role has nothing to do with the actual creation of the guide, but it is c
 
 To limit the number of users that can edit the guide, assign a role within the flow who is responsible for delivering feedback across roles throughout the entire Guides flow. This is especially useful if you use both Power Platform and a QMS without automated integrations. In that case, this role would also be the binding link between the two platforms, ensuring that any comments made in the QMS in relation to rejection of a particular guide, are delivered to the author so they can adjust the guide accordingly. Introducing this linking role means that the author's access can be restricted to Power Platform only, and the QA's access can be restricted to the QMS only. This way you ensure that each role has limited access that keeps them within their defined role, their defined functionality, and their field of expertise. It is possible to support this process further if system integrations are made point-to-point or through a middle-layer integration platform.
 
-:::image type="content" source="media/defined-functionalities.png" alt-text="Example of a set of defined functionalities within a Guides flow":::
+:::image type="content" source="media/defined-functionalities.png" alt-text="Example of a set of defined functionalities within a Guides flow.":::
 
 ## Create the access control structure
 
@@ -43,7 +43,7 @@ When roles and functionalities have been defined, determine which environment th
 
 :::image type="content" source="media/combo-roles-functions-env.png" alt-text="Example of combined roles, functions, and environments":::
 
-The environments each represent different stages of the content's life cycle. While adhering to the PoLP and keeping the defined roles and needed functionalities in mind, it is possible to place each role within each environment. As illustrated, the author has access to the authoring environment and no other environments. This decision is based upon the definition of the role and the related functionalities which are to create, configure, and test guides. Hence, this role does not need access to any other parts of the content's lifecycle.
+The environments each represent different stages of the content's life cycle. While adhering to the PoLP and keeping the defined roles and needed functionalities in mind, it is possible to place each role within each environment. As illustrated, the author has access to the authoring environment and no other environments. This decision is based upon the definition of the role and the related functionalities which are to create, configure, and test guides. Hence, this role does not need access to any other parts of the content's life cycle.
 
 The configured roles, functionalities, and environments can all be linked to your organization's existing IAM system by defining an [AD security group](/windows-server/identity/ad-ds/manage/understand-security-groups) with specific access and security elements related to each role. The benefit of this setup is that when users are granted a specific role, they are automatically provided with the necessary access to perform the assignments of the role they have. Furthermore, this IAM setup ensures that changes and terminations of access happen in a controlled and automated process in sync with the onboarding and offboarding of employees within the organization.
 

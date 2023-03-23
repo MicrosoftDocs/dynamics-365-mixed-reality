@@ -1,6 +1,6 @@
 ﻿---
 title: Content and 3D toolkit ownership strategy
-description: Learn about controlling access to guides content in the 3D toolkit in a regulated industry
+description: Learn about controlling access to guides content in the 3D toolkit in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 When authoring guides, assets such as images, videos, and 3D objects are at the author's disposal. A 3D toolkit with standard objects such as pointers and arrows are pre-installed, while all additional content such as a 3D model of a machine part or approved company logos, are provided by your organization or its suppliers.
 
-In the implementation process, consider how to distribute ownership and hereby access to content within Guides. Let's take the objects in the built-in 3D toolkit as an example.
+In the implementation process, consider how to distribute ownership and hereby access to content within Dynamics 365 Guides. Let's take the objects in the built-in 3D toolkit as an example.
 
 > [!NOTE]
 > It is assumed that your organization's Power Platform strategy is to spread data across environments and control access to guides through business units.

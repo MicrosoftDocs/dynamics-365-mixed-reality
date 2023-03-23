@@ -1,6 +1,6 @@
 ﻿---
 title: Anchor guides content through QR codes and embed deep links
-description: Learn about anchoring guides content to pieces of equipment with QR codes and embedded QR code links when implementing Dynamics 365 Guides in a regulated industry
+description: Learn about anchoring guides content to pieces of equipment with QR codes and embedded QR code links when implementing Dynamics 365 Guides in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -11,11 +11,11 @@ ms.custom: bap-template
 
 # Anchor guides content through QR codes and embed deep links
 
-As an instructional tool, the attractiveness and effectiveness of Guides partly stem from the use of 3D content such as arrows to nudge end-users' attention towards specific points of interest on machinery.
+As an instructional tool, the attractiveness and effectiveness of Dynamics 365 Guides partly stem from the use of 3D content such as arrows to nudge users' attention towards specific points of interest on machinery.
 
 To create a successful and safe guide, the author should follow [3D object best practices](../hololens-app-place-holograms.md#best-practices-for-working-with-3d-content) when authoring instructions. Your organization should also choose a way for Guides to place holograms correctly in physical space, where the author intends a hologram to appear in relation to machinery.
 
-For example, if a 3D arrow indicates that the end-user must connect a wire to socket three out of five neighboring sockets, all stakeholders in your organization want to ensure an accurate placement of the hologram. Otherwise, you risk misguiding the operator and potentially cause an incorrect, potentially dangerous, assembly or operation of equipment.  
+For example, if a 3D arrow indicates that the user must connect a wire to socket three out of five neighboring sockets, all stakeholders in your organization want to ensure an accurate placement of the hologram. Otherwise, you risk misguiding the operator and potentially cause an incorrect, potentially dangerous, assembly or operation of equipment.  
 
 The placing of 3D objects in space is achieved through one of [four available anchoring methods](../pc-app-anchor.md#four-ways-to-anchor-a-guide):
 

@@ -1,6 +1,6 @@
 ﻿---
 title: Common challenges and requirements
-description: Consider questions regarding business and regulation requirements before implementing Dynamics 365 Guides
+description: Consider questions regarding business and regulation requirements before implementing Dynamics 365 Guides.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Common challenges and requirements
 
-When implementing Guides in regulated industries, it's a common mistake not to consider the business and regulation requirements from the beginning. In the implementation process, stakeholders from the business, IT, and Quality Assurance (QA) must work together to get requirements from the three competence areas aligned. Involve the competence areas throughout the work and have them approve how to govern and operate the framework established around Guides.
+When implementing Dynamics 365 Guides in regulated industries, it's a common mistake not to consider the business and regulation requirements from the beginning. In the implementation process, stakeholders from the business, IT, and Quality Assurance (QA) must work together to get requirements from the three competence areas aligned. Involve the competence areas throughout the work and have them approve how to govern and operate the framework established around Guides.
 
 Identify if QA processes and audit trails can be supported by existing processes and systems or implemented as part of the Guides solution. Determine the traceability for management and storage of the individual guides and versions.
 
@@ -26,7 +26,7 @@ For a successful scaling of Guides after a pilot, it's advised to address questi
 - How does your organization segregate data under regulatory controls and non-regulatory controls? For example, GxP versus non-GxP data.
 - How do you make access to content easy to scale? Consider this when building your data model.
 - What naming standards will be relevant to introduce from the beginning? For example, name of guides, content, Active Directory (AD) groups, business units, and folders.
-- What roles/personas are involved in the guides lifecycle?
+- What roles/personas are involved in the guides life cycle?
 - Who will manage the security and segregation of duty? And how?
 - How will you uniquely link the approved guides to the specific positions where they're to be executed? For example, through QR code, guide ID, or guide name.
 - How and who will maintain users and subscriptions?

@@ -1,6 +1,6 @@
 ﻿---
 title: Existing Power Platform engagement and Guides deployment strategy
-description: Learn about using an existing Power Platform to deploy Guides in a regulated industry
+description: Learn about using an existing Power Platform to deploy Guides in a regulated industry.
 ms.date: 03/20/2023
 ms.topic: conceptual
 author: davepinch
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Existing Power Platform engagement and Guides deployment strategy
 
-Before initiating deployment of Guides, we recommend investigating whether your organization already makes use of Power Platform. If Power Platform is well-established within your organization, consider whether you want to deploy Guides to new environments or let Guides co-exist in an already-existing environment with other business applications such as [Microsoft Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/).
+Before initiating deployment of Dynamics 365 Guides, we recommend investigating whether your organization already makes use of Power Platform. If Power Platform is well-established within your organization, consider whether you want to deploy Guides to new environments or let Guides co-exist in an already-existing environment with other business applications such as [Microsoft Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/).
 
 To get a quick overview of any current environments within your organization and the usage, install the [Power Platform Center of Excellence Starter Kit](/power-platform/guidance/coe/starter-kit) (CoE) within your tenant.
 

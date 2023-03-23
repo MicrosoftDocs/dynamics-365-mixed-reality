@@ -1,6 +1,6 @@
 ﻿---
 title: Purpose of validation and traceability
-description: Learn about the reasons for validation and traceability in a regulated industry 
+description: Learn about the reasons for validation and traceability in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -15,7 +15,7 @@ The purpose of validation is to ensure the consistency of any process or system 
 
 "*Confirmation by examination and provision of objective evidence that the particular requirements for a specific intended use can be consistently fulfilled* ([FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=820.3)).
 
-"*Establishment of documentary evidence that provides a high degree of assurance that a planned process will be uniformly in accordance with the expected specified results.*" ([WHO](https://www.who.int/teams/health-product-and-policy-standards/standards-and-specifications/norms-and-standards-for-pharmaceuticals/guidelines/production) guidance on the requirements of good manufacturing practices (GMP)).
+"*Establishment of documentary evidence that provides a high degree of assurance that a planned process will be uniformly in accordance with the expected specified results.*" ([The World Health Organization (WHO)](https://www.who.int/teams/health-product-and-policy-standards/standards-and-specifications/norms-and-standards-for-pharmaceuticals/guidelines/production) guidance on the requirements of good manufacturing practices (GMP)).
 
 These definitions have the following elements in common, in accordance with expected results:  
 
@@ -36,7 +36,7 @@ When starting the project, the high-level plan for the new solution should be in
 
 A good overall way of illustrating the project phases is the following V-model supported by [GAMP 5 2nd edition](https://ispe.org/publications/guidance-documents/gamp-5-guide-2nd-edition): A Risk-Based Approach to Compliant GxP Computerized Systems.
 
-:::image type="content" source="media/vmodel-gamp5.png" alt-text="Example of project phases using V-model supported by Gamp 5 2nd edition":::
+:::image type="content" source="media/vmodel-gamp5.png" alt-text="Example of project phases using V-model supported by Gamp 5 2nd edition.":::
 
 The V-model can be viewed not only as the development activities and testing of the system, but also their sequence, their interrelationships, and the validation process of the deliverables applicable to the validated computerized system. You need to keep and maintain interrelationships between requirements, specifications, and tests. This interrelationship is documented in the Traceability Matrix used within regulated areas.  
 
@@ -69,7 +69,7 @@ Regulated industries must qualify the Microsoft Power Platform as infrastructure
 
 ## Application validations
 
-Applications (such as Guides and Power Apps) that support business processes within regulated industries must be validated, which means that your organization must complete the following tasks:
+Applications (such as Dynamics 365 Guides and Power Apps) that support business processes within regulated industries must be validated, which means that your organization must complete the following tasks:
 
 - Initial Risk Assessment
 - Validation Plan
