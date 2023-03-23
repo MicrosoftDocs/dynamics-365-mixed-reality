@@ -28,4 +28,21 @@ The following GxP sections contain articles that introduce relevant consideratio
 - [Platform qualification and app validation](platform-qualification-app-validation.md)
 - [Organizational change management recommendations](recommendations-org-change-management.md)
 
+## Contributors
+
+*This content is maintained by Microsoft. It was originally written by the following contributors.*
+
+Principal authors:
+
+- [Johannes Riis](https://www.linkedin.com/in/johannesriis/) | NNIT Managing Specialist
+- [Kasper Kronmann Nielsen ](https://www.linkedin.com/in/kasperkronmannnielsen/) | NNIT Advisory Director
+
+Other contributors:
+
+- [Caroline Duus](https://www.linkedin.com/in/caroline-duus-23041a124/) | NNIT Mixed Reality Specialist
+- [Heidi Lundø Laursen](https://www.linkedin.com/in/heidi-lund%C3%B8-laursen-139032150/) | NNIT Dynamics 365 Consultant
+- [Joeb Høfdinghoff Grønborg](https://www.linkedin.com/in/joeb-h%C3%B8fdinghoff-gr%C3%B8nborg-b7429333/) | NNIT Mixed Reality Specialist  
+- [Kevin Helge Hansen-Schwartz](https://www.linkedin.com/in/kevinhhschwartz/) | NNIT Line Manager for Mixed Reality
+- [Milan Uhlár](https://www.linkedin.com/in/milan-uhl%C3%A1r-56341246/) | NNIT Senior Compliance Consultant
+
 [!INCLUDE [footer-include](../../includes/footer-banner.md)]
