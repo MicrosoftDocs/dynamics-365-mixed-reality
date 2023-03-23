@@ -30,7 +30,7 @@ The following GxP sections contain articles that introduce relevant consideratio
 
 ## Contributors
 
-*This article is maintained by Microsoft. It was originally written by the following contributors.*
+*This content is maintained by Microsoft. It was originally written by the following contributors.*
 
 Principal authors:
 
