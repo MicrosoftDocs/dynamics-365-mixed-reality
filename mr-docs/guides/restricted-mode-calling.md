@@ -15,7 +15,7 @@ ms.custom: bap-template
 
 # Restrict calling and the ability to search and access contacts in Dynamics 365 Guides for HoloLens
 
-If you [have a scenario where you need to protect company information](restricted-mode-overview.md), you can restrict the ability of Microsoft Dynamics 365 Guides users on HoloLens from:
+If you [have a scenario where you need to protect company information](restricted-mode-overview.md), you can restrict users of Dynamics 365 Guides on HoloLens from:
 
 - Initiating calls.
 - Searching for contacts and accessing contacts.
