@@ -41,13 +41,13 @@ To limit the number of users that can edit the guide, assign a role who is respo
 
 When roles and functionalities have been defined, determine which environment they belong to. Assigning specific roles to specific environments ensures that content remains compliant and controlled by the right roles. The following example demonstrates the combined roles, functions, and environments.
 
-:::image type="content" source="media/combo-roles-functions-env.png" alt-text="Example of combined roles, functions, and environments":::
+:::image type="content" source="media/combo-roles-functions-env.png" alt-text="Example of combined roles, functions, and environments.":::
 
 The environments each represent different stages of the content's life cycle. While adhering to the PoLP and keeping the defined roles and needed functionalities in mind, it is possible to place each role within each environment. As illustrated, the author has access to the authoring environment and no other environments. This decision is based upon the definition of the role and the related functionalities which are to create, configure, and test guides. Hence, this role does not need access to any other parts of the content's life cycle.
 
 The configured roles, functionalities, and environments can all be linked to your organization's existing IAM system by defining an [AD security group](/windows-server/identity/ad-ds/manage/understand-security-groups) with specific access and security elements related to each role. The benefit of this setup is that when users are granted a specific role, they are automatically provided with the necessary access to perform the assignments of the role they have. Furthermore, this IAM setup ensures that changes and terminations of access happen in a controlled and automated process in sync with the onboarding and offboarding of employees within the organization.
 
-:::image type="content" source="media/all-managed-elements.png" alt-text="A full overview of elements that can be managed by Active Directory (AD) groups and linked to the IAM process and other systems of relevance":::
+:::image type="content" source="media/all-managed-elements.png" alt-text="A full overview of elements that can be managed by Active Directory (AD) groups and linked to the IAM process and other systems of relevance.":::
 
 ## Next steps
 
