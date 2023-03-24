@@ -4,16 +4,16 @@ description: Learn how record a call from the Dynamics 365 Guides HoloLens app
 author:  Mamaylya
 manager: tfehr
 ms.topic: article
-ms.date: 10/17/2022
+ms.date: 03/24/2023
 ms.author: mamaylya
 ms.reviewer: v-wendysmith
 ---
 
 # Record a call from the Dynamics 365 Guides HoloLens app
 
-Recording a call in the Microsoft Dynamics 365 Guides HoloLens app is great for training or record-keeping purposes. The HoloLens app creates cloud-based recordings that are automatically uploaded to OneDrive for Business for the user who initiates the recording. When the recording finishes uploading, all call participants can access the recording through Microsoft Teams chat. 
+Recording a call in the Microsoft Dynamics 365 Guides HoloLens app is great for training or record-keeping purposes. The HoloLens app creates cloud-based recordings that are automatically uploaded to OneDrive for Business for the user who initiates the recording. When the recording finishes uploading, all call participants can access the recording through Microsoft Teams chat.
 
-You can record one-to-one or group calls. [Learn about prerequisites for Teams cloud meeting recordings and additional exceptions](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording) 
+You can record one-to-one or group calls. [Learn about prerequisites for Teams cloud meeting recordings and additional exceptions](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
 
 > [!NOTE]
 > A cloud recording layout is different from what participants in a call see. On a call, the video of the HoloLens user takes over the full stage for Teams users. In the recording, all video streams have the same amount of screen space. Read more about the [layout for this type of call](#cloud-based-recording-layout) before deciding whether to record using this method. You may also want to consider [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording). 
@@ -24,18 +24,18 @@ Call recording is not available to users [signed in to Dynamics 365 Guides as a 
 
 ## Overview of cloud-based recording 
 
-A cloud-based call recording can be initiated by the Dynamics 365 Guides Hololens user or the Teams user. The recorder is the owner of the video. The owner needs to give permission or download the video to share the recording beyond people on the call. 
+A cloud-based call recording can be initiated by the Dynamics 365 Guides Hololens user or the Teams user. The recorder is the owner of the video. The owner needs to give permission or download the video to share the recording beyond people on the call.
 
 ## Start a recording from the HoloLens app
 
-1. Select the **Recording** button. 
+1. Select the **Recording** button.
 
      ![Screenshot with Start Recording button highlighted.](media/call-recording-record-button.JPG)
 
-2. You'll see a message that lets you know that you're giving consent for the meeting to be recorded. 
-    
-    At the bottom left of the video card, you'll see an indicator to let you know that you're recording. This indicator remains visible even if you do another action such as opening a guide or file, so you always know whether a recording is ongoing. 
-    
+1. You'll see a message that lets you know that you're giving consent for the meeting to be recorded.
+
+    At the bottom left of the video card, you'll see an indicator to let you know that you're recording. This indicator remains visible even if you do another action such as opening a guide or file, so you always know whether a recording is ongoing.
+
     ![Screenshot with yellow arrow highlighting the persistent recording indicator.](media/calling-persistent-recording-indicator.JPG)
 
 3. To end the recording, press the **Recording** button again or end the call. 

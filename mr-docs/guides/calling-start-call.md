@@ -3,7 +3,7 @@ title: Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides
 author: Mamaylya
 description: Learn how to call a remote collaborator on Microsoft Teams from Dynamics 365 Guides on HoloLens
 ms.author: mamaylya
-ms.date: 10/17/2022
+ms.date: 03/24/2023
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -16,8 +16,8 @@ Dynamics 365 Guides supports the following types of calls:
 
 - **One-to-one call**. A one-to-one call includes two participants. For example, if you need help with a machine that you're repairing, start a one-to-one call with a remote expert.
 
-- **Group call**. A group call includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, any call participant can add the third person to form a group call. 
-    
+- **Group call**. A group call includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, any call participant can add the third person to form a group call.
+
 - **Meeting**. A meeting is a call scheduled through Teams or Outlook. Meetings can include any number of participants. For example, if you want to have a weekly inspection with your team, create a meeting so that everyone receives notifications about the meeting and can join the meeting. [Learn how to join a meeting from Dynamics 365 Guides](calling-meetings.md)
 
 > [!NOTE]
@@ -37,36 +37,36 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 ## Start a call from Dynamics 365 Guides
 
 > [!NOTE]
-> At this time, you can't receive a call in Dynamics 365 Guides from a Teams or Dynamics 365 Remote Assist user. You must initiate the call from Dynamics 365 Guides. 
+> At this time, you can't receive a call in Dynamics 365 Guides from a Teams or Dynamics 365 Remote Assist user. You must initiate the call from Dynamics 365 Guides.
 
-### Start a one-to-one call with a Teams contact in your organization 
+### Start a one-to-one call with a Teams contact in your organization
 
 1. Look at the palm of your hand to open the **Main** menu, and then select the **Communications** button.
 
-    ![Screenshot of Communications button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Communications button on Main menu")    
-        
-2. Do one of the following:
+    ![Screenshot of Communications button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Communications button on Main menu.")
 
-    - If the contact you want to call is listed in the **Recent** list, select the contact.      
+1. Do one of the following:
 
-    - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box. 
+    - If the contact you want to call is listed in the **Recent** list, select the contact.
 
-      ![Screenshot of Recent list with Search box below and holographic keyboard displayed.](media/calling-start-call-1.JPG "Screenshot of Recent list with Search box below and holographic keyboard displayed")   
-    
-3. In the window that appears, select the **Phone** button to call the contact. 
+    - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box.
 
-      ![Screenshot of call details screen.](media/calling-start-call-2.JPG "Screenshot of call details screen")
+      ![Screenshot of Recent list with Search box below and holographic keyboard displayed.](media/calling-start-call-1.JPG "Screenshot of Recent list with Search box below and holographic keyboard displayed.")
 
-    You'll see the contact's video feed, activity controls, calling controls, and the **Annotate** toolbar. The green indicator below the activity controls shows that you're on a call with that contact. This is useful as a reminder in case you select a different type of activity, such as opening a guide or file. 
+1. In the window that appears, select the **Phone** button to call the contact.
 
-    ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.JPG "Screenshot of video feed, controls, and Annotate toolbar")
-    
+      ![Screenshot of call details screen.](media/calling-start-call-2.JPG "Screenshot of call details screen.")
+
+    You'll see the contact's video feed, activity controls, calling controls, and the **Annotate** toolbar. The green indicator below the activity controls shows that you're on a call with that contact. This is useful as a reminder in case you select a different type of activity, such as opening a guide or file.
+
+    ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.JPG "Screenshot of video feed, controls, and Annotate toolbar.")
+
 > [!NOTE]
-> You can't mute or remove a call participant in a one-to-one call. 
-       
+> You can't mute or remove a call participant in a one-to-one call.
+
 ### Start a one-to-one call with a Teams contact outside your organization
 
-You can search for and call a Teams contact in another organization if your organization is federated with that organization. To call a federated contact, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Microphone** button if you prefer to use your voice). You won't see any search results if you enter just a name or a partial email address. 
+You can search for and call a Teams contact in another organization if your organization is federated with that organization. To call a federated contact, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Microphone** button if you prefer to use your voice). You won't see any search results if you enter just a name or a partial email address.
 
 After you call a federated contact, they appear in your recent contacts list, so you don't have to search for that contact again.
 
@@ -75,61 +75,61 @@ After you call a federated contact, they appear in your recent contacts list, so
 
 ### Group calls
 
-A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user or Dynamics 365 Remote Assist mobile user. 
+A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user or Dynamics 365 Remote Assist mobile user.
 
 > [!NOTE]
 > A Teams mobile user cannot annotate in a group call.
 
-On group calls, you can switch between participants' video feeds and mute or remove participants as needed. 
+On group calls, you can switch between participants' video feeds and mute or remove participants as needed.
 
 You can combine HoloLens users with Teams users in different combinations:
 
-- Multiple HoloLens users can collaborate on the same Dynamics 365 Guides call. 
+- Multiple HoloLens users can collaborate on the same Dynamics 365 Guides call.
 
-- Any Teams desktop user can choose any HoloLens user's space to annotate on if there is more than one HoloLens user. 
+- Any Teams desktop user can choose any HoloLens user's space to annotate on if there is more than one HoloLens user.
 
 - Multiple Teams desktop users can annotate on the same HoloLens user's space at the same time.
 
-#### Start a group call 
+#### Start a group call
 
-1. Start by calling one person as described above for a one-to-one call, and then select the **Open participants** button (or say "Guides, Open participants"). 
+1. Start by calling one person as described above for a one-to-one call, and then select the **Open participants** button (or say "Guides, Open participants").
 
-    ![Screenshot of one-to-one call with Open participants button highlighted.](media/calling-start-call-4.JPG "Screenshot of one-to-one call with Open participants button highlighted")
+    ![Screenshot of one-to-one call with Open participants button highlighted.](media/calling-start-call-4.JPG "Screenshot of one-to-one call with Open participants button highlighted.")
 
-    When you select the **Open participants** button, tiles for all participants on the call appear to the right of the video feed. The first tile shows the first person that you called. 
-        
-2. Select the **Add participants** button in the participants area (to the right of the video feed) to display a list of recent contacts.
+    When you select the **Open participants** button, tiles for all participants on the call appear to the right of the video feed. The first tile shows the first person that you called.
 
-    ![Screenshot of right side of screen with Participants button highlighted.](media/calling-start-call-5.JPG "Screenshot of right side of screen with Participants button highlighted")
-   
-3. Do one of the following:
+1. Select the **Add participants** button in the participants area (to the right of the video feed) to display a list of recent contacts.
+
+    ![Screenshot of right side of screen with Participants button highlighted.](media/calling-start-call-5.JPG "Screenshot of right side of screen with Participants button highlighted.")
+
+1. Do one of the following:
 
     - If the contact you want to add is listed in the **Recent** list, select the contact's tile, and then select **Show video**.
 
-    - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box. 
+    - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box.
 
-      ![Screenshot of Recent list with Search box and holographic keyboard showing.](media/calling-start-call-6.JPG "Screenshot of Recent list with Search box and holographic keyboard showing")
-      
+      ![Screenshot of Recent list with Search box and holographic keyboard showing.](media/calling-start-call-6.JPG "Screenshot of Recent list with Search box and holographic keyboard showing.")
+
 #### Mute a participant in a group call
 
-1. Select the **Open participants** button or say "Guides, Open participants." 
+1. Select the **Open participants** button or say "Guides, Open participants."
 
-2. Select the tile for the participant that you want to mute.
+1. Select the tile for the participant that you want to mute.
 
-3. When the tile flips over, select **Mute**. Muted participants can unmute themselves. 
+1. When the tile flips over, select **Mute**. Muted participants can unmute themselves.
 
 > [!Note]
-> If the call includes a large number of participants, you might experience performance issues, such as delays in viewing annotations and lower video resolution. [Learn more about the number of participants that can join a Microsoft Teams call](/microsoftteams/limits-specifications-teams#meetings-and-calls). 
+> If the call includes a large number of participants, you might experience performance issues, such as delays in viewing annotations and lower video resolution. [Learn more about the number of participants that can join a Microsoft Teams call.](/microsoftteams/limits-specifications-teams#meetings-and-calls).
 
 #### Remove a participant in a group call
 
-1. Select the **Open participants** button or say "Guides, Open participants." 
+1. Select the **Open participants** button or say "Guides, Open participants."
 
-2. Select the tile for the participant that you want to remove.
+1. Select the tile for the participant that you want to remove.
 
-3. When the tile flips over, select **Remove**.
+1. When the tile flips over, select **Remove**.
 
-#### Spotlighting in Dynamics 365 Guides 
+#### Spotlighting in Dynamics 365 Guides
 
 Dynamics 365 Guides supports [Teams spotlighting](https://support.microsoft.com/en-us/office/spotlight-someone-s-video-in-a-teams-meeting-58be74a4-efac-4e89-a212-8d198182081e). When someone is spotlighted in Teams, the video feed in Dynamics 365 Guides changes to show the spotlighted person. If the spotlighted person is the Dynamics 365 Guides user, the user will see a notification above the video feed that indicates that they've been spotlighted.
 
@@ -146,20 +146,20 @@ If you're on a longer call, the HoloLens device can become hot if it's using sev
 ## Receive a call in Teams desktop (PC or Mac) from a Dynamics 365 Guides user 
 
 > [!NOTE]
-> At this time, you can't call a Dynamics 365 Guides user from Teams desktop. The Dynamics 365 Guides user must initiate the call. 
+> At this time, you can't call a Dynamics 365 Guides user from Teams desktop. The Dynamics 365 Guides user must initiate the call.
 
 1. Launch the Teams app.
 
    > [!IMPORTANT]
    > If this is the first time you have launched Teams and you have not been invited to any other teams, Teams will automatically take you to the correct place. If you have been invited to other teams, you might need to switch to the appropriate organization.  
-   >     
+   >
    > To switch organizations, in the drop-down menu in the upper-right corner of the window, select the appropriate guest organization. Teams might take a few seconds to reload.
 
- 2. When you see an incoming call notification at the bottom right side of your screen, select **Audio** or **Video** to join the call.
+1. When you see an incoming call notification at the bottom right side of your screen, select **Audio** or **Video** to join the call.
 
 ### Use the call controls
 
-When you're on a call, you'll see the call controls at the bottom of the screen. The following table describes the call controls. 
+When you're on a call, you'll see the call controls at the bottom of the screen. The following table describes the call controls.
 
 |Button|Description|
 |------------|----------------------------------------------|
@@ -169,12 +169,12 @@ When you're on a call, you'll see the call controls at the bottom of the screen.
 |![Chat button.](media/calling-teams-chat-button.JPG)|Open a chat window to send text messages.| 
 |![Participants button.](media/calling-teams-participants-button.JPG)|See current participants, or add more.|
 
-To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. If you want to record the meeting, you can access the **Record** command here. 
+To use additional features, select the **More info** […] button. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. If you want to record the meeting, you can access the **Record** command here.
 
-## Receive a call in Teams mobile from a Dynamics 365 Guides user 
+## Receive a call in Teams mobile from a Dynamics 365 Guides user
 
 > [!NOTE]
-> At this time, you can't call a Dynamics 365 Guides user from Teams mobile. The Dynamics 365 Guides user must initiate the call. 
+> At this time, you can't call a Dynamics 365 Guides user from Teams mobile. The Dynamics 365 Guides user must initiate the call.
 
 Use the call controls at the bottom of the screen in Teams mobile for the following actions.
 
@@ -186,13 +186,13 @@ Use the call controls at the bottom of the screen in Teams mobile for the follow
 
 Select the **More info** [...] button to access the following additional commands:
 
-- **Toggle incoming video**: Turn incoming video off or on. You might want to do this to conserve your battery on your device or if incoming video is distracting. 
+- **Toggle incoming video**: Turn incoming video off or on. You might want to do this to conserve your battery on your device or if incoming video is distracting.
 - **Share your screen**: Your screen will pop up as a video for the Dynamics 365 Guides user.
-- **Start video with blur**: For iOS devices only, if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you, select this command. 
+- **Start video with blur**: For iOS devices only, if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you, select this command.
 - **Insert file**: Share a file.  
 
 > [!TIP]
-> Turn your phone horizonal to see more of the Dynamics 365 Guides user’s environment.  
+> Turn your phone horizontal to see more of the Dynamics 365 Guides user’s environment.  
 
 ## See also
 
