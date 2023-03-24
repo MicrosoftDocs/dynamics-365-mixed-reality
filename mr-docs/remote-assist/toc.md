@@ -93,6 +93,7 @@
 
 ### Metadata references
 #### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
+#### [msdyn_customerasset entity reference](msdyn_customerasset.md)
 #### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
 
