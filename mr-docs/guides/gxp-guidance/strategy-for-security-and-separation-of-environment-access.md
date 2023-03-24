@@ -1,7 +1,7 @@
 ﻿---
 title: Security and separation of environment access strategy
 description: Learn about restricted access, separate environments, and other security controls.
-ms.date: 03/09/2023
+ms.date: 03/24/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -29,7 +29,7 @@ The usage of owner teams has two major benefits:
 
 1. Simplifies the assignment process. An author, for example, needs both the author role and the basic user role to access the required functionality. By assigning the security roles to an author team, it is possible to give new authors the necessary roles just by adding them to the owner team.
 
-:::image type="content" source="media/author-team.png" alt-text="Example of an owner team and security roles":::
+:::image type="content" source="media/author-team.png" alt-text="Example of an owner team and security roles.":::
 
 If your organization is utilizing the platform with [business units](/power-platform/admin/create-edit-business-units), an owner team is automatically created per business unit. The owner team can be used to assign the proper security roles if this specific business unit only contains users for one role, for instance authors. However, in many cases, multiple roles are divided into one business unit which requires additional owner teams to be created and assigned relevant security roles. By default, each user is assigned to one business unit during the user creation process, but additional access to other business units can occur by assigning to a specific owner team.
 

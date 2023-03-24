@@ -1,7 +1,7 @@
 ﻿---
 title: Access control and IAM strategy
 description: Learn about access control of Guides and Identity and Access Management in a regulated industry.
-ms.date: 03/17/2023
+ms.date: 03/24/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
