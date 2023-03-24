@@ -924,4 +924,4 @@ These attributes return false for both **IsValidForCreate** or **IsValidForUpdat
 |RequiredLevel|None|
 |Type|BigInt|
 
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
