@@ -27,7 +27,7 @@ The Dynamics 365 Remote Assist application is supported on:
 - [HoloLens](/hololens/hololens1-hardware)
 - [HoloLens 2](/hololens/hololens2-hardware)
 - Qualifying [Android](https://developers.google.com/ar/discover/supported-devices) mobile phones or tablets
-- Qualifying [iOS](https://www.apple.com/ios/augmented-reality/) mobile phones and tablets
+- Qualifying [iOS](https://www.apple.com/augmented-reality/) mobile phones and tablets
 
 Individuals without the Dynamics 365 Remote Assist app can join a [Dynamics 365 Remote Assist call](./mobile-app/making-calls-on-remote-assist-mobile.md) using the Teams application on a [Windows 10 PC or Mac](teams-pc-all.md), or [mobile device](teams-mobile-all.md).
 
