@@ -11,19 +11,18 @@ ms.custom: bap-template
 
 # Restrict calling and the ability to search and access contacts in Dynamics 365 Guides for HoloLens
 
-If you [have a scenario where you need to protect company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Guides users on HoloLens from:
+If you [have a scenario where you need to protect company information](restricted-mode-overview.md), you can restrict the ability of Microsoft Dynamics 365 Guides users on HoloLens from:
 
-- Initiating calls
-
-- Searching for contacts and accessing contacts
+- Initiating calls.
+- Searching for contacts and accessing contacts.
 
 When you restrict calling for Dynamics 365 Guides users, they can still join a meeting.
 
-With this combination of restrictions and abilities, your company data stays safe and Dynamics 365 Guides users can continue to join meetings to troubleshoot issues with colleagues on an ad-hoc basis.
+With this combination of restrictions and abilities, your company data stays safe and Dynamics 365 Guides users can continue to join meetings to troubleshoot issues with colleagues on an ad hoc basis.
 
 ## Restrict calling
 
-To restrict calling, first create a new Microsoft Teams policy, and then assign that policy to the appropriate user(s). The policy applied to a user takes effect on all devices and applications the user signs into, not just Guides.
+To restrict calling, first create a new Microsoft Teams policy, and then assign that policy to the appropriate users. The policy applied to a user takes effect on all devices and applications the user signs in to, not just Guides.
 
 1. Go to the [Microsoft Teams admin center](https://admin.teams.microsoft.com) and sign in with your admin credentials.
 
@@ -32,11 +31,11 @@ To restrict calling, first create a new Microsoft Teams policy, and then assign 
     ![Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted.](media/restricted-mode-calling-add-policy.jpg "Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted")
 
     > [!NOTE]
-    > [Learn about Microsoft Teams policies supported by Dynamics 365 Guides](/dynamics365/mixed-reality/remote-assist/teams-policies)
+    > [Learn about Microsoft Teams policies supported by Dynamics 365 Guides.](/dynamics365/mixed-reality/remote-assist/teams-policies)
 
 1. Enter a name for your policy, turn the **Make private calls** setting to **Off**, and then select **Save**.
 
-1. [Assign policy to individual users or groups](/microsoftteams/assign-policies-users-and-groups).
+1. [Assign policy to individual users or groups.](/microsoftteams/assign-policies-users-and-groups)
 
 1. Apply the calling policy you created.
 
