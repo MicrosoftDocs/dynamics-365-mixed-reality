@@ -1,6 +1,6 @@
 ﻿---
 title: Asset governance
-description: Learn what to consider for governance of assets used in guides in a regulated industry
+description: Learn what to consider for governance of assets used in guides in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -19,17 +19,17 @@ When authoring guides, apart from text, you'll use a range of assets to create i
 
 Just like the authored guides at large, your organization should govern the individual assets and keep them compliant. Make sure the rights to use the assets are in place and that the assets are always updated to the latest version. For this purpose, your organization should consider, among other things, these questions:
 
-- Do you have the Intellectual Property Rights (IPR) to use the assets? IPR is particularly relevant for externally produced assets and hybrid assets.
+- Do you have the Intellectual Property Rights (IPRs) to use the assets? IPRs are relevant for externally produced assets and hybrid assets.
   > [!TIP]
   > When procuring new machinery, make sure that your organization's rights of use also apply to machine drawings.
 
-- If you have the IPR, what are potential usage restrictions? Is location of usage limited to certain countries, regions, factories? Is the IPR limited in time?
+- If you have the IPRs, what are potential usage restrictions? Is location of usage limited to certain countries, regions, factories? Are the IPRs limited in time?
 - In your organization, who will be assigned ownership of the asset (from a technical and practical point of view)?
-- How will you ensure that the asset owner gets a request to remove the asset from the content library or replace with a newer version? For example, if usage rights are revoked or if your company logo gets a graphic makeover. For externally produced assets and hybrid assets, consider setting up a governance structure where your procurement section acts as a link between a supplier and your company's asset owner. In this context, it is important for asset owners to keep an overview of where their assets are used (in which guides) to be able to identify guides impacted by changes.
+- How will you ensure that the asset owner gets a request to remove the asset from the content library or replace with a newer version? For example, if usage rights are revoked or if your company logo gets a graphic makeover. For externally produced assets and hybrid assets, consider setting up a governance structure where your procurement section acts as a link between a supplier and your company's asset owner. In this context, it's important for asset owners to keep an overview of where their assets are used (in which guides) to be able to identify guides impacted by changes.
 - How will you ensure that guides authors are notified of removed or updated assets so that the author can revise guides accordingly? Establish a workflow between your asset owners and guides authors.
 - What naming conventions will support asset governance? Incorporating information such as asset type, expiration date, and geo-restrictions into the asset name will help asset owners and guides authors handle the asset appropriately.
 
-In the early stages of a Guides implementation, asset governance might seem redundant because the project team is close to all processes. Over time, as Guides usage scales throughout your organization and machine parts, including its manuals, become obsolete and replaced, maintaining assets will be difficult if asset governance has not been established. Most likely, utilizing an outdated asset in guides is non-compliant with your industry's Good {industry} Practice (GxP) requirements.
+In the early stages of a Dynamics 365 Guides implementation, asset governance might seem redundant because the project team is close to all processes. Over time, as Guides usage scales throughout your organization and machine parts, including its manuals, become obsolete and replaced, maintaining assets will be difficult without asset governance. Most likely, utilizing an outdated asset in guides is non-compliant with your industry's Good {industry} Practice (GxP) requirements.
 
 ## Next steps
 

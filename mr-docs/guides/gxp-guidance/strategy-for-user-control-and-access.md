@@ -1,7 +1,7 @@
 ﻿---
 title: User control and access strategy
-description: Learn about restricting access and user controls
-ms.date: 03/09/2023
+description: Learn about restricting access and user controls.
+ms.date: 03/23/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # User control and access strategy
 
-When you implement Guides, we recommend your organization considers how to take control of users and their access. What a user can access and do in Guides on PC and HoloLens is impacted by the business unit, [owner teams](/power-apps/developer/data-platform/use-access-teams-owner-teams-collaborate-share-information), and security roles assigned to the user.
+When you implement Dynamics 365 Guides, we recommend your organization considers how to take control of users and their access. What a user can access and do in Guides on PC and HoloLens is impacted by the business unit, [owner teams](/power-apps/developer/data-platform/use-access-teams-owner-teams-collaborate-share-information), and security roles assigned to the user.
 
 [Security roles](/dynamics365/customerengagement/on-premises/admin/security-roles-privileges) provides users with privileges to perform certain actions. The Guides application has two primary security roles, [Author and Operator](../admin-role-types.md), that can be [assigned to users](../assign-role.md). As a default, these roles supply access on an Organization-level, the highest level of access. Therefore, all available guides in the environment are visible to users with the role assigned unless individual restrictions to the specific users have been set. However, in a regulated industry setting, you will likely deviate from the default settings or roles. In these cases, you can:
 

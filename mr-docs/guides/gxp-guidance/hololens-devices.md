@@ -1,6 +1,6 @@
 ﻿---
 title: HoloLens devices
-description: Learn about setting up and maintaining HoloLens devices in a regulated industry
+description: Learn about setting up and maintaining HoloLens devices in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # HoloLens devices
 
-Guides usage in regulated industries requires two types of devices to run the relevant software: PCs and HoloLens devices. We recommend the business be in tight control of these devices. In the case that Good {industry} Practice (GxP) requirements apply, consider what level of validation is required for these devices with the respective quality assurance (QA) staff.
+Dynamics 365 Guides usage in regulated industries requires two types of devices to run the relevant software: PCs and HoloLens devices. We recommend the business be in tight control of these devices. In the case that Good {industry} Practice (GxP) requirements apply, consider what level of validation is required for these devices with the respective quality assurance (QA) staff.
 
 We assume that your organization already has personal computers enrolled into your IT infrastructure. Therefore, this topic discusses HoloLens devices only.
 
@@ -32,11 +32,11 @@ To enroll HoloLens devices, your mobile device management (MDM)/endpoint managem
 Your organization should consider the relevance and effectiveness of:
 
 - [Windows Autopilot](/hololens/hololens2-autopilot) – to deploy devices at scale.
-- [Kiosk mode](/hololens/hololens-kiosk) - for controlling selectable applications in an end-user context.
+- [Kiosk mode](/hololens/hololens-kiosk) - for controlling selectable applications in a user context.
 - [Windows Update for Business](/mem/intune/protect/windows-update-for-business-configure) – for automation and customization of the OS update process.
 - [Windows Hello for Business](/windows/security/identity-protection/hello-for-business/hello-overview) – for strong two-factor authentication on devices.
 
-However, make sure to adhere to your organization's requirements regarding security and end-user experience.
+However, make sure to adhere to your organization's requirements regarding security and user experience.
 
 We recommend utilizing Windows Autopilot and Intune to ensure a proper governance for deploying HoloLens devices and the Guides app. With these management tools, you can control when an update should be pushed to the devices. In some instances, it might be beneficial to delay an update to a HoloLens or PC until a proper risk assessment and test has been conducted or a required upgrade to the Power Platform environment has been performed.
 

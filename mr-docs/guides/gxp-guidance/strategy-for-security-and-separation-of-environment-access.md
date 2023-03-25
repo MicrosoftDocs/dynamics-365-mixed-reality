@@ -1,7 +1,7 @@
 ﻿---
 title: Security and separation of environment access strategy
-description: Learn about restricted access, separate environments, and other security controls
-ms.date: 03/09/2023
+description: Learn about restricted access, separate environments, and other security controls.
+ms.date: 03/24/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -17,7 +17,7 @@ As mentioned in [govern guides through Power Platform environments and Power App
 
 While planning the setup, decide the extent of automatically assigned access. Determine how the process should integrate with the company's existing practices for controlling assignment of access rights and, for example, integration to the Identity Access Management (IAM) system.
 
-We recommend creating Azure Active Directory (AD) Security Groups for each environment and assigning to the respective environment. The advantage to this is that you can limit access to an environment based on the membership of the specific Security Group. This is done through the [Power Platform admin center](https://aka.ms/PPAC). Read more about restricting access to an environment in Guides here.
+We recommend creating Azure Active Directory (AD) Security Groups for each environment and assigning to the respective environment. The advantage to this is that you can limit access to an environment based on the membership of the specific Security Group. This is done through the [Power Platform admin center](https://aka.ms/PPAC). For more information, see [restricting access to an environment in Dynamics 365 Guides](../admin-security.md).
 
 After assignment, only users that are members of the Azure AD Security Groups can be created in the respective Power Platform environments. For more information about assigning Azure AD Security Groups, see [Control user access to environments](/power-platform/admin/control-user-access). Be sure to separate both test and production environments and create separate security groups for all environments to specifically control access.
 
@@ -29,7 +29,7 @@ The usage of owner teams has two major benefits:
 
 1. Simplifies the assignment process. An author, for example, needs both the author role and the basic user role to access the required functionality. By assigning the security roles to an author team, it is possible to give new authors the necessary roles just by adding them to the owner team.
 
-:::image type="content" source="media/author-team.png" alt-text="Example of an owner team and security roles":::
+:::image type="content" source="media/author-team.png" alt-text="Example of an owner team and security roles.":::
 
 If your organization is utilizing the platform with [business units](/power-platform/admin/create-edit-business-units), an owner team is automatically created per business unit. The owner team can be used to assign the proper security roles if this specific business unit only contains users for one role, for instance authors. However, in many cases, multiple roles are divided into one business unit which requires additional owner teams to be created and assigned relevant security roles. By default, each user is assigned to one business unit during the user creation process, but additional access to other business units can occur by assigning to a specific owner team.
 

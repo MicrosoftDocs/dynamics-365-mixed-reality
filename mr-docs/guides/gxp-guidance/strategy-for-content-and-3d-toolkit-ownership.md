@@ -1,6 +1,6 @@
 ﻿---
 title: Content and 3D toolkit ownership strategy
-description: Learn about controlling access to guides content in the 3D toolkit in a regulated industry
+description: Learn about controlling access to guides content in the 3D toolkit in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 When authoring guides, assets such as images, videos, and 3D objects are at the author's disposal. A 3D toolkit with standard objects such as pointers and arrows are pre-installed, while all additional content such as a 3D model of a machine part or approved company logos, are provided by your organization or its suppliers.
 
-In the implementation process, consider how to distribute ownership and hereby access to content within Guides. Let's take the objects in the built-in 3D toolkit as an example.
+In the implementation process, consider how to distribute ownership and hereby access to content within Dynamics 365 Guides. Let's take the objects in the built-in 3D toolkit as an example.
 
 > [!NOTE]
 > It is assumed that your organization's Power Platform strategy is to spread data across environments and control access to guides through business units.
@@ -22,11 +22,11 @@ When the Guides solution is initially deployed, by default, the ownership of the
   
 For instance, if the toolkit elements are to be used by authors in a company's A-sections, for example, ownership of the 3D toolkit elements must be assigned to "Department A" for all the A-sections ("Section A1.1", "Section A1.2", "Section A2.1", and "Section 21.2") to inherit access.
 
-:::image type="content" source="media/business-unit-structure.png" alt-text="Example of business units corresponding to an organizational structure ":::
+:::image type="content" source="media/business-unit-structure.png" alt-text="Example of business units corresponding to an organizational structure.":::
 
 Alternatively, your organization can create a separate business unit named, for example, "Global Content", and assign 3D toolkit element ownership to this unit. Subsequently, you'll give guides authors across the organization access to this separate unit specifically.
 
-:::image type="content" source="media/3dobjects-assigned-global-content.png" alt-text="Example of 3D objects assigned to a business unit in Power Platform":::
+:::image type="content" source="media/3dobjects-assigned-global-content.png" alt-text="Example of 3D objects assigned to a business unit in Power Platform.":::
 
 Carefully choosing the ownership of the 3D toolkit can enable broad access to content for guides authors. However, it is necessary to regularly pay attention to content ownership. For instance, when someone updates the Guides solution, your organization needs to check that content ownership does not change. Otherwise, authors risk losing content access, or authors are granted unauthorized access to content.
 

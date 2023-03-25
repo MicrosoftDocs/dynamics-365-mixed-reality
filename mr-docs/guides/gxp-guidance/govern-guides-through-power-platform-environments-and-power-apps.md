@@ -1,6 +1,6 @@
 ﻿---
 title: Govern guides through Power Platform environments and Power Apps
-description: Learn about the separation of guides according to the life cycle stages using Power Platform or Power Apps
+description: Learn about the separation of guides according to the life cycle stages using Power Platform or Power Apps.
 ms.date: 03/20/2023
 ms.topic: conceptual
 author: davepinch
@@ -15,7 +15,7 @@ Organizations must be in control of their data and who has access to what and wh
 
 The separation of guides according to life cycle stages can be achieved by creating Power Platform [environments](/power-platform/admin/environments-overview) corresponding to the relevant life cycle stages for your organization and industry. A typical life cycle is authoring, validation, execution, and archive.
 
-:::image type="content" source="media/gxp-lifecycle.png" alt-text="A typical guides life cycle":::
+:::image type="content" source="media/gxp-lifecycle.png" alt-text="A typical guides life cycle.":::
 
 Practically, a specific guide only lives in one environment at a time. However, [multiple versions of a guide can exist in different environments simultaneously](strategy-for-versioning-guides.md). By separating guides according to their life cycle stage, you reduce potential production errors resulting from a machine operator following instructions in an unfinished, non-validated or obsolete guide. At the same time, we recommend your organization enforces role-based access control through [business units](/power-platform/admin/create-edit-business-units) and [security roles](/power-platform/admin/security-roles-privileges) so that employees only have access to environments in which they have duties to fulfill. In this way, you ensure a strict split between data and user access.
 
@@ -23,15 +23,15 @@ To facilitate a smooth flow of guides between environments, we recommend [Power 
 
 The recommended flow structure between typical environments is illustrated below (arrows indicate the directions in which guides can be transferred). For instance, a guide can be transferred from authoring to validation and back again if it is deemed incorrect or not precise enough to be approved. However, a guide can't bypass the validation environment and must go through validation before being transferred to execution where it's used by operators at a production line for example.
 
-:::image type="content" source="media/flow-structure.png" alt-text="The recommended flow structure between 4 environments":::
+:::image type="content" source="media/flow-structure.png" alt-text="The recommended flow structure between four environments.":::
 
 To make the concept of environments matching a life cycle stage more tangible, you'll find more thorough descriptions of the example environments: [authoring](#example-environment-1-authoring-environment), [validation](#example-environment-2-validation-environment), [execution](#example-environment-3-execution-environment), and [archiving](#example-environment-4-archive-environment). However, while the environment structure and flow between them is typically relevant for regulated industry companies, it might not be a relevant setup for your company or compliant with the specific regulations you are subject to. To identify the relevant structure and flow for your company, we recommend facilitating internal stakeholder workshops. For more information, see The Guides user journey in [prerequisites for implementation and planning roll-out](prerequisites-for-implementation-and-planning-roll-out.md).
 
 ## Example environment 1: Authoring environment
 
-During the first stage of a guide's life cycle, your organization creates the guide on the PC with its tasks and steps to be followed by end-users of the guide. Then, you place holographic 3D content in the physical space to help the users' understanding of the step-by-step instructions. This process is also known as [authoring](../authoring-overview.md). When guides are being authored, we recommend they exist in an environment dedicated to authoring.
+During the first stage of a guide's life cycle, your organization creates the guide on the PC with its tasks and steps to be followed by users of the guide. Then, you place holographic 3D content in the physical space to help the users' understanding of the step-by-step instructions. This process is also known as [authoring](../authoring-overview.md). When guides are being authored, we recommend they exist in an environment dedicated to authoring.
 
-Since the guides in this environment are under creation, non-validated, and maybe even incomplete, it is paramount that end-users in a lab, for instance, cannot start using them. This is exactly the reason behind creating an authoring environment; that authors of a guide can create, develop, test, and evaluate the holographic content and wording without risking the guide being used before it is finalized, approved, and released for day-to-day usage.  
+Since the guides in this environment are under creation, non-validated, and maybe even incomplete, it is paramount that users in a lab, for instance, cannot start using them. This is exactly the reason behind creating an authoring environment; that authors of a guide can create, develop, test, and evaluate the holographic content and wording without risking the guide being used before it is finalized, approved, and released for day-to-day usage.  
   
 In your organization, an author could be a training consultant, a project engineer, or an operator with specialized knowledge of a particular piece of production equipment.
 
@@ -67,7 +67,7 @@ With a separate environment for execution, end users can have full confidence in
 > [!NOTE]
 > Compared to the authoring environment, the execution environment might require additional regulatory controls and limitations to changes, access, and traceability.
 
-Alternatively, instead of HoloLens devices, your organization can use tablets or mobile phones to launch, view, and follow the instructional guides. However, for regulated industry usage, HoloLens is the recommended choice: HoloLens overlays holographic images on the real world, allowing users to interact with digital content in a more immersive way than mobile phones or tablets can provide. Furthermore, unlike mobile phones or tablets, the HoloLens is a hands-free device that allows users to interact with digital content using voice commands, gestures, and eye tracking. This makes it easier for users to follow the guide while performing tasks with their hands.
+Alternatively, instead of HoloLens devices, your organization can use tablets or mobile phones to launch, view, and follow the instructional guides. HoloLens offers some additional benefits. HoloLens overlays holographic images on the real world, allowing users to interact with digital content in a more immersive way than mobile phones or tablets can provide. You can use QR codes with a HoloLens device, but not with a mobile device.Furthermore, unlike mobile phones or tablets, the HoloLens is a hands-free device that allows users to interact with digital content using voice commands, gestures, and eye tracking. This makes it easier for users to follow the guide while performing tasks with their hands.
 
 ## Example environment 4: Archive environment
 
