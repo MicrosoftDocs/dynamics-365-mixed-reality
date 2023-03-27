@@ -8,7 +8,7 @@ ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 
-# Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides 
+# Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides
 
 When you're working in Microsoft Dynamics 365 Guides on HoloLens, if you need help with a task in your world, you might want to call a remote collaborator on Microsoft Teams (desktop or mobile) or Dynamics 365 Remote Assist. 
 
@@ -53,9 +53,12 @@ A Dynamics 365 Guides HoloLens user can collaborate with:
 
       ![Screenshot of Recent list with Search box below and holographic keyboard displayed.](media/calling-start-call-1.JPG "Screenshot of Recent list with Search box below and holographic keyboard displayed.")
 
-1. In the window that appears, select the **Phone** button to call the contact.
+1. In the window that appears, choose whether you want video on or off and then select the **Phone** button to call the contact.
 
-      ![Screenshot of call details screen.](media/calling-start-call-2.JPG "Screenshot of call details screen.")
+   > [!TIP]
+   > If your Teams policy for sharing video is not enabled, the option to turn on or off video is not available.
+
+   <!---   ![Screenshot of call details screen.](media/calling-start-call-2.JPG "Screenshot of call details screen.") --->
 
     You'll see the contact's video feed, activity controls, calling controls, and the **Annotate** toolbar. The green indicator below the activity controls shows that you're on a call with that contact. This is useful as a reminder in case you select a different type of activity, such as opening a guide or file.
 
@@ -118,7 +121,7 @@ You can combine HoloLens users with Teams users in different combinations:
 
 1. When the tile flips over, select **Mute**. Muted participants can unmute themselves.
 
-> [!Note]
+> [!NOTE]
 > If the call includes a large number of participants, you might experience performance issues, such as delays in viewing annotations and lower video resolution. [Learn more about the number of participants that can join a Microsoft Teams call.](/microsoftteams/limits-specifications-teams#meetings-and-calls).
 
 #### Remove a participant in a group call
@@ -143,7 +146,7 @@ A Dynamics 365 Guides user cannot spotlight anyone else on the call, including t
 
 If you're on a longer call, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Guides gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Guides automatically adjusts video quality](calling-hololens-thermal-adjusting.md)
 
-## Receive a call in Teams desktop (PC or Mac) from a Dynamics 365 Guides user 
+## Receive a call in Teams desktop (PC or Mac) from a Dynamics 365 Guides user
 
 > [!NOTE]
 > At this time, you can't call a Dynamics 365 Guides user from Teams desktop. The Dynamics 365 Guides user must initiate the call.

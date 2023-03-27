@@ -3,7 +3,7 @@ title: Annotate a screen in Dynamics 365 Guides HoloLens
 author: Mamaylya
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen
 ms.author: mamaylya
-ms.date: 03/22/2023
+ms.date: 03/27/2023
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -28,7 +28,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 
 1. When you're on a call, select the **Direct Ink** button on the **Annotate** toolbar.
 
-   :::image type="content" source="/media/calling-annotations-annotate-toolbar.JPG" alt-text="Screenshot of Meeting window and Annotate toolbar with focus on Direct Ink tool.":::
+   :::image type="content" source="/media/calling-annotations-direct-ink.png" alt-text="Screenshot of Meeting window and Annotate toolbar with focus on Direct Ink tool.":::
 
 1. Pinch your idex finger and thumb to place ink at the tip of your fingers.
 
@@ -38,7 +38,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 
 1. When you're on a call, select the **Far-field Ink** button on the **Annotate** toolbar.
 
-   :::image type="content" source="/media/calling-annotations-far-field.png" alt-text="Screenshot of Annotate toolbar with focus on Far field Ink tool.":::
+   :::image type="content" source="media/calling-annotations-far-field.png" alt-text="Screenshot of Annotate toolbar with focus on Far field Ink tool.":::
 
 1. Use your hand rays to place the cursor where you want to start drawing.
 
@@ -51,7 +51,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 
 - Select the **Color** button on the **Annotate** toolbar, and then when the **Annotate** toolbar flips over, select the color you want. That color will be used the next time that you draw with the **Direct ink** or **Far-field ink**.
 
-   :::image type="content" source="/media/calling-annotations-drawing-example.JPG" alt-text="Screenshot showing color ink choices.":::
+   :::image type="content" source="media/calling-annotations-drawing-example.JPG" alt-text="Screenshot showing color ink choices.":::
 
 ### Erase your annotations
 

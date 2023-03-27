@@ -81,7 +81,7 @@ To create the deep link for the PC app, you need to concatenate the deep link pr
 
 To create the HoloLens app link, you need to concatenate the URL api from the QR code generator with the full deep link (PC app link). The characteristics of the URL api are important. For example, here's a URL api that's good for scanning:
 
-https://api.qrserver.com/v1/create-qr-code/?qzone=4&size=1000x1000&bgcolor=666666&&data=
+https://api.qrserver.com/v1/create-qr-code/?qzone=4&size=1000x1000&bgcolor=666666&&data=ms-guides%3A%2F%2Fcoreygray%2Fg%2FN0aYtYEJHke9pN1uXq1H_w
 
 The following table describes key characteristics of the above QR code.
 

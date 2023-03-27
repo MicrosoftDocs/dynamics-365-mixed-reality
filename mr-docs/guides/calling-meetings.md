@@ -42,7 +42,10 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
 1. To open a specific meeting, select the meeting on the calendar. In the window that appears, you'll see the meeting details, including the meeting date and time, meeting name, and organizer.
 
-1. Select **Join** to join the meeting.
+1. Choose whether you want video on or off and then select **Join** to join the meeting.
+
+   > [!TIP]
+   > If your Teams policy for sharing video is not enabled, the option to turn on or off video is not available.
 
     When a participant joins the meeting, their avatar is displayed in the upper-right corner of the Meeting window.
 
