@@ -27,8 +27,7 @@ The following entities are included in this solution.
 |Name|Display Name|Description|
 |----------|-----------|------------|
 |[account](/dynamics365/customerengagement/on-premises/developer/entities/account)|Account|Business that represents a customer or potential customer. The company that is billed in business transactions.|
-|[msdyn_customerasset](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_customerasset)|Customer Asset|Specify customer asset.|
+|[msdyn_customerasset](msdyn_customerasset.md)|Customer Asset|Specify customer asset.|
 |[product](/dynamics365/customerengagement/on-premises/developer/entities/product)|Product|Information about products and their pricing information.|
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
