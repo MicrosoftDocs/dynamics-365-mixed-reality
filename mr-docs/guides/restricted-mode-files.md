@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Restrict the ability to access OneDrive files in Dynamics 365 Guides
 
-If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Guides users from accessing OneDrive files. Restricting the ability to access OneDrive files is also helpful in a situation where a service account is shared between users and you want to prevent users from accessing each other's files.
+If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability of Microsoft Dynamics 365 Guides users to access OneDrive files. Restricting the ability to access OneDrive files is also helpful in a situation where users share a service account and you want to prevent them from accessing each other's files.
 
 ## Restrict access to OneDrive files
 
@@ -22,7 +22,7 @@ If you [have a scenario where you need to protect your company information](rest
    :::image type="content" source="media/restricted-mode-files-add-user.jpg" alt-text="Screenshot of the admin portal with Add user controls highlighted.":::
 
     > [!IMPORTANT]
-    > It's critical to create a NEW ACCOUNT to make sure that the user will not have access to the licenses required to access OneDrive files.
+    > It's critical to create a NEW ACCOUNT to make sure that the user won't have access to the licenses required to access OneDrive files.
 
 1. Fill out the user information, and then select **Next**.
 
