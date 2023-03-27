@@ -26,30 +26,27 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 >
 > Annotations don't work well on black or reflective surfaces.
 
-1. When you're on a call, select the **Direct Ink** button on the **Annotate** toolbar.
+1. When you're on a call, select the **Direct ink** button on the **Annotate** toolbar.
 
-   :::image type="content" source="/media/calling-annotations-direct-ink.png" alt-text="Screenshot of Meeting window and Annotate toolbar with focus on Direct Ink tool.":::
+   :::image type="content" source="media/calling-annotations-direct-ink.png" alt-text="Screenshot of Meeting window and Annotate toolbar with focus on Direct ink tool.":::
 
-1. Pinch your idex finger and thumb to place ink at the tip of your fingers.
+1. Pinch your index finger and thumb to place ink at the tip of your fingers.
 
 1. Lift your index finger from your thumb to stop placing ink.
 
 ### Draw far away
 
-1. When you're on a call, select the **Far-field Ink** button on the **Annotate** toolbar.
+1. When you're on a call, select the **Far-field ink** button on the **Annotate** toolbar.
 
-   :::image type="content" source="media/calling-annotations-far-field.png" alt-text="Screenshot of Annotate toolbar with focus on Far field Ink tool.":::
+   :::image type="content" source="media/calling-annotations-far-field.png" alt-text="Screenshot of Annotate toolbar with focus on Far field ink tool.":::
 
 1. Use your hand rays to place the cursor where you want to start drawing.
 
 1. Air tap, keep your index finger and thumb together, and then start drawing in your space. Release the air tap to stop drawing.
 
-   > [!TIP]
-   > To use a voice command, select the **Ink** button by saying "Guides, Drawing on."
-
 ### Change ink color
 
-- Select the **Color** button on the **Annotate** toolbar, and then when the **Annotate** toolbar flips over, select the color you want. That color will be used the next time that you draw with the **Direct ink** or **Far-field ink**.
+- Select the **Color** button on the **Annotate** toolbar, and then when the **Annotate** toolbar flips over, select the color you want. That color will be used the next time that you draw with the **Direct ink** or **Far-field ink** button.
 
    :::image type="content" source="media/calling-annotations-drawing-example.JPG" alt-text="Screenshot showing color ink choices.":::
 
@@ -69,9 +66,9 @@ When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides col
 ![Screenshot of the Teams mixed reality toolbar.](media/calling-annotations-teams-desktop-mr-toolbar.JPG)
 
 > [!NOTE]
-> -	The toolbar appears only when the video feed for the Dynamics 365 Guides user is active.
-> -	The toolbar is disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides is not in the foreground because the user did the Bloom gesture).
-> -	The toolbar appears if the same Guides user is connected from Teams and Dynamics Guides at the same time, regardless of the device used.
+> - The toolbar appears only when the video feed for the Dynamics 365 Guides user is active.
+> - The toolbar is disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides is not in the foreground because the user did the Bloom gesture).
+> - The toolbar appears if the same Guides user is connected from Teams and Dynamics Guides at the same time, regardless of the device used.
 > - The toolbar doesn't appear if you have not turned on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
 
 ### Start annotating

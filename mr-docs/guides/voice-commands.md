@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how you can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze.
 ms.author: mehellmu
-ms.date: 10/17/2022
+ms.date: 03/27/2023
 ms.topic: article
 title: Use voice commands in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -113,14 +113,15 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 4 | "End call" | End the call and minimize the **Main** menu. |
 | 5 | "Open participants" or "Close participants" | Display or hide the active participants tiles (right side of video feed). |
 | 6 | "Open chat" or "close chat"| Open or close the **Chat** window (right side of video feed). |
-| 7 | "Drawing on" or "Drawing off"| Select the **Ink** tool or turn off the **Ink** tool. |
-| 8 | "Select color", and then say one of these colors: "blue", "gray", "green", "red", "yellow"| Select the **Color** tool, and then apply the selected color to the ink. |
-| 9 | "Undo" | Undo the latest action. |
-| 10 | "Delete all" | Delete all annotations. |
-| 11 | "Add participants" | Display the holographic keyboard to search for contacts. |
-| 12 | "Minimize" | Minimize the screen. |
-| 13 | "Scroll up" | Scroll up the list. |
-| 14 | "Scroll down" | Scroll down the list. |
+| 7 | "Inking on" or "Inking off"| Select the **Direct ink** tool or turn off the **Direct ink** tool. |
+| 8 | "Drawing on" or "Drawing off"| Select the **Far-field ink** tool or turn off the **Far-field ink** tool. |
+| 9 | "Select color", and then say one of these colors: "blue", "gray", "green", "red", "yellow"| Select the **Color** tool, and then apply the selected color to the ink. |
+| 10 | "Undo" | Undo the latest action. |
+| 11 | "Delete all" | Delete all annotations. |
+| 12 | "Add participants" | Display the holographic keyboard to search for contacts. |
+| 13 | "Minimize" | Minimize the screen. |
+| 14 | "Scroll up" | Scroll up the list. |
+| 15 | "Scroll down" | Scroll down the list. |
 
 ### Meeting confirmation
     
