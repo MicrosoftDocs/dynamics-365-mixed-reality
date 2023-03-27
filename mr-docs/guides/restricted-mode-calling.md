@@ -9,10 +9,6 @@ ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-<!-- Line 38 mentions "Microsoft Teams policies supported by Dynamics 365 Guides," but the link goes to info on policies supported by Remote Assist. This could be confusing. Should the text change? -->
-
-
-
 # Restrict calling and the ability to search and access contacts in Dynamics 365 Guides for HoloLens
 
 If you [have a scenario where you need to protect company information](restricted-mode-overview.md), you can restrict users of Dynamics 365 Guides on HoloLens from:
@@ -35,7 +31,7 @@ To restrict calling, first create a new Microsoft Teams policy, and then assign 
     ![Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted.](media/restricted-mode-calling-add-policy.jpg "Screenshot of Microsoft Teams admin center with Calling policies command and Add button highlighted")
 
     > [!NOTE]
-    > [Learn about Microsoft Teams policies supported by Dynamics 365 Guides.](/dynamics365/mixed-reality/remote-assist/teams-policies)
+    > [Learn about Microsoft Teams policies supported by Dynamics 365 Guides.](admin-teams-policies.md)
 
 1. Enter a name for your policy, turn the **Make private calls** setting to **Off**, and then select **Save**.
 
