@@ -24,7 +24,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 |-------------------------|--------------------------------|
 |PC app|803.2303.23001 |
 |HoloLens app (HoloLens 2 only)|803.2303.23001 |
-|Solution|800.3.0.0 |
+|Solution|800.3.0.1 |
 
 ### Bugs fixed and other improvements
 

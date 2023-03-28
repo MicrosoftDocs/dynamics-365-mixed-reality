@@ -29,7 +29,7 @@ To find the app and solution versions that you're using, in the PC app, select t
 
 | PC and HoloLens app version | Release date | Compatible Guides Dataverse solution versions |HoloLens version(s) supported|
 |-----------------------------|--------------|--------------------------------------------------|--------------------|
-| 803.2303.23001| April 4, 2023 | 800.3.0.0, 800.2.0.0, 800.1.0.1, 800.0.0.1 |HoloLens 2 only|
+| 803.2303.23001| April 4, 2023 | 800.3.0.1, 800.2.0.0, 800.1.0.1, 800.0.0.1 |HoloLens 2 only|
 | 802.2302.24001.0| February 28, 2023 | 800.2.0.0, 800.1.0.1, 800.0.0.1 |HoloLens 2 only|
 | 802.2302.13001.0| February 14, 2023 | 800.2.0.0, 800.1.0.1, 800.0.0.1 |HoloLens 2 only|
 | 801.2212.2001.0| December 8, 2022 | 800.1.0.1, 800.0.0.1 |HoloLens 2 only| 
