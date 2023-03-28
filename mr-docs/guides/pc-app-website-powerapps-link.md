@@ -35,8 +35,8 @@ To add a link to a step, you add an action. You can add one action per step. If 
 
    - Link to a custom app: Enter the [registered URI](/windows/uwp/launch-resume/handle-uri-activation) in the format expected by the app.
    - Link to an email: Enter **mailto:** and the email address.
-   - Link to a guide or step: [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)
-   - Link to a web page: Enter the web address starting with **http:** or **https:**
+   - Link to a guide or step: [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md).
+   - Link to a web page: Enter the web address starting with **http:** or **https:**.
    - Open a HoloLens settings page: Enter **ms-settings:{[URI](/hololens/settings-uri-list#settings-uris)}**, for example **ms-settings:bluetooth** to open the Bluetooth settings.
 
 1. Select **Save**.
