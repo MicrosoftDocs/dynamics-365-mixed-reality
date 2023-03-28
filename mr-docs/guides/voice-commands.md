@@ -100,6 +100,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1 | "Start call" | Call the selected contact. |
 | 2| "Back" | Go back to the contact list and cancel the call. |
 | Not shown| "End call" | End the call. |
+| Not shown| "Video On/Video Off" | Turn video on or off. |
     
 ### Active call
 
