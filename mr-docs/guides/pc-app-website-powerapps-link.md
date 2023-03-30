@@ -25,8 +25,6 @@ To add a link to a step, you add an action. You can add one action per step. If 
 
 1. On the right side of the page, select the **Action** tab.
 
-    ![Action tab.](media/powerapps-action-tab.PNG "Action tab")
-
 1. Drag the **Link** circle to the **Action** circle in the lower-right corner of the **Step Editor** pane.
 
     ![Dragging the Link circle to the Action circle.](media/website-link-drag-action.PNG "Dragging the Link circle to the Action circle")
@@ -34,6 +32,8 @@ To add a link to a step, you add an action. You can add one action per step. If 
 1. In the **Link** dialog box that appears, enter the corresponding information based on the selected action:
 
    - Link to a custom app: Enter the [registered URI](/windows/uwp/launch-resume/handle-uri-activation) in the format expected by the app.
+     > [!NOTE]
+     > If a custom app has been registered as the [default handler for a URI](/windows/uwp/launch-resume/handle-uri-activation), an author can launch that app by specifying a URI in the format expected by the app. Apps can be launched in [kiosk mode](/hololens/hololens-kiosk). Administrators can [use WDAC and Windows PowerShell to allow or block apps on HoloLens 2 devices with Microsoft Intune](/mem/intune/configuration/custom-profile-hololens).
    - Link to an email: Enter **mailto:** and the email address.
    - Link to a guide or step: [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md).
    - Link to a web page: Enter the web address starting with **http:** or **https:**.
