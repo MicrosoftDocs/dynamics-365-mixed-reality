@@ -1,23 +1,25 @@
 ---
-title: Annotate a screen in Dynamics 365 Guides HoloLens
+title: Use annotations with Dynamics 365 Guides
 author: Mamaylya
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen
 ms.author: mamaylya
-ms.date: 03/27/2023
-ms.topic: article
+ms.date: 03/31/2023
+ms.topic: how-to
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
-# Annotate a screen in Dynamics 365 Guides HoloLens
+# Use annotations with Dynamics 365 Guides
 
 If you're using Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams (PC, Mac, or mobile) or Dynamics 365 Remote Assist mobile, you and your remote collaborators can annotate in your environment. Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it or leaves the call. Call participants can also annotate [shared files or screens](calling-screen-sharing.md).
 
 Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate the environment of the Dynamics 365 Guides user on HoloLens in a one-to-one or group call. Teams mobile users can also annotate, but only for one-to-one calls. Annotations are not supported for users on Teams Web.
 
-> [!NOTE]
-> To use annotations, you must [enable the appropriate permissions in Dynamics 365 Guides](hololens-permissions.md).
+## Prerequisites
 
-## Use Dynamics 365 Guides to annotate
+- [Enable the annotation permission in Dynamics 365 Guides](hololens-permissions.md).
+
+## Use Dynamics 365 Guides HoloLens to annotate in your environment
 
 ### Draw in your space
 
@@ -59,7 +61,7 @@ Use the following buttons to erase your annotations
 |![Screenshot of Erase all button.](media/calling-annotations-teams-erase-all-button.JPG)|Erase all drawings.|
 |![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG)|Undo your most recent action, including the Erase all action.
 
-## Use Teams (PC or Mac) to annotate the Dynamics 365 Guides user's environment
+## Use Teams (PC or Mac) to annotate the Guides user's environment
 
 When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides collaborator’s space, including holograms, and can use the **Mixed Reality** toolbar in Teams to add annotations.
 
@@ -71,93 +73,60 @@ When you join a call in Microsoft Teams, you'll see your Dynamics 365 Guides col
 > - The toolbar appears if the same Guides user is connected from Teams and Dynamics Guides at the same time, regardless of the device used.
 > - The toolbar doesn't appear if you have not turned on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
 
-### Start annotating
+### Start annotations
 
-To start annotating, first do one of the following to pause the video stream and enter edit mode:
+1. Do one of the following to pause the video stream and enter edit mode:
 
-- Select anywhere in the call window.
+   - Select anywhere in the call window.
 
-- Select one of the items on the **Mixed Reality** toolbar.
+   - Select one of the items on the **Mixed Reality** toolbar.
 
-- Select **Start editing**.
+   - Select **Start editing**.
 
-In edit mode, you'll see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
+   In edit mode, you'll see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
 
-### Add arrows, ink, and files
+1. Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the HoloLens user's space.
 
-Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the HoloLens user's space. The following table describes the buttons in the **Mixed Reality** toolbar.
+   |Button|Description|
+   |---------|----------------------------------------------------|
+   |![Graphic showing the Arrow button.](media/calling-annotations-teams-arrow-button.JPG)|Add an arrow.|
+   |![Graphic showing the Ink button.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
+   |![Graphic showing the Insert file button.](media/calling-annotations-teams-insert-file-button.JPG)|Insert a file in the HoloLens user's space. You can select an image or .pdf file from OneDrive or from your device. [Learn more about sharing a file](calling-chat-file-sharing.md)|
+   |![Graphic showing the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
+   |![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)|In edit mode, undo the last action.|
+   |![Graphic showing the Erase button, which looks like a trashcan.](media/calling-annotations-teams-erase-all-button.JPG)|If you're in edit mode, erase all of the annotations made during that editing session. In you're in live mode, erase all of the annotations made during that call.
 
-|Button|Description|
-|---------|----------------------------------------------------|
-|![Graphic showing the Arrow button.](media/calling-annotations-teams-arrow-button.JPG)|Add an arrow.|
-|![Graphic showing the Ink button.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
-|![Graphic showing the Insert file button.](media/calling-annotations-teams-insert-file-button.JPG)|Insert a file in the HoloLens user's space. You can select an image or .pdf file from OneDrive or from your device. [Learn more about sharing a file](calling-chat-file-sharing.md)|
-|![Graphic showing the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
+   > [!NOTE]
+   > Each call participant can only remove the annotations that they add. Specific drawings or arrows can’t be removed.
+  
+1. When you're done annotating, select **Stop editing** or select the live video feed in the corner of your screen.
 
-### Finish editing
+1. To minimize the **Mixed Reality** toolbar and focus on the video stream from the HoloLens user, select the **MR Toolbar** button. The toolbar remains minimized if you switch to a different Dynamics 365 Guides user's video feed. To restore the toolbar, select the **MR Toolbar** button again.
 
-When you're done annotating, do one of the following:
+   ![Screenshot of MR Toolbar (HoloLens) button.](media/calling-annotations-teams-desktop-minimize-toolbar.JPG)
 
-- Select **Stop editing**.
+## Use Teams mobile to annotate the Dynamics 365 Guides user's environment
 
-- Select the live video feed in the corner of your screen.
+You can only annotate in one-to-one calls with Teams mobile.
 
-### Erase your annotations
-
-Use the following buttons to erase your annotations.
-
-|Button|Description|
-|---------|----------------------------------------------------|
-|![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)|In edit mode, undo the last action.|
-|![Graphic showing the Erase button, which looks like a trashcan.](media/calling-annotations-teams-erase-all-button.JPG)|If you're in edit mode, erase all of the annotations made during that editing session. In you're in live mode, erase all of the annotations made during that call.
-
-> [!NOTE]
-> - Specific drawings or arrows can’t be removed.
-> 
-> - Each call participant can only remove the annotations that they add.
-
-### Minimize the Mixed Reality toolbar
-
-The **Mixed Reality** toolbar appears by default whenever you join a new call with a Dynamics 365 Guides user. If you want to focus on the video stream from the HoloLens user, you can minimize the toolbar by selecting the **MR Toolbar** button.
-
-![Screenshot of MR Toolbar (HoloLens) button.](media/calling-annotations-teams-desktop-minimize-toolbar.JPG)
-
-> [!NOTE]
-> The toolbar remains minimized if you switch to a different Dynamics 365 Guides user's video feed.
-
-To restore the toolbar, select the **MR Toolbar** button again.
-
-## Use Teams mobile to annotate the Dynamics 365 Guides user's environment 
-
-To add an annotation, select the **Ink button** ![Screenshot of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG).
+1. Select the **Ink button** ![Screenshot of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG).
 The Dynamics 365 Guides user's video feed will freeze and you'll see the **Mixed Reality toolbar**.
 
-![Screenshot of the Mixed Reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
+   ![Screenshot of the Mixed Reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
 
-> [!NOTE]
-> You can only annotate in one-to-one calls with Teams mobile.
+1. Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the HoloLens user's space.
 
-The following table describes the buttons in the **Mixed Reality** toolbar.
+   |Button|Description|
+   |---------|----------------------------------------------------|
+   |![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-arrow-button.JPG)| Add an arrow. To add an arrow, tap where you want to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it's facing the desired direction. Release to lock the arrow in place.|
+   |![Graphic of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
+   |![Graphic of the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
+   |![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)|Undo your last action in edit mode or undo the most recent annotation you added.|
+   |![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)|To delete all annotations that you added, select this button, and then select **Delete All Notes**. To delete only the annotations you added recently, select this button, and then select **Clear Current Notes**. This does not clear the annotations your collaborator added.
 
-|Button|Description|
-|---------|----------------------------------------------------|
-|![Graphic of the Place arrow icon in the mixed reality toolbar.](media/calling-annotations-teams-arrow-button.JPG)| Add an arrow. To add an arrow, tap where you want to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it's facing the desired direction. Release to lock the arrow in place.|
-|![Graphic of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
-|![Graphic of the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
-|![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)|Undo your last action in edit mode or undo the most recent annotation you added.|
-|![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)|To delete all annotations that you added, select this button, and then select **Delete All Notes**. To delete only the annotations you added recently, select this button, and then select **Clear Current Notes**. This does not clear the annotations your collaborator added.
+   > [!NOTE]
+   > Each call participant can only undo and delete their own annotations.
 
-When you’re done adding annotations, select the **Checkmark** button on the **Mixed Reality** toolbar to resume the live video feed. All annotations will persist even after you stop editing.
+1. When you’re done annotating, select the **Checkmark** button on the **Mixed Reality** toolbar to resume the live video feed. All annotations persist even after you stop editing.
 
-> [!NOTE]
-> Each call participant can only undo and delete their own annotations.
-
-## See also
-
-- [Call a remote collaborator](calling-start-call.md)
-- [Join a scheduled meeting](calling-meetings.md)
-- [Chat](calling-chat-file-sharing.md)
-- [Record a call](calling-record-call.md)
-- [Screen and file sharing](calling-screen-sharing.md)
-- [Access OneDrive files](onedrive-files.md)
-- [Teams users capabilities](calling-teams-users.md)
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

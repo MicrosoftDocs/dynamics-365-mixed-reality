@@ -3,9 +3,10 @@ title: Join a Microsoft Teams meeting from Dynamics 365 Guides
 author: Mamaylya
 description: Learn how to join a Microsoft Teams meeting from Dynamics 365 Guides on HoloLens
 ms.author: mamaylya
-ms.date: 03/24/2023
-ms.topic: article
+ms.date: 03/31/2023
+ms.topic: how-to
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Join a Microsoft Teams meeting from Dynamics 365 Guides
@@ -14,8 +15,9 @@ You can join a Microsoft Teams meeting from Dynamics 365 Guides on HoloLens. A [
 
 It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-live-events/what-are-teams-live-events) from Dynamics 365 Guides, but this scenario is not officially supported.  
 
-> [!IMPORTANT]
-> To join a meeting from Dynamics 365 Guides on HoloLens, you must have an Exchange Online license (not Exchange on-premises).
+## Prerequisites
+
+- An Exchange Online license (not Exchange on-premises).
 
 ## Join a scheduled meeting
 
@@ -27,7 +29,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
     ![Screenshot highlighting Meetings button.](media/calling-meetings-2.JPG "Screenshot highlighting Meetings button.")
 
-    The Meeting window opens to the current day so you can see all of your meetings for that day. 
+    The Meeting window opens to the current day so you can see all of your meetings for that day.
 
     ![Screenshot of calendar in Meetings window.](media/calling-meetings-4.JPG "Screenshot of calendar in Meetings window.")
 
@@ -57,11 +59,9 @@ To add a participant from your organization that wasn't included in the original
 
 1. Select the **Open participants** button.
 
-    ![Screenshot highlighting Open Participants button.](media/calling-start-call-4.JPG "Screenshot highlighting Open Participants button.")
-
 1. In the participants area (to the right of the video feed), select the **Add participants** button. This opens the **Recent** list.
 
-    ![Screenshot highlighting Participants button in Participants area.](media/calling-start-call-5.JPG "Screenshot highlighting Participants button in Participants area.")
+    ![Screenshot highlighting Open Participants button.](media/calling-start-call-4.JPG "Screenshot highlighting Open Participants button and Add Participants button.")
 
 1. Do one of the following:
 
@@ -105,15 +105,11 @@ Check out the following links:
 
 - [Watch a video on joining a Teams meeting](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US)
 
-## See also
+## Next steps
 
-- [Call a remote collaborator](calling-start-call.md)
-- [Chat](calling-chat-file-sharing.md)
 - [Record a call](calling-record-call.md)
 - [Screen and file sharing](calling-screen-sharing.md)
 - [Annotations](calling-annotations.md)
 - [Access OneDrive files](onedrive-files.md)
-- [Teams users capabilities](calling-teams-users.md)
-- [Where call data is stored](call-logging.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

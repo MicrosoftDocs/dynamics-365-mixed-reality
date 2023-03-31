@@ -70,12 +70,14 @@
 ## Activities
 ### [Start an activity](main-menu.md)
 ### Collaborate with Teams users
+#### [Remote collaborator call types](calling-concepts.md)
 #### [Call a remote collaborator](calling-start-call.md)
+#### [Receive a call from a Guides user in Teams](calling-receive-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
 #### [Chat and file sharing](calling-chat-file-sharing.md)
 #### [Record a call](calling-record-call.md)
 #### [Screen sharing](calling-screen-sharing.md)
-#### [Annotations](calling-annotations.md)
+#### [Use annotations](calling-annotations.md)
 #### [Access OneDrive files](onedrive-files.md)
 #### [Teams users capabilities](calling-teams-users.md)
 #### [View and access call data](call-logging.md)
