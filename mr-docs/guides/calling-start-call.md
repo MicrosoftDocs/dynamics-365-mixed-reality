@@ -59,7 +59,7 @@ After you call a federated contact, they appear in your recent contacts list, so
 
 ## Start a group call
 
-A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user or Dynamics 365 Remote Assist mobile user. For more information, see [Group calls](calling-concept.md#group-calls).
+A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user or Dynamics 365 Remote Assist mobile user. For more information, see [Group calls](calling-concepts.md#group-calls).
 
 1. Start by calling one person as described above for a one-to-one call, and then select the **Open participants** button (or say "Guides, Open participants").
 
