@@ -70,7 +70,7 @@
 ## Activities
 ### [Start an activity](main-menu.md)
 ### Collaborate with Teams users
-#### [Remote collaborator call types](calling-concepts.md)
+#### [Guides call types](calling-concepts.md)
 #### [Call a remote collaborator](calling-start-call.md)
 #### [Receive a call from a Guides user in Teams](calling-receive-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
