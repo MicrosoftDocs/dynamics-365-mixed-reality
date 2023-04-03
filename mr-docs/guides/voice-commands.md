@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how you can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze.
 ms.author: mehellmu
-ms.date: 03/27/2023
+ms.date: 04/03/2023
 ms.topic: article
 title: Use voice commands in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -99,7 +99,6 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | 1 | "Start call" | Call the selected contact. |
 | 2| "Back" | Go back to the contact list and cancel the call. |
-| Not shown| "End call" | End the call. |
 | Not shown| "Video On/Video Off" | Turn video on or off. |
     
 ### Active call
@@ -132,7 +131,6 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 |---|---|---|
 | 1 | "Join meeting" | Join the meeting. |
 | 2| "Back" | Go back to the contact list and leave the meeting. |
-| Not shown| "End call" | Leave the meeting. |
 
 ### Meetings
     
