@@ -3,7 +3,7 @@ title: Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides
 author: Mamaylya
 description: Learn how to call a remote collaborator on Microsoft Teams from Dynamics 365 Guides on HoloLens
 ms.author: mamaylya
-ms.date: 03/31/2023
+ms.date: 04/04/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 When you're working in Microsoft Dynamics 365 Guides on HoloLens, if you need help with a task in your world, you might want to call a remote collaborator on Microsoft Teams (desktop or mobile) or Dynamics 365 Remote Assist. See [Types of calls](calling-concepts.md) for more information.
 
-## Start a one-to-one call from Dynamics 365 Guides
+## Start a one-to-one call
 
 Start a call from your HoloLens.
 
@@ -97,12 +97,6 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 1. Select the tile for the participant that you want to remove.
 
 1. When the tile flips over, select **Remove**.
-
-### Spotlight in Dynamics 365 Guides
-
-Dynamics 365 Guides supports [Teams spotlighting](https://support.microsoft.com/en-us/office/spotlight-someone-s-video-in-a-teams-meeting-58be74a4-efac-4e89-a212-8d198182081e). When someone is spotlighted in Teams, the video feed in Dynamics 365 Guides changes to show the spotlighted person. If the spotlighted person is the Dynamics 365 Guides user, the user will see a notification above the video feed that indicates that they've been spotlighted.
-
-A Dynamics 365 Guides user cannot spotlight anyone else on the call, including themselves.  
 
 ## End a call
 

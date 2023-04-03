@@ -3,7 +3,7 @@ title: Receive a call in Teams from a Dynamics 365 Guides user
 author: Mamaylya
 description: Learn how to receive a call from a Teams PC or Mac desktop or Teams mobile from a Dynamics 365 Guides user
 ms.author: mamaylya
-ms.date: 03/31/2023
+ms.date: 04/03/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -37,7 +37,7 @@ To receive a call from a Dynamics 365 Guides user, you must use Teams.
    |![Chat button.](media/calling-teams-chat-button.JPG)|Open a chat window to send text messages.| 
    |![Participants button.](media/calling-teams-participants-button.JPG)|See current participants, or add more.|
 
-1. Select the **More info** […] button to use additional features. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. If you want to record the meeting, you can access the **Record** command here.
+1. Select the **More info** […] button to use additional features. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. If you want to record the meeting, select **Record**.
 
 ## Receive a call in Teams mobile from a Guides user
 
@@ -54,9 +54,9 @@ To receive a call from a Dynamics 365 Guides user, you must use Teams.
 
 1. Select the **More info** [...] button to use additional commands:
 
-   - **Toggle incoming video**: Turn incoming video off or on. You might want to do this to conserve your battery on your device or if incoming video is distracting.
-   - **Share your screen**: Your screen will pop up as a video for the Dynamics 365 Guides user.
-   - **Start video with blur**: For iOS devices only, if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you, select this command.
+   - **Toggle incoming video**: Turn incoming video off or on. To conserve your battery on your device or if incoming video is distracting, turn video off.
+   - **Share your screen**: Share your screen as a video for the Dynamics 365 Guides user.
+   - **Start video with blur**: For iOS devices only, blur your background if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you.
    - **Insert file**: Share a file.  
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

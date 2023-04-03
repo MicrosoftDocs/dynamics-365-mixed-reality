@@ -1,14 +1,14 @@
 ---
-title: Remote collaborator call types   
+title: Guides call types   
 author: Mamaylya
 description: Learn about the supported Dynamics 365 Guides call types and who can collaborate
 ms.author: mamaylya
-ms.date: 03/31/2023
+ms.date: 04/04/2023
 ms.topic: conceptual
 ms.reviewer: v-wendysmith
 ---
 
-# Remote collaborator call types
+# Guides call types
 
 Dynamics 365 Guides supports the following types of calls:  
 
@@ -44,6 +44,12 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
   > A Teams mobile user cannot annotate in a group call.
 
 - Multiple Teams desktop users can annotate on the same HoloLens user's space at the same time.
+
+## Spotlight in Dynamics 365 Guides
+
+Dynamics 365 Guides supports [Teams spotlighting](https://support.microsoft.com/en-us/office/spotlight-someone-s-video-in-a-teams-meeting-58be74a4-efac-4e89-a212-8d198182081e). When someone is spotlighted in Teams, the video feed in Dynamics 365 Guides changes to show the spotlighted person. If the spotlighted person is the Dynamics 365 Guides user, the user will see a notification above the video feed that indicates that they've been spotlighted.
+
+A Dynamics 365 Guides user cannot spotlight anyone else on the call, including themselves.  
 
 ## Outgoing video quality is adjusted if the HoloLens device gets too hot
 
