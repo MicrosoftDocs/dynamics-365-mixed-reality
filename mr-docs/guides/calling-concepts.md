@@ -12,14 +12,14 @@ ms.reviewer: v-wendysmith
 
 Dynamics 365 Guides supports the following types of calls:  
 
-- **One-to-one call**. A [one-to-one call](calling-start-call.md#start-a-one-to-one-call-from-dynamics-365-guides) includes two participants. For example, if you need help with a machine that you're repairing, start a one-to-one call with a remote expert.
+- **One-to-one call**. A [one-to-one call](calling-start-call.md#start-a-one-to-one-call) includes two participants. For example, if you need help with a machine that you're repairing, start a one-to-one call with a remote expert.
 
 - **Group call**. A [group call](calling-start-call.md#start-a-group-call) includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, any call participant can add the third person to form a group call.
 
 - **Meeting**. A meeting is a call scheduled through Teams or Outlook. Meetings can include any number of participants. For example, if you want to have a weekly inspection with your team, create a meeting so that everyone receives notifications about the meeting and can [join the meeting](calling-meetings.md).
 
 > [!NOTE]
-> An adminstrator can remove the ability for a Dynamics 365 Guides user to share outgoing video in a call. In this case, the remote collaborator joins the call with audio only. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
+> An administrator can remove the ability for a Dynamics 365 Guides user to share outgoing video in a call. In this case, the remote collaborator joins the call with audio only. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
 
 ## Who can collaborate on a call?
 

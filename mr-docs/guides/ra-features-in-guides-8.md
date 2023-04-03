@@ -24,7 +24,7 @@ The Dynamics 365 Guides 8.0 and later releases include many of the Microsoft Tea
 |[Chat](calling-chat-file-sharing.md)| Yes|Yes (improved in Dynamics 365 Guides 8.0)|
 |[Screen sharing](calling-screen-sharing.md)| Yes| Yes (improved in Dynamics 365 Guides 8.0)|
 |Snapshots (for poor connectivity situations)|Yes|No|
-|[Spotlighting](calling-start-call.md#spotlight-in-dynamics-365-guides)| Yes| Yes|
+|[Spotlighting](calling-concepts.md#spotlight-in-dynamics-365-guides)| Yes| Yes|
 |[File access](onedrive-files.md)| Yes| Yes|
 |[Restricted access (calling, contacts, OneDrive files and ability to sign out of the HoloLens app)](restricted-mode-overview.md)|Yes|Yes|
 |[Call data storage/display](call-logging.md)| Yes| Yes (Dynamics 365 Guides doesn't provide a built-in Calls dashboard, however).|
