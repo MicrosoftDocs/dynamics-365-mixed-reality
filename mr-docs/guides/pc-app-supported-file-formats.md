@@ -2,7 +2,7 @@
 author: Mamaylya
 ms.author: mamaylya
 description: Learn about supported file formats for 3D models, images, and videos in Microsoft Dynamics 365 Guides.
-ms.date: 08/10/2022
+ms.date: 03/29/2023
 ms.topic: article
 title: Supported file formats for 3D models, images, and videos in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -29,6 +29,8 @@ In Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], yo
 - The file size limit for a video, image, or 3D model is 128 MB. Transcoding may occur when uploading. This may change the size of the file that needs to be stored, which can cause the upload to fail if the file is too big.
 
 - Dynamics 365 Guides uses meters as the default scale unit. If your 3D model scale is set to millimeters when you export from your CAD solution, the model will be converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it will be converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export.  
+
+- Some glTF files might have dependencies in other folders. During upload, if the app doesn't have permissions to those folders, errors can occur, or 3D models in the gallery might be broken. When you upload glTF models, make sure that you have permissions to all dependencies, or that all dependencies are in the same folder.
 
 ## What's next?
 

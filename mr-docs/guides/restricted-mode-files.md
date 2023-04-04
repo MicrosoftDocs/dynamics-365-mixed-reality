@@ -2,7 +2,7 @@
 title: Restrict the ability to access OneDrive files in Dynamics 365 Guides
 author: m-hartmann
 description: Learn how to restrict the ability to access OneDrive files in Microsoft Dynamics 365 Guides.
-ms.author: mhart
+ms.author: prashan
 ms.date: 02/14/2022
 ms.topic: how-to
 ms.reviewer: v-wendysmith
