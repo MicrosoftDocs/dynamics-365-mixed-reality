@@ -54,3 +54,10 @@ A Dynamics 365 Guides user cannot spotlight anyone else on the call, including t
 ## Outgoing video quality is adjusted if the HoloLens device gets too hot
 
 If you're on a longer call, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Guides gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Guides automatically adjusts video quality](calling-hololens-thermal-adjusting.md)
+
+## Next steps
+
+- [Start a call](calling-start-call.md)
+- [Join a meeting](calling-meetings.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
