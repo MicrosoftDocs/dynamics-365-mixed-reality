@@ -125,7 +125,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ### Meeting confirmation
     
-![Meeting confirmation screen.](media/voice-commands-meeting-confirmation.JPG "Meeting confirmation screen")
+![Meeting confirmation screen.](media/voice-commands-meeting-confirmation.png "Meeting confirmation screen")
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -169,7 +169,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ### Select mode
 
-![Select mode screen.](media/voice-commands-select-mode-8.JPG "Select mode screen")
+![Select mode screen.](media/voice-commands-select-mode-8.png "Select mode screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|

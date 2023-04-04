@@ -77,7 +77,7 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
     - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box.
 
-      ![Screenshot of Recent list with Search box and holographic keyboard showing.](media/calling-start-call-6.JPG "Screenshot of Recent list with Search box and holographic keyboard showing.")
+      ![Screenshot of Recent list with Search box and holographic keyboard showing.](media/calling-start-call-6.png "Screenshot of Recent list with Search box and holographic keyboard showing.")
 
 ### Mute a participant in a group call
 
