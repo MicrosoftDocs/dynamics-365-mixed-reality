@@ -97,9 +97,9 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Start call" | Call the selected contact. |
-| 2| "Back" | Go back to the contact list and cancel the call. |
-| Not shown| "Video On/Video Off" | Turn video on or off. |
+| 1 | "Video On/Video Off" | Turn video on or off. |
+| 2 | "Start call" | Call the selected contact. |
+| 3 | "Back" | Go back to the contact list and cancel the call. |
     
 ### Active call
 
@@ -129,8 +129,9 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Join meeting" | Join the meeting. |
-| 2| "Back" | Go back to the contact list and leave the meeting. |
+| 1 | "Video On/Video Off" | Turn video on or off. |
+| 2 | "Join meeting" | Join the meeting. |
+| 3 | "Back" | Go back to the contact list and leave the meeting. |
 
 ### Meetings
     

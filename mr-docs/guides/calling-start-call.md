@@ -43,7 +43,7 @@ Start a call from your HoloLens.
 
     You'll see the contact's video feed, activity controls, calling controls, and the **Annotate** toolbar. The green indicator below the activity controls shows that you're on a call with that contact. This is useful as a reminder in case you select a different type of activity, such as opening a guide or file.
 
-    ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.JPG "Screenshot of video feed, controls, and Annotate toolbar.")
+    ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.png "Screenshot of video feed, controls, and Annotate toolbar.")
 
 > [!NOTE]
 > You can't mute or remove a call participant in a one-to-one call.
@@ -63,13 +63,13 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
 1. Start by calling one person as described above for a one-to-one call, and then select the **Open participants** button (or say "Guides, Open participants").
 
-    ![Screenshot of one-to-one call with Open participants button highlighted.](media/calling-start-call-4.JPG "Screenshot of one-to-one call with Open participants button highlighted.")
+    ![Screenshot of one-to-one call with Open participants button highlighted.](media/calling-start-call-4.png "Screenshot of one-to-one call with Open participants button highlighted.")
 
     When you select the **Open participants** button, tiles for all participants on the call appear to the right of the video feed. The first tile shows the first person that you called.
 
 1. Select the **Add participants** button in the participants area (to the right of the video feed) to display a list of recent contacts.
 
-    ![Screenshot of right side of screen with Participants button highlighted.](media/calling-start-call-5.JPG "Screenshot of right side of screen with Participants button highlighted.")
+    ![Screenshot of right side of screen with Participants button highlighted.](media/calling-start-call-5.png "Screenshot of right side of screen with Participants button highlighted.")
 
 1. Do one of the following:
 

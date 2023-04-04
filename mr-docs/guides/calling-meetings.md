@@ -51,7 +51,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
     When a participant joins the meeting, their avatar is displayed in the upper-right corner of the Meeting window.
 
-    ![Screenshot of Meeting window with avatars highlighted.](media/calling-meetings-avatars.JPG "Screenshot of Meeting window with avatars highlighted.")
+    ![Screenshot of Meeting window with avatars highlighted.](media/calling-meetings-avatars.png "Screenshot of Meeting window with avatars highlighted.")
 
 ## Add a participant from your organization to the meeting
 
@@ -61,7 +61,7 @@ To add a participant from your organization that wasn't included in the original
 
 1. In the participants area (to the right of the video feed), select the **Add participants** button. This opens the **Recent** list.
 
-    ![Screenshot highlighting Open Participants button.](media/calling-start-call-4.JPG "Screenshot highlighting Open Participants button and Add Participants button.")
+    ![Screenshot highlighting Open Participants button.](media/calling-start-call-4.png "Screenshot highlighting Open Participants button and Add Participants button.")
 
 1. Do one of the following:
 
@@ -69,7 +69,7 @@ To add a participant from your organization that wasn't included in the original
 
     - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box.
 
-      ![Screenshot of Recent list with Search box and holographic keyboard showing.](media/calling-start-call-6.JPG "Screenshot of Recent list with Search box and holographic keyboard showing.")
+      ![Screenshot of Recent list with Search box and holographic keyboard showing.](media/calling-start-call-6.png "Screenshot of Recent list with Search box and holographic keyboard showing.")
 
 ## Admit a participant from outside your organization
 
@@ -78,7 +78,7 @@ To add a participant from your organization that wasn't included in the original
 
 If a participant wants to join the meeting, but they're not part of your organization, a notification appears at the top of the Meeting window to let you know that the participant is waiting in the lobby. A **Participants** button with a red dot (showing action required) appears in the bottom-right corner of the Meeting window.
 
-![Screenshot showing notification that someone is waiting in the Lobby.](media/calling-meetings-10.JPG "Screenshot showing notification that someone is waiting in the lobby.")
+![Screenshot showing notification that someone is waiting in the Lobby.](media/calling-meetings-10.png "Screenshot showing notification that someone is waiting in the lobby.")
 
 To admit or decline the participant:
 

@@ -50,7 +50,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 
 - Select the **Color** button on the **Annotate** toolbar, and then when the **Annotate** toolbar flips over, select the color you want. That color will be used the next time that you draw with the **Direct ink** or **Far-field ink** button.
 
-   :::image type="content" source="media/calling-annotations-drawing-example.JPG" alt-text="Screenshot showing color ink choices.":::
+   :::image type="content" source="media/calling-annotations-drawing-example.png" alt-text="Screenshot showing color ink choices.":::
 
 ### Erase your annotations
 

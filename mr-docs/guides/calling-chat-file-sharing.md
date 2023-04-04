@@ -3,7 +3,7 @@ title: Start a chat and share a file in Dynamics 365 Guides on HoloLens
 author: Mamaylya
 description: Learn how to chat and share files between Dynamics 365 Guides users and Teams users
 ms.author: mamaylya
-ms.date: 03/24/2023
+ms.date: 04/03/2023
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -24,13 +24,13 @@ When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or m
     > [!NOTE]
     > If you receive a chat invite from a remote collaborator, a red circle appears on the **Chat** button and the **Chat** button animates.
 
-    ![Screenshot of Meetings window with Chat button highlighted.](media/calling-chat-file-sharing-1.JPG "Screenshot of Meetings window with Chat button highlighted")
+    ![Screenshot of Meetings window with Chat button highlighted.](media/calling-chat-file-sharing-1.png "Screenshot of Meetings window with Chat button highlighted")
 
     A new **Chat** window appears to the right of the video feed.
 
 1. To respond to the chat, place your gaze cursor over the box that says "Type a new message". 
 
-    ![Screenshot highlighting where to enter message.](media/calling-chat-file-sharing-3.JPG "Screenshot highlighting where to enter message")
+    ![Screenshot highlighting where to enter message.](media/calling-chat-file-sharing-3.png "Screenshot highlighting where to enter message")
 
 1. In the holographic keyboard that appears, enter your message, or use the **Microphone** button to dictate a message. Select the **Send** button (or press the Return key on the holographic keyboard) when you're ready to send the message.
 

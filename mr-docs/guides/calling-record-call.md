@@ -4,7 +4,7 @@ description: Learn how record a call from the Dynamics 365 Guides HoloLens app
 author:  Mamaylya
 manager: tfehr
 ms.topic: article
-ms.date: 03/24/2023
+ms.date: 04/03/2023
 ms.author: mamaylya
 ms.reviewer: v-wendysmith
 ---
@@ -28,19 +28,15 @@ A cloud-based call recording can be initiated by the Dynamics 365 Guides Hololen
 
 ## Start a recording from the HoloLens app
 
-1. Select the **Recording** button.
+1. Select the **Recording** button. You'll see a message that lets you know that you're giving consent for the meeting to be recorded.
 
-     ![Screenshot with Start Recording button highlighted.](media/call-recording-record-button.JPG)
+  At the bottom left of the video card, you'll see an indicator to let you know that you're recording. This indicator remains visible even if you do another action such as opening a guide or file, so you always know whether a recording is ongoing.
 
-1. You'll see a message that lets you know that you're giving consent for the meeting to be recorded.
+  ![Screenshot showing recording message and recording indicator.](media/calling-recording.png)
 
-    At the bottom left of the video card, you'll see an indicator to let you know that you're recording. This indicator remains visible even if you do another action such as opening a guide or file, so you always know whether a recording is ongoing.
+1. To end the recording, press the **Recording** button again or end the call.
 
-    ![Screenshot with yellow arrow highlighting the persistent recording indicator.](media/calling-persistent-recording-indicator.JPG)
-
-3. To end the recording, press the **Recording** button again or end the call. 
-
-    You'll see a reminder that the recording is being processed and saved securely in OneDrive for Business or SharePoint. 
+   You'll see a reminder that the recording is being processed and saved securely in OneDrive for Business or SharePoint.
 
 After the recording is processed and saved, it will appear in your Teams chat history. To view all the call recordings you initiated, go to your OneDrive for Business or SharePoint folder. 
 
