@@ -30,7 +30,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 - Significantly improved reliability to remote linking and the ability for HoloLens operators to draw directly in their vicinity with [direct inking](calling-annotations.md#draw-in-your-space).
 - Added the ability for users to toggle their camera off before joining a Teams HoloLens meeting or making an outgoing call.
-- Added badges on the participant tiles for Guest and External participants wherever contacts are shown such as in meetings, in a call, or in a contact search.
+- Added badges on the participant tiles for [Guest and External participants](/microsoftteams/communicate-with-users-from-other-organizations) wherever contacts are shown such as in meetings, in a call, or in a contact search.
 - Added linking for Authors to [link to another guide or open a custom app on a guide step](pc-app-website-powerapps-link.md#add-a-link-to-a-step).
 
 ## Earlier releases

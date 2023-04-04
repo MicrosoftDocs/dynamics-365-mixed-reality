@@ -32,7 +32,7 @@ Start a call from your HoloLens.
 
     - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box.
 
-      ![Screenshot of Recent list with Search box below and holographic keyboard displayed.](media/calling-start-call-1.JPG "Screenshot of Recent list with Search box below and holographic keyboard displayed.")
+      :::image type="content" source="media/calling-start-call-1.png" alt-text="Screenshot of Recent list with Search box below and holographic keyboard displayed.":::
 
 1. In the window that appears, choose whether you want video on or off and then select the **Phone** button to call the contact.
 

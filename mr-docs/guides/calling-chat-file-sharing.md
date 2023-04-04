@@ -38,7 +38,7 @@ When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or m
 
     If a remote collaborator shares a file or page link, the file or page automatically opens in a new window in your space. You can move this window wherever you want or size it directly with your hands. 
 
-   ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.JPG "Screenshot showing example file shared with the user")
+   ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.png "Screenshot showing example file shared with the user")
 
    The remote collaborator can also paste a link into the **Chat** window to share a file.  
 
