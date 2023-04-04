@@ -34,7 +34,7 @@ When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or m
 
 1. In the holographic keyboard that appears, enter your message, or use the **Microphone** button to dictate a message. Select the **Send** button (or press the Return key on the holographic keyboard) when you're ready to send the message.
 
-    ![Screenshot showing holographic keyboard with Microphone button highlighted for the dictation option.](media/calling-chat-holographic-keyboard.JPG "Screenshot showing holographic keyboard with Microphone button highlighted for the dictation option")
+    ![Screenshot showing holographic keyboard with Microphone button highlighted for the dictation option.](media/calling-chat-holographic-keyboard.png "Screenshot showing holographic keyboard with Microphone button highlighted for the dictation option")
 
     If a remote collaborator shares a file or page link, the file or page automatically opens in a new window in your space. You can move this window wherever you want or size it directly with your hands. 
 
