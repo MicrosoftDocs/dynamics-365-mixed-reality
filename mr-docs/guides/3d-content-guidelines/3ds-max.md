@@ -351,7 +351,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 1. Select the cloned model.
 
-2. On the **Babylon** menu, select [Babylon File Exporter](https://doc.babylonjs.com/resources/3dsmax).
+2. On the **Babylon** menu, select [Babylon File Exporter](https://doc.babylonjs.com/features/featuresDeepDive/Exporters/3DSMax_to_glTF).
 
    ![Babylon menu.](media/3ds-max-babylon.png "Babylon menu")  
 
@@ -376,7 +376,7 @@ Several screenshots in this document were taken from the Autodesk 3ds Max softwa
 You can find more information about these products here:
 
 [Autodesk 3ds Max](https://area.autodesk.com/crush-it-3ds-max-2/?mktvar002=759224&&mkwid=sKU4V0FKc%7cpcrid%7c300714295428%7cpkw%7cmax%203ds%7cpmt%7ce%7cpdv%7cc%7cslid%7c%7cpgrid%7c23187845595%7cptaid%7ckwd-37564256%7c&intent=3ds+Max+-+Brand&utm_medium=cpc&utm_source=google&utm_campaign=GGL_3DS+MAX_US_BR_SEM_EXACT&utm_term=max%203ds&utm_content=sKU4V0FKc%7cpcrid%7c300714295428%7cpkw%7cmax%203ds%7cpmt%7ce%7cpdv%7cc%7cslid%7c%7cpgrid%7c23187845595%7cptaid%7ckwd-37564256%7c&addisttype=g&s_kwcid=AL!8131199977!3!300714295428!e!!g!!max%203ds&gclid=EAIaIQobChMItvLZ4ZC64wIVDtRkCh1r-A0VEAAYASAAEgJhwfD_BwE&gclsrc=aw.ds)<br> 
-[Babylon Exporter for 3ds Max](https://doc.babylonjs.com/resources/3dsmax)<br> 
+[Babylon Exporter for 3ds Max](https://doc.babylonjs.com/features/featuresDeepDive/Exporters/3DSMax_to_glTF)<br> 
 
 Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk 3ds Max, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
 

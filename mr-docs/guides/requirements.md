@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the device and licensing requirements for installing and using Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 10/17/2022
+ms.date: 03/27/2023
 ms.topic: article
 title: Device and licensing requirements for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,7 +10,7 @@ ms.reviewer: v-wendysmith
 
 # Device and licensing requirements for Dynamics 365 Guides
 
-The following table lists technical requirements for deploying and using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] throughout your organization.
+The following table lists technical requirements for deploying and using Dynamics 365 Guides throughout your organization.
 
 > [!Note] 
 > Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](faq.md) and
@@ -19,8 +19,8 @@ The following table lists technical requirements for deploying and using [!inclu
 ## Device requirements
 | Device | Platform | Operating system requirements | Details |
 |---|---|---|---|
-| [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] | x86, ARM | Build 10.0.17134 or later.<p>[!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.17134 is the earliest build that supports [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. We recommend that you update [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when they become available.</p> | For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, Mobile Device Management, and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Server Update Services (WSUS), see [Manage updates to HoloLens](/HoloLens/hololens-updates).<p>**Note:** HoloLens includes the Microsoft Edge browser. You can't use Internet Explorer with HoloLens.</p> |
-| A computer (PC) that is running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 (required to create guides) | x64 | A PC that runs [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 with build 10.0.17134 (April 2018 Update 1803) or later.<br><br>**Minimum resolution**. Dynamics 365 Guides supports a minimum effective resolution of 800 x 600 pixels before information loss.  | A PC that runs [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 is used to create and edit guides that will then be available on [!include[pn-hololens](../includes/pn-hololens.md)]. |
+| Microsoft HoloLens | x86, ARM | Build 10.0.17134 or later.<p>HoloLens build 10.0.17134 is the earliest build that supports Dynamics 365 Guides. We recommend that you update HoloLens to newer versions when they become available.</p> | For information about how to use Windows Update for Business, Mobile Device Management, and Windows Server Update Services (WSUS), see [Manage updates to HoloLens](/HoloLens/hololens-updates).<p>**Note:** HoloLens includes the Microsoft Edge browser. You can't use Internet Explorer with HoloLens.</p> |
+| A computer (PC) that is running Windows 10 (required to create guides) | x64 | A PC that runs Windows 10 with build 10.0.17763 (October 2018 Update 1809) or later.<br><br>**Minimum resolution**. Dynamics 365 Guides supports a minimum effective resolution of 800 x 600 pixels before information loss.  | A PC that runs Windows 10 is used to create and edit guides that will then be available on HoloLens. |
 
 > [!TIP]
 > [You can set up a device license for multiple operators on a shared HoloLens device](device-license.md). 

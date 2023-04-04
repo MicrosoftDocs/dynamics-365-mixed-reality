@@ -3,7 +3,7 @@ title: Share your desktop or application screen with a Dynamics 365 Guides user 
 author: Mamaylya
 description: Learn how to share a desktop or application screen between Microsoft Teams users and Dynamics 365 Guides users on HoloLens
 ms.author: mamaylya
-ms.date: 10/17/2022
+ms.date: 04/03/2023
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -57,7 +57,7 @@ This article shows how to share a screen with a Dynamics 365 Guides user. To lea
 
 When a remote collaborator shares their screen, the screen automatically appears as a new window in the Dynamics 365 Guides user's environment.
 
-![Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens.](media/calling-screen-sharing-1.JPG "Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens")
+![Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens.](media/calling-screen-sharing-1.png "Screenshot of a shared screen example in Dynamics 365 Guides on HoloLens")
 
 The live video feed of the person sharing their screen is suspended in this case. The video feed and the shared screen cannot both be on at the same time.
 
@@ -72,8 +72,6 @@ You can also interact with the screen by using your hand rays and air tap (far-f
 ## Switching video feeds
 
 If the video feed is switched to another person on the call while a screen is being shared, that person's video feed is displayed and the shared screen is suspended (turns gray). A button appears on the suspended screen that you can select to make the shared screen active again. 
-
-![Screenshot of a suspended shared screen with button highlighted.](media/calling-screen-sharing-2.JPG "Screenshot of a suspended shared screen with button highlighted")
 
 You can also make the shared screen active by selecting a similar button in the live video feed. 
 
@@ -92,4 +90,3 @@ If the person who shared their screen stops sharing, the shared screen disappear
 - [Annotations](calling-annotations.md)
 - [Access OneDrive files](onedrive-files.md)
 - [Teams users capabilities](calling-teams-users.md)
-

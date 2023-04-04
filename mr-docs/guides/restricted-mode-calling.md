@@ -2,7 +2,7 @@
 title: Restrict calling and the ability to search and access contacts in Dynamics 365 Guides for HoloLens
 author: m-hartmann
 description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Guides.
-ms.author: mhart
+ms.author: prashan
 ms.date: 02/14/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
