@@ -93,7 +93,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
     
 ### Call confirmation
     
-![Call confirmation screen.](media/voice-commands-call-confirmation.JPG "Call confirmation screen")
+![Call confirmation screen.](media/voice-commands-call-confirmation.png "Call confirmation screen")
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -169,7 +169,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ### Select mode
 
-![Select mode screen.](media/voice-commands-select-mode-8.png "Select mode screen")
+![Select mode screen.](media/voice-commands-select-mode-8.JPG "Select mode screen")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|

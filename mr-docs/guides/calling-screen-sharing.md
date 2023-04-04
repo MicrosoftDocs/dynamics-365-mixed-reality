@@ -75,7 +75,7 @@ If the video feed is switched to another person on the call while a screen is be
 
 You can also make the shared screen active by selecting a similar button in the live video feed. 
 
-![Screenshot of window with new live feed and button that you can use to switch back to the shared screen.](media/calling-screen-sharing-3.png "Screenshot of window with new live feed and button that you can use to switch back to the shared screen")
+![Screenshot of window with new live feed and button that you can use to switch back to the shared screen.](media/calling-screen-sharing-3.JPG "Screenshot of window with new live feed and button that you can use to switch back to the shared screen")
 
 If you make the shared screen active by using either of these buttons, the video feed for the person displayed is suspended again. 
 
