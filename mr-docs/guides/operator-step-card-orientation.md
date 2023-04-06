@@ -2,10 +2,11 @@
 author: Mamaylya
 description: Learn how to work with the Step card as an operator in Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 11/08/2021
-ms.topic: article
+ms.date: 04/05/2023
+ms.topic: overview
 title: Get oriented with the Step card as an operator in Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Get oriented with the Step card as an operator in Dynamics 365 guides
@@ -34,19 +35,14 @@ Here's a description of the buttons and other UI elements on the Step card.
 | 3 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide. The following illustration shows the **Outline** page for the Pylon Wiring guide.</p><p>![Outline page](media/outline-operator.PNG "Outline page")</p> |
 | 4 | ![Step counter.](media/step-progress.PNG "Step progress") | Step counter | Shows what step you're on in the task. |
 | 5 | ![Task name.](media/task-name-table.png "Task name") | Task name | Shows the name of the task that you're working on. |
-| 6 | ![Action button.](media/action-button.PNG "Action button") | Action button | Opens a website or Power Apps link. |
+| 6 | ![Action button.](media/link-button.png "Action button") | Action button | Opens a website, email, guide, custom app, or Power Apps link. |
 
-## What's next?
+## Next steps
 
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use the dotted line to find the focus area for a step](operator-dotted-line.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn Follow mode off or on](operator-follow-mode.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use triggers to move between steps](operator-trigger.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Open a website from the Step card](operator-website-link.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Open an app in Power Apps from the Step card](operator-powerapps-link.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn holograms off and on](operator-holograms-off.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Work offline](operator-offline-mode.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use voice commands](voice-commands.md)<br>
-
+- [Watch a video about operating a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)
+- [Use the dotted line to find the focus area for a step](operator-dotted-line.md)
+- [Turn Follow mode off or on](operator-follow-mode.md)
+- [Use triggers to move between steps](operator-trigger.md)
+- [Use voice commands](voice-commands.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
