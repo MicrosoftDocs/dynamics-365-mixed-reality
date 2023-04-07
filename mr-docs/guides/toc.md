@@ -71,8 +71,7 @@
 ### [Start an activity](main-menu.md)
 ### Collaborate with Teams users
 #### [Guides call types](calling-concepts.md)
-#### [Call a remote collaborator](calling-start-call.md)
-#### [Receive a call from a Guides user in Teams](calling-receive-call.md)
+#### [Make or receive a call](calling-start-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
 #### [Chat and file sharing](calling-chat-file-sharing.md)
 #### [Record a call](calling-record-call.md)

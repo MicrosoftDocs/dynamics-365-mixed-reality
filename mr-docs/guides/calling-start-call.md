@@ -1,24 +1,21 @@
 ---
-title: Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides  
+title: Make or receive a call in Dynamics 365 Guides  
 author: Mamaylya
-description: Learn how to call a remote collaborator on Microsoft Teams from Dynamics 365 Guides on HoloLens
+description: Learn how to make or receive a call with a remote collaborator from Dynamics 365 Guides on HoloLens
 ms.author: mamaylya
-ms.date: 04/04/2023
+ms.date: 04/28/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-# Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides
+# Make or receive a call in Dynamics 365 Guides
 
-When you're working in Microsoft Dynamics 365 Guides on HoloLens, if you need help with a task in your world, you might want to call a remote collaborator on Microsoft Teams (desktop or mobile) or Dynamics 365 Remote Assist. See [Types of calls](calling-concepts.md) for more information.
+When you're working in Microsoft Dynamics 365 Guides on HoloLens, you can make or receive calls on your HoloLens. 
 
 ## Start a one-to-one call
 
-Start a call from your HoloLens.
-
-> [!NOTE]
-> You can't receive a call in Dynamics 365 Guides from a Teams or Dynamics 365 Remote Assist user. You must initiate the call from Dynamics 365 Guides.
+Start a call from your HoloLens. See [Types of calls](calling-concepts.md) for more information.
 
 ### Start a one-to-one call with a Teams contact in your organization
 
@@ -97,6 +94,16 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 1. Select the tile for the participant that you want to remove.
 
 1. When the tile flips over, select **Remove**.
+
+## Receive a call from a remote collaborator
+
+When working in Guides, a notification displays when someone calls you. You can:
+
+- Select **Video** or say "Guides, Video on?" to accept the call with your video on, showing the remote collaborators your view.
+
+- Select **Phone** or say "Guides, Mic on?" to accept the call with audio only.
+
+- Select **Ignore** or say "Guides, Ignore?" to decline the call.
 
 ## End a call
 
