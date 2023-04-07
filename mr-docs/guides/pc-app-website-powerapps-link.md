@@ -13,9 +13,9 @@ ms.custom: bap-template
 
 You can add a website link, email, guide, custom app, or a Power Apps link to a Step card in Dynamics 365 Guides creating a seamless workflow for operators. Configure an action link with a Uniform Resource Identifier (URI) scheme so when an operator activates the link, the HoloLens opens the corresponding app or page.
 
-- [**Link.**](#add-a-link-to-a-step) Add a link to a step so that operators can see and interact with information outside the particular guide. For example, connect a sequence of guides, launch a website, launch a page of the Settings app, or launch a custom app that has been installed on the device.
+- [**Link**](#add-a-link-to-a-step) Add a link to a step so that operators can see and interact with information outside the particular guide. For example, connect a sequence of guides, launch a website, launch a page of the Settings app, or launch a custom app that has been installed on the device.
 
-- [**Power Apps link.**](#add-a-power-apps-link-to-a-step) Add a Power Apps link to a step. [Power Apps](https://products.office.com/business/microsoft-powerapps) enables teams to create custom applications with low-code tools to solve unique business workflows. By combining Guides and Power Apps, you can extend Guides capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a link to an interactive quiz app, a parts re-ordering app, or an app that provides the latest status on IoT sensors.  
+- [**Power Apps link**](#add-a-power-apps-link-to-a-step) Add a Power Apps link to a step. [Power Apps](https://products.office.com/business/microsoft-powerapps) enables teams to create custom applications with low-code tools to solve unique business workflows. By combining Guides and Power Apps, you can extend Guides capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a link to an interactive quiz app, a parts re-ordering app, or an app that provides the latest status on IoT sensors.  
 
    > [!NOTE]
    > To run Power Apps from Guides, operators need a [Power Apps license](https://powerapps.microsoft.com/pricing/). They must also have [permission](/powerapps/maker/canvas-apps/share-app#share-an-app) to view the app that is created in Power Apps.
