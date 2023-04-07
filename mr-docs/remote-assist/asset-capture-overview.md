@@ -65,7 +65,7 @@ To use the asset capture feature, see the following series of articles:
 
 Asset capture uses several entities stored in Microsoft Dataverse:
 
-- **Customer Asset**: The individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. More info: [msdyn_customerasset EntityType](/dynamics365/customer-engagement/web-api/msdyn_customerasset)
+- **Customer Asset**: The individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. More info: [msdyn_customerasset EntityType](msdyn_customerasset.md).
 
 - **Customer Asset Category**: A way to describe a group of similar assets.
 
