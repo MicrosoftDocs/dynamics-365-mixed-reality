@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 04/03/2023
+ms.date: 04/06/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -30,7 +30,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 - Significantly improved reliability to remote linking and the ability for HoloLens operators to draw directly in their vicinity with <a href="/dynamics365/mixed-reality/guides/calling-annotations" target="_blank">direct inking</a>.
 - Added the ability for users to toggle their camera off before joining a Teams HoloLens meeting or making an outgoing call.
-- Added badges on the participant tiles for Guest and External participants wherever contacts are shown such as in meetings, in a call, or in a contact search.
+- Added badges on the participant tiles for <a href="/microsoftteams/communicate-with-users-from-other-organizations" target="_blank">Guest and External participants</a> wherever contacts are shown such as in meetings, in a call, or in a contact search.
 - Added linking for Authors to <a href="/dynamics365/mixed-reality/guides/pc-app-website-powerapps-link" target="_blank">link to another guide or open a custom app on a guide step</a>.
 
 ## Earlier releases
