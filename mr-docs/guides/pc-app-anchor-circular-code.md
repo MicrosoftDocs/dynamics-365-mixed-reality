@@ -51,7 +51,7 @@ print in step 6.
 
     ![Actual size option.](media/adobe-actual-size.PNG "Actual size option")
 
-6. Print the last page of the document on matte stock and don't laminate it. Glossy materials can affect scanning and will decreaes the anchor detection rate. Bubble jet printers produce a better matte finish.
+6. Print the last page of the document on matte stock and don't laminate it. Glossy materials can affect scanning and will decrease the anchor detection rate. Bubble jet printers produce a better matte finish.
 
     > [!NOTE]
     > Also, make sure the anchor is always positioned flat. DO NOT distort or place it on a curved surface as this will negatively affect alignment and detection. 
@@ -114,7 +114,7 @@ make sure that the anchor is flat. An anchor that is curved or distorted can aff
 
     - Take a photo or video to document the anchor placement, and add it to the guide instructions to help increase operator confidence. For 
     information about how to capture a photo or video from [!include[pn-hololens](../includes/pn-hololens.md)], see 
-    [Mixed reality capture](/windows/mixed-reality/develop/advanced-concepts/mixed-reality-capture-overview).
+    [Mixed reality capture](/hololens/holographic-photos-and-videos).
 
 - **Scanning angle.** Make sure you're facing the anchor straight on at the correct distance when gazing at it. 
 

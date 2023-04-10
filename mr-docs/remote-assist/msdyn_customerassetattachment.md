@@ -70,7 +70,7 @@ Single-valued navigation properties represent lookup fields where a single entit
 |createdonbehalfby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser)|lk_msdyn_customerassetattachment_createdonbehalfby|
 |modifiedby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser)|lk_msdyn_customerassetattachment_modifiedby|
 |modifiedonbehalfby|[systemuser](/dynamics365/customer-engagement/web-api/systemuser)|lk_msdyn_customerassetattachment_modifiedonbehalfby|
-|msdyn_customerasset|msdyn_customerasset|msdyn_msdyn_customerasset|
+|msdyn_customerasset|[msdyn_customerasset](msdyn_customerasset.md)|
 |ownerid|[principal](/dynamics365/customer-engagement/web-api/principal)|owner_msdyn_customerassetattachment|
 |owningbusinessunit|[businessunit](/dynamics365/customer-engagement/web-api/businessunit)|business_unit_msdyn_customerassetattachment|
 |owningteam|[team](/dynamics365/customer-engagement/web-api/team)|team_msdyn_customerassetattachment|
