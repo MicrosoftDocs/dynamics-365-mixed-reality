@@ -1,51 +1,50 @@
 ---
-author: Mamaylya
-description: Learn how to use a style to add emphasis (Warning, Caution, and so on) to a hologram in the Dynamics 365 Guides HoloLens app
-ms.author: mamaylya
-ms.date: 11/08/2021
+author: RobertButterworthMS
+description: Learn how to use a style to add emphasis (Caution, and so on) to a hologram in the Dynamics 365 Guides HoloLens app
+ms.author: robutter
+ms.date: 04/12/2023
 ms.topic: article
-title: Use a style to add emphasis to a hologram in the Dynamics 365 Guides HoloLens app
+title: Use a style to add emphasis to a hologram in the Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
-# Use a style to add emphasis to a hologram in the Dynamics 365 Guides HoloLens app
+# Use a style to add emphasis to a hologram in the Guides HoloLens app
 
-You can add styles in the Microsoft Dynamics 365 Guides HoloLens app to provide visual cues for your holograms. For example, you can add the **Warning** style to 
-indicate caution or the **Avoid** style to make sure that an operator doesn't do something that could cause harm. As your operators get used to the visual language 
-that styles provide, their learning process will speed up.
+You can add styles in the Dynamics 365 Guides HoloLens app to provide visual cues for your holograms. For example, add the **Warning** style to indicate caution or the **Red** style to make sure that an operator doesn't do something that could cause harm. As your operators get used to the visual language that styles provide, their learning process speeds up.
 
 ## Add a style
 
 1. Select a hologram that you've already placed in the real world.
 
-2. Select the **Edit Hologram** (pencil) button.
+1. Select the **Edit Hologram** (pencil) button.
 
-    ![Edit Hologram button.](media/edit-hologram.png "Edit Hologram button")
+   :::image type="content" source="media/edit-hologram.png" alt-text="Screenshot of Edit Hologram button.":::
 
-3. Select **Styles**.
-
-    ![Styles button.](media/edit-styles1.PNG "Styles button")
+1. Select **Styles**.
 
     > [!TIP]
-    > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can select the **Styles** command and subsequent menu items directly with your finger. For more information about manipulating holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
+    > On HoloLens 2, you can select the **Styles** command and subsequent menu items directly with your finger. For more information about manipulating holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
 
-4. Select the style that you want to use.
+1. Select the style that you want to use.
 
-    ![List of styles.](media/styles.png "List of styles")
+   :::image type="content" source="media/styles.png" alt-text="Screenshot of List of styles.":::
 
-Here's a list of the styles included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] and information about when to use each.
+The styles available in Guides and when to use them include:
 
 | Style | Purpose | How it appears to the operator |
 |---|---|---|
 | Original | Restore the original appearance. | Default appearance |
-| Pick up | Tell the operator to pick something up. | Outline |
-| Place | Show the operator where to place something. | Dotted line |
-| See-through 1 | Show something without obscuring the operator's view. | 50 percent transparent |
-| See-through 2 | Layer one thing on top of another so that the operator can see through two layers. | 75 percent transparent |
-| Warning | Warn about a safety or quality concern. | Yellow and black stripes |
-| Avoid | Show areas or things to avoid. | Red flashing |
+| Red | Show areas or things to avoid. | Red flashing |
+| Green | Show areas or things to approach. | Green flashing |
+| Caution | Warn about a safety or quality concern. | Yellow and black stripes |
 | X-ray | Show things that occur inside something. | A pulse that appears through it |
-| Metal | Provide a realistic metal finish for an object. | Metallic |
+| Outline | Tell the operator to pick something up. | Outline |
+| Dashed outline | Show the operator where to place something. | Dotted line |
+| Obscure | Cover sensitive objects to block the operator's view. | 90% bright white |
+| Pass-through | Cut through holograms to see the real world behind them. | TBD |
+| Metallic | Provide a realistic metal finish for an object. | Metallic |
+| 50% transparent | TBD | 50% transparent |
+| 75% transparent | TBD | 75% transparent |
 
 ![All styles.](media/all-styles.PNG "All styles")
 
@@ -53,7 +52,7 @@ Here's a list of the styles included in [!include[pn-dyn-365-guides](../includes
 
 - Use styles to reinforce actions.
 
-- Use styles only for the purpose that they were intended for. After operators learn the visual language of styles, they'll know that a particular style means a specific thing, which will speed up their learning process.
+- Use styles only for the purpose that they were intended for. After operators learn the visual language of styles, they'll know that a particular style means a specific thing, which speeds up their learning process.
 
 ## What's next?
 

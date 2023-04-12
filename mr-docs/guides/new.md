@@ -23,12 +23,15 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|803.2303.23001 |
-|HoloLens app (HoloLens 2 only)|803.2303.23001 |
-|Solution|800.3.0.1 |
+|PC app| TBD |
+|HoloLens app (HoloLens 2 only)| TBD |
+|Solution| TBD |
 
-### Bugs fixed and other improvements
+### Features
 
+- Guides users can receive incoming calls to join one-to-one calls, group calls, or meetings on HoloLens.
+- Users can use obscure and pass-through styles on holograms to show or cover real-world objects during a call or video recording.
+- Authors can make 3D objects interactable for operators to move, scale, and rotate to enhance their learning experience through close inspection.
 
 ## April 4, 2023
 
