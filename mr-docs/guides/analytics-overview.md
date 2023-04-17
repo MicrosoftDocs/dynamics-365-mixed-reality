@@ -43,7 +43,7 @@ Data for all authors is automatically stored in the Guide Author Session table (
 
 ### 4. Trigger alerts or visualize data
 
-Use the Power Platform to analyze and act on your data.
+Use Power Platform to analyze and act on your data.
 
 ![Power Platform example.](media/analytics-alerts-visualize-data-1.PNG "Power Platform example")
 

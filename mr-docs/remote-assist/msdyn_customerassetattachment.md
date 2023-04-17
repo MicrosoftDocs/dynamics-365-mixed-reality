@@ -76,6 +76,8 @@ Single-valued navigation properties represent lookup fields where a single entit
 |owningteam|[team](/dynamics365/customer-engagement/web-api/team)|team_msdyn_customerassetattachment|
 |owninguser|[systemuser](/dynamics365/customer-engagement/web-api/systemuser)|user_msdyn_customerassetattachment|
 
+<!--- Removed link for msdyn_customerasset as the page is no longer active. /dynamics365/customer-engagement/web-api/msdyn_customerasset --->
+
 ## Operations
 
 The following operations can be used with the msdyn_customerassetattachment entity type.

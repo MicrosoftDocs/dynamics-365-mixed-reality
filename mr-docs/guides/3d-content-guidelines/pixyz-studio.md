@@ -66,7 +66,7 @@ After removing all the unnecessary parts and assemblies, you can use the followi
 •	**Mesh** > **Delete Lines**
 
 > [!NOTE]
-> If lines are important for your scenario, you can use **Mesh** > **Create Textures From Lines** on co-planar lines to bake a textured polygon to use in mixed-reality apps. See the [Pixyz documentation](https://www.pixyz-software.com/documentations/html/2020.1/studio/api/Algo.lineToTexture.html) for more information.
+> If lines are important for your scenario, you can use **Mesh** > **Create Textures From Lines** on co-planar lines to bake a textured polygon to use in mixed-reality apps. See the [Pixyz documentation](https://www.pixyz-software.com/documentations/html/2020.1/studio/api/Algo.lineToTexture) for more information.
 
 ## Remove features
 
