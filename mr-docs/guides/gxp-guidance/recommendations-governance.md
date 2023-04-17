@@ -55,4 +55,8 @@ Other contributors:
 - [Kevin Helge Hansen-Schwartz](https://www.linkedin.com/in/kevinhhschwartz/) | NNIT Line Manager for Mixed Reality
 - [Milan Uhlár](https://www.linkedin.com/in/milan-uhl%C3%A1r-56341246/) | NNIT Senior Compliance Consultant
 
+Microsoft:
+
+- [Jesper Bagh](https://www.linkedin.com/in/jesperbagh/) | Microsoft Global GxP Lead
+
 [!INCLUDE [footer-include](../../includes/footer-banner.md)]
