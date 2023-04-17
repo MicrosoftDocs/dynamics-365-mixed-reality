@@ -34,7 +34,7 @@ To have access to the Calls Dashboard, you must have:
 3. [Enable the Power BI Azure Maps visual](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
 
     > [!IMPORTANT]
-    > Due to European (GDPR) regulations, this step only applies to customers with deployments within the US. Enabling the Power BI Azure Maps visual will not enable the map for non-US environments (for example, Europe, Canada, or Korea).  
+    > Due to European privacy laws and regulations, this step only applies to customers with deployments within the US. Enabling the Power BI Azure Maps visual will not enable the map for non-US environments (for example, Europe, Canada, or Korea).  
 
 ## Enabling the Calls Dashboard
 
