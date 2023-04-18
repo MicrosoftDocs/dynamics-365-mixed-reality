@@ -30,7 +30,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 ### Features
 
 - Guides users can receive incoming calls to join one-to-one calls, group calls, or meetings on HoloLens.
-- Users can use obscure and pass-through styles on holograms to show or cover real-world objects during a call or video recording.
+- Users can use obscure and pass-through styles on holograms to show or obscure real-world objects during a call or video recording.
 - Authors can make 3D objects interactable for operators to move, scale, and rotate to enhance their learning experience through close inspection.
 
 ## April 4, 2023
