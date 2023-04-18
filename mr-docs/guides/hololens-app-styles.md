@@ -75,13 +75,15 @@ For example, as an author, you want to obscure a diagram with sensitive informat
 
 The author view:
 
-   :::image type="content" source="media/obscure-passthrough.png" alt-text="Image with Obscure and Passthrough applied from an author's view.":::
+:::image type="content" source="media/obscure-passthrough.jpg" alt-text="Image with Obscure and Passthrough applied from an author's view.":::
 
 The operator view:
 
-   :::image type="content" source="media/obscure-passthrough-operator.png" alt-text="Image with Obscure and Passthrough applied from an author's view.":::
+:::image type="content" source="media/obscure-passthrough-operator.jpg" alt-text="Image with Obscure and Passthrough applied from an author's view.":::
 
 The guide author has full control over what they obscure from view when on a Teams call or making mixed reality videos, and can assemble a collection of 3D cubes to hide additional environment elements.  In the following example, more 3D cubes were placed to obscure the large whiteboard, the computer, and toolbox as well as the diagram.
+
+:::image type="content" source="media/obscure-side-by-side.jpg" alt-text="Image with Obscure for many objects and Passthrough from an author's and operator's view.":::
 
 ## Next steps
 
