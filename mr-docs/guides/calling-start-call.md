@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Make or receive a call in Dynamics 365 Guides
 
-When you're working in Microsoft Dynamics 365 Guides on HoloLens, you can make or receive calls on your HoloLens.
+When you're working in Dynamics 365 Guides on HoloLens, you can make or receive calls on your HoloLens. Your admin must have **Enable Calling** setting enabled to make or receive calls.
 
 ## Start a one-to-one call
 
@@ -104,6 +104,8 @@ When working in Guides, a notification displays when you receive a call from an 
 - Select **Phone** or say "Guides, Audio" to accept the call with audio only.
 
 - Select **Ignore** or say "Guides, Ignore" to decline the call.
+
+If you are already in a call or meeting in Guides and receive another call, the new call is automatically declined.
 
 > [!IMPORTANT]
 > If both Guides and Remote Assist are installed, you might see conflicting notifications from both apps. We recommend you turn off notifications from Remote Assist. For more information, see [HoloLens users have trouble with notifications when receiving a call in Guides](known-issues-hololens-app.md#hololens-users-have-trouble-with-notifications-when-receiving-a-call-in-guides).

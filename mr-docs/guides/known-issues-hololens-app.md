@@ -16,7 +16,7 @@ If both Guides and Remote Assist are installed and you see a notification from o
 
 If both apps are closed, you can't receive the call. Open Guides to receive the call.
 
-If both apps are installed and you see conflicting notifications, we recommend you turn off notifications from Remote Assist. Select **Settings** > **System** > **Notifications** > **Dynamics 365 Remote Assist** and toggle off. You might need to restart the device and wait a few days for the settings to take affect.
+If both apps are installed and you see conflicting notifications, we recommend you turn off notifications from Remote Assist. Select **Settings** > **System** > **Notifications** > **Dynamics 365 Remote Assist** and toggle off. This change can take time to propagate. You might need to restart the device and wait a few days for the settings to take affect.
 
 ## Guest users can't send or receive chat messages while in a group meeting
 
@@ -61,10 +61,6 @@ By using the correct credentials to sign in, you ensure that your work progress 
 ## The video preview on a step is blurry
 
 The PC app video may appear to be blurry when an author previews a video in the HoloLens app. The PC app converts and resizes videos when they're uploaded to ensure optimal performance on HoloLens. This transcoding process depends on the codecs installed on the PC and errors can occur if codecs are removed from the PC. The  HoloLens app currently uses an optimized video specification of 853×480 H.264. If your video is recorded at a very high resolution, or if it's very large, the transcoding process on the PC might degrade the quality, making it appear blurry. To fix this issue, record and upload a new video, keeping its length and resolution in mind. Only the 853x480 video file is stored on Microsoft Dataverse.
-
-## When the see-through style is applied to a 3D model, it might show gray areas instead of correctly rendering textures 
-
-There are rendering issues for the "see through" style on some 3D models. Some surfaces on these models will look gray. If you experience this issue, use another style. If you **must** use this style and need help with it, contact customer service.
 
 ## See also
 
