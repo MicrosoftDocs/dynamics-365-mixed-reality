@@ -106,7 +106,7 @@ When working in Guides, a notification displays when you receive a call from an 
 - Select **Ignore** or say "Guides, Ignore" to decline the call.
 
 > [!IMPORTANT]
-> If both Guides and Remote Assist are installed, you might see notifications from both apps. We recommend you turn off notifications from Remote Assist.
+> If both Guides and Remote Assist are installed, you might see conflicting notifications from both apps. We recommend you turn off notifications from Remote Assist. For more information, see [HoloLens users have trouble with notifications when receiving a call in Guides](known-issues-hololens-app.md#hololens-users-have-trouble-with-notifications-when-receiving-a-call-in-guides).
 
 ## End a call
 

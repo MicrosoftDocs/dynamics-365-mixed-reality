@@ -2,13 +2,21 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 02/28/2023
+ms.date: 04/28/2023
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+## HoloLens users have trouble with notifications when receiving a call in Guides
+
+If both Guides and Remote Assist are installed and you see a notification from one app and an OS notification from the other app, use the in app panel to respond to the call. Ignore the OS notification from the other app.
+
+If both apps are closed, you can't receive the call. Open Guides to receive the call.
+
+If both apps are installed and you see conflicting notifications, we recommend you turn off notifications from Remote Assist. Select **Settings** > **System** > **Notifications** > **Dynamics 365 Remote Assist** and toggle off. You might need to restart the device and wait a few days for the settings to take affect.
 
 ## Guest users can't send or receive chat messages while in a group meeting
 
