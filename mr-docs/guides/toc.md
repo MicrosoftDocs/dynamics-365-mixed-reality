@@ -208,8 +208,8 @@
 
 ## [Dynamics 365 Guides US Government](gcc.md)
 
-## Dynamics 365 Guides in regulated industries
-### [Dynamics 365 Guides in regulated industries overview](gxp-guidance/recommendations-governance.md)
+## Dynamics 365 Guides in GxP regulated industries
+### [Dynamics 365 Guides in GxP regulated industries overview](gxp-guidance/recommendations-governance.md)
 ### Governance and usage recommendations
 #### [Govern guides through Power Platform and Power Apps](gxp-guidance/govern-guides-through-power-platform-environments-and-power-apps.md)
 #### [Common challenges and requirements](gxp-guidance/common-challenges-and-requirements.md)

@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 Guides in regulated industries overview
+title: Dynamics 365 Guides in GxP regulated industries overview
 description: Recommendations for using Dynamics 365 Guides in a regulated industry.
 ms.date: 04/17/2023
 ms.topic: overview
@@ -9,11 +9,11 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Dynamics 365 Guides in regulated industries overview
+# Dynamics 365 Guides in GxP regulated industries overview
 
 Production companies within regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. [Microsoft HoloLens](/hololens) (HoloLens) with the software [Microsoft Dynamics 365 Guides](../index.md) (Guides) is an excellent example of such digital technology.
 
-However, complying with GxP protocols is not an easy task. It requires resources, expertise, training, and coordination among different teams and departments. It also poses significant challenges regarding efficiency, productivity, innovation, and competitiveness. For example, some of the common issues that pharmaceutical manufacturers face when following GxP protocols are human errors and inconsistencies, lack of visibility and collaboration, and inflexibility and inefficiency.
+However, complying with Good {industry} Practice (GxP) protocols is not an easy task. It requires resources, expertise, training, and coordination among different teams and departments. It also poses significant challenges regarding efficiency, productivity, innovation, and competitiveness. For example, some of the common issues that pharmaceutical manufacturers face when following GxP protocols are human errors and inconsistencies, lack of visibility and collaboration, and inflexibility and inefficiency.
 
 Mixed Reality (MR) can address the challenges. MR encompasses both Augmented Reality (AR) and Virtual Reality (VR) to create immersive and interactive experiences with digital overlays on the physical world or a simulated environment. MR can offer benefits for manufacturers in regulated industries who need to comply with GxP, such as:
 
