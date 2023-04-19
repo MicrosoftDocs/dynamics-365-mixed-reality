@@ -32,7 +32,7 @@ You can add styles in the Dynamics 365 Guides HoloLens app to provide visual cue
 
 The styles available in Guides and when to use them include:
 
-| Style | Potential use | How it appears to the operator |
+| Style | Suggested use | How it appears to the operator |
 |---|---|---|
 | Original | Restore the original appearance. | Default appearance |
 | Red | Show areas or things to avoid. | Red flashing |
