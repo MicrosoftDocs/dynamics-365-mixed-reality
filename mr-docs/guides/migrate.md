@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 03/01/2023
+ms.date: 04/28/2023
 ms.topic: how-to
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-wendysmith
@@ -29,6 +29,7 @@ The tool supports the following types of migration.
 | Only 3D objects | Active 3D objects only. You can migrate all existing 3D objects at one time, all 3D objects that belong to a 3D object collection, or select specific 3D objects. |
 | Only images | Active images only. You can migrate all existing images at one time or select specific images. |
 | Only videos | Active videos only. You can migrate all existing videos at one time or select specific videos. |
+| Only Object Anchors | Active Azure Object Anchors only. You can migrate all existing object anchors at one time or select specific object anchors. |
 
 > [!NOTE]
 > - If you have created a folder structure in your instance, [migrate it using Power Platform's export/import functionality](/dynamics365/mixed-reality/guides/admin-export-import-folders). Moving the folders first, and then the content ensures that the folder and content hierarchy is retained. 
