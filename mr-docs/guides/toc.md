@@ -152,15 +152,14 @@
 ###### [Anchor your guide to the real world](operator-anchor.md)
 ##### Work with a guide
 ###### [Get oriented with the Step card](operator-step-card-orientation.md)
-###### [Applied styles](operator-applied-styles.md)
 ###### [Use a dotted line to find a focus area](operator-dotted-line.md)
 ###### [Use Follow mode and pinning](operator-follow-mode.md)
 ###### [Use a branching (non-linear) guide](operator-branching-guide.md)
 ###### [Use a trigger to move between steps](operator-trigger.md)
-###### [Interact with holograms](operator-interactactable.md)
+###### [Work with holograms](operator-holograms.md)
 ###### [Open a website, email, guide, or custom app](operator-website-link.md)
 ###### [Open an app in Power Apps](operator-powerapps-link.md)
-###### [Turn off holograms](operator-holograms-off.md)
+###### [Work with holograms](operator-holograms.md)
 ###### [Work offline](operator-offline-mode.md)
 
 #### Analyze your guides

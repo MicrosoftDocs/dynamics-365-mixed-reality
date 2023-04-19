@@ -6,6 +6,16 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/guides/operator-holograms-off.md",
+      "redirect_url": "operator-holograms#turn-holograms-off-and-on",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/calling-receive-call.md",
+      "redirect_url": "calling-start-call#receive-a-call-from-a-remote-collaborator",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/make-call.md",
       "redirect_url": "calling-start-call",
       "redirect_document_id": "false"
