@@ -21,11 +21,11 @@ The styles available in Guides and what they mean include:
 | Red flashing | Areas or things to avoid. |
 | Green flashing | Areas or things to approach. |
 | Yellow and black stripes | Warning about a safety or quality concern. |
-| A pulse that appears through it | Things that occur inside something.  |  |
+| A pulse that appears through it | Things that occur inside something. |
 | Outline | Something to pick up. |
 | Dotted line | Where to place something. |
 | 90% bright white | Sensitive objects are obscured from view. |
-| 100% transparent, including objects behind it | Pass-through holograms to see the real world behind them |
+| 100% transparent, including objects behind it | Pass-through holograms to see the real world behind them. |
 | Metallic | An object with a metallic finish. |
 | 50% transparent | Seeing an object without obscuring the  view. |
 | 75% transparent | Seeing an object through two layers. |
