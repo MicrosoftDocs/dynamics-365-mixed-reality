@@ -14,18 +14,18 @@ If you want operators to explore a 3D part, you can place that part in the real 
 
 ## Set a 3D part as interactable
 
-1. [Place the 3D object in the real world](hololens-app-place-holograms.md)
+1. [Place the 3D object in the real world](hololens-app-place-holograms.md).
 
-1. Air tap the hologram to select it and then air tap the **Edit Hologram** (pencil) button.
+1. Air tap the hologram to select it.
 
-1. Select **Interactable**.
+1. Air tap the **Edit Hologram** (pencil) button, and select **Interactable**.
 
 1. Toggle on **Interactable**.
 
-1. To provide the operator with a hint for putting the object back in the correct position, toggle on **Interactable Ghost**. Operators will see a green dashed outline of the 3D part's correct placement.
+1. (Optional) To provide the operator with a hint for putting the object back in the correct position, toggle on **Interactable Ghost**. Operators will see a green dashed outline of the 3D part's correct placement.
 
    > [!NOTE]
-   > The **Interactable Ghost** option increases the complexity of the step. To learn more about reducing complexity, see [Optimize your 3D models to use with Guides and Power Apps](/3d-content-guidelines/optimize-models).
+   > The **Interactable Ghost** option increases the complexity of the step. To learn more about reducing complexity, see [Optimize your 3D models to use with Guides and Power Apps](/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models).
 
 ## Next steps
 
