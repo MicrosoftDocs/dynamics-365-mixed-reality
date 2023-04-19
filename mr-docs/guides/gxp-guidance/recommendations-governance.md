@@ -54,6 +54,8 @@ Other contributors:
 - [Joeb Høfdinghoff Grønborg](https://www.linkedin.com/in/joeb-h%C3%B8fdinghoff-gr%C3%B8nborg-b7429333/) | NNIT Mixed Reality Specialist  
 - [Kevin Helge Hansen-Schwartz](https://www.linkedin.com/in/kevinhhschwartz/) | NNIT Line Manager for Mixed Reality
 - [Milan Uhlár](https://www.linkedin.com/in/milan-uhl%C3%A1r-56341246/) | NNIT Senior Compliance Consultant
+- [Jens Feldskov](https://www.linkedin.com/in/jens-feldskov/) | NNIT Senior Solutions Architect
+- Bjarne Wiboe | NNIT Compliance and Validation Subject Matter Expert
 
 Microsoft:
 
