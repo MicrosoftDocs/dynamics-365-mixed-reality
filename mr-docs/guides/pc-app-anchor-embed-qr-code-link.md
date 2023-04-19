@@ -43,6 +43,8 @@ to the same QR code.
     
     - [https://www.the-qrcode-generator.com/](https://www.the-qrcode-generator.com/)
  
+    - [https://www.qrplus.com.br/](https://www.qrplus.com.br/)
+ 
     > [!NOTE]
     > - Your use of third-party QR code generators is subject to the third party’s terms and privacy policy. Please consult with your legal professionals before using. Microsoft does not endorse any particular third-party QR code generator and assumes no responsibility or liability for any third-party application you elect to use.
     > - When you use any third-party QR code generator, the QR code generator receives access to the string of your guides link.
