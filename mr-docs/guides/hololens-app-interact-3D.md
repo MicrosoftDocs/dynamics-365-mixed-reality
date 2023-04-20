@@ -10,7 +10,7 @@ ms.reviewer: v-wendysmith
 
 # Enable operators to interact with holograms in the Guides HoloLens app
 
-If you want operators to explore a 3D part, you can place that part in the real world using the HoloLens app, then set it to be interactable. For example, you want an operator to learn how a 3D part fits with other parts. You can place several parts and align them next to each other and make each one interactable. Operators will see each part as interactable and be able to disassemble the equipment and reassemble it.
+If you want operators to explore a 3D part, you can place that part in the real world using the HoloLens app, then set it to be interactable. For example, you want an operator to learn how a 3D part fits with other parts. You can place several parts and align them next to each other and make each one interactable. Operators will see each part as interactable and be able to disassemble the equipment and reassemble it. In the step card instructions, encourage them to pick up the parts and return them to their original position.
 
 ## Set a 3D part as interactable
 
@@ -20,9 +20,13 @@ If you want operators to explore a 3D part, you can place that part in the real 
 
 1. Air tap the **Edit Hologram** (pencil) button, and select **Interactable**.
 
-1. Toggle on **Interactable**.
+1. Toggle on **Interactable**. Operators will see a green dashed outline of the 3D part's correct placement when they're close to placing it back in the correct position.
 
-1. (Optional) To provide the operator with a hint for putting the object back in the correct position, toggle on **Interactable Ghost**. Operators will see a green dashed outline of the 3D part's correct placement.
+   :::image type="content" source="media/edit-hologram.png" alt-text="Screenshot of Edit Hologram button.":::
+
+1. (Optional) To provide the operator with a persistent hint for putting the object back in the correct position, toggle on **Interactable Ghost**.
+
+   Operators will see a lightly visible or ghost outline of the 3D part's correct placement.
 
    > [!NOTE]
    > The **Interactable Ghost** option increases the complexity of the step. To learn more about reducing complexity, see [Optimize your 3D models to use with Guides and Power Apps](/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models).

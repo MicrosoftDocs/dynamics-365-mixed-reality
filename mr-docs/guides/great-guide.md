@@ -400,9 +400,9 @@ Shoot videos from a third-person or first-person perspective.
 
 ## Hologram styles
 
-- Use styles to help create a visual hierarchy of 3D holograms.
+- Use styles to reinforce actions.
 
-- Use styles consistently to communicate specific actions. If you use styles consistently, as operators continue to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], they'll start to understand what styles are intended to convey, which will speed up their learning process.
+- Be consistent in your styles usage. After operators learn the visual language of styles, they'll start to understand what styles are intended to convey, which will speed up their learning process.
 
 ### Hologram style options
 
@@ -422,47 +422,9 @@ Shoot videos from a third-person or first-person perspective.
 
      - Realistic style to show what the actual object looks like.
 
-#### Pick Up
+#### Red
 
-- The Pick Up style shows an outline around the hologram.
-
-- We recommend using the Pick Up style for:
-
-  –	Having the operator pick up a part/piece. This works especially well on:
-    
-   - The hands holograms in the 3D toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
-
-   – Picking up parts because the outline around the real-world object visually distinguishes it from the rest of the environment.
-
-#### Place
-
-- The Place style is similar to the Pick Up style but has a dashed outline instead of a solid outline.
-
-- We recommend using the Place style for trying to align a real-world object to a hologram, because operators can place the real object in the hologram to validate that it visually matches.
-
-#### See-Through (includes See Through 1 and See Through 2)
-
-- See-Through is best for de-emphasizing holograms in the real world because it makes the hologram semi-transparent and darker.
-
-- When creating a visual hierarchy of holograms, use See-Through to soften less important holograms in the scene.
-
-- See-Through 1 is less opaque than See-Through 2.
-
-#### Warning
-
-- The Warning style is yellow with black stripes, which is synonymous with warning.
-
-- Use the Warning style when a hologram represents something that is potentially:
-
-   –	Dangerous
-   
-   –	Electric
-   
-   –	Hazardous
-
-#### Avoid
-
-- Avoid is a red pulsing style that you can use to indicate to the operator that:
+- Red is a red flashing style that you can use to indicate to the operator that:
 
    –	They should avoid touching or interacting with a specific zone or part.
    
@@ -470,15 +432,71 @@ Shoot videos from a third-person or first-person perspective.
    
    –	Something is dangerous or electrical. You can also use the Warning style based on the specific context.
 
+#### Green
+
+- Green is a green flashing style that you can use to indicate to the operator that:
+
+  - They should view an area.
+  
+  - They should approach a thing or area.
+
+#### Caution
+
+- The Caution style is yellow with black stripes, which is synonymous with warning.
+
+- Use the Caution style when a hologram represents something that is potentially:
+
+   –	Dangerous
+   
+   –	Electric
+   
+   –	Hazardous
+
 #### X-Ray
 
 - X-Ray resembles the effect of an x-ray scan.
 
 - Use X-Ray when a hologram is placed in another object, which helps the operator understand the depth order of parts.
 
-#### Metal
+#### Outline
 
-- The Metal style represents a highly glossy metal and can be used to give a hologram a realistic shiny material.
+- The Outline style shows an outline around the hologram.
+
+- We recommend using the Outline style for:
+
+  –	Having the operator pick up a part/piece. This works especially well on:
+    
+   - The hands holograms in the 3D toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
+
+   – Picking up parts because the outline around the real-world object visually distinguishes it from the rest of the environment.
+
+#### Dashed Outline
+
+- The Dashed Outline style is similar to the Outline style but has a dashed outline instead of a solid outline.
+
+- We recommend using the Dashed Outline style for trying to align a real-world object to a hologram, because operators can place the real object in the hologram to validate that it visually matches.
+
+#### Obscure and Pass-through
+
+- The Obscure and Pass-through styles can be used to manage what is shared from your HoloLens camera view when you're on a call, taking photos, or recording a video.
+
+- In operator mode, the Obscure style applies a 90% bright white style to a 3D object in operator mode, effectively obscuring the real world on the shared view both in front and behind the 3D object.
+
+- In operator mode, the Pass-through style makes a 3D object transparent for all holograms behind it, passing through the holograms and showing the real world
+
+- The [Obscure and Pass-through styles can be used together](hololens-app-styles.md#obscure-or-highlight-items-in-your-space) to help remote collaborators focus on specific real-world elements and protect other real-world elements during Teams calls or when taking photos and recording videos in sensitive environments.
+
+#### 50% and 75% Transparent
+
+- 50% Transparent is best for de-emphasizing holograms in the real world because it makes the hologram semi-transparent and darker.
+
+- When creating a visual hierarchy of holograms, use 50% Transparent to soften less important holograms in the scene.
+
+- 50% Transparent is less opaque than 75% Transparent.
+
+#### Metallic
+
+- The Metallic style represents a highly glossy metal and can be used to give a hologram a realistic shiny material.
 
 ## Anchoring
 

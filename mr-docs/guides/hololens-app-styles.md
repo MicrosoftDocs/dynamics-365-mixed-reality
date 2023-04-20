@@ -55,7 +55,7 @@ The styles from the operator's perspective:
 
 - Use styles to reinforce actions.
 
-- Be consistent in your styles usage. After operators learn the visual language of styles, they'll know that a particular style means a specific thing, which speeds up their learning process.
+- Be consistent in your styles usage. After operators learn the visual language of styles, they'll start to understand what styles are intended to convey, which will speed up their learning process.
 
 ## Obscure or highlight items in your space
 
