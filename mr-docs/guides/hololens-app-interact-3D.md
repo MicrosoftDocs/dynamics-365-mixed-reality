@@ -22,7 +22,7 @@ If you want operators to explore a 3D part, you can place that part in the real 
 
 1. Toggle on **Interactable**. Operators will see a green dashed outline of the 3D part's correct placement when they're close to placing it back in the correct position.
 
-   :::image type="content" source="media/edit-hologram.png" alt-text="Screenshot of Edit Hologram button.":::
+   :::image type="content" source="media/hololens-interactable.png" alt-text="Screenshot of Interactable options.":::
 
 1. (Optional) To provide the operator with a persistent hint for putting the object back in the correct position, toggle on **Interactable Ghost**.
 

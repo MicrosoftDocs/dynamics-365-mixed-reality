@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Make or receive a call in Dynamics 365 Guides
 
-When you're working in Dynamics 365 Guides on HoloLens, you can make or receive calls on your HoloLens. Your admin must have **Enable Calling** setting enabled to make or receive calls.
+When you're working in Dynamics 365 Guides on HoloLens, you can make or receive calls on your HoloLens. Your admin must have the [**Enable Calling** setting enabled](admin-enable-calls.md) to make or receive calls.
 
 ## Start a one-to-one call
 
