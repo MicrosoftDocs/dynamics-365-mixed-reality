@@ -24,8 +24,6 @@ The duplicates will have the same rotation and style settings as the original.
 
 3. Select **Duplicate**.
 
-    ![Duplicate button.](media/edit-duplicates1.PNG "Duplicate button")
-
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select the **Duplicate** command directly with your finger. For more information on manipulating holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
 

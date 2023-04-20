@@ -26,8 +26,6 @@ If an object doesn't have built-in animation, the **Animation** command is graye
 
 2. On the **Edit** menu, select **Animation**.
 
-    ![Animation command on the Edit menu](media/edit-animations1.PNG "Animation command on the Edit menu")
-    
     You'll see the following **Animation** dialog box.
 
     ![Animation dialog box](media/animation-dialog.PNG "Animation dialog box")

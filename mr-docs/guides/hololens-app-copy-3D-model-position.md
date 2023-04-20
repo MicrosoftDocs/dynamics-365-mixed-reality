@@ -24,16 +24,12 @@ present and identical for several steps.
  
 3. Select **Copy 3D position**. 
  
-    ![Copy 3D position command.](media/copy-3D-position.PNG "Copy 3D position command")
-
     > [!TIP]
     > The 3D position parameters are copied to the Clipboard so you can paste them as many times as you want in the same or a different step or guide. The Clipboard is cleared when you close the HoloLens app.
 
 4. Select the target hologram.
 
 5. Select the **Edit Hologram** button again, and then select **Paste 3D position**.
-
-    ![Paste 3D position command.](media/paste-3D-position.PNG "Paste 3D position command")
  
 > [!TIP]
 > You can also use voice commands (say **copy 3D position** and **paste 3D position**) to copy a 3D model's position. [See a full list of voice commands that you can use in the HoloLens app](voice-commands.md).
