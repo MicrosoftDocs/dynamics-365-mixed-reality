@@ -49,13 +49,13 @@ Principal authors:
 
 Other contributors:
 
+- [Bjarne Wiboe](https://www.linkedin.com/in/bjarne-wiboe-302b041/) | NNIT Compliance and Validation Subject Matter Expert
 - [Caroline Duus](https://www.linkedin.com/in/caroline-duus-23041a124/) | NNIT Mixed Reality Specialist
 - [Heidi Lundø Laursen](https://www.linkedin.com/in/heidi-lund%C3%B8-laursen-139032150/) | NNIT Dynamics 365 Consultant
+- [Jens Feldskov](https://www.linkedin.com/in/jens-feldskov/) | NNIT Senior Solutions Architect
 - [Joeb Høfdinghoff Grønborg](https://www.linkedin.com/in/joeb-h%C3%B8fdinghoff-gr%C3%B8nborg-b7429333/) | NNIT Mixed Reality Specialist  
 - [Kevin Helge Hansen-Schwartz](https://www.linkedin.com/in/kevinhhschwartz/) | NNIT Line Manager for Mixed Reality
 - [Milan Uhlár](https://www.linkedin.com/in/milan-uhl%C3%A1r-56341246/) | NNIT Senior Compliance Consultant
-- [Jens Feldskov](https://www.linkedin.com/in/jens-feldskov/) | NNIT Senior Solutions Architect
-- Bjarne Wiboe | NNIT Compliance and Validation Subject Matter Expert
 
 Microsoft:
 
