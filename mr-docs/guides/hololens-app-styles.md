@@ -47,9 +47,9 @@ The styles available in Guides and when to use them include:
 | 50% transparent | Show something without obscuring the operator's view. | 50% transparent |
 | 75% transparent | Layer one thing on top of another so that the operator can see through two layers. | 75% transparent |
 
-The styles from the operator's perspective:
+<!-- The styles from the operator's perspective: --->
 
-![All styles.](media/all-styles.PNG "All styles")
+<!-- ![All styles.](media/all-styles.PNG "All styles") --->
 
 ### Best practices for styles
 
@@ -79,9 +79,9 @@ The author view:
 
 :::image type="content" source="media/obscure-passthrough.jpg" alt-text="Image with Obscure and Passthrough applied from an author's view.":::
 
-<!-- The operator view: -->
+The operator view:
 
-<!-- :::image type="content" source="media/obscure-passthrough-operator.jpg" alt-text="Image with Obscure and Passthrough applied from an author's view.":::  -->
+:::image type="content" source="media/obscure-passthrough-operator.jpg" alt-text="Image with Obscure and Passthrough applied from an author's view.":::
 
 The guide author has full control over what they obscure from view when on a Teams call or making mixed reality videos, and can assemble a collection of 3D cubes to hide additional environment elements.  In the following example, more 3D cubes were placed to obscure the large whiteboard, the computer, and toolbox as well as the diagram.
 

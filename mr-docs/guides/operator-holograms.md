@@ -27,7 +27,7 @@ If an author has made an object interactable, a hand icon shows in the middle of
 
 ## Understand applied styles
 
-Authors add styles to provide visual cues for your holograms. For example, a red flashing object means to avoid that area or object. An outline means to pick something up. A dotted line means where to place something. For more information, see [Use a style for emphasis](hololens-app-styles.md).
+Authors add styles to provide visual cues for your holograms. For example, a red flashing object means to avoid that area or object. An outline means to pick up something. A dotted line means where to place something. For more information, see [Use a style for emphasis](hololens-app-styles.md).
 
 ## Turn holograms off and on
 
