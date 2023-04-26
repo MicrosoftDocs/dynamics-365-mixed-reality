@@ -482,9 +482,9 @@ Shoot videos from a third-person or first-person perspective.
 
 - In operator mode, the Obscure style applies a 90% bright white style to a 3D object in operator mode, effectively obscuring the real world on the shared view both in front and behind the 3D object.
 
-- In operator mode, the Pass-through style makes a 3D object transparent for all holograms behind it, passing through the holograms and showing the real world
+- In operator mode, the Pass-through style makes a 3D object transparent and its shape cuts through for all holograms behind it, clearing the camera's view through to the real world.
 
-- The [Obscure and Pass-through styles can be used together](hololens-app-styles.md#obscure-or-highlight-items-in-your-space) to help remote collaborators focus on specific real-world elements and protect other real-world elements during Teams calls or when taking photos and recording videos in sensitive environments.
+- The [Obscure and Pass-through styles can be used together](hololens-app-styles.md#obscure-or-highlight-items-in-your-space) to help remote collaborators focus on specific real-world elements and obscure other real-world elements during Teams calls or when taking photos and recording videos in sensitive environments.
 
 #### 50% and 75% Transparent
 

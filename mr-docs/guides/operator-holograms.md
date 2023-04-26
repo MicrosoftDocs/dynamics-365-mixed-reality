@@ -20,9 +20,10 @@ If an author has made an object interactable, a hand icon shows in the middle of
 
 - To resize a hologram, use both hands to pinch the hologram and stretch your hands apart to make it larger or move your hands together to make it smaller.
 
-- To quickly move the hologram back to its original authored state and position, press the circular arrow just above the hand icon. Say "Guides, Reset Step" to move all objects back to their starting positions.
+- To quickly move the hologram back to its original authored state and position, press the circular arrow just above the hand icon.
+<!-- Say "Guides, Reset Step" to move all objects back to their starting positions. -->
 
-- To understand how parts fit together, move the object to the correct placement. A green dashed line appears when you are close to the correct spot. In some cases, a lightly visible or ghost outline of the part shows its original placement.
+- To move the hologram back to its original authored state and position by hand, grab the hologram and move it closer and closer to where you think it should be. In some cases, the author may have opted to leave you a lightly visible or ghost outline of the part, marking a hint of its original placement. Continue until you see a green dashed outline appear, then release the hologram and it will snap back in place.
 
 ## Understand applied styles
 

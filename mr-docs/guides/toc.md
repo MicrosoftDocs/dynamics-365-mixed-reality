@@ -159,7 +159,6 @@
 ###### [Work with holograms](operator-holograms.md)
 ###### [Open a website, email, guide, or custom app](operator-website-link.md)
 ###### [Open an app in Power Apps](operator-powerapps-link.md)
-###### [Work with holograms](operator-holograms.md)
 ###### [Work offline](operator-offline-mode.md)
 
 #### Analyze your guides

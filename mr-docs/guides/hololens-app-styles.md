@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Use a style to add emphasis to a hologram in the Guides HoloLens app
 
-You can add styles in the Dynamics 365 Guides HoloLens app to provide visual cues for your holograms. For example, add the **Caution** style to indicate caution or the **Red** style to make sure that an operator doesn't do something that could cause harm. As your operators get used to the visual language that styles provide, their learning process speeds up.
+You can add styles in the Dynamics 365 Guides HoloLens app to provide visual cues for your holograms. For example, add the **Caution** style to indicate caution or the **Outline** style to indicate something for the operator to pick up. As your operators get used to the visual language that styles provide, their learning process speeds up.
 
 ## Add a style
 
@@ -41,7 +41,7 @@ The styles available in Guides and when to use them include:
 | X-ray | Show things that occur inside something. | A pulse that appears through it |
 | Outline | Tell the operator to pick something up. | Outline |
 | Dashed outline | Show the operator where to place something. | Dotted line |
-| Obscure | Cover sensitive objects to block the operator's view. | 90% bright white |
+| Obscure | Cover sensitive objects to block the remote collaborators view. | 90% bright white |
 | Pass-through | Cut through holograms to see the real world behind them. | 100% transparent, including objects behind it |
 | Metallic | Provide a realistic metal finish for an object. | Metallic |
 | 50% transparent | Show something without obscuring the operator's view. | 50% transparent |
@@ -59,13 +59,13 @@ The styles from the operator's perspective:
 
 ## Obscure or highlight items in your space
 
-Use **Obscure** and **Pass-through** styles together to manage what is shared by your HoloLens camera during a call, when recording a video, or taking pictures to share. **Obscure** applies a 90% bright white style to a 3D object, effectively obscuring the real world on the shared view both in front and behind the 3D object. **Pass-through** makes a 3D object transparent for all holograms behind it, passing through holograms and showing the real world to the call participants. Together, these styles can help remote collaborators focus on specific real-world elements and protect other real-world elements.
+Use **Obscure** and **Pass-through** styles together to manage what is shared by your HoloLens camera during a call, when recording a video, or taking pictures to share. **Obscure** applies a 90% bright white style to a 3D object, effectively obscuring the real world on the shared view both in front and behind the 3D object. **Pass-through** makes a 3D object transparent for all holograms behind it, passing through holograms and showing the real world to the call participants. Together, these styles can help remote collaborators focus on specific real-world elements and obscure other real-world elements.
 
 For example, as an author, you want to obscure a diagram with sensitive information but you want the airplane pylon that's in front of the diagram to always be visible during a call.
 
 :::image type="content" source="media/original-scene.jpg" alt-text="Original image before Obscure and Passthrough applied from an author's view.":::
 
-1. [Create a guide](create-guide.md) with your image.
+1. [Create a guide](create-guide.md) with a single step.
 
 1. [Place a 3D cube](pc-app-add-3D-model.md) from the 3D toolkit in front of the diagram.
 
@@ -73,13 +73,15 @@ For example, as an author, you want to obscure a diagram with sensitive informat
 
 1. To have the airplane pylon always be visible, place a 3D model of the pylon over the pylon image. Add the **Pass-through** style.
 
+1. Launch the guide in operator mode and go to the step before placing a call, taking pictures, or recording a video.
+
 The author view:
 
 :::image type="content" source="media/obscure-passthrough.jpg" alt-text="Image with Obscure and Passthrough applied from an author's view.":::
 
-The operator view:
+<!-- The operator view: -->
 
-:::image type="content" source="media/obscure-passthrough-operator.jpg" alt-text="Image with Obscure and Passthrough applied from an author's view.":::
+<!-- :::image type="content" source="media/obscure-passthrough-operator.jpg" alt-text="Image with Obscure and Passthrough applied from an author's view.":::  -->
 
 The guide author has full control over what they obscure from view when on a Teams call or making mixed reality videos, and can assemble a collection of 3D cubes to hide additional environment elements.  In the following example, more 3D cubes were placed to obscure the large whiteboard, the computer, and toolbox as well as the diagram.
 

@@ -95,7 +95,7 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
 1. When the tile flips over, select **Remove**.
 
-## Receive a call from a remote collaborator
+## Receive a call
 
 When working in Guides, a notification displays when you receive a call from an individual, a group, or from a meeting in progress. You can:
 
