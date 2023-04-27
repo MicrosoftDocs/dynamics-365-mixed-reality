@@ -20,11 +20,11 @@ If you want operators to explore a 3D part, you can place that part in the real 
 
 1. Air tap the **Edit Hologram** (pencil) button, and select **Interactable**.
 
-1. Toggle on **Interactable**. A hand icon shows in the middle of the object.
+1. Enable **Interactable**. A hand icon shows in the middle of the object.
 
    :::image type="content" source="media/hololens-interactable.png" alt-text="Screenshot of Interactable options.":::
 
-1. (Optional) Toggle on **Interactable Ghost** to provide the operator with a persistent hint for putting the object back in the correct position.
+1. (Optional) Enable **Interactable Ghost** to provide the operator with a persistent hint for putting the object back in the correct position.
 
    > [!NOTE]
    > The **Interactable Ghost** option increases the complexity of the step. To learn more about reducing complexity, see [Optimize your 3D models to use with Guides and Power Apps](/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models).
@@ -43,3 +43,5 @@ In the step card instructions, encourage them to pick up the parts and return th
 
 - [Get oriented with the HoloLens app](hololens-app-orientation.md)
 - [Place and manipulate holograms](hololens-app-place-holograms.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

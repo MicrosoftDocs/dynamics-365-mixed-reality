@@ -41,7 +41,7 @@ The styles available in Guides and when to use them include:
 | X-ray | Show things that occur inside something. | A pulse that appears through it |
 | Outline | Tell the operator to pick something up. | Outline |
 | Dashed outline | Show the operator where to place something. | Dotted line |
-| Obscure | Cover sensitive objects to block the remote collaborators view. | 90% bright white |
+| Obscure | Cover sensitive objects to obscure the remote collaborators view. | 90% bright white |
 | Pass-through | Cut through holograms to see the real world behind them. | 100% transparent, including objects behind it |
 | Metallic | Provide a realistic metal finish for an object. | Metallic |
 | 50% transparent | Show something without obscuring the operator's view. | 50% transparent |
@@ -81,11 +81,14 @@ The author view:
 
 The operator view:
 
-:::image type="content" source="media/obscure-passthrough-operator.jpg" alt-text="Image with Obscure and Passthrough applied from an author's view.":::
+:::image type="content" source="media/obscure-passthrough-operator.jpg" alt-text="Image with Obscure and Passthrough applied from an operator's view.":::
 
 The guide author has full control over what they obscure from view when on a Teams call or making mixed reality videos, and can assemble a collection of 3D cubes to hide additional environment elements.  In the following example, more 3D cubes were placed to obscure the large whiteboard, the computer, and toolbox as well as the diagram.
 
-:::image type="content" source="media/obscure-side-by-side.jpg" alt-text="Image with Obscure for many objects and Passthrough from an author's and operator's view.":::
+| View | Image |
+|---|---|
+| Author view | :::image type="content" source="media/obscure-passthru-all-author.jpg" alt-text="Image with Obscure for many objects and Passthrough from an author's view."::: |
+| Operator view | ![Image with Obscure for many objects and Passthrough from an operator's view.](obscure-passthru-all-operator) |
 
 ## Next steps
 
@@ -93,3 +96,5 @@ The guide author has full control over what they obscure from view when on a Tea
 - [Place and manipulate holograms](hololens-app-place-holograms.md)
 - [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 - [Change animation options](hololens-app-animations.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

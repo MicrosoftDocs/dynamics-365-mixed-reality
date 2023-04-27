@@ -35,4 +35,6 @@ If you ever feel that holograms are getting in the way when you're operating a g
 
 ![Screenshot of eye symbol at the bottom of the instruction card.](media/turn-off-holograms.jpg "Screenshot of eye symbol at the bottom of the instruction card")
 
-To turn them back on, gaze at the eye symbol again. 
+To turn them back on, gaze at the eye symbol again.
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
