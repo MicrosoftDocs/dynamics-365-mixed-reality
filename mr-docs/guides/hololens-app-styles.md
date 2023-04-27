@@ -85,10 +85,9 @@ The operator view:
 
 The guide author has full control over what they obscure from view when on a Teams call or making mixed reality videos, and can assemble a collection of 3D cubes to hide additional environment elements.  In the following example, more 3D cubes were placed to obscure the large whiteboard, the computer, and toolbox as well as the diagram.
 
-| View | Image |
+| Author view | Operator view |
 |---|---|
-| Author view | :::image type="content" source="media/obscure-passthru-all-author.jpg" alt-text="Image with Obscure for many objects and Passthrough from an author's view."::: |
-| Operator view | ![Image with Obscure for many objects and Passthrough from an operator's view.](obscure-passthru-all-operator) |
+| ![Image with Obscure for many objects and Passthrough from an author's view.](media/obscure-passthrough-all-author.jpg) || ![Image with Obscure for many objects and Passthrough from an operator's view.](media/obscure-passthrough-all-operator.jpg) |
 
 ## Next steps
 
