@@ -4,17 +4,17 @@ description: Understand how to work with holograms as an operator in the Dynamic
 ms.author: robutter
 ms.date: 04/28/2023
 ms.topic: how-to
-title: Work with holograms in the Guides HoloLens
+title: Interact with holograms in the Guides HoloLens
 ms.reviewer: v-wendysmith
 ---
 
-# Work with holograms in the Guides HoloLens
+# Interact with holograms in the Guides HoloLens
 
 You can work with the holograms placed in your view by understanding applied styles, grab, move, or rotate interactable holograms, or turn holograms off to focus on your real-world environment.
 
-## Interact with holograms in the Guides HoloLens app
+## Interact with holograms
 
-If an author has made an object interactable, a hand icon shows in the middle of the object. You can explore the object in the Guides HoloLens app using natural hand gestures.
+If an [author has made an object interactable](hololens-app-interact-3D.md), a hand icon shows in the middle of the object. You can explore the object in the Guides HoloLens app using natural hand gestures.
 
 - To grab a hologram near you, pinch your thumb and index finger together on the hologram and hold. Use this grab gesture to move, resize, and rotate. To let go, release your fingers.
 
@@ -23,7 +23,7 @@ If an author has made an object interactable, a hand icon shows in the middle of
 - To resize a hologram, use both hands to pinch the hologram and stretch your hands apart to make it larger or move your hands together to make it smaller.
 
 - To quickly move the hologram back to its original authored state and position, press the circular arrow just above the hand icon.
-<!-- Say "Guides, Reset Step" to move all objects back to their starting positions. -->
+  <!-- Say "Guides, Reset Step" to move all objects back to their starting positions. -->
 
   :::image type="content" source="media/reset-hologram.png" alt-text="Hologram highlighting circular arrow to reset the hologram.":::
 

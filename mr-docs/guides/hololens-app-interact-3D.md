@@ -35,15 +35,13 @@ To learn how operators work with interactable objects, see [Interact with hologr
 
 You can make multiple parts of an assembly interactable, to help operators learn about the parts by disassembling and reassembling them.
 
-1. In author mode, place multiple parts from the same CAD file into a step and make each part interactable.
+1. In author mode, place multiple parts from the same CAD file into a step and make each part interactable. Align the parts accurately to each other, by placing one of them where you want it and then copying its position and pasting it to all of the other parts.
 
    :::image type="content" source="media/hololens-interactable-assembled.png" alt-text="Screenshot of assembled equipment showing several interactable parts.":::
 
-1. Align the parts accurately to each other, by placing one of them where you want it and then copying its position and pasting it to all of the other parts.
+1. In the step card instructions, encourage them to pick up the parts and return them to their original position.
 
    :::image type="content" source="media/hololens-interactable-author-disassembled.png" alt-text="Screenshot of disassembled equipment showing several interactable parts.":::
-
-1. In the step card instructions, encourage them to pick up the parts and return them to their original position.
 
 ## Next steps
 
