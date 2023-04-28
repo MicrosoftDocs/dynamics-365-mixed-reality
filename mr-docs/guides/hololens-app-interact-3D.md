@@ -29,7 +29,7 @@ If you want operators to explore a 3D part, you can place that part in the real 
    > [!NOTE]
    > The **Interactable Ghost** option increases the complexity of the step. To learn more about reducing complexity, see [Optimize your 3D models to use with Guides and Power Apps](/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models).
 
-To learn how operators work with interactable objects, see [Interact with holograms in the Guides HoloLens app](operator-holograms.md#interact-with-holograms-in-the-guides-hololens-app).
+To learn how operators work with interactable objects, see [Interact with holograms in the Guides HoloLens app](operator-holograms.md).
 
 ## Tip for using interactable
 
