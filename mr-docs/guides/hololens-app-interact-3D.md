@@ -22,7 +22,7 @@ If you want operators to explore a 3D part, you can place that part in the real 
 
 1. Enable **Interactable**. A hand icon shows in the middle of the object.
 
-   :::image type="content" source="media/hololens-interactable.png" alt-text="Screenshot of Interactable options.":::
+   :::image type="content" source="media/hololens-interactable-select.png" alt-text="Screenshot of Interactable options.":::
 
 1. (Optional) Enable **Interactable Ghost** to provide the operator with a persistent hint for putting the object back in the correct position.
 
@@ -35,9 +35,15 @@ To learn how operators work with interactable objects, see [Interact with hologr
 
 You can make multiple parts of an assembly interactable, to help operators learn about the parts by disassembling and reassembling them.
 
-In author mode, place multiple parts from the same CAD file into a step and make each part interactable. Align the parts accurately to each other, by placing one of them where you want it and then copying its position and pasting it to all of the other parts.
+1. In author mode, place multiple parts from the same CAD file into a step and make each part interactable.
 
-In the step card instructions, encourage them to pick up the parts and return them to their original position.
+   :::image type="content" source="media/hololens-interactable-assembled.png" alt-text="Screenshot of assembled equipment showing several interactable parts.":::
+
+1. Align the parts accurately to each other, by placing one of them where you want it and then copying its position and pasting it to all of the other parts.
+
+   :::image type="content" source="media/hololens-interactable-author-disassembled.png" alt-text="Screenshot of disassembled equipment showing several interactable parts.":::
+
+1. In the step card instructions, encourage them to pick up the parts and return them to their original position.
 
 ## Next steps
 

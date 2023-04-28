@@ -23,15 +23,15 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| TBD |
-|HoloLens app (HoloLens 2 only)| TBD |
-|Solution| TBD |
+|PC app| 804.2304.21001.0 |
+|HoloLens app (HoloLens 2 only)| 804.2304.21001.0 |
+|Solution| 800.4.0.1  |
 
 ### Features
 
-- Guides users can receive incoming calls to join one-to-one calls, group calls, or meetings on HoloLens.
-- Users can use obscure and pass-through styles on holograms to show or obscure real-world objects during a call or video recording.
-- Authors can make 3D objects interactable for operators to move, scale, and rotate to enhance their learning experience through close inspection.
+- Guides users can <a href="/dynamics365/mixed-reality/guides/calling-start-call#receive-a-call" target="_blank">receive incoming calls</a> to join one-to-one calls, group calls, or meetings on HoloLens.
+- Users can use <a href="/dynamics365/mixed-reality/guides/hololens-app-styles" target="_blank">obscure and pass-through styles</a> on holograms to show or obscure real-world objects during a call or video recording.
+- Authors can make <a href="/dynamics365/mixed-reality/guides/hololens-app-interact-3D" target="_blank">3D objects interactable</a> for operators to move, scale, and rotate to enhance their learning experience through close inspection.
 
 ## April 4, 2023
 
