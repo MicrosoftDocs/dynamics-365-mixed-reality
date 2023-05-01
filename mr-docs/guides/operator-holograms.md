@@ -4,11 +4,11 @@ description: Understand how to work with holograms as an operator in the Dynamic
 ms.author: robutter
 ms.date: 04/28/2023
 ms.topic: how-to
-title: Interact with holograms in the Guides HoloLens
+title: Interact with holograms in the Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
-# Interact with holograms in the Guides HoloLens
+# Interact with holograms in the Guides HoloLens app
 
 You can work with the holograms placed in your view by understanding applied styles, grab, move, or rotate interactable holograms, or turn holograms off to focus on your real-world environment.
 
