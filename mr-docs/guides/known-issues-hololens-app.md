@@ -2,13 +2,21 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 02/28/2023
+ms.date: 04/28/2023
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+## HoloLens users have trouble with notifications when receiving a call in Guides
+
+If both Guides and Remote Assist are installed and you see a notification from one app and an OS notification from the other app, use the in app panel to respond to the call. Ignore the OS notification from the other app.
+
+If both apps are closed, you can't receive the call. Open Guides to receive the call.
+
+If both apps are installed and you see conflicting notifications, we recommend you turn off notifications from Remote Assist. Select **Settings** > **System** > **Notifications** > **Dynamics 365 Remote Assist** and toggle off. This change can take time to propagate. You might need to restart the device and wait a few days for the settings to take affect.
 
 ## Guest users can't send or receive chat messages while in a group meeting
 
@@ -25,16 +33,6 @@ These fields are blank by design. The Phone Calls table is a common table used b
 ## Why did my HoloLens display go blank for a few seconds when I placed a 3D model in the HoloLens app?
 
 If you place a large 3D model in the HoloLens app, the display may go blank for several seconds while the model is being processed by Dynamics 365 Guides.
-
-## Why isn't my operator sessions data being saved to Microsoft Dataverse? 
-
-We recently identified an issue with an update where Dynamics 365 Guides operator sessions data (for both authors and operators) aren't saved to Microsoft Dataverse. Users may notice that session data was not being recorded as early as October 15, depending on region.
-
-This issue doesn’t affect the ability to operate a guide, but it does affect all Guides customers who [analyze their guide session data](analytics-overview.md) or use the StepEnd event for integrations. 
-
-A fix will be deployed to all customers during the week of December 6, 2021, during regional maintenance hours. There is no action required to receive the fix. Additionally, Microsoft is updating the Dynamics 365 Guides 7.0 HoloLens app with a hotfix on December 2, 2021, to enable customers to begin saving sessions data before the general fix is ready. To apply this fix, see [Update your solution](upgrade.md).
-
-If you have any questions, contact Microsoft Support.
 
 ## Telemetry data not stored for operators with **Restricted Operator** role in certain cases
 
@@ -53,10 +51,6 @@ By using the correct credentials to sign in, you ensure that your work progress 
 ## The video preview on a step is blurry
 
 The PC app video may appear to be blurry when an author previews a video in the HoloLens app. The PC app converts and resizes videos when they're uploaded to ensure optimal performance on HoloLens. This transcoding process depends on the codecs installed on the PC and errors can occur if codecs are removed from the PC. The  HoloLens app currently uses an optimized video specification of 853×480 H.264. If your video is recorded at a very high resolution, or if it's very large, the transcoding process on the PC might degrade the quality, making it appear blurry. To fix this issue, record and upload a new video, keeping its length and resolution in mind. Only the 853x480 video file is stored on Microsoft Dataverse.
-
-## When the see-through style is applied to a 3D model, it might show gray areas instead of correctly rendering textures 
-
-There are rendering issues for the "see through" style on some 3D models. Some surfaces on these models will look gray. If you experience this issue, use another style. If you **must** use this style and need help with it, contact customer service.
 
 ## See also
 

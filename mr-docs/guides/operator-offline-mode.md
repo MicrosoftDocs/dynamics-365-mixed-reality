@@ -99,12 +99,9 @@ You can clear the content and settings cached on a HoloLens by resetting it.
 
 ## What's next?
 - [Get oriented with the Step card](operator-step-card-orientation.md)
-- [Use the dotted line to find the focus area for a step](operator-dotted-line.md)
-- [Turn Follow mode off or on](operator-follow-mode.md)
-- [Use triggers to move between steps](operator-trigger.md)
 - [Open a website from the Step card](operator-website-link.md)
 - [Open an app in Power Apps from the Step card](operator-powerapps-link.md)
-- [Turn holograms off and on](operator-holograms-off.md)
+- [Work with holograms](operator-holograms.md)
 - [Use voice commands](voice-commands.md)<br>
 
 

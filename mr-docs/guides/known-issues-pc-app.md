@@ -2,8 +2,8 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 03/29/2023
-ms.topic: article
+ms.date: 04/28/2023
+ms.topic: faq
 title: Known issues with the Dynamics 365 Guides PC app
 ms.reviewer: mhart
 ---
@@ -14,13 +14,13 @@ ms.reviewer: mhart
 
 In the list of guides, look for newly created guides on the **All** tab. The **Recents** list shows only those guides that have previously been opened on the device. It doesn't include guides that were recently created in the PC authoring app.
 
-## Keep file names short for 3D models and media
-
-Before you upload custom 3D models or media files in the PC app, make sure that the file names are no longer than 60 characters. Also make sure that they don't contain special characters such as ampersands (&) and at signs (@).
-
 ## You can create guides that have the same name without overwriting old guides
 
 You can create multiple guides that have the same name. Although this capability helps prevent unintentional overwrites of old files, it can cause confusion when you select a guide in a list. Therefore, when you create a new guide, be sure to use a unique name.
+
+## Keep file names short for 3D models and media
+
+Before you upload custom 3D models or media files in the PC app, make sure that the file names are no longer than 60 characters. Also make sure that they don't contain special characters such as ampersands (&) and at signs (@).
 
 ## 3D content and media are overwritten if you upload new content that has the same name
 
@@ -42,12 +42,14 @@ If you still can't find your content, contact your admin. There might be a permi
 
 You might have an existing guide where an asset was placed in the bin in the PC app, and then instances of that asset were placed in the world on [!include[pn-hololens](../includes/pn-hololens.md)]. If you delete the asset from the bin while you're editing this guide, all instances that have been placed in the world are removed. Those placed instances won't be restored if you add the asset again. To restore them, select the **Undo** button in the PC app.
 
+## Guest users cannot see environment in PC app
+
+The Dynamics 365 Guides PC app does not support guest access. Guest users can access Guides content as an operator, not as an author. For more information, see [Invite a guest user to operate a guide](admin-add-guest-user.md).
+
 ## See also
 
 - [Known issues with Dynamics 365 Guides generally](known-issues.md)
 - [Known issues with the HoloLens app](known-issues-hololens-app.md)
 - [Dynamics 365 Guides FAQ](faq.md)
-
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
