@@ -29,9 +29,6 @@ Step cards in Microsoft Dynamics 365 Guides are linked by holographic dotted lin
 - [Use triggers to move between steps](operator-trigger.md)
 - [Open a website from the Step card](operator-website-link.md)
 - [Open an app in Power Apps from the Step card](operator-powerapps-link.md)
-- [Turn holograms off and on](operator-holograms-off.md)
-- [Work offline](operator-offline-mode.md)
-- [Use voice commands](voice-commands.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

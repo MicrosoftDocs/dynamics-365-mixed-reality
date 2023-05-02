@@ -40,10 +40,7 @@ With either type of trigger, you receive visual and audio cues when you activate
 - [Use the dotted line to find the focus area for a step](operator-dotted-line.md)
 - [Turn Follow mode off or on](operator-follow-mode.md)
 - [Open a website from the Step card](operator-website-link.md)
-- [Open an app in Power Apps from the Step card](operator-powerapps-link.md)
-- [Turn holograms off and on](operator-holograms-off.md)
-- [Work offline](operator-offline-mode.md)
-- [Use voice commands](voice-commands.md)
+- [Open an app in Power Apps from
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

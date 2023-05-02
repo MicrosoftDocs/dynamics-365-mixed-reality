@@ -71,8 +71,7 @@
 ### [Start an activity](main-menu.md)
 ### Collaborate with Teams users
 #### [Guides call types](calling-concepts.md)
-#### [Call a remote collaborator](calling-start-call.md)
-#### [Receive a call from a Guides user in Teams](calling-receive-call.md)
+#### [Make or receive a call](calling-start-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
 #### [Chat and file sharing](calling-chat-file-sharing.md)
 #### [Record a call](calling-record-call.md)
@@ -134,6 +133,7 @@
 ##### Work with holograms
 ###### [Get oriented with the HoloLens app (authors)](hololens-app-orientation.md)
 ###### [Place and manipulate holograms](hololens-app-place-holograms.md)
+###### [Enable operators to interact with holograms](hololens-app-interact-3D.md)
 ###### [Tips for pointing at small objects](pc-app-point-small-objects.md)
 ###### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 ###### [Use a style to add emphasis](hololens-app-styles.md)
@@ -156,9 +156,9 @@
 ###### [Use Follow mode and pinning](operator-follow-mode.md)
 ###### [Use a branching (non-linear) guide](operator-branching-guide.md)
 ###### [Use a trigger to move between steps](operator-trigger.md)
+###### [Interact with holograms](operator-holograms.md)
 ###### [Open a website, email, guide, or custom app](operator-website-link.md)
 ###### [Open an app in Power Apps](operator-powerapps-link.md)
-###### [Turn off holograms](operator-holograms-off.md)
 ###### [Work offline](operator-offline-mode.md)
 
 #### Analyze your guides

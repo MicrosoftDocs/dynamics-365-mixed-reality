@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 10/17/2022
+ms.date: 04/28/2023
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -84,7 +84,11 @@ Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md
 
 ## How do I stream my HoloLens view to a PC using Miracast?
 
-The Connect app for wireless projection using Miracast is no longer installed by default, but is available as an optional feature. To install the app, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app. 
+The Connect app for wireless projection using Miracast is no longer installed by default on the PC, but is available as an optional feature. To install the app on the PC, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app. 
+
+The Connect app is automatically installed by default on the HoloLens. To initiate sharing from the HoloLens:
+
+From the OS start menu, select **Cast screen** :::image type="icon" source="media/hololens-cast-screen.png":::.
 
 ## The solution installation or update fails repeatedly
 

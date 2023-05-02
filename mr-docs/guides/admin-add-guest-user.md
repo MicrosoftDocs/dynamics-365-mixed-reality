@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to invite a guest user to operate a guide in Microsoft Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 10/17/2022
+ms.date: 04/28/2023
 ms.topic: article
 title: Invite a guest user to operate a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -36,9 +36,6 @@ When a user joins an organization as a guest, a **(Guest)** label appears next t
 - Guest users cannot record calls in the HoloLens app.
 
 - Anyone with a consumer email account (for example, an Outlook.com or Gmail.com account) can be a guest user in Azure Active Directory, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
-
-> [!NOTE]
-> A Microsoft Teams admin can [configure Teams to block guest users](/microsoftteams/set-up-guests), but Dynamics 365 Guides ignores that configuration and allows guest users to make calls from HoloLens.
 
 ## Restrict guests from searching when making calls in Dynamics 365 Guides
 
