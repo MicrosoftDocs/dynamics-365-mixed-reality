@@ -5,7 +5,7 @@ description: Learn how to share your Microsoft Dynamics 365 Remote Assist mobile
 ms.author: chantiffany
 ms.date: 04/13/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Share your screen in Dynamics 365 Remote Assist mobile

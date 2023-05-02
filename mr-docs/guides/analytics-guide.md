@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 04/05/2022
 ms.topic: overview
 title: Overview of Guides Analytics for Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of Guides Analytics Power BI templates for Dynamics 365 Guides

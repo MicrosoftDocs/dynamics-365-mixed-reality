@@ -5,10 +5,12 @@ description: Learn how to create a Power Automate flow based on Dynamics 365 Rem
 ms.author: soanigbo
 ms.date: 06/10/2020
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Integrate Dynamics 365 Remote Assist with Power Automate
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 The asset capture feature in Remote Assist leverages Common Data Service (CDS). This enables you to create Power Automate flows based on this data to streamline various processes, including getting notifications, modifying other entities, and generating reports. In this article, you'll create a flow to get an email notification whenever a new asset attachment is created.
 

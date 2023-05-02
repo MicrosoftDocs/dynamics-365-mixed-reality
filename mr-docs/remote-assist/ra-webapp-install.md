@@ -5,10 +5,12 @@ description: Learn how to set up an environment and install the Microsoft Dynami
 ms.author: soanigbo
 ms.date: 07/12/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Install the Dynamics 365 Remote Assist model-driven app
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 The Dynamics 365 Remote Assist model-driven app is built on the Microsoft Dataverse. The model-driven app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and used by Dynamics 365 Remote Assist.
 
@@ -21,7 +23,7 @@ The Dataverse is the central location for customers to store their organization-
 > [!NOTE]
 > The Dynamics 365 Remote Assist model-driven app has been deployed to the following regions: SAM, CAN, FRA, IND, FRA, UAE, GER, ZAF, JPN, APJ, GBR, OCE, EUR, NAM, GCC, USG. Other regions are not supported at this time. For more information, see:
 > - [Power Platform data center regions](/power-platform/admin/new-datacenter-regions)
-> - [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide)
+> - [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo)
 
 ## Features enabled by the model-driven app
 
@@ -111,7 +113,7 @@ More information: [Create and manage environments in the Power Platform admin ce
 
 ## Update the model-driven app to the latest version
 
-As new versions of the Dynamics 365 Remote Assist model-driven app are released, you will need to update the app by following the steps below to ensure that the latest features are available.
+As new versions of the Dynamics 365 Remote Assist model-driven app are released, you  update the app by following the steps below to ensure that the latest features are available.
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 

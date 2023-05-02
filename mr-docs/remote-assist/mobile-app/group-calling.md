@@ -5,7 +5,7 @@ description: Group calling in Dynamics 365 Remote Assist mobile, Microsoft Teams
 ms.author: soanigbo
 ms.date: 04/14/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Group calling in Dynamics 365 Remote Assist mobile

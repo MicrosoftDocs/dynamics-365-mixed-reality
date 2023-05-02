@@ -5,10 +5,12 @@ description: Learn how to restrict the ability to access asset records in Micros
 ms.author: soanigbo
 ms.date: 04/13/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Restrict the ability to access asset records in Dynamics 365 Remote Assist
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Remote Assist users from [accessing asset records](asset-capture-overview.md). If you don't restrict the ability to access asset records, by default, users will be able to access them. 
 

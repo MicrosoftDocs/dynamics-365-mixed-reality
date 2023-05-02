@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 12/1/2022
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of analyzing and integrating Dynamics 365 Guides usage data
@@ -43,7 +43,7 @@ Data for all authors is automatically stored in the Guide Author Session table (
 
 ### 4. Trigger alerts or visualize data
 
-Use the Power Platform to analyze and act on your data.
+Use Power Platform to analyze and act on your data.
 
 ![Power Platform example.](media/analytics-alerts-visualize-data-1.PNG "Power Platform example")
 

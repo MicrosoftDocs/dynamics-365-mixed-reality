@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 07/27/2021
 ms.topic: article
 title: Anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Effect of anchor types/placement on hologram precision in Dynamics 365 Guides

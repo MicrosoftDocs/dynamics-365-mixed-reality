@@ -5,10 +5,12 @@ description: Overview, enablement and feature details for the Microsoft Dynamics
 ms.author: soanigbo
 ms.date: 05/31/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Remote Assist Calls Dashboard
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 Supervisors and operations managers need to be able to monitor key operational metrics for their organization. Such metrics are critical to get insights such as potential areas of operational efficiencies and efficacy of the various tools and processes within the technician community.
 
@@ -32,7 +34,7 @@ To have access to the Calls Dashboard, you must have:
 3. [Enable the Power BI Azure Maps visual](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
 
     > [!IMPORTANT]
-    > Due to European (GDPR) regulations, this step only applies to customers with deployments within the US. Enabling the Power BI Azure Maps visual will not enable the map for non-US environments (for example, Europe, Canada, or Korea).  
+    > Due to European privacy laws and regulations, this step only applies to customers with deployments within the US. Enabling the Power BI Azure Maps visual will not enable the map for non-US environments (for example, Europe, Canada, or Korea).  
 
 ## Enabling the Calls Dashboard
 

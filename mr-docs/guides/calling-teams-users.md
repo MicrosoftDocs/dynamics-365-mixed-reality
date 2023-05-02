@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
 title: Collaborate with a Dynamics 365 Guides user from Microsoft Teams
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Collaborate with a Dynamics 365 Guides user from Microsoft Teams
@@ -16,7 +16,7 @@ The following table describes the features that are available as a Teams desktop
 
 |Feature |Available on Teams desktop? |
 |-----------------------------------------------|------------|                                                                                               
-|Make outgoing call to Dynamics 365 Guides user |No, the Dynamics 365 Guides user must initiate the call.|    
+|Make outgoing call to Dynamics 365 Guides user |Yes|    
 |Receive an incoming call  |Yes|   
 |Join a one-to-one call |Yes|  
 |Join a group call  |Yes |       
@@ -31,7 +31,7 @@ The following table describes the features that are available as a Teams mobile 
 
 | Feature | Available on Teams mobile? | 
 |-----------------------------------------------|------------| 
-|Make outgoing call to Dynamics 365 Guides user | No, the Dynamics 365 Guides user must initiate the call. | 
+|Make outgoing call to Dynamics 365 Guides user | Yes | 
 |Receive an incoming call | Yes| 
 |Join a one-to-one call |Yes|  
 |Join a group call  |Yes | 

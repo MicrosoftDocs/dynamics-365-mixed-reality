@@ -5,10 +5,12 @@ description: Learn how to add and edit annotations in Dynamics 365 Remote Assist
 ms.author: soanigbo
 ms.date: 08/26/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Add annotations in Dynamics 365 Remote Assist on HoloLens
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 Once a video call has connected, the Microsoft Teams user will see everything the HoloLens user sees in their spce – including holograms. 
 

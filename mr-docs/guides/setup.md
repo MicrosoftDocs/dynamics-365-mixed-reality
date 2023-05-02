@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 01/28/2020
 ms.topic: overview
 title: Overview of setting up Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of setting up Dynamics 365 Guides

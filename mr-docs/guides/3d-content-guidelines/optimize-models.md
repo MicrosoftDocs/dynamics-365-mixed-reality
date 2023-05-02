@@ -5,7 +5,7 @@ ms.author: robutter
 ms.date: 05/25/2021
 ms.topic: article
 title: Optimize your 3D models to use with Dynamics 365 Guides and Power Apps
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Optimize your 3D models to use with Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
@@ -16,12 +16,13 @@ The following table lists software tools that you can use to convert and/or opti
 
 |Software|Import|Export|Convert/transcode|Optimization|
 |---------------------------------|----------------------------------------|--------------------|--------------------|-------------------|
-|[PiXYZ Software](https://aka.ms/Pixyz)|STEP, Catia, JT, OBJ, FBX, and [more](https://www.pixyz-software.com/documentations/html/2020.1/studio/SupportedFileFormats.html)|glTF 2.0 and more|Yes|Yes|
+|[PiXYZ Software](https://aka.ms/Pixyz)|STEP, Catia, JT, OBJ, FBX, and [more](https://www.pixyz-software.com/documentations/html/2020.1/studio/SupportedFileFormats)|glTF 2.0 and more|Yes|Yes|
 |[Maxon Cinema 4D](https://www.maxon.net/cinema-4d)|SOLIDWORKS, STEP, Catia, JT, and IGES|FBX, OBJ, GLB/glTF 2.0 (beta)|Yes|Yes|
 |[Simplygon Studios](https://aka.ms/Simplygonsoftware)|FBX, OBJ|FBX|No|Yes|
 |[Unreal Datasmith](https://aka.ms/UnrealDatasmithsoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ|Yes|No|
 |[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ, STL|Yes|Yes|
 |[Blender](https://www.blender.org/)|Collada (DAE), FBX, PLY, OBJ, STL, glTF, GLB, and more|FBX, OBJ, glTF 2.0, and more|Yes|Yes|
+|[gltfPack](https://www.npmjs.com/package/gltfpack)|GLB, glTF, OBJ|GLB, glTF|No|Yes|
 
 > [!IMPORTANT]
 > Dynamics 365 Guides uses meters as the default scale unit. If your 3D model scale is set to millimeters when you export from your CAD solution, the model will be converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it will be converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export. 

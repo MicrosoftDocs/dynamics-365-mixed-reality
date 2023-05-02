@@ -5,10 +5,12 @@ description: Learn about the asset capture feature in Microsoft Dynamics 365 Rem
 ms.author: soanigbo
 ms.date: 07/06/2021
 ms.topic: overview
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Overview of capturing assets in Dynamics 365 Remote Assist
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 Technicians can use the asset capture feature in Microsoft Dynamics 365 Remote Assist to capture data about the assets they operate, inspect, and maintain without having to make a video call. Data is captured in a consistent and structured way, and made available through the Dynamics 365 Remote Assist model-driven app for easy validation, report generation, and auditing.
 
@@ -63,7 +65,7 @@ To use the asset capture feature, see the following series of articles:
 
 Asset capture uses several entities stored in Microsoft Dataverse:
 
-- **Customer Asset**: The individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. More info: [msdyn_customerasset EntityType](/dynamics365/customer-engagement/web-api/msdyn_customerasset)
+- **Customer Asset**: The individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. More info: [msdyn_customerasset EntityType](msdyn_customerasset.md).
 
 - **Customer Asset Category**: A way to describe a group of similar assets.
 

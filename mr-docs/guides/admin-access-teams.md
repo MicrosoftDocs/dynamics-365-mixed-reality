@@ -5,7 +5,7 @@ ms.author: mehellmu
 ms.date: 04/05/2022
 ms.topic: article
 title: Create an access team to share a guide in Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Create an access team to share a guide in Dynamics 365 Guides

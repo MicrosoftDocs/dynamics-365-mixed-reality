@@ -5,10 +5,12 @@ description: Learn how Dynamics 365 Remote Assist automatically adjusts HoloLens
 ms.author: soanigbo
 ms.date: 06/10/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # How Dynamics 365 Remote Assist automatically adjusts HoloLens temperature if the device overheats
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 If you're on a longer call in Microsoft Dynamics 365 Remote Assist for HoloLens, the HoloLens device can become hot if it's using 
 several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device 

@@ -2,11 +2,10 @@
 title: About the Author and Operator user roles in Dynamics 365 Guides
 description: Learn about the Author, Operator, Restricted Author, and Restricted Operator user roles in Dynamics 365 Guides
 author:  Mamaylya
-manager: tfehr
 ms.topic: article
 ms.date: 11/08/2021
 ms.author: mamaylya
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # About the Author and Operator roles in Dynamics 365 Guides
@@ -30,7 +29,7 @@ See the following links for more information:
 |Area|Link|
 |------------------------------------------------------------|-------------------------------------------------------------------------|
 |Restricted Author and Restricted Operator roles in access teams|[Share a guide or guide content in Dynamics 365 Guides by using an access team](admin-access-teams.md#assign-a-restricted-security-role)|
-|System roles in the Power Platform|[System and application users](/power-platform/admin/system-application-users)|
+|System roles in Power Platform|[System and application users](/power-platform/admin/system-application-users)|
 |Azure Object Anchor service|[Object Anchors Service](https://azure.microsoft.com/services/object-anchors/)|
 
 > [!IMPORTANT]

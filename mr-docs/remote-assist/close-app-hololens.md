@@ -5,10 +5,12 @@ description: Learn how to close the Dynamics 365 Remote Assist HoloLens app
 ms.author: soanigbo
 ms.date: 03/15/2020
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Close Dynamics 365 Remote Assist on HoloLens
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 To fully close the Microsoft Dynamics 365 Remote Assist HoloLens app: 
 

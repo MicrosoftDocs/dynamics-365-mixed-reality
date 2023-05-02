@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 03/23/2022
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
@@ -59,8 +59,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 5. Print the last page of the document on matte stock. (Glossy materials can affect scanning.) Bubble jet printers produce a better matte finish.
 
-6. Make sure that the printed anchor measures between 101 and 400 millimeters (mm) wide. (These figures are based on [Version 1 QR code 
-recommendations](https://www.qrcode.com/en/about/version.html).)
+6. Make sure that the printed anchor measures between 101 and 400 millimeters (mm) wide. (These figures are based on [Version 1 QR code recommendations](https://www.qrcode.com/en/about/version.html).)
 
 6. Attach the QR code anchor to a physical object in the real world, and then take a picture to help the operator find it.
 

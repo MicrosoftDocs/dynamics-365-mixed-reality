@@ -5,7 +5,7 @@ description: Share documents between technicians and collaborators with the Dyna
 ms.author: soanigbo
 ms.date: 09/08/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Share files to improve collaboration in Dynamics 365 Remote Assist mobile

@@ -152,7 +152,7 @@ After you've prepared a 3D model, use the following links to learn more about us
 You can find more information about these products here:
 
 [Dassault Systèmes SOLIDWORKS 2019](https://www.solidworks.com/)  
-[Extended Reality (XR) Exporter](https://www.solidworks.com/beta/exporter.htm)
+[Extended Reality (XR) Exporter](https://www.solidworks.com/beta/exporter)
 
 Several screenshots in this document were taken from the Dassault Systèmes SOLIDWORKS software program to provide clear instructions on how to use Dassault's software.
 

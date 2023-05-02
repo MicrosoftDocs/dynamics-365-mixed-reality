@@ -2,13 +2,15 @@
 title: Dynamics 365 Remote Assist on Government Community Cloud
 description: Summary of the Dynamics 365 Remote Assist app on the Government Community Cloud.
 ms.date: 06/23/2022
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ms.topic: "article"
 author: amaraanigbo
 ms.author: soanigbo
 ---
 
 # Dynamics 365 Remote Assist on Government Community Cloud (GCC)
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 Dynamics 365 Remote Assist is available on [Government Community Cloud (GCC) and GCC High](/power-platform/admin/microsoft-dynamics-365-government). 
 

@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 10/17/2022
 ms.topic: article
 title: Open a OneDrive for Business file in Dynamics 365 Guides on HoloLens
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Open a OneDrive for Business file in Dynamics 365 Guides on HoloLens

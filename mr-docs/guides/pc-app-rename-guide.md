@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 06/29/2021
 ms.topic: article
 title: Rename a guide in Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Rename a guide in Dynamics 365 Guides

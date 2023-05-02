@@ -2,8 +2,8 @@
 author: Mamaylya
 description: Determine whether your Dynamics 365 Guides solution is compatible with the apps.
 ms.author: mamaylya
-ms.date: 12/8/2022
-ms.topic: article
+ms.date: 04/28/2023
+ms.topic: conceptual
 title: Compatibility between Dynamics 365 Guides solution and apps 
 ms.reviewer: v-wendysmith
 ---
@@ -29,6 +29,10 @@ To find the app and solution versions that you're using, in the PC app, select t
 
 | PC and HoloLens app version | Release date | Compatible Guides Dataverse solution versions |HoloLens version(s) supported|
 |-----------------------------|--------------|--------------------------------------------------|--------------------|
+| 804.2304.21001.0| May 2, 2023 | 800.4.0.1, 800.3.0.1, 800.2.0.0, 800.1.0.1, 800.0.0.1 |HoloLens 2 only|
+| 803.2303.23001| April 4, 2023 | 800.3.0.1, 800.2.0.0, 800.1.0.1, 800.0.0.1 |HoloLens 2 only|
+| 802.2302.24001.0| February 28, 2023 | 800.2.0.0, 800.1.0.1, 800.0.0.1 |HoloLens 2 only|
+| 802.2302.13001.0| February 14, 2023 | 800.2.0.0, 800.1.0.1, 800.0.0.1 |HoloLens 2 only|
 | 801.2212.2001.0| December 8, 2022 | 800.1.0.1, 800.0.0.1 |HoloLens 2 only| 
 | 800.2210.6001| October 17, 2022 | 800.0.0.1, 700.4.0.1, 700.3.0.1, 700.2.0.1, 700.1.0.1, 700.0.0.1|HoloLens 2 only|
 | 704.2207.27002 | August 10, 2022 | 700.4.0.1, 700.3.0.1, 700.2.0.1, 700.1.0.1, 700.0.0.1|HoloLens 2 only|

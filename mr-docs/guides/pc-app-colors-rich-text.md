@@ -5,7 +5,7 @@ ms.author: soanigbo
 ms.date: 03/01/2022
 ms.topic: article
 title: Use rich text formatting in instruction card text in Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Use rich text formatting in instruction card text in Dynamics 365 Guides

@@ -5,10 +5,12 @@ description: Adjust the Dynamics 365 Remote Assist window, switch displayed vide
 ms.author: soanigbo
 ms.date: 3/15/2020
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Adjust what you see in Dynamics 365 Remote Assist on HoloLens or Hololens 2
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 In this article, we'll walk through a few ways you can adjust what you're seeing in Dynamics 365 Remote Assist on HoloLens or HoloLens 2:
 

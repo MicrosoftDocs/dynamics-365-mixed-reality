@@ -5,10 +5,12 @@ description: Learn how to create new asset records in Microsoft Dynamics 365 Rem
 ms.author: soanigbo
 ms.date: 04/30/2021
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 --- 
 
 # Create new asset records in Dynamics 365 Remote Assist
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Microsoft Dynamics 365 Remote Assist, such as capturing annotated photos of a generator asset during an inspection. By guiding technicians to capture data to an asset record, you can ensure data is captured to the right place, in a consistent way, so people in your organization can easily locate and use that data. With continued use over time, the asset record becomes a historical record and audit trail showing how an asset changed over time, along with the work performed on the asset.
 

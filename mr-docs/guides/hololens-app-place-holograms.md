@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
 title: Place and manipulate holograms in the Dynamics 365 Guides HoloLens app
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Place and manipulate holograms in the Dynamics 365 Guides HoloLens app
@@ -27,7 +27,7 @@ user's attention. You can place the same 3D part or 3D object as many times as y
 
 ## Place a 3D model from the 3D toolkit
 
-If you added a 3D model to the bin in the PC app, you can place the 3D model in the same way that you place a 3D part. You can also add a 3D model directly from the [!include[pn-hololens](../includes/pn-hololens.md)] app (you don't have to add it in the PC app first). 
+If you added a 3D model to the bin in the PC app, you can place the 3D model in the same way that you place a 3D part. You can also add a 3D model directly from the [!include[pn-hololens](../includes/pn-hololens.md)] app (you don't have to add it in the PC app first).
 
 1. Air tap one of the **Add** boxes in the bin.
 

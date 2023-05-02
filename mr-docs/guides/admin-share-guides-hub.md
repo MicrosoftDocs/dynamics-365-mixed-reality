@@ -2,11 +2,10 @@
 title: Share the Guides model-driven app with other users
 description: Learn how to share the Guides model-driven app to provide access to other team members.
 author:  Mamaylya
-manager: tfehr
 ms.topic: article
 ms.date: 07/07/2021
 ms.author: mamaylya
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 <!-- This article could be a redirect to the article below with the term "App" updated to "Guides model-driven app".   A better solution will have to be found to "customize" core power apps support documents to address the specific D365 Guides user experience.  
 https://learn.microsoft.com/powerapps/user/assign-or-share-records -->

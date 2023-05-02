@@ -2,7 +2,7 @@
 ## [Overview of Dynamics 365 Remote Assist](ra-overview.md)
 ## [What's new](whats-new.md)
 
-## Setup
+## Get started
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy](buy-remote-assist.md)
@@ -93,6 +93,7 @@
 
 ### Metadata references
 #### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
+#### [msdyn_customerasset entity reference](msdyn_customerasset.md)
 #### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
 

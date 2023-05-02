@@ -5,10 +5,12 @@ description: Learn how to restrict the ability to access OneDrive files in Micro
 ms.author: soanigbo
 ms.date: 04/13/2022
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Restrict the ability to access OneDrive files in Dynamics 365 Remote Assist
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Remote Assist users from accessing OneDrive files. Restricting the ability to access OneDrive files is also helpful in a situation where a service account is shared between users and you want to prevent users from accessing each other's files. 
 

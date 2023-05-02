@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 06/20/2022
 ms.topic: article
 title: Update the Dynamics 365 Guides solution
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Update the Dynamics 365 Guides solution
@@ -97,9 +97,9 @@ To fix this issue, we recommend that you first try to update the guide schema fr
 
 ### Having trouble accessing an image, video, or 3D object through the Dataverse API or Power Apps after updating to Guides solution version 504.0.0.0?
 
-The 504.0.0.0 Guides solution update changes the way that guide content (images, videos, and 3D objects) is stored in the Microsoft Dataverse. With this update, each file is stored in the new **File** column instead of as an attachment in the **Note** column. This significantly improves performance when loading content in Dynamics 365 Guides and allows you to [access your files more easily on the Power Platform](/powerapps/maker/canvas-apps/controls/control-attachments). 
+The 504.0.0.0 Guides solution update changes the way that guide content (images, videos, and 3D objects) is stored in the Microsoft Dataverse. With this update, each file is stored in the new **File** column instead of as an attachment in the **Note** column. This significantly improves performance when loading content in Dynamics 365 Guides and allows you to [access your files more easily on Power Platform](/powerapps/maker/canvas-apps/controls/control-attachments). 
 
-If an image, video, or 3D object fails to convert correctly to the newest version when you update to the 504.0.0.0 solution (this can happen, for example, if the Dataverse was down during the solution update), it means that the related file is stored using the old method (attached to the **Note** column instead of stored in the new **File** column). This makes it harder to retrieve when using the Power Platform or the Dataverse API. You can check whether your media content has been updated correctly by checking the version number. If it hasn't been updated correctly, you can then do a manual update using the following procedure: 
+If an image, video, or 3D object fails to convert correctly to the newest version when you update to the 504.0.0.0 solution (this can happen, for example, if the Dataverse was down during the solution update), it means that the related file is stored using the old method (attached to the **Note** column instead of stored in the new **File** column). This makes it harder to retrieve when using Power Platform or the Dataverse API. You can check whether your media content has been updated correctly by checking the version number. If it hasn't been updated correctly, you can then do a manual update using the following procedure: 
 
 1.	Go to [make.powerapps.com](https://make.powerapps.com). 
 

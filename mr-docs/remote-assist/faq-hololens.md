@@ -2,13 +2,16 @@
 author: amaraanigbo
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist on Microsoft HoloLens.
 ms.author: soanigbo
-ms.date: 05/19/2022
-ms.topic: article
+ms.date: 04/06/2023
+ms.topic: faq
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Frequently asked questions about Dynamics 365 Remote Assist HoloLens
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 Here are some answers to common questions about using Dynamics 365 Remote Assist on HoloLens and HoloLens 2. In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist).
 
@@ -132,54 +135,51 @@ For more information, visit our article on [displaying and saving files](display
 
 If you encounter an issue, use the HoloLens Feedback Hub to let us know so we can resolve it in future releases.
 
-There are two ways to get to the HoloLens Feedback Hub application to report a bug. 
+There are two ways to get to the HoloLens Feedback Hub application to report a bug.
 
-1. From the **Start menu**: At any time, you can go to the **Start menu** and launch **Feedback Hub**. 
+1. Launch the **Feedback Hub**.
 
-2. From Dynamics 365 Remote Assist: Select the **Settings tab** from the left navigation. Select the **Links** sub tab, and in the **Links** section, select **Feedback Hub** to launch **Feedback Hub**. 
+   - From the **Start menu**: Launch **Feedback Hub**.
+   - From Dynamics 365 Remote Assist: Select the **Settings tab** from the left navigation. Select the **Links** sub tab, and in the **Links** section, select **Feedback Hub**.
 
-    ![Screenshot of the Links tab in the HoloLens settings screen.](media/08.02-settings-feedbackhub.png)
+1. From the home tab in the HoloLens Feedback Hub, select **Report a problem**.
 
-When you're in the HoloLens Feedback Hub: 
+1. In the **Enter your feedback** section, summarize your feedback. To type, tap the text field and a holographic keyboard will appear. Then, select **Next**. To edit your response to any step after you’ve chosen **Next**, select **Edit**, which is to the top right of the text field.
 
-1. From the home tab (represented by this icon![Graphic showing the home icon.](media/RAHL_FeedbackHubHome.png), select **Report a problem**, as seen in the following screenshot.
-
-    ![Screenshot of the "Report a problem" option, represented by a bug-looking icon.](media/RAHL_FeedbackHubReport.png)
-
-2. In the **Enter your feedback** section, summarize your feedback. To type, tap the text field and a holographic keyboard will appear. Then, select **Next**. To edit your response to any step after you’ve chosen **Next**, select **Edit**, which is to the top right of the text field. 
-
-3. In the **Choose a category** section, categorize the issue using "Apps" and "Microsoft Remote Assist." To select an item in the drop-down menu, select the menu.
+1. In the **Choose a category** section, select **Apps** and **Microsoft Remote Assist**. To select an item in the drop-down menu, select the menu.
 
    - If you're using HoloLens, scroll by gazing at the content of the app window. Tap and hold and then move your hand slightly upwards or downwards to scroll the content.
-   
-   - If you're using HoloLens 2, scroll by placing your finger on the drop-down menu and move your finger up and down, as you would on a touch screen device. 
+
+   - If you're using HoloLens 2, scroll by placing your finger on the drop-down menu and move your finger up and down, as you would on a touch screen device.
 
     ![Screenshot showing the Choose a category section of the Feedback Hub.](media/RAHL_FeedbackHubChooseCategory.png)
 
-4. In the **Find similar feedback** section, select "Make new bug."
+1. In the **Find similar feedback** section, select **Make new bug**.
 
-5. In the **Additional details** section:
+1. In the **Additional details** section:
 
-   - Optionally select "Consider this a blocking issue."  
-   
+   - Optionally select **Consider this a blocking issue**.  
+
    - Categorize your problem.
-   
-6. Select **Recreate your problem**:
+
+1. Select **Recreate your problem**:
 
    - Select **Start recording**.
-   
+
    - Use the start menu to launch Dynamics 365 Remote Assist and replicate the issue.
-   
+
    - When you're finished replicating the issue, use the start menu to return to **Feedback Hub**.
-   
+
    - Select **End recording**.
-   
-   - Diagnostic data, a video, and audio from the recording will be attached. You may remove each one if you want to. 
+
+   - Diagnostic data, a video, and audio from the recording will be attached. You may remove each one if you want to.
 
     > [!Note]
-    > Optionally, check the "This is blocking me" box if the issue is blocking you from completing your work or tasks. 
-    > 
-    > To provide the best possible data for fixing issues, we recommend that you set your device telemetry to **Optional Diagnostic data** when you set up Dynamics 365 Remote Assist. You can also make this change through the **Settings** menu within the app (select **Start** > **Settings** > **Privacy** > **Diagnostics & feedback** > **Optional Diagnostic data**).
+    > Optionally, check **This is blocking me** if the issue is blocking you from completing your work or tasks.
+    >
+    > To provide the best possible data for fixing issues, we recommend that you set your device telemetry to **Optional Diagnostic data** when you set up Dynamics 365 Remote Assist. You can also make this change through the **Settings** menu within the app:
+    > - For Windows 10: Select **Start** > **Settings** > **Privacy** > **Diagnostics & feedback** > **Optional Diagnostic data**.
+    > - For Windows 11: Right-click the **Start** button and select **Settings** > **Privacy & Security** > **Diagnostics & feedback** > **Diagnostic data**.
 
 ## How do I file a support ticket?
 

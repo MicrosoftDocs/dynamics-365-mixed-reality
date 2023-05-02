@@ -5,10 +5,12 @@ ms.author: soanigbo
 ms.date: 08/26/2022
 ms.topic: article
 title: Known issues in Dynamics 365 Remote Assist
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Known issues in Dynamics 365 Remote Assist
+
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 ## Microsoft Teams Desktop users can't add annotations in Dynamics 365 Remote Assist--Resolved
 

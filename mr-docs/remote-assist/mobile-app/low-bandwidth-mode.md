@@ -5,7 +5,7 @@ description: Learn how the Microsoft Dynamics 365 Remote Assist mobile app works
 ms.author: soanigbo
 ms.date: 07/29/2021
 ms.topic: article
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Use the Dynamics 365 Remote Assist mobile app in low-bandwidth situations

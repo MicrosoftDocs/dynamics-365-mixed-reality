@@ -2,8 +2,8 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 01/13/2023
-ms.topic: article
+ms.date: 04/28/2023
+ms.topic: how-to
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-wendysmith
 ---
@@ -29,9 +29,10 @@ The tool supports the following types of migration.
 | Only 3D objects | Active 3D objects only. You can migrate all existing 3D objects at one time, all 3D objects that belong to a 3D object collection, or select specific 3D objects. |
 | Only images | Active images only. You can migrate all existing images at one time or select specific images. |
 | Only videos | Active videos only. You can migrate all existing videos at one time or select specific videos. |
+| Only Object Anchors | Active Azure Object Anchors only. You can migrate all existing object anchors at one time or select specific object anchors. |
 
 > [!NOTE]
-> - If you have created a folder structure in your instance, [migrate it using the Power Platform's export/import functionality](/dynamics365/mixed-reality/guides/admin-export-import-folders). Moving the folders first, and then the content ensures that the folder and content hierarchy is retained. 
+> - If you have created a folder structure in your instance, [migrate it using Power Platform's export/import functionality](/dynamics365/mixed-reality/guides/admin-export-import-folders). Moving the folders first, and then the content ensures that the folder and content hierarchy is retained. 
 > - [Website and Power Apps links](pc-app-website-powerapps-link.md) are migrated when you migrate guides. However, for Power Apps, manually import the apps into the new instance and update the links in the appropriate steps.
 > - The Content Migration Tool doesn't support migration of guides that are based on schema v3 or v4. If you've updated your Dynamics 365 Guides solution to the latest version, but you still have a guide that is based on schema v3 or v4, [do a manual upgrade](./upgrade.md).
 > - For 3D objects that belong to a 3D object collection, the parent 3D object won't be migrated unless you have the **System Admin** role.
@@ -54,7 +55,7 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
 ## Download the tool and run the script
 
-1. Download the [Guides Content Migration Tool](https://aka.ms/guidesmigration). The zipped folder is downloaded to your downloads folder.
+1. Download the Guides [Content Migration Tool](https://aka.ms/ContentMigrationTool). The zipped folder is downloaded to your downloads folder.
 
 1. In Windows File Explorer, select the zipped folder, right-click and then select **Properties**.
 
@@ -137,12 +138,6 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 1. When you're prompted to confirm your selection, enter **Y**, and then select **Enter**. To cancel the action, enter **N**, and then select **Enter**.
 
     ![Confirming your selection.](media/migration-choice-confirmation.PNG "Confirming your selection")
-
-## Known issues
-
-The Content Migration Tool is a preview feature for Dynamics 365 Guides and has the following limitation:
-
-- The Content Migration tool does not support migrating guides that use [Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md). To migrate a guide that includes this type of anchor, convert the guide to use a QR code anchor, circular code anchor, or holographic anchor, and then migrate content with the tool. Then change the anchor type in the new instance and edit the guide to use that object anchor.
 
 ## See also
 

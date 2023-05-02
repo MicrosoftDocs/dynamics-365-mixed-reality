@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 11/08/2021
 ms.topic: article
 title: Duplicate a 3D model in the Dynamics 365 Guides HoloLens app 
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Duplicate a 3D model in the Dynamics 365 Guides HoloLens app 
@@ -23,8 +23,6 @@ The duplicates will have the same rotation and style settings as the original.
     ![Edit Hologram button.](media/edit-hologram.png "Edit Hologram button")
 
 3. Select **Duplicate**.
-
-    ![Duplicate button.](media/edit-duplicates1.PNG "Duplicate button")
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select the **Duplicate** command directly with your finger. For more information on manipulating holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).

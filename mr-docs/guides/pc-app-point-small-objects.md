@@ -5,7 +5,7 @@ ms.author: mehellmu
 ms.date: 07/13/2022
 ms.topic: article
 title: Tips for pointing at small or closely spaced objects in Dynamics 365 Guides
-ms.reviewer: v-bholmes
+ms.reviewer: v-wendysmith
 ---
 
 # Tips for pointing at small or closely spaced objects in Dynamics 365 Guides
