@@ -1,24 +1,21 @@
 ---
-title: Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides  
+title: Make or receive a call in Dynamics 365 Guides  
 author: Mamaylya
-description: Learn how to call a remote collaborator on Microsoft Teams from Dynamics 365 Guides on HoloLens
+description: Learn how to make or receive a call with a remote collaborator from Dynamics 365 Guides on HoloLens
 ms.author: mamaylya
-ms.date: 04/04/2023
+ms.date: 04/28/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-# Call a remote collaborator on Microsoft Teams from Dynamics 365 Guides
+# Make or receive a call in Dynamics 365 Guides
 
-When you're working in Microsoft Dynamics 365 Guides on HoloLens, if you need help with a task in your world, you might want to call a remote collaborator on Microsoft Teams (desktop or mobile) or Dynamics 365 Remote Assist. See [Types of calls](calling-concepts.md) for more information.
+When you're working in Dynamics 365 Guides on HoloLens, you can make or receive calls on your HoloLens. Your admin must have the [**Enable Calling** setting enabled](admin-enable-calls.md) to make or receive calls.
 
 ## Start a one-to-one call
 
-Start a call from your HoloLens.
-
-> [!NOTE]
-> You can't receive a call in Dynamics 365 Guides from a Teams or Dynamics 365 Remote Assist user. You must initiate the call from Dynamics 365 Guides.
+Start a call from your HoloLens. See [Types of calls](calling-concepts.md) for more information.
 
 ### Start a one-to-one call with a Teams contact in your organization
 
@@ -97,6 +94,21 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 1. Select the tile for the participant that you want to remove.
 
 1. When the tile flips over, select **Remove**.
+
+## Receive a call
+
+When working in Guides, a notification displays when you receive a call from an individual, a group, or from a meeting in progress. You can:
+
+- Select **Video** or say "Guides, Video" to accept the call with your video on, showing the remote collaborators your view.
+
+- Select **Phone** or say "Guides, Audio" to accept the call with audio only.
+
+- Select **Ignore** or say "Guides, Ignore" to decline the call.
+
+If you are already in a call or meeting in Guides and receive another call, the new call is automatically declined.
+
+> [!IMPORTANT]
+> If both Guides and Remote Assist are installed, you might see conflicting notifications from both apps. We recommend you turn off notifications from Remote Assist. For more information, see [HoloLens users have trouble with notifications when receiving a call in Guides](known-issues-hololens-app.md#hololens-users-have-trouble-with-notifications-when-receiving-a-call-in-guides).
 
 ## End a call
 

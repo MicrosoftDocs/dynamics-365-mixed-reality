@@ -51,7 +51,7 @@ print in step 6.
 
     ![Actual size option.](media/adobe-actual-size.PNG "Actual size option")
 
-6. Print the last page of the document on matte stock and don't laminate it. Glossy materials can affect scanning and will decreaes the anchor detection rate. Bubble jet printers produce a better matte finish.
+6. Print the last page of the document on matte stock and don't laminate it. Glossy materials can affect scanning and will decrease the anchor detection rate. Bubble jet printers produce a better matte finish.
 
     > [!NOTE]
     > Also, make sure the anchor is always positioned flat. DO NOT distort or place it on a curved surface as this will negatively affect alignment and detection. 

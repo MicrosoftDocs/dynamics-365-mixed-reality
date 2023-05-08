@@ -96,6 +96,9 @@
         "import-tool/**/**.*": "dynamics-365-import-tool",
         "remote-assist/**/**.*": "dynamics-365-remote-assist",
         "product-visualize/**/*.*": "dynamics-365-productvisualize"
+      },
+      "ms.subservice": {
+        "guides/gxp-guidance/**/**.*": "guides-gxp"
       }
     },
     "template": [],
