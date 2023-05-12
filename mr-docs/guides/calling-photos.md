@@ -3,7 +3,7 @@ title: Capture and share photos in Dynamics 365 Guides on HoloLens
 author: prashantyvr
 description: Learn how to take and share photos between Dynamics 365 Guides users and Teams users
 ms.author: prashan
-ms.date: 05/10/2023
+ms.date: 05/30/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

@@ -74,6 +74,7 @@
 #### [Make or receive a call](calling-start-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
 #### [Chat and file sharing](calling-chat-file-sharing.md)
+#### [Capture and share photos](calling-photos.md)
 #### [Record a call](calling-record-call.md)
 #### [Screen sharing](calling-screen-sharing.md)
 #### [Use annotations](calling-annotations.md)
