@@ -6,17 +6,17 @@
 # Remove all comments and capitalized text in this template before you sign off or merge to the main branch
 
 title:  Microsoft Dynamics 365 Guides documentation # < 60 chars
-summary: Dynamics 365 Guides is a mixed-reality application for Microsoft HoloLens that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # < 160 chars
+summary: Learn how to use Dynamics 365 Guides, a mixed-reality application for Microsoft HoloLens, that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # < 160 chars
 # brand: aspnet | azure | dotnet | dynamics | m365 | office | sql | windows | visual-studio | xamarin
 brand: dynamics
 
 metadata:
-  title: Dynamics 365 Guides # Required; page title displayed in search results. Include the brand. For example, Dynamics 365 Commerce < 60 chars.
-  description: products description # Required; product description that is displayed in search results. < 160 chars. 
+  title: Dynamics 365 Guides documentation # Required; page title displayed in search results. Include the brand. For example, Dynamics 365 Commerce < 60 chars.
+  description: Dynamics 365 Guides is a mixed-reality application for Microsoft HoloLens that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # Required; product description that is displayed in search results. < 160 chars. 
   ms.topic: hub-page # Required
   author: v-wendysmith #Required; your GitHub user alias, with correct capitalization.
   ms.author: v-wendysmith #Required; microsoft alias of author; optional team alias.
-  ms.date: 03/01/2023 #Required; mm/dd/yyyy format.
+  ms.date: 05/15/2023 #Required; mm/dd/yyyy format.
   ms.custom: bap-template
   hide_bc: true
 
@@ -41,7 +41,7 @@ highlightedContent:
     # Card
     - title: Troubleshoot
       itemType: concept
-      url: faq.md
+      url: known-issues.md
       
 additionalContent: 
   sections:
