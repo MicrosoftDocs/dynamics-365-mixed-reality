@@ -69,7 +69,7 @@ additionalContent:
       links: 
       - url: security-compliance.md
         text: Security and compliance
-      - url: ./gxp-guidance/recommendations-governance
+      - url: ./gxp-guidance/recommendations-governance.md
         text: Guides in GxP regulated industries
       - url: gcc.md
         text: Guides US Government
