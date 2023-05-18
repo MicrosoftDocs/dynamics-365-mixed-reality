@@ -23,7 +23,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
 1. Look at the palm of your hand to open the **Main** menu, and then select the **Teams** button.
 
-    ![Screenshot of Communications button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Communications button on Main menu.")
+    ![Screenshot of Teams button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Teams button on Main menu.")
 
 1. Select **Meetings**.
 

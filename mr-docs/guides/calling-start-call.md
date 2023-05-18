@@ -19,9 +19,9 @@ Start a call from your HoloLens. See [Types of calls](calling-concepts.md) for m
 
 ### Start a one-to-one call with a Teams contact in your organization
 
-1. Look at the palm of your hand to open the **Main** menu, and then select the **Communications** button.
+1. Look at the palm of your hand to open the **Main** menu, and then select the **Teams** button.
 
-   :::image type="content" source="media/calling-meetings-1.JPG" alt-text="Screenshot of Communications button on Main menu.":::
+   :::image type="content" source="media/calling-meetings-1.JPG" alt-text="Screenshot of Teams button on Main menu.":::
 
 1. Do one of the following:
 
