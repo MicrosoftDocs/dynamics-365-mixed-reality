@@ -651,6 +651,16 @@
       "source_path": "mr-docs/remote-assist/troubleshoot-field-service.md",
       "redirect_url": "/dynamics365/field-service/remote-assist-hololens",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/index.yml",
+      "redirect_url": "/dynamics365/mixed-reality/guides/",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/new-and-planned-features",
+      "redirect_url": "/dynamics365/mixed-reality/guides/",
+      "redirect_document_id": "false"
     }
   ]
 }
