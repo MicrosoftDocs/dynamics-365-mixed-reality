@@ -6,7 +6,7 @@
 # Remove all comments and capitalized text in this template before you sign off or merge to the main branch
 
 title:  Microsoft Dynamics 365 Guides documentation # < 60 chars
-summary: Learn how to use Dynamics 365 Guides, a mixed-reality application for Microsoft HoloLens, that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # < 160 chars
+summary: Discover how to make the most out of Dynamics 365 Guides with online training courses, docs, and videos covering product capabilities and how-to articles. Learn how to use Dynamics 365 Guides, a mixed-reality application for Microsoft HoloLens, that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # < 160 chars
 # brand: aspnet | azure | dotnet | dynamics | m365 | office | sql | windows | visual-studio | xamarin
 brand: dynamics
 
@@ -16,7 +16,7 @@ metadata:
   ms.topic: hub-page # Required
   author: v-wendysmith #Required; your GitHub user alias, with correct capitalization.
   ms.author: v-wendysmith #Required; microsoft alias of author; optional team alias.
-  ms.date: 05/15/2023 #Required; mm/dd/yyyy format.
+  ms.date: 05/22/2023 #Required; mm/dd/yyyy format.
   ms.custom: bap-template
   hide_bc: true
 
@@ -27,9 +27,9 @@ highlightedContent:
 
   items:
     # Card
-    - title: Get started
+    - title: Welcome to Dynamics 365 Guides
       itemType: get-started
-      url: get-started.md
+      url: overview.md
     # Card
     - title: What's new
       itemType: whats-new
@@ -102,7 +102,7 @@ additionalContent:
 
   - title: Use Guides
     items:
-    - title: Author a guide - PC
+    - title: Author a guide (PC)
       links:
       - url: pc-app-overview.md
         text: Authoring overview
@@ -112,7 +112,7 @@ additionalContent:
         text: Anchor your guide
       - url: structure-guide.md
         text: Structure your guide
-    - title: Author a guide - HoloLens
+    - title: Author a guide (HoloLens)
       links:
       - url: hololens-app-overview.md
         text: Authoring overview

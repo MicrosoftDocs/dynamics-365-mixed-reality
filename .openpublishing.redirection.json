@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/guides/index.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/operator-calibrate-hl2.md",
       "redirect_url": "hololens-app-calibrate",
       "redirect_document_id": "false"

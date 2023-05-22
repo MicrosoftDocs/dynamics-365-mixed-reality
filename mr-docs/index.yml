@@ -20,7 +20,7 @@ additionalContent:
     - title: Dynamics 365 Guides
       # imageSrc: /dynamics365/images/Guides_color.svg
       links:
-        - url: ./guides/index.md
+        - url: ./guides/index.yml
           text: Documentation
        
     # Card

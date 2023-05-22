@@ -1,11 +1,8 @@
 # Dynamics 365 Guides documentation
-## [Dynamics 365 Guides documentation](indexhub.yml)
+## [Dynamics 365 Guides documentation](index.yml)
 
-## [Welcome to Dynamics 365 Guides](index.md)
+## [Welcome to Dynamics 365 Guides](overview.md)
 
-## What's new
-### [What's new](new.md)
-### [Version history](version-history.md)
 ## Get started
 ### Sign up for a free trial
 #### [How to sign up](trial-signup.md)
@@ -13,6 +10,11 @@
 ### [Dynamics 365 Remote Assist features in Guides 8.0](ra-features-in-guides-8.md)
 ### [Get started](get-started.md)
 ### [How-to-videos](videos.md)
+
+## What's new
+### [What's new](new.md)
+### [Version history](version-history.md)
+
 
 ## Set up and administer Dynamics 365 Guides
 ### Set up Dynamics 365 Guides or upgrade the solution
