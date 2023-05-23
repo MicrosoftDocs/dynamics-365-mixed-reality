@@ -656,6 +656,11 @@
       "source_path": "mr-docs/new-and-planned-features",
       "redirect_url": "/dynamics365/mixed-reality/guides/",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/toc.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/",
+      "redirect_document_id": "false"
     }
   ]
 }
