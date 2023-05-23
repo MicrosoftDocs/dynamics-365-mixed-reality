@@ -1,29 +1,20 @@
 ### YamlMime:Hub
 
-# This template provides the structure of a product hub page. For additional guidance and information, see the article, Create a Dynamics 365 product hub page in the Contributors guide.
-# To provide feedback on this template, contact [bace feedback team](mailto:templateswg@microsoft.com).
-
-# Remove all comments and capitalized text in this template before you sign off or merge to the main branch
-
 title:  Microsoft Dynamics 365 Guides documentation # < 60 chars
-summary: Discover how to make the most out of Dynamics 365 Guides with online training courses, docs, and videos covering product capabilities and how-to articles. Learn how to use Dynamics 365 Guides, a mixed-reality application for Microsoft HoloLens, that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # < 160 chars
-# brand: aspnet | azure | dotnet | dynamics | m365 | office | sql | windows | visual-studio | xamarin
+summary: Discover how to make the most out of Dynamics 365 Guides with online training courses, docs, and videos covering product capabilities and how-to articles. Learn how to use Dynamics 365 Guides, a mixed-reality application for Microsoft HoloLens, that helps operators learn during the flow of work by providing holographic instructions when and where they're needed.
 brand: dynamics
 
 metadata:
-  title: Dynamics 365 Guides documentation # Required; page title displayed in search results. Include the brand. For example, Dynamics 365 Commerce < 60 chars.
+  title: Dynamics 365 Guides documentation 
   description: Dynamics 365 Guides is a mixed-reality application for Microsoft HoloLens that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # Required; product description that is displayed in search results. < 160 chars. 
-  ms.topic: hub-page # Required
-  author: v-wendysmith #Required; your GitHub user alias, with correct capitalization.
-  ms.author: v-wendysmith #Required; microsoft alias of author; optional team alias.
-  ms.date: 05/22/2023 #Required; mm/dd/yyyy format.
+  ms.topic: hub-page 
+  author: v-wendysmith 
+  ms.author: v-wendysmith 
+  ms.date: 05/22/2023 
   ms.custom: bap-template
   hide_bc: true
 
 highlightedContent:
-# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
-
-# Do not change the following cards. You should only need to update the URLs to provide the correct links to your product documentation.
 
   items:
     # Card
@@ -46,8 +37,6 @@ highlightedContent:
 additionalContent: 
   sections:
   - title: Implement Guides
-# Guidance should be the first card under implement. On this card, include links for Security and Compliance, Implementation, Adoption frameworks, and Best practices. 
-# Each card should have at least three and no more than five links. Do not include a "See also" link.
     items:
     - title: Try, buy, and install
       links: 
