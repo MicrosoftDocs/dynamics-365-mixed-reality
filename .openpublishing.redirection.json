@@ -661,6 +661,11 @@
       "source_path": "mr-docs/toc.md",
       "redirect_url": "/dynamics365/mixed-reality/guides/",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/index.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
+      "redirect_document_id": "false"
     }
   ]
 }
