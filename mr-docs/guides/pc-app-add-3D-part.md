@@ -33,7 +33,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
 ### Import a file by using a drag-and-drop operation
 
-1. Open Windows File Explorer, and go to the folder that contains the 3D models that you want to import.
+1. Open Windows File Explorer, and go to the folder that contains the 3D models, images, or videos that you want to import.
 
 1. Drag the files to the gallery.
 
@@ -50,7 +50,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
     ![Importing a custom 3D part.](media/import-object.PNG "Importing a custom 3D part")
 
 > [!NOTE]
-> If you have trouble importing a custom 3D part, [enable Guides to work in the background](known-issues-pc-app.md#cant-upload-3d-content).
+> If you have trouble importing a custom 3D part, image, or video, [enable Guides to work in the background](known-issues-pc-app.md#cant-upload-3d-content-or-other-assets).
 
 ## Next steps
 

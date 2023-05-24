@@ -22,9 +22,9 @@ You can create multiple guides that have the same name. Although this capability
 
 Before you upload custom 3D models or media files in the PC app, make sure that the file names are no longer than 60 characters. Also make sure that they don't contain special characters such as ampersands (&) and at signs (@).
 
-## Can't upload 3D content
+## Can't upload 3D content or other assets
 
-If you can't upload your custom 3D parts, enable Guides to work in the background.
+If you can't upload your custom 3D parts, images, or videos, enable Guides to work in the background.
 
 - For Windows 10: Go to **Settings** > **Apps & features** > **Dynamics 365 Guides** and select **Advanced options**. Turn on **Background apps**.
 
