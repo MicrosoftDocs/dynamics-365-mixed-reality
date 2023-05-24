@@ -183,7 +183,7 @@
 
 ## Advanced topics
 ### Convert 3D models to use as holograms
-#### [Overview of converting 3D models](3d-content-guidelines/index.md)
+#### [Overview of converting 3D models](3d-content-guidelines/overview.md)
 #### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
 #### [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
 #### [Best practices for real-time 3D models](3d-content-guidelines/best-practices.md)
