@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 04/28/2023
+ms.date: 05/24/2023
 ms.topic: faq
 title: Known issues with the Dynamics 365 Guides PC app
 ms.reviewer: mhart
@@ -21,6 +21,14 @@ You can create multiple guides that have the same name. Although this capability
 ## Keep file names short for 3D models and media
 
 Before you upload custom 3D models or media files in the PC app, make sure that the file names are no longer than 60 characters. Also make sure that they don't contain special characters such as ampersands (&) and at signs (@).
+
+## Can't upload 3D content
+
+If you can't upload your custom 3D parts, enable Guides to work in the background.
+
+- For Windows 10: Go to **Settings** > **Apps & features** > **Dynamics 365 Guides** and select **Advanced options**. Turn on **Background apps**.
+
+- For Windows 11: Go to **Settings** > **Apps** > **Installed apps** > **Dynamics 365 Guides** and select **Advanced options**. For **Let this app run in background**, select **Power optimized (recommended)**. If you still can't import, select **Always**.
 
 ## 3D content and media are overwritten if you upload new content that has the same name
 
