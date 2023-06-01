@@ -29,7 +29,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
     ![Screenshot highlighting Meetings button.](media/calling-meetings-2.JPG "Screenshot highlighting Meetings button.")
 
-    The Meetings window opens to the current day so you can see all of your meetings for that day.
+    The Meeting window opens to the current day so you can see all of your meetings for that day.
 
     ![Screenshot of calendar in Meetings window.](media/calling-meetings-4.JPG "Screenshot of calendar in Meetings window.")
 
