@@ -15,7 +15,7 @@ When you're working in Dynamics 365 Guides on HoloLens, you can make or receive 
 
 ## Start a one-to-one call
 
-Start a call from your HoloLens. See [Types of calls](calling-concepts.md) for more information.
+Start a call from your HoloLens. See [types of calls](calling-concepts.md) for more information.
 
 ### Start a one-to-one call with a Teams contact in your organization
 
