@@ -15,7 +15,7 @@ When you're working in Dynamics 365 Guides on HoloLens, you can make or receive 
 
 ## Start a one-to-one call
 
-Start a call from your HoloLens. See [Types of calls](calling-concepts.md) for more information.
+Start a call from your HoloLens. For more information, see [Types of calls](calling-concepts.md).
 
 ### Start a one-to-one call with a Teams contact in your organization
 
@@ -23,13 +23,13 @@ Start a call from your HoloLens. See [Types of calls](calling-concepts.md) for m
 
    :::image type="content" source="media/calling-meetings-1.JPG" alt-text="Screenshot of Teams button on Main menu.":::
 
-1. Do one of the following:
+1. Perform one of the following actions:
 
     - If the contact you want to call is listed in the **Recent** list, select the contact.
 
     - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box.
 
-      :::image type="content" source="media/calling-start-call-1.JPG" alt-text="Screenshot of Recent list with Search box below and holographic keyboard displayed.":::
+      :::image type="content" source="media/calling-start-call-1.JPG" alt-text="Screenshot of Recent list with Search box and holographic keyboard displayed.":::
 
 1. In the window that appears, choose whether you want video on or off and then select the **Phone** button to call the contact.
 
@@ -38,7 +38,7 @@ Start a call from your HoloLens. See [Types of calls](calling-concepts.md) for m
 
    <!---   ![Screenshot of call details screen.](media/calling-start-call-2.JPG "Screenshot of call details screen.") --->
 
-    You'll see the contact's video feed, activity controls, calling controls, and the **Annotate** toolbar. The green indicator below the activity controls shows that you're on a call with that contact. This is useful as a reminder in case you select a different type of activity, such as opening a guide or file.
+    You see the contact's video feed, activity controls, calling controls, and the **Annotate** toolbar. The green indicator below the activity controls shows that you're on a call with that contact. The green indicator is a useful reminder in case you select a different type of activity, such as opening a guide or file.
 
     ![Screenshot of video feed, controls, and Annotate toolbar.](media/calling-start-call-3.png "Screenshot of video feed, controls, and Annotate toolbar.")
 
@@ -47,7 +47,7 @@ Start a call from your HoloLens. See [Types of calls](calling-concepts.md) for m
 
 ### Start a one-to-one call with a Teams contact outside your organization
 
-You can search for and call a Teams contact in another organization if your organization is federated with that organization. To call a federated contact, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Microphone** button if you prefer to use your voice). You won't see any search results if you enter just a name or a partial email address.
+You can search for and call a Teams contact in another organization if your organization is federated with that organization. To call a federated contact, open Dynamics 365 Guides, select **Search**, and then use the holographic keyboard to enter their **full email address** (or use the **Microphone** button if you prefer to use your voice). You don't see any search results if you enter just a name or a partial email address.
 
 After you call a federated contact, they appear in your recent contacts list, so you don't have to search for that contact again.
 
@@ -58,7 +58,7 @@ After you call a federated contact, they appear in your recent contacts list, so
 
 A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user or Dynamics 365 Remote Assist mobile user. For more information, see [Group calls](calling-concepts.md#group-calls).
 
-1. Start by calling one person as described above for a one-to-one call, and then select the **Open participants** button (or say "Guides, Open participants").
+1. Call one person for a one-to-one call, and then select the **Open participants** button (or say "Guides, Open participants").
 
     ![Screenshot of one-to-one call with Open participants button highlighted.](media/calling-start-call-4.png "Screenshot of one-to-one call with Open participants button highlighted.")
 
@@ -68,7 +68,7 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
     ![Screenshot of right side of screen with Participants button highlighted.](media/calling-start-call-5.png "Screenshot of right side of screen with Participants button highlighted.")
 
-1. Do one of the following:
+1. Perform one of the following actions:
 
     - If the contact you want to add is listed in the **Recent** list, select the contact's tile, and then select **Show video**.
 
@@ -97,7 +97,7 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
 ## Receive a call
 
-When working in Guides, a notification displays when you receive a call from an individual, a group, or from a meeting in progress. You can:
+When you're working in Guides, a notification displays when you receive a call from an individual, a group, or from a meeting in progress. You can:
 
 - Select **Video** or say "Guides, Video" to accept the call with your video on, showing the remote collaborators your view.
 
@@ -105,7 +105,7 @@ When working in Guides, a notification displays when you receive a call from an 
 
 - Select **Ignore** or say "Guides, Ignore" to decline the call.
 
-If you are already in a call or meeting in Guides and receive another call, the new call is automatically declined.
+If you're already in a call or meeting in Guides and receive another call, the new call is automatically declined.
 
 > [!IMPORTANT]
 > If both Guides and Remote Assist are installed, you might see conflicting notifications from both apps. We recommend you turn off notifications from Remote Assist. For more information, see [HoloLens users have trouble with notifications when receiving a call in Guides](known-issues-hololens-app.md#hololens-users-have-trouble-with-notifications-when-receiving-a-call-in-guides).
