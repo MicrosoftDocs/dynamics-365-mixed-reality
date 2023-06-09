@@ -29,7 +29,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ### Feature
 
-• HoloLens operators can <a href="/dynamics365/mixed-reality/guides/calling-photos" target="_blank">share photos from their device library</a> directly with Teams users in chat.
+- HoloLens operators can <a href="/dynamics365/mixed-reality/guides/calling-photos" target="_blank">share photos from their device library</a> directly with Teams users in chat.
 
 ## May 2, 2023
 
