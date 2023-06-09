@@ -97,7 +97,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Video On/Video Off" | Turn video on or off. |
+| 1 | "Video on" or "Video off" | Turn video on or off. |
 | 2 | "Start call" | Call the selected contact. |
 | 3 | "Back" | Go back to the contact list and cancel the call. |
     
@@ -107,15 +107,15 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1| "Video on" or "Video off" | Turn the video camera on or off. |
-| 2| "Mic on" or "Mic off" | Turn the audio on or off. |
+| 1 | "Video on" or "Video off" | Turn video on or off. |
+| 2 | "Mic on" or "Mic off" | Turn audio on or off. |
 | 3 | "Record call" or "Stop recording" | Start recording the call or stop recording the call. |
 | 4 | "End call" | End the call and minimize the **Main** menu. |
 | 5 | "Open participants" or "Close participants" | Display or hide the active participants tiles (right side of video feed). |
-| 6 | "Open chat" or "close chat"| Open or close the **Chat** window (right side of video feed). |
-| 7 | "Inking on" or "Inking off"| Select the **Direct ink** tool or turn off the **Direct ink** tool. |
-| 8 | "Drawing on" or "Drawing off"| Select the **Far-field ink** tool or turn off the **Far-field ink** tool. |
-| 9 | "Select color", and then say one of these colors: "blue", "gray", "green", "red", "yellow"| Select the **Color** tool, and then apply the selected color to the ink. |
+| 6 | "Open chat" or "Close chat" | Open or close the **Chat** window (right side of video feed). |
+| 7 | "Inking on" or "Inking off" | Select the **Direct ink** tool or turn off the **Direct ink** tool. |
+| 8 | "Drawing on" or "Drawing off" | Select the **Far-field ink** tool or turn off the **Far-field ink** tool. |
+| 9 | "Select color," and then say one of these colors: "blue", "gray", "green", "red", or "yellow" | Select the **Color** tool and apply the selected color to the ink. |
 | 10 | "Undo" | Undo the latest action. |
 | 11 | "Delete all" | Delete all annotations. |
 | 12 | "Add participants" | Display the holographic keyboard to search for contacts. |
@@ -129,7 +129,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
     
 | Number in screenshot | Say this | To do this |
 |---|---|---|
-| 1 | "Video On/Video Off" | Turn video on or off. |
+| 1 | "Video on" or "Video off" | Turn video on or off. |
 | 2 | "Join meeting" | Join the meeting. |
 | 3 | "Back" | Go back to the contact list and leave the meeting. |
 
