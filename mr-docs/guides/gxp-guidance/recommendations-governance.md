@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Dynamics 365 Guides in GxP regulated industries overview
 
-Production companies within regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. [Microsoft HoloLens](/hololens) (HoloLens) with the software [Microsoft Dynamics 365 Guides](../index.md) (Guides) is an excellent example of such digital technology.
+Production companies within regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. [Microsoft HoloLens](/hololens) (HoloLens) with the software [Microsoft Dynamics 365 Guides](../overview.md) (Guides) is an excellent example of such digital technology.
 
 However, complying with Good {industry} Practice (GxP) protocols is not an easy task. It requires resources, expertise, training, and coordination among different teams and departments. It also poses significant challenges regarding efficiency, productivity, innovation, and competitiveness. For example, some of the common issues that pharmaceutical manufacturers face when following GxP protocols are human errors and inconsistencies, lack of visibility and collaboration, and inflexibility and inefficiency.
 

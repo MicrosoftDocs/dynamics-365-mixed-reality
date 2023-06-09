@@ -1,0 +1,165 @@
+### YamlMime:Hub
+
+title:  Microsoft Dynamics 365 Guides documentation # < 60 chars
+summary: Discover how to make the most out of Dynamics 365 Guides with online training courses, docs, and videos covering product capabilities and how-to articles. Learn how to use Dynamics 365 Guides, a mixed-reality application for Microsoft HoloLens, that helps operators learn during the flow of work by providing holographic instructions when and where they're needed.
+brand: dynamics
+
+metadata:
+  title: Dynamics 365 Guides documentation 
+  description: Dynamics 365 Guides is a mixed-reality application for Microsoft HoloLens that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # Required; product description that is displayed in search results. < 160 chars. 
+  ms.topic: hub-page 
+  author: v-wendysmith 
+  ms.author: v-wendysmith 
+  ms.date: 05/22/2023 
+  ms.custom: bap-template
+  hide_bc: true
+
+highlightedContent:
+
+  items:
+    # Card
+    - title: Welcome to Dynamics 365 Guides
+      itemType: get-started
+      url: overview.md
+    # Card
+    - title: What's new
+      itemType: whats-new
+      url: new.md
+    # Card
+    - title: Training
+      itemType: training
+      url: /training/paths/work-dynamics-365-guides/
+    # Card
+    - title: Troubleshoot
+      itemType: concept
+      url: known-issues.md
+      
+additionalContent: 
+  sections:
+  - title: Implement Guides
+    items:
+    - title: Try, buy, and install
+      links: 
+      - url: trial-signup.md
+        text: Sign up for a free trial
+      - url: setup-step-one.md
+        text: Buy
+      - url: setup.md
+        text: Install
+    - title: Set up 
+      links:
+      - url: add-users.md
+        text: Add users
+      - url: admin-role-types.md
+        text: Assign user roles
+      - url: admin-create-folders.md
+        text: Create folders
+    - title: Guidance 
+      links: 
+      - url: security-compliance.md
+        text: Security and compliance
+      - url: ./gxp-guidance/recommendations-governance.md
+        text: Guides in GxP regulated industries
+      - url: gcc.md
+        text: Guides US Government
+  - title: Administer Guides
+    items:
+    - title: Administer
+      links:
+      - url: migrate.md
+        text: Migrate content
+      - url: upgrade.md
+        text: Upgrade Guides
+      - url: admin-share-guide.md
+        text: Share a guide
+    - title: Enable or disable settings
+      links: 
+      - url: admin-deactivate-guide.md
+        text: Activate or deactivate a guide
+      - url: admin-enable-calls.md
+        text: Enable or disable calls
+      - url: admin-enable-object-anchors.md
+        text: Enable or disable Object Anchors
+    - title: Integrate with other apps
+      links: 
+      - url: field-service.md
+        text: Integrate with Dynamics 365 Field Service
+      - url: admin-connect-field-service-mobile.md
+        text: Integrate with Field Service Mobile
+      - url: admin-integrate-asset-management.md
+        text: Integrate with Dynamics 365 Supply Chain Management
+
+  - title: Use Guides
+    items:
+    - title: Author a guide (PC)
+      links:
+      - url: pc-app-overview.md
+        text: Authoring overview
+      - url: create-guide.md
+        text: Create a guide
+      - url: pc-app-anchor.md
+        text: Anchor your guide
+      - url: structure-guide.md
+        text: Structure your guide
+    - title: Author a guide (HoloLens)
+      links:
+      - url: hololens-app-overview.md
+        text: Authoring overview
+      - url: hololens-app-calibrate.md
+        text: Calibrate your HoloLens
+      - url: hololens-app-place-holograms.md
+        text: Work with holograms
+      - url: authoring-gestures-hl2.md
+        text: Authoring gestures
+    - title: Use 3D models
+      links:
+      - url: 3d-content-guidelines/index.md
+        text: Overview
+      - url: /3d-content-guidelines/convert-models.md
+        text: Convert your 3D models
+      - url: /3d-content-guidelines/optimize-models.md
+        text: Optimize your 3D models
+      - url: 3d-content-guidelines/tutorials-overview.md
+        text: Tutorials
+    - title: Operate a guide
+      links:
+      - url: main-menu.md
+        text: Main menu overview
+      - url: find-guide.md
+        text: Open a guide
+      - url: operator-step-card-orientation.md
+        text: Step cards overview
+      - url: operator-gestures-hl2.md
+        text: Operating gestures
+    - title: Collaborate with Teams users
+      links:
+      - url: calling-teams-users.md
+        text: Teams collaboration features
+      - url: calling-start-call.md
+        text: Call a remote collaborator
+      - url: calling-meetings.md
+        text: Join a scheduled meeting
+      - url: calling-annotations.md
+        text: Make annotations
+    - title: Analyze guide usage
+      links:
+      - url: analytics-overview.md
+        text: Overview
+      - url: analytics-guide.md
+        text: Guides Analytics Power BI templates
+      - url: analytics-ga-reports.md
+        text: Guides Analytics reports
+
+  - title: Related products
+    items:
+        # Card
+        
+        - title: Dynamics 365 Field Service
+          summary: Enable Field Service customers to attach guides to Field Service tasks.
+          url: field-service.md
+        - title: Dynamics 365 Remote Assist
+          summary: Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist.
+          url: /remote-assist/ra-overview
+        - title: Dynamics 365 Supply Chain Management
+          summary: First-line workers can benefit from mixed-reality guides in areas such as assembly, service, operations, certification, and safety as well as asset management roles.
+          url: admin-integrate-asset-management.md

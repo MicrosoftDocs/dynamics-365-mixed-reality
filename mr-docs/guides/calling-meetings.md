@@ -39,7 +39,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
     > Guest users participating on a call cannot access the default calendar for their home organization. They need to sign in to their home organization to access their default calendar.
 
     - To change to a different day, select the day at the top of the screen.
-    - To switch to a different week, use the arrows in the upper right-corner of the screen.
+    - To switch to a different week, use the arrows in the upper-right corner of the screen.
     - To go back to the current day at any time, select **Today** at the top of the screen.
 
 1. To open a specific meeting, select the meeting on the calendar. In the window that appears, you see the meeting details, including the meeting date and time, meeting name, and organizer.
@@ -55,13 +55,13 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
 ## Add a participant from your organization to the meeting
 
-To add a participant from your organization that wasn't included in the original invite:
+To add a participant from your organization who wasn't included in the original invite:
 
 1. Select the **Open participants** button.
 
 1. In the participants area (to the right of the video feed), select the **Add participants** button. The **Recent** list opens.
 
-    ![Screenshot highlighting Open Participants button.](media/calling-start-call-4.png "Screenshot highlighting Open Participants button and Add Participants button.")
+    ![Screenshot highlighting Open participants button.](media/calling-start-call-4.png "Screenshot highlighting Open Participants button and Add Participants button.")
 
 1. Perform one of the following actions:
 
@@ -78,14 +78,14 @@ To add a participant from your organization that wasn't included in the original
 
 If a participant wants to join the meeting, but they're not part of your organization, a notification appears at the top of the Meeting window to let you know that the participant is waiting in the lobby. A **Participants** button with a red dot (showing action required) appears in the bottom-right corner of the Meeting window.
 
-![Screenshot showing notification that someone is waiting in the Lobby.](media/calling-meetings-10.png "Screenshot showing notification that someone is waiting in the lobby.")
+![Screenshot showing notification that someone is waiting in the lobby.](media/calling-meetings-10.png "Screenshot showing notification that someone is waiting in the lobby.")
 
 To admit or decline the participant:
 
 - Select the **Open participants** button below the video feed to display the participant tiles to the right of the video feed. In the first participant tile, select **Admit** or **Decline**.
 
 > [!NOTE]
-> The meeting organizer can decide who is admitted into a meeting directly and who has to wait for someone to admit them. [Learn more about choosing who can bypass the lobby](https://support.microsoft.com/en-us/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e).
+> The meeting organizer can decide who is admitted into a meeting directly and who has to wait for someone to admit them. [Learn more about choosing who can bypass the lobby.](https://support.microsoft.com/en-us/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e)
 
 ## Schedule and join a meeting from Teams desktop (PC or Mac)
 

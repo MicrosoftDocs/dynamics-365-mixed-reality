@@ -1,20 +1,24 @@
-# Dynamics 365 Guides
-## [Overview of Dynamics 365 Guides](index.md)
+# Dynamics 365 Guides documentation
+## [Dynamics 365 Guides documentation](index.yml)
 
-## What's new
-### [What's new](new.md)
-### [Version history](version-history.md)
+## [Welcome to Dynamics 365 Guides](overview.md)
+
 ## Get started
 ### Sign up for a free trial
 #### [How to sign up](trial-signup.md)
 #### [Trial FAQ](trial-faq.md)
 ### [Dynamics 365 Remote Assist features in Guides 8.0](ra-features-in-guides-8.md)
 ### [Get started](get-started.md)
-### [Glossary of terms](glossary.md)
-### [How-to videos](videos.md)
+### [How-to-videos](videos.md)
+
+## What's new
+### [What's new](new.md)
+### [Version history](version-history.md)
+
 
 ## Set up and administer Dynamics 365 Guides
 ### Set up Dynamics 365 Guides or upgrade the solution
+#### [Installation overview](setup.md)
 #### [1: Buy a subscription](setup-step-one.md)
 #### [2: Install the solution](setup-step-two.md)
 #### [3: Install the apps](setup-step-three.md)
@@ -180,7 +184,7 @@
 
 ## Advanced topics
 ### Convert 3D models to use as holograms
-#### [Overview of converting 3D models](3d-content-guidelines/index.md)
+#### [Overview of converting 3D models](3d-content-guidelines/overview.md)
 #### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
 #### [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
 #### [Best practices for real-time 3D models](3d-content-guidelines/best-practices.md)

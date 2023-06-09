@@ -143,7 +143,7 @@ If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one
 
 After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
-- [Dynamics 365 Guides](../index.md)
+- [Dynamics 365 Guides](../overview.md)
 
 - [Power Apps](/powerapps/maker/canvas-apps/mixed-reality-overview)
 

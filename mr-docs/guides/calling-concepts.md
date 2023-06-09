@@ -14,12 +14,12 @@ Dynamics 365 Guides supports the following types of calls:
 
 - **One-to-one call**. A [one-to-one call](calling-start-call.md#start-a-one-to-one-call) includes two participants. For example, if you need help with a machine that you're repairing, start a one-to-one call with a remote expert.
 
-- **Group call**. A [group call](calling-start-call.md#start-a-group-call) includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, any call participant can add the third person to form a group call.
+- **Group call**. A [group call](calling-start-call.md#start-a-group-call) includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, either call participant can add the third person to form a group call.
 
 - **Meeting**. A meeting is a call scheduled through Teams or Outlook. Meetings can include any number of participants. For example, if you want to have a weekly inspection with your team, create a meeting so that everyone receives notifications about the meeting and can [join the meeting](calling-meetings.md).
 
 > [!NOTE]
-> An administrator can remove the ability for a Dynamics 365 Guides user to share outgoing video in a call. In this case, the remote collaborator joins the call with audio only. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
+> An administrator can remove the ability for a Dynamics 365 Guides user to share outgoing video in a call. In this case, the remote collaborator joins the call with audio only. [Learn more about Teams policies supported by Dynamics 365 Guides.](admin-teams-policies.md)
 
 ## Who can collaborate on a call?
 
@@ -38,7 +38,7 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
 - Multiple HoloLens users can collaborate on the same Dynamics 365 Guides call.
 
-- Any Teams desktop user can choose any HoloLens user's space to annotate on if there is more than one HoloLens user.
+- Any Teams desktop user can choose any HoloLens user's space to annotate on if there's more than one HoloLens user.
 
   > [!NOTE]
   > A Teams mobile user cannot annotate in a group call.
@@ -53,7 +53,7 @@ A Dynamics 365 Guides user cannot spotlight anyone else on the call, including t
 
 ## Outgoing video quality is adjusted if the HoloLens device gets too hot
 
-If you're on a longer call, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Guides gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Guides automatically adjusts video quality](calling-hololens-thermal-adjusting.md)
+If you're on a longer call, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Guides gradually reduces outgoing video quality. If this happens, you'll see a series of messages to let you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Guides automatically adjusts video quality.](calling-hololens-thermal-adjusting.md)
 
 ## Next steps
 

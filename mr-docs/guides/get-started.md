@@ -6,7 +6,7 @@ ms.date: 10/17/2022
 ms.topic: article
 title: Get started with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
-ms.custom: "intro-internal"
+ms.collection: get-started
 ---
 
 # Get started with Dynamics 365 Guides
@@ -28,7 +28,7 @@ If you're ready to get started with guide authoring, check out the following ste
 
 Use these pages to get a quick overview of the product and the guide-authoring process:
 
-- [Overview of Dynamics 365 Guides](index.md)
+- [Overview of Dynamics 365 Guides](overview.md)
 - [Authoring overview](authoring-overview.md)
 - [How to create a great mixed-reality guide](great-guide.md)
 - [Glossary of terms](glossary.md)

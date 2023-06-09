@@ -157,133 +157,138 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/guides/3d-content-guidelines/index.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/overview",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/import-tool/3ds-max.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/3ds-max",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/agisoft-metashape.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/agisoft-metashape",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/autodesk-recap-photo.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/autodesk-recap-photo",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/best-practices.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/best-practices",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/blender.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/blender",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/convert-models.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/convert-models",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/houdini-point-cloud.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini-point-cloud",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/houdini.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/import-tool.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/install.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/inventor.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/layout.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/optimize-models.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/pixyz-studio.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/pixyz-studio",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/requirements.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/solidworks.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/try-import-tool-free.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/tutorials-overview.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/3d-content-guidelines/tutorials-overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/layout/buy-and-deploy-layout.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/layout/faq.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/layout/import-tool.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/layout/index.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/layout/media.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/layout/requirements.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/layout/user-guide.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/layout/videos.md",
-      "redirect_url": "/dynamics365/mixed-reality/guides/index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
 
@@ -304,7 +309,7 @@
     },
     {
       "source_path": "mr-docs/guides/public-preview-transition.md",
-      "redirect_url": "index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
@@ -339,17 +344,17 @@
     },
     {
       "source_path": "mr-docs/guides/windows-device-portal.md",
-      "redirect_url": "index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/guides/before-you-start.md",
-      "redirect_url": "index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/import-tool/guides.md",
-      "redirect_url": "index",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     },
     {
@@ -645,6 +650,16 @@
     {
       "source_path": "mr-docs/remote-assist/troubleshoot-field-service.md",
       "redirect_url": "/dynamics365/field-service/remote-assist-hololens",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/index.yml",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/new-and-planned-features",
+      "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
     }
   ]
