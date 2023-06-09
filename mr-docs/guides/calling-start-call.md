@@ -25,7 +25,7 @@ Start a call from your HoloLens. For more information, see [Types of calls](call
 
 1. Perform one of the following actions:
 
-    - If the contact you want to call is listed in the **Recent** list, select the contact.
+    - If the contact you want to call displays in the **Recent** list, select the contact.
 
     - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box.
 
@@ -70,7 +70,7 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
 1. Perform one of the following actions:
 
-    - If the contact you want to add is listed in the **Recent** list, select the contact's tile, and then select **Show video**.
+    - If the contact you want to add displays in the **Recent** list, select the contact's tile, and then select **Show video**.
 
     - If the contact isn't listed in the **Recent** list, place your cursor in the **Search** box, and then in the holographic keyboard that appears, enter the person's name or email address. Use the **Microphone** button if you prefer to use your voice to enter the person's name in the **Search** box.
 
