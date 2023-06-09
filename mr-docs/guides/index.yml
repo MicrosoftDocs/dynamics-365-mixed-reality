@@ -115,9 +115,9 @@ additionalContent:
       links:
       - url: 3d-content-guidelines/index.md
         text: Overview
-      - url: /3d-content-guidelines/convert-models.md
+      - url: 3d-content-guidelines/convert-models.md
         text: Convert your 3D models
-      - url: /3d-content-guidelines/optimize-models.md
+      - url: 3d-content-guidelines/optimize-models.md
         text: Optimize your 3D models
       - url: 3d-content-guidelines/tutorials-overview.md
         text: Tutorials
@@ -159,7 +159,7 @@ additionalContent:
           url: field-service.md
         - title: Dynamics 365 Remote Assist
           summary: Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist.
-          url: /remote-assist/ra-overview
+          url: remote-assist/ra-overview
         - title: Dynamics 365 Supply Chain Management
           summary: First-line workers can benefit from mixed-reality guides in areas such as assembly, service, operations, certification, and safety as well as asset management roles.
           url: admin-integrate-asset-management.md
