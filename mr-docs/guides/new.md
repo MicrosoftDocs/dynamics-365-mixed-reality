@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 05/30/2023
+ms.date: 06/09/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -19,13 +19,13 @@ This page provides details about the latest release in the **current wave of fea
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
-## June 6, 2023
+## June 13, 2023
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| TBD |
-|HoloLens app (HoloLens 2 only)| TBD |
-|Solution| TBD  |
+|PC app| 805.2306.6001.0 |
+|HoloLens app (HoloLens 2 only)| 805.2306.6001.0 |
+|Solution| 800.5.0.1  |
 
 ### Feature
 
