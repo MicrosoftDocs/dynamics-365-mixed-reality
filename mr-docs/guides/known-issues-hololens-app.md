@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 ## Teams mobile users can't view or download a photo capture image
 
-Photo capture isn't supported for Teams mobile users. They can view the photo by opening the chat on the Teams desktop.
+Photo capture isn't supported for Teams mobile users. They can view the photo by opening the chat on the Teams desktop app.
 
 ## HoloLens users have trouble with notifications when receiving a call in Guides
 

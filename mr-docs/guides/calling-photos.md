@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Capture and share photos
 
-HoloLens users can take photos at any time and share photos through chat during a call or meeting.
+Dynamics 365 Guides HoloLens users can take photos at any time and share photos through chat during a call or meeting.
 
 ## Take a photo
 
