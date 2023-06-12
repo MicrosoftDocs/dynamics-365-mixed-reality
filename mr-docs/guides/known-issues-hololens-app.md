@@ -10,9 +10,9 @@ ms.reviewer: v-wendysmith
 
 # Known issues with the Dynamics 365 Guides HoloLens app
 
-## Teams mobile users can't view or download a photo capture image
+## Teams mobile users can't view or download photos shared by HoloLens users
 
-Photo capture isn't supported for Teams mobile users. They can view the photo by opening the chat on the Teams desktop app.
+Photos shared by HoloLens users aren't supported for Teams mobile users. Teams mobile users can access the shared photos by opening the chat on the Teams desktop app.
 
 ## HoloLens users have trouble with notifications when receiving a call in Guides
 
