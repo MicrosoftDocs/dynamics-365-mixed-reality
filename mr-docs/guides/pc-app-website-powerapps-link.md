@@ -14,7 +14,7 @@ ms.custom: bap-template
 Create a seamless workflow for operators by adding a website, email, guide, custom app, or Power Apps link to a Step card in Dynamics 365 Guides. If you configure an action link with a Uniform Resource Identifier (URI) scheme, the HoloLens opens the corresponding app or page when an operator activates the link.
 
 - [**Link**](#add-a-link-to-a-step): Add a link to a step so that operators can view and interact with information outside the guide. For example, connect a sequence of guides, open a website, open a page of the Settings app, or open a custom app that has been installed on the device.
-- [**Power Apps link**](#add-a-power-apps-link-to-a-step): Add a Power Apps link to a step. [Power Apps](https://products.office.com/business/microsoft-powerapps) provides low-code tools that teams can use to create custom applications to solve unique business workflows. By combining Guides and Power Apps, you can extend Guides capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a link to an interactive quiz app, an app for re-ordering parts, or an app that provides the latest status on Internet of Things (IoT) sensors.
+- [**Power Apps link**](#add-a-power-apps-link-to-a-step): Add a Power Apps link to a step. [Power Apps](https://products.office.com/business/microsoft-powerapps) provides low-code tools that teams can use to create custom applications to solve unique business workflows. By combining Guides and Power Apps, you can extend Guides capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a link to an interactive quiz app, an app for reordering parts, or an app that provides the latest status on Internet of Things (IoT) sensors.
 
     > [!NOTE]
     > To run Power Apps from Guides, operators need a [Power Apps license](https://powerapps.microsoft.com/pricing/). They must also have [permission](/powerapps/maker/canvas-apps/share-app#share-an-app) to view the app that is created in Power Apps.
@@ -46,7 +46,7 @@ To add a link to a step, you add an action. You can add one action per step. If 
 
 ## Add a Power Apps link to a step
 
-The process of adding a PowerApps link has two steps:
+The process of adding a Power Apps link has two steps:
 
 1. Copy the Power Apps link.
 1. Add the link to a step in the PC app.
