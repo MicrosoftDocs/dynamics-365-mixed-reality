@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 You can join a Microsoft Teams meeting from Dynamics 365 Guides on HoloLens. A [Microsoft Teams meeting](/microsoftteams/quick-start-meetings-live-events) is a meeting **scheduled** with Teams that includes any number of participants.
 
-It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-live-events/what-are-teams-live-events) from Dynamics 365 Guides, but this scenario is not officially supported.  
+It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-live-events/what-are-teams-live-events) from Dynamics 365 Guides, but this scenario isn't officially supported.  
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
 
 1. Look at the palm of your hand to open the **Main** menu, and then select the **Teams** button.
 
-    ![Screenshot of Communications button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Communications button on Main menu.")
+    ![Screenshot of Teams button on Main menu.](media/calling-meetings-1.JPG "Screenshot of Teams button on Main menu.")
 
 1. Select **Meetings**.
 
@@ -42,7 +42,7 @@ It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-
     - To switch to a different week, use the arrows in the upper-right corner of the screen.
     - To go back to the current day at any time, select **Today** at the top of the screen.
 
-1. To open a specific meeting, select the meeting on the calendar. In the window that appears, you'll see the meeting details, including the meeting date and time, meeting name, and organizer.
+1. To open a specific meeting, select the meeting on the calendar. In the window that appears, you see the meeting details, including the meeting date and time, meeting name, and organizer.
 
 1. Choose whether you want video on or off and then select **Join** to join the meeting.
 
@@ -59,11 +59,11 @@ To add a participant from your organization who wasn't included in the original 
 
 1. Select the **Open participants** button.
 
-1. In the participants area (to the right of the video feed), select the **Add participants** button. This opens the **Recent** list.
+1. In the participants area (to the right of the video feed), select the **Add participants** button. The **Recent** list opens.
 
     ![Screenshot highlighting Open participants button.](media/calling-start-call-4.png "Screenshot highlighting Open Participants button and Add Participants button.")
 
-1. Do one of the following:
+1. Perform one of the following actions:
 
     - If the contact you want to add is listed in the **Recent** list, select the contact's tile, and then select **Show video**.
 
