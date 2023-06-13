@@ -3,23 +3,24 @@ title: Start a chat and share a file in Dynamics 365 Guides on HoloLens
 author: Mamaylya
 description: Learn how to chat and share files between Dynamics 365 Guides users and Teams users
 ms.author: mamaylya
-ms.date: 04/03/2023
-ms.topic: article
+ms.date: 05/30/2023
+ms.topic: how-to
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Start a chat and share a file in Dynamics 365 Guides on HoloLens
 
-When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or more remote collaborators on Microsoft Teams desktop, Microsoft Teams mobile, or Dynamics 365 Remote Assist, call participants can chat with each other, and the remote collaborator(s) on Teams or Dynamics 365 Remote Assist can share files or page links in the **Chat** window. This is particularly useful in service-related scenarios where the remote expert wants to share a diagram or some other illustration to help the Dynamics 365 Guides user diagnose and/or solve a problem. Participants can also share deep links to guides in a chat. For example, a Dynamics 365 Guides author might want to collaborate with a remote user by [sharing a direct link to a specific guide or even a step within a guide](pc-app-copy-link-guide-step.md).  
+When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or more remote collaborators on Microsoft Teams desktop, Microsoft Teams mobile, or Dynamics 365 Remote Assist, call participants can chat with each other, and the remote collaborator(s) on Teams or Dynamics 365 Remote Assist can share files or page links in the **Chat** window. This is particularly useful in service-related scenarios where the remote expert wants to share a diagram or some other illustration to help the Dynamics 365 Guides user diagnose and/or solve a problem. Participants can also share deep links to guides in a chat. For example, a Dynamics 365 Guides author might want to collaborate with a remote user by [sharing a direct link to a specific guide or even a step within a guide](pc-app-copy-link-guide-step.md).
 
 > [!NOTE]
-> An adminstrator can remove the ability for a user to chat by modifying a Microsoft Teams policy. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md).
+> An administrator can remove the ability for a user to chat by modifying a Microsoft Teams policy. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md).
 >
 > File sharing for guest and external users is determined by Teams, OneDrive for Business, and SharePoint settings. [Learn more about guest access](admin-add-guest-user.md).
 
 ## Start a chat from Dynamics 365 Guides
 
-1. Select the **Chat** button to start a chat.
+1. From the **Main** menu, select **Teams**. Then, select the **Chat** button to start a chat.
 
     > [!NOTE]
     > If you receive a chat invite from a remote collaborator, a red circle appears on the **Chat** button and the **Chat** button animates.
@@ -28,7 +29,7 @@ When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or m
 
     A new **Chat** window appears to the right of the video feed.
 
-1. To respond to the chat, place your gaze cursor over the box that says "Type a new message". 
+1. To respond to the chat, place your gaze cursor over the box that says "Type a new message".
 
     ![Screenshot highlighting where to enter message.](media/calling-chat-file-sharing-3.png "Screenshot highlighting where to enter message")
 
@@ -36,14 +37,14 @@ When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or m
 
     ![Screenshot showing holographic keyboard with Microphone button highlighted for the dictation option.](media/calling-chat-holographic-keyboard.png "Screenshot showing holographic keyboard with Microphone button highlighted for the dictation option")
 
-    If a remote collaborator shares a file or page link, the file or page automatically opens in a new window in your space. You can move this window wherever you want or size it directly with your hands. 
+    If a remote collaborator shares a file or page link, the file or page automatically opens in a new window in your space. You can move this window wherever you want or size it directly with your hands.
 
    ![Screenshot showing example file shared with the user.](media/calling-chat-file-sharing-5.png "Screenshot showing example file shared with the user")
 
    The remote collaborator can also paste a link into the **Chat** window to share a file.  
 
    > [!NOTE]
-   > A remote collaborator can share a file with a Dynamics 365 Guides user, but the Dynamics 365 Guides user cannot share a file with other participants on the call.
+   > A remote collaborator can share a file with a Dynamics 365 Guides user, but the Dynamics 365 Guides user cannot share a file with other participants on the call. A Guides user can [share photos from a HoloLens](calling-photos.md).
 
 ## Start a chat from Teams 
 
@@ -145,15 +146,11 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 1. Send the photo.
 
-## See also
+## Next steps
 
 - [Call a remote collaborator](calling-start-call.md)
 - [Join a scheduled meeting](calling-meetings.md)
-- [Record a call](calling-record-call.md)
-- [Screen and file sharing](calling-screen-sharing.md)
 - [Annotations](calling-annotations.md)
 - [Access OneDrive files](onedrive-files.md)
-- [Teams users capabilities](calling-teams-users.md)
-- [Where call data is stored](call-logging.md)
 
-    
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
