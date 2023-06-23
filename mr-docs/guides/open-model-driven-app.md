@@ -6,13 +6,14 @@ ms.date: 06/22/2023
 ms.topic: how-to
 title: Open the model-driven app in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Open the model-driven app in Dynamics 365 Guides
 
 When you create a guide in the PC authoring app, the content is stored in Microsoft Dataverse. The Guides model-driven app enables you to access and view guide content quickly from Microsoft Dataverse.
 
-[!INCLUDE [Model-driven app caution](/includes/model-driven-app-caution.md)]
+[!INCLUDE [Model-driven app caution](../includes/model-driven-app-caution.md)]
 
 ## Prerequisites
 
