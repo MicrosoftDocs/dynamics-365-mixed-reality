@@ -766,7 +766,7 @@ Fix for video freezing in the HoloLens app
 - Fix for network error “HTTP 401 TeamsChatService.GetMessagesAsync”.
 -	Fix for application not being responsive during launch.
 -	Improvement for the recent contacts list.
--	Fix for not being able to find contacts in some countries, such as Egypt.
+-	Fix for not being able to find contacts in some countries/regions, such as Egypt.
 -	Improvement for the voicemail card.
 -	Localization improvements.
 -	Accessibility improvements and fixes.

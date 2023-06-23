@@ -53,7 +53,7 @@ Individuals without the Dynamics 365 Remote Assist app can join a [Dynamics 365 
 | Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with Dynamics 365 Remote Assist on [supported devices](#supported-devices). |
 
 > [!Note] 
-> Dynamics 365 Remote Assist may not be available in your country. For more information, see [Dynamics 365 Remote Assist mobile availability](./mobile-app/faq-mobile.md).
+> Dynamics 365 Remote Assist may not be available in your country/region. For more information, see [Dynamics 365 Remote Assist mobile availability](./mobile-app/faq-mobile.md).
 
 ## Licensing and product requirements per role
 

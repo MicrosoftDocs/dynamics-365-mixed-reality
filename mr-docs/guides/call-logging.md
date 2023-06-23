@@ -55,7 +55,7 @@ The following data is updated soon (within 2-5 seconds) after the start of the c
 
 - City (the city where the call was placed)
 - StateOrProvince
-- Country
+- Country/Region
 - Latitude
 - Longitude 
 
