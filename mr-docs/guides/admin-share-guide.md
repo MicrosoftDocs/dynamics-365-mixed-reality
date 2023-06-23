@@ -42,4 +42,3 @@ You can share a guide with other users if you're an administrator or if you have
    ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
-
