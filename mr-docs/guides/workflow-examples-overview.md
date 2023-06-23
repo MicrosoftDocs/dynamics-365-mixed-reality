@@ -17,8 +17,8 @@ When an author creates a guide using the PC and HoloLens apps, all the data requ
 
 To get an idea for the types of workflows that you can create with Power Automate and Dynamics 365 Guides, check out these examples:
 
-- [Example 1: Automatically generate PC and HoloLens apps deeplinks to use in an Excel Link Manager](workflow-example-1.md)
+- [Example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
 - [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
-- [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
+- [Example 3: Collect response data for a nonlinear guide](workflow-example-3.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
