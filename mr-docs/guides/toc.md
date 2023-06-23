@@ -86,7 +86,9 @@
 #### [Use annotations](calling-annotations.md)
 #### [Access OneDrive files](onedrive-files.md)
 #### [Teams users capabilities](calling-teams-users.md)
-#### [View and access call data](call-logging.md)
+#### Call data
+##### [Call data stored by Dynamics 365 Guides](call-data-logs.md)
+##### [View and access call data](call-logging.md)
 #### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
 
 ### Author, operate, and analyze guides

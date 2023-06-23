@@ -6,6 +6,7 @@ ms.date: 06/22/2023
 ms.topic: how-to
 title: Add an image or video to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Add an image or video to a step in the Dynamics 365 Guides PC app
@@ -32,7 +33,7 @@ When you add a video to a step, the thumbnail for the video is automatically cre
 
 1. [Open the Guides model-driven app](open-model-driven-app.md).
 
-1. In the Guides model-driven app, open the video that has the thumbnail you want to replace.
+1. Open the video that has the thumbnail you want to replace.
 
     ![Screen shot of video in model-driven app.](media/model-driven-app-video.PNG "Screen shot of video in model-driven app")
 

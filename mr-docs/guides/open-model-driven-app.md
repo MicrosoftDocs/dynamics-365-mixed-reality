@@ -12,8 +12,7 @@ ms.reviewer: v-wendysmith
 
 When you create a guide in the PC authoring app, the content is stored in Microsoft Dataverse. The Guides model-driven app enables you to access and view guide content quickly from Microsoft Dataverse.
 
-> [!CAUTION]
-> The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Dynamics 365 Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, guide modification through the model-driven app isn't fully supported unless specifically covered in the Dynamics 365 Guides documentation and should be reserved for experienced Dynamics 365 users who are familiar with Microsoft Dataverse.
+[!INCLUDE [Model-driven app caution](/includes/model-driven-app-caution.md)]
 
 ## Prerequisites
 

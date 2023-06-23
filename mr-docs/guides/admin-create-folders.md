@@ -21,9 +21,11 @@ Folders are useful for managing groups of guides with the same permissions, such
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
+   [!INCLUDE [Model-driven app caution](/includes/model-driven-app-caution.md)]
+
 1. In the left pane, select **Folders** to view all folders created in the instance, and then, at the top of the screen, select **New** to create a new folder.
 
-    ![Folders command highlighted in left pane.](media/folders-command.PNG "Folders command highlighted in left pane")     
+    ![Folders command highlighted in left pane.](media/folders-command.PNG "Folders command highlighted in left pane")
 
 1. In the **New Folder** screen, enter the name and owner of the folder. You can select an existing folder in the **Parent Folder** field, or leave the **Parent Folder** field blank to create a folder at the root level.
 
@@ -33,7 +35,7 @@ Folders are useful for managing groups of guides with the same permissions, such
 
 ## Add a guide to a folder
 
-1. In the left pane, select **Guides**, and then locate the guide you want to add to the folder.    
+1. In the left pane, select **Guides**, and then locate the guide you want to add to the folder.
 
 1. On the **General** tab, in the **Parent Folder** field, enter the parent folder name or search for it.
 

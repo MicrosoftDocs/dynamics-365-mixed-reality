@@ -6,6 +6,7 @@ ms.date: 06/22/2023
 ms.topic: overview
 title: Guides model-driven app overview
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Guides model-driven app overview

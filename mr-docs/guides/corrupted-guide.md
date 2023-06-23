@@ -43,14 +43,16 @@ You can fix a corrupted guide by running a flow in the model-driven app. This fl
 
 1. Wait a few minutes for the flow to complete.
 
+   [!INCLUDE [Model-driven app caution](/includes/model-driven-app-caution.md)]
+
 ## Fix steps in the PC app
 
 The model-driven flow recreates steps in the correct places for steps that:
 
-   - Weren't saved correctly because the **Append to** permission was missing
-   - Were deleted in the model-driven app
+- Weren't saved correctly because the **Append to** permission was missing
+- Were deleted in the model-driven app
 
-   Other guide steps might appear in random positions.
+Other guide steps might appear in random positions.
 
 1. Open the guide in the PC app. Review it for incorrect steps.
 
@@ -59,3 +61,5 @@ The model-driven flow recreates steps in the correct places for steps that:
 1. Add content to any recreated steps.
 
 1. Drag steps to place them in the right order.
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
