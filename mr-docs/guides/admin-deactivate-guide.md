@@ -15,9 +15,8 @@ If [a guide has been deactivated](pc-app-deactivate-guide.md) in Guides, you can
 
 You can also activate, deactivate, or delete specific guide content (video, image, or 3D part).
 
-## Prerequisites
-
-- Guides admin
+  > [!TIP]
+  > If you're an author and want to deactivate a guide, see [deactivate a guide or guide content (video, image, or 3D part)](pc-app-deactivate-guide.md).
 
 ## Activate, deactivate, or delete a guide
 

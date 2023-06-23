@@ -10,7 +10,7 @@ ms.reviewer: v-wendysmith
 
 # Add an image or video to a step in the Dynamics 365 Guides PC app
 
-You can add an image or video in the Dynamics 365 Guides PC app to help an operator with a complex step. For example, add a diagram or a short video to explain a difficult process.
+As an author, add an image or video in the Dynamics 365 Guides PC app to help an operator with a complex step. For example, add a diagram or a short video to explain a difficult process.
 
 > [!NOTE]
 > The PC app converts and resizes videos when they're uploaded to ensure optimal performance on HoloLens. This transcoding process depends on the codecs installed on the PC and errors can occur if codecs are removed from the PC.
