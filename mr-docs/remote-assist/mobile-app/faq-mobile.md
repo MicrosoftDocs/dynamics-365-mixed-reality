@@ -67,9 +67,9 @@ Yes, only in one-to-one calls between Dynamics 365 Remote Assist mobile and Team
 
 No, not at this time.
 
-## What countries is Dynamics 365 Remote Assist mobile supported?
+## What countries/regions is Dynamics 365 Remote Assist mobile supported?
 
-For iOS and Android devices, Dynamics 365 Remote Assist mobile is available in most countries, except for Cuba, Iran, North Korea, Sudan, Syria, and Region of Crimea. 
+For iOS and Android devices, Dynamics 365 Remote Assist mobile is available in most countries/regions, except for Cuba, Iran, North Korea, Sudan, Syria, and Region of Crimea. 
 
 > [!Note]
 > In China, the Dynamics 365 Remote Assist mobile app is only available on iOS devices, and **not** Android devices. Specifically, Dynamics 365 Remote Assist mobile is not available on Vianet 21, it may be available by connecting to a global tenant outside of China where Dynamics 365 Remote Assist mobile is available. We are still working on making Dynamics 365 Remote Assist available on Android devices in China. For more information, contact D365rafb@microsoft.com. 
