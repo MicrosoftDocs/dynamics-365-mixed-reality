@@ -43,8 +43,6 @@ You can fix a corrupted guide by running a flow in the model-driven app. This fl
 
 1. Wait a few minutes for the flow to complete.
 
-   [!INCLUDE [Model-driven app caution](../includes/model-driven-app-caution.md)]
-
 ## Fix steps in the PC app
 
 The model-driven flow recreates steps in the correct places for steps that:

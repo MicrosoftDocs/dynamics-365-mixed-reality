@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Guides model-driven app overview
 ms.author: mamaylya
-ms.date: 06/22/2023
+ms.date: 06/27/2023
 ms.topic: overview
 title: Guides model-driven app overview
 ms.reviewer: v-wendysmith
@@ -33,11 +33,14 @@ If you're an admin or an author for Dynamics 365 Guides, you can use the Guides 
 
 - [View call data stored by Dynamics 365 Guides](call-logging.md)
 
-> [!CAUTION]
-> The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Dynamics 365 Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, guide modification through the model-driven app isn't fully supported unless specifically covered in the Dynamics 365 Guides documentation and should be reserved for experienced Dynamics 365 users who are familiar with Microsoft Dataverse.
+[!INCLUDE [Model-driven app caution](../includes/model-driven-app-caution.md)]
 
 ## Limit access to the model-driven app
 
-The Guides model-driven app is a type of app created in Microsoft Power Apps.  Organizations may limit users who can access the model-driven app, but a user must be able to access the model-driven app to use the Guides HoloLens or PC app.  You can limit access by sharing the app with individual users, or by sharing it with one or more Azure Active Directory Groups. See [Share a model-driven app using Power Apps](/powerapps/maker/model-driven-apps/share-model-driven-app) for detailed steps on either option.
+The Guides model-driven app is a type of app created in Microsoft Power Apps. Organizations may limit users who can access the model-driven app, but a user must be able to access the model-driven app to use the Guides HoloLens or PC app. You can limit access by sharing the app with individual users, or by sharing it with one or more Azure Active Directory Groups. See [Share a model-driven app using Power Apps](/powerapps/maker/model-driven-apps/share-model-driven-app) for detailed steps on either option.
+
+## Next steps
+
+- [Open the model-driven app](open-model-driven-app.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
