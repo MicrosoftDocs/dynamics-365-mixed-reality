@@ -21,7 +21,7 @@ Familiarize yourself with the hardware:
 
 - [Introduction to HoloLens](/hololens/hololens2-hardware)
 - [Choose the right HoloLens edition](/hololens/hololens2-options) – are the devices to be used in standard, regulated, or safety-controlled physical environments?
-- [Procure HoloLens](/hololens/hololens2-purchase) devices – find an authorized reseller that is relevant for your implementation plans and support the countries involved.
+- [Procure HoloLens](/hololens/hololens2-purchase) devices – find an authorized reseller that is relevant for your implementation plans and support the countries/regions involved.
 
 To enroll HoloLens devices, your mobile device management (MDM)/endpoint management specialists must:
 

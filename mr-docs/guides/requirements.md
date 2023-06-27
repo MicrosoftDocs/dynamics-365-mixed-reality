@@ -13,7 +13,7 @@ ms.reviewer: v-wendysmith
 The following table lists technical requirements for deploying and using Dynamics 365 Guides throughout your organization.
 
 > [!Note] 
-> Dynamics 365 Guides might not be available in your country. For more information, see [Dynamics 365 Guides availability](faq.md) and
+> Dynamics 365 Guides might not be available in your country/region. For more information, see [Dynamics 365 Guides availability](faq.md) and
 > [Geographical availability for Power Apps](https://dynamics.microsoft.com/availability-reports/georeport/) (filter the view by **Dynamics 365** > **Operations Apps**, and then scroll the table to see Dynamics 365 Guides availability).
 
 ## Device requirements

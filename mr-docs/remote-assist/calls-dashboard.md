@@ -117,7 +117,7 @@ Let's take a look at the information that's provided by each of the visuals in t
 | Unique callers | Total number of **unique** users that participated in a call from the Dynamics 365 Remote Assist app on HoloLens or the mobile app. This does not include the number of Microsoft Teams participants. |
 | Calls trend | Number of calls made over the selected duration. You can use the drill-down capabilities to see the data by year, month, week, or day. |
 | Call statistics by user | The number of calls made by and time spent in Dynamics 365 Remote Assist calls per user. |
-| Calls by location | Map view of the phone call records, available if the end user has granted permission to share the location from their device. You can use the drill-down capabilities to see the number of calls by country, state or city. |
+| Calls by location | Map view of the phone call records, available if the end user has granted permission to share the location from their device. You can use the drill-down capabilities to see the number of calls by country/region, state or city. |
 | Call log | Details of each phone call record, including call start and end times, owner of the phone call record, direction of the call, time spent by the specific participant in the call, client device type, and location of the call participant if shared. |
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
