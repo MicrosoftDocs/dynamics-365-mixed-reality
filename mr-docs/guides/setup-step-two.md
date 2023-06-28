@@ -138,6 +138,14 @@ The type of environment that you create depends on whether you purchased a [!inc
     > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try to install again, in the **Error details** dialog box, under **How to troubleshoot**, select the **retry installation** link.
     >
     > ![Error details dialog box.](media/failed-solution-install.PNG "Error details dialog box")
+    >
+
+    > [!NOTE]
+    > Some environments may not show the Dynamics 365 Guides in the Dynamics Apps. This can be solved by installing the solution from AppSource
+    >
+    > ![App Source Button](media/install-from-appsource "AppSource button that provides this solution")
+    >
+    > After clicking on install in AppSource, the procedure to install the solution is the same
 
 ## What's next?
 
