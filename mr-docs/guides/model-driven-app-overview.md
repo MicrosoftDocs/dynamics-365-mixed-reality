@@ -17,6 +17,8 @@ If you're an admin or an author for Dynamics 365 Guides, you can use the Guides 
 
 - [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
 
+- [Assign ownership of a guide](admin-access-assign.md)
+
 - [Change a thumbnail for a video associated with a step](pc-app-add-media.md#change-a-video-thumbnail)
 
 - [Create a 3D object collection](workflow-example-2.md)

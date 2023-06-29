@@ -36,7 +36,7 @@ You can also activate, deactivate, or delete specific guide content (video, imag
 
     ![Activate, Deactivate, and Delete buttons.](media/activate-deactivate-delete.PNG "Activate, Deactivate, and Delete buttons")
 
-## Activate, deactivate, or delete specific guide content (video, image, or 3D part) 
+## Activate, deactivate, or delete specific guide content (video, image, or 3D part)
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
