@@ -21,15 +21,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ## July 5, 2023
 
-|Item|Version|
-|-------------------------|--------------------------------|
-|PC app| 805.2306.27001.0 |
-|HoloLens app (HoloLens 2 only)| 805.2306.27001.0 |
-|Solution| 800.5.0.1  |
-
-### Bugs fixed and other improvements
-
-Fixed an issue where the HoloLens app could unexpectedly restart after being put in the background.
+Version 805.2306.27001.0 of the HoloLens app fixed an issue where the HoloLens app could unexpectedly restart after being put in the background.
 
 ## June 13, 2023
 
