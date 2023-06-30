@@ -1,6 +1,6 @@
 ---
 title: Platform qualification and app validation
-description: Learn about qualifying Power Platform and validating the Guides and Power Apps applications.
+description: Learn about qualifying Microsoft Power Platform and validating the Dynamics 365 Guides and Power Apps applications.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -11,13 +11,13 @@ ms.custom: bap-template
 
 # Platform qualification and app validation
 
-Prerequisites for implementing Dynamics 365 Guides in regulated industries:
+Implementation of Dynamics 365 Guides in regulated industries has the following prerequisites:
 
-- Qualify Power Platform
-- Validate the Guides app
-- Validate the Power Apps
+- Qualify Microsoft Power Platform.
+- Validate the Guides app.
+- Validate Power Apps.
 
-The requirements for qualification and validation vary depending on industry. The following section is based on requirements for life science, as this industry demands one of the highest levels of regulatory requirements. You might find that some of the requirements are relevant to your organization despite not being within life science.
+The requirements for qualification and validation vary by industry. This section is based on the requirements for life science, because that industry demands some of the highest levels of regulatory requirements. You might find that some of the requirements are relevant to your organization, even though it isn't in the life science industry.
 
 ## Next steps
 
