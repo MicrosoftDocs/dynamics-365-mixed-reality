@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Dynamics 365 Guides in GxP regulated industries overview
 
-Production companies in regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. One excellent example of such digital technology is the use of [Microsoft HoloLens](/hololens) devices together with the [Dynamics 365 Guides](../overview.md) software.
+Production companies in regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. One excellent example of such digital technology is the use of [HoloLens](/hololens) devices together with the [Dynamics 365 Guides](../overview.md) software.
 
 However, compliance with Good \{industry\} Practice (GxP) protocols isn't easy. It requires resources, expertise, training, and coordination among different teams and departments. It also poses significant challenges for efficiency, productivity, innovation, and competitiveness. For example, some common issues that pharmaceutical manufacturers face when they follow GxP protocols are human errors and inconsistencies, lack of visibility and collaboration, and inflexibility and inefficiency.
 
@@ -42,7 +42,7 @@ Mixed reality (MR) can address the different challenges. MR encompasses both aug
     - Foster creativity and innovation by enabling human operators to use digital prototypes or models to experiment with different scenarios or solutions.
     - Help human operators access relevant information or insights more easily through contextual data or analytics.
 
-Guides effectively replaces paper-based approaches by using [mixed reality](/training/modules/intro-to-mixed-reality) to train or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides that show operators what to do for a task, and where to do it. Therefore, production tasks are completed faster, with fewer errors, and with greater skill retention.
+Guides effectively replaces paper-based approaches by using [MR](/training/modules/intro-to-mixed-reality) to train or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides that show operators what to do for a task, and where to do it. Therefore, production tasks are completed faster, with fewer errors, and with greater skill retention.
 
 [Microsoft Power Platform](https://powerplatform.microsoft.com/what-is-power-platform/) can be used to set up the required governance for Guides. It also helps you technically scale and manage the life cycle of guides in your enterprise.
 
