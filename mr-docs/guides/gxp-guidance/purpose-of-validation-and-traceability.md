@@ -1,4 +1,4 @@
-﻿---
+---
 title: Purpose of validation and traceability
 description: Learn about the reasons for validation and traceability in a regulated industry.
 ms.date: 03/21/2023
@@ -11,77 +11,85 @@ ms.custom: bap-template
 
 # Purpose of validation and traceability
 
-The purpose of validation is to ensure the consistency of any process or system and to make sure it's documented. Having the system validated is a requirement from regulating agencies such as the US Food and Drug Administration (FDA) (specifically for life science organizations). Validation is defined as follows:
+The purpose of validation is to ensure that a process or system is consistent and documented. System validation is a requirement of regulating agencies. For life science organizations, for example, the regulating agencies include the United States Food and Drug Administration (FDA).
 
-"*Confirmation by examination and provision of objective evidence that the particular requirements for a specific intended use can be consistently fulfilled* ([FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=820.3)).
+[FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=820.3) defines *validation* as follows:
 
-"*Establishment of documentary evidence that provides a high degree of assurance that a planned process will be uniformly in accordance with the expected specified results.*" ([The World Health Organization (WHO)](https://www.who.int/teams/health-product-and-policy-standards/standards-and-specifications/norms-and-standards-for-pharmaceuticals/guidelines/production) guidance on the requirements of good manufacturing practices (GMP)).
+> Confirmation by examination and provision of objective evidence that the particular requirements for a specific intended use can be consistently fulfilled.
+
+[The World Health Organization (WHO)](https://www.who.int/teams/health-product-and-policy-standards/standards-and-specifications/norms-and-standards-for-pharmaceuticals/guidelines/production) defines *validation* as follows in its guidance about the requirements for good manufacturing practices (GMP):
+
+> Establishment of documentary evidence that provides a high degree of assurance that a planned process will be uniformly in accordance with the expected specified results.
 
 These definitions have the following elements in common, in accordance with expected results:  
 
-- Generate evidence
+- Generation of evidence
 - Compliance with regulations
-- Fulfill requirements
+- Fulfillment of requirements
 
-Validation of computerized systems is a documented process to ensure the system does exactly what it was designed to do in a consistent and reproducible way. Validation ensures the integrity and security of data processing, product quality, and compliance with regulations that apply to Good {industry} Practice (GxP).  
+Validation of computerized systems is a documented process for ensuring that the system does exactly what it was designed to do in a consistent and reproducible way. Validation ensures the integrity and security of data processing, product quality, and compliance with regulations that apply to Good \{industry\} Practice (GxP).
 
-How to validate a computerized system is described in standard operating procedures (SOP) and guidelines that are created and defined by the regulated industry such as the life science organization. For implementation of the validation process of computer systems, it's useful to view it as **a project** (Good Automated Manufacturing Practice (GAMP) 5).
+The process for validating a computerized system is described in standard operating procedures (SOP) and guidelines that are created and defined by the regulated industry, such as life science organizations. For the validation of computerized systems, it's useful to view implementation of the process as a **project**, as described in the International Society for Pharmaceutical Engineering's (ISPE's) *Good Automated Manufacturing Practice (GAMP) 5: A Risk-Based Approach to Compliant GxP Computerized Systems*.
 
-When starting the project, the high-level plan for the new solution should be in place, and then start the implementation project with the following phases:  
+Before you start the implementation project, a high-level plan for the new solution should be in place. Then start the project by completing the following phases:
 
-- **Planning**: In this phase, the requirements and specifications should be clear enough for an initial risk assessment and ultimately for a correct definition of verification tests (protocols). During this phase, you deliver the validation plan document that defines the entire validation strategy and deliverables. The strategy should be in accordance with the quality management system and policies.
-- **Specification, configuration, and coding**: In this phase, all design specifications are made with the level of detail required by the type of system and its use. Developers choose and use the development methods and models most appropriate to the coding and configuration requirements and based on the approved specifications. All these activities are done in the development environment. In this phase, testing is more focused on verification of the units or features from a developer point of view. Examples of such tests include unit testing, statistic testing of code, and integration testing. Tools can automate these testing activities.
-- **Testing**: This phase confirms that the specifications have been met through inspections and testing of the system. The test activities are done in a prepared and suitable test environment. The test environment must resemble the production environment to ensure that conditions are the same and you don't need to repeat tests in the production environment. The risk should drive the scope of the test effort. Risk analysis can help you understand potential hazards that can have an impact on the product quality, patient safety, or data integrity. Those potential hazards must be mitigated by having controls in place and proof of testing. If there's a high risk somewhere, have appropriate test scenarios to prove that the solution design is without potential failure.
-- **Reporting and release**: In this phase, the system must be acceptable for use in the production environment according to a documented and controlled process. A system validation completion must be prepared at project closure, summarizing the activities undertaken and any deviations there might be from the validation plan. The validation of the system should be completed before release for use.
+- **Planning**: In this phase, the requirements and specifications should be clear enough for an initial risk assessment and, ultimately, for a correct definition of verification tests (protocols). During this phase, you deliver the validation plan document that defines the whole validation strategy and all the deliverables. The strategy should be in accordance with the quality management system (QMS) and policies.
+- **Specification, configuration, and coding**: During this phase, all design specifications are made at the level of detail that is required by the type of system and its use. Developers choose and use the development methods and models that are most appropriate to the coding and configuration requirements and based on the approved specifications. All these activities are done in the development environment. During this phase, testing is more focused on verification of the units or features from a developer perspective. Examples of the testing activities include unit testing, statistic testing of code, and integration testing. Tools can automate these testing activities.
+- **Testing**: This phase confirms that the specifications have been met through inspections and testing of the system. The testing activities are done in a prepared and suitable test environment. The test environment must resemble the production environment to ensure that conditions are the same and that you don't have to repeat tests in the production environment. The risk should drive the scope of the test effort. Risk analysis can help you understand potential hazards that can have an impact on product quality, patient safety, or data integrity. Those potential hazards must be mitigated through controls that are in place and proof of testing. If there is a high risk somewhere, have appropriate test scenarios to prove that the solution design is without potential failure.
+- **Reporting and release**: In this phase, the system must be acceptable for use in the production environment according to a documented and controlled process. At project closure, a system validation completion must be prepared to summarize the activities that were undertaken and any deviations from the validation plan. The validation of the system should be completed before the system is released for use.
 
-A good overall way of illustrating the project phases is the following V-model supported by [GAMP 5 2nd edition](https://ispe.org/publications/guidance-documents/gamp-5-guide-2nd-edition): A Risk-Based Approach to Compliant GxP Computerized Systems.
+The following illustration shows the V-model that is supported by [GAMP 5, 2nd edition](https://ispe.org/publications/guidance-documents/gamp-5-guide-2nd-edition). It provides a good overall way of viewing the project phases.
 
-:::image type="content" source="media/vmodel-gamp5.png" alt-text="Example of project phases using V-model supported by Gamp 5 2nd edition.":::
+:::image type="content" source="media/vmodel-gamp5.png" alt-text="Diagram that shows an example of project phases that use the V-model supported by GAMP 5 2nd edition.":::
 
-The V-model can be viewed not only as the development activities and testing of the system, but also their sequence, their interrelationships, and the validation process of the deliverables applicable to the validated computerized system. You need to keep and maintain interrelationships between requirements, specifications, and tests. This interrelationship is documented in the Traceability Matrix used within regulated areas.  
+The V-model can be viewed not only as the development activities and testing of the system, but also their sequence, their interrelationships, and the validation process of the deliverables that are applicable to the validated computerized system. You must keep and maintain interrelationships between requirements, specifications, and tests. This interrelationship is documented in the Traceability Matrix that is used in regulated areas.
 
 The Traceability Matrix ensures that:
 
-- Requirements are fulfilled by the solution design meaning that each requirement is traced to the functions, controls, configurations, or design elements.
-- Requirements are tested or verified demonstrating the solution design fulfills requirements, as appropriate.
+- Requirements are fulfilled by the solution design. In other words, each requirement is traced to the functions, controls, configurations, or design elements.
+- Requirements are tested or verified to demonstrate that the solution design fulfills requirements, as appropriate.
 
-The benefits of the Traceability Matrix:
+The Traceability Matrix has the following benefits:
 
-- Supports the design review
-- Helps define the scope of the regression testing
-- Provides support during inspection or audit activities
-- Provides support for potential changes
+- It supports the design review.
+- It helps define the scope of the regression testing.
+- It provides support during inspection or audit activities.
+- It provides support for potential changes.
 
 ## Platform qualification
 
-Regulated industries must qualify the Microsoft Power Platform as infrastructure before implementing Guides. To do so, the following tasks are required at a minimum:
+Regulated industries must qualify the Microsoft Power Platform as infrastructure before they implement Guides. Platform qualification requires the following tasks at a minimum:
 
-- Initial Risk Assessment (assess GxP applicability)
-- Vendor Assessment (audit of vendor – can be virtual, physical, or postal)
-- Qualification Plan
-- Platform Design Technical Specification
-- Risk Assessment, for example, the risk of having the wrong version of a guide made available to operators
-- Testing
-  - Installation testing, for example, testing that the environments are correctly installed
-  - Operational testing, for example, testing that the right users have the right accesses
-- Summary Qualification Report
-- Platform or Operational Manual, Training Material
+- Initial risk assessment (assessment of GxP applicability)
+- Vendor assessment (audit of a vendor, whether virtual, physical, or postal)
+- Qualification plan
+- Platform design technical specification
+- Risk assessment (for example, assessment of the risk of making the wrong version of a guide available to operators)
+- Testing:
+
+    - Installation testing (for example, testing that the environments are correctly installed)
+    - Operational testing (for example, testing that the right users have the right accesses)
+
+- Summary qualification report
+- Platform or operational manual, and training materials
 
 ## Application validations
 
-Applications (such as Dynamics 365 Guides and Power Apps) that support business processes within regulated industries must be validated, which means that your organization must complete the following tasks:
+Applications (such as Guides and Power Apps) that support business processes in regulated industries must be validated. Therefore, your organization must complete the following tasks:
 
-- Initial Risk Assessment
-- Validation Plan
-- User Requirements
-- Risk Assessment
-- Application Functional or Configuration Technical Specification
-- Testing (Installation Qualification (IQ), Operational Qualification (OQ), and User Acceptance Testing (UAT))
-  - Operational testing, for example, verifying a function
-  - User Acceptance Test
+- Initial risk assessment
+- Validation plan
+- User requirements
+- Risk assessment
+- Application functional specification or configuration technical specification
+- Testing (installation qualification \[IQ\], operational qualification \[OQ\], and user acceptance testing \[UAT\]):
+
+    - Operational testing (for example, verifying a function)
+    - UAT
+
 - Traceability Matrix
-- Summary Validation Report
-- Application or Operational Manual, Training Material
+- Summary validation report
+- Application or operational manual, and training materials
 
 ## Next steps
 
