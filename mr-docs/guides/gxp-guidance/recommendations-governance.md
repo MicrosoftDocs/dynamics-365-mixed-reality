@@ -42,7 +42,7 @@ Mixed reality (MR) can address the different challenges. MR encompasses both aug
     - Foster creativity and innovation by enabling human operators to use digital prototypes or models to experiment with different scenarios or solutions.
     - Help human operators access relevant information or insights more easily through contextual data or analytics.
 
-Guides effectively replaces paper-based approaches by using [MR](/training/modules/intro-to-mixed-reality) to train or instruct operators at a production line. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides that show operators what to do for a task, and where to do it. Therefore, production tasks are completed faster, with fewer errors, and with greater skill retention.
+By using [MR](/training/modules/intro-to-mixed-reality) to train or instruct operators at a production line, Guides effectively replaces paper-based approaches. Images, videos, and holographic 3D models are orchestrated into intuitive, three-dimensional guides that show operators what to do for a task, and where to do it. Therefore, production tasks are completed faster, with fewer errors, and with greater skill retention.
 
 [Microsoft Power Platform](https://powerplatform.microsoft.com/what-is-power-platform/) can be used to set up the required governance for Guides. It also helps you technically scale and manage the life cycle of guides in your enterprise.
 
