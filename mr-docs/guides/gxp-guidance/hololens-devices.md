@@ -1,4 +1,4 @@
-﻿---
+---
 title: HoloLens devices
 description: Learn about setting up and maintaining HoloLens devices in a regulated industry.
 ms.date: 03/21/2023
@@ -11,84 +11,84 @@ ms.custom: bap-template
 
 # HoloLens devices
 
-Dynamics 365 Guides usage in regulated industries requires two types of devices to run the relevant software: PCs and HoloLens devices. We recommend the business be in tight control of these devices. In the case that Good {industry} Practice (GxP) requirements apply, consider what level of validation is required for these devices with the respective quality assurance (QA) staff.
+Use of Dynamics 365 Guides in regulated industries requires two types of devices to run the relevant software: PCs and HoloLens devices. We recommend that the business maintains tight control over these devices. If Good \{industry\} Practice (GxP) requirements apply, work with the appropriate quality assurance (QA) staff to determine what level of validation is required for those devices.
 
-We assume that your organization already has personal computers enrolled into your IT infrastructure. Therefore, this topic discusses HoloLens devices only.
+Because we assume that your organization already has PCs enrolled in your IT infrastructure, this article discusses only HoloLens devices.
 
 ## HoloLens device setup
 
 Familiarize yourself with the hardware:
 
 - [Introduction to HoloLens](/hololens/hololens2-hardware)
-- [Choose the right HoloLens edition](/hololens/hololens2-options) – are the devices to be used in standard, regulated, or safety-controlled physical environments?
-- [Procure HoloLens](/hololens/hololens2-purchase) devices – find an authorized reseller that is relevant for your implementation plans and support the countries/regions involved.
+- [Choose the right HoloLens edition](/hololens/hololens2-options) – Will the devices be used in standard, regulated, or safety-controlled physical environments?
+- [Procure HoloLens](/hololens/hololens2-purchase) – Find an authorized reseller that is relevant to your implementation plans and that supports the countries or regions that are involved.
 
 To enroll HoloLens devices, your mobile device management (MDM)/endpoint management specialists must:
 
-- Decide which [HoloLens deployment scenario](/hololens/hololens-requirements#scenario-a) is relevant for your situation and organization and follow the related deployment guide.
-- [Deploy and manage endpoints (HoloLens devices) through Microsoft's Endpoint Manager](/hololens/hololens-mdm-configure): [Intune](/mem/endpoint-manager-overview). In Intune, you can enable and disable device settings and features, and automatically add devices to a group for them to inherit a specific configuration profile.
-- Consider the connectivity method for HoloLens devices and the potential coverage. Will [WiFi certificates](/hololens/hololens-certificates-network) be part of the deployment or will other means of control to the network be established?
+- Decide which [HoloLens deployment scenario](/hololens/hololens-requirements#scenario-a) is relevant to your situation and organization, and follow the related deployment guide.
+- [Deploy and manage endpoints (HoloLens devices) through Microsoft Endpoint Manager](/hololens/hololens-mdm-configure): [Intune](/mem/endpoint-manager-overview). In Intune, you can enable and disable device settings and features, and automatically add devices to a group so that they inherit a specific configuration profile.
+- Consider the connectivity method for HoloLens devices, and the potential coverage. Will [Wi-Fi certificates](/hololens/hololens-certificates-network) be part of the deployment, or will other means of network control be established?
 
 Your organization should consider the relevance and effectiveness of:
 
-- [Windows Autopilot](/hololens/hololens2-autopilot) – to deploy devices at scale.
-- [Kiosk mode](/hololens/hololens-kiosk) - for controlling selectable applications in a user context.
-- [Windows Update for Business](/mem/intune/protect/windows-update-for-business-configure) – for automation and customization of the OS update process.
-- [Windows Hello for Business](/windows/security/identity-protection/hello-for-business/hello-overview) – for strong two-factor authentication on devices.
+- [Windows Autopilot](/hololens/hololens2-autopilot), to deploy devices at scale.
+- [Kiosk mode](/hololens/hololens-kiosk), to control selectable applications in a user context.
+- [Windows Update for Business](/mem/intune/protect/windows-update-for-business-configure), for automation and customization of the operating system update process.
+- [Windows Hello for Business](/windows/security/identity-protection/hello-for-business/hello-overview), for strong two-factor authentication on devices.
 
-However, make sure to adhere to your organization's requirements regarding security and user experience.
+However, be sure to adhere to your organization's requirements for security and user experience.
 
-We recommend utilizing Windows Autopilot and Intune to ensure a proper governance for deploying HoloLens devices and the Guides app. With these management tools, you can control when an update should be pushed to the devices. In some instances, it might be beneficial to delay an update to a HoloLens or PC until a proper risk assessment and test has been conducted or a required upgrade to the Power Platform environment has been performed.
+We recommend that you use Windows Autopilot and Intune to ensure proper governance for the deployment of HoloLens devices and the Guides app. With these management tools, you can control when an update is pushed to the devices. In some cases, it might be beneficial to delay an update to a HoloLens device or PC until a proper risk assessment and test areconducted, or until a required upgrade to the Microsoft Power Platform environment is done.
 
 ## User-based versus device-based setup
 
-Depending on use case, cost, operation, and organizational policies, HoloLens and Guides can be operated in a user-based or [device-based](../device-license.md) setup. In user-based setup, individuals have their own Guides account, while a single device is used by multiple individuals under a shared user account in a device-based setup.  
-  
-Usually, due to regulatory requirements, all authors and approvers of guides must have individual users, meaning the licensing structure must be user-based for these personas. If your organization has operators who will be regular users of guides, we recommend having individual usage accounts as well.
+Depending on use case, cost, operation, and organizational policies, HoloLens and Guides can be operated in a user-based or [device-based](../device-license.md) setup. In a user-based setup, individuals have their own Guides account. In a device-based setup, multiple individuals use a single device under a shared user account.
 
-For sporadic guides operators, a device-based setup can make sense from an operational and cost perspective but the regulatory requirements you are subject to might demand a user-based setup to ensure traceability.
+Usually, because of regulatory requirements, all authors and approvers of guides must have individual users. In other words, the licensing structure must be user-based for those personas. In addition, if your organization has operators who will be regular users of guides, we recommend that you have individual usage accounts.
 
-In general, the user-based setup is recommended within regulated industries. Together with [Power BI](/power-bi/) statistics, a user-based setup enables logging of actions and ensures complete traceability in relation to auditing.  
-  
-If you choose this setup and operate within the European Union (EU), ensure that any personal data that is processed or analyzed in reports is done so in compliance with [General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679) (GDPR). This includes but is not limited to policies such as:
+For operators who will be only occasional users of guides, a device-based setup can make sense from an operational and cost perspective. However, the regulatory requirements that you're subject to might demand a user-based setup to ensure traceability.
 
-- Collecting and processing only the minimum amount of personal data necessary to achieve the intended purpose
-- Informing users of the purpose and scope of data processing activities and their rights under GDPR
+In general, a user-based setup is recommended in regulated industries. Together with [Power BI](/power-bi/) statistics, a user-based setup enables logging of actions and ensures complete traceability in relation to auditing.
 
-Always consult with a legal counsel or a GDPR specialist to ensure that your logging of actions complies with all relevant GDPR policies.
+If you choose a user-based setup and operate in the European Union (EU), ensure that any processing or analysis of personal data in reports complies with [General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679) (GDPR) through policies such as:
 
-If you prefer to run a device-based setup without sacrificing traceability, your organization has the option to utilize [digital signatures](electronic-records-and-electronic-signature.md) whenever an action is completed.  
+- Collecting and processing only the minimum amount of personal data that is necessary to achieve the intended purpose.
+- Informing users about the purpose and scope of data processing activities and their rights under GDPR.
+
+Always consult legal counsel or a GDPR specialist to ensure that your logging of actions complies with all relevant GDPR policies.
+
+If you prefer to run a device-based setup but don't want to sacrifice traceability, your organization can use [digital signatures](electronic-records-and-electronic-signature.md) whenever an action is completed.
 
 ## HoloLens device maintenance
 
-Maintenance of the HoloLens devices helps to ensure that the device is running efficiently and effectively. Regular maintenance can prevent equipment failure and prolong the lifespan of the equipment. Best practices for maintaining devices include:
+Maintenance of HoloLens devices helps ensure that they are running efficiently and effectively. Regular maintenance can prevent equipment failure and prolong the lifespan of the equipment. Best practices for maintaining devices include:
 
-- [Charge the HoloLens](/hololens/hololens2-charging)
-- [Clean the HoloLens](/hololens/hololens2-maintenance)
-- [Restart, reset, or recover the HoloLens](/hololens/hololens-recovery) if experiencing issues with a device
-- Check if your organization is covered by [warranty](https://support.microsoft.com/en-us/warranty) if your device is broken.
+- [Charging the HoloLens](/hololens/hololens2-charging).
+- [Cleaning the HoloLens](/hololens/hololens2-maintenance).
+- [Restarting, resetting, or recovering the HoloLens](/hololens/hololens-recovery) if users experience issues with it.
+- Checking whether your organization is covered under [warranty](https://support.microsoft.com/warranty) if the device is broken.
 
-A charged, clean, and functional device is always important for individual safety and for instant availability of specific guides for operation. However, if you run a device-based setup where a HoloLens device is shared among employees, your organization can't rely on best practices but also needs a governance model for the operation of devices. This includes but is not limited to information on how to book HoloLens devices, register them as unavailable due to software errors or hardware damage, and where to store or charge them.
+A charged, clean, and functional device is always important for individual safety and for instant availability of specific guides for operation. However, if you run a device-based setup where a HoloLens device is shared among employees, your organization can't rely on best practices alone. It also needs a governance model for the operation of devices. Such a governance model includes but isn't limited to information about how to book HoloLens devices, how to register them as unavailable because of software errors or hardware damage, and where to store and charge them.
 
 ## HoloLens device storage in cabinets with charging capabilities
 
-For a seamless daily use of HoloLens devices, we recommend storing devices in cabinets with charging capabilities. Benefits of doing so include:
+For seamless daily use of HoloLens devices, we recommend that you store devices in cabinets that have charging capabilities. The benefits of doing so include:
 
-- **Organization**: The devices of your unit, factory, or department are organized in one place, making it easier to find and utilize them.
-- **Instant availability**: Charging capabilities in the cabinet ensures that devices are always charged and ready to use when they are needed. At worst, devices with an empty battery can result in production downtime, if guides are used for following standard operating procedures (SOP) and no back-up solutions, like paper-based instructions, are available.
-- **Safety**: Cabinets with charging capabilities can help keep cords out of sight, meaning clutter is reduced and the risk of tripping reduced. In this way, workplace safety is improved.
-- **Life span extension**: When HoloLens devices are stored in a cabinet, your organization protects devices from being taken, knocked over, or damaged, extending the life span of devices.
+- **Organization**: The devices of your unit, factory, or department are organized in one place. Therefore, they are easier to find and use.
+- **Instant availability**: Charging capabilities in the cabinet ensure that devices are always charged and ready to use when they are needed. In a worst-case scenario, devices that have an empty battery can lead to production downtime if guides are used to follow standard operating procedures (SOPs), and no back-up solutions, such as paper-based instructions, are available.
+- **Safety**: Cabinets that have charging capabilities can help keep cords out of sight. In this way, they help reduce clutter and the risk of tripping. Therefore, workplace safety is improved.
+- **Life span extension**: By storing HoloLens devices in a cabinet, your organization helps protect them from being taken, knocked over, or damaged. Therefore, the life span of devices is extended.
 
 ## HoloLens device tracking
 
-Your organization can use small Bluetooth or GPS trackers placed on a device or in its protective carrying case to keep track of the location and movement of your devices. Trackers can mitigate the risk of:
+Your organization can use a small Bluetooth or GPS tracker that is placed on each device or in its protective carrying case to keep track of the location and movement of the device. Trackers can mitigate the risk of:
 
-- **Misplacement**: Devices are easily lost or forgotten if they are frequently moved between production stations and sites. This is particularly true if governance around who brings what, when, and where is unclear.
-- **Theft**: HoloLens is a valuable mobile device with a weight of only 566 grams. This makes it easy and attractive to steal.
-- **Equipment damage**: Extend the life span of your HoloLens devices by ensuring they are not left in hazardous places potentially damaging the device.
+- **Misplacement**: Devices are easily lost or forgotten if they are frequently moved between production stations and sites. The risk is particularly high if there isn't clear governance about who brings what, when, and where.
+- **Theft**: HoloLens is a valuable mobile device that weighs only 566 grams. Therefore, it's easy and attractive to steal.
+- **Equipment damage**: Extend the life span of your HoloLens devices by ensuring that they aren't left in hazardous places where they could be damaged.
 
 ## Next steps
 
-- [Power Platform environments](power-platform-environments.md)
+- [Microsoft Power Platform environments](power-platform-environments.md)
 
 [!INCLUDE [footer-include](../../includes/footer-banner.md)]
