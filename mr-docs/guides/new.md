@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 06/30/2023
+ms.date: 07/05/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -21,7 +21,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ## July 5, 2023
 
-Version 805.2306.27001.0 of the HoloLens app fixed an issue where the HoloLens app could unexpectedly restart after being put in the background.
+Fixed a performance issue in version 805.2306.27001.0 of the HoloLens app.
 
 ## June 13, 2023
 
