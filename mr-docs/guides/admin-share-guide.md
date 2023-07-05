@@ -18,15 +18,7 @@ You can share a guide with other users if you're an administrator or if you have
 
 ## Share a guide
 
-1. In the PC authoring app, sign in to the Dynamics 365 instance that includes the guide.
-
-1. Select the **Analyze** tab, and under **Instance URL** select **Copy**, and then paste the value into the address bar of a web browser.
-
-    ![Instance URL value highlighted.](media/copy-instance-url.jpg "Instance URL value highlighted")
-
-1. Sign in, and in the left pane of the Power Apps screen, select **Guides** to open the model-driven app.
-
-    ![Screen shot of Power Apps screen showing Guides model-driven app.](media/guides-hub-1.PNG "Screen shot of Power Apps screen showing Guides model-driven app")
+1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
 1. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
@@ -43,10 +35,10 @@ You can share a guide with other users if you're an administrator or if you have
 
 1. Select **Share**.
 
-> [!TIP]
-> When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
->
-> ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
+   When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared.  
+
+1. To share the contents, go to the **All Content** tab. Select the contents you want to share and then **More (ellipsis ...)** button, and then select **Share**.
+
+   ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
-

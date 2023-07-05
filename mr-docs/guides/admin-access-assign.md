@@ -12,9 +12,9 @@ ms.reviewer: v-wendysmith
 
 When you create a guide in Microsoft Dynamics 365 Guides, you are automatically assigned as the owner of the guide. If you want to share ownership of the guide with others in your organization, you can:
 
-- Assign ownership of the guide to another person. 
+- Assign ownership of the guide to another person.
 
-- Assign ownership of the guide to an owner team. 
+- Assign ownership of the guide to an owner team.
 
 - Keep ownership of the guide, but let someone else work on it with you by using the **Share** option.
 
@@ -32,41 +32,37 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 ## Assign a guide to a user or an owner team
 
-1. Go to [Dynamics 365 Home](https://home.dynamics.com/), and then select the **App launcher** button ![app launcher icon.](media/app-launcher-icon.png) in the upper-left corner of the window.
+1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-2. Select **Power Apps**, select **Apps**, and then select **Guides**.  
+1. Select the guide that you want to assign. You can select multiple guides.
 
-3. Select the guide that you want to assign. You can select multiple guides.
-   
    ![Select the guide that you want to reassign.](media/admin-access-assign-01.PNG "Select the guide that you want to reassign")
 
-4. Select **Assign**.
+1. Select **Assign**.
 
    ![Select assign a guide.](media/admin-access-assign-02a.PNG "Select assign a guide")
 
-5. In the **Assign Guide** dialog box, to the right of the **Assign to** column, do one of the following:
+1. In the **Assign Guide** dialog box, to the right of the **Assign to** column, do one of the following:
 
     - Select **User or team** and then enter the name of the user or team (or use the search box) you want to assign the guide to. To create a new user or team, select **New Record**.
-      
+
       ![Use the lookup to reassign a guide.](media/admin-access-assign-04a.PNG "Use the lookup to reassign a guide")
 
       > [!NOTE]
-      > You must have admin permissions to see the **New Record** button. 
+      > You must have admin permissions to see the **New Record** button.
 
-    - Select **Me** to assign the guide to yourself. Keep in mind that you must be a system administrator to re-assign ownership of a guide that belongs to someone else.    
-      
-      ![Select Me to assign the guide to yourself.](media/admin-access-assign03a.PNG "Select Me to assign the guide to yourself")    
-      
-6. Select **Assign** when you're done.
+    - Select **Me** to assign the guide to yourself. Keep in mind that you must be a system administrator to re-assign ownership of a guide that belongs to someone else.
+
+1. Select **Assign** when you're done.
 
 ## Share a guide with someone else
 
 Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In exceptional cases, you can use the **Share** option for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](/dynamics365/mixed-reality/guides/admin-access-teams).
 
 > [!NOTE]
-> When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
+> When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content.
 >
-> ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
+> ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app")
 
 ## See also
 
@@ -74,7 +70,5 @@ Teams should be structured so that ownership of a guide is assigned to one or mo
 - [Assign an Operator or Author role to an individual user](assign-role.md)
 - [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

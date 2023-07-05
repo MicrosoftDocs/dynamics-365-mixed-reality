@@ -1,16 +1,16 @@
 ### YamlMime:Hub
 
 title:  Microsoft Dynamics 365 Guides documentation # < 60 chars
-summary: Discover how to make the most out of Dynamics 365 Guides with online training courses, docs, and videos covering product capabilities and how-to articles. Learn how to use Dynamics 365 Guides, a mixed-reality application for Microsoft HoloLens, that helps operators learn during the flow of work by providing holographic instructions when and where they're needed.
+summary: Discover how to make the most out of Dynamics 365 Guides with online training courses, docs, and videos covering product capabilities and how-to articles. Dynamics 365 Guides is a mixed-reality application for Microsoft HoloLens that helps operators by providing holographic instructions when and where they're needed.
 brand: dynamics
 
 metadata:
   title: Dynamics 365 Guides documentation 
-  description: Dynamics 365 Guides is a mixed-reality application for Microsoft HoloLens that helps operators learn during the flow of work by providing holographic instructions when and where they're needed. # Required; product description that is displayed in search results. < 160 chars. 
+  description: Dynamics 365 Guides is a mixed-reality application for Microsoft HoloLens that helps operators by providing holographic instructions when and where they're needed. # Required; product description that is displayed in search results. < 160 chars. 
   ms.topic: hub-page 
   author: v-wendysmith 
   ms.author: v-wendysmith 
-  ms.date: 05/22/2023 
+  ms.date: 06/12/2023 
   ms.custom: bap-template
   hide_bc: true
 
@@ -115,9 +115,9 @@ additionalContent:
       links:
       - url: 3d-content-guidelines/index.md
         text: Overview
-      - url: /3d-content-guidelines/convert-models.md
+      - url: 3d-content-guidelines/convert-models.md
         text: Convert your 3D models
-      - url: /3d-content-guidelines/optimize-models.md
+      - url: 3d-content-guidelines/optimize-models.md
         text: Optimize your 3D models
       - url: 3d-content-guidelines/tutorials-overview.md
         text: Tutorials
@@ -159,7 +159,7 @@ additionalContent:
           url: field-service.md
         - title: Dynamics 365 Remote Assist
           summary: Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist.
-          url: /remote-assist/ra-overview
+          url: ../remote-assist/ra-overview.md
         - title: Dynamics 365 Supply Chain Management
-          summary: First-line workers can benefit from mixed-reality guides in areas such as assembly, service, operations, certification, and safety as well as asset management roles.
+          summary: Frontline workers can benefit from mixed-reality guides in areas such as assembly, service, operations, certification, and safety as well as asset management roles.
           url: admin-integrate-asset-management.md

@@ -15,7 +15,6 @@
 ### [What's new](new.md)
 ### [Version history](version-history.md)
 
-
 ## Set up and administer Dynamics 365 Guides
 ### Set up Dynamics 365 Guides or upgrade the solution
 #### [Installation overview](setup.md)
@@ -48,7 +47,6 @@
 #### [Restrict calling and contacts](restricted-mode-calling.md)
 #### [Restrict access to OneDrive files](restricted-mode-files.md)
 #### [Restrict sign out of HoloLens](restricted-mode-signout.md)
-### [Open the Guides model-driven app](open-model-driven-app.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling](admin-enable-calls.md)
 ### [Enable or disable Azure Object Anchors (Preview)](admin-enable-object-anchors.md)
@@ -71,6 +69,10 @@
 #### [Permissions required](hololens-permissions.md)
 ### [Install the PC app and sign in](install-sign-in-pc-app.md)
 
+## Model-driven app
+### [Guides model-driven app overview](model-driven-app-overview.md)
+### [Open the Guides model-driven app](open-model-driven-app.md)
+
 ## Activities
 ### [Start an activity](main-menu.md)
 ### Collaborate with Teams users
@@ -78,12 +80,15 @@
 #### [Make or receive a call](calling-start-call.md)
 #### [Join a scheduled meeting](calling-meetings.md)
 #### [Chat and file sharing](calling-chat-file-sharing.md)
+#### [Capture and share photos](calling-photos.md)
 #### [Record a call](calling-record-call.md)
 #### [Screen sharing](calling-screen-sharing.md)
 #### [Use annotations](calling-annotations.md)
 #### [Access OneDrive files](onedrive-files.md)
 #### [Teams users capabilities](calling-teams-users.md)
-#### [View and access call data](call-logging.md)
+#### Call data
+##### [Call data stored by Dynamics 365 Guides](call-data-logs.md)
+##### [View and access call data](call-logging.md)
 #### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
 
 ### Author, operate, and analyze guides
@@ -133,7 +138,6 @@
 ###### [Create folders to organize your guides](admin-create-folders.md)
 ###### [Anchor your guide to the real world](hololens-app-anchor.md)
 ###### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
-###### [Open the model-driven app](open-model-driven-app.md)
 ##### Work with holograms
 ###### [Get oriented with the HoloLens app (authors)](hololens-app-orientation.md)
 ###### [Place and manipulate holograms](hololens-app-place-holograms.md)

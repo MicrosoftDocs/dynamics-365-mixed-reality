@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: mamaylya
-ms.date: 04/28/2023
+ms.date: 07/05/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -18,6 +18,22 @@ ms.custom: bap-template
 This page provides details about the latest release in the **current wave of features (April 2023 through September 2023)** for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## July 5, 2023
+
+Fixed a performance issue in version 805.2306.27001.0 of the HoloLens app.
+
+## June 13, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 805.2306.6001.0 |
+|HoloLens app (HoloLens 2 only)| 805.2306.6001.0 |
+|Solution| 800.5.0.1  |
+
+### Feature
+
+- HoloLens operators can <a href="/dynamics365/mixed-reality/guides/calling-photos" target="_blank">share photos from their device library</a> directly with Teams users in chat.
 
 ## May 2, 2023
 
