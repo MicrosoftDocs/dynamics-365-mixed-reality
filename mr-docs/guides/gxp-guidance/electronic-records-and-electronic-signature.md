@@ -1,6 +1,6 @@
-﻿---
-title: Electronic records and electronic signature
-description: Learn about the use of electronic records and signatures when implementing Dynamics 365 Guides in a regulated industry.
+---
+title: Electronic records and electronic signatures
+description: Learn about the use of electronic records and signatures when you implement Dynamics 365 Guides in a regulated industry.
 ms.date: 03/21/2023
 ms.topic: conceptual
 author: davepinch
@@ -9,59 +9,73 @@ ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---
 
-# Electronic records and electronic signature
+# Electronic records and electronic signatures
 
-When deploying Dynamics 365 Guides in a regulated company, electronic records and electronic signatures are required (to a greater or lesser extent) to ensure traceability and compliance with regulatory requirements.
+When you implement Dynamics 365 Guides in a regulated company, electronic records and electronic signatures are required (to a greater or lesser extent) to ensure traceability and compliance with regulatory requirements.
 
-For example, within life science, the United States Food and Drug Administration's (FDA) defines the electronic records and electronic signatures. [21 CFR Part 11](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11) is a section in the Code of Federal Regulations (CFR) that sets forth FDA's regulation on using electronic records and electronic signatures. It defines the criteria under which electronic records and electronic signatures are accurate, authentic, trustworthy, reliable, confidential, and equivalent to paper records and handwritten signatures.
+For example, [21 CFR Part 11](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11) is a section of the Code of Federal Regulations (CFR) that lays out the United States Food and Drug Administration's (FDA's) regulation about the use of electronic records and electronic signatures in the life science industry. It defines the criteria that determine whether electronic records and electronic signatures are accurate, authentic, trustworthy, reliable, confidential, and equivalent to paper records and handwritten signatures.
 
-This table summarizes the scope of Part 11.
+The following table summarizes 21 CFR Part 11.
 
-| **Area** | **Definitions** |
-|-------------------------|-------------------------|
-| Scope | All electronic records created, modified, maintained, archived, retrieved, or transmitted under FDA regulation – predicate rules. |
-| Electronic record management | Computer system validation requires: </br>- System-enforced workflow sequencing</br>- Accurate, complete record accessibility throughout the record retention period |
-| Audit Trail | - Computer-generated date and time stamp for all changes, identification of operator/signing person, and purpose of the signature.</br> - Available throughout the record retention period. |
-| Security | - Role based access control to prevent unauthorized access.</br>- Guidelines for ID/password management, electronic signatures, and system documentation control. |
-| Electronic signatures | - Unique to one individual and not reusable.</br>- Signature manifestation in human readable form must use at least two distinct identification components, such as ID and password.</br>- Before use, must certify to FDA binding authority of electronic signature. |
+| Area | Definitions |
+|---|---|
+| Scope | 21 CFR Part 11 applies to all electronic records that are created, modified, maintained, archived, retrieved, or transmitted under FDA regulation (predicate rules). |
+| Electronic record management | <p>Computer system validation requires:</p><ul><li>System-enforced workflow sequencing.</li><li>Accurate, complete record accessibility throughout the record retention period.</li></ul> |
+| Audit trail | <ul><li>The audit trail must include:<ul><li>A computer-generated date and time stamp for all changes.</li><li>Identification of the operator/signing person.</li><li>The purpose of the signature.</li></ul></li><li>The audit trail must be available throughout the record retention period.</li></ul> |
+| Security | <ul><li>Role-based access control must be implemented to prevent unauthorized access.</li><li>Guidelines must be in place for ID/password management, electronic signatures, and system documentation control.</li></ul> |
+| Electronic signatures | <ul><li>Each electronic signature must be unique to one individual and must not be reusable.</li><li>Signature manifestation in human-readable form must use at least two distinct identification components, such as an ID and a password.</li><li>Before the electronic signature is used, its binding authority must be certified to the FDA.</li></ul> |
 
-21 CFR Part 11 requirements apply when defined by FDA [predicate rules](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application). Records and signatures must be met by companies using digital systems to manage compliance-related processes and documentation. 21 CFR Part 11 applies to records required to be maintained under the applicable regulation requirements including:
+21 CFR Part 11 requirements apply as defined by FDA [predicate rules](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application). The requirements for records and signatures must be met by companies that use digital systems to manage compliance-related processes and documentation.
 
-- Records that are maintained in electronic format in place of paper format
-- Records not identified in FDA regulations but are submissions the FDA accepts in electronic format
+21 CFR Part 11 applies to records that must be maintained under the applicable regulation requirements, including:
 
-[**Electronic records**](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11&showFR=1&subpartNode=21:1.0.1.1.8.2) - Electronic records are data and information that are created, modified, archived, retrieved, and distributed by a computer system.
+- Records that are maintained in electronic format instead of paper format.
+- Records that aren't identified in FDA regulations but are submissions that the FDA accepts in electronic format.
 
-[**Electronic signature**](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11&showFR=1&subpartNode=21:1.0.1.1.8.3) - Electronic signature is a set of encrypted electronic data accompanying or are associated with an electronic document, whose basic functions are unequivocally identifying the signer and ensuring the integrity of the information and data contained in the signed document.
+## Electronic records
+
+[Electronic records](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11&showFR=1&subpartNode=21:1.0.1.1.8.2) are data and information that are created, modified, archived, retrieved, and distributed by a computer system.
+
+## Electronic signatures
+
+An [electronic signature](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11&showFR=1&subpartNode=21:1.0.1.1.8.3) is a set of encrypted electronic data that accompanies or is associated with an electronic document. Its basic functions are to unequivocally identify the signer and to ensure the integrity of the information and data in the signed document.
 
 The electronic signature guarantees:
 
-- Authenticity – the person who signed is part of the document information
-- Integrity – after the document is signed, the records can't be modified
-- Non-repudiation – the person who signed electronically cannot say it wasn't them
+- **Authenticity**: The person who signed is part of the document information.
+- **Integrity**: After the document is signed, the records can't be modified.
+- **Non-repudiation**: The person who electronically signed can't say it wasn't them.
 
-**Digital signatures** (other than digitized signatures) – Digital signatures are a type of electronically based signatures that have a higher level of security. To perform the digital signature, a username and two keys, public and private, must be used.
+## Digital signatures (other than digitized signatures)
 
-**Audit trail** – Audit trails are journals or records of modifications, by users or by processes operating on the user's behalf, to electronic-records. Data needs to be protected from unauthorized modification and destruction to enable detection and after-the-fact investigations of security violations. Audit trails:
+Digital signatures are a type of electronically based signatures that have a higher level of security. To perform the digital signature, a user name and two keys must be used. One of the keys is public, and the other is private.
 
-- Must be computer generated
-- Can't be modified by the individual who created them
-- Must indicate when the data (record) was first entered and by whom
-- Must indicate who made any changes and when
+## Audit trails
 
-**Security** - Access must be limited to authorized individuals. The FDA recommends that:
+Audit trails are journals or records of modifications that are made to electronic records, either by users or by processes that operate on a user's behalf. Data must be protected from unauthorized modification and destruction, to allow for detection and after-the-fact investigations of security violations.
+
+Audit trails:
+
+- Must be computer generated.
+- Can't be modified by the individual who created them.
+- Must indicate when the data (record) was first entered, and who entered it.
+- Must indicate who made any changes, and when.
+
+## Security
+
+Access must be limited to authorized individuals. The FDA recommends that:
 
 - Each user of the system has an individual account.
-- The system is designed to limit the number of log-in attempts and to record unauthorized access log-in attempts.
-- Users can only work under their own user profiles encompassing unique user IDs and individual passwords.
-- The system doesn't allow an individual to log into the system to provide another person access to the system.
+- The system is designed to limit the number of sign-in attempts and to record unauthorized sign-in attempts.
+- Users can work only under their own user profiles, and those profiles have unique user IDs and individual passwords.
+- Individuals are prevented from signing in to the system so that they can give another person access to the system.
 - Passwords or other access keys can be changed only at established intervals.
-- Users log off the system when leaving a workstation.
-- An automatic protection is installed to activate after short periods of inactivity to avoid unauthorized data entry.
+- Users sign out of the system when they leave a workstation.
+- Automatic protection is installed and is activated after short periods of inactivity, to prevent unauthorized data entry.
 
-Other supporting material regarding 21 CFR Part 11:
+## Other supporting material about 21 CFR Part 11
 
-- Use of Electronic Records and Electronic Signatures in Clinical Investigations Under 21 CFR Part 11 – [Questions and Answers: Draft Guidance for Industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-systems-electronic-records-and-electronic-signatures-clinical-investigations-questions)
-- Part 11, Electronic Records; Electronic Signatures - Scope and Application: [Guidance for Industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application)
+- [Electronic Systems, Electronic Records, and Electronic Signatures in Clinical Investigations: Questions and Answers](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-systems-electronic-records-and-electronic-signatures-clinical-investigations-questions) (Draft Guidance for Industry)
+- [Part 11, Electronic Records; Electronic Signatures - Scope and Application](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application) (Guidance for Industry)
 
 [!INCLUDE [footer-include](../../includes/footer-banner.md)]
