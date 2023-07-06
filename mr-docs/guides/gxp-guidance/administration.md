@@ -11,17 +11,17 @@ ms.custom: bap-template
 
 # Administrative layers
 
-As a best practice, your organization should focus on three administrative layers when implementing Dynamics 365 Guides in a regulated industry:
+As a best practice, your organization should focus on three administrative layers when it implements Dynamics 365 Guides in a regulated industry:
 
 - HoloLens devices
-- Power Platform (such as environments and Power Apps)
+- Microsoft Power Platform (such as environments and Power Apps)
 - Software
-  
-These elements must function independently and with each other for Guides to run seamlessly. Otherwise, you risk malfunction, which is critical from a product and a compliance perspective.
 
-We recommend conducting a risk assessment to identify critical updates to devices, environments, and software. Based on the risk assessment, your organization should define if and where specific controls are needed to have devices, Power Platform components, and software in control.  
-  
-The articles in the Administration section link to common tasks you perform to set up and maintain HoloLens devices and Power Platform environments. However, this isn't an exhaustive list.
+For Guides to run seamlessly, these layers must work both independently and with each other. Otherwise, there is a risk of malfunction, which is critical from product and compliance perspectives.
+
+We recommend that you do a risk assessment to identify critical updates to devices, environments, and software. Based on the risk assessment, your organization should define whether and where specific controls are needed for devices, Microsoft Power Platform components, and software.
+
+The articles in the "Administration" section link to common tasks that you perform to set up and maintain HoloLens devices and Microsoft Power Platform environments. However, the list isn't exhaustive.
 
 ## Next steps
 
