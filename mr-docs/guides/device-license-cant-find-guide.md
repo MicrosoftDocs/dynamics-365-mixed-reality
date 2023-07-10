@@ -1,10 +1,11 @@
 ---
 title: Can't find a guide on a shared HoloLens device 
 description: Learn how to resolve a problem when you can't find a guide in Dynamics 365 Guides on a shared device license
-author: Mamaylya
-ms.author: mamaylya
+author: davepinch
+ms.author: davepinch
 ms.topic: troubleshooting-problem-resolution 
 ms.date: 06/29/2023
+ms.custom: bap-template
 ---
 
 # Can't find a guide on a shared HoloLens device

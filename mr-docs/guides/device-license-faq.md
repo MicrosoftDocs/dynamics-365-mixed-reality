@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn the answers to the most common questions about Dynamics 365 Guides guide licensing.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 06/29/2023
 ms.topic: faq
 title: Guides device license FAQ

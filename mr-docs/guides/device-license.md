@@ -2,10 +2,11 @@
 author: Mamaylya
 description: Learn how to set up a Dynamics 365 Guides device license for multiple operators on a single HoloLens device.
 ms.author: mamaylya
-ms.date: 01/07/2022
-ms.topic: article
+ms.date: 07/07/2023
+ms.topic: how-to
 title: Set up a Dynamics 365 Guides device license
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Set up a Dynamics 365 Guides device license for multiple operators on a shared HoloLens device
@@ -21,7 +22,7 @@ A device license in Dynamics 365 Guides allows multiple operators to use Dynamic
 
 - You are familiar with the process of assigning licenses, assigning roles, and creating guides for use by operators.
 
-- A working environment to test your device license.
+- A working environment is available to test your device license.
 
 ## Create a shared account
 
@@ -29,7 +30,7 @@ A Dynamics 365 Guides device license must be assigned to a shared Active Directo
 
 1. [Open the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
-1. [Add user](/microsoft-365/admin/add-users).
+1. [Add a user](/microsoft-365/admin/add-users).
 
    - On the **Set up the basics** page, fill in the first name, last name, display name, and username of the shared user account. Since this account is not tied to a specific user, you may want to identify the user by location name, device name, and so on.
 
@@ -47,9 +48,7 @@ A Dynamics 365 Guides device license must be assigned to a shared Active Directo
 
 ## Assign an operator role to the shared account
 
-Assign either the [**Operator** or **Restricted Operator** role](admin-role-types.md) to the shared account. Assigning a role gives the account permission to use the HoloLens app to view and operate a guide.
-
-[Assign an operator role to the shared account user](assign-role.md#assign-roles-to-a-user).
+[Assign either the **Dynamics 365 Guides Operator** or **Dynamics 365 Guides Restricted Operator** role to the shared account](assign-role.md#assign-roles-to-a-user). Assigning a role gives the account permission to use the HoloLens app to view and operate a guide. For more information on the different roles, see [About the Author and Operator roles.](admin-role-types.md)
 
 ## Grant access to a restricted environment (optional)
 
@@ -61,21 +60,21 @@ Test the device license by operating a guide on the HoloLens with the shared acc
 
 1. If you need to create a test guide, [sign into the PC app with an author or admin account](install-sign-in-pc-app.md#sign-in-to-the-app) so you can create a guide. For quick testing, [anchor the guide using a holographic anchor](pc-app-anchor-holographic.md) since this type of anchor doesn’t require a QR code printout.
 
-2. Make sure your shared account has access to the test guide. This should happen automatically if you assigned the **Restricted Operator** or **Operator** role to the shared account. Otherwise [assign](admin-access-assign.md) or [share](admin-access-teams.md) the guide.
+1. Make sure your shared account has access to the test guide. This should happen automatically if you assigned the **Dynamics 365 Guides Restricted Operator** or **Dynamics 365 Guides Operator** role to the shared account. Otherwise [assign](admin-access-assign.md) or [share](admin-access-teams.md) the guide.
 
-3. Put on your HoloLens and [sign in to the Dynamics 365 Guides HoloLens app](hololens-app-install-sign-in.md) using the shared operator account.
+1. Put on your HoloLens and [sign in to the Dynamics 365 Guides HoloLens app](hololens-app-install-sign-in.md) using the shared operator account.
 
-4. Since this will be the first time using the shared account, you may get prompted to reset the password (depending on how you set up the account).
+1. Since this will be the first time using the shared account, you may get prompted to reset the password (depending on how you set up the account).
 
    > [!TIP]
    > If you're prompted to select **Author** or **Operator**, you probably assigned an incorrect role to the account, or you're not signed into the app with the right account.
 
 1. Respond to any prompts, and then [find and open the guide](find-guide.md).
 
-5. When the guide opens, you'll be prompted to set the holographic anchor. If you reach this stage, your shared operator account is set up correctly.
+1. When the guide opens, you'll be prompted to set the holographic anchor. If you reach this stage, your shared operator account is set up correctly.
 
-## Troubleshooting
+## Next steps
 
-- 
+- [Guides device license FAQ](device-license-faq.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
