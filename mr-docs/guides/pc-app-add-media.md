@@ -2,7 +2,7 @@
 author: Mamaylya
 ms.author: mamaylya
 description: Learn how to add an image or video to a step in the Microsoft Dynamics 365 Guides PC app to help operators with a complex step.
-ms.date: 06/22/2023
+ms.date: 07/19/2023
 ms.topic: how-to
 title: Add an image or video to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
@@ -16,9 +16,11 @@ As an author, add an image or video in the Dynamics 365 Guides PC app to help an
 > [!NOTE]
 > The PC app converts and resizes videos when they're uploaded to ensure optimal performance on HoloLens. This transcoding process depends on the codecs installed on the PC and errors can occur if codecs are removed from the PC.
 
-1. In the PC app, on the right side of the page, select the **Images** or **Videos** tab.
+1. In the PC app, on the right side of the page, select the **My files** tab.
 
-    ![Images and Videos tabs.](media/select-image-video.PNG "Images and Videos tabs")
+   :::image type="content" source="media/library-panel.png" alt-text="Screenshot of the right-side pane with the My files tab highlighted.":::
+
+   [!INCLUDE [pc-app-filter-sort](../includes/pc-app-filter-sort.md)]
 
 1. Drag the image or video to the **Media panel** box.
 

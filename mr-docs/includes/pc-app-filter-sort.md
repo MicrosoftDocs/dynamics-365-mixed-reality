@@ -1,0 +1,2 @@
+> [!TIP]
+> To find items quickly, you can filter by asset type (3D parts, images, videos, and object anchors) or sort by name, date, or type in ascending or descending order. If you have navigated to a folder that does not contain the asset, a message displays. Navigate back up the hierarchy or go to the parent folder.

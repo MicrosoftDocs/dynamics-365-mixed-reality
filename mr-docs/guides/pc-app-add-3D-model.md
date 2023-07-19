@@ -1,42 +1,39 @@
 ---
-author: Mamaylya
-ms.author: mamaylya
+author: annitachow
+ms.author: anchow
 description: Learn how to add a 3D model (for example, an arrow or a hand) to a step in the Dynamics 365 Guides PC app. 
-ms.date: 01/18/2022
-ms.topic: article
-title: Add a 3D model (arrow or hand, for example) to a step in the Dynamics 365 Guides PC app
+ms.date: 07/19/2023
+ms.topic: how-to
+title: Add a 3D model from the toolkit to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
-# Add a 3D model from the 3D toolkit to a step in the Dynamics 365 Guides PC app
+# Add a 3D model from the toolkit to a step in the Dynamics 365 Guides PC app
 
-Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a library of predefined 3D objects that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following illustration shows an example where holographic numbers, arrows, and zones are used to help operators complete a step.
+Microsoft Dynamics 365 Guides includes a library of predefined 3D objects that are optimized to work perfectly with HoloLens. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following illustration shows an example where holographic numbers, arrows, and zones are used to help operators complete a step.
 
 ![Example of holographic numbers, arrows, and zones.](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and zones")
 
 You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you want in a step.
 
 > [!NOTE]
-> Some 3D toolkit items have built-in animations that you can turn on or off. [Learn more about animation options](hololens-app-animations.md)
+> Some 3D toolkit items have built-in animations that you can turn on or off. [Learn more about animation options.](hololens-app-animations.md)
 
-To add a model from the 3D toolkit, follow these steps.
+To add a model from the toolkit, follow these steps.
 
-1. On the right side of the page, select the **3D toolkit** tab, and then select the category for the type of item that you want to add.
+1. On the right side of the page, select the **Toolkit** tab. Then, select the category for the type of item that you want to add.
 
-    ![3D toolkit tab.](media/select-3D-toolkit.PNG "3D toolkit tab")
+  :::image type="content" source="media/select-3D-toolkit.png" alt-text="Screenshot of the right-side pane with the Toolkit tab highlighted.":::
 
-2. Drag the 3D model that you want to one of the **3D parts** boxes.
+1. Drag the 3D model that you want to one of the **3D parts** boxes.
 
     ![Dragging a 3D model to a 3D parts box.](media/select-arrow.PNG "Dragging a 3D model to a 3D parts box")
-    
-3. To preview the model, select (click or double-click) the model in the **Library**.
 
-    ![Properties tab for previewing image, video, or 3D model.](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
-    
-    The image and its properties are displayed on the right side of the screen.   
+1. To preview the model, select (click or double-click) the model in the **Library**.
 
 > [!NOTE]
-> You can also add 3D models from the 3D toolkit directly in the [!include[pn-hololens](../includes/pn-hololens.md)] app.
+> You can also add 3D models from the toolkit directly in the HoloLens app.
 
 ## Best practices for the 3D toolkit
 
@@ -50,7 +47,7 @@ To add a model from the 3D toolkit, follow these steps.
 
 For more information about ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
 
-## What's next?
+## Next steps
 
 - [Step Editor overview](pc-app-step-editor-overview.md)
 - [Add a 3D part](pc-app-add-3D-part.md)

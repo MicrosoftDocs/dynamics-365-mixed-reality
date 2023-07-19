@@ -1,8 +1,8 @@
 ---
-author: Mamaylya
+author: annitachow
 description: Learn how to organize guides into folders in Dynamics 365 Guides
-ms.author: mamaylya
-ms.date: 06/22/2023
+ms.author: anchow
+ms.date: 07/19/2023
 ms.topic: how-to
 title: Organize guides into folders in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -11,11 +11,11 @@ ms.custom: bap-template
 
 # Create folders in Dynamics 365 Guides to organize your guides
 
-Folders are useful for managing groups of guides with the same permissions, such as guides for a specific team or product. Permissions assigned to folders do not give permissions to guides within those folders, however. A folder can contain guides and subfolders. Each folder can be assigned an owner. When you delete a folder, all items in that folder are also deleted.
+Folders are useful for managing groups of guides or assets with the same permissions, such as guides and their assets for a specific team or product. A folder can contain guides, subfolders, and assets (3D parts, images, videos, and object anchors). Each folder can be assigned an owner. When you delete a folder, all items in that folder are also deleted.
 
 ## Prerequisites
 
-- Guides admin or author role
+- Guides Admin or Author role
 
 ## Create a folder
 
@@ -29,11 +29,11 @@ Folders are useful for managing groups of guides with the same permissions, such
 
     ![New command highlighted at top of Power Apps screen.](media/folders-new.PNG "New command highlighted at top of Power Apps screen")
 
-1. At the top of the screen, select **Save & Close** to save the folder and return to the folder list. After saving, you can add guides and subfolders to the folder.
+1. At the top of the screen, select **Save & Close** to save the folder and return to the folder list. After saving, you can add guides, subfolders, or assets to the folder.
 
-## Add a guide to a folder
+## Add a guide or asset to a folder
 
-1. In the left pane, select **Guides**, and then locate the guide you want to add to the folder.
+1. In the left pane, under **Content** select the guide or type of asset you want to add. Then select the particular guide or asset you want to add to the folder.
 
 1. On the **General** tab, in the **Parent Folder** field, enter the parent folder name or search for it.
 
@@ -42,7 +42,7 @@ Folders are useful for managing groups of guides with the same permissions, such
 1. At the top of the screen, select **Save** or **Save & Close**.
 
 > [!TIP]
-> To move a guide back to the root folder, return to the guide details and delete the contents of the **Parent Folder** field.
+> To move a guide or asset back to the root folder, return to the guide details and delete the contents of the **Parent Folder** field.
 
 ## Change the owner of a folder
 

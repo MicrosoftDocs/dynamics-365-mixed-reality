@@ -1,35 +1,34 @@
 ---
-author: Mamaylya
-ms.author: mamaylya
+author: annitachow
+ms.author: anchow
 description: Learn how to add a custom 3D part to a step in the Microsoft Dynamics 365 Guides PC app. 
-ms.date: 05/24/2023
+ms.date: 07/19/2023
 ms.topic: how-to
 title: Add a custom 3D part to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-# Add a custom 3D part (that you import) to a step in the Dynamics 365 Guides PC app
+# Add a custom 3D part to a step in the Dynamics 365 Guides PC app
 
 You can add 3D parts (models specific to your company) in Microsoft Dynamics 365 Guides by importing them. A 3D part hologram helps operators find a 3D part in the real world. You can use a combination of third-party tools to prepare your 3D computer-aided design (CAD) models. For more information, see [Overview of preparing 3D models](./3d-content-guidelines/overview.md).
 
-1. In the PC app, on the right side of the page, select the **3D parts** tab.
+1. On the right side of the page, select the **My files** tab.
 
-    ![3D parts tab.](media/select-3D-parts.PNG "3D parts tab")
+   :::image type="content" source="media/library-panel.png" alt-text="Screenshot of the right-side pane with the My files tab highlighted.":::
+
+   [!INCLUDE [pc-app-filter-sort](../includes/pc-app-filter-sort.md)]
 
 1. Drag the 3D part that you want to one of the **3D parts** boxes.
 
     ![Dragging a 3D part to a 3D parts box.](media/drag-3D-part.PNG "Dragging a 3D part to a 3D parts box")
-
-   > [!TIP]
-   > To find items that were recently added to the gallery, you can sort by name or by the date when the item was added.
 
 ## Import a custom 3D model to use as a 3D part
 
 You can import your own custom 3D models and add them to the **3D parts** library. To import files, you can drag them from a local file folder or use the **Import** command.
 
 > [!TIP]
-> You can set animation options (playback speed, direction, and looping) in the HoloLens app. 
+> You can set animation options (playback speed, direction, and looping) in the HoloLens app.
 
 ### Import a file by using a drag-and-drop operation
 
