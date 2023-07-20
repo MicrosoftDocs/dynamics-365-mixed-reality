@@ -35,10 +35,11 @@
 ##### [Assign to individual users](assign-role.md)
 ##### [Assign using Azure AD groups](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
-#### Assign ownership or share a guide
-##### [Change ownership of a guide](admin-access-assign.md)
+#### Manage guide content
+##### [Guide content management](admin-content-mgmt.md)
+##### [Change ownership of a guide or folder](admin-access-assign.md)
 ##### [Create an access team](admin-access-teams.md)
-##### [Share a guide with an access team or specific user](admin-share-guide.md)
+##### [Share a guide or folder](admin-share-guide.md)
 ##### [Share the Guides model-driven app](admin-share-guides-hub.md)
 #### [Invite a user as a guest](admin-add-guest-user.md)
 ### Protect company information by restricting capabilities

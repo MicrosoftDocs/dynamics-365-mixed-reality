@@ -23,7 +23,7 @@ Create a seamless workflow for operators by adding a website, email, guide, cust
 
 To add a link to a step, you add an action. You can add one action per step. If a step already includes an action, any new action that you add overwrites the existing action.
 
-1. In the PC Authoring app, go to the appropriate step, and then select the **Action** circle in the **Step Editor** pane.
+1. In the PC app, go to the appropriate step, and then select the **Action** circle in the **Step Editor** pane.
 
     :::image type="content" source="media/website-link-action.png" alt-text="Screenshot that shows the Action circle.":::
 
@@ -79,7 +79,7 @@ You can link to a published app that was created in Power Apps if you have edit 
 
 To add a Power Apps link to a step, you add an action. You can add one action per step. If a step already includes an action, any new action that you add overwrites the existing action.
 
-1. In the PC Authoring app, go to the appropriate step, and then select the **Action** circle in the **Step Editor** pane.
+1. In the PC app, go to the appropriate step, and then select the **Action** circle in the **Step Editor** pane.
 
     :::image type="content" source="media/website-link-action.png" alt-text="Screenshot that shows the Action circle.":::
 

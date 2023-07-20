@@ -44,20 +44,6 @@ Authors can organize their guides as well as the content of their guides by crea
 > [!TIP]
 > To move a guide or asset back to the root folder, return to the guide details and delete the contents of the **Parent Folder** field.
 
-## Change the owner of a folder
-
-When you change the owner of a folder, any guides, subfolders, and assets within that folder are assigned to that owner. This allows you to easily manage access for a group of related guides and assets.
-
-1. In the left pane, select **Folders** to view the list of folders in the instance.
-
-1. Go to the desired folder, and then at the top of the screen, select **Assign** to display the folder information.
-
-    ![Assign command highlighted at top of screen.](media/folders-assign.PNG "Assign command highlighted at top of screen")
-
-1. In the **Assign Folder** dialog box, select the box to the right of the **Assign to** label to toggle between **Me** and **User or team**. If **Me** is selected, the folder is assigned to you. If **User or team** is selected, you can enter the owner in the **User or team** field or search for an owner.
-
-1. Select **Assign** to save the new owner.
-
 ## View the contents of a folder
 
 1. In the left pane, select **Folders** to view the list of folders in the instance.

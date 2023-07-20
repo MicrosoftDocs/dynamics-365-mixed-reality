@@ -27,7 +27,7 @@ As an author, add an image or video in the Dynamics 365 Guides PC app to help an
     ![Dragging an image or video to the Image or video box.](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
 
 > [!TIP]
-> You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**.
+> You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **My files** tab.
 
 ## Change a video thumbnail
 
