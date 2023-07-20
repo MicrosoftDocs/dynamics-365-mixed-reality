@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to add a website, email, guide, custom app, or Power Apps link to a step in Microsoft Dynamics 365 Guides to create a seamless workflow for operators.
 ms.author: davepinch
-ms.date: 03/31/2023
+ms.date: 07/20/2023
 ms.topic: how-to
 title: Add a website, email, guide, or app link to a step
 ms.reviewer: v-wendysmith

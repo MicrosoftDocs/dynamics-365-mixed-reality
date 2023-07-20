@@ -1,25 +1,25 @@
 ---
 author: annitachow
-description: Learn how to organize guides into folders in Dynamics 365 Guides
+description: Learn how to organize guides and assets into folders in Dynamics 365 Guides.
 ms.author: anchow
 ms.date: 07/19/2023
 ms.topic: how-to
-title: Organize guides into folders in Dynamics 365 Guides
+title: Create folders in Dynamics 365 Guides to organize your guides and assets
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-# Create folders in Dynamics 365 Guides to organize your guides
+# Create folders in Dynamics 365 Guides to organize your guides and assets
 
-Folders are useful for managing groups of guides or assets with the same permissions, such as guides and their assets for a specific team or product. A folder can contain guides, subfolders, and assets (3D parts, images, videos, and object anchors). Each folder can be assigned an owner. When you delete a folder, all items in that folder are also deleted.
+Authors can organize their guides as well as the content of their guides by creating folders. A folder can contain guides, subfolders, and assets (3D parts, images, videos, and object anchors). Folders can be organized to contain all the contents needed for one guide or multiple guides. You can create a hierarchy of folders with subfolders. Each folder can be assigned an owner. When you delete a folder, all items in that folder are also deleted.
+
+[Open the model-driven app](open-model-driven-app.md) in Guides to manage folders.
 
 ## Prerequisites
 
 - Guides Admin or Author role
 
 ## Create a folder
-
-1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
 1. In the left pane, select **Folders** to view all folders created in the instance, and then, at the top of the screen, select **New** to create a new folder.
 
@@ -35,7 +35,7 @@ Folders are useful for managing groups of guides or assets with the same permiss
 
 1. In the left pane, under **Content** select the guide or type of asset you want to add. Then select the particular guide or asset you want to add to the folder.
 
-1. On the **General** tab, in the **Parent Folder** field, enter the parent folder name or search for it.
+1. On the **General** tab, in the **Parent Folder** field, enter the folder name or search for it.
 
     ![General tab and Parent Folder field highlighted.](media/folders-general-tab.PNG "General tab and Parent Folder field highlighted")
 
@@ -46,7 +46,7 @@ Folders are useful for managing groups of guides or assets with the same permiss
 
 ## Change the owner of a folder
 
-When you change the owner of a folder, any guides or subfolders within that folder will be assigned to that owner. This allows you to easily manage access for a group of related guides.
+When you change the owner of a folder, any guides, subfolders, and assets within that folder are assigned to that owner. This allows you to easily manage access for a group of related guides and assets.
 
 1. In the left pane, select **Folders** to view the list of folders in the instance.
 
@@ -57,6 +57,12 @@ When you change the owner of a folder, any guides or subfolders within that fold
 1. In the **Assign Folder** dialog box, select the box to the right of the **Assign to** label to toggle between **Me** and **User or team**. If **Me** is selected, the folder is assigned to you. If **User or team** is selected, you can enter the owner in the **User or team** field or search for an owner.
 
 1. Select **Assign** to save the new owner.
+
+## View the contents of a folder
+
+1. In the left pane, select **Folders** to view the list of folders in the instance.
+
+1. Select the desired folder. The list of active folders, guides, images, 3D models, videos, and object anchors display.
 
 ## Next steps
 
