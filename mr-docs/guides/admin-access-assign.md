@@ -1,8 +1,8 @@
 ---
-title: Assign ownership of a guide in Dynamics 365 Guides
-description: Learn how to assign ownership of a guide in Microsoft Dynamics 365 Guides.
+title: Assign ownership of a guide or folder in Dynamics 365 Guides
+description: Learn how to assign ownership of a guide or folder in Microsoft Dynamics 365 Guides.
 author:  annitachow
-ms.topic: conceptual
+ms.topic: how-to
 ms.date: 07/19/2023
 ms.author: anchow
 ms.reviewer: v-wendysmith
