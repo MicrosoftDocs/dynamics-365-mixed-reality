@@ -24,6 +24,9 @@ When you change the owner of a folder, any guides, subfolders, and assets within
 
 1. Select **Assign** to save the new owner.
 
+   > [!NOTE]
+   > By default, authors and restricted authors have access to all assets (3D parts, images, videos, and object anchors). If you want to restrict access to certain assets, create a new security role or update permissions for the particular users. 
+
 ## Assign a guide to a user or an owner team
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
