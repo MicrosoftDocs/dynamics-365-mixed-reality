@@ -13,7 +13,7 @@ ms.reviewer: v-wendysmith
 After [creating a guide with the PC app](create-guide.md) in Microsoft Dynamics 365 Guides, the next step in the authoring process is to place the holograms in your real-world 
 environment. During this stage of the process, you'll walk through each step in your guide and place any assets that you associated with that step when you authored 
 it in the PC app. For example, if you added a 3D part to help operators with a step, you'll place that part over its physical counterpart in the real world. If you 
-added a 3D object from the 3D toolkit (for example, an arrow or a number), you'll place that object in an appropriate place where it can draw the 
+added a 3D object from the toolkit (for example, an arrow or a number), you'll place that object in an appropriate place where it can draw the 
 user's attention. You can place the same 3D part or 3D object as many times as you want.
 
 > [!NOTE]
@@ -25,7 +25,7 @@ user's attention. You can place the same 3D part or 3D object as many times as y
 
 2. Use gaze and gestures to place the 3D part hologram over its counterpart in the real world. [Learn how to manipulate holograms](#manipulate-holograms).
 
-## Place a 3D model from the 3D toolkit
+## Place a 3D model from the toolkit
 
 If you added a 3D model to the bin in the PC app, you can place the 3D model in the same way that you place a 3D part. You can also add a 3D model directly from the [!include[pn-hololens](../includes/pn-hololens.md)] app (you don't have to add it in the PC app first).
 

@@ -17,7 +17,7 @@ Other online documentation in [!include[pn-dyn-365-guides](../includes/pn-dyn-36
 ### Gather content
 
 Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content (if you have any), 
-and the physical objects themselves (if feasible). Don't worry if you don't have any 3D content. Guides includes a 3D Toolkit 
+and the physical objects themselves (if feasible). Don't worry if you don't have any 3D content. Guides includes a Toolkit 
 (including simple models such as arrows, hands, zones, and so on) that you can use to get started.
 
 ### Understand the space
@@ -303,9 +303,9 @@ Shoot videos from a third-person or first-person perspective.
 
 - For first-person videos, we recommend mounting a camera to the authors head using a GoPro or similar device.
     
-## 3D toolkit
+## Toolkit
 
-### 3D toolkit categories:
+### Toolkit categories:
 
 #### Arrows
 
@@ -330,7 +330,7 @@ Shoot videos from a third-person or first-person perspective.
 
 - Hands are best for communicating specific hand orientations or movements.
 
-- Use hands when you want the operator to use their hands in a specific way to grab or manipulate something. There are various poses for specific interactions that are available in the 3D toolkit such as Pull, Push, Pinch, Grab, and so on. Combine hands with arrows and/or additional 3D holograms to add additional meaning.
+- Use hands when you want the operator to use their hands in a specific way to grab or manipulate something. There are various poses for specific interactions that are available in the toolkit such as Pull, Push, Pinch, Grab, and so on. Combine hands with arrows and/or additional 3D holograms to add additional meaning.
 
 - Generally, the "Pick Up" or "Place" shader works best with hands allowing operators to visually align their hands with the hologram.
 
@@ -386,7 +386,7 @@ Shoot videos from a third-person or first-person perspective.
 
 ## Custom 3D holograms
 
-- In general, try to accomplish a step by using the 3D toolkit. If you can't achieve the desired result with 3D toolkit assets, you can use a custom asset, image, or video instead.
+- In general, try to accomplish a step by using the toolkit. If you can't achieve the desired result with toolkit assets, you can use a custom asset, image, or video instead.
 
 - Use custom high-fidelity assets where details matter, and custom low-fidelity assets for high-level principles where details aren't as important. For example, if detailed accuracy is important, like referencing a specific port or lever, highly detailed custom assets may be necessary. On the other hand, if you're trying to show how to align an object, a general shape may achieve the desired effect.
 
@@ -396,7 +396,7 @@ Shoot videos from a third-person or first-person perspective.
 
 - Use a custom hologram of the entire object for orientation and alignment steps.
 
-- You can always use a combination of custom assets with the 3D toolkit on any step.
+- You can always use a combination of custom assets with the toolkit on any step.
 
 ## Hologram styles
 
@@ -408,7 +408,7 @@ Shoot videos from a third-person or first-person perspective.
 
 #### Original
 
-- For 3D toolkit assets, the Original shader is a white material.
+- For toolkit assets, the Original shader is a white material.
 
    –	The Original white material is a good generic style because it doesn't have any strong pre-existing connotations for operators.
 
@@ -466,7 +466,7 @@ Shoot videos from a third-person or first-person perspective.
 
   –	Having the operator pick up a part/piece. This works especially well on:
     
-   - The hands holograms in the 3D toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
+   - The hands holograms in the toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
 
    – Picking up parts because the outline around the real-world object visually distinguishes it from the rest of the environment.
 

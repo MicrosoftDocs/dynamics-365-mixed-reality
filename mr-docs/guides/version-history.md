@@ -326,7 +326,7 @@ Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both a
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/prepare-folders-guides-list-dynamics-365-guides-model-driven-app-admins" target="_blank">Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a>| Yes |<a href="/dynamics365/mixed-reality/guides/admin-create-folders" target="_blank">Organize guides into folders in Dynamics 365 Guides (for admins)</a>|
-| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/measure-lengths-angles-new-3d-toolkit-shapes" target="_blank">Measure lengths and angles with new 3D toolkit shapes</a>| Yes |<a href="/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D model from the 3D toolkit</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/measure-lengths-angles-new-3d-toolkit-shapes" target="_blank">Measure lengths and angles with new toolkit shapes</a>| Yes |<a href="/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D model from the toolkit</a>|
 
 #### Bugs fixed
 
@@ -541,7 +541,7 @@ Version 301.1910.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 #### Other updates
 
-- Removed different sizes for the same model from the 3D toolkit (this change requires a solution update). Because authors can now resize models, the different sizes are no longer required.
+- Removed different sizes for the same model from the toolkit (this change requires a solution update). Because authors can now resize models, the different sizes are no longer required.
 
 - Updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holographic OS (Shell) behavior where the Step card follows you when the option is turned on.
 
@@ -557,7 +557,7 @@ Version 200.1909.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 #### Other updates
 
-The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
+The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the toolkit.
 
 ## 2019 Release Wave 1
 

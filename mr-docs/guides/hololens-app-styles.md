@@ -64,7 +64,7 @@ For example, as an author, you want to obscure a diagram that contains sensitive
 :::image type="content" source="media/original-scene.jpg" alt-text="Original image before Obscure and Passthrough are applied, from an author's view.":::
 
 1. [Create a guide](create-guide.md) that has a single step.
-1. [Place a 3D cube](pc-app-add-3D-model.md) from the 3D toolkit in front of the diagram.
+1. [Place a 3D cube](pc-app-add-3D-model.md) from the toolkit in front of the diagram.
 1. Add the **Obscure** style to the 3D object. Anything in front of the diagram will also be obscured.
 1. To make the airplane pylon always visible, place a 3D model of the pylon over the pylon image. Add the **Pass-through** style.
 1. Open the guide in operator mode, and go to the step before you make a call, take pictures, or record a video.

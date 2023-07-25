@@ -36,7 +36,7 @@ You can add 3D content, media, or website links to help operators complete a ste
 
 | Content type | Description | Example |
 |---|---|---|
-| [3D models from the 3D toolkit](pc-app-add-3D-model.md) | Ready-to-use 3D models, such as numbers, arrows, and hands | A holographic arrow that helps operators find a focus area |
+| [3D models from the toolkit](pc-app-add-3D-model.md) | Ready-to-use 3D models, such as numbers, arrows, and hands | A holographic arrow that helps operators find a focus area |
 | [3D part](pc-app-add-3D-part.md) | 3D models that are specific to your company | A 3D part hologram that helps operators find a 3D part in the real world |
 | [Image](pc-app-add-media.md) | A 2D image file | A diagram that helps operators complete a complex step |
 | [Video](pc-app-add-media.md) | A video file | A short video that helps operators complete a complex step |
@@ -75,7 +75,7 @@ Use the buttons in the navigation pane on the left side of the **Step Editor** p
 
 ## What's next?
 
-- [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
+- [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
 - [Add a 3D part](pc-app-add-3D-part.md)
 - [Add an image or video file](pc-app-add-media.md)
 - [Add a website or Power Apps link](pc-app-website-powerapps-link.md)

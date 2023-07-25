@@ -66,7 +66,7 @@ You create a trigger in the same way that you create any other hologram in the P
 > [!NOTE]
 > You can also [create a trigger directly in the HoloLens app](hololens-app-trigger.md).
 
-1. In the PC app, select the **3D toolkit** tab.
+1. In the PC app, select the **Toolkit** tab.
 
 2. Open the **Triggers** section, and then drag the type of trigger (**Back**, **Invisible**, or **Next**) you want to the bin.
 

@@ -40,7 +40,7 @@ The app currently looks up media by file name. For example, if you have one file
 
 ## You don't see media or 3D content that you uploaded to the app
 
-Currently, when you upload content, the app doesn't automatically scroll to the place in the library where the content is uploaded. To find the content, go to the library on the right side of the page, and select the appropriate tab (**3D parts**, **Images**, **Actions**, **Videos**, or **3D toolkit**). You can sort content by newest or by alphabetical order. Alternatively, you can search for a specific file name. 
+Currently, when you upload content, the app doesn't automatically scroll to the place in the library where the content is uploaded. To find the content, go to the library on the right side of the page, and select the appropriate tab (**3D parts**, **Images**, **Actions**, **Videos**, or **Toolkit**). You can sort content by newest or by alphabetical order. Alternatively, you can search for a specific file name. 
 
 If any errors occurred during upload, the PC app shows notifications in the title bar. Make sure that content that you upload is in the correct file format. For information about supported file formats, see [What file formats are supported for 3D models, images, and videos?](pc-app-supported-file-formats.md)
 

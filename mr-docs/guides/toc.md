@@ -115,7 +115,7 @@
 ##### [Structure your guide in the Outline page](structure-guide.md)
 ##### Create steps and add 3D models or media
 ###### [Step Editor overview](pc-app-step-editor-overview.md)
-###### [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
+###### [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
 ###### [Add a custom 3D part that you import](pc-app-add-3D-part.md)
 ###### [Tips for pointing at small objects](pc-app-point-small-objects.md) 
 ###### [Add media (images or videos)](pc-app-add-media.md)
@@ -230,7 +230,7 @@
 #### [Segregate guides between organizational entities strategy](gxp-guidance/strategy-for-segregating-guides-between-organizational-entities.md)
 #### [User control and access strategy](gxp-guidance/strategy-for-user-control-and-access.md)
 #### [Access control and Identity and Access Management strategy](gxp-guidance/strategy-for-access-control-and-iam.md)
-#### [Content and 3D toolkit ownership strategy](gxp-guidance/strategy-for-content-and-3d-toolkit-ownership.md)
+#### [Content and toolkit ownership strategy](gxp-guidance/strategy-for-content-and-3d-toolkit-ownership.md)
 #### [Versioning guides strategy](gxp-guidance/strategy-for-versioning-guides.md)
 #### [Integration to a Quality Management or Learning Management system strategy](gxp-guidance/strategy-for-integrations-to-qmslms.md)
 #### [Electronic records and electronic signature](gxp-guidance/electronic-records-and-electronic-signature.md)

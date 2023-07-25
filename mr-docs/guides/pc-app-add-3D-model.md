@@ -11,14 +11,14 @@ ms.custom: bap-template
 
 # Add a 3D model from the toolkit to a step in the Dynamics 365 Guides PC app
 
-Microsoft Dynamics 365 Guides includes a library of predefined 3D objects that are optimized to work perfectly with HoloLens. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following illustration shows an example where holographic numbers, arrows, and zones are used to help operators complete a step.
+Microsoft Dynamics 365 Guides includes a library of predefined 3D objects that are optimized to work perfectly with HoloLens. The toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following illustration shows an example where holographic numbers, arrows, and zones are used to help operators complete a step.
 
 ![Example of holographic numbers, arrows, and zones.](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and zones")
 
 You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you want in a step.
 
 > [!NOTE]
-> Some 3D toolkit items have built-in animations that you can turn on or off. [Learn more about animation options.](hololens-app-animations.md)
+> Some toolkit items have built-in animations that you can turn on or off. [Learn more about animation options.](hololens-app-animations.md)
 
 To add a model from the toolkit, follow these steps.
 

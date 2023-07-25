@@ -36,7 +36,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 6. If this is your first time scanning the object, select **Confirm** or **Rescan**. If the object has been scanned previously, the guide will be successfully anchored to the object anchor. HoloLens automatically goes to the first step of the guide. 
 
 > [!TIP]
-> You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using an object anchor, a good way to control hologram offset is to test alignment by placing arrows from the 3D toolkit at key points on either ends of the object (for example, a corner or button). If the arrows are not aligned to the target object, you may need to tap the **Anchor** button to rescan. 
+> You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using an object anchor, a good way to control hologram offset is to test alignment by placing arrows from the toolkit at key points on either ends of the object (for example, a corner or button). If the arrows are not aligned to the target object, you may need to tap the **Anchor** button to rescan. 
  
 ## Anchor a guide by using a QR code anchor
 

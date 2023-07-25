@@ -18,7 +18,7 @@ Supporting assets include:
 
     - Your custom 3D models
 
-    - 3D models from the 3D toolkit (arrows and numbers, for example)
+    - 3D models from the toolkit (arrows and numbers, for example)
 
     - 2D media (images and videos)
 
