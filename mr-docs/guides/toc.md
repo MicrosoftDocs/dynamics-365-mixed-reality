@@ -41,7 +41,7 @@
 ##### [Create an access team](admin-access-teams.md)
 ##### [Share a guide or folder](admin-share-guide.md)
 ##### [Share the Guides model-driven app](admin-share-guides-hub.md)
-#### [Invite a user as a guest](admin-add-guest-user.md)
+##### [Invite a user as a guest](admin-add-guest-user.md)
 ### Protect company information by restricting capabilities
 #### [Overview of restricting capabilities](restricted-mode-overview.md)
 #### [Manage Microsoft Teams policies](admin-teams-policies.md)
