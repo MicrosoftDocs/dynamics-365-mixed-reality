@@ -1,5 +1,5 @@
 ---
-title: Restrict access to certain assets in Dynamics 365 Guides
+title: Restrict access to assets
 description: Learn how to restrict access to specific assets Microsoft Dynamics 365 Guides.
 author:  annitachow
 ms.topic: how-to

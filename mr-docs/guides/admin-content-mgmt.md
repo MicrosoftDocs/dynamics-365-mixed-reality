@@ -13,17 +13,17 @@ ms.reviewer: v-wendysmith
 Guides and their assets (3D parts, images, videos, and object anchors) can be assigned owners or shared with other in your organization. If you organized your guides and their assets into folders, you can assign ownership to the folder. If you don't have your guides and assets organized into folders, you can assign ownership to a guide.
 
 > [!NOTE]
-> By default, Authors and Restricted authors have access to all assets unless otherwise specified. Admins can restrict access by managing permissions or creating a new security role. See [Restrict ].
+> By default, Authors and Restricted authors have access to all assets unless otherwise specified. Admins can restrict access by managing permissions or creating a new security role. See [Restrict access to assets](admin-restrict-access-assets.md).
 
 ## Folder ownership and access
 
-When an admin or author creates a folder in Microsoft Dynamics 365 Guides, they assign an owner to the folder. You can add guides, assets, and subfolders to the new folder. Admins and authora have access to all items in that folder and its subfolders.
+When an admin or author creates a folder in Microsoft Dynamics 365 Guides, they assign an owner to the folder. You can add guides, assets, and subfolders to the new folder. Admins and authors have access to all items in that folder and its subfolders.
 
 Admins and authors can assign ownership of the folder to another person or team, or keep ownership and share the folder.
 
 ## Guide ownership and access
 
-When you create a guide in Microsoft Dynamics 365 Guides, you are automatically assigned as the owner of the guide. If you want to share ownership of the guide with others in your organization, you can:
+When you create a guide in Microsoft Dynamics 365 Guides, you're automatically assigned as the owner of the guide. If you want to share ownership of the guide with others in your organization, you can:
 
 Assign ownership of the guide to another person or team, or keep ownership of the guide, but let someone else work on it with you by using the **Share** option.
 
