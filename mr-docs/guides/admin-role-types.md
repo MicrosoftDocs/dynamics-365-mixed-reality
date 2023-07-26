@@ -4,7 +4,7 @@ description: Learn about the Author, Operator, Restricted Author, and Restricted
 author:  Mamaylya
 ms.topic: article
 ms.date: 11/08/2021
-ms.author: mamaylya
+ms.author: davepinch
 ms.reviewer: v-wendysmith
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 05/24/2023
 ms.topic: faq
 title: Known issues with the Dynamics 365 Guides PC app

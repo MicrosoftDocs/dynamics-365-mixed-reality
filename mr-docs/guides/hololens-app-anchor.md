@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Learn how to anchor a guide when you're using the Microsoft Dynamics 365 Guides HoloLens app in Author mode.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 11/08/2021
 ms.topic: article
 title: Anchor a guide as an author with the Dynamics 365 Guides HoloLens app 

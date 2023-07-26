@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Learn how to change a setting in the Dynamics 365 Guides HoloLens app
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: article
 title: Change a setting in the Dynamics 365 Guides HoloLens app

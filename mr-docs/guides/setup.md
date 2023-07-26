@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Get an overview of the installation process for Microsoft Dynamics 365 Guides. 
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 02/21/2023
 ms.topic: overview
 title: Overview of installing Dynamics 365 Guides

@@ -4,7 +4,7 @@ description: Learn how to share a guide in Microsoft Dynamics 365 Guides by usin
 author:  Mamaylya
 ms.topic: how-to
 ms.date: 02/15/2023
-ms.author: mamaylya
+ms.author: davepinch
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---

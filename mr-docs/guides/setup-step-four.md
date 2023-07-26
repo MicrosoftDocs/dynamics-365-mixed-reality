@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Step 4 of the setup process for Microsoft Dynamics 365 Guides. In this step, you set up Power BI reports.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 11/08/2021
 ms.topic: article
 title: Set up Power BI reports in Dynamics 365 Guides (last step in Setup process)

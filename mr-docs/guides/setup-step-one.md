@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Learn how to buy a subscription for Microsoft Dynamics 365 Guides
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 11/17/2020
 ms.topic: article
 title: Buy a Dynamics 365 Guides subscription

@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Learn about Dynamics 365 Remote Assist now included with Dynamics 365 Guides 8.0 
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 07/10/2023
 ms.topic: overview
 title: Dynamics 365 Remote Assist features in Dynamics 365 Guides 8.0

@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-ms.author: mamaylya
+ms.author: davepinch
 description: Learn about supported file formats for 3D models, images, and videos in Microsoft Dynamics 365 Guides.
 ms.date: 03/29/2023
 ms.topic: article

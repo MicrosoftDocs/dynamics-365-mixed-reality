@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Learn how to avoid and fix a corrupted guide in Dynamics 365 Guides
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 02/15/2023
 ms.topic: how-to
 title: Fix a corrupted guide in Dynamics 365 Guides

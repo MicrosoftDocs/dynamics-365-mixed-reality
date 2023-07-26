@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Learn about how HoloLens (first gen) works with and Dynamics 365 Guides
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 11/08/2021
 ms.topic: article
 title: Use HoloLens (first gen) devices with Dynamics 365 Guides

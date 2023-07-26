@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Get an overview of the process of authoring a guide in the Microsoft Dynamics 365 Guides HoloLens app.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: overview
 title: Authoring overview--Dynamics 365 Guides HoloLens app

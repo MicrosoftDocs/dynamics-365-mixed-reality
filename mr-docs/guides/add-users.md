@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Add additional user accounts to a Microsoft Dynamics 365 Guides license.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 08/10/2022
 ms.topic: article
 title: Add additional users in Dynamics 365 Guides

@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 07/05/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides

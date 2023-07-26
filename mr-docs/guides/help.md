@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Use the Help menu in Microsoft Dynamics 365 Guides to find out what's new and more.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 11/08/2021
 ms.topic: article
 title: Get help with Dynamics 365 Guides

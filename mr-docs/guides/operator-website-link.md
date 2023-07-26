@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Learn how to open a website, email, another guide, or custom app from the Microsoft Dynamics 365 Guides HoloLens app.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 04/04/2023
 ms.topic: how-to
 title: Open a website, email, guide, or custom app from the Guides HoloLens app

@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Learn how to filter a long list of guides with the HoloLens app (HoloLens 2 only) in Microsoft Dynamics 365 Guides to find the guide you're looking for.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: article
 title: Find a guide with the HoloLens app (for HoloLens  2 only) for Dynamics 365 Guides

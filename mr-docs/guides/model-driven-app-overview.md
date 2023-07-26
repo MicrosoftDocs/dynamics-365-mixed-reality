@@ -1,7 +1,7 @@
 ---
 author: Mamaylya
 description: Guides model-driven app overview
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 06/27/2023
 ms.topic: overview
 title: Guides model-driven app overview

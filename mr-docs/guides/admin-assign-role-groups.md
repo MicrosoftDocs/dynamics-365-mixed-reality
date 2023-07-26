@@ -4,7 +4,7 @@ description: Learn how to assign Author and Operator roles to a Dynamics 365 gro
 author:  Mamaylya
 ms.topic: article
 ms.date: 11/08/2021
-ms.author: mamaylya
+ms.author: davepinch
 ms.reviewer: v-wendysmith
 ---
 
