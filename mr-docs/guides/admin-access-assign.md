@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Assign ownership of a guide or folder in Dynamics 365 Guides
 
+You can assign ownership
+
 ## Change the owner of a folder
 
 When you change the owner of a folder, any guides, subfolders, and assets within that folder are assigned to that owner. This allows you to easily manage access for a group of related guides and assets.
