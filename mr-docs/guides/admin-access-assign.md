@@ -10,15 +10,17 @@ ms.reviewer: v-wendysmith
 
 # Assign ownership of a guide or folder in Dynamics 365 Guides
 
-You can assign ownership
+You can assign ownership to a folder or guide through the model-driven app. For more information, see [Guide content management.](admin-content-mgmt.md)
 
 ## Change the owner of a folder
 
 When you change the owner of a folder, any guides, subfolders, and assets within that folder are assigned to that owner. This allows you to easily manage access for a group of related guides and assets.
 
+1. [Open the model-driven app](open-model-driven-app.md) in Guides.
+
 1. In the left pane, select **Folders** to view the list of folders in the instance.
 
-1. Go to the desired folder, and then at the top of the screen, select **Assign** to display the folder information.
+1. Select the desired folder, and then at the top of the screen, select **Assign** to display the folder information.
 
     ![Assign command highlighted at top of screen.](media/folders-assign.PNG "Assign command highlighted at top of screen")
 
@@ -27,9 +29,11 @@ When you change the owner of a folder, any guides, subfolders, and assets within
 1. Select **Assign** to save the new owner.
 
    > [!NOTE]
-   > By default, authors and restricted authors have access to all assets (3D parts, images, videos, and object anchors). If you want to restrict access to certain assets, create a new security role or update permissions for the particular users. 
+   > By default, authors and restricted authors have access to all assets (3D parts, images, videos, and object anchors). If you want to restrict access to certain assets, [create a new security role or update permissions](admin-restrict-access-assets.md) for the particular users. 
 
-## Assign a guide to a user or an owner team
+## Change the owner of a guide
+
+Change the owner of a guide to a user or an owner team
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
@@ -54,14 +58,26 @@ When you change the owner of a folder, any guides, subfolders, and assets within
 
 1. Select **Assign** when you're done.
 
+## Share a folder with someone else
+
+1. [Open the model-driven app](open-model-driven-app.md) in Guides.
+
+1. In the left pane, select **Folders** to view the list of folders in the instance.
+
+1. Select the desired folder, and then at the top right of the screen, select **Share** > **Copy link**.
+
+1. Share the link with the appropriate users.
+
 ## Share a guide with someone else
 
 Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In exceptional cases, you can use the **Share** option for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](/dynamics365/mixed-reality/guides/admin-access-teams).
 
 > [!NOTE]
-> When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content.
+> When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
 >
 > ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app")
+>
+> Or, put all assets for a guide in a folder and share the folder.
 
 ## See also
 
