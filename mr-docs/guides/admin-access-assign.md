@@ -26,6 +26,8 @@ When you change the owner of a folder, any guides, subfolders, and assets within
 
 1. In the **Assign Folder** dialog box, select the box to the right of the **Assign to** label to toggle between **Me** and **User or team**. If **Me** is selected, the folder is assigned to you. If **User or team** is selected, you can enter the owner in the **User or team** field or search for an owner.
 
+   :::image type="content" source="media/folder-assign-to.png" alt-text="Screenshot of Assign to dialog box.":::
+
 1. Select **Assign** to save the new owner.
 
    > [!NOTE]
@@ -33,7 +35,7 @@ When you change the owner of a folder, any guides, subfolders, and assets within
 
 ## Change the owner of a guide
 
-Change the owner of a guide to a user or an owner team
+Change the owner of a guide to a user or an owner team.
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 

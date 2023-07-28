@@ -24,13 +24,11 @@ To add a model from the toolkit, follow these steps.
 
 1. On the right side of the page, select the **Toolkit** tab. Then, select the category for the type of item that you want to add.
 
-   :::image type="content" source="media/select-3D-toolkit.png" alt-text="Screenshot of the right-side pane with the Toolkit tab highlighted.":::
+    ![Screenshot of the right-side pane with the Toolkit tab highlighted.](media/select-3D-toolkit.png "Screenshot of the right-side pane with the Toolkit tab highlighted.")
 
-1. Drag the 3D model that you want to one of the **3D parts** boxes.
+1. Drag the 3D model from the **Toolkit** tab that you want to one of the **3D parts** boxes.
 
-    ![Dragging a 3D model to a 3D parts box.](media/select-arrow.PNG "Dragging a 3D model to a 3D parts box")
-
-1. To preview the model, select (click or double-click) the model in the **My files** tab.
+1. To preview the model, select (click or double-click) the model.
 
 > [!NOTE]
 > You can also add 3D models from the toolkit directly in the HoloLens app.
@@ -43,7 +41,7 @@ To add a model from the toolkit, follow these steps.
 
 - Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions, such as Pull, Push, Pinch, and Grab. Combine these standard poses with arrows and/or icons to add more meaning.
 
-- You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **My files** tab.
+- You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Toolkit** tab.
 
 For more information about ways to use objects from the toolkit, see [Create a great guide](great-guide.md).
 

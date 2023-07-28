@@ -21,6 +21,8 @@ When you create a folder in Microsoft Dynamics 365 Guides, you assign an owner t
 
 Admins and authors can assign ownership of the folder to another person or team, or keep ownership and share the folder.
 
+If a user does not have access to a folder, they can't see the breadcrumb or parent folder path in the PC app. By default, folders have permission at the user level while assets have permission at the teams level. This means that if a user doesn't have access to a folder, they can still see the assets as they need them for a guide, but can't see the assets organized in the folder. 
+
 ## Guide ownership and access
 
 When you create a guide in Microsoft Dynamics 365 Guides, you're automatically assigned as the owner of the guide. You can assign ownership of the guide to another person or team. To keep ownership of the guide but let someone else work on it with you, use the **Share** option.

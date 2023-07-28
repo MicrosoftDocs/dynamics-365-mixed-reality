@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 ms.author: davepinch
-ms.date: 03/01/2023
+ms.date: 07/27/2023
 ms.topic: article
 title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 ms.reviewer: v-wendysmith
@@ -94,7 +94,7 @@ Each of these steps is described in detail below.
     > 
     > ![Try Preview button highlighted in Anchor wizard](media/AOA-try-preview-button.PNG "Try Preview button highlighted in Anchor wizard")
 
-3. To add your 3D model as an object anchor, on the **Library** tab, select **Create**. 
+3. To add your 3D model as an object anchor, on the **My files** tab, select **Create**. 
 
     ![Library tab with Create button highlighted](media/AOA-create-anchor.PNG "Library tab with Create button highlighted")
 
@@ -153,9 +153,12 @@ If you want to be able to easily identify your object anchor in the **Library** 
 
 ## Assign the object anchor to a guide in the Anchor wizard 
 
-1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Object anchors** tab. 
+1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **My files** tab. You should see your object anchor. 
 
-2. Drag the object anchor to the **Anchor** icon in the **Assign an object anchor** area to assign it to the guide, and then select **Next**. 
+   > [!TIP]
+   > The filter is automatically set to **Object anchors**.
+
+1. Drag the object anchor to the **Anchor** icon in the **Assign an object anchor** area to assign it to the guide, and then select **Next**. 
 
     ![Screen shot showing where to drag the anchor to and from](media/AOA-drag-object.PNG "Screen shot showing where to drag the anchor to and from")
     

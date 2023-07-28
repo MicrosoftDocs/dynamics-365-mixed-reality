@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a holographic anchor
 ms.author: davepinch
-ms.date: 08/02/2021
+ms.date: 07/27/2023
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a holographic anchor
-ms.reviewer: v-brycho
+ms.reviewer: mhart
 ---
 
 # Anchor your guide in the Dynamics 365 Guides PC app by using a holographic anchor
@@ -42,12 +42,14 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     ![Select button for the Holographic anchor method.](media/holographic-anchor-choose-method.PNG "Select button for the Holographic anchor method")
 
-3. In step 1 of the wizard, select **Import**, find your custom 3D model, and then select **Open** to import it. The model is added to the **3D parts** tab in the gallery.
+3. In step 1 of the wizard, select **Import**, find your custom 3D model, and then select **Open** to import it. The model is added to the **My files** tab in the gallery.
 
     ![Import button.](media/holographic-anchor-import-button.PNG "Import button")
 
-4. Drag the 3D model from the **3D parts** tab to the **Assign holographic anchor** box. The 3D model is assigned as the holographic anchor for the guide. When you've finished, 
-select **Next** to move to the next step.
+   > [!TIP]
+   > The filter is automatically set to **3D parts**.
+
+4. Drag the 3D model from the **My files** tab to the **Assign holographic anchor** box. The 3D model is assigned as the holographic anchor for the guide. When you've finished, select **Next** to move to the next step.
 
     ![Assign holographic anchor box.](media/holographic-anchor-drag-model.PNG "Assign holographic anchor box")
 
@@ -64,10 +66,10 @@ object in your work environment. If you must rotate the object, use air tap and 
 
 7. Go back to the PC app, and then select **Next** in the wizard two times. (You can skip step 2 of the wizard if you took a photo of the location in the previous step.)
 
-8. In step 4 of the wizard, select the **Import** button to import the photo that you took in step 6. Then drag it to the **Import photo of anchor location** box. When you've 
-finished, select **Next** to move to the next step.
+8. In step 4 of the wizard, select the **Import** button to import the photo that you took in step 6. Then drag it to the **Import photo of anchor location** box. When you've finished, select **Next** to move to the next step.
 
-    ![Import photo of anchor location box.](media/holographic-anchor-import-photo.PNG "Import photo of anchor location box")
+   > [!TIP]
+   > The filter is automatically set to **Images**, but if you took a video you can change the filter to **Videos**.
 
 9. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit Step card text**, and then enter your instructions. When you've 
 finished, select **Next** to move to the next step, and then select **Confirm**.
@@ -101,7 +103,6 @@ without encountering any obstructions.
     - Always look at the holographic anchor from multiple angles to make sure that it's aligned to the physical object.
 
 ## What's next?
-
 
 Use the following table to find more information on anchoring.
 

@@ -11,15 +11,17 @@ ms.custom: bap-template
 
 # Create folders in Dynamics 365 Guides to organize your guides and assets
 
-Authors can organize their guides as well as the content of their guides by creating folders. A folder can contain guides, subfolders, and assets (3D parts, images, videos, and object anchors). Folders can be organized to contain all the contents needed for one guide or multiple guides. You can create a hierarchy of folders with subfolders. Each folder can be assigned an owner. When you delete a folder, all items in that folder are also deleted.
+Authors can organize their guides as well as the content of their guides by creating folders. A folder can contain guides, subfolders, and assets (3D parts, images, videos, and object anchors). You can create a hierarchy of folders with subfolders. Each folder can be assigned an owner. When you delete a folder, all items in that folder are also deleted.
 
-[Open the model-driven app](open-model-driven-app.md) in Guides to manage folders.
+Folders are a great way to organize guides and their content especially if you have multiple assets that are all associated with a particular guide or set of guides.
 
 ## Prerequisites
 
 - Guides Admin or Author role
 
 ## Create a folder
+
+1. [Open the model-driven app](open-model-driven-app.md) in Guides to manage folders.
 
 1. In the left pane, select **Folders** to view all folders created in the instance, and then, at the top of the screen, select **New** to create a new folder.
 
@@ -33,7 +35,10 @@ Authors can organize their guides as well as the content of their guides by crea
 
 ## Add a guide or asset to a folder
 
-1. In the left pane, under **Content** select the guide or type of asset you want to add. Then select the particular guide or asset you want to add to the folder.
+1. In the left pane of the model-driven app, under **Content** select Guides or the type of asset you want to add. Then, select the particular guide or asset you want to add to the folder.
+
+   > [!NOTE]
+   > 3D parts in the **Toolkit** can't be added to folders.
 
 1. On the **General** tab, in the **Parent Folder** field, enter the folder name or search for it.
 
@@ -44,11 +49,16 @@ Authors can organize their guides as well as the content of their guides by crea
 > [!TIP]
 > To move a guide or asset back to the root folder, return to the guide details and delete the contents of the **Parent Folder** field.
 
+You can also upload assets to a folder in the PC app. 
+
+- [Import a custom 3D model to use as a 3D part.](pc-app-add-3d-part#import-a-custom-3d-model-to-use-as-a-3d-part)
+- 
+
 ## View the contents of a folder
 
 1. In the left pane, select **Folders** to view the list of folders in the instance.
 
-1. Select the desired folder. The list of active folders, guides, images, 3D models, videos, and object anchors display.
+1. Select the desired folder. The list of active folders, guides, images, 3D models, videos, and object anchors in the folder display.
 
 ## Next steps
 

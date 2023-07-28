@@ -2,10 +2,10 @@
 author: annitachow
 ms.author: anchow
 description: Learn how to add an image or video to a step in the Microsoft Dynamics 365 Guides PC app to help operators with a complex step.
-ms.date: 07/24/2023
+ms.date: 07/28/2023
 ms.topic: how-to
 title: Add an image or video to a step in the Dynamics 365 Guides PC app
-ms.reviewer: v-wendysmith
+ms.reviewer: mhart
 ms.custom: bap-template
 ---
 
@@ -18,16 +18,20 @@ As an author, add an image or video in the Dynamics 365 Guides PC app to help an
 
 1. In the PC app, on the right side of the page, select the **My files** tab.
 
-   :::image type="content" source="media/library-panel.png" alt-text="Screenshot of the right-side pane with the My files tab highlighted.":::
+    ![Screenshot of the right-side pane with the My files tab highlighted.](media/library-panel.png "Screenshot of the right-side pane with the My files tab highlighted")
 
    [!INCLUDE [pc-app-filter-sort](../includes/pc-app-filter-sort.md)]
 
 1. Drag the image or video to the **Media panel** box.
 
-    ![Dragging an image or video to the Image or video box.](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
-
 > [!TIP]
 > You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **My files** tab.
+
+## Import an image or video
+
+You can import your own images and videos and add them to **My files** or a folder in **My files**. To import files, you can drag them from a local file folder or use the **Import** command.
+
+[!INCLUDE [import-include](../includes/pc-app-import.md)]
 
 ## Change a video thumbnail
 

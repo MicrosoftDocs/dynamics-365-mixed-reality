@@ -15,7 +15,7 @@ You can add 3D parts (models specific to your company) in Microsoft Dynamics 365
 
 1. On the right side of the page, select the **My files** tab.
 
-   :::image type="content" source="media/library-panel.png" alt-text="Screenshot of the right-side pane with the My files tab highlighted.":::
+    ![Screenshot of the right-side pane with the My files tab highlighted.](media/library-panel.png "Screenshot of the right-side pane with the My files tab highlighted")
 
    [!INCLUDE [pc-app-filter-sort](../includes/pc-app-filter-sort.md)]
 
@@ -25,39 +25,12 @@ You can add 3D parts (models specific to your company) in Microsoft Dynamics 365
 
 ## Import a custom 3D model to use as a 3D part
 
-You can import your own custom 3D models and add them to the **3D parts** library. To import files, you can drag them from a local file folder or use the **Import** command.
+You can import your own custom 3D models and add them to **My files** or a folder in **My files**. To import files, you can drag them from a local file folder or use the **Import** command.
 
 > [!TIP]
 > You can set animation options (playback speed, direction, and looping) in the HoloLens app.
 
-### Import a file by using a drag-and-drop operation
-
-1. Open Windows File Explorer, and go to the folder that contains the 3D models, images, or videos that you want to import.
-
-1. In the PC app on the right side of the page, select the **My files** tab.
-
-1. Open the folder where you want to import the item.
-
-1. Drag the files to **My files**.
-
-    ![Drag-and-drop animation.](media/drag-drop.gif "Drag-and-drop animation")
-
-### Import a file by using the Import command
-
-1. In the PC app on the right side of the page, select the **My files** tab.
-
-1. Open the folder where you want to import the item.
-
-1. Select **Import** in the lower-right corner of the page.
-
-    ![Import button.](media/import-command.PNG "Import button")
-
-1. Find the files that you want to import, and then select **Open**.
-
-    ![Importing a custom 3D part.](media/import-object.PNG "Importing a custom 3D part")
-
-> [!NOTE]
-> If you have trouble importing a custom 3D part, image, or video, [enable Guides to work in the background](known-issues-pc-app.md#cant-upload-3d-content-or-other-assets).
+[!INCLUDE [import-include](../includes/pc-app-import.md)]
 
 ## Next steps
 
@@ -67,4 +40,4 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 - [Add a website or Power Apps link](pc-app-website-powerapps-link.md)
 - [How to make a great mixed-reality guide](great-guide.md)
 
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+[!INCLUDE [footer-include](../includes/footer-banner.md)]
