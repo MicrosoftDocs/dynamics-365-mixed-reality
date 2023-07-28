@@ -3,7 +3,7 @@ title: Guide content management
 description: Learn about assigning ownership or sharing a folder or a guide in Microsoft Dynamics 365 Guides.
 author:  annitachow
 ms.topic: conceptual
-ms.date: 07/19/2023
+ms.date: 07/28/2023
 ms.author: anchow
 ms.reviewer: v-wendysmith
 ---
@@ -12,16 +12,16 @@ ms.reviewer: v-wendysmith
 
 Guides and their assets (3D parts, images, videos, and object anchors) can be assigned owners or shared with others in your organization. If you organize your guides and their assets into folders, you can assign ownership to the folder. If you don't have your guides and assets organized into folders, you can assign ownership to a guide.
 
-> [!NOTE]
-> By default, Authors and Restricted Authors have access to all assets unless otherwise specified. Admins can restrict access by managing permissions or creating a new security role. See [Restrict access to assets](admin-restrict-access-assets.md).
-
 ## Folder ownership and access
 
 When you create a folder in Microsoft Dynamics 365 Guides, you assign an owner to the folder. You can add guides, assets, and subfolders to the new folder. Owners have access to all items in that folder and its subfolders.
 
 Admins and authors can assign ownership of the folder to another person or team, or keep ownership and share the folder.
 
-If a user does not have access to a folder, they can't see the breadcrumb or parent folder path in the PC app. By default, folders have permission at the user level while assets have permission at the teams level. This means that if a user doesn't have access to a folder, they can still see the assets as they need them for a guide, but can't see the assets organized in the folder. 
+If a user does not have access to a folder, they can't see the parent folder path in the PC app. By default, folders have permission at the user level while assets have permission at the teams level. This means that if a user doesn't have access to a folder, they can still see the assets as they need them for a guide, but can't see the assets organized in the folder. 
+
+> [!NOTE]
+> By default, Authors and Restricted Authors have access to all assets. Although not recommended, admins can restrict access by creating a new security role. See [Restrict access to assets](admin-restrict-access-assets.md).
 
 ## Guide ownership and access
 

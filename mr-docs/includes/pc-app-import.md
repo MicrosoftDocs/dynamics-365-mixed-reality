@@ -20,7 +20,7 @@
 
     ![Import button.](../guides/media/library-panel.png "Import button")
 
-1. Find the files that you want to import, and then select **Open**. The file is added to folder.
+1. Find the files that you want to import, and then select **Open**. The file is added to the folder.
 
 > [!NOTE]
 > If you have trouble importing a custom 3D part, image, or video, [enable Guides to work in the background](../guides/known-issues-pc-app.md#cant-upload-3d-content-or-other-assets).

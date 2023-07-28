@@ -35,10 +35,12 @@ Folders are a great way to organize guides and their content especially if you h
 
 ## Add a guide or asset to a folder
 
-1. In the left pane of the model-driven app, under **Content** select Guides or the type of asset you want to add. Then, select the particular guide or asset you want to add to the folder.
+1. In the left pane of the model-driven app, under **Content** select Guides or the type of asset you want to add. 
 
    > [!NOTE]
    > 3D parts in the **Toolkit** can't be added to folders.
+
+1. Then, select the particular guide or asset you want to add to the folder. You can search or filter for the particular item.
 
 1. On the **General** tab, in the **Parent Folder** field, enter the folder name or search for it.
 
@@ -51,14 +53,14 @@ Folders are a great way to organize guides and their content especially if you h
 
 You can also upload assets to a folder in the PC app. 
 
-- [Import a custom 3D model to use as a 3D part.](pc-app-add-3d-part#import-a-custom-3d-model-to-use-as-a-3d-part)
-- 
+- [Import a custom 3D model to use as a 3D part.](pc-app-add-3D-part.md#import-a-custom-3d-model-to-use-as-a-3d-part)
+- [Import an image or video](pc-app-add-media.md#import-an-image-or-video)
 
 ## View the contents of a folder
 
 1. In the left pane, select **Folders** to view the list of folders in the instance.
 
-1. Select the desired folder. The list of active folders, guides, images, 3D models, videos, and object anchors in the folder display.
+1. Select the desired folder. All active folders, guides, images, 3D models, videos, and object anchors in the folder display.
 
 ## Next steps
 

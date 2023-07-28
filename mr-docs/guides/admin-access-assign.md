@@ -26,12 +26,12 @@ When you change the owner of a folder, any guides, subfolders, and assets within
 
 1. In the **Assign Folder** dialog box, select the box to the right of the **Assign to** label to toggle between **Me** and **User or team**. If **Me** is selected, the folder is assigned to you. If **User or team** is selected, you can enter the owner in the **User or team** field or search for an owner.
 
-   :::image type="content" source="media/folder-assign-to.png" alt-text="Screenshot of Assign to dialog box.":::
+    ![Screenshot of Assign to dialog box.](media/folder-assign-to.png "Screenshot of Assign to dialog box")
 
 1. Select **Assign** to save the new owner.
 
    > [!NOTE]
-   > By default, authors and restricted authors have access to all assets (3D parts, images, videos, and object anchors). If you want to restrict access to certain assets, [create a new security role or update permissions](admin-restrict-access-assets.md) for the particular users. 
+   > By default, Authors and Restricted authors have access to all assets (3D parts, images, videos, and object anchors). If you want to restrict access to certain assets, [create a new security role or update permissions](admin-restrict-access-assets.md) for the particular users. 
 
 ## Change the owner of a guide
 
