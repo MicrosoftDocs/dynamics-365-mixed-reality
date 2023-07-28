@@ -8,7 +8,7 @@ ms.author: anchow
 ms.reviewer: v-wendysmith
 ---
 
-# Assign ownership of a guide or folder in Dynamics 365 Guides
+# Change ownership of a guide or folder in Dynamics 365 Guides
 
 You can assign ownership to a folder or guide through the model-driven app. For more information, see [Guide content management.](admin-content-mgmt.md)
 

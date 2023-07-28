@@ -10,7 +10,9 @@ ms.reviewer: v-wendysmith
 
 # Guide content management
 
-Guides and their assets (3D parts, images, videos, and object anchors) can be assigned owners or shared with others in your organization. If you organize your guides and their assets into folders, you can assign ownership to the folder. If you don't have your guides and assets organized into folders, you can assign ownership to a guide.
+Guides and their assets (3D parts, images, videos, and object anchors) can be assigned owners or shared with others in your organization. 
+
+By organizing your guides and their assets into folders, you can easily assign ownership to the folder.
 
 ## Folder ownership and access
 
