@@ -14,7 +14,10 @@ You can assign ownership to a folder or guide through the model-driven app. For 
 
 ## Change the owner of a folder
 
-When you change the owner of a folder, any guides, subfolders, and assets within that folder are assigned to that owner. This allows you to easily manage access for a group of related guides and assets.
+When an Author or Admin change the owner of a folder, any guides, subfolders, and assets within that folder are assigned to that owner. This allows you to easily manage access for a group of related guides and assets.
+
+> [!NOTE]
+> By default, Authors and Restricted authors have access to all assets (3D parts, images, videos, and object anchors). Although not recommended, admins can restrict access by creating a new security role. See [Restrict access to assets](admin-restrict-access-assets.md) 
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
@@ -29,9 +32,6 @@ When you change the owner of a folder, any guides, subfolders, and assets within
     ![Screenshot of Assign to dialog box.](media/folder-assign-to.png "Screenshot of Assign to dialog box")
 
 1. Select **Assign** to save the new owner.
-
-   > [!NOTE]
-   > By default, Authors and Restricted authors have access to all assets (3D parts, images, videos, and object anchors). If you want to restrict access to certain assets, [create a new security role or update permissions](admin-restrict-access-assets.md) for the particular users. 
 
 ## Change the owner of a guide
 
@@ -62,11 +62,13 @@ Change the owner of a guide to a user or an owner team.
 
 ## Share a folder with someone else
 
+By organizing all guides and assets a user might need into a folder, you can share the folder rather than having to share the guide or the assets individually.
+
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
 1. In the left pane, select **Folders** to view the list of folders in the instance.
 
-1. Select the desired folder, and then at the top right of the screen, select **Share** > **Copy link**.
+1. Select the desired folder, and then at the top right of the screen, select **Share**.
 
 1. Share the link with the appropriate users.
 

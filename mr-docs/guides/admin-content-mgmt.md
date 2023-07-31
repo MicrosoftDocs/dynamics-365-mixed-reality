@@ -3,27 +3,39 @@ title: Guide content management
 description: Learn about assigning ownership or sharing a folder or a guide in Microsoft Dynamics 365 Guides.
 author:  annitachow
 ms.topic: conceptual
-ms.date: 07/28/2023
+ms.date: 07/31/2023
 ms.author: anchow
 ms.reviewer: v-wendysmith
 ---
 
 # Guide content management
 
-Guides and their assets (3D parts, images, videos, and object anchors) can be assigned owners or shared with others in your organization. 
+Authors or admins can organize guides and their assets (3D parts, images, videos, and object anchors) into folders. Then,assign owners to the folders or share them with others. If you don't need the benefits of a folder structure, you can assign guides to an individual or team.
 
-By organizing your guides and their assets into folders, you can easily assign ownership to the folder.
+Assigning ownership of a folder or guide to a user or team is the preferred method for controlling who can use specific guides. Sharing a guide does not change ownership of the guide.
+
+For example, if you have multiple users that need access to a guide and its assets:
+
+- Create a team for those users.
+- Create a folder and add the guide and all its assets. Assign the team as owners to the folder. 
 
 ## Folder ownership and access
 
-When you create a folder in Microsoft Dynamics 365 Guides, you assign an owner to the folder. You can add guides, assets, and subfolders to the new folder. Owners have access to all items in that folder and its subfolders.
+Authors can organize their guides as well as the content of their guides by creating folders. Folders can contain the following: 
 
-Admins and authors can assign ownership of the folder to another person or team, or keep ownership and share the folder.
+- Subfolders 
+- Guides 
+- Images 
+- 3D Objects 
+- Videos  
+- Object anchors  
 
-If a user does not have access to a folder, they can't see the parent folder path in the PC app. By default, folders have permission at the user level while assets have permission at the teams level. This means that if a user doesn't have access to a folder, they can still see the assets as they need them for a guide, but can't see the assets organized in the folder. 
+Folders can be organized to contain all the contents needed for one guide or multiple guides if you have a set of guides that need to be shared or grouped. There can also be other folders nested under a parent folder to create a hierarchy of folders.
+
+When you create a folder in Microsoft Dynamics 365 Guides, you assign an owner to the folder. Owners have access to all items in that folder and its subfolders. You can assign ownership of the folder to another person or team, or keep ownership and share the folder.
 
 > [!NOTE]
-> By default, Authors and Restricted Authors have access to all assets. Although not recommended, admins can restrict access by creating a new security role. See [Restrict access to assets](admin-restrict-access-assets.md).
+> By default, Authors and Restricted Authors have access to all assets. If you don't assign a folder to a user, but the user has access to an asset, the user can see the asset in the PC App and use them, but the folder properties for that asset won't display.
 
 ## Guide ownership and access
 
@@ -31,13 +43,6 @@ When you create a guide in Microsoft Dynamics 365 Guides, you're automatically a
 
 > [!NOTE]
 > You can also assign the ownership of a guide to yourself if you have a role with the Assign privilege. You must be a system administrator to re-assign ownership of a guide that belongs to someone else.
-
-Assigning ownership of a folder or guide to a user or team is the preferred method for controlling who can use specific guides.
-
-For example, if you have multiple users that need access to a guide and its assets:
-
-- Create a team for those users
-- Create a folder and add the guide and all its assets. Assign the team as owners to the folder. 
 
 For more information on privileges, teams, and controlling access to apps, see the following articles.
 
@@ -50,4 +55,4 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 ## Next steps
 
-- [Assign owner of a guide or folder](admin-access-assign.md)
+- [Change ownership of a guide or folder](admin-access-assign.md)
