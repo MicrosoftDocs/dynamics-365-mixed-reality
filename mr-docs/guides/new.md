@@ -19,6 +19,20 @@ This page provides details about the latest release in the **current wave of fea
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
+## August 9, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 806.2307.21001.0 |
+|HoloLens app (HoloLens 2 only)| 806.2307.21001.0 |
+|Solution| 800.6.0.1  |
+
+### Features
+
+- Quickly visualize the impact of calling to your organization with the new Calls Dashboard.
+- Simplify [content management](admin-content-mgmt.md) and permissions by storing your 3D models, videos, and images in the same folders as guides.
+
+
 ## July 5, 2023
 
 Fixed a performance issue in version 805.2306.27001.0 of the HoloLens app.

@@ -105,7 +105,7 @@ Each of these steps is described in detail below.
 
 ## Convert the file in the Guides model-driven app
 
-Use the instructions on the right side of the screen in the Guides model-driven app to select and convert your 3D file.
+Use the instructions on the right side of the screen in the Guides model-driven app to select and convert your 3D file. The following file types are supported: .obj, .fbx, .glb, .gltf, .ply. The maximum file size is 150 MB.  
 
 1. In the **Name** field, enter a name for your object anchor, and then select **Save** at the top of the screen. 
 
@@ -114,26 +114,24 @@ Use the instructions on the right side of the screen in the Guides model-driven 
    > [!Important]
    > The **Choose File** button in the next step won't appear until you select **Save**.
 
-3. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it. 
+1. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it. 
 
-    ![Input section showing Choose File button.](media/AOA-choose-file.PNG "Input section showing Choose File button.")
-
-    > [!NOTE]
-    > The following file types are supported: .obj, .fbx, .glb, .gltf, .ply. The maximum file size is 150 MB.  
-
-4. Under **Conversion**:
+1. Under **Conversion**:
 
     i. Confirm the gravity direction. The default value for the **Gravity** field is **-Y**. This sets the object anchor in the right orientation compared to the floor.
     
-    ii. Verify the measurement type for the **Length Unit** field.
+    ii. Select the measurement type for the **Length Unit** field.
 
-     ![Length Unit field](media/AOA-conversion.PNG "Length Unit field")       
+    ![Length Unit field](media/AOA-conversion.PNG "Length Unit field.")
 
-5. Select **Convert to Object Anchor**. 
+    > [!TIP]
+    > If your upload file is type .fbx, then the length unit is automatically determined. If you override and select **No**, you can manually choose the length unit. 
+
+1. Select **Convert to Object Anchor**. 
 
     This starts the conversion process. The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide. 
 
-6. When the conversion is done, “Completed” appears in the **Conversion Status** field. You can then go back to the Anchor wizard in the PC app to assign the object anchor to the guide. If the conversion fails, start the process again.
+1. When the conversion is done, “Completed” appears in the **Conversion Status** field. You can then go back to the Anchor wizard in the PC app to assign the object anchor to the guide. If the conversion fails, start the process again.
 
 ### Assign a thumbnail to the object anchor (optional)
 
