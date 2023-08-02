@@ -29,9 +29,8 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ### Features
 
-- Quickly visualize the impact of calling to your organization with the new Calls Dashboard.
-- Simplify [content management](admin-content-mgmt.md) and permissions by storing your 3D models, videos, and images in the same folders as guides.
-
+- Quickly visualize the impact of calling to your organization with the new <a href="/dynamics365/mixed-reality/guides/calls-dashboard-guides" target="blank">Calls Dashboard.</a>
+- Simplify <a href="/dynamics365/mixed-reality/guides/admin-content-mgmt" target="_blank">content management </a>and permissions by storing your 3D models, videos, and images in the same folders as guides.
 
 ## July 5, 2023
 

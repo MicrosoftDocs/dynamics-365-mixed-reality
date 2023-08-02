@@ -88,6 +88,7 @@
 #### [Access OneDrive files](onedrive-files.md)
 #### [Teams users capabilities](calling-teams-users.md)
 #### Call data
+#### [Monitor key metrics with the Calls Dashboard](calls-dashboard-guides.md)
 ##### [Call data stored by Dynamics 365 Guides](call-data-logs.md)
 ##### [View and access call data](call-logging.md)
 #### [HoloLens temperature management](calling-hololens-thermal-adjusting.md)
