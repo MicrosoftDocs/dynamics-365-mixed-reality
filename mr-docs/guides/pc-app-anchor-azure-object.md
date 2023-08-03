@@ -10,9 +10,13 @@ ms.reviewer: mhart
 
 # Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 
+[!INCLUDE [public-preview-banner](../includes/public-preview-banner.md)]
+
 > [!VIDEO https://www.youtube.com/embed/BXhMFjGFbTQ]
 
 Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This preview supports large static objects only. Create a Dataverse environment that is separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](/power-platform/admin/environments-overview).
+
+[!INCLUDE [public-preview-note](../includes/public-preview-note.md)]
 
 To use object anchors, authors:
 

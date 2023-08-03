@@ -10,23 +10,23 @@ ms.reviewer: v-wendysmith
 
 # Guide content management
 
-Authors or admins can organize guides and their assets (3D parts, images, videos, and object anchors) into folders. Then,assign owners to the folders or share them with others. If you don't need the benefits of a folder structure, you can assign guides to an individual or team.
+Authors or admins can organize guides and their assets (3D parts, images, videos, and object anchors) into folders. Then, assign owners to the folders or share them with others. If you don't need the benefits of a folder structure, you can assign guides to an individual or team.
 
-Assigning ownership of a folder or guide to a user or team is the preferred method for controlling who can use specific guides. Sharing a guide does not change ownership of the guide.
+Assigning ownership of a folder or guide to a user or team is the preferred method for controlling who can use specific guides. Sharing a guide doesn't change ownership of the guide.
 
 For example, if you have multiple users that need access to a guide and its assets:
 
 - Create a team for those users.
-- Create a folder and add the guide and all its assets. Assign the team as owners to the folder. 
+- Create a folder and add the guide and all its assets. Assign the team as owners to the folder.
 
 ## Folder ownership and access
 
-Authors can organize their guides as well as the content of their guides by creating folders. Folders can contain the following: 
+Authors can organize their guides and the content of their guides by creating folders. Folders can contain:
 
-- Subfolders 
-- Guides 
-- Images 
-- 3D Objects 
+- Subfolders
+- Guides
+- Images
+- 3D Objects
 - Videos  
 - Object anchors  
 
