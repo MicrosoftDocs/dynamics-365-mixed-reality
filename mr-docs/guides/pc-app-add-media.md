@@ -18,11 +18,13 @@ As an author, add an image or video in the Dynamics 365 Guides PC app to help an
 
 1. In the PC app, on the right side of the page, select the **My files** tab.
 
-    ![Screenshot of the right-side pane with the My files tab highlighted.](media/library-panel.png "Screenshot of the right-side pane with the My files tab highlighted")
+1. Find and select your image or video.
 
    [!INCLUDE [pc-app-filter-sort](../includes/pc-app-filter-sort.md)]
 
 1. Drag the image or video to the **Media panel** box.
+
+    ![Screenshot of dragging a file from My files tab to the Media box.](media/select-image-video.png "Screenshot of dragging a file from My files tab to the Media box")
 
 > [!TIP]
 > You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **My files** tab.

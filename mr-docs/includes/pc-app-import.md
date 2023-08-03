@@ -4,11 +4,11 @@
 
 1. In the PC app on the right side of the page, select the **My files** tab.
 
-    ![Import button.](../guides/media/library-panel.png "Import button")
-
 1. Open the folder where you want to import the item.
 
 1. Drag the files to the folder.
+
+    ![Drag and drop import.](../guides/media/drag-drop.gif "Drag and drop import")
 
 ### Import a file by using the Import command
 
@@ -18,9 +18,9 @@
 
 1. Select **Import**.
 
-    ![Import button.](../guides/media/library-panel.png "Import button")
+    ![Import button.](../guides/media/import-command.PNG "Import button")
 
-1. Find the files that you want to import, and then select **Open**. The file is added to the folder.
+1. Find the files that you want to import, and then select **Open**. The files are added to the folder.
 
 > [!NOTE]
 > If you have trouble importing a custom 3D part, image, or video, [enable Guides to work in the background](../guides/known-issues-pc-app.md#cant-upload-3d-content-or-other-assets).

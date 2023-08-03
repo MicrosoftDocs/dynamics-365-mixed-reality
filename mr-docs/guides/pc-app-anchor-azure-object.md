@@ -85,7 +85,7 @@ Each of these steps is described in detail below.
 
     ![Outline page with Anchor command and Set your anchor now command highlighted](media/AOA-outline-anchor.PNG "Outline page with Anchor command and Set your anchor now command highlighted")
 
-2. On the **Choose an anchor method** page, under **Object Anchor (Preview)**, select **Select**.
+1. On the **Choose an anchor method** page, under **Object Anchor (Preview)**, select **Select**.
 
     ![Choose an anchor method page with appropriate Select button highlighted](media/AOA-select-object-anchor.PNG "Choose an anchor method page with appropriate Select button highlighted") 
 
@@ -94,7 +94,7 @@ Each of these steps is described in detail below.
     > 
     > ![Try Preview button highlighted in Anchor wizard](media/AOA-try-preview-button.PNG "Try Preview button highlighted in Anchor wizard")
 
-3. To add your 3D model as an object anchor, on the **My files** tab, select **Create**. 
+1. To add your 3D model as an object anchor, on the **My files** tab, select **Create**. 
 
     ![Library tab with Create button highlighted](media/AOA-create-anchor.PNG "Library tab with Create button highlighted")
 
@@ -125,7 +125,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
     ![Length Unit field](media/AOA-conversion.PNG "Length Unit field.")
 
     > [!TIP]
-    > If your upload file is type .fbx, then the length unit is automatically determined. If you override and select **No**, you can manually choose the length unit. 
+    > If your upload file is type .fbx, then you can have Guides determine the length unit automaticallly. Select **Yes** for **Use Length Unit from File**.
 
 1. Select **Convert to Object Anchor**. 
 
@@ -141,13 +141,13 @@ If you want to be able to easily identify your object anchor in the **Library** 
 
     ![Circle for image thumbnail](media/AOA-select-thumbnail.PNG "Circle for image thumbnail")
 
-2. In the **Choose Image** dialog box, select **Upload Image**, and then select the image to use for the thumbnail.
+1. In the **Choose Image** dialog box, select **Upload Image**, and then select the image to use for the thumbnail.
 
     ![Choose Image dialog box](media/AOA-select-thumbnail-image.PNG "Choose Image dialog box")
 
     The preview image changes after the image has finished uploading. 
-    
-3. Select **Change** to confirm the new image. 
+
+1. Select **Change** to confirm the new image. 
 
 ## Assign the object anchor to a guide in the Anchor wizard 
 
@@ -165,7 +165,7 @@ If you want to be able to easily identify your object anchor in the **Library** 
     > 
     > ![Screen shot showing Properties tab with object anchor](media/AOA-preview-object-anchor.PNG "Screen shot showing Properties tab with object anchor")
 
-3. The next three steps in the Anchor wizard are optional: 
+1. The next three steps in the Anchor wizard are optional: 
 
     a. Take a photo of the target object, and then select **Next**.
 
@@ -177,13 +177,13 @@ If you want to be able to easily identify your object anchor in the **Library** 
 
 1. Open the guide in the HoloLens app.  
 
-2. Locate the target object in your physical environment.
+1. Locate the target object in your physical environment.
 
-3. Select **Initiate Scan**.  
+1. Select **Initiate Scan**.  
 
-4. Move around the object to scan it. HoloLens automatically recognizes the object based on the object anchor. 
+1. Move around the object to scan it. HoloLens automatically recognizes the object based on the object anchor. 
 
-5. Continue to move around the object if you’re prompted to do so.
+1. Continue to move around the object if you’re prompted to do so.
 
     When the scan is successful, the object will have a green overlay. 
 

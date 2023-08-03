@@ -52,7 +52,7 @@ The top section of the dashboard contains high-level metrics for the current dat
 
 This section contains a visualization of the current data.
 
-![Screenshot of the Guides Calls Dashboard.](media/calls-dashboard-guides-usage.png)
+![Screenshot of the Guides usage section on the Calls Dashboard.](media/calls-dashboard-guides-usage.png)
 
 - To toggle between call count and call duration, tap  **Count** or **Duration**.
 

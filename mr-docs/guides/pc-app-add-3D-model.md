@@ -24,24 +24,26 @@ To add a model from the toolkit, follow these steps.
 
 1. On the right side of the page, select the **Toolkit** tab. Then, select the category for the type of item that you want to add.
 
-    ![Screenshot of the right-side pane with the Toolkit tab highlighted.](media/select-3D-toolkit.png "Screenshot of the right-side pane with the Toolkit tab highlighted.")
-
 1. Drag the 3D model from the **Toolkit** tab that you want to one of the **3D parts** boxes.
 
+    ![Screenshot of the Toolkit tab highlighted dragging an arrow.](media/select-3D-toolkit.png "Screenshot of the Toolkit tab highlighted dragging an arrow")
+
 1. To preview the model, select (click or double-click) the model.
+
+    ![Screenshot of the Properties tab.](media/properties-tab.png "Screenshot of the Properties tab")
 
 > [!NOTE]
 > You can also add 3D models from the toolkit directly in the HoloLens app.
 
-## Best practices for the toolkit
+## Follow best practices for the toolkit
 
 - Use pointers to communicate simple spatial information, such as position, direction, and translation. You can adjust the size of the pointer, but you should never reduce it below 1 cm. Otherwise, errors can occur.
 
-- Use the arrow when you want the operator to insert a part into something stationary (for example, to hand-tighten a bolt into a tapped hole).
+- Use the arrow when you want the operator to insert a part into something stationary. For example, to hand-tighten a bolt into a tapped hole.
 
 - Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions, such as Pull, Push, Pinch, and Grab. Combine these standard poses with arrows and/or icons to add more meaning.
 
-- You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Toolkit** tab.
+- Preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Toolkit** tab.
 
 For more information about ways to use objects from the toolkit, see [Create a great guide](great-guide.md).
 
