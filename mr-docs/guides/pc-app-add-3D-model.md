@@ -24,7 +24,7 @@ To add a model from the toolkit, follow these steps.
 
 1. On the right side of the page, select the **Toolkit** tab. Then, select the category for the type of item that you want to add.
 
-1. Drag the 3D model from the **Toolkit** tab that you want to one of the **3D parts** boxes.
+1. Drag the 3D model from the **Toolkit** tab to one of the **3D parts** boxes.
 
     ![Screenshot of the Toolkit tab highlighted dragging an arrow.](media/select-3D-toolkit.png "Screenshot of the Toolkit tab highlighted dragging an arrow")
 

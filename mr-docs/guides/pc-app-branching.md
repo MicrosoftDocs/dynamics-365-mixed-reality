@@ -51,8 +51,8 @@ To create a branch point in a guide, add a question step that includes responses
 
     ![Question step icon.](media/question-step-icon.PNG "Question step icon")
 
-    > [!NOTE]
-    > You can also add a question step by selecting **Add step** in the top-right corner of the **Step Editor**.
+   > [!NOTE]
+   > You can also add a question step by selecting **Add step** in the top-right corner of the **Step Editor**.
 
     ![Step Editor with Add command.](media/branching-add-question-step-step-editor.PNG "Step Editor with Add command")
 
@@ -60,21 +60,21 @@ To create a branch point in a guide, add a question step that includes responses
 
     ![Where to place cursor.](media/branching-add-question-text.PNG "Where to place cursor")
 
-    > [!NOTE]
-    > You can add up to three lines of text per question. If you exceed this limit, a warning appears.
+   > [!NOTE]
+   > You can add up to three lines of text per question. If you exceed this limit, a warning appears.
 
 1. Select a response, and then in the **Properties** tab on the right side of the screen, enter the following information:
 
-    a. In the **Button label** field, enter the text for the response button.
+   1. In the **Button label** field, enter the text for the response button.
 
-    b. In the **Destination** list, select the step that the operator goes to when they select the response button. Steps are organized by task.
+   1. In the **Destination** list, select the step that the operator goes to when they select the response button. Steps are organized by task.
 
       ![Properties tab with Destination example.](media/branching-response-properties.PNG "Properties tab with Destination example")
 
 1. Create the rest of your responses for that step. You can have up to three responses per step. Keep in mind that you can link one question step to another question step, and you can link to any step in the same guide.
 
-    > [!TIP]
-    > To clear a response, right-click the response, and then select **Remove**. If you're using the keyboard, tab to the response, select the **Menu** button on the keyboard, and then select **Remove**.
+   > [!TIP]
+   > To clear a response, right-click the response, and then select **Remove**. If you're using the keyboard, tab to the response, select the **Menu** button on the keyboard, and then select **Remove**.
 
 ### Add a completion step
 
@@ -89,8 +89,8 @@ You can create a completion step from the **Outline** page or the **Step Editor*
 
 - In the **Step Editor**, select **Add**, and then in the context menu, selection **Completion**. The completion step is added to the next step.
 
-    > [!NOTE]
-    > The completion step does not have a **Next** button because it’s intended to be the final step in a guide. The operator can restart the guide from the completion step, choose to open a new guide, or go back by choosing the **Back** button.
+  > [!NOTE]
+  > The completion step does not have a **Next** button because it’s intended to be the final step in a guide. The operator can restart the guide from the completion step, choose to open a new guide, or go back by choosing the **Back** button.
 
 ### Try out your flow
 
@@ -104,8 +104,8 @@ Try out your branching flow and verify that all responses are configured.
 
     ![Circular button.](media/circular-button.PNG "Circular button")
 
-    > [!NOTE]
-    > Selecting the **Back** button returns you to the last step you were on. If a step or task that was part of the user’s path is deleted, the **Back** button goes to the next available item in the history. If all the previous steps are deleted, an error message appears and the user stays on the current step.
+   > [!NOTE]
+   > Selecting the **Back** button returns you to the last step you were on. If a step or task that was part of the user’s path is deleted, the **Back** button goes to the next available item in the history. If all the previous steps are deleted, an error message appears and the user stays on the current step.
 
 1. To verify that all responses are fully configured, go to the **Outline** page. If one of the responses is missing information for that step, a warning message appears.
 

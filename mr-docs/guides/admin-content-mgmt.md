@@ -26,7 +26,7 @@ Authors can organize their guides and the content of their guides by creating fo
 - Subfolders
 - Guides
 - Images
-- 3D Objects
+- 3D parts
 - Videos  
 - Object anchors  
 
