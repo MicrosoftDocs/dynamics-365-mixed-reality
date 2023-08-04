@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn what kind of call data is stored by Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 06/23/2023

@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to change animation options for a 3D model in the Dynamics 365 Guides HoloLens app
 ms.author: davepinch
 ms.date: 01/18/2022

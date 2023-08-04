@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to find a guide when you're using the Dynamics 365 Guides PC app
 ms.author: davepinch
 ms.date: 06/09/2022

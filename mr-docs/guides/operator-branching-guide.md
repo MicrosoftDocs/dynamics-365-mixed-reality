@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to use a branching (non-linear) guide if you're an operator using Dynamics 365 Guides.
 ms.author: davepinch
 ms.date: 10/01/2020

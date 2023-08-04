@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Describes older features for Dynamics 365 Guides, organized by release date
 ms.author: davepinch
 ms.date: 04/03/2023

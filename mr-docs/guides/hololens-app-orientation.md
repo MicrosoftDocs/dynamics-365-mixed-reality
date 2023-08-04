@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app UI if you're an author. 
 ms.author: davepinch
 ms.date: 11/08/2021

@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to set up Guides Analytics Power BI reports for Microsoft Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 04/05/2022

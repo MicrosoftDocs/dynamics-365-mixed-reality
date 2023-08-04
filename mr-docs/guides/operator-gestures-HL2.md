@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to use gaze and air tap to navigate a guide in Microsoft Dynamics 365 Guides.
 ms.author: davepinch
 ms.date: 11/08/2021

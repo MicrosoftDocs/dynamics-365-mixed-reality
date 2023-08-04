@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Use the PC app in Microsoft Dynamics 365 Guides as the first step in creating a guide. 
 ms.author: davepinch
 ms.date: 06/29/2021

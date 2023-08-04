@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about Microsoft Dynamics 365 Guides tables (entities) that you can use to extend Dynamics 365.
 ms.author: davepinch
 ms.date: 04/05/2022

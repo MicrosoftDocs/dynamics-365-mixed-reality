@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about how HoloLens (first gen) works with and Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 11/08/2021

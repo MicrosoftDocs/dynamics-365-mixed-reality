@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to embed a link in a QR code to make it easy for an operator to open a guide in Dynamics 365 Guides.
 ms.author: davepinch
 ms.date: 08/17/2021

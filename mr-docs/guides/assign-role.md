@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Assign an Author or Operator role to users in Microsoft Dynamics 365 Guides.
 ms.author: davepinch
 ms.date: 11/08/2021

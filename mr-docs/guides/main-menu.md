@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to use the Main menu to start an activity (open a guide, start a call, change a setting, or sign out) in the Dynamics 365 Guides HoloLens app
 ms.author: davepinch
 ms.date: 10/17/2022

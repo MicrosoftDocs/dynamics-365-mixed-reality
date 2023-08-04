@@ -95,10 +95,8 @@ Each of these steps is described in detail below.
 
     > [!NOTE]
     > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the Azure Object Anchors preview. For the preview, Azure Object Anchor data is processed and stored temporarily in the East US region. Additional regions will be added for the General Availability release. 
-    > 
-    > ![Try Preview button highlighted in Anchor wizard](media/AOA-try-preview-button.PNG "Try Preview button highlighted in Anchor wizard")
 
-1. To add your 3D model as an object anchor, on the **My files** tab, select **Create**. 
+1. To add your 3D model as an object anchor, on the **My files** tab, select **Create**.
 
     ![Library tab with Create button highlighted](media/AOA-create-anchor.PNG "Library tab with Create button highlighted")
 
@@ -122,14 +120,14 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 1. Under **Conversion**:
 
-    i. Confirm the gravity direction. The default value for the **Gravity** field is **-Y**. This sets the object anchor in the right orientation compared to the floor.
+    1. Confirm the gravity direction. The default value for the **Gravity** field is **-Y**. This sets the object anchor in the right orientation compared to the floor.
     
-    ii. Select the measurement type for the **Length Unit** field.
+    1. Select the measurement type for the **Length Unit** field.
 
-    ![Length Unit field](media/AOA-conversion.PNG "Length Unit field.")
+       ![Length Unit field](media/AOA-conversion.PNG "Length Unit field.")
 
-    > [!TIP]
-    > If your upload file is type .fbx, then you can have Guides determine the length unit automaticallly. Select **Yes** for **Use Length Unit from File**.
+       > [!TIP]
+       > If your upload file is type .fbx, then you can have Guides determine the length unit automaticallly. Select **Yes** for **Use Length Unit from File**.
 
 1. Select **Convert to Object Anchor**. 
 
@@ -155,12 +153,12 @@ If you want to be able to easily identify your object anchor in the **Library** 
 
 ## Assign the object anchor to a guide in the Anchor wizard 
 
-1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **My files** tab. You should see your object anchor. 
+1. In the PC app Anchor wizard, select **Next** and then **Back** to refresh the **My files** tab. You should see your object anchor.
 
    > [!TIP]
    > The filter is automatically set to **Object anchors**.
 
-1. Drag the object anchor to the **Anchor** icon in the **Assign an object anchor** area to assign it to the guide, and then select **Next**. 
+1. Drag the object anchor to the **Anchor** icon in the **Assign an object anchor** area to assign it to the guide, and then select **Next**.
 
     ![Screen shot showing where to drag the anchor to and from](media/AOA-drag-object.PNG "Screen shot showing where to drag the anchor to and from")
     

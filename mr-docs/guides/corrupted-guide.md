@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to avoid and fix a corrupted guide in Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 02/15/2023

@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to use Microsoft Power Automate and Microsoft Excel to collect response data for a non-linear guide created in Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 11/08/2021

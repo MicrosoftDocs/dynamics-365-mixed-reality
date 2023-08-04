@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Guides model-driven app overview
 ms.author: davepinch
 ms.date: 06/27/2023

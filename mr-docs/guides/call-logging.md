@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to view and access call data stored by Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 06/23/2023

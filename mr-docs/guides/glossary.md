@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Glossary of relevant terminology for Dynamics 365 Guides
-ms.author: Mamaylya
+ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: article
 title: Glossary of terms for Dynamics 365 Guides

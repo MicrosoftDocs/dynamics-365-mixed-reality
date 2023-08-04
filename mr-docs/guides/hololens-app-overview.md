@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Get an overview of the process of authoring a guide in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: davepinch
 ms.date: 10/17/2022

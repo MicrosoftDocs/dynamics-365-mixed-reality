@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Get an overview of workflow examples for Microsoft Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 06/23/2023

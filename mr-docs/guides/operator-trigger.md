@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to use triggers as an operator in the Dynamics 365 Guides HoloLens app to move between steps
 ms.author: davepinch
 ms.date: 10/01/2020

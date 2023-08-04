@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about IP addresses and endpoints required for Dynamics 365 Guides 
 ms.author: davepinch
 ms.date: 09/09/2022

@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: This topic explains how to add a tab on HoloLens that shows a custom list of guides for a specific set of users.
 ms.author: davepinch
 ms.date: 11/28/2022

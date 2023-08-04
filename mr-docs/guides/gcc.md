@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to use Dynamics 365 Guides US Government for government organizations
 ms.author: davepinch
 ms.date: 08/10/2022

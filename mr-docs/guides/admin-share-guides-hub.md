@@ -1,7 +1,7 @@
 ---
 title: Share the Guides model-driven app with other users
 description: Learn how to share the Guides model-driven app to provide access to other team members.
-author:  Mamaylya
+author:  davepinch
 ms.topic: article
 ms.date: 07/07/2021
 ms.author: davepinch

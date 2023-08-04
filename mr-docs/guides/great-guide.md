@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about the do's and don'ts for a successful mixed-reality guide created in Microsoft Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 10/17/2022

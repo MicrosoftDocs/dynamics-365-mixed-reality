@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Take a tour of Guides Analytics Power BI reports for Microsoft Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 04/05/2022

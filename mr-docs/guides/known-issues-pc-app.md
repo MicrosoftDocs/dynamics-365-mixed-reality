@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: davepinch
 ms.date: 05/24/2023

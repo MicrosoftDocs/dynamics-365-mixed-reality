@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 04/28/2023

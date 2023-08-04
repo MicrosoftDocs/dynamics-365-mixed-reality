@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about the Microsoft Teams policies supported by Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 02/14/2023

@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: To preserve privacy, you can opt out of sending telemetry data to Microsoft in the Microsoft Dynamics 365 Guides PC app.
 ms.author: davepinch
 ms.date: 01/28/2020

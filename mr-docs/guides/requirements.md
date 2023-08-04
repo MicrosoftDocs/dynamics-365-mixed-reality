@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about the device and licensing requirements for installing and using Microsoft Dynamics 365 Guides.
 ms.author: davepinch
 ms.date: 03/27/2023

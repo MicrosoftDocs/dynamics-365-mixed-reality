@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Create and copy a guide link in Dynamics 365 Guides to embed in a QR code.
 ms.author: davepinch
 ms.date: 06/29/2021

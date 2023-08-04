@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to activate, deactivate, or delete a guide or guide content (video, image, or 3D part) if you're a Microsoft Dynamics 365 Guides admin.
 ms.author: davepinch
 ms.date: 06/22/2023

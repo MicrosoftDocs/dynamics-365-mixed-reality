@@ -1,5 +1,5 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn everything that you need to know about using the PC authoring app to create a guide in Microsoft Dynamics 365 Guides.
 ms.author: davepinch
 ms.date: 08/10/2022
