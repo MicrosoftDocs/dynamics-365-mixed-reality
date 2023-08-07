@@ -46,7 +46,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
     ![Import button.](media/holographic-anchor-import-button.PNG "Import button")
 
    > [!TIP]
-   > The filter is automatically set to **3D parts**.
+   > The filter is automatically set to **Object anchors**.
 
 1. Drag the 3D model from the **My files** tab to the **Assign holographic anchor** box. The 3D model is assigned as the holographic anchor for the guide. When you've finished, select **Next** to move to the next step.
 

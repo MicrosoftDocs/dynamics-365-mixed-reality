@@ -162,8 +162,8 @@ If you want to be able to easily identify your object anchor in the **Library** 
 
     ![Screen shot showing where to drag the anchor to and from](media/AOA-drag-object.PNG "Screen shot showing where to drag the anchor to and from")
 
-    > [!TIP]
-    > To preview the object anchor, in the Anchor wizard, select the object anchor thumbnail to open the **Properties** tab. You can also view the object anchor in the Guides model-driven app.
+   > [!TIP]
+   > To preview the object anchor, in the Anchor wizard, select the object anchor thumbnail to open the **Properties** tab. You can also view the object anchor in the Guides model-driven app.
 
 1. The next three steps in the Anchor wizard are optional: 
 

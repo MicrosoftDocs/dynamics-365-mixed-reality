@@ -23,8 +23,8 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 806.2307.21001.0 |
-|HoloLens app (HoloLens 2 only)| 806.2307.21001.0 |
+|PC app| 806.2308.3001.0 |
+|HoloLens app (HoloLens 2 only)| 806.2308.3001.0 |
 |Solution| 800.6.0.1  |
 
 ### Features
