@@ -31,7 +31,7 @@ To restrict access to certain assets (3D parts, images, videos, and object ancho
 
     ![Screenshot of Power Platform admin center with Settings > Security Roles  highlighted.](media/ppa-security-roles.png "Power Platform admin center with Settings > Security Roles  highlighted")
 
-1. In the **Settings** page, select **Security roles**. Select **New**.
+1. On the **Settings** page, select **Security roles**. Select **New**.
 
 1. Name the new role and fill out the appropriate information. 
 

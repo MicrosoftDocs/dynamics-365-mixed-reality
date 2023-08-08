@@ -6,6 +6,7 @@ ms.topic: how-to
 ms.date: 07/19/2023
 ms.author: anchow
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Change ownership of a guide or folder in Dynamics 365 Guides
@@ -83,7 +84,7 @@ Teams should be structured so that ownership of a guide is assigned to one or mo
 >
 > Or, put all assets for a guide in a folder and share the folder.
 
-## See also
+## Next steps
 
 - [Create an access team](admin-access-teams.md)
 - [Assign an Operator or Author role to an individual user](assign-role.md)

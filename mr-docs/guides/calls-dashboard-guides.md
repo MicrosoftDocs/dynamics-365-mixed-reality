@@ -54,13 +54,13 @@ This section contains a visualization of the current data.
 
 ![Screenshot of the Guides usage section on the Calls Dashboard.](media/calls-dashboard-guides-usage.png)
 
-- To toggle between call count and call duration, tap  **Count** or **Duration**.
+- To toggle between call count and call duration, select **Count** or **Duration**.
 
-- To group data by time period, tap **Date**, **Month**, **Year**, or **Quarter**.
+- To group data by time period, select **Date**, **Month**, **Year**, or **Quarter**.
 
 ### Call details
 
-This section shows a tabular list of the filtered call data. Tap any column to sort by that column. The following columns are available:
+This section shows a tabular list of the filtered call data. Select any column to sort by that column. The following columns are available:
 
 | Column | Description |
 | --- | --- |
@@ -76,3 +76,8 @@ This section shows a tabular list of the filtered call data. Tap any column to s
 End users can choose whether to give location permissions to the Guides app. If permission isn't granted, the **Location** on the call records from those specific users are blank. To enable or disable location services on all devices, [set the *LetAppsAccessLocation* privacy policy.](/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation)
 
 Location information is retrieved asynchronously from the app only after a call has started; it might be missing if the call is ended abruptly or shortly (0 - 10 seconds, for example) after it has started.
+
+## Next steps
+
+- [Call data stored by Guides](call-data-logs.md)
+- [Analyze Guides usage data](analytics-overview.md)
