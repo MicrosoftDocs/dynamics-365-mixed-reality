@@ -18,7 +18,7 @@ When Microsoft Dynamics 365 Guides users make or receive calls in the HoloLens a
 
 ## Prerequisites
 
-- Access to Power Apps or the Guides model-driven app
+- Access to the Guides model-driven app or Power Apps
 
 ## View call data
 
