@@ -65,9 +65,6 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 1. In step 4 of the wizard, select the **Import** button to import the photo that you took in step 6. Then drag it to the **Import photo of anchor location** box. When you've finished, select **Next** to move to the next step.
 
-   > [!TIP]
-   > The filter is automatically set to **Images**, but if you took a video you can change the filter to **Videos**.
-
 1. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit Step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step, and then select **Confirm**.
 
     ![Edit Step card text button.](media/holographic-anchor-operator-instructions.PNG "Edit Step card text button")

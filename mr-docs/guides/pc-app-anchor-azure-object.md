@@ -96,9 +96,11 @@ Each of these steps is described in detail below.
    > [!NOTE]
    > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the Azure Object Anchors preview. For the preview, Azure Object Anchor data is processed and stored temporarily in the East US region. Additional regions will be added for the General Availability release. 
 
-1. To add your 3D model as an object anchor, on the **My files** tab, select **Create**.
+1. To add your 3D model as an object anchor, on the **My files** tab, open the folder where you want to store the object anchor. You can store to the root folder or subfolder.
 
-    ![Library tab with Create button highlighted](media/AOA-create-anchor.PNG "Library tab with Create button highlighted")
+1. Select **Create**.
+
+    ![My files tab with Create button highlighted](media/AOA-create-anchor.PNG "My files tab with Create button highlighted")
 
     This opens the Guides model-driven app in your web browser.
 
@@ -137,7 +139,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 ### Assign a thumbnail to the object anchor (optional)
 
-If you want to be able to easily identify your object anchor in the **Library** in the PC app, you can assign a thumbnail to your object anchor in the model-driven app. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned. 
+If you want to be able to easily identify your object anchor in **My files** in the PC app, you can assign a thumbnail to your object anchor in the model-driven app. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned. 
 
 1. Select the circle next to the object anchor name.
 

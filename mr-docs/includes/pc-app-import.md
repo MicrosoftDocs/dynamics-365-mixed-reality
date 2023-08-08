@@ -4,7 +4,7 @@
 
 1. In the PC app on the right side of the page, select the **My files** tab.
 
-1. Open the folder where you want to import the item.
+1. Open the folder where you want to import the item. You can import to the root folder or subfolder.
 
 1. Drag the files to the folder.
 
@@ -14,7 +14,7 @@
 
 1. In the PC app on the right side of the page, select the **My files** tab.
 
-1. Open the folder where you want to import the item.
+1. Open the folder where you want to import the item. You can import to the root folder or subfolder.
 
 1. Select **Import**.
 

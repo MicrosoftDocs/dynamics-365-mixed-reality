@@ -3,7 +3,7 @@ title: Assign ownership of a guide or folder in Dynamics 365 Guides
 description: Learn how to assign ownership of a guide or folder in Microsoft Dynamics 365 Guides.
 author:  annitachow
 ms.topic: how-to
-ms.date: 07/19/2023
+ms.date: 08/08/2023
 ms.author: anchow
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -18,7 +18,7 @@ You can assign ownership to a folder or guide through the model-driven app. For 
 When an Author or Admin change the owner of a folder, any guides, subfolders, and assets within that folder are assigned to that owner. This allows you to easily manage access for a group of related guides and assets.
 
 > [!NOTE]
-> By default, Authors and Restricted authors have access to all assets (3D parts, images, videos, and object anchors). Although not recommended, admins can restrict access by creating a new security role. See [Restrict access to assets](admin-restrict-access-assets.md) 
+> By default, Authors and Restricted authors have access to all assets (3D parts, images, videos, and object anchors). Although not recommended, admins can restrict access by creating a new security role. See [Restrict access to assets.](admin-restrict-access-assets.md) 
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
@@ -61,32 +61,8 @@ Change the owner of a guide to a user or an owner team.
 
 1. Select **Assign** when you're done.
 
-## Share a folder with someone else
-
-By organizing all guides and assets a user might need into a folder, you can share the folder rather than having to share the guide or the assets individually.
-
-1. [Open the model-driven app](open-model-driven-app.md) in Guides.
-
-1. In the left pane, select **Folders** to view the list of folders in the instance.
-
-1. Select the desired folder, and then at the top right of the screen, select **Share**.
-
-1. Share the link with the appropriate users.
-
-## Share a guide with someone else
-
-Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In exceptional cases, you can use the **Share** option for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](/dynamics365/mixed-reality/guides/admin-access-teams).
-
-> [!NOTE]
-> When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content. 
->
-> ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app")
->
-> Or, put all assets for a guide in a folder and share the folder.
-
 ## Next steps
 
-- [Create an access team](admin-access-teams.md)
 - [Assign an Operator or Author role to an individual user](assign-role.md)
 - [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
