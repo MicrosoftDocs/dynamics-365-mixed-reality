@@ -56,3 +56,4 @@ For more information on privileges, teams, and controlling access to apps, see t
 ## Next steps
 
 - [Change ownership of a guide or folder](admin-access-assign.md)
+- [Share a guide or folder](admin-share-guide.md)
