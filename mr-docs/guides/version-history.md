@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Describes older features for Dynamics 365 Guides, organized by release date
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 04/03/2023
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
@@ -326,7 +326,7 @@ Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both a
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/prepare-folders-guides-list-dynamics-365-guides-model-driven-app-admins" target="_blank">Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a>| Yes |<a href="/dynamics365/mixed-reality/guides/admin-create-folders" target="_blank">Organize guides into folders in Dynamics 365 Guides (for admins)</a>|
-| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/measure-lengths-angles-new-3d-toolkit-shapes" target="_blank">Measure lengths and angles with new 3D toolkit shapes</a>| Yes |<a href="/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D model from the 3D toolkit</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/measure-lengths-angles-new-3d-toolkit-shapes" target="_blank">Measure lengths and angles with new toolkit shapes</a>| Yes |<a href="/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D model from the toolkit</a>|
 
 #### Bugs fixed
 
@@ -369,12 +369,12 @@ Version 503.2102.2001 of the PC and [!include[pn-hololens](../includes/pn-holole
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/extend-analytics-capabilities-guides-insights" target="_blank">Extend analytics capabilities with new guide operation data tables</a> | Yes |<a href="/dynamics365/mixed-reality/guides/analytics-overview" target="_blank">Overview of analyzing and integrating Dynamics 365 Guides operations data</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/gain-insights-into-guide-usage-updated-guides-analytics-power-bi-reports" target="_blank">Gain insights into guide usage with the updated Guides Analytics Power BI reports</a> | Yes |<a href="/dynamics365/mixed-reality/guides/analytics-ga-reports" target="_blank">Take a tour of Guides Analytics reports</a>|
-| <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/improvement-how-data-stored-dataverse" target="_blank">Improvement in how data is stored in the Microsoft Dataverse</a> | Yes |<a href="https://community.dynamics.com/365/guides/f/dynamics-365-guides-forum/413710/information-about-guides-version-500-3-1-x-update-for-integrators" target="_blank">Information about Guides version 500.3.1.x update for integrators</a>|
+| <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/improvement-how-data-stored-dataverse" target="_blank">Improvement in how data is stored in the Microsoft Dataverse</a> | Yes |<a href="https://community.dynamics.com/forums/thread/details/?threadid=5b71925a-057f-422f-a2e8-561e7724d6d1" target="_blank">Information about Guides version 500.3.1.x update for integrators</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/narrated-instruction-text-through-hololens" target="_blank">Narrated instruction text through HoloLens</a> | No |<a href="/dynamics365/mixed-reality/guides/operator-narrator" target="_blank">Have HoloLens narrate instructions</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/updated-dynamics-365-guides-demo" target="_blank">Updated Dynamics 365 Guides demo</a> | No ||
 
 > [!IMPORTANT]
-> If you're an integrator and you have used custom security roles in your implementations, you'll need to edit those security roles. See <a href="https://community.dynamics.com/365/guides/f/dynamics-365-guides-forum/413710/information-about-guides-version-500-3-1-x-update-for-integrators" target="_blank">information about version 500.3.1.x for integrators</a>.
+> If you're an integrator and you have used custom security roles in your implementations, you'll need to edit those security roles. See <a href="https://community.dynamics.com/forums/thread/details/?threadid=5b71925a-057f-422f-a2e8-561e7724d6d1" target="_blank">information about version 500.3.1.x for integrators</a>.
 
 ### December 8, 2020
 
@@ -541,7 +541,7 @@ Version 301.1910.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 #### Other updates
 
-- Removed different sizes for the same model from the 3D toolkit (this change requires a solution update). Because authors can now resize models, the different sizes are no longer required.
+- Removed different sizes for the same model from the toolkit (this change requires a solution update). Because authors can now resize models, the different sizes are no longer required.
 
 - Updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holographic OS (Shell) behavior where the Step card follows you when the option is turned on.
 
@@ -557,7 +557,7 @@ Version 200.1909.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 #### Other updates
 
-The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
+The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the toolkit.
 
 ## 2019 Release Wave 1
 

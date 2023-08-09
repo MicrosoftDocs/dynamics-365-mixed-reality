@@ -1,8 +1,8 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
-ms.author: mamaylya
-ms.date: 07/05/2023
+ms.author: davepinch
+ms.date: 08/02/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -18,6 +18,19 @@ ms.custom: bap-template
 This page provides details about the latest release in the **current wave of features (April 2023 through September 2023)** for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## August 9, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 806.2308.3001.0 |
+|HoloLens app (HoloLens 2 only)| 806.2308.3001.0 |
+|Solution| 800.6.0.1  |
+
+### Features
+
+- Quickly visualize the impact of calling to your organization with the new <a href="/dynamics365/mixed-reality/guides/calls-dashboard-guides" target="blank">Calls Dashboard.</a>
+- Simplify <a href="/dynamics365/mixed-reality/guides/admin-content-mgmt" target="_blank">content management </a>and permissions by storing your 3D models, videos, and images in the same folders as guides.
 
 ## July 5, 2023
 

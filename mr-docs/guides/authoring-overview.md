@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Overview of authoring in Dynamics 365 Guides, including PC authoring and HoloLens authoring
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: overview
 title: Authoring overview--Dynamics 365 Guides PC and Hololens apps
@@ -18,7 +18,7 @@ Supporting assets include:
 
     - Your custom 3D models
 
-    - 3D models from the 3D toolkit (arrows and numbers, for example)
+    - 3D models from the toolkit (arrows and numbers, for example)
 
     - 2D media (images and videos)
 

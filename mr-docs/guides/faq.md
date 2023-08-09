@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Frequently asked questions about Dynamics 365 Guides
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 04/28/2023
 ms.topic: article
 title: FAQ about Dynamics 365 Guides

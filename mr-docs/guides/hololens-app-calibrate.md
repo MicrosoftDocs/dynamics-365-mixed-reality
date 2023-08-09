@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to calibrate your HoloLens to use with Microsoft Dynamics 365 Guides.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: article
 title: Calibrate your HoloLens to use with Dynamics 365 Guides

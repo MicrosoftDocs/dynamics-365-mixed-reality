@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Work offline as an operator in Dynamics 365 Guides if you don't have an internet connection or you have an intermittent internet connection
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: article
 title: Work offline as an operator in Dynamics 365 Guides

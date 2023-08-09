@@ -1,8 +1,8 @@
 ---
 title: Join a Microsoft Teams meeting from Dynamics 365 Guides
-author: Mamaylya
+author: davepinch
 description: Learn how to join a Microsoft Teams meeting from Dynamics 365 Guides on HoloLens
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 03/31/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith

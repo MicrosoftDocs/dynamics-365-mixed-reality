@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn everything that you need to know about using the PC authoring app to create a guide in Microsoft Dynamics 365 Guides.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 08/10/2022
 ms.topic: overview
 title: Overview of using the PC authoring app to create a guide in Dynamics 365 Guides
@@ -28,7 +28,7 @@ Use the PC app to complete these tasks:
 
     - 3D parts
 
-    - 3D objects such as objects from the 3D toolkit (holographic arrows and numbers, for example)
+    - 3D objects such as objects from the toolkit (holographic arrows and numbers, for example)
 
     - 2D media (images and videos)
 

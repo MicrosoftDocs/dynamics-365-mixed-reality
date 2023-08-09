@@ -53,6 +53,6 @@ The configured roles, functionalities, and environments can all be linked to you
 
 ## Next steps
 
-- [Content and 3D toolkit ownership strategy](strategy-for-content-and-3d-toolkit-ownership.md)
+- [Content and toolkit ownership strategy](strategy-for-content-and-3d-toolkit-ownership.md)
 
 [!INCLUDE [footer-include](../../includes/footer-banner.md)]

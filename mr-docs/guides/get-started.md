@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about all the resources available for getting started with Dynamics 365 Guides
-ms.author: Mamaylya
+ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: article
 title: Get started with Dynamics 365 Guides

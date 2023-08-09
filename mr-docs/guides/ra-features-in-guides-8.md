@@ -1,8 +1,8 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about Dynamics 365 Remote Assist now included with Dynamics 365 Guides 8.0 
-ms.author: mamaylya
-ms.date: 07/10/2023
+ms.author: davepinch
+ms.date: 08/08/2023
 ms.topic: overview
 title: Dynamics 365 Remote Assist features in Dynamics 365 Guides 8.0
 ms.reviewer: v-wendysmith
@@ -27,10 +27,11 @@ The Dynamics 365 Guides 8.0 and later releases include many of the Microsoft Tea
 |[Spotlighting](calling-concepts.md#spotlight-in-dynamics-365-guides)| Yes| Yes|
 |[File access](onedrive-files.md)| Yes| Yes|
 |[Restricted access (calling, contacts, OneDrive files and ability to sign out of the HoloLens app)](restricted-mode-overview.md)|Yes|Yes|
-|[Call data storage/display](call-logging.md)| Yes| Yes (Dynamics 365 Guides doesn't provide a built-in Calls dashboard, however).|
+|[Call data storage/display](call-logging.md)| Yes| Yes|
 |[Teams policy support](admin-teams-policies.md)| Yes| Yes|
 |[HoloLens temperature management](calling-hololens-thermal-adjusting.md)| Yes| Yes|
 
 ## Next steps
+
 - [FAQ](faq-version-8.md)
 - [Guides 8.0 features](version-history.md#october-17-2022)

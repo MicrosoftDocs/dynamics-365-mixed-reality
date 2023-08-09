@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Known issues with Dynamics 365 Guides (general issues)
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 10/17/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Guides

@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about FAQ associated with Dynamics 365 Guides 8.0 and features in common with Dynamics 365 Remote Assist
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 02/14/2023
 ms.topic: faq
 title: Dynamics 365 Guides 8.0 and Dynamics 365 Remote Assist FAQ
