@@ -50,7 +50,7 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 > To use voice commands, select the arrow tool by saying "Remote Assist, Arrow." Then say "Remote Assist, Place arrow". You can't use voice commands to rotate the arrow before placing it. To redo, say "Remote Assist, Undo", and then place the arrow again.
 
 <br>
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qy" frameborder="0" allowfullscreen=""></iframe></div>
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qy]
 <br>
 
 The above video shows how to place an arrow using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and  position the arrow in space by using your hand ray. 
@@ -74,7 +74,7 @@ The above video shows how to place an arrow using HoloLens gestures. If you’re
 > To use voice commands, select the **Ink** tool by saying "Remote Assist, Ink." Then say "Remote Assist, Start inking" and "Remote Assist, Stop inking" to start and stop inking with your head gaze. 
 
 <br>
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qs" frameborder="0" allowfullscreen=""></iframe></div>
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qs]
 <br>
 
 The above video shows how to draw using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Ink tool** by touching it directly, and you can use your hand rays to determine where to start your drawing. 
