@@ -1,6 +1,6 @@
 ---
-author: Mamaylya
-ms.author: mamaylya
+author: davepinch
+ms.author: davepinch
 description: Learn about supported file formats for 3D models, images, and videos in Microsoft Dynamics 365 Guides.
 ms.date: 03/29/2023
 ms.topic: article
@@ -35,7 +35,7 @@ In Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], yo
 ## What's next?
 
 - [Step Editor overview](pc-app-step-editor-overview.md)
-- [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
+- [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
 - [Add a 3D part](pc-app-add-3D-part.md)
 - [Add an image or video file](pc-app-add-media.md)
 - [How to make a great mixed-reality guide](great-guide.md) 

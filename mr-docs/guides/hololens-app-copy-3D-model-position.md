@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to copy a 3D model's position (orientation and scale) in the Dynamics 365 Guides HoloLens app
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 11/08/2021
 ms.topic: article
 title: Copy a 3D model's position in the Dynamics 365 Guides HoloLens app

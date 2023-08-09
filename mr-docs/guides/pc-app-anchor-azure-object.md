@@ -1,18 +1,22 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
-ms.author: mamaylya
-ms.date: 03/01/2023
+ms.author: davepinch
+ms.date: 08/01/2023
 ms.topic: article
 title: Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
-ms.reviewer: v-wendysmith
+ms.reviewer: mhart
 ---
 
 # Anchor a guide in Dynamics 365 Guides by using Azure Object Anchors (Preview)
 
+[!INCLUDE [public-preview-banner](../includes/public-preview-banner.md)]
+
 > [!VIDEO https://www.youtube.com/embed/BXhMFjGFbTQ]
 
 Azure Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This preview supports large static objects only. Create a Dataverse environment that is separate from your production environment to test this preview feature. [Learn how to set up a Microsoft Dataverse environment](/power-platform/admin/environments-overview).
+
+[!INCLUDE [public-preview-note](../includes/public-preview-note.md)]
 
 To use object anchors, authors:
 
@@ -73,9 +77,9 @@ Converting a 3D model into an object anchor and assigning it to a guide includes
 
 1. Choose the anchor type in the Anchor wizard.
 
-2. Convert the 3D model in the Guides model-driven app.
+1. Convert the 3D model in the Guides model-driven app.
 
-3. Assign the object anchor to a guide in the Anchor wizard.
+1. Assign the object anchor to a guide in the Anchor wizard.
 
 Each of these steps is described in detail below.
 
@@ -85,111 +89,109 @@ Each of these steps is described in detail below.
 
     ![Outline page with Anchor command and Set your anchor now command highlighted](media/AOA-outline-anchor.PNG "Outline page with Anchor command and Set your anchor now command highlighted")
 
-2. On the **Choose an anchor method** page, under **Object Anchor (Preview)**, select **Select**.
+1. On the **Choose an anchor method** page, under **Object Anchor (Preview)**, select **Select**.
 
     ![Choose an anchor method page with appropriate Select button highlighted](media/AOA-select-object-anchor.PNG "Choose an anchor method page with appropriate Select button highlighted") 
 
-    > [!NOTE]
-    > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the Azure Object Anchors preview. For the preview, Azure Object Anchor data is processed and stored temporarily in the East US region. Additional regions will be added for the General Availability release. 
-    > 
-    > ![Try Preview button highlighted in Anchor wizard](media/AOA-try-preview-button.PNG "Try Preview button highlighted in Anchor wizard")
+   > [!NOTE]
+   > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 600.3.01, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to the Azure Object Anchors preview. For the preview, Azure Object Anchor data is processed and stored temporarily in the East US region. Additional regions will be added for the General Availability release. 
 
-3. To add your 3D model as an object anchor, on the **Library** tab, select **Create**. 
+1. To add your 3D model as an object anchor, on the **My files** tab, open the folder where you want to store the object anchor. You can store to the root folder or subfolder.
 
-    ![Library tab with Create button highlighted](media/AOA-create-anchor.PNG "Library tab with Create button highlighted")
+1. Select **Create**.
 
-    This opens the Guides model-driven app in your web browser.   
+    ![My files tab with Create button highlighted](media/AOA-create-anchor.PNG "My files tab with Create button highlighted")
 
-    > [!NOTE]
-    > If you're prompted for credentials, sign in with the credentials for your environment. You need to have an author or administrator role with appropriate permissions to access the model-driven app. Users with the [**Restricted author** role](assign-role.md) might not be able to access the model-driven app.     
+    This opens the Guides model-driven app in your web browser.
+
+   > [!NOTE]
+   > If you're prompted for credentials, sign in with the credentials for your environment. You need to have an author or administrator role with appropriate permissions to access the model-driven app. Users with the [**Restricted author** role](assign-role.md) might not be able to access the model-driven app.
 
 ## Convert the file in the Guides model-driven app
 
-Use the instructions on the right side of the screen in the Guides model-driven app to select and convert your 3D file.
+Use the instructions on the right side of the screen in the Guides model-driven app to select and convert your 3D file. The following file types are supported: .obj, .fbx, .glb, .gltf, .ply. The maximum file size is 150 MB.  
 
 1. In the **Name** field, enter a name for your object anchor, and then select **Save** at the top of the screen. 
 
     ![Screen shot of model-driven app showing instructions on the right and Name field.](media/AOA-model-driven-app.PNG "Screen shot of model-driven app showing instructions on the right and Name field.") 
-    
-   > [!Important]
+
+   > [!IMPORTANT]
    > The **Choose File** button in the next step won't appear until you select **Save**.
 
-3. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it. 
+1. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it.
 
-    ![Input section showing Choose File button.](media/AOA-choose-file.PNG "Input section showing Choose File button.")
+1. Under **Conversion**:
 
-    > [!NOTE]
-    > The following file types are supported: .obj, .fbx, .glb, .gltf, .ply. The maximum file size is 150 MB.  
+   1. Confirm the gravity direction. The default value for the **Gravity** field is **-Y**. This sets the object anchor in the right orientation compared to the floor.
 
-4. Under **Conversion**:
+   1. Select the measurement type for the **Length Unit** field.
 
-    i. Confirm the gravity direction. The default value for the **Gravity** field is **-Y**. This sets the object anchor in the right orientation compared to the floor.
-    
-    ii. Verify the measurement type for the **Length Unit** field.
+      ![Length Unit field](media/AOA-conversion.PNG "Length Unit field.")
 
-     ![Length Unit field](media/AOA-conversion.PNG "Length Unit field")       
+      > [!TIP]
+      > If your upload file is type .fbx, then you can have Guides determine the length unit automaticallly. Select **Yes** for **Use Length Unit from File**.
 
-5. Select **Convert to Object Anchor**. 
+1. Select **Convert to Object Anchor**.
 
-    This starts the conversion process. The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide. 
+    This starts the conversion process. The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide.
 
-6. When the conversion is done, “Completed” appears in the **Conversion Status** field. You can then go back to the Anchor wizard in the PC app to assign the object anchor to the guide. If the conversion fails, start the process again.
+1. When the conversion is done, “Completed” appears in the **Conversion Status** field. You can then go back to the Anchor wizard in the PC app to assign the object anchor to the guide. If the conversion fails, start the process again.
 
 ### Assign a thumbnail to the object anchor (optional)
 
-If you want to be able to easily identify your object anchor in the **Library** in the PC app, you can assign a thumbnail to your object anchor in the model-driven app. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned. 
+If you want to be able to easily identify your object anchor in **My files** in the PC app, you can assign a thumbnail to your object anchor in the model-driven app. If you don't assign a thumbnail, a default object anchor thumbnail will be assigned. 
 
 1. Select the circle next to the object anchor name.
 
     ![Circle for image thumbnail](media/AOA-select-thumbnail.PNG "Circle for image thumbnail")
 
-2. In the **Choose Image** dialog box, select **Upload Image**, and then select the image to use for the thumbnail.
+1. In the **Choose Image** dialog box, select **Upload Image**, and then select the image to use for the thumbnail.
 
     ![Choose Image dialog box](media/AOA-select-thumbnail-image.PNG "Choose Image dialog box")
 
-    The preview image changes after the image has finished uploading. 
-    
-3. Select **Change** to confirm the new image. 
+    The preview image changes after the image has finished uploading.
 
-## Assign the object anchor to a guide in the Anchor wizard 
+1. Select **Change** to confirm the new image.
 
-1. Back in the PC app Anchor wizard, select **Next** and then **Back** to refresh the **Library**. You should see your object anchor in the **Library** under the **Object anchors** tab. 
+## Assign the object anchor to a guide in the Anchor wizard
 
-2. Drag the object anchor to the **Anchor** icon in the **Assign an object anchor** area to assign it to the guide, and then select **Next**. 
+1. In the PC app Anchor wizard, select **Next** and then **Back** to refresh the **My files** tab. You should see your object anchor.
+
+   > [!TIP]
+   > The filter is automatically set to **Object anchors**.
+
+1. Drag the object anchor to the **Anchor** icon in the **Assign an object anchor** area to assign it to the guide, and then select **Next**.
 
     ![Screen shot showing where to drag the anchor to and from](media/AOA-drag-object.PNG "Screen shot showing where to drag the anchor to and from")
-    
-    > [!TIP]
-    > To preview the object anchor, in the Anchor wizard, select the object anchor thumbnail to open the **Properties** tab. You can also view the object anchor in the Guides model-driven app.
-    > 
-    > ![Screen shot showing Properties tab with object anchor](media/AOA-preview-object-anchor.PNG "Screen shot showing Properties tab with object anchor")
 
-3. The next three steps in the Anchor wizard are optional: 
+   > [!TIP]
+   > To preview the object anchor, in the Anchor wizard, select the object anchor thumbnail to open the **Properties** tab. You can also view the object anchor in the Guides model-driven app.
 
-    a. Take a photo of the target object, and then select **Next**.
+1. The next three steps in the Anchor wizard are optional: 
 
-    b. Import the photo of the target object location, and then select **Next**.
+   1. Take a photo of the target object, and then select **Next**.
 
-    c. Add custom instructions as needed to help the operator find the target object, and then select **Done**.  
+   1. Import the photo of the target object location, and then select **Next**.
+
+   1. Add custom instructions as needed to help the operator find the target object, and then select **Done**.  
 
 ## Detect the object anchor in the HoloLens app 
 
 1. Open the guide in the HoloLens app.  
 
-2. Locate the target object in your physical environment.
+1. Locate the target object in your physical environment.
 
-3. Select **Initiate Scan**.  
+1. Select **Initiate Scan**.  
 
-4. Move around the object to scan it. HoloLens automatically recognizes the object based on the object anchor. 
+1. Move around the object to scan it. HoloLens automatically recognizes the object based on the object anchor. 
 
-5. Continue to move around the object if you’re prompted to do so.
+1. Continue to move around the object if you’re prompted to do so.
 
     When the scan is successful, the object will have a green overlay. 
 
     ![GIF of green overlay](media/AOA.gif "GIF of green overlay")
 
-At this point, your guide should be successfully anchored to the object anchor. 
-
+At this point, your guide should be successfully anchored to the object anchor.
 
 ## Troubleshooting
 
@@ -213,7 +215,7 @@ The top reasons for object anchor failure on HoloLens include:
 
 - The 3D model provided during model conversion does not resemble the surfaces of the actual object detected by the HoloLens sensors.
 
-You can confirm object measurements and **Length Unit** type by double-clicking the object anchor in the PC app to open the **Properties** tab.   
+You can confirm object measurements and **Length Unit** type by double-clicking the object anchor in the PC app to open the **Properties** tab.
   
 ![Properties tab with My chair measurements](media/AOA-chair-properties.PNG "Properties tab with My chair measurements")
 
@@ -221,9 +223,9 @@ You can confirm object measurements and **Length Unit** type by double-clicking 
 
 - If the gravity direction of the model in the **Properties** tab (the down direction) is very different from the actual orientation of the object in its environment, an incorrect gravity direction was likely used (for example, if the chair in the above example is shown upside down or with its legs pointing to the side instead of pointing down).
 
-3D models that are converted correctly may not be detected on HoloLens if their model geometries differ greatly from the surfaces detected by HoloLens. You can view the object anchor geometry in the **Properties** tab and compare that with the Surface Reconstruction (SR) mesh of the object as seen by HoloLens. To view the object’s SR mesh, air tap while viewing the object in the HoloLens shell. A large difference in geometry between the anchor geometry and SR mesh indicates potential difficulty with object anchoring. 
+3D models that are converted correctly may not be detected on HoloLens if their model geometries differ greatly from the surfaces detected by HoloLens. You can view the object anchor geometry in the **Properties** tab and compare that with the Surface Reconstruction (SR) mesh of the object as seen by HoloLens. To view the object’s SR mesh, air tap while viewing the object in the HoloLens shell. A large difference in geometry between the anchor geometry and SR mesh indicates potential difficulty with object anchoring.
 
-## Known issues 
+## Limitations
 
 Azure Object Anchors is a preview feature for Dynamics 365 Guides and has the following limitations:
 

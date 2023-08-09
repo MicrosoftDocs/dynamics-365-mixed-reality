@@ -1,11 +1,11 @@
 ---
-author: Mamaylya
-ms.author: mamaylya
+author: annitachow
+ms.author: anchow
 description: Learn how to add an image or video to a step in the Microsoft Dynamics 365 Guides PC app to help operators with a complex step.
-ms.date: 06/22/2023
+ms.date: 07/28/2023
 ms.topic: how-to
 title: Add an image or video to a step in the Dynamics 365 Guides PC app
-ms.reviewer: v-wendysmith
+ms.reviewer: mhart
 ms.custom: bap-template
 ---
 
@@ -16,16 +16,24 @@ As an author, add an image or video in the Dynamics 365 Guides PC app to help an
 > [!NOTE]
 > The PC app converts and resizes videos when they're uploaded to ensure optimal performance on HoloLens. This transcoding process depends on the codecs installed on the PC and errors can occur if codecs are removed from the PC.
 
-1. In the PC app, on the right side of the page, select the **Images** or **Videos** tab.
+1. In the PC app, on the right side of the page, select the **My files** tab.
 
-    ![Images and Videos tabs.](media/select-image-video.PNG "Images and Videos tabs")
+1. Find and select your image or video.
+
+   [!INCLUDE [pc-app-filter-sort](../includes/pc-app-filter-sort.md)]
 
 1. Drag the image or video to the **Media panel** box.
 
-    ![Dragging an image or video to the Image or video box.](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
+    ![Screenshot of dragging a file from My files tab to the Media box.](media/select-image-video.png "Screenshot of dragging a file from My files tab to the Media box")
 
 > [!TIP]
-> You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**.
+> You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **My files** tab.
+
+## Import an image or video
+
+You can import your own images and videos and add them to **My files** or a folder in **My files**. To import files, you can drag them from a local file folder or use the **Import** command.
+
+[!INCLUDE [import-include](../includes/pc-app-import.md)]
 
 ## Change a video thumbnail
 
@@ -49,7 +57,7 @@ When you add a video to a step, the thumbnail for the video is automatically cre
 ## Next steps
 
 - [Step Editor overview](pc-app-step-editor-overview.md)
-- [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)
+- [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
 - [Add a 3D part](pc-app-add-3D-part.md)
 - [Add a website or Power Apps link](pc-app-website-powerapps-link.md)
 - [How to make a great mixed-reality guide](great-guide.md)

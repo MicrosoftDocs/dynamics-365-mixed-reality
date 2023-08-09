@@ -44,7 +44,7 @@ You can create a 3D image that replicates an object (a machine, for example) or 
 
     ![Screenshot showing exact buttons to press and hold.](media/small-holograms-efficiency.jpg "Screenshot showing exact buttons to press and hold")
 
-Using a 3D image this way is very efficient. You can create the 3D image very quickly (in Paint 3D, for example) and then reuse the image for different steps in your guide, adding different 3D objects from the 3D toolkit, depending on what's required for the step.  
+Using a 3D image this way is very efficient. You can create the 3D image very quickly (in Paint 3D, for example) and then reuse the image for different steps in your guide, adding different 3D objects from the toolkit, depending on what's required for the step.  
 
 ## Create a 3D panel for an image using Paint 3D 
 
