@@ -19,7 +19,7 @@ Watch these short videos to get up and running with Microsoft Remote Assist.
 Watch these videos to learn how to use Dynamics 365 Remote Assist on HoloLens. Keep in mind that if you're using HoloLens 2, you don' to use air tap to select a hologram or button; you can touch the button directly. Learn more about [HoloLens interactions](/hololens/hololens1-basic-usage) and [HoloLens 2 interactions](/hololens/hololens2-basic-usage).  
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TI]
-
+<br>
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FeDU]
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TH]
@@ -32,7 +32,7 @@ Watch these videos to learn how to use Dynamics 365 Remote Assist on HoloLens. K
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FNci]
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TG]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TG] <br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FhfT]
 

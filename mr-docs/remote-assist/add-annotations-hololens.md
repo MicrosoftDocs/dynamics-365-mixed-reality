@@ -48,7 +48,7 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 
 > [!TIP]
 > To use voice commands, select the arrow tool by saying "Remote Assist, Arrow." Then say "Remote Assist, Place arrow". You can't use voice commands to rotate the arrow before placing it. To redo, say "Remote Assist, Undo", and then place the arrow again.
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qy]
 
