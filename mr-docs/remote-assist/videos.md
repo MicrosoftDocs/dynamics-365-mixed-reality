@@ -60,8 +60,8 @@ Watch these videos to learn how to use Teams on PC to collaborate with a Dynamic
 </br>
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TK]
 </br>
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TP]<
-/br>
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TP]
+</br>
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TJ]
 
 Learn more about [Teams PC features](teams-pc-all.md) and [Teams mobile features](teams-mobile-all.md) available when collaborating with a Dynamics 365 Remote Assist user. 
