@@ -1,8 +1,8 @@
 ---
 title: Guides call types   
-author: Mamaylya
+author: davepinch
 description: Learn about the supported Dynamics 365 Guides call types and who can collaborate
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 04/04/2023
 ms.topic: conceptual
 ms.reviewer: v-wendysmith

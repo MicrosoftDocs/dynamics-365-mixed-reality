@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to view and access call data stored by Dynamics 365 Guides
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 06/23/2023
 ms.topic: how-to
 title: View and access call data stored by Dynamics 365 Guides
@@ -18,7 +18,7 @@ When Microsoft Dynamics 365 Guides users make or receive calls in the HoloLens a
 
 ## Prerequisites
 
-- Access to Power Apps or the Guides model-driven app
+- Access to the Guides model-driven app or Power Apps
 
 ## View call data
 

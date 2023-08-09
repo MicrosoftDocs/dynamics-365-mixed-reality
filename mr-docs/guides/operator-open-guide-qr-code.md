@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to open a guide in Dynamics 365 Guides, if you're an operator, by scanning a QR code.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 01/13/2021
 ms.topic: article
 title: Open a guide in Dynamics 365 Guides by scanning a QR code

@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to add a website, email, guide, custom app, or Power Apps link to a step in Microsoft Dynamics 365 Guides to create a seamless workflow for operators.
 ms.author: davepinch
-ms.date: 03/31/2023
+ms.date: 07/20/2023
 ms.topic: how-to
 title: Add a website, email, guide, or app link to a step
 ms.reviewer: v-wendysmith
@@ -23,12 +23,11 @@ Create a seamless workflow for operators by adding a website, email, guide, cust
 
 To add a link to a step, you add an action. You can add one action per step. If a step already includes an action, any new action that you add overwrites the existing action.
 
-1. In the PC Authoring app, go to the appropriate step, and then select the **Action** tab on the right side of the page.
-1. Drag the **Link** circle to the **Action** circle in the lower-right corner of the **Step Editor** pane.
+1. In the PC app, go to the appropriate step, and then select the **Action** circle in the **Step Editor** pane.
 
-    :::image type="content" source="media/website-link-drag-action.PNG" alt-text="Screenshot that shows the Link circle being dragged to the Action circle.":::
+    :::image type="content" source="media/website-link-action.png" alt-text="Screenshot that shows the Action circle.":::
 
-1. In the **Link** dialog box that appears, enter information based on the selected action:
+1. Select **Website, Guide link, or other link** to perform the following actions. Enter the appropriate information in the **Link** field.
 
     - **Email**: Enter *mailto:* and then the email address.
     - **Guide or step**: [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md).
@@ -40,6 +39,7 @@ To add a link to a step, you add an action. You can add one action per step. If 
         > If a custom app has been registered as the [default handler for a URI](/windows/uwp/launch-resume/handle-uri-activation), an author can open it by specifying a URI in the format that the app expects. Apps can be opened in [kiosk mode](/hololens/hololens-kiosk). Administrators can [use Windows Defender Application Control (WDAC) and Windows PowerShell to allow or block apps on HoloLens 2 devices with Microsoft Intune](/mem/intune/configuration/custom-profile-hololens).
 
 1. Select **Save**.
+
 1. To view, edit, or delete the link, select and hold (or right-click) the **Link** button in the **Step Editor** pane, and then select the appropriate command.
 
     :::image type="content" source="media/website-link-edit.png" alt-text="Screenshot of the shortcut menu for the Link button, showing the Edit, View, and Delete commands.":::
@@ -56,11 +56,13 @@ The process of adding a Power Apps link has two steps:
 You can link to a published app that was created in Power Apps if you have edit permissions for that app.
 
 1. Open the [Power Apps maker portal](https://make.powerapps.com/).
+
 1. Select the **More Commands** button (**…**) next to the appropriate app, and then select **Edit**.
 
     ![Screenshot that shows Edit being selected on the More Commands menu.](media/powerapps-home.PNG "Screenshot that shows Edit being selected on the More Commands menu")
 
 1. In the left pane, select **File**, and then select **Share**.
+
 1. Under **Guides Power Apps example**, select **Share**.
 
     ![Screenshot of the Share button.](media/powerapps-share-button.PNG "Screenshot of the Share button")
@@ -77,12 +79,14 @@ You can link to a published app that was created in Power Apps if you have edit 
 
 To add a Power Apps link to a step, you add an action. You can add one action per step. If a step already includes an action, any new action that you add overwrites the existing action.
 
-1. In the PC Authoring app, go to the appropriate step, and then select the **Action** tab on the right side of the page.
-1. Drag the **Power Apps** circle to the **Action** circle in the lower-right corner of the **Step Editor** pane.
+1. In the PC app, go to the appropriate step, and then select the **Action** circle in the **Step Editor** pane.
 
-    :::image type="content" source="media/powerapps-drag-action.PNG" alt-text="Screenshot that shows the Power Apps circle being dragged to the Action circle.":::
+    :::image type="content" source="media/website-link-action.png" alt-text="Screenshot that shows the Action circle.":::
 
-1. In the **Power Apps** dialog box that appears, paste the URL for the Power Apps link, and then select **Save**.
+1. Select **Power Apps** and then paste the URL for the Power Apps link in the **Link** field.
+
+1. Select **Save**.
+
 1. To view, edit, or delete the Power Apps link, select and hold (or right-click) the **Power Apps** button in the **Step Editor** pane, and then select the appropriate command.
 
     :::image type="content" source="media/website-link-edit.png" alt-text="Screenshot of the shortcut menu for the Power Apps button, showing the Edit, View, and Delete commands.":::

@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 12/1/2022
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data

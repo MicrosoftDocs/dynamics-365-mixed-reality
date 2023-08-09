@@ -1,36 +1,42 @@
 ---
-title: Assign ownership of a guide in Dynamics 365 Guides
-description: Learn how to assign ownership of a guide in Microsoft Dynamics 365 Guides.
-author:  Mamaylya
-ms.topic: conceptual
-ms.date: 04/05/2022
-ms.author: mamaylya
+title: Assign ownership of a guide or folder in Dynamics 365 Guides
+description: Learn how to assign ownership of a guide or folder in Microsoft Dynamics 365 Guides.
+author:  annitachow
+ms.topic: how-to
+ms.date: 08/08/2023
+ms.author: anchow
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
-# Assign ownership of a guide in Dynamics 365 Guides
+# Change ownership of a guide or folder in Dynamics 365 Guides
 
-When you create a guide in Microsoft Dynamics 365 Guides, you are automatically assigned as the owner of the guide. If you want to share ownership of the guide with others in your organization, you can:
+You can assign ownership to a folder or guide through the model-driven app. For more information, see [Guide content management.](admin-content-mgmt.md)
 
-- Assign ownership of the guide to another person.
+## Change the owner of a folder
 
-- Assign ownership of the guide to an owner team.
-
-- Keep ownership of the guide, but let someone else work on it with you by using the **Share** option.
+When an Author or Admin change the owner of a folder, any guides, subfolders, and assets within that folder are assigned to that owner. This allows you to easily manage access for a group of related guides and assets.
 
 > [!NOTE]
-> You can also assign the ownership of a guide to yourself if you have a role with the Assign privilege. You must be a system administrator to re-assign ownership of a guide that belongs to someone else.
+> By default, Authors and Restricted authors have access to all assets (3D parts, images, videos, and object anchors). Although not recommended, admins can restrict access by creating a new security role. See [Restrict access to assets.](admin-restrict-access-assets.md) 
 
-For more information on privileges, teams, and controlling access to apps, see the following articles.
+1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-|To|See this article|
-|---------------------------------------|-----------------------------------------------------|
-|Learn how privileges and access work| [How access to a record (guide) is determined](/power-platform/admin/how-record-access-determined)|
-|Learn about the three types of teams (*owner* team, Azure Active Directory *group* team, or *access* team)|[Manage teams](/power-platform/admin/manage-teams)|
-|Control access to the Dynamics 365 Guides HoloLens app or PC app|[Security roles and privileges](/power-platform/admin/security-roles-privileges#team-members-privilege-inheritance)|
-|Control access to the Guides model-driven app| [Share a model-driven app using Power Apps](/powerapps/maker/model-driven-apps/share-model-driven-app)|
+1. In the left pane, select **Folders** to view the list of folders in the instance.
 
-## Assign a guide to a user or an owner team
+1. Select the desired folder, and then at the top of the screen, select **Assign** to display the folder information.
+
+    ![Assign command highlighted at top of screen.](media/folders-assign.PNG "Assign command highlighted at top of screen")
+
+1. In the **Assign Folder** dialog box, select the box to the right of the **Assign to** label to toggle between **Me** and **User or team**. If **Me** is selected, the folder is assigned to you. If **User or team** is selected, you can enter the owner in the **User or team** field or search for an owner.
+
+    ![Screenshot of Assign to dialog box.](media/folder-assign-to.png "Screenshot of Assign to dialog box")
+
+1. Select **Assign** to save the new owner.
+
+## Change the owner of a guide
+
+Change the owner of a guide to a user or an owner team.
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
@@ -55,18 +61,8 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 1. Select **Assign** when you're done.
 
-## Share a guide with someone else
+## Next steps
 
-Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In exceptional cases, you can use the **Share** option for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](/dynamics365/mixed-reality/guides/admin-access-teams).
-
-> [!NOTE]
-> When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. You can use the **All Content** tab in the Guides model-driven app to do bulk operations, such as sharing content.
->
-> ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app")
-
-## See also
-
-- [Create an access team](admin-access-teams.md)
 - [Assign an Operator or Author role to an individual user](assign-role.md)
 - [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)

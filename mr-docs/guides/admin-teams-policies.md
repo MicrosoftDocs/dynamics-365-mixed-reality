@@ -1,8 +1,8 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn about the Microsoft Teams policies supported by Dynamics 365 Guides
-ms.author: mamaylya
-ms.date: 08/08/2023
+ms.author: davepinch
+ms.date: 02/14/2023
 ms.topic: how-to
 title: Manage Teams policies supported by Dynamics 365 Guides
 ms.reviewer: v-wendysmith

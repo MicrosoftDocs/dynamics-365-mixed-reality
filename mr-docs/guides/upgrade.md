@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: davepinch
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
-ms.author: mamaylya
+ms.author: davepinch
 ms.date: 07/07/2023
 ms.topic: how-to
 title: Update the Dynamics 365 Guides solution
