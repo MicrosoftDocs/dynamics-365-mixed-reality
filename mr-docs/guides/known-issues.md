@@ -2,7 +2,7 @@
 author: davepinch
 description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: davepinch
-ms.date: 10/17/2022
+ms.date: 08/08/2023
 ms.topic: article
 title: Known issues with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -17,24 +17,6 @@ In very rare cases, you may find that a guide has become corrupted. This is most
 ![Screenshot of message that appears when a guide is corrupted.](media/corrupted-guide-message.jpg "Screenshot of message that appears when a guide is corrupted")
 
 [Learn how to fix a corrupted guide](corrupted-guide.md)
-
-## I can't install or upgrade the Dynamics 365 Guides solution
-
-To install or upgrade the Dynamics 365 Guides solution, you must have admin permissions for Dynamics 365 Guides. You must also have a [Dynamics 365 Guides license assigned to your user account](add-users.md#assign-a-dynamics-365-guides-license-to-an-existing-user).
-
-[Learn more about updating the Dynamics 365 Guides solution](upgrade.md).
-
-## I can't sign in
-
-To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] sign-in credentials for your organization. It will resemble: `johndoe@contoso.onmicrosoft.com`. You can't use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Store, and so on) or your corporate credentials to sign in. 
-
-If you see any of the following errors, contact your IT admin, or see the self-service documentation at <https://aka.ms/guidesdocs>:
-
-- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] isn't set up correctly, or you might not have permission to access it. Contact your admin, or see the [self-service documentation](./overview.md).
-
-- Your client app version doesn't support your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version. Update your client app, contact your admin, or see the [self-service documentation](./overview.md).
-
-- You don't have a license to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Contact your admin, or [sign up for a free trial subscription](setup.md).
 
 ## I don't see any guides in the Guides list
 
