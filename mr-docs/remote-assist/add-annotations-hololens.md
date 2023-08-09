@@ -47,10 +47,9 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 4. Once you place the arrow, you can't adjust its location or direction. To redo, select **Undo**, and then place the arrow again.
 
 > [!TIP]
-> To use voice commands, select the arrow tool by saying "Remote Assist, Arrow." Then say "Remote Assist, Place arrow". You can't use voice commands to rotate the arrow before placing it. To redo, say "Remote Assist, Undo", and then place the arrow again.
-<br>
+> To use voice commands, select the arrow tool by saying "Remote Assist, Arrow." Then say "Remote Assist, Place arrow". You can't use voice commands to rotate the arrow before placing it. To redo, say "Remote Assist, Undo", and then place the arrow again.   
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qy]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qy]  
 
 
 The above video shows how to place an arrow using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and  position the arrow in space by using your hand ray. 
@@ -71,10 +70,10 @@ The above video shows how to place an arrow using HoloLens gestures. If you’re
 3. Air tap, keep your index finger and thumb together, and start drawing in space. Release the air tap to stop drawing. 
 
 > [!TIP]
-> To use voice commands, select the **Ink** tool by saying "Remote Assist, Ink." Then say "Remote Assist, Start inking" and "Remote Assist, Stop inking" to start and stop inking with your head gaze. 
+> To use voice commands, select the **Ink** tool by saying "Remote Assist, Ink." Then say "Remote Assist, Start inking" and "Remote Assist, Stop inking" to start and stop inking with your head gaze.   
 
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qs]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qs]  
 
 
 The above video shows how to draw using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Ink tool** by touching it directly, and you can use your hand rays to determine where to start your drawing. 
