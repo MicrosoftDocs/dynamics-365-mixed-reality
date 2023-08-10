@@ -2,37 +2,47 @@
 author: davepinch
 description: Overview of authoring in Dynamics 365 Guides, including PC authoring and HoloLens authoring
 ms.author: davepinch
-ms.date: 10/17/2022
+ms.date: 08/10/2023
 ms.topic: overview
-title: Authoring overview--Dynamics 365 Guides PC and Hololens apps
-ms.reviewer: v-brycho
+title: Authoring with the PC app and HoloLens app in Dynamics 365 Guides
+ms.reviewer: v-wendysmith
 ---
 
-# Overview of authoring a guide in Dynamics 365 Guides
- 
+# Overview of authoring with the PC app and HoloLens app in Dynamics 365 Guides
+
 To author a guide in Microsoft Dynamics 365 Guides, you use two apps:
 
-- **PC app.** You start with the PC application. Use this application to create the guide, choose an anchoring method, 
-add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
-Supporting assets include:
+- **PC app.** You start with the PC application. Use this application to create the guide, choose an anchoring method, add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. Supporting assets include:
 
-    - Your custom 3D models
+  - Your custom 3D models
 
-    - 3D models from the toolkit (arrows and numbers, for example)
+  - 3D models from the toolkit (arrows and numbers, for example)
 
-    - 2D media (images and videos)
+  - 2D media (images and videos)
 
-- **HoloLens app.** After creating the guide with the PC app, use the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
+- **HoloLens app.** After creating the guide with the PC app, use the HoloLens app in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
 
     > [!TIP]
-    > You can use both apps to edit the same guide simultaneously for the fastest workflow. Create the structure and text in the PC app, do the 3D placement in the HoloLens app, and then work back and forth until you have your guide just the way you want it. 
+    > You can use both apps to edit the same guide simultaneously for the fastest workflow. Create the structure and text in the PC app, do the 3D placement in the HoloLens app, and then work back and forth until you have your guide just the way you want it.
 
     ![Authoring overview.](media/authoring-overview.PNG "Authoring overview")
-    
-     >[!NOTE]
+
+     > [!NOTE]
      > You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
 
-Ready to jump in? Choose one or more of these links to get underway:
+## How the PC app and HoloLens app work together
+
+When you edit a guide at the same time in the PC and HoloLens apps, Autosave synchronizes your changes across both apps. Edits are automatically saved and synced to the server every few seconds. You can also select **Save** at any time. The apps refresh automatically when they detect any changes made to the guide from another device.
+
+After you're done editing, we recommend pausing for a couple seconds before closing the app to make sure the app has time to sync with the server.
+
+In the HoloLens application, if you leave the app, it goes on standby (doesn't close). When you select the app tile, you'll return to where you were before, and no changes are lost.
+
+### Guide out of sync...refreshing
+
+This message indicates you and another user are editing the same guide on separate devices. The guide is automatically saved on the other device first, then updated on the server. When the current device learns of the update, it reloads the latest version of the guide from the server.
+
+## Next steps
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about PC authoring](https://aka.ms/pcauthor)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the PC app](pc-app-overview.md)

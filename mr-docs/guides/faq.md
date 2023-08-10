@@ -48,55 +48,19 @@ From the OS start menu, select **Cast screen** :::image type="icon" source="medi
 
 You might have installed Dynamics 365 Guides on a trial environment that has expired. Trial environments have their own life cycle, independent of the Dynamics 365 Guides license. You can go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
 
-## I get an error message when I try to sign in to the PC app or [!include[pn-hololens](../includes/pn-hololens.md)] app
-
-The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution package (which includes the built-in library of 3D content) needs to be installed on your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account. Every user must also have a license to use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] product. If your organization is already subscribed to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
-
-## Where is the data stored, and who has access to it?
-
-The data is stored in Microsoft Dataverse in the tenant that you have admin privileges to. Please sign in to [!include[pn-dyn-365](../includes/pn-dyn-365.md)] using the credentials created during the sign-up process. For more information, [see the Setup topic](setup.md). 
-
-## What file formats are supported?
-
-For a list of formats that are supported for 3D content, images, and videos, see [Supported file formats](pc-app-supported-file-formats.md).
-
-## Will I lose any data if I close an app inadvertently while authoring?
-
-Both apps automatically save your edits as you author a guide. After you're done editing, we recommend pausing for a couple seconds before closing the app to make sure the app has time to sync with the server.
-
-Note that in the [!include[pn-hololens](../includes/pn-hololens.md)] application, if you leave the app, it goes on standby (doesn't close). When you select the app tile, you'll return to where you were before, and no changes will be lost.
-
-## What keyboard shortcuts are available in the PC authoring app?
-
-For a list of keyboard shortcuts, see [Keyboard shortcuts for the PC app](keyboard-shortcuts-pc-app.md).
-
-## What does the Save button with the refresh icon mean? How does Save work?
-
-The Autosave functionality enables authors to synchronize their changes across the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps when editing a guide at the same time in both apps. Edits are automatically saved and synced to the server every few seconds. The apps will also refresh automatically when they detect any changes made to the guide from another device. You can also select the **Save** button at any time if you want to be sure your edits are saved.
-
-## I see this message: "Guide out of sync… refreshing" with a loading spinner. What's going on?
-
-This message is displayed when you or another user are editing the same guide on separate devices. The guide is automatically saved on the other device first, then updated on the server. When the current device learns of the update, it reloads the latest version of the guide from the server.
-
-## I see this message: "Save failed." What does this mean?
-
-The PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps save your changes to the server two seconds after each change is made. If any of these save attempts fail, you'll see this notification.
-
-This might occur if you have a poor internet connection or if the server is down. The notification should go away automatically after the server connection is restored. However, if this message doesn't go away, we suggest that you not make more edits during that session, because your edits might be lost. Check the internet connection on your device or speak with your administrator to see whether there are any connectivity issues.
-
 ## Can I add more than eight 3D models to a step?
 
-There are only eight **3D parts** boxes in the bin, which limits the variety of 3D models you can add to a single step. When placing holograms on the [!include[pn-hololens](../includes/pn-hololens.md)], you can, however, place an unlimited number from the bin. For example, you can add up to eight different 3D models (arrows, boxes, nuts, drills, and so on) to the bin, but you can place as many arrows, boxes, nuts, and drills from each **3D Parts** box that you want when in [!include[pn-hololens](../includes/pn-hololens.md)]. To do this, either tap the asset bins to spawn 3D models or go to a 3D model's **Edit** menu and select **Duplicate**.
+There are only eight **3D parts** boxes in the bin, which limits the variety of 3D models you can add to a single step. When placing holograms on the HoloLens, you can, however, place an unlimited number from the bin. For example, you can add up to eight different 3D models (arrows, boxes, nuts, drills, and so on) to the bin, but you can place as many arrows, boxes, nuts, and drills from each **3D Parts** box that you want when in HoloLens. To do this, either tap the asset bins to spawn 3D models or go to a 3D model's **Edit** menu and select **Duplicate**.
 
 ## I see a triangle-shaped hazard sign when I load a step. What does that mean?
 
-The hazard sign is a placeholder for 3D models, videos, or images that can't be successfully loaded in the [!include[pn-hololens](../includes/pn-hololens.md)] app. Possible reasons for this:
+The hazard sign is a placeholder for 3D models, videos, or images that can't be successfully loaded in the HoloLens app. Possible reasons for this:
 
-- This might occur due to intermittent connectivity issues or because the file is too large. If you see this, please relaunch the [!include[pn-hololens](../includes/pn-hololens.md)] app. If this doesn't fix the problem, launch the PC app, find the file in question, and open it in preview mode. If the preview loads, reinstall the [!include[pn-hololens](../includes/pn-hololens.md)] app and try launching the guide again. 
+- This might occur due to intermittent connectivity issues or because the file is too large. If you see this, please relaunch the HoloLens app. If this doesn't fix the problem, launch the PC app, find the file in question, and open it in preview mode. If the preview loads, reinstall the HoloLens app and try launching the guide again. 
 
 - If you can't find the file in the PC app library, the reference (entity) to the 3D model/video/image is broken. Please upload the file again and re-author the guide.
 
-- If the file exists in the library but the preview doesn't load, there's a problem with the file information in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
+- If the file exists in the library but the preview doesn't load, there's a problem with the file information in Guides. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
 
 ## Why does the HoloLens app require permissions to launch?
 
