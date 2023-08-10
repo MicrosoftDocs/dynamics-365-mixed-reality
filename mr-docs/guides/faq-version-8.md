@@ -27,8 +27,6 @@ Yes, it stores data in the same table and columns. In addition, Dynamics 365 Gui
 
 ## Does Dynamics 365 Guides 8.0 provide a Calls dashboard like Dynamics 365 Remote Assist to analyze call data?
 
-No, Dynamics 365 Guides 8.0 doesn't have a Calls dashboard but it provides a table-like view with all of the same information. And since Guides 8.0 sends call usage events to the same PhoneCall table that Dynamics 365 Remote Assist uses, calls made from Guides display in the Dynamics 365 Remote Assist Calls dashboard if both apps are installed in the same environment. [Learn more about viewing and accessing call data in Dynamics 365 Guides.](call-logging.md)
-
 With Dynamics 365 Guides 8.6, Guides has a Calls dashboard. [Learn more about the Guides Calls Dashboard.](calls-dashboard-guides.md)
 
 ## Do I need to update privileges for custom security roles?
