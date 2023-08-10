@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn about all the resources available for getting started with Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 10/17/2022
+ms.date: 08/10/2023
 ms.topic: article
 title: Get started with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -11,7 +11,19 @@ ms.collection: get-started
 
 # Get started with Dynamics 365 Guides
 
-Ready to get started with Microsoft Dynamics 365 Guides? Find the learning path below that suits you best. 
+Dynamics 365 Guides includes two applications, which enable authors and operators to use the right device for the right task in their workflows:
+
+- **PC authoring app.** Authors use the PC app to add content and to create and structure their guide. These tasks are fast and efficient on a PC.
+
+- **HoloLens app.** This app includes modes for authoring and operating.
+
+  - **Authors** use the HoloLens app to anchor their guides and place holograms where they belong in the real world.
+
+  - **Operators** use the HoloLens app to access the step-by-step holographic work instructions. Operators never need to use the PC app.
+
+If you plan to author guides, you'll need to use both apps. If not, you'll only need the HoloLens app.
+
+To get started, select the learning path below that suits you best.
 
 ## Get started with guide authoring
 

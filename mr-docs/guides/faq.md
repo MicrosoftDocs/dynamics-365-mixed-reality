@@ -36,44 +36,6 @@ In rare cases, changes to these underlying platforms can cause issues in Dynamic
 - [Released versions of Dynamics 365 Core Service Scheduling](/dynamics365/released-versions/dynamics365-css)
 - [Update history for Microsoft Teams app version (Public Cloud and GCC)](/officeupdates/teams-app-versioning)
 
-## I can't install the Dynamics 365 Guides solution because I can't find it in the Power Platform admin center
-
-If you previously set up a Dataverse environment instance in a different region than your tenant's default region, the Dynamics 365 Guides model-driven app will not be available to install. You must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
-
-## I'm connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
-
-If you're having problems signing in to or using Dynamics 365 Guides, it may be that your network isn't configured correctly. 
-
-[Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
-
-## Does Dynamics 365 Guides support HoloLens (1st gen)?
-
-HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
-
-## Why are there two apps?
-
-Dynamics 365 Guides includes two applications, which enable authors and operators to use the right device for the right task in their workflows:
-
-- **PC authoring app.** Authors use the PC app to add content and to create and structure their guide. These tasks are fast and efficient on a PC.
-
-- **[!include[pn-hololens](../includes/pn-hololens.md)] app.** This app includes modes for authoring and operating.
-
-    - **Authors** use the HoloLens app to anchor their guides and place holograms where they belong in the real world.
-
-    - **Operators** use the HoloLens app to access the step-by-step holographic work instructions. Operators never need to use the PC app. 
-
-If you plan to author guides, you'll need to use both apps. If not, you'll only need the [!include[pn-hololens](../includes/pn-hololens.md)] app.
-
-## What languages is Dynamics 365 Guides available in?
-
-See a [list of product availability by language](https://dynamics.microsoft.com/en-us/availability-reports/languagereport/). 
-
-Dynamics 365 Guides is listed in the hierarchy under **Dynamics 365**>**Operations Apps**. 
-
-## Is there an out-of-the-box integration with Dynamics 365 Field Service?
-
-Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
-
 ## How do I stream my HoloLens view to a PC using Miracast?
 
 The Connect app for wireless projection using Miracast is no longer installed by default on the PC, but is available as an optional feature. To install the app on the PC, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app. 
@@ -85,10 +47,6 @@ From the OS start menu, select **Cast screen** :::image type="icon" source="medi
 ## I don't see my Dynamics 365 Guides environment even though I have a valid Dynamics 365 Guides license. What should I do? 
 
 You might have installed Dynamics 365 Guides on a trial environment that has expired. Trial environments have their own life cycle, independent of the Dynamics 365 Guides license. You can go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
-
-## How do I limit users to a particular Dynamics 365 instance?
-
-You can limit user access to instances by using security groups that are managed in the Microsoft 365 admin center. For more information, see [Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md) and [Control user access to instances: security groups and licenses](/dynamics365/admin/add-instance-subscription#control-user-access-to-instances-security-groups-and-licenses).
 
 ## I get an error message when I try to sign in to the PC app or [!include[pn-hololens](../includes/pn-hololens.md)] app
 

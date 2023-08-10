@@ -16,6 +16,8 @@ Common problems that might occur when trying to log into the Guides PC app or Ho
 
 - Your using a Microsoft account (an account used for Outlook.com, Windows Store, or other Microsoft products) or your corporate credentials to sign in. You must use the Dynamics 365 Guides sign-in credentials for your organization. For example: `johndoe@contoso.onmicrosoft.com`.
 
+- Network isn't configured correctly. [Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
+
 - Guides isn't set up correctly, or you might not have permission to access it. Contact your admin.
 
 - Your client app version doesn't support your Guides solution version. Update your client app or contact your admin.
