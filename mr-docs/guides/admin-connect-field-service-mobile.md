@@ -19,7 +19,7 @@ With embedded Guides (preview), you can create and view Dynamics 365 Guides on y
 
 This feature lets you:
 
-- Access guides from anywhere, anytime, using your iOS or Android mobile device (tablet and phone).
+- Access guides using your iOS or Android mobile device (tablet and phone).
 
 - Use guides already created in your existing environment.
 
