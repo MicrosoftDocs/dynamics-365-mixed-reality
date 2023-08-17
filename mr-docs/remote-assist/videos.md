@@ -22,25 +22,25 @@ Watch these videos to learn how to use Dynamics 365 Remote Assist on HoloLens. K
 <br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FeDU]
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TH]
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F4dM]
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qy]
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qs]
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FNci]
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TG]
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FhfT]      
 
@@ -65,13 +65,13 @@ Learn more about [Dynamics 365 Remote Assist mobile features](mobile-app/remote-
 Watch these videos to learn how to use Teams on PC to collaborate with a Dynamics 365 Remote Assist user. You may also use Teams on mobile to collaborate with a Dynamics 365 Remote Assist user. 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TF]
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TK]
- 
+<br> 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TP]
-
+<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TJ]   
 
