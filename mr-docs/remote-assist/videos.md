@@ -18,21 +18,29 @@ Watch these short videos to get up and running with Microsoft Remote Assist.
 
 Watch these videos to learn how to use Dynamics 365 Remote Assist on HoloLens. Keep in mind that if you're using HoloLens 2, you don' to use air tap to select a hologram or button; you can touch the button directly. Learn more about [HoloLens interactions](/hololens/hololens1-basic-usage) and [HoloLens 2 interactions](/hololens/hololens2-basic-usage).  
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TI]   
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TI]
+  
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FeDU]   
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FeDU]
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TH]   
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F4dM]   
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TH]
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qy]   
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qs]   
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F4dM]
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FNci]   
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TG]      
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qy]
+
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qs]
+
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FNci]
+
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TG]
+
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2FhfT]      
 
@@ -56,11 +64,14 @@ Learn more about [Dynamics 365 Remote Assist mobile features](mobile-app/remote-
 
 Watch these videos to learn how to use Teams on PC to collaborate with a Dynamics 365 Remote Assist user. You may also use Teams on mobile to collaborate with a Dynamics 365 Remote Assist user. 
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TF]   
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TF]
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TK]   
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TP]   
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TK]
+ 
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TP]
+
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F6TJ]   
 
