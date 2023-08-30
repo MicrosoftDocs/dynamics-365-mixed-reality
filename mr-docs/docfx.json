@@ -58,12 +58,7 @@
         "guides/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=4d46097d-3138-e911-a95b-000d3a4f3883&forumName=Dynamics%20365%20Guides",
         "layout/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=86453d40-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Layout",
         "remote-assist/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist"
-      },
-
-      "uhfHeaderId": {
-            "guides/**.*": "MSDocsHeader-Dynamics365-Guides"
-    
-          }
+      }
       },
       "searchScope": {
         "**.*": [
@@ -105,6 +100,10 @@
       },
       "ms.subservice": {
         "guides/gxp-guidance/**/**.*": "guides-gxp"
+      },
+      "uhfHeaderId": {
+        "guides/**.*": "MSDocsHeader-Dynamics365-Guides"
+
       }
     },
     "template": [],
