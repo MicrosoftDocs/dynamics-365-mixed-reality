@@ -21,7 +21,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ## August 30, 2023
 
-Version 806.2308.25001.0 fixes a performance issue in the PC app.
+Version 806.2308.25001.0 fixes a performance issue in the PC and HoloLens apps.
 
 ## August 9, 2023
 
