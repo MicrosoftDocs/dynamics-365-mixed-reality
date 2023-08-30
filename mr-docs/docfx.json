@@ -63,7 +63,7 @@
       "uhfHeaderId": {
             "guides/**.*": "MSDocsHeader-Dynamics365-Guides"
     
-          },
+          }
       },
       "searchScope": {
         "**.*": [
