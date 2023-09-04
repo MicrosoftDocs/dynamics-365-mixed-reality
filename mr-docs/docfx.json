@@ -54,7 +54,7 @@
       "recommendations": "true"
     },
     "fileMetadata": {
-      "uhfHeaderID": {
+      "uhfHeaderId": {
         "guides/**.*": "MSDocsHeader-Dynamics365-Guides"
       },
       "feedback_product_url": {
