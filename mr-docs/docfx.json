@@ -36,7 +36,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "uhfHeaderId": "MSDocsHeader-Dynamics365",
+      "uhfHeaderID": "MSDocsHeader-Dynamics365",
       "contributors_to_exclude": [
         "buck1ey",
         "bishalgoswami",
@@ -54,7 +54,7 @@
       "recommendations": "true"
     },
     "fileMetadata": {
-      "uhfHeaderId": {
+      "uhfHeaderID": {
         "guides/**.*": "MSDocsHeader-Dynamics365-Guides"
       },
       "feedback_product_url": {
@@ -109,4 +109,3 @@
     "dest": "mr-docs",
     "markdownEngineName": "markdig"
   }
-}
