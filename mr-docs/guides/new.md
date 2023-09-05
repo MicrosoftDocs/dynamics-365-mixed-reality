@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: davepinch
-ms.date: 08/02/2023
+ms.date: 08/30/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -19,6 +19,10 @@ This page provides details about the latest release in the **current wave of fea
 
 If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
+## August 30, 2023
+
+Version 806.2308.25001.0 fixes a performance issue in the PC and HoloLens apps.
+
 ## August 9, 2023
 
 |Item|Version|
@@ -34,7 +38,7 @@ If you have feature requests or suggested improvements, send them to the [!inclu
 
 ## July 5, 2023
 
-Fixed a performance issue in version 805.2306.27001.0 of the HoloLens app.
+Version 805.2306.27001.0 fixes a performance issue in the HoloLens app.
 
 ## June 13, 2023
 

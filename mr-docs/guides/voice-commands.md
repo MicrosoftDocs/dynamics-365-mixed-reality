@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how you can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze.
 ms.author: mehellmu
-ms.date: 04/03/2023
+ms.date: 08/22/2023
 ms.topic: article
 title: Use voice commands in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -62,7 +62,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | Not shown | "Show Main menu" | Open the **Main** menu or bring it to you. |
 | Not shown | "Hide Main menu" | Hide the **Main** menu. |
 | 1 | "Show Work" | Open the Work activity screen to see your guides and folders. |
-| 2 | "Show Collaborate" | Open the Teams activity screen to start collaborating. |
+| 2 | "Show Teams" | Open the Teams activity screen to start collaborating. |
 | 3 | "Show Files" | Open the OneDrive screen. |
 | 4 | "Show Profile" | Open the Profile/Settings screen. |
 

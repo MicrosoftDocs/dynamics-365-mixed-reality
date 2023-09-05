@@ -139,6 +139,11 @@ The type of environment that you create depends on whether you purchased a [!inc
     >
     > ![Error details dialog box.](media/failed-solution-install.PNG "Error details dialog box")
 
+    > [!NOTE]
+    > Some environments may not show Dynamics 365 Guides in the Dynamics 365 app switcher. Install the solution from AppSource to mitigate this issue.
+    >
+    > Select **Open in AppSource**, select **Install** in AppSource, and follow the installation procedure in this article.
+
 ## What's next?
 
 After you've completed this step of the setup process, move on to step 3, [Download and install the apps](setup-step-three.md).
