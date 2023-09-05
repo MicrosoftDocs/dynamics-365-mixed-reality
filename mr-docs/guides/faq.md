@@ -66,16 +66,6 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 
 The HoloLens app includes advanced features that rely on eye-tracking, voice, camera, and movement to function properly. For example, you need eye tracking to access the Main menu. [Learn more about the permissions required to use the HoloLens app](hololens-permissions.md)  
 
-## Why can't I make a video call?
-
-If you're using Dynamics 365 Guides version 7.0 or later and you can’t make a video call, it could be because:
-
--	Your admin has [disabled the option directly from the Guides web portal](admin-enable-calls.md). 
-
--	The appropriate Microsoft Teams license has not been assigned to you. [Learn more about licensing requirements](requirements.md).
-
--	You're currently offline and need to reconnect to the internet.
-
 ## See also
 
 [Known Issues in Dynamics 365 Guides](known-issues.md)
