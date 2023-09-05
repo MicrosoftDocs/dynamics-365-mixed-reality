@@ -36,7 +36,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "uhfHeaderID": "MSDocsHeader-Dynamics365",
+      "uhfHeaderId": "MSDocsHeader-Dynamics365",
       "contributors_to_exclude": [
         "buck1ey",
         "bishalgoswami",
