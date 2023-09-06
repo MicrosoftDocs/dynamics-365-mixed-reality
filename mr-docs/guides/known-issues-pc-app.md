@@ -44,11 +44,11 @@ Currently, when you upload content, the app doesn't automatically scroll to the 
 
 If any errors occurred during upload, the PC app shows notifications in the title bar. Make sure that content that you upload is in the correct file format. For information about supported file formats, see [What file formats are supported for 3D models, images, and videos?](pc-app-supported-file-formats.md)
 
-If you still can't find your content, contact your admin. There might be a permissions issue. 
+If you still can't find your content, contact your admin. There might be a permissions issue.
 
 ## Deleting an asset from a step (from the bin) in the PC app removes all previously placed instances on HoloLens
 
-You might have an existing guide where an asset was placed in the bin in the PC app, and then instances of that asset were placed in the world on [!include[pn-hololens](../includes/pn-hololens.md)]. If you delete the asset from the bin while you're editing this guide, all instances that have been placed in the world are removed. Those placed instances won't be restored if you add the asset again. To restore them, select the **Undo** button in the PC app.
+You might have an existing guide where an asset was placed in the bin in the PC app, and then instances of that asset were placed in the world on HoloLens. If you delete the asset from the bin while you're editing this guide, all instances that have been placed in the world are removed. Those placed instances won't be restored if you add the asset again. To restore them, select the **Undo** button in the PC app.
 
 ## Guest users cannot see environment in PC app
 

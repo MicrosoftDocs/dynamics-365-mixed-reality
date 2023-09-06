@@ -3,7 +3,7 @@ author: davepinch
 description: Learn how to enable or disable Azure Object Anchors (Preview) in a Dynamics 365 Guides environment 
 ms.author: davepinch
 ms.date: 08/03/2023
-ms.topic: article
+ms.topic: how-to
 title: Enable or disable Azure Object Anchors (Preview) for a Dynamics 365 Guides environment
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -23,10 +23,10 @@ If you're an administrator for Dynamics 365 Guides, you can enable or disable Az
 
 ## Enable or disable Object Anchors
 
-1. Sign in to the instance by using your admin or author credentials.
+1. Sign in to the environment by using your admin or author credentials.
 
     > [!TIP]
-    > To find the URL for the instance, select the **Analyze** tab in the PC app. The URL is shown in the **Instance URL** field at the bottom of the page. Copy this URL, and paste it into the address bar of your web browser.
+    > To find the URL for the environment, select the **Analyze** tab in the PC app. The URL is shown in the **Instance URL** field at the bottom of the page. Copy this URL, and paste it into the address bar of your web browser.
     >
     > ![Instance URL field.](media/instance-url.PNG "Instance URL field")
 
@@ -34,7 +34,7 @@ If you're an administrator for Dynamics 365 Guides, you can enable or disable Az
 
     ![Guides app tile.](media/guides-app-tile.PNG "Guides app tile")
 
-1. In the left pane, use the area picker at the bottom of the screen to switch the area selection from **Main** to **Settings** to view all settings for the instance.
+1. In the left pane, use the area picker at the bottom of the screen to switch the area selection from **Main** to **Settings** to view all settings for the environment.
 
     ![Settings highlighted in the left pane.](media/Admin-EnableCalling01__Background-GuidesMDA-AreaPicker-Settings.png "Settings highlighted in left pane")
 
