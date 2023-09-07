@@ -16,10 +16,10 @@ A sign-in error occurs when trying to sign into Dynamics 365 Guides from a share
 
 - Admin permissions in Dynamics 365 Guides
 
-## Cause 1: A shared account has not been assigned
+## Cause 1: A shared account hasn't been assigned
 
 [Create a shared account.](device-license.md)
 
-## Cause 2: The right roles were not assigned
+## Cause 2: The right roles weren't assigned
 
 [Assign the **Basic User** role and a **Dynamics 365 Guides Operator** or **Dynamics 365 Guides Restricted Operator** role.](device-license#assign-an-operator-role-to-the-shared-account)
