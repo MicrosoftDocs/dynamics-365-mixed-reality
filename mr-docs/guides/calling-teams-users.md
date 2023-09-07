@@ -10,7 +10,7 @@ ms.reviewer: v-wendysmith
 
 # Collaborate with a Dynamics 365 Guides user from Microsoft Teams
 
-When you use Microsoft Teams desktop (PC or Mac) or Teams mobile, you can collaborate remotely with people using Dynamics 365 Remote Guides on HoloLens. 
+When you use Microsoft Teams desktop (PC or Mac) or Teams mobile, you can collaborate remotely with people using Dynamics 365 Guides on HoloLens. 
 
 The following table describes the features that are available as a Teams desktop user when you're collaborating on a call with a Dynamics 365 Guides user. 
 
