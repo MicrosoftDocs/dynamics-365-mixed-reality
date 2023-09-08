@@ -24,7 +24,7 @@ When you're logged into a tenant with multiple environments, you can easily swit
 
 If your HoloLens device is in [kiosk mode](restricted-mode-signout.md), you can switch environments, but not sign out.
 
-1. While logged into the HoloLens app, select the profile button from the activity menu.
+1. While logged into the HoloLens app, select the profile button from the **Main** menu.
 
    :::image type="content" source="media/hololens-switch-env.png" alt-text="Screenshot that shows Profile and Switch environment in HoloLens.":::
 
