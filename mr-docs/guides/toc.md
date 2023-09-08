@@ -96,6 +96,7 @@
 ### Author, operate, and analyze guides
 
 #### [How the PC app and HoloLens app work together](authoring-overview.md)
+#### [Switch environments](switch-environment.md)
 
 #### Author a guide in the PC app
 ##### Basics
