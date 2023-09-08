@@ -31,7 +31,7 @@ Packaging a guide allows authors to create a self-contained, real-only file that
 
 1. Keep the default name or enter a unique name for the package guide. For example, provide the guide name and version number or guide name and status.
 
-1. Select **Package**. The guide and all its contents is downloaded, archived into a .guide file, and uploaded to the Guides model-driven app. The packaged guide is listed with other guides on the **Home** page.
+1. Select **Package**. The guide and all its contents is downloaded, archived into a .guide file, and uploaded to the Guides model-driven app. The packaged guide is listed with other guides on the **Home** page. The packaged guide is available to HoloLens users in operator mode.
 
 ## Manage a packaged guide in the PC app
 
@@ -53,7 +53,12 @@ A packaged guide can't be opened in the PC app. You can rename, deactivate, or s
 
    :::image type="content" source="media/mda-packaged-guide-link.png" alt-text="Screenshot that shows the link of the packaged guide file to download.":::
 
+> [!IMPORTANT]
+> Packaged content is no longer protected by permissions that might be set by your organization. If a guide contains sensitive information, take precautions according to your organization's privacy policies before sharing it.
+
 ## Upload a packaged guide in the model-driven app
+
+As an admin or author, if you have received a packaged guide and you want to make it available for viewing in a HoloLens, upload the packaged guide.
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
@@ -67,4 +72,15 @@ A packaged guide can't be opened in the PC app. You can rename, deactivate, or s
 
 1. Select **Choose file** and browse to the .guide file and select it.
 
+   > [!TIP]
+   > You can only upload a .guide file.
+
 1. Select **Save**.
+
+## Migrate a guide to another environment
+
+1. Have the author of the guide [create a packaged guide](#package-a-guide-in-the-pc-app).
+
+1. Have the author [download the packaged guide](#download-a-packaged-guide-in-the-model-driven-app) and send you the .guide file.
+
+1. Access your environment and [upload the packaged guide](#upload-a-packaged-guide-in-the-model-driven-app).
