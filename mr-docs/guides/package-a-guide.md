@@ -11,11 +11,7 @@ ms.custom: bap-template
 
 # Package a guide in Dynamics 365 Guides
 
-Packaging a guide creates a copy of all content in a guide that you can share with a user regardless of permission levels. Packaging a guide allows authors to create a self-contained, real-only file that can be shared with others.
-
-<!--- Add benefits --->
-
-The packaged guide can only be viewed by an operator with a HoloLens device.
+Packaging a guide allows authors to create a self-contained, real-only file that contains a copy of all contents in a guide. Use a packaged guide to archive versions of a guide, easily migrate guides between environments, or quickly share content with others regardless of permission levels. The packaged guide can't be edited and can only be viewed with a HoloLens device in operator mode.
 
 > [!IMPORTANT]
 > Verify permissions on guide content before packaging a guide. Be aware of any sensitive information that might be shared and manage the packaged guide according to your organization's privacy policies.
@@ -23,9 +19,9 @@ The packaged guide can only be viewed by an operator with a HoloLens device.
 ## Limitations
 
 - Maximum of 2 GB for a packaged guide
-- Maximum of 100 MB 3D modesl and other assets, except animated anchors which are not supported
+- Maximum of 100 MB 3D models and other assets, except animated anchors, which aren't supported
 - Maximum of 500 MB to upload to the model-driven app
-- Offline mode is not supported
+- Offline mode isn't supported
 
 ## Package a guide in the PC app
 
@@ -33,26 +29,42 @@ The packaged guide can only be viewed by an operator with a HoloLens device.
 
    :::image type="content" source="media/package-guide.png" alt-text="Screenshot that shows the Package guide option.":::
 
-1. Name the package guide. For example, provide the guide name and version number or guide name and status.
+1. Keep the default name or enter a unique name for the package guide. For example, provide the guide name and version number or guide name and status.
 
-1. Select **Package**. The guide and all its contents is downloaded and archived into a .guide file
+1. Select **Package**. The guide and all its contents is downloaded, archived into a .guide file, and uploaded to the Guides model-driven app. The packaged guide is listed with other guides on the **Home** page.
 
-1. Upload the .guide file to the Guides model-driven app. Or is that done automatically?
+## Manage a packaged guide in the PC app
 
-## Download a packaged guide to share it?
+A packaged guide can't be opened in the PC app. You can rename, deactivate, or share it.
 
-1. [Open the model-driven app](open-model-driven-app.md) in Guides.
+1. In the PC app, select **Home** to view a list of guides.
 
-1. Under**Content**, on the left side of the screen, select **Packaged Guides**.
+1. Right-click the packaged guide you want to manage and choose to rename it, deactivate it, or copy the link to share it.
 
-1. Navigate to the packaged guide file and select it. A zip file is downloaded to your downloads folder that you can share with others.
-
-## Manage a packaged guide
-
-A packaged guide can't be opened or managed in the PC app. You can rename, deactivate, or share it from the Guides model-driven app.
+## Download a packaged guide in the model-driven app
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-1. Select **Packaged Guides**.
+1. Under **Content**, on the left side of the screen, select **Packaged Guides**.
 
-1. Right-click the guide you want to manage.
+1. Navigate to the packaged guide file and select it. The record for the packaged guide opens.
+
+1. Select the packaged guide link. A zip file automatically downloads to your downloads folder that you can share with others.
+
+   :::image type="content" source="media/mda-packaged-guide-link.png" alt-text="Screenshot that shows the link of the packaged guide file to download.":::
+
+## Upload a packaged guide in the model-driven app
+
+1. [Open the model-driven app](open-model-driven-app.md) in Guides.
+
+1. Under **Content**, on the left side of the screen, select **Packaged Guides**.
+
+1. Select **New**.
+
+1. On the **New Packaged Guide** screen, enter a unique name of the packaged guide, and then select **Save**.
+
+   :::image type="content" source="media/mda-new-packaged-guide.png" alt-text="Screenshot of the New Packaged Guide screen in the model-driven app.":::
+
+1. Select **Choose file** and browse to the .guide file and select it.
+
+1. Select **Save**.
