@@ -71,7 +71,7 @@ More information: [Assign licenses to users](/microsoft-365/admin/manage/assign-
 
     - If the users are already in the list, skip ahead to step 6 to assign user roles.
     
-    - If you need to add one or more users, select **Add user** at the top of the page, enter the account details in the **Add user** dialog box, and then select **Add**. For more information, see the "Troubleshooting" section later in this topic.
+    - If you need to add one or more users, select **Add user** at the top of the page, enter the account details in the **Add user** dialog box, and then select **Add**.
 
         > [!NOTE]
         > When you add a user in this way, you trigger synchronization. The user is added to the instance within a few minutes.  
@@ -94,12 +94,6 @@ More information: [Assign licenses to users](/microsoft-365/admin/manage/assign-
 9. Select the check box for **Remote Assist - App User**.
         
 10. For supervisors, service managers, and other users who may need access to advanced features, such as the [Calls dashboard](./calls-dashboard.md), select the check box for the **Remote Assist - Administrator** role. When you're finished, select **OK**.
-    
-### Troubleshooting security roles
-
-If users don't appear on the **Security** page (**Dynamics 365** \> **Settings** \> **Security**), in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. This operation triggers synchronization, so the user is added to the instance within a few minutes.
-
-![Adding a user in Power Platform admin center.](media/add-users-troubleshooting.PNG "Adding a user in Power Platform admin center")
 
 ## Manage app roles
 
