@@ -19,8 +19,9 @@ Packaging a guide allows authors to create a self-contained, real-only file that
 ## Limitations
 
 - Maximum of 2 GB for a packaged guide
-- Maximum of 100 MB 3D models and other assets, except animated anchors, which aren't supported
+- Maximum of 100 MB 3D models and other assets
 - Maximum of 500 MB to upload to the model-driven app
+- Animated anchors aren't supported
 - Offline mode isn't supported
 
 ## Package a guide in the PC app
