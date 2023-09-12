@@ -137,10 +137,6 @@ The next step is to [add users to the model-driven app](asset-capture-add-users.
 
 ## Troubleshooting
 
-### The Dynamics 365 Remote Assist model-driven app failed to install because of missing dependencies
-
-This will occur if you try to install Dynamics 365 Remote Assist in an environment that isn't enabled for Dynamics 365 apps. Try installing the app in an environment where other Dynamics 365 apps&mdash;such as Dynamics 365 Field Service or Dynamics 365 Sales&mdash;are installed, or create a new environment that's enabled for Dynamics 365 apps. More information: [Create a new environment](#install-the-dynamics-365-remote-assist-model-driven-app)
-
 ### Can't enable Dynamics 365 apps
 
 If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch when you create an environment, ensure that you have an active Dynamics 365 Remote Assist subscription. You can view your subscriptions in the [Microsoft 365 admin center](https://admin.microsoft.com/).

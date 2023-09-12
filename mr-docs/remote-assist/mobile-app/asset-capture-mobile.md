@@ -55,25 +55,4 @@ To capture and view assets you need:
 
 [Review captured assets in the Dynamics 365 Remote Assist model-driven app](./../asset-capture-review.md).
 
-## Troubleshooting
-
-### No assets appear when I select the Assets tab
-
-1. Make sure that the environment you're using has asset records. More information: [Create asset records](./../asset-capture-create-asset.md).
-
-2. If you added the asset records from the model-driven app while the Dynamics 365 Remote Assist app was already open on your mobile device, close the app and reopen it to pull in the latest updates.
-
-### The asset records I see aren't what I expected
-
-The user account might have access to more than one environment where Dynamics 365 Remote Assist is installed. 
-
-To select the correct environment:
-
-1. Select **Settings** > **Dynamics 365 environment**.
-
-2. Select the environment you want from the list.
-
-3. Select the **Assets** tab. You might need to select **Retry** if prompted.
-
-
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

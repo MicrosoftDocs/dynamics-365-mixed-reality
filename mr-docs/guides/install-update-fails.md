@@ -1,8 +1,8 @@
 ---
 author: davepinch
-description: Troubleshoot when the installation or update of the Dynamics 365 Guides solution fails
+description: Learn how to resolve a problem when the installation or update of the Dynamics 365 Guides solution fails
 ms.author: davepinch
-ms.date: 08/07/2023
+ms.date: 09/07/2023
 ms.topic: troubleshooting-problem-resolution
 title: The solution installation or update fails repeatedly
 ms.reviewer: v-wendysmith
@@ -10,6 +10,10 @@ ms.custom: bap-template
 ---
 
 # The solution installation or update fails repeatedly
+
+Learn how to resolve a problem when the installation or update of the Dynamics 365 Guides solution fails.
+
+## Symptom
 
 When trying to install or update the Guides solution, the message "Installation failed" displays.
 
@@ -21,7 +25,7 @@ Missing one or all of the following requirements:
 - A [Dynamics 365 Guides license assigned to your account](add-users.md#assign-a-dynamics-365-guides-license-to-an-existing-user)
 - [Power Apps license](/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license)
 
-## Solution
+## Resolution
 
 1. Make sure you have the [System Administrator](/power-platform/admin/database-security) role AND a [Power Apps license](/power-platform/admin/signup-question-and-answer) (or a license that includes a Power Apps license) and then try the install.
 

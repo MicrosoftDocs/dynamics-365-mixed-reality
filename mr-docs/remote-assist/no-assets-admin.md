@@ -1,6 +1,6 @@
 ---
 author: davepinch
-description: Learn how to resolve a problem when Asset tab informs a user to contact IT admin for Dynamics 365 Remote Assist
+description: Learn how to resolve a problem when the Asset tab informs a user to contact IT admin for Dynamics 365 Remote Assist
 ms.author: davepinch
 ms.date: 09/12/2023
 ms.topic: troubleshooting-problem-resolution
@@ -11,7 +11,11 @@ ms.custom: bap-template
 
 # Asset tab indicates contact IT admin
 
-Dynamics 365 Remote Assist says to contact my IT admin on the Assets tab
+Learn how to resolve a problem when the Asset tab informs a user to contact IT admin.
+
+## Symptoms
+
+In the HoloLens app, when I select the **Assets** tab, Dynamics 365 Remote Assist says to contact IT admin.
 
 ## Prerequisites
 
