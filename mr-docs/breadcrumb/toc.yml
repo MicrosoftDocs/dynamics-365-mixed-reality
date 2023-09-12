@@ -1,7 +1,13 @@
+items:
 - name: Dynamics 365
   tocHref: /dynamics365/
   topicHref: /dynamics365/
   items:
-  - name: "Mixed reality"
-    tocHref: /dynamics365/mixed-reality/
-    topicHref: /dynamics365/mixed-reality/
+  - name: Mixed reality
+    items:
+    - name: Guides
+      tocHref: /dynamics365/mixed-reality/guides/
+      topicHref: /dynamics365/mixed-reality/guides/index
+    - name: Remote Assist
+      tocHref: /dynamics365/mixed-reality/remote-assist/
+      topicHref: /dynamics365/mixed-reality/remote-assist/ra-overview
