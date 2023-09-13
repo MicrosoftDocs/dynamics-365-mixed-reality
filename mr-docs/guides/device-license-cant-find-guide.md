@@ -10,8 +10,6 @@ ms.custom: bap-template
 
 # Can't find a guide on a shared HoloLens device
 
-Learn how to resolve a problem when you can't find a guide in Dynamics 365 Guides on a shared device license.
-
 ## Symptom
 
 Can't find a guide in Dynamics 365 Guides on a shared HoloLens device.

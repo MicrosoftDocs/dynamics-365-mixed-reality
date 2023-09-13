@@ -12,16 +12,6 @@ ms.reviewer: v-wendysmith
 
 [See also Dynamics 365 Guides 8.0 FAQ](faq-version-8.md)
 
-## How do I contact Support if I don't find an answer in this FAQ?
-
-If you're not able to use Microsoft Dynamics 365 Guides, or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
-
-1. Go to [https://dynamics.microsoft.com/support/](https://dynamics.microsoft.com/support/).
-
-2. Under **Customer Engagement help + support**, select **GET SUPPORT**.
-
-3. Find a phone number or submit a support request through the admin center. 
-
 ## Which Microsoft platforms is Dynamics 365 Guides dependent on?
  
 Dynamics 365 Guides is dependent on three Microsoft platforms:
@@ -52,15 +42,6 @@ You might have installed Dynamics 365 Guides on a trial environment that has exp
 
 There are only eight **3D parts** boxes in the bin, which limits the variety of 3D models you can add to a single step. When placing holograms on the HoloLens, you can, however, place an unlimited number from the bin. For example, you can add up to eight different 3D models (arrows, boxes, nuts, drills, and so on) to the bin, but you can place as many arrows, boxes, nuts, and drills from each **3D Parts** box that you want when in HoloLens. To do this, either tap the asset bins to spawn 3D models or go to a 3D model's **Edit** menu and select **Duplicate**.
 
-## I see a triangle-shaped hazard sign when I load a step. What does that mean?
-
-The hazard sign is a placeholder for 3D models, videos, or images that can't be successfully loaded in the HoloLens app. Possible reasons for this:
-
-- This might occur due to intermittent connectivity issues or because the file is too large. If you see this, please relaunch the HoloLens app. If this doesn't fix the problem, launch the PC app, find the file in question, and open it in preview mode. If the preview loads, reinstall the HoloLens app and try launching the guide again. 
-
-- If you can't find the file in the PC app library, the reference (entity) to the 3D model/video/image is broken. Please upload the file again and re-author the guide.
-
-- If the file exists in the library but the preview doesn't load, there's a problem with the file information in Guides. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
 
 ## Why does the HoloLens app require permissions to launch?
 

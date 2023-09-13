@@ -11,8 +11,6 @@ ms.custom: bap-template
 
 # The Dynamics 365 Remote Assist model-driven app failed to install
 
-Learn how to resolve a problem when the installation of the Dynamics 365 Remote Assist model-driven app fails
-
 ## Symptom
 
 The Remote Assist model-driven app installation fails because of missing dependencies.

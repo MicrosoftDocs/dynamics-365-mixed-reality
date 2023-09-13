@@ -4,22 +4,52 @@ description: Learn how to resolve an error when trying to sign into Dynamics 365
 author: davepinch
 ms.author: davepinch
 ms.topic: troubleshooting-general 
-ms.date: 08/09/2023
+ms.date: 09/09/2023
 ms.custom: bap-template
 ---
 
 # Can't sign in to the Guides PC or HoloLens app
 
+## Symptoms
+
 Common problems that might occur when trying to log into the Guides PC app or HoloLens app.
 
-## Common problems
+## Cause 1: Wrong account used
 
-- Your using a Microsoft account (an account used for Outlook.com, Windows Store, or other Microsoft products) or your corporate credentials to sign in. You must use the Dynamics 365 Guides sign-in credentials for your organization. For example: `johndoe@contoso.onmicrosoft.com`.
+Your using a Microsoft account (an account used for Outlook.com, Windows Store, or other Microsoft products) or your corporate credentials to sign in.
 
-- Network isn't configured correctly. [Learn how to configure a VPN or proxy for Dynamics 365 Guides](admin-deployment-playbook.md#vpn-or-proxy-configuration).
+### Resolution
 
-- Guides isn't set up correctly, or you might not have permission to access it. Contact your admin.
+You must use the Dynamics 365 Guides sign-in credentials for your organization. For example: `johndoe@contoso.onmicrosoft.com`.
 
-- Your client app version doesn't support your Guides solution version. Update your client app or contact your admin.
+## Cause 2: Network isn't configured correctly
 
-- You don't have a license to use Guides. Contact your admin or [sign up for a free trial subscription](setup.md).
+Connection through a proxy or VPN isn't configured correctly.
+
+### Resolution
+
+[Configure a VPN or proxy for Dynamics 365 Guides](/dynamics365/mixed-reality/guides/admin-deployment-playbook.md#vpn-or-proxy-configuration).
+
+## Cause 3: Don't have permission
+
+You might not have permission to access Guides or it isn't set up correctly.
+
+### Resolution
+
+Contact your admin.
+
+## Cause 4: Wrong version
+
+Your client app version doesn't support your Guides solution version.
+
+### Resolution
+
+Update your client app or contact your admin.
+
+## Cause 4: No license
+
+You don't have a license to use Guides.
+
+### Resolution
+
+Contact your admin or [sign up for a free trial subscription](setup.md).

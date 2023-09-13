@@ -11,8 +11,6 @@ ms.custom: bap-template
 
 # The solution installation or update fails repeatedly
 
-Learn how to resolve a problem when the installation or update of the Dynamics 365 Guides solution fails.
-
 ## Symptom
 
 When trying to install or update the Guides solution, the message "Installation failed" displays.

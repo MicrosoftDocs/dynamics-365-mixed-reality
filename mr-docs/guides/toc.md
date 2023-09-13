@@ -257,6 +257,7 @@
 #### [Affecting both apps](known-issues.md)
 #### [PC app](known-issues-pc-app.md)
 #### [HoloLens app](known-issues-hololens-app.md)
+### [Contact Support](get-support.md)
 ### [Submit feedback](submit-feedback.md)
 
 

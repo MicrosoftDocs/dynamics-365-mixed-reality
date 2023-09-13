@@ -11,14 +11,30 @@ ms.custom: bap-template
 
 # Can't make a video call in the HoloLens app
 
-Common problems that might occur when trying to  make a video call in the HoloLens app.
+## Symptoms
 
-## Common problems
+I can't make a video call in the HoloLens app.
 
-- You're using a Dynamics 365 Guides version earlier than 7.0. Update your client app or contact your admin.
+## Cause 1: You're using a Dynamics 365 Guides version earlier than 7.0
 
-- Your admin has [disabled the option directly from the Guides web portal](admin-enable-calls.md). Contact your admin.
+### Resolution
 
-- The appropriate Microsoft Teams license hasn't been assigned to you. [Learn more about licensing requirements](requirements.md). Contact your admin.
+Update your client app or contact your admin.
 
-- You're currently offline and need to reconnect to the internet.
+## Cause 2: Your admin has [disabled the option directly from the Guides web portal](admin-enable-calls.md)
+
+### Resolution
+
+Contact your admin.
+
+## Cause 3: The appropriate Microsoft Teams license hasn't been assigned to you
+
+### Resolution
+
+Contact your admin. [Learn more about licensing requirements](requirements.md).
+
+## Cause 4: You're currently offline
+
+### Resolution
+
+Reconnect to the internet.
