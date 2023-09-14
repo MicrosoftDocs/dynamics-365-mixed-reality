@@ -1,8 +1,8 @@
 ---
 title: Create a new asset record in Dynamics 365 Remote Assist
-author: amaraanigbo
+author: davepinch
 description: Learn how to create new asset records in Microsoft Dynamics 365 Remote Assist.
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 04/30/2021
 ms.topic: article
 ms.reviewer: v-wendysmith

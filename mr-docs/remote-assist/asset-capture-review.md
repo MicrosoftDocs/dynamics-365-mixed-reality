@@ -1,8 +1,8 @@
 ---
 title: Review data from captured assets in the Dynamics 365 Remote Assist model-driven app
-author: amaraanigbo
+author: davepinch
 description: Learn how to review captured asset data from the Dynamics 365 Remote Assist HoloLens app for validation purposes.
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 04/30/2021
 ms.topic: article
 ms.reviewer: v-wendysmith

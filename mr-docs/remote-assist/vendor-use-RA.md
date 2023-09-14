@@ -1,7 +1,7 @@
 ---
-author: amaraanigbo
+author: davepinch
 description: Vendors and customers use full Dynamics 365 Remote Assist capabilities 
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 04/02/2020
 ms.topic: article
 title: Vendors and customers use full Dynamics 365 Remote Assist capabilities 

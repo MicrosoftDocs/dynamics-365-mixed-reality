@@ -1,8 +1,8 @@
 ---
 title: Deployment scenarios overview 
-author: amaraanigbo
+author: davepinch
 description: Deployment scenarios overview 
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 09/15/2020
 ms.topic: overview
 ms.reviewer: v-wendysmith

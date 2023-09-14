@@ -76,7 +76,7 @@ Every release of Dynamics 365 Guides includes an update to the solution. The PC 
 
 The Dynamics 365 Guides team updates the version numbers of the apps and solution twice per year for major updates: on April 1 and October 1. These major updates are mandatory if you want to use the latest versions of the apps and take advantage of new features and enhancements. You're notified about these updates through admin communications.
 
-Minor updates are listed in [What's new](./new.md), through in-app notifications, and through the [Dynamics 365 Guides forum](https://community.dynamics.com/365/guides). Some features in minor updates might require an update to the solution. Although the PC and HoloLens apps will continue to work if you don't update the solution, you won't be able to use the new features. Features that require a solution update are listed in [What's new](./new.md).
+Minor updates are listed in [What's new](./new.md), through in-app notifications, and through the [Dynamics 365 Guides forum](https://community.dynamics.com/forums/thread/?partialUrl=guides). Some features in minor updates might require an update to the solution. Although the PC and HoloLens apps will continue to work if you don't update the solution, you won't be able to use the new features. Features that require a solution update are listed in [What's new](./new.md).
 
 ![What's new page that shows when a solution update is required for a specific feature.](media/solution-update-required.PNG "What's new page that shows when a solution update is required for a specific feature")
 
