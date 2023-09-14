@@ -1,8 +1,8 @@
 ---
 title: Integrate Dynamics 365 Remote Assist with Power Automate
-author: amaraanigbo
+author: davepinch
 description: Learn how to create a Power Automate flow based on Dynamics 365 Remote Assist entities
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 06/10/2020
 ms.topic: article
 ms.reviewer: v-wendysmith
