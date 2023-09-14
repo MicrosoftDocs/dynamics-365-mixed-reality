@@ -1,8 +1,8 @@
 ---
 title: Make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams
-author: amaraanigbo
+author: davepinch
 description: Learn how to make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams desktop or Teams mobile 
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 05/11/2022
 ms.topic: article
 ms.reviewer: v-wendysmith

@@ -1,8 +1,8 @@
 ---
 title: Call another Dynamics 365 Remote Assist mobile user from Dynamics 365 Remote Assist mobile
-author: amaraanigbo 
+author: davepinch 
 description: Learn how calling between two Dynamics 365 Remote Assist mobile users works
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 02/01/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
