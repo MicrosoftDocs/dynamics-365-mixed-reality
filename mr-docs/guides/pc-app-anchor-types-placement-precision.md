@@ -3,7 +3,7 @@ author: davepinch
 description: Learn about different anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides. 
 ms.author: davepinch
 ms.date: 07/27/2021
-ms.topic: article
+ms.topic: conceptual
 title: Anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---
@@ -18,17 +18,17 @@ To maximize hologram position consistency so that the position of a hologram in 
 
 - Use QR or circular code anchors instead of holographic anchors for small to medium-sized objects and spaces. 
 
-- Use [Azure Object Anchors Preview](pc-app-anchor-azure-object.md) for larger static objects. 
+- Use [Object Anchors](pc-app-anchor-azure-object.md) for larger static objects. 
 
     The overall order of accuracy for the different kinds of anchors from most precise to least precise is:
 
     1. Object anchor
 
-    2. QR code anchor
+    1. QR code anchor
 
-    2. Circular code anchor
+    1. Circular code anchor
 
-    3. Holographic anchor
+    1. Holographic anchor
 
 - Place holograms close to the anchor (not more than 3 meters away)
 
@@ -44,15 +44,16 @@ Each of these suggestions is covered in more detail in this article.
 > In addition to the suggestions included in this article, make sure to review the following articles:
 >
 > - [Effect of calibration, pre-scanning, and environment on positional precision of holograms](pc-app-anchor-improve-hologram-precision.md)
+> - [Best practices for Object Anchors](pc-app-anchor-object-best-practices.md)
 > - [Best practices for QR code anchors](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors)
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
 
-## Azure Object Anchors Preview
+## Object Anchors
 
-The Azure Object Anchors Preview feature uses a 3D model of an object to automatically detect and anchor to a real-world object. Use this anchor type as an alternative when you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.   
+The Object Anchors feature uses a 3D model of an object to automatically detect and anchor to a real-world object. Use this anchor type as an alternative when you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.   
 
-[Learn more about Azure Object Anchors Preview](pc-app-anchor-azure-object.md).
+[Learn more about Object Anchors](pc-app-anchor-azure-object.md).
 
 ## QR and circular code anchors
 
@@ -84,7 +85,6 @@ When authoring, you're placing holograms in 3D space. Making sure the holograms 
 
 When re-anchoring a guide, whether you're an author or an operator, make sure to always scan the anchor from the same position and angle. Variation in the position and angle can result in inconsistencies in different HoloLens runs because the HoloLens sensors will have a very slightly different space perception. Even if the green outline in the QR code seems to be in the right place, micro errors can impact final accuracy, especially if holograms are placed far away from the anchor (lever arm effect).
 
-
 ## What's next?
 
 Use the following table to find more information on anchoring.
@@ -92,7 +92,7 @@ Use the following table to find more information on anchoring.
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
 |Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Creating types of anchors|[Create an Azure Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
+|Creating types of anchors|[Create an Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
 ||[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|

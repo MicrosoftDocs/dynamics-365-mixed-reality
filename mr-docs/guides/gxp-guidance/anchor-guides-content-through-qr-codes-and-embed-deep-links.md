@@ -1,7 +1,7 @@
 ---
 title: Anchor guide content through QR codes and embed deep links
 description: Learn about using QR codes and embedded QR code links to anchor guide content to pieces of equipment when you implement Dynamics 365 Guides in a regulated industry.
-ms.date: 03/21/2023
+ms.date: 09/14/2023
 ms.topic: conceptual
 author: davepinch
 ms.author: davepinch
@@ -17,7 +17,7 @@ To create successful and safe guides, authors should follow [3D object best prac
 
 3D objects are placed in space through one of [four anchoring methods](../pc-app-anchor.md#four-ways-to-anchor-a-guide):
 
-- Azure Object Anchors (in preview)
+- Object Anchors (in preview)
 - QR code anchors
 - Circular code anchors
 - Holographic anchors

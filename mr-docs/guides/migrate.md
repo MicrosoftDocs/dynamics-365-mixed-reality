@@ -29,7 +29,7 @@ The tool supports the following types of migration.
 | Only 3D objects | Active 3D objects only. You can migrate all existing 3D objects at one time, all 3D objects that belong to a 3D object collection, or select specific 3D objects. |
 | Only images | Active images only. You can migrate all existing images at one time or select specific images. |
 | Only videos | Active videos only. You can migrate all existing videos at one time or select specific videos. |
-| Only Object Anchors | Active Azure Object Anchors only. You can migrate all existing object anchors at one time or select specific object anchors. |
+| Only Object Anchors | Active Object Anchors only. You can migrate all existing object anchors at one time or select specific object anchors. |
 
 > [!NOTE]
 > - If you have created a folder structure in your instance, [migrate it using Power Platform's export/import functionality](/dynamics365/mixed-reality/guides/admin-export-import-folders). Moving the folders first, and then the content ensures that the folder and content hierarchy is retained. 
