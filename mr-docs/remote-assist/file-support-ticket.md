@@ -1,8 +1,8 @@
 ---
 title: File a support ticket for Dynamics 365 Remote Assist 
-author: amaraanigbo
+author: davepinch
 description: How to file a support ticket for Dynamics 365 Remote Assist
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 8/26/2022
 ms.topic: article
 ms.reviewer: v-wendysmith

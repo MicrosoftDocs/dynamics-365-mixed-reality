@@ -1,8 +1,8 @@
 ---
 title: What's new in Dynamics 365 Remote Assist
-author: amaraanigbo
+author: davepinch
 description: Overview of what's new in Dynamics 365 Remote Assist
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 12/21/2022
 ms.topic: article
 ms.reviewer: v-wendysmith
