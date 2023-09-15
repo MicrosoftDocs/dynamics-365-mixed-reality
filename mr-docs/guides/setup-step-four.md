@@ -21,7 +21,7 @@ If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, y
 
 If you have any trouble setting up Power BI reports, you can get help in the following ways:
 
-- Ask a question on our community site, at <https://community.dynamics.com/365/guides>.
+- Ask a question on our community site, at <https://community.dynamics.com/forums/thread/?partialUrl=guides>.
 
 - Contact customer service at <https://dynamics.microsoft.com/support/>.
 
