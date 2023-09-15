@@ -40,15 +40,34 @@ A packaged guide can't be opened in the PC app. You can rename, deactivate, or s
 
 1. In the PC app, select **Home** to view a list of guides.
 
-1. Right-click the packaged guide you want to manage and choose to rename it, deactivate it, or copy the link to share it.
+1. Right-click the packaged guide you want to manage and choose oe of the following:
+
+   - **Rename**: Change the name of the packaged guide.
+
+   - **Deactivate**: Deactivate the packaged guide so it no longer appears in the library. To permanently delete it, contact an admin.
+
+   - **Copy link to this guide**: Copy the link to the packaged guide to share it with someone in the same environment.
+
+## Share a packaged guide with someone in a different environment
+
+1. Have the author of the guide [create a packaged guide](#package-a-guide-in-the-pc-app).
+
+1. Have the author [download the packaged guide](#download-a-packaged-guide-in-the-model-driven-app) and send you the .guide file.
+
+1. Access your environment and [upload the packaged guide](#upload-a-packaged-guide-in-the-model-driven-app).
 
 ## Download a packaged guide in the model-driven app
+
+Download a packaged guide to share it with others.
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
 1. Under **Content**, on the left side of the screen, select **Packaged Guides**.
 
 1. Navigate to the packaged guide file and select it. The record for the packaged guide opens.
+
+   > [!TIP]
+   > You can rename the packaged guide.
 
 1. Select the packaged guide link. A zip file automatically downloads to your downloads folder that you can share with others.
 
@@ -59,7 +78,7 @@ A packaged guide can't be opened in the PC app. You can rename, deactivate, or s
 
 ## Upload a packaged guide in the model-driven app
 
-As an admin or author, if you have received a packaged guide and you want to make it available for viewing in a HoloLens, upload the packaged guide.
+If you have received a packaged guide and you want to make it available for viewing in a HoloLens, upload the packaged guide. If you work in multiple environments, select the environment in which you want the packaged guide available for viewing.
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
@@ -67,7 +86,7 @@ As an admin or author, if you have received a packaged guide and you want to mak
 
 1. Select **New**.
 
-1. On the **New Packaged Guide** screen, enter a unique name of the packaged guide, and then select **Save**.
+1. On the **New Packaged Guide** screen, enter the name of the packaged guide, and then select **Save**.
 
    :::image type="content" source="media/mda-new-packaged-guide.png" alt-text="Screenshot of the New Packaged Guide screen in the model-driven app.":::
 
@@ -77,11 +96,3 @@ As an admin or author, if you have received a packaged guide and you want to mak
    > You can only upload a .guide file.
 
 1. Select **Save**.
-
-## Migrate a guide to another environment
-
-1. Have the author of the guide [create a packaged guide](#package-a-guide-in-the-pc-app).
-
-1. Have the author [download the packaged guide](#download-a-packaged-guide-in-the-model-driven-app) and send you the .guide file.
-
-1. Access your environment and [upload the packaged guide](#upload-a-packaged-guide-in-the-model-driven-app).

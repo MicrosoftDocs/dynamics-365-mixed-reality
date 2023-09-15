@@ -70,8 +70,8 @@ additionalContent:
         text: Migrate content
       - url: upgrade.md
         text: Upgrade Guides
-      - url: admin-share-guide.md
-        text: Share a guide
+      - url: package-a-guide.md
+        text: Package a guide
     - title: Enable or disable settings
       links: 
       - url: admin-deactivate-guide.md

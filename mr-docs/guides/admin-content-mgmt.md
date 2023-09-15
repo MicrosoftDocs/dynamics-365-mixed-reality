@@ -3,7 +3,7 @@ title: Guide content management
 description: Learn about assigning ownership or sharing a folder or a guide in Microsoft Dynamics 365 Guides.
 author:  annitachow
 ms.topic: conceptual
-ms.date: 07/31/2023
+ms.date: 09/15/2023
 ms.author: anchow
 ms.reviewer: v-wendysmith
 ---
@@ -18,6 +18,9 @@ For example, if you have multiple users that need access to a guide and its asse
 
 - Create a team for those users.
 - Create a folder and add the guide and all its assets. Assign the team as owners to the folder.
+
+> [!TIP]
+> As an author, to quickly share a guide regardless of permission, [package a guide](package-a-guide.md).
 
 ## Folder ownership and access
 
