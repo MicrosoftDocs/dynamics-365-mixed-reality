@@ -27,6 +27,6 @@ You might find one or more of the following causes:
 
 ## Resolution
 
-1. Follow [best practices for choosing a target object for your object anchor](/dynamics365/mixed-reality/guides/pc-app-anchor-object-best-practices.md).
+1. Follow [best practices for choosing a target object for your object anchor](pc-app-anchor-object-best-practices).
 
-1. Make any necessary adustments to your model and then [convert the file](/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object#convert-the-file-in-the-guides-model-driven-app).
+1. Make any necessary adustments to your model and then [convert the file](pc-app-anchor-azure-object#convert-the-file-in-the-guides-model-driven-app).

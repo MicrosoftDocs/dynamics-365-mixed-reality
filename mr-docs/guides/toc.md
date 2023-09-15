@@ -105,8 +105,13 @@
 ###### [Create folders to organize your guides](admin-create-folders.md)
 ##### Anchor your guide to the real world
 ###### [Overview of anchoring a guide with the PC app](pc-app-anchor.md)
-###### [Object anchors](pc-app-anchor-azure-object.md)
+###### Best practices for anchoring your guide
 ####### [Best practices for choosing a target object for your object anchor](pc-app-anchor-object-best-practices.md)
+####### [Best practices for QR code anchors](pc-app-anchor-qr-best-practices.md)
+####### [Best practices for circular code anchors](pc-app-anchor-circular-best-practices.md)
+####### [Best practices for QR code anchors](pc-app-anchor-qr-best-practices.md)
+####### [Best practices for holographic anchors](pc-app-anchor-holographic-best-practices.md)
+###### [Object anchors](pc-app-anchor-azure-object.md)
 ###### [QR code anchor](pc-app-anchor-qr-code.md)
 ###### [Circular code anchor](pc-app-anchor-circular-code.md)
 ###### [Holographic anchor](pc-app-anchor-holographic.md)

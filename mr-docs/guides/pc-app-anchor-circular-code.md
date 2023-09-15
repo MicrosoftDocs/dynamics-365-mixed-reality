@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Anchor a guide in Dynamics 365 Guides by using a circular code anchor
 
-Use a printed circular code anchor to anchor your guide to the real world in Guides. Review [best practices for circular code anchors.](pca-app-anchor-circular-best-practices.md)
+Use a printed circular code anchor to anchor your guide to the real world in Guides. Review [best practices for circular code anchors.](pc-app-anchor-circular-best-practices.md)
 
 ## Set up a circular code anchor
 

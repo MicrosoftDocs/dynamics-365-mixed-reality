@@ -9,7 +9,7 @@ ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-## Best practices for QR code anchors
+# Best practices for QR code anchors
 
 Keep the following points in mind when working with QR code anchors:
 
