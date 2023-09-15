@@ -4,7 +4,7 @@ description: Learn how to fix an issue when trying to detect an Object Anchor in
 ms.author: alwinv
 ms.date: 09/13/2023
 ms.topic: troubleshooting-problem-resolution
-title: Troubleshoot Object Anchors
+title: Troubleshoot object anchors
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---

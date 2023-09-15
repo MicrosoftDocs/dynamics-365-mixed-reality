@@ -32,9 +32,9 @@ Because HoloLens knows and remembers the space around the operator, it can remem
 
 There are four ways to anchor a guide:
 
-- **Object Anchors** (recommended for larger static objects). Object Anchors uses sensing and processing on HoloLens 2 to detect a digital model and align it to a physical object. You use the Guides model-driven app to convert an online 3D model to an object anchor, and then assign it to a guide. 
+- **Object anchors** (recommended for larger static objects). Object anchors uses sensing and processing on HoloLens 2 to detect a digital model and align it to a physical object. You use the Guides model-driven app to convert an online 3D model to an object anchor, and then assign it to a guide. 
 
-    Object Anchors offers the following advantages over other types of anchors:
+    Object anchors offers the following advantages over other types of anchors:
 
    - You don’t have to attach a physical marker to an object; the object is the anchor  
 
@@ -64,7 +64,7 @@ There are four ways to anchor a guide:
    - A part is too small to attach a QR code anchor or circular code anchor.
 
    > [!NOTE]
-   > An object anchor created with [Object Anchors](pc-app-anchor-azure-object.md) is preferred over a holographic anchor when:
+   > An object anchor created with [object anchors](pc-app-anchor-azure-object.md) is preferred over a holographic anchor when:
    > - The target object is [suitable for object detection](pc-app-anchor-object-best-practices.md)
    > - Accuracy needs are high   
    > - The target object is available in the real world to scan with HoloLens

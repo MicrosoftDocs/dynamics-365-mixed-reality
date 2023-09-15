@@ -69,7 +69,7 @@ to the same QR code.
     - Print the QR code and attach it to a physical part in the real-world environment where the work takes place.
 
    > [!IMPORTANT]
-   > When creating a printed QR code with an embedded link, make sure to follow [best practices for QR codes](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors) when printing the QR code.
+   > When creating a printed QR code with an embedded link, make sure to follow [best practices for QR codes](pc-app-anchor-qr-best-practices.md) when printing the QR code.
 
 ## What's next?
 

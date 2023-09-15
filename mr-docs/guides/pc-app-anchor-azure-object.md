@@ -1,19 +1,21 @@
 ---
 author: alwinv
-description: Learn how to anchor a guide in Dynamics 365 Guides by using Object Anchors
+description: Learn how to anchor a guide in Dynamics 365 Guides by using object anchors
 ms.author: alwinv
 ms.date: 09/14/2023
 ms.topic: how-to
-title: Anchor a guide in Dynamics 365 Guides by using Object Anchors
+title: Anchor a guide in Dynamics 365 Guides by using object anchors
 ms.reviewer: mhart
 ms.custom: bap-template
 ---
 
-# Anchor a guide in Dynamics 365 Guides by using Object Anchors
+# Anchor a guide in Dynamics 365 Guides by using object anchors
 
 > [!VIDEO https://www.youtube.com/embed/BXhMFjGFbTQ]
 
-Object Anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This feature supports large static objects only.
+Object anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This feature supports large static objects only.
+
+## Overall process for creating an Object Anchor
 
 To use object anchors, authors must complete the following steps:
 
@@ -25,7 +27,7 @@ To use object anchors, authors must complete the following steps:
 
 ## Limitations
 
-Object Anchors for Dynamics 365 Guides has the following limitations:
+Object anchors for Dynamics 365 Guides has the following limitations:
 
 - The Government Community Cloud (GCC) region is not supported.
 
@@ -41,21 +43,25 @@ Object Anchors for Dynamics 365 Guides has the following limitations:
 
 - Dynamics 365 Guides HoloLens app version 900.0.0.1 (October 10, 2023) or later
 
-- A digital 3D model of your target object. You can start with any 3D model or you can capture the object by using third-party scanning applications. Review [best practices for choosing a target object.](pc-app-anchor-object-best-practices.md)
+- A digital 3D model of your target object. You can start with any 3D model or you can capture the object by using third-party scanning applications.
 
    > [!NOTE]
    > Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product.
 
+- Review [best practices for choosing a target object.](pc-app-anchor-object-best-practices.md)
+
 ## Choose the anchor type in the Anchor wizard
 
-1. In the PC app, on the **Outline** page, select **Anchor**, and then select **Set your anchor now** to open the Anchor wizard.
+You can access the **Anchor** wizard from the **Outline** page in the PC app. The **Outline** page automatically appears after you create or open a guide.
+
+1. On the **Outline** page, select **Set your anchor now**.
 
     ![Outline page with Anchor command and Set your anchor now command highlighted](media/AOA-outline-anchor.PNG "Outline page with Anchor command and Set your anchor now command highlighted")
 
 1. On the **Choose an anchor method** page, under **Object Anchor**, select **Select**.
 
    > [!NOTE]
-   > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 900.0.0.1 and that you have updated to Dynamics 365 Guides PC app version 900.0.0.1, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to Object Anchors.
+   > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 900.0.0.1 and that you have updated to Dynamics 365 Guides PC app version 900.0.0.1, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to object anchors.
 
 1. To add your 3D model as an object anchor, on the **My files** tab, select **Create**.
 
@@ -179,3 +185,10 @@ You can force operators to do better scans by setting a higher **Minimum Scan %*
 1. Use Guides on the HoloLens and do a test scan to make sure it works well. It should be high enough to require operators to scan more of the object, but not too high that it takes too much time or effor to complete.
 
 Getting operators to scan the model from more angles will improve the accuracy of the object anchor's position which will improve the accuracy of where holograms are shown to each operator.
+
+## Next steps
+
+- [Best practices for object anchors](pc-app-anchor-object-best-practices.md)
+- [Anchor a guide in the HoloLens app](hololens-app-anchor.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -16,9 +16,9 @@ This article describes several things that you can do to improve positional prec
 > In addition to the suggestions in this article, make sure to also review the following articles:
 >
 > - [Anchor types/placement and their effect on positional precision of holograms](pc-app-anchor-types-placement-precision.md)
-> - [Best practices for QR code anchors](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors)
-> - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
-> - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
+> - [Best practices for QR code anchors](pc-app-anchor-qr-best-practices.md)
+> - [Best practices for circular code anchors](pc-app-anchor-circular-best-practices.md)
+> - [Best practices for holographic anchors](pc-app-anchor-holographic-best-practices.md)
 
 ## Calibrate the device to the user's interpupillary distance (IPD)
 

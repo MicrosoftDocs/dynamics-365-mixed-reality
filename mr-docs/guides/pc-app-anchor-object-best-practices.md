@@ -1,6 +1,6 @@
 ---
 author: alwinv
-description: Learn best practices for using Object Anchors to anchor a guide in Dynamics 365 Guides
+description: Learn best practices for using object anchors to anchor a guide in Dynamics 365 Guides
 ms.author: alwinv
 ms.date: 09/14/2023
 ms.topic: conceptual
@@ -25,7 +25,7 @@ To achieve accurate detection and alignment, the target object should be 1–10 
 
 ## Topology
 
-Object Anchors works best on larger objects that have unique surfaces and asymmetric features.
+Object anchors works best on larger objects that have unique surfaces and asymmetric features.
 
 - Do not use symmetrical objects as this can cause confusion about the orientation of the object.
 
@@ -41,8 +41,10 @@ Then look at your target object to avoid false positives. This allows HoloLens t
 
 ## Materials
 
-Highly reflective and dark materials are difficult to detect with HoloLens. If HoloLens is unable to detect the surface, Object Anchors will not be able to use sensor data for alignment and detection.
+Highly reflective and dark materials are difficult to detect with HoloLens. If HoloLens is unable to detect the surface, object anchors will not be able to use sensor data for alignment and detection.
 
 ## Next steps
 
-- [Anchor a guide by using Object Anchors](pc-app-anchor-azure-object.md)
+- [Anchor a guide using object anchors](pc-app-anchor-azure-object.md)
+- [Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)
+- [Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
