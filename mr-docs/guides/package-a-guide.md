@@ -32,7 +32,7 @@ Packaging a guide allows authors to create a self-contained, real-only file that
 
 1. Keep the default name or enter a unique name for the package guide. For example, provide the guide name and version number or guide name and status.
 
-1. Select **Package**. The guide and all its contents is downloaded, archived into a .guide file, and uploaded to the Guides model-driven app. The packaged guide is listed with other guides on the **Home** page. The packaged guide is available to HoloLens users in operator mode.
+1. Select **Package**. The guide and all its contents is downloaded, archived into a *.guide* file, and uploaded to the Guides model-driven app. The packaged guide is listed with other guides on the **Home** page. The packaged guide is available to HoloLens users in operator mode.
 
 ## Manage a packaged guide in the PC app
 
@@ -40,7 +40,7 @@ A packaged guide can't be opened in the PC app. You can rename, deactivate, or s
 
 1. In the PC app, select **Home** to view a list of guides.
 
-1. Right-click the packaged guide you want to manage and choose oe of the following:
+1. Right-click the packaged guide you want to manage and choose one of the following options:
 
    - **Rename**: Change the name of the packaged guide.
 
@@ -52,7 +52,7 @@ A packaged guide can't be opened in the PC app. You can rename, deactivate, or s
 
 1. Have the author of the guide [create a packaged guide](#package-a-guide-in-the-pc-app).
 
-1. Have the author [download the packaged guide](#download-a-packaged-guide-in-the-model-driven-app) and send you the .guide file.
+1. Have the author [download the packaged guide](#download-a-packaged-guide-in-the-model-driven-app) and send you the *.guide* file.
 
 1. Access your environment and [upload the packaged guide](#upload-a-packaged-guide-in-the-model-driven-app).
 

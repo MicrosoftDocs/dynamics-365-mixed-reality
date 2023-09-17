@@ -40,7 +40,7 @@ You can also activate, deactivate, or delete specific guide content (video, imag
 
 ## Activate, deactivate, or delete a packaged guide
 
-A [packaged guide](package-a-guide.md) can't be opened in the model-driven app. Deleting a packaged guide only deletes the .guide file. The original guide is not impacted.
+A [packaged guide](package-a-guide.md) can't be opened in the model-driven app. Deleting a packaged guide only deletes the *.guide* file. The original guide isn't impacted.
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
