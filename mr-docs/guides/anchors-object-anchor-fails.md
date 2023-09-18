@@ -39,4 +39,4 @@ You might find one or more of the following causes:
 
 1. Follow [best practices for choosing a target object for your object anchor](pc-app-anchor-object-best-practices.md).
 
-1. Make any necessary adustments to your model and then [convert the file](pc-app-anchor-azure-object#convert-the-file-in-the-guides-model-driven-app).
+1. Make any necessary adustments to your model and then [convert the file](pc-app-anchor-azure-object.md#convert-the-file-in-the-guides-model-driven-app).
