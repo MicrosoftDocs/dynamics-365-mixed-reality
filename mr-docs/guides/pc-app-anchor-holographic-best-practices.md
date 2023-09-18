@@ -11,15 +11,15 @@ ms.custom: bap-template
 
 # Best practices for holographic anchors
 
-- **Size.** Select a holographic anchor that isn't too small or too big.
+- **Size.** Select a holographic anchor that isn't too small or too large.
 
-  - Medium-size digital objects are best, such as a shoebox size or slightly larger. Very small or very large holograms are difficult to manipulate.
+  - Medium-size digital objects are best, such as a shoebox size or slightly larger. Small or large holograms are difficult to manipulate.
 
 - **Placement.** Select a holographic anchor that is as close as possible to the center of the work that is being done. The farther you place digital content from the holographic anchor, the less accurate it becomes.
 
-- **Shape.** Select a holographic anchor that has a non-uniform or uncommon shape. Unusual shapes are easiest to align to.
+- **Shape.** Select a holographic anchor that has a nonuniform or uncommon shape. Unusual shapes are easiest to align to.
 
-  - Avoid objects that are mirrored. This can cause 180-degree misalignment.
+  - Avoid objects that are mirrored, because they can cause 180-degree misalignment.
 
   - Select shapes that have clear edges and corners, to help orient your content correctly.
 
@@ -34,7 +34,7 @@ ms.custom: bap-template
 ## Next steps
 
 - [Anchor a guide using a holographic anchor](pc-app-anchor-holographic.md)
-- [Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)
+- [Effect of calibration, prescanning, and environment](pc-app-anchor-improve-hologram-precision.md)
 - [Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

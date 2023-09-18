@@ -17,7 +17,7 @@ Keep the following points in mind when working with QR code anchors:
 
   - Glossy materials can negatively affect scanning due to reflected light.
 
-  - Bubblejet printers produce a better matte finish.
+  - Bubble jet printers produce a better matte finish.
 
 - **Size**. You can print QR codes in multiple sizes. For best detection and scanning comfort, we recommend printing the provided anchor with a width of **101 mm to 400 mm**. This recommendation is for any QR code anchor following Version 1 QR codes. Anchor sizes outside of this recommended range might result in detection failure or reduced alignment precision for version 1 QR codes.
 
@@ -28,17 +28,17 @@ Keep the following points in mind when working with QR code anchors:
 
     Anchors that are larger than the recommended size require users to move father away from the anchor. Scanning from a greater distance results in decreased accuracy.
 
-- **Position**. Make sure that the anchor is always positioned flat. Don't distort it or place it on a curved surface. Otherwise, alignment and detection will be negatively affected.
+- **Position**. Make sure that the anchor is always positioned flat. Don't distort it or place it on a curved surface. Otherwise, alignment and detection are negatively affected.
 
 [!INCLUDE [anchor-best-practices-location](../includes/anchor-best-practices-location.md)]
 
-- **Orientation**. The way that you orient the anchor can have a big impact on scanning performance.
+- **Orientation**. The way that you orient the anchor can have a significant impact on scanning performance.
 
   - Position the anchor on a vertical surface to minimize light reflections, if possible.
 
   - Don't use reflective materials for the support surface.
 
-  - Very reflective surfaces that are located behind the anchor, and direct exposure to sun or artificial light, can negatively affect scanning performance.
+  - Reflective surfaces that are located behind the anchor, and direct exposure to sun or artificial light, can negatively affect scanning performance.
 
 [!INCLUDE [anchor-best-practices-scanning-angle](../includes/anchor-best-practices-scanning-angle.md)]
 
@@ -51,6 +51,6 @@ Keep the following points in mind when working with QR code anchors:
 ## Next steps
 
 - [Anchor a guide using a QR code anchor](pc-app-anchor-QR-code.md)
-- [Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)
+- [Effect of calibration, prescanning, and environment](pc-app-anchor-improve-hologram-precision.md)
 - [Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
 - [More best practices for QR code detection](/windows/mixed-reality/develop/advanced-concepts/qr-code-tracking-overview#best-practices-for-qr-code-detection)

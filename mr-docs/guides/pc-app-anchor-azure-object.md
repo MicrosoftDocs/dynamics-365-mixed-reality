@@ -29,9 +29,9 @@ To use object anchors, authors must complete the following steps:
 
 Object anchors for Dynamics 365 Guides has the following limitations:
 
-- The Government Community Cloud (GCC) region is not supported.
+- The Government Community Cloud (GCC) region isn't supported.
 
-- If you switch from an object anchor to another anchor using **Change anchor method**, the saved position information for holograms is not migrated. Authors will need to check hologram placements.
+- If you switch from an object anchor to another anchor using **Change anchor method**, the saved position information for holograms isn't migrated. Authors should check hologram placements.
 
 - Objects that have moved or are moving may cause variable accuracy.
 
@@ -67,7 +67,7 @@ You can access the **Anchor** wizard from the **Outline** page in the PC app. Th
 
     ![My files tab with Create button highlighted](media/AOA-create-anchor.PNG "My files tab with Create button highlighted")
 
-    This opens the Guides model-driven app in your web browser.
+    The Guides model-driven app opens in your web browser.
 
    > [!NOTE]
    > If you're prompted for credentials, sign in with the credentials for your environment. You need to have an author or administrator role with appropriate permissions to access the model-driven app. Users with the [**Restricted author** role](assign-role.md) might not be able to access the model-driven app.
@@ -89,7 +89,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 1. Under **Conversion**:
 
-   1. Confirm the gravity direction. The default value for the **Gravity** field is **-Y**. This sets the object anchor in the right orientation compared to the floor.
+   1. Confirm the gravity direction to set the object anchor in the right orientation compared to the floor. The default value for the **Gravity** field is **-Y**.
 
    1. Select the measurement type for the **Length Unit** field.
 
@@ -100,15 +100,15 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 1. Select a size for the **Level of Detail** field. Decide between faster detection and more accurate anchor position.
 
-   - 4 cm: results in an object anchor that HoloLens detects faster but with less accuracy. Holograms placed on the object surface may seem to shift 2-3cm between sessions.
+   - 4 cm: results in an object anchor that HoloLens detects faster but with less accuracy. Holograms placed on the object surface may seem to shift 2-3 cm between sessions.
 
    - 2 cm: results in better accuracy. You may only want to use it for smaller objects, as it requires more processing effort on the HoloLens.
 
-     A rule of thumb is that the accuracy of holograms placed at the object's surface, will be about 1/2 the level of detail you choose.
+     A rule of thumb is that the accuracy of holograms placed at the object's surface, is about 1/2 the level of detail you choose.
 
-1. Select **Convert to Object Anchor**.
+1. Select **Convert to Object Anchor** to start the conversion process.
 
-    This starts the conversion process. The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide.
+    The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide.
 
 1. When the conversion is done, “Succeeded” appears in the **Conversion Status** field. If the conversion fails, start the process again.
 
@@ -162,7 +162,7 @@ To easily identify your object anchor in **My files** in the PC app, assign a th
 
 1. Continue to move around the object if you’re prompted to do so.
 
-    When the scan is successful, the object will have a green overlay.
+    When the scan is successful, the object has a green overlay.
 
     ![GIF of green overlay](media/AOA.gif "GIF of green overlay")
 
@@ -170,7 +170,7 @@ At this point, your guide should be successfully anchored to the object anchor.
 
 ## Improve detection accuracy by tuning the minimum scan percentage
 
-If you want to improve the accuracy of the anchor position, you can encourage operators to scan the object well from all sides, by adding text instructions and an image to the anchor step card from the Guides PC app. Scanning more of the object with the HoloLens allows Guides to place the object anchor more accurately over the real object.
+If you want to improve the accuracy of the anchor position, add text instructions and an image to the anchor step card in the PC app to encourage operators to scan the object well from all sides. Scanning more of the object with the HoloLens allows Guides to place the object anchor more accurately over the real object.
 
 You can force operators to do better scans by setting a higher **Minimum Scan %** value using the Guides model-driven app. This field allows you to override the anchor's built-in minimum scan % required.
 
@@ -182,9 +182,9 @@ You can force operators to do better scans by setting a higher **Minimum Scan %*
 
 1. In the **Minimum Scan %** field, enter the number and select **Save**.
 
-1. Use Guides on the HoloLens and do a test scan to make sure it works well. It should be high enough to require operators to scan more of the object, but not too high that it takes too much time or effor to complete.
+1. Use Guides on the HoloLens and do a test scan to make sure it works well. It should be high enough to require operators to scan more of the object, but not too high that it takes too much time or effort to complete.
 
-Getting operators to scan the model from more angles will improve the accuracy of the object anchor's position which will improve the accuracy of where holograms are shown to each operator.
+Getting operators to scan the model from more angles improves the accuracy of the object anchor's position, which improves the accuracy of where holograms are shown to each operator.
 
 ## Next steps
 
