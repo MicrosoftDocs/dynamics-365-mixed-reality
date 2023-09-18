@@ -20,7 +20,7 @@ Microsoft Dynamics 365 Field Service integration enables Field Service customers
 
 ## Enable your technicians to use Dynamics 365 Guides for work orders
 
-1. Create a guide using the Dynamics 365 Guides PC and HolLens apps. For information on creating a guide, see:
+1. Create a guide using the Dynamics 365 Guides PC and HoloLens apps. For information on creating a guide, see:
   
    - [Overview of authoring a guide in the PC app](pc-app-overview.md)
 

@@ -28,7 +28,7 @@ If you're an administrator for Dynamics 365 Guides, you can enable or disable Az
     > [!TIP]
     > To find the URL for the environment, select the **Analyze** tab in the PC app. The URL is shown in the **Environment URL** field at the bottom of the page. Copy this URL, and paste it into the address bar of your web browser.
     >
-    > ![Environment URL field.](media/environment-url.PNG "Environment URL field")
+    > ![Environment URL field.](media/environment-URL.png "Environment URL field")
 
 1. In Power Apps, select the **Guides** app tile.
 
