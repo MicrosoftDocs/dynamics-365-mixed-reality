@@ -78,7 +78,7 @@ To fix this issue, we recommend that you first try to update the guide schema fr
 
 2. On the **Analyze** tab, select **Copy** to copy the **Environment URL** value, and then paste the value into the address bar of a web browser.
 
-    ![Copy the Environment URL value.](media/copy-environment-url.jpg "Copy the Environment URL value")
+    ![Copy the Environment URL value.](media/copy-environment-url.png "Copy the Environment URL value")
 
 3. Sign in, and then select the **Guides** model-driven app.
 
