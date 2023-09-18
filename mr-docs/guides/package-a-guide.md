@@ -2,7 +2,7 @@
 author: annitachow
 ms.author: anchow
 description: Learn how to package a guide and its content and share it with others in Dynamics 365 Guides. 
-ms.date: 09/07/2023
+ms.date: 09/18/2023
 ms.topic: how-to
 title: Package a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -36,7 +36,7 @@ Packaging a guide allows authors to create a self-contained, real-only file that
 
 ## Manage a packaged guide in the PC app
 
-A packaged guide can't be opened in the PC app. You can rename, deactivate, or share it.
+A packaged guide can't be opened in the PC app. You can rename, deactivate, or share it with someone in the same environment.
 
 1. In the PC app, select **Home** to view a list of guides.
 
@@ -44,17 +44,19 @@ A packaged guide can't be opened in the PC app. You can rename, deactivate, or s
 
    - **Rename**: Change the name of the packaged guide.
 
-   - **Deactivate**: Deactivate the packaged guide so it no longer appears in the library. To permanently delete it, contact an admin.
+   - **Deactivate**: Deactivate the packaged guide so it no longer appears in the library. To [reactivate](admin-deactivate-guide.md#activate-deactivate-or-delete-a-packaged-guide) or [permanently delete it](admin-deactivate-guide.md#activate-deactivate-or-delete-a-packaged-guide), contact an admin.
 
    - **Copy link to this guide**: Copy the link to the packaged guide to share it with someone in the same environment.
 
-## Share a packaged guide with someone in a different environment
+## Share a packaged guide with another author in a different environment
 
-1. Have the author of the guide [create a packaged guide](#package-a-guide-in-the-pc-app).
+If your organization works in multiple environments, the packaged guide must be in the same environment as that of the HoloLens user wanting to view it. Share the packaged guide with an author in that environment so it can be made available for viewing.
 
-1. Have the author [download the packaged guide](#download-a-packaged-guide-in-the-model-driven-app) and send you the *.guide* file.
+1. [Create a packaged guide](#package-a-guide-in-the-pc-app).
 
-1. Access your environment and [upload the packaged guide](#upload-a-packaged-guide-in-the-model-driven-app).
+1. [Download the packaged guide](#download-a-packaged-guide-in-the-model-driven-app) and send the author the *.guide* file.
+
+1. Have the author access their environment in the model-driven app and [upload the packaged guide](#upload-a-packaged-guide-in-the-model-driven-app). The packaged guide is available for viewing with a HoloLens in operator mode.
 
 ## Download a packaged guide in the model-driven app
 
@@ -90,9 +92,9 @@ If you have received a packaged guide and you want to make it available for view
 
    :::image type="content" source="media/mda-new-packaged-guide.png" alt-text="Screenshot of the New Packaged Guide screen in the model-driven app.":::
 
-1. Select **Choose file** and browse to the .guide file and select it.
+1. Select **Choose file** and browse to the *.guide* file and select it.
 
    > [!TIP]
-   > You can only upload a .guide file.
+   > You can only upload a *.guide* file.
 
 1. Select **Save**.
