@@ -15,7 +15,7 @@ ms.custom: bap-template
 
 Object anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This feature supports large static objects only.
 
-## Overall process for creating an Object Anchor
+## Overall process for creating an  *.guide* 
 
 To use object anchors, authors must complete the following steps:
 

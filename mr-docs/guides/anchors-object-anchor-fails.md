@@ -1,6 +1,6 @@
 ---
 author: alwinv
-description: Learn how to fix an issue when trying to detect an Object Anchor in HoloLens 
+description: Learn how to fix an issue when trying to detect an  *.guide*  in HoloLens 
 ms.author: alwinv
 ms.date: 09/13/2023
 ms.topic: troubleshooting-problem-resolution

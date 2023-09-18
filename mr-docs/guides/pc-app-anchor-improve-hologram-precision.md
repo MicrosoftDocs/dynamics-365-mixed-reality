@@ -62,7 +62,7 @@ Use the following table to find more information on anchoring.
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
 |Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Creating an anchor|[Create an Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
+|Creating an anchor|[Create an  *.guide*  in the PC app](pc-app-anchor-azure-object.md)|
 ||[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
