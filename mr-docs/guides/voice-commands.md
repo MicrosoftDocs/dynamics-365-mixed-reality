@@ -46,7 +46,7 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 
 ### Environment selection
 
-![Choose environment page.](media/voice-commands-choose-instance-8.JPG "Choose environment page")
+![Choose environment page.](media/voice-commands-choose-environment.png "Choose environment page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
