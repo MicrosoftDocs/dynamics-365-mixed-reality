@@ -3,9 +3,10 @@ author: davepinch
 description: Learn about things you can do to improve positional precision of holograms in Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 11/03/2020
-ms.topic: article
-title: Improve positional accuracy of holograms in Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.topic: conceptual
+title: Effect of calibration, prescanning, and environment on positional precision of holograms in Dynamics 365 Guides
+ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Effect of calibration, prescanning, and environment on positional precision of holograms in Dynamics 365 Guides
@@ -13,7 +14,7 @@ ms.reviewer: v-brycho
 This article describes several things that you can do to improve positional precision of holograms in Microsoft Dynamics 365 Guides.
 
 > [!IMPORTANT]
-> In addition to the suggestions in this article, make sure to also review the following articles:
+> In addition to the suggestions in this article, make sure to review the following articles:
 >
 > - [Anchor types/placement and their effect on positional precision of holograms](pc-app-anchor-types-placement-precision.md)
 > - [Best practices for QR code anchors](pc-app-anchor-qr-best-practices.md)
@@ -55,21 +56,13 @@ Lighting conditions impacts how HoloLens perceives the environment and recognize
 
 HoloLens uses a novel display technology to project holograms in the operator's field of view. On HoloLens 1, the way that operators wear a device on their head has a huge impact on the perceived position of the holograms. Adjust the device positioning while aligning holograms to their physical counterparts in Dynamics 365 Guides. Notice how the alignment of holograms is affected when you shift the device left and right, up and down, or forward and backward. Operators should wear the device in a consistent way, and they should understand that subtle shifts in device positioning might not feel different but can cause significant changes in perceived hologram locations. On HoloLens 2, issues with device positioning are addressed through eye tracking.
 
-## What's next?
+## Next steps
 
-Use the following table to find more information on anchoring.
-
-|Area|Link|
-|----------------------|------------------------------------------------------------------|
-|Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Creating an anchor|[Create an  *.guide*  in the PC app](pc-app-anchor-azure-object.md)|
-||[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
-||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
-||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
-||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
-|Hologram precision|[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)|
-|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
-|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
+- [Overview of anchoring a guide](pc-app-anchor.md)
+- [Create an object anchor  in the PC app](pc-app-anchor-azure-object.md)
+- [Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)
+- [Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)
+- [Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

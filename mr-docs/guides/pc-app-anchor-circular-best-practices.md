@@ -27,12 +27,14 @@ Keep the following points in mind when you work with circular code anchors:
 
 [!INCLUDE [anchor-best-practices-location](../includes/anchor-best-practices-location.md)]
 
-[!INCLUDE [anchor-best-practices-location](../includes/anchor-best-practices-location.md)]
+[!INCLUDE [anchor-best-practices-scanning-angle](../includes/anchor-best-practices-scanning-angle.md)]
 
   - Ideal scanning range is from 60 to 80 cm.
 
 ## Next steps
 
 - [Anchor a guide using a circular code anchor](pc-app-anchor-circular-code.md)
-- [Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)
+- [Effect of calibration, prescanning, and environment](pc-app-anchor-improve-hologram-precision.md)
 - [Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -113,6 +113,7 @@
 ####### [Best practices for holographic anchors](pc-app-anchor-holographic-best-practices.md)
 ###### [Object anchors](pc-app-anchor-azure-object.md)
 ###### [QR code anchor](pc-app-anchor-qr-code.md)
+###### [Guides QR code configuration](qr-code-configuration.md)
 ###### [Circular code anchor](pc-app-anchor-circular-code.md)
 ###### [Holographic anchor](pc-app-anchor-holographic.md)
 ###### [Change anchor type](pc-app-anchor-change-type.md)

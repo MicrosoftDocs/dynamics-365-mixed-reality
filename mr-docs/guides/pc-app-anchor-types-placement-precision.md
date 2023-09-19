@@ -4,12 +4,12 @@ description: Learn about different anchor types and placement, and their effect 
 ms.author: davepinch
 ms.date: 09/15/2023
 ms.topic: conceptual
-title: Anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides
+title: Effect of anchor types and placement on hologram precision in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-# Effect of anchor types/placement on hologram precision in Dynamics 365 Guides
+# Effect of anchor types and placement on hologram precision in Dynamics 365 Guides
 
 Even if an author or operator perfectly places a holographic anchor or perfectly aligns the green outline when scanning a QR code or circular code anchor in Microsoft Dynamics 365 Guides, an anchor's position will never be perfectly precise and exactly the same as a previous placement or alignment. Very small (invisible) variations are introduced every time a user anchors a guide. Especially for environments where the same guide is used on different devices and different users anchor the guide in different ways.
 
@@ -50,11 +50,11 @@ To maximize hologram position consistency so that the position of a hologram in 
 
 ## Anchor types and placement effect
 
-### object anchors
+### Object anchors
 
 The object anchors feature uses a 3D model of an object to automatically detect and anchor to a real-world object. Use this anchor type as an alternative when you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.
 
-object anchors allow you to convert with a smaller level of detail, set a higher minimum scan percentage, and add step text or graphics to encourage operators to scan the object from all sides.
+Object anchors allow you to convert with a smaller level of detail, set a higher minimum scan percentage, and add step text or graphics to encourage operators to scan the object from all sides.
 
 ### QR and circular code anchors
 

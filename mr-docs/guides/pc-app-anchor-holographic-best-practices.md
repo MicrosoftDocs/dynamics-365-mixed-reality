@@ -11,6 +11,8 @@ ms.custom: bap-template
 
 # Best practices for holographic anchors
 
+Keep the following points in mind when you work with holographic anchors:
+
 - **Size.** Select a holographic anchor that isn't too small or too large.
 
   - Medium-size digital objects are best, such as a shoebox size or slightly larger. Small or large holograms are difficult to manipulate.

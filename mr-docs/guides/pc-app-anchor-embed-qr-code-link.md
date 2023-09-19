@@ -14,8 +14,7 @@ A Microsoft Dynamics 365 Guides author can embed a link to a guide in a QR code 
 
 An operator can access the QR code in two different ways:
 
-- **Printed QR code**. Operators can use a printed QR code to open a guide and anchor the holographic content at the same time. This makes it easy for operators to launch a guide quickly by gazing at a contextual printed QR code attached to the area where they need to do their work, and anchor their holographic content 
-to the same QR code.
+- **Printed QR code**. Operators can use a printed QR code to open a guide and anchor the holographic content at the same time. This makes it easy for operators to launch a guide quickly by gazing at a contextual printed QR code attached to the area where they need to do their work, and anchor their holographic content to the same QR code.
 
     ![Example of printed QR code.](media/embed-qr-code-printed.PNG "Example of printed QR code")
 

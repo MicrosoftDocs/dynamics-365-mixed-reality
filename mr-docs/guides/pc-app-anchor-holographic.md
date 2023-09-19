@@ -61,7 +61,6 @@ You can access the **Anchor** wizard from the **Outline** page in the PC app. Th
 ## Next steps
 
 - [Best practices for holographic anchors.](pc-app-anchor-holographic-best-practices.md)
-- [Guides QR code anchor configuration](qr-code-configuration.md)
 - [Anchor a guide in the HoloLens app](hololens-app-anchor.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

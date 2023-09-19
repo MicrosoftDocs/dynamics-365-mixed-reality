@@ -13,9 +13,9 @@ ms.custom: bap-template
 
 > [!VIDEO https://www.youtube.com/embed/BXhMFjGFbTQ]
 
-Object anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This feature supports large static objects only.
+Object anchors uses sensing and processing on HoloLens 2 to recognize a physical object and match it with a digital twin in Guides. This feature supports large static objects only. Review [best practices for choosing a target object.](pc-app-anchor-object-best-practices.md)
 
-## Overall process for creating an  *.guide* 
+## Overall process for creating an object anchor
 
 To use object anchors, authors must complete the following steps:
 
@@ -47,8 +47,6 @@ Object anchors for Dynamics 365 Guides has the following limitations:
 
    > [!NOTE]
    > Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product.
-
-- Review [best practices for choosing a target object.](pc-app-anchor-object-best-practices.md)
 
 ## Choose the anchor type in the Anchor wizard
 

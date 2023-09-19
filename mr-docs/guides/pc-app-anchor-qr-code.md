@@ -57,7 +57,7 @@ You can access the **Anchor** wizard from the **Outline** page in the PC app. Th
 
     ![Import button.](media/qr-code-import-photo.PNG "Import button")
 
-1. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step.
+1. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, enter your instructions, and select **Save**. When you've finished, select **Next** to move to the next step.
 
     ![Edit step card text button.](media/qr-code-operator-instructions.PNG "Edit step card text button")
 
