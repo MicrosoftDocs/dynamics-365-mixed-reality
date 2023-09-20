@@ -1,8 +1,8 @@
 ---
 title: Using Dynamics 365 Remote Assist mobile on non-AR capable devices 
-author: amaraanigbo
+author: davepinch
 description: Guide for using Dynamics 365 Remote Assist mobile on devices without AR capabilities.
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 04/13/2022
 ms.topic: article
 ms.reviewer: v-wendysmith

@@ -1,8 +1,8 @@
 ---
 title: Invite a user to join a one-time call in Microsoft Dynamics 365 Remote Assist
-author: amaraanigbo
+author: davepinch
 description: Invite a user to join a one-time call in Dynamics 365 Remote Assist 
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 11/02/2022
 ms.topic: article
 ms.reviewer: mhart

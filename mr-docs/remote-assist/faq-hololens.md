@@ -1,7 +1,7 @@
 ---
-author: amaraanigbo
+author: davepinch
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist on Microsoft HoloLens.
-ms.author: soanigbo
+ms.author: davepinch
 ms.date: 04/06/2023
 ms.topic: faq
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-Here are some answers to common questions about using Dynamics 365 Remote Assist on HoloLens and HoloLens 2. In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist).
+Here are some answers to common questions about using Dynamics 365 Remote Assist on HoloLens and HoloLens 2. In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/forums/thread/?partialUrl=remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist).
 
 ## How can I tell which version I'm using?
 
@@ -183,6 +183,6 @@ There are two ways to get to the HoloLens Feedback Hub application to report a b
 
 ## How do I file a support ticket?
 
-If you encounter an issue that blocks you from using the application and you don't see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](/dynamics365/get-started/support/).
+If you encounter an issue that blocks you from using the application and you don't see an answer on our [user forum](https://community.dynamics.com/forums/thread/?partialUrl=remoteassist), please [file a support ticket](https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](/dynamics365/get-started/support/).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
