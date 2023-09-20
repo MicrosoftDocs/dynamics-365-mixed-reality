@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Package a guide in Dynamics 365 Guides
 
-Packaging a guide allows authors to create a self-contained, real-only file that contains a copy of all contents in a guide. Use a packaged guide to archive versions of a guide, easily migrate guides between environments, or quickly share content with others regardless of permission levels. The packaged guide can't be edited and can only be viewed with a HoloLens device in operator mode.
+Packaging a guide allows authors to create a self-contained, read-only file that contains a copy of all contents in a guide. Use a packaged guide to archive versions of a guide, easily migrate guides between environments, or quickly share content with others regardless of permission levels. The packaged guide can't be edited and can only be viewed with a HoloLens device in operator mode.
 
 > [!IMPORTANT]
 > Verify permissions on guide content before packaging a guide. Be aware of any sensitive information that might be shared and manage the packaged guide according to your organization's privacy policies.
