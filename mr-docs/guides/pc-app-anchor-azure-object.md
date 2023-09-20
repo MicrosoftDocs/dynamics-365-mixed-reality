@@ -39,9 +39,9 @@ Object anchors for Dynamics 365 Guides has the following limitations:
 
 - An active Dynamics 365 Guides license (trial or paid)
 
-- Dynamics 365 Guides solution version 900.0.0.1 (October 10, 2023) or later
+- Dynamics 365 Guides solution version 900.0.0.1 (October 17, 2023) or later
 
-- Dynamics 365 Guides HoloLens app version 900.0.0.1 (October 10, 2023) or later
+- Dynamics 365 Guides HoloLens app version 900.0.0.1 (October 17, 2023) or later
 
 - A digital 3D model of your target object. You can start with any 3D model or you can capture the object by using third-party scanning applications.
 
@@ -74,7 +74,7 @@ You can access the **Anchor** wizard from the **Outline** page in the PC app. Th
 
 Use the instructions on the right side of the screen in the Guides model-driven app to select and convert your 3D file. The following file types are supported: .obj, .fbx, .glb, .gltf, .ply. The maximum file size is 128 MB.  
 
-1. In the **Name** field, enter a name for your object anchor and select the **Parent Folder** to create it in
+1. In the **Name** field, enter a name for your object anchor and select the **Parent Folder** to create it in.
 
     ![Screen shot of model-driven app showing instructions on the right and Name field.](media/AOA-model-driven-app.PNG "Screen shot of model-driven app showing instructions on the right and Name field.") 
 
@@ -83,11 +83,9 @@ Use the instructions on the right side of the screen in the Guides model-driven 
    > [!IMPORTANT]
    > The **Choose File** button in the next step won't appear until you select **Save**.
 
-1. Under **Upload**, select **Choose File**, and then browse to your 3D model and upload it.
+1. Under **Source 3D Object**:
 
-1. Under **Conversion**:
-
-   1. Confirm the gravity direction to set the object anchor in the right orientation compared to the floor. The default value for the **Gravity** field is **-Y**.
+   1. Select **Choose File**, and then browse to your 3D model and upload it.
 
    1. Select the measurement type for the **Length Unit** field.
 
@@ -96,15 +94,17 @@ Use the instructions on the right side of the screen in the Guides model-driven 
       > [!TIP]
       > If your upload file is type .fbx, then you can have Guides determine the length unit automaticallly. Select **Yes** for **Use Length Unit from File**.
 
-1. Select a size for the **Level of Detail** field. Decide between faster detection and more accurate anchor position.
+   1. Confirm the gravity direction to set the object anchor in the right orientation compared to the floor. The default value for the **Gravity** field is **-Y**.
 
-   - 4 cm: results in an object anchor that HoloLens detects faster but with less accuracy. Holograms placed on the object surface may seem to shift 2-3 cm between sessions.
+   1. Select a size for the **Level of Detail** field. Decide between faster detection and more accurate anchor position.
 
-   - 2 cm: results in better accuracy. You may only want to use it for smaller objects, as it requires more processing effort on the HoloLens.
+      - 4 cm: results in an object anchor that HoloLens detects faster but with less accuracy. Holograms placed on the object surface may seem to shift 2-3 cm between sessions.
 
-     A rule of thumb is that the accuracy of holograms placed at the object's surface, is about 1/2 the level of detail you choose.
+      - 2 cm: results in better accuracy. You may only want to use it for smaller objects, as it requires more processing effort on the HoloLens.
 
-1. Select **Convert to Object Anchor** to start the conversion process.
+        A rule of thumb is that the accuracy of holograms placed at the object's surface, is about 1/2 the level of detail you choose.
+
+1. Under **Converted 3D Object**, select **Convert to Object Anchor** to start the conversion process.
 
     The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide.
 
@@ -174,13 +174,13 @@ You can force operators to do better scans by setting a higher **Minimum Scan %*
 
 1. Use Guides on the HoloLens to do several practice scans of the object. Scan it as thoroughly as you would want operators to scan it.
 
-[insert picture of % scan billboard extra points if it's a GIF showing it going up with the green mesh already detected]
+   ![Scan percentage displayed during anchor scan on HoloLens](media/AOA-scan percentage.PNG "Scan percentage displayed during anchor scan on HoloLens")
 
 1. Note the Scan % achieved for each scan and decide on a reasonable minimum number.
 
-1. In the **Minimum Scan %** field, enter the number and select **Save**.
+1. In the model-driven app under **Converted 3D Object**, enter the **Minimum Scan %** and select **Save**.
 
-1. Use Guides on the HoloLens and do a test scan to make sure it works well. It should be high enough to require operators to scan more of the object, but not too high that it takes too much time or effort to complete.
+1. Use Guides on the HoloLens and do a test scan to make sure it works well. The minimum percentage should be high enough to require operators to scan more of the object, but not too high that it takes too much time or effort to complete.
 
 Getting operators to scan the model from more angles improves the accuracy of the object anchor's position, which improves the accuracy of where holograms are shown to each operator.
 

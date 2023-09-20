@@ -23,7 +23,7 @@ You might find one or more of the following causes:
 
 - The physical dimensions of the 3D model are larger than 10 meters or smaller than 1 meter.
 
-- The 3D model file is bigger than the maximum supported file size (150 MB).
+- The 3D model file is bigger than the maximum supported file size (128 MB).
 
 ## Resolution
 
