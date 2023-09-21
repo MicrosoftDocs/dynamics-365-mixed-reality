@@ -174,7 +174,7 @@ You can force operators to do better scans by setting a higher **Minimum Scan %*
 
 1. Use Guides on the HoloLens to do several practice scans of the object. Scan it as thoroughly as you would want operators to scan it.
 
-   ![Scan percentage displayed during anchor scan on HoloLens](media/AOA-scan percentage.PNG "Scan percentage displayed during anchor scan on HoloLens")
+    ![Scan percentage displayed during anchor scan on HoloLens](media/aoa-scan-percentage.png "Scan percentage displayed during anchor scan on HoloLens")
 
 1. Note the Scan % achieved for each scan and decide on a reasonable minimum number.
 
