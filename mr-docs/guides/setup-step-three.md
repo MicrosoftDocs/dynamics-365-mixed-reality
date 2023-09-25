@@ -71,7 +71,7 @@ After you've completed this step of the setup process, move on to step 4, [Set u
 
 If you have trouble with any of the procedures in this step, you can get help in the following ways:
 
-- Ask a question on our community site, at <https://community.dynamics.com/365/guides>.
+- Ask a question on our community site, at <https://community.dynamics.com/forums/thread/?partialUrl=guides>.
 
 - Contact customer service at <https://dynamics.microsoft.com/support/>.
 
