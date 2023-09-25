@@ -78,8 +78,6 @@ additionalContent:
         text: Activate or deactivate a guide
       - url: admin-enable-calls.md
         text: Enable or disable calls
-      - url: admin-enable-object-anchors.md
-        text: Enable or disable Object Anchors
     - title: Integrate with other apps
       links: 
       - url: field-service.md

@@ -50,7 +50,6 @@
 #### [Restrict sign out of HoloLens](restricted-mode-signout.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling](admin-enable-calls.md)
-### [Enable or disable Azure Object Anchors (Preview)](admin-enable-object-anchors.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Field Service (Dynamics 365) Mobile](admin-connect-field-service-mobile.md)
@@ -76,6 +75,7 @@
 
 ## Author guides
 ### [How the PC app and HoloLens app work together](authoring-overview.md)
+
 ### Author a guide in the PC app
 #### Basics
 ##### [PC app authoring overview](pc-app-overview.md)
@@ -85,6 +85,12 @@
 ##### [Create folders to organize your guides](admin-create-folders.md)
 #### Anchor your guide to the real world
 ##### [Overview of anchoring a guide with the PC app](pc-app-anchor.md)
+##### Best practices for anchoring your guide
+###### [Best practices for choosing a target object for your object anchor](pc-app-anchor-object-best-practices.md)
+###### [Best practices for QR code anchors](pc-app-anchor-qr-best-practices.md)
+###### [Best practices for circular code anchors](pc-app-anchor-circular-best-practices.md)
+###### [Best practices for QR code anchors](pc-app-anchor-qr-best-practices.md)
+###### [Best practices for holographic anchors](pc-app-anchor-holographic-best-practices.md)
 ##### [Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md)
 ##### [QR code anchor](pc-app-anchor-qr-code.md)
 ##### [Circular code anchor](pc-app-anchor-circular-code.md)
@@ -256,6 +262,9 @@
 #### [Affecting both apps](known-issues.md)
 #### [PC app](known-issues-pc-app.md)
 #### [HoloLens app](known-issues-hololens-app.md)
+### Troubleshooting
+#### [Convert a 3D model into an object anchor fails](anchors-3d-model-conversion-fails.md)
+#### [Detect an object anchor on HoloLens fails](anchors-object-anchor-fails.md)
 ### [Submit feedback](submit-feedback.md)
 
 
