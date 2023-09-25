@@ -69,7 +69,7 @@
 #### [Permissions required](hololens-permissions.md)
 ### [Install the PC app and sign in](install-sign-in-pc-app.md)
 
-## Model-driven app
+## Model-driven app features
 ### [Guides model-driven app overview](model-driven-app-overview.md)
 ### [Open the Guides model-driven app](open-model-driven-app.md)
 
@@ -189,7 +189,7 @@
 ### [Operating gestures](operator-gestures-HL2.md)
 ### [Voice commands](voice-commands.md)
 ### [Have HoloLens narrate instructions](operator-narrator.md)
-## [Settings](change-setting.md)
+### [HoloLens settings](change-setting.md)
 
 ## Advanced topics
 ### Convert 3D models to use as holograms
