@@ -3,7 +3,7 @@ title: Set up an environment and install the Microsoft Dynamics 365 Remote Assis
 author: davepinch
 description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
 ms.author: davepinch
-ms.date: 07/12/2022
+ms.date: 09/26/2022
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -113,7 +113,7 @@ More information: [Create and manage environments in the Power Platform admin ce
 
 ## Update the model-driven app to the latest version
 
-As new versions of the Dynamics 365 Remote Assist model-driven app are released, you  update the app by following the steps below to ensure that the latest features are available.
+As new versions of the Dynamics 365 Remote Assist model-driven app are released, update the app by following the steps below to ensure that the latest features are available.
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 
@@ -134,24 +134,6 @@ As new versions of the Dynamics 365 Remote Assist model-driven app are released,
 You've installed the Dynamics 365 Remote Assist app! You can get to the app by opening the environment and selecting the Dynamics 365 Remote Assist app. More information: [About Unified Interface for model-driven apps in Power Apps](/power-platform/admin/about-unified-interface)
 
 The next step is to [add users to the model-driven app](asset-capture-add-users.md) so they can interact with data in the Dataverse.
-
-## Troubleshooting
-
-### Can't enable Dynamics 365 apps
-
-If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch when you create an environment, ensure that you have an active Dynamics 365 Remote Assist subscription. You can view your subscriptions in the [Microsoft 365 admin center](https://admin.microsoft.com/).
-
-### Not enough capacity to create environments
-
-Environment creation requires at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide a default tenant entitlement of 10 GB of database capacity (if Dynamics 365 Remote Assist was your first Dynamics 365 subscription). More information: [New Dataverse storage capacity](/power-platform/admin/capacity-storage)
-
-### The Dynamics 365 Remote Assist app isn't showing up in the Power Platform admin center
-
-1. Check to ensure that you have an active Dynamics 365 Remote Assist subscription.
-
-2. Try assigning a Dynamics 365 Remote Assist license to your account from the [Microsoft 365 admin center](https://admin.microsoft.com) to force a license sync to occur. Wait five minutes, and then see whether the app appears in the [Power Platform admin center](https://admin.powerplatform.com).
-
-3. If the steps above don't resolve the issue, file a support request by going to the [Power Platform admin center](https://admin.powerplatform.com) > **Help + support** > **New support request**.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

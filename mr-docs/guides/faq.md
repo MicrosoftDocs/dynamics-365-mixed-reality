@@ -13,13 +13,13 @@ ms.reviewer: v-wendysmith
 [See also Dynamics 365 Guides 8.0 FAQ](faq-version-8.md)
 
 ## Which Microsoft platforms is Dynamics 365 Guides dependent on?
- 
+
 Dynamics 365 Guides is dependent on three Microsoft platforms:
- 
+
 - Microsoft Dataverse
 - Microsoft Dynamics 365 Core Service
 - Microsoft Teams
- 
+
 In rare cases, changes to these underlying platforms can cause issues in Dynamics 365 Guides. Likewise, a change to one of these platforms can resolve a Dynamics 365 Guides issue. To learn about the schedule for changes to these platforms, see the following articles:
 
 - [Released versions of Microsoft Dataverse](/dynamics365/released-versions/microsoft-dataverse)
@@ -41,7 +41,6 @@ You might have installed Dynamics 365 Guides on a trial environment that has exp
 ## Can I add more than eight 3D models to a step?
 
 There are only eight **3D parts** boxes in the bin, which limits the variety of 3D models you can add to a single step. When placing holograms on the HoloLens, you can, however, place an unlimited number from the bin. For example, you can add up to eight different 3D models (arrows, boxes, nuts, drills, and so on) to the bin, but you can place as many arrows, boxes, nuts, and drills from each **3D Parts** box that you want when in HoloLens. To do this, either tap the asset bins to spawn 3D models or go to a 3D model's **Edit** menu and select **Duplicate**.
-
 
 ## Why does the HoloLens app require permissions to launch?
 
