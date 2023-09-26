@@ -56,11 +56,11 @@ If you don't see any guides, either your internet connection is unstable, or you
 
 In rare cases, you might notice that text is wrapped in the Step card view in [!include[pn-hololens](../includes/pn-hololens.md)] but not on the PC. This issue occurs because, for the sake of readability, [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] renders fonts at different sizes on the PC and in [!include[pn-hololens](../includes/pn-hololens.md)], and different widths of characters might cause them to go to the next line. To ensure that this issue doesn't affect the operator experience, validate the text for all steps in the [!include[pn-hololens](../includes/pn-hololens.md)] app before you share your guides with operators.
 
-## After several months of actively using Guides on HoloLens, moving holograms is less responsive
+## In the Guides app on HoloLens, moving holograms becomes less responsive
 
-Working with multiple guides on HoloLens over a longer period of time leads to a build-up of app cache data. You can reset the app cache on HoloLens.
+You can reset the app on HoloLens.
 
-On HoloLens, go to **HoloLens Settings** > **Apps** > **Dynamics365 Guides** > **Advanced Options** > **Reset** and reset the app. This action clears the app cache data and restores responsiveness when authoring hologram positions.
+On HoloLens, go to **HoloLens Settings** > **Apps** > **Dynamics 365 Guides** > **Advanced Options** > **Reset** and reset the app. This action restores responsiveness when authoring hologram positions.
 
 ## I have an issue that isn't listed in these troubleshooting steps
 
@@ -71,7 +71,5 @@ Please contact customer service: [Get support for your Dynamics 365 product](/dy
 - [Known issues with the PC app](known-issues-pc-app.md)
 - [Known issues with the HoloLens app](known-issues-hololens-app.md)
 - [Dynamics 365 Guides FAQ](faq.md)
-
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
