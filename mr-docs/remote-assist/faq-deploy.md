@@ -63,10 +63,7 @@ Yes. Anyone that can sign in and use the Teams application on a Windows 10 PC or
 
 ## Can I assign a Dynamics 365 Remote Assist license to a user using [Azure AD B2B](/azure/active-directory/b2b/what-is-b2b)?
 
-No.  Dynamics 365 Remote Assist licenses must be assigned to an AAD account created in the tenant where Dynamics 365 Remote Assist will be used.
+No. Dynamics 365 Remote Assist licenses must be assigned to an AAD account created in the tenant where Dynamics 365 Remote Assist will be used.
 
-## How do I file a support ticket?
-
-If you encounter an issue that blocks you from using the application and you don't see an answer on our user forum, please file a support ticket. Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](/dynamics365/get-started/support/).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
