@@ -106,6 +106,7 @@
 ### [FAQ: HoloLens](faq-hololens.md)
 ### [FAQ: Mobile app](./mobile-app/faq-mobile.md)
 ### [Known issues](known-issues.md)
+### [Troubleshoot](/troubleshoot/dynamics-365/remote-assist/welcome-remote-assist)
 ### [Get support](file-support-ticket.md)
 
 ## [Legal documents and notices](https://go.microsoft.com/fwlink/?linkid=2182906)
