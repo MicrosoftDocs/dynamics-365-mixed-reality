@@ -14,12 +14,13 @@ ms.custom: bap-template
 Packaging a guide allows authors to create a self-contained, read-only file that contains a copy of all contents in a guide. Use a packaged guide to archive versions of a guide, easily migrate guides between environments, or quickly share content with others regardless of permission levels. The packaged guide can't be edited and can only be viewed with a HoloLens device in operator mode.
 
 > [!IMPORTANT]
-> Verify permissions on guide content before packaging a guide.Packaging a guide creates a copy of all content in a guide and enables you to share everything within that guide regardless of permission levels within the Dynamics 365 environment. Be aware of any sensitive information that might be shared and manage the packaged guide according to your organization's privacy policies.
+> Verify permissions on guide content before packaging a guide. Packaging a guide creates a copy of all content in a guide and enables you to share everything within that guide regardless of permission levels within the Dynamics 365 environment. Be aware of any sensitive information that might be shared and manage the packaged guide according to your organization's privacy policies.
 
 ## Limitations
 
 - Maximum of 2 GB for a packaged guide
 - Maximum of 100 MB 3D models and other assets
+- Migrating a combination of packaged and non-packaged guides isn't supported
 - Animated anchors aren't supported
 - Offline mode isn't supported
 
