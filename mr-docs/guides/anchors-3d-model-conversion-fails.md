@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to fix an issue when trying to convert a 3D model into an object anchor
 ms.author: alwinv
-ms.date: 09/13/2023
+ms.date: 10/04/2023
 ms.topic: troubleshooting-problem-resolution
 title: Convert a 3D model into an object anchor fails
 ms.reviewer: v-wendysmith
@@ -25,8 +25,12 @@ You might find one or more of the following causes:
 
 - The 3D model file is bigger than the maximum supported file size (128 MB).
 
+- The **Length Unit** measurement isn't correct.
+
 ## Resolution
 
 1. Follow [best practices for choosing a target object for your object anchor](pc-app-anchor-object-best-practices.md).
 
-1. Make any necessary adustments to your model and then [convert the file](pc-app-anchor-azure-object.md#convert-the-file-in-the-guides-model-driven-app).
+1. Make any necessary adjustments to your model and then [convert the file](pc-app-anchor-azure-object.md#convert-the-file-in-the-guides-model-driven-app).
+
+1. For an incorrect length unit measurement, change the measurement to match the length unit used to create the model and try to convert it again.
