@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 04/28/2023
+ms.date: 10/04/2023
 ms.topic: how-to
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-wendysmith
@@ -24,7 +24,7 @@ The tool supports the following types of migration.
 | Type of migration | What is migrated? |
 |-------------------|-------------------|
 | All content | Everything that is stored in the instance that is active. (Telemetry events that are associated with a guide are excluded.) |
-| Guides and associated content | Active guides, and any 3D objects, images, or videos that are related to those guides. Inactive content that is associated with a guide is also migrated. You can migrate all existing guides at one time or select specific guides. |
+| Guides and associated content | Active guides, and any 3D objects, images, or videos that are related to those guides. Inactive content that is associated with a guide is also migrated. You can migrate all existing guides at one time or select specific guides. You can't migrate a combination of packaged and non-packaged guides.|
 | All 3D objects, images, and videos | All active 3D objects, images, and videos that are stored in the instance. |
 | Only 3D objects | Active 3D objects only. You can migrate all existing 3D objects at one time, all 3D objects that belong to a 3D object collection, or select specific 3D objects. |
 | Only images | Active images only. You can migrate all existing images at one time or select specific images. |

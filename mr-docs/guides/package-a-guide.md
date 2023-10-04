@@ -2,7 +2,7 @@
 author: annitachow
 ms.author: anchow
 description: Learn how to package a guide and its content and share it with others in Dynamics 365 Guides. 
-ms.date: 09/18/2023
+ms.date: 10/04/2023
 ms.topic: how-to
 title: Package a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -14,13 +14,12 @@ ms.custom: bap-template
 Packaging a guide allows authors to create a self-contained, read-only file that contains a copy of all contents in a guide. Use a packaged guide to archive versions of a guide, easily migrate guides between environments, or quickly share content with others regardless of permission levels. The packaged guide can't be edited and can only be viewed with a HoloLens device in operator mode.
 
 > [!IMPORTANT]
-> Verify permissions on guide content before packaging a guide. Be aware of any sensitive information that might be shared and manage the packaged guide according to your organization's privacy policies.
+> Verify permissions on guide content before packaging a guide.Packaging a guide creates a copy of all content in a guide and enables you to share everything within that guide regardless of permission levels within the Dynamics 365 environment. Be aware of any sensitive information that might be shared and manage the packaged guide according to your organization's privacy policies.
 
 ## Limitations
 
 - Maximum of 2 GB for a packaged guide
 - Maximum of 100 MB 3D models and other assets
-- Maximum of 500 MB to upload to the model-driven app
 - Animated anchors aren't supported
 - Offline mode isn't supported
 
@@ -33,6 +32,9 @@ Packaging a guide allows authors to create a self-contained, read-only file that
 1. Keep the default name or enter a unique name for the package guide. For example, provide the guide name and version number or guide name and status.
 
 1. Select **Package**. The guide and all its contents is downloaded, archived into a *.guide* file, and uploaded to the Guides model-driven app. The packaged guide is listed with other guides on the **Home** page. The packaged guide is available to HoloLens users in operator mode.
+
+   > [!NOTE]
+   > Don't exit the app during the packaging process or the packaging will be cancelled.
 
 ## Manage a packaged guide in the PC app
 
@@ -50,7 +52,7 @@ A packaged guide can't be opened in the PC app. You can rename, deactivate, or s
 
 ## Share a packaged guide with another author in a different environment
 
-If your organization works in multiple environments, the packaged guide must be in the same environment as that of the HoloLens user wanting to view it. Share the packaged guide with an author in that environment so it can be made available for viewing.
+If your organization works in multiple environments, the packaged guide must be in the same environment as the HoloLens user wanting to view it. Share the packaged guide with an author in that environment so it can be made available for viewing.
 
 1. [Create a packaged guide](#package-a-guide-in-the-pc-app).
 
