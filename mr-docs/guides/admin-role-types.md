@@ -30,7 +30,7 @@ See the following links for more information:
 |------------------------------------------------------------|-------------------------------------------------------------------------|
 |Restricted Author and Restricted Operator roles in access teams|[Share a guide or guide content in Dynamics 365 Guides by using an access team](admin-access-teams.md#assign-a-restricted-security-role)|
 |System roles in Power Platform|[System and application users](/power-platform/admin/system-application-users)|
-|Azure Object Anchor service|[Azure Object Anchors Service](https://azure.microsoft.com/services/object-anchors/)|
+|Object Anchor service|[Object Anchors Service](https://azure.microsoft.com/services/object-anchors/)|
 
 > [!IMPORTANT]
 > If you followed the instructions in the [Try or buy, and deploy Dynamics 365 Guides](setup-step-one.md) topic when you set up Dynamics 365 Guides, any users that you added were automatically assigned the **Author** role. You must explicitly assign the **Operator** role to specific users if you don't want them to have **Author** role privileges.
