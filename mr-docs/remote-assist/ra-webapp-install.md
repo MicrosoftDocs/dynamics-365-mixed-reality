@@ -88,7 +88,7 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
     2. In the **Automatically deploy these apps** list, select **Remote Assist**.
 
-    3. Select **Save**. This will create an environment and automatically install the Dynamics 365 Remote Assist app. If you encounter an issue, see [the troubleshooting](#troubleshooting) section in this article.
+    3. Select **Save**. This will create an environment and automatically install the Dynamics 365 Remote Assist app.
 
     :::image type="content" source="media/PPAC_Environment_Enable_D365_apps.png" alt-text="Screenshot of a new environment with enable Dynamics 365 apps.":::
 

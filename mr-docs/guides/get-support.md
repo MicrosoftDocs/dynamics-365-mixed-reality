@@ -9,7 +9,7 @@ ms.reviewer: mhart
 ms.custom: bap-template
 ---
 
-## Contact Support
+# Contact Support
 
 If you're not able to use Microsoft Dynamics 365 Guides, or if you have an issue that isn't answered in the documentation, please contact Customer Support by using the following steps:
 
