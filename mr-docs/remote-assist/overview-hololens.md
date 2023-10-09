@@ -42,7 +42,7 @@ Select the **Settings** tab to:
 - Provide feedback
 - Watch a brief tutorial (the same tutorial that appears the first time you use Dynamics 365 Remote Assist)
 - Find other tutorials 
-- Switch your Dynamics 365 environment
+- Switch your Dynamics 365 instance
 
 ![Screenshot of the HoloLens field of view, showing the Settings tab screen.](media/08.00-settings.png "Settings")
 

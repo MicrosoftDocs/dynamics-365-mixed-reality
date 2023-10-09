@@ -2,7 +2,7 @@
 author: annitachow
 description: Learn how to switch environments in Microsoft Dynamics 365 Guides.
 ms.author: anchow
-ms.date: 09/18/2023
+ms.date: 10/09/2023
 ms.topic: how-to
 title: Switch environments in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
