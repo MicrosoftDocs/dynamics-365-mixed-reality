@@ -73,7 +73,7 @@ Because it's very challenging to always maintain the exact same position and ori
 > [!NOTE]
 > One of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.
 
-If alignment consistency with real-world objects is important, **don't place holograms more than 3 meters away from the anchor**. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency. If that’s not possible, or if your scenario requires greater positional consistency, contact the Dynamics 365 Guides team so we can better understand your scenario and address your feedback in future releases.
+If alignment consistency with real-world objects is important, **don't place holograms more than 3 meters away from the anchor**. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency.
 
 ## Author from the operator's viewpoint
 
