@@ -23,7 +23,7 @@ Folders are a great way to organize guides and their content especially if you h
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides to manage folders.
 
-1. In the left pane, select **Folders** to view all folders created in the instance, and then, at the top of the screen, select **New** to create a new folder.
+1. In the left pane, select **Folders** to view all folders created in the environment, and then, at the top of the screen, select **New** to create a new folder.
 
     ![Folders command highlighted in left pane.](media/folders-command.PNG "Folders command highlighted in left pane")
 
@@ -58,7 +58,7 @@ You can also upload assets to a folder in the PC app.
 
 ## View the contents of a folder
 
-1. In the left pane, select **Folders** to view the list of folders in the instance.
+1. In the left pane, select **Folders** to view the list of folders in the environment.
 
 1. Select the desired folder. All active folders, guides, images, 3D models, videos, and object anchors in the folder display.
 
