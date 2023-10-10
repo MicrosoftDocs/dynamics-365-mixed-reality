@@ -39,6 +39,7 @@
 ##### [Guides content management](admin-content-mgmt.md)
 ##### [Change ownership of a guide or folder](admin-access-assign.md)
 ##### [Share a guide or folder](admin-share-guide.md)
+##### [Package a guide](package-a-guide.md)
 ##### [Create an access team](admin-access-teams.md)
 ##### [Share the Guides model-driven app](admin-share-guides-hub.md)
 ##### [Invite a user as a guest](admin-add-guest-user.md)
