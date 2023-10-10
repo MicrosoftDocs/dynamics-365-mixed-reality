@@ -59,7 +59,7 @@ HoloLens uses a novel display technology to project holograms in the operator's 
 ## Next steps
 
 - [Overview of anchoring a guide](pc-app-anchor.md)
-- [Create an object anchor  in the PC app](pc-app-anchor-azure-object.md)
+- [Create an object anchor  in the PC app](pc-app-anchor-object.md)
 - [Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)
 - [Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)
 - [Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)

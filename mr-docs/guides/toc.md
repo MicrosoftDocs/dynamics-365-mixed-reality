@@ -111,7 +111,7 @@
 ####### [Best practices for circular code anchors](pc-app-anchor-circular-best-practices.md)
 ####### [Best practices for QR code anchors](pc-app-anchor-qr-best-practices.md)
 ####### [Best practices for holographic anchors](pc-app-anchor-holographic-best-practices.md)
-###### [Object anchors](pc-app-anchor-azure-object.md)
+###### [Object anchors](pc-app-anchor-object.md)
 ###### [QR code anchor](pc-app-anchor-qr-code.md)
 ###### [Guides QR code configuration](qr-code-configuration.md)
 ###### [Circular code anchor](pc-app-anchor-circular-code.md)

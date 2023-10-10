@@ -14,7 +14,7 @@ ms.custom: bap-template
 Use a holographic anchor to anchor your guide to the real world in Guides. Review [best practices for holographic anchors.](pc-app-anchor-holographic-best-practices.md)
 
 > [!NOTE]
-> An object anchor created with [object anchors](pc-app-anchor-azure-object.md) is preferred over a holographic anchor when:
+> An object anchor created with [object anchors](pc-app-anchor-object.md) is preferred over a holographic anchor when:
 > - The target object is [suitable for object detection](pc-app-anchor-object-best-practices.md)
 > - Accuracy needs are high
 > - The target object is available in the real world to scan with HoloLens

@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 ## Symptoms
 
-Trying to [detect the object anchor in the HoloLens app](pc-app-anchor-azure-object.md#detect-the-object-anchor-in-the-hololens-app) fails.
+Trying to [detect the object anchor in the HoloLens app](pc-app-anchor-object.md#detect-the-object-anchor-in-the-hololens-app) fails.
 
 ## Cause
 
@@ -39,4 +39,4 @@ You might find one or more of the following causes:
 
 1. Follow [best practices for choosing a target object for your object anchor](pc-app-anchor-object-best-practices.md).
 
-1. Make any necessary adustments to your model and then [convert the file](pc-app-anchor-azure-object.md#convert-the-file-in-the-guides-model-driven-app).
+1. Make any necessary adustments to your model and then [convert the file](pc-app-anchor-object.md#convert-the-file-in-the-guides-model-driven-app).

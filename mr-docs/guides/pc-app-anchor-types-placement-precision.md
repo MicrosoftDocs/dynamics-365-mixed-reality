@@ -19,7 +19,7 @@ To maximize hologram position consistency so that the position of a hologram in 
 
 - Use QR or circular code anchors instead of holographic anchors for small to medium-sized objects and spaces.
 
-- Use [object anchors](pc-app-anchor-azure-object.md) for larger static objects.
+- Use [object anchors](pc-app-anchor-object.md) for larger static objects.
 
     The overall order of accuracy for the different kinds of anchors from most precise to least precise is:
 

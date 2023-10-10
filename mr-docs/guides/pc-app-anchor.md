@@ -61,7 +61,7 @@ There are four ways to anchor a guide:
   - A part is too small to attach a QR code anchor or circular code anchor.
 
    > [!NOTE]
-   > An [object anchor](pc-app-anchor-azure-object.md) is preferred over a holographic anchor when:
+   > An [object anchor](pc-app-anchor-object.md) is preferred over a holographic anchor when:
    > - The target object is [suitable for object detection](pc-app-anchor-object-best-practices.md)
    > - Accuracy needs are high
    > - The target object is available in the real world to scan with HoloLens
@@ -73,7 +73,7 @@ Dynamics 365 Guides includes an **Anchor** wizard that makes it easy to select a
 
 Regardless of which type of anchor you want to create, you always start with the Anchor wizard in the PC app. Use the following links to learn how to create different types of anchors in the PC app.
 
-- [Create an object anchor](pc-app-anchor-azure-object.md)
+- [Create an object anchor](pc-app-anchor-object.md)
 
 - [Create a QR code anchor](pc-app-anchor-qr-code.md)
 
@@ -96,7 +96,7 @@ For information on the positional precision of holograms, review these articles:
 
 ## Next steps
 
-- [Create an object anchor in the PC app](pc-app-anchor-azure-object.md)
+- [Create an object anchor in the PC app](pc-app-anchor-object.md)
 - [Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)
 - [Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)
 - [Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)

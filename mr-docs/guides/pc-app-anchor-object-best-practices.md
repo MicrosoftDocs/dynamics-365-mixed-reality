@@ -45,6 +45,6 @@ Highly reflective and dark materials are difficult to detect with HoloLens. If H
 
 ## Next steps
 
-- [Anchor a guide using object anchors](pc-app-anchor-azure-object.md)
+- [Anchor a guide using object anchors](pc-app-anchor-object.md)
 - [Effect of calibration, prescanning, and environment](pc-app-anchor-improve-hologram-precision.md)
 - [Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
