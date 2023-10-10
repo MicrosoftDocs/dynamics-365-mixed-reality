@@ -37,7 +37,7 @@ Fixed an issue where participant's status in a call or meeting incorrectly shows
 ### Bugs fixed and other improvements
 
 - Added the ability to protect company information by [restricting certain capabilities in Dynamics 365 Guides](restricted-mode-overview.md).
-- Added support of guides that use [Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md) in the Content Migration tool. 
+- Added support of guides that use [Azure Object Anchors (Preview)](pc-app-anchor-object.md) in the Content Migration tool. 
 - Fixed an issue with disconnected calls or meetings with users without contact information (bots, PSTN, or anonymous users). These users will be shown as "Unknown" in calls and meetings.
 - Improved performance for calls with a large number of participants.
 - Improved reliability of sending chat messages.
