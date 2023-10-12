@@ -2,28 +2,32 @@
 author: davepinch
 description: Get an overview of the installation process for Microsoft Dynamics 365 Guides. 
 ms.author: davepinch
-ms.date: 02/21/2023
-ms.topic: overview
-title: Overview of installing Dynamics 365 Guides
+ms.date: 10/12/2023
+ms.topic: how-to
+title: Install and set up Dynamics 365 Guides process
 ms.reviewer: v-wendysmith
 ---
 
-# Overview of installing Dynamics 365 Guides
+# Install and set up Dynamics 365 Guides process
 
-The overall process for installing Dynamics 365 Guides includes the following steps:
+As an admin, perform the following steps to install and set up Dynamics 365 Guides after [purchasing a subscription](buy-guides.md).
 
-1. [Sign up for a free trial](trial-signup.md) or [buy a subscription](setup-step-one.md).
+## Prerequisites
 
-2. [Create an environment and install Guides](setup-step-two.md).
+- [Requirements](requirements.md) for installation are met.
+- Have your network admin review and set up the [network requirements](admin-network-requirements.md), if necessary.
 
-3. [Install the PC and HoloLens apps](setup-step-three.md).
+## Install and set up Guides
 
-4. [Set up Power BI reports](setup-step-four.md).
+1. [Install the solution](install-guides.md).
 
-## Next steps
+1. [Assign licenses and add users](add-users.md).
 
-- [Add users](add-users.md)
-- [Assign user roles](assign-role.md)
+1. [Assign user roles](admin-role-types.md).
+
+1. [Set up a Guides device license for multiple operators](device-license.md) (optional).
+
+1. Contact your Guides users to have them [install the PC app and set up their HoloLens](setup-step-three.md).
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

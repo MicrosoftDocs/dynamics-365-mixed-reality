@@ -2,17 +2,15 @@
 title: About the Author and Operator user roles in Dynamics 365 Guides
 description: Learn about the Author, Operator, Restricted Author, and Restricted Operator user roles in Dynamics 365 Guides
 author:  davepinch
-ms.topic: article
-ms.date: 11/08/2021
+ms.topic: conceptual
+ms.date: 10/12/2023
 ms.author: davepinch
 ms.reviewer: v-wendysmith
 ---
 
 # About the Author and Operator roles in Dynamics 365 Guides
 
-If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and 
-Restricted Operator roles provide an extra layer of control by limiting access to guides. Users who are assigned the Restricted Author and Restricted Operator roles 
-**do not** inherit access to any guides or guide content (3D models, images, or videos) created in the environments that they are permitted to access. 
+If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and Restricted Operator roles provide an extra layer of control by limiting access to guides. Users who are assigned the Restricted Author and Restricted Operator roles **do not** inherit access to any guides or guide content (3D models, images, or videos) created in the environments that they are permitted to access. 
 
 The following table describes the privileges that each role grants.
 
@@ -33,9 +31,9 @@ See the following links for more information:
 |Azure Object Anchor service|[Object Anchors Service](https://azure.microsoft.com/services/object-anchors/)|
 
 > [!IMPORTANT]
-> If you followed the instructions in the [Try or buy, and deploy Dynamics 365 Guides](setup-step-one.md) topic when you set up Dynamics 365 Guides, any users that you added were automatically assigned the **Author** role. You must explicitly assign the **Operator** role to specific users if you don't want them to have **Author** role privileges.
+> If you followed the instructions in the [Buy Dynamics 365 Guides](buy-guides.md) topic when you set up Dynamics 365 Guides, any users that you added were automatically assigned the **Author** role. You must explicitly assign the **Operator** role to specific users if you don't want them to have **Author** role privileges.
 
-## See also
+## Next steps
 
 - [Assign a role to an individual user](assign-role.md)
 - [Assign a role through Azure Active Directory groups](admin-assign-role-groups.md)

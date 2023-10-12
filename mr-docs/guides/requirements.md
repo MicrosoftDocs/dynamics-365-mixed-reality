@@ -10,11 +10,10 @@ ms.reviewer: v-wendysmith
 
 # Device and licensing requirements for Dynamics 365 Guides
 
-The following table lists technical requirements for deploying and using Dynamics 365 Guides throughout your organization.
+Review the device and license requirements for Dynamics 365 Guides.
 
 > [!Note] 
-> Dynamics 365 Guides might not be available in your country/region. For more information, see [Dynamics 365 Guides availability](faq.md) and
-> [Geographical availability for Power Apps](https://dynamics.microsoft.com/availability-reports/georeport/) (filter the view by **Dynamics 365** > **Operations Apps**, and then scroll the table to see Dynamics 365 Guides availability).
+> Dynamics 365 Guides might not be available in your country/region. For more information, see [Dynamics 365 Guides availability](faq.md) and [Geographical availability for Power Apps](https://dynamics.microsoft.com/availability-reports/georeport/) (filter the view by **Dynamics 365** > **Operations Apps**, and then scroll the table to see Dynamics 365 Guides availability).
 
 ## Device requirements
 | Device | Platform | Operating system requirements | Details |
@@ -27,7 +26,7 @@ The following table lists technical requirements for deploying and using Dynamic
 
 ## Requirements for services, apps, and features
 
-The following table lists product requirements for services, apps, and features related to Dynamics 365 Guides.
+Review the product requirements for services, apps, and features related to Dynamics 365 Guides.
 
 | Service, app, or feature | Product required| Learn more |
 |---|---|---|
@@ -47,7 +46,7 @@ You must have a Microsoft Teams license to use the calling features in Dynamics 
 
 | Device                             | OS requirement                                             | Details                                                                                                                                                                                                                                                                                 |
 | ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Microsoft Teams app on Windows 10 PC | Any Windows 10 build                                       | A Windows 10 PC running the Teams PC application can collaborate with a Dynamics 365 Guides user on HoloLens 2. |
+| Microsoft Teams app on Windows 10 (or later) PC | Any Windows 10 (or later) build  | A Windows 10 PC running the Teams PC application can collaborate with a Dynamics 365 Guides user on HoloLens 2. |
 | Microsoft Teams app on a mobile device | Any iOS or Android phone or tablet running  Microsoft Teams | A phone or tablet running the Microsoft Teams mobile app can collaborate with a Dynamics 365 Guides user on HoloLens 2.|
 
 The Microsoft Teams user can be in the same organization as the Dynamics 365 Guides user, in a federated organization, or a guest in the organization.
@@ -61,7 +60,7 @@ Dynamics 365 Guides does not support:
 
 Dynamics 365 Guides does not include a Calls dashboard like Dynamics 365 Remote Assist, but you can [view call data with the Guides model-driven app](call-logging.md). 
 
-## See also
+## Next steps
 
 - [Setup overview](setup.md)
 - [Set up a device license for multiple operators on a shared HoloLens device](device-license.md)
