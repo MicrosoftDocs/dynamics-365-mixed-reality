@@ -1,9 +1,9 @@
 ---
 author: davepinch
 description: Learn about all the resources available for getting started with Dynamics 365 Guides
-ms.author: Mamaylya
-ms.date: 06/15/2023
-ms.topic: conceptual
+ms.author: davepinch
+ms.date: 10/13/2023
+ms.topic: how-to
 title: Get started with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

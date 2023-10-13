@@ -92,7 +92,7 @@ From the OS start menu, select **Cast screen** :::image type="icon" source="medi
 
 ## The solution installation or update fails repeatedly
 
-To update the solution, you must have the [System Administrator](/power-platform/admin/database-security) role AND you must have a [Power Apps license](/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
+To update the solution, you must have the [System Administrator](/power-platform/admin/database-security) role AND you must have a [Power Apps license](/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](buy-guides.md) that includes a Power Apps license). 
 
 ![Dynamics 365 Guides license selected.](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
 

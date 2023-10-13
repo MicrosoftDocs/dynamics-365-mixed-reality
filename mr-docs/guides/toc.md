@@ -28,6 +28,7 @@
 ### [Update the solution](upgrade.md)
 ### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
 
+
 ## Administer Dynamics 365 Guides
 
 ### Manage users, roles, ownership and access
@@ -60,19 +61,18 @@
 #### [Export/import folder structure](admin-export-import-folders.md)
 #### [Move content](migrate.md)
 #### [Troubleshoot moving content](migrate-troubleshoot.md)
-### [Deployment playbook](admin-deployment-playbook.md)
 
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Field Service (Dynamics 365) Mobile](admin-connect-field-service-mobile.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
 
-## Download the HoloLens and PC apps
-### Download the HoloLens app and sign in
-#### [Download the apps](setup-step-three.md)
-#### [Install the app and sign in](hololens-app-install-sign-in.md)
+### Download the HoloLens and PC apps
+#### Download the HoloLens app and sign in
+##### [Download the apps](setup-step-three.md)
+##### [Install the app and sign in](hololens-app-install-sign-in.md)
 #### [Permissions required](hololens-permissions.md)
-### [Download the PC app and sign in](install-sign-in-pc-app.md)
+#### [Download the PC app and sign in](install-sign-in-pc-app.md)
 
 ## Model-driven app
 ### [Guides model-driven app overview](model-driven-app-overview.md)

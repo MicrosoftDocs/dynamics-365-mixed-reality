@@ -22,7 +22,7 @@ As an admin, perform the following steps to install and set up Dynamics 365 Guid
 1. [Install the solution](install-guides.md).
 
 1. [Assign licenses and add users](add-users.md).
-
+ 
 1. [Assign user roles](admin-role-types.md).
 
 1. [Set up a Guides device license for multiple operators](device-license.md) (optional).
