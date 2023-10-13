@@ -1,48 +1,77 @@
----
-title: "Sign up for a free trial - Dynamics 365 Guides | Microsoft Docs"
-description: "Learn how to quickly sign up for and start a free Dynamics 365 Guides trial. Explore the app with tours and videos, and find additional learning resources."
+---  
+title: "Dynamics 365 Guides trial FAQ"
+description: "Solutions to common questions related to Dynamics 365 Guides trial setup and management. Learn how to resolve platform and app-specific issues."
 author: davepinch
 ms.author: davepinch
-ms.date: 05/16/2023
-ms.topic: how-to
+ms.date: 06/15/2022
+ms.topic: faq
 ms.service: dynamics-365-guides
 ms.custom: bap-template
 ms.reviewer: v-wendysmith
 ---
 
-# Sign up for a free trial
+# Dynamics 365 Guides trial FAQ
 
-Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial and downloading the apps, you'll have access to all Dynamics 365 Guides features. [Learn more about Dynamics 365 Guides](https://dynamics.microsoft.com/mixed-reality/guides/).
+## Can I sign up for multiple Dynamics 365 apps such as Sales, Marketing, and Customer Service?
 
-## Prerequisites
-
-- PC and HoloLens device. [Learn more about device requirements](requirements.md).
-- Azure Active Directory [Premium Trial.](https://azure.microsoft.com/trial/get-started-active-directory/)
-- For calling capabilities from the HoloLens, a free [Microsoft Teams license](https://products.office.com/microsoft-teams/free) or a [Dynamics 365 Remote Assist license](../remote-assist/try-remote-assist.md).
-- OneDrive storage - sign up for a free trial at https://www.microsoft.com/microsoft-365/onedrive/free-online-cloud-storage/.
-
-## Sign up for the trial
-
-1. Go to the [Guides overview page](https://aka.ms/TryGuides), and then select the **Try for free** button.
-
-1. Follow the on-screen guidance.
-
-The Guides solution is automatically installed. The user who creates the trial is automatically assigned a trial license with the system administrator role for the Guides environment. No security roles are applied.
-At any time before the trial expires, you can purchase a license and [convert the trial to production](trial-faq.md#can-i-convert-the-trial-to-a-paid-license).
+Yes, you can. To view all available trials, [visit the trial hub page](https://dynamics.microsoft.com/dynamics-365-free-trial/). You can use the same email account to sign up for different trials. However, it's not possible to have multiple apps on the same trial site. Each trial will be on a different org and URL. The trial data can't be shared across apps.
 
 > [!NOTE]
-> If you cannot set up a trial, your organization might have corporate policies that prevent self-service trials. Contact your IT organization or your Azure Active Directory admin to [set up a 30-day trial](trial-faq.md#can-i-access-the-previous-30-day-trial).
+> To sign up for a free Dynamics 365 Guides trial, you must have an Azure Active Directory account. You can't use a consumer email account.
 
-## What to try
+## What should I do if I haven't received trial details?
 
-Your trial includes the same features as the paid version. The links below guide you through some of the key features.
+I didn't receive the trial details email after signing up, what should I do?
 
-- [Get an overview of authoring in Dynamics 365 Guides](authoring-overview.md)
-- [Learn how to author with the PC app](pc-app-overview.md)
-- [Learn how to place holograms in the real world with the HoloLens app](hololens-app-overview.md)
-- [Get insights on operations](analytics-overview.md)
+When you sign up for the trial, you'll receive an email with the trial details. If you don't see the email in your inbox, check your spam folder.
 
-## Next steps
+## How do I add more users to a trial?
 
-- [Expand the trial to other users](trial-faq.md#how-do-i-add-more-users-to-a-trial)
-- [Install the PC app and launch the HoloLens app](setup-step-three.md)
+To add users, go to the [Microsoft 365 admin center](https://admin.microsoft.com) using the trial admin account. Follow the [admin center guidance](/microsoft-365/admin/add-users/add-users) to add users up to the trial license limit. If the user you are adding already has a Microsoft 365 account, assign them an appropriate security role in the trial org. For more information, see [Assign a security role to a user](/power-platform/admin/create-users-assign-online-security-roles#assign-a-security-role-to-a-user).
+
+## How many users can I add to my trial environment?
+
+You can add an unlimited number of users to the trial environment.
+
+## How do I reset the trial environment?
+
+You can't reset the trial environment. However, at the end of the 60-day trial, you can extend for an additional 30 days.
+
+## Trial expiration and extension
+
+Why did my trial expire before the end of the trial period?
+
+The trial expires if there's no activity for 14 consecutive days. An email notification is sent to you after seven days of inactivity. Expired trials cannot be reactivated. However, you can start a new trial.
+
+How do I extend the trial?
+You can extend the trial for an additional 30 days in the admin center. For instructions, see [Extend your trial](/power-platform/admin/trial-environments#extend-a-trial-standard-environment). You can extend your trial once.
+
+## Can I convert the trial to a paid license?
+
+Yes, you can [purchase a subscription](buy-guides.md) of Dynamics 365 Guides before the trial has ended. To keep the content that you create during the trial, you can [convert the trial to prod](/power-platform/admin/trial-environments#convert-either-type-of-trial-environment-to-a-production-environment), or, create a new prod environment and use the [Content Migration Tool](migrate.md) to move the data you want to keep.
+
+You must purchase the required number of licenses, assign licenses, and add users as described in [Install and set up Guides.](install-guides.md)
+
+## What are the trial limits and quotas?
+
+You can use the trial version of Dynamics 365 Guides for up to 60 days.
+
+## How do I start using the trial?
+
+After you sign up for the trial, you'll see the [Get started](get-started.md) page. This page provides links for downloading the apps and links to user guides and tutorials. See also [What to try](trial-signup.md) on the trial sign-up page.
+
+## What features are available in the trial?
+
+All features are available during the trial. To use calling capabilities, you must have a Microsoft Teams license or a Dynamics 365 Remote Assist license.
+
+## How long does the trial last?
+
+The trial lasts 60 days. At the end of the trial, you have the option to extend for another 30 days.
+
+## Can I access the previous 30-day trial?
+
+The 30-day trial is not recommended for new subscribers as it has a shorter trial period and is limited to one trial instance per tenant. The [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) is available, however, for customers who can't install the new trial due to corporate policies. Ask your admin to set up the 30-day trial on your behalf, create a subscription-based trial environment and [install the solution](install-guides.md#install-and-configure-the-solution). Have the admin [add your user account](add-users.md) to the trial environment. Then you can [install the PC app and launch the HoloLens app](setup-step-three.md).
+
+## What if my trial signup fails?
+
+You can sign up for a [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) (previous trial experience). Or contact your IT organization to create a trial.

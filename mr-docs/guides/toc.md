@@ -4,31 +4,33 @@
 ## [Welcome to Dynamics 365 Guides](overview.md)
 
 ## Get started
-### Sign up for a free trial
-#### [How to sign up](trial-signup.md)
+### Free trial
+#### [Sign up for a free trial](trial-signup.md)
 #### [Trial FAQ](trial-faq.md)
+### [Buy a subscription](buy-guides.md)
 ### [Dynamics 365 Remote Assist features in Guides 8.0](ra-features-in-guides-8.md)
 ### [Get started](get-started.md)
-### [How-to-videos](videos.md)
 
 ## What's new
 ### [What's new](new.md)
 ### [Version history](version-history.md)
 
-## Set up and administer Dynamics 365 Guides
-### Set up Dynamics 365 Guides or upgrade the solution
-#### [Installation overview](setup.md)
-#### [1: Buy a subscription](setup-step-one.md)
-#### [2: Install the solution](setup-step-two.md)
-#### [3: Install the apps](setup-step-three.md)
-#### [4: Set up Power BI reports](setup-step-four.md)
-#### [Update the solution](upgrade.md)
-#### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
-#### [Network requirements](admin-network-requirements.md)
-### Licenses
-#### [Licensing requirements](requirements.md)
-#### [Set up a device license for multiple operators](device-license.md)
-### Users, roles, ownership, and access
+## Install or update Dynamics 365 Guides
+### Install and set up Guides
+#### [Install and set up Guides overview](setup.md)
+##### [Install the solution](install-guides.md)
+#### Manage licenses and other requirements
+##### [Device and licensing requirements](requirements.md)
+##### [Network requirements](admin-network-requirements.md)
+##### [Licensing FAQ](device-license-faq.md)
+##### [Set up a device license for multiple operators](device-license.md)
+### [Deployment playbook](admin-deployment-playbook.md)
+### [Update the solution](upgrade.md)
+### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
+
+## Administer Dynamics 365 Guides
+
+### Manage users, roles, ownership and access
 #### [Add users](add-users.md)
 #### Assign user roles
 ##### [About the Author and Operator roles](admin-role-types.md)
@@ -51,10 +53,6 @@
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling](admin-enable-calls.md)
 ### [Enable or disable Azure Object Anchors (Preview)](admin-enable-object-anchors.md)
-### Integrations with other Dynamics 365 apps
-#### [Dynamics 365 Field Service](field-service.md)
-#### [Field Service (Dynamics 365) Mobile](admin-connect-field-service-mobile.md)
-#### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
 ### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
@@ -64,11 +62,17 @@
 #### [Troubleshoot moving content](migrate-troubleshoot.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
 
-## Install the HoloLens and PC apps
-### Install the HoloLens app and sign in
+### Integrations with other Dynamics 365 apps
+#### [Dynamics 365 Field Service](field-service.md)
+#### [Field Service (Dynamics 365) Mobile](admin-connect-field-service-mobile.md)
+#### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
+
+## Download the HoloLens and PC apps
+### Download the HoloLens app and sign in
+#### [Download the apps](setup-step-three.md)
 #### [Install the app and sign in](hololens-app-install-sign-in.md)
 #### [Permissions required](hololens-permissions.md)
-### [Install the PC app and sign in](install-sign-in-pc-app.md)
+### [Download the PC app and sign in](install-sign-in-pc-app.md)
 
 ## Model-driven app
 ### [Guides model-driven app overview](model-driven-app-overview.md)
@@ -173,6 +177,7 @@
 
 #### Analyze your guides
 ##### [Overview](analytics-overview.md)
+##### [Set up Power BI reports](setup-step-four.md)
 ##### Use the Guides Analytics Power BI templates
 ###### [Overview of Guides Analytics](analytics-guide.md)
 ###### [Set up Guides Analytics](analytics-ga-setup.md)

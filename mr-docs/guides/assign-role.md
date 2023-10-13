@@ -2,67 +2,54 @@
 author: davepinch
 description: Assign an Author or Operator role to users in Microsoft Dynamics 365 Guides.
 ms.author: davepinch
-ms.date: 11/08/2021
-ms.topic: article
+ms.date: 10/13/2023
+ms.topic: how-to
 title: Assign an Author or Operator role to a user to control whether a user can author a guide or just view a guide
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Assign an Author or Operator role to an individual user in Dynamics 365 Guides
 
-If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and 
-Restricted Operator roles provide an extra layer of control. [Learn about the privileges provided by each role](admin-role-types.md).
+As a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and Restricted Operator roles provide an extra layer of control. [Learn about the privileges provided by each role](admin-role-types.md). 
 
-> [!NOTE]
-> You can also assign user roles in bulk by using [Azure Active Directory groups](admin-assign-role-groups.md).
+Choose how you want to assign roles to users and perform the appropriate task.
+
+- To assign user roles in bulk using Azure Active Directory groups, see [Assign roles to a Dynamics 365 group team linked to an Azure Active Directory group](admin-assign-role-groups.md).
+
+- To use the Power Platform admin center to assign roles, see the following steps.
 
 ## Prerequisites
 
-To assign user roles:
+- You must have an [active Dynamics 365 Guides license](buy-guides.md).
 
-- You must have an active Dynamics 365 Guides license. For more information, see [Buy a subscription or sign up a free trial](setup-step-one.md).
+- The [Dynamics 365 Guides solution must be installed](upgrade.md).
 
-- The latest Dynamics 365 Guides solution must be installed. For more information, see [Update to the latest solution](upgrade.md).
-
-- You must have access to the Microsoft Power Platform admin center and have full admin privileges.
+- Admin permissions to the Microsoft Power Platform admin center.
 
 ## Assign roles to a user
+
 > [!NOTE]
 > Users can take up to one hour to appear in the Dynamics 365 admin center after the licenses are added in the Microsoft 365 admin center.
 
-1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select the Guides solution in the **Environments** page, select the **More environment actions** (ellipsis **...**) button, and then select **Settings**.
+1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments).
 
-    ![Settings command.](media/access-teams-9.PNG "Settings command")
+1. Select the Guides solution in the **Environments** page and navigate to the **Users** page. See [Assign security roles](/power-platform/admin/assign-security-roles) for more information.
 
-2. In the **Settings** page, select **Users**.
+1. Select the user, and then select **Manage security roles**.
 
-    ![User button.](media/add-user-roles-0.PNG "User button")
+1. Under **Manage security roles**, select the appropriate check box:
 
-3. Select **Add user**, enter the user's name in the **Add user** pane on the right side of the screen, and then select **Add**.
-
-    ![Add user.](media/add-user-4.PNG "Add user")
-
-4. Select the user, and then select **Manage security roles**.
-
-    ![Add user roles.](media/add-user-roles.PNG "Add user roles")
-
-5. Under **Manage security roles**, make sure that the **Basic User** check box is selected.
-
-    ![Basic User check box.](media/basic-user-role.PNG "Basic User check box")
-    
-6. Select the check box for the appropriate role, and then select **Save**.
+   - **Basic User**: All users must have this role selected.
+   - **System Administrator**: Only for users who need admin privileges.
+   - Appropriate Guides role: See [role types](admin-role-types.md).
 
     ![Author and Operator check boxes.](media/select-role-1.png "Author and Operator check boxes")
 
-    [Learn about the different Author and Operator roles](admin-role-types.md).
+1. Select **Save**.
 
-    > [!NOTE
-    > If you want the user to have admin privileges, select the **System Administrator** check box.
+## Next step
 
-## See also
-
-- [Add additional user accounts to Dynamics 365 Guides](add-users.md)
-- [Learn about the Author and Operator roles](admin-role-types.md)
-- [Assign roles in bulk through Azure AD groups](admin-assign-role-groups.md)
+- Contact your Guides users to have them [install the PC app and set up their HoloLens](setup-step-three.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -20,7 +20,7 @@ In very rare cases, you may find that a guide has become corrupted. This is most
 
 ## I can't install or upgrade the Dynamics 365 Guides solution
 
-To install or upgrade the Dynamics 365 Guides solution, you must have admin permissions for Dynamics 365 Guides. You must also have a [Dynamics 365 Guides license assigned to your user account](add-users.md#assign-a-dynamics-365-guides-license-to-an-existing-user).
+To install or upgrade the Dynamics 365 Guides solution, you must have admin permissions for Dynamics 365 Guides. You must also have a [Dynamics 365 Guides license assigned to your user account](add-users.md).
 
 [Learn more about updating the Dynamics 365 Guides solution](upgrade.md).
 

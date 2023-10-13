@@ -41,7 +41,7 @@ You can use the test or sandbox environment to validate any major updates before
 ![Test vs. production environments.](media/test-production-instances.png "Test vs. production environments")
 
 > [!NOTE]
-> In this case, the term "production environment" refers generally to the environment that your users access to do their daily work. It isn't the same as the Dataverse "production environment" that you select when you [install the Dynamics 365 Guides Dataverse solution](setup-step-two.md).
+> In this case, the term "production environment" refers generally to the environment that your users access to do their daily work. It isn't the same as the Dataverse "production environment" that you select when you [install the Dynamics 365 Guides Dataverse solution](install-guides.md).
 
 Your Dynamics 365 Guides license lets you access as many Dataverse environments in your tenant as you require.
 
