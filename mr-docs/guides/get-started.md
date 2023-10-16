@@ -38,7 +38,7 @@ If you're ready to get started with guide authoring, check out the following ste
 |**STEP 1**|**STEP 2**|**STEP 3**|
 |**Author in the PC app**|**Place holograms in the world**|**Use, iterate, and share your guide**|
 |Create step-by-step instructions and customize with images, videos, and 3D models.|Use the HoloLens app to place and customize the 3D models you chose in the PC app into the world. |Review your step-by-step instructions and share with others.|
-|[Download the PC app](setup-step-three.md#download-the-pc-app)|[Launch the HoloLens app](setup-step-three.md#launch-the-hololens-app)|[View best practices](great-guide.md)|
+|[Download the PC app](install-pc-hololens-apps.md#download-the-pc-app)|[Launch the HoloLens app](install-pc-hololens-apps.md#launch-the-hololens-app)|[View best practices](great-guide.md)|
 
 ### Understand authoring concepts
 

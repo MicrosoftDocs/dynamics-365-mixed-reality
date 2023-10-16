@@ -70,7 +70,7 @@ The trial lasts 60 days. At the end of the trial, you have the option to extend 
 
 ## Can I access the previous 30-day trial?
 
-The 30-day trial is not recommended for new subscribers as it has a shorter trial period and is limited to one trial instance per tenant. The [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) is available, however, for customers who can't install the new trial due to corporate policies. Ask your admin to set up the 30-day trial on your behalf, create a subscription-based trial environment and [install the solution](install-guides.md#install-and-configure-the-solution). Have the admin [add your user account](add-users.md) to the trial environment. Then you can [install the PC app and launch the HoloLens app](setup-step-three.md).
+The 30-day trial is not recommended for new subscribers as it has a shorter trial period and is limited to one trial instance per tenant. The [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) is available, however, for customers who can't install the new trial due to corporate policies. Ask your admin to set up the 30-day trial on your behalf, create a subscription-based trial environment and [install the solution](install-guides.md#install-and-configure-the-solution). Have the admin [add your user account](add-users.md) to the trial environment. Then you can [install the PC app and launch the HoloLens app](install-pc-hololens-apps.md).
 
 ## What if my trial signup fails?
 

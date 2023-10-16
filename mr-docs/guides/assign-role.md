@@ -50,6 +50,7 @@ Choose how you want to assign roles to users and perform the appropriate task.
 
 ## Next step
 
-- Contact your Guides users to have them [install the PC app and set up their HoloLens](setup-step-three.md)
+- [Set up a Guides device license for multiple operators](device-license.md)
+- Contact your Guides users to have them [install the PC app and set up their HoloLens](install-pc-hololens-apps.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

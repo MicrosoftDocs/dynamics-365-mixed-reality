@@ -45,4 +45,4 @@ Your trial includes the same features as the paid version. The links below guide
 ## Next steps
 
 - [Expand the trial to other users](trial-faq.md#how-do-i-add-more-users-to-a-trial)
-- [Install the PC app and launch the HoloLens app](setup-step-three.md)
+- [Install the PC app and launch the HoloLens app](install-pc-hololens-apps.md)

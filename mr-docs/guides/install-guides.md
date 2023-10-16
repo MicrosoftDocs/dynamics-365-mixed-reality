@@ -32,7 +32,7 @@ If you already have an environment that you want to use (for example, an instanc
 1. In the **Region** field, keep the default setting.
 
    > [!IMPORTANT]
-   > If you set up a Dataverse environment instance in a different region than your default Azure Active Directory tenant region, the Dynamics 365 Guides model-driven app will not be available to install. If you'd like to set up a Dataverse environment instance in a region other than your default region, you must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
+   > If you set up a Dataverse environment instance in a different region than your default Azure Active Directory tenant region, the Dynamics 365 Guides model-driven app won't be available to install. If you'd like to set up a Dataverse environment instance in a region other than your default region, you must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
 
 1. Select **Next**. For the database, select your language and currency, and set the **Enable Dynamics 365 apps** option to **Yes**. Keep the default values for the other fields. Then select **Save**.
 

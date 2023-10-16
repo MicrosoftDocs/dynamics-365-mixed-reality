@@ -20,7 +20,7 @@ As a Microsoft Dynamics 365 Guides admin, assign licenses to individual users or
 
 - You must have an [active Dynamics 365 Guides license](buy-guides.md).
 
-- The [Dynamics 365 Guides solution must be installed](upgrade.md).
+- The [Dynamics 365 Guides solution must be installed](install-guides.md).
 
 ## Assign licenses
 

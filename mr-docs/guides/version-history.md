@@ -118,7 +118,7 @@ This release fixes image quality issues for textures on 3D content and slate ima
 | View call data| Yes |<a href="/dynamics365/mixed-reality/guides/call-logging" target="_blank">View and access call data</a>|
 | Automatically apply Microsoft Teams policies| Yes |<a href="/dynamics365/mixed-reality/guides/admin-teams-policies" target="_blank">Teams policies supported by Dynamics 365 Guides</a>|
 | HoloLens temperature management| Yes |<a href="/dynamics365/mixed-reality/guides/calling-hololens-thermal-adjusting" target="_blank">How Dynamics 365 Guides automatically adjusts HoloLens temperature if the device overheats</a>|
-| Automatically update the PC app| Yes |<a href="/dynamics365/mixed-reality/guides/setup-step-three" target="_blank">Download and install the PC and HoloLens apps</a>|
+| Automatically update the PC app| Yes |<a href="/dynamics365/mixed-reality/guides/install-pc-hololens-apps" target="_blank">Download and install the PC and HoloLens apps</a>|
 
 > [!NOTE]
 > You must be a system administrator to update the Dynamics 365 Guides solution.
@@ -138,7 +138,7 @@ This release fixes image quality issues for textures on 3D content and slate ima
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="/dynamics365-release-plan/2022wave1/guides/dynamics365-guides/grant-guide-access-third-parties" target="_blank">Grant guide access to third parties</a>| No |<a href="/dynamics365/mixed-reality/guides/admin-add-guest-user" target="_blank">Add a guest user</a>|
-| Automatically update the HoloLens app to stay in sync with the latest solution version| Yes |<a href="/dynamics365/mixed-reality/guides/setup-step-three" target="_blank">Download the PC and HoloLens apps</a>|
+| Automatically update the HoloLens app to stay in sync with the latest solution version| Yes |<a href="/dynamics365/mixed-reality/guides/install-pc-hololens-apps" target="_blank">Download the PC and HoloLens apps</a>|
 
 > [!NOTE]
 > You must be a system administrator to update the Dynamics 365 Guides solution. 

@@ -69,7 +69,7 @@
 
 ### Download the HoloLens and PC apps
 #### Download the HoloLens app and sign in
-##### [Download the apps](setup-step-three.md)
+##### [Download the apps](install-pc-hololens-apps.md)
 ##### [Install the app and sign in](hololens-app-install-sign-in.md)
 #### [Permissions required](hololens-permissions.md)
 #### [Download the PC app and sign in](install-sign-in-pc-app.md)
