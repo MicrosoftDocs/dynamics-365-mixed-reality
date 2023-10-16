@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes older features for Dynamics 365 Guides, organized by release date
 ms.author: davepinch
-ms.date: 09/20/2023
+ms.date: 10/17/2023
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
