@@ -31,6 +31,11 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/guides/setup-step-three.md",
+      "redirect_url": "install-pc-hololens-apps",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/setup-step-four.md",
       "redirect_url": "setup-powerbi-reports",
       "redirect_document_id": "false"
