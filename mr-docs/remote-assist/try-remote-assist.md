@@ -35,7 +35,7 @@ The license-free trial grants access only to the client application. Additional 
 
 - A [Microsoft Teams Free account](https://products.office.com/microsoft-teams/free).
 
-- Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only). Users will sign in to their accounts through Azure Active Directory.
+- Azure [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only). Users will sign in to their accounts through Microsoft Entra.
 
 - A HoloLens, HoloLens 2, or mobile device. [Learn about additional licensing and product requirements](./requirements.md).
 

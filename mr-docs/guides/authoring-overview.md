@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Overview of authoring a guide in Dynamics 365 Guides
  
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 To author a guide in Microsoft Dynamics 365 Guides, you use two apps:
 
 - **PC app.** You start with the PC application. Use this application to create the guide, choose an anchoring method, 
@@ -29,8 +31,8 @@ Supporting assets include:
 
     ![Authoring overview.](media/authoring-overview.PNG "Authoring overview")
     
-     >[!NOTE]
-     > You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
+     > [!NOTE]
+     > You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have a Microsoft Entra account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
 
 Ready to jump in? Choose one or more of these links to get underway:
 

@@ -11,6 +11,8 @@ ms.custom: bap-template
 
 # Install, open, and sign in to the Dynamics 365 Guides PC app
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 Use these instructions to install the Microsoft Dynamics 365 Guides PC app (if it hasn't already been installed for you) and to sign in. For information on technical requirements for the PC app, see [Device and licensing requirements](requirements.md).
 
 > [!NOTE]
@@ -37,7 +39,7 @@ Use these instructions to install the Microsoft Dynamics 365 Guides PC app (if i
 1. On the **Sign in** page, enter the user account and password that your organization assigned to you.
 
     > [!NOTE]
-    > You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
+    > You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have a Microsoft Entra account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
 
 1. Select the environment that you want to use, if there is more than one environment. Then select **OK**.
 

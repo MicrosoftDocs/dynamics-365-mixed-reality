@@ -64,7 +64,7 @@ Change the owner of a guide to a user or an owner team.
 ## Next steps
 
 - [Assign an Operator or Author role to an individual user](assign-role.md)
-- [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
+- [Assign roles in bulk by using Microsoft Entra groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

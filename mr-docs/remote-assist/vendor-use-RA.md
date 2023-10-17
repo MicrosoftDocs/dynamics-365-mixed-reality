@@ -12,6 +12,8 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 ## Goal
 
 Learn how to deploy [common deployment scenario 3](common-deployment-scenarios.md#scenario-4-vendors-and-customers-use-full-remote-assist-capabilities).
@@ -23,8 +25,8 @@ Learn how to deploy [common deployment scenario 3](common-deployment-scenarios.m
 
 Throughout this article, we'll be referring to a few account types: 
 
-1. **Internal account**: An Azure Active Directory (Azure AD) account that is created inside your tenant for internal users.
-2. **Service account**: An Azure AD account that is created inside your tenant for users who are not currently part of your tenant.
+1. **Internal account**: a Microsoft Entra  account that is created inside your tenant for internal users.
+2. **Service account**: A Microsoft Entra account that is created inside your tenant for users who are not currently part of your tenant.
 
 ## Example
 
@@ -33,7 +35,7 @@ Company ABC wants vendors to use Dynamics 365 Remote Assist to collaborate with 
 **Figure 1.1**
 ![Diagram showing vendors not having any Dynamics 365 Remote Assist licenses.](media/SA_1.png)
 
-In Figure 1.2 below, Company ABC used Azure AD to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Dynamics 365 Remote Assist license to each service account. (A Teams license is then automatically assigned to each service account.) Service account credentials were then distributed to company vendors and contractors. Now,
+In Figure 1.2 below, Company ABC used Microsoft Entra to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Dynamics 365 Remote Assist license to each service account. (A Teams license is then automatically assigned to each service account.) Service account credentials were then distributed to company vendors and contractors. Now,
 * (Orange) Vendor1_A@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_A_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
 * (Green) Vendor1_B@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_B_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
 * (Blue) Vendor1_A@Vendor2.com is still a member of Tenant Vendor2, and now uses Vendor2_A_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
@@ -51,7 +53,7 @@ In the previous figure, we described a configuration where any service account u
 
 1. Determine if information barriers are necessary
 
-   Information barrier policies determine and prevent the following kinds of unauthorized communications between users who have Azure AD accounts in a tenant:
+   Information barrier policies determine and prevent the following kinds of unauthorized communications between users who have Microsoft Entra accounts in a tenant:
 
    - Searching for a user
    - Adding a member to a team
@@ -63,7 +65,7 @@ In the previous figure, we described a configuration where any service account u
 
 1. If information barriers are necessary, plan how you segment users. 
 
-   You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](/microsoft-365/compliance/information-barriers-attributes). To see how an organization might approach defining segments and policies, consider the following [example](/microsoft-365/compliance/information-barriers-policies#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Download the workbook (xlsx file).](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about information barriers can be found [here](/microsoft-365/compliance/information-barriers).
+   You can segment users based on different attributes, such as what department they belong to, what Microsoft Entra group they are a member of, or even by their usage location. A full list of attributes can be found [here](/microsoft-365/compliance/information-barriers-attributes). To see how an organization might approach defining segments and policies, consider the following [example](/microsoft-365/compliance/information-barriers-policies#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Download the workbook (xlsx file).](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about information barriers can be found [here](/microsoft-365/compliance/information-barriers).
 
 1. Buy the correct licenses
 

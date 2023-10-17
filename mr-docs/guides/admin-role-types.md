@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # About the Author and Operator roles in Dynamics 365 Guides
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and 
 Restricted Operator roles provide an extra layer of control by limiting access to guides. Users who are assigned the Restricted Author and Restricted Operator roles 
 **do not** inherit access to any guides or guide content (3D models, images, or videos) created in the environments that they are permitted to access. 
@@ -38,7 +40,7 @@ See the following links for more information:
 ## See also
 
 - [Assign a role to an individual user](assign-role.md)
-- [Assign a role through Azure Active Directory groups](admin-assign-role-groups.md)
+- [Assign a role through Microsoft Entra groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
 - [Assign or share a guide by changing ownership](admin-access-assign.md)
 - [Assign or share a guide through an access team](admin-access-teams.md)
