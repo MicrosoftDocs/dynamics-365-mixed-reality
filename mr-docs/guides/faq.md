@@ -38,7 +38,7 @@ In rare cases, changes to these underlying platforms can cause issues in Dynamic
 
 ## I can't install the Dynamics 365 Guides solution because I can't find it in the Power Platform admin center
 
-If you previously set up a Dataverse environment instance in a different region than your tenant's default region, the Dynamics 365 Guides model-driven app will not be available to install. You must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
+If you previously set up a Dataverse environment in a different region than your tenant's default region, the Dynamics 365 Guides model-driven app will not be available to install. You must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
 
 ## I'm connected through a proxy or VPN and can't sign in to Dynamics 365 Guides. What can I do?
 
@@ -102,9 +102,9 @@ When you have a Power Apps license, the Access Mode security property is set to 
 
 You might have installed Dynamics 365 Guides on a trial environment that has expired. Trial environments have their own life cycle, independent of the Dynamics 365 Guides license. You can go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
 
-## How do I limit users to a particular Dynamics 365 instance?
+## How do I limit users to a particular Dynamics 365 environment?
 
-You can limit user access to instances by using security groups that are managed in the Microsoft 365 admin center. For more information, see [Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md) and [Control user access to instances: security groups and licenses](/dynamics365/admin/add-instance-subscription#control-user-access-to-instances-security-groups-and-licenses).
+You can limit user access to environments by using security groups that are managed in the Microsoft 365 admin center. For more information, see [Restrict access to an environment in Dynamics 365 Guides by using security groups](admin-security.md) and [Control user access to environments: security groups and licenses](/power-platform/admin/control-user-access).
 
 ## I get an error message when I try to sign in to the PC app or [!include[pn-hololens](../includes/pn-hololens.md)] app
 

@@ -21,11 +21,11 @@ When you create a guide in the PC authoring app, the content is stored in Micros
 
 ## Access the model-driven app
 
-1. In the PC authoring app, sign in to the Dynamics 365 instance that includes the guide.
+1. In the PC authoring app, sign in to the Dynamics 365 environment that includes the guide.
 
-1. Select the **Analyze** tab, and then under **Instance URL**, select **Copy**, and then paste the value into the address bar of a web browser.
+1. Select the **Analyze** tab, and then under **Environment URL**, select **Copy**, and then paste the value into the address bar of a web browser.
 
-    ![Instance URL value highlighted.](media/copy-instance-url.jpg "Instance URL value highlighted")
+    ![Environment URL value highlighted.](media/copy-environment-url.png "Environment URL value highlighted")
 
 1. Sign in, and then in the left pane of the Power Apps screen, select **Guides** to open the model-driven app.
 

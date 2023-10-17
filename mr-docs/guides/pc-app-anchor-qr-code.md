@@ -2,44 +2,31 @@
 author: davepinch
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a QR code anchor
 ms.author: davepinch
-ms.date: 08/04/2022
-ms.topic: article
-title: Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
+ms.date: 09/15/2023
+ms.topic: how-to
+title: Anchor a guide in Dynamics 365 Guides by using a QR code anchor
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
-# Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
+# Anchor a guide in Dynamics 365 Guides by using a QR code anchor
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
-You can anchor your guide to the real world in Microsoft Dynamics 365 Guides by using a QR code anchor, circular code anchor, or holographic anchor. This article shows how to anchor a guide with a QR code anchor. QR code anchoring is recommended because:
+Use a QR code anchor to anchor your guide to the real world in Guides. Review [best practices for QR code anchors.](pc-app-anchor-qr-best-practices.md) QR code anchoring is recommended because:
 
-- You can use the QR code that comes with Dynamics 365 Guides or any other QR code that you already own.
+- You can use the [QR code that comes with Dynamics 365 Guides](qr-code-configuration.md) or any other QR code that you already own.
 
 - You can print the anchor in various sizes (but be sure to always use the same size for the same guide).
 
-- You can embed a link to a guide (deep link) in a QR code. This makes it quicker for the operator to open the appropriate guide. [Learn more about embedding a link to a guide in a QR code](pc-app-anchor-embed-qr-code-link.md).
-
-In certain cases, you may need to use a circular code or holographic anchor, however. [Learn about other types of anchors and when to use them](pc-app-anchor.md). 
+- You can [embed a link to a guide in a QR code](pc-app-anchor-embed-qr-code-link.md). This makes it quicker for the operator to open the appropriate guide.
 
 > [!IMPORTANT]
 > Anchoring a guide with a QR code requires HoloLens 2. This feature is not available on HoloLens 1.
 
-## Overall process for creating a QR code anchor
-
-The process of creating a QR code anchor involves four basic steps:
-
-1. Use the **Anchor** wizard to select the QR code anchor method.
-
-1. Print the anchor from the PDF file that the **Anchor** wizard creates.
-
-1. Attach the anchor to a physical object in the real world.
-
-1. Gaze at the anchor on HoloLens to anchor the guide.
-
 ## Set up a QR code anchor
 
-You can access the **Anchor** wizard from the **Outline** page. The **Outline** page automatically appears after you create or open a guide.
+You can access the **Anchor** wizard from the **Outline** page in the PC app. The **Outline** page automatically appears after you create or open a guide.
 
 1. On the **Outline** page, select **Set your anchor now**.
 
@@ -47,13 +34,11 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 1. On the **Choose an anchor method** page, select **Select** for the **QR Code** anchor method.
 
-    ![Select button for the QR Code anchor method.](media/qr-code-choose-method.PNG "Select button for the QR Code anchor method")
-
 1. In step 1 of the wizard, select **Download QR code** to create a PDF file that is named **Guides-QRCodeAnchor**. This file includes the anchor that you will print in step 5.
 
     ![Download QR code button.](media/qr-code-download-button.PNG "Download QR code button")
 
-    You can use the same QR code for any guide that uses a QR code anchor. 
+    You can use the same QR code for any guide that uses a QR code anchor.
 
 1. On your computer, open the **Guides-QRCodeAnchor** file.
 
@@ -72,108 +57,16 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     ![Import button.](media/qr-code-import-photo.PNG "Import button")
 
-1. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step.
+1. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, enter your instructions, and select **Save**. When you've finished, select **Next** to move to the next step.
 
     ![Edit step card text button.](media/qr-code-operator-instructions.PNG "Edit step card text button")
 
 1. Put on your HoloLens, open your guide, and then gaze at the QR code anchor to anchor the guide.
 
-    ![Align HoloLens.](media/qr-code-align-hololens.PNG "Align HoloLens")
+## Next steps
 
-## QR code anchor configuration
-
-The following illustration shows the different parts of the QR code anchor (see step 3 in the previous procedure) provided with Dynamics 365 Guides:
-
-![QR code illustration.](media/qr-code-anchor-dissected.PNG "QR code illustration")
-
-1. **Anchor origin.** This location is used as the guide origin point for all the content in your guide.
-
-1. **Alignment marks.** These marks can assist you in aligning the QR code anchor origin and orientation with specific feature points in your environment.
-
-1. **Anchor width.** We recommend a width of 101 mm to 400 mm for the provided anchor, or for any QR code based on version 1.
-
-1. **Optional cutline.** Cut along this line if you want to make the smallest possible anchor. Graphics above this line visually identify the anchor as a Dynamics 365 Guides anchor. Content below this line, including the margin marked in red, is required for maximizing detection rate.
-
-1. **Module.** This square is one of many modules that make up the QR code anchor. Measure the width
-of a module to ensure that it’s at least 3.5 mm in width and height.
-
-   > [!NOTE]
-   > When using deep-link QR codes, make sure they have the recommended minimum module size so they can be detected at a comfortable scanning distance.
-
-1. **Anchor quiet zone.** This space is required to help locate the QR code anchor. It must be at least four modules wide. DO NOT CUT THIS PART OFF or you will see degradation in the detection rate. 
-
-## Best practices for QR code anchors
-
-Keep the following points in mind when working with QR code anchors:
-
-- **Printing settings**. Make sure to print the anchor on matte stock and don't laminate it.
-
-    - Glossy materials can negatively affect scanning due to reflected light.
-    
-    - Bubblejet printers produce a better matte finish.
-
-- **Size**. You can print QR codes in multiple sizes. For best detection and scanning comfort, we recommend printing the provided anchor with a width of **101 mm to 400 mm**. This recommendation is for any QR code anchor following Version 1 QR codes. Anchor sizes outside of this recommended range might result in detection failure or reduced alignment precision for version 1 QR codes.
-
-  > [!NOTE]
-  > If you use your own QR code anchor, refer to QRCode.com for additional advanced QR code documentation. QR codes other than version 1 can increase the number of modules, which decreases their relative size. We recommend printing your anchor at a size where each independent module side measures a minimum of 3.5 mm.
-
-    Anchors that are smaller than the recommended size impact the user experience while scanning. Due to the position of the QR scanning cameras, users need to aim below the anchor and may need to get uncomfortably close for scanning to succeed. Smaller sizes are also sensitive to variable lighting conditions. Any small reflective highlights on the anchor might cause a smaller anchor to have more of the information obscured, making the anchor unreadable.
-
-    Anchors that are larger than the recommended size require users to move father away from the anchor. Scanning from a greater distance results in decreased accuracy. 
-
-- **Position**. Make sure that the anchor is always positioned flat. Do **not** distort it or place it on a curved surface. Otherwise, alignment and detection will be negatively affected.
-
-- **Location**. Place the QR code anchor in a location that is easy to access, so it doesn't interfere with work and is easy to identify (for placement).
-
-    - Ideally, anchor placement should be central to the steps that are being done.
-
-    - Content that is placed farther away from the anchor will be subject to more position variability than content that is placed closer to it.
-
-    - Place the anchor where operators can quickly re-scan it for realignment at any time, if required.
-
-    - If operators must place/remove anchors before run-throughs, position variability of content will increase.
-
-    - Ideally, the anchor should not be moved after the author places it. If a permanent placement isn't possible, consider creating a mount, so that the anchor can be placed consistently in the same location/orientation each time.
-
-    - Take a photo or video to document the anchor placement, and add it to the guide instructions. In this way, you can help increase operator confidence.
-
-- **Orientation**. The way that you orient the anchor can have a big impact on scanning performance.
-
-    - Position the anchor on a vertical surface to minimize light reflections, if possible.
-
-    - Don't use reflective materials for the support surface.
-
-    - Very reflective surfaces that are located behind the anchor, and direct exposure to sun or artificial light, can negatively affect scanning performance.
-
-- **Scanning angle**. When you gaze at the anchor, make sure that you're facing it straight on and at the correct distance.
-
-    - Scanning from the same angle every time is important to maintain hologram position consistency across scans.
-
-    - Scanning from glancing angles can cause detection failure or misalignment.
-
-    - The ideal scanning range is from 50 to 150 centimeters (cm).
-
-- **Contrast**. The brightness for the provided anchor is set to a 30-percent gray background. This setting provides the best adaptability for a wide variety of environments.
-
-    - If you have trouble detecting an anchor that you provide, try to adjust the anchor's image brightness so that it matches the average environmental brightness around the anchor.
-
-[Learn more about best practices for QR code detection](/windows/mixed-reality/develop/advanced-concepts/qr-code-tracking-overview#best-practices-for-qr-code-detection)
-
-## What's next?
-
-Use the following table to find more information on anchoring.
-
-|Area|Link|
-|----------------------|------------------------------------------------------------------|
-|Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Creating types of anchors|[Create an Azure Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
-||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
-||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
-||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
-|Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
-||[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
-|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
-|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
-
+- [Best practices for QR code anchors.](pc-app-anchor-qr-best-practices.md)
+- [Guides QR code anchor configuration](qr-code-configuration.md)
+- [Anchor a guide in the HoloLens app](hololens-app-anchor.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

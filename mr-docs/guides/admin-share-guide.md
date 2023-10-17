@@ -22,7 +22,7 @@ By organizing all guides and assets a user might need into a folder, you can sha
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-1. In the left pane, select **Folders** to view the list of folders in the instance.
+1. In the left pane, select **Folders** to view the list of folders in the environment.
 
 1. Select the desired folder, and then at the top right of the screen, select **Share** > **Copy link**.
 
