@@ -37,7 +37,7 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 - For organizations with multiple environments, quickly <a href="/dynamics365/mixed-reality/guides/switch-environment" target="blank">switch environments.</a>
 - <a href="/dynamics365/mixed-reality/guides/package-a-guide" target="blank">Package a guide</a> to create a self-contained, read-only file.
-- <a href="/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object" target="blank">Anchor guides with object anchors</a> is GA (general availability).
+- <a href="/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object" target="blank">Anchor guides with object anchors</a> is generally available (GA).
 - Fixed an issue where Teams mobile users couldn't view or download photos shared by HoloLens users
 
 ## Earlier releases
