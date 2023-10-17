@@ -21,6 +21,16 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/guides/admin-enable-object-anchors.md",
+      "redirect_url": "pc-app-anchor-object",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/pc-app-anchor-azure-object.md",
+      "redirect_url": "pc-app-anchor-object",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/legal/guides-preview.md",
       "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104709",
       "redirect_document_id": "false"

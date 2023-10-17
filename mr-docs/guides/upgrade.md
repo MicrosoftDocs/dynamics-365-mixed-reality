@@ -74,11 +74,11 @@ To fix this issue, we recommend that you first try to update the guide schema fr
 
 #### Upgrade the schema
 
-1. In the PC app, sign in to the instance that includes the guide where the issue occurs.
+1. In the PC app, sign in to the environment that includes the guide where the issue occurs.
 
-2. On the **Analyze** tab, select **Copy** to copy the **Instance URL** value, and then paste the value into the address bar of a web browser.
+2. On the **Analyze** tab, select **Copy** to copy the **Environment URL** value, and then paste the value into the address bar of a web browser.
 
-    ![Copy the Instance URL value.](media/copy-instance-url.jpg "Copy the Instance URL value")
+    ![Copy the Environment URL value.](media/copy-environment-url.png "Copy the Environment URL value")
 
 3. Sign in, and then select the **Guides** model-driven app.
 

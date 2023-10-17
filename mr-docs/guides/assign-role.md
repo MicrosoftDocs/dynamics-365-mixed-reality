@@ -56,7 +56,7 @@ To assign user roles:
 
     [Learn about the different Author and Operator roles](admin-role-types.md).
 
-    > [!NOTE
+    > [!NOTE]
     > If you want the user to have admin privileges, select the **System Administrator** check box.
 
 ## See also
