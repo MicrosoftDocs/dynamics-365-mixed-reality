@@ -35,7 +35,7 @@ Company ABC wants vendors to use Dynamics 365 Remote Assist to collaborate with 
 **Figure 1.1**
 ![Diagram showing vendors not having any Dynamics 365 Remote Assist licenses.](media/SA_1.png)
 
-In Figure 1.2 below, Company ABC used Microsoft Entra to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Dynamics 365 Remote Assist license to each service account. (A Teams license is then automatically assigned to each service account.) Service account credentials were then distributed to company vendors and contractors. Now,
+In Figure 1.2 below, Company ABC used Microsoft Entra ID to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Dynamics 365 Remote Assist license to each service account. (A Teams license is then automatically assigned to each service account.) Service account credentials were then distributed to company vendors and contractors. Now,
 * (Orange) Vendor1_A@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_A_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
 * (Green) Vendor1_B@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_B_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
 * (Blue) Vendor1_A@Vendor2.com is still a member of Tenant Vendor2, and now uses Vendor2_A_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
