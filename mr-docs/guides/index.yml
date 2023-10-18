@@ -83,7 +83,7 @@ additionalContent:
       - url: field-service.md
         text: Integrate with Dynamics 365 Field Service
       - url: admin-connect-field-service-mobile.md
-        text: Integrate with Field Service Mobile
+        text: Integrate with the Field Service mobile app
       - url: admin-integrate-asset-management.md
         text: Integrate with Dynamics 365 Supply Chain Management
 
