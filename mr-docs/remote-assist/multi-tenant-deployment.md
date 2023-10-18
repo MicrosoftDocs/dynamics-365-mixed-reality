@@ -22,7 +22,7 @@ Learn how to deploy [common deployment scenario 2](common-deployment-scenarios.m
 
 Throughout this article, we'll be referring to a few account types: 
 
-1. **Internal account**: a Microsoft Entra account that is created in your tenant for internal users.
+1. **Internal account**: A Microsoft Entra account that is created in your tenant for internal users.
 2. **Guest account**: A Microsoft Entra account that is created in your tenant when you provide an out-of-tenant user with guest access in one or more Teams teams or channels. You can "guest" an out-of-tenant user into your tenant using their email.
     1. If that user's email is already associated with a Microsoft Entra account in one other tenant, that user is now part of two tenants: that user is a member of their native tenant and a guest in your tenant.
     2. If that user's email is not already associated with a Microsoft Entra account in any other tenant, that user is now part of one tenant: that user is a guest in your tenant.

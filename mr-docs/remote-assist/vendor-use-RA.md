@@ -25,7 +25,7 @@ Learn how to deploy [common deployment scenario 3](common-deployment-scenarios.m
 
 Throughout this article, we'll be referring to a few account types: 
 
-1. **Internal account**: a Microsoft Entra  account that is created inside your tenant for internal users.
+1. **Internal account**: A Microsoft Entra  account that is created inside your tenant for internal users.
 2. **Service account**: A Microsoft Entra account that is created inside your tenant for users who are not currently part of your tenant.
 
 ## Example

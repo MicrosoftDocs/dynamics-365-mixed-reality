@@ -42,7 +42,7 @@ Individual users in your organization must have:
 
 - The [required licensing and devices](./requirements.md).
 
-- a Microsoft Entra account to sign in to the app.
+- A Microsoft Entra account to sign in to the app.
 
 ### Add and assign licenses
 
@@ -64,11 +64,11 @@ After assigning licenses, users can install and use the app on their HoloLens, H
 
 ### Prerequisites
 
-- [A Dynamics 365 Remote Assist license **and** Microsoft Teams license assigned](#add-users-and-assign-licenses).
+- A [Dynamics 365 Remote Assist license **and** Microsoft Teams license assigned](#add-users-and-assign-licenses).
 
 - A [Microsoft Teams account](https://teams.microsoft.com/start). See [Using Teams with Dynamics 365 Remote Assist](/dynamics365/mixed-reality/remote-assist/set-up-teams) for more information.
 
-- Azre [Premium trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only).
+- A [Microsoft Entra ID Free, P1 or P2](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) (for HoloLens users only).
 
 - A HoloLens, HoloLens 2, or mobile device. See [Licensing and product requirements](./requirements.md).
 

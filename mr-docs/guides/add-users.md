@@ -71,7 +71,7 @@ After you add user accounts, the next step is to assign the **Author**, **Operat
 
 ## Add a guest user
 
-Anyone who is not part of your organization, but has a Microsoft Entra account, can be added as a guest by a global admin. The user can then access Dynamics 365 Guides content in your organization as an operator. [Learn about adding a guest user in Dynamics 365 Guides](admin-add-guest-user.md)
+Anyone who is not part of your organization, but has a Microsoft Entra account, can be added as a guest by a global admin. The user can then access Dynamics 365 Guides content in your organization as an operator. [Learn about adding a guest user in Dynamics 365 Guides.](../guides/admin-add-guest-user.md)
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 

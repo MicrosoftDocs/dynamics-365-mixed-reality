@@ -16,7 +16,7 @@ Anyone who is not part of a Microsoft Dynamics 365 Guides organization, but has 
 
 ## Invite a guest
 
-To add a guest user, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Microsoft 365 admin center](/microsoft-365/admin/add-users/about-guest-users).
+To add a guest user, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Microsoft Entra admin center](/azure/active-directory/fundamentals/add-users#add-a-new-guest-user).
 
 When a guest is invited to join an organization, they receive a welcome email message. This message includes some information about the organization and what to expect as a member. The guest must accept the invitation by selecting **Accept Invitation** in the email message before they can access the organization and the organization's guides.
 

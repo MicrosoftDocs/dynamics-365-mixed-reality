@@ -14,6 +14,8 @@ ms.custom: bap-template
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 You can try Microsoft Dynamics 365 Remote Assist for free on your HoloLens, HoloLens 2, mobile phones, and tablets. There are three types of free trials.
 
 |Trial type|Designed for|
@@ -35,7 +37,7 @@ The license-free trial grants access only to the client application. Additional 
 
 - A [Microsoft Teams Free account](https://products.office.com/microsoft-teams/free).
 
-- Azure [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only). Users will sign in to their accounts through Microsoft Entra.
+- A [Microsoft Entra ID Free, P1 or P2](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) (for HoloLens users only). Users will sign in to their accounts through Microsoft Entra.
 
 - A HoloLens, HoloLens 2, or mobile device. [Learn about additional licensing and product requirements](./requirements.md).
 

@@ -17,8 +17,7 @@ If you haven't already installed the Microsoft HoloLens app on your HoloLens dev
 
 You must have a license to install the Dynamics 365 Guides HoloLens app. You can also [sign up for a free trial of Dynamics 365 Guides](setup.md).
 
-> [!NOTE]
-> You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have a Microsoft Entra account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
+[!INCLUDE [add-guest-user.md](../includes/add-guest-user.md)]
 
 ## Install the app from the Microsoft Store
 

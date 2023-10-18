@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Security and separation of environment access strategy
 
-[!INCLUDE [azure-ad-to-microsoft-entra-id](/mr-docs/includes/azure-ad-to-microsoft-entra-id.md)]
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../../includes/azure-ad-to-microsoft-entra-id.md)]
 
 Access to environments and content should be restricted and should generally follow the principle of least privilege (PoLP). In Microsoft Power Platform, this access can be handled at different levels.
 
