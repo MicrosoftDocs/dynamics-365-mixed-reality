@@ -12,6 +12,8 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 ## Goal
 
 Learn how to deploy [common deployment scenario 2](common-deployment-scenarios.md#scenario-2-multi-tenant-collaboration).
@@ -20,10 +22,10 @@ Learn how to deploy [common deployment scenario 2](common-deployment-scenarios.m
 
 Throughout this article, we'll be referring to a few account types: 
 
-1. **Internal account**: An Azure Active Directory (Azure AD) account that is created in your tenant for internal users.
-2. **Guest account**: An Azure AD account that is created in your tenant when you provide an out-of-tenant user with guest access in one or more Teams teams or channels. You can "guest" an out-of-tenant user into your tenant using their email.
-    1. If that user's email is already associated with an Azure AD account in one other tenant, that user is now part of two tenants: that user is a member of their native tenant and a guest in your tenant.
-    2. If that user's email is not already associated with an Azure AD account in any other tenant, that user is now part of one tenant: that user is a guest in your tenant.
+1. **Internal account**: A Microsoft Entra account that is created in your tenant for internal users.
+2. **Guest account**: A Microsoft Entra account that is created in your tenant when you provide an out-of-tenant user with guest access in one or more Teams teams or channels. You can "guest" an out-of-tenant user into your tenant using their email.
+    1. If that user's email is already associated with a Microsoft Entra account in one other tenant, that user is now part of two tenants: that user is a member of their native tenant and a guest in your tenant.
+    2. If that user's email is not already associated with a Microsoft Entra account in any other tenant, that user is now part of one tenant: that user is a guest in your tenant.
 
 ## Scenario overview
 
