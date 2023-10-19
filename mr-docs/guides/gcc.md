@@ -66,8 +66,10 @@ only in the United States.
 If you try to [invite a guest user](admin-add-guest-user.md) who is not in the same government cloud, you'll see the following error message:
 
 >[!CAUTION]
->_"The user you are inviting does not exist in this national cloud. To collaborate with this user, ask them for a different email address associated with the directory in this national cloud or create User Account for them in your AAD"._
+>_"The user you are inviting does not exist in this national cloud. To collaborate with this user, ask them for a different email address associated with the directory in this national cloud or create User Account for them in Microsoft Entra"._
 
-For more info, see [⁠Azure AD B2B in government and national clouds](/azure/active-directory/external-identities/b2b-government-national-clouds).
+For more info, see [⁠Microsoft Entra B2B in government and national clouds](/azure/active-directory/external-identities/b2b-government-national-clouds).
+
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

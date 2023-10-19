@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Deployment playbook for Dynamics 365 Guides
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 This topic covers basic concepts that you must know about when you're deploying Microsoft Dynamics 365 Guides.
 
 ## Architecture
@@ -23,7 +25,7 @@ The following illustration shows the overall architecture.
 
 Dynamics 365 Guides includes two client-side applications: the PC app (a Universal Windows Platform \[UWP\] app) and the HoloLens app. Server-side data is stored in Dataverse in your customer tenant.
 
-- A **tenant** is a representation of an organization. It's a dedicated Azure Active Directory (Azure AD) environment that an organization or app developer receives when the organization or app developer creates a relationship with Microsoft (for example, by signing up for Azure, Intune, or Microsoft 365).
+- A **tenant** is a representation of an organization. It's a dedicated Microsoft Entra environment that an organization or app developer receives when the organization or app developer creates a relationship with Microsoft (for example, by signing up for Microsoft Entra, Intune, or Microsoft 365).
 
 - A **Dataverse environment** is a segmented database that securely stores and manages data that is used by business applications such as Dynamics 365 Guides. Data in Dataverse is stored in a set of tables, similarly to how a table stores data in a database. Dynamics 365 Guides uses a [custom set of Dataverse tables to store data](./developer-entity-reference.md).
 
@@ -160,7 +162,7 @@ The example in the following illustration shows how Dataverse environments, acce
 ![Using environments, access teams, and user roles for different levels of security access.](media/security-access-methods-diagram.PNG "Using environments, access teams, and user roles for different levels of security access")
 
 > [!TIP]
-> You can use Azure AD security groups to [assign Dynamics 365 Guides security roles to batches of users](https://powerusers.microsoft.com/t5/Common-Data-Service-for-Apps/How-to-assign-security-roles-to-Microsoft-365-Groups-Security/m-p/648584). This capability is useful when you're deploying Dynamics 365 Guides to many operators. It lets you use a bulk operation instead of having to assign roles individually.
+> You can use Microsoft Entra security groups to [assign Dynamics 365 Guides security roles to batches of users](https://powerusers.microsoft.com/t5/Common-Data-Service-for-Apps/How-to-assign-security-roles-to-Microsoft-365-Groups-Security/m-p/648584). This capability is useful when you're deploying Dynamics 365 Guides to many operators. It lets you use a bulk operation instead of having to assign roles individually.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

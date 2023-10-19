@@ -14,7 +14,9 @@ If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Ope
 Restricted Operator roles provide an extra layer of control. [Learn about the privileges provided by each role](admin-role-types.md).
 
 > [!NOTE]
-> You can also assign user roles in bulk by using [Azure Active Directory groups](admin-assign-role-groups.md).
+> You can also assign user roles in bulk by using [Microsoft Entra groups](admin-assign-role-groups.md).
+
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
 ## Prerequisites
 
@@ -27,6 +29,7 @@ To assign user roles:
 - You must have access to the Microsoft Power Platform admin center and have full admin privileges.
 
 ## Assign roles to a user
+
 > [!NOTE]
 > Users can take up to one hour to appear in the Dynamics 365 admin center after the licenses are added in the Microsoft 365 admin center.
 
@@ -63,6 +66,6 @@ To assign user roles:
 
 - [Add additional user accounts to Dynamics 365 Guides](add-users.md)
 - [Learn about the Author and Operator roles](admin-role-types.md)
-- [Assign roles in bulk through Azure AD groups](admin-assign-role-groups.md)
+- [Assign roles in bulk through Microsoft Entra groups](admin-assign-role-groups.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

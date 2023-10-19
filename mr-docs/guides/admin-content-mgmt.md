@@ -53,9 +53,11 @@ For more information on privileges, teams, and controlling access to apps, see t
 |To|See this article|
 |---------------------------------------|-----------------------------------------------------|
 |Learn how privileges and access work| [How access to a record (guide) is determined](/power-platform/admin/how-record-access-determined)|
-|Learn about the three types of teams (*owner* team, Azure Active Directory *group* team, or *access* team)|[Manage teams](/power-platform/admin/manage-teams)|
+|Learn about the three types of teams (*owner* team, Microsoft Entra *group* team, or *access* team)|[Manage teams](/power-platform/admin/manage-teams)|
 |Control access to the Dynamics 365 Guides HoloLens app or PC app|[Security roles and privileges](/power-platform/admin/security-roles-privileges#team-members-privilege-inheritance)|
 |Control access to the Guides model-driven app| [Share a model-driven app using Power Apps](/powerapps/maker/model-driven-apps/share-model-driven-app)|
+
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
 ## Next steps
 

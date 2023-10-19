@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Guides setup, step 2: Install the solution
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 > [!NOTE]
 > Before you complete this step of the setup process, be sure to see step 1, [Buy a subscription or sign up for a free trial](setup-step-one.md).
 
@@ -55,7 +57,7 @@ The type of environment that you create depends on whether you purchased a [!inc
     3. In the **Region** field, keep the default setting.
 
         > [!IMPORTANT]
-        > If you set up a Dataverse environment in a different region than your default Azure Active Directory tenant region, the Dynamics 365 Guides model-driven app will not be available to install. If you'd like to set up a Dataverse environment in a region other than your default region, you must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
+        > If you set up a Dataverse environment in a different region than your default Microsoft Entra tenant region, the Dynamics 365 Guides model-driven app will not be available to install. If you'd like to set up a Dataverse environment in a region other than your default region, you must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
 
     4. Set the **Create a database for this environment?** option to **Yes**. 
 

@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Set up a Dynamics 365 Guides device license for multiple operators on a shared HoloLens device
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 A device license in Dynamics 365 Guides allows multiple operators to use Dynamics 365 Guides on a single device under a shared user account. This type of license is useful in scenarios where operators may not be known ahead of time (such as a classroom). It can also save licensing costs for customers with many operators that require infrequent access to the device. Device licenses can be purchased through your Microsoft account manager or reseller. This article describes how to configure a Dynamics 365 Guides device license.
 
 > [!NOTE]
@@ -23,7 +25,7 @@ your device license.
 
 ## Create a shared account
 
-A Dynamics 365 Guides device license must be assigned to a shared Active Directory user account. A shared account is just like a regular user account except it's shared by all 
+A Dynamics 365 Guides device license must be assigned to a shared Microsoft Entra user account. A shared account is just like a regular user account except it's shared by all 
 people using Dynamics 365 Guides on a specific HoloLens device. Since the account is shared by multiple people, you manage credentials and other account details differently than regular accounts.
 
 1. [Open the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).

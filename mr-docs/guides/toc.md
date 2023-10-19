@@ -33,7 +33,7 @@
 #### Assign user roles
 ##### [About the Author and Operator roles](admin-role-types.md)
 ##### [Assign to individual users](assign-role.md)
-##### [Assign using Azure AD groups](admin-assign-role-groups.md)
+##### [Assign using Microsoft Entra groups](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
 #### Manage guides content
 ##### [Guides content management](admin-content-mgmt.md)
