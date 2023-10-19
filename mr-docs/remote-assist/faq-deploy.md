@@ -12,6 +12,8 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 Here are some answers to common questions about deploying Dynamics 365 Remote Assist on HoloLens, HoloLens 2, and mobile devices.
 
 ## Which Microsoft platforms is Dynamics 365 Remote Assist dependent on?
@@ -61,9 +63,9 @@ To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 
 
 Yes. Anyone that can sign in and use the Teams application on a Windows 10 PC or mobile device can communicate with a Dynamics 365 Remote Assist user if their tenants are set up correctly. If the Teams user and Dynamics 365 Remote Assist user are not in the same tenant, learn how to [set up multi-tenant company deployments](multi-tenant-deployment.md), [enable vendors and contractors to use Dynamics 365 Remote Assist](vendor-use-ra.md), or [enable vendors and contractors to use Teams](vendor-use-teams.md). 
 
-## Can I assign a Dynamics 365 Remote Assist license to a user using [Azure AD B2B](/azure/active-directory/b2b/what-is-b2b)?
+## Can I assign a Dynamics 365 Remote Assist license to a user using [Microsoft Entra B2B](/azure/active-directory/b2b/what-is-b2b)?
 
-No. Dynamics 365 Remote Assist licenses must be assigned to an AAD account created in the tenant where Dynamics 365 Remote Assist will be used.
+No.  Dynamics 365 Remote Assist licenses must be assigned to a Microsoft Entra account created in the tenant where Dynamics 365 Remote Assist will be used.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

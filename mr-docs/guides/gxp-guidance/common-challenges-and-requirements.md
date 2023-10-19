@@ -11,6 +11,8 @@ ms.custom: bap-template
 
 # Common challenges and requirements
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../../includes/azure-ad-to-microsoft-entra-id.md)]
+
 When you implement Dynamics 365 Guides in a regulated industry, it's important that you consider the business and regulatory requirements from the very beginning. Failure to do so is a common mistake. During the implementation process, stakeholders from the business, IT, and quality assurance (QA) must work together to align requirements from the three competence areas. Be sure to involve the competence areas throughout the process, and have them approve the process for governing and operating the framework that is established for Guides. Identify whether QA processes and audit trails can be supported by existing processes and systems or implemented as part of the Guides solution. Determine the traceability for the management and storage of the individual guides and versions.
 
 To help ensure successful scaling of Guides after a pilot, you should consider questions such as the following:
@@ -23,7 +25,7 @@ To help ensure successful scaling of Guides after a pilot, you should consider q
 - How do you define approval, and what regulatory requirements, such as Good \{industry\} Practice (GxP), apply?
 - How does your organization segregate data under regulatory controls and non-regulatory controls? An example is GxP versus non-GxP data.
 - How do you make access to content easy to scale? Consider this question when you build your data model.
-- What relevant naming standards should you introduce from the beginning? Examples include the names of guides, content, Active Directory groups, business units, and folders.
+- What relevant naming standards should you introduce from the beginning? Examples include the names of guides, content, Microsoft Entra groups, business units, and folders.
 - What roles/personas are involved in the guide life cycle?
 - Who will manage security and the segregation of duty, and how?
 - How will you uniquely link the approved guides to the specific positions where they must be run? For example, you can establish a link through a QR code, the guide ID, or the guide name.

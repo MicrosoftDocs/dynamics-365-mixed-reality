@@ -11,6 +11,8 @@ ms.custom: bap-template
 
 # Share a guide or folder in Dynamics 365 Guides
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 You can share a guide or a folder through the model-driven app. For more information, see [Guide content management.](admin-content-mgmt.md)
 
 ## Share a folder
@@ -22,7 +24,7 @@ By organizing all guides and assets a user might need into a folder, you can sha
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-1. In the left pane, select **Folders** to view the list of folders in the instance.
+1. In the left pane, select **Folders** to view the list of folders in the environment.
 
 1. Select the desired folder, and then at the top right of the screen, select **Share** > **Copy link**.
 
@@ -64,7 +66,7 @@ You can share a guide with other users if you're an administrator or if you have
 ## Next steps
 
 - [Assign an Operator or Author role to an individual user](assign-role.md)
-- [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
+- [Assign roles in bulk by using Microsoft Entra groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

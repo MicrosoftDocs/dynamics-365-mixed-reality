@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Overview of authoring a guide with the Dynamics 365 Guides PC app
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about PC authoring](https://aka.ms/pcauthor)
 
 You use the PC authoring app in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] as the first step in the authoring process.
@@ -34,8 +36,7 @@ Use the PC app to complete these tasks:
 
 ![PC authoring.](media/pc-authoring.PNG "PC authoring")
 
-> [!NOTE]
-> You can [add a guest user in Dynamics 365 Guides](admin-add-guest-user.md) for users that have an Azure Active Directory account but aren't members of your organization. Guest users can only operate guides in the HoloLens app; they can't author guides in the PC or HoloLens apps.
+[!INCLUDE [add-guest-user.md](../includes/add-guest-user.md)]
 
 ## What's next?
 

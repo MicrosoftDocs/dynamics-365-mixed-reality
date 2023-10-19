@@ -20,7 +20,7 @@ In very rare cases, you may find that a guide has become corrupted. This is most
 
 ## I don't see any guides in the Guides list
 
-If you don't see any guides, either your internet connection is unstable, or you might have signed in to an instance that doesn't have any guides. First, check your internet connection. If you're connected, try to sign in again, and make sure that you sign in to the instance that has the guides that you're looking for. If you still don't see any guides, contact your admin.
+If you don't see any guides, either your internet connection is unstable, or you might have signed in to an environment that doesn't have any guides. First, check your internet connection. If you're connected, try to sign in again, and make sure that you sign in to the environment that has the guides that you're looking for. If you still don't see any guides, contact your admin.
 
 ## The Create account link doesn't work when I try to use a new account to sign in
 
@@ -32,7 +32,7 @@ Please do not use this link to create an account–it doesn't work.
 
 ## I can't see guides that I created or guides that my teammates created
 
-If you don't see any guides, either your internet connection is unstable, or you might have signed in to an instance that doesn't have any guides. First, check your internet connection. If you're connected, try signing in again, but this time make sure you sign into the instance that has the guides you were looking for. If you still don't see any guides, contact your administrator.
+If you don't see any guides, either your internet connection is unstable, or you might have signed in to an environment that doesn't have any guides. First, check your internet connection. If you're connected, try signing in again, but this time make sure you sign into the environment that has the guides you were looking for. If you still don't see any guides, contact your administrator.
 
 ## Text wrapping on the PC and in HoloLens might differ in rare cases
 

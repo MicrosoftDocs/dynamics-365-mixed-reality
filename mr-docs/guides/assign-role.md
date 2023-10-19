@@ -14,7 +14,9 @@ If you're a Microsoft Dynamics 365 Guides admin, you can assign a Dynamics 365 G
 Dynamics 365 Guides Restricted Operator roles provide an extra layer of control. [Learn about the privileges provided by each role](admin-role-types.md).
 
 > [!NOTE]
-> You can also assign user roles in bulk by using [Azure Active Directory groups](admin-assign-role-groups.md).
+> You can also assign user roles in bulk by using [Microsoft Entra groups](admin-assign-role-groups.md).
+
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
 ## Prerequisites
 
@@ -57,13 +59,13 @@ To assign user roles:
 
     [Learn about the different Author and Operator roles](admin-role-types.md).
 
-    > [!NOTE
+    > [!NOTE]
     > If you want the user to have admin privileges, select the **System Administrator** check box.
 
 ## See also
 
 - [Add additional user accounts to Dynamics 365 Guides](add-users.md)
 - [Learn about the Author and Operator roles](admin-role-types.md)
-- [Assign roles in bulk through Azure AD groups](admin-assign-role-groups.md)
+- [Assign roles in bulk through Microsoft Entra groups](admin-assign-role-groups.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

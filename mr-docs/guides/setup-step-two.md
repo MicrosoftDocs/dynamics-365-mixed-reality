@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Guides setup, step 2: Install the solution
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 > [!NOTE]
 > Before you complete this step of the setup process, be sure to see step 1, [Buy a subscription or sign up for a free trial](setup-step-one.md).
 
@@ -20,7 +22,7 @@ After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 The type of environment that you create depends on whether you purchased a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license.
 
 > [!NOTE]
-> If you already have an environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), you can skip ahead to the **Install and configure the solution** procedure later on this page.
+> If you already have an environment that you want to use (for example, an environment in your company's Dynamics 365 tenant), you can skip ahead to the **Install and configure the solution** procedure later on this page.
 
 - **If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], [set up a production environment](#set-up-a-production-environment-for-purchased-licenses-only).** A production environment provides you with backup and restore capabilities. 
 
@@ -55,7 +57,7 @@ The type of environment that you create depends on whether you purchased a [!inc
     3. In the **Region** field, keep the default setting.
 
         > [!IMPORTANT]
-        > If you set up a Dataverse environment instance in a different region than your default Azure Active Directory tenant region, the Dynamics 365 Guides model-driven app will not be available to install. If you'd like to set up a Dataverse environment instance in a region other than your default region, you must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
+        > If you set up a Dataverse environment in a different region than your default Microsoft Entra tenant region, the Dynamics 365 Guides model-driven app will not be available to install. If you'd like to set up a Dataverse environment in a region other than your default region, you must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
 
     4. Set the **Create a database for this environment?** option to **Yes**. 
 
@@ -73,7 +75,7 @@ The type of environment that you create depends on whether you purchased a [!inc
     ![Environment preparation message.](media/environment-message.PNG "Environment preparation message")
     
     > [!NOTE]
-    > For information about security groups, see [Restrict access to an instance](admin-security.md).
+    > For information about security groups, see [Restrict access to an environment](admin-security.md).
 
     When the new environment is active, **Ready** appears in the **State** field for the environment. 
 

@@ -10,7 +10,7 @@ ms.reviewer: v-wendysmith
 
 # Add users to Dynamics 365 Guides
 
-To add users to Microsoft Dynamics 365 Guides, you must first assign the Dynamics 365 Guides license to a new or existing user. Then, in the Power Platform admin center, configure the roles that the users will have access to (Author, Operator, or Admin).
+To add additional users to Microsoft Dynamics 365 Guides, you must first assign the Dynamics 365 Guides license to a new or existing user in the Microsoft 365 admin center. Then, in the Power Platform admin center, configure the roles that the users will have access to (Author, Operator, or Admin).
 
 ## Add a new user
 
@@ -36,7 +36,9 @@ After you add user accounts, the next step is to assign the **Author**, **Operat
 
 ## Add a guest user
 
-Anyone who is not part of your organization, but has an Azure Active Directory account, can be added as a guest by a global admin. The user can then access Dynamics 365 Guides content in your organization as an operator. [Learn about adding a guest user in Dynamics 365 Guides](admin-add-guest-user.md)
+Anyone who is not part of your organization, but has a Microsoft Entra account, can be added as a guest by a global admin. The user can then access Dynamics 365 Guides content in your organization as an operator. [Learn about adding a guest user in Dynamics 365 Guides.](../guides/admin-add-guest-user.md)
+
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
 ## Next steps
 
