@@ -45,7 +45,7 @@ Check out these articles and videos:
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of operating a guide](operator-overview.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of analyzing your guides](analytics-guide.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [FAQ](faq.md)
+
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

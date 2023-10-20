@@ -52,6 +52,5 @@ Please contact customer service: [Get support for your Dynamics 365 product](/dy
 
 - [Known issues with the PC app](known-issues-pc-app.md)
 - [Known issues with the HoloLens app](known-issues-hololens-app.md)
-- [Dynamics 365 Guides FAQ](faq.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

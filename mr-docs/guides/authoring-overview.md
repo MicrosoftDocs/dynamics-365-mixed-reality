@@ -43,6 +43,14 @@ In the HoloLens application, if you leave the app, it goes on standby (doesn't c
 
 This message indicates you and another user are editing the same guide on separate devices. The guide is automatically saved on the other device first, then updated on the server. When the current device learns of the update, it reloads the latest version of the guide from the server.
 
+## How do I stream my HoloLens view to a PC using Miracast?
+
+The Connect app for wireless projection using Miracast is no longer installed by default on the PC, but is available as an optional feature. To install the app on the PC, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app. 
+
+The Connect app is automatically installed by default on the HoloLens. To initiate sharing from the HoloLens:
+
+From the OS start menu, select **Cast screen** :::image type="icon" source="media/hololens-cast-screen.png":::.
+
 ## Next steps
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about PC authoring](https://aka.ms/pcauthor)

@@ -102,10 +102,7 @@ You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 
 ## Need help or support?
 
-If you encounter an issue, check out these pages:
-
-- [FAQ](faq.md)
-- [Known Issues](known-issues.md)
+If you encounter an issue, see [known issues](known-issues.md)
 
 If you don't find what you're looking for, [find a list of phone numbers that you can use to contact Support](help.md).
 

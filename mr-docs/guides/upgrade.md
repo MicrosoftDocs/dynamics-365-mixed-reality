@@ -43,9 +43,11 @@ Some releases of Microsoft Dynamics 365 Guides require an update to the Dynamics
    ![Install button to update environment.](media/solution-install-button.PNG "Install button to update environment")  
 
 > [!NOTE]
-> Dynamics 365 Guides is dependent on three Microsoft platforms. [Learn how changes to these platforms can cause or fix issues in Dynamics 365 Guides](faq.md).
->
-> You can also go to the [solution history page to see details about solution installations](/power-apps/maker/data-platform/solution-history).
+> You can go to the [solution history page to see details about solution installations](/power-apps/maker/data-platform/solution-history).
+
+## Microsoft platforms and Guides
+
+[!INCLUDE [microsoft-platforms](../includes/microsoft-platforms-dependency.md)]
 
 ## Next steps
 

@@ -128,6 +128,9 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 2. In the **Install Dynamics 365 Guides** dialog box, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
 
+   > [!NOTE]
+   > If you don't see your environment and you have a valid Guides license, you might have installed Dynamics 365 Guides on a trial environment that has expired. You can go to the  [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
+
     ![Install Dynamics 365 Guides dialog box.](media/solution-install.PNG "Install Dynamics 365 Guides dialog box")
 
     In the Power Platform admin center, the following message is shown: "Dynamics 365 Guides installation started at \<*time*\>, \<*date*\> by \<*name*\> Account."
@@ -158,7 +161,8 @@ If you have trouble with any of the procedures in this step, you can get help in
 
 If the solution installation fails, you can also [go to the solution history page to see details](/power-apps/maker/data-platform/solution-history). 
 
-> [!NOTE]
-> Dynamics 365 Guides is dependent on three Microsoft platforms. [Learn how changes to these platforms can cause or fix issues in Dynamics 365 Guides](faq.md). 
+## Microsoft platforms and Guides
+
+[!INCLUDE [microsoft-platforms](../includes/microsoft-platforms-dependency.md)]
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
