@@ -50,8 +50,9 @@ If you encounter issues while you're upgrading the solution, make sure that you 
 
 You can also go to the [solution history page to see details about solution installations](/power-apps/maker/data-platform/solution-history). 
 
-> [!NOTE]
-> Dynamics 365 Guides is dependent on three Microsoft platforms. [Learn how changes to these platforms can cause or fix issues in Dynamics 365 Guides](faq.md). 
+## Microsoft platforms and Guides
+
+[!INCLUDE [microsoft-platforms](../includes/microsoft-platforms-dependency.md)]
 
 ### "Guide can't be opened" error message
 
