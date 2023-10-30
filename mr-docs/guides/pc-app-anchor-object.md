@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to anchor a guide in Dynamics 365 Guides by using object anchors
 ms.author: alwinv
-ms.date: 10/04/2023
+ms.date: 10/30/2023
 ms.topic: how-to
 title: Anchor a guide in Dynamics 365 Guides by using object anchors
 ms.reviewer: mhart
@@ -41,7 +41,7 @@ Object anchors for Dynamics 365 Guides has the following limitations:
 
 - Dynamics 365 Guides solution version 900.0.0.1 (October 17, 2023) or later
 
-- Dynamics 365 Guides HoloLens app version 900.0.0.1 (October 17, 2023) or later
+- Dynamics 365 Guides HoloLens app version 900.2130.7001.0 (October 17, 2023) or later
 
 - A digital 3D model of your target object. You can start with any 3D model or you can capture the object by using third-party scanning applications.
 
@@ -59,7 +59,7 @@ You can access the **Anchor** wizard from the **Outline** page in the PC app. Th
 1. On the **Choose an anchor method** page, under **Object Anchor**, select **Select**.
 
    > [!NOTE]
-   > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 900.0.0.1 and that you have updated to Dynamics 365 Guides PC app version 900.0.0.1, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to object anchors.
+   > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 900.0.0.1 and that you have updated to Dynamics 365 Guides PC app version 900.2130.7001.0, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to object anchors.
 
 1. To add your 3D model as an object anchor, on the **My files** tab, select **Create**.
 
