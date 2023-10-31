@@ -18,11 +18,11 @@ This article describes details about the **current wave of features (October 202
 
 |Item|Version|
 |------------------------------------------|---------------------------------------------|
-|Remote Assist|1.0.0.545|
+|Remote Assist app|1.0.0.545|
 
 ### Feature
 
-Dynamics 365 Field Service technicians can quickly obtain export support using Remote Assist. Administrators can simply install Remote Assist for Field Service users without the addition of extra licenses.
+Dynamics 365 Field Service technicians can quickly obtain expert support using Remote Assist. Administrators can simply install Remote Assist for Field Service users without extra licenses.
 
 ## Locate your version number
 
