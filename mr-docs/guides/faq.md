@@ -2,7 +2,7 @@
 author: davepinch
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 04/28/2023
+ms.date: 10/31/2023
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -169,6 +169,28 @@ If you're using Dynamics 365 Guides version 7.0 or later and you can’t make a 
 -	The appropriate Microsoft Teams license has not been assigned to you. [Learn more about licensing requirements](requirements.md).
 
 -	You're currently offline and need to reconnect to the internet.
+
+## Copilot in Dynamics 365 Guides
+
+### What is Copilot in Dynamics 365 Guides?
+
+Microsoft Copilot in Dynamics 365 Guides combines the power of generative AI with mixed reality to help frontline workers complete complex tasks and resolve issues faster with less disruption to the flow of work. Now, Copilot can see and hear to assist industrial workers in real-time with speech and holograms.
+
+### How and when is Copilot in Dynamics 365 Guides going to be available?
+
+The Copilot capability in Dynamics 365 Guides is currently in private preview for HoloLens 2. We’ll share more details on public preview and general availability in the future.
+
+### Will the Copilot feature come at an additional cost to a Dynamics 365 Guides or Dynamics 365 Field Service license?
+
+No, it's not a separate product but a feature in Dynamics 365 Guides at no additional cost. If you have a Guides license, you will be able to enable this capability.  
+
+### What capabilities are currently planned for Copilot in Dynamics 365 Guides?  
+
+Read the full blog to learn more about the planned features.
+
+### Can Copilot access information from across the internet?  
+
+No, it only has access to your organization's internal knowledge bases.
 
 ## See also
 
