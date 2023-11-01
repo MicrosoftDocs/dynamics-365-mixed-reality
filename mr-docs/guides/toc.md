@@ -253,6 +253,8 @@
 #### [Maintenance of the qualified and validated status](gxp-guidance/maintenance-of-the-qualified-and-validated-status.md)
 ### [Organizational change management recommendations](gxp-guidance/recommendations-org-change-management.md)
 
+## [Troubleshooting](troubleshoot/dynamics-365/guides/welcome-guides)
+
 ## FAQ, known issues, and support
 ### [Get Help](help.md)
 ### FAQ
