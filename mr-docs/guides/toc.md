@@ -28,6 +28,7 @@
 ### Licenses
 #### [Licensing requirements](requirements.md)
 #### [Set up a device license for multiple operators](device-license.md)
+#### [Device license FAQ](device-license-faq.md)
 ### Users, roles, ownership, and access
 #### [Add users](add-users.md)
 #### Assign user roles
@@ -254,11 +255,14 @@
 
 ## FAQ, known issues, and support
 ### [Get Help](help.md)
-### [FAQ about Guides 8.0 and Dynamics 365 Remote Assist](faq-version-8.md)
+### FAQ
+#### [Guides FAQ](faq.md)
+#### [FAQ about Guides 8.0 and Dynamics 365 Remote Assist](faq-version-8.md)
 ### Known issues
 #### [Affecting both apps](known-issues.md)
 #### [PC app](known-issues-pc-app.md)
 #### [HoloLens app](known-issues-hololens-app.md)
+### [Troubleshooting](/troubleshoot/dynamics-365/guides/welcome-guides)
 ### [Contact Support](get-support.md)
 ### [Submit feedback](submit-feedback.md)
 
