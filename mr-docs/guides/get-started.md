@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn about all the resources available for getting started with Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 10/17/2022
+ms.date: 08/10/2023
 ms.topic: article
 title: Get started with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -11,7 +11,19 @@ ms.collection: get-started
 
 # Get started with Dynamics 365 Guides
 
-Ready to get started with Microsoft Dynamics 365 Guides? Find the learning path below that suits you best. 
+Dynamics 365 Guides includes two applications, which enable authors and operators to use the right device for the right task in their workflows:
+
+- **PC authoring app.** Authors use the PC app to add content and to create and structure their guide. These tasks are fast and efficient on a PC.
+
+- **HoloLens app.** This app includes modes for authoring and operating.
+
+  - **Authors** use the HoloLens app to anchor their guides and place holograms where they belong in the real world.
+
+  - **Operators** use the HoloLens app to access the step-by-step holographic work instructions. Operators never need to use the PC app.
+
+If you plan to author guides, you'll need to use both apps. If not, you'll only need the HoloLens app.
+
+To get started, select the learning path below that suits you best.
 
 ## Get started with guide authoring
 
@@ -45,7 +57,7 @@ If you're ready to get started with Teams collaboration features, check out the 
 - [Annotations](calling-annotations.md)
 - [View and access stored call data](call-logging.md)
 - [Learn about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
-- [Read the FAQ about Dynamics 365 Guides 8.0 and migration from Dynamics 365 Remote Assist](faq-version-8.md)
+- [Read the FAQ about Dynamics 365 Guides 8.0 and migration from Dynamics 365 Remote Assist](faq.md#dynamics-365-guides-80-and-dynamics-365-remote-assist-faq)
 
 ## Demo
 
@@ -90,10 +102,7 @@ You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 
 ## Need help or support?
 
-If you encounter an issue, check out these pages:
-
-- [FAQ](faq.md)
-- [Known Issues](known-issues.md)
+If you encounter an issue, see [known issues](known-issues.md)
 
 If you don't find what you're looking for, [find a list of phone numbers that you can use to contact Support](help.md).
 

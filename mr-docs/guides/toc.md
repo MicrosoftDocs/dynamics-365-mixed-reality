@@ -28,6 +28,7 @@
 ### Licenses
 #### [Licensing requirements](requirements.md)
 #### [Set up a device license for multiple operators](device-license.md)
+#### [Device license FAQ](device-license-faq.md)
 ### Users, roles, ownership, and access
 #### [Add users](add-users.md)
 #### Assign user roles
@@ -61,7 +62,6 @@
 ### Move content between environments
 #### [Export/import folder structure](admin-export-import-folders.md)
 #### [Move content](migrate.md)
-#### [Troubleshoot moving content](migrate-troubleshoot.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
 
 ## Install the HoloLens and PC apps
@@ -255,16 +255,13 @@
 
 ## FAQ, known issues, and support
 ### [Get Help](help.md)
-### FAQ
-#### [FAQ](faq.md)
-#### [Dynamics 365 Guides 8.0  and Dynamics 365 Remote Assist](faq-version-8.md)
+### [FAQ](faq.md)
 ### Known issues
 #### [Affecting both apps](known-issues.md)
 #### [PC app](known-issues-pc-app.md)
 #### [HoloLens app](known-issues-hololens-app.md)
-### Troubleshooting
-#### [Convert a 3D model into an object anchor fails](anchors-3d-model-conversion-fails.md)
-#### [Detect an object anchor on HoloLens fails](anchors-object-anchor-fails.md)
+### [Troubleshooting](/troubleshoot/dynamics-365/guides/welcome-guides)
+### [Contact Support](get-support.md)
 ### [Submit feedback](submit-feedback.md)
 
 

@@ -3,7 +3,7 @@ title: About the Author and Operator user roles in Dynamics 365 Guides
 description: Learn about the Author, Operator, Restricted Author, and Restricted Operator user roles in Dynamics 365 Guides
 author:  davepinch
 ms.topic: article
-ms.date: 11/08/2021
+ms.date: 02/01/2023
 ms.author: davepinch
 ms.reviewer: v-wendysmith
 ---
@@ -12,9 +12,7 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and 
-Restricted Operator roles provide an extra layer of control by limiting access to guides. Users who are assigned the Restricted Author and Restricted Operator roles 
-**do not** inherit access to any guides or guide content (3D models, images, or videos) created in the environments that they are permitted to access. 
+If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and Restricted Operator roles provide an extra layer of control by limiting access to guides. Users who are assigned the Restricted Author and Restricted Operator roles **do not** inherit access to any guides or guide content (3D models, images, or videos) created in the environments that they are permitted to access. 
 
 The following table describes the privileges that each role grants.
 
@@ -30,12 +28,12 @@ See the following links for more information:
 
 |Area|Link|
 |------------------------------------------------------------|-------------------------------------------------------------------------|
-|Restricted Author and Restricted Operator roles in access teams|[Share a guide or guide content in Dynamics 365 Guides by using an access team](admin-access-teams.md#assign-a-restricted-security-role)|
+|Dynamics 365 Guides Restricted Author and Restricted Operator roles in access teams|[Share a guide or guide content in Dynamics 365 Guides by using an access team](admin-access-teams.md#assign-a-restricted-security-role)|
 |System roles in Power Platform|[System and application users](/power-platform/admin/system-application-users)|
 |Object Anchor service|[Object Anchors Service](https://azure.microsoft.com/services/object-anchors/)|
 
 > [!IMPORTANT]
-> If you followed the instructions in the [Try or buy, and deploy Dynamics 365 Guides](setup-step-one.md) topic when you set up Dynamics 365 Guides, any users that you added were automatically assigned the **Author** role. You must explicitly assign the **Operator** role to specific users if you don't want them to have **Author** role privileges.
+> If you followed the instructions in the [Try or buy, and deploy Dynamics 365 Guides](setup-step-one.md) topic when you set up Dynamics 365 Guides, any users that you added were automatically assigned the **Dynamics 365 Guides Author** role. You must explicitly assign the **Dynamics 365 Guides Operator** role to specific users if you don't want them to have **Author** role privileges.
 
 ## See also
 

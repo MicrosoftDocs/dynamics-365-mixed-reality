@@ -16,10 +16,6 @@ ms.reviewer: v-wendysmith
 
 Here are some answers to common questions about deploying Dynamics 365 Remote Assist on HoloLens, HoloLens 2, and mobile devices.
 
-## What are the technical requirements for deploying Dynamics 365 Remote Assist?
-
-[Learn about technical requirements](requirements.md)
-
 ## Which Microsoft platforms is Dynamics 365 Remote Assist dependent on?
  
 Dynamics 365 Remote Assist is dependent on three Microsoft platforms:
@@ -55,12 +51,6 @@ Dynamics 365 Remote Assist mobile supports Azure Conditional Access policies thr
 > [!NOTE]
 > Conditional Access policies do not apply to Dynamics 365 Remote Assist on HoloLens.
 
-## How do I enable map visualization on the Dynamics 365 Remote Assist Calls Dashboard?
-
-Map visualization is available in all regions except Europe. To enable map visualization, you must [enable the Power BI Azure Maps visual](/azure/azure-maps/power-bi-visual-manage-access#tenant-admin-options). 
-
-[Learn more about the Calls Dashboard](calls-dashboard.md).
-
 ## Can I use Dynamics 365 Remote Assist to collaborate with a Microsoft Teams user outside my tenant, or vice versa?
 
 Yes. Learn how to [set up multi-tenant company deployments](multi-tenant-deployment.md), [enable vendors and contractors to use Remote Assist](vendor-use-ra.md), or [enable vendors and contractors to use Teams](vendor-use-teams.md).
@@ -77,8 +67,5 @@ Yes. Anyone that can sign in and use the Teams application on a Windows 10 PC or
 
 No.  Dynamics 365 Remote Assist licenses must be assigned to a Microsoft Entra account created in the tenant where Dynamics 365 Remote Assist will be used.
 
-## How do I file a support ticket?
-
-If you encounter an issue that blocks you from using the application and you don't see an answer on our user forum, please file a support ticket. Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](/dynamics365/get-started/support/).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

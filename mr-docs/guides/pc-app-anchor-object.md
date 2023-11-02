@@ -108,7 +108,7 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
     The **Conversion Status** field shows the status. You can also select **Refresh** to refresh the page status. During the conversion, you can create other object anchors or go back to the PC app to edit your guide.
 
-1. When the conversion is done, “Succeeded” appears in the **Conversion Status** field. If the conversion fails, see [conversion errors](anchors-3d-model-conversion-fails.md).
+1. When the conversion is done, “Succeeded” appears in the **Conversion Status** field.
 
 Go back to the Anchor wizard in the PC app to assign the object anchor to the guide. Or, assign a thumbnail to the object anchor.
 
