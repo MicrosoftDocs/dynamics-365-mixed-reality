@@ -46,6 +46,11 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/guides/faq-version-8.md",
+      "redirect_url": "faq",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/legal/guides-preview.md",
       "redirect_url": "https://go.microsoft.com/fwlink/?linkid=2104709",
       "redirect_document_id": "false"

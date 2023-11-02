@@ -257,9 +257,7 @@
 
 ## FAQ, known issues, and support
 ### [Get Help](help.md)
-### FAQ
-#### [Guides FAQ](faq.md)
-#### [FAQ about Guides 8.0 and Dynamics 365 Remote Assist](faq-version-8.md)
+### [FAQ](faq.md)
 ### Known issues
 #### [Affecting both apps](known-issues.md)
 #### [PC app](known-issues-pc-app.md)
