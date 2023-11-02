@@ -14,15 +14,13 @@ ms.reviewer: v-wendysmith
 
 This article describes details about the **current wave of features (October 2023 through March 2024)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
-## November 15, 2023
+## November 01, 2023
 
 |Item|Version|
 |------------------------------------------|---------------------------------------------|
 |Remote Assist app|1.0.0.545|
 
-### Feature
-
-Dynamics 365 Field Service technicians can quickly obtain expert support using Remote Assist. Administrators can simply install Remote Assist for Field Service users without extra licenses.
+This version includes minor fixes and improvements.
 
 ## Locate your version number
 

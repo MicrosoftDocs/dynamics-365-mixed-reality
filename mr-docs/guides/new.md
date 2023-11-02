@@ -19,20 +19,19 @@ This page provides details about the latest release in the **current wave of fea
 
 If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
-## November 15, 2023
+## November 01, 2023
 
 |Item|Version|
 |-------------------------|--------------------------------|
 |Solution| 900.0.1.1 |
+
+This solution version includes minor fixes and improvements.
 
 > [!IMPORTANT]
 > Guides Dataverse solution version 900.0.1.1 is compatible with Guides 800 solutions. If you updated to the 900.0.0.1 solution and updated the PC and HoloLens apps, you just need to update to the new 900.0.1.1 solution. Guides 901.x, scheduled to be released in December 2023, is a foundational change and won't be compatible with Guides 800 solutions. If you choose not to update the solution and remain on the version 800 solution and compatible versions of the PC and HoloLens apps, there's no impact.
 >
 > Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md).
 
-### Feature
-
-Dynamics 365 Field Service users can attach guides to Field Service tasks. Administrators can simply install Guides for Field Service users without extra licenses.
 
 ## October 17, 2023
 
