@@ -28,10 +28,9 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 This solution version includes minor fixes and improvements.
 
 > [!IMPORTANT]
-> Guides Dataverse solution version 900.0.1.1 is compatible with Guides 800 solutions. If you updated to the 900.0.0.1 solution and updated the PC and HoloLens apps, you just need to update to the new 900.0.1.1 solution. Guides 901.x, scheduled to be released in December 2023, is a foundational change and won't be compatible with Guides 800 solutions. If you choose not to update the solution and remain on the version 800 solution and compatible versions of the PC and HoloLens apps, there's no impact.
+> If you updated to the Guides Dataverse solution version 900.0.0.1 and updated the PC and HoloLens apps, you just need to update to the new 900.0.1.1 solution. If you chose not to update to the 900 solution and remain on the 800 version solution and compatible versions of the PC and HoloLens apps, there's no impact.
 >
 > Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md).
-
 
 ## October 17, 2023
 
@@ -42,7 +41,7 @@ This solution version includes minor fixes and improvements.
 |Solution| 900.0.0.1 |
 
 > [!IMPORTANT]
-> Guides Dataverse solution version 900.0.0.1 is compatible with Guides 800 solutions. If you update to the 900 solution, update the PC and HoloLens apps. Guides 901.x, scheduled to be released in December 2023, is a foundational change and won't be compatible with Guides 800 solutions. If you choose not to update the solution and remain on the version 800 solution and compatible versions of the PC and HoloLens apps, there's no impact.
+> Guides Dataverse solution version 900.0.0.1 is a mandatory update for key features in upcoming Dynamics 365 Guides releases. To update to the 900 solution, update the solution and the PC and HoloLens apps. Guides 901.x, scheduled to be released in December 2023, won't be compatible with Guides 800 solutions. If you choose not to update to the 900 solution and remain on the version 800 solution and compatible versions of the PC and HoloLens apps, there's no impact.
 >
 > Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md).
 
