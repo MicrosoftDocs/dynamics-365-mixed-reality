@@ -10,15 +10,18 @@ ms.reviewer: v-wendysmith
 
 # Device and licensing requirements for Dynamics 365 Guides
 
-[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+## Supported country/region and languages
+
+Determine if Dynamics 365 Guides is available in your country/region and your language:
+
+- For language, see [product availability by language](https://dynamics.microsoft.com/en-us/availability-reports/languagereport/). Dynamics 365 Guides is listed in the hierarchy under **Dynamics 365**>**Operations Apps**.
+
+- For country/region, see [Geographical availability for Power Apps](https://dynamics.microsoft.com/availability-reports/georeport/). Filter the view by **Dynamics 365** > **Operations Apps**, and then scroll the table to see Dynamics 365 Guides availability.
+
+## Device requirements
 
 The following table lists technical requirements for deploying and using Dynamics 365 Guides throughout your organization.
 
-> [!Note] 
-> Dynamics 365 Guides might not be available in your country/region. For more information, see [Dynamics 365 Guides availability](faq.md) and
-> [Geographical availability for Power Apps](https://dynamics.microsoft.com/availability-reports/georeport/) (filter the view by **Dynamics 365** > **Operations Apps**, and then scroll the table to see Dynamics 365 Guides availability).
-
-## Device requirements
 | Device | Platform | Operating system requirements | Details |
 |---|---|---|---|
 | Microsoft HoloLens | x86, ARM | Build 10.0.17134 or later.<p>HoloLens build 10.0.17134 is the earliest build that supports Dynamics 365 Guides. We recommend that you update HoloLens to newer versions when they become available.</p> | For information about how to use Windows Update for Business, Mobile Device Management, and Windows Server Update Services (WSUS), see [Manage updates to HoloLens](/HoloLens/hololens-updates).<p>**Note:** HoloLens includes the Microsoft Edge browser. You can't use Internet Explorer with HoloLens.</p> |

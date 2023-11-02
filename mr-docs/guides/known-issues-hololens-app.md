@@ -56,7 +56,5 @@ The PC app video may appear to be blurry when an author previews a video in the 
 
 - [Known issues with Dynamics 365 Guides generally](known-issues.md)
 - [Known issues with the PC app](known-issues-pc-app.md)
-- [Dynamics 365 Guides FAQ](faq.md)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

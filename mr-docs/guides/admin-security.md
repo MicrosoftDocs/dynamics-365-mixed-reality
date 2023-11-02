@@ -27,7 +27,7 @@ Each environment can have just one security group. For example, you could create
 
 ## See also
 
-- [Control user access to environments: security groups and licenses](/power-platform/admin/control-user-access)
+- [Control user access to instances: security groups and licenses](/dynamics365/admin/add-instance-subscription#control-user-access-to-instances-security-groups-and-licenses)
 
 - [Add several users at the same time](/office365/enterprise/add-several-users-at-the-same-time)
 
