@@ -3,7 +3,7 @@ title: Version history for Microsoft Dynamics 365 Remote Assist
 author: davepinch
 description: Find version history for earlier versions of Microsoft Dynamics Remote Assist, including a list of fixed bugs for each version.
 ms.author: davepinch
-ms.date: 10/20/2022
+ms.date: 10/31/2023
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -13,6 +13,64 @@ ms.reviewer: v-wendysmith
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the **most recent wave of features**, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+
+## 2022 Release Wave 2
+
+## December 21, 2022
+
+### Bug fixed
+
+- Fixed an issue where audio was not correctly directed to Bluetooth headsets during a call
+
+The following app version includes the above bug fix.
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|313.2212.21002.0|
+
+## December 13, 2022
+
+### Bug fixed
+
+- Fixed an issue causing the HoloLens app to unexpectedly shut down for EU customers
+
+The following app version includes the above bug fix.
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|312.2212.08003.0|
+
+## November 2, 2022
+
+### Bugs fixed
+
+- Improved contact search and asset search
+- Fixed some meetings missing from calendar view
+- Security and privacy updates
+- Improved app stability
+
+The following app versions include the above bug fixes.
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2 app|311.2210.26003.0|
+
+## October 26, 2022
+
+### Bugs fixed
+
+#### Mobile
+
+- Fixed fonts not displaying correctly
+- Fixed intermittent crash when accepting some calls
+- Improved app accessibility and stability
+
+The following app versions include the above bug fixes.
+
+|Device|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2022.10.26|
+|Android mobile app|2022.10.26|
 
 ## 2022 Release Wave 1
 

@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: davepinch
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: davepinch
-ms.date: 12/21/2022
+ms.date: 10/31/2023
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -12,66 +12,15 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-This article describes details about the **current wave of features (October 2022 through April 2023)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
+This article describes details about the **current wave of features (October 2023 through March 2024)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
 
-## December 21, 2022
+## November 01, 2023
 
-### Bug fixed
-
-- Fixed an issue where audio was not correctly directed to Bluetooth headsets during a call
-
-The following app version includes the above bug fix.
-
-|Device|Version|
+|Item|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|313.2212.21002.0|
+|Remote Assist app|1.0.0.545|
 
-## December 13, 2022
-
-### Bug fixed
-
-- Fixed an issue causing the HoloLens app to unexpectedly shut down for EU customers
-
-The following app version includes the above bug fix.
-
-|Device|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|312.2212.08003.0|
-
-## November 2, 2022
-
-### Bugs fixed
-
-- Improved contact search and asset search
-- Fixed some meetings missing from calendar view
-- Security and privacy updates
-- Improved app stability
-
-The following app versions include the above bug fixes.
-
-|Device|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 2 app|311.2210.26003.0|
-
-## October 26, 2022
-
-### Bugs fixed
-
-#### Mobile
-
-- Fixed fonts not displaying correctly
-- Fixed intermittent crash when accepting some calls
-- Improved app accessibility and stability
-
-The following app versions include the above bug fixes.
-
-|Device|Version|
-|------------------------------------------|---------------------------------------------|
-|iOS mobile app|2022.10.26|
-|Android mobile app|2022.10.26|
-
-> [!TIP]
-> Looking for a list of features from earlier waves? Go to [Version history for Dynamics 365 Remote Assist](version-history.md).
+This version includes minor fixes and improvements.
 
 ## Locate your version number
 
