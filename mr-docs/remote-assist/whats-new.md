@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: davepinch
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: davepinch
-ms.date: 10/31/2023
+ms.date: 11/07/2023
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -17,10 +17,10 @@ This article describes details about the **current wave of features (October 202
 ## November 01, 2023
 
 |Item|Version|
-|------------------------------------------|---------------------------------------------|
-|Remote Assist app|1.0.0.545|
+|----|-------|
+|Remote Assist model-driven app | 1.0.0.545|
 
-This version includes minor fixes and improvements.
+This version includes minor fixes and improvements. Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
 
 ## Locate your version number
 
