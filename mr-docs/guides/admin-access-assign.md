@@ -18,11 +18,11 @@ You can assign ownership to a folder or guide through the model-driven app. For 
 When an Author or Admin change the owner of a folder, any guides, subfolders, and assets within that folder are assigned to that owner. This allows you to easily manage access for a group of related guides and assets.
 
 > [!NOTE]
-> By default, Authors and Restricted authors have access to all assets (3D parts, images, videos, and object anchors). Although not recommended, admins can restrict access by creating a new security role. See [Restrict access to assets.](admin-restrict-access-assets.md) 
+> By default, Authors and Restricted authors have access to all assets (3D parts, images, videos, and object anchors). Although not recommended, admins can restrict access by creating a new security role. See [Restrict access to assets.](admin-restrict-access-assets.md)
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-1. In the left pane, select **Folders** to view the list of folders in the instance.
+1. In the left pane, select **Folders** to view the list of folders in the environment.
 
 1. Select the desired folder, and then at the top of the screen, select **Assign** to display the folder information.
 
@@ -64,7 +64,7 @@ Change the owner of a guide to a user or an owner team.
 ## Next steps
 
 - [Assign an Operator or Author role to an individual user](assign-role.md)
-- [Assign roles in bulk by using Active Directory groups](admin-assign-role-groups.md)
+- [Assign roles in bulk by using Microsoft Entra groups](admin-assign-role-groups.md)
 - [Restrict access to an environment by using security groups](admin-security.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

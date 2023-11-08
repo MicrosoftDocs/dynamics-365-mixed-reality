@@ -3,7 +3,7 @@ title: Set up an environment and install the Microsoft Dynamics 365 Remote Assis
 author: davepinch
 description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
 ms.author: davepinch
-ms.date: 07/12/2022
+ms.date: 09/26/2022
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -88,7 +88,7 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
     2. In the **Automatically deploy these apps** list, select **Remote Assist**.
 
-    3. Select **Save**. This will create an environment and automatically install the Dynamics 365 Remote Assist app. If you encounter an issue, see [the troubleshooting](#troubleshooting) section in this article.
+    3. Select **Save**. This will create an environment and automatically install the Dynamics 365 Remote Assist app.
 
     :::image type="content" source="media/PPAC_Environment_Enable_D365_apps.png" alt-text="Screenshot of a new environment with enable Dynamics 365 apps.":::
 
@@ -113,7 +113,7 @@ More information: [Create and manage environments in the Power Platform admin ce
 
 ## Update the model-driven app to the latest version
 
-As new versions of the Dynamics 365 Remote Assist model-driven app are released, you  update the app by following the steps below to ensure that the latest features are available.
+As new versions of the Dynamics 365 Remote Assist model-driven app are released, update the app by following the steps below to ensure that the latest features are available.
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 
@@ -134,28 +134,6 @@ As new versions of the Dynamics 365 Remote Assist model-driven app are released,
 You've installed the Dynamics 365 Remote Assist app! You can get to the app by opening the environment and selecting the Dynamics 365 Remote Assist app. More information: [About Unified Interface for model-driven apps in Power Apps](/power-platform/admin/about-unified-interface)
 
 The next step is to [add users to the model-driven app](asset-capture-add-users.md) so they can interact with data in the Dataverse.
-
-## Troubleshooting
-
-### The Dynamics 365 Remote Assist model-driven app failed to install because of missing dependencies
-
-This will occur if you try to install Dynamics 365 Remote Assist in an environment that isn't enabled for Dynamics 365 apps. Try installing the app in an environment where other Dynamics 365 apps&mdash;such as Dynamics 365 Field Service or Dynamics 365 Sales&mdash;are installed, or create a new environment that's enabled for Dynamics 365 apps. More information: [Create a new environment](#install-the-dynamics-365-remote-assist-model-driven-app)
-
-### Can't enable Dynamics 365 apps
-
-If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch when you create an environment, ensure that you have an active Dynamics 365 Remote Assist subscription. You can view your subscriptions in the [Microsoft 365 admin center](https://admin.microsoft.com/).
-
-### Not enough capacity to create environments
-
-Environment creation requires at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide a default tenant entitlement of 10 GB of database capacity (if Dynamics 365 Remote Assist was your first Dynamics 365 subscription). More information: [New Dataverse storage capacity](/power-platform/admin/capacity-storage)
-
-### The Dynamics 365 Remote Assist app isn't showing up in the Power Platform admin center
-
-1. Check to ensure that you have an active Dynamics 365 Remote Assist subscription.
-
-2. Try assigning a Dynamics 365 Remote Assist license to your account from the [Microsoft 365 admin center](https://admin.microsoft.com) to force a license sync to occur. Wait five minutes, and then see whether the app appears in the [Power Platform admin center](https://admin.powerplatform.com).
-
-3. If the steps above don't resolve the issue, file a support request by going to the [Power Platform admin center](https://admin.powerplatform.com) > **Help + support** > **New support request**.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

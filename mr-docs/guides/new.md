@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: davepinch
-ms.date: 08/30/2023
+ms.date: 11/03/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -15,71 +15,57 @@ ms.custom: bap-template
 
 # What's new in Dynamics 365 Guides
 
-This page provides details about the latest release in the **current wave of features (April 2023 through September 2023)** for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
+This page provides details about the latest release in the **current wave of features (October 2023 through March 2024)** for Microsoft Dynamics 365 Guides, organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
-If you have feature requests or suggested improvements, send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
-## August 30, 2023
-
-Version 806.2308.25001.0 fixes a performance issue in the PC and HoloLens apps.
-
-## August 9, 2023
+## November 06, 2023
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 806.2308.3001.0 |
-|HoloLens app (HoloLens 2 only)| 806.2308.3001.0 |
-|Solution| 800.6.0.1  |
+|PC app| 900.2311.2001.0 |
+|HoloLens app (HoloLens 2 only)| 900.2311.2001.0  |
+|Solution| 900.0.1.1 |
 
-### Features
+Version 900.2311.2001.0 fixes a performance issue in the PC and HoloLens apps.
 
-- Quickly visualize the impact of calling to your organization with the new <a href="/dynamics365/mixed-reality/guides/calls-dashboard-guides" target="blank">Calls Dashboard.</a>
-- Simplify <a href="/dynamics365/mixed-reality/guides/admin-content-mgmt" target="_blank">content management </a>and permissions by storing your 3D models, videos, and images in the same folders as guides.
+> [!IMPORTANT]
+> If you updated to the Guides Dataverse solution version 900.0.1.1, you just need to update to the new  PC and HoloLens apps versions. If you chose not to update to the 900 solution and remain on the 800 version solution and compatible versions of the PC and HoloLens apps, there's no impact.
+>
+> Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md).
 
-## July 5, 2023
-
-Version 805.2306.27001.0 fixes a performance issue in the HoloLens app.
-
-## June 13, 2023
+## November 01, 2023
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 805.2306.6001.0 |
-|HoloLens app (HoloLens 2 only)| 805.2306.6001.0 |
-|Solution| 800.5.0.1  |
+|Solution| 900.0.1.1 |
 
-### Feature
+This solution version includes minor fixes and improvements.
 
-- HoloLens operators can <a href="/dynamics365/mixed-reality/guides/calling-photos" target="_blank">share photos from their device library</a> directly with Teams users in chat.
+> [!IMPORTANT]
+> If you updated to the Guides Dataverse solution version 900.0.0.1 and updated the PC and HoloLens apps, you just need to update to the new 900.0.1.1 solution. If you chose not to update to the 900 solution and remain on the 800 version solution and compatible versions of the PC and HoloLens apps, there's no impact.
+>
+> Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md).
 
-## May 2, 2023
-
-|Item|Version|
-|-------------------------|--------------------------------|
-|PC app| 804.2304.21001.0 |
-|HoloLens app (HoloLens 2 only)| 804.2304.21001.0 |
-|Solution| 800.4.0.1  |
-
-### Features
-
-- Guides users can <a href="/dynamics365/mixed-reality/guides/calling-start-call#receive-a-call" target="_blank">receive incoming calls</a> to join one-to-one calls, group calls, or meetings on HoloLens.
-- Users can use <a href="/dynamics365/mixed-reality/guides/hololens-app-styles" target="_blank">obscure and pass-through styles</a> on holograms to show or obscure real-world objects during a call or video recording.
-- Authors can make <a href="/dynamics365/mixed-reality/guides/hololens-app-interact-3d" target="_blank">3D objects interactable</a> for operators to move, scale, and rotate to enhance their learning experience through close inspection.
-
-## April 4, 2023
+## October 17, 2023
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|803.2303.23001 |
-|HoloLens app (HoloLens 2 only)|803.2303.23001 |
-|Solution|800.3.0.1 |
+|PC app| 900.2130.7001.0 |
+|HoloLens app (HoloLens 2 only)| 900.2130.7001.0 |
+|Solution| 900.0.0.1 |
+
+> [!IMPORTANT]
+> Guides Dataverse solution version 900.0.0.1 is a mandatory update for key features in upcoming Dynamics 365 Guides releases. To update to the 900 solution, update the solution and the PC and HoloLens apps. Guides 901.x, scheduled to be released in December 2023, won't be compatible with Guides 800 solutions. If you choose not to update to the 900 solution and remain on the version 800 solution and compatible versions of the PC and HoloLens apps, there's no impact.
+>
+> Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md).
 
 ### Bugs fixed and other improvements
 
-- Significantly improved reliability to remote linking and the ability for HoloLens operators to draw directly in their vicinity with <a href="/dynamics365/mixed-reality/guides/calling-annotations" target="_blank">direct inking</a>.
-- Added the ability for users to toggle their camera off before joining a Teams HoloLens meeting or making an outgoing call.
-- Added badges on the participant tiles for <a href="/microsoftteams/communicate-with-users-from-other-organizations" target="_blank">Guest and External participants</a> wherever contacts are shown such as in meetings, in a call, or in a contact search.
-- Added linking for Authors to <a href="/dynamics365/mixed-reality/guides/pc-app-website-powerapps-link" target="_blank">link to another guide or open a custom app on a guide step</a>.
+- For organizations with multiple environments, quickly <a href="/dynamics365/mixed-reality/guides/switch-environment" target="blank">switch environments.</a>
+- <a href="/dynamics365/mixed-reality/guides/package-a-guide" target="blank">Package a guide</a> to create a self-contained, read-only file.
+- <a href="/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object" target="blank">Anchor guides with object anchors</a> is generally available (GA).
+- Fixed an issue where Teams mobile users couldn't view or download photos shared by HoloLens users
 
 ## Earlier releases
 

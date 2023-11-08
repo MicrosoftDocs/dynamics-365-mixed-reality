@@ -33,5 +33,5 @@ The Dynamics 365 Guides 8.0 and later releases include many of the Microsoft Tea
 
 ## Next steps
 
-- [FAQ](faq-version-8.md)
+- [FAQ](faq.md#dynamics-365-guides-80-and-dynamics-365-remote-assist-faq)
 - [Guides 8.0 features](version-history.md#october-17-2022)

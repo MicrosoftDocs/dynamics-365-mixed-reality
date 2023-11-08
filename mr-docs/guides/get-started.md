@@ -61,7 +61,7 @@ If you're ready to get started with Teams collaboration features, check out the 
 - [Annotations](calling-annotations.md)
 - [View and access stored call data](call-logging.md)
 - [Learn about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md)
-- [Read the FAQ about Dynamics 365 Guides 8.0 and migration from Dynamics 365 Remote Assist](faq-version-8.md)
+- [Read the FAQ about Dynamics 365 Guides 8.0 and migration from Dynamics 365 Remote Assist](faq.md#dynamics-365-guides-80-and-dynamics-365-remote-assist-faq)
 
 ## Integrations with other Dynamics 365 products
 

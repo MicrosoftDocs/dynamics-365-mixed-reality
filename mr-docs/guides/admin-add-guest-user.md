@@ -10,11 +10,13 @@ ms.reviewer: v-wendysmith
 
 # Invite a guest user to operate a guide in Dynamics 365 Guides
 
-Anyone who is not part of a Microsoft Dynamics 365 Guides organization, but has an Azure Active Directory account, can be added as a guest user by a global admin. The user can then access Dynamics 365 Guides content in that organization **as an operator.** A "guest" is defined as someone who doesn't have a school or work account with the organization. For example, a guest could be a partner, vendor, supplier, or consultant. 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
+Anyone who is not part of a Microsoft Dynamics 365 Guides organization, but has a Microsoft Entra account, can be added as a guest user by a global admin. The user can then access Dynamics 365 Guides content in that organization **as an operator.** A "guest" is defined as someone who doesn't have a school or work account with the organization. For example, a guest could be a partner, vendor, supplier, or consultant. 
 
 ## Invite a guest
 
-To add a guest user, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Azure Active Directory](/microsoft-365/admin/add-users/about-guest-users).
+To add a guest user, you [invite them as a guest to Microsoft Teams, or create a guest account for them in Microsoft Entra admin center](/azure/active-directory/fundamentals/add-users#add-a-new-guest-user).
 
 When a guest is invited to join an organization, they receive a welcome email message. This message includes some information about the organization and what to expect as a member. The guest must accept the invitation by selecting **Accept Invitation** in the email message before they can access the organization and the organization's guides.
 
@@ -35,11 +37,11 @@ When a user joins an organization as a guest, a **(Guest)** label appears next t
 
 - Guest users cannot record calls in the HoloLens app.
 
-- Anyone with a consumer email account (for example, an Outlook.com or Gmail.com account) can be a guest user in Azure Active Directory, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
+- Anyone with a consumer email account (for example, an Outlook.com or Gmail.com account) can be a guest user in Microsoft Entra, but users with these types of email accounts are not supported as guest users in Dynamics 365 Guides. 
 
 ## Restrict guests from searching when making calls in Dynamics 365 Guides
 
-Some organizations might want to restrict guest access to prevent guests from starting a chat or a call by searching for a user in the directory. This restriction is controlled in the **External collaboration settings** section of the Azure Active Directory admin center. For details, see [Restrict guest access permissions in Azure Active Directory](/azure/active-directory/enterprise-users/users-restrict-guest-permissions).
+Some organizations might want to restrict guest access to prevent guests from starting a chat or a call by searching for a user in the directory. This restriction is controlled in the **External collaboration settings** section of the Microsoft Entra admin center. For details, see [Restrict guest access permissions in Microsoft Entra ID](/azure/active-directory/enterprise-users/users-restrict-guest-permissions).
 
 - To restrict guest users from searching for a user in your organization, in the **Guest user access** section, select the **Guest users have limited access to properties and memberships of directory objects** option.
 
@@ -49,7 +51,7 @@ Some organizations might want to restrict guest access to prevent guests from st
 
 Dynamics 365 Guides is a Microsoft Teams client. Dynamics 365 Guides calling is based on Teams. Guest user capabilities in Dynamics 365 Guides also match those available in Teams. Global admins control guest user access for the calling features available to an organization's guests by assigning or removing a Team's license for the guest user. For more information, see [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations). This article includes a [table that compares Teams functionality available for an organization's team members and its guests](/microsoftteams/communicate-with-users-from-other-organizations#external-access-external-chat-and-meetings). See also [Collaborate with guests in a team](/microsoft-365/solutions/collaborate-as-team).
 
-The **Guest user access restrictions** policy in Azure Active Directory determines permissions for guests in your directory. The following table describes the three policy options.
+The **Guest user access restrictions** policy in Microsoft Entra ID determines permissions for guests in your directory. The following table describes the three policy options.
 
 |Policy option|Description|
 |-------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -57,7 +59,7 @@ The **Guest user access restrictions** policy in Azure Active Directory determin
 |**Guest users have limited access to properties and membership of directory objects**|Guests don't have permissions for certain directory tasks, such as enumerating users, groups, or other directory resources using Microsoft Graph.|
 |**Guest user access is restricted to properties and memberships of their own directory objects (most restrictive)**|Guests can only access their own directory objects.|
 
-To learn more, see [What are the default user permissions in Azure Active Directory?](/azure/active-directory/fundamentals/users-default-permissions)
+To learn more, see [What are the default user permissions in Microsoft Entra ID?](/azure/active-directory/fundamentals/users-default-permissions)
 
 See also [Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md).
 

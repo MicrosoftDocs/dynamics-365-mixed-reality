@@ -16,10 +16,10 @@ You can set up [Guides Analytics Power BI reports](analytics-guide.md) for Micro
 > Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). Talk to your admin if you don't have permission 
 to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer. <br><br>The latest Guides Analytics Power BI report templates require Guides solution version 500.3.1.2 or later. If you have an earlier solution version, you can [download the previous version of Guides Analytics Power BI report templates](https://www.microsoft.com/en-us/download/details.aspx?id=102670).
 
-1.	In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app, select the **Analyze** tab, copy the highlighted Instance URL text, and then 
+1.	In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app, select the **Analyze** tab, copy the highlighted Environment URL text, and then 
 select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
    
-    ![Analyze tab.](media/get-started-analytics.PNG "Analyze tab")      
+    ![Analyze tab.](media/copy-environment-url.png "Analyze tab")      
  
 2.	In the [!include[cc-microsoft](../includes/cc-microsoft.md)] Download Center, select **Download**. 
 
@@ -40,9 +40,7 @@ select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guid
 3.	Open the downloaded Guides Analytics Template.pbit file with [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop. Use your 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password if you're prompted to sign in to [!include[pn-power-bi](../includes/pn-power-bi.md)].  
  
-4.	When prompted, paste the Instance URL into the text box as shown here. This is the same Instance URL you copied from the **Analyze** tab in the PC authoring app in step 1. 
-
-     ![Guides Analytics template.](media/guides-analytics-template.PNG "Guides Analytics template")
+4.	When prompted, paste the Environment URL into the text box. This is the same Environment URL you copied from the **Analyze** tab in the PC authoring app in step 1. 
  
      You might see the following error message saying you aren't signed in: 
   

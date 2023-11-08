@@ -11,11 +11,13 @@ ms.custom: bap-template
 
 # Manage Teams policies supported by Dynamics 365 Guides
 
-Microsoft Dynamics 365 Guides supports the following Microsoft Teams policies and capabilities:
+Dynamics 365 Guides supports the following Microsoft Teams policies and capabilities. One-to-one policies also apply to group calls.
 
 - **Recording policy.** Turn off recordings for meetings and one-to-one calls.
 - **Chat policy.** Turn off the ability to chat in meetings and one-to-one calls.
 - **Video policy.** Remove ability to share video calls (calls are audio only).
+
+A policy applies only to users or groups, not a device or an app. If a policy is changed while a user is signed in, the policy changes won't apply until they sign out and back in.
 
 ## Turn off the ability to record calls
 
@@ -122,17 +124,3 @@ Users you [invite as guests](admin-add-guest-user.md) have limited scope of acce
 1. Save the new or modified policy.
 1. [Assign the policy to individual users or groups](/microsoftteams/assign-policies-users-and-groups).
 1. Verify that the policy is working as expected in Teams desktop.
-
-## FAQ on Teams policies
-
-### Can a policy be applied to a device or an app?
-
-No, policies can only be applied to users or groups.
-
-### Do one-to-one policies also apply to group calls?
-
-Yes, one-to-one policies also apply to group calls, but meetings have their own policy.
-
-### When are policies applied
-
-Policies are applied when the user signs in. After making a policy change, the user will need to sign out and back in or close and open the app to apply the policy change. 

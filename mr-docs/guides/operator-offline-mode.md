@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Work offline as an operator in Dynamics 365 Guides
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 You can work offline with a guide on HoloLens 1 or HoloLens 2 (for example, when you're working on a factory floor) if you don't have access to the internet or have an intermittent internet connection. 
 
 You don't need to do anything to set up **Offline** mode. When you open a guide when you're connected to the internet, the guide is automatically downloaded for offline use. If you lose your internet connection or turn off your Wi-Fi connection, the guide will automatically be available and you'll see the word "Offline" at the top of your touch screen.
@@ -45,7 +47,7 @@ The demo available through the Dynamics 365 Guides Home screen is available for 
 
 ## How often do you need to come back online?
 
-The Azure Active Directory default configuration for sign-in frequency is a rolling window of 90 days. However, from a Power BI (telemetry) perspective, only a few app sessions are stored on the device. To keep your Power BI dashboards up-to-date, make sure to come back online regularly. [Learn more about configurable token lifetimes in Azure Active Directory (Preview)](/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+The Microsoft Entra ID default configuration for sign-in frequency is a rolling window of 90 days. However, from a Power BI (telemetry) perspective, only a few app sessions are stored on the device. To keep your Power BI dashboards up-to-date, make sure to come back online regularly. [Learn more about configurable token lifetimes in Microsoft Identity (preview)](/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
 ## Limitations with Offline mode
 

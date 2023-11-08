@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes older features for Dynamics 365 Guides, organized by release date
 ms.author: davepinch
-ms.date: 04/03/2023
+ms.date: 10/17/2023
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -11,6 +11,76 @@ ms.reviewer: v-wendysmith
 # Version history for Dynamics 365 Guides
 
 This article provides a version history for Microsoft Dynamics 365 Guides features for all waves. For the latest release, see [What's new in Dynamics 365 Guides](new.md). To see a comprehensive list of released and upcoming features for all waves, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+
+## 2023 Release Wave 1
+
+## August 30, 2023
+
+Version 806.2308.25001.0 fixes a performance issue in the PC and HoloLens apps.
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 806.2308.25001.0 |
+|HoloLens app (HoloLens 2 only)| 806.2308.25001.0 |
+|Solution| 800.6.0.1  |
+
+## August 9, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 806.2308.3001.0 |
+|HoloLens app (HoloLens 2 only)| 806.2308.3001.0 |
+|Solution| 800.6.0.1  |
+
+### Features
+
+- Quickly visualize the impact of calling to your organization with the new <a href="/dynamics365/mixed-reality/guides/calls-dashboard-guides" target="blank">Calls Dashboard.</a>
+- Simplify <a href="/dynamics365/mixed-reality/guides/admin-content-mgmt" target="_blank">content management </a>and permissions by storing your 3D models, videos, and images in the same folders as guides.
+
+## July 5, 2023
+
+Version 805.2306.27001.0 fixes a performance issue in the HoloLens app.
+
+## June 13, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 805.2306.6001.0 |
+|HoloLens app (HoloLens 2 only)| 805.2306.6001.0 |
+|Solution| 800.5.0.1  |
+
+### Feature
+
+- HoloLens operators can <a href="/dynamics365/mixed-reality/guides/calling-photos" target="_blank">share photos from their device library</a> directly with Teams users in chat.
+
+## May 2, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 804.2304.21001.0 |
+|HoloLens app (HoloLens 2 only)| 804.2304.21001.0 |
+|Solution| 800.4.0.1  |
+
+### Features
+
+- Guides users can <a href="/dynamics365/mixed-reality/guides/calling-start-call#receive-a-call" target="_blank">receive incoming calls</a> to join one-to-one calls, group calls, or meetings on HoloLens.
+- Users can use <a href="/dynamics365/mixed-reality/guides/hololens-app-styles" target="_blank">obscure and pass-through styles</a> on holograms to show or obscure real-world objects during a call or video recording.
+- Authors can make <a href="/dynamics365/mixed-reality/guides/hololens-app-interact-3d" target="_blank">3D objects interactable</a> for operators to move, scale, and rotate to enhance their learning experience through close inspection.
+
+## April 4, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|803.2303.23001 |
+|HoloLens app (HoloLens 2 only)|803.2303.23001 |
+|Solution|800.3.0.1 |
+
+### Bugs fixed and other improvements
+
+- Significantly improved reliability to remote linking and the ability for HoloLens operators to draw directly in their vicinity with <a href="/dynamics365/mixed-reality/guides/calling-annotations" target="_blank">direct inking</a>.
+- Added the ability for users to toggle their camera off before joining a Teams HoloLens meeting or making an outgoing call.
+- Added badges on the participant tiles for <a href="/microsoftteams/communicate-with-users-from-other-organizations" target="_blank">Guest and External participants</a> wherever contacts are shown such as in meetings, in a call, or in a contact search.
+- Added linking for Authors to <a href="/dynamics365/mixed-reality/guides/pc-app-website-powerapps-link" target="_blank">link to another guide or open a custom app on a guide step</a>.
 
 ## 2022 Release Wave 2
 
@@ -37,7 +107,7 @@ Fixed an issue where participant's status in a call or meeting incorrectly shows
 ### Bugs fixed and other improvements
 
 - Added the ability to protect company information by [restricting certain capabilities in Dynamics 365 Guides](restricted-mode-overview.md).
-- Added support of guides that use [Azure Object Anchors (Preview)](pc-app-anchor-azure-object.md) in the Content Migration tool. 
+- Added support of guides that use [Azure Object Anchors (Preview)](pc-app-anchor-object.md) in the Content Migration tool. 
 - Fixed an issue with disconnected calls or meetings with users without contact information (bots, PSTN, or anonymous users). These users will be shown as "Unknown" in calls and meetings.
 - Improved performance for calls with a large number of participants.
 - Improved reliability of sending chat messages.
@@ -280,7 +350,7 @@ Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both a
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically anchor your guide content to real-world objects Preview</a>| Yes |- <a href="/dynamics365/mixed-reality/guides/pc-app-anchor-azure-object" target="_blank">Anchor a guide by using Azure Object Anchors</a><br>- <a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2021/05/05/improve-on-the-job-guidance-with-dynamics-365-guides-and-azure-object-anchors/" target="_blank">Blog: Improve on-the-job guidance with Dynamics 365 Guides and Azure Object Anchors</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/leverage-azure-object-anchors-automatically-align-guide-content-real-world-objects" target="_blank">Leverage Azure Object Anchors to automatically anchor your guide content to real-world objects Preview</a>| Yes |- <a href="/dynamics365/mixed-reality/guides/pc-app-anchor-object" target="_blank">Anchor a guide by using Azure Object Anchors</a><br>- <a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2021/05/05/improve-on-the-job-guidance-with-dynamics-365-guides-and-azure-object-anchors/" target="_blank">Blog: Improve on-the-job guidance with Dynamics 365 Guides and Azure Object Anchors</a>|
 
 #### Bugs fixed and other improvements
 

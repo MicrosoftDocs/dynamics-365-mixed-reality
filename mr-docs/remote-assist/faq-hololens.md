@@ -39,47 +39,13 @@ A HoloLens user can scan a QR code (for example, to go directly to a specific UR
 
 The Connect app for wireless projection using Miracast is no longer installed by default, but is available as an optional feature. To install the app, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app.
 
-## Why am I not getting incoming call notifications?
-
-This can happen if you’re signed in to Dynamics 365 Remote Assist with a different account than the one you used to sign in to your HoloLens. Make sure you’re signed into both the app and the device with the same account. 
-
 ## I see a message saying I have no internet connection
 
 To use Dynamics 365 Remote Assist, you need an internet connection. For more information about connecting to the internet on your HoloLens, visit [this support article](https://support.microsoft.com/help/12629).
 
-## Dynamics 365 Remote Assist is frozen or unresponsive
-
-Try closing and reopening Dynamics 365 Remote Assist. If you’re still having problems, [restart your HoloLens](/hololens/hololens-recovery).
-
-## Dynamics 365 Remote Assist isn't showing my contacts
-
-If you don’t see the contacts you expect, try the following actions:
-
-- Make sure you’ve signed in to Teams at least once with the account you’re using on your HoloLens.
-
-- Close and reopen Dynamics 365 Remote Assist.
-
-- [Restart your HoloLens](https://support.microsoft.com/help/12642).
-
-## The Mixed Reality toolbar doesn’t appear on the Teams desktop application during a Dynamics 365 Remote Assist call
-
-This might happen if Teams has downloaded a new version of the client application in the background but is still running the older version of the app. Restarting your PC will usually fix this issue. This also might happen if the Dynamics 365 Remote Assist HoloLens user has lost tracking.
-
 ## Why does audio sometimes cut out even in quiet environments?
 
 If Dynamics 365 Remote Assist is used in a loud environment, use headphones on both ends for better communication. Using headphones for both users prevents any echo filtering from proactively turning on noise cancellation, which turns off audio.
-
-## I signed in to my HoloLens, but I still can't sign in to Dynamics 365 Remote Assist
-
-If you’re having trouble signing in to Dynamics 365 Remote Assist, try the following:
-
-- Make sure you’re using a work or school account, not a Microsoft account (MSA), to sign in to HoloLens.
-
-- Make sure that the work or school account you’re using has a valid [Microsoft 365 Business](https://products.office.com/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) enabled.
-
-- Make sure your HoloLens is connected to the internet.
-
-- Check with your administrator to make sure your device and network are set up to work with Dynamics 365 Remote Assist.
 
 ## Can I share files from SharePoint on Dynamics 365 Remote Assist?
 
@@ -180,9 +146,5 @@ There are two ways to get to the HoloLens Feedback Hub application to report a b
     > To provide the best possible data for fixing issues, we recommend that you set your device telemetry to **Optional Diagnostic data** when you set up Dynamics 365 Remote Assist. You can also make this change through the **Settings** menu within the app:
     > - For Windows 10: Select **Start** > **Settings** > **Privacy** > **Diagnostics & feedback** > **Optional Diagnostic data**.
     > - For Windows 11: Right-click the **Start** button and select **Settings** > **Privacy & Security** > **Diagnostics & feedback** > **Diagnostic data**.
-
-## How do I file a support ticket?
-
-If you encounter an issue that blocks you from using the application and you don't see an answer on our [user forum](https://community.dynamics.com/forums/thread/?partialUrl=remoteassist), please [file a support ticket](https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved. [Learn more about support options](/dynamics365/get-started/support/).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

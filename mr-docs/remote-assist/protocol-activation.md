@@ -12,6 +12,8 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 You can embed code in your HoloLens, iOS, or Android application to switch to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and begin a call using a Uniform Resource Identifier (URI).
 
 For example, let’s say you’re creating a helicopter maintenance app. You can add
@@ -33,7 +35,7 @@ The URI would look something like this:
 ms-voip-video:?contactids=\<contactID\>
 ```
 
-The contact ID is the user’s [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) object ID.
+The contact ID is the user’s Microsoft Entra object ID.
 
 ### Code example
 

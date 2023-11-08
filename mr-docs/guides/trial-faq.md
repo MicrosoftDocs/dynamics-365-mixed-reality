@@ -12,12 +12,14 @@ ms.reviewer: v-wendysmith
 
 # Dynamics 365 Guides trial FAQ
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 ## Can I sign up for multiple Dynamics 365 apps such as Sales, Marketing, and Customer Service?
 
 Yes, you can. To view all available trials, [visit the trial hub page](https://dynamics.microsoft.com/dynamics-365-free-trial/). You can use the same email account to sign up for different trials. However, it's not possible to have multiple apps on the same trial site. Each trial will be on a different org and URL. The trial data can't be shared across apps.
 
 > [!NOTE]
-> To sign up for a free Dynamics 365 Guides trial, you must have an Azure Active Directory account. You can't use a consumer email account.
+> To sign up for a free Dynamics 365 Guides trial, you must have a Microsoft Entra account. You can't use a consumer email account. 
 
 ## What should I do if I haven't received trial details?
 

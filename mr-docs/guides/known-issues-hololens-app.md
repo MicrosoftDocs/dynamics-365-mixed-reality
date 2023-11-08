@@ -2,17 +2,13 @@
 author: davepinch
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: davepinch
-ms.date: 06/13/2023
+ms.date: 10/04/2023
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
-
-## Teams mobile users can't view or download photos shared by HoloLens users
-
-Photos shared by HoloLens users aren't supported for Teams mobile users. Teams mobile users can access the shared photos by opening the chat on the Teams desktop app.
 
 ## HoloLens users have trouble with notifications when receiving a call in Guides
 
@@ -44,13 +40,13 @@ Operators with the **Restricted Operator** role that don't have the appendTo pri
 
 ## When you place large assets on HoloLens, you might experience minor loading delays
 
-The [!include[pn-hololens](../includes/pn-hololens.md)] app currently loads the guide right after you open it. As you use the guide, the app loads it in the background. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
+The HoloLens app currently loads the guide right after you open it. As you use the guide, the app loads it in the background. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
 
 ## An incorrect profile picture shows in the app 
 
-If an incorrect profile picture displays, make sure that you're signed in. Select the profile picture, sign out, and then sign back in by using your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] credentials. Your profile picture should appear correctly.
+If an incorrect profile picture displays, make sure that you're signed in. Select the profile picture, sign out, and then sign back in by using your Dynamics 365 Guides credentials. Your profile picture should appear correctly.
 
-By using the correct credentials to sign in, you ensure that your work progress is correctly tracked in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].
+By using the correct credentials to sign in, you ensure that your work progress is correctly tracked in Dynamics 365 Guides.
 
 ## The video preview on a step is blurry
 
@@ -60,7 +56,5 @@ The PC app video may appear to be blurry when an author previews a video in the 
 
 - [Known issues with Dynamics 365 Guides generally](known-issues.md)
 - [Known issues with the PC app](known-issues-pc-app.md)
-- [Dynamics 365 Guides FAQ](faq.md)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

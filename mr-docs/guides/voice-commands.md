@@ -26,7 +26,7 @@ For increased accuracy, most voice commands are contextual. In other words, they
     ![Microphone settings.](media/microphone-permission.PNG "Microphone settings")
 
 > [!NOTE]
-> Voice commands are supported for [all languages that Dynamics 365 Guides supports](./faq.md#what-languages-is-dynamics-365-guides-available-in) except Swedish, Norwegian, Brazilian Portuguese, and Korean. The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
+> Voice commands are supported for [all languages that Dynamics 365 Guides supports](requirements.md#supported-countryregion-and-languages) except Swedish, Norwegian, Brazilian Portuguese, and Korean. The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by going to **Settings** \> **Time and Language** \> **Language**.
 
 ## Use voice commands
 
@@ -44,9 +44,9 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | 1 | "Sign in" | Start the sign-in process. |
 | 2 | "Try a guide" | Open the Dynamics 365 Guides demo. |
 
-### Instance selection
+### Environment selection
 
-![Choose instance page.](media/voice-commands-choose-instance-8.JPG "Choose instance page")
+![Choose environment page.](media/voice-commands-choose-environment.png "Choose environment page")
 
 | Number in screenshot | Say this | To do this |
 |---|---|---|
@@ -60,7 +60,6 @@ The sections below show Dynamics 365 Guides pages and the voice commands that yo
 | Number in screenshot | Say this | To do this |
 |---|---|---|
 | Not shown | "Show Main menu" | Open the **Main** menu or bring it to you. |
-| Not shown | "Hide Main menu" | Hide the **Main** menu. |
 | 1 | "Show Work" | Open the Work activity screen to see your guides and folders. |
 | 2 | "Show Teams" | Open the Teams activity screen to start collaborating. |
 | 3 | "Show Files" | Open the OneDrive screen. |

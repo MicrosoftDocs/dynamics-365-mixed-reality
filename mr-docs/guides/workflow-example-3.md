@@ -1,29 +1,29 @@
 ---
 author: davepinch
-description: Learn how to use Microsoft Power Automate and Microsoft Excel to collect response data for a non-linear guide created in Dynamics 365 Guides
+description: Learn how to use Microsoft Power Automate and Microsoft Excel to collect response data for a nonlinear guide created in Dynamics 365 Guides
 ms.author: davepinch
 ms.date: 11/08/2021
 ms.topic: article
-title: Workflow example 3--Collect response data for a non-linear guide created in Dynamics 365 Guides
+title: Workflow example 3--Collect response data for a nonlinear guide created in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Workflow example 3: Collect response data for a non-linear guide created in Dynamics 365 Guides
+# Workflow example 3: Collect response data for a nonlinear guide created in Dynamics 365 Guides
 
-If you have created a [non-linear (branching) guide](pc-app-branching.md) in Microsoft Dynamics 365 Guides, you can collect the data on which responses are selected by the operator. For example, you might have a non-linear guide that provides three choices, based on a gauge temperature reading. 
+If you have created a [nonlinear (branching) guide](pc-app-branching.md) in Microsoft Dynamics 365 Guides, you can collect the data on which responses are selected by the operator. For example, you might have a nonlinear guide that provides three choices, based on a gauge temperature reading. 
 
  ![Example non-linear guide created in this workflow showing three temperature readings.](media/workflow3-example-non-linear-guide.PNG "Example non-linear guide created in this workflow showing three temperature readings")
 
-You can count the number of times the Step Id for each response is selected to know how often a particular issue occurs. 
+You can count the number of times the Step ID for each response is selected to know how often a particular issue occurs. 
 
 > [!NOTE]
 > You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
 
 ## What you’ll learn in this example
 
-- Find the Step Id for a response step
+- Find the Step ID for a response step
 
-- Export a guide's event data to Microsoft Excel and match it to Step Id data 
+- Export a guide's event data to Microsoft Excel and match it to Step ID data 
 
 - Set up a condition in Microsoft Power Automate to export the event data for a guide to a particular column in a Microsoft Excel spreadsheet
 
@@ -37,11 +37,11 @@ You can collect response data in two different ways:
 
 - In real time with Microsoft Power Automate as the event is executed
  
-You’ll need to get the Step Id for each response step, regardless of which method you choose. This example shows you how to get the Step Id and how to use the Step Id for either scenario.
+Get the Step ID for each response step, regardless of which method you choose. This example shows you how to get the Step ID and how to use the Step ID for either scenario.
 
-## Get the Step Id for a response step
+## Get the Step ID for a response step
 
-You can use the Guides model-driven app to get the Step Id for a response step.
+You can use the Guides model-driven app to get the Step ID for a response step.
 
 1. Go to [make.powerapps.com](https://make.powerapps.com). 
 
@@ -57,19 +57,19 @@ You can use the Guides model-driven app to get the Step Id for a response step.
 
      ![Model-driven app highlighting three response steps.](media/workflow3-response-steps.PNG "Model-driven app highlighting three response steps")
  
-    To get the Step Id for a response step, double-click the step in the model-driven app. The Step Id appears at the end of the page url in the resulting screen.
+    To get the Step ID for a response step, double-click the step in the model-driven app. The Step ID appears at the end of the page url in the resulting screen.
 
      ![Step Id section of QR code URL highlighted.](media/workflow3-qr-code-identifier.PNG "Step Id section of QR code URL highlighted")
   
 ## Collect response data after the event has been executed
 
-1. Copy the Step Id for each response step into an Excel spreadsheet. The spreadsheet will look something like this when you’re done:
+1. Copy the Step ID for each response step into an Excel spreadsheet. The spreadsheet looks something like this when you’re done:
  
     ![Excel spreadsheet with copied Step Ids for each response step.](media/workflow3-excel-response-step-IDs.PNG "Excel spreadsheet with copied Step Ids for each response step")
  
-2. Use the model-driven app to export the guide event data. To do this:
+2. Use the model-driven app to export the guide event data.
 
-    1. Go to [powerapps.com](https://make.powerapps.com) and select the appropriate instance.
+    1. Go to [powerapps.com](https://make.powerapps.com) and select the appropriate environment.
 
     2. In the left navigation pane, select **Data**, and then select **Tables**.
 
@@ -87,11 +87,11 @@ You can use the Guides model-driven app to get the Step Id for a response step.
 
        ![Data menu with Export data selected.](media/workflow3-export-data.PNG "Data menu with Export data selected")
        
-       The Step Id information is in column R of the Excel spreadsheet.
+       The Step ID information is in column R of the Excel spreadsheet.
 
        ![Downloadeded Excel spreadsheet with column R selected showing list of Step Ids.](media/workflow3-step-id-excel.PNG "Downloadeded Excel spreadsheet with column R selected showing list of Step Ids")
  
-3. Parse the **Step Id** column in the exported spreadsheet to check for the Step Id's. For example, the following Excel formula compares the event data in the exported **Guide Session Step Visit** spreadsheet to the Step Ids copied in the first step of this procedure. The formula returns a 1 if it matches an ID or a 0 if it doesn’t.
+3. Parse the **Step Id** column in the exported spreadsheet to check for the Step ID's. For example, the following Excel formula compares the event data in the exported **Guide Session Step Visit** spreadsheet to the Step Ids copied in the first step of this procedure. The formula returns a 1 if it matches an ID or a 0 if it doesn’t.
 
     =IF(ISNUMBER(SEARCH(B$2,'Guide Session Step Visit'!R2)),1,0) 
  
@@ -109,7 +109,7 @@ Collecting response data in real time by using Power Automate requires four step
 
     - Is triggered when the guide event is created (when a user selects a response step)
 
-    - Sets a condition for the guide event **Step Id** field that contains the Step Id 
+    - Sets a condition for the guide event **Step Id** field that contains the Step ID 
 
     - Writes the date to the Excel spreadsheet 
  
@@ -125,7 +125,7 @@ Collecting response data in real time by using Power Automate requires four step
 
     - 250 to 300 degrees
 
-2. After creating the columns, select them, and then select **Insert > Table**. You'll populate this table with the Power Automate flow.
+2. After creating the columns, select them, and then select **Insert > Table**. Populate this table with the Power Automate flow.
 
    ![Screenshot of Excel toolbar with Table item selected.](media/workflow1-excel-insert-table.PNG "Screenshot of Excel toolbar with Table item selected")
 
@@ -175,15 +175,15 @@ Collecting response data in real time by using Power Automate requires four step
     |**File**	|**Guides Response Data.xlxs**|The name of your Excel file|
     |**Table**|	**Table 1**|The table that you created in Microsoft Excel|
     |**Date**|	**Created On** field (you can select this value dynamically after you place the cursor in the field)	|Records the date and time when the selection was made in the guide|
-    |**150 to 200 degrees**|1	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
-    |**200 to 250 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
-    |**250 to 300 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
+    |**150 to 200 degrees**|1	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
+    |**200 to 250 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
+    |**250 to 300 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
 
     The following screenshot shows the fields filled in for the Temperature gauge guide. 
 
     ![Add a row into a table action filled out with example data.](media/workflow3-add-row-to-table-filled-in.PNG "Add a row into a table action filled out with example data")
  
-    This condition gets the Step Id for the **150 to 200 degrees** step and puts a 1 in the **150 to 200** column in the Excel spreadsheet when the **Step Id** field contains that Step Id.
+    This condition gets the Step ID for the **150 to 200 degrees** step and puts a 1 in the **150 to 200** column in the Excel spreadsheet when the **Step Id** field contains that Step ID.
  
     ![Resulting Excel table populated with example data.](media/workflow3-excel-table-populated.PNG "Resulting Excel table populated with example data")
  

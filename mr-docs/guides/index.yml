@@ -10,7 +10,7 @@ metadata:
   ms.topic: hub-page 
   author: v-wendysmith 
   ms.author: v-wendysmith 
-  ms.date: 06/12/2023 
+  ms.date: 09/27/2023 
   ms.custom: bap-template
   hide_bc: true
 
@@ -32,7 +32,7 @@ highlightedContent:
     # Card
     - title: Troubleshoot
       itemType: concept
-      url: known-issues.md
+      url: /troubleshoot/dynamics-365/guides/welcome-guides
       
 additionalContent: 
   sections:
@@ -70,22 +70,20 @@ additionalContent:
         text: Migrate content
       - url: upgrade.md
         text: Upgrade Guides
-      - url: admin-share-guide.md
-        text: Share a guide
+      - url: admin-content-mgmt.md
+        text: Manage guide content
     - title: Enable or disable settings
       links: 
       - url: admin-deactivate-guide.md
         text: Activate or deactivate a guide
       - url: admin-enable-calls.md
         text: Enable or disable calls
-      - url: admin-enable-object-anchors.md
-        text: Enable or disable Object Anchors
     - title: Integrate with other apps
       links: 
       - url: field-service.md
         text: Integrate with Dynamics 365 Field Service
       - url: admin-connect-field-service-mobile.md
-        text: Integrate with Field Service Mobile
+        text: Integrate with the Field Service mobile app
       - url: admin-integrate-asset-management.md
         text: Integrate with Dynamics 365 Supply Chain Management
 
@@ -101,6 +99,8 @@ additionalContent:
         text: Anchor your guide
       - url: structure-guide.md
         text: Structure your guide
+      - url: package-a-guide.md
+        text: Package a guide
     - title: Author a guide (HoloLens)
       links:
       - url: hololens-app-overview.md

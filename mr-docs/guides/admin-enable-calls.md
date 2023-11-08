@@ -22,18 +22,18 @@ If you're an admin for Dynamics 365 Guides, enable or disable calling for users 
 
 ## Enable or disable calling
 
-1. Sign in to the instance by using your admin or author credentials.
+1. Sign in to the environment by using your admin or author credentials.
 
     > [!TIP]
-    > To find the URL for the instance, select the **Analyze** tab in the PC app. The URL is shown in the **Instance URL** field at the bottom of the page. Copy this URL, and paste it into the address bar of your web browser.
+    > To find the URL for the environment, select the **Analyze** tab in the PC app. The URL is shown in the **Environment URL** field at the bottom of the page. Copy this URL, and paste it into the address bar of your web browser.
     >
-    > ![Instance URL field.](media/instance-url.PNG "Instance URL field")
+    > ![Environment URL field.](media/environment-URL.png "Environment URL field")
 
 2. In Power Apps, select the **Guides** app tile.
 
     ![Guides app tile.](media/guides-app-tile.PNG "Guides app tile")
 
-3. In the left pane, use the area picker at the bottom of the screen to switch the area selection from **Main** to **Settings** to view all settings for the instance.
+3. In the left pane, use the area picker at the bottom of the screen to switch the area selection from **Main** to **Settings** to view all settings for the environment.
 
     ![Settings highlighted in the left pane.](media/admin-enable-calling-settings.JPG "Settings highlighted in left pane")
 
@@ -46,7 +46,9 @@ If you're an admin for Dynamics 365 Guides, enable or disable calling for users 
     "**Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license.**"
 
     > [!NOTE]
-    > Enabling or disabling calling is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in Azure Active Directory](/azure/active-directory/enterprise-users/users-revoke-access).
+    > Enabling or disabling calling is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in Microsoft Entra ID](/azure/active-directory/enterprise-users/users-revoke-access).
+
+    [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
 ## See also
 

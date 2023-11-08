@@ -2,44 +2,33 @@
 author: davepinch
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a holographic anchor
 ms.author: davepinch
-ms.date: 07/27/2023
-ms.topic: article
-title: Anchor a guide in the Dynamics 365 Guides PC app by using a holographic anchor
+ms.date: 09/15/2023
+ms.topic: how-to
+title: Anchor your guide in Dynamics 365 Guides by using a holographic anchor
 ms.reviewer: mhart
+ms.custom: bap-template
 ---
 
-# Anchor your guide in the Dynamics 365 Guides PC app by using a holographic anchor
+# Anchor your guide in Dynamics 365 Guides by using a holographic anchor
 
-You can anchor your guide to the real world in Microsoft Dynamics 365 Guides by using a QR code anchor, circular code anchor, or holographic anchor. This article shows how to anchor a guide with a holographic anchor. [Learn about other types of anchors and when to use them](pc-app-anchor.md).
+Use a holographic anchor to anchor your guide to the real world in Guides. Review [best practices for holographic anchors.](pc-app-anchor-holographic-best-practices.md)
 
 > [!NOTE]
-> An object anchor created with [Azure Object Anchors](pc-app-anchor-azure-object.md) is preferred over a holographic anchor when:
-> - The target object is [suitable for object detection](pc-app-anchor-azure-object.md#best-practices-for-choosing-a-target-object-for-your-object-anchor)
-> - Accuracy needs are high   
+> An object anchor created with [object anchors](pc-app-anchor-object.md) is preferred over a holographic anchor when:
+> - The target object is [suitable for object detection](pc-app-anchor-object-best-practices.md)
+> - Accuracy needs are high
 > - The target object is available in the real world to scan with HoloLens
-> - Holograms need to be consistently positioned at the same location<br> 
-
-## Overall process for creating a holographic code anchor
-
-The process of creating a holographic anchor involves three basic steps:
-
-1. Use the **Anchor** wizard to select the holographic anchor method.
-
-1. Use the wizard to import a custom 3D model that you want to use as the anchor, and to assign the 3D model as the anchor for the guide. The 3D model can be a representation of a physical object or a generic 3D object. If you don't select a custom 3D model, a default holographic anchor will be used. 
-
-1. In the HoloLens app, in **Author** mode, use gestures to align the holographic anchor to a physical object in the real world.
+> - Holograms need to be consistently positioned at the same location
 
 ## Set up a holographic anchor
 
-You can access the **Anchor** wizard from the **Outline** page. The **Outline** page automatically appears after you create or open a guide.
+You can access the **Anchor** wizard from the **Outline** page in the PC app. The **Outline** page automatically appears after you create or open a guide.
 
 1. On the **Outline** page, select **Set your anchor now**.
 
     ![Set your anchor now button.](media/outline-page-3.PNG "Set your anchor now button")
 
 1. On the **Choose an anchor method** page, select **Select** for the **Holographic** anchor method.
-
-    ![Select button for the Holographic anchor method.](media/holographic-anchor-choose-method.PNG "Select button for the Holographic anchor method")
 
 1. In step 1 of the wizard, select **Create**, find your custom 3D model, and then select **Open** to import it. The model is added to the **My files** tab in the gallery.
 
@@ -69,46 +58,9 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     ![Edit Step card text button.](media/holographic-anchor-operator-instructions.PNG "Edit Step card text button")
 
-## Best practices for holographic anchors
+## Next steps
 
-- **Size.** Select a holographic anchor that isn't too small or too big. 
-
-    - Medium-size digital objects are best. Very small or very large holograms are difficult to manipulate. 
-
-    - Shoebox size or slightly larger is ideal.
-
-- **Placement.** Select a holographic anchor that is as close as possible to the center of the work that is being done. The farther you place digital content from the holographic anchor, the less accurate it becomes.
-
-- **Shape.** Select a holographic anchor that has a non-uniform or uncommon shape. Unusual shapes are easiest to align to.
-
-    - Avoid objects that are mirrored. This can cause 180-degree misalignment.
-
-    - Select shapes that have clear edges and corners, to help orient your content correctly.
-
-- **Recognizable.** Select a holographic anchor that is obvious, easily recognizable, and easy for the operator to find. Make sure that the operator can access the object without encountering any obstructions.
-
-- **Alignment direction.** Always align the holographic anchor to your physical object from the same direction. In this way, you help maximize repeatability for operators.
-
-    - Placement from different perspectives can cause misalignment.
-
-    - Always look at the holographic anchor from multiple angles to make sure that it's aligned to the physical object.
-
-## What's next?
-
-Use the following table to find more information on anchoring.
-
-|Area|Link|
-|----------------------|------------------------------------------------------------------|
-|Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Creating types of anchors|[Create an Azure Object Anchor in the PC app](pc-app-anchor-azure-object.md)|
-||[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
-||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
-||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
-|Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
-||[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
-|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
-|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
-
-
+- [Best practices for holographic anchors.](pc-app-anchor-holographic-best-practices.md)
+- [Anchor a guide in the HoloLens app](hololens-app-anchor.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

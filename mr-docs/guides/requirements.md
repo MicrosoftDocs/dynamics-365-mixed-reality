@@ -16,6 +16,9 @@ Review the device and license requirements for Dynamics 365 Guides.
 > Dynamics 365 Guides might not be available in your country/region. For more information, see [Dynamics 365 Guides availability](faq.md) and [Geographical availability for Power Apps](https://dynamics.microsoft.com/availability-reports/georeport/) (filter the view by **Dynamics 365** > **Operations Apps**, and then scroll the table to see Dynamics 365 Guides availability).
 
 ## Device requirements
+
+The following table lists technical requirements for deploying and using Dynamics 365 Guides throughout your organization.
+
 | Device | Platform | Operating system requirements | Details |
 |---|---|---|---|
 | Microsoft HoloLens | x86, ARM | Build 10.0.17134 or later.<p>HoloLens build 10.0.17134 is the earliest build that supports Dynamics 365 Guides. We recommend that you update HoloLens to newer versions when they become available.</p> | For information about how to use Windows Update for Business, Mobile Device Management, and Windows Server Update Services (WSUS), see [Manage updates to HoloLens](/HoloLens/hololens-updates).<p>**Note:** HoloLens includes the Microsoft Edge browser. You can't use Internet Explorer with HoloLens.</p> |
@@ -30,7 +33,7 @@ Review the product requirements for services, apps, and features related to Dyna
 
 | Service, app, or feature | Product required| Learn more |
 |---|---|---|
-|Purchase a Dynamics 365 Guides subscription and assign licenses|Azure Active Directory (Azure AD) account<br><br>You'll need an Azure AD account for each licensed user so they can sign in to the app.</li></ul> | [Get started with Azure AD](/azure/active-directory/fundamentals/active-directory-whatis) |
+|Purchase a Dynamics 365 Guides subscription and assign licenses|Microsoft Entra  account<br><br>You'll need an Microsoft Entra account for each licensed user so they can sign in to the app.</li></ul> | [Get started with Microsoft Entra ID](/azure/active-directory/fundamentals/active-directory-whatis) |
 |PC authoring app and HoloLens app| Dynamics 365 Guides| [Buy and deploy Dynamics 365 Guides](setup.md)<p><p>-Or-<p>[Sign up for a free trial subscription](setup.md)</p> |
 |Microsoft Dataverse and Power Apps service|Dynamics 365 Guides (included with subscription)|[Buy and deploy Dynamics 365 Guides](setup.md) |
 |Outbound calling/Teams collaboration from Dynamics 365 Guides| Microsoft Teams or Dynamics 365 Remote Assist<br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](calling-start-call.md) |
