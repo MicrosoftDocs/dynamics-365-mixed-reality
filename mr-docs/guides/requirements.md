@@ -1,19 +1,24 @@
 ---
 author: davepinch
-description: Learn about the device and licensing requirements for installing and using Microsoft Dynamics 365 Guides.
+description: Learn about the device, licensing, and other requirements for installing and using Microsoft Dynamics 365 Guides.
 ms.author: davepinch
-ms.date: 03/27/2023
-ms.topic: article
-title: Device and licensing requirements for Dynamics 365 Guides
+ms.date: 11/09/2023
+ms.topic: conceptual
+title: Device, licensing, and other requirements for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
-# Device and licensing requirements for Dynamics 365 Guides
+# Device, licensing, and other requirements for Dynamics 365 Guides
 
-Review the device and license requirements for Dynamics 365 Guides.
+Review the requirements for Dynamics 365 Guides.
 
-> [!Note] 
-> Dynamics 365 Guides might not be available in your country/region. For more information, see [Dynamics 365 Guides availability](faq.md) and [Geographical availability for Power Apps](https://dynamics.microsoft.com/availability-reports/georeport/) (filter the view by **Dynamics 365** > **Operations Apps**, and then scroll the table to see Dynamics 365 Guides availability).
+## Supported geographies and languages
+
+Determine if Dynamics 365 Guides is available in your country or region and your language.
+
+- For country or region, see [Geographical availability for Power Apps](https://dynamics.microsoft.com/availability-reports/georeport/) and filter the view by **Dynamics 365** > **Operations Apps**. Then scroll the table to see Dynamics 365 Guides availability.
+- For language, see [Product availability by language](https://dynamics.microsoft.com/en-us/availability-reports/languagereport/). Dynamics 365 Guides is listed in the hierarchy under **Dynamics 365**>**Operations Apps**.
 
 ## Device requirements
 
@@ -21,7 +26,7 @@ The following table lists technical requirements for deploying and using Dynamic
 
 | Device | Platform | Operating system requirements | Details |
 |---|---|---|---|
-| Microsoft HoloLens | x86, ARM | Build 10.0.17134 or later.<p>HoloLens build 10.0.17134 is the earliest build that supports Dynamics 365 Guides. We recommend that you update HoloLens to newer versions when they become available.</p> | For information about how to use Windows Update for Business, Mobile Device Management, and Windows Server Update Services (WSUS), see [Manage updates to HoloLens](/HoloLens/hololens-updates).<p>**Note:** HoloLens includes the Microsoft Edge browser. You can't use Internet Explorer with HoloLens.</p> |
+| Microsoft HoloLens | x86, ARM | Build 10.0.17763 or later.<p>HoloLens build 10.0.17134 is the earliest build that supports Dynamics 365 Guides. We recommend that you update HoloLens to newer versions when they become available.</p> | For information about how to use Windows Update for Business, Mobile Device Management, and Windows Server Update Services (WSUS), see [Manage updates to HoloLens](/HoloLens/hololens-updates).<p>**Note:** HoloLens includes the Microsoft Edge browser. You can't use Internet Explorer with HoloLens.</p> |
 | A computer (PC) that is running Windows 10 (required to create guides) | x64 | A PC that runs Windows 10 with build 10.0.17763 (October 2018 Update 1809) or later.<br><br>**Minimum resolution**. Dynamics 365 Guides supports a minimum effective resolution of 800 x 600 pixels before information loss.  | A PC that runs Windows 10 is used to create and edit guides that will then be available on HoloLens. |
 
 > [!TIP]
@@ -33,7 +38,7 @@ Review the product requirements for services, apps, and features related to Dyna
 
 | Service, app, or feature | Product required| Learn more |
 |---|---|---|
-|Purchase a Dynamics 365 Guides subscription and assign licenses|Microsoft Entra  account<br><br>You'll need an Microsoft Entra account for each licensed user so they can sign in to the app.</li></ul> | [Get started with Microsoft Entra ID](/azure/active-directory/fundamentals/active-directory-whatis) |
+|Purchase a Dynamics 365 Guides subscription and assign licenses|Microsoft Entra account<br><br>You'll need an Microsoft Entra account for each licensed user so they can sign in to the app.</li></ul> | [Get started with Microsoft Entra ID](/azure/active-directory/fundamentals/active-directory-whatis) |
 |PC authoring app and HoloLens app| Dynamics 365 Guides| [Buy and deploy Dynamics 365 Guides](setup.md)<p><p>-Or-<p>[Sign up for a free trial subscription](setup.md)</p> |
 |Microsoft Dataverse and Power Apps service|Dynamics 365 Guides (included with subscription)|[Buy and deploy Dynamics 365 Guides](setup.md) |
 |Outbound calling/Teams collaboration from Dynamics 365 Guides| Microsoft Teams or Dynamics 365 Remote Assist<br><br>A Microsoft Teams license *is not* included with a Dynamics 365 Guides license. A Microsoft Teams license *is* included with a Dynamics 365 Remote Assist license.</p> | [Learn more about calling from Dynamics 365 Guides](calling-start-call.md) |
@@ -43,7 +48,7 @@ Review the product requirements for services, apps, and features related to Dyna
 
 ## Calling features
 
-You must have a Microsoft Teams license to use the calling features in Dynamics 365 Guides. This section describes specific Microsoft Teams requirements and describes limitations for calling features. 
+You must have a Microsoft Teams license to use the calling features in Dynamics 365 Guides. This section describes specific Microsoft Teams requirements and describes limitations for calling features.
 
 ### Microsoft Teams requirements
 
@@ -60,8 +65,6 @@ Dynamics 365 Guides does not support:
 
 - [Creating and managing assets](/dynamics365/mixed-reality/remote-assist/asset-capture-overview) either within or outside a Dynamics 365 Guides call.
 - Creating and sharing one-time-call links.
-
-Dynamics 365 Guides does not include a Calls dashboard like Dynamics 365 Remote Assist, but you can [view call data with the Guides model-driven app](call-logging.md). 
 
 ## Next steps
 

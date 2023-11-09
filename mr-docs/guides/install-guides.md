@@ -2,7 +2,7 @@
 author: davepinch
 description: In this step of the setup process, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: davepinch
-ms.date: 10/20/2023
+ms.date: 11/09/2023
 ms.topic: how-to
 title: Install the Dynamics 365 Guides solution 
 ms.reviewer: v-wendysmith
@@ -34,18 +34,21 @@ If you already have an environment that you want to use (for example, an instanc
    > [!IMPORTANT]
    > If you set up a Dataverse environment instance in a different region than your default Azure Active Directory tenant region, the Dynamics 365 Guides model-driven app won't be available to install. If you'd like to set up a Dataverse environment instance in a region other than your default region, you must first [contact Microsoft support](https://support.serviceshub.microsoft.com/supportforbusiness) and ask to make your tenant into a multi-geo tenant for Power Platform.  
 
-1. Select **Next**. For the database, select your language and currency, and set the **Enable Dynamics 365 apps** option to **Yes**. Keep the default values for the other fields. Then select **Save**.
+1. Select **Next** and select the following information:
+
+   - **Language**: Your organization's supported language.
+   - **Currency**" Your organization's currency.
+   - **Security group**: If you have a security group set up, select the group or select **None**.
+   - **Enable Dynamics 365 apps**: Yes.
+   - **Automatically deploy these apps**: Guides
+
+1. Select **Save**.
 
    When the new environment is active, **Ready** appears in the **State** field for the environment.
 
-1. Go to **Install and configure the solution**.
-
 ## Install and configure the solution
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the left pane, select **Resources** > **Dynamics 365 apps**, select **Dynamics 365 Guides** in the list, and then select **Install**.
-
-    > [!NOTE]
-    > It might take a few minutes for **Dynamics 365 Guides** to appear in the list.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the left pane, select **Resources** > **Dynamics 365 apps**, select **Dynamics 365 Guides** in the list, and then select **Install**. It might take a few minutes for **Dynamics 365 Guides** to appear in the list.
 
 1. In the **Install Dynamics 365 Guides** dialog box, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
 

@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
 ms.author: davepinch
-ms.date: 03/08/2023
+ms.date: 11/09/2023
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -76,11 +76,12 @@ Every release of Dynamics 365 Guides includes an update to the solution. The PC 
 
 ### Major and minor updates – When you must update the solution
 
-The Dynamics 365 Guides team updates the version numbers of the apps and solution twice per year for major updates: on April 1 and October 1. These major updates are mandatory if you want to use the latest versions of the apps and take advantage of new features and enhancements. You're notified about these updates through admin communications.
+The Dynamics 365 Guides team updates the version numbers of the apps and solution twice per year for major updates: on April 1 and October 1. These major updates are mandatory if you want to use the latest versions of the apps and take advantage of new features and enhancements. You're notified about these updates through admin communications. The new major version is still compatible with the previous major version until the next minor update is released. For example, Guides 9.0 is compatible with Guides 8.0 until Guides 9.1 is released. Guides 9.1 isn't compatible with Guides 8.0.
 
 Minor updates are listed in [What's new](./new.md), through in-app notifications, and through the [Dynamics 365 Guides forum](https://community.dynamics.com/forums/thread/?partialUrl=guides). Some features in minor updates might require an update to the solution. Although the PC and HoloLens apps will continue to work if you don't update the solution, you won't be able to use the new features. Features that require a solution update are listed in [What's new](./new.md).
 
-![What's new page that shows when a solution update is required for a specific feature.](media/solution-update-required.PNG "What's new page that shows when a solution update is required for a specific feature")
+> [!IMPORTANT]
+> If you automatic updates set through the Microsoft Store and you haven't updated your production environments to the new major version before the minor version automatically updates, Guides stops working. It's important to ensure new major versions are tested and updated in your production environments before the next minor version is released.
 
 To [update the solution](./upgrade.md), a Dataverse **System Admin** security role and a valid Dynamics 365 Guides or Power Apps license must be assigned to you.
 
