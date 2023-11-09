@@ -24,12 +24,7 @@ The following table describes the privileges that each role grants. All users mu
 |Restricted Operator| Use the HoloLens app to view and operate a guide or access guides content that: <br>- The user created<br>- Were explicitly shared with them or shared with an owner team they are a member of<br>- Were assigned to the user or assigned to an owner team that the user is a member of |
 |App Access|  This is a system role that should not be assigned to any users, groups, or teams. <br> The purpose of this role is to enable a service application to perform data integration between Microsoft Dataverse and other services including the object anchor service. |
 
-See the following links for more information:
-
-|Area|Link|
-|------------------------------------------------------------|-------------------------------------------------------------------------|
-|Dynamics 365 Guides Restricted Author and Restricted Operator roles in access teams|[Assign a restricted security role](admin-assign-restricted-role.md)|
-|System roles in Power Platform|[System and application users](/power-platform/admin/system-application-users)|
+For more information about system roles in Power Platform apps, see [system and application users.](/power-platform/admin/system-application-users)
 
 > [!IMPORTANT]
 > If you followed the instructions in the [Buy Dynamics 365 Guides](buy-guides.md) topic when you set up Dynamics 365 Guides, any users that you added were automatically assigned the **Author** role. You must explicitly assign the **Operator** role to specific users if you don't want them to have **Author** role privileges.

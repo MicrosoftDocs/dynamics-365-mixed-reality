@@ -13,7 +13,10 @@ ms.custom: bap-template
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-As a Microsoft Dynamics 365 Guides admin, assign licenses to individual users or a group of users in your organization. You can use the Power Platform admin center or the Microsoft Entra ID. Consider [group-based licensing in Microsoft Entra ID](/entra/fundamentals/concept-group-based-licensing).
+As a Microsoft Dynamics 365 Guides admin, assign licenses to individual users or a group of users in your organization. Choose how you want to assign licenses to users and perform the appropriate task.
+
+- Add users through Microsoft Entra ID. We recommend this option because you can assign licenses and Guides security roles at the group level.
+- Add users manually through the Power Platform admin center and set security roles as you add the user.
 
 > [!IMPORTANT]
 > Make sure each user or group is assigned Dynamics 365 Guides, Common Data Service, and PowerApps for Guides.
@@ -24,12 +27,13 @@ As a Microsoft Dynamics 365 Guides admin, assign licenses to individual users or
 
 - The [Dynamics 365 Guides solution must be installed](install-guides.md).
 
-## Assign licenses
+### Add users and assign licenses with Microsoft Entra ID
 
-Choose how you want to assign licenses to users and perform the appropriate task.
+1. [Create a Microsoft Entra security group.](/entra/fundamentals/groups-view-azure-portal)
 
-- Add users through Microsoft Entra ID. We recommend this option because you can assign licenses and Guides security roles at the group level.
-- Add users manually through the Power Platform admin center and set security roles as you add the user.
+1. [Assign Guides licenses to the group.](/entra/identity/users/licensing-groups-assign)
+
+1. [Add users to the security group.](/entra/fundamentals/concept-group-based-licensing)
 
 
 
