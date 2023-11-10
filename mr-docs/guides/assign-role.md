@@ -11,13 +11,13 @@ ms.custom: bap-template
 
 # Assign an Author or Operator role to an individual user in Dynamics 365 Guides
 
-As a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and Restricted Operator roles provide an extra layer of control. [Learn about the privileges provided by each role](admin-role-types.md). 
+As a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and Restricted Operator roles provide an extra layer of control. [Learn about the privileges provided by each role](admin-role-types.md).
 
 Choose how you want to assign roles to users and perform the appropriate task.
 
-- To assign user roles in bulk using Azure Active Directory groups, see [Assign roles to a Dynamics 365 group team linked to an Azure Active Directory group](admin-assign-role-groups.md).
+- To assign user roles in bulk using Microsoft Entra security groups, see [Assign roles to a Dynamics 365 group team linked to a Microsoft Entra group](admin-assign-role-groups.md).
 
-- To use the Power Platform admin center to assign roles, see the following steps.
+- To assign roles to individual users, see the following steps.
 
 ## Prerequisites
 
