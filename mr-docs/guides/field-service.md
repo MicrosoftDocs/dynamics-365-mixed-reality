@@ -26,9 +26,9 @@ Microsoft Dynamics 365 Field Service integration enables Field Service customers
 
    - [Use the HoloLens app to place your holograms](hololens-app-overview.md)
 
-1. [Create a work order](/dynamics365/field-service/create-work-order.md) in Field Service.
+1. [Create a work order](/dynamics365/field-service/create-work-order) in Field Service.
 
-1. [Add a service task](/dynamics365/field-service/set-up-service-task-types.md) to the work order.
+1. [Add a service task](/dynamics365/field-service/set-up-service-task-types) to the work order.
 
    1. In the **Service Tasks** view, select the **More Commands** button (...), and then select **Add New Work Order Service Task**.
 
@@ -36,7 +36,7 @@ Microsoft Dynamics 365 Field Service integration enables Field Service customers
 
       ![Select task type and associate guide.](media/new-work-order-options.PNG "Select task type and associate guide")
 
-1. [Schedule the work order](/dynamics365/field-service/schedule-work-order.md) to a resource.
+1. [Schedule the work order](/dynamics365/field-service/schedule-work-order) to a resource.
 
 After the technician signs in to the Dynamics 365 Guides app on HoloLens, they see the **Field Service** tab. This tab shows the guides, which relate to service tasks they're assigned to. There's also a short description of the booking and the work order.
 
