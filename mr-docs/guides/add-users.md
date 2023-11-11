@@ -21,7 +21,9 @@ As a Microsoft Dynamics 365 Guides admin, assign licenses to individual users or
 
 --->
 
-To add users to Dynamics 365 Guides, assign a Guides license to a new or existing user. You can use the Microsoft 365 admin center or Microsoft Entra ID to assign licenses. Then, in the Power Platform admin center, configure the Guides security roles for each user or security group.
+To add users to Dynamics 365 Guides, first assign a Guides license to each new or existing user. You can use the Microsoft 365 admin center or Microsoft Entra ID to assign licenses. This article describes how to assign licenses.
+
+After licenses have been assigned, configure the Guides security roles for each user or security group. See [Assign the Guides security roles.](assign-role.md)
 
 > [!IMPORTANT]
 > Make sure each user or group is assigned Dynamics 365 Guides, Common Data Service, and PowerApps for Guides.
@@ -42,7 +44,7 @@ To add users to Dynamics 365 Guides, assign a Guides license to a new or existin
 
    - [Add users and assign licenses at the same time](/microsoft-365/admin/add-users/add-users)
 
-   - [Add multiple users and licenses at the same time](/microsoft-365/admin/add-users/add-users#add-multiple-users-at-the-same-time-in-dashboard-view)|
+   - [Add multiple users and licenses at the same time](/microsoft-365/admin/add-users/add-users#add-multiple-users-at-the-same-time-in-dashboard-view)
 
 ### Assign licenses with Microsoft Entra
 
@@ -52,7 +54,7 @@ To add users to Dynamics 365 Guides, assign a Guides license to a new or existin
 
    - [Assign licenses to individual users](/azure/active-directory/fundamentals/license-users-groups)
 
-   - [Assign licenses to users by group membership](/azure/active-directory/enterprise-users/licensing-groups-assign)|
+   - [Assign licenses to users by group membership](/azure/active-directory/enterprise-users/licensing-groups-assign)
 
 <!--- Work with Dave and Alwin to update 
 

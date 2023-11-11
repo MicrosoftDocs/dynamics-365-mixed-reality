@@ -28,7 +28,7 @@ Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial a
 1. Follow the on-screen guidance.
 
 The Guides solution is automatically installed. The user who creates the trial is automatically assigned a trial license with the system administrator role for the Guides environment. No security roles are applied.
-At any time before the trial expires, you can purchase a license and [convert the trial to production](trial-faq.md#can-i-convert-the-trial-to-a-paid-license).
+At any time before the trial expires, you can purchase a license and [convert the trial to production](convert-trial-to-paid.md).
 
 > [!NOTE]
 > If you cannot set up a trial, your organization might have corporate policies that prevent self-service trials. Contact your IT organization or your Azure Active Directory admin to [set up a 30-day trial](trial-faq.md#can-i-access-the-previous-30-day-trial).

@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Buy a Dynamics 365 Guides subscription
 
-Purchase a Dynamics 365 Guides subscription. If you had a trial version, you can [convert the trial to a paid license](trial-faq.md#can-i-convert-the-trial-to-a-paid-license).
+Purchase a Dynamics 365 Guides subscription. If you have a trial version, you can [convert the trial to a paid license](convert-trial-to-paid.md).
 
 ## Prerequisites
 

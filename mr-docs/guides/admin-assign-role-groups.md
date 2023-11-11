@@ -117,3 +117,5 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
 - [Learn about the different Author and Operator roles](admin-role-types.md)
 - [Assign an Author or Operator role to an individual user](assign-role.md)
+- [Set up a Guides device license for multiple operators](device-license.md)
+- Contact your Guides users to have them [install the PC app and set up their HoloLens](install-pc-hololens-apps.md)

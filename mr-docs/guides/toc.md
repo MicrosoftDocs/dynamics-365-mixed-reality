@@ -7,7 +7,9 @@
 ### Free trial
 #### [Sign up for a free trial](trial-signup.md)
 #### [Trial FAQ](trial-faq.md)
-### [Buy a subscription](buy-guides.md)
+### Buy a subscription
+#### [Buy a license](buy-guides.md)
+#### [Convert a trial version to a paid version](convert-trial-to-paid.md)
 ### [Dynamics 365 Remote Assist features in Guides 8.0](ra-features-in-guides-8.md)
 ### [Get started](get-started.md)
 
@@ -32,11 +34,11 @@
 ## Administer Dynamics 365 Guides
 
 ### Manage users, roles, ownership and access
-#### [Add users](add-users.md)
+#### [Add licenses and users](add-users.md)
 #### Assign user roles
 ##### [About the Author and Operator roles](admin-role-types.md)
-##### [Assign to individual users](assign-role.md)
-##### [Assign using Microsoft Entra groups](admin-assign-role-groups.md)
+##### [Assign roles to individual users](assign-role.md)
+##### [Assign roles to Microsoft Entra groups](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
 #### Manage guides content
 ##### [Guides content management](admin-content-mgmt.md)
