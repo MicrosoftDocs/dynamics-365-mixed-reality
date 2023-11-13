@@ -32,20 +32,19 @@ Managers can use [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboards 
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] also provides access and integration opportunities for customers and partners, because it's part of the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] product family and is powered by Microsoft Dataverse.
 
+## Dynamics 365 Guides videos
+
+Watch these videos to quickly learn the basics of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
+
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide on HoloLens (shows HoloLens 1 version)](https://aka.ms/hololensauthor)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Set up a QR code anchor for your guide](https://youtu.be/NhdBG3emNUs)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)<br>
+
 ## What's next?
 
-Check out these articles and videos:
-
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Sign up for a free 60-day trial](trial-signup.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Get started](get-started.md)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the HoloLens app (shows HoloLens 1 version)](https://aka.ms/hololensauthor)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide](authoring-overview.md)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of operating a guide](operator-overview.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of analyzing your guides](analytics-guide.md)<br>
-
-
+- [Sign up for a free 60-day trial](trial-signup.md)
+- [Buy a subscription](buy-guides.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

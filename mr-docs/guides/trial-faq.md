@@ -1,22 +1,18 @@
 ---  
-title: "Trial FAQ - Dynamics 365 Guides | Microsoft Docs"
+title: "Dynamics 365 Guides trial FAQ"
 description: "Solutions to common questions related to Dynamics 365 Guides trial setup and management. Learn how to resolve platform and app-specific issues."
 author: davepinch
 ms.author: davepinch
 ms.date: 06/15/2022
-ms.topic: get-started
+ms.topic: faq
 ms.service: dynamics-365-guides
-ms.custom: template-trial-faq <!--Required. Leave this value as is for tracking purposes.-->
+ms.custom: bap-template
 ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Guides trial FAQ
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
-
-## What are the system requirements for the trial?
-
-You need a PC and a HoloLens device. [Learn more about device requirements](requirements.md)
 
 ## Can I sign up for multiple Dynamics 365 apps such as Sales, Marketing, and Customer Service?
 
@@ -29,7 +25,7 @@ Yes, you can. To view all available trials, [visit the trial hub page](https://d
 
 I didn't receive the trial details email after signing up, what should I do?
 
-When you sign up for the trial, you'll receive an email with the trial details. If you don't see the email in your inbox, check your spam folder. 
+When you sign up for the trial, you'll receive an email with the trial details. If you don't see the email in your inbox, check your spam folder.
 
 ## How do I add more users to a trial?
 
@@ -40,6 +36,7 @@ To add users, go to the [Microsoft 365 admin center](https://admin.microsoft.com
 You can add an unlimited number of users to the trial environment.
 
 ## How do I reset the trial environment?
+
 You can't reset the trial environment. However, at the end of the 60-day trial, you can extend for an additional 30 days.
 
 ## Trial expiration and extension
@@ -53,11 +50,13 @@ You can extend the trial for an additional 30 days in the admin center. For inst
 
 ## Can I convert the trial to a paid license?
 
-Yes, you can [purchase a subscription](setup-step-one.md) of Dynamics 365 Guides after the trial has ended. If you want to keep the content that you create during the trial, you can use the [Content Migration Tool](migrate.md). 
+Yes, you can [purchase a subscription](buy-guides.md) of Dynamics 365 Guides before the trial has ended. To keep the content that you create during the trial, you can [convert the trial to prod](/power-platform/admin/trial-environments#convert-either-type-of-trial-environment-to-a-production-environment), or, create a new prod environment and use the [Content Migration Tool](migrate.md) to move the data you want to keep.
+
+You must purchase the required number of licenses, assign licenses, and add users as described in [Install and set up Guides.](install-guides.md)
 
 ## What are the trial limits and quotas?
 
-You can use the trial version of Dynamics 365 Guides for up to 60 days. 
+You can use the trial version of Dynamics 365 Guides for up to 60 days.
 
 ## How do I start using the trial?
 
@@ -65,16 +64,16 @@ After you sign up for the trial, you'll see the [Get started](get-started.md) pa
 
 ## What features are available in the trial?
 
-All features are available during the trial. To use calling capabilities, you must have a Microsoft Teams license or a Dynamics 365 Remote Assist license. 
+All features are available during the trial. To use calling capabilities, you must have a Microsoft Teams license or a Dynamics 365 Remote Assist license.
 
 ## How long does the trial last?
 
-The trial lasts 60 days. At the end of the trial, you have the option to extend for another 30 days. 
+The trial lasts 60 days. At the end of the trial, you have the option to extend for another 30 days.
 
 ## Can I access the previous 30-day trial?
 
-The 30-day trial is not recommended for new subscribers as it has a shorter trial period and is limited to one trial environment per tenant. The [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) is available, however, for customers who can't install the new trial due to corporate policies. 
+The 30-day trial is not recommended for new subscribers as it has a shorter trial period and is limited to one trial instance per tenant. The [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) is available, however, for customers who can't install the new trial due to corporate policies. Ask your admin to set up the 30-day trial on your behalf, create a subscription-based trial environment and [install the solution](install-guides.md#install-and-configure-the-solution). Have the admin [add your user account](add-users.md) to the trial environment. Then you can [install the PC app and launch the HoloLens app](install-pc-hololens-apps.md).
 
 ## What if my trial signup fails?
 
-You can sign up for a [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) (previous trial experience). 
+You can sign up for a [30-day trial](https://go.microsoft.com/fwlink/?LinkId=2106016) (previous trial experience). Or contact your IT organization to create a trial.

@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: davepinch
-ms.date: 07/07/2023
+ms.date: 11/07/2023
 ms.topic: how-to
 title: Update the Dynamics 365 Guides solution
 ms.reviewer: v-wendysmith
@@ -32,20 +32,18 @@ Some releases of Microsoft Dynamics 365 Guides require an update to the Dynamics
 
 1. Select the environment: select **Resources**, and then select **Dynamics 365 apps**.
 
-   ![Power Platform admin center.](media/power-platform-admin-center-2.PNG "Power Platform admin center")
+1. Next to **Dynamics 365 Guides** update available, select the ellipsis (&hellip;), and then select **Update**.
 
-1. Next to **Dynamics 365 Guides**, select the **More application actions** (...) button, and then select **Install**.
-
-   ![Install button.](media/more-application-actions-install.PNG "Install button")  
+   ![Power Platform admin center Guides update available.](media/power-apps-update.png "Power Platform admin center highlighting Guides Update available")  
   
-1. In the dialog box that appears, select the environment that you want to update the solution for, select the **I agree to the terms of service** check box, and then select **Install**.  
-
-   ![Install button to update environment.](media/solution-install-button.PNG "Install button to update environment")  
+1. In the dialog box that appears, select the **I agree to the terms of service** check box, and then select **Update**.  
 
 > [!NOTE]
 > You can go to the [solution history page to see details about solution installations](/power-apps/maker/data-platform/solution-history).
 
 ## Microsoft platforms and Guides
+
+<!--- Dave checking to see if Core Service Scheduling needs to be referenced --->
 
 [!INCLUDE [microsoft-platforms](../includes/microsoft-platforms-dependency.md)]
 

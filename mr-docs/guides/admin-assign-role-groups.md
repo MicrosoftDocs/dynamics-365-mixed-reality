@@ -23,7 +23,7 @@ You can assign [Dynamics 365 Guides Author and Operator roles](admin-role-types.
 
 ## Create a Microsoft Entra group
 
-To learn how to create a Microsoft Entra Security group or a Microsoft 365 group, see [Create a basic group and add members using Microsoft Entra admin center](/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal).
+To learn how to create a Microsoft Entra Security group or a Microsoft 365 group, see [Create a basic group and add members using Microsoft Entra admin center](/entra/fundamentals/how-to-manage-groups).
 
 ## Create a Dynamics 365 group team
 
@@ -117,3 +117,5 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
 - [Learn about the different Author and Operator roles](admin-role-types.md)
 - [Assign an Author or Operator role to an individual user](assign-role.md)
+- [Set up a Guides device license for multiple operators](device-license.md)
+- Contact your Guides users to have them [install the PC app and set up their HoloLens](install-pc-hololens-apps.md)
