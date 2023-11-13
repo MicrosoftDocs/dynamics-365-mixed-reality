@@ -4,36 +4,41 @@
 ## [Welcome to Dynamics 365 Guides](overview.md)
 
 ## Get started
-### Sign up for a free trial
-#### [How to sign up](trial-signup.md)
+### Free trial
+#### [Sign up for a free trial](trial-signup.md)
 #### [Trial FAQ](trial-faq.md)
+### Buy a subscription
+#### [Buy a license](buy-guides.md)
+#### [Convert a trial version to a paid version](convert-trial-to-paid.md)
 ### [Dynamics 365 Remote Assist features in Guides 8.0](ra-features-in-guides-8.md)
 ### [Get started](get-started.md)
-### [How-to-videos](videos.md)
 
 ## What's new
 ### [What's new](new.md)
 ### [Version history](version-history.md)
 
-## Set up and administer Dynamics 365 Guides
-### Set up Dynamics 365 Guides or upgrade the solution
-#### [Installation overview](setup.md)
-#### [1: Buy a subscription](setup-step-one.md)
-#### [2: Install the solution](setup-step-two.md)
-#### [3: Install the apps](setup-step-three.md)
-#### [4: Set up Power BI reports](setup-step-four.md)
-#### [Update the solution](upgrade.md)
-#### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
-#### [Network requirements](admin-network-requirements.md)
-### Licenses
-#### [Licensing requirements](requirements.md)
-#### [Set up a device license for multiple operators](device-license.md)
-### Users, roles, ownership, and access
-#### [Add users](add-users.md)
+## Install or update Dynamics 365 Guides
+### Install and set up Guides
+#### [Install and set up Guides overview](setup.md)
+##### [Install the solution](install-guides.md)
+#### Manage licenses and other requirements
+##### [Device and licensing requirements](requirements.md)
+##### [Network requirements](admin-network-requirements.md)
+##### [Licensing FAQ](device-license-faq.md)
+##### [Set up a device license for multiple operators](device-license.md)
+### [Deployment playbook](admin-deployment-playbook.md)
+### [Update the solution](upgrade.md)
+### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
+
+
+## Administer Dynamics 365 Guides
+
+### Manage users, roles, ownership and access
+#### [Add licenses and users](add-users.md)
 #### Assign user roles
 ##### [About the Author and Operator roles](admin-role-types.md)
-##### [Assign to individual users](assign-role.md)
-##### [Assign using Microsoft Entra groups](admin-assign-role-groups.md)
+##### [Assign roles to individual users](assign-role.md)
+##### [Assign roles to Microsoft Entra groups](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
 #### Manage guides content
 ##### [Guides content management](admin-content-mgmt.md)
@@ -61,14 +66,19 @@
 ### Move content between environments
 #### [Export/import folder structure](admin-export-import-folders.md)
 #### [Move content](migrate.md)
-#### [Troubleshoot moving content](migrate-troubleshoot.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
 
-## Install the HoloLens and PC apps
-### Install the HoloLens app and sign in
-#### [Install the app and sign in](hololens-app-install-sign-in.md)
+### Integrations with other Dynamics 365 apps
+#### [Dynamics 365 Field Service](field-service.md)
+#### [Field Service (Dynamics 365) Mobile](admin-connect-field-service-mobile.md)
+#### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
+
+### Download the HoloLens and PC apps
+#### Download the HoloLens app and sign in
+##### [Download the apps](install-pc-hololens-apps.md)
+##### [Install the app and sign in](hololens-app-install-sign-in.md)
 #### [Permissions required](hololens-permissions.md)
-### [Install the PC app and sign in](install-sign-in-pc-app.md)
+#### [Download the PC app and sign in](install-sign-in-pc-app.md)
 
 ## Model-driven app features
 ### [Guides model-driven app overview](model-driven-app-overview.md)
@@ -255,16 +265,13 @@
 
 ## FAQ, known issues, and support
 ### [Get Help](help.md)
-### FAQ
-#### [FAQ](faq.md)
-#### [Dynamics 365 Guides 8.0  and Dynamics 365 Remote Assist](faq-version-8.md)
+### [FAQ](faq.md)
 ### Known issues
 #### [Affecting both apps](known-issues.md)
 #### [PC app](known-issues-pc-app.md)
 #### [HoloLens app](known-issues-hololens-app.md)
-### Troubleshooting
-#### [Convert a 3D model into an object anchor fails](anchors-3d-model-conversion-fails.md)
-#### [Detect an object anchor on HoloLens fails](anchors-object-anchor-fails.md)
+### [Troubleshooting](/troubleshoot/dynamics-365/guides/welcome-guides)
+### [Contact Support](get-support.md)
 ### [Submit feedback](submit-feedback.md)
 
 

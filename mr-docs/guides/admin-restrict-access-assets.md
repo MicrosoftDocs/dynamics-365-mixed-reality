@@ -19,7 +19,7 @@ To restrict access to certain assets (3D parts, images, videos, and object ancho
 
 - You must have Admin permission.
 
-- You must have an active Dynamics 365 Guides license. For more information, see [Buy a subscription or sign up a free trial](setup-step-one.md).
+- You must have an active Dynamics 365 Guides license. For more information, see [Buy a subscription or sign up a free trial](buy-guides.md).
 
 - The latest Dynamics 365 Guides solution must be installed. For more information, see [Update to the latest solution](upgrade.md).
 

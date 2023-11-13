@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/guides/migrate-troubleshoot.md",
+      "redirect_url": "troubleshoot/dynamics-365/guides/install-migrate/migrate-troubleshoot.md",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/operator-calibrate-hl2.md",
       "redirect_url": "hololens-app-calibrate",
       "redirect_document_id": "false"
@@ -21,13 +26,50 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/guides/setup-step-one.md",
+      "redirect_url": "buy-guides",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/setup-step-two.md",
+      "redirect_url": "install-guides",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/setup-step-three.md",
+      "redirect_url": "install-pc-hololens-apps",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/setup-step-four.md",
+      "redirect_url": "setup-powerbi-reports",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/videos.md",
+      "redirect_url": "overview",
       "source_path": "mr-docs/guides/admin-enable-object-anchors.md",
       "redirect_url": "pc-app-anchor-object",
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/guides/anchors-3d-model-conversion-fails.md",
+      "redirect_url": "/troubleshoot/dynamics-365/guides/welcome-guides",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/anchors-object-anchor-fails.md",
+      "redirect_url": "/troubleshoot/dynamics-365/guides/welcome-guides",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/pc-app-anchor-azure-object.md",
       "redirect_url": "pc-app-anchor-object",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/faq-version-8.md",
+      "redirect_url": "faq",
       "redirect_document_id": "false"
     },
     {

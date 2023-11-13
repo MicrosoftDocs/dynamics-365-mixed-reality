@@ -20,7 +20,7 @@ To add a guest user, you [invite them as a guest to Microsoft Teams, or create a
 
 When a guest is invited to join an organization, they receive a welcome email message. This message includes some information about the organization and what to expect as a member. The guest must accept the invitation by selecting **Accept Invitation** in the email message before they can access the organization and the organization's guides.
 
-You must also [assign a Dynamics 365 Guides license](add-users.md#assign-a-dynamics-365-guides-license-to-an-existing-user) and [assign user roles](assign-role.md) to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Microsoft Entra and Microsoft 365 service limits.
+You must also [assign a Dynamics 365 Guides license](/microsoft-365/admin/manage/assign-licenses-to-users) and [assign user roles](assign-role.md) to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Azure Active Directory and Microsoft 365 service limits.
 
 Your network admin needs to include an additional endpoint to [the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers](admin-network-requirements.md).
 
