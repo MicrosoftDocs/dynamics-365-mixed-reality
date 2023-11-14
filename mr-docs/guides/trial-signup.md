@@ -3,7 +3,7 @@ title: "Sign up for a free trial - Dynamics 365 Guides | Microsoft Docs"
 description: "Learn how to quickly sign up for and start a free Dynamics 365 Guides trial. Explore the app with tours and videos, and find additional learning resources."
 author: davepinch
 ms.author: davepinch
-ms.date: 05/16/2023
+ms.date: 11/14/2023
 ms.topic: how-to
 ms.service: dynamics-365-guides
 ms.custom: bap-template
@@ -11,6 +11,8 @@ ms.reviewer: v-wendysmith
 ---
 
 # Sign up for a free trial
+
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
 Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial and downloading the apps, you'll have access to all Dynamics 365 Guides features. [Learn more about Dynamics 365 Guides](https://dynamics.microsoft.com/mixed-reality/guides/).
 
