@@ -17,7 +17,7 @@ Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial a
 ## Prerequisites
 
 - PC and HoloLens device. [Learn more about device requirements](requirements.md).
-- Azure Active Directory [Premium Trial.](https://azure.microsoft.com/trial/get-started-active-directory/)
+- [Microsoft Entra ID Free Trial.](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
 - For calling capabilities from the HoloLens, a free [Microsoft Teams license](https://products.office.com/microsoft-teams/free) or a [Dynamics 365 Remote Assist license](../remote-assist/try-remote-assist.md).
 - OneDrive storage - sign up for a free trial at https://www.microsoft.com/microsoft-365/onedrive/free-online-cloud-storage/.
 
@@ -31,7 +31,7 @@ The Guides solution is automatically installed. The user who creates the trial i
 At any time before the trial expires, you can purchase a license and [convert the trial to production](convert-trial-to-paid.md).
 
 > [!NOTE]
-> If you cannot set up a trial, your organization might have corporate policies that prevent self-service trials. Contact your IT organization or your Azure Active Directory admin to [set up a 30-day trial](trial-faq.md#can-i-access-the-previous-30-day-trial).
+> If you cannot set up a trial, your organization might have corporate policies that prevent self-service trials. Contact your IT organization or your Microsoft Entra ID admin to [set up a 30-day trial](trial-faq.md#can-i-access-the-previous-30-day-trial).
 
 ## What to try
 
