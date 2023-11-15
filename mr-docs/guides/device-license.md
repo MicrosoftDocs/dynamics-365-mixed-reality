@@ -11,6 +11,8 @@ ms.custom: bap-template
 
 # Set up a Guides device license for multiple operators
 
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+
 A Dynamics 365 Guides device license allows multiple operators to use Dynamics 365 Guides on a single device under a shared user account. A device license is limited to operating a guide (no authoring can occur). Purchase device licenses through your Microsoft account manager or reseller.
 
 > [!NOTE]
@@ -23,7 +25,7 @@ A Dynamics 365 Guides device license allows multiple operators to use Dynamics 3
 
 ## Create a shared account
 
-A Dynamics 365 Guides device license must be assigned to a shared Active Directory user account. Since the account is shared by multiple people, you manage credentials and other account details differently than regular accounts.
+A Dynamics 365 Guides device license must be assigned to a shared Microsoft Entra ID user account. Since the account is shared by multiple people, you manage credentials and other account details differently than regular accounts.
 
 1. [Open the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 

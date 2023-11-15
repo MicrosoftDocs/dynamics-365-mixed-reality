@@ -3,7 +3,7 @@ title: Set up an environment and install the Microsoft Dynamics 365 Remote Assis
 author: davepinch
 description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
 ms.author: davepinch
-ms.date: 09/26/2022
+ms.date: 11/14/2023
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -68,31 +68,19 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 
-2. In the left pane, select **Environments**, and then select **New**.
+1. [Create an environments with a database.](/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center)
 
-3. Do the following:
+1. Make sure you select the following:
 
-    1. Enter a name for the environment.
+   - Under **Type**, select **Production** or **Sandbox**.
 
-    2. Under **Type**, select **Production** or **Sandbox**.
+   - Under **Add a Dataverse data store**, select **Yes**.
 
-    3. Under **Create a database for this environment**, select **Yes**.
+1. Select **Next**.
 
-    4. Select **Next**.
+1. Make sure you select **Yes** under **Enable Dynamics 365 apps**.
 
-       :::image type="content" source="media/PPAC_Environment_Create_Database.png" alt-text="Screenshot of a new environment create database.":::
-
-4. In the **Add database** pane:
-
-    1. Under **Enable Dynamics 365 apps**, select **Yes**.
-
-    2. In the **Automatically deploy these apps** list, select **Remote Assist**.
-
-    3. Select **Save**. This will create an environment and automatically install the Dynamics 365 Remote Assist app.
-
-    :::image type="content" source="media/PPAC_Environment_Enable_D365_apps.png" alt-text="Screenshot of a new environment with enable Dynamics 365 apps.":::
-
-More information: [Create and manage environments in the Power Platform admin center](/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center)
+1. Select **Save**. This will create an environment and automatically install the Dynamics 365 Remote Assist app.
 
 ### Use an existing environment
 
