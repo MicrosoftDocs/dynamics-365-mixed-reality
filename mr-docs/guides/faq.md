@@ -79,5 +79,24 @@ The user will be able to sign into Dynamics 365 Guides after doing these two ste
 
 [Learn more about assigning security roles](assign-role.md)
 
+## Copilot in Dynamics 365 Guides
+
+### What is Copilot in Dynamics 365 Guides?
+
+Microsoft Copilot in Dynamics 365 Guides combines the power of generative AI with mixed reality to help frontline workers complete complex tasks and resolve issues faster with less disruption to the flow of work. Copilot on HoloLens not only tells frontline workers how to accomplish a task in words but can also show them what to do in the context of their work with holograms.
+
+### How and when is Copilot in Dynamics 365 Guides going to be available?
+
+The Copilot capability in Dynamics 365 Guides is currently in private preview for HoloLens 2. We’ll share more details on public preview and general availability in the future.
+
+### What capabilities are currently planned for Copilot in Dynamics 365 Guides?  
+
+[Read the full blog to learn about Point and Ask, Spatial content generation, and more.](https://aka.ms/MixedReality)
+
+### What is the process for training Copilot in Dynamics 365 Guides on an organization’s internal knowledge base?
+
+Copilot will only have access to an organization’s internal knowledge bases, which would be supplied to it to learn from, for example schematics, manuals, 3D assets and standard operating procedures. The process is simple. An organization’s trainer or team lead/supervisor takes all relevant documentation, diagrams, etc. for a specific asset and places it into the corresponding folder in Microsoft Dataverse.
+
+Customers can also expand the knowledge base of Copilot in Dynamics 365 Guides by adding remote support transcripts and other materials developed during use to its repository of information.
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
