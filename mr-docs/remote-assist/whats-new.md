@@ -22,7 +22,7 @@ This article describes details about the **current wave of features (October 202
 
 ### Bugs fixed
 
-- Fixed an issue where some times the name of the caller didn't appear on an incoming call notification
+- Fixed an issue where the name of the caller sometimes didn't appear on an incoming call notification
 - Improved performance of incoming video and switching video between remote participants
 - Addressed rare connectivity issues with proxy configuration
 - Improved the overall reliability and performance of the app
