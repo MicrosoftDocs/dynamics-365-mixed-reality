@@ -1,0 +1,2 @@
+> [!NOTE]
+> If your organization helps deliver onsite service to customer locations, consider [buying a Field Service license.](/dynamics365/field-service/buy-fs) The Field Service license also includes Dynamics 365 Guides and Dynamics 365 Remote Assist at no extra cost.

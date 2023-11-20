@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to buy a subscription for Microsoft Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 10/12/2023
+ms.date: 11/20/2023
 ms.topic: how-to
 title: Buy a Dynamics 365 Guides subscription
 ms.reviewer: v-wendysmith
@@ -12,6 +12,8 @@ ms.custom: bap-template
 # Buy a Dynamics 365 Guides subscription
 
 Purchase a Dynamics 365 Guides subscription. If you have a trial version, you can [convert the trial to a paid license](convert-trial-to-paid.md).
+
+[!INCLUDE [fs-guides-ra-license](../includes/fs-guides-ra-license.md)]
 
 ## Prerequisites
 
