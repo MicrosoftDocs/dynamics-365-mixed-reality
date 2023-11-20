@@ -3,7 +3,7 @@ title: Capture and share photos in Dynamics 365 Guides on HoloLens
 author: prashantyvr
 description: Learn how to take photos and share them between Dynamics 365 Guides users and Teams users
 ms.author: prashan
-ms.date: 06/09/2023
+ms.date: 11/20/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -15,9 +15,11 @@ Dynamics 365 Guides HoloLens users can take photos at any time. They can also sh
 
 ## Take a photo
 
-You can take a photo of your mixed reality annotations during a call, or you can take a photo of a piece of equipment and share it. For example, send a photo to your remote collaborators so that they can clearly see an intricate part of the machine or a machine tag that has small text. You can take a photo in HoloLens at any time, even when Guides is closed. The photo includes everything that you can see through your HoloLens device at the time you take the photo, including holograms.
+You can take a photo of your mixed reality annotations during a call, or you can take a photo of a piece of equipment and share it. For example, send a photo to your remote collaborators so that they can clearly see an intricate part of the machine or a machine tag that has small text. The photo includes everything that you can see through your HoloLens device at the time you take the photo, including holograms. You can take a photo two ways:
 
-To take a picture of your current view in HoloLens, press the volume up and volume down buttons on the HoloLens device at the same time (or say, "Take a picture" or "Take a photo"). The photo is saved to the device. For more information, go to [Capture a mixed reality photo](/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
+- To take a photo directly through the HoloLens OS, press the volume up and volume down buttons on the HoloLens device at the same time (or say, "Take a picture" or "Take a photo"). The photo is saved to the device. For more information, go to [Capture a mixed reality photo](/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
+
+- To take a photo within the Guides app (requires HoloLens OS version 22621.1244 or higher), select the **Gallery** button within chat. Then select the **Camera** :::image type="icon" source="media/camera-button.png"::: button.
 
 ## Share photos
 
