@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to buy a subscription for Microsoft Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 11/20/2023
+ms.date: 11/27/2023
 ms.topic: how-to
 title: Buy a Dynamics 365 Guides subscription
 ms.reviewer: v-wendysmith
