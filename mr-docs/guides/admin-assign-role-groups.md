@@ -3,7 +3,7 @@ title: Assign Dynamics 365 Guides Author and Operator roles to a Microsoft Entra
 description: Learn how to assign Author and Operator roles to a Dynamics 365 group team that's linked to a Microsoft Entra group.
 author:  davepinch
 ms.topic: article
-ms.date: 11/08/2021
+ms.date: 12/05/2023
 ms.author: davepinch
 ms.reviewer: v-wendysmith
 ---
@@ -21,7 +21,7 @@ You can assign [Dynamics 365 Guides Author and Operator roles](admin-role-types.
 > [!NOTE]
 > SharePoint groups are not supported by Dynamics 365. Only Microsoft Entra Security groups or Microsoft 365 groups are supported by Dynamics 365 group teams.
 
-## Create a Microsoft Entra group
+## Create a Microsoft Entra security group
 
 To learn how to create a Microsoft Entra Security group or a Microsoft 365 group, see [Create a basic group and add members using Microsoft Entra admin center](/entra/fundamentals/how-to-manage-groups).
 
@@ -46,28 +46,18 @@ You can assign roles to a team in two ways:
 
 For this option, you'll update a role to include the Dynamics 365 group team that was created using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments).
 
-1. In the Power Platform admin center, select the environment that you want to update.
-
-2. In the **Access** section, under **Security roles**, select **See all**.
+1. [Assign a group to a Guides role.](/power-platform/admin/database-security#assign-security-roles-to-users-in-an-environment-that-has-a-dataverse-database)
 
     ![power platform admin.](media/power-platform-admin-center-env-setting.PNG "power platform admin")
+
+1. Under **Role**, select **Basic User**.
+
+   > [!NOTE]
+   > The **Basic User** role must be added to the group to enable Dynamics 365 Guides for the users in this group team.
+
+1. Select **Members** > **Add people**, then search and select the Dynamics 365 group team you created. Then select **Add**.
  
-3. Under **Role**, select **Basic User**. 
-
-    ![basic user.](media/power-platform-enviro-roles.PNG "basic users")
-    
-    > [!NOTE]
-    > The **Basic User** role must be added to the group to enable Dynamics 365 Guides for the users in this group team. 
-
-4. At the top of the screen, select **Add people**.
-
-    ![Add people command at top of Power Platform screen.](media/power-platform-security-role-add-people.PNG "Add people command at top of Power Platform screen")
-    
-5. Search for the Dynamics 365 group team created above, select it in the search results, and then select **Add**.
-
-    ![add group.](media/power-platform-security-add-group.PNG "Add group")
- 
-6. Repeat the steps above for the [Dynamics 365 Guides role](/dynamics365/mixed-reality/guides/assign-role) that you want to apply to this team. Dynamics 365 Guides roles include:
+1. Repeat these steps for the [Dynamics 365 Guides role](/dynamics365/mixed-reality/guides/assign-role) that you want to apply to this team. Dynamics 365 Guides roles include:
 
     - Dynamics 365 Guides Author
     
@@ -79,10 +69,10 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
     [Learn more about the different Author and Operator roles](admin-role-types.md).
 
-7. Repeat the above steps for any additional roles that you want to apply to the group team.
+1. Repeat the process for any additional roles that you want to apply to the group team.
 
 > [!NOTE]
-> When a user is added to a Microsoft Entra group, it doesn't show up in the team until the user signs in. 
+> When a user is added to a Microsoft Entra group, it doesn't show up in the team until the user signs in.
 
 ### Option 2: Assign a Dynamics 365 Guides role to a group team
 

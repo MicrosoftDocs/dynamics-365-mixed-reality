@@ -2,7 +2,7 @@
 author: davepinch
 description: Add user accounts to a Microsoft Dynamics 365 Guides license.
 ms.author: davepinch
-ms.date: 11/10/2023
+ms.date: 12/04/2023
 ms.topic: how-to
 title: Assign licenses and add users
 ms.reviewer: v-wendysmith
@@ -13,20 +13,18 @@ ms.custom: bap-template
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-<!--- Work with Dave and Alwin to update 
-As a Microsoft Dynamics 365 Guides admin, assign licenses to individual users or a group of users in your organization. Choose how you want to assign licenses to users: 
+When assigning licenses and adding users, you must:
 
-- Add users through Microsoft Entra ID. We recommend using Microsoft Entra ID. With this option, you can assign licenses and Guides security roles at the group level. Assigning licenses at a group level is optional. You can assign licenses to individual users.
-- Add users manually through the Power Platform admin center and set security roles as you add the user.
+- Assign licenses to individual users or a group of users
+- Assign security roles to those users or group
+- Link the users or group to the Guides environment through a Dataverse group
 
---->
+We recommend using [Microsoft Entra security groups](/entra/fundamentals/concept-group-based-licensing) to assign licenses, add users, and assign Guides security roles at the group level. This option makes it easier to organize and manage user roles. By linking Microsoft Entra security groups  to a Dynamics 365 group team, Dynamics 365 Guides roles can be inherited by any user added to the Microsoft Entra group.
 
-To add users to Dynamics 365 Guides, first assign a Guides license to each new or existing user. You can use the Microsoft 365 admin center or Microsoft Entra ID to assign licenses. This article describes how to assign licenses.
-
-After licenses have been assigned, configure the Guides security roles for each user or security group. See [Assign the Guides security roles.](assign-role.md)
+If you choose not to use Entra security groups, you can assign licenses to individual users using [Microsoft 365 admin center](#add-users-and-assign-licenses-with-the-microsoft-365-admin-center) or [Microsoft Entra ID](#add-users-and-assign-licenses-with-microsoft-entra-id). 
 
 > [!IMPORTANT]
-> Make sure each user or group is assigned Dynamics 365 Guides, Common Data Service, and PowerApps for Guides.
+> Regardless of how you assign licenses, make sure each user or group is assigned Dynamics 365 Guides, Common Data Service, and PowerApps for Guides.
 
 ## Prerequisites
 
@@ -34,46 +32,28 @@ After licenses have been assigned, configure the Guides security roles for each 
 
 - The [Dynamics 365 Guides solution must be installed](install-guides.md).
 
-### Assign licenses with Microsoft 365 admin center
+## Add users and assign licenses with a Microsoft Entra security group
 
-1. Sign in to the [Microsoft 365 admin center.](https://admin.microsoft.com/AdminPortal/)
+You can create a Microsoft Entra security group add users to that group. Assign licenses to the group and then link the Entra security group to a Dataverse team group.
 
-1. Assign licenses to users using one of the following processes:
+1. [Create a Microsoft Entra security group and add users.](/entra/fundamentals/how-to-manage-groups)
 
-   - [Assign licenses to existing users](/microsoft-365/admin/manage/assign-licenses-to-users)
+1. [Assign Guides licenses to the Entra security group.](/entra/identity/users/licensing-groups-assign)
 
-   - [Add users and assign licenses at the same time](/microsoft-365/admin/add-users/add-users)
+1. [Create a Dynamics 365 group team](/power-platform/admin/manage-group-teams#create-a-group-team) in the environment where you installed the Guides solution, linking the group to the Microsoft Entra security group you created.
 
-   - [Add multiple users and licenses at the same time](/microsoft-365/admin/add-users/add-users#add-multiple-users-at-the-same-time-in-dashboard-view)
+## Add users and assign licenses with Microsoft 365 admin center
 
-### Assign licenses with Microsoft Entra
+[Add users and assign licenses with Microsoft 365 admin center](/microsoft-365/admin/manage/assign-licenses-to-users)
 
-1. Sign in to the [Microsoft Entra admin center.](https://entra.microsoft.com/)
+## Add users and assign licenses with Microsoft Entra ID
 
-1. Assign licenses to users using one of the following processes:
+[Add users and assign licenses with Microsoft Entra ID](/azure/active-directory/fundamentals/license-users-groups)
 
-   - [Assign licenses to individual users](/azure/active-directory/fundamentals/license-users-groups)
+## Next steps
 
-   - [Assign licenses to users by group membership](/azure/active-directory/enterprise-users/licensing-groups-assign)
+- [Assign the Guides security roles](assign-role.md) for each user.
+- [Assign the Dynamics 365 Guides security roles](/power-platform/admin/manage-group-teams#manage-the-security-roles-of-a-team). For more information, see the [Author and Operator roles in Guides](admin-role-types.md).
 
-<!--- Work with Dave and Alwin to update 
-
-### Add users and assign licenses to a Microsoft Entra security group
-
-You can create a Microsoft Entra security group and assign licenses to the group and add users to that group. Then, link the Entra security group to a Dataverse team group.
-
-1. [Create a Microsoft Entra security group.](/entra/fundamentals/groups-view-azure-portal)
-
-1. [Assign Guides licenses to the group.](/entra/fundamentals/license-users-groups)
-
-1. [Add users to the security group.](/entra/fundamentals/concept-group-based-licensing)
-
-1. [Create a Power Platform group team](/power-platform/admin/manage-group-teams) and link to the Microsoft Entra security group you created.  Point to admin assign role groups
-
---->
-
-## Next step
-
-- [Assign the Guides security roles](assign-role.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
