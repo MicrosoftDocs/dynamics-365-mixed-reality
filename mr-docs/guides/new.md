@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: davepinch
-ms.date: 11/03/2023
+ms.date: 11/30/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -18,6 +18,27 @@ ms.custom: bap-template
 This page provides details about the latest release in the **current wave of features (October 2023 through March 2024)** for Microsoft Dynamics 365 Guides, organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
 If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## December 05, 2023
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 901.2311.25001.0 |
+|HoloLens app (HoloLens 2 only)| 901.2311.25001.0 |
+|Solution| 900.1.0.0 |
+
+### Bugs fixed and other improvements
+
+- <a href="/dynamics365/mixed-reality/guides/calling-photos" target="blank">Take a photo within Guides</a> through the HoloLens and share it with other call participants</a>.
+- Guides dynamically manages loaded content in response to overall system memory usage. This improves device stability when using multiple HoloLens features simultaneously (such as Guides, calling, files, mixed reality capture (MRC), and Edge browser) and allows more file content to display. However, when multiple features are in use at once, anticipate potentially longer loading times when navigating through a guide.
+- Guides limits the maximum size of a single texture on a 3D model to 16 megapixels (such as 4K x 4K or equivalent).
+
+> [!IMPORTANT]
+> Guides 901.x isn't compatible with Guides 800 solutions. If you choose not to update to the 900 solution and remain on the version 800 solution and compatible versions of the PC and HoloLens apps, *don't* update to the 901.x version.
+>
+> If you updated to the Guides Dataverse solution version 900.0.1.1, update to the new solution and PC and HoloLens app versions.
+>
+> Work with your IT admin to schedule installation updates or <a href="/dynamics365/mixed-reality/guides/upgrade" target="_blank">see instructions for updating the solution</a>. You can also [learn more about which solutions work with which applications](admin-apps-solution-compatibility.md).
 
 ## November 06, 2023
 
