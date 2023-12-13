@@ -1,25 +1,20 @@
 ---
-title: Assign roles to Microsoft Entra security groups 
-description: Learn how to use Microsoft Entra groups to add users, assign licenses, and assign Author and Operator roles that's linked to a Dynamics 365 group team.
+title: Add licenses, users, and roles to Microsoft Entra security groups 
+description: Learn how to use Microsoft Entra groups and add users, assign licenses, and assign Author and Operator roles that's linked to a Dynamics 365 group team.
 author:  davepinch
-ms.topic: article
-ms.date: 12/05/2023
+ms.topic: how-to
+ms.date: 12/13/2023
 ms.author: davepinch
 ms.reviewer: v-wendysmith
 ---
 
-# Assign roles to Microsoft Entra security groups
+# Add licenses, users, and roles to Microsoft Entra security groups
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-Use Microsoft Entra groups to add users, assign licenses, and assign roles.
-
-We recommend using [Microsoft Entra security groups](/entra/fundamentals/concept-group-based-licensing) to add users, assign licenses, and assign [Dynamics 365 Guides roles](admin-role-types.md). Linking a Microsoft Entra security group to a Dataverse group team make it easier to organize and manage user roles. Guides roles can be inherited by any user added to the Entra security group.
+Use [Microsoft Entra security groups](/entra/fundamentals/concept-group-based-licensing) to better organize and manage Guides users and user roles.
 
 For example, you have 15 Authors and 20 Operators. Create an Entra security group for your Authors, adding them as users and assigning them licenses. Create another Entra security group for your Operators adding them as users and assigning them licenses. When you create a Dataverse team for your authors and one for your operators, you'll link these teams to your Entra security groups. The Entra security group memberships sync automatically from the security group to the Dataverse group team. Then, you can assign the roles to the Dataverse teams rather than to each individual.
-
-> [!NOTE]
-> SharePoint groups are not supported by Dynamics 365. Only Microsoft Entra security groups or Microsoft 365 groups are supported by Dataverse group teams.
 
 ## Prerequisites
 
@@ -28,8 +23,6 @@ For example, you have 15 Authors and 20 Operators. Create an Entra security grou
 - The [Dynamics 365 Guides solution must be installed](install-guides.md).
 
 ## Add users and assign licenses with a Microsoft Entra security group
-
-1. Go to the [Power Platform admin center.](https://admin.powerplatform.microsoft.com/environments)
 
 1. [Create a Microsoft Entra security group and add users.](/entra/fundamentals/how-to-manage-groups)
 

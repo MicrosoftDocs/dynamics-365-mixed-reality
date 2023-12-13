@@ -34,11 +34,10 @@
 ## Administer Dynamics 365 Guides
 
 ### Manage users, roles, ownership and access
-#### [Add licenses and users](add-users.md)
-#### Assign user roles
-##### [About the Author and Operator roles](admin-role-types.md)
-##### [Assign roles to individual users](assign-role.md)
-##### [Assign roles to Microsoft Entra groups](admin-assign-role-groups.md)
+#### [Add licenses and users to individual users](add-users.md)
+#### [Add licenses, users, and roles to Microsoft Entra groups](admin-assign-role-groups.md) 
+#### [About the Author and Operator roles](admin-role-types.md)
+#### [Assign roles to individual users](assign-role.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
 #### Manage guides content
 ##### [Guides content management](admin-content-mgmt.md)
