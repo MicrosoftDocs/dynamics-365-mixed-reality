@@ -51,7 +51,7 @@ The Microsoft Entra ID default configuration for sign-in frequency is a rolling 
 
 ## Limitations with Offline mode
 
-- You can't make a call in **Offline** mode. When you're offline, the call activity card shows that you're offline. 
+- You can't make a call in **Offline** mode. When you're offline, the call activity card (list of contacts) shows that you're offline. 
 
 - You can't author a guide in **Offline** mode.
 

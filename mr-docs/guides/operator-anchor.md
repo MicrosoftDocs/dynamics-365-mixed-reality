@@ -22,11 +22,11 @@ The way that you anchor your guide depends on the type of anchor that the author
 
 - Object anchor
 
-- QR code anchor
+- QR code anchor - A printed QR code anchor that's attached to a physical object in the real world.
 
-- Circular code anchor
+- Circular code anchor -  A printed circular code that's attached to a physical object in the real world.
 
-- Holographic anchor
+- Holographic anchor - A digital representation that's overlaid on a physical object in the real world. The digital representation can be a computer-aided design (CAD) model or a scanned model.
 
 This topic provides step-by-step instructions for each type of anchor.
 
