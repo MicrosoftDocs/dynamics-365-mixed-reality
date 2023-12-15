@@ -47,7 +47,6 @@ Use these pages to get a quick overview of the product and the guide-authoring p
 - [Overview of Dynamics 365 Guides](overview.md)
 - [Authoring overview](authoring-overview.md)
 - [How to create a great mixed-reality guide](great-guide.md)
-- [Glossary of terms](glossary.md)
 
 ## Get started with Microsoft Teams collaboration features
 

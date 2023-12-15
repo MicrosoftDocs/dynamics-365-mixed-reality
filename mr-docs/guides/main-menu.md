@@ -36,6 +36,8 @@ Need to open a different guide? Summon the **Main** menu again, select the **Wor
 
 ![Animation of opening the Main menu and selecting Work activity button.](media/1_handed.gif "Animation of opening the Main menu and selecting the Work activity button")
 
+The submenu from the **Work activity** button enables you to filter the view of your activity content (**All** or **Recent**).
+
 When the **Main** menu is open, you can move it wherever you want (or pivot it) by grabbing it with your hand(s). 
 
 ![Animation of moving the Main menu.](media/Movement_TouchWindow.gif "Animation of moving the Main menu")
