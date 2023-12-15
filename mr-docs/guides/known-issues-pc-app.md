@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: davepinch
-ms.date: 05/24/2023
+ms.date: 12/15/2023
 ms.topic: faq
 title: Known issues with the Dynamics 365 Guides PC app
 ms.reviewer: mhart
@@ -10,9 +10,13 @@ ms.reviewer: mhart
 
 # Known issues with the Dynamics 365 Guides PC app
 
+## The Guides PC app stops responding if you use a non-English language and select the **All** or **Recent** tab
+
+If you use the Guides PC app in a non-English language and select the **All** or **Recent** tab on the Guides list, the app stops responding.
+
 ## I can't find the guide that I created
 
-In the list of guides, look for newly created guides on the **All** tab. The **Recents** list shows only those guides that have previously been opened on the device. It doesn't include guides that were recently created in the PC authoring app.
+In the list of guides, look for newly created guides on the **All** tab. The **Recent** list shows only those guides that have previously been opened on the device. It doesn't include guides that were recently created in the PC authoring app.
 
 ## You can create guides that have the same name without overwriting old guides
 
@@ -50,9 +54,9 @@ If you still can't find your content, contact your admin. There might be a permi
 
 You might have an existing guide where an asset was placed in the bin in the PC app, and then instances of that asset were placed in the world on HoloLens. If you delete the asset from the bin while you're editing this guide, all instances that have been placed in the world are removed. Those placed instances won't be restored if you add the asset again. To restore them, select the **Undo** button in the PC app.
 
-## Guest users cannot see environment in PC app
+## Guest users can't see environment in PC app
 
-The Dynamics 365 Guides PC app does not support guest access. Guest users can access Guides content as an operator, not as an author. For more information, see [Invite a guest user to operate a guide](admin-add-guest-user.md).
+The Dynamics 365 Guides PC app doesn't support guest access. Guest users can access Guides content as an operator, not as an author. For more information, see [Invite a guest user to operate a guide](admin-add-guest-user.md).
 
 ## See also
 
