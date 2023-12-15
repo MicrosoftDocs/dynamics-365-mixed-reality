@@ -12,13 +12,13 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-You can work offline with a guide on HoloLens 1 or HoloLens 2 (for example, when you're working on a factory floor) if you don't have access to the internet or have an intermittent internet connection. 
+You can work offline with a guide on HoloLens if you don't have access to the internet or have an intermittent internet connection. For example, when you're working on a factory floor. 
 
-You don't need to do anything to set up **Offline** mode. When you open a guide when you're connected to the internet, the guide is automatically downloaded for offline use. If you lose your internet connection or turn off your Wi-Fi connection, the guide will automatically be available and you'll see the word "Offline" at the top of your touch screen.
+You don't need to do anything to set up **Offline** mode. When you're connected to the internet and you open a guide, the guide is automatically downloaded for offline use. If you lose your internet connection or turn off your Wi-Fi connection, the guide is automatically available and "Offline" appears at the top of your touch screen.
 
 ![Offline mode.](media/operator-offline.JPG "Offline mode")
 
-Any guide that's available for offline use will appear under the **All** tab. If no guides are available offline, you'll see this message: 
+Any guide that's available for offline use appears under the **All** tab. If no guides are available offline, this message appears: 
 
 "No guides are available offline."
 
@@ -33,9 +33,9 @@ If you go offline, Dynamics 365 Guides automatically signs you into the last acc
 
 ## Working with multiple users or devices
 
-Guides are specific to the user and the HoloLens. If you're sharing a HoloLens with another user and you both want to use the same guide, each of you will need to open the guide when you have an internet connection to automatically download the guide. 
+Guides are specific to the user and the HoloLens. If you're sharing a HoloLens with another user and you both want to use the same guide, when you have an internet connection, both of you open the guide to automatically download it.
 
-Likewise, if you use more than one HoloLens, you'll need to open the guide on each HoloLens while you have an internet connection so you can download the guide for offline use.
+Likewise, if you use more than one HoloLens, open the guide on each HoloLens while you have an internet connection and download the guide for offline use.
 
 ## Accessing a guide offline with a QR code
 
@@ -55,11 +55,11 @@ The Microsoft Entra ID default configuration for sign-in frequency is a rolling 
 
 - You can't author a guide in **Offline** mode.
 
-- If you make changes to a guide as an author, those changes will not automatically apply to your downloaded guide. You must re-open the guide on the device you want to use offline to make sure the latest changes have been dowloaded. 
+- If you make changes to a guide as an author, those changes don't automatically apply to your downloaded guide. You must reopen the guide on the device you want to use offline to make sure the latest changes were downloaded. 
 
-- If a guide is deactivated after it's downloaded to a HoloLens, the downloaded version will remain on the HoloLens until the cache is cleared, but you will not be able to open it online or access any updates.
+- If a guide is deactivated after it's downloaded to a HoloLens, the downloaded version remains on the HoloLens until the cache is cleared. But you can't open it online or access any updates.
 
-- If you lose permissions to a guide that has already been downloaded to your HoloLens, the downloaded version will remain on the HoloLens until the cache is cleared, but you will not be able to open it online or access any updates. 
+- If you lost permissions to a guide after it's downloaded to your HoloLens, the downloaded version remains on the HoloLens until the cache is cleared. But you can't open it online or access any updates. 
 
 You can clear the content and settings cached on a HoloLens by resetting it. 
 
@@ -97,7 +97,7 @@ You can clear the content and settings cached on a HoloLens by resetting it.
 
     ![Reset command selected.](media/reset-cache.PNG "Reset command selected")
 
-8. In the pop-up message, select **Reset**. A check mark will appear next to the **Reset** button.
+8. In the pop-up message, select **Reset**. A check mark appears next to the **Reset** button.
 
 ## What's next?
 - [Get oriented with the Step card](operator-step-card-orientation.md)
