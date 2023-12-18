@@ -48,7 +48,7 @@ There are four ways to anchor a guide:
 
 - **Circular code anchor**. When you use a circular code anchor, you align your guide by gazing at a printed circular code anchor that's attached to a physical object in the real world. 
 
-- **Holographic anchor**. When you use a holographic anchor, you align your guide to a digital 3D hologram that's overlaid on a physical object in the real world. 
+- **Holographic anchor**. When you use a holographic anchor, you align your guide to a digital representation that's overlaid on a physical object in the real world. The digital representation can be a computer-aided design (CAD) model or a scanned model.
 
   You might have to use a holographic anchor if:
 
