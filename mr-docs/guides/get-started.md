@@ -25,7 +25,7 @@ Here are the most important pages for admins:
 
 Dynamics 365 Guides provides a five-minute demo that showcases the value of holographic work instructions for your company. This demo is useful for every Dynamics 365 Guides user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to sign in or be online to use the demo.
 
-To start the demo, air tap the Dynamics 365 Guides tile, and then select **Try a guide**.
+To start the demo, air tap the Dynamics 365 Guides tile, and then select **Try a guide**. Air tap is a gesture that's equivalent to a "click" with a mouse. Hold your hand straight out in front of you in a loose fist, point your index finger straight up toward the ceiling, tap your finger down, and then quickly raise it back up again.
 
 ![Try the demo button.](media/touch-sign-in.jpg "Try the demo button")
 
@@ -47,7 +47,6 @@ Use these pages to get a quick overview of the product and the guide-authoring p
 - [Overview of Dynamics 365 Guides](overview.md)
 - [Authoring overview](authoring-overview.md)
 - [How to create a great mixed-reality guide](great-guide.md)
-- [Glossary of terms](glossary.md)
 
 ## Get started with Microsoft Teams collaboration features
 
