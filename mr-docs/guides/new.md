@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: davepinch
-ms.date: 12/05/2023
+ms.date: 12/19/2023
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -23,11 +23,11 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 901. |
+|PC app| 901.2312.16001.0 |
 |HoloLens app (HoloLens 2 only)| 901.2311.28001.0 |
-|Solution| 900.1. |
+|Solution| 900.1.0.0 |
 
-Version x fixes a performance issue in the PC app.
+Version 901.2312.16001.0 fixes an issue in the PC app where the app stops responding if you use a non-English language and select the **All** or **Recent** tab.
 
 > [!IMPORTANT]
 > Guides 901.x isn't compatible with Guides 800 solutions. If you choose not to update to the 900 solution and remain on the version 800 solution and compatible versions of the PC and HoloLens apps, *don't* update to the 901.x version.
