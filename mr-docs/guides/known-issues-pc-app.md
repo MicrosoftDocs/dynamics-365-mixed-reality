@@ -2,17 +2,13 @@
 author: davepinch
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: davepinch
-ms.date: 12/15/2023
+ms.date: 12/19/2023
 ms.topic: faq
 title: Known issues with the Dynamics 365 Guides PC app
 ms.reviewer: mhart
 ---
 
 # Known issues with the Dynamics 365 Guides PC app
-
-## The Guides PC app stops responding if you use a non-English language and select the **All** or **Recent** tab
-
-If you use the Guides PC app in a non-English language and select the **All** or **Recent** tab on the Guides list, the app stops responding.
 
 ## I can't find the guide that I created
 
