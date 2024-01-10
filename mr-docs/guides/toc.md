@@ -56,10 +56,6 @@
 #### [Restrict sign out of HoloLens](restricted-mode-signout.md)
 ### [Create folders](admin-create-folders.md)
 ### [Enable or disable calling](admin-enable-calls.md)
-### Integrations with other Dynamics 365 apps
-#### [Dynamics 365 Field Service](field-service.md)
-#### [Field Service mobile app](admin-connect-field-service-mobile.md)
-#### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
 ### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
@@ -68,9 +64,9 @@
 #### [Move content](migrate.md)
 ### [Deployment playbook](admin-deployment-playbook.md)
 
-### Integrations with other Dynamics 365 apps
+### Integrate with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
-#### [Field Service (Dynamics 365) Mobile](admin-connect-field-service-mobile.md)
+#### [Field Service mobile app](admin-connect-field-service-mobile.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
 
 ### Download the HoloLens and PC apps
