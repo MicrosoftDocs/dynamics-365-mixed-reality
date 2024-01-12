@@ -4,12 +4,12 @@ description: Add user accounts to a Microsoft Dynamics 365 Guides license.
 ms.author: davepinch
 ms.date: 01/11/2024
 ms.topic: how-to
-title: Add licenses and users to individual users
+title: Assign licenses to individual users
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-# Add licenses and users to individual users
+# Assign licenses to individual users
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
