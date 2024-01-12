@@ -2,7 +2,7 @@
 author: davepinch
 description: Add user accounts to a Microsoft Dynamics 365 Guides license.
 ms.author: davepinch
-ms.date: 12/13/2023
+ms.date: 01/11/2024
 ms.topic: how-to
 title: Add licenses and users to individual users
 ms.reviewer: v-wendysmith
@@ -17,7 +17,8 @@ To add users to Dynamics 365 Guides, first assign a Guides license to each new o
 
 To assign licenses and add users, you can use the Microsoft 365 admin center, Microsoft Entra ID, or Microsoft Entra security groups.
 
-We recommend using [Microsoft Entra security groups](/entra/fundamentals/concept-group-based-licensing) to add users, assign licenses, and assign roles. This option makes it easier to organize and manage user roles. Guides roles can be inherited by any user added to the Entra security group. To use this option, see [add licenses, users, and roles to Microsoft Entra security groups](admin-assign-role-groups.md).
+> [!NOTE]
+> We recommend using [Microsoft Entra security groups](/entra/fundamentals/concept-group-based-licensing) to add users, assign licenses, and assign roles. This option makes it easier to organize and manage user roles. Guides roles can be inherited by any user added to the Entra security group. To use this option, see [add licenses, users, and roles to Microsoft Entra security groups](admin-assign-role-groups.md).
 
 ## Prerequisites
 
