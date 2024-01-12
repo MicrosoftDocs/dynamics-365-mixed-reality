@@ -16,6 +16,11 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/guides/glossary.md",
+      "redirect_url": "pc-app-step-editor-overview",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/calling-receive-call.md",
       "redirect_url": "calling-start-call#receive-a-call-from-a-remote-collaborator",
       "redirect_document_id": "false"

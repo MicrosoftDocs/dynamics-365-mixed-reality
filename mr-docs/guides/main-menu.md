@@ -10,7 +10,7 @@ ms.reviewer: v-wendysmith
 
 # Use the Main menu in Dynamics 365 Guides to start an activity
 
-You can use the **Main** menu in the Microsoft Dynamics 365 Guides HoloLens app to start an activity, such as starting a call with a Microsoft Teams user or opening a file or guide. After signing in to the app, just look at the palm of your hand to open the **Main** menu, and then use direct touch to choose an activity button. 
+You can use the **Main** menu in the Microsoft Dynamics 365 Guides HoloLens app to start an activity, such as starting a call with a Microsoft Teams user or opening a file or guide. After signing in to the app, just look at the palm of your hand to open the **Main** menu, and then use direct touch to choose an activity button.
 
 ![Animation of opening the Main menu with either hand.](media/2_handed.gif "Animation of opening the Main menu with either hand")
 
@@ -35,6 +35,8 @@ When you're working with complex machinery in a busy environment, you need the r
 Need to open a different guide? Summon the **Main** menu again, select the **Work activity** button, and then select the guide you want to open. 
 
 ![Animation of opening the Main menu and selecting Work activity button.](media/1_handed.gif "Animation of opening the Main menu and selecting the Work activity button")
+
+The submenu from the **Work activity** button enables you to filter the view of your activity content (**All** or **Recent**).
 
 When the **Main** menu is open, you can move it wherever you want (or pivot it) by grabbing it with your hand(s). 
 

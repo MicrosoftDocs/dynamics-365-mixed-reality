@@ -27,11 +27,11 @@ To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, 
 
     ![Hand ray example.](media/hand-rays-example.PNG "Hand ray example")
 
-- **Gaze**. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. Often, you will use gaze and air tap together. When you gaze, turn your whole head, not just your eyes. The pointer will follow.
+- **Gaze**. Gaze is the act of selecting an item or targeting an object with the HoloLens. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. Often, you will use gaze and air tap together. When you gaze, turn your whole head, not just your eyes. The pointer will follow.
 
     ![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
-- **Air tap**. Hold your hand straight out in front of you in a loose fist, point your index finger straight up toward the ceiling, tap your finger down, and then quickly raise it back up again.
+- **Air tap**. Air tap is a gesture that's equivalent to a "click" with a mouse. Hold your hand straight out in front of you in a loose fist, point your index finger straight up toward the ceiling, tap your finger down, and then quickly raise it back up again.
 
     ![Air tap animation.](media/air-tap-animation.gif "Air tap animation")
 

@@ -14,7 +14,7 @@ To move through a guide as an operator in [!include[cc-microsoft](../includes/cc
 
 ## Gaze
 
-Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is as easy as it sounds. In some cases, you can select an item (for example, an app, menu, or button) just by gazing at a selection box next to it. For example, you can select the **Next** or **Go back** button on an instruction card (Step card) by gazing at the button. The selection is completed when the box for the button is filled up by your gaze.
+Gaze is the act of selecting an item or targeting an object with the HoloLens. In some cases, you can select an item (for example, an app, menu, or button) just by gazing at a selection box next to it. For example, you can select the **Next** or **Go back** button on an instruction card (Step card) by gazing at the button. The selection is completed when the box for the button is filled up by your gaze.
 
 ![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
@@ -30,7 +30,7 @@ As you work with a guide, you will also have to use some gestures. This section 
 
 ### Air tap
 
-You can use air tap, together with gaze, to select apps, other holograms, and gaze/dwell buttons. To do an air tap, follow these steps.
+You can use air tap, together with gaze, to select apps, other holograms, and gaze/dwell buttons. Air tap is a gesture that's equivalent to a "click" with a mouse. To do an air tap, follow these steps.
 
 1. Gaze at a hologram.
 

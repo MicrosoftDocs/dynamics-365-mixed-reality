@@ -3,7 +3,7 @@ author: davepinch
 description: Learn how to buy a subscription of the Dynamics 365 Remote Assist HoloLens and mobile apps.
 ms.author: davepinch
 ms.service: dynamics-365-remote-assist
-ms.date: 02/16/2023
+ms.date: 11/27/2023
 ms.topic: how-to 
 title: Buy a Dynamics 365 Remote Assist subscription
 ms.reviewer: v-wendysmith
@@ -11,6 +11,8 @@ ms.custom: bap-template
 ---
 
 # Buy a Dynamics 365 Remote Assist subscription
+
+[!INCLUDE [fs-guides-ra-license](../includes/fs-guides-ra-license.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
