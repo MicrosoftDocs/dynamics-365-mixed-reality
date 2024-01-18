@@ -1,121 +1,77 @@
 ---
-title: Assign Dynamics 365 Guides Author and Operator roles to a Microsoft Entra group 
-description: Learn how to assign Author and Operator roles to a Dynamics 365 group team that's linked to a Microsoft Entra group.
+title: Add licenses, users, and roles to Microsoft Entra security groups 
+description: Learn how to use Microsoft Entra groups and add users, assign licenses, and assign Author and Operator roles that's linked to a Dynamics 365 group team.
 author:  davepinch
-ms.topic: article
-ms.date: 11/08/2021
+ms.topic: how-to
+ms.date: 12/13/2023
 ms.author: davepinch
 ms.reviewer: v-wendysmith
 ---
 
-# Assign Author and Operator roles to a Dynamics 365 group team linked to a Microsoft Entra group
+# Add licenses, users, and roles to Microsoft Entra security groups
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-You can assign [Dynamics 365 Guides Author and Operator roles](admin-role-types.md) to a Dynamics 365 group team linked to a Microsoft Entra group to make it easier to organize and manage user roles. By linking Microsoft Entra Security groups or Microsoft 365 groups to a Dynamics 365 group team, Dynamics 365 Guides roles can be inherited by any user added to the Microsoft Entra group. To get an overview of Microsoft Entra groups and managing group teams, see the following links:
+Use [Microsoft Entra security groups](/entra/fundamentals/concept-group-based-licensing) to better organize and manage Guides users and user roles.
 
-- [Groups in Microsoft 365 and Entra, and Which is Right for You](/microsoft-365/community/all-about-groups)
+For example, you have 15 Authors and 20 Operators. Create an Entra security group for your Authors, adding them as users and assigning them licenses. Create another Entra security group for your Operators adding them as users and assigning them licenses. When you create a Dataverse team for your authors and one for your operators, you'll link these teams to your Entra security groups. The Entra security group memberships sync automatically from the security group to the Dataverse group team. Then, you can assign the roles to the Dataverse teams rather than to each individual.
 
-- [Manage group teams](/power-platform/admin/manage-group-teams)
+## Prerequisites
 
-> [!NOTE]
-> SharePoint groups are not supported by Dynamics 365. Only Microsoft Entra Security groups or Microsoft 365 groups are supported by Dynamics 365 group teams.
+- You must have an [active Dynamics 365 Guides license](buy-guides.md).
 
-## Create a Microsoft Entra group
+- The [Dynamics 365 Guides solution must be installed](install-guides.md).
 
-To learn how to create a Microsoft Entra Security group or a Microsoft 365 group, see [Create a basic group and add members using Microsoft Entra admin center](/entra/fundamentals/how-to-manage-groups).
+## Add users and assign licenses with a Microsoft Entra security group
 
-## Create a Dynamics 365 group team
+1. [Create a Microsoft Entra security group and add users.](/entra/fundamentals/how-to-manage-groups)
 
-The type of group you create in Dynamics 365 depends on the type of Microsoft Entra group you're starting with (Security or Microsoft 365). For more information, see [Create a group team](/power-platform/admin/manage-group-teams#create-a-group-team).  
+1. [Assign Guides licenses to the Entra security group.](/entra/identity/users/licensing-groups-assign)
 
-For more information on how to link a Microsoft Entra group to a Dynamics 365 group team, see [Manage group teams](/power-platform/admin/manage-group-teams). 
+   > [!IMPORTANT]
+   > Make sure each group is assigned Dynamics 365 Guides, Common Data Service, and PowerApps for Guides.
 
-> [!NOTE] 
-> When setting a value for **membership type** by selecting one of the options (**Members**, **Members & Guests**, **Guests**, or **Owners**), be aware that this value determines which users in the group will flow into the Dynamics 365 group team. Setting the **membership type** is similar to setting a pass-through filter. For example, if **Members** is selected and a guest is added to the group, the guest will not flow down into the team and will not inherit the role from the Dynamics 365 group team.  
+1. [Create a Dataverse group team](/power-platform/admin/manage-group-teams#create-a-group-team) in the environment where you installed the Guides solution, linking the group to the Microsoft Entra security group you created.
 
-## Two ways to assign roles to a team
+   > [!NOTE]
+   > When setting a value for **membership type** by selecting one of the options (**Members**, **Members & Guests**, **Guests**, or **Owners**), be aware that this value determines which users in the group will flow into the Dataverse group team. Setting the **membership type** is similar to setting a pass-through filter. For example, if **Members** is selected and a guest is added to the group, the guest will not flow down into the team and will not inherit the role from the Dataverse group team.  
 
-You can assign roles to a team in two ways: 
+1. Repeat this process for each group of users.
 
-- Option 1: Assign a group team to a Dynamics 365 Guides role. In this case, the additions must be made to the Basic User role and any additional roles that you want to modify. This is the best option if you need to assign a role to many Dynamics 365 group teams.
+## Assign Guides roles to a Dataverse group team
 
-- Option 2: Assign a Dynamics 365 Guides role to a group team. This is the best option if you need to modify a small number of Dynamics 365 group teams. For example, if you add the Author role to a Microsoft 365 group, anyone in the group will have a role that will allow them to create and edit a guide. The guide will be owned by the group.
+You can assign roles to a team in two ways:
 
-### Option 1: Assign a group team to a Dynamics 365 Guides role
+- **Assign a Dataverse group team to a Guides role**. In this case, the additions must be made to the Basic User role and any additional roles that you want to modify. This is the best option if you need to assign a role to many Dataverse group teams.
 
-For this option, you'll update a role to include the Dynamics 365 group team that was created using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments).
+- **Assign a Guides role to a Dataverse group team**. This is the best option if you need to modify a small number of Dataverse group teams. For example, if you add the Author role to a Microsoft 365 group, anyone in the group will have a role that will allow them to create and edit a guide. The guide will be owned by the group.
 
-1. In the Power Platform admin center, select the environment that you want to update.
+### Assign a Dataverse group team to a Guides role
 
-2. In the **Access** section, under **Security roles**, select **See all**.
+For this option, you'll update a role to include the Dataverse group team that was created using the Power Platform admin center.
 
-    ![power platform admin.](media/power-platform-admin-center-env-setting.PNG "power platform admin")
- 
-3. Under **Role**, select **Basic User**. 
+1. [Access a Guides role.](/power-platform/admin/database-security#assign-security-roles-to-users-in-an-environment-that-has-a-dataverse-database)
 
-    ![basic user.](media/power-platform-enviro-roles.PNG "basic users")
-    
-    > [!NOTE]
-    > The **Basic User** role must be added to the group to enable Dynamics 365 Guides for the users in this group team. 
+1. Under **Role**, select **Basic User**.
 
-4. At the top of the screen, select **Add people**.
+   > [!NOTE]
+   > The **Basic User** role must be added to the group to enable Dynamics 365 Guides for the users in this group team.
 
-    ![Add people command at top of Power Platform screen.](media/power-platform-security-role-add-people.PNG "Add people command at top of Power Platform screen")
-    
-5. Search for the Dynamics 365 group team created above, select it in the search results, and then select **Add**.
+1. Select **Members** > **Add people**, then search and select the Dataverse group team you created. Then select **Add**. Repeat for each Dataverse group team.
 
-    ![add group.](media/power-platform-security-add-group.PNG "Add group")
- 
-6. Repeat the steps above for the [Dynamics 365 Guides role](/dynamics365/mixed-reality/guides/assign-role) that you want to apply to this team. Dynamics 365 Guides roles include:
+1. Repeat these steps for each Guides role.
 
-    - Dynamics 365 Guides Author
-    
-    - Dynamics 365 Guides Operator
-    
-    - Dynamics 365 Guides Restricted Author
-    
-    - Dynamics 365 Guides Restricted Operator
+### Assign a Guides role to a Dataverse group team
 
-    [Learn more about the different Author and Operator roles](admin-role-types.md).
+For this option, you'll update the Guides role to include the Dataverse group team created using the Power Platform admin center.
 
-7. Repeat the above steps for any additional roles that you want to apply to the group team.
+1. [Access the Dataverse group team.](/power-platform/admin/manage-teams)
 
-> [!NOTE]
-> When a user is added to a Microsoft Entra group, it doesn't show up in the team until the user signs in. 
+1. Confirm that the **Basic User** role is selected, and then select any additional roles that you want to apply to the group.
 
-### Option 2: Assign a Dynamics 365 Guides role to a group team
+1. Repeat these steps for each Dataverse group team.
 
-For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). For more information, see [Add roles to group teams](/power-platform/admin/manage-teams).
+## Next steps
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (ellipsis **...**) button, and then select **Settings**.
-
-    ![Settings command.](media/access-teams-9.PNG "Settings command")
-
-2. In the **Settings** page, select **Teams**.
-
-    ![Teams button.](media/access-teams-14.PNG "Teams button")
- 
-3. Choose the team to modify, and then select the **Team options** (ellipsis) button.
-
-    ![select team options.](media/power-platform-admin-center-env-teams.png "select team options")
-
-4. Select **Manage security roles**.
-
-    ![select manage security roles.](media/power-platform-admin-center-env-teams-manage-roles.png "manage security roles")
-
-5. Confirm that the **Basic User** role is selected, and then select any additional roles that you want to apply to the group.
-
-    ![Select roles.](media/power-platform-admin-center-env-teams-manage-roles-security.png "Select roles")
-    
-    [Learn more about the different Author and Operator roles](admin-role-types.md).
-    
-> [!NOTE]
-> When a user is added to a Microsoft Entra group, it doesn't show up in the team until the user signs in. 
-
-## See also
-
-- [Learn about the different Author and Operator roles](admin-role-types.md)
-- [Assign an Author or Operator role to an individual user](assign-role.md)
 - [Set up a Guides device license for multiple operators](device-license.md)
 - Contact your Guides users to have them [install the PC app and set up their HoloLens](install-pc-hololens-apps.md)
