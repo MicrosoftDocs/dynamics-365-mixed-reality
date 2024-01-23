@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-The asset capture feature in Remote Assist leverages Common Data Service (CDS). This enables you to create Power Automate flows based on this data to streamline various processes, including getting notifications, modifying other entities, and generating reports. In this article, you'll create a flow to get an email notification whenever a new asset attachment is created.
+The asset capture feature in Remote Assist leverages Common Data Service (CDS). This feature enables you to create Power Automate flows based on the data to streamline various processes, including getting notifications, modifying other entities, and generating reports. In this article,  create a flow to get an email notification whenever a new asset attachment is created.
 
 ## Prerequisites
 
