@@ -38,15 +38,9 @@ In this example you’ll learn how to do three key things:
 
 **Estimated time to create the Link Manager:** 10 minutes
 
-## Create the Link Manager
-
-1. Create an Excel spreadsheet with the appropriate columns and formulas.
-
-1. Create a Power Automate flow that populates the data in the spreadsheet from Dynamics 365 Guides data stored in the Microsoft Dataverse.
-
 ## Create the Excel spreadsheet
 
-1. Create an Excel spreadsheet that includes the columns you need for the Link Manager. Data for most of the columns will come from the Microsoft Dataverse (formerly known as Common Data Service). Two of the Excel columns will contain data concatenated from other cells in the spreadsheet. 
+1. Create an Excel spreadsheet that includes the columns you need for the Link Manager. Data for most of the columns will come from Microsoft Dataverse (formerly known as Common Data Service). Two of the Excel columns will contain data concatenated from other cells in the spreadsheet. 
 
     The following table shows the columns to add to the spreadsheet and where the data for each column will come from. 
 
@@ -101,7 +95,7 @@ To concatenate this URL with the deep link in column C, if the URL API is in cel
 
 ## Create the Power Automate flow
 
-After creating the Excel spreadsheet, you’re ready to populate the data in the spreadsheet by using Power Automate.
+After creating the Excel spreadsheet, you’re ready to populate the data in the spreadsheet by using Power Automate. Create a Power Automate flow that populates the data in the spreadsheet from Dynamics 365 Guides data stored in Microsoft Dataverse.
 
 1. Create a new flow. See [Create a cloud flow](/power-automate/get-started-logic-flow).
 
