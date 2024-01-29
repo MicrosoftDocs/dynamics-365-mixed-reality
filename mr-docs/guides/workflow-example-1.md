@@ -10,14 +10,14 @@ ms.reviewer: v-brycho
 
 # Workflow example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel Link Manager
 
-This example shows how to create a Link Manager in Microsoft Excel. Use the Excel Link Manager to keep track of your guides and launch them quickly using a PC app deep link or a HoloLens QR code deep link. The same workflow could be used to add a link to a guide in an approval flow, embed QR codes with links to guides in a work order, or in a learning management system.
+This example shows how to create a Link Manager in Microsoft Excel to keep track of your guides and launch them quickly using a PC app deep link or a HoloLens QR code deep link. The same workflow could be used to add a link to a guide in an approval flow, embed QR codes with links to guides in a work order, or in a learning management system.
 
 Dynamics 365 Guides supports deep links in two different formats:
 
-- Clear text, which uses the Guide ID. For example: ms-guides://MY-ORG.crm4.dynamics.com/g/8921ce53-ee6b-4006-b173-1deba90c9101.
-- Compressed, which uses a custom algorithm to shorten the length. For example: ms-guides:ms-guides://MY-ORG.crm4.dynamics.com/g/nl-tt6A_vUy1cGeU3HlhEQ.
+- Clear text, which uses the Guide ID. For example: ms-guides://MY-ORG.crm4.dynamics.com/g/8921ce53-ee6b-4006-b173-1deba90c9101 where **8921ce53-ee6b-4006-b173-1deba90c9101** is a Guide ID.
+- Compressed, which uses a custom algorithm to shorten the length. For example: ms-guides:ms-guides://MY-ORG.crm4.dynamics.com/g/nl-tt6A_vUy1cGeU3HlhEQ where **nl-tt6A_vUy1cGeU3HlhEQ** is a compressed ID.
 
-The Guides PC app can generate both formats. It doesn't matter which format is used to make a QR code as there isn't functional difference between the two. This example shows the clear text option.
+The Guides PC app can generate both formats. It doesn't matter which format is used to make a QR code as there isn't a functional difference between the two. This example demonstrates the clear text option.
 
 The resulting Excel Link Manager for this example looks like this:
 
