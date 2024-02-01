@@ -43,7 +43,7 @@ On the step, select the 3D model and then select the **Properties** tab. The fol
 - **Textures**: Textures are two-dimensional image files that are mapped onto the model's 3D surface. Textures can range in complexity from a simple, flat color texture to photorealistic surface detail.
 - **Texture size**: Size is measured in megapixel (MP).
 
-If the 3D model exceeds the recommended limits for optimal performance on the HoloLens, a warning appears on the step. Make the necessary changes to the model. Learn more: [Optimize your 3D models](/3d-content-guidelines/optimize-models.md).
+If the 3D model exceeds the recommended limits for optimal performance on the HoloLens, a warning appears on the step. Make the necessary changes to the model. Learn more: [Optimize your 3D models](3d-content-guidelines/optimize-models).
 
 ## Next steps
 
