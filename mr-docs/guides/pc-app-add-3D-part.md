@@ -2,7 +2,7 @@
 author: annitachow
 ms.author: anchow
 description: Learn how to add a custom 3D part to a step in the Microsoft Dynamics 365 Guides PC app. 
-ms.date: 07/19/2023
+ms.date: 02/01/2024
 ms.topic: how-to
 title: Add a custom 3D part to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
@@ -31,6 +31,19 @@ You can import your own custom 3D models and add them to **My files** or a folde
 > You can set animation options (playback speed, direction, and looping) in the HoloLens app.
 
 [!INCLUDE [import-include](../includes/pc-app-import.md)]
+
+## View 3D model complexity statistics
+
+On the step, select the 3D model and then select the **Properties** tab. The following statistics appear:
+
+- **Parts**:
+- **Triangles**:
+- **Vertices**: A vertex is the smallest component of a polygon model. It's a point in a three-dimensional space. You can create a polygon by connecting multiple vertices with edges. These points can be manipulated to create the desired shape.
+- **Materials**:
+- **Textures**: Textures are two-dimensional image files that are mapped onto the model's 3D surface. Textures can range in complexity from a simple, flat color texture to photorealistic surface detail.
+- **Texture size**: Size is measured in megapixel (MP).
+
+If the 3D model exceeds the recommended limits for optimal performance on the HoloLens, a warning appears on the step. Make the necessary changes to the model. Learn more: [Optimize your 3D models](/3d-content-guidelines/optimize-models.md).
 
 ## Next steps
 
