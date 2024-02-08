@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: davepinch
-ms.date: 12/19/2023
+ms.date: 02/08/2024
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -18,6 +18,21 @@ ms.custom: bap-template
 This page provides details about the latest release in the **current wave of features (October 2023 through March 2024)** for Microsoft Dynamics 365 Guides, organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
 If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## February 27, 2024
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|  |
+|HoloLens app (HoloLens 2 only)|  |
+|Solution|  |
+
+### Bugs fixed and other improvements
+
+- View 3D model complexity statistics on the model's **Properties** tab and receive a warning if complexity limits are exceeded.
+- Programmatically make a copy of a guide to the same environment with one API call using Power Automate.
+- Improved performance with a dynamic content loading system that prioritizes content loading on HoloLens 2.
+- Fixed an issue where calls remained active if Guides is suspended or minimized during a call. Now calls  terminate when Guides is minimized.
 
 ## December 20, 2023
 
