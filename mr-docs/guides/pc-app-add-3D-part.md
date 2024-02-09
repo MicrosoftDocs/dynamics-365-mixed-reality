@@ -36,12 +36,13 @@ You can import your own custom 3D models and add them to **My files** or a folde
 
 On the step, select the 3D model and then select the **Properties** tab. The following statistics appear:
 
-- **Parts**:
-- **Triangles**:
-- **Vertices**: A vertex is the smallest component of a polygon model. It's a point in a three-dimensional space. You can create a polygon by connecting multiple vertices with edges. These points can be manipulated to create the desired shape.
-- **Materials**:
-- **Textures**: Textures are two-dimensional image files that are mapped onto the model's 3D surface. Textures can range in complexity from a simple, flat color texture to photorealistic surface detail.
-- **Texture size**: Size is measured in megapixel (MP).
+- **Parts**: Number of nodes in a 3D model's scene hierarchy.
+- **Triangles**: Number of mesh triangles across all parts in a 3D model.
+- **Vertices**: Number of mesh vertices across all parts in a 3D model.
+- **Textures**: Number of textures in a 3D model.
+- **Texture size**: Number of pixels (in mega pixels) across all textures in a 3D model.
+
+These definitions apply to the use of 3D models within the PC app.
 
 If the 3D model exceeds the recommended limits for optimal performance on the HoloLens, a warning appears on the step. Make the necessary changes to the model. Learn more: [Optimize your 3D models](3d-content-guidelines/optimize-models).
 
