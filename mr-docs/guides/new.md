@@ -29,10 +29,10 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 ### Bugs fixed and other improvements
 
-- View 3D model complexity statistics on the model's **Properties** tab and receive a warning if complexity limits are exceeded.
-- Programmatically make a copy of a guide to the same environment with one API call using Power Automate.
-- Improved performance with a dynamic content loading system that prioritizes content loading on HoloLens 2.
-- Fixed an issue where calls remained active if Guides is suspended or minimized during a call. Now calls  terminate when Guides is minimized.
+- A new copy API allows developers to programmatically make a copy of a guide in the same environment.
+- View 3D model complexity statistics on the model's **Properties** tab and receive a warning if a model exceeds the recommended complexity limits.
+- Performance improvements when loading models in Guides steps.
+- Calls now end when the Guides app is closed or minimized. To keep the call active, disable the **End calls on suspend** setting on the HoloLens.
 
 ## December 20, 2023
 
