@@ -17,7 +17,7 @@ Folders are a great way to organize guides and their content especially if you h
 
 ## Prerequisites
 
-- Guides Admin or Author role
+- Guides Admin or Author role. Only admins can delete guides and guide content.
 
 ## Create a folder
 
