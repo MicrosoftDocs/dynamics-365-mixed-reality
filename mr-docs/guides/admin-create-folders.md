@@ -25,11 +25,11 @@ Folders are a great way to organize guides and their content especially if you h
 
 1. In the left pane, select **Folders** to view all folders created in the environment, and then, at the top of the screen, select **New** to create a new folder.
 
-    ![Folders command highlighted in left pane.](media/folders-command.PNG "Folders command highlighted in left pane")
+   :::image type="content" source="media/folders-command.PNG" alt-text="Screenshot of Model-driven app with Folders command highlighted in left pane.":::
 
 1. In the **New Folder** screen, enter the name and owner of the folder. You can select an existing folder in the **Parent Folder** field, or leave the **Parent Folder** field blank to create a folder at the root level.
 
-    ![New command highlighted at top of Power Apps screen.](media/folders-new.PNG "New command highlighted at top of Power Apps screen")
+   :::image type="content" source="media/folders-new.PNG" alt-text="Screenshot of Model-driven app with New command highlighted.":::
 
 1. At the top of the screen, select **Save & Close** to save the folder and return to the folder list. After saving, you can add guides, subfolders, or assets to the folder.
 
@@ -44,7 +44,7 @@ Folders are a great way to organize guides and their content especially if you h
 
 1. On the **General** tab, in the **Parent Folder** field, enter the folder name or search for it.
 
-    ![General tab and Parent Folder field highlighted.](media/folders-general-tab.PNG "General tab and Parent Folder field highlighted")
+   :::image type="content" source="media/folders-general-tab.PNG" alt-text="Screenshot of Model-driven app with General tab and Parent Folder field highlighted.":::
 
 1. At the top of the screen, select **Save** or **Save & Close**.
 
@@ -61,6 +61,20 @@ You can also upload assets to a folder in the PC app.
 1. In the left pane, select **Folders** to view the list of folders in the environment.
 
 1. Select the desired folder. All active folders, guides, images, 3D models, videos, and object anchors in the folder display.
+
+## Activate, deactivate, or delete a folder
+
+1. [Open the model-driven app](open-model-driven-app.md) in Guides.
+
+1. To activate a folder, select **Inactive Folders** in the drop-down list above the grid to view all the folders that are currently inactive.
+
+   To deactivate or delete a folder, select **Active Folders**.
+
+1. Select the check box next to the appropriate folder, and then select **Activate**, **Deactivate**, or **Delete** at the top of the page.
+
+   :::image type="content" source="media/folders-activate-deactivate.png" alt-text="Screenshot of Model-driven app with Activate and Deactivate highlighted.":::
+
+1. Confirm your action.
 
 ## Next steps
 

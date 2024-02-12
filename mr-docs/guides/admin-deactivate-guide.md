@@ -21,7 +21,9 @@ You can also activate, deactivate, or delete specific guide content (video, imag
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-1. To activate a guide, select **Inactive Guides** in the drop-down list above the grid to view all the guides that are currently inactive. To deactivate a guide, select **Active Guides**.
+1. To activate a guide, select **Inactive Guides** in the drop-down list above the grid to view all the guides that are currently inactive.
+
+   To deactivate or delete a guide, select **Active Guides**.
 
     ![Selecting Inactive Guides.](media/inactive-guides-list.PNG "Selecting Inactive Guides")
 
