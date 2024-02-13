@@ -3,7 +3,7 @@ title: Make or receive a call in Dynamics 365 Guides
 author: davepinch
 description: Learn how to make or receive a call with a remote collaborator from Dynamics 365 Guides on HoloLens
 ms.author: davepinch
-ms.date: 04/28/2023
+ms.date: 02/13/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -113,6 +113,8 @@ If you're already in a call or meeting in Guides and receive another call, the n
 ## End a call
 
 - Select the **End call** button or say "Guides, End call."
+
+[!INCLUDE [end-calls-suspend](../includes/end-calls-suspend.md)]
 
 ## Next steps
 
