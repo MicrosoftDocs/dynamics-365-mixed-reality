@@ -2,7 +2,7 @@
 author: annitachow
 ms.author: anchow
 description: Learn how to add a custom 3D part to a step in the Microsoft Dynamics 365 Guides PC app. 
-ms.date: 02/01/2024
+ms.date: 02/14/2024
 ms.topic: how-to
 title: Add a custom 3D part to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
@@ -40,9 +40,9 @@ On the step, select the 3D model and then select the **Properties** tab. The fol
 - **Triangles**: Number of mesh triangles across all parts in a 3D model.
 - **Vertices**: Number of mesh vertices across all parts in a 3D model.
 - **Textures**: Number of textures in a 3D model.
-- **Texture size**: Number of pixels (in mega pixels) across all textures in a 3D model.
+- **Texture size**: Number of pixels (in megapixels) across all textures in a 3D model.
 
-These definitions apply to the use of 3D models within the PC app.
+These definitions apply to 3D models within the Guides PC app. These definitions might be different in other apps.
 
 If the 3D model exceeds the recommended limits for optimal performance on the HoloLens, a warning appears on the step. Make the necessary changes to the model. Learn more: [Optimize your 3D models](3d-content-guidelines/optimize-models).
 
