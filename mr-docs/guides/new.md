@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: davepinch
-ms.date: 02/08/2024
+ms.date: 02/14/2024
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -23,9 +23,9 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|  |
-|HoloLens app (HoloLens 2 only)|  |
-|Solution|  |
+|PC app| 902.2402.9001.0  |
+|HoloLens app (HoloLens 2 only)| 902.2402.9001.0  |
+|Solution| 900.2.0.1  |
 
 ### Bugs fixed and other improvements
 
