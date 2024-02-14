@@ -30,9 +30,9 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 ### Bugs fixed and other improvements
 
 - A new copy API allows developers to programmatically make a copy of a guide in the same environment.
-- View model complexity statistics on the model's **Properties** tab in the PC app and receive a warning if a model exceeds the recommended complexity limits.
+- <a href="/dynamics365/mixed-reality/guides/pc-app-add-3D-part#view-3d-model-complexity-statistics" target="blank">View model complexity statistics</a> on the model's **Properties** tab in the PC app and receive a warning if a model exceeds the recommended complexity limits.
 - Performance improvements on HoloLens when loading models in Guides steps.
-- Calls now end when the Guides app is closed or minimized on HoloLens. To keep calls active, disable the **End calls on suspend** setting on the HoloLens.
+- Calls now end when the Guides app is closed or minimized on HoloLens. To keep calls active, disable the <a href="/dynamics365/mixed-reality/guides/change-setting" target="blank">**End calls on suspend** setting</a> on the HoloLens.
 
 ## December 20, 2023
 
