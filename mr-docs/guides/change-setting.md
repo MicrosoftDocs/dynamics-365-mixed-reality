@@ -31,7 +31,9 @@ You can use direct touch in Microsoft Dynamics 365 Guides to change a setting in
 
 1. Make changes to the settings.
 
+<!---
     ![Screen shot of Settings window.](media/hololens-settings-8.JPG "Screen shot of Settings window")
+--->
 
 ## See also
 

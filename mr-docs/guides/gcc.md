@@ -2,16 +2,15 @@
 author: davepinch
 description: Learn how to use Dynamics 365 Guides US Government for government organizations
 ms.author: davepinch
-ms.date: 08/10/2022
-ms.topic: article
+ms.date: 02/14/2024
+ms.topic: overview
 title: Dynamics 365 Guides US Government
-ms.reviewer: v-brycho
+ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Guides US Government
 
-In response to the unique and evolving requirements of the United States public sector, Microsoft has created Dynamics 365 Guides US Government, a plan for US government 
-organizations. We recommend that you read this supplementary section alongside the [Guides documentation](./overview.md).
+In response to the unique and evolving requirements of the United States public sector, Microsoft has created Dynamics 365 Guides US Government, a plan for US government organizations. We recommend that you read this supplementary section alongside the [Guides documentation](./overview.md).
 
 At this time, Dynamics 365 Guides US Government is offered only at the Government Community Cloud (GCC) level. It is currently unavailable for GCC High, and for the Department of Defense (DoD).  
 
@@ -31,10 +30,11 @@ In addition to the features and capabilities of Dynamics 365 Guides, organizatio
 
 - The GCC plan is designed to comply with certifications and accreditations that are required for US public sector customers with FedRAMP moderate requirements.
 
+Copy API is not available in the GCC environment.
+
 ## Customer eligibility
 
-The GCC plan is available to: (1) US federal, state, local, tribal, and territorial government entities; (2) Other entities that handle data that is 
-subject to government regulations and requirements and where use of the GCC plan is appropriate to meet these requirements, subject to validation of eligibility. Validation of eligibility by Microsoft will include confirmation of handling law enforcement data subject to the FBI's Criminal Justice Information Services (CJIS) policy, or other government-regulated or controlled data. Validation might require sponsorship by a government entity with specific requirements for the handling of data.
+The GCC plan is available to: (1) US federal, state, local, tribal, and territorial government entities; (2) Other entities that handle data that is subject to government regulations and requirements and where use of the GCC plan is appropriate to meet these requirements, subject to validation of eligibility. Validation of eligibility by Microsoft will include confirmation of handling law enforcement data subject to the FBI's Criminal Justice Information Services (CJIS) policy, or other government-regulated or controlled data. Validation might require sponsorship by a government entity with specific requirements for the handling of data.
 
 Entities with questions about eligibility for the GCC plan should consult their account team. Upon renewal of a customer's contract for the GCC plan, revalidation of eligibility is required.
 
@@ -46,20 +46,15 @@ The GCC plan is available through the Volume Licensing and Cloud Solution Provid
 
 ## What is customer data and customer content?
 
-Customer data, as defined in the Online Services Terms, means all data, including all text, sound, video, 3D models, or image files, and software, that are provided to 
-Microsoft by, or on behalf of, customers through the use of the Online Service. Customer content refers to a specific subset of customer data that has been directly 
-created by users, such as content stored in databases through entries in [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered confidential information and in normal service operation is not sent over the internet without encryption.
+Customer data, as defined in the Online Services Terms, means all data, including all text, sound, video, 3D models, or image files, and software, that are provided to Microsoft by, or on behalf of, customers through the use of the Online Service. Customer content refers to a specific subset of customer data that has been directly created by users, such as content stored in databases through entries in [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered confidential information and in normal service operation is not sent over the internet without encryption.
 
-Microsoft reminds you not to share any controlled, sensitive, or confidential information with support personnel as part of your GCC-related support 
-incident, until you confirm their authorization to view or access such data. Microsoft is committed to protecting your privacy. Dynamics 365 Guides Customer Support 
-is not included in the service accreditation boundary and does not provide FedRAMP, CJIS, IRS 1075, DISA SRG L2 data handling and/or compliance assurances.
+Microsoft reminds you not to share any controlled, sensitive, or confidential information with support personnel as part of your GCC-related support incident, until you confirm their authorization to view or access such data. Microsoft is committed to protecting your privacy. Dynamics 365 Guides Customer Support is not included in the service accreditation boundary and does not provide FedRAMP, CJIS, IRS 1075, DISA SRG L2 data handling and/or compliance assurances.
 
 For more information on Dynamics 365 Guides protection of customer data, see the [Microsoft Online Services Trust Center](https://www.microsoft.com/en-us/trust-center/product-overview). 
 
 ## Customer content located within the United States
 
-GCC plan services are provided from datacenters physically located in the United States. GCC plan customer content is stored at rest in datacenters physically located 
-only in the United States.
+GCC plan services are provided from datacenters physically located in the United States. GCC plan customer content is stored at rest in datacenters physically located only in the United States.
 
 ## Guest access and the GCC environment
 
