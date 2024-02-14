@@ -2,10 +2,10 @@
 author: davepinch
 description: Learn how to use Microsoft Power Automate to automatically generate deep links for the Dynamics 365 Guides PC and HoloLens apps
 ms.author: davepinch
-ms.date: 01/29/2024
+ms.date: 02/14/2024
 ms.topic: article
 title: Workflow example 1--Automatically generate deep links for the Dynamics 365 Guides PC and HoloLens apps
-ms.reviewer: v-brycho
+ms.reviewer: v-wendysmith
 ---
 
 # Workflow example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel Link Manager
@@ -17,7 +17,7 @@ Dynamics 365 Guides supports deep links in two different formats:
 - Clear text, which uses the Guide ID. For example: ms-guides://MY-ORG.crm4.dynamics.com/g/8921ce53-ee6b-4006-b173-1deba90c9101 where **8921ce53-ee6b-4006-b173-1deba90c9101** is a Guide ID.
 - Compressed, which uses a custom algorithm to shorten the length. For example: ms-guides:ms-guides://MY-ORG.crm4.dynamics.com/g/nl-tt6A_vUy1cGeU3HlhEQ where **nl-tt6A_vUy1cGeU3HlhEQ** is a compressed ID.
 
-The Guides PC app can generate both formats. It doesn't matter which format is used to make a QR code as there isn't a functional difference between the two. This example demonstrates the clear text option.
+The Guides PC app generates links with the compressed format, but both the PC and HoloLens apps open links with either format. This example demonstrates the clear text option.
 
 The resulting Excel Link Manager for this example looks like this:
 
