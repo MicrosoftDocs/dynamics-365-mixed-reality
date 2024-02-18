@@ -36,7 +36,7 @@ Authors can organize their guides and the content of their guides by creating fo
 
 Folders can be organized to contain all the contents needed for one guide or multiple guides if you have a set of guides that need to be shared or grouped. There can also be other folders nested under a parent folder to create a hierarchy of folders.
 
-When you create a folder in Dynamics 365 Guides, you assign an owner to the folder. Owners have access to all items in that folder and its subfolders. You can assign ownership of the folder to another person or team, or keep ownership and share the folder.
+When you [create a folder in Dynamics 365 Guides](admin-create-folders.md), you assign an owner to the folder. Owners have access to all items in that folder and its subfolders. You can assign ownership of the folder to another person or team, or keep ownership and share the folder.
 
 > [!NOTE]
 > By default, Authors and Restricted Authors have access to all assets. If you don't assign a folder to a user, but the user has access to an asset, the user can see the asset in the PC App and use them, but the folder properties for that asset won't display.
