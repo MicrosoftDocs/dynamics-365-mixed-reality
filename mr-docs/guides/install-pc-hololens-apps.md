@@ -23,7 +23,7 @@ If you can't access Microsoft Store because of company policies, contact your ad
 
 1. On your computer, access [Microsoft Dynamics 365 Guides from the Microsoft Store](https://apps.microsoft.com/detail/9N038FB42KKB?hl=en-us&gl=US).
 
-1. Select **Install** to download and install the Guidesapplication.
+1. Select **Install** to download and install the Guides application.
 
     > [!TIP]
     > You can make sure that the PC app is automatically updated to be compatible with the latest Dynamics 365 Guides solution version by turning on the **Update apps automatically** setting in the Microsoft Store.
