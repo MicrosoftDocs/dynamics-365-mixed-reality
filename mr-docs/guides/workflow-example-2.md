@@ -53,8 +53,6 @@ In this example you'll learn how to:
 
 1. In the **Add a new row** trigger, in the **Table name** field, select **3D Object Collections**, enter a name for your new collection in the **Name** field, and then select **Show advanced options** to see all the fields related to adding a new row.
 
-    ![Add a new row trigger showing Table name field and Name field.](media/workflow2-add-new-row-trigger.PNG "Add a new row trigger showing Table name field and Name field")
-
 1. To get the value for the **Parent ID** field for the new collection, go to the [Guides model-driven app](open-model-driven-app.md), select **Toolkit**, and then select one of the existing object collections. For example, select the **Arrows** collection.
 
     ![Model-driven app screen with Arrows collection selected.](media/workflow2-arrows-collection.PNG "Model-driven app screen with Arrows collection selected")
@@ -73,8 +71,6 @@ In this example you'll learn how to:
     |-----------------------------------|-----------------------------------------------|
     |**Record Created On** |**Timestamp.** Select this value from the dynamic list after placing your cursor in the field. This sets the **Created On** field in the model-driven app.|
     |**Status Reason**| **Active.** Dataverse tables should be set to active unless otherwise noted.|
-
-    ![Add a new row triger filled in.](media/workflow2-add-new-row-trigger-filled-out.PNG "Add a new row trigger filled in")
 
 1. Select **Save** in the upper-right corner of the screen.
 

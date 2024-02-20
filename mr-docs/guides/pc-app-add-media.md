@@ -2,7 +2,7 @@
 author: annitachow
 ms.author: anchow
 description: Learn how to add an image or video to a step in the Microsoft Dynamics 365 Guides PC app to help operators with a complex step.
-ms.date: 07/28/2023
+ms.date: 02/20/2024
 ms.topic: how-to
 title: Add an image or video to a step in the Dynamics 365 Guides PC app
 ms.reviewer: mhart
@@ -43,11 +43,9 @@ When you add a video to a step, the thumbnail for the video is automatically cre
 
 1. Open the video that has the thumbnail you want to replace.
 
-    ![Screen shot of video in model-driven app.](media/model-driven-app-video.PNG "Screen shot of video in model-driven app")
-
 1. At the top left of the screen, select the video circle.
 
-   ![Screen shot of circle icon highlighted.](media/model-driven-app-video-change-thumbnail.PNG "Screen shot of circle icon highlighted")
+   :::image type="content" source="media/model-driven-app-video-change-thumbnail.PNG" alt-text="Screenshot of video in model-driven-app with circle icon highlighted.":::
 
 1. In the **Choose Image** dialog box, select **Upload Image**, and then find the image you want to upload.
 
