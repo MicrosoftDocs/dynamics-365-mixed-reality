@@ -50,7 +50,7 @@ You can access the **Anchor** wizard from the **Outline** page in the PC app. Th
 
 1. Go back to the **Anchor** wizard in the PC app, and then select **Next** two times. (You can skip step 2 of the wizard if you took a picture of the anchor placement in the previous step.)
 
-1. In step 3 of the wizard, select **Import** to import the picture that you took in step 6. Then drag it to the **Import anchor placement photo** box. When you've finished, select **Next** to move to the next step.
+1. In step 3 of the wizard, select **Import** to import the picture that you took. Then drag it to the **Import anchor placement photo** box. When you've finished, select **Next** to move to the next step.
 
    > [!TIP]
    > The filter is automatically set to **Images**, but you can change it.

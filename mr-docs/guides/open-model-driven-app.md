@@ -27,7 +27,7 @@ When you create a guide in the PC authoring app, the content is stored in Micros
 
     ![Environment URL value highlighted.](media/copy-environment-url.png "Environment URL value highlighted")
 
-1. Sign in, and then in the left pane of the Power Apps screen, select **Guides** to open the model-driven app.
+1. Sign in, and then select **Guides** to open the model-driven app.
 
     ![Screen shot of Power Apps screen showing Guides model-driven app.](media/guides-hub-1.PNG "Screen shot of Power Apps screen showing Guides model-driven app")
 
