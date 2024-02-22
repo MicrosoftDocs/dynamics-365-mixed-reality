@@ -21,7 +21,7 @@ This tutorial provides step-by-step instructions that show you how to:
 - Create a template, so you can quickly optimize other 3D objects in the future.
 
 >[!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how SideFX Houdini works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor SideFX or any of SideFX's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D objects.
+> This document is created strictly for informative purposes to demonstrate how SideFX Houdini works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor SideFX or any of SideFX's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-objects) you can use to prepare your 3D objects.
 
 ## What is Houdini?
 

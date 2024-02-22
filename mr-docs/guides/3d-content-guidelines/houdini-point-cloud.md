@@ -20,7 +20,7 @@ This tutorial provides step-by-step instructions for the following tasks:
 
 - Create a processing pipeline template, so that you can quickly optimize point clouds in the future.
 
-This tutorial has been created only for informational purposes, to show how SideFX Houdini works with Microsoft Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor SideFX or any of its products. There are several other [content-creation applications that you can use to prepare your 3D objects](convert-models.md#tools-for-exporting-cad-models).
+This tutorial has been created only for informational purposes, to show how SideFX Houdini works with Microsoft Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor SideFX or any of its products. There are several other [content-creation applications that you can use to prepare your 3D objects](convert-models.md#tools-for-exporting-cad-objects).
 
 ## What is Houdini?
 

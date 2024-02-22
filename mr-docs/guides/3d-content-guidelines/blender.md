@@ -21,7 +21,7 @@ This tutorial provides step-by-step instructions that show you how to:
 The combination of reducing polygons and turning multiple materials into a single texture can transform a complex and resource-intensive 3D model into a 3D model that performs well in Dynamics 365 Guides and Power Apps.
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Blender works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Blender or any of Blender's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D objects.
+> This document is created strictly for informative purposes to demonstrate how Blender works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Blender or any of Blender's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-objects) you can use to prepare your 3D objects.
 
 ## What is Blender?
 

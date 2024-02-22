@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 When preparing CAD files for Microsoft Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps, you can run into numerous performance and quality roadblocks that prevent a smooth transition from CAD to real time. The 3ds Max program is a digital content creation (DCC) suite that has a unique ability to bridge parametric objects and real-time polygon modeling. This tutorial demonstrates how to use the 3ds Max conversion and optimization capabilities to prepare 3D CAD objects for use in mixed reality.  
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Autodesk 3ds Max works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D objects.
+> This document is created strictly for informative purposes to demonstrate how Autodesk 3ds Max works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-objects) you can use to prepare your 3D objects.
 
 ## What is Autodesk 3ds Max?
 

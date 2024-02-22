@@ -1,7 +1,7 @@
 # Dynamics 365 Import Tool (Preview)
 ## [Overview](index.md)
 ## [Convert your 3D (CAD) objects](convert-models.md)
-## [Optimize your 3D objects](optimize-objects.md)
+## [Optimize your 3D objects](optimize-models.md)
 ## [Best practices for real-time 3D objects](best-practices.md)
 ## Tutorials
 ### [Overview](tutorials-overview.md)
