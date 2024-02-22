@@ -25,7 +25,7 @@ The following table lists software tools that you can use to convert and/or opti
 |[gltfPack](https://www.npmjs.com/package/gltfpack)|GLB, glTF, OBJ|GLB, glTF|No|Yes|
 
 > [!IMPORTANT]
-> Dynamics 365 Guides uses meters as the default scale unit. If your 3D model scale is set to millimeters when you export from your CAD solution, the model will be converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it will be converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export. 
+> Dynamics 365 Guides uses meters as the default scale unit. If your 3D object scale is set to millimeters when you export from your CAD solution, the model will be converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it will be converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export. 
 
 <br>
 Here are examples of CAD, converted, and optimized 3D objects.<br></br>
@@ -58,7 +58,7 @@ The following table lists some general conservative targets to aim for when acqu
 - [Overview of preparing 3D objects](index.md)
 - [Convert 3D objects](convert-models.md)
 - [Best practices for converting and optimizing 3D objects](best-practices.md)
-- [Review a 3D model](review-3d-model.md)
+- [Review a 3D object](review-3d-model.md)
 - [Tutorials for converting and optimizing 3D objects](tutorials-overview.md)
 
 

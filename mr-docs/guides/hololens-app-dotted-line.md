@@ -37,8 +37,8 @@ feature; they show operators where to focus.
 - [Get oriented with the HoloLens app](hololens-app-orientation.md)
 - [Place and manipulate holograms](hololens-app-place-holograms.md)
 - [Use a style to add emphasis](hololens-app-styles.md)
-- [Duplicate a 3D model](hololens-app-duplicate-model.md)
-- [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Duplicate a 3D object](hololens-app-duplicate-model.md)
+- [Copy a 3D object's position](hololens-app-copy-3D-model-position.md)
 - [Change animation options](hololens-app-animations.md)
 - [Create a trigger for step navigation](hololens-app-trigger.md)
     

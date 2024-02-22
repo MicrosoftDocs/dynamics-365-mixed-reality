@@ -15,7 +15,7 @@ There are several ways you can optimize 3D objects for mixed reality by using Da
 Sections of this tutorial are for 2019 and later only, and assume you've successfully installed the SOLIDWORKS XR Exporter on your local PC.  
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Dassault Systèmes SOLIDWORKS works with Microsoft Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft is not affiliated with, is not a partner to, and does not endorse or sponsor Dassault or any of Dassault Systèmes' products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D objects.
+> This document is created strictly for informative purposes to demonstrate how Dassault Systèmes SOLIDWORKS works with Microsoft Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft is not affiliated with, is not a partner to, and does not endorse or sponsor Dassault or any of Dassault Systèmes' products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-objects) you can use to prepare your 3D objects.
 
 ## What is Dassault Systèmes SOLIDWORKS?
 SOLIDWORKS tools enable you to leverage 3D objects throughout the organization, bringing processes together so you can get products to market faster. [Read more about SOLIDWORKS](https://www.solidworks.com/).
@@ -26,7 +26,7 @@ You can use the features discussed in this tutorial to optimize 3D objects for u
 
 ## Remove features with the Simplify tool
 
-If your 3D model is extremely complex and you're having performance issues, you can optimize it with the **Simplify** tool.  The **Simplify** tool provides a wide range of options for simplifying your objects to different levels, including internal part removal, small part removal, "defeaturing," and more. [Learn more about using the Simplify tool](https://help.solidworks.com/2018/english/solidworks/sldworks/t_simplifying_parts.htm).
+If your 3D object is extremely complex and you're having performance issues, you can optimize it with the **Simplify** tool.  The **Simplify** tool provides a wide range of options for simplifying your objects to different levels, including internal part removal, small part removal, "defeaturing," and more. [Learn more about using the Simplify tool](https://help.solidworks.com/2018/english/solidworks/sldworks/t_simplifying_parts.htm).
 
 1. Select **Tools** > **Find/Modify** > **Simplify**.
 
@@ -109,7 +109,7 @@ At this point, you can choose whether to [simplify your geometry](#simplify-geom
 
 ## Save an assembly as a part
 
-Another technique is to save the 3D model assembly as a part file (.asm &rarr; .prt). When you do this, you can choose to hide internal geometry, which increases the performance of your 3D model and also helps maintain confidentiality about the inner workings of your designs.
+Another technique is to save the 3D object assembly as a part file (.asm &rarr; .prt). When you do this, you can choose to hide internal geometry, which increases the performance of your 3D object and also helps maintain confidentiality about the inner workings of your designs.
 
 1. Select the master assembly (or a subassembly), and then select **File** > **Save As**.
 
@@ -121,9 +121,9 @@ Another technique is to save the 3D model assembly as a part file (.asm &rarr; .
 
 4. Select **Save**.
 
-## Export the 3D model as a GLB file
+## Export the 3D object as a GLB file
 
-After you optimize a 3D model, you can easily export it directly from SOLIDWORKS as a GLB file.  
+After you optimize a 3D object, you can easily export it directly from SOLIDWORKS as a GLB file.  
 
 1. Select **File** > **Save As**, and then select **Extended Reality Binary (.glb)** as the file type.
 
@@ -133,15 +133,15 @@ After you optimize a 3D model, you can easily export it directly from SOLIDWORKS
 
 ## Other conversion options
 
-If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one of the following to convert your 3D model into a format that can be optimized:
+If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one of the following to convert your 3D object into a format that can be optimized:
 
 - If you don't need to see material color, you can export your model as an STL file. If it doesn't perform well, you can import the STL file into a digital content creation (DCC) application and optimize it further. See a [list of tutorials](tutorials-overview.md) on how to optimize your 3D objects by using DCC apps.
 
-- If you want to see material colors on your final product, you need to send your 3D model through a transcoder before optimizing it further. [This 3ds Max tutorial](3ds-max.md) walks you through the optimization and conversion process.
+- If you want to see material colors on your final product, you need to send your 3D object through a transcoder before optimizing it further. [This 3ds Max tutorial](3ds-max.md) walks you through the optimization and conversion process.
 
-## View a 3D model in Dynamics 365 Guides or Power Apps
+## View a 3D object in Dynamics 365 Guides or Power Apps
 
-After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
+After you've prepared a 3D object, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
 - [Dynamics 365 Guides](../overview.md)
 

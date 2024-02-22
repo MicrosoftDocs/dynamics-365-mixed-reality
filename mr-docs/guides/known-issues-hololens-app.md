@@ -30,9 +30,9 @@ If you open a guide in operator mode and rapidly air tap the **Next** button, th
 
 These fields are blank by design. The Phone Calls table is a common table used by Dynamics 365 apps to record phone call information. Dynamics 365 Guides and Dynamics 365 Remote Assist do not collect or populate these fields. [Learn more about viewing and accessing call data](call-logging.md)
 
-## Why did my HoloLens display go blank for a few seconds when I placed a 3D model in the HoloLens app?
+## Why did my HoloLens display go blank for a few seconds when I placed a 3D object in the HoloLens app?
 
-If you place a large 3D model in the HoloLens app, the display may go blank for several seconds while the model is being processed by Dynamics 365 Guides.
+If you place a large 3D object in the HoloLens app, the display may go blank for several seconds while the model is being processed by Dynamics 365 Guides.
 
 ## Telemetry data not stored for operators with **Restricted Operator** role in certain cases
 

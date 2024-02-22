@@ -75,7 +75,7 @@ Use the buttons in the navigation pane on the left side of the **Step Editor** p
 
 ## What's next?
 
-- [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
+- [Add a 3D object from the toolkit](pc-app-add-3D-model.md)
 - [Add a 3D part](pc-app-add-3D-part.md)
 - [Add an image or video file](pc-app-add-media.md)
 - [Add a website or Power Apps link](pc-app-website-powerapps-link.md)

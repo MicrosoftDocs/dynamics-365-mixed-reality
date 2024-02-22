@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 Three-dimensional objects come in all shapes and sizes. Sometimes they're complex and require preparation before you can use them in mixed-reality scenarios. To make it easier to prepare your 3D objects, we've created tutorials for several third-party computer-aided design (CAD) and digital content creation (DCC) programs. The goal of these tutorials isn't for you to become an expert at using these programs, but to guide you through the process of preparing your 3D objects so you can achieve more with mixed reality.
 
-![Example of a 3D model.](media/overview-cad2poly.PNG "Example of a 3D model") 
+![Example of a 3D object.](media/overview-cad2poly.PNG "Example of a 3D object") 
 
 ## CAD tutorials
 
@@ -42,7 +42,7 @@ If you're using photogrammetry software to create your 3D objects, see these tut
 
 ## Point cloud tutorial
 
-If you're converting a point cloud into a 3D model, see this tutorial:
+If you're converting a point cloud into a 3D object, see this tutorial:
 
 - [SideFX Houdini](houdini-point-cloud.md)
 

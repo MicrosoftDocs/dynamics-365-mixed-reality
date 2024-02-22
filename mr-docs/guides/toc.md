@@ -107,7 +107,7 @@
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### Create steps and add 3D objects or media
 ##### [Step Editor overview](pc-app-step-editor-overview.md)
-##### [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
+##### [Add a 3D object from the toolkit](pc-app-add-3D-model.md)
 ##### [Add a custom 3D part that you import](pc-app-add-3D-part.md)
 ##### [Tips for pointing at small objects](pc-app-point-small-objects.md) 
 ##### [Add media (images or videos)](pc-app-add-media.md)
@@ -139,8 +139,8 @@
 ##### [Tips for pointing at small objects](pc-app-point-small-objects.md)
 ##### [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 ##### [Use a style to add emphasis](hololens-app-styles.md)
-##### [Duplicate a 3D model](hololens-app-duplicate-model.md)
-##### [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+##### [Duplicate a 3D object](hololens-app-duplicate-model.md)
+##### [Copy a 3D object's position](hololens-app-copy-3D-model-position.md)
 ##### [Change animation options](hololens-app-animations.md)
 ##### [Create a trigger for step navigation](hololens-app-trigger.md)
 #### [Open a OneDrive file in HoloLens](onedrive-files.md)
@@ -203,7 +203,7 @@
 #### [Convert your 3D (CAD) objects](3d-content-guidelines/convert-models.md)
 #### [Optimize your 3D objects](3d-content-guidelines/optimize-models.md)
 #### [Best practices for real-time 3D objects](3d-content-guidelines/best-practices.md)
-#### [Review a 3D model](3d-content-guidelines/review-3d-model.md)
+#### [Review a 3D object](3d-content-guidelines/review-3d-model.md)
 #### Tutorials
 ##### [Overview](3d-content-guidelines/tutorials-overview.md)
 ##### [Agisoft Metashape](3d-content-guidelines/agisoft-metashape.md)

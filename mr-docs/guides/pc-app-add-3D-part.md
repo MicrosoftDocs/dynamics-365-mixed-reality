@@ -2,7 +2,7 @@
 author: annitachow
 ms.author: anchow
 description: Learn how to add a custom 3D part to a step in the Microsoft Dynamics 365 Guides PC app. 
-ms.date: 02/14/2024
+ms.date: 02/22/2024
 ms.topic: how-to
 title: Add a custom 3D part to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
@@ -23,7 +23,7 @@ You can add 3D parts (objects specific to your company) in Microsoft Dynamics 36
 
     ![Dragging a 3D part to a 3D parts box.](media/drag-3D-part.PNG "Dragging a 3D part to a 3D parts box")
 
-## Import a custom 3D model to use as a 3D part
+## Import a custom 3D object to use as a 3D part
 
 You can import your own custom 3D objects and add them to **My files** or a folder in **My files**. To import files, you can drag them from a local file folder or use the **Import** command.
 
@@ -32,24 +32,18 @@ You can import your own custom 3D objects and add them to **My files** or a fold
 
 [!INCLUDE [import-include](../includes/pc-app-import.md)]
 
-## View 3D model complexity statistics
+## View 3D object complexity statistics
 
-On the step, select the 3D model and then select the **Properties** tab. The following statistics appear:
+On the step, select the 3D object and then select the **Properties** tab. The following statistics appear. Make note of the recommended limits. Learn more: [Step content recommended limits](pc-app-supported-file-formats.md).
 
-- **Parts**: Number of nodes in a 3D model's scene hierarchy.
-- **Triangles**: Number of mesh triangles across all parts in a 3D model.
-- **Vertices**: Number of mesh vertices across all parts in a 3D model.
-- **Textures**: Number of textures in a 3D model.
-- **Texture size**: Number of pixels (in megapixels) across all textures in a 3D model.
+[!INCLUDE [object-supported-limits](../includes/object-supported-limits.md)]
 
-These definitions apply to 3D objects within the Guides PC app. These definitions might be different in other apps.
-
-If the 3D model exceeds the recommended limits for optimal performance on the HoloLens, a warning appears on the step. Make the necessary changes to the model. Learn more: [Optimize your 3D objects](./3d-content-guidelines/optimize-models.md).
+If the 3D object exceeds the recommended limits for optimal performance on the HoloLens, a warning appears on the step. Make the necessary changes to the object. Learn more: [Optimize your 3D objects](./3d-content-guidelines/optimize-models.md). 
 
 ## Next steps
 
 - [Step Editor overview](pc-app-step-editor-overview.md)
-- [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
+- [Add a 3D object from the toolkit](pc-app-add-3D-model.md)
 - [Add an image or video file](pc-app-add-media.md)
 - [Add a website or Power Apps link](pc-app-website-powerapps-link.md)
 - [How to make a great mixed-reality guide](great-guide.md)

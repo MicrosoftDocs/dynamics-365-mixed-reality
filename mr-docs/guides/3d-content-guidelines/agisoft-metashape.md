@@ -10,7 +10,7 @@ ms.reviewer: v-brycho
 
 # Use Agisoft Metashape to create 3D objects for Dynamics 365 Guides and for mixed-reality components included in apps created with Power Apps
 
-This tutorial guides you through the process of using Agisoft Metashape photogrammetry software to create a 3D model that you can use in Microsoft Dynamics Guides and in mixed-reality components included in apps created with Microsoft Power Apps.
+This tutorial guides you through the process of using Agisoft Metashape photogrammetry software to create a 3D object that you can use in Microsoft Dynamics Guides and in mixed-reality components included in apps created with Microsoft Power Apps.
 
 This tutorial was created only for informational purposes, to show how Agisoft Metashape works with Dynamics 365 Guides and Power Apps. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor Agisoft or any of its products.
 
@@ -63,7 +63,7 @@ For the most part, you can use the default preferences. However, there are a few
 
 ## Import your photos
 
-After you've finished setting up your preferences, the first step is to import the photos that Metashape will use to construct the 3D model.
+After you've finished setting up your preferences, the first step is to import the photos that Metashape will use to construct the 3D object.
 
 - On the **Workflow** menu, select **Add Photos**, and then select the photos to import.
 
@@ -71,13 +71,13 @@ After you've finished setting up your preferences, the first step is to import t
 
 ## Mask your photos
 
-You can "mask out" any irrelevant elements in your source photos that might be confusing to the program or produce undesirable results. By limiting the number of pixels that the application must be aware of, you help reduce the memory profile of each image. The result is a better 3D model. You might want to complete this step from different angles in your photos. Although you don't have to mask objects in every photo, the more photographs you mask, the more accurate the result will be.
+You can "mask out" any irrelevant elements in your source photos that might be confusing to the program or produce undesirable results. By limiting the number of pixels that the application must be aware of, you help reduce the memory profile of each image. The result is a better 3D object. You might want to complete this step from different angles in your photos. Although you don't have to mask objects in every photo, the more photographs you mask, the more accurate the result will be.
 
 1. Double-click an image to open it, and then select a selection tool, such as **Intelligent Scissors**.
 
     ![Intelligent Scissors tool.](media/intelligent-scissors.png "Intelligent Scissors tool")
 
-2. Outline your 3D model subject, and then select **Add Selection** to create the mask.
+2. Outline your 3D object subject, and then select **Add Selection** to create the mask.
 
     ![Add Selection button.](media/agisoft-6.PNG "Add Selection button")
 
@@ -170,11 +170,11 @@ The next step is to build the mesh.
     > [!NOTE]
     > These settings work for general cases. Experiment with other options to find the best combination for your needs. You might want to change the **Face count** setting to match the [performance requirements for your targeted platform](optimize-models.md#performance-targets).
 
-3. When you've finished, select **OK** to convert the point cloud into a 3D model.
+3. When you've finished, select **OK** to convert the point cloud into a 3D object.
 
 4. Examine the results, and then follow one of these steps:
 
-    - If you're satisfied with the results, skip ahead to the [Export the 3D model](#export-the-3d-model) procedure later in this tutorial.
+    - If you're satisfied with the results, skip ahead to the [Export the 3D object](#export-the-3d-model) procedure later in this tutorial.
 
     - If you want a higher level of surface detail, move on to the next procedure, [Build the texture](#build-the-texture).
 
@@ -182,7 +182,7 @@ The next step is to build the mesh.
 
 ## Build the texture
 
-By adding a texture map to your 3D model, you can significantly increase the visual fidelity but also maintain performance.
+By adding a texture map to your 3D object, you can significantly increase the visual fidelity but also maintain performance.
 
 > [!NOTE]
 > This step is optional.
@@ -198,7 +198,7 @@ By adding a texture map to your 3D model, you can significantly increase the vis
     > [!NOTE]
     > Depending on the platform that you're targeting, you might want to reduce the texture size.
 
-## Export the 3D model
+## Export the 3D object
 
 The last step is to convert the model to the GLB file format, so that you can use it in Dynamics 365 Guides and Power Apps.
 
@@ -206,7 +206,7 @@ The last step is to convert the model to the GLB file format, so that you can us
 
     ![Export Model command.](media/agisoft-20.PNG "Export Model command")
 
-2. In the **Save As** dialog box, specify a name and location for the 3D model. Then, in the **Save as type** field, select **Binary glTF (\*.glb**). When you've finished, select **Save**.
+2. In the **Save As** dialog box, specify a name and location for the 3D object. Then, in the **Save as type** field, select **Binary glTF (\*.glb**). When you've finished, select **Save**.
 
     ![Save As dialog box.](media/agisoft-21.PNG "Save As dialog box")
 
@@ -220,9 +220,9 @@ The model is now completed and ready to be used in Dynamics 365 Guides and Power
 
 ![Finished model.](media/agisoft-23.PNG "Finished model")
 
-## View a 3D model in Dynamics 365 Guides or Power Apps
+## View a 3D object in Dynamics 365 Guides or Power Apps
 
-After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
+After you've prepared a 3D object, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
 - [Dynamics 365 Guides](../overview.md)
 

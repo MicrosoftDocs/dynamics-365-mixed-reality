@@ -12,11 +12,11 @@ ms.reviewer: v-brycho
 
 This tutorial provides step-by-step instructions for the following tasks:
 
-- Convert a [point cloud](https://aka.ms/pointCloudDef) into a 3D model.
+- Convert a [point cloud](https://aka.ms/pointCloudDef) into a 3D object.
 
-- Optimize a 3D model by reducing the polygon count so that it matches [performance targets for Dynamics 365 mixed-reality applications](optimize-models.md#performance-targets).
+- Optimize a 3D object by reducing the polygon count so that it matches [performance targets for Dynamics 365 mixed-reality applications](optimize-models.md#performance-targets).
 
-- Export an optimized 3D model as a .glb file that can be used in Dynamics 365 Guides and mixed-reality components in apps created with Power Apps
+- Export an optimized 3D object as a .glb file that can be used in Dynamics 365 Guides and mixed-reality components in apps created with Power Apps
 
 - Create a processing pipeline template, so that you can quickly optimize point clouds in the future.
 
@@ -105,7 +105,7 @@ Houdini can import point cloud files in the PLY file format. If your file is in 
 
 ### Import the .ply file
 
-1. Open Houdini. A new scene is automatically created. In this procedure, you will build a chain of nodes to process the point cloud into a 3D model. These nodes will be built in the lower-right pane of the Houdini window.
+1. Open Houdini. A new scene is automatically created. In this procedure, you will build a chain of nodes to process the point cloud into a 3D object. These nodes will be built in the lower-right pane of the Houdini window.
 
     ![Node pane.](media/houdini-6-node-area.PNG "Node pane")
 
@@ -142,7 +142,7 @@ Sometimes, when you first import a point cloud, it has the wrong orientation. Yo
     ![Transform node.](media/houdini-12-transform-node.PNG "Transform node")
 
     > [!TIP]
-    > To view the model during a specific stage of the process in Houdini, click on the right side of the appropriate node. This capability is helpful if you ever have to look at your 3D model in a previous state and edit the changes that occurred during that state.
+    > To view the model during a specific stage of the process in Houdini, click on the right side of the appropriate node. This capability is helpful if you ever have to look at your 3D object in a previous state and edit the changes that occurred during that state.
 
 3. To correct the rotation of your model, in the options pane above the node pane, add values in the **Rotate** row. You can often set the **x** value to **270** to rotate the model to the correct position. However, if that value doesn't work, try different values.
 
@@ -207,7 +207,7 @@ Both glTF and real-time rendering applications require that objects be represent
 
     ![Convert To field.](media/houdini-25-convert-to.PNG "Convert To field")
 
-6. Right-click in the **Geometry** pane to open the **TAB Menu**, and then select **Polygon** \> **Remesh**. A remesh node is added to convert the mesh to triangles. In this way, you can decimate the 3D model to a polygon count that meets your performance requirements.
+6. Right-click in the **Geometry** pane to open the **TAB Menu**, and then select **Polygon** \> **Remesh**. A remesh node is added to convert the mesh to triangles. In this way, you can decimate the 3D object to a polygon count that meets your performance requirements.
 
     ![Remesh command.](media/houdini-26-polygon-remesh.PNG "Remesh command")
 
@@ -219,11 +219,11 @@ Both glTF and real-time rendering applications require that objects be represent
 
     ![Element Sizing options.](media/houdini-28-element-sizing.PNG "Element Sizing options")
 
-## Decimate the 3D model to help improve performance
+## Decimate the 3D object to help improve performance
 
-To achieve application-specific goals, you might have to decimate your 3D model. *Decimation* is the process of recomputing the surface polygons of a model to create a similar shape by using fewer polygons. Although this process reduces visual fidelity, it helps improve performance. The following table shows a side-by-side comparison of a high-quality model that is used for low-scene complexity on HoloLens and a low-quality model that is used for high-scene complexity.
+To achieve application-specific goals, you might have to decimate your 3D object. *Decimation* is the process of recomputing the surface polygons of a model to create a similar shape by using fewer polygons. Although this process reduces visual fidelity, it helps improve performance. The following table shows a side-by-side comparison of a high-quality model that is used for low-scene complexity on HoloLens and a low-quality model that is used for high-scene complexity.
 
-| High-polygon 3D model | Low-polygon 3D model |
+| High-polygon 3D object | Low-polygon 3D object |
 |-----------------------|----------------------|
 | ![High-polygon model](media/houdini-29-high-poly-model.PNG "High-polygon model") | ![Low-polygon model](media/houdini-30-low-poly-model.PNG "Low-polygon model") |
 | 500,000 triangles | 8,000 triangles |
@@ -240,7 +240,7 @@ To achieve application-specific goals, you might have to decimate your 3D model.
 
     ![Reduction Amount options.](media/houdini-32-connected-nodes.PNG "Reduction Amount options")
 
-The point cloud has now been converted to an optimized 3D mesh. In the next step, you will bake a high-resolution texture onto the 3D model to recover some of the visual fidelity that existed before decimation.
+The point cloud has now been converted to an optimized 3D mesh. In the next step, you will bake a high-resolution texture onto the 3D object to recover some of the visual fidelity that existed before decimation.
 
 ## Bake a high-resolution texture onto a low-polygon mesh
 
@@ -270,9 +270,9 @@ Texture coordinates (also known as *UVs*) are pairs of numbers (*U* and *V*) tha
 
     ![UV viewport command.](media/houdini-36-uv-viewport.PNG "UV viewport command")
 
-    The unwrapped UVs appear on the left, and the 3D model appears on the right.
+    The unwrapped UVs appear on the left, and the 3D object appears on the right.
 
-    ![Unwrapped UVs and 3D model.](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs and 3D model")
+    ![Unwrapped UVs and 3D object.](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs and 3D object")
 
 5. In the **Geometry** pane, select **Labs** \> **Output** \> **Labs Maps Baker** to add a **maps\_baker1** node.
 
@@ -338,7 +338,7 @@ Texture coordinates (also known as *UVs*) are pairs of numbers (*U* and *V*) tha
 
 19. Click on the right side of the node to activate it in the main part of the window.
 
-The texture is rendered on top of your low-polygon 3D model. If it looks acceptable, move on to the next step.
+The texture is rendered on top of your low-polygon 3D object. If it looks acceptable, move on to the next step.
 
 ![Texture rendered on the low-polygon model.](media/houdini-52-texture-low-poly.PNG "Texture rendered on the low-polygon model")
 
@@ -404,7 +404,7 @@ To save time and effort, you can create a template. In this way, the settings th
 
     ![Reload Geometry button.](media/houdini-62-reload-geometry.PNG "Reload Geometry button")
 
-4. Go to the **maps\_baker1** node, and then select **Bake** to bake a new texture for your 3D model.
+4. Go to the **maps\_baker1** node, and then select **Bake** to bake a new texture for your 3D object.
 
     ![Bake button.](media/houdini-63-bake-command.PNG "Bake button")
 
@@ -414,15 +414,15 @@ To save time and effort, you can create a template. In this way, the settings th
 
 6. Follow one of these steps:
 
-    - If you're satisfied with the 3D model, go to the **rop\_gltfB** node, and then select **Render to Disk** to export your 3D model.
+    - If you're satisfied with the 3D object, go to the **rop\_gltfB** node, and then select **Render to Disk** to export your 3D object.
 
         ![Render to Disk command.](media/houdini-65-render-to-disk.PNG "Render to Disk command")
 
-    - If you aren't satisfied with how the 3D model looks, adjust the settings for the **particlefluidsurface1**, **remesh**, and **polyreduce1** nodes. When your model looks acceptable, bake your texture again, and export the 3D model.
+    - If you aren't satisfied with how the 3D object looks, adjust the settings for the **particlefluidsurface1**, **remesh**, and **polyreduce1** nodes. When your model looks acceptable, bake your texture again, and export the 3D object.
 
-## View a 3D model in Dynamics 365 Guides or Power Apps
+## View a 3D object in Dynamics 365 Guides or Power Apps
 
-After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
+After you've prepared a 3D object, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
 - [Dynamics 365 Guides](../overview.md)
 

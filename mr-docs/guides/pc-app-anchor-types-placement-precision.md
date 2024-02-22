@@ -52,7 +52,7 @@ To maximize hologram position consistency so that the position of a hologram in 
 
 ### Object anchors
 
-The object anchors feature uses a 3D model of an object to automatically detect and anchor to a real-world object. Use this anchor type as an alternative when you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.
+The object anchors feature uses a 3D object of an object to automatically detect and anchor to a real-world object. Use this anchor type as an alternative when you can't attach a physical marker to an object or near an object. With an object anchor, no printed marker is required; you just need a 3D capture of the object that HoloLens uses to recognize in the real world. Object anchors are recommended for larger static objects.
 
 Object anchors allow you to convert with a smaller level of detail, set a higher minimum scan percentage, and add step text or graphics to encourage operators to scan the object from all sides.
 

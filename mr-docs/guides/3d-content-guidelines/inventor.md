@@ -21,7 +21,7 @@ Autodesk Inventor is professional-grade 3D CAD software for product design and e
 
 ## Optimize 3D objects for mixed reality
 
-The first step is to remove any unneeded detail from the 3D model. This vastly improves performance and increases the visual quality of the 3D model. Inventor has a tool called **Shrinkwrap** that can assist by removing fillets, chamfers, small parts, holes, and more.
+The first step is to remove any unneeded detail from the 3D object. This vastly improves performance and increases the visual quality of the 3D object. Inventor has a tool called **Shrinkwrap** that can assist by removing fillets, chamfers, small parts, holes, and more.
 
 1.	On the **Assemble** tab in Inventor, select **Shrinkwrap**.
 
@@ -63,7 +63,7 @@ The first step is to remove any unneeded detail from the 3D model. This vastly i
 
 6.	Save your file.
 
-## Export the 3D model
+## Export the 3D object
 
 Next, you need to export the model to a usable format, adjusting settings so the lowest-density model is exported.
 
@@ -89,9 +89,9 @@ Dynamics 365 Guides and mixed-reality components in apps created in Power Apps u
 
   - [SideFX Houdini](houdini.md)
 
-## View a 3D model in Dynamics 365 Guides or Power Apps
+## View a 3D object in Dynamics 365 Guides or Power Apps
 
-After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
+After you've prepared a 3D object, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
 - [Dynamics 365 Guides](../overview.md)
 

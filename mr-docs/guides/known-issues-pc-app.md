@@ -32,7 +32,7 @@ If you can't upload your custom 3D parts, images, or videos, enable Guides to wo
 
 ## 3D content and media are overwritten if you upload new content that has the same name
 
-The current release doesn't support multiple files that have the same name. Therefore, when you upload new 3D objects or media, make sure that the library doesn't already include files that have the same names. However, files of different types can have the same name. For example, you can have an image that is named bolt.png image and a 3D model that is named bolt.glb.
+The current release doesn't support multiple files that have the same name. Therefore, when you upload new 3D objects or media, make sure that the library doesn't already include files that have the same names. However, files of different types can have the same name. For example, you can have an image that is named bolt.png image and a 3D object that is named bolt.glb.
 
 ## You can't use the same name for 3D parts that you upload, even if they have different extensions
 

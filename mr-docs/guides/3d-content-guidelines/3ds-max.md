@@ -21,7 +21,7 @@ Autodesk 3ds Max is 3D modeling and rendering software for design visualization,
 
 ## Import a file into 3ds Max
 
-1. Open a new scene in 3ds Max, and then on the **File** menu, select **Import** > **Import** to import your 3D model.
+1. Open a new scene in 3ds Max, and then on the **File** menu, select **Import** > **Import** to import your 3D object.
 
    ![Import file.](media/3ds-max-file-import.png "Import file")
 
@@ -35,9 +35,9 @@ Autodesk 3ds Max is 3D modeling and rendering software for design visualization,
 
    ![Import file settings.](media/3ds-max-import-settings.png "Import file settings")
 
-## Optimize a 3D model
+## Optimize a 3D object
 
-If the polygon count is too high (see [Performance targets](optimize-models.md#performance-targets)), the model won't perform well in mixed-reality apps. To improve performance, you can optimize the 3D model by reducing the polygon count. To see the polygon count, first set up the viewport to show polygon statistics.
+If the polygon count is too high (see [Performance targets](optimize-models.md#performance-targets)), the model won't perform well in mixed-reality apps. To improve performance, you can optimize the 3D object by reducing the polygon count. To see the polygon count, first set up the viewport to show polygon statistics.
 
 ### Show polygon statistics
 
@@ -61,7 +61,7 @@ If the polygon count is too high (see [Performance targets](optimize-models.md#p
 
 Adding an **Edit Poly** modifier helps eliminate shading issues that occur during modification. To add an **Edit Poly** modifier:
 
-- Select all parts of your 3D model, and then apply the **Edit Poly** modifier.
+- Select all parts of your 3D object, and then apply the **Edit Poly** modifier.
 
    ![Edit Poly modifier.](media/3ds-max-edit-poly-modifier.png "Edit Poly modifier")
 
@@ -136,7 +136,7 @@ At this point, your model might be optimized enough for use in mixed reality. If
 Not all CAD materials are compatible with real-time apps, so they must be converted first. In this section, we'll change the materials to a GLB-friendly material type called **Physical Material**. This material is very flexible and is compatible with mixed-reality technology.  
 
 > [!NOTE]
-> If your 3D model has 10 or more materials, performance might be an issue. To fix this, skip to [Bake textures](#bake-textures), later in this tutorial.
+> If your 3D object has 10 or more materials, performance might be an issue. To fix this, skip to [Bake textures](#bake-textures), later in this tutorial.
 
 1. On the **Rendering** menu, select **Scene Converter**.
 
@@ -156,13 +156,13 @@ In cases where you want fine control over materials, you can apply and change ma
 
    ![Compact Material Editor command.](media/3ds-max-compact-material-editor.png "Compact Material Editor command")
 
-2. The **Material Editor** window includes blank material slots that appear as grey spheres. To load a slot for inspection, select the eye dropper, and then select the 3D model you want to look at.
+2. The **Material Editor** window includes blank material slots that appear as grey spheres. To load a slot for inspection, select the eye dropper, and then select the 3D object you want to look at.
 
    ![Material color.](media/3ds-max-material-color.png "Material Color")
 
    The important parameters to look at are **Base Color** and **Reflections**. **Reflections** is controlled by the **Metalness** and **Roughness** values&mdash;the surface finish of the material.
 
-   - To apply a material to another 3D model, drag the active material ball on top of the 3D model you want to change.
+   - To apply a material to another 3D object, drag the active material ball on top of the 3D object you want to change.
 
      ![Apply material.](media/3ds-max-apply-material.png "Apply material")
 
@@ -172,19 +172,19 @@ In cases where you want fine control over materials, you can apply and change ma
 
 ## Bake textures
 
-If there are more than ten materials on the 3D model, combining them into a single material can increase performance. You can do this by "baking" material colors into a single image map. This is optional, but it's a good idea if you find that you experience performance issues when viewing your 3D model. The goal is to have one object with the colors of the original 3D model, and another that represents the combined 3D objects to bake to.
+If there are more than ten materials on the 3D object, combining them into a single material can increase performance. You can do this by "baking" material colors into a single image map. This is optional, but it's a good idea if you find that you experience performance issues when viewing your 3D object. The goal is to have one object with the colors of the original 3D object, and another that represents the combined 3D objects to bake to.
 
   > [!NOTE]
   > * This process only works if the materials haven't yet been converted to **Physical Material**.
   > * Baking, UVs, and texture maps are complex. The goal of this tutorial isn't to make you an expert in texture baking, but to help you get through the process so that you can use your 3D objects with Dynamics 365 Guides and Power Apps. For this reason, this tutorial doesn't go into a lot of detail about texture baking.
 
-### Prepare the 3D model
+### Prepare the 3D object
 
 1. Choose a single object from your model hierarchy, rename it to **Original** and add an **Edit Poly** modifier to it.
 
 2. Go to the object selection.
 
-3. Attach all the 3D objects by selecting one object and adding another **Edit Poly** modifier to it. It doesn't matter which 3D model you select.
+3. Attach all the 3D objects by selecting one object and adding another **Edit Poly** modifier to it. It doesn't matter which 3D object you select.
 
   	![Edit Poly.](media/3ds-max-add-edit-poly.png "Edit Poly")
 
@@ -206,7 +206,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 ### Unwrap UVs
 
-1. Unwrap the duplicate 3D model by selecting and applying the **Unwrap UVW** modifier from the **Modifier List** for your original mesh. Select **Polygon** in the drop-down list, to edit the UV faces.
+1. Unwrap the duplicate 3D object by selecting and applying the **Unwrap UVW** modifier from the **Modifier List** for your original mesh. Select **Polygon** in the drop-down list, to edit the UV faces.
 
    ![Unwrap UVW.](media/3ds-max-unwrap-UVW.png "Unwrap UVW")
 
@@ -226,7 +226,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 Now that the original mesh has been prepared, you need to create a copy of it to bake the texture to.
 
-1. To clone the 3D model, select it, and then select **Edit** > **Clone**.
+1. To clone the 3D object, select it, and then select **Edit** > **Clone**.
 
    ![Clone meshes.](media/3ds-max-clone-meshes.png "Clone meshes")
 
@@ -315,7 +315,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 2. Set up a new material slot in the material editor.  
 
-3. Select one of the gray spheres and drag it to the unwrapped 3D model. At this point, the model will appear gray because it has just one material on it.
+3. Select one of the gray spheres and drag it to the unwrapped 3D object. At this point, the model will appear gray because it has just one material on it.
 
 4. Select the **Standard** button to open **Material/Map Browser**.
 
@@ -341,13 +341,13 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
    ![Shaded Materials with Maps.](media/3ds-max-shaded-materials-with-maps.PNG "Shaded Materials with Maps")
 
-10. Hide the original 3D model so you can see the optimized 3D model with its texture.
+10. Hide the original 3D object so you can see the optimized 3D object with its texture.
 
     ![Optimized model.](media/3ds-max-optimized-model.png "Optmized model")
 
 <a name="export-the-3d-model"></a>
 
-## Export the 3D model
+## Export the 3D object
 
 1. Select the cloned model.
 
@@ -361,9 +361,9 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 4. Select **Export**.
 
-## View a 3D model in Dynamics 365 Guides or Power Apps
+## View a 3D object in Dynamics 365 Guides or Power Apps
 
-After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
+After you've prepared a 3D object, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
 - [Dynamics 365 Guides](../overview.md)
 

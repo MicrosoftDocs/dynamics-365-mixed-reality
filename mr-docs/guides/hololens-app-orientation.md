@@ -48,8 +48,8 @@ Here's what each button or UI element is used for.
 - [Place and manipulate holograms](hololens-app-place-holograms.md)
 - [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 - [Use a style to add emphasis](hololens-app-styles.md)
-- [Duplicate a 3D model](hololens-app-duplicate-model.md)
-- [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Duplicate a 3D object](hololens-app-duplicate-model.md)
+- [Copy a 3D object's position](hololens-app-copy-3D-model-position.md)
 - [Change animation options](hololens-app-animations.md)
 - [Create a trigger for step navigation](hololens-app-trigger.md)
     

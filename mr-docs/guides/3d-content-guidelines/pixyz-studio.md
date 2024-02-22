@@ -340,7 +340,7 @@ You can preview the resulting .GLB file(s) with the [3D Viewer](https://www.micr
 
 If the asset requires any additional editing or animation work in another staging application, consider using [.FBX](https://www.autodesk.com/products/fbx/overview) as an intermediate file format. FBX is an [Autodesk](https://www.autodesk.com/) exchange format designed to preserve additional authoring data that might be required by your staging application.
 
-## View a 3D model in a Dynamics 365 mixed-reality app
+## View a 3D object in a Dynamics 365 mixed-reality app
 
 After preparing your 3D objects, you can learn more about using the following Dynamics 365 apps to view your 3D objects in mixed reality:
 

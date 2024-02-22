@@ -63,7 +63,7 @@ Version 901.2312.16001.0 fixes an issue in the PC app where the app stops respon
 
 - <a href="/dynamics365/mixed-reality/guides/calling-photos" target="blank">Take a photo within Guides</a> through the HoloLens and share it with other call participants</a>.
 - Guides dynamically manages loaded content in response to overall system memory usage. This improves device stability when using multiple HoloLens features simultaneously (such as Guides, calling, files, mixed reality capture (MRC), and Edge browser) and allows more file content to display. However, when multiple features are in use at once, anticipate potentially longer loading times when navigating through a guide.
-- Guides limits the maximum size of a single texture on a 3D model to 16 megapixels (such as 4K x 4K or equivalent).
+- Guides limits the maximum size of a single texture on a 3D object to 16 megapixels (such as 4K x 4K or equivalent).
 
 > [!IMPORTANT]
 > Guides 901.x isn't compatible with Guides 800 solutions. If you choose not to update to the 900 solution and remain on the version 800 solution and compatible versions of the PC and HoloLens apps, *don't* update to the 901.x version.

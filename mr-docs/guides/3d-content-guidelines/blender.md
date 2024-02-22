@@ -12,13 +12,13 @@ ms.reviewer: v-brycho
 
 This tutorial provides step-by-step instructions that show you how to:
 
-- Reduce the polygon count of a 3D model so that it matches the performance needs specific to [performance targets](optimize-models.md#performance-targets) for Microsoft Dynamics 365 Guides and for mixed-reality components included in apps created with Microsoft Power Apps.
+- Reduce the polygon count of a 3D object so that it matches the performance needs specific to [performance targets](optimize-models.md#performance-targets) for Microsoft Dynamics 365 Guides and for mixed-reality components included in apps created with Microsoft Power Apps.
 
-- Combine the 3D model's multiple materials (colors) into a single texture that can be applied to the model.
+- Combine the 3D object's multiple materials (colors) into a single texture that can be applied to the model.
 
-- Export the optimized 3D model as a [GLB file](index.md#gltf-and-glb-file-formats) that can be used in Dynamics 365 Guides and Power Apps.
+- Export the optimized 3D object as a [GLB file](index.md#gltf-and-glb-file-formats) that can be used in Dynamics 365 Guides and Power Apps.
 
-The combination of reducing polygons and turning multiple materials into a single texture can transform a complex and resource-intensive 3D model into a 3D model that performs well in Dynamics 365 Guides and Power Apps.
+The combination of reducing polygons and turning multiple materials into a single texture can transform a complex and resource-intensive 3D object into a 3D object that performs well in Dynamics 365 Guides and Power Apps.
 
 > [!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how Blender works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Blender or any of Blender's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-objects) you can use to prepare your 3D objects.
@@ -29,9 +29,9 @@ The combination of reducing polygons and turning multiple materials into a singl
 
 If Blender is the software that you decide to use to prepare your 3D objects, review Blender's website and [download the most current stable version for Windows](https://www.blender.org/download/).
 
-## Overall steps for preparing a 3D model with Blender
+## Overall steps for preparing a 3D object with Blender
 
-Preparing a 3D model for mixed reality with Blender includes the following steps:
+Preparing a 3D object for mixed reality with Blender includes the following steps:
 
 1.	Import the model into Blender.
 
@@ -63,18 +63,18 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
 
     ![Image search.](media/blender-import-obj.PNG "Image search")
 
-    b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as one item, and searches in the subfolder for any materials.
+    b. Select **Import OBJ** on the right side of the screen. This imports the 3D object as one item, and searches in the subfolder for any materials.
 
     ![Import object.](media/blender-import-obj-2.png "Import object")
 
-    When you select **Import OBJ**, you'll see the 3D model with the imported materials.
+    When you select **Import OBJ**, you'll see the 3D object with the imported materials.
 
       > [!TIP]
-      > If the 3D model is extremely large or small, or hard to see, or is possibly off-screen as shown in the following graphic, you can use the mouse wheel to zoom the camera in or out until the model is visible.
+      > If the 3D object is extremely large or small, or hard to see, or is possibly off-screen as shown in the following graphic, you can use the mouse wheel to zoom the camera in or out until the model is visible.
 
       ![Zoom camera.](media/blender-zoom-camera.png "Zoom camera")
 
-      If the 3D model appears gray, select the **Look Dev** shading option to show the colors.
+      If the 3D object appears gray, select the **Look Dev** shading option to show the colors.
 
       ![Look Dev shading option full screen.](media/blender-look-dev-full-screen.png "Look Dev shading option full screen")
 
@@ -86,7 +86,7 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
 
 ## Decimate the model
 
-To reach application-specific performance goals, you might need to "decimate" the model. _Decimation_ is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. This reduces visual fidelity, but increases performance. The example images below show a high-fidelity model that can be used when you're viewing one or two 3D objects at a time on Microsoft HoloLens, and a low-quality 3D model used when you're viewing ten or more objects at a time on HoloLens.
+To reach application-specific performance goals, you might need to "decimate" the model. _Decimation_ is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. This reduces visual fidelity, but increases performance. The example images below show a high-fidelity model that can be used when you're viewing one or two 3D objects at a time on Microsoft HoloLens, and a low-quality 3D object used when you're viewing ten or more objects at a time on HoloLens.
 
 ![Decimation examples.](media/blender-decimation-examples.PNG "Decimation examples")
 
@@ -106,7 +106,7 @@ To reach application-specific performance goals, you might need to "decimate" th
 
 You can skip this step if your model has only one color.
 
-To visualize the concept of UV unwrapping, imagine cutting out every surface of a 3D model and placing those surfaces flat on a piece of paper. The U and V dimensions represent the vertical and horizontal axes of the piece of paper in the same way that X, Y, and Z represent the three-dimensional axes of a 3D model. Unwrapping the UVs enables you to paint the flattened pieces with the material colors of the model. This painted paper is called a *texture*, and it's later wrapped back on top of the model, giving it the illusion of being made from different-colored pieces when it's actually one item with a colorful texture wrapped around it. This process is called *texture baking*, which is covered later in this tutorial.
+To visualize the concept of UV unwrapping, imagine cutting out every surface of a 3D object and placing those surfaces flat on a piece of paper. The U and V dimensions represent the vertical and horizontal axes of the piece of paper in the same way that X, Y, and Z represent the three-dimensional axes of a 3D object. Unwrapping the UVs enables you to paint the flattened pieces with the material colors of the model. This painted paper is called a *texture*, and it's later wrapped back on top of the model, giving it the illusion of being made from different-colored pieces when it's actually one item with a colorful texture wrapped around it. This process is called *texture baking*, which is covered later in this tutorial.
 
 1.	Select the model, hover over the main menu, press the **Tab** key to enter **Edit Mode**, press **a** to select all, and then on the **UV** menu, select **Smart UV Project**.
 
@@ -153,11 +153,11 @@ To visualize the concept of UV unwrapping, imagine cutting out every surface of 
 
    ![Screen shot with Materials tab selected.](media/blender-materials-tab-full-screen.PNG "Screen shot with Materials tab selected")
 
-2. Delete all the materials for the duplicate 3D model by selecting the minus sign to the right of the materials.
+2. Delete all the materials for the duplicate 3D object by selecting the minus sign to the right of the materials.
 
    ![Minus sign.](media/blender-minus-sign-full-screen.PNG "Minus sign")
 
-3. To hide the original 3D model and show just the duplicate, select the "eye" to the right of the original 3D model name. Notice that there are no materials on the duplicate 3D model.
+3. To hide the original 3D object and show just the duplicate, select the "eye" to the right of the original 3D object name. Notice that there are no materials on the duplicate 3D object.
 
     ![Select eye.](media/blender-select-eye.PNG "Select eye")
 
@@ -169,7 +169,7 @@ To visualize the concept of UV unwrapping, imagine cutting out every surface of 
 
     ![New.](media/blender-new.PNG "New")
 
-6. Hover over the viewport (the main window where the 3D model is shown), press the **Tab** key to enter **Edit Mode**, press **a** to select all, and then select **Assign** from the **Materials** tab ![Screen shot showing Materials tab.](media/blender-materials-tab.PNG "Screen shot showing Materials tab").
+6. Hover over the viewport (the main window where the 3D object is shown), press the **Tab** key to enter **Edit Mode**, press **a** to select all, and then select **Assign** from the **Materials** tab ![Screen shot showing Materials tab.](media/blender-materials-tab.PNG "Screen shot showing Materials tab").
 
     ![Assign.](media/blender-assign.PNG "Assign")
 
@@ -189,7 +189,7 @@ To visualize the concept of UV unwrapping, imagine cutting out every surface of 
 
     ![Shader Editor.](media/blender-shader-editor-full-screen.PNG "Shader Editor")
 
-11.	With the duplicate 3D model selected, select **Add** > **Texture** > **Image Texture**. Select or click to place the image texture node in the window.
+11.	With the duplicate 3D object selected, select **Add** > **Texture** > **Image Texture**. Select or click to place the image texture node in the window.
 
     ![Image Texture.](media/blender-image-texture.PNG "Image Texture")
 
@@ -207,7 +207,7 @@ To visualize the concept of UV unwrapping, imagine cutting out every surface of 
 
 ## Bake the materials onto the texture
 
-After the texture and material are set up on the duplicate 3D model, it's time to bake the materials from the original 3D model onto that texture. The texture will be wrapped around the duplicate 3D model, which makes it higher performing while using the original colors.
+After the texture and material are set up on the duplicate 3D object, it's time to bake the materials from the original 3D object onto that texture. The texture will be wrapped around the duplicate 3D object, which makes it higher performing while using the original colors.
 
 1.	Select the **Render** tab ![Render tab.](media/blender-render-tab.png "Render tab")
 
@@ -217,7 +217,7 @@ After the texture and material are set up on the duplicate 3D model, it's time t
 
 4.	Clear the **Direct** and **Indirect** check boxes.
 
-5.	Select the original 3D model, and then hold **Shift** while selecting the duplicate 3D model.
+5.	Select the original 3D object, and then hold **Shift** while selecting the duplicate 3D object.
 
 6.	Select the **Selected to Active** check box.
 
@@ -227,7 +227,7 @@ After the texture and material are set up on the duplicate 3D model, it's time t
 
     ![Bake.](media/blender-bake.PNG "Bake")
 
-    The duplicate 3D model now has the same coloring as the original, but with only one material instead of several. This can significantly reduce draw calls and increase performance.  
+    The duplicate 3D object now has the same coloring as the original, but with only one material instead of several. This can significantly reduce draw calls and increase performance.  
 
     To confirm that the bake was successful, you can select the eye icon ![Eye icon.](media/blender-eye-icon.PNG "Eye icon") next to the original model to hide it. Now only the duplicate with one material and texture is visible.
 
@@ -245,9 +245,9 @@ The last step is to export the model to a GLB file so it can be used with Dynami
 
     ![Export settings.](media/blender-gltf.png "Export settings")
 
-## View a 3D model in Dynamics 365 Guides or Power Apps
+## View a 3D object in Dynamics 365 Guides or Power Apps
 
-After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
+After you've prepared a 3D object, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
 - [Dynamics 365 Guides](../overview.md)
 

@@ -244,7 +244,7 @@ Version 703.2206.27001 of the HoloLens app provides a bug fix for a permissions 
 - Reduced number of “Out of Memory” crashes on HoloLens 2.
 -	Adjusted the default microphone volume for calls recorded using Mixed Reality Capture. The default volume is now lower.
 -	Fixed issue with ```<I>``` (capital I) tag not rendering italicized text correctly.  
--	Fixed issue with most recent version of a 3D model not being shown in a guide when a model was uploaded. The cached version of the 3D model is now cleared and updated when a new model is uploaded.
+-	Fixed issue with most recent version of a 3D object not being shown in a guide when a model was uploaded. The cached version of the 3D object is now cleared and updated when a new model is uploaded.
 -	Fixed issue with Hebrew fallback font not rendering correctly in some scenarios.
 
 ## April 5, 2022
@@ -396,7 +396,7 @@ Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both a
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/prepare-folders-guides-list-dynamics-365-guides-model-driven-app-admins" target="_blank">Prepare folders for the Guides list in the Dynamics 365 Guides model-driven app (for admins)</a>| Yes |<a href="/dynamics365/mixed-reality/guides/admin-create-folders" target="_blank">Organize guides into folders in Dynamics 365 Guides (for admins)</a>|
-| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/measure-lengths-angles-new-3d-toolkit-shapes" target="_blank">Measure lengths and angles with new toolkit shapes</a>| Yes |<a href="/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D model from the toolkit</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/measure-lengths-angles-new-3d-toolkit-shapes" target="_blank">Measure lengths and angles with new toolkit shapes</a>| Yes |<a href="/dynamics365/mixed-reality/guides/create-steps-assign-media" target="_blank">Add a 3D object from the toolkit</a>|
 
 #### Bugs fixed
 
@@ -474,7 +474,7 @@ Version 500.2009.23001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/create-guides-that-support-branching-flows" target="_blank">Create guides that support non-linear (branching) workflows </a> | Yes |<a href="/dynamics365/mixed-reality/guides/pc-app-branching" target="_blank">Add a branch in a guide to create a non-linear workflow</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/use-trigger-branch-specific-step" target="_blank">Use a trigger to branch to a specific step </a> | Yes |<a href="/dynamics365/mixed-reality/guides/pc-app-trigger" target="_blank">Create a trigger for step navigation in the PC app</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/activate-trigger-when-operators-hand-enters-trigger-area" target="_blank">Activate a trigger when the operator's hand enters the trigger area </a> | No |<a href="/dynamics365/mixed-reality/guides/pc-app-trigger" target="_blank">Create a trigger for step navigation in the PC app</a>|
-| <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-paste-position-orientation-scale-3d-model" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | No |<a href="/dynamics365/mixed-reality/guides/hololens-app-orientation#copy-and-paste-a-3d-models-position" target="_blank">Copy and paste a 3D model's position</a>|
+| <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-paste-position-orientation-scale-3d-model" target="_blank">Copy and paste the position, orientation, and scale of a 3D object </a> | No |<a href="/dynamics365/mixed-reality/guides/hololens-app-orientation#copy-and-paste-a-3d-models-position" target="_blank">Copy and paste a 3D object's position</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-dynamics-365-guides-content-one-common-data-service-instance-another" target="_blank">Copy Dynamics 365 Guides content from one Microsoft Dataverse instance to another </a> | No |<a href="/dynamics365/mixed-reality/guides/migrate" target="_blank">Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another</a>|
 
 ## 2020 Release Wave 1
@@ -491,7 +491,7 @@ Version 404.2008.19001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 |----------------------------------------------------------------------------------------|------|
 | <a href="/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/use-spatial-triggers-go-forward-or-backward-guide" target="_blank">Use spatial triggers to go forward or backward in a guide</a> | Yes |
 | <a href="/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/new-security-roles-restrict-access-guides" target="_blank">New security roles to restrict access to guides</a> | Yes |
-| <a href="/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/preview-image-video-or-3d-model-new-properties-tab" target="_blank">Preview an image, video, or 3D model in the new Properties tab</a> | No |
+| <a href="/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/preview-image-video-or-3d-model-new-properties-tab" target="_blank">Preview an image, video, or 3D object in the new Properties tab</a> | No |
 | <a href="/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/back-button-behavior-changed-return-operator-previously-visited-step" target="_blank">Back button behavior changed to return operator to the previously visited step</a> | No |
 | <a href="/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/step-card-ui-update" target="_blank">Step card UI update</a> | No |
 

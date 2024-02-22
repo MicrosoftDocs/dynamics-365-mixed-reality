@@ -22,19 +22,19 @@ it in the PC app. For example, if you added a 3D part to help operators with a s
 
 2. Use gaze and gestures to place the 3D part hologram over its counterpart in the real world. [Manipulate the hologram](#manipulate-holograms) if needed.
 
-## Place a 3D model from the toolkit
+## Place a 3D object from the toolkit
 
-If you added a 3D model to the bin in the PC app, you can place the 3D model in the same way that you place a 3D part. You can also add a 3D model directly from the HoloLens app (you don't have to add it in the PC app first).
+If you added a 3D object to the bin in the PC app, you can place the 3D object in the same way that you place a 3D part. You can also add a 3D object directly from the HoloLens app (you don't have to add it in the PC app first).
 
 1. Air tap one of the **Add** boxes in the bin.
 
-1. Air tap a category (for example, **Arrows** or **Hands**), and then air tap the specific 3D model that you want to add.
+1. Air tap a category (for example, **Arrows** or **Hands**), and then air tap the specific 3D object that you want to add.
 
     ![Categories.](media/step-card-arrow.jpg "Categories")
 
     The item is added to your bin. You can then place it in the same way that you place any 3D part.
 
-   There are only eight **3D parts** boxes in the bin, which limits the variety of 3D objects you can add to a single step. When placing holograms on the HoloLens, you can, however, place an unlimited number from the bin. For example, you can add up to eight different 3D objects (arrows, boxes, nuts, drills, and so on) to the bin, but you can place as many arrows, boxes, nuts, and drills from each **3D Parts** box that you want when in HoloLens. Either tap the asset bins to spawn 3D objects or go to a 3D model's **Edit** menu and select **Duplicate**.
+   There are only eight **3D parts** boxes in the bin, which limits the variety of 3D objects you can add to a single step. When placing holograms on the HoloLens, you can, however, place an unlimited number from the bin. For example, you can add up to eight different 3D objects (arrows, boxes, nuts, drills, and so on) to the bin, but you can place as many arrows, boxes, nuts, and drills from each **3D Parts** box that you want when in HoloLens. Either tap the asset bins to spawn 3D objects or go to a 3D object's **Edit** menu and select **Duplicate**.
 
 ## Best practices for working with 3D content
 
@@ -50,9 +50,9 @@ If you added a 3D model to the bin in the PC app, you can place the 3D model in 
 
 ## Manipulate holograms
 
-To place a 3D model from one of your bins, follow these steps.
+To place a 3D object from one of your bins, follow these steps.
 
-1. Air tap a 3D model to add it to the real world. It appears in front of the Step card in your world.
+1. Air tap a 3D object to add it to the real world. It appears in front of the Step card in your world.
 
 1. Raise your hand in the ready gesture and gaze at the model to preview it. To place a model, you must look at the model **and** put your hand up into the ready position. You'll know that the model is in a preview state when the 3D controls appear around it.
 
@@ -65,7 +65,7 @@ To place a 3D model from one of your bins, follow these steps.
 
     1. Move the model where you want it to go, and then release to place it.
 
-    When you tap a 3D model to move it, you select it at the same time. After a 3D model is selected, if you put your hand down, the 3D controls remains until you preview or select another part, or until you air tap somewhere in empty space.
+    When you tap a 3D object to move it, you select it at the same time. After a 3D object is selected, if you put your hand down, the 3D controls remains until you preview or select another part, or until you air tap somewhere in empty space.
 
 > [!TIP]
 > On HoloLens 2, you can manipulate holograms directly with your hands. To select a hologram, place your hand on it to show the 3D controls. Then grab the hologram, move it, and release to place it. When you've finished, air tap anywhere in an empty space. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
@@ -119,7 +119,7 @@ The following illustrations show how to use the different rotation controls.
 
 - [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 - [Use a style to add emphasis](hololens-app-styles.md)
-- [Copy a 3D model's position](hololens-app-copy-3D-model-position.md)
+- [Copy a 3D object's position](hololens-app-copy-3D-model-position.md)
 - [Change animation options](hololens-app-animations.md)
 - [Create a trigger for step navigation](hololens-app-trigger.md)
     

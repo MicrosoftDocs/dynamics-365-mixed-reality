@@ -26,8 +26,8 @@ The following illustration shows a model visualized in Autodesk Inventor and Mic
 > [!div class="mx-imgBorder"]
 > ![Parametric versus polygonal geometry.](media/compare-geometry.PNG "Parametric versus polygonal geometry")
 
-**A.**	Parametric 3D model ready for simulation and manufacturing<br>
-**B.**	Polygonal surface 3D model ready for real-time rendering
+**A.**	Parametric 3D object ready for simulation and manufacturing<br>
+**B.**	Polygonal surface 3D object ready for real-time rendering
 
 ## Overall process for preparing 3D objects
 
@@ -41,7 +41,7 @@ Preparing CAD content for Dynamics 365 mixed-reality apps involves two steps:
 - [Convert 3D objects](convert-models.md)
 - [Optimize 3D objects](optimize-models.md)
 - [Best practices for converting and optimizing 3D objects](best-practices.md)
-- [Review a 3D model](review-3d-model.md)
+- [Review a 3D object](review-3d-model.md)
 - [Tutorials for converting and optimizing 3D objects](tutorials-overview.md)
 
 

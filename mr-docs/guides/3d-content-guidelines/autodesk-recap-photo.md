@@ -51,7 +51,7 @@ The following tips will help you take quality photos for photogrammetry:
 
     ![Object option.](media/recap-photo1.PNG "Object option")
 
-3. Click anywhere on the page that appears, according to the prompt, and then add the photos that you want to use to create your 3D model. After you've finished importing the photos, select **Create**.
+3. Click anywhere on the page that appears, according to the prompt, and then add the photos that you want to use to create your 3D object. After you've finished importing the photos, select **Create**.
 
     ![Create button.](media/recap-photo2.PNG "Create button")
 
@@ -60,9 +60,9 @@ The following tips will help you take quality photos for photogrammetry:
     ![Create Project page.](media/recap-photo3.PNG "Create Project page")
 
     > [!NOTE]
-    > At this point, you can use the **Autocrop** feature if you want. This tutorial shows how to crop the 3D model later in the process.
+    > At this point, you can use the **Autocrop** feature if you want. This tutorial shows how to crop the 3D object later in the process.
 
-5. After your 3D model has been processed, it appears in the **My Cloud Drive** section of the dashboard. Select the **Download this project from the cloud** (down arrow) button to download your 3D model.
+5. After your 3D object has been processed, it appears in the **My Cloud Drive** section of the dashboard. Select the **Download this project from the cloud** (down arrow) button to download your 3D object.
 
     ![Download this project from the cloud button.](media/recap-photo4.PNG "Download this project from the cloud button")
 
@@ -70,17 +70,17 @@ The following tips will help you take quality photos for photogrammetry:
 
     ![Select folder to extract mesh to dialog box with Select Folder button selected.](media/recap-photo5.PNG "Select folder to extract mesh to dialog box with Select Folder button selected")
 
-7. You'll see a new 3D model that has the name that you entered. Select the model to open it in the editor.
+7. You'll see a new 3D object that has the name that you entered. Select the model to open it in the editor.
 
     ![New model.](media/recap-photo6.PNG "New model")
 
-    Your 3D model is loaded on the editor page.
+    Your 3D object is loaded on the editor page.
 
     ![Model loaded on the editor page.](media/recap-photo7.PNG "Model loaded on the editor page")
 
-## Edit the 3D model
+## Edit the 3D object
 
-Several tools are available on the left side and at the bottom of the editor page. You can use these tools to clean up your 3D model. Experiment with these tools to clean up the parts of your 3D model that you don't want to keep. This tutorial shows how to remove the floor from the model.
+Several tools are available on the left side and at the bottom of the editor page. You can use these tools to clean up your 3D object. Experiment with these tools to clean up the parts of your 3D object that you don't want to keep. This tutorial shows how to remove the floor from the model.
 
 1. At the bottom of the editor page, select the **Lasso/Fence** tool.
 
@@ -104,9 +104,9 @@ Several tools are available on the left side and at the bottom of the editor pag
 
 5. When the model looks the way that you want it to, select **Apply**.
 
-The rest of the floor is removed from your 3D model and the mesh on the bottom is filled.
+The rest of the floor is removed from your 3D object and the mesh on the bottom is filled.
 
-## Decimate the 3D model to help increase performance
+## Decimate the 3D object to help increase performance
 
 After you've finished removing the parts of the mesh that you don't want to keep, you can decimate it to a polygon count that meets the [performance targets for Dynamics 365 Guides and Power Apps](optimize-models.md#performance-targets).
 
@@ -117,19 +117,19 @@ After you've finished removing the parts of the mesh that you don't want to keep
 2. In the **Decimate** dialog box, in the **Target face count** field, specify a polygon count that balances visual fidelity with performance requirements.
 
     > [!NOTE]
-    > Unless precise geometry is very important, don't select the **Best geometry** check box, because it will remove your textures. The textures that are produced through photogrammetry add significant detail to the 3D model.
+    > Unless precise geometry is very important, don't select the **Best geometry** check box, because it will remove your textures. The textures that are produced through photogrammetry add significant detail to the 3D object.
 
     ![Decimate settings.](media/recap-photo12.PNG "Decimate settings")
 
 3. Select **Decimate all**.
 
-The 3D model is optimized and ready for export.
+The 3D object is optimized and ready for export.
 
 ![Optimized geometry.](media/recap-photo13.PNG "Optimized geometry")
 
-## Export the 3D model as an OBJ file
+## Export the 3D object as an OBJ file
 
-Before you can use the 3D model in Dynamics 365 Guides or Power Apps, it must be in the GLB file format. In this step, you'll export the model as an OBJ file that can then be converted to a GLB file.
+Before you can use the 3D object in Dynamics 365 Guides or Power Apps, it must be in the GLB file format. In this step, you'll export the model as an OBJ file that can then be converted to a GLB file.
 
 1. On the left side of the editor page, select the **Export** button, and then select the **Export model** button to open the export settings.
 
@@ -146,7 +146,7 @@ Before you can use the 3D model in Dynamics 365 Guides or Power Apps, it must be
 
     ![Select Folder button.](media/recap-photo16.PNG "Select Folder button")
 
-The 3D model is exported to the folder that you selected.
+The 3D object is exported to the folder that you selected.
 
 ## Use Blender to convert the OBJ file to a GLB file
 
@@ -158,7 +158,7 @@ There are several applications that you can use to convert an OBJ file to a GLB 
 
 If you use Blender to prepare your 3D objects, review the information on the Blender website, and [download the latest version for Windows](https://www.blender.org/download/).
 
-### Import your 3D model into Blender
+### Import your 3D object into Blender
 
 1. Open Blender. A new scene is automatically created.
 2. Right-click the cube, and then select **Delete** to delete it.
@@ -175,11 +175,11 @@ If you use Blender to prepare your 3D objects, review the information on the Ble
 
         ![Import OBJ settings.](media/recap-photo19.PNG "Import OBJ settings")
 
-    2. Select **Import OBJ**. Blender imports the 3D model as a single item and searches the subfolder for any materials.
+    2. Select **Import OBJ**. Blender imports the 3D object as a single item and searches the subfolder for any materials.
 
         ![Import OBJ button.](media/recap-photo20.PNG "Import OBJ button")
 
-### Export the 3D model as a GLB file
+### Export the 3D object as a GLB file
 
 The last step is to export the model as a GLB file so that it can be used with Dynamics 365 Guides or Power Apps.
 
@@ -199,9 +199,9 @@ The last step is to export the model as a GLB file so that it can be used with D
 
     ![Export glTF 2.0 button.](media/recap-photo24.PNG "Export glTF 2.0 button")
 
-## View a 3D model in Dynamics 365 Guides or Power Apps
+## View a 3D object in Dynamics 365 Guides or Power Apps
 
-After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
+After you've prepared a 3D object, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
 - [Dynamics 365 Guides](../overview.md)
 

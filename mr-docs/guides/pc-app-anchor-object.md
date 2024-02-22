@@ -43,7 +43,7 @@ Object anchors for Dynamics 365 Guides has the following limitations:
 
 - Dynamics 365 Guides HoloLens app version 900.2130.7001.0 (October 17, 2023) or later
 
-- A digital 3D model of your target object. You can start with any 3D model or you can capture the object by using third-party scanning applications.
+- A digital 3D object of your target object. You can start with any 3D object or you can capture the object by using third-party scanning applications.
 
    > [!NOTE]
    > Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any third-party products. Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of any third-party product.
@@ -61,7 +61,7 @@ You can access the **Anchor** wizard from the **Outline** page in the PC app. Th
    > [!NOTE]
    > If you see the **Try Preview** button instead of the **Select** button, make sure that you have updated to Dynamics 365 Guides solution version 900.0.0.1 and that you have updated to Dynamics 365 Guides PC app version 900.2130.7001.0, or contact your administrator. All regions other than Government Community Cloud (GCC) region tenants have access to object anchors.
 
-1. To add your 3D model as an object anchor, on the **My files** tab, select **Create**.
+1. To add your 3D object as an object anchor, on the **My files** tab, select **Create**.
 
     ![My files tab with Create button highlighted](media/AOA-create-anchor.PNG "My files tab with Create button highlighted")
 
@@ -85,16 +85,16 @@ Use the instructions on the right side of the screen in the Guides model-driven 
 
 1. Under **Source 3D Object**:
 
-   1. Select **Choose File**, and then browse to your 3D model and upload it.
+   1. Select **Choose File**, and then browse to your 3D object and upload it.
 
-   1. Select the measurement type for the **Length Unit** field that matches the unit used to create the 3D model in the source file.
+   1. Select the measurement type for the **Length Unit** field that matches the unit used to create the 3D object in the source file.
 
       ![Length Unit field](media/AOA-conversion.PNG "Length Unit field.")
 
       > [!TIP]
       > If your upload file is type .fbx, then you can have Guides determine the length unit automaticallly. Select **Yes** for **Use Length Unit from File**.
 
-   1. Choose the gravity direction that points downward on the vertical axis used to create the 3D model. This direction ensures the object anchor is converted upright compared to the floor. The default value for the **Gravity** field is **-Y**.
+   1. Choose the gravity direction that points downward on the vertical axis used to create the 3D object. This direction ensures the object anchor is converted upright compared to the floor. The default value for the **Gravity** field is **-Y**.
 
    1. Select a size for the **Level of Detail** field. Decide between faster detection and more accurate anchor position.
 
