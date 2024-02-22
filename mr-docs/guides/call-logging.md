@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to view and access call data stored by Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 06/23/2023
+ms.date: 02/22/2024
 ms.topic: how-to
 title: View and access call data stored by Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -16,18 +16,14 @@ When Microsoft Dynamics 365 Guides users make or receive calls in the HoloLens a
 > [!NOTE]
 > This feature is intended to help supervisors and managers derive insights regarding operational efficiencies and usage of Dynamics 365 Guides. This feature is not intended for use in making — and should not be used to make — decisions that affect the employment of an employee or group of employees, including compensation, rewards, seniority, or other rights or entitlements. Customers are solely responsible for using Dynamics 365, this feature, and any associated feature or service in compliance with all applicable laws, including laws relating to accessing individual employee analytics and monitoring. End users will need to enable access from their device to phone call records and specifically consent to sharing location information before that information is shared and available. However, customers are also encouraged to have a mechanism in place to inform their users that analytics (such as call duration and location) relating to their communications are collected.
 
-## Prerequisites
-
-- Access to the Guides model-driven app or Power Apps
-
 ## View call data
 
 1. [Open the Guides model-driven app](open-model-driven-app.md).
 
 1. On the left side of the screen, under **Analytics and Insights**, select **Phone Calls**.
 
-    ![Screenshot of model-driven app with call information.](media/call-logging-model-driven-app.JPG "Screenshot of model-driven app with call information")
-
+   :::image type="content" source="media/call-logging-model-driven-app.JPG" alt-text="Screenshot of model-driven app with call informatio.":::
+  
 1. If you're a user, you can view your own call records. If you're an administrator, to view all call records, select the **All Phone Calls** view.
 
    > [!NOTE]

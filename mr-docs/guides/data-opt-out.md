@@ -17,9 +17,9 @@ Dynamics 365 Guides enable teams to capture usage statistics and detailed time-t
 
 1. [Open the model-driven app](open-model-driven-app.md).
 
-1. On the left side of the screen, select the up arrow next to **Main**, and then select **Settings**.
+1. On the bottom left side of the screen, select **Main**, and then select **Settings**.
 
-   :::image type="content" source="media/data-opt-out-user-setting.PNG" alt-text="Screenshot of Settings in the Guides model-driven app.":::
+   :::image type="content" source="media/main-to-settings-area.PNG" alt-text="Screenshot that shows changing from Main to Settings area in the Guides model-driven app.":::
 
 1. Select **New** at the top of the screen.
 
