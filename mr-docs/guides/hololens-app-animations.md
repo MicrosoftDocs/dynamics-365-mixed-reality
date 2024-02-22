@@ -49,5 +49,5 @@ If an object doesn't have built-in animation, the **Animation** command is graye
 - [Place and manipulate holograms](hololens-app-place-holograms.md)
 - [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 - [Use styles for emphasis](hololens-app-styles.md)
-- [Copy a 3D object's position](hololens-app-copy-3D-object-position.md)
+- [Copy a 3D object's position](hololens-app-copy-3D-model-position.md)
 - [Create a trigger for step navigation](hololens-app-trigger.md)

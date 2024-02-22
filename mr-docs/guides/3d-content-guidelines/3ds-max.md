@@ -129,7 +129,7 @@ When curved surfaces are present on 3D objects, they might appear faceted. You c
    > [!NOTE]
    > You can also apply the **Smooth** modifier to individual 3D objects if they each require a different threshold.
 
-At this point, your model might be optimized enough for use in mixed reality. If you think it will work fine in this form, you can skip to [exporting your model as a GLB file](#export-the-3d-model). If the model is still too complex and has lots of materials, go to the next section.
+At this point, your model might be optimized enough for use in mixed reality. If you think it will work fine in this form, you can skip to [exporting your model as a GLB file](#export-the-3d-object). If the model is still too complex and has lots of materials, go to the next section.
 
 ## Set up materials
 
