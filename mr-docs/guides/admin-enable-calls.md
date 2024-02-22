@@ -35,7 +35,7 @@ If you're an admin for Dynamics 365 Guides, enable or disable calling for users 
 
 1. In the left pane, select **Environment**, and then toggle **Enable Calling** on or off for this environment. This action enables or disables the functionality for all configured users signed into that environment. Disabling calling in a Dynamics 365 environment only disables that functionality for Guides and has no impact on that capability in Microsoft Teams.
 
-   :::image type="content" source="media/main-to-settings-area.PNG" alt-text="Screenshot that shows changing from Main to Settings area in the Guides model-driven app.":::
+   :::image type="content" source="media/enable-calling-mda.PNG" alt-text="Screenshot that shows changing from Main to Settings area in the Guides model-driven app.":::
 
 If a user tries to start a call while working in an environment where calling is disabled, the user sees the following error message:
 
