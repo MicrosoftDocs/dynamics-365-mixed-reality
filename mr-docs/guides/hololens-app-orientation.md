@@ -38,7 +38,7 @@ Here's what each button or UI element is used for.
 | 7 | ![Step counter.](media/step-progress.PNG "Step progress") | Step counter | See what step you're on in the task. |
 | 8 | ![Task name.](media/task-name-hololens-app.PNG "Task name") | Task name | The name of the task you're on. |
 | 9 | ![Gem button for dragging a dotted line.](media/gem.png "Gem button for dragging a dotted line") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
-| 10 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (models) that can be added for the step. 3D parts include 3D objects from the toolkit and any 3D models (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
+| 10 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (objects) that can be added for the step. 3D parts include 3D objects from the toolkit and any 3D objects (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
 
 > [!TIP]
 > After you're familiar with the [!include[pn-hololens](../includes/pn-hololens.md)] app, it's a good idea to go through your whole guide in **Operate** mode to see how it flows. As you step through your guide, make a note of things that you want to change in the PC app. For example, you might have to move some steps around, add tasks or steps, or add more holograms. In general, it's best to make these changes in the PC app before you start to place holograms, add dotted lines, styles, and so on.  

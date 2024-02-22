@@ -1,14 +1,14 @@
 ---
 author: RobertButterworthMS
-description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D models for Microsoft Dynamics Guides and Microsoft Power Apps
+description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D objects for Microsoft Dynamics Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 3/20/2020
 ms.topic: article
-title: Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 Guides and Power Apps
+title: Use SideFX Houdini to turn point clouds into optimized 3D objects for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 Guides and for mixed-reality components in apps created with Power Apps
+# Use SideFX Houdini to turn point clouds into optimized 3D objects for Dynamics 365 Guides and for mixed-reality components in apps created with Power Apps
 
 This tutorial provides step-by-step instructions for the following tasks:
 
@@ -20,7 +20,7 @@ This tutorial provides step-by-step instructions for the following tasks:
 
 - Create a processing pipeline template, so that you can quickly optimize point clouds in the future.
 
-This tutorial has been created only for informational purposes, to show how SideFX Houdini works with Microsoft Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor SideFX or any of its products. There are several other [content-creation applications that you can use to prepare your 3D models](convert-models.md#tools-for-exporting-cad-models).
+This tutorial has been created only for informational purposes, to show how SideFX Houdini works with Microsoft Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor SideFX or any of its products. There are several other [content-creation applications that you can use to prepare your 3D objects](convert-models.md#tools-for-exporting-cad-models).
 
 ## What is Houdini?
 
@@ -36,7 +36,7 @@ To set up your environment, you must complete these tasks:
 
 ### Install the SideFX Labs extension
 
-SideFX Labs is a testing ground for tools that can help you get up and running with Houdini more quickly. This collection of free tools includes tools that are useful for converting point clouds to optimized 3D models. To use SideFX Labs, you must be using Houdini 18 or later.
+SideFX Labs is a testing ground for tools that can help you get up and running with Houdini more quickly. This collection of free tools includes tools that are useful for converting point clouds to optimized 3D objects. To use SideFX Labs, you must be using Houdini 18 or later.
 
 SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-installation/) that helps you install these tools.
 
@@ -181,7 +181,7 @@ If your point cloud has stray points that you want to remove, you can select and
 
 ## Convert the point cloud to a mesh
 
-Both glTF and real-time rendering applications require that models be represented as a triangulated polygon surface. You can use the **Particle Fluid Surface** command to connect the points into a logical surface as polygonal geometry.
+Both glTF and real-time rendering applications require that objects be represented as a triangulated polygon surface. You can use the **Particle Fluid Surface** command to connect the points into a logical surface as polygonal geometry.
 
 1. Click in the **Geometry** pane to open the **TAB Menu**, and then select **Fluid** \> **Particle Fluid Surface**. Then select the node, and add it to the **Geometry** pane.
 
@@ -262,7 +262,7 @@ Texture coordinates (also known as *UVs*) are pairs of numbers (*U* and *V*) tha
 
     ![Dragging to create connected nodes.](media/houdini-34-connected-nodes.PNG "Dragging to create connected nodes")
 
-4. To view the "before" and "after" models side by side, select the **Viewport Layout** button, and then select **Two Views Side by Side**.
+4. To view the "before" and "after" objects side by side, select the **Viewport Layout** button, and then select **Two Views Side by Side**.
 
     ![Two Views Side by Side option.](media/houdini-35-two-views-option.PNG "Two Views Side by Side option")
 

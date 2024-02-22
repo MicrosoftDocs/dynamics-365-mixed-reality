@@ -34,8 +34,8 @@ If the model requires further editing or animation work in another staging appli
 
 ## See also
 
-- [Overview of preparing 3D models](index.md)
-- [Convert 3D models](convert-models.md)
-- [Optimize 3D models](optimize-models.md)
-- [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
-- [Best practices for converting and optimizing 3D models](best-practices.md)
+- [Overview of preparing 3D objects](index.md)
+- [Convert 3D objects](convert-models.md)
+- [Optimize 3D objects](optimize-models.md)
+- [Tutorials for converting and optimizing 3D objects](tutorials-overview.md)
+- [Best practices for converting and optimizing 3D objects](best-practices.md)

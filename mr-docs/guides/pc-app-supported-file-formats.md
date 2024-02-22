@@ -1,21 +1,21 @@
 ---
 author: davepinch
 ms.author: davepinch
-description: Learn about supported file formats for 3D models, images, and videos in Microsoft Dynamics 365 Guides.
+description: Learn about supported file formats for 3D objects, images, and videos in Microsoft Dynamics 365 Guides.
 ms.date: 10/04/2023
 ms.topic: conceptual
-title: Supported file formats for 3D models, images, and videos in Dynamics 365 Guides
+title: Supported file formats for 3D objects, images, and videos in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-# Supported file formats for 3D models, images, and videos in Dynamics 365 Guides
+# Supported file formats for 3D objects, images, and videos in Dynamics 365 Guides
 
-In Microsoft Dynamics 365 Guides, you can use the PC app to add 3D models, images, and videos to help operators with steps. The PC app  supports the following file formats for these types of files.
+In Microsoft Dynamics 365 Guides, you can use the PC app to add 3D objects, images, and videos to help operators with steps. The PC app  supports the following file formats for these types of files.
 
 | Media | Supported formats | Best practice |
 |-------|-------------------|---------------|
-| 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on HoloLens. For more information, see [Convert CAD drawings to use as holograms](author-convert-3D-models.md). |
+| 3D objects | FBX, GLB, glTF, STL, PLY | Optimize your 3D objects as much as possible, to help maintain optimal performance on HoloLens. For more information, see [Convert CAD drawings to use as holograms](author-convert-3D-models.md). |
 | Images | PNG, JPG, JPEG, BMP, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV| Keep your videos less than two minutes long and focused on one step at a time. |
 
@@ -31,7 +31,7 @@ In Microsoft Dynamics 365 Guides, you can use the PC app to add 3D models, image
 
 - Dynamics 365 Guides uses meters as the default scale unit. If your 3D model scale is set to millimeters when you export from your CAD solution, the model is converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it's converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export.  
 
-- Some glTF files might have dependencies in other folders. During upload, if the app doesn't have permissions to those folders, errors can occur, or 3D models in the gallery might be broken. When you upload glTF models, make sure that you have permissions to all dependencies, or that all dependencies are in the same folder.
+- Some glTF files might have dependencies in other folders. During upload, if the app doesn't have permissions to those folders, errors can occur, or 3D objects in the gallery might be broken. When you upload glTF objects, make sure that you have permissions to all dependencies, or that all dependencies are in the same folder.
 
 ## Next steps
 

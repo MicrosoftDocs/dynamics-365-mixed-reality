@@ -105,13 +105,13 @@
 ##### [Effect of calibration, pre-scanning, and environment on hologram precision](pc-app-anchor-improve-hologram-precision.md)
 ##### [Effect of anchor types/placement on hologram precision](pc-app-anchor-types-placement-precision.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
-#### Create steps and add 3D models or media
+#### Create steps and add 3D objects or media
 ##### [Step Editor overview](pc-app-step-editor-overview.md)
 ##### [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
 ##### [Add a custom 3D part that you import](pc-app-add-3D-part.md)
 ##### [Tips for pointing at small objects](pc-app-point-small-objects.md) 
 ##### [Add media (images or videos)](pc-app-add-media.md)
-##### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
+##### [Supported file formats for 3D objects, images, and videos](pc-app-supported-file-formats.md)
 ##### [Add a website, email, guide, or an app link to a step](pc-app-website-powerapps-link.md)
 ##### [Use rich-text formatting in instruction card text](pc-app-colors-rich-text.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
@@ -198,11 +198,11 @@
 ### [HoloLens settings](change-setting.md)
 
 ## Advanced topics
-### Convert 3D models to use as holograms
-#### [Overview of converting 3D models](3d-content-guidelines/overview.md)
-#### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
-#### [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
-#### [Best practices for real-time 3D models](3d-content-guidelines/best-practices.md)
+### Convert 3D objects to use as holograms
+#### [Overview of converting 3D objects](3d-content-guidelines/overview.md)
+#### [Convert your 3D (CAD) objects](3d-content-guidelines/convert-models.md)
+#### [Optimize your 3D objects](3d-content-guidelines/optimize-models.md)
+#### [Best practices for real-time 3D objects](3d-content-guidelines/best-practices.md)
 #### [Review a 3D model](3d-content-guidelines/review-3d-model.md)
 #### Tutorials
 ##### [Overview](3d-content-guidelines/tutorials-overview.md)
@@ -215,7 +215,7 @@
 ##### [Dassault Systèmes SOLIDWORKS](3d-content-guidelines/solidworks.md)
 ##### [Pixyz Studio](3d-content-guidelines/pixyz-studio.md)
 ##### SideFX Houdini
-###### [Prepare 3D models](3d-content-guidelines/houdini.md)
+###### [Prepare 3D objects](3d-content-guidelines/houdini.md)
 ###### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
 
 ### Use Power Automate to create workflows for guides

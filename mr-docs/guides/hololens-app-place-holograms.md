@@ -34,7 +34,7 @@ If you added a 3D model to the bin in the PC app, you can place the 3D model in 
 
     The item is added to your bin. You can then place it in the same way that you place any 3D part.
 
-   There are only eight **3D parts** boxes in the bin, which limits the variety of 3D models you can add to a single step. When placing holograms on the HoloLens, you can, however, place an unlimited number from the bin. For example, you can add up to eight different 3D models (arrows, boxes, nuts, drills, and so on) to the bin, but you can place as many arrows, boxes, nuts, and drills from each **3D Parts** box that you want when in HoloLens. Either tap the asset bins to spawn 3D models or go to a 3D model's **Edit** menu and select **Duplicate**.
+   There are only eight **3D parts** boxes in the bin, which limits the variety of 3D objects you can add to a single step. When placing holograms on the HoloLens, you can, however, place an unlimited number from the bin. For example, you can add up to eight different 3D objects (arrows, boxes, nuts, drills, and so on) to the bin, but you can place as many arrows, boxes, nuts, and drills from each **3D Parts** box that you want when in HoloLens. Either tap the asset bins to spawn 3D objects or go to a 3D model's **Edit** menu and select **Duplicate**.
 
 ## Best practices for working with 3D content
 

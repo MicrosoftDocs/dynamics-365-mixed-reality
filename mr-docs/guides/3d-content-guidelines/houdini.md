@@ -1,14 +1,14 @@
 ---
 author: RobertButterworthMS
-description: Describes, in tutorial format, how to use SideFX Houdini to prepare 3D models for use in Dynamics 365 Guides and Microsoft Power Apps
+description: Describes, in tutorial format, how to use SideFX Houdini to prepare 3D objects for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 03/20/2020
 ms.topic: article
-title: Use SideFX Houdini to prepare 3D models for use in Dynamics 365 Guides and Power Apps
+title: Use SideFX Houdini to prepare 3D objects for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use SideFX Houdini to prepare 3D models for use in Dynamics 365 Guides and mixed-reality components included in apps created with Power Apps
+# Use SideFX Houdini to prepare 3D objects for use in Dynamics 365 Guides and mixed-reality components included in apps created with Power Apps
 
 This tutorial provides step-by-step instructions that show you how to:
 
@@ -18,10 +18,10 @@ This tutorial provides step-by-step instructions that show you how to:
 
 - Export an optimized 3D model as a GLB file that you can use in Dynamics 365 Guides and Power Apps
 
-- Create a template, so you can quickly optimize other 3D models in the future.
+- Create a template, so you can quickly optimize other 3D objects in the future.
 
 >[!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how SideFX Houdini works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor SideFX or any of SideFX's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how SideFX Houdini works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor SideFX or any of SideFX's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D objects.
 
 ## What is Houdini?
 
@@ -55,7 +55,7 @@ This tutorial provides step-by-step instructions that show you how to:
 
 ## Decimate a 3D model
 
-To reach application-specific goals, you might need to "decimate" your 3D models. _Decimation_ is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. This reduces visual fidelity, but increases performance. The example images below show the difference between a high-quality model used for scenes of low complexity on Microsoft HoloLens, and a low-quality model used for scenes of high complexity.
+To reach application-specific goals, you might need to "decimate" your 3D objects. _Decimation_ is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. This reduces visual fidelity, but increases performance. The example images below show the difference between a high-quality model used for scenes of low complexity on Microsoft HoloLens, and a low-quality model used for scenes of high complexity.
 
 ![Decimation example.](media/6-houdini-decimation-overview.PNG "Decimation example")
 
@@ -117,7 +117,7 @@ To give the model a more realistic appearance, you can add a shader to the model
 
 ### Adjust material properties
 
-You can adjust visible properties like the color of the material in the window pane above the **Material Palette** when you have the **Principled Shader** highlighted. For example, start with **Roughness** at **0.8** and **Metallic** at **0.2** for CAD models.
+You can adjust visible properties like the color of the material in the window pane above the **Material Palette** when you have the **Principled Shader** highlighted. For example, start with **Roughness** at **0.8** and **Metallic** at **0.2** for CAD objects.
 
 ![Adjust materials.](media/18-houdini-adjust-materials.PNG "Adjust materials")
 
@@ -161,7 +161,7 @@ You need to export the model to a GLB file to use it with Dynamics 365 Guides an
 
 ## Create a template
 
-Now that the node tree is set up, you can use it as a template to quickly prepare 3D models.
+Now that the node tree is set up, you can use it as a template to quickly prepare 3D objects.
 
 The first thing you need to do is replace whatever geometry is currently being used with a default geometry. This makes the template file lightweight so that it loads quickly when you open it.
 
@@ -205,7 +205,7 @@ The template is ready. Close Houdini to try it out.
 
     ![Render to Disk button.](media/31-houdini-render-to-disk-2.PNG "Render to Disk button")
 
-Repeat this process with the rest of your 3D models to rapidly produce optimized models ready for use in Dynamics 365 Guides and Power Apps.
+Repeat this process with the rest of your 3D objects to rapidly produce optimized objects ready for use in Dynamics 365 Guides and Power Apps.
 
 ## View a 3D model in Dynamics 365 Guides or Power Apps
 

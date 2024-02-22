@@ -60,7 +60,7 @@ You can also upload assets to a folder in the PC app.
 
 1. In the left pane, select **Folders** to view the list of folders in the environment.
 
-1. Select the desired folder. All active folders, guides, images, 3D models, videos, and object anchors in the folder display.
+1. Select the desired folder. All active folders, guides, images, 3D objects, videos, and object anchors in the folder display.
 
 ## Activate, deactivate, or delete a folder
 

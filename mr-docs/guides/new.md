@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: davepinch
-ms.date: 02/14/2024
+ms.date: 02/22/2024
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -23,15 +23,15 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 902.2402.9001.0  |
-|HoloLens app (HoloLens 2 only)| 902.2402.9001.0  |
-|Solution| 900.2.0.1  |
+|PC app| 902.2402.16001.0  |
+|HoloLens app | 902.2402.16001.0  |
+|Solution|  900.2.0.3  |
 
 ### Bugs fixed and other improvements
 
 - A new copy API allows developers to programmatically make a copy of a guide in the same environment.
 - <a href="/dynamics365/mixed-reality/guides/pc-app-add-3D-part#view-3d-model-complexity-statistics" target="blank">View model complexity statistics</a> on the model's **Properties** tab in the PC app and receive a warning if a model exceeds the recommended complexity limits.
-- Performance improvements on HoloLens when loading models in Guides steps.
+- Performance improvements on HoloLens when loading objects in Guides steps.
 - Calls now end when the Guides app is closed or minimized on HoloLens. To keep calls active, disable the <a href="/dynamics365/mixed-reality/guides/change-setting" target="blank">**End calls on suspend** setting</a> on the HoloLens.
 
 ## December 20, 2023

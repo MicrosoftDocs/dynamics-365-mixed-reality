@@ -10,10 +10,10 @@ ms.reviewer: v-brycho
 
 # Use Autodesk 3ds Max to prepare 3D content for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps 
 
-When preparing CAD files for Microsoft Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps, you can run into numerous performance and quality roadblocks that prevent a smooth transition from CAD to real time. The 3ds Max program is a digital content creation (DCC) suite that has a unique ability to bridge parametric models and real-time polygon modeling. This tutorial demonstrates how to use the 3ds Max conversion and optimization capabilities to prepare 3D CAD models for use in mixed reality.  
+When preparing CAD files for Microsoft Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps, you can run into numerous performance and quality roadblocks that prevent a smooth transition from CAD to real time. The 3ds Max program is a digital content creation (DCC) suite that has a unique ability to bridge parametric objects and real-time polygon modeling. This tutorial demonstrates how to use the 3ds Max conversion and optimization capabilities to prepare 3D CAD objects for use in mixed reality.  
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Autodesk 3ds Max works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Autodesk 3ds Max works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D objects.
 
 ## What is Autodesk 3ds Max?
 
@@ -114,9 +114,9 @@ You now have selected the objects with the highest polygon counts. For the examp
 
 ## Work with curved surfaces 
 
-When curved surfaces are present on 3D models, they might appear faceted. You can soften the appearance of these surfaces by using **Smooth**.
+When curved surfaces are present on 3D objects, they might appear faceted. You can soften the appearance of these surfaces by using **Smooth**.
 
-1. On the **Edit** menu, select **Select All** to select all 3D models in the scene.
+1. On the **Edit** menu, select **Select All** to select all 3D objects in the scene.
 
    ![Select All.](media/3ds-max-select-all.png "Select All")
 
@@ -127,7 +127,7 @@ When curved surfaces are present on 3D models, they might appear faceted. You ca
 3. Under **Parameters**, select the **Auto Smooth** check box, and then adjust the **Threshold** value until the faceted surfaces appear smooth.  The default threshold is 30.0, which is usually pretty good.
 
    > [!NOTE]
-   > You can also apply the **Smooth** modifier to individual 3D models if they each require a different threshold.
+   > You can also apply the **Smooth** modifier to individual 3D objects if they each require a different threshold.
 
 At this point, your model might be optimized enough for use in mixed reality. If you think it will work fine in this form, you can skip to [exporting your model as a GLB file](#export-the-3d-model). If the model is still too complex and has lots of materials, go to the next section.
 
@@ -172,11 +172,11 @@ In cases where you want fine control over materials, you can apply and change ma
 
 ## Bake textures
 
-If there are more than ten materials on the 3D model, combining them into a single material can increase performance. You can do this by "baking" material colors into a single image map. This is optional, but it's a good idea if you find that you experience performance issues when viewing your 3D model. The goal is to have one object with the colors of the original 3D model, and another that represents the combined 3D models to bake to.
+If there are more than ten materials on the 3D model, combining them into a single material can increase performance. You can do this by "baking" material colors into a single image map. This is optional, but it's a good idea if you find that you experience performance issues when viewing your 3D model. The goal is to have one object with the colors of the original 3D model, and another that represents the combined 3D objects to bake to.
 
   > [!NOTE]
   > * This process only works if the materials haven't yet been converted to **Physical Material**.
-  > * Baking, UVs, and texture maps are complex. The goal of this tutorial isn't to make you an expert in texture baking, but to help you get through the process so that you can use your 3D models with Dynamics 365 Guides and Power Apps. For this reason, this tutorial doesn't go into a lot of detail about texture baking.
+  > * Baking, UVs, and texture maps are complex. The goal of this tutorial isn't to make you an expert in texture baking, but to help you get through the process so that you can use your 3D objects with Dynamics 365 Guides and Power Apps. For this reason, this tutorial doesn't go into a lot of detail about texture baking.
 
 ### Prepare the 3D model
 
@@ -184,17 +184,17 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 2. Go to the object selection.
 
-3. Attach all the 3D models by selecting one object and adding another **Edit Poly** modifier to it. It doesn't matter which 3D model you select.
+3. Attach all the 3D objects by selecting one object and adding another **Edit Poly** modifier to it. It doesn't matter which 3D model you select.
 
   	![Edit Poly.](media/3ds-max-add-edit-poly.png "Edit Poly")
 
-4. Under the **Tool** menu, select the button to the right of the **Attach** button. This button shows the available models in the scene that you can combine together.
+4. Under the **Tool** menu, select the button to the right of the **Attach** button. This button shows the available objects in the scene that you can combine together.
 
    ![Attach list button.](media/3ds-max-attach-list-button.PNG "Attach list button")
 
-5. Select all the 3D models in the attach list, and then select **Add**. 
+5. Select all the 3D objects in the attach list, and then select **Add**. 
 
-   ![Add models.](media/3ds-max-add-models.png "Add models")
+   ![Add objects.](media/3ds-max-add-models.png "Add objects")
 
 6. When prompted, select **Match Material IDs to Material**, and then select **OK**.
 
@@ -259,7 +259,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
    d. Under **Projection Mapping**, do the following:
 
->>>i. Select the **Enabled** check box, select **Pick**, select the original source 3D models you want to bake the color from, and then select **Add**.
+>>>i. Select the **Enabled** check box, select **Pick**, select the original source 3D objects you want to bake the color from, and then select **Add**.
 
 >>>![Projection mapping.](media/3ds-max-projection-mapping.PNG "Projection mapping")
 
@@ -355,7 +355,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
    ![Babylon menu.](media/3ds-max-babylon.png "Babylon menu")  
 
-3. Make sure **glb** is selected under **Output format**, and then select the **Export only selected** check box so all necessary or selected 3D models are exported.  
+3. Make sure **glb** is selected under **Output format**, and then select the **Export only selected** check box so all necessary or selected 3D objects are exported.  
 
    ![Export model.](media/3ds-max-export-model.png "Export model")
 

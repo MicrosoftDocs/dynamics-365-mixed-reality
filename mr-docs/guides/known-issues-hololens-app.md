@@ -40,7 +40,7 @@ Operators with the **Restricted Operator** role that don't have the appendTo pri
 
 ## When you place large assets on HoloLens, you might experience minor loading delays
 
-The HoloLens app currently loads the guide right after you open it. As you use the guide, the app loads it in the background. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
+The HoloLens app currently loads the guide right after you open it. As you use the guide, the app loads it in the background. If your guide contains large 3D objects and media, you might experience loading delays of a few seconds.
 
 ## An incorrect profile picture shows in the app 
 

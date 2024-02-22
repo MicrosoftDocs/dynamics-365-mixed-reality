@@ -18,7 +18,7 @@ Other online documentation in [!include[pn-dyn-365-guides](../includes/pn-dyn-36
 
 Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content (if you have any), 
 and the physical objects themselves (if feasible). Don't worry if you don't have any 3D content. Guides includes a Toolkit 
-(including simple models such as arrows, hands, zones, and so on) that you can use to get started.
+(including simple objects such as arrows, hands, zones, and so on) that you can use to get started.
 
 ### Understand the space
 

@@ -1,14 +1,14 @@
 ---
 author: RobertButterworthMS
-description: This tutorial explains how to use Agisoft Metashape to create 3D models for Microsoft Dynamics 365 Guides and Microsoft Power Apps
+description: This tutorial explains how to use Agisoft Metashape to create 3D objects for Microsoft Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 3/20/2020
 ms.topic: article
-title: Use Agisoft Metashape to create 3D models for Dynamics 365 Guides and Power Apps
+title: Use Agisoft Metashape to create 3D objects for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use Agisoft Metashape to create 3D models for Dynamics 365 Guides and for mixed-reality components included in apps created with Power Apps
+# Use Agisoft Metashape to create 3D objects for Dynamics 365 Guides and for mixed-reality components included in apps created with Power Apps
 
 This tutorial guides you through the process of using Agisoft Metashape photogrammetry software to create a 3D model that you can use in Microsoft Dynamics Guides and in mixed-reality components included in apps created with Microsoft Power Apps.
 
@@ -168,7 +168,7 @@ The next step is to build the mesh.
     ![Build Mesh settings.](media/agisoft-17.PNG "Build Mesh settings")
 
     > [!NOTE]
-    > These settings work for general cases. Experiment with other options to find the best combination for your needs. You might want to change the **Face count** setting to match the [performance requirements for your targeted platform](optimize-models.md#performance-targets).
+    > These settings work for general cases. Experiment with other options to find the best combination for your needs. You might want to change the **Face count** setting to match the [performance requirements for your targeted platform](optimize-objects.md#performance-targets).
 
 3. When you've finished, select **OK** to convert the point cloud into a 3D model.
 

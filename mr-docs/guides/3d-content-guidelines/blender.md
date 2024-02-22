@@ -1,14 +1,14 @@
 ---
 author: RobertButterworthMS
-description: Describes in tutorial form how to use the Blender open-source 3D creation suite to prepare 3D models for use in Dynamics 365 Guides and Microsoft Power Apps
+description: Describes in tutorial form how to use the Blender open-source 3D creation suite to prepare 3D objects for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 10/22/2019
 ms.topic: article
-title: Use Blender to prepare 3D models for use in Dynamics 365 Guides and Power Apps
+title: Use Blender to prepare 3D objects for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use Blender to prepare 3D models for use in Dynamics 365 Guides and in mixed-reality components included in apps created with Power Apps
+# Use Blender to prepare 3D objects for use in Dynamics 365 Guides and in mixed-reality components included in apps created with Power Apps
 
 This tutorial provides step-by-step instructions that show you how to:
 
@@ -21,13 +21,13 @@ This tutorial provides step-by-step instructions that show you how to:
 The combination of reducing polygons and turning multiple materials into a single texture can transform a complex and resource-intensive 3D model into a 3D model that performs well in Dynamics 365 Guides and Power Apps.
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Blender works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Blender or any of Blender's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Blender works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Blender or any of Blender's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D objects.
 
 ## What is Blender?
 
 [Blender](https://www.blender.org/) is a free, open-source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing and game creation.
 
-If Blender is the software that you decide to use to prepare your 3D models, review Blender's website and [download the most current stable version for Windows](https://www.blender.org/download/).
+If Blender is the software that you decide to use to prepare your 3D objects, review Blender's website and [download the most current stable version for Windows](https://www.blender.org/download/).
 
 ## Overall steps for preparing a 3D model with Blender
 
@@ -86,7 +86,7 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
 
 ## Decimate the model
 
-To reach application-specific performance goals, you might need to "decimate" the model. _Decimation_ is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. This reduces visual fidelity, but increases performance. The example images below show a high-fidelity model that can be used when you're viewing one or two 3D models at a time on Microsoft HoloLens, and a low-quality 3D model used when you're viewing ten or more models at a time on HoloLens.
+To reach application-specific performance goals, you might need to "decimate" the model. _Decimation_ is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. This reduces visual fidelity, but increases performance. The example images below show a high-fidelity model that can be used when you're viewing one or two 3D objects at a time on Microsoft HoloLens, and a low-quality 3D model used when you're viewing ten or more objects at a time on HoloLens.
 
 ![Decimation examples.](media/blender-decimation-examples.PNG "Decimation examples")
 

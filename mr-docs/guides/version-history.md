@@ -35,7 +35,7 @@ Version 806.2308.25001.0 fixes a performance issue in the PC and HoloLens apps.
 ### Features
 
 - Quickly visualize the impact of calling to your organization with the new <a href="/dynamics365/mixed-reality/guides/calls-dashboard-guides" target="blank">Calls Dashboard.</a>
-- Simplify <a href="/dynamics365/mixed-reality/guides/admin-content-mgmt" target="_blank">content management </a>and permissions by storing your 3D models, videos, and images in the same folders as guides.
+- Simplify <a href="/dynamics365/mixed-reality/guides/admin-content-mgmt" target="_blank">content management </a>and permissions by storing your 3D objects, videos, and images in the same folders as guides.
 
 ## July 5, 2023
 
@@ -112,7 +112,7 @@ Fixed an issue where participant's status in a call or meeting incorrectly shows
 - Improved performance for calls with a large number of participants.
 - Improved reliability of sending chat messages.
 - Improved reliability of switching video between remote participants.
-- Improved stability for loading 3D models.
+- Improved stability for loading 3D objects.
 - Improved lighting quality and calculations, reducing flare/gloss on lit surfaces. Models in the HoloLens will more closely align visually with their representation in common viewers like 3D Viewer.
 - Improved OneDrive content loading in slates, resolving conditions that could cause load errors in rare conditions.
 
@@ -129,7 +129,7 @@ Fixed an issue where participant's status in a call or meeting incorrectly shows
 
 ### Bugs fixed and other improvements
 
-This release fixes image quality issues for textures on 3D content and slate images. Highly detailed 2D and 3D content textures, especially those with linear patterns, now have restored clarity on the HoloLens. This change may increase memory requirements and cause new warnings or content loading issues if existing steps already exceed or nearly exceed recommended limits. Customers experiencing memory issues should review [Optimize your 3D models to use with Dynamics 365 Guides and Power Apps](../guides/3d-content-guidelines/optimize-models.md) and [Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 mixed-reality apps](../guides/3d-content-guidelines/best-practices.md).
+This release fixes image quality issues for textures on 3D content and slate images. Highly detailed 2D and 3D content textures, especially those with linear patterns, now have restored clarity on the HoloLens. This change may increase memory requirements and cause new warnings or content loading issues if existing steps already exceed or nearly exceed recommended limits. Customers experiencing memory issues should review [Optimize your 3D objects to use with Dynamics 365 Guides and Power Apps](../guides/3d-content-guidelines/optimize-models.md) and [Best practices for converting and optimizing real-time 3D objects for use in Dynamics 365 mixed-reality apps](../guides/3d-content-guidelines/best-practices.md).
 
 **Calling**
 - Fixed issue where video toggle and recording buttons might have been disabled
@@ -426,7 +426,7 @@ Version 504.2102.24001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/deactivate-images-videos-3d-models-pc-app" target="_blank">Deactivate images, videos, and 3D models from the PC app</a> | Yes |<a href="/dynamics365/mixed-reality/guides/pc-app-deactivate-guide" target="_blank">Deactivate a guide or specific guide content</a>|
+| <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/deactivate-images-videos-3d-models-pc-app" target="_blank">Deactivate images, videos, and 3D objects from the PC app</a> | Yes |<a href="/dynamics365/mixed-reality/guides/pc-app-deactivate-guide" target="_blank">Deactivate a guide or specific guide content</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/use-filters-find-guides-more-quickly-hololens-2" target="_blank">Use filters to find guides more quickly on HoloLens 2</a> | No |<a href="/dynamics365/mixed-reality/guides/find-guide" target="_blank">Find a guide to use in the HoloLens app</a>|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Support for security permissions at team level</a> | Yes |*Content in progress*|
 | <a href="/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Performance improvements in loading list of guides</a> | No ||
@@ -607,11 +607,11 @@ Version 301.1910.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 |----------------------------------------------------------------------------------------|-------|
 | <a href="/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-node-based-animations" target="_blank">Support for node-based animations</a> | No |
 | <a href="/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/turn-animations-or-off" target="_blank">Turn animations on or off</a> | No |
-| <a href="/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-stl-ply-file-formats-3d-models" target="_blank">Support for STL and PLY file formats for 3D models</a> | No |
+| <a href="/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-stl-ply-file-formats-3d-models" target="_blank">Support for STL and PLY file formats for 3D objects</a> | No |
 
 #### Other updates
 
-- Removed different sizes for the same model from the toolkit (this change requires a solution update). Because authors can now resize models, the different sizes are no longer required.
+- Removed different sizes for the same model from the toolkit (this change requires a solution update). Because authors can now resize objects, the different sizes are no longer required.
 
 - Updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holographic OS (Shell) behavior where the Step card follows you when the option is turned on.
 
@@ -627,7 +627,7 @@ Version 200.1909.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 #### Other updates
 
-The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the toolkit.
+The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported objects, which have had scale applied to them, might be shifted. You will need to re-position those 3D objects. This does not impact the position of objects from the toolkit.
 
 ## 2019 Release Wave 1
 
@@ -668,7 +668,7 @@ Version 103.1907.4001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
 | <a href="/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux" target="_blank">PC app is fully responsive across various screen sizes</a> | No |
 | <a href="/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux" target="_blank">Left navigation menu makes navigation faster</a> | No |
 | <a href="/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/hololens-ux" target="_blank">Gaze-dwell interactions consistently placed for easier selection</a> | No |
-|3D models loaded for each step to improve performance on HoloLens| No |
+|3D objects loaded for each step to improve performance on HoloLens| No |
 | <a href="/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/new" target="_blank">What's New panel</a> | No |
  
 ### June 3, 2019

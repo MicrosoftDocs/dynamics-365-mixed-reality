@@ -1,25 +1,25 @@
 ---
 author: RobertButterworthMS
-description: Describes, in tutorial format, how to use Autodesk Inventor to prepare 3D models for use in Dynamics 365 Guides and Microsoft Power Apps
+description: Describes, in tutorial format, how to use Autodesk Inventor to prepare 3D objects for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 12/23/2019
 ms.topic: article
-title: Prepare Autodesk Inventor 3D models for use in Dynamics 365 Guides and Power Apps
+title: Prepare Autodesk Inventor 3D objects for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Prepare Autodesk Inventor 3D models for use in Dynamics 365 Guides and for mixed-reality components included in apps created with Power Apps
+# Prepare Autodesk Inventor 3D objects for use in Dynamics 365 Guides and for mixed-reality components included in apps created with Power Apps
 
 This tutorial shows how to prepare Autodesk Inventor files for use in Microsoft Dynamics 365 Guides and for mixed-reality components included in apps created with Microsoft Power Apps. 
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Autodesk Inventor works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Autodesk Inventor works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D objects.
 
 ## What is Autodesk Inventor?
 
 Autodesk Inventor is professional-grade 3D CAD software for product design and engineering. For more information, [see Autodesk Inventor](https://www.autodesk.com/products/inventor/overview).
 
-## Optimize 3D models for mixed reality
+## Optimize 3D objects for mixed reality
 
 The first step is to remove any unneeded detail from the 3D model. This vastly improves performance and increases the visual quality of the 3D model. Inventor has a tool called **Shrinkwrap** that can assist by removing fillets, chamfers, small parts, holes, and more.
 
@@ -81,7 +81,7 @@ Next, you need to export the model to a usable format, adjusting settings so the
 
 ## Convert your OBJ file to a GLB file
 
-Dynamics 365 Guides and mixed-reality components in apps created in Power Apps use the GLB format for 3D models. You can use a digital content creation (DCC) platform to convert your 3D models into GLB files. Using these software platforms is a manual process, but it gives you opportunities for optimization. To assist with this process, see the following tutorials:
+Dynamics 365 Guides and mixed-reality components in apps created in Power Apps use the GLB format for 3D objects. You can use a digital content creation (DCC) platform to convert your 3D objects into GLB files. Using these software platforms is a manual process, but it gives you opportunities for optimization. To assist with this process, see the following tutorials:
 
   - [Blender](blender.md)
 

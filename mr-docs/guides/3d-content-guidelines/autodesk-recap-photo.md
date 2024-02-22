@@ -1,16 +1,16 @@
 ---
 author: RobertButterworthMS
-description: This tutorial explains how to use Autodesk ReCap Photo to create 3D models for Microsoft Dynamics 365 Guides and Microsoft Power Apps
+description: This tutorial explains how to use Autodesk ReCap Photo to create 3D objects for Microsoft Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 3/20/2020
 ms.topic: article
-title: Use Autodesk ReCap Photo to create 3D models for Dynamics 365 Guides and Power Apps
+title: Use Autodesk ReCap Photo to create 3D objects for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use Autodesk ReCap Photo to create 3D models for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps
+# Use Autodesk ReCap Photo to create 3D objects for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps
 
-This tutorial guides you through the process of using Autodesk ReCap Photo photogrammetry software to create 3D models that can be used with Microsoft Dynamics Guides and for mixed-reality components included in apps created with Microsoft Power Apps.
+This tutorial guides you through the process of using Autodesk ReCap Photo photogrammetry software to create 3D objects that can be used with Microsoft Dynamics Guides and for mixed-reality components included in apps created with Microsoft Power Apps.
 
 This tutorial is created only for informational purposes, to show how ReCap Photo works with Dynamics 365 Guides and Power Apps. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor Autodesk or any of its products.
 
@@ -156,7 +156,7 @@ There are several applications that you can use to convert an OBJ file to a GLB 
 
 [Blender](https://www.blender.org/) is a free, open-source 3D creation suite. It supports the whole 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing and game creation.
 
-If you use Blender to prepare your 3D models, review the information on the Blender website, and [download the latest version for Windows](https://www.blender.org/download/).
+If you use Blender to prepare your 3D objects, review the information on the Blender website, and [download the latest version for Windows](https://www.blender.org/download/).
 
 ### Import your 3D model into Blender
 

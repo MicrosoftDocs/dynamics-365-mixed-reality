@@ -15,7 +15,7 @@ Microsoft Dynamics 365 Guides includes a library of predefined 3D objects that a
 
 ![Example of holographic numbers, arrows, and zones.](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and zones")
 
-You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you want in a step.
+You can mix and match different types of 3D objects. You can also use the same object (instance) as many times as you want in a step.
 
 > [!NOTE]
 > Some toolkit items have built-in animations that you can turn on or off. [Learn more about animation options.](hololens-app-animations.md)
@@ -33,7 +33,7 @@ To add a model from the toolkit, follow these steps.
     ![Screenshot of the Properties tab.](media/properties-tab.png "Screenshot of the Properties tab")
 
 > [!NOTE]
-> You can also add 3D models from the toolkit directly in the HoloLens app.
+> You can also add 3D objects from the toolkit directly in the HoloLens app.
 
 ## Follow best practices for the toolkit
 

@@ -1,16 +1,16 @@
 ---
 author: RobertButterworthMS
-description: Learn about best practices for converting and optimizing real-time 3D models for use with Dynamics 365 mixed-reality applications
+description: Learn about best practices for converting and optimizing real-time 3D objects for use with Dynamics 365 mixed-reality applications
 ms.author: robutter
 ms.date: 10/01/2019
 ms.topic: article
-title: Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 mixed-reality apps
+title: Best practices for converting and optimizing real-time 3D objects for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
 ---
 
-# Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
+# Best practices for converting and optimizing real-time 3D objects for use in Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
 
-This topic covers best practices for converting and optimizing 3D models to work with Dynamics 365 Guides and for apps created in Power Apps that include mixed-reality components.
+This topic covers best practices for converting and optimizing 3D objects to work with Dynamics 365 Guides and for apps created in Power Apps that include mixed-reality components.
 
 ## Reduce materials and surfacing
 
@@ -42,7 +42,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 
 ## Remove hidden and unused data
 
-- Be sure to remove any data that’s not required to represent your 3D models. Extra nodes, meshes, materials, and textures can add up quickly. For example, in the following 3D model, removing any hidden motor parts lowers the triangle count and simplifies the hierarchy, resulting in a better performing 3D model.
+- Be sure to remove any data that’s not required to represent your 3D objects. Extra nodes, meshes, materials, and textures can add up quickly. For example, in the following 3D model, removing any hidden motor parts lowers the triangle count and simplifies the hierarchy, resulting in a better performing 3D model.
 
    > [!div class="mx-imgBorder"]
    > ![Remove hidden data.](media/remove-hidden-data.PNG "Remove hidden data") 
@@ -137,11 +137,11 @@ This topic covers best practices for converting and optimizing 3D models to work
 ### See also
 
 - [Microsoft Office 3D content guidelines](https://aka.ms/Office3Dcontent)
-- [Overview of preparing 3D models](index.md)
-- [Convert 3D models](convert-models.md)
-- [Optimize 3D models](optimize-models.md)
+- [Overview of preparing 3D objects](index.md)
+- [Convert 3D objects](convert-models.md)
+- [Optimize 3D objects](optimize-models.md)
 - [Review a 3D model](review-3d-model.md)
-- [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
+- [Tutorials for converting and optimizing 3D objects](tutorials-overview.md)
 
 
 
