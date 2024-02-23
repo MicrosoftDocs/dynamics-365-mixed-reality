@@ -27,18 +27,7 @@ The PC app supports the following file formats for these types of files.
 
 When authors create guides, each step can have different content associations. Guides measures the totality of all content on a step to estimate performance on HoloLens. If limits are exceeded, HoloLens might exhibit poor performance or be unable to display content on steps. We recommend authors check overall memory usage warnings when authoring on HoloLens.
 
-| **Statistic** | **Definition**  | **Recommend limit per step** |
-| ------------- | --------------- | ---------------------------- |
-| Triangles     | Number of mesh triangles across all parts in a 3D object | 250,000 |
-| Parts         | Number of nodes in a 3D object's scene hierarchy | 500 |
-| Vertices*      | Number of mesh vertices in a single part of a 3D object | 815,000 per part |
-| Textures      | Number of pixels, in megapixels, across all textures referenced by parts and materials in a 3D object | 48  |
-| Texture size*  | Number of pixels, in megapixels, contained in a single texture | 16 per texture (4096 x 4096 or equivalent) |
-
-> [!NOTE]
-> Triangles, parts, and texture limits are guidelines. Any step containing content which nears the limits of all values might exceed the recommended memory limits for a single step. Higher complexity steps might result in longer load times.
->
-> *Vertices and texture size limits are enforced. Exceeding these limits means content won't load on HoloLens.
+[!INCLUDE [object-supported-limits](../includes/object-supported-limits.md)]
 
 ## Video transcoding
 
