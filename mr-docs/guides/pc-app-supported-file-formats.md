@@ -23,7 +23,7 @@ The PC app supports the following file formats for these types of files.
 | Images | PNG, JPG, JPEG, BMP, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV| Keep your videos less than two minutes long and focused on one step at a time. |
 
-## Step content recommended limits
+## Step content limits
 
 When authors create guides, each step can have different content associations. Guides measures the totality of all content on a step to estimate performance on HoloLens. If limits are exceeded, HoloLens might exhibit poor performance or be unable to display content on steps. We recommend authors check overall memory usage warnings when authoring on HoloLens.
 
@@ -31,12 +31,14 @@ When authors create guides, each step can have different content associations. G
 | ------------- | --------------- | ---------------------------- |
 | Triangles     | Number of mesh triangles across all parts in a 3D object | 250,000 |
 | Parts         | Number of nodes in a 3D object's scene hierarchy | 500 |
-| Vertices      | Number of mesh vertices in a single part of a 3D object | 815,000 per part |
+| Vertices*      | Number of mesh vertices in a single part of a 3D object | 815,000 per part |
 | Textures      | Number of pixels, in megapixels, across all textures referenced by parts and materials in a 3D object | 48  |
-| Texture size  | Number of pixels, in megapixels, contained in a single texture | 16 per texture (4096 x 4096 or equivalent) |
+| Texture size*  | Number of pixels, in megapixels, contained in a single texture | 16 per texture (4096 x 4096 or equivalent) |
 
 > [!NOTE]
-> Triangles, parts, and texture limits are guidelines: any step containing content which nears the limits of all values might still exceed the recommended memory limits for a single step. Higher complexity steps might also result in longer load times. Vertices and texture size limits are enforced: content doesn't load on HoloLens.
+> Triangles, parts, and texture limits are guidelines. Any step containing content which nears the limits of all values might exceed the recommended memory limits for a single step. Higher complexity steps might result in longer load times.
+>
+> *Vertices and texture size limits are enforced. Exceeding these limits means content won't load on HoloLens.
 
 ## Video transcoding
 

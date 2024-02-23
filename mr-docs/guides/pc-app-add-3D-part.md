@@ -34,7 +34,7 @@ You can import your own custom 3D objects and add them to **My files** or a fold
 
 ## View 3D object complexity statistics
 
-On the step, select the 3D object and then select the **Properties** tab. The following statistics appear. Make note of the recommended limits. Learn more: [Step content recommended limits](pc-app-supported-file-formats.md).
+On the step, select the 3D object and then select the **Properties** tab. The following statistics appear. Make note of the recommended limits. Learn more: [Step content limits](pc-app-supported-file-formats.md).
 
 [!INCLUDE [object-supported-limits](../includes/object-supported-limits.md)]
 

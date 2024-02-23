@@ -174,7 +174,7 @@ The next step is to build the mesh.
 
 4. Examine the results, and then follow one of these steps:
 
-    - If you're satisfied with the results, skip ahead to the [Export the 3D object](#export-the-3d-model) procedure later in this tutorial.
+    - If you're satisfied with the results, skip ahead to the [Export the 3D object](#export-the-3d-object) procedure later in this tutorial.
 
     - If you want a higher level of surface detail, move on to the next procedure, [Build the texture](#build-the-texture).
 
