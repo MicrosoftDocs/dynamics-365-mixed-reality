@@ -111,7 +111,7 @@
 ##### [Add a custom 3D part that you import](pc-app-add-3D-part.md)
 ##### [Tips for pointing at small objects](pc-app-point-small-objects.md) 
 ##### [Add media (images or videos)](pc-app-add-media.md)
-##### [Supported file formats for 3D objects, images, and videos](pc-app-supported-file-formats.md)
+##### [File formats and limits for 3D objects, images, and videos](pc-app-supported-file-formats.md)
 ##### [Add a website, email, guide, or an app link to a step](pc-app-website-powerapps-link.md)
 ##### [Use rich-text formatting in instruction card text](pc-app-colors-rich-text.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
