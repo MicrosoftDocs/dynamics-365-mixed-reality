@@ -34,9 +34,11 @@ You can import your own custom 3D objects and add them to **My files** or a fold
 
 ## View 3D object complexity statistics
 
-On the step, select the 3D object and then select the **Properties** tab. The following statistics appear. Make note of the recommended limits. Learn more: [Step content limits](pc-app-supported-file-formats.md#step-content-limits).
+On the step, select the 3D object and then select the **Properties** tab. The object statistics appear. Learn more [Supported files and limits](pc-app-supported-file-formats.md).
 
-[!INCLUDE [object-supported-limits](../includes/object-supported-limits.md)]
+[!INCLUDE [supported-step-limits](../includes/supported-limits-steps.md)]
+
+[!INCLUDE [supported-object-limits](../includes/supported-limits-objects.md)]
 
 If the 3D object exceeds the recommended limits for optimal performance on the HoloLens, a warning appears on the step. Make the necessary changes to the object. Learn more: [Optimize your 3D objects](./3d-content-guidelines/optimize-models.md). 
 

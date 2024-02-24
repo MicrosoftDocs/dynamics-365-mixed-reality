@@ -23,11 +23,17 @@ The PC app supports the following file formats for these types of files.
 | Images | PNG, JPG, JPEG, BMP, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV| Keep your videos less than two minutes long and focused on one step at a time. |
 
-## Step content limits
+## Step content recommended limits
 
 When authors create guides, each step can have different content associations. Guides measures the totality of all content on a step to estimate performance on HoloLens. If limits are exceeded, HoloLens might exhibit poor performance or be unable to display content on steps. We recommend authors check overall memory usage warnings when authoring on HoloLens.
 
-[!INCLUDE [object-supported-limits](../includes/object-supported-limits.md)]
+It is the responsibility of the author to balance content on their steps within available limits.
+
+[!INCLUDE [supported-step-limits](../includes/supported-limits-steps.md)]
+
+## 3D object limits
+
+[!INCLUDE [supported-object-limits](../includes/supported-limits-objects.md)]
 
 ## Video transcoding
 
