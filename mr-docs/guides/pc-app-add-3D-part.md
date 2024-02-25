@@ -34,10 +34,13 @@ You can import your own custom 3D objects and add them to **My files** or a fold
 
 ## View 3D object complexity statistics
 
-On the step, select the 3D object and then select the **Properties** tab. The object statistics appear.
+On the step, select the 3D object and then select the **Properties** tab. The object statistics appear. As you view the object statistics, consider the recommended limit per step and the 3D object size limit.
+
+### Step content recommended limits
 
 [!INCLUDE [supported-step-limits](../includes/supported-limits-steps.md)]
 
+### 3D object limits
 
 [!INCLUDE [supported-object-limits](../includes/supported-limits-objects.md)]
 
