@@ -10,7 +10,7 @@ ms.reviewer: v-brycho
 
 # Use Autodesk ReCap Photo to create 3D objects for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps
 
-This tutorial guides you through the process of using Autodesk ReCap Photo photogrammetry software to create 3D objects that can be used with Microsoft Dynamics Guides and for mixed-reality components included in apps created with Microsoft Power Apps.
+This tutorial guides you through the Autodesk ReCap Photo photogrammetry software to create 3D objects that can be used with Dynamics 365 Guides. The software can be used for mixed-reality components included in apps created with Microsoft Power Apps.
 
 This tutorial is created only for informational purposes, to show how ReCap Photo works with Dynamics 365 Guides and Power Apps. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor Autodesk or any of its products.
 
@@ -24,7 +24,7 @@ You can [sign up for a free trial](https://aka.ms/autodesk_recap_photo_overview)
 
 ## Photography tips
 
-The following tips will help you take quality photos for photogrammetry:
+The following tips help you take quality photos for photogrammetry:
 
 - If you can, take photos in a location where lighting is consistent and doesn't cast shadows.
 
@@ -32,17 +32,17 @@ The following tips will help you take quality photos for photogrammetry:
 
 - Make sure that there are no moving objects in the background when you take the photos.
 
-- If the camera that you're using has a high dynamic range (HDR) setting, turn the feature off, and try not to adjust the exposure of your photographs while you capture images.
+- If the camera that you're using has a high dynamic range (HDR) setting, turn off the feature, and try not to adjust the exposure of your photographs while you capture images.
 
 - Take pictures about one meter apart while you circle the object.
 
 - If you can, maintain a perpendicular location relative to the object while you take photos.
 
-- If the object is large, move in a lateral motion from one end of the object to the other. Change the height at each pass until you've captured all surfaces.
+- If the object is large, move in a lateral motion from one end of the object to the other. Change the height at each pass until you capture all surfaces.
 
 ## Start a new project
 
-1. Open Autodesk ReCap Photo. When you first open Autodesk ReCap Photo, you'll see the dashboard.
+1. Open Autodesk ReCap Photo. When you first open Autodesk ReCap Photo, the dashboard appears.
 
     > [!NOTE]
     > On the dashboard, you can select either **Aerial** or **Object** to create a new 3D project. This tutorial covers the **Object** workflow.
@@ -51,7 +51,7 @@ The following tips will help you take quality photos for photogrammetry:
 
     ![Object option.](media/recap-photo1.PNG "Object option")
 
-3. Click anywhere on the page that appears, according to the prompt, and then add the photos that you want to use to create your 3D object. After you've finished importing the photos, select **Create**.
+3. Select anywhere on the page that appears, according to the prompt, and then add the photos that you want to use to create your 3D object. After you finish importing the photos, select **Create**.
 
     ![Create button.](media/recap-photo2.PNG "Create button")
 
@@ -70,7 +70,7 @@ The following tips will help you take quality photos for photogrammetry:
 
     ![Select folder to extract mesh to dialog box with Select Folder button selected.](media/recap-photo5.PNG "Select folder to extract mesh to dialog box with Select Folder button selected")
 
-7. You'll see a new 3D object that has the name that you entered. Select the model to open it in the editor.
+7. The new 3D object has the name that you entered. Select the model to open it in the editor.
 
     ![New model.](media/recap-photo6.PNG "New model")
 
@@ -129,13 +129,13 @@ The 3D object is optimized and ready for export.
 
 ## Export the 3D object as an OBJ file
 
-Before you can use the 3D object in Dynamics 365 Guides or Power Apps, it must be in the GLB file format. In this step, you'll export the model as an OBJ file that can then be converted to a GLB file.
+Before you can use the 3D object in Dynamics 365 Guides or Power Apps, it must be in the GLB file format. In this step, you export the model as an OBJ file that can then be converted to a GLB file.
 
 1. On the left side of the editor page, select the **Export** button, and then select the **Export model** button to open the export settings.
 
     ![Export model button.](media/recap-photo14.PNG "Export model button")
 
-2. In the **Export model** dialog box, in the **Export as** field, select **OBJ** as the export file type, and then, in the **Size** field, select **4096x4096** as the texture size. When you've finished, select **Export**.
+2. In the **Export model** dialog box, in the **Export as** field, select **OBJ** as the export file type, and then, in the **Size** field, select **4096x4096** as the texture size. When you finish, select **Export**.
 
     > [!NOTE]
     > Although you can select a larger or smaller texture size, be aware that the size will affect either performance or visual fidelity. 
@@ -201,7 +201,7 @@ The last step is to export the model as a GLB file so that it can be used with D
 
 ## View a 3D object in Dynamics 365 Guides or Power Apps
 
-After you've prepared a 3D object, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
+After you prepare a 3D object, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
 - [Dynamics 365 Guides](../overview.md)
 
@@ -215,7 +215,7 @@ Screenshots in this tutorial were taken from the Autodesk ReCap Photo software p
 
 - [Blender](https://www.blender.org/)
 
-Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk ReCap Photo, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+Microsoft Corporation isn't responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk ReCap Photo, or reliance on these instructions. This document is created only to provide general information to our customers and doesn't take into consideration any individualized business plans or specifications.
 
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft Corporation.
 

@@ -14,9 +14,9 @@ To use your 3D objects with Microsoft Dynamics 365 Guides or in apps created wit
 
 ## Tools for exporting CAD objects
 
-You can export CAD objects directly to glTF format or into intermediate formats that can be later processed into glTF files. If your content-creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat), [OBJ](https://go.microsoft.com/fwlink/?linkid=2149147), [STL](https://go.microsoft.com/fwlink/?linkid=2149062), or [PLY](https://go.microsoft.com/fwlink/?linkid=2149063), if available. If these formats are not available, there are third-party applications that can import many different file formats and export them as one of these supported file formats. 
+You can export CAD objects directly to glTF format or into intermediate formats that can be later processed into glTF files. If your content-creation application doesn't have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat), [OBJ](https://go.microsoft.com/fwlink/?linkid=2149147), [STL](https://go.microsoft.com/fwlink/?linkid=2149062), or [PLY](https://go.microsoft.com/fwlink/?linkid=2149063), if available. If these formats aren't available, there are third-party applications that can import many different file formats and export them as one of these supported file formats. 
 
-Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../../includes/cc-microsoft.md)] does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
+Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../../includes/cc-microsoft.md)] doesn't endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
 
 |Content-creation package|Description|
 |-----------------------------------------------|---------------------------------------------------------------|
