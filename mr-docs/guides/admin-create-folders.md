@@ -15,10 +15,6 @@ Authors can organize their guides as well as the content of their guides by crea
 
 Folders are a great way to organize guides and their content especially if you have multiple assets that are all associated with a particular guide or set of guides.
 
-## Prerequisites
-
-- Guides Admin or Author role. Only admins can delete guides and guide content.
-
 ## Create a folder
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides to manage folders.

@@ -3,7 +3,7 @@ title: Share a guide or folder in Dynamics 365 Guides
 description: Learn how to share a guide or folder in Microsoft Dynamics 365 Guides by using an access team.
 author:  davepinch
 ms.topic: how-to
-ms.date: 08/08/2023
+ms.date: 02/26/2024
 ms.author: davepinch
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -45,16 +45,7 @@ You can share a guide with other users if you're an administrator or if you have
 
    :::image type="content" source="media/share-guide.png" alt-text="Screenshot showing a selected guide and the Share button highlighted.":::
 
-1. In the **Share records** page, use the search box to search for and select the appropriate team or user name.
-
-1. Under **Manage share access**, select the team, and then select specific permissions:
-
-   - For operators, select **Read** permissions (and **Append to** if you want to [collect operations data](analytics-overview.md)).
-   - For authors, select **Read**, **Write**, **Append** and **Append to** permissions.
-
-     :::image type="content" source="media/manage-share-access.jpg" alt-text="Screenshot showing Mange share access to select permissions.":::
-
-1. Select **Share**.
+[!INCLUDE [share-records](../includes/share-records.md)]
 
    > [!NOTE]
    > When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. To share the contents, go to the next step.
@@ -72,6 +63,8 @@ You can share a guide with other users if you're an administrator or if you have
 1. Select the **More (ellipsis ...)** button, and then select **Share**.
 
      :::image type="content" source="media/mda-all-content-tab.PNG" alt-text="Screenshot of All Content tab in the Guides model-driven app with video selected and Share command highlighted.":::
+
+[!INCLUDE [share-records](../includes/share-records.md)]
 
 ## Next steps
 

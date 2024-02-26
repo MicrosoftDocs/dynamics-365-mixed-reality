@@ -21,10 +21,6 @@ If you're an admin for Dynamics 365 Guides, enable or disable calling for users 
 
 [Learn about licensing requirements and limitations when making calls in Dynamics 365 Guides](requirements.md).
 
-## Prerequisites
-
-- Guides Admin or Author role
-
 ## Enable or disable calling
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.

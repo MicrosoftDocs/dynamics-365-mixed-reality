@@ -17,10 +17,6 @@ If a [packaged guide has been deactivated](package-a-guide.md#manage-a-packaged-
 
 You can also activate, deactivate, or delete specific guide content (video, image, or 3D part). Only admins can delete guides and guide content.
 
-## Prerequisites
-
-- Guides Admin or Author role. Only admins can delete guides and guide content.
-
 ## Activate, deactivate, or delete a guide
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
@@ -51,7 +47,7 @@ A [packaged guide](package-a-guide.md) can't be opened in the model-driven app. 
 
 1. Select **Packaged Guides** on the left side of the screen. 
 
-1. To activate a packaged guide, select **Inactive Packaged Guides**.
+1. To activate a packaged guide, select **Inactive Packaged Guides** in the drop-down list above the grid.
 
    To deactivate or delete a packaged guide, select **Active Packaged Guides**.
 
@@ -63,13 +59,15 @@ A [packaged guide](package-a-guide.md) can't be opened in the model-driven app. 
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-1. To activate content, select **Inactive 3D Objects**, **Inactive Images**, or **Inactive Videos**.
+1. Select **Images**, **Videos**, or **3D** on the left side of the screen based on the type of content.
 
-   To deactivate or delete specific content, select **Images**, **Videos**, or **3D**.
+1. To activate content, select **Inactive Images**, **Inactive Videos**, or **Inactive 3D Objects** in the drop-down list above the grid.
+
+   To deactivate or delete specific content, select **Active Images**, **Active Videos**, or **Active 3D Objects**.
 
    :::image type="content" source="media/deactivate-active-3D-objects.PNG" alt-text="Screenshot that shows Inactive 3D objects in the Guides model-driven app.":::
 
-1. Select the check box next to the appropriate object, and then select **Activate**, **Deactivate**, or **Delete** at the top of the page.
+1. Select the check box next to the appropriate content, and then select **Activate**, **Deactivate**, or **Delete** at the top of the page.
 
    :::image type="content" source="media/deactivate-select-objects.PNG" alt-text="Screenshot that shows Activate, Deactivate, and Delete buttons for selected objects in the Guides model-driven app.":::
 
