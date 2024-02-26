@@ -2,10 +2,10 @@
 author: RobertButterworthMS
 description: Everything you need to know about converting 3D objects to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
-ms.date: 09/7/2021
+ms.date: 02/25/2024
 ms.topic: article
 title: Convert your 3D (CAD) objects to use with Dynamics 365 Guides and Power Apps
-ms.reviewer: v-brycho
+ms.reviewer: v-wendysmith
 ---
 
 # Convert your 3D (CAD) objects to use with Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps

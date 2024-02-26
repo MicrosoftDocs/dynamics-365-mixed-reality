@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to use Dynamics 365 Guides US Government for government organizations.
 ms.author: davepinch
-ms.date: 02/14/2024
+ms.date: 02/24/2024
 ms.topic: overview
 title: Dynamics 365 Guides US Government
 ms.reviewer: v-wendysmith

@@ -2,10 +2,10 @@
 author: RobertButterworthMS
 description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Microsoft Power Apps
 ms.author: robutter
-ms.date: 10/22/2019
+ms.date: 02/25/2024
 ms.topic: article
 title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Power Apps
-ms.reviewer: v-brycho
+ms.reviewer: v-wendysmith
 ---
 
 # Use Autodesk 3ds Max to prepare 3D content for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps 
