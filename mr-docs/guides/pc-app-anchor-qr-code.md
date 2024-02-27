@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a QR code anchor
 ms.author: davepinch
-ms.date: 09/15/2023
+ms.date: 02/27/2024
 ms.topic: how-to
 title: Anchor a guide in Dynamics 365 Guides by using a QR code anchor
 ms.reviewer: v-wendysmith
@@ -20,9 +20,6 @@ Use a QR code anchor to anchor your guide to the real world in Guides. Review [b
 - You can print the anchor in various sizes (but be sure to always use the same size for the same guide).
 
 - You can [embed a link to a guide in a QR code](pc-app-anchor-embed-qr-code-link.md). This makes it quicker for the operator to open the appropriate guide.
-
-> [!IMPORTANT]
-> Anchoring a guide with a QR code requires HoloLens 2. This feature is not available on HoloLens 1.
 
 ## Set up a QR code anchor
 

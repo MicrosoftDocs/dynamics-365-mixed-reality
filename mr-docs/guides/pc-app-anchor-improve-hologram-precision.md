@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn about things you can do to improve positional precision of holograms in Dynamics 365 Guides
 ms.author: davepinch
-ms.date: 11/03/2020
+ms.date: 02/27/2024
 ms.topic: conceptual
 title: Effect of calibration, prescanning, and environment on positional precision of holograms in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -25,7 +25,7 @@ This article describes several things that you can do to improve positional prec
 
 IPD is the distance between the center of the user's pupils. Because different users might have different IPDs, it's crucial that the appropriate IPD is set, so that HoloLens can adapt its display. An incorrect IPD setting can cause inaccurate perception of hologram position. 
 
-To calibrate device eye-tracking and IPD on HoloLens 2, make sure to use the eye calibration app when prompted. This app helps you calibrate IPD but also enables HoloLens 2 to autocorrect hologram position in case the device moves on the operator's head. You can also [manually calibrate the device at any time](./operator-calibrate-hl2.md) on HoloLens 1 or HoloLens 2.
+To calibrate device eye-tracking and IPD on HoloLens 2, make sure to use the eye calibration app when prompted. This app helps you calibrate IPD but also enables HoloLens 2 to autocorrect hologram position in case the device moves on the operator's head. You can also [manually calibrate the device at any time](./operator-calibrate-hl2.md).
 
 ## Prescan the environment
 
@@ -51,10 +51,6 @@ Environments that include reflective surfaces (mirrors), dark surfaces, or featu
 ## Avoid unstable lighting conditions
 
 Lighting conditions impacts how HoloLens perceives the environment and recognizes the space. Environments with unstable lighting conditions are prone to hologram instability. If the light changes significantly, HoloLens might consider the space as a new environment and build a new map for it. Previously visible features might be invisible and features that weren’t visible might be visible. 
-
-## HoloLens 1 only: Make sure to wear the device in a consistent way
-
-HoloLens uses a novel display technology to project holograms in the operator's field of view. On HoloLens 1, the way that operators wear a device on their head has a huge impact on the perceived position of the holograms. Adjust the device positioning while aligning holograms to their physical counterparts in Dynamics 365 Guides. Notice how the alignment of holograms is affected when you shift the device left and right, up and down, or forward and backward. Operators should wear the device in a consistent way, and they should understand that subtle shifts in device positioning might not feel different but can cause significant changes in perceived hologram locations. On HoloLens 2, issues with device positioning are addressed through eye tracking.
 
 ## Next steps
 
