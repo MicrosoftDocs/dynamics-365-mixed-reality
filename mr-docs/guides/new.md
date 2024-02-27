@@ -25,7 +25,7 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 |-------------------------|--------------------------------|
 |PC app| 902.2402.16001.0  |
 |HoloLens app | 902.2402.16001.0  |
-|Solution|  900.2.0.3  |
+|Solution|  900.2.0.4  |
 
 ### Bugs fixed and other improvements
 
