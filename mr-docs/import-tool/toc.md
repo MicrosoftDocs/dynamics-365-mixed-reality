@@ -1,8 +1,8 @@
 # Dynamics 365 Import Tool (Preview)
 ## [Overview](index.md)
-## [Convert your 3D (CAD) models](convert-models.md)
-## [Optimize your 3D models](optimize-models.md)
-## [Best practices for real-time 3D models](best-practices.md)
+## [Convert your 3D (CAD) objects](convert-models.md)
+## [Optimize your 3D objects](optimize-models.md)
+## [Best practices for real-time 3D objects](best-practices.md)
 ## Tutorials
 ### [Overview](tutorials-overview.md)
 ### [Agisoft Metashape](agisoft-metashape.md)
@@ -14,7 +14,7 @@
 ### [Dassault Systèmes SOLIDWORKS](solidworks.md)
 ### [Pixyz Studio](pixyz-studio.md)
 ### SideFX Houdini
-#### [Prepare 3D models](houdini.md)
+#### [Prepare 3D objects](houdini.md)
 #### [Convert a point cloud](houdini-point-cloud.md)
 ## Install and use Dynamics 365 Import Tool (Preview)
 ### [Requirements for installing](requirements.md)

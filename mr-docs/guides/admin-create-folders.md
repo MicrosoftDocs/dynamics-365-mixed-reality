@@ -53,14 +53,14 @@ Folders are a great way to organize guides and their content especially if you h
 
 You can also upload assets to a folder in the PC app.
 
-- [Import a custom 3D model to use as a 3D part](pc-app-add-3D-part.md#import-a-custom-3d-model-to-use-as-a-3d-part)
+- [Import a custom 3D objects to use as a 3D part](pc-app-add-3D-part.md#import-a-custom-3d-object-to-use-as-a-3d-part)
 - [Import an image or video](pc-app-add-media.md#import-an-image-or-video)
 
 ## View the contents of a folder
 
 1. In the left pane, select **Folders** to view the list of folders in the environment.
 
-1. Select the desired folder. All active folders, guides, images, 3D models, videos, and object anchors in the folder display.
+1. Select the desired folder. All active folders, guides, images, 3D objects, videos, and object anchors in the folder display.
 
 ## Activate, deactivate, or delete a folder
 

@@ -18,7 +18,7 @@ Other online documentation in [!include[pn-dyn-365-guides](../includes/pn-dyn-36
 
 Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content (if you have any), 
 and the physical objects themselves (if feasible). Don't worry if you don't have any 3D content. Guides includes a Toolkit 
-(including simple models such as arrows, hands, zones, and so on) that you can use to get started.
+(including simple objects such as arrows, hands, zones, and so on) that you can use to get started.
 
 ### Understand the space
 
@@ -414,11 +414,11 @@ Shoot videos from a third-person or first-person perspective.
 
    –	If your focus is more on alignment or positioning, the Original shader is a good choice because it won't indicate any strong action indications for the operator.
 
-- For custom assets, the Original shader is whatever is imported with the 3D model.
+- For custom assets, the Original shader is whatever is imported with the 3D objects.
 
-  –	Depending on the author's needs or requirements, you can import a custom model with any style on it. Some good examples include:
+  –	Depending on the author's needs or requirements, you can import a custom object with any style on it. Some good examples include:
 
-    - Specific colors on sections of a model to identify parts or pieces. You can then add step instructions that refer to the colored sections.
+    - Specific colors on sections of a object to identify parts or pieces. You can then add step instructions that refer to the colored sections.
 
      - Realistic style to show what the actual object looks like.
 

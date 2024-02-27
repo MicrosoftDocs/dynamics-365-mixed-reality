@@ -19,7 +19,7 @@ Packaging a guide allows authors to create a self-contained, read-only file that
 ## Limitations
 
 - Maximum of 2 GB for a packaged guide
-- Maximum of 100 MB 3D models and other assets
+- Maximum of 100 MB 3D objects and other assets
 - Migrating a combination of packaged and non-packaged guides isn't supported
 - Animated anchors aren't supported
 - Offline mode isn't supported

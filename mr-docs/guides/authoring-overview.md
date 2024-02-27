@@ -16,9 +16,9 @@ To author a guide in Microsoft Dynamics 365 Guides, you use two apps:
 
 - **PC app.** You start with the PC application. Use this application to create the guide, choose an anchoring method, add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. Supporting assets include:
 
-  - Your custom 3D models.
+  - Your custom 3D objects.
 
-  - 3D models from the toolkit, a library of predefined objects included in Guides such as arrows and numbers.
+  - 3D objects from the toolkit, a library of predefined objects included in Guides such as arrows and numbers.
 
   - 2D media (images and videos).
 

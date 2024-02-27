@@ -1,22 +1,22 @@
 ---
 author: RobertButterworthMS
-description: Describes the third-party tutorials available for converting 3D models for use with Dynamics 365 Guides and Microsoft Power Apps
+description: Describes the third-party tutorials available for converting 3D objects for use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 11/25/2020
 ms.topic: overview
-title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 Guides and Power Apps
+title: Overview of self-serve tutorials for converting 3D objects for use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-wendysmith
 ---
 
-# Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 Guides and in mixed-reality components included in apps created with Power Apps
+# Overview of self-serve tutorials for converting 3D objects for use with Dynamics 365 Guides and in mixed-reality components included in apps created with Power Apps
 
-Three-dimensional models come in all shapes and sizes. Sometimes they're complex and require preparation before you can use them in mixed-reality scenarios. To make it easier to prepare your 3D models, we've created tutorials for several third-party computer-aided design (CAD) and digital content creation (DCC) programs. The goal of these tutorials isn't for you to become an expert at using these programs, but to guide you through the process of preparing your 3D models so you can achieve more with mixed reality.
+Three-dimensional objects come in all shapes and sizes. Sometimes they're complex and require preparation before you can use them in mixed-reality scenarios. To make it easier to prepare your 3D objects, we've created tutorials for several third-party computer-aided design (CAD) and digital content creation (DCC) programs. The goal of these tutorials isn't for you to become an expert at using these programs, but to guide you through the process of preparing your 3D objects so you can achieve more with mixed reality.
 
-![Example of a 3D model.](media/overview-cad2poly.PNG "Example of a 3D model") 
+![Example of a 3D object.](media/overview-cad2poly.PNG "Example of a 3D object") 
 
 ## CAD tutorials
 
-If you use Autodesk Inventor or Dassault SOLIDWORKS, you can use built-in tools that can simplify complex components and make your 3D models perform better in mixed reality. Start with these tutorials to produce the highest-quality 3D models:
+If you use Autodesk Inventor or Dassault SOLIDWORKS, you can use built-in tools that can simplify complex components and make your 3D objects perform better in mixed reality. Start with these tutorials to produce the highest-quality 3D objects:
 
 - [Autodesk Inventor](inventor.md)
 - [Dassault SOLIDWORKS](solidworks.md) 
@@ -24,7 +24,7 @@ If you use Autodesk Inventor or Dassault SOLIDWORKS, you can use built-in tools 
 
 ## DCC tutorials
 
-If your 3D models are in FBX, OBJ, or GLB file format, you can use any of the following tutorials to prepare your 3D models:
+If your 3D objects are in FBX, OBJ, or GLB file format, you can use any of the following tutorials to prepare your 3D objects:
 
 - [SideFX Houdini](houdini.md)
 - [Blender](blender.md) 
@@ -35,14 +35,14 @@ If your 3D models are in FBX, OBJ, or GLB file format, you can use any of the fo
 
 ## Photogrammetry tutorials
 
-If you're using photogrammetry software to create your 3D models, see these tutorials:
+If you're using photogrammetry software to create your 3D objects, see these tutorials:
 
 - [Agisoft Metashape](agisoft-metashape.md)
 - [Autodesk ReCap Photo](autodesk-recap-photo.md)
 
 ## Point cloud tutorial
 
-If you're converting a point cloud into a 3D model, see this tutorial:
+If you're converting a point cloud into a 3D object, see this tutorial:
 
 - [SideFX Houdini](houdini-point-cloud.md)
 

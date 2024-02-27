@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 If you have similar production lines or machinery across factories or labs, you might find that a specific guide is applicable at multiple sites. However, if guide access is provided through [business units](/power-platform/admin/create-edit-business-units), you can encounter issues when you try to share the guide across sites.
 
-In such cases, you can copy the guide in question and put the copy in the business unit that is associated with the new site. You can then use the copy of the guide either as a functional replica of the original guide or as a template that you reuse steps and tasks, text, images, and 3D models from when you author guides. In both cases, you not only save your organization authoring time and cost but also ensure consistency in similar procedures across factories.
+In such cases, you can copy the guide in question and put the copy in the business unit that is associated with the new site. You can then use the copy of the guide either as a functional replica of the original guide or as a template that you reuse steps and tasks, text, images, and 3D objects from when you author guides. In both cases, you not only save your organization authoring time and cost but also ensure consistency in similar procedures across factories.
 
 Your organization should consider the impact that the copy process has on the use of QR codes with deep links, on the content in the guide, and on the related metadata, such as the name and ID.
 

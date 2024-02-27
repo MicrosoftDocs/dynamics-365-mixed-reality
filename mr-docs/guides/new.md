@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: davepinch
-ms.date: 12/19/2023
+ms.date: 02/27/2024
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -18,6 +18,21 @@ ms.custom: bap-template
 This page provides details about the latest release in the **current wave of features (October 2023 through March 2024)** for Microsoft Dynamics 365 Guides, organized by release date. To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
 If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## February 27, 2024
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 902.2402.16001.0  |
+|HoloLens app | 902.2402.16001.0  |
+|Solution|  900.2.0.4  |
+
+### Bugs fixed and other improvements
+
+- A new copy API allows developers to programmatically make a copy of a guide in the same environment.
+- <a href="/dynamics365/mixed-reality/guides/pc-app-add-3D-part#view-3d-model-complexity-statistics" target="blank">View model complexity statistics</a> on the model's **Properties** tab in the PC app and receive a warning if a model exceeds the recommended complexity limits.
+- Performance improvements on HoloLens when loading objects in Guides steps.
+- Calls now end when the Guides app is closed or minimized on HoloLens. To keep calls active, disable the <a href="/dynamics365/mixed-reality/guides/change-setting" target="blank">**End calls on suspend** setting</a> on the HoloLens.
 
 ## December 20, 2023
 
@@ -48,7 +63,7 @@ Version 901.2312.16001.0 fixes an issue in the PC app where the app stops respon
 
 - <a href="/dynamics365/mixed-reality/guides/calling-photos" target="blank">Take a photo within Guides</a> through the HoloLens and share it with other call participants</a>.
 - Guides dynamically manages loaded content in response to overall system memory usage. This improves device stability when using multiple HoloLens features simultaneously (such as Guides, calling, files, mixed reality capture (MRC), and Edge browser) and allows more file content to display. However, when multiple features are in use at once, anticipate potentially longer loading times when navigating through a guide.
-- Guides limits the maximum size of a single texture on a 3D model to 16 megapixels (such as 4K x 4K or equivalent).
+- Guides limits the maximum size of a single texture on a 3D object to 16 megapixels (such as 4K x 4K or equivalent).
 
 > [!IMPORTANT]
 > Guides 901.x isn't compatible with Guides 800 solutions. If you choose not to update to the 900 solution and remain on the version 800 solution and compatible versions of the PC and HoloLens apps, *don't* update to the 901.x version.

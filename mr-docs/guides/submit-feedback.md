@@ -28,7 +28,7 @@ If you run into an issue with Dynamics 365 Guides, you can report it through the
 
     ![Screenshot of the Add more details section.](media/submit-feedback-add-details.jpg "Screenshot of the Add more details section")
 
-1. Attach any screenshots and/or 3D models (if permitted by your company policies).
+1. Attach any screenshots and/or 3D objects (if permitted by your company policies).
 
 1. Select **Recreate my problem**, and then select **Start recording**. Open Dynamics 365 Guides again, and then repeat the actions that caused the problem. This will attach telemetry data to your feedback and make it easier for Microsoft to diagnose the problem. Your data is protected under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). Return to the Feedback Hub app when you're finished. 
 

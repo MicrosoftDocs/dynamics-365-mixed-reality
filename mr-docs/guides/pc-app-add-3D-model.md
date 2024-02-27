@@ -1,21 +1,21 @@
 ---
 author: annitachow
 ms.author: anchow
-description: Learn how to add a 3D model (for example, an arrow or a hand) to a step in the Dynamics 365 Guides PC app. 
+description: Learn how to add a 3D object (for example, an arrow or a hand) to a step in the Dynamics 365 Guides PC app. 
 ms.date: 07/26/2023
 ms.topic: how-to
-title: Add a 3D model from the toolkit to a step in the Dynamics 365 Guides PC app
+title: Add a 3D object from the toolkit to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-# Add a 3D model from the toolkit to a step in the Dynamics 365 Guides PC app
+# Add a 3D object from the toolkit to a step in the Dynamics 365 Guides PC app
 
 Microsoft Dynamics 365 Guides includes a library of predefined 3D objects that are optimized to work perfectly with HoloLens. The toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following illustration shows an example where holographic numbers, arrows, and zones are used to help operators complete a step.
 
 ![Example of holographic numbers, arrows, and zones.](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and zones")
 
-You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you want in a step.
+You can mix and match different types of 3D objects. You can also use the same object (instance) as many times as you want in a step.
 
 > [!NOTE]
 > Some toolkit items have built-in animations that you can turn on or off. [Learn more about animation options.](hololens-app-animations.md)
@@ -24,7 +24,7 @@ To add a model from the toolkit, follow these steps.
 
 1. On the right side of the page, select the **Toolkit** tab. Then, select the category for the type of item that you want to add.
 
-1. Drag the 3D model from the **Toolkit** tab to one of the **3D parts** boxes.
+1. Drag the 3D object from the **Toolkit** tab to one of the **3D parts** boxes.
 
     ![Screenshot of the Toolkit tab highlighted dragging an arrow.](media/select-3D-toolkit.png "Screenshot of the Toolkit tab highlighted dragging an arrow")
 
@@ -33,7 +33,7 @@ To add a model from the toolkit, follow these steps.
     ![Screenshot of the Properties tab.](media/properties-tab.png "Screenshot of the Properties tab")
 
 > [!NOTE]
-> You can also add 3D models from the toolkit directly in the HoloLens app.
+> You can also add 3D objects from the toolkit directly in the HoloLens app.
 
 ## Follow best practices for the toolkit
 
