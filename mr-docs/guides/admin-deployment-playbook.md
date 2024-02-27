@@ -146,7 +146,7 @@ You can use [security groups](./admin-security.md) to control which users can ac
 
 ### Control access to specific guides or content
 
-You can use [access teams](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos). Access teams are useful when you want to grant different user permissions for specific records in Dataverse. For example, you might want access to some guides to be limited to a specific factory location, or you might want to limit access to guides that are in progress.
+You can use [access teams](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D objects, images, or videos). Access teams are useful when you want to grant different user permissions for specific records in Dataverse. For example, you might want access to some guides to be limited to a specific factory location, or you might want to limit access to guides that are in progress.
 
 The following table describes the different roles and when you should use each.
 

@@ -34,7 +34,7 @@ To maintain your Microsoft Power Platform environments, we recommend that your o
 
 - Continuously [monitors environment adoption, usage, and health](/power-platform/guidance/adoption/cds-usage) through metrics such as the number of active users and API calls (pass rate and top failures). A [weekly email digest](/power-platform/admin/managed-environment-usage-insights) that includes analytics can be provided.
 - Creates [data loss prevention policies](/power-platform/admin/wp-data-loss-prevention) at the environment or tenant level to help prevent users from unintentionally exposing, misusing, or losing organizational data.
-- Reacts to [capacity alerts](/power-platform/guidance/coe/capacity-alerting#receive-capacity-alerts). If approved environment capacity is configured, Microsoft Power Platform admins are notified when environments are at 80-percent approved capacity or more. If allocated capacity at the tenant level is exceeded, [some operations](/power-platform/admin/capacity-storage#changes-for-exceeding-storage-capacity-entitlements) become prohibited. This scenario can arise if, for example, you're working with large 3D models in Dynamics 365 Guides.
+- Reacts to [capacity alerts](/power-platform/guidance/coe/capacity-alerting#receive-capacity-alerts). If approved environment capacity is configured, Microsoft Power Platform admins are notified when environments are at 80-percent approved capacity or more. If allocated capacity at the tenant level is exceeded, [some operations](/power-platform/admin/capacity-storage#changes-for-exceeding-storage-capacity-entitlements) become prohibited. This scenario can arise if, for example, you're working with large 3D objects in Dynamics 365 Guides.
 
 ### Software compatibility
 

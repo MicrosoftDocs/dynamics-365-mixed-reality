@@ -30,14 +30,14 @@ You can access the **Anchor** wizard from the **Outline** page in the PC app. Th
 
 1. On the **Choose an anchor method** page, select **Select** for the **Holographic** anchor method.
 
-1. In step 1 of the wizard, select **Create**, find your custom 3D model, and then select **Open** to import it. The model is added to the **My files** tab in the gallery.
+1. In step 1 of the wizard, select **Create**, find your custom 3D object, and then select **Open** to import it. The model is added to the **My files** tab in the gallery.
 
     ![Import button.](media/holographic-anchor-import-button.PNG "Import button")
 
    > [!TIP]
    > The filter is automatically set to **Object anchors**.
 
-1. Drag the 3D model from the **My files** tab to the **Assign holographic anchor** box. The 3D model is assigned as the holographic anchor for the guide. When you've finished, select **Next** to move to the next step.
+1. Drag the 3D object from the **My files** tab to the **Assign holographic anchor** box. The 3D object is assigned as the holographic anchor for the guide. When you've finished, select **Next** to move to the next step.
 
     ![Assign holographic anchor box.](media/holographic-anchor-drag-model.PNG "Assign holographic anchor box")
 

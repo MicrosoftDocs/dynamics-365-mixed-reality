@@ -111,14 +111,14 @@ additionalContent:
         text: Work with holograms
       - url: authoring-gestures-hl2.md
         text: Authoring gestures
-    - title: Use 3D models
+    - title: Use 3D objects
       links:
       - url: 3d-content-guidelines/index.md
         text: Overview
       - url: 3d-content-guidelines/convert-models.md
-        text: Convert your 3D models
+        text: Convert your 3D objects
       - url: 3d-content-guidelines/optimize-models.md
-        text: Optimize your 3D models
+        text: Optimize your 3D objects
       - url: 3d-content-guidelines/tutorials-overview.md
         text: Tutorials
     - title: Operate a guide

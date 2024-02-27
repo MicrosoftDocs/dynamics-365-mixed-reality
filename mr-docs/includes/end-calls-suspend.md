@@ -1,0 +1,1 @@
+A call ends if the Guides app is suspended, which occurs when Guides is minimized or when another app is launched. To keep calls active, [turn off the **End calls on suspend** setting](../guides/change-setting.md).
