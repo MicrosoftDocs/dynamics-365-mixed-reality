@@ -2,7 +2,7 @@
 author: davepinch
 description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: davepinch
-ms.date: 08/08/2023
+ms.date: 02/27/2024
 ms.topic: article
 title: Known issues with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,13 +10,17 @@ ms.reviewer: v-wendysmith
 
 # Known issues with Microsoft Dynamics 365 Guides
 
+## A copied guide has warnings on branching steps
+
+In rare cases when using the Copy API feature to copy a guide with branching, the copied guide might show warnings on branching steps, indicating that the responses aren't correctly linked. The warning appears on the step in the **Outline** page and in the **Step Editor**. Open the step in the **Step Editor** and enter the missing information.
+
 ## I can't open a guide because it's corrupted
 
-In very rare cases, you might find that a guide has become corrupted. This is most commonly associated with guides that were [shared with authors](admin-share-guide.md) in the time period from September 2021 to December 2021. If you open a corrupted guide in the PC app, the following message appears. 
+In rare cases, you might find that a guide has become corrupted. This is most commonly associated with guides that were [shared with authors](admin-share-guide.md) in the time period from September 2021 to December 2021. If you open a corrupted guide in the PC app, the following message appears. 
 
 ![Screenshot of message that appears when a guide is corrupted.](media/corrupted-guide-message.jpg "Screenshot of message that appears when a guide is corrupted")
 
-[Learn how to fix a corrupted guide](corrupted-guide.md)
+[Learn how to fix a corrupted guide](corrupted-guide.md).
 
 ## I don't see any guides in the Guides list
 
