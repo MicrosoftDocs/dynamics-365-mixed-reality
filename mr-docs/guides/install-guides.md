@@ -2,7 +2,7 @@
 author: davepinch
 description: In this step of the setup process, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: davepinch
-ms.date: 11/09/2023
+ms.date: 02/27/2024
 ms.topic: how-to
 title: Install the Dynamics 365 Guides solution 
 ms.reviewer: v-wendysmith
@@ -18,7 +18,7 @@ If you have a trial environment you want to convert to a production environment,
 ## Prerequisites
 
 - [System Administrator role](/power-platform/admin/database-security) in Power Platform admin center.
-- Assigned Dynamics 365 Guides license with Power Apps or a Power Apps license.
+- Assigned Dynamics 365 Guides license with a license that [allows environment creation](/power-platform/admin/create-environment#who-can-create-environments) such as Power Apps.
 
 ## Set up a production environment
 
