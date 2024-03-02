@@ -37,7 +37,7 @@ A HoloLens user can scan a QR code (for example, to go directly to a specific UR
 
 ## How do I stream my HoloLens view to a PC using Miracast?
 
-The Connect app for wireless projection using Miracast is no longer installed by default, but is available as an optional feature. To install the app, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app.
+The Connect app for wireless projection using Miracast is no longer installed by default, but is available as an optional feature. To add the feature, select **Settings** > __System__ > **Optional features** > **Add a feature**, and then add the Wireless Display feature.
 
 ## I see a message saying I have no internet connection
 
@@ -114,12 +114,12 @@ There are two ways to get to the HoloLens Feedback Hub application to report a b
 
 1. In the **Choose a category** section, select **Apps** and **Microsoft Remote Assist**. To select an item in the drop-down menu, select the menu.
 
-   - If you're using HoloLens, scroll by gazing at the content of the app window. Tap and hold and then move your hand slightly upwards or downwards to scroll the content.
+- If you're using HoloLens, scroll by gazing at the content of the app window. Tap and hold and then move your hand slightly upwards or downwards to scroll the content.
 
-   - If you're using HoloLens 2, scroll by placing your finger on the drop-down menu and move your finger up and down, as you would on a touch screen device.
+- If you're using HoloLens 2, scroll by placing your finger on the drop-down menu and move your finger up and down, as you would on a touch screen device.
 
     ![Screenshot showing the Choose a category section of the Feedback Hub.](media/RAHL_FeedbackHubChooseCategory.png)
-
+   
 1. In the **Find similar feedback** section, select **Make new bug**.
 
 1. In the **Additional details** section:
