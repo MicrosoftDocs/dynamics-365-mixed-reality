@@ -2,7 +2,7 @@
 author: annitachow
 ms.author: anchow
 description: Learn how to package a guide and its content and share it with others in Dynamics 365 Guides. 
-ms.date: 03/01/2024
+ms.date: 03/04/2024
 ms.topic: how-to
 title: Package a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -24,9 +24,9 @@ Packaging a guide allows authors to create a self-contained, read-only file that
 - Animated anchors aren't supported
 - Offline mode isn't supported
 
-## Supported across versions
+## Support across versions
 
-A packaged guide is supported in future versions of the client applications, without the need to re-package it again after updating the versions. For example, a guide is packaged using version 9.0. Users can still open the packaged guide in future client versions such as 9.1 or 10.0. However, if a guide is packaged using a PC app version higher than the HoloLens app version the user tries to open it with, that guide won't load. For example, a guide is packaged using PC app version 9.2. That guide won't load on HoloLens app version 9.1. The user must update their version to the latest.
+A packaged guide is supported in future versions of the client applications, without the need to repackage it again after updating the versions. For example, if a guide is packaged using version 9.0, users can still open the packaged guide in future client versions such as 9.1 or 10.0. However, if a guide is packaged using a PC app version higher than the HoloLens app version of the user trying to open it, that guide won't open. For example, if a guide is packaged using PC app version 9.2, that guide won't open on HoloLens app version 9.1. The user must update their version.
 
 ## Package a guide in the PC app
 
@@ -87,7 +87,7 @@ Download a packaged guide to share it with others.
 
 ## Upload a packaged guide in the model-driven app
 
-If you have received a packaged guide and you want to make it available for viewing in a HoloLens, upload the packaged guide. If you work in multiple environments, select the environment in which you want the packaged guide available for viewing.
+If you receive a packaged guide and want to make it available for viewing in a HoloLens, upload the packaged guide. If you work in multiple environments, select the environment in which you want the packaged guide available for viewing.
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
