@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. When you assign an Operator or Author role, that role automatically grants the user access to all guides in the environment.
 
-The Restricted Author and Restricted Operator roles provide an extra layer of control by limiting access to guides. Users who are assigned the Restricted Author and Restricted Operator roles **do not** inherit access to any guides or guide content (3D models, images, or videos) created in the environments that they're permitted to access.
+The Restricted Author and Restricted Operator roles provide an extra layer of control by limiting access to guides. Users who are assigned the Restricted Author and Restricted Operator roles **do not** inherit access to any guides or guide content (3D objects, images, or videos) created in the environments that they're permitted to access.
 
 The following table describes the privileges that each role grants. All users must have the **Basic User** role assigned to them.
 

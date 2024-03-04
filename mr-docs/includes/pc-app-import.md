@@ -1,6 +1,6 @@
 ### Import a file by using a drag-and-drop operation
 
-1. Open Windows File Explorer, and go to the folder that contains the 3D models, images, or videos that you want to import.
+1. Open Windows File Explorer, and go to the folder that contains the 3D objects, images, or videos that you want to import.
 
 1. In the PC app on the right side of the page, select the **My files** tab.
 

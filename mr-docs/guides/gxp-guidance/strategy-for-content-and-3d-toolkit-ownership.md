@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Content and toolkit ownership strategy
 
-When guides are authored, assets such as images, videos, and 3D objects are at the author's disposal. A toolkit that is pre-installed includes standard objects, such as pointers and arrows. All other content, such as 3D models of machine parts and approved company logos, is provided by your organization or its suppliers.
+When guides are authored, assets such as images, videos, and 3D objects are at the author's disposal. A toolkit that is pre-installed includes standard objects, such as pointers and arrows. All other content, such as 3D objects of machine parts and approved company logos, is provided by your organization or its suppliers.
 
 During the implementation process, you must consider how you want to distribute ownership of, and therefore access to, content in Dynamics 365 Guides. This article uses the objects in the built-in toolkit as an example.
 

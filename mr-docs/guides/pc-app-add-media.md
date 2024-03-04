@@ -2,7 +2,7 @@
 author: annitachow
 ms.author: anchow
 description: Learn how to add an image or video to a step in the Microsoft Dynamics 365 Guides PC app to help operators with a complex step.
-ms.date: 02/20/2024
+ms.date: 02/22/2024
 ms.topic: how-to
 title: Add an image or video to a step in the Dynamics 365 Guides PC app
 ms.reviewer: mhart
@@ -55,7 +55,7 @@ When you add a video to a step, the thumbnail for the video is automatically cre
 ## Next steps
 
 - [Step Editor overview](pc-app-step-editor-overview.md)
-- [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
+- [Add a 3D object from the toolkit](pc-app-add-3D-model.md)
 - [Add a 3D part](pc-app-add-3D-part.md)
 - [Add a website or Power Apps link](pc-app-website-powerapps-link.md)
 - [How to make a great mixed-reality guide](great-guide.md)

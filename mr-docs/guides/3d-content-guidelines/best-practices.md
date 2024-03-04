@@ -1,28 +1,28 @@
 ---
 author: RobertButterworthMS
-description: Learn about best practices for converting and optimizing real-time 3D models for use with Dynamics 365 mixed-reality applications
+description: Learn about best practices for converting and optimizing real-time 3D objects for use with Dynamics 365 mixed-reality applications
 ms.author: robutter
 ms.date: 10/01/2019
 ms.topic: article
-title: Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 mixed-reality apps
+title: Best practices for converting and optimizing real-time 3D objects for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
 ---
 
-# Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
+# Best practices for converting and optimizing real-time 3D objects for use in Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
 
-This topic covers best practices for converting and optimizing 3D models to work with Dynamics 365 Guides and for apps created in Power Apps that include mixed-reality components.
+This topic covers best practices for converting and optimizing 3D objects to work with Dynamics 365 Guides and for apps created in Power Apps that include mixed-reality components.
 
 ## Reduce materials and surfacing
 
-- Depending on the 3D model source and how you want to present the content, you might want to use the full capabilities of a physically based rendering (PBR) system. PBR systems allow for colors, roughness, and bumpiness to be visually represented by creating texture maps as opposed to having a multitude of different materials and surface complexities in the 3D model.
+- Depending on the 3D object source and how you want to present the content, you might want to use the full capabilities of a physically based rendering (PBR) system. PBR systems allow for colors, roughness, and bumpiness to be visually represented by creating texture maps as opposed to having a multitude of different materials and surface complexities in the 3D object.
 
 - If the asset just needs to be present and does not need the details provided by a PBR system, a significant increase in performance can be gained by applying only a single color. This leaves out extra texture data and surface information, like multiple colors, reflections, and bumpiness.
 
    > [!div class="mx-imgBorder"]
    > ![Single color.](media/PBR.PNG "Single color") 
 
-   **A.**	High performance single color 3D model with no PBR system<br>
-   **B.**	3D model using the PBR system for higher-quality representation
+   **A.**	High performance single color 3D object with no PBR system<br>
+   **B.**	3D object using the PBR system for higher-quality representation
 
 ## Reduce textures
 
@@ -42,7 +42,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 
 ## Remove hidden and unused data
 
-- Be sure to remove any data that’s not required to represent your 3D models. Extra nodes, meshes, materials, and textures can add up quickly. For example, in the following 3D model, removing any hidden motor parts lowers the triangle count and simplifies the hierarchy, resulting in a better performing 3D model.
+- Be sure to remove any data that’s not required to represent your 3D objects. Extra nodes, meshes, materials, and textures can add up quickly. For example, in the following 3D object, removing any hidden motor parts lowers the triangle count and simplifies the hierarchy, resulting in a better performing 3D object.
 
    > [!div class="mx-imgBorder"]
    > ![Remove hidden data.](media/remove-hidden-data.PNG "Remove hidden data") 
@@ -60,7 +60,7 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Reduce triangles.](media/reduce-triangles.PNG "Reduce triangles") 
 
-   **A.**	Native CAD 3D model<br>
+   **A.**	Native CAD 3D object<br>
    **B.**	Reduced triangle count polygonal model with normal map<br>
    **C.**	Optimized model with normal map
 
@@ -115,8 +115,8 @@ This topic covers best practices for converting and optimizing 3D models to work
 	 
    *Face normals visualized in [Blender](https://aka.ms/blender2.8).*
 
-   **A.**	3D model with normal flipped<br>
-   **B.**	3D model with fixed normal
+   **A.**	3D object with normal flipped<br>
+   **B.**	3D object with fixed normal
 
 ## Conflicting tangent basis
 
@@ -127,7 +127,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 
    *Tangent basis visualized in [Autodesk Maya](https://aka.ms/autodeskMaya).*
 
-   **A.**	Normal map baked from a 3D model with a normal-flipped screw<br>
+   **A.**	Normal map baked from a 3D object with a normal-flipped screw<br>
    **B.**	The visible result of baking with a flipped normal object
 
 - If you don’t export tangents with your model, glTF and the real-time renderer will assume right-handedness.
@@ -137,11 +137,11 @@ This topic covers best practices for converting and optimizing 3D models to work
 ### See also
 
 - [Microsoft Office 3D content guidelines](https://aka.ms/Office3Dcontent)
-- [Overview of preparing 3D models](index.md)
-- [Convert 3D models](convert-models.md)
-- [Optimize 3D models](optimize-models.md)
-- [Review a 3D model](review-3d-model.md)
-- [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
+- [Overview of preparing 3D objects](index.md)
+- [Convert 3D objects](convert-models.md)
+- [Optimize 3D objects](optimize-models.md)
+- [Review a 3D object](review-3d-model.md)
+- [Tutorials for converting and optimizing 3D objects](tutorials-overview.md)
 
 
 

@@ -2,7 +2,7 @@
 author: davepinch
 description: Determine whether your Dynamics 365 Guides solution is compatible with the apps.
 ms.author: davepinch
-ms.date: 12/19/2023
+ms.date: 02/27/2024
 ms.topic: conceptual
 title: Compatibility between Dynamics 365 Guides solution and apps 
 ms.reviewer: v-wendysmith
@@ -20,7 +20,7 @@ To find the app and solution versions that you're using, in the PC app, select t
 ![Version numbers on the About page.](media/about-command.PNG "Version numbers on the About page")
 
 > [!IMPORTANT]
-> HoloLens (1st gen) has entered Long Term Servicing State and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
+> [HoloLens (1st gen) has entered Long Term Servicing State](/hololens/hololens1-release-notes#hololens-1st-gen-long-term-servicing) and is no longer supported on the latest versions of Dynamics 365 Guides. Customers on HoloLens (1st gen) can continue using the last supported app version (600.2103.19001) released on April 1, 2021. This version of the app is compatible with all 500 solution versions up to and including 600.0.0.1, also released on April 1, 2021. To continue using HoloLens (1st gen), existing customers should not upgrade to a solution version later than 600.0.0.1. Solution version 600.0.0.1 is no longer available for download for new HoloLens 1 customers.
 
 ## App/solution compatibility
 
@@ -29,6 +29,7 @@ To find the app and solution versions that you're using, in the PC app, select t
 
 | PC and HoloLens app version | Release date | Compatible Guides Dataverse solution versions |HoloLens version(s) supported|
 |-----------------------------|--------------|--------------------------------------------------|--------------------|
+| 902.2402.16001.0 | February 27, 2024 | 900.2.0.4, 900.1.0.0, 900.0.1.1, 900.0.0.1 |HoloLens 2 only|
 | 901.2312.16001.0 (PC appp only) | December 20, 2023 | 900.1.0.0, 900.0.1.1, 900.0.0.1 |HoloLens 2 only|
 | 901.2311.28001.0 | December 5, 2023 | 900.1.0.0, 900.0.1.1, 900.0.0.1 |HoloLens 2 only|
 | 900.2311.2001.0 | November 6, 2023 | 900.0.1.1, 900.0.0.1, 800.6.0.1, 800.5.0.1, 800.4.0.1, 800.3.0.1, 800.2.0.0, 800.1.0.1, 800.0.0.1 |HoloLens 2 only|

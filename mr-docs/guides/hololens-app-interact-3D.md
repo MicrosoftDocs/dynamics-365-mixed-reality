@@ -24,7 +24,7 @@ If you want operators to explore a 3D part, use the HoloLens app to place it in 
 1. (Optional) Enable **Interactable Ghost** to give the operator a persistent hint for putting the object back into the correct position.
 
     > [!NOTE]
-    > The **Interactable Ghost** option increases the complexity of the step. To learn how you can reduce complexity, go to [Optimize your 3D models to use with Guides and Power Apps](/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models).
+    > The **Interactable Ghost** option increases the complexity of the step. To learn how you can reduce complexity, go to [Optimize your 3D objects to use with Guides and Power Apps](/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models).
 
 To learn how operators work with interactable objects, go to [Interact with holograms in the Guides HoloLens app](operator-holograms.md).
 

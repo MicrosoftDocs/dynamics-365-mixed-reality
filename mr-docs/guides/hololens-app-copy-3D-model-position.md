@@ -1,20 +1,20 @@
 ---
 author: davepinch
-description: Learn how to copy a 3D model's position (orientation and scale) in the Dynamics 365 Guides HoloLens app
+description: Learn how to copy a 3D object's position (orientation and scale) in the Dynamics 365 Guides HoloLens app
 ms.author: davepinch
 ms.date: 11/08/2021
 ms.topic: article
-title: Copy a 3D model's position in the Dynamics 365 Guides HoloLens app
+title: Copy a 3D object's position in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
-# Copy a 3D model's position in the Dynamics 365 Guides HoloLens app
+# Copy a 3D object's position in the Dynamics 365 Guides HoloLens app
 
-When working with the Microsoft Dynamics 365 Guides HoloLens app, sometimes you might want to duplicate a 3D model and keep the same position, orientation, and scale for 
+When working with the Microsoft Dynamics 365 Guides HoloLens app, sometimes you might want to duplicate a 3D object and keep the same position, orientation, and scale for 
 different steps of a guide. This is especailly useful for fully digital guides where instructions are placed on top of the holographic versions of a machine that must be 
 present and identical for several steps.
 
-## Replicate the 3D position properties (position, orientation, and scale) of a 3D model
+## Replicate the 3D position properties (position, orientation, and scale) of a 3D object
 
 1. Select the hologram that has the position, orientation, and scale that you want to copy.
 
@@ -32,11 +32,11 @@ present and identical for several steps.
 5. Select the **Edit Hologram** button again, and then select **Paste 3D position**.
  
 > [!TIP]
-> You can also use voice commands (say **copy 3D position** and **paste 3D position**) to copy a 3D model's position. [See a full list of voice commands that you can use in the HoloLens app](voice-commands.md).
+> You can also use voice commands (say **copy 3D position** and **paste 3D position**) to copy a 3D object's position. [See a full list of voice commands that you can use in the HoloLens app](voice-commands.md).
 
 ### Using Copy 3D position to reconstruct CAD assemblies
 
-The reference point used by **Copy 3D position** is the pivot point of the object, which might be different from the center of the transparent white-bounding sphere shown for selection and movement purposes. This enables you to rapidly reconstruct Computer-aided Design (CAD) assemblies that you import into Dynamics 365 Guides as separate models and that share the same pivot point. After importing, position, orient, and scale one of the assembly models, and then copy/paste the 3D position onto the other assembly models to reconstruct the whole CAD assembly very quickly. 
+The reference point used by **Copy 3D position** is the pivot point of the object, which might be different from the center of the transparent white-bounding sphere shown for selection and movement purposes. This enables you to rapidly reconstruct Computer-aided Design (CAD) assemblies that you import into Dynamics 365 Guides as separate objects and that share the same pivot point. After importing, position, orient, and scale one of the assembly objects, and then copy/paste the 3D position onto the other assembly objects to reconstruct the whole CAD assembly very quickly. 
 
 ## What's next?
 
@@ -44,6 +44,6 @@ The reference point used by **Copy 3D position** is the pivot point of the objec
 - [Place and manipulate holograms](hololens-app-place-holograms.md)
 - [Add a dotted line for a focus area](hololens-app-dotted-line.md)
 - [Use styles for emphasis](hololens-app-styles.md)
-- [Duplicate a 3D model](hololens-app-duplicate-model.md)
+- [Duplicate a 3D object](hololens-app-duplicate-model.md)
 - [Change animation options](hololens-app-animations.md)
 - [Create a trigger for step navigation](hololens-app-trigger.md)

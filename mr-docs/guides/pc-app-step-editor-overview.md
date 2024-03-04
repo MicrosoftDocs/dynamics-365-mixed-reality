@@ -1,7 +1,7 @@
 ---
 author: davepinch
 ms.author: davepinch
-description: Learn about using the Step Editor in the Microsoft Dynamics 365 Guides PC app to add 3D models, 3D parts, images, videos, website links, and Power Apps links.
+description: Learn about using the Step Editor in the Microsoft Dynamics 365 Guides PC app to add 3D objects, 3D parts, images, videos, website links, and Power Apps links.
 ms.date: 11/08/2021
 ms.topic: overview
 title: Overview of the Step Editor in the Dynamics 365 Guides PC app
@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 Steps are the central building block for creating a guide in Dynamics 365 Guides. A step is a short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
 
-After you create the [structure for your guide in the **Outline** page](structure-guide.md), you use the Step Editor to add instructional text and 3D models or media to support those steps. The instructions that you create in the what-you-see-is-what-you-get (WYSIWYG) Step Editor match what the operator sees in the Step card on HoloLens. The following illustration shows the Step Editor in the PC app (A) and the Step card that the user sees on HoloLens (B).
+After you create the [structure for your guide in the **Outline** page](structure-guide.md), you use the Step Editor to add instructional text and 3D objects or media to support those steps. The instructions that you create in the what-you-see-is-what-you-get (WYSIWYG) Step Editor match what the operator sees in the Step card on HoloLens. The following illustration shows the Step Editor in the PC app (A) and the Step card that the user sees on HoloLens (B).
 
 ![Step Editor and Step card compared.](media/author-operator-compare.jpg "Step Editor and Step card compared")
 
@@ -36,8 +36,8 @@ You can add 3D content, media, or website links to help operators complete a ste
 
 | Content type | Description | Example |
 |---|---|---|
-| [3D models from the toolkit](pc-app-add-3D-model.md) | Ready-to-use 3D models, such as numbers, arrows, and hands | A holographic arrow that helps operators find a focus area |
-| [3D part](pc-app-add-3D-part.md) | 3D models that are specific to your company | A 3D part hologram that helps operators find a 3D part in the real world |
+| [3D objects from the toolkit](pc-app-add-3D-model.md) | Ready-to-use 3D objects, such as numbers, arrows, and hands | A holographic arrow that helps operators find a focus area |
+| [3D part](pc-app-add-3D-part.md) | 3D objects that are specific to your company | A 3D part hologram that helps operators find a 3D part in the real world |
 | [Image](pc-app-add-media.md) | A 2D image file | A diagram that helps operators complete a complex step |
 | [Video](pc-app-add-media.md) | A video file | A short video that helps operators complete a complex step |
 | [Website link](pc-app-website-powerapps-link.md) | A link to an external website | A link to a parts inventory system |
@@ -75,7 +75,7 @@ Use the buttons in the navigation pane on the left side of the **Step Editor** p
 
 ## What's next?
 
-- [Add a 3D model from the toolkit](pc-app-add-3D-model.md)
+- [Add a 3D object from the toolkit](pc-app-add-3D-model.md)
 - [Add a 3D part](pc-app-add-3D-part.md)
 - [Add an image or video file](pc-app-add-media.md)
 - [Add a website or Power Apps link](pc-app-website-powerapps-link.md)
