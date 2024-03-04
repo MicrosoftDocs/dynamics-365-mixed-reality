@@ -52,7 +52,7 @@ You can share a guide with other users if you're an administrator or if you have
    - For operators, select **Read** permissions (and **Append to** if you want to [collect operations data](../guides/analytics-overview.md)).
    - For authors, select **Read**, **Write**, **Append**, and **Append to** permissions.
 
-     :::image type="content" source="/media/manage-share-access.jpg" alt-text="Screenshot showing Manage share access to select permissions to share a guide.":::
+     :::image type="content" source="media/manage-share-access.jpg" alt-text="Screenshot showing Manage share access to select permissions to share a guide.":::
 
 1. Select **Share**.
 
@@ -80,7 +80,7 @@ You can share a guide with other users if you're an administrator or if you have
    - For operators, select **Read** permissions (and **Append to** if you want to [collect operations data](analytics-overview.md)).
    - For authors, select **Read**, **Write**, **Append**, and **Append to** permissions.
 
-     :::image type="content" source="/media/manage-share-access.jpg" alt-text="Screenshot showing Manage share access to select permissions to share content.":::
+     :::image type="content" source="media/manage-share-access.jpg" alt-text="Screenshot showing Manage share access to select permissions to share content.":::
 
 1. Select **Share**.
 
