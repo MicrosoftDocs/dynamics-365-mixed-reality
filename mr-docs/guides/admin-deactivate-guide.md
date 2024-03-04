@@ -11,9 +11,9 @@ ms.custom: bap-template
 
 # Activate, deactivate, or delete a guide in Dynamics 365 Guides
 
-If a [guide has been deactivated](pc-app-deactivate-guide.md) in Guides, you can reactivate it. When you reactivate a guide, it immediately becomes available for authors to open or edit in the PC app. You can deactivate a guide or permanently delete it if you're sure that you no longer need it.
+If a [guide is deactivated](pc-app-deactivate-guide.md) in Guides, you can reactivate it. When you reactivate a guide, it immediately becomes available for authors to open or edit in the PC app. You can deactivate a guide or permanently delete it if you're sure that you no longer need it.
 
-If a [packaged guide has been deactivated](package-a-guide.md#manage-a-packaged-guide-in-the-pc-app) in Guides, you can reactivate it. When you reactivate a packaged guide, it immediately becomes available for HoloLens users to view or for [authors to download it](package-a-guide.md#download-a-packaged-guide-in-the-model-driven-app). It can't be opened or edited in the PC app.
+If a [packaged guide is deactivated](package-a-guide.md#manage-a-packaged-guide-in-the-pc-app) in Guides, you can reactivate it. When you reactivate a packaged guide, it immediately becomes available for HoloLens users to view or for [authors to download it](package-a-guide.md#download-a-packaged-guide-in-the-model-driven-app). It can't be opened or edited in the PC app.
 
 You can also activate, deactivate, or delete specific guide content (video, image, or 3D part). Only admins can delete guides and guide content.
 
@@ -55,7 +55,7 @@ A [packaged guide](package-a-guide.md) can't be opened in the model-driven app. 
 
 1. Confirm your action.
 
-## Activate, deactivate or delete specific guide content (video, image, or 3D part)
+## Activate, deactivate, or delete specific guide content (video, image, or 3D part)
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 

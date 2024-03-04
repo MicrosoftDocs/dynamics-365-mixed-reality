@@ -62,7 +62,7 @@ You can share a guide with other users if you're an administrator or if you have
 
 1. Select the **More (ellipsis ...)** button, and then select **Share**.
 
-     :::image type="content" source="media/mda-all-content-tab.PNG" alt-text="Screenshot of All Content tab in the Guides model-driven app with video selected and Share command highlighted.":::
+   :::image type="content" source="media/mda-all-content-tab.PNG" alt-text="Screenshot of All Content tab in the Guides model-driven app with video selected and Share command highlighted.":::
 
 [!INCLUDE [share-records](../includes/share-records.md)]
 

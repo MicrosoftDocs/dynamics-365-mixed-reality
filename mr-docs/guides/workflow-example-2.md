@@ -35,8 +35,6 @@ In this example you'll learn how to:
 
 1. Select **Create**, and then select **Instant cloud flow** to create a new flow.
 
-    ![Power Automate screen with Instant cloud flow selected.](media/workflow2-create-instant-cloud-flow.PNG "Power Automate screen with Instant cloud flow selected")
-
     > [!NOTE]
     > You can also set this flow up to trigger automatically, for example, when a record is updated.
 
@@ -44,9 +42,7 @@ In this example you'll learn how to:
 
     ![Power Automate screen with Manually trigger a flow selected.](media/workflow2-manually-trigger-flow.PNG "Power Automate screen with Manually trigger a flow selected")
 
-1. Select **New step**, and then select the **Add a new row** action.
-
-    ![Add a new row action selected.](media/workflow2-add-new-row-selection.PNG "Add a new row action selected")
+1. Select **+** > **Add an action**, and then select the **Add a new row** action.
 
     > [!TIP]
     > You can filter the list of Microsoft Dataverse actions by selecting the **Microsoft Dataverse** button.

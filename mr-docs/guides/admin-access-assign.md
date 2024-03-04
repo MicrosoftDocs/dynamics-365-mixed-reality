@@ -24,7 +24,7 @@ When an Author or Admin change the owner of a folder, any guides, subfolders, an
 
 1. In the left pane, select **Folders** to view the list of folders in the environment.
 
-1. Select the desired folder, and then at the top of the screen, select **Assign** to display the folder information.
+1. Select one or more folders, and then at the top of the screen, select **Assign**.
 
    :::image type="content" source="media/folders-assign.PNG" alt-text="Screenshot of a folder with the Assign command highlighted.":::
 
@@ -40,9 +40,7 @@ Change the owner of a guide to a user or an owner team.
 
 1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-1. Select the guide that you want to assign. You can select multiple guides.
-
-1. Select **Assign**.
+1. Select one or more guides, and then at the top of the screen, select **Assign**.
 
    :::image type="content" source="media/guides-assign.PNG" alt-text="Screenshot of a guide with the Assign command highlighted.":::
 
