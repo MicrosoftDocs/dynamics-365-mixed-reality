@@ -2,7 +2,7 @@
 author: davepinch
 description: Guides model-driven app overview
 ms.author: davepinch
-ms.date: 06/27/2023
+ms.date: 02/22/2024
 ms.topic: overview
 title: Guides model-driven app overview
 ms.reviewer: v-wendysmith
@@ -28,6 +28,8 @@ If you're an admin or an author for Dynamics 365 Guides, you can use the Guides 
 - [Create folders to organize your guides](admin-create-folders.md)
 
 - [Create workflows in Microsoft Power Apps to automate Dynamics 365 Guides processes](workflow-examples-overview.md)
+
+- [Enable or disable calling](admin-enable-calls.md)
 
 - [Fix a corrupted guide](corrupted-guide.md)
 

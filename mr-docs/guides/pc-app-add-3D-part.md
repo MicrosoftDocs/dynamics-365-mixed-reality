@@ -13,15 +13,15 @@ ms.custom: bap-template
 
 You can add 3D parts (objects specific to your company) in Microsoft Dynamics 365 Guides by importing them. A 3D part hologram helps operators find a 3D part in the real world. You can use a combination of third-party tools to prepare your 3D computer-aided design (CAD) objects. For more information, see [Overview of preparing 3D objects](./3d-content-guidelines/overview.md).
 
-1. On the right side of the page, select the **My files** tab.
+1. Open a step in a guide and select the **My files** tab.
 
-    ![Screenshot of the right-side pane with the My files tab highlighted.](media/library-panel.png "Screenshot of the right-side pane with the My files tab highlighted")
+   :::image type="content" source="media/library-panel.png" alt-text="Screenshot of the right-side pane with the My files tab highlighted.":::
 
    [!INCLUDE [pc-app-filter-sort](../includes/pc-app-filter-sort.md)]
 
 1. Drag the 3D part that you want to one of the **3D parts** boxes.
 
-    ![Dragging a 3D part to a 3D parts box.](media/drag-3D-part.PNG "Dragging a 3D part to a 3D parts box")
+   :::image type="content" source="media/drag-3D-part.PNG" alt-text="Dragging a 3D part to a 3D parts box.":::
 
 ## Import a custom 3D object to use as a 3D part
 
