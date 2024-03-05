@@ -33,20 +33,20 @@
 
 ## Administer Dynamics 365 Guides
 
-### Manage users, roles, ownership and access
+### Manage users and roles
 #### [Add licenses and users to individual users](add-users.md)
 #### [Add licenses, users, and roles to Microsoft Entra groups](admin-assign-role-groups.md) 
 #### [About the Author and Operator roles](admin-role-types.md)
 #### [Assign roles to individual users](assign-role.md)
+### Manage ownership and access
+#### [Guides content management](admin-content-mgmt.md)
+#### [Change ownership of a guide or folder](admin-access-assign.md)
+#### [Share a guide or folder](admin-share-guide.md)
+#### [Package a guide](package-a-guide.md)
+#### [Create an access team](admin-access-teams.md)
+#### [Share the Guides model-driven app](admin-share-guides-hub.md)
+#### [Invite a user as a guest](admin-add-guest-user.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
-#### Manage guides content
-##### [Guides content management](admin-content-mgmt.md)
-##### [Change ownership of a guide or folder](admin-access-assign.md)
-##### [Share a guide or folder](admin-share-guide.md)
-##### [Package a guide](package-a-guide.md)
-##### [Create an access team](admin-access-teams.md)
-##### [Share the Guides model-driven app](admin-share-guides-hub.md)
-##### [Invite a user as a guest](admin-add-guest-user.md)
 ### Protect company information by restricting capabilities
 #### [Overview of restricting capabilities](restricted-mode-overview.md)
 #### [Manage Microsoft Teams policies](admin-teams-policies.md)

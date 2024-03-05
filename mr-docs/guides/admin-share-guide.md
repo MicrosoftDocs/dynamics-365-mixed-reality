@@ -3,7 +3,7 @@ title: Share a guide or folder in Dynamics 365 Guides
 description: Learn how to share a guide or folder in Microsoft Dynamics 365 Guides by using an access team.
 author:  davepinch
 ms.topic: how-to
-ms.date: 08/08/2023
+ms.date: 02/26/2024
 ms.author: davepinch
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -28,7 +28,7 @@ By organizing all guides and assets a user might need into a folder, you can sha
 
 1. Select the desired folder, and then at the top right of the screen, select **Share** > **Copy link**.
 
-    ![Share and copy link screenshot.](media/share-folder.png "Share and copy link screenshot")
+   :::image type="content" source="media/share-folder.png" alt-text="Screenshot showing Share and copy link.":::
 
 1. Share the link with the appropriate users.
 
@@ -43,25 +43,46 @@ You can share a guide with other users if you're an administrator or if you have
 
 1. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
-    ![Check box for specific guide selected.](media/access-teams-19.PNG "Check box for specific guide selected")
+   :::image type="content" source="media/share-guide.png" alt-text="Screenshot showing a selected guide and the Share button highlighted.":::
 
-1. In the **Share records** page, use the search box to search for and select the appropriate team or user name.
+1. On the **Share records** page, use the search box to find and select the appropriate team or user name.
 
 1. Under **Manage share access**, select the team, and then select specific permissions:
 
-   - For operators, select **Read** permissions (and **Append to** if you want to [collect operations data](analytics-overview.md)).
-   - For authors, select **Read**, **Write**, **Append** and **Append to** permissions.
+   - For operators, select **Read** permissions (and **Append to** if you want to [collect operations data](../guides/analytics-overview.md)).
+   - For authors, select **Read**, **Write**, **Append**, and **Append to** permissions.
 
-    ![Screen shot of Manage share section.](media/manage-share-access.jpg "Screen shot of Manage share section")
+     :::image type="content" source="media/manage-share-access.jpg" alt-text="Screenshot showing Manage share access to select permissions to share a guide.":::
 
 1. Select **Share**.
 
    > [!NOTE]
    > When you share a guide, the content (images, videos, and 3D objects) associated with the guide is not automatically shared. To share the contents, go to the next step.
 
-1. To share the contents, go to the **All Content** tab. Select the contents you want to share and then **More (ellipsis ...)** button, and then select **Share**.
+## Share specific content of a guide
 
-   ![Screenshot of All Content tab in the Guides model-driven app.](media/mda-all-content-tab.PNG "Screenshot of All Content tab in the Guides model-driven app") 
+1. [Open the model-driven app](open-model-driven-app.md) in Guides.
+
+1. Find the guide that you want to share and open it.
+
+1. Select the **All Content** tab.
+
+1. Scoll to the content you want to share and select it. You can select more than one item.
+
+1. Select the **More (ellipsis ...)** button, and then select **Share**.
+
+   :::image type="content" source="media/mda-all-content-tab.PNG" alt-text="Screenshot of All Content tab in the Guides model-driven app with video selected and Share command highlighted.":::
+
+1. On the **Share records** page, use the search box to find and select the appropriate team or user name.
+
+1. Under **Manage share access**, select the team, and then select specific permissions:
+
+   - For operators, select **Read** permissions (and **Append to** if you want to [collect operations data](analytics-overview.md)).
+   - For authors, select **Read**, **Write**, **Append**, and **Append to** permissions.
+
+     :::image type="content" source="media/manage-share-access.jpg" alt-text="Screenshot showing Manage share access to select permissions to share content.":::
+
+1. Select **Share**.
 
 ## Next steps
 

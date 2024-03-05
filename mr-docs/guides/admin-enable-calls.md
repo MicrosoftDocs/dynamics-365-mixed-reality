@@ -2,15 +2,16 @@
 author: davepinch
 description: Learn how to enable or disable calling in a Dynamics 365 Guides environment 
 ms.author: davepinch
-ms.date: 04/28/2023
+ms.date: 02/22/2024
 ms.topic: how-to
 title: Enable or disable calling for a Dynamics 365 Guides environment
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Enable or disable calling in a Dynamics 365 Guides environment
 
-Calling in Microsoft Dynamics 365 Guides is enabled by default. When calling is enabled, a Dynamics 365 Guides HoloLens user can make or receive calls with a remote collaborator. The remote collaborator can join a call using Microsoft Teams desktop (PC or Mac) or the Teams mobile app. During the call, the remote collaborator can see everything seen by the Dynamics 365 Guides user, including holograms and the real world behind the holograms.
+Calling in Microsoft Dynamics 365 Guides is enabled by default. When calling is enabled, a Dynamics 365 Guides HoloLens user can make or receive calls with a remote collaborator. The remote collaborator can join a call using Microsoft Teams desktop (PC or Mac) or the Teams mobile app. During the call, the remote collaborator can see everything seen by the Guides user, including holograms and the real world behind the holograms.
 
 If you're an admin for Dynamics 365 Guides, enable or disable calling for users in a specific Dynamics 365 Guides environment. Enabling or disabling calling for a specific environment is useful:
 
@@ -18,37 +19,26 @@ If you're an admin for Dynamics 365 Guides, enable or disable calling for users 
 
 - You don't want HoloLens users to be able to inadvertently reveal proprietary information through a call.
 
-[Learn about licensing requirements and limitations when making calls in Dynamics 365 Guides](requirements.md)
+[Learn about licensing requirements and limitations when making calls in Dynamics 365 Guides](requirements.md).
 
 ## Enable or disable calling
 
-1. Sign in to the environment by using your admin or author credentials.
+1. [Open the model-driven app](open-model-driven-app.md) in Guides.
 
-    > [!TIP]
-    > To find the URL for the environment, select the **Analyze** tab in the PC app. The URL is shown in the **Environment URL** field at the bottom of the page. Copy this URL, and paste it into the address bar of your web browser.
-    >
-    > ![Environment URL field.](media/environment-URL.png "Environment URL field")
+1. On the bottom left side of the screen, select **Main**, and then select **Settings**.
 
-2. In Power Apps, select the **Guides** app tile.
+   :::image type="content" source="media/main-to-settings-area.PNG" alt-text="Screenshot that shows changing from Main to Settings area in the Guides model-driven app.":::
 
-    ![Guides app tile.](media/guides-app-tile.PNG "Guides app tile")
+1. In the left pane, select **Environment**, and then toggle **Enable Calling** on or off for this environment. This action enables or disables the functionality for all configured users signed into that environment. Disabling calling in a Dynamics 365 environment only disables that functionality for Guides and has no impact on that capability in Microsoft Teams.
 
-3. In the left pane, use the area picker at the bottom of the screen to switch the area selection from **Main** to **Settings** to view all settings for the environment.
+   :::image type="content" source="media/enable-calling-mda.PNG" alt-text="Screenshot that shows enable and disable calling toggle in the Guides model-driven app.":::
 
-    ![Settings highlighted in the left pane.](media/admin-enable-calling-settings.JPG "Settings highlighted in left pane")
+If a user tries to start a call while working in an environment where calling is disabled, the user sees the following error message:
 
-4. In the left pane, select **Environment**, and then move the **Enable Calling** slider as needed to enable or disable calling for the environment. This action enables or disables the functionality for all configured users signed into that environment. Disabling calling in a Dynamics 365 environment only disables that functionality for Guides and has no impact on that capability in Microsoft Teams.
+"**Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license.**"
 
-    ![New command highlighted at top of Power Apps screen.](media/admin-enable-calling.JPG "New command highlighted at top of Power Apps screen")
-
-    If a user tries to start a call while working in an environment where calling is disabled, the user will see the following error message:
-
-    "**Your admin may have disabled calling or you may not have a Microsoft Teams or Remote Assist license.**"
-
-    > [!NOTE]
-    > Enabling or disabling calling is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in Microsoft Entra ID](/azure/active-directory/enterprise-users/users-revoke-access).
-
-    [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+> [!NOTE]
+> Enabling or disabling calling is not immediate. A change can take time to propagate. [Learn how to revoke user access in an emergency in Microsoft Entra ID](/azure/active-directory/enterprise-users/users-revoke-access).
 
 ## See also
 

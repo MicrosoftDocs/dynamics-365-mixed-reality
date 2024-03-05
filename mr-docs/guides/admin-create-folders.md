@@ -2,7 +2,7 @@
 author: annitachow
 description: Learn how to organize guides and assets into folders in Dynamics 365 Guides.
 ms.author: anchow
-ms.date: 02/12/2024
+ms.date: 02/28/2024
 ms.topic: how-to
 title: Create folders in Dynamics 365 Guides to organize your guides and assets
 ms.reviewer: v-wendysmith
@@ -14,10 +14,6 @@ ms.custom: bap-template
 Authors can organize their guides as well as the content of their guides by creating folders. A folder can contain guides, subfolders, and assets (3D parts, images, videos, and object anchors). You can create a hierarchy of folders with subfolders. Each folder can be assigned an owner. When you delete a folder, all items in that folder are also deleted.
 
 Folders are a great way to organize guides and their content especially if you have multiple assets that are all associated with a particular guide or set of guides.
-
-## Prerequisites
-
-- Guides Admin or Author role. Only admins can delete guides and guide content.
 
 ## Create a folder
 

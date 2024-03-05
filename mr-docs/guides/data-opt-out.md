@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage data in Microsoft Dataverse, for privacy reasons.
 ms.author: davepinch
-ms.date: 06/23/2023
+ms.date: 02/20/2024
 ms.topic: how-to
 title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 ms.reviewer: v-wendysmith
@@ -17,9 +17,9 @@ Dynamics 365 Guides enable teams to capture usage statistics and detailed time-t
 
 1. [Open the model-driven app](open-model-driven-app.md).
 
-1. On the left side of the screen, select the up arrow next to **Main**, and then select **Settings**.
+1. On the bottom left side of the screen, select **Main**, and then select **Settings**.
 
-    ![User Settings.](media/data-opt-out-user-setting.PNG "User Settings")
+   :::image type="content" source="media/main-to-settings-area.PNG" alt-text="Screenshot that shows changing from Main to Settings area in the Guides model-driven app.":::
 
 1. Select **New** at the top of the screen.
 
@@ -31,7 +31,7 @@ Dynamics 365 Guides enable teams to capture usage statistics and detailed time-t
 
     - **Belongs To:** *[User name]*
 
-    ![Filled-out form.](media/data-opt-out-filled-out-form.PNG "Filled-out-form")
+      :::image type="content" source="media/data-opt-out-filled-out-form.PNG" alt-text="Screenshot of New User Settings showing user settings filled out in the Guides model-driven app.":::
 
 1. Select **Save** at the top of the screen.
 
