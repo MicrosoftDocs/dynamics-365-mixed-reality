@@ -13,7 +13,9 @@ ms.custom: bap-template
 
 Create a seamless workflow for operators by adding a website, email, guide, custom app, or Power Apps link to a **Step** card or a custom **Completion** step card in Dynamics 365 Guides. If you configure an action link with a Uniform Resource Identifier (URI) scheme, the HoloLens opens the corresponding app or page when an operator activates the link.
 
-To add a link to a custom **Completion** step card, first [add the custom completion step](#add-a-custom-completion-step), then choose the type of link to add. To add a link to a **Step** card, choose the type of link to add.
+To add a link to a custom **Completion** step card, first [add the custom completion step](#add-a-custom-completion-step), then choose the type of link to add.
+
+To add a link to a **Step** card, choose the type of link to add:
 
 - [**Link**](#add-a-link-to-a-step): Add a link to a step so that operators can view and interact with information outside the guide. For example, connect a sequence of guides, open a website, open a page of the Settings app, or open a custom app that has been installed on the device.
 - [**Power Apps link**](#add-a-power-apps-link-to-a-step): Add a Power Apps link to a step. [Power Apps](https://products.office.com/business/microsoft-powerapps) provides low-code tools that teams can use to create custom applications to solve unique business workflows. By combining Guides and Power Apps, you can extend Guides capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a link to an interactive quiz app, an app for reordering parts, or an app that provides the latest status on Internet of Things (IoT) sensors.
@@ -23,15 +25,17 @@ To add a link to a custom **Completion** step card, first [add the custom comple
 
 ## Add a custom completion step
 
-The completion step is the final step in a guide. Create a completion step to let the operator know that they're at the end of the guide and can navigate to the custom app or resource of your choice. For example, if you have a custom launching app or landing page for Guides operators, use the completion step to tell them that the guide is complete and they can return to the landing page.
+The completion step is the final step in a guide. Create a custom completion step to let the operator know that they're at the end of the guide and can navigate to the custom app or resource of your choice. For example, if you have a custom launching app or landing page for Guides operators, use the completion step to tell them that the guide is complete and they can return to the landing page.
 
-1. In the PC app, choose one:
+You can't add action links to the default completion step, you must add a custom completion step.  
+
+1. In the PC app, choose one of the following options:
 
    - To add a completion step at the end of a task, go to the task in the **Outline** page and select **Add step** > **Add a completion step**.
 
    - To add a completion step as a next step, go to the last step in the **Step Editor** page and select **Add step** > **Add a completion step**.
 
-1. Choose one:
+1. Choose one of the following options:
 
    - [Add a website, email, guide, or custom app](#add-a-link-to-a-step).
 

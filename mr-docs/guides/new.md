@@ -27,13 +27,9 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 |HoloLens app | 903.x  |
 |Solution|  900.3.x  |
 
-### Bugs fixed and other improvements
+### Feature
 
 - Completion steps can now have a <a href="/dynamics365/mixed-reality/guides/pc-app-website-powerapps-link" target="blank">link to a website, email, guide, custom app, or Power Apps</a>. Operators can complete a guide and easily navigate to another custom resource or continue through their workflow.
-- A new copy API allows developers to programmatically make a copy of a guide in the same environment.
-- <a href="/dynamics365/mixed-reality/guides/pc-app-add-3D-part" target="blank">3D object complexity statistics</a> appear on the object's **Properties** tab in the PC app and a warning displays if a 3D object exceeds the recommended complexity limits.
-- Performance improvements on HoloLens when loading objects in Guides steps.
-- Calls now end when the Guides app is closed or minimized on HoloLens. To keep calls active, disable the <a href="/dynamics365/mixed-reality/guides/change-setting" target="blank">End calls on suspend setting</a> on the HoloLens.
 
 ## February 27, 2024
 
