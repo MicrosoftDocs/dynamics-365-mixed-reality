@@ -2,7 +2,7 @@
 author: davepinch
 description: Get an overview anchoring holograms in Microsoft Dynamics 365 Guides, using a QR code anchor, circular code anchor, or holographic anchor.
 ms.author: davepinch
-ms.date: 09/19/2023
+ms.date: 02/27/2024
 ms.topic: overview
 title: Overview of anchoring your guide to the real world in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
@@ -42,9 +42,6 @@ There are four ways to anchor a guide:
   - Improved alignment accuracy and reliability. 
 
 - **QR code anchor (recommended for small to medium-size objects and spaces)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended for small to medium-size objects and spaces because it's the most accurate method, and you can print the anchor at different sizes. 
-
-  > [!NOTE]
-  > QR code anchoring isn't available on HoloLens 1 devices.
 
 - **Circular code anchor**. When you use a circular code anchor, you align your guide by gazing at a printed circular code anchor that's attached to a physical object in the real world. 
 
