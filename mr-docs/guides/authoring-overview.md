@@ -27,8 +27,8 @@ To author a guide in Microsoft Dynamics 365 Guides, you use two apps:
     > [!TIP]
     > You can use both apps to edit the same guide simultaneously for the fastest workflow. Create the structure and text in the PC app, do the 3D placement in the HoloLens app, and then work back and forth until you have your guide just the way you want it.
 
-    ![Authoring overview.](media/authoring-overview.PNG "Authoring overview")
-
+  ![Authoring overview.](media/authoring-overview.PNG "Authoring overview")
+  
   [!INCLUDE [add-guest-user.md](../includes/add-guest-user.md)]
 
 ## How the PC app and HoloLens app work together
@@ -45,7 +45,7 @@ This message indicates you and another user are editing the same guide on separa
 
 ## How do I stream my HoloLens view to a PC using Miracast?
 
-The Connect app for wireless projection using Miracast is no longer installed by default on the PC, but is available as an optional feature. To install the app on the PC, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app. 
+The Connect app for wireless projection using Miracast is no longer installed by default on the PC, but is available as an optional feature. To add the feature on the PC, select **Settings** > **System** > **Optional features** > **Add a feature**, and then add the Wireless Display feature. 
 
 The Connect app is automatically installed by default on the HoloLens. To initiate sharing from the HoloLens:
 
@@ -54,8 +54,11 @@ From the OS start menu, select **Cast screen** :::image type="icon" source="medi
 ## Next steps
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about PC authoring](https://aka.ms/pcauthor)
+
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the PC app](pc-app-overview.md)
+
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about HoloLens authoring (shows HoloLens 1 version)](https://aka.ms/hololensauthor)
+
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the HoloLens app](hololens-app-overview.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Gestures for authoring and navigating](authoring-gestures-HL2.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [How to make a great guide](great-guide.md)
