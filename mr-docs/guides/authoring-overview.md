@@ -45,7 +45,7 @@ This message indicates you and another user are editing the same guide on separa
 
 ## How do I stream my HoloLens view to a PC using Miracast?
 
-The Connect app for wireless projection using Miracast is no longer installed by default on the PC, but is available as an optional feature. To install the app on the PC, select **Settings** > **Apps** > **Optional features** > **Add a feature**, and then install the Wireless Display app. 
+The Connect app for wireless projection using Miracast is no longer installed by default on the PC, but is available as an optional feature. To add the feature on the PC, select **Settings** > **System** > **Optional features** > **Add a feature**, and then add the Wireless Display feature. 
 
 The Connect app is automatically installed by default on the HoloLens. To initiate sharing from the HoloLens:
 
