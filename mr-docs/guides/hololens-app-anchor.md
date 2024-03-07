@@ -2,10 +2,10 @@
 author: davepinch
 description: Learn how to anchor a guide when you're using the Microsoft Dynamics 365 Guides HoloLens app in Author mode.
 ms.author: davepinch
-ms.date: 11/08/2021
+ms.date: 02/27/2024
 ms.topic: article
 title: Anchor a guide as an author with the Dynamics 365 Guides HoloLens app 
-ms.reviewer: v-brycho
+ms.reviewer: v-wendysmith
 ---
 
 # Anchor a guide in the Dynamics 365 Guides HoloLens app (for authors)
@@ -86,9 +86,6 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 ## Re-anchor a guide
 
 When you anchor your guide, the anchoring information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)]. Therefore, you don't have to re-anchor the guide every time that you open it. However, you can use the **Anchor** button to re-anchor a guide at any time, if you feel that the holograms are out of alignment. For more information, see [Place holograms, add styles, and more](hololens-app-orientation.md)
-
-> [!NOTE]
-> To help guarantee accurate placement of 3D content, you might have to adjust the hardware offset on [!include[pn-hololens](../includes/pn-hololens.md)] 1 devices. For more information, see [How do I address hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for printed anchor alignment](./known-issues.md).
 
 ## What's next?
 
