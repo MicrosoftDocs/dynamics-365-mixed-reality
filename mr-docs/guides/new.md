@@ -23,16 +23,16 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 903.x  |
-|HoloLens app | 903.x  |
-|Solution| 900.2.0.4  |
+|PC app| 903.2403.8001.0  |
+|HoloLens app | 903.2403.8001.0  |
+|Solution| 900.2.0.4*  |
 
 ### Feature
 
-- Completion steps can now have a <a href="/dynamics365/mixed-reality/guides/pc-app-website-powerapps-link" target="blank">link to a website, email, guide, custom app, or Power Apps</a>. Operators can complete a guide and easily navigate to another custom resource or continue through their workflow.
+- Added custom completion steps that can <a href="/dynamics365/mixed-reality/guides/pc-app-website-powerapps-link" target="blank">link to a website, email, guide, custom app, or Power Apps</a>. Operators can complete a guide and easily navigate to another custom resource or continue through their workflow.
 
 > [!NOTE]
-> This release requires an update to the PC and HoloLens app, but not the solution. The solution version hasn't changed.
+> *This release requires an update to the PC and HoloLens app, but not the solution. The solution version hasn't changed.
 
 ## February 27, 2024
 
