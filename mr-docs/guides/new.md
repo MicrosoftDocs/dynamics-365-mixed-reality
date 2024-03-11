@@ -23,8 +23,8 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 903.2403.8001.0  |
-|HoloLens app | 903.2403.8001.0  |
+|PC app| 903.2403.10003.0  |
+|HoloLens app | 903.2403.10003.0  |
 |Solution| 900.2.0.4*  |
 
 ### Feature
