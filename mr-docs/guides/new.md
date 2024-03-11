@@ -2,7 +2,7 @@
 author: davepinch
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 ms.author: davepinch
-ms.date: 03/06/2024
+ms.date: 03/11/2024
 ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -19,7 +19,7 @@ This page provides details about the latest release in the **current wave of fea
 
 If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
-## March 11, 2024
+## March 12, 2024
 
 |Item|Version|
 |-------------------------|--------------------------------|
@@ -29,10 +29,10 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 ### Feature
 
-- Added custom completion steps that can <a href="/dynamics365/mixed-reality/guides/pc-app-website-powerapps-link" target="blank">link to a website, email, guide, custom app, or Power Apps</a>. Operators can complete a guide and easily navigate to another custom resource or continue through their workflow.
+- New custom completion steps that can <a href="/dynamics365/mixed-reality/guides/pc-app-website-powerapps-link" target="blank">link to a website, email, guide, custom app, or Power Apps</a>. Operators can complete a guide and seamlessly navigate to another custom resource or continue through their workflow.
 
 > [!NOTE]
-> *This release requires an update to the PC and HoloLens app, but not the solution. The solution version hasn't changed.
+> *This release requires an update to the PC and HoloLens applications, but not the solution. The solution version 900.2.0.4 is compatible with the latest client applications.
 
 ## February 27, 2024
 
