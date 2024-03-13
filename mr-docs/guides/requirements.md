@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn about the device, licensing, and other requirements for installing and using Microsoft Dynamics 365 Guides.
 ms.author: davepinch
-ms.date: 11/09/2023
+ms.date: 03/12/2024
 ms.topic: conceptual
 title: Device, licensing, and other requirements for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -49,6 +49,8 @@ Review the product requirements for services, apps, and features related to Dyna
 ## Calling features
 
 You must have a Microsoft Teams license to use the calling features in Dynamics 365 Guides. This section describes specific Microsoft Teams requirements and describes limitations for calling features.
+
+Dynamics 365 Guides supports new Teams seamlessly. No migration required. Learn more: [New Microsoft Teams app](https://adoption.microsoft.com/en-us/new-microsoft-teams/).
 
 ### Microsoft Teams requirements
 
