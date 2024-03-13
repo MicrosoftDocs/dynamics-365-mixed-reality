@@ -2,8 +2,8 @@
 author: davepinch
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user with Microsoft Teams desktop for PC or Mac
 ms.author: davepinch
-ms.date: 08/26/2022
-ms.topic: article
+ms.date: 03/12/2024
+ms.topic: conceptual
 title: Collaborate with a Dynamics 365 Remote Assist user with Teams desktop for PC or Mac
 ms.reviewer: v-wendysmith
 ---
@@ -14,7 +14,9 @@ ms.reviewer: v-wendysmith
 
 When you use Microsoft Teams desktop for the PC or Mac, you can collaborate with people using Dynamics 365 Remote Assist on HoloLens (in this article, a "Dynamics 365 Remote Assist HoloLens user") or Dynamics 365 Remote Assist on a mobile device (in this article, a "Dynamics 365 Remote Assist mobile user").  
 
-However, the features you can use to collaborate differ depending on which platform the Dynamics 365 Remote Assist user is using.  
+Dynamics 365 Remote Assist supports new Teams seamlessly. No migration required. Learn more: [New Microsoft Teams app](https://adoption.microsoft.com/en-us/new-microsoft-teams/).
+
+The features you can use to collaborate differ depending on which platform the Dynamics 365 Remote Assist user is using.  
 
 > [!NOTE]
 > At this time, Dynamics 365 Remote Assist does not support holographic annotations in [Teams for Virtualized Desktop Infrastructure (VDI)](/microsoftteams/teams-for-vdi). The Mixed Reality toolbar does not appear for VDI users. 
