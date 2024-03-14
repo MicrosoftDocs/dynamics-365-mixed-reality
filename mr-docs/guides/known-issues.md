@@ -2,17 +2,13 @@
 author: davepinch
 description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: davepinch
-ms.date: 02/27/2024
+ms.date: 03/13/2024
 ms.topic: article
 title: Known issues with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---
 
 # Known issues with Microsoft Dynamics 365 Guides
-
-## A copied guide has warnings on branching steps
-
-In rare cases when using the Copy API feature to copy a guide with branching, the copied guide might show warnings on branching steps, indicating that the responses aren't correctly linked. The warning appears on the step in the **Outline** page and in the **Step Editor**. Open the step in the **Step Editor** and enter the missing information.
 
 ## I can't open a guide because it's corrupted
 
