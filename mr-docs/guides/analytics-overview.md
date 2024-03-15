@@ -26,23 +26,15 @@ For best data capture results after an intermittent internet connection is resto
 
 ## How it works
 
-### 1. Sign in to Dynamics 365 Guides
+- Sign in to Dynamics 365 Guides: Data for all users is automatically stored in the [MR App Session table](#mr-app-session-table).
 
-Data for all users is automatically stored in the [MR App Session table](#mr-app-session-table).
+- Author a guide in the PC or HoloLens app: Data for all authors is automatically stored in the [Guide Author Session table](#guide-author-session-table).
 
-### 2. Author a guide in the PC or HoloLens app
+- Operate a guide: **Next** and **Back** button interactions are recorded to determine the time spent on each step. Operator data is automatically stored in the [Guide Session table](#guide-session-table) and the [Guide Session Step Visit table](#guide-session-step-visit-table).
 
-Data for all authors is automatically stored in the [Guide Author Session table](#guide-author-session-table).
+- Trigger alerts or visualize data: Use Power Platform to analyze and act on your data.
 
-### 3. Operate a guide
-
-**Next** and **Back** button interactions are recorded to determine the time spent on each step. Operator data is automatically stored in the [Guide Session table](#guide-session-table) and the [Guide Session Step Visit table](#guide-session-step-visit-table).
-
-### 4. Trigger alerts or visualize data
-
-Use Power Platform to analyze and act on your data.
-
-![Power Platform example.](media/analytics-alerts-visualize-data-1.PNG "Power Platform example")
+  ![Power Platform example.](media/analytics-alerts-visualize-data-1.PNG "Power Platform example")
 
 > [!NOTE]
 > Guides operations data is intended to help supervisors and managers derive insights regarding operational efficiencies and usage of Dynamics 365 Guides. This feature is not intended for use in making (and should not be used to make) decisions that affect the employment of an employee or group of employees, including compensation, rewards, seniority, or other rights or entitlements. Customers are solely responsible for using Dynamics 365, this feature, and any associated feature or service in compliance with all applicable laws, including laws relating to accessing individual employee analytics and monitoring. Customers are encouraged to have a mechanism in place to inform, and if necessary collect consent from their users that analytics relating to their guides usage is collected.
@@ -92,17 +84,19 @@ Here are some examples of what you can do:
    > [!TIP]
    > When the HoloLens app is suspended manually or due to inactivity, the current step visit ends. A new step visit is created once the app resumes. The app suspension time is not included in the values of the **Step Duration Seconds** column. These step visit durations for a session are summed together and recorded in the Guide Session table’s **Active Session Duration Seconds** column. As a result, the **Active Session Duration Seconds** values do not include any app suspension time and offer a higher quality measurement of operation time than the simple difference between session start and end time stamps.
 
-## Getting started
+## Get started
 
-**Guides model-driven app.** Use the **Active Guide Sessions** view in the Guides model-driven app to inspect guide sessions. To access the model-driven app, sign in to Microsoft Power Apps and go to the **Apps** tab.
+To get started, use one of the following options:
 
-![Guide Sessions view.](media/analytics-data-stored-automatically-2.jpg "Guide Sessions view")
+- [Guides model-driven app](model-driven-app-overview.md). Under **Analytics and Insights**, use the **Active Guide Sessions** view to inspect guide sessions.
 
-Double-clicking on an individual session row in this view provides more details about the session and access to a **Session History** tab that contains information about individual step visits.  
+  ![Guide Sessions view.](media/analytics-data-stored-automatically-2.svg "Guide Sessions view")
 
-![Session History tab.](media/analytics-session-history-tab.PNG "Session History tab")
+  Double-click on an individual session row to see more details about the session and access the **Session History** tab that contains information about individual step visits.  
 
-**Guides Analytics Power BI templates.** You can start analyzing your guide session and step visit data with the [Guides Analytics Power BI templates](analytics-guide.md). For information on setting up Guide Analytics, see [Set up Guides Analytics reports](analytics-ga-setup.md).  
+  ![Session History tab.](media/analytics-session-history-tab.PNG "Session History tab")
+
+- [Guides Analytics Power BI templates](analytics-guide.md). To set up Guide Analytics, see [Set up Guides Analytics reports](analytics-ga-setup.md).  
 
 ## See also
 
