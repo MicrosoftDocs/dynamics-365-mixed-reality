@@ -22,8 +22,6 @@ If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **Po
 
 From the Step card, select the **Power Apps** button. The app is opened in a browser on HoloLens. When you close the browser, you return to the step.
 
-[!INCLUDE [end-calls-suspend](../includes/end-calls-suspend.md)]
-
 ![Power Apps button.](media/website-powerapps-link.jpg "Power Apps button")
 
 ## See also

@@ -17,7 +17,7 @@ You can use direct touch in Microsoft Dynamics 365 Guides to change a setting in
 
 - **Telemetry**: **On** indicates telemetry data is sent to Microsoft to use to improve the product. To prevent Microsoft from collecting any data about your activity, turn off this setting. [Learn more about data opt out](hololens-app-data-opt-out.md).
 
-- **End calls on suspend**: **On** indicates that calls are terminated if the Guides app is suspended during the call. Guides is suspended when Guides is minimized or when another app is started during the call. To ensure a call remains active when Guides is suspended, turn off this setting.
+- **End calls on suspend**: **On** indicates that calls are terminated if the Guides app is suspended during the call. Guides is suspended when Guides is minimized or when another app is started during the call. The default is **Off** which keeps a call  active when Guides is suspended.
 
 - **HoloLens Temperature**: **On** indicates outgoing video quality in calls is automatically reduced if the HoloLens device heats up. [Learn more about temperature adjustment](calling-hololens-thermal-adjusting.md).
 

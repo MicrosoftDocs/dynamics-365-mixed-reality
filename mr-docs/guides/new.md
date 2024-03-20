@@ -19,6 +19,21 @@ This page provides details about the latest release in the **current wave of fea
 
 If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
+## March 22, 2024
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 903.  |
+|HoloLens app | 903.  |
+|Solution| 900.2.0.4*  |
+
+### Bugs fixed and other improvements
+
+- The <a href="/dynamics365/mixed-reality/guides/change-setting" target="blank">End calls on suspend setting</a> default is off. Calls don't end when the Guides app is closed or minimized on HoloLens unless the setting is turned on.
+
+> [!NOTE]
+> *This release requires an update to the PC and HoloLens applications, but not the solution. The solution version 900.2.0.4 is compatible with the latest client applications.
+
 ## March 12, 2024
 
 |Item|Version|
