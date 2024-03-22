@@ -1,67 +1,67 @@
 ---
 author: davepinch
-description: Learn how to set up a Dynamics 365 Remote Assist device license for multiple operators on a single HoloLens device.
+description: Learn how to set up a Dynamics 365 Remote Assist device license for multiple technicians on a single device.
 ms.author: davepinch
-ms.date: 03/15/2024
+ms.date: 03/21/2024
 ms.topic: how-to
-title: Set up a Remote Assist device license for multiple operators
+title: Set up a Remote Assist device license for multiple technicians on a shared device
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
-# Set up a Remote Assist device license for multiple operators
+# Set up a Remote Assist device license for multiple technicians on a shared device
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-A Dynamics 365 Remote Assist device license allows multiple operators to use Dynamics 365 Remote Assist on a single device under a shared user account. Purchase device licenses through your Microsoft account manager or reseller.
+A Dynamics 365 Remote Assist device license allows multiple technicians to use Dynamics 365 Remote Assist on a single device using a shared user account. A common scenario is a device that is shared between technicians in a facility, especially where each technician might not have an individual user account.
+
+You need one device license for each device that will be shared between technicians. To acquire device licenses, contact your partner or reseller.
 
 > [!NOTE]
-> When you set up a shared HoloLens device for multiple operators, data collected is for the device only. No user-specific data is captured. [Learn more about what data is collected in Dynamics 365 Guides](analytics-data-collected.md).
+> When you set up a shared account for multiple technicians, data is collected for the shared account only. Data about a particular technician can’t be analyzed.
 
 ## Prerequisites
 
-- [Deploy Dynamics 365 Remote Assist](deploy-remote-assist.md).
-- Understand assigning licenses, assigning roles, and creating guides for use by operators.
+- Understand managing Microsoft 365 or Microsoft Entra ID user accounts
+- Understand assigning licenses
+- Understand assigning roles if using the Remote Assist model-driven app
 
-## Create a shared account
+## Create a shared account for each device
 
-A Dynamics 365 Remote Assist device license must be assigned to a shared Microsoft Entra ID user account. Since the account is shared by multiple people, you manage credentials and other account details differently than regular accounts.
+For each device, assign a Remote Assist device license to a user account that will be shared between the technicians using that device. The following steps use the Microsoft 365 admin center to set up the shared account. If you prefer to use Microsoft Entra ID instead, see [Assign licenses to users by group membership in Microsoft Entra ID](/entra/identity/users/licensing-groups-assign).
 
 1. [Open the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
-1. [Add users and assign licenses at the same time](/microsoft-365/admin/add-users/add-users).
+1. [Create a new account and assign a device license](deploy-remote-assist.md#add-users-and-assign-licenses) instead of a per-user license.
 
-   > [!TIP]
-   > Since this account is not tied to a specific user, you may want to identify the user by location name or device name.
+   - Since this account isn't tied to a specific user, set a display name that reflects the location name or device name.
 
-1. Select **Let me create the password** check box and clear the **Require this user to change their password when they first sign in** check box and set up a shared password.
+   - Select **Let me create the password** checkbox and clear the **Require this user to change their password when they first sign in** checkbox and set up a shared password.
 
-1. On the **Optional settings** page, leave the **User (no administrator access)** check box selected. A shared operator account should not have administrator privileges.
+   - On the **Optional settings** page, leave the **User (no administrator access)** checkbox selected. A shared account shouldn't have administrator privileges.
 
-## Assign an operator role to the shared account
+1. [Deploy Remote Assist](deploy-remote-assist.md#deploy-dynamics-365-remote-assist).
 
-Assigning a role gives the account permission to use the HoloLens app to view and operate a guide.
+## Assign a OneDrive license (optional)
 
-1. [Assign an operator role](assign-role.md#assign-roles-to-a-user) to the shared account.
+If you want to use OneDrive on the shared device, assign a OneDrive license to the shared user account. All individuals using the shared account have access to the same OneDrive contents.
 
-1. Choose either the **Operator** or **Restricted Operator** role. [Learn about the Author and Operator user roles](admin-role-types.md).
+## Grant environment access (optional)
 
-   The **Restricted Operator** role can access only guides that are explicitly shared or assigned to the account by an author. The **Operator** role has access to all guides and content in the environment.
+If you're using the Remote Assist model-driven app, then [add the shared user account](asset-capture-add-users.md) to the Dynamics 365 environment where the app is installed.
 
-## Grant access to a restricted environment (optional)
+## Deploy the shared account
 
-If you [restricted your Microsoft Dataverse environment by using security groups](admin-security.md), add the shared account to the security group.
+You can deliver the user account to your technicians as you normally would. However, we recommend that you prepare the device and streamline access to Remote Assist. You can also configure the device with a PIN, so you don’t have to share the account password.
 
-## Test the device license
+1. Sign into the device with the shared account. If necessary, update the password.
 
-Test the device license by operating a guide on the HoloLens with the shared account. The test also validates your password and optionally caches the credentials for use by your operators.
+1. Set a PIN so technicians can enter a PIN instead of a password.
 
-1. If you need to create a test guide, [sign into the PC app with an author or admin account](install-sign-in-pc-app.md#sign-in-to-the-app) so you can create a guide. For quick testing, [anchor the guide using a holographic anchor](pc-app-anchor-holographic.md) since this type of anchor doesn’t require a QR code printout.
+1. Sign into Remote Assist and [test a call with another Teams user](making-taking-calls-hololens.md).
 
-1. Make sure your shared account has access to the test guide. This should happen automatically if you assigned the **Operator** role to the shared account. Otherwise [assign](admin-access-assign.md) or [share](admin-access-teams.md) the guide.
+1. If you're using OneDrive, confirm the ability to [take a picture and save to OneDrive](take-snapshot-save-booking-hololens.md).
 
-1. Put on your HoloLens and [sign in to the Dynamics 365 Remote Assist](hololens-app-install-sign-in.md) using the shared operator account.
+1. If you're using the model-driven app, [confirm calls are recorded](calls-dashboard.md). Calls are recorded from the shared user account, not from the individual using the shared account.
 
-1. Since this is the first time using the shared account, you may get prompted to reset the password (depending on how you set up the account). Respond to any prompts, and then [find and open the guide](find-guide.md).
-
-1. When the guide opens, you'll be prompted to set the holographic anchor. Your shared operator account is set up.
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
