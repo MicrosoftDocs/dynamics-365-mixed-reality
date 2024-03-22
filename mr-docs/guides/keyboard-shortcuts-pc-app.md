@@ -2,10 +2,11 @@
 author: davepinch
 description: Learn about the keyboard shortcuts for the Dynamics 365 Guides PC app.
 ms.author: davepinch
-ms.date: 04/06/2020
-ms.topic: article
+ms.date: 03/21/2024
+ms.topic: conceptual
 title: Keyboard shortcuts for the Dynamics 365 Guides PC app
-ms.reviewer: v-brycho
+ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Keyboard shortcuts for the Dynamics 365 Guides PC app
@@ -22,6 +23,7 @@ You can use any of the following keyboard shortcuts in the Microsoft Dynamics 36
 | Ctrl+Z | Undo the last change to the guide. |
 | Ctrl+Y | Redo the last change to the guide. |
 | Ctrl+F4 | Close the current window. |
+| Shift+Function+F10 | Opens context menu. For selecting individual parts on the **Properties** panel, use **Enter** or the **Context menu** button.
 | Ctrl+Left arrow | On the **Outline** page, if a step is selected, move to the previous step in the task. |
 | Ctrl+Right arrow | On the **Outline** page, if a step is selected, move to the next step in the task.|
 | Ctrl+Up arrow | On the **Outline** page:<ul><li>If a step is selected, move to the last step of the previous task.</li><li>If a task is selected, move to the previous task.</li></ul>|
