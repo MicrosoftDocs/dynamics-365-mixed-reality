@@ -1,1 +1,0 @@
-To end a call if the Guides app is minimized or when another app is launched, [turn on the **End calls on suspend** setting](../guides/change-setting.md).
