@@ -23,7 +23,7 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 903.2403.22002.0 |
+|PC app| 903.2403.10003.0 |
 |HoloLens app | 903.2403.22002.0 |
 |Solution| 900.2.0.4* |
 
@@ -32,7 +32,7 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 - The <a href="/dynamics365/mixed-reality/guides/change-setting" target="blank">End calls on suspend setting</a> default is off. Calls don't end when the Guides app is closed or minimized on HoloLens unless the setting is turned on.
 
 > [!NOTE]
-> *This release requires an update to the PC and HoloLens applications, but not the solution. The solution version 900.2.0.4 is compatible with the latest client applications.
+> *This release requires an update to the HoloLens application only, but not the PC application nor the solution. The solution version 900.2.0.4 is compatible with the latest client applications.
 
 ## March 12, 2024
 
@@ -92,7 +92,7 @@ Version 901.2312.16001.0 fixes an issue in the PC app where the app stops respon
 ### Bugs fixed and other improvements
 
 - <a href="/dynamics365/mixed-reality/guides/calling-photos" target="blank">Take a photo within Guides</a> through the HoloLens and share it with other call participants</a>.
-- Guides dynamically manages loaded content in response to overall system memory usage. This improves device stability when using multiple HoloLens features simultaneously (such as Guides, calling, files, mixed reality capture (MRC), and Edge browser) and allows more file content to display. However, when multiple features are in use at once, anticipate potentially longer loading times when navigating through a guide.
+- Guides dynamically manages loaded content in response to overall system memory usage. This improves device stability when using multiple HoloLens features simultaneously (such as Guides, calling, files, mixed reality capture (MRC), and Microsoft Edge browser) and allows more file content to display. However, when multiple features are in use at once, anticipate potentially longer loading times when navigating through a guide.
 - Guides limits the maximum size of a single texture on a 3D object to 16 megapixels (such as 4K x 4K or equivalent).
 
 > [!IMPORTANT]
