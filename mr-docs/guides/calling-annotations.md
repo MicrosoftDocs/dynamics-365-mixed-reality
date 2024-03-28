@@ -40,52 +40,30 @@ If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a rem
 >
 > Annotations don't work well on black or reflective surfaces.
 
-#### Draw in your space
+1. When you're on a call, use the **Annotate** toobar to place arrows or draw in your space.
 
-1. When you're on a call, select the **Direct ink** button on the **Annotate** toolbar.
+   :::image type="content" source="media/annotate.png" alt-text="Screenshot of Meeting window and Annotate toolbar.":::
 
-   :::image type="content" source="media/calling-annotations-direct-ink.png" alt-text="Screenshot of Meeting window and Annotate toolbar with focus on Direct ink tool.":::
+1. Select from the following annotations.
 
-1. Pinch your index finger and thumb to place ink at the tip of your fingers.
-
-1. Lift your index finger from your thumb to stop placing ink.
-
-#### Draw far away
-
-1. When you're on a call, select the **Far-field ink** button on the **Annotate** toolbar.
-
-   :::image type="content" source="media/calling-annotations-far-field.png" alt-text="Screenshot of Annotate toolbar with focus on Far-field ink tool.":::
-
-1. Use your hand rays to place the cursor where you want to start drawing.
-
-1. Air tap, keep your index finger and thumb together, and then start drawing in your space. Release the air tap to stop drawing.
-
-#### Change ink color
-
-Select the **Color** button on the **Annotate** toolbar, and then when the **Annotate** toolbar flips over, select the color you want. That color will be used the next time that you draw with the **Direct ink** or **Far-field ink** button.
-
-:::image type="content" source="media/calling-annotations-drawing-example.png" alt-text="Screenshot showing ink color choices.":::
-
-#### Erase your annotations
-
-Use the following buttons to erase your annotations.
-
-|Button|Description|
-|---------|----------------------------------------------------|
-|![Screenshot of Erase all button.](media/calling-annotations-teams-erase-all-button.JPG)|Erase all drawings.|
-|![Screenshot of Undo button.](media/calling-annotations-teams-undo-button.JPG)|Undo your most recent action, including the Erase all action.
+   |Button|Description|
+   |---------|----------------------------------------------------|
+   |:::image type="icon" source="../guides/media/calling-annotations-direct-ink.png":::| Direct ink (draw). Pinch your index finger and thumb to place ink at the tip of your fingers. Lift your index finger from your thumb to stop placing ink.|
+   |:::image type="icon" source="../guides/media/calling-annotations-far-field-ink.png":::|Draw far away. Use your hand rays to place the cursor where you want to start drawing. Air tap, keep your index finger and thumb together, and then start drawing. Release the air tap to stop drawing.|
+   |:::image type="icon" source="../guides/media/calling-annotations-color.png":::|Change ink color. Select the **Color** button and then select the color you want. That color will be used the next time that you draw with the Direct ink or Fraw far away button.|
+   |:::image type="icon" source="../guides/media/calling-annotations-teams-undo-button.png":::|Undo the most recent action, including the Erase all action.|
+   |:::image type="icon" source="../guides/media/calling-annotations-teams-erase-all-button.png":::|Erase all drawings.|
 
 ## Use Teams (PC or Mac) to annotate the Guides user's environment
 
-When you join a call in Microsoft Teams, the Dynamics 365 Guides collaborator’s space displays, including holograms, and you can use the **Mixed Reality** toolbar in Teams to add annotations.
+When you join a call in Microsoft Teams (PC or Mac), the Dynamics 365 Guides collaborator’s space displays, including holograms, and you can use the **Mixed Reality** toolbar in Teams to add annotations.
 
 ![Screenshot of the Teams mixed reality toolbar.](media/calling-annotations-teams-desktop-mr-toolbar.JPG)
 
 > [!NOTE]
 > - The toolbar appears only when the video feed for the Dynamics 365 Guides user is active.
-> - The toolbar is disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides is not in the foreground because the user did the Bloom gesture).
+> - The toolbar is disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides is not in the foreground because the user did the Bloom gesture).
 > - The toolbar is disabled if the same Guides user is connected from Teams and Dynamics 365 Guides at the same time, regardless of the device used.
-> - The toolbar is disabled if you haven't turned on the [new Microsoft Teams meeting experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).
 
 ### Start annotations
 
