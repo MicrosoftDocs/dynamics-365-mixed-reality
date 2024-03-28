@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-Once a video call has connected, the Microsoft Teams user will see everything the HoloLens user sees in their spce – including holograms. 
+Once a video call has connected, the Microsoft Teams user will see everything the HoloLens user sees in their space – including holograms. 
 
 Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it will remain anchored in your space until the person who placed the annotation deletes it. Adding annotations to files works the same way.
 

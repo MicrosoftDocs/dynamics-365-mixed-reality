@@ -23,6 +23,8 @@ If you're using Dynamics 365 Guides and you're on a call with another person or 
 
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
 
+<!--- This topic in RA and Field Serive. Field Service topic is annotations-teams-mobile.md --->
+
 ## Use Guides HoloLens to annotate in your environment
 
 ### Prerequisites
