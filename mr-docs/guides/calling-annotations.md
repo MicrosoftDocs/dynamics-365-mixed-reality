@@ -3,7 +3,7 @@ title: Use annotations with Dynamics 365 Guides
 author: davepinch
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen
 ms.author: davepinch
-ms.date: 04/03/2023
+ms.date: 03/27/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -11,22 +11,34 @@ ms.custom: bap-template
 
 # Use annotations with Dynamics 365 Guides
 
-If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams (PC, Mac, or mobile) or Dynamics 365 Remote Assist mobile, you and your remote collaborators can annotate in your environment. Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each other's additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it or leaves the call. Call participants can also annotate [shared files or screens](calling-screen-sharing.md).
+Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each other's additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it or leaves the call.
 
-Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate the environment of the Dynamics 365 Guides user on HoloLens in a one-to-one or group call. Teams mobile users can also annotate, but only for one-to-one calls. Annotations aren't supported for users on Teams Web.
+If you're using Dynamics 365 Guides and you're on a call with another person or group, you can annotate in your environment in different ways. The primary way to use annotations is through Microsoft Teams.
 
-## Prerequisites
+- If you're on a mobile device and have Microsoft Teams, [use Teams mobile to annotate the environment (preview)](#use-teams-mobile-to-annotate-in-a-users-environment-preview). Teams desktop users (PC or Mac) can annotate in a mobile user's space.
+- If you're not on a mobile device but are using a HoloLens, [use your HoloLens to annotate the environment](#use-guides-hololens-to-annotate-in-your-environment).
+- If you're using Teams desktop (PC or Mac) and not a HoloLens, [use Teams desktop to annotate the environment](#use-teams-pc-or-mac-to-annotate-the-guides-users-environment).
+
+## Use Teams mobile to annotate in a user's environment (preview)
+
+[!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
+
+## Use Guides HoloLens to annotate in your environment
+
+### Prerequisites
 
 - [Enable the annotation permission in Dynamics 365 Guides](hololens-permissions.md)
 
-## Use Guides HoloLens to annotate in your environment
+### Use HoloLens to annotate
+
+If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams (PC, Mac, or mobile) or Dynamics 365 Remote Assist mobile, you and your remote collaborators can annotate in your environment. Call participants can also annotate [shared files or screens](calling-screen-sharing.md).
 
 > [!NOTE]
 > A HoloLens user can draw in their environment but can't place arrows. The remote collaborator on Teams or Dynamics 365 Remote Assist mobile can draw **and** place arrows in the Dynamics 365 Guides user's environment.
 >
 > Annotations don't work well on black or reflective surfaces.
 
-### Draw in your space
+#### Draw in your space
 
 1. When you're on a call, select the **Direct ink** button on the **Annotate** toolbar.
 
@@ -36,7 +48,7 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 
 1. Lift your index finger from your thumb to stop placing ink.
 
-### Draw far away
+#### Draw far away
 
 1. When you're on a call, select the **Far-field ink** button on the **Annotate** toolbar.
 
@@ -46,13 +58,13 @@ Any user on Teams (PC or Mac) or Dynamics 365 Remote Assist mobile can annotate 
 
 1. Air tap, keep your index finger and thumb together, and then start drawing in your space. Release the air tap to stop drawing.
 
-### Change ink color
+#### Change ink color
 
 Select the **Color** button on the **Annotate** toolbar, and then when the **Annotate** toolbar flips over, select the color you want. That color will be used the next time that you draw with the **Direct ink** or **Far-field ink** button.
 
 :::image type="content" source="media/calling-annotations-drawing-example.png" alt-text="Screenshot showing ink color choices.":::
 
-### Erase your annotations
+#### Erase your annotations
 
 Use the following buttons to erase your annotations.
 
@@ -102,27 +114,4 @@ When you join a call in Microsoft Teams, the Dynamics 365 Guides collaborator’
 
    ![Screenshot of Mixed Reality Toolbar (HoloLens) button.](media/calling-annotations-teams-desktop-minimize-toolbar.JPG)
 
-## Use Teams mobile to annotate the Guides user's environment
-
-You can only annotate in one-to-one calls with Teams mobile. Use the **Mixed Reality** toolbar in Teams to add annotations.
-
-1. Select the **Ink** button. The Guides user's video feed freezes.
-
-   ![Screenshot of the Mixed Reality toolbar, with the Ink button selected.](media/calling-annotations-teams-mobile-mr-toolbar.JPG)
-
-1. Use the **Mixed Reality** toolbar to place arrows, draw, or add files in the HoloLens user's space.
-
-   |Button|Description|
-   |---------|----------------------------------------------------|
-   |![Graphic of the Place arrow icon in the Mixed Reality toolbar.](media/calling-annotations-teams-arrow-button.JPG)| Add an arrow. To add an arrow, tap where you want to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it's facing the desired direction. Release to lock the arrow in place.|
-   |![Graphic of the Ink button, as represented by a pencil.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
-   |![Graphic of the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
-   |![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)|Undo your last action in edit mode or undo the most recent annotation you added.|
-   |![Graphic showing the erase icon, which looks like a trash can.](media/calling-annotations-teams-erase-all-button.JPG)|To delete all annotations that you added, select this button, and then select **Delete All Notes**. To delete only the annotations you added recently, select this button, and then select **Clear Current Notes**. This action doesn't clear the annotations your collaborator added.
-
-   > [!NOTE]
-   > Each call participant can only undo and delete their own annotations.
-
-1. When you’re done annotating, select the **Checkmark** button on the **Mixed Reality** toolbar to resume the live video feed. All annotations persist even after you stop editing.
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+[!INCLUDE [footer-include](../includes/footer-banner.md)]
