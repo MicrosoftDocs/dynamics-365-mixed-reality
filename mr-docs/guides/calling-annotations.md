@@ -48,11 +48,11 @@ If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a rem
 
    |Button|Description|
    |---------|----------------------------------------------------|
-   |:::image type="icon" source="../guides/media/calling-annotations-direct-ink.png":::| Direct ink (draw). Pinch your index finger and thumb to place ink at the tip of your fingers. Lift your index finger from your thumb to stop placing ink.|
-   |:::image type="icon" source="../guides/media/calling-annotations-far-field-ink.png":::|Draw far away. Use your hand rays to place the cursor where you want to start drawing. Air tap, keep your index finger and thumb together, and then start drawing. Release the air tap to stop drawing.|
-   |:::image type="icon" source="../guides/media/calling-annotations-color.png":::|Change ink color. Select the **Color** button and then select the color you want. That color will be used the next time that you draw with the Direct ink or Fraw far away button.|
-   |:::image type="icon" source="../guides/media/calling-annotations-teams-undo-button.png":::|Undo the most recent action, including the Erase all action.|
-   |:::image type="icon" source="../guides/media/calling-annotations-teams-erase-all-button.png":::|Erase all drawings.|
+   |:::image type="icon" source="media/calling-annotations-direct-ink.png":::| Direct ink (draw). Pinch your index finger and thumb to place ink at the tip of your fingers. Lift your index finger from your thumb to stop placing ink.|
+   |:::image type="icon" source="media/calling-annotations-far-field-ink.png":::|Draw far away. Use your hand rays to place the cursor where you want to start drawing. Air tap, keep your index finger and thumb together, and then start drawing. Release the air tap to stop drawing.|
+   |:::image type="icon" source="media/calling-annotations-color.png":::|Change ink color. Select the **Color** button and then select the color you want. That color will be used the next time that you draw with the Direct ink or Fraw far away button.|
+   |:::image type="icon" source="media/calling-annotations-teams-undo-button.png":::|Undo the most recent action, including the Erase all action.|
+   |:::image type="icon" source="media/calling-annotations-teams-erase-all-button.png":::|Erase all drawings.|
 
 ## Use Teams (PC or Mac) to annotate the Guides user's environment
 
@@ -81,12 +81,12 @@ When you join a call in Microsoft Teams (PC or Mac), the Dynamics 365 Guides col
 
    |Button|Description|
    |---------|----------------------------------------------------|
-   |![Graphic showing the Arrow button.](media/calling-annotations-teams-arrow-button.JPG)|Add an arrow.|
-   |![Graphic showing the Ink button.](media/calling-annotations-teams-ink-button.JPG)|Add ink (draw).|
-   |![Graphic showing the Insert file button.](media/calling-annotations-teams-insert-file-button.JPG)|Insert a file in the HoloLens user's space. You can select an image or .pdf file from OneDrive or from your device. [Learn more about sharing a file.](calling-chat-file-sharing.md)|
-   |![Graphic showing the Color button.](media/calling-annotations-teams-color-button.JPG)|Change the arrow or ink color.|
-   |![Graphic showing the Undo button.](media/calling-annotations-teams-undo-button.JPG)|In edit mode, undo the last action.|
-   |![Graphic showing the Erase button, which looks like a trashcan.](media/calling-annotations-teams-erase-all-button.JPG)|If you're in edit mode, erase all of the annotations made during that editing session. In you're in live mode, erase all of the annotations made during that call.
+   |![Graphic showing the Arrow button.](media/calling-annotations-teams-desktop-arrow-button.JPG)|Add an arrow.|
+   |![Graphic showing the Ink button.](media/calling-annotations-teams-desktop-ink-button.JPG)|Add ink (draw).|
+   |![Graphic showing the Insert file button.](media/calling-annotations-teams-desktop-insert-file-button.JPG)|Insert a file in the HoloLens user's space. You can select an image or .pdf file from OneDrive or from your device. [Learn more about sharing a file.](calling-chat-file-sharing.md)|
+   |![Graphic showing the Color button.](media/calling-annotations-teams-desktop-color-button.JPG)|Change the arrow or ink color.|
+   |![Graphic showing the Undo button.](media/calling-annotations-teams-desktop-undo-button.JPG)|In edit mode, undo the last action.|
+   |![Graphic showing the Erase button, which looks like a trashcan.](media/calling-annotations-teams-desktop-erase-all-button.JPG)|If you're in edit mode, erase all of the annotations made during that editing session. In you're in live mode, erase all of the annotations made during that call.
 
 1. When you're done annotating, select **Stop editing** or select the live video feed in the corner of your screen.
 

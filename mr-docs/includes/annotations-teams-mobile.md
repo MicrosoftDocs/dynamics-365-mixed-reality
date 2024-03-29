@@ -8,7 +8,7 @@ You can annotate in calls with Microsoft Teams mobile users if you have a Dynami
 
    :::image type="content" source="../guides/media/calling-annotations-spatial-annotation-toolbar.png" alt-text="Screenshot of the Teams Share Spatial Annotations toolbar":::
 
-1. Use the **Share Spatial Annotations** toobar to place arrows or draw in your space for other callers to see or annotate in another user's space.
+1. Use the **Share Spatial Annotations** toolbar to place arrows or draw in your space for other callers to see or annotate in another user's space.
 
    |Button|Description|
    |---------|----------------------------------------------------|
