@@ -1,8 +1,8 @@
 ---
 author: RobertButterworthMS
-description: How to optimize your 3D (CAD) objects to use with Dynamics 365 Guides and Microsoft Power Apps
+description: How to optimize your 3D (CAD) objects to use with Dynamics 365 Guides and Microsoft Power Apps.
 ms.author: robutter
-ms.date: 11/30/2023
+ms.date: 04/02/2024
 ms.topic: article
 title: Optimize your 3D objects to use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-wendysmith
@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 For best rendering and best possible real-time performance, your 3D objects need to be converted and might need to be optimized before using with Dynamics 365 Guides or in an app created with Power Apps that includes mixed-reality components. Third-party applications that convert CAD files often have tools that can optimize content as well. 
 
-The following table lists software tools that you can use to convert and/or optimize your CAD files or intermediate files and export them as a supported file format. Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../../includes/cc-microsoft.md)] does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
+The following table lists software tools that you can use to convert and/or optimize your CAD files or intermediate files and export them as a supported file format. Your use of third-party applications is subject to terms between you and the third party. Microsoft doesn't endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
 
 |Software|Import|Export|Convert/transcode|Optimization|
 |---------------------------------|----------------------------------------|--------------------|--------------------|-------------------|
@@ -54,7 +54,22 @@ The following table lists some general conservative targets to aim for when acqu
 >
 > Dynamics 365 Guides has a 16 megapixel limit on textures promoting app stability and a more consistent guides experience.
 
-### See also
+## Step content recommended limits
+
+Every step in a guide has content limits. As you convert and optimize your 3D objects, consider these limits.
+
+[!INCLUDE [supported-step-limits](../../includes/supported-limits-steps.md)]
+
+## 3D object limits
+
+As you convert and optimize your 3D objects, consider the size limits.
+
+[!INCLUDE [supported-object-limits](../../includes/supported-limits-objects.md)]
+
+If the 3D object exceeds the recommended limits for optimal performance on the HoloLens, a warning appears on the step.
+
+## See also
+
 - [Overview of preparing 3D objects](index.md)
 - [Convert 3D objects](convert-models.md)
 - [Best practices for converting and optimizing 3D objects](best-practices.md)
