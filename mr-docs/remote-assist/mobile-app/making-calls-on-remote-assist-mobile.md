@@ -3,14 +3,16 @@ title: Overview of making calls with Dynamics 365 Remote Assist mobile
 author: davepinch
 description: Addresses all calling scenarios for Dynamics 365 Remote Assist mobile
 ms.author: davepinch
-ms.date: 10/1/2020 
-ms.topic: article
+ms.date: 04/04/2024 
+ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
 
-# Make Dynamics 365 Remote Assist mobile calls
+# Overview of making calls with Dynamics 365 Remote Assist mobile
 
-Microsoft Dynamics 365 Remote Assist mobile makes conducting repairs and remote inspections easy by providing technicians with the ability to launch video calls with remote collaborators inside or outside of their organization. Technicians can join one-to-one video calls and group video calls with three or more participants. 
+[!INCLUDE [ra-teams-mobile-include](../../includes/ra-teams-mobile.md)]
+
+Microsoft Dynamics 365 Remote Assist mobile makes conducting repairs and remote inspections easy by providing technicians with the ability to launch video calls with remote collaborators inside or outside of their organization. Technicians can join one-to-one video calls and group video calls with three or more participants.
 
 ## Supported calling scenarios
 

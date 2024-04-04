@@ -3,34 +3,36 @@ title: Dynamics 365 Remote Assist mobile overview
 author: davepinch
 description: Get an overview of the Dynamics 365 Remote Assist mobile app capabilities.
 ms.author: davepinch
-ms.date: 10/01/2020
+ms.date: 04/04/2024
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Remote Assist mobile overview
 
+[!INCLUDE [ra-teams-mobile-include](../../includes/ra-teams-mobile.md)]
+
 Microsoft Dynamics 365 Remote Assist enables technicians with mobile devices to connect with a remote collaborator on Dynamics 365 Remote Assist mobile or Microsoft Teams (desktop or mobile). Using live video calling, mixed-reality annotations, and high-resolution snapshots, they can share what they see with the remote collaborator to troubleshoot problems together, faster.
 
 ![Simulated image of a technician using Dynamics 365 Remote Assist mobile to annotate their environment on a call.](./media/ram-overview.png "Dynamics 365 Remote Assist mobile Overview")
 
-Dynamics 365 Remote Assist mobile is beneficial in scenarios where technicians may need physical access to confined or hard-to-reach spaces, or access to other mobile apps that are part of their organizations' workflows. With the availability and familiarity with mobile devices, technicians can use Dynamics 365 Remote Assist mobile during repairs and inspections with ease. Furthermore, Dynamics 365 Remote Assist mobile allows for easier broad-scale deployment in organizations.
-
-Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCore support](https://developers.google.com/ar/discover/supported-devices) and [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/discover/supported-devices#ios). Additionally, Dynamics 365 Remote Assist is available on mobile devices **without** ARCore or ARKit support, too! Visit our [documentation on product requirements](../requirements.md) to learn more.
+Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCore support](https://developers.google.com/ar/discover/supported-devices) and [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/discover/supported-devices#ios). Additionally, Dynamics 365 Remote Assist is available on mobile devices **without** ARCore or ARKit support. Visit our [documentation on product requirements](../requirements.md) to learn more.
 
 ## Features
 
-- One-to-one and group video calling.
-- Add mixed-reality annotations in space.
-- Use asset capture in offline scenarios to annotate, capture, and visualize images and videos of assets and store them in Microsoft Dataverse. 
-- Annotate on a 2D image capture, or snapshot, of the space during a call.
-- Send and receive messages, in-call snapshots, and files through text chat.
-- Capture session history through call recordings.
-- Annotate and share in-call snapshots in low-bandwidth scenarios.
-- Availability on mobile devices without augmented reality (AR) support.
-- Integration with Microsoft Dynamics 365 for Field Service.
-   - Ability to link call history, in-call snapshots, and files shared during a Dynamics 365 Remote Assist mobile call to an associated Dynamics 365 Field Service work order.
-   - Ability to start a call to a remote collaborator from the Dynamics 365 Field Service mobile app to the Dynamics 365 Remote Assist mobile app.
+Compare what features are available on Microsoft Teams mobile vs Remote Assist mobile.
+
+|Features|Available in Teams mobile|Available in Remote Assist mobile|
+|:----|:----|:----|
+|One-to-one and group video calling|Yes|Yes|
+|Add mixed-reality annotations in space|Yes|Yes|
+|Use asset capture in offline scenarios to annotate, capture, and visualize images and videos of assets and store them in Microsoft Dataverse|No|Yes|
+|Annotate on a 2D image capture, or snapshot, of the space during a call|Yes|Yes|
+|Send and receive messages, in-call snapshots, and files through text chat|Yes|Yes|
+|Capture session history through call recordings|Yes|Yes|
+|Annotate and share in-call screenshots in low-bandwidth scenarios|Yes|Yes|
+|Availability on mobile devices without augmented reality (AR) support|Yes|Yes|
+|Integration with Microsoft Dynamics 365 for Field Service <br/>- Ability to link call history, in-call snapshots, and files shared during a Remote Assist mobile call to an associated Dynamics 365 Field Service work order.<br/>- Ability to start a call to a remote collaborator from the Dynamics 365 Field Service mobile app to the Remote Assist mobile app.|No|Yes|
 
 ## Microsoft Intune support
 
