@@ -13,8 +13,6 @@ ms.custom: bap-template
 
 If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **Link** button, you can go to the link by selecting the button. For example, there might be a link to a parts diagram, the HoloLens settings app, or email. Websites are opened in the Microsoft HoloLens Edge browser. When you close the browser, you go back to the step that you were working on.
 
-[!INCLUDE [end-calls-suspend](../includes/end-calls-suspend.md)]
-
 ![Website link button.](media/website-link.jpg "Website link button")
 
 ## See also
