@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: davepinch
-ms.date: 04/02/2024
+ms.date: 04/05/2024
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
@@ -10,9 +10,10 @@ ms.reviewer: v-wendysmith
 
 # Known issues with the Dynamics 365 Guides HoloLens app
 
-## HoloLens users don't receive notification if a recording is stopped by a Teams user
+## HoloLens and Microsoft Teams users experience unexpected results while recording a call
 
-If a recording is started or stopped by a Teams user, the recording stops but the HoloLens user doesn't receive notification. Teams users still receive notification and the recording. For HoloLens users to receive notification when recording stops, have the HoloLens user start and stop the recording.
+HoloLens and Teams Desktop users might experience unexpected results with recordings and Teams captions if the recording gets started and stopped from different devices. To avoid issues, have users within a device (HoloLens or Teams Desktop) start and stop the recording.
+<!--- This issue also in RA --->
 
 ## HoloLens users have trouble with notifications when receiving a call in Guides
 
