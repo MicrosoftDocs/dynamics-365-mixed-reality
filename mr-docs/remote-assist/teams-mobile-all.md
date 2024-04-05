@@ -8,7 +8,7 @@ title: Collaborate with any user through Microsoft Teams mobile
 ms.reviewer: v-wendysmith
 ---
 
-# Collaborate with any user through Microsoft Teams on mobile
+# Collaborate with any user through Microsoft Teams mobile
 
 > [!TIP]
 > Dynamics 365 Remote Assist customers now have access to Remote Assist in Microsoft Teams mobile. For the best calling experience on HoloLens, use Dynamics 365 Guides.
