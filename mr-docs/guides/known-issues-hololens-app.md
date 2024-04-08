@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 ## HoloLens and Microsoft Teams users experience unexpected results while recording a call
 
-HoloLens and Teams Desktop users might experience unexpected results with recordings and Teams captions if the recording gets started and stopped from different devices. To avoid issues, have users within a device (HoloLens or Teams Desktop) start and stop the recording.
+HoloLens and Teams Desktop users might experience unexpected results with recordings and Teams captions if a recording gets started and stopped from different devices. To minimize issues, have users within a device (HoloLens or Teams Desktop) start and stop the recording.
 <!--- This issue also in RA --->
 
 ## HoloLens users have trouble with notifications when receiving a call in Guides
