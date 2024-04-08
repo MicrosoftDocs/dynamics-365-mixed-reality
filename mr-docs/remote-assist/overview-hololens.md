@@ -90,7 +90,6 @@ You might also want to watch how-to videos showing how to use Dynamics 365 Remot
 
 See [the HoloLens basics guide](/hololens/hololens1-basic-usage) to learn how to:
 
-- Open the **Start** menu using the Bloom gesture
 - Select holograms with gaze, air tap, and voice
 - Move, resize, and rotate apps
 

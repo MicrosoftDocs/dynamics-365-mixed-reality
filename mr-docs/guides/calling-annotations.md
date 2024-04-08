@@ -3,7 +3,7 @@ title: Use annotations with Dynamics 365 Guides
 author: davepinch
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen
 ms.author: davepinch
-ms.date: 03/27/2024
+ms.date: 04/08/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -62,7 +62,7 @@ When you join a call in Microsoft Teams (PC or Mac), the Dynamics 365 Guides col
 
 > [!NOTE]
 > - The toolbar appears only when the video feed for the Dynamics 365 Guides user is active.
-> - The toolbar is disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides is not in the foreground because the user did the Bloom gesture).
+> - The toolbar is disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides is not in the foreground).
 > - The toolbar is disabled if the same Guides user is connected from Teams and Dynamics 365 Guides at the same time, regardless of the device used.
 
 ### Start annotations
