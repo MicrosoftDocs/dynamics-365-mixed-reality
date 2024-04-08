@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn about known issues in Microsoft Dynamics 365 Remote Assist.
 ms.author: davepinch
-ms.date: 08/26/2022
+ms.date: 04/05/2024
 ms.topic: article
 title: Known issues in Dynamics 365 Remote Assist
 ms.reviewer: v-wendysmith
@@ -12,6 +12,7 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-## Microsoft Teams Desktop users can't add annotations in Dynamics 365 Remote Assist--Resolved
+## HoloLens and Microsoft Teams users experience unexpected results while recording a call
 
-The issue that prevented Microsoft Teams Desktop users from adding annotations in Dynamics 365 Remote Assist has been resolved. If you have any issue adding annotations, make sure to update to the latest Microsoft Teams version. 
+HoloLens and Teams Desktop users might experience unexpected results with recordings and Teams captions if a recording gets started and stopped from different devices. To minimize issues, have users within a device (HoloLens or Teams Desktop) start and stop the recording.
+<!--- This issue also in Guides --->

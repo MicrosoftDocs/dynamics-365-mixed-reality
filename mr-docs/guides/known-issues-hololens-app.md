@@ -2,13 +2,18 @@
 author: davepinch
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: davepinch
-ms.date: 10/04/2023
+ms.date: 04/05/2024
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+## HoloLens and Microsoft Teams users experience unexpected results while recording a call
+
+HoloLens and Teams Desktop users might experience unexpected results with recordings and Teams captions if a recording gets started and stopped from different devices. To minimize issues, have users within a device (HoloLens or Teams Desktop) start and stop the recording.
+<!--- This issue also in RA --->
 
 ## HoloLens users have trouble with notifications when receiving a call in Guides
 
