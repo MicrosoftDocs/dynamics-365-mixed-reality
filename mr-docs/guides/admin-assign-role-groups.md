@@ -6,6 +6,7 @@ ms.topic: how-to
 ms.date: 12/13/2023
 ms.author: davepinch
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Add licenses, users, and roles to Microsoft Entra security groups

@@ -2,10 +2,11 @@
 author: melissahellmund
 description: Learn how to create an access team to share a guide in Microsoft Dynamics 365 Guides.
 ms.author: mehellmu
-ms.date: 11/08/2023
+ms.date: 04/09/2024
 ms.topic: how-to
 title: Create an access team to share a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Create an access team to share a guide in Dynamics 365 Guides
@@ -24,7 +25,7 @@ For more information on the three types of teams (owner team, Microsoft Entra gr
 > [!TIP]
 > You can associate a user with more than one access team.
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), [create an access team](/power-platform/admin/manage-teams) in the Guides environment.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), [create an access team](/power-platform/admin/manage-teams#create-a-new-team) in the Guides environment.
 
 1. Select [**Add members to the team**](/power-platform/admin/manage-teams#manage-team-members).
 
