@@ -22,17 +22,17 @@ To use Dynamics 365 Remote Assist with HoloLens or HoloLens 2, you need:
 - A HoloLens or HoloLens 2 running the [Windows 10 April 2018 update](requirements.md) or later.
 - A remote collaborator using the Teams desktop application or the Teams mobile app.  
 - An internet connection. At least [1.5 mpbs of bandwidth is recommended](/microsoftteams/upgrade-prepare-environment-prepare-network#bandwidth-planning).
-- To know your credentials for signing into the HoloLens and Dynamics 365 Remote Assist.
-- To have Dynamics 365 Remote Assist installed on your HoloLens or HoloLens 2.
-- (Optional) If you're a Dynamics 365 Field Service customer, to connect to Dynamics 365 Field Service from Dynamics 365 Remote Assist, you'll need a Dynamics 365 Remote Assist Attach license. [Learn more](buy-remote-assist.md)
+- Your credentials for signing into the HoloLens and Dynamics 365 Remote Assist.
+- Dynamics 365 Remote Assist installed on your HoloLens or HoloLens 2.
+- (Optional) If you're a Dynamics 365 Field Service customer, a Dynamics 365 Remote Assist Attach license to connect to Dynamics 365 Field Service from Dynamics 365 Remote Assist. [Learn more](buy-remote-assist.md)
 
 ## Overview of core features
 
-When you launch Dynamics 365 Remote Assist, the **Call** tab is selected by default. This is where you'll see your recent contacts. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, move the window, or pin the window to a particular place in your world.  
+When you launch Dynamics 365 Remote Assist, the **Call** tab is selected by default. This tab shows your recent contacts. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, move the window, or pin the window to a particular place in your world.  
 
 ![Screenshot of the HoloLens field of view, showing the Call tab screen.](media/02.00-contacts.png)
 
-Select the **Files** tab at any time (before, during, or after a call) to access service-related documents from OneDrive for Business.
+Select the **Files** tab at any time (before, during, or after a call) to access service-related documents from OneDrive.
 
 ![Screenshot of the HoloLens field of view, showing the Files tab screen.](media/06.00-files.png "Files")
 
@@ -46,7 +46,7 @@ Select the **Settings** tab to:
 
 ![Screenshot of the HoloLens field of view, showing the Settings tab screen.](media/08.00-settings.png "Settings")
 
-When you join a call or meeting, you'll see a video card. When you're in a call, the tools appear at the top and bottom of the video card. The participant tray displays the avatars for all call participants.  
+When you join a call or meeting, a video card appears. When you're in a call, the tools appear at the top and bottom of the video card. The participant tray displays the avatars for all call participants.  
 
 ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing an active call showing the recording button.](media/03.00-call.png)
 
@@ -64,7 +64,7 @@ Anyone on the call can use the following tools:
 |![Graphic showing the camera button.](media/RAHL_Camera.png "Camera")|Take a photo of what you see.|
 |![Graphic showing the pin button.](media/RAHL_Pin.png "Pin")|Pin the call window wherever you want. Use the same button to unpin the call window.|
 
-Anyone on the call can also send files, which will pop up in the space of the people they're collaborating with.  
+Anyone on the call can also send files, which appear in the space of the people they're collaborating with.  
 
 ## Types of calls supported
 
@@ -78,11 +78,11 @@ In a call, remote collaborators can see everything the HoloLens user sees (inclu
 
 ## Using HoloLens gestures in Dynamics 365 Remote Assist
 
-Dynamics 365 Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. For basic navigation, see these topics:
+Dynamics 365 Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. For basic navigation, see these articles:
 
 - [HoloLens gestures](/hololens/hololens1-basic-usage)
 
-- [Hololens 2 gestures](/hololens/hololens2-basic-usage). 
+- [HoloLens 2 gestures](/hololens/hololens2-basic-usage). 
 
 You might also want to watch how-to videos showing how to use Dynamics 365 Remote Assist features on HoloLens.
 
@@ -135,6 +135,6 @@ If your organization uses Dynamics 365 Field Service to manage work orders, the 
 
 - Save call artifacts to the work order that the booking is associated with, including the call log and files shared during the call.
 
-[Learn more about integrating Dynamics 365 Field Service](troubleshoot-field-service.md)
+[Learn more about integrating Dynamics 365 Field Service](troubleshoot-field-service.md).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
