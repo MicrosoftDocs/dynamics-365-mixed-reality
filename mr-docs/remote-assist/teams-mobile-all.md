@@ -2,7 +2,7 @@
 author: davepinch
 description: Any Remote Assist, Guides, or Field Service user can collaborate with other users through the Microsoft Teams mobile app.
 ms.author: davepinch
-ms.date: 04/04/2024
+ms.date: 04/10/2024
 ms.topic: how-to
 title: Collaborate with any user through Microsoft Teams mobile
 ms.reviewer: v-wendysmith
@@ -15,7 +15,7 @@ ms.reviewer: v-wendysmith
 >
 > [Learn more](https://go.microsoft.com/fwlink/?linkid=2227374) and [try Guides](https://go.microsoft.com/fwlink/?linkid=2227510)!
 
-Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using various devices to solve problems together, faster. Dynamics 365 Remote Assist is available on HoloLens 2, and AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Teams on PC or mobile to collaborate with Dynamics 365 Remote Assist users. The benefit of using Teams on mobile (versus PC) is that you can collaborate with any user on-the-go.
+Users can initiate a Remote Assist call right within Teams mobile without switching apps to get support from a remote expert. Technicians can share their mobile camera view with a remote expert and have them annotate on their screen or Teams users can annotate in their own space and share with other collaborators.
 
 When you use Teams on mobile, you can collaborate using the Spatial Annotations toolbar in a call with anyone who is using HoloLens 2 or another Teams user on PC, Mac, or mobile.
 
