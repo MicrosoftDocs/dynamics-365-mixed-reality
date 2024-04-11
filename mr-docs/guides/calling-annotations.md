@@ -1,7 +1,7 @@
 ---
 title: Use annotations with Dynamics 365 Guides
 author: davepinch
-description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen
+description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen.
 ms.author: davepinch
 ms.date: 04/08/2024
 ms.topic: how-to
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Use annotations with Dynamics 365 Guides
 
-Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each other's additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it or leaves the call.
+Annotations are useful for pointing out different parts of your space, including parts that might be difficult or dangerous to reach. All call participants can see each other's additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it or leaves the call.
 
 If you're using Dynamics 365 Guides and you're on a call with another person or group, you can annotate in your environment in different ways. The primary way to use annotations is through Microsoft Teams.
 
@@ -40,7 +40,7 @@ If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a rem
 >
 > Annotations don't work well on black or reflective surfaces.
 
-1. When you're on a call, use the **Annotate** toobar to place arrows or draw in your space.
+1. When you're on a call, use the **Annotate** toolbar to place arrows or draw in your space.
 
    :::image type="content" source="media/annotate.png" alt-text="Screenshot of Meeting window and Annotate toolbar.":::
 
@@ -50,7 +50,7 @@ If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a rem
    |---------|----------------------------------------------------|
    |:::image type="icon" source="media/calling-annotations-direct-ink.png":::| Direct ink (draw). Pinch your index finger and thumb to place ink at the tip of your fingers. Lift your index finger from your thumb to stop placing ink.|
    |:::image type="icon" source="media/calling-annotations-far-field-ink.png":::|Draw far away. Use your hand rays to place the cursor where you want to start drawing. Air tap, keep your index finger and thumb together, and then start drawing. Release the air tap to stop drawing.|
-   |:::image type="icon" source="media/calling-annotations-color.png":::|Change ink color. Select the **Color** button and then select the color you want. That color will be used the next time that you draw with the Direct ink or Fraw far away button.|
+   |:::image type="icon" source="media/calling-annotations-color.png":::|Change ink color. Select the **Color** button and then select the color you want. That color will be used the next time that you draw with the Direct ink or Draw far away button.|
    |:::image type="icon" source="media/calling-annotations-teams-undo-button.png":::|Undo the most recent action, including the Erase all action.|
    |:::image type="icon" source="media/calling-annotations-teams-erase-all-button.png":::|Erase all drawings.|
 

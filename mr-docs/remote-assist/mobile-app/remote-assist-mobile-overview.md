@@ -40,7 +40,7 @@ Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune'
 
 ![Graphic showing Intune controls.](./media/RAM_IntuneControls.png)
 
-[Learn how to create an app configuration policy for Android devices](intune.md)
+[Learn how to create an app configuration policy for Android devices.](intune.md)
 
 ## Videos
 

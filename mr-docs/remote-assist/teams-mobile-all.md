@@ -79,7 +79,7 @@ If you're collaborating with a Dynamics 365 Remote Assist mobile user, the file 
 
 Go to call controls and select the ellipses icon […]. Then select **Insert Files** and select **Photo**. Then, take a photo or select a photo from your mobile device’s photo gallery.
 
-Select the text chat. The photo is attached to a blank message, but hasn't been sent. Send the photo.
+Select the text chat. The photo is attached to a blank message, but isn't sent. Send the photo.
 
 ![Screenshot of the photo option in Teams mobile.](media/TeamsMobile_SharePhoto.png "SharePhoto")
 
