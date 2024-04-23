@@ -16,7 +16,7 @@ ms.custom: bap-template
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-You can try Microsoft Dynamics 365 Remote Assist for free on your HoloLens, HoloLens 2, mobile phones, and tablets. There are three types of free trials.
+You can try Microsoft Dynamics 365 Remote Assist for free on your HoloLens 2, mobile phones, and tablets. There are three types of free trials.
 
 |Trial type|Designed for|
 |---------------------------|-----------------------------------|
@@ -39,11 +39,11 @@ The license-free trial grants access only to the client application. Additional 
 
 - A [Microsoft Entra ID Free, P1 or P2](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) (for HoloLens users only). Users will sign in to their accounts through Microsoft Entra.
 
-- A HoloLens, HoloLens 2, or mobile device. [Learn about additional licensing and product requirements](./requirements.md).
+- A HoloLens 2 or mobile device. [Learn about additional licensing and product requirements](./requirements.md).
 
 With the license-free 90-day free trial, each user must download Dynamics 365 Remote Assist from the appropriate app store to start the trial.
 
-### Steps for HoloLens and HoloLens 2
+### Steps for HoloLens 2
 
 1. Go to the **Start** menu, and then select **Microsoft Store**.
 
@@ -53,7 +53,7 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 
 1. Sign in to Dynamics 365 Remote Assist with your Microsoft Teams account.
 
-1. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. Your **Contacts** page displays. You can now use Dynamics 365 Remote Assist on your HoloLens device.
+1. When the app prompts you to start your free trial of Dynamics 365 Remote Assist, select **Continue**. Your **Contacts** page displays. You can now use Dynamics 365 Remote Assist on your HoloLens 2 device.
 
    > [!NOTE]
    > If you see a message that says you don't have a Teams license, you need to wait longer for the Teams trial licensing to be applied.
@@ -79,9 +79,9 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 
 - Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/microsoft-365/admin/add-users/about-admin-roles).
 
-1. Log into the [Microsoft 365 or Microsoft 365 administrator portal](https://www.microsoft.com/microsoft-365/business/office-365-administration) using your organization’s admin account.
+1. Log into the [Microsoft 365 admin center](https://admin.microsoft.com/) using your organization’s admin account.
 
-1. In the left navigation bar, select **Billing** > **Purchase services**.
+1. In the left navigation bar, select **Marketplace**.
 
 1. Scroll or search for **Dynamics 365 Remote Assist**.
 

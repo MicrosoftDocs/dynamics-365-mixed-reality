@@ -2,7 +2,7 @@
 author: davepinch
 description: Get an overview of the capabilities of the Dynamics 365 Remote Assist HoloLens and mobile apps.
 ms.author: davepinch
-ms.date: 02/16/2023
+ms.date: 04/17/2024
 ms.topic: overview
 title: Overview of Dynamics 365 Remote Assist 
 ms.reviewer: v-wendysmith
@@ -23,7 +23,7 @@ Empower technicians to collaborate more efficiently by working together from dif
 - **Remote inspections**: Empower onsite inspectors to collaborate with remote inspectors to evaluate and document asset quality.
 - **Knowledge sharing and training**: Document repairs via photos and videos and share them with the rest of your organization.
 
-Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https://youtu.be/d3YT8j0yYl0).
+Watch a video about [Dynamics 365 Remote Assist on HoloLens 2 and mobile](https://youtu.be/d3YT8j0yYl0).
 
 > [!Note]
 > Dynamics 365 Remote Assist is intended for facilitating communications and is not intended or made available for use as a medical device for the diagnosis of disease or other conditions, or in the cure, mitigation, treatment or prevention of disease or otherwise to be used as a component of any clinical offering or product, and Microsoft does not grant a license or right for such purposes. Dynamics 365 Remote Assist is not designed or intended to substitute for professional medical advice, diagnosis, treatment, or judgment and should not be used for medical emergencies or emergency communications. Microsoft does not warrant that Dynamics 365 Remote Assist will be sufficient for any medical purposes or meet the health or medical requirements of any person.
@@ -34,7 +34,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 - **Walk the site without being onsite**: Remote inspectors can assess product quality without traveling onsite by using Remote Assist or Microsoft Teams to collaborate with a  Remote Assist user.
 - **Communicate detailed and complex instructions visually**: Rather than communicating instructions via audio call, onsite workers and remote collaborators can use drawings and arrows to refer to specific parts of a machine or asset. These annotations are anchored in the Remote Assist user's space.
 - **Scale expert knowledge**: Enable experts to effectively share their knowledge from anywhere in the world.
-- **Bring critical information into view**: Technicians and inspectors can pull in work order information from Dynamics 365 Field Service and call the resource assigned to support them. Furthermore, technicians and inspectors no longer need to carry around paper manuals to perform their repair or inspection. If the technician is using Remote Assist on HoloLens, remote collaborators can insert reference images, schematics, and other helpful information the technician's physical space so they can refer to the schematic while working heads-up and hands-free on HoloLens. If the technician is using Remote Assist on mobile, remote collaborators can share reference images, schematics, and other helpful information the technician can view in their mobile device.
+- **Bring critical information into view**: Technicians and inspectors can pull in work order information from Dynamics 365 Field Service and call the resource assigned to support them. Furthermore, technicians and inspectors no longer need to carry around paper manuals to perform their repair or inspection. If the technician is using Remote Assist on HoloLens, remote collaborators can insert reference images, schematics, and other helpful information in the technician's physical space so they can refer to the schematic while working heads-up and hands-free on HoloLens. If the technician is using Remote Assist on mobile, remote collaborators can share reference images, schematics, and other helpful information the technician can view in their mobile device.
 - **Combine video, screenshots, and annotations for more seamless workflows on the devices you already use**: Remote Assist is available on non-AR-capable mobile devices.
 - **Navigate Remote Assist on HoloLens with your voice**: Remote Assist on HoloLens provides a hands-free experience by supporting [voice commands in these languages](./faq-hololens.md) for all features, even in a loud, industrial environment.
 - **Asset capture & process automation via Microsoft Power Platform**: Store mixed reality photos and videos in CDS, then integrate data with business processes via Power Automate.  
@@ -42,7 +42,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 ## Roles
 
-- **Technician**: A technician uses Dynamics 365 Remote Assist on their HoloLens or mobile device to share what they are seeing and receive remote assistance.
+- **Technician**: A technician uses Dynamics 365 Remote Assist on their HoloLens or mobile device to share what they're seeing and receive remote assistance.
 - **Inspector or auditor**: An inspector or auditor uses Dynamics 365 Remote Assist on their HoloLens or mobile device to collaborate with remote inspectors and auditors. Together, they evaluate and document asset quality.
 - **Remote collaborator**: A remote collaborator uses Teams on PC or mobile to join a Dynamics 365 Remote Assist call, see what a technician or inspector sees, and provide guidance in context.  
 
@@ -54,7 +54,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 1. A remote collaborator joins the mixed reality call on Microsoft Teams desktop and sees what the technician sees. They start recording the call so the technician can use it for future reference. 
 
-1. The remote collaborator provides verbal instructions. When they want to draw attention to a specific part of the machine, they draw an arrow onto their PC screen. The arrow immediately appears in the HoloLens user's space and remains anchored to that part of the machine even when the technician walks around. When they want to point out the cable the technician should reattach, they draw along the cable. The line immediately appears in the HoloLens user's space. The collaborator adds drawings and arrows onto their PC screen. These drawings and arrows appear in the technician's space and remains anchored to the cable even when the technician walks around.
+1. The remote collaborator provides verbal instructions. When they want to draw attention to a specific part of the machine, they draw an arrow onto their PC screen. The arrow immediately appears in the HoloLens user's space and remains anchored to that part of the machine even when the technician walks around. When they want to point out the cable the technician should reattach, they draw along the cable. The line immediately appears in the HoloLens user's space. The collaborator adds drawings and arrows onto their PC screen. These drawings and arrows appear in the technician's space and remain anchored to the cable even when the technician walks around.
 
 1. The remote collaborator then shares a schematic from OneDrive, and it appears in the technician's space. The collaborator can also pull up a training video up on their desktop and share their screen with the technician.
 
