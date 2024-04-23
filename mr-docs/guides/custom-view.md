@@ -10,11 +10,19 @@ ms.reviewer: v-wendysmith
 
 # Show a list of guides on a custom tab for a specific set of Dynamics 365 Guides users
 
-If you want to create a custom list of guides for a specific user or set of users in Microsoft Dynamics 365 Guides, create a custom view. Operators access the view through a custom tab on HoloLens. This tab contains only the guides that are defined by the custom view.
+If you want to create a custom list of guides for a specific user or set of users in Microsoft Dynamics 365 Guides, create a custom view. Operators access the view through a custom tab on HoloLens. This tab contains only the guides that are defined in the custom view.
 
-The following screenshot shows an example of a custom tab that contains a custom list of guides.
+The following illustration shows an example of a tab named **Custom Tab**. The numbers and table below the illustration show where the values for each part of the tab come from.
 
-![Example of a custom view that appears on a HoloLens tab.](media/custom-tab.jpg "Example of a custom view that appears on a HoloLens tab")
+![Custom tab elements.](media/custom-tab-elements.jpg "Custom tab elements")
+
+1. The name of the view that you create.
+
+1. The **Guides** field.
+
+1. The **Date and Time** field.
+
+1. Another field that you want to add (optional).
 
 Custom views are useful when you want to show a set of guides that is related to a specific workflow. For example, you might want to show a different set of guides to each team or business unit. Or, you might want to show a list of guides that is targeted at a specific type of operator role.
 
@@ -32,7 +40,7 @@ Custom views are useful when you want to show a set of guides that is related to
 
 Create a new table in Microsoft Dataverse with at least two columns to include in the view. If you want to use an existing table instead of creating a new table, skip to [Create the view](#create-the-view).
 
-1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin.
+1. Sign in to [https://powerapps.microsoft.com](https://powerapps.microsoft.com) as an admin.
 
     ![powerapps.microsoft.com.](media/custom-view-powerapps.PNG "powerapps.microsoft.com")
 
@@ -55,7 +63,7 @@ Create a new table in Microsoft Dataverse with at least two columns to include i
 
 1. Select **Save**.
 
-1. Select **New** > **Column** again, and enter the following information in the **Column properties** dialog box:
+1. Select **New** > **Column** again and add a column with the following properties:
 
     - **Display name**: Enter **Guide**.
 
@@ -73,23 +81,11 @@ Add a view to the table that you created and include the same fields that you ad
 
 The following rules apply to the view:
 
-- At least two columns. Additional columns are optional. The example that follows includes a third column.
+- At least two columns. Other columns are optional.
 - The first column must be a **Date and Time** field (that is, it must have the **Date and Time** data type), and the field can't be empty.
 - The second column must be a lookup to the **msmrw\_guide** table, and the field can't be empty.
-- If a formatted value is available, it will be used.
+- If a formatted value is available, it's used.
 - Nonempty values are concatenated and shown below the guide name.
-
-The following illustration shows an example of a tab named **Custom Tab**. The numbers and table below the illustration show where the values for each part of the tab come from.
-
-![Custom tab elements.](media/custom-tab-elements.jpg "Custom tab elements")
-
-1. The name of the view that you create.
-
-1. The **Guides** field.
-
-1. The **Date and Time** field.
-
-1. An additional field. This field can be any field that you want to add.
 
 ### Create the view
 
@@ -100,7 +96,7 @@ The following illustration shows an example of a tab named **Custom Tab**. The n
 
 1. Select **New** > **View**.
 
-1. In the **Create a view** dialog box, enter a name for the view. This name will be shown on the HoloLens tab.
+1. In the **Create a view** dialog box, enter a name for the view that you want to display on the HoloLens tab.
 
 1. Select **Create**.
 
@@ -115,6 +111,8 @@ The following illustration shows an example of a tab named **Custom Tab**. The n
     > [!NOTE]
     > You can drag columns to move them after they are created.
 
+1. If you want another field to appear on the custom tab, select **Insert view column** again, and then select a field.
+
 1. In the upper-right corner of the page, select **Save and Publish**, and then refresh the page.
 
 1. Copy and save the record ID for the saved query. This record ID appears after "view" in the URL.
@@ -126,7 +124,7 @@ The following illustration shows an example of a tab named **Custom Tab**. The n
 
 ## Create a Guides view configuration record
 
-Create a configuration record that tells HoloLens which view to use for the custom tab.
+Create a configuration record that tells HoloLens that view to use for the custom tab.
 
 1. In the left pane, select **Apps**, and then select **Guides** to open the Guides model-driven app.
 
@@ -136,7 +134,7 @@ Create a configuration record that tells HoloLens which view to use for the cust
 
 1. In the **New Guide View Configuration** page, enter the following information:
 
-   - **Name**: A name to idenfity this configuration record, such as Custom Tab View. This name is not used for the tab name on HoloLens.
+   - **Name**: A name to identify this configuration record, such as Custom Tab View. This name isn't used for the tab name on HoloLens.
 
    - **Saved Query ID**: The record ID that you saved. This value isn't validated, so copy it carefully to ensure that it's correct.
 
@@ -145,42 +143,36 @@ Create a configuration record that tells HoloLens which view to use for the cust
 > [!WARNING]
 > There is no relationship between the Guide view configuration record and the saved view. If you delete the target view or table, a fetch of the data will fail, and data won't be shown on HoloLens.
 
-## Add specific guides to the list that is shown in the view
+## Add specific guides to the list
 
-With the App Designer, add the list of guides to display on the HoloLens tab.
+With the App Designer, add the list of guides to display on the custom HoloLens tab.
 
 > [!NOTE]
 > The following procedure is an example that shows how to use the App Designer. You can configure the App Designer in different ways, depending on your experience with Dynamics 365.
 
-1. In Power Apps on the left pane, select **Apps**. Then select the **More Commands** (**...**) button next to **Guides**, and select **Edit**.
+1. In Power Apps on the left pane, select **Apps**. Then select the ellipsis (&hellip;) next to **Guides**, and select **Edit**.
 
-<!--- Not seeing App Designer --->
+1. Select the ellipsis (&hellip;) in the command bar, and then **Switch to classic**.
 
-1. In the App Designer, select the **Edit** button (pencil symbol) next to **Site Map**.
+1. In the App Designer, select **Edit** (pencil symbol) next to **Site Map**.
 
     ![Edit button for Site Map.](media/custom-view-sitemap-edit.PNG "Edit button for Site Map")
 
-1. Select the **Configuration** heading, select **Add**, and then select **Group**.
+1. Select the **Organize** heading, select **Add**, and then select **Group**.
 
     ![Add a group.](media/custom-view-add-group.PNG "Add a group")
 
-1. Enter a name for the new group (for example, **Custom Tab**). This name will appear to the right of the other headings on the **Sitemap Designer** page.
+1. Enter a name for the new group (for example, **Custom Tab**). This name appears to the right of the other headings on the **Sitemap Designer** page.
 
 1. Select the heading for the new group, select **Add**, and then select **Subarea**.
 
-    ![Add a subarea.](media/custom-view-add-subarea.PNG "Add a subarea")
-
-1. On the **Properties** tab on the right side of the page, in the **Table** field, select the name of the table that you created in the [Step 1: Create a new table in Microsoft Dataverse](#step-1-create-a-new-table-in-microsoft-dataverse) section. In this way, you link the subarea.
-
-    ![Link the subarea.](media/custom-view-link-subarea.PNG "Link the subarea")
+1. On the **Properties** tab on the right side of the page, in the **Entity** field, select the name of the table that you created in the [Create a new table in Microsoft Dataverse](#create-a-new-table-in-microsoft-dataverse) section.
 
 1. In the upper-right corner of the page, select **Save**, and then select **Publish**.
 
 1. In the upper-left corner of the page, select **App Designer** to return to the App Designer.
 
 1. Scroll down to the **Forms** item for your table, and select it.
-
-    ![Select the Forms item for the table.](media/custom-view-select-forms.PNG "Select the Forms item for the table")
 
 1. On the **Components** tab on the right side of the page, in the **Main Forms** section, select the **Edit** button (pencil symbol).
 
@@ -190,22 +182,24 @@ With the App Designer, add the list of guides to display on the HoloLens tab.
 
     ![Drag the fields.](media/custom-view-drag-drop-fields.PNG "Drag the fields")
 
-## Step 5: Add guides to the view
+1. Select **Save and publish**.
 
-1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com). You should see your new group and view at the bottom of the left pane.
+## Add guides to the view
 
-    ![New group and view in the left pane.](media/custom-view-custom-tab-configuration.PNG "New group and view in the left pane")
+1. [Open the model-driven app](open-model-driven-app.md) in Guides. The new group and view appear at the bottom of the left pane.
 
-1. Select the view to open it, and then, in the **Guide** field, select a guide to add to the list.
+1. Select the view to open it, and then, select **New**.
+
+1. Enter the following information:
+
+   - **Name**: The name of the guide to display on the custom tab.
+   - **Owner**: The user who can access the list.
+   - **Date and Time**: Date and time to display the guide. This date must be either the current date or a future date. Otherwise, the guide won't appear on the custom tab.
+   - **Guide**: Select a guide to add to the list.
 
     ![Add a guide to the list.](media/custom-view-select-list.PNG "Add a guide to the list")
 
-    > [!IMPORTANT]
-    > When you add a guide to the list, you must specify a date. This date must be either the current date or a future date. Otherwise, the guide won't appear on the custom tab.
-
-1. In the **Owner** field, assign the user who will have access to the list.
-
-1. To add more guides to the list, select **New**, and then set the **Guide** and **Owner** fields again.
+1. To add more guides to the list, select **New**.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
