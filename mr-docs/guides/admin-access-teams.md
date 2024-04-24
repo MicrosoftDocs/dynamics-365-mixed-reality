@@ -25,7 +25,7 @@ For more information on the three types of teams (owner team, Microsoft Entra gr
 > [!TIP]
 > You can associate a user with more than one access team.
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), [create an access team](/power-platform/admin/manage-teams#create-a-new-team) in the Guides environment.
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments) and [create an access team](/power-platform/admin/manage-teams#create-a-new-team) in the Guides environment.
 
 1. Select [**Add members to the team**](/power-platform/admin/manage-teams#manage-team-members).
 

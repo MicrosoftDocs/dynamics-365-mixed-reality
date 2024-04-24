@@ -2,7 +2,7 @@
 author: melissahellmund
 description: Learn how to export and import Dynamics 365 Guides folders between environments.
 ms.author: mehellmu
-ms.date: 04/09/2024
+ms.date: 04/24/2024
 ms.topic: how-to
 title: Export and import Dynamics 365 Guides folders between environments
 ms.reviewer: v-wendysmith
@@ -18,27 +18,27 @@ You can export the folders you created in Microsoft Dynamics 365 Guides and impo
 
 ## Prerequisites
 
-- You must be a system administrator to access the Power Platform admin center.  
+- You must be a system administrator to access Microsoft Power Apps.  
 
 - You must have Dynamics 365 Guides solution version 600.1.0.0 or later.  
 
-We also highly recommend [backing up the contents](/power-platform/admin/backup-restore-environments#create-a-manual-backup) of both environments before starting the export/import process.
+We highly recommend [backing up the contents](/power-platform/admin/backup-restore-environments#create-a-manual-backup) of both environments before starting the export/import process.
 
 ## Export the folders
 
-1. Go to [make.powerapps.com](https://make.preview.powerapps.com/), and then sign into the environment that contains the folders you want to export.
+1. Sign in to [make.powerapps.com](https://make.preview.powerapps.com/), and then select the environment that contains the folders you want to export.
 
 1. In the left navigation pane, select **Solutions**.
 
 1. [Create a new solution](/power-apps/maker/data-platform/create-solution) with **Default Publisher for {orgid}** for the Publisher.
 
-   ![Power Apps screen with 4 choices highlighted.](media/export-folders-02.PNG "Power Apps screen with 4 choices highlighted")
+   ![Power Apps screen with 4 choices highlighted.](media/export-folders-02.PNG "Screenshot of Power Apps screen showing the New solution pane.")
 
 1. Select the new solution, and select **Edit**.  
 
 1. Select **Add existing** > **More** > **Other** > **Folder**.  
 
-   ![Power Apps screen with Add existing and Folder highlighted.](media/export-folders-04.PNG "Power Apps screen with Add existing and Folder highlighted")
+   ![Power Apps screen with Add existing and Folder highlighted.](media/export-folders-04.svg "Screenshot of Power Apps with Add existing and Folder highlighted.")
 
 1. Select the folders you want to include in your export, and then select **Add**.  
 
@@ -51,7 +51,7 @@ Once the export is ready, it downloads automatically as a .zip file.
 
 ### Import the folders
 
-1. Go to [make.powerapps.com](https://make.preview.powerapps.com/) and **ensure you are in the environment where you want to import the folders**. Look at the top right corner of the screen under **Environment**.  
+1. Sign in to [make.powerapps.com](https://make.preview.powerapps.com/) and **ensure you are in the environment where you want to import the folders**. Look at the top right corner of the screen under **Environment**.  
 
 1. [Import the solution](/power-apps/maker/data-platform/import-update-export-solutions) selecting the .zip file you downloaded.
 
