@@ -2,8 +2,8 @@
 author: davepinch
 description: Learn about IP addresses and endpoints required for Dynamics 365 Guides 
 ms.author: davepinch
-ms.date: 09/09/2022
-ms.topic: article
+ms.date: 04/25/2024
+ms.topic: conceptual
 title: Network requirements for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---
@@ -13,6 +13,7 @@ ms.reviewer: v-wendysmith
 Dynamics 365 Guides is a cloud-based application and might require that your network admin add, to an approved list, the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers. The following list contains the minimum URL endpoints and TCP/UDP ports utilized by Dynamics 365 Guides.
 
 #### Authentication
+
 - login.microsoft.com
 - login.microsoftonline.com
 - login.live.com
@@ -28,24 +29,29 @@ Dynamics 365 Guides is a cloud-based application and might require that your net
 If you have specialized needs and/or scale, see the [Teams comprehensive list](/microsoftteams/prepare-network) for specifics.
 
 #### Microsoft Graph
+
 - graph.microsoft.com
 - TCP: 80, 443
 
 #### Dynamics Services
+
 - *.crm.dynamics.com
 - *.crm#.dynamics.com (replace # with your region's number). See a [full list of datacenter regions](/power-platform/admin/new-datacenter-regions).
 - TCP: 80, 443
 
 #### Sharepoint/OneDrive
+
 - *.sharepoint.com
 - TCP: 80, 443
 
 #### Power Apps
+
 - service.powerapps.com
 - api.bap.microsoft.com
 - TCP: 80, 443
 
 #### Documentation 
+
 - aka.ms
 - powerbi.microsoft.com
 - go.microsoft.com
@@ -59,7 +65,6 @@ See [Enterprise Firewall Configurations to Support WNS Traffic](/windows/apps/de
 
 ## See also
 
-- [Unblocking IP addresses and URLs](/power-platform/admin/online-requirements#ip-addresses-and-urls)
+- [Power Platform URLs and IP address ranges](/power-platform/admin/online-requirements#ip-addresses-and-urls)
 - [Deployment Playbook](admin-deployment-playbook.md)
-- [Additional Power Platform endpoints](/power-platform/admin/online-requirements#internet-accessible-urls-required)
 - [Additional HoloLens endpoints](/hololens/hololens-offline)
