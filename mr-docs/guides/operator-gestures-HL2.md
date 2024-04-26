@@ -42,7 +42,7 @@ Use air tap, together with gaze, to select apps, other holograms, and gaze/dwell
 
 HoloLens 2 has sensors that can see a few feet to each side of you. This area is the gesture frame. When you use gestures, keep them inside that frame. Otherwise, HoloLens 2 doesn't see them. As you move around, the frame moves with you. When your hand is inside the frame, the pointer looks like a ring. If HoloLens 2 can't see your hand, the pointer becomes a dot.
 
-### Need a tutorial on gestures?
+### Gestures tutorial
 
 For a tutorial on some basic gestures, open the **Start** menu, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: Frequently asked questions](/hololens/hololens-faq).
 

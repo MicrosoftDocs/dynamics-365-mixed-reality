@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 Hand-tracking in Microsoft HoloLens 2 provides instinctual interactions for authors. You can select and position holograms by using direct touch, like they're real objects. You can also use hand rays to interact with holograms that are out of reach.
 
-## Basic actions and gestures to know
+## Basic actions and gestures
 
 To author or navigate in HoloLens 2 and Dynamics 365 Guides, use these actions and gestures:
 
@@ -27,7 +27,7 @@ To author or navigate in HoloLens 2 and Dynamics 365 Guides, use these actions a
 
     ![Hand ray example.](media/hand-rays-example.PNG "Hand ray example")
 
-- **Gaze**. Select an item or target an object with the HoloLens. If the item has a selection box or circle (gaze/dwell button), select the item by gazing at it. The item is selected when the box or circle is filled. Gaze and air tap are used together often. When you gaze, turn your whole head, not just your eyes. The pointer follows.
+- **Gaze**. Select an item or target an object with the HoloLens. If the item has a selection box or circle (gaze/dwell button), select the item by gazing at it. The item is selected when the box or circle is filled. Gaze and air tap are often used together. When you gaze, turn your whole head, not just your eyes. The pointer follows.
 
     ![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
@@ -39,7 +39,7 @@ To author or navigate in HoloLens 2 and Dynamics 365 Guides, use these actions a
 
 ### Gesture frame
 
-HoloLens 2 has sensors that can see a few feet to each side of you This area is the gesture frame. When you use gestures, keep them inside that frame. Otherwise, HoloLens doesn't see them. As you move around, the frame moves with you. When your hand is inside the frame, a hand ray appears from your palm. If HoloLens can't see your hands, and you're looking at a user interface (UI) element, the gaze pointer appears in the center of your display.
+HoloLens 2 has sensors that can see a few feet to each side of you. This area is the gesture frame. When you use gestures, keep them inside that frame. Otherwise, HoloLens doesn't see them. As you move around, the frame moves with you. When your hand is inside the frame, a hand ray appears from your palm. If HoloLens can't see your hands, and you're looking at a user interface (UI) element, the gaze pointer appears in the center of your display.
 
 ## Work with close-up UI elements and holograms by using touch
 
@@ -47,23 +47,23 @@ For close-up UI elements and holograms, reach out and touch or grab them with yo
 
 ### Select a button
 
-- Push the button with your index finger.
+Push the button with your index finger.
 
 ### Select a hologram
 
-- Touch the hologram with your index finger. The controls appear.
+Touch the hologram with your index finger. The controls appear.
 
     ![Touch dwell animation.](media/touch-dwell-animation.gif "Touch dwell animation")
 
 ### Move a hologram
 
-- Grab the large white sphere in the center of the controls with your hands, and move it where you want. The sphere lights up based on where your index finger is in relation to it.
+Grab the large white sphere in the center of the controls with your hands, move it where you want, and then release. The sphere lights up based on where your index finger is in relation to it.
 
     ![Move a hologram by using touch.](media/touch-move.gif "Move a hologram by using touch")
 
 ### Rotate a hologram
 
-- Pinch one of the blue spheres (rotation controls), and rotate it the way that you want. Arrows appear around the rotation controls to show which direction they can be rotated.
+Select a hologram. Pinch one of the blue spheres (rotation controls). Arrows appear around the rotation controls to show which direction they can be rotated. Rotate the hologram the way that you want, and then release.
 
     **Left/right rotation**
 
@@ -79,13 +79,13 @@ For close-up UI elements and holograms, reach out and touch or grab them with yo
 
 ### Change the size of a hologram
 
-- Pinch the blue dial (**Scale** control) on the right side of the part. A slider track appears above and below the **Scale** control to show scaling up or down.
+Select a hologram. Pinch the blue dial (**Scale** control) on the right side of the part. A slider track appears above and below the **Scale** control to show scaling up or down.
 
     ![Change the size by using touch.](media/touch-scale-hologram.gif "Change the size by using touch")
 
 ### Edit a hologram
 
-- Touch the **Edit hologram** button with your finger, and then touch the command that you want.
+Select a hologram. Touch the **Edit hologram** (pencil) button with your finger, and then touch the command that you want.
 
     ![Edit a hologram by using touch.](media/touch-edit-menu.gif "Edit a hologram by using touch")
 
@@ -98,29 +98,25 @@ Use hand rays to work with UI elements and holograms from a distance. Use gaze t
 
 ### Select a button or UI element with a hand ray
 
-1. To target an object, point your hand ray at it.
+Point your hand ray at an object. Then, air tap to select the object or, if you see a selection box or circle, hold your hand ray on it until it's selected.
 
-1. Follow one of these steps:
+    ![Hand ray dwell on an instruction card animation.](media/hand-ray-dwell-instruction-card-animation.gif "Hand ray dwell on an instruction card animation")
 
-    - Air tap to select the object.
+### Select a hologram with a hand ray
 
-    - If you see a selection box or circle, hold your hand ray on it until it's selected.
-
-        ![Hand ray dwell on an instruction card animation.](media/hand-ray-dwell-instruction-card-animation.gif "Hand ray dwell on an instruction card animation")
-
-### Manipulate a hologram by using a hand ray
-
-1. To target an object, point your hand ray at it. Controls appear around the hologram.
+Point your hand ray at it. Controls appear around the hologram.
 
     ![Hand ray dwell animation.](media/hand-ray-dwell-animation.gif "Hand ray dwell animation")
 
-1. Follow one of these steps:
+### Move a hologram with a hand ray
 
-    - To move the hologram, air tap and hold the hand ray, move the hologram where you want it, and then release.
+Select a hologram. Air tap and hold the hand ray, move the hologram where you want it, and then release.
 
-        ![Hand ray move animation.](media/hand-ray-move-animation.gif "Hand ray move animation")
+    ![Hand ray move animation.](media/hand-ray-move-animation.gif "Hand ray move animation")
 
-    - To rotate the hologram, air tap and hold one of the blue spheres, rotate the hologram, and then release.
+### Rotate a hologram with a hand ray
+
+ Select a hologram. Air tap and hold one of the blue spheres, rotate the hologram, and then release.
 
         **Left/right rotation**
 
@@ -140,9 +136,7 @@ Use hand rays to work with UI elements and holograms from a distance. Use gaze t
 
 ### Select an item on the instruction card by using gaze
 
-1. Put your hands at your sides, and gaze at the button or UI element.
-
-1. Continue to gaze until the button is filled.
+Put your hands at your sides, and gaze at the button or UI element. Continue to gaze until the button is filled.
 
    ![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
@@ -164,7 +158,7 @@ On HoloLens 2, use either one hand or two hands to open the **Start** menu. If y
 
     ![Video camera graphic.](media/video-camera.PNG) [Watch a video about opening the Start menu with two hands](https://www.microsoft.com/videoplayer/embed/RE3Wxng)
 
-## Need a tutorial on gestures?
+## Gestures tutorial
 
 For a tutorial on some basic gestures, open the **Start** menu, and then select **Tips**. This action closes the Dynamics 365 Guides app.
 
