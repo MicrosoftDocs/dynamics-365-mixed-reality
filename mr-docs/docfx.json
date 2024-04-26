@@ -50,8 +50,7 @@
       "titleSuffix": "Dynamics 365 Mixed Reality",
       "breadcrumb_path": "/dynamics365/mixed-reality/breadcrumb/toc.json",
       "extendBreadcrumb": false,
-      "feedback_system": "Standard",
-      
+      "feedback_system": "Standard",    
       "recommendations": "true"
     },
     "fileMetadata": {
