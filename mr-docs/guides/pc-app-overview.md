@@ -6,6 +6,7 @@ ms.date: 04/25/2024
 ms.topic: overview
 title: Overview of using the PC authoring app to create a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Overview of authoring a guide with the Dynamics 365 Guides PC app
@@ -38,7 +39,7 @@ Use the PC app to complete these tasks:
 
 [!INCLUDE [add-guest-user.md](../includes/add-guest-user.md)]
 
-## What's next?
+## Next steps
 
 - [Install and sign in to the PC app](install-sign-in-pc-app.md)
 - [Create a guide](create-guide.md)

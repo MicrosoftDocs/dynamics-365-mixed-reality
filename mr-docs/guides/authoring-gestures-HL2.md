@@ -6,6 +6,7 @@ ms.date: 04/24/2024
 ms.topic: conceptual
 title: HoloLens 2 gestures for authoring and navigating in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # HoloLens 2 gestures for authoring and navigating in Dynamics 365 Guides
@@ -53,41 +54,41 @@ Push the button with your index finger.
 
 Touch the hologram with your index finger. The controls appear.
 
-    ![Touch dwell animation.](media/touch-dwell-animation.gif "Touch dwell animation")
+![Touch dwell animation.](media/touch-dwell-animation.gif "Touch dwell animation")
 
 ### Move a hologram
 
 Grab the large white sphere in the center of the controls with your hands, move it where you want, and then release. The sphere lights up based on where your index finger is in relation to it.
 
-    ![Move a hologram by using touch.](media/touch-move.gif "Move a hologram by using touch")
+![Move a hologram by using touch.](media/touch-move.gif "Move a hologram by using touch")
 
 ### Rotate a hologram
 
 Select a hologram. Pinch one of the blue spheres (rotation controls). Arrows appear around the rotation controls to show which direction they can be rotated. Rotate the hologram the way that you want, and then release.
 
-    **Left/right rotation**
+#### Left/right rotation
 
-    ![Rotate right by using touch.](media/touch-rotate-right.gif "Rotate right by using touch")
+![Rotate right by using touch.](media/touch-rotate-right.gif "Rotate right by using touch")
 
-    **Up/down rotation**
+#### Up/down rotation
 
-    ![Rotate up and down by using touch.](media/touch-rotate-up-down.gif "Rotate up and down by using touch")
+![Rotate up and down by using touch.](media/touch-rotate-up-down.gif "Rotate up and down by using touch")
 
-    **Free rotation**
+#### Free rotation
 
-    ![Free rotate by using touch.](media/touch-free-rotate.gif "Free rotate by using touch")
+![Free rotate by using touch.](media/touch-free-rotate.gif "Free rotate by using touch")
 
 ### Change the size of a hologram
 
 Select a hologram. Pinch the blue dial (**Scale** control) on the right side of the part. A slider track appears above and below the **Scale** control to show scaling up or down.
 
-    ![Change the size by using touch.](media/touch-scale-hologram.gif "Change the size by using touch")
+![Change the size by using touch.](media/touch-scale-hologram.gif "Change the size by using touch")
 
 ### Edit a hologram
 
 Select a hologram. Touch the **Edit hologram** (pencil) button with your finger, and then touch the command that you want.
 
-    ![Edit a hologram by using touch.](media/touch-edit-menu.gif "Edit a hologram by using touch")
+![Edit a hologram by using touch.](media/touch-edit-menu.gif "Edit a hologram by using touch")
 
 ## Work with far-away UI elements and holograms by using hand rays and gaze
 
@@ -100,39 +101,39 @@ Use hand rays to work with UI elements and holograms from a distance. Use gaze t
 
 Point your hand ray at an object. Then, air tap to select the object or, if you see a selection box or circle, hold your hand ray on it until it's selected.
 
-    ![Hand ray dwell on an instruction card animation.](media/hand-ray-dwell-instruction-card-animation.gif "Hand ray dwell on an instruction card animation")
+![Hand ray dwell on an instruction card animation.](media/hand-ray-dwell-instruction-card-animation.gif "Hand ray dwell on an instruction card animation")
 
 ### Select a hologram with a hand ray
 
 Point your hand ray at it. Controls appear around the hologram.
 
-    ![Hand ray dwell animation.](media/hand-ray-dwell-animation.gif "Hand ray dwell animation")
+![Hand ray dwell animation.](media/hand-ray-dwell-animation.gif "Hand ray dwell animation")
 
 ### Move a hologram with a hand ray
 
 Select a hologram. Air tap and hold the hand ray, move the hologram where you want it, and then release.
 
-    ![Hand ray move animation.](media/hand-ray-move-animation.gif "Hand ray move animation")
+![Hand ray move animation.](media/hand-ray-move-animation.gif "Hand ray move animation")
 
 ### Rotate a hologram with a hand ray
 
- Select a hologram. Air tap and hold one of the blue spheres, rotate the hologram, and then release.
+Select a hologram. Air tap and hold one of the blue spheres, rotate the hologram, and then release.
 
-        **Left/right rotation**
+#### Left/right rotation with a hand ray
 
-        ![Hand ray rotate left or right animation.](media/hand-ray-rotate-left-right-animation.gif "Hand ray rotate left or right animation")
+[Hand ray rotate left or right animation.](media/hand-ray-rotate-left-right-animation.gif "Hand ray rotate left or right animation")
 
-        **Free rotation**
+#### Free rotation with a hand ray
 
-        ![Hand ray free rotate animation.](media/hand-ray-free-rotate-animation.gif "Hand ray free rotate animation")
+![Hand ray free rotate animation.](media/hand-ray-free-rotate-animation.gif "Hand ray free rotate animation")
 
-    - To change the size of a hologram, air tap and hold the **Scale** control. While you hold the control, move it up or down along the slider track.
+- To change the size of a hologram, air tap and hold the **Scale** control. While you hold the control, move it up or down along the slider track.
 
-        ![Hand ray scale animation.](media/hand-ray-scale-animation.gif "Hand ray scale animation")
+    ![Hand ray scale animation.](media/hand-ray-scale-animation.gif "Hand ray scale animation")
 
-    - To edit the hologram, air tap the **Edit** button, and then air tap the selections that you want.
+- To edit the hologram, air tap the **Edit** button, and then air tap the selections that you want.
 
-        ![Hand ray edit a hologram animation.](media/hand-ray-edit-hologram-animation.gif "Hand ray edit a hologram animation")
+    ![Hand ray edit a hologram animation.](media/hand-ray-edit-hologram-animation.gif "Hand ray edit a hologram animation")
 
 ### Select an item on the instruction card by using gaze
 

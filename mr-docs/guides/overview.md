@@ -2,10 +2,11 @@
 author: davepinch
 description: Overview of Dynamics 365 Guides capabilities and apps
 ms.author: davepinch
-ms.date: 04/24/2024
-ms.topic: overview
+ms.date: 04/29/2024
+ms.topic: welcome
 title: Welcome to Dynamics 365 Guides
 ms.reviewer: v-wendysmith
+ms.custom: bap-template
 ---
 
 # Welcome to Dynamics 365 Guides
@@ -32,7 +33,7 @@ Dynamics 365 Guides provides heads-up, hands-free, step-by-step instructions dur
 
 Managers can use Power BI dashboards to view rich data about how processes are working for their employees. With this data, managers can continually analyze and improve processes without having to do expensive studies.
 
-Dynamics 365 Guides also provides access and integration opportunities for customers and partners, because it's part of the Dynamics 365 product family and is powered by Microsoft Dataverse.
+Dynamics 365 Guides provides access and integration opportunities for customers and partners, because it's part of the Dynamics 365 product family and is powered by Microsoft Dataverse.
 
 ## Dynamics 365 Guides videos
 
