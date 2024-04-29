@@ -24,7 +24,7 @@ With Microsoft Dynamics 365 Remote Assist, you can make or take the following ty
 
 With Dynamics 365 Remote Assist on HoloLens, you can collaborate with:
 
-- A Teams desktop user in a one-to-one call, group call, or meeting scheduled using Microsoft Teams or Outlook. To learn more about different combinations of HoloLens and Teams users on group calls, see [Group calls](#group-calls).
+- A Teams desktop user in a one-to-one call, group call, or meeting scheduled using Microsoft Teams or Outlook. To learn more about different combinations of HoloLens and Teams users on group calls, go to [Group calls](#group-calls).
 
 - A Dynamics 365 Remote Assist mobile user in a one-to-one call or group call
 
@@ -56,7 +56,7 @@ With Dynamics 365 Remote Assist on HoloLens, you can collaborate with:
 You can search, call, and receive a call from a Dynamics 365 Remote Assist user in another tenant if your tenant is federated with that tenant. To call a federated user, open the app, select **Search**, and then use the holographic keyboard to enter their full email address. If you enter just a name or a partial email address, search results don't display. After you call a federated contact, they appear in your recent contacts list, so you don't have to search for that contact again.
 
 >[!Note]
-> If you can't find the contact you're looking for, it might be because Teams federation ([Teams external access](/microsoftteams/manage-external-access#:~:text=Enable%20your%20Organization%20to%20Communicate%20with%20another%20Teams,your%20organization%2C%20skip%20to%20step%205.%20See%20More.)) has not been enabled. Contact your administrator for help.
+> If you can't find the contact you're looking for, it might be because Teams federation has not been enabled. Contact your administrator to [manage Teams external access](/microsoftteams/trusted-organizations-external-meetings-chat?tabs=organization-settings).
 
 ## Group calls
 
@@ -112,7 +112,8 @@ If you join the call, remote collaborators are able to see what you see in your 
 
 If you're on a longer call in Dynamics 365 Remote Assist for HoloLens, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and wi-fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality. A series of messages appear letting you know how and why the outgoing video quality is being adjusted. [Learn more about how Dynamics 365 Remote Assist adjusts video quality](hololens-thermal-adjusting.md).
 
-### Learn more 
+## See also
+ 
 - [Group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop](./mobile-app/group-calling.md).
 
 
