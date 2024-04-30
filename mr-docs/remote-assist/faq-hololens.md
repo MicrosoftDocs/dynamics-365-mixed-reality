@@ -71,9 +71,9 @@ Regardless of how snapshots are saved, a link to the snapshot is sent via the te
 
 Hologram stability refers to how well a placed hologram stays where you placed it.
 
-- *Perceptual* instability could refer to a hologram that seems to move with your head motion, instead of tracking the placed position in space.
+- *Perceptual* instability is a hologram that seems to move with your head motion, instead of tracking the placed position in space.
 
-- *Actual* instability could refer to a hologram whose coordinates have changed in virtual space, or whose position relative to a real-world object has shifted regardless of user input or head tracking.
+- *Actual* instability is a hologram whose coordinates have changed in virtual space, or whose position relative to a real-world object has shifted regardless of user input or head tracking.
 
 Holograms are always going to be most stable **when your head (not your eyes) is pointed directly at them**. The expected tolerance for hologram stability is that they remain within 1 cm of the placed position for every 1 m of distance from the device.
 
@@ -85,7 +85,7 @@ Learn how to clean [HoloLens 2](/hololens/hololens2-maintenance).
 
 ## Can I save call artifacts to a Field Service work order?
 
-Yes. If you opened a Field Service booking and then made a Dynamics 365 Remote Assist call, at the end of the call, you're prompted to post the call log and files shared during the call to the work order associated with that booking.
+Yes. If you opened a Field Service booking and made a Dynamics 365 Remote Assist call, at the end of the call, you're prompted. You can post the call log and files shared during the call to the work order associated with that booking.
 
 To view the call log and files, sign in to Field Service and select the work order. Two new notes were created and attached to the work order. One note includes call log info. The other note includes a link to each file in plain text. You can also edit the note to include the Stream link of the recorded call, which can be found in your Teams chat.
 
@@ -104,7 +104,7 @@ There are two ways to get to the HoloLens Feedback Hub application to report a b
 
 1. From the home tab in the HoloLens Feedback Hub, select **Report a problem**.
 
-1. In the **Enter your feedback** section, summarize your feedback. To type, tap the text field and a holographic keyboard will appear. Then, select **Next**. To edit your response to any step after you’ve chosen **Next**, select **Edit**, which is to the top right of the text field.
+1. In the **Enter your feedback** section, summarize your feedback. To type, tap the text field and a holographic keyboard appears. Then, select **Next**. To edit your response to any step after you’ve chosen **Next**, select **Edit**, which is to the top right of the text field.
 
 1. In the **Choose a category** section, select **Apps** and **Microsoft Remote Assist**. To select an item in the drop-down menu, select the menu.
 
@@ -132,7 +132,7 @@ There are two ways to get to the HoloLens Feedback Hub application to report a b
 
    - Select **End recording**.
 
-   - Diagnostic data, a video, and audio from the recording will be attached. You may remove each one if you want to.
+   - Diagnostic data, a video, and audio from the recording are attached. You can remove each one if you want to.
 
     > [!Note]
     > Optionally, check **This is blocking me** if the issue is blocking you from completing your work or tasks.

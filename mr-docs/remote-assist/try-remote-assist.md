@@ -29,17 +29,17 @@ You can try Microsoft Dynamics 365 Remote Assist for free on your HoloLens 2, mo
 
 ## Option 1: License-free 90-day trial for individuals
 
-The license-free trial grants access only to the client application. Additional Dynamics 365 Remote Assist functionality through the Dynamics 365 Remote Assist solution (asset capture, one-time calling, calls dashboard) is not included and requires additional licensing.
+The license-free trial grants access only to the client application. Other Dynamics 365 Remote Assist functionality through the Dynamics 365 Remote Assist solution (asset capture, one-time calling, calls dashboard) isn't included and requires other licensing.
 
 ### Prerequisites
 
-- A [Microsoft account](https://account.microsoft.com/account) to use the Microsoft Teams Free account. A Microsoft account cannot be used with the Dynamics 365 Remote Assist trial license options. It can only be used for the license-free 90-day trial when combined with Microsoft Teams Free.
+- A [Microsoft account](https://account.microsoft.com/account) to use the Microsoft Teams Free account. A Microsoft account can't be used with the Dynamics 365 Remote Assist trial license options. It can only be used for the license-free 90-day trial when combined with Microsoft Teams Free.
 
 - A [Microsoft Teams Free account](https://products.office.com/microsoft-teams/free).
 
-- A [Microsoft Entra ID Free, P1 or P2](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) (for HoloLens users only). Users will sign in to their accounts through Microsoft Entra.
+- A [Microsoft Entra ID Free, P1 or P2](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) (for HoloLens users only). Users sign in to their accounts through Microsoft Entra.
 
-- A HoloLens 2 or mobile device. [Learn about additional licensing and product requirements](./requirements.md).
+- A HoloLens 2 or mobile device. [Learn about licensing and product requirements](./requirements.md).
 
 With the license-free 90-day free trial, each user must download Dynamics 365 Remote Assist from the appropriate app store to start the trial.
 
