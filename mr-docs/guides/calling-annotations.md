@@ -1,6 +1,5 @@
 ---
 title: Use annotations with Dynamics 365 Guides
-author: davepinch
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen.
 ms.author: davepinch
 ms.date: 04/08/2024
@@ -11,7 +10,7 @@ ms.custom: bap-template
 
 # Use annotations with Dynamics 365 Guides
 
-Annotations are useful for pointing out different parts of your space, including parts that might be difficult or dangerous to reach. All call participants can see each other's additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it or leaves the call.
+Annotations are useful for pointing out different parts of your space, including parts that might be difficult to reach. All call participants can see each other's additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it or leaves the call.
 
 If you're using Dynamics 365 Guides and you're on a call with another person or group, you can annotate in your environment in different ways. The primary way to use annotations is through Microsoft Teams.
 
@@ -23,7 +22,7 @@ If you're using Dynamics 365 Guides and you're on a call with another person or 
 
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
 
-<!--- This topic in RA and Field Serive. Field Service topic is annotations-teams-mobile.md --->
+<!--- This topic in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
 
 ## Use Guides HoloLens to annotate in your environment
 
@@ -61,18 +60,17 @@ When you join a call in Microsoft Teams (PC or Mac), the Dynamics 365 Guides col
 ![Screenshot of the Teams mixed reality toolbar.](media/calling-annotations-teams-desktop-mr-toolbar.JPG)
 
 > [!NOTE]
+>
 > - The toolbar appears only when the video feed for the Dynamics 365 Guides user is active.
 > - The toolbar is disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides is not in the foreground).
 > - The toolbar is disabled if the same Guides user is connected from Teams and Dynamics 365 Guides at the same time, regardless of the device used.
 
 ### Start annotations
 
-1. Do one of the following to pause the video stream and enter edit mode:
+1. To pause the video stream and enter edit mode, choose one of the following actions:
 
    - Select anywhere in the call window.
-
    - Select one of the items on the **Mixed Reality** toolbar.
-
    - Select **Start editing**.
 
    In edit mode, a live stream of the call displays in the corner of the app window, including the annotations that other call participants add.

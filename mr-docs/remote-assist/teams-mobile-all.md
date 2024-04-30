@@ -1,10 +1,9 @@
 ---
-author: davepinch
-description: Any Remote Assist, Guides, or Field Service user can collaborate with other users through the Microsoft Teams mobile app.
+title: Collaborate with any user through Microsoft Teams mobile
+description: Discover how users of Remote Assist, Guides, or Field Service can collaborate with other users through the Microsoft Teams mobile app.
 ms.author: davepinch
 ms.date: 04/10/2024
 ms.topic: how-to
-title: Collaborate with any user through Microsoft Teams mobile
 ms.reviewer: v-wendysmith
 ---
 
@@ -15,9 +14,9 @@ ms.reviewer: v-wendysmith
 >
 > [Learn more](https://go.microsoft.com/fwlink/?linkid=2227374) and [try Guides](https://go.microsoft.com/fwlink/?linkid=2227510)!
 
-Users can initiate a Remote Assist call right within Teams mobile without switching apps to get support from a remote expert. Technicians can share their mobile camera view with a remote expert and have them annotate on their screen or Teams users can annotate in their own space and share with other collaborators.
+Users can initiate a Remote Assist call right in Teams mobile without switching apps to get support from a remote expert. Technicians can share their mobile camera view with a remote expert and have them annotate on their screen or Teams users can annotate in their own space and share with other collaborators.
 
-When you use Teams on mobile, you can collaborate using the Spatial Annotations toolbar in a call with anyone who is using HoloLens 2 or another Teams user on PC, Mac, or mobile.
+When you use Teams on mobile, you can collaborate using the Spatial Annotations toolbar in a call with anyone who is using HoloLens 2 or another Teams user on PC, Mac, or mobile device.
 
 ## Make a call
 
@@ -31,17 +30,19 @@ Under **History**, you see your recent contacts. Select one of the contacts to c
 
 ![Screenshot showing the call controls in Teams mobile.](media/TeamsMobile_CallControl.png "Call control")
 
-Use call controls to specify whether your collaborator can see what you see, hear what you hear, and more.
+Use call controls to specify whether your collaborator can see what you see, or hear what you hear.
 
 Call controls are found at the bottom of the screen.
+
 - The **Video icon** controls outgoing video.
 - The **Microphone icon** controls outgoing audio.
 - The **Speaker icon** controls incoming audio.
 
 For more actions, select the ellipses icon. Other actions include:
--	**Toggle incoming video**
--	**Share your screen** – your screen pops up as a video in the Dynamics 365 Remote Assist HoloLens user’s world.
--	**Start video with blur** (iOS only) - useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you.
+
+- **Toggle incoming video**
+- **Share your screen**—your screen pops up as a video in the Dynamics 365 Remote Assist HoloLens user’s world.
+- **Start video with blur** (iOS only)—useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you.
 - **Insert file** to share a file.
 
 > [!NOTE]
@@ -51,11 +52,11 @@ For more actions, select the ellipses icon. Other actions include:
 
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
 
-<!--- This topic in RA and Field Serive. Field Service topic is annotations-teams-mobile.md --->
+<!--- This topic in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
 
 ## Send a text message
 
-Select the **Text icon** (which looks like this: ![Graphic showing the text icon, which looks like a chat bubble.](media/TeamsMobile_Text.png)) to open the text chat and send text messages. After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat. 
+Select the **Text icon** ![Graphic showing the text icon, which looks like a chat bubble.](media/TeamsMobile_Text.png) to open the text chat and send text messages. After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat.
 
 > [!NOTE]
 > You may notice that you can attach a photo, gif, or file via the text message. This is not the best way to share a file. Please read the next two sections to learn how to share a OneDrive file and a photo from your device.
@@ -64,6 +65,7 @@ Select the **Text icon** (which looks like this: ![Graphic showing the text icon
 
 > [!NOTE]
 > Dynamics 365 Remote Assist follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
+>
 > - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
 > - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
 
@@ -93,7 +95,6 @@ To share your screen, go to call controls, select the ellipses icon […], selec
 
 ![Screenshot of the Start broadcast window in Teams mobile.](media/TeamsMobile_ScreenBroadcast.png "ScreenBroadcast")
 
-After a few seconds, a live view of your screen is displayed as a new slate in the Dynamics 365 Remote Assist HoloLens user’s environment. 
-
+After a few seconds, a live view of your screen is displayed as a new slate in the Dynamics 365 Remote Assist HoloLens user’s environment.
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
