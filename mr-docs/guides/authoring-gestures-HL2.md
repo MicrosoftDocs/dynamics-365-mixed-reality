@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to use HoloLens 2 touch, hand rays, and gaze to navigate and manipulate holograms in Microsoft Dynamics 365 Guides.
 ms.author: davepinch
-ms.date: 04/24/2024
+ms.date: 05/01/2024
 ms.topic: conceptual
 title: HoloLens 2 gestures for authoring and navigating in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -121,25 +121,29 @@ Select a hologram. Air tap and hold one of the blue spheres, rotate the hologram
 
 #### Left/right rotation with a hand ray
 
-[Hand ray rotate left or right animation.](media/hand-ray-rotate-left-right-animation.gif "Hand ray rotate left or right animation")
+![Hand ray rotate left or right animation.](media/hand-ray-rotate-left-right-animation.gif "Hand ray rotate left or right animation")
 
 #### Free rotation with a hand ray
 
 ![Hand ray free rotate animation.](media/hand-ray-free-rotate-animation.gif "Hand ray free rotate animation")
 
-- To change the size of a hologram, air tap and hold the **Scale** control. While you hold the control, move it up or down along the slider track.
+### Change the size of a hologram with a hand ray
 
-    ![Hand ray scale animation.](media/hand-ray-scale-animation.gif "Hand ray scale animation")
+Select a hologram. Air tap and hold the **Scale** control. While you hold the control, move it up or down along the slider track.
 
-- To edit the hologram, air tap the **Edit** button, and then air tap the selections that you want.
+![Hand ray scale animation.](media/hand-ray-scale-animation.gif "Hand ray scale animation")
 
-    ![Hand ray edit a hologram animation.](media/hand-ray-edit-hologram-animation.gif "Hand ray edit a hologram animation")
+### Edit a hologram with a hand ray
+
+Select a hologram. Air tap the **Edit** button, and then air tap the selections that you want.
+
+![Hand ray edit a hologram animation.](media/hand-ray-edit-hologram-animation.gif "Hand ray edit a hologram animation")
 
 ### Select an item on the instruction card by using gaze
 
 Put your hands at your sides, and gaze at the button or UI element. Continue to gaze until the button is filled.
 
-   ![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
+![Animation of gaze gesture.](media/gaze-fill-2.gif "Animation of gaze gesture")
 
 ## Open the Start menu
 
