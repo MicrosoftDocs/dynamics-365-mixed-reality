@@ -45,13 +45,14 @@
         "marycc",
         "tinaburden",
         "almostdunh",
-        "AshleyWoodruff"
+        "AshleyWoodruff",
+        "kimberleybrown",
+        "nathlaroche"
       ],
       "titleSuffix": "Dynamics 365 Mixed Reality",
       "breadcrumb_path": "/dynamics365/mixed-reality/breadcrumb/toc.json",
       "extendBreadcrumb": false,
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/dynamics-365-mixed-reality",
+      "feedback_system": "Standard",    
       "recommendations": "true"
     },
     "fileMetadata": {
