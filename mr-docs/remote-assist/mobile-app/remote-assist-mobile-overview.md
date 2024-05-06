@@ -3,7 +3,7 @@ title: Dynamics 365 Remote Assist mobile overview
 author: davepinch
 description: Discover the features and functions of Dynamics 365 Remote Assist mobile app.
 ms.author: davepinch
-ms.date: 04/29/2024
+ms.date: 05/06/2024
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---

@@ -2,7 +2,7 @@
 author: davepinch
 description: Set up Microsoft Teams so a Dynamics 365 Remote Assist worker can work collaboratively. 
 ms.author: davepinch
-ms.date: 04/29/2024
+ms.date: 05/06/2024
 ms.topic: how-to
 title: Set up Microsoft Teams for Dynamics 365 Remote Assist 
 ms.reviewer: v-wendysmith
@@ -13,7 +13,7 @@ ms.reviewer: v-wendysmith
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 A technician or inspector can use Remote Assist to work collaboratively with a remote colleague (typically an expert in a particular field) who uses Microsoft Teams. The remote collaborator might only want to [join a Remote Assist call on a one-time basis](common-deployment-scenarios.md#scenario-3-vendors-and-customers-join-one-time-call). Or, they might want to collaborate with a Remote Assist user long-term.  
- 
+
 This document explains the deployment required for different scenarios.
 
 ## Enable someone to join a Remote Assist call on a one-time basis using the Teams desktop app 

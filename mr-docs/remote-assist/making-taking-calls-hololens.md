@@ -3,7 +3,7 @@ title: Make calls in Dynamics 365 Remote Assist on HoloLens
 author: davepinch
 description: Make calls with someone inside or outside your organization in Dynamics 365 Remote Assist on HoloLens.
 ms.author: davepinch
-ms.date: 04/23/2024
+ms.date: 05/06/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
@@ -56,7 +56,7 @@ With Dynamics 365 Remote Assist on HoloLens, you can collaborate with:
 You can search, call, and receive a call from a Dynamics 365 Remote Assist user in another tenant if your tenant is federated with that tenant. To call a federated user, open the app, select **Search**, and then use the holographic keyboard to enter their full email address. If you enter just a name or a partial email address, search results don't display. After you call a federated contact, they appear in your recent contacts list, so you don't have to search for that contact again.
 
 >[!Note]
-> If you can't find the contact you're looking for, it might be because Teams federation has not been enabled. Contact your administrator to [manage Teams external access](/microsoftteams/trusted-organizations-external-meetings-chat?tabs=organization-settings).
+> If you can't find the contact you're looking for, it might be because Teams federation isn't enabled. Contact your administrator to [manage Teams external access](/microsoftteams/trusted-organizations-external-meetings-chat?tabs=organization-settings).
 
 ## Group calls
 

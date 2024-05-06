@@ -4,7 +4,7 @@ description: Learn about the different types of free trials for Dynamics 365 Rem
 author: davepinch
 ms.author: davepinch
 ms.service: dynamics-365-remote-assist
-ms.date: 04/29/2024
+ms.date: 05/06/2024
 ms.topic: how-to 
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -85,7 +85,7 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 
 1. Scroll or search for **Dynamics 365 Remote Assist**.
 
-   :::image type="content" source="./media/deploy-1.png" alt-text="Navigate to Dynamics 365 Remote Assist subscription":::
+   :::image type="content" source="./media/deploy-1.svg" alt-text="Navigate to Dynamics 365 Remote Assist subscription":::
 
 1. Select **Details**.
 

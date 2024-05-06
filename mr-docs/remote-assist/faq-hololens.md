@@ -2,7 +2,7 @@
 author: davepinch
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist on Microsoft HoloLens.
 ms.author: davepinch
-ms.date: 04/29/2024
+ms.date: 05/06/2024
 ms.topic: faq
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
 ms.reviewer: v-wendysmith
@@ -39,7 +39,7 @@ The Connect app for wireless projection using Miracast is no longer installed by
 
 ## I see a message saying I have no internet connection
 
-To use Dynamics 365 Remote Assist, you need an internet connection. For more information about connecting to the internet on your HoloLens, visit [this support article](https://support.microsoft.com/help/12629).
+To use Dynamics 365 Remote Assist, you need an internet connection. Go to [Connect HoloLens to a network](https://support.microsoft.com/help/12629).
 
 ## Why does audio sometimes cut out even in quiet environments?
 

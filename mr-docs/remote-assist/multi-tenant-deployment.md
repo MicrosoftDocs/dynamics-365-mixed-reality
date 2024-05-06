@@ -2,7 +2,7 @@
 author: davepinch
 description: Multitenant company deployments for Dynamics 365 Remote Assist.
 ms.author: davepinch
-ms.date: 05/01/2024
+ms.date: 05/06/2024
 ms.topic: conceptual
 title: Multitenant company deployments
 ms.reviewer: v-wendysmith
