@@ -20,8 +20,8 @@ Deploy Dynamics 365 Remote Assist to your organization. You can [deploy to multi
 
 ## Prerequisites
 
-- A [purchased Dynamics 365 Field Service license](/dynamics365/field-service/buy-fs), or a [trial](try-remote-assist.md) or [purchased Dynamics 365 Remote Assist license](buy-remote-assist.md)
-- Individuals have a [supported device](./requirements.md)
+- A [purchased Dynamics 365 Field Service license](/dynamics365/field-service/buy-fs), or a [trial](try-remote-assist.md) or [purchased Dynamics 365 Remote Assist license](buy-remote-assist.md).
+- Individuals have a [supported device](./requirements.md).
 
 ## Add users and assign licenses
 
@@ -38,14 +38,14 @@ If you purchased Dynamics 365 Remote Assist or have a trial version, determine t
 
 - Individual users in your organization must have a Microsoft Entra account to sign in to the app.
 
-### Add and assign licenses
+### Add users and assign licenses
 
-Add and assign licenses to *individual users* or a *group of users* in your organization through the Microsoft 365 or Microsoft 365 administrator portal.
+Add and assign licenses to *individual users* or a *group of users* in your organization.
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/) using your organization’s admin account.
 
 1. Add and assign licenses:
-   - To add a user and assign a license at the same time, see [Add users and assign licenses at the same time](/microsoft-365/admin/add-users/add-users). In the **Billing** > **Licenses** section, make sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses.
+   - To add a user and assign a license at the same time, see [Add users and assign licenses at the same time](/microsoft-365/admin/add-users/add-users). Make sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses.
 
    - To add multiple users at the same time, see [Add multiple users at the same time](/microsoft-365/admin/add-users/add-users#add-multiple-users-at-the-same-time-in-dashboard-view).
 

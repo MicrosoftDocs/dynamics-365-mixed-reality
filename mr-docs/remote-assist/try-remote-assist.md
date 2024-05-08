@@ -78,7 +78,7 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 
 - Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/microsoft-365/admin/add-users/about-admin-roles).
 
-1. Log into the [Microsoft 365 admin center](https://admin.microsoft.com/) using your organization’s admin account.
+1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/) using your organization’s admin account.
 
 1. In the left navigation bar, select **Marketplace**.
 

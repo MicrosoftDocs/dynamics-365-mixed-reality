@@ -2,7 +2,7 @@
 author: davepinch
 description: Get an overview of the capabilities and benefits of the Dynamics 365 Remote Assist HoloLens and mobile apps.
 ms.author: davepinch
-ms.date: 04/24/2024
+ms.date: 05/08/2024
 ms.topic: welcome
 title: Welcome to Dynamics 365 Remote Assist 
 ms.reviewer: v-wendysmith

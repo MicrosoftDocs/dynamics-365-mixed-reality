@@ -3,7 +3,7 @@ title: Overview of Dynamics 365 Remote Assist on HoloLens 2
 author: davepinch
 description: Overview of Dynamics 365 Remote Assist features and links to HoloLens 2 gestures.
 ms.author: davepinch
-ms.date: 04/22/2024
+ms.date: 05/08/2024
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
@@ -24,7 +24,6 @@ To use Dynamics 365 Remote Assist with HoloLens 2, you need:
 - An internet connection. At least [1.5 mpbs of bandwidth is recommended](/microsoftteams/upgrade-prepare-environment-prepare-network#bandwidth-planning).
 - Your credentials for signing into the HoloLens and Dynamics 365 Remote Assist.
 - Dynamics 365 Remote Assist installed on your HoloLens 2.
-- (Optional) If you're a Dynamics 365 Field Service customer, a [Dynamics 365 Remote Assist Attach license](buy-remote-assist.md) to connect to Dynamics 365 Field Service from Dynamics 365 Remote Assist.
 
 ## Overview of core features
 
