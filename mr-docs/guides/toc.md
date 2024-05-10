@@ -34,7 +34,7 @@
 ## Administer Dynamics 365 Guides
 
 ### Manage users and roles
-#### [Add licenses and users to individual users](add-users.md)
+#### [Add licenses to individual users](add-users.md)
 #### [Add licenses, users, and roles to Microsoft Entra groups](admin-assign-role-groups.md) 
 #### [About the Author and Operator roles](admin-role-types.md)
 #### [Assign roles to individual users](assign-role.md)
