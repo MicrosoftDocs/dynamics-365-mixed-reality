@@ -19,13 +19,13 @@ This page provides details about the latest release in the **current wave of fea
 
 If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
-## March 26, 2024
+## June 4, 2024
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 904. |
-|HoloLens app | 904. |
-|Solution| 900. |
+|PC app| 904.x |
+|HoloLens app | 904.x |
+|Solution| 900.x |
 
 This solution version includes miscellaneous fixes and improvements.
 
