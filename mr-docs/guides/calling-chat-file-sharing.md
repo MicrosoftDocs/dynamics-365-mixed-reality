@@ -75,16 +75,18 @@ To start a chat:
 
 A remote collaborator on Teams (PC, Mac, or mobile) can share a file when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a .pdf file of a diagram to help the Dynamics 365 Guides user resolve a problem. The remote collaborator can share the following types of files: .jpg, .bmp, .png, .tif/.tiff, .pdf, still gif. 
 
-To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can [share their desktop or application window](calling-screen-sharing.md). 
+To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can [share their desktop or application window](calling-screen-sharing.md).
 
 > [!NOTE]
 > After you share a file from Teams, only the Dynamics 365 Guides user can move, resize, or delete the file from their space.
+
+Guides can't share files if an external user is on the call. Guides displays a "check your internet connection" error if you try to share a file.
 
 ### Teams policies and file sharing
 
 Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
 
-- [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
+- [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access). 
 
 - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
 
