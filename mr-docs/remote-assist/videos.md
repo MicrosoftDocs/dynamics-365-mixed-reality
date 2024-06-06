@@ -4,7 +4,7 @@ description: Watch these short videos to get up and running with Microsoft Dynam
 ms.author: davepinch
 ms.date: 04/07/2020
 ms.topic: article
-title: How-to videos for Dynamics 365 Remote Assist (contains video)  
+title: How-to videos for Dynamics 365 Remote Assist
 ms.reviewer: v-wendysmith
 ---
 
