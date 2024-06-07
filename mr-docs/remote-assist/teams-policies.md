@@ -3,7 +3,7 @@ description: Learn which Microsoft Teams policies are supported by Dynamics 365 
 title: Microsoft Teams policies supported by Dynamics 365 Remote Assist
 author: davepinch
 ms.author: davepinch
-ms.date: 06/17/2022
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---

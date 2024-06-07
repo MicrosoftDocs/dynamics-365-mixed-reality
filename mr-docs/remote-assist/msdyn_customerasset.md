@@ -1,7 +1,7 @@
 ---
 title: msdyn_customerasset Entity Reference
 description: "Includes schema information for the msdyn_customerasset entity."
-ms.date: 03/24/2023
+ms.date: 06/07/2024
 ms.topic: reference
 author: m-hartmann
 ms.author: mhart

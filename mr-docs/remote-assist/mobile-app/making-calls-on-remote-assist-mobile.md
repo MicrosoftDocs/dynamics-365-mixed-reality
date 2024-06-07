@@ -3,7 +3,7 @@ title: Overview of making calls with Dynamics 365 Remote Assist mobile
 author: davepinch
 description: Addresses all calling scenarios for Dynamics 365 Remote Assist mobile
 ms.author: davepinch
-ms.date: 04/04/2024 
+ms.date: 06/07/2024
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
