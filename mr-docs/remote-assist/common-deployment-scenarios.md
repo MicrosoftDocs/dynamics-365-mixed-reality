@@ -3,7 +3,7 @@ title: Deployment scenarios overview
 author: davepinch
 description: Deployment scenarios overview 
 ms.author: davepinch
-ms.date: 09/15/2020
+ms.date: 06/07/2024
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---

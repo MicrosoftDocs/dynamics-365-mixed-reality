@@ -2,7 +2,7 @@
 author: davepinch
 description: Learn how to set up a Dynamics 365 Remote Assist device license for multiple technicians on a single device.
 ms.author: davepinch
-ms.date: 03/21/2024
+ms.date: 06/07/2024
 ms.topic: how-to
 title: Set up a Remote Assist device license for multiple technicians on a shared device
 ms.reviewer: v-wendysmith

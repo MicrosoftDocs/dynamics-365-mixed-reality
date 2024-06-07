@@ -2,7 +2,7 @@
 author: davepinch
 description: Answers to common questions about deploying Microsoft Dynamics 365 Remote Assist.
 ms.author: davepinch
-ms.date: 09/14/2022
+ms.date: 06/07/2024
 ms.topic: article
 title: Frequently asked questions for deploying Dynamics 365 Remote Assist 
 ms.reviewer: v-wendysmith

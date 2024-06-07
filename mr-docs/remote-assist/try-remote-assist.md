@@ -4,7 +4,7 @@ description: Learn about the different types of free trials for Dynamics 365 Rem
 author: davepinch
 ms.author: davepinch
 ms.service: dynamics-365-remote-assist
-ms.date: 05/08/2024
+ms.date: 06/07/2024
 ms.topic: how-to 
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
