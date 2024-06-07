@@ -3,7 +3,7 @@ title: Record calls in Dynamics 365 Remote Assist on HoloLens
 author: davepinch
 description: Use cloud-based recording or several other alternatives in Microsoft Dynamics 365 Remote Assist on HoloLens
 ms.author: davepinch
-ms.date: 04/07/2022
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---

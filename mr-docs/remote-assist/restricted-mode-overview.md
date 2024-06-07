@@ -3,7 +3,7 @@ title: Protect company information by restricting capabilities in Dynamics 365 R
 author: davepinch
 description: Learn how to protect company information in Microsoft Dynamics 365 Remote Assist by restricting capabilities, including calling, access to OneDrive files, access to asset records, and the ability to sign out of the app.
 ms.author: davepinch
-ms.date: 04/13/2022
+ms.date: 06/07/2024
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
