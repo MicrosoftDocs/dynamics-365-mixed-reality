@@ -3,7 +3,7 @@ title: Start a chat and share a file in Dynamics 365 Guides on HoloLens
 author: davepinch
 description: Learn how to chat and share files between Dynamics 365 Guides users and Teams users
 ms.author: davepinch
-ms.date: 05/30/2023
+ms.date: 06/14/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -11,12 +11,12 @@ ms.custom: bap-template
 
 # Start a chat and share a file in Dynamics 365 Guides on HoloLens
 
-When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or more remote collaborators on Microsoft Teams desktop, Microsoft Teams mobile, or Dynamics 365 Remote Assist, call participants can chat with each other, and the remote collaborator(s) on Teams or Dynamics 365 Remote Assist can share files or page links in the **Chat** window. This is particularly useful in service-related scenarios where the remote expert wants to share a diagram or some other illustration to help the Dynamics 365 Guides user diagnose and/or solve a problem. Participants can also share deep links to guides in a chat. For example, a Dynamics 365 Guides author might want to collaborate with a remote user by [sharing a direct link to a specific guide or even a step within a guide](pc-app-copy-link-guide-step.md).
+When a Dynamics 365 Guides user on HoloLens is on a call with remote collaborators on Microsoft Teams desktop, Teams mobile, or Dynamics 365 Remote Assist, call participants can chat with each other. One or more remote collaborators on Teams or Dynamics 365 Remote Assist can share files or page links in the **Chat** window. Remote experts can share a diagram or some other illustration to help the Dynamics 365 Guides user diagnose and/or solve a problem. Participants can also share deep links to guides in a chat. For example, a Dynamics 365 Guides author might want to collaborate with a remote user by [sharing a direct link to a specific guide or even a step within a guide](pc-app-copy-link-guide-step.md).
 
 > [!NOTE]
 > An administrator can remove the ability for a user to chat by modifying a Microsoft Teams policy. [Learn more about Teams policies supported by Dynamics 365 Guides](admin-teams-policies.md).
 >
-> File sharing for guest and external users is determined by Teams, OneDrive for Business, and SharePoint settings. [Learn more about guest access](admin-add-guest-user.md).
+> File sharing for guest and external users is determined by Teams, OneDrive for work, and SharePoint settings. [Learn more about guest access](admin-add-guest-user.md). Files can't be shared if an external user is on the call or if a user is not a member of a Teams channel in a channel meeting.
 
 ## Start a chat from Dynamics 365 Guides
 
@@ -29,7 +29,7 @@ When a Microsoft Dynamics 365 Guides user on HoloLens is on a call with one or m
 
     A new **Chat** window appears to the right of the video feed.
 
-1. To respond to the chat, place your gaze cursor over the box that says "Type a new message".
+1. To respond to the chat, place your gaze cursor over the box that says "Type a new message."
 
     ![Screenshot highlighting where to enter message.](media/calling-chat-file-sharing-3.png "Screenshot highlighting where to enter message")
 
@@ -67,24 +67,24 @@ To start a chat:
 
 ### Teams mobile
 
-- Select the **Chat** button ![Graphic showing the Chat button.](media/calling-teams-mobile-start-chat.JPG) to open the text chat and send text messages.
+Select the **Chat** button ![Graphic showing the Chat button.](media/calling-teams-mobile-start-chat.JPG) to open the text chat and send text messages.
 
-   After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat.
+After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat.
 
 ## Share a file from Teams
 
-A remote collaborator on Teams (PC, Mac, or mobile) can share a file when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a .pdf file of a diagram to help the Dynamics 365 Guides user resolve a problem. The remote collaborator can share the following types of files: .jpg, .bmp, .png, .tif/.tiff, .pdf, still gif. 
+A remote collaborator on Teams (PC, Mac, or mobile) can share a file when they're on a call with a Dynamics 365 Guides user on HoloLens. For example, a remote collaborator might want to share a .pdf file of a diagram to help the Dynamics 365 Guides user resolve a problem. The remote collaborator can share the following types of files: .jpg, .bmp, .png, .tif/.tiff, .pdf, still gif.
 
 To share a different type of file, for example, an instructional video or a series of instructions in a PowerPoint presentation, the remote collaborator can [share their desktop or application window](calling-screen-sharing.md).
+
+Guides can't share files if an external user is on the call. A "check your internet connection" error appears if you try to share a file.
 
 > [!NOTE]
 > After you share a file from Teams, only the Dynamics 365 Guides user can move, resize, or delete the file from their space.
 
-Guides can't share files if an external user is on the call. Guides displays a "check your internet connection" error if you try to share a file.
-
 ### Teams policies and file sharing
 
-Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users won't be able to share files with each other. See these links for more info:
+Dynamics 365 Guides follows Teams policies for sharing files. If your Teams policies are configured to prevent file sharing, users can't share files with each other. For more information, see:
 
 - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access). 
 
@@ -92,7 +92,7 @@ Dynamics 365 Guides follows Teams policies for sharing files. If your Teams poli
 
 ### Use Teams desktop (PC or Mac) to share a file
 
-You can share a OneDrive for Business file or a local file with a Dynamics 365 Guides user. Dynamics 365 Guides does not support sharing from a shared SharePoint folder or from a personal OneDrive folder.
+You can share a OneDrive for work file or a local file with a Dynamics 365 Guides user. Dynamics 365 Guides doesn't support sharing from a shared SharePoint folder or from a personal OneDrive folder.
 
 Use one of the following methods to share a file:
 
@@ -100,31 +100,31 @@ Use one of the following methods to share a file:
 
    ![Screenshot of Mixed Reality toolbar with Add file button highlighted.](media/calling-file-sharing-teams-desktop-mr-toolbar.JPG "SharePhoto")
 
-   The file will be uploaded to your OneDrive for Business folder and permissions to access that single file will be granted to all call participants.
+   The file is uploaded to your OneDrive for work folder and permissions to access that single file is granted to all call participants.
 
 - In the Teams **Chat** window, select the **Attach file** button.
 
 - Copy and paste the file into the **Chat** window.
 
     > [!NOTE]
-    > If you paste a bitmap file this way, it won't appear for the Dynamics 365 Guides user. To share a bitmap file, make sure to use one of the methods above to attach the file.
+    > If you paste a bitmap file this way, it won't appear for the Dynamics 365 Guides user. To share a bitmap file, use another method to attach the file.
 
-When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space. Note, however, that Teams mobile users can only annotate in one-to-one calls.
+When you share a file, it appears as a new window in the Dynamics 365 Guides user's space and a link to the file is shared in the chat. All call participants can [annotate a file](calling-annotations.md) displayed in the Dynamics 365 Guides user's space. Teams mobile users can only annotate in one-to-one calls.
 
 ### Use Teams mobile to share a file
 
-#### Share a OneDrive for Business file
+#### Share a OneDrive for work file
 
 > [!NOTE]
-> Dynamics 365 Guides does not support sharing from a shared SharePoint folder or a personal OneDrive folder.
+> Dynamics 365 Guides doesn't support sharing from a shared SharePoint folder or a personal OneDrive folder.
 
 1. In the call controls, select the **More info** button […].
 
     ![Screenshot of Call controls with More info button highlighted.](media/calling-file-sharing-mobile-call-controls.JPG "SharePhoto")
 
-1. Select **Insert file**, and then select whether to insert the file from OneDrive for Business or from a Teams team or channel. You can insert an image, still gif, video, or .pdf file.
+1. Select **Insert file**, and then select whether to insert the file from OneDrive for work or from a Teams team or channel. You can insert an image, still gif, video, or .pdf file.
 
-    The file appears as a new window in the Dynamics 365 Guides user’s environment. At this time, the Dynamics 365 Guides user cannot save the shared file in their own OneDrive for Business folder.
+    The file appears as a new window in the Dynamics 365 Guides user’s environment. At this time, the Dynamics 365 Guides user can't save the shared file in their own OneDrive for work folder.
 
 #### Share a photo from your phone 
 
@@ -142,7 +142,7 @@ When you share a file, it appears as a new window in the Dynamics 365 Guides use
 
 1. Send the photo.
 
-    The file appears as a new window in the Dynamics 365 Guides user’s environment. At this time, the Dynamics 365 Guides user cannot save the shared file in their own OneDrive for Business folder.
+    The file appears as a new window in the Dynamics 365 Guides user’s environment. At this time, the Dynamics 365 Guides user can't save the shared file in their own OneDrive for work folder.
 
 1. Select the text chat. The photo is attached to a blank message. 
 
