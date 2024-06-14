@@ -2,7 +2,7 @@
 author: davepinch
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist mobile.
 ms.author: davepinch
-ms.date: 06/02/2021
+ms.date: 06/07/2024
 ms.topic: article
 title: Dynamics 365 Remote Assist mobile frequently asked questions
 ms.reviewer: v-wendysmith
