@@ -18,7 +18,7 @@ A [Microsoft Teams live event](/microsoftteams/teams-live-events/what-are-teams-
 
 A Dynamics 365 Remote Assist HoloLens user can join a live event as a presenter or attendee in the same way they join a meeting.
 
-Dynamics 365 Remote Assist doesn't support most of the features offered in [Microsoft Teams Premium](https://support.microsoft.com/en-us/office/overview-of-microsoft-teams-premium). Use of these features by another user, such as the meeting organizers, can cause problems in the meeting for the Remote Assist user.
+Dynamics 365 Remote Assist doesn't support most of the features offered in [Microsoft Teams Premium](https://support.microsoft.com/office/overview-of-microsoft-teams-premium-4b34cd18-fa16-4797-bae0-b96b13a54f52). Use of these features by another user, such as the meeting organizers, can cause problems in the meeting for the Remote Assist user.
 
 > [!Note]
 > If a remote collaborator joins a meeting, you will not receive a call or notification, regardless of whether you are in the app. You must select **Join Meeting** (or say "Remote Assist, Join meeting") to join the meeting. In addition, calling the participants involved in a scheduled meeting will not enable you to join the meeting; you must actually join the meeting.

@@ -368,7 +368,7 @@ If it's imperative that your recording captures as much of the Dynamics 365 Remo
 
 ### Record the HoloLens user's view using the HoloLens OS
 
-[Learn about how the HoloLens user can use the HoloLens OS to record what they see](./record-calls-hololens.md#use-the-hololens-os-to-record-only-what-you-see-in-the-hololens-what-you-hear-around-you-and-what-you-hear-through-the-hololens-speakers). 
+[Learn about how the HoloLens user can use the HoloLens OS to record what they see](./record-calls-hololens.md#use-the-hololens-operating-system). 
 
 ## Send a text message 
 
