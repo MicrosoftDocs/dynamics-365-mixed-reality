@@ -1,10 +1,10 @@
 ---
 title: Record calls in Dynamics 365 Remote Assist on HoloLens 
-author: davepinch
 description: Use cloud-based recording or several other alternatives in Microsoft Dynamics 365 Remote Assist on HoloLens
-ms.author: davepinch
-ms.date: 07/05/2024
-ms.topic: article
+author:  BogdanBerg
+ms.author: bogdanb
+ms.date: 07/08/2024
+ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
 
@@ -128,6 +128,6 @@ There are three ways to use the HoloLens operating system.
 
 Use this option when you want the recording to capture exactly what the Teams desktop user sees during the call. For example, you want to see the Teams user interface and call layout the Teams desktop user configures.
 
-Go to [How a Teams desktop user can record a call using Windows Game Bar](teams-pc-all.md#record-your-teams-desktop-screen-using-windows-game-bar). Learn more about the [Windows Game Bar](https://support.xbox.com/en-GB/help/friends-social-activity/share-socialize/record-game-clips-game-bar-windows-10).
+Go to [How a Teams desktop user can record a call using Windows Game Bar](teams-pc-all.md#record-your-teams-desktop-screen-using-windows-game-bar). Learn more about the [Windows Game Bar](https://support.xbox.com/help/friends-social-activity/share-socialize/record-game-clips-game-bar-windows-10).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

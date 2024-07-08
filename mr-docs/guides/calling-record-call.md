@@ -4,7 +4,7 @@ description: Learn how record a call from the Dynamics 365 Guides HoloLens app
 author:  BogdanBerg
 ms.author: bogdanb
 ms.topic: how-to
-ms.date: 07/05/2024
+ms.date: 07/08/2024
 ms.reviewer: v-wendysmith
 ---
 
@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 Recording a call in the Microsoft Dynamics 365 Guides HoloLens app is great for training or record-keeping purposes. The HoloLens app creates cloud-based recordings that are automatically uploaded to OneDrive for work for the user who initiates the recording. When the recording finishes uploading, all call participants can access the recording through Microsoft Teams chat. Recordings of scheduled Teams channel meetings are saved to the SharePoint folder for that channel.
 
-You can record one-to-one or group calls. [Learn about prerequisites and exceptions for Teams cloud meeting recordings](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording). A cloud recording layout is different from what participants in a call see. On a call, the video of the HoloLens user takes over the full stage for Teams users. In the recording, all video streams have the same amount of screen space. Read more about the [layout for this type of call](#cloud-based-recording-layout) before deciding whether to record using this method. Or, you can use the [HoloLens operating system](#use-the-hololens-operating-system) as an alternative.
+You can record one-to-one or group calls. [Learn about prerequisites and exceptions for Teams cloud meeting recordings](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording). A cloud recording layout is different from what participants in a call see. On a call, the video of the HoloLens user takes over the full stage for Teams users. In the recording, all video streams have the same amount of screen space. Read more about the [layout for this type of call](#cloud-based-recording-layout) before deciding whether to record using this method. Or, you can use the [alternatives to cloud-based recordings](#alternatives-to-cloud-based-recording).
 
 ## Use cloud-based recording
 
@@ -48,7 +48,9 @@ If you use Teams or Dynamics 365 Guides to record a call with two participants, 
 
 ![Screenshot of Teams recording, showing half of the screen with the HoloLens participant, and the other half with the Teams avatar.](media/recording-two-person-layout.JPG)
 
-## Use the HoloLens operating system
+## Alternatives to cloud-based recording
+
+### Use the HoloLens operating system
 
 Use this option when:
 
@@ -58,7 +60,7 @@ Use this option when:
 
 There are three ways to use the HoloLens operating system.
 
-### Use the HoloLens app
+#### Use the HoloLens app
 
 1. From the **Start** menu, select the **Video** button from the bottom tool pane.
   
@@ -71,13 +73,13 @@ There are three ways to use the HoloLens operating system.
    > [!NOTE]
    > If you use this method to record your environment outside a call, joining a call will end the recording.
 
-### Use your voice
+#### Use your voice
 
 1. Say "Record call." A short countdown occurs, and then the recording starts. A red recording indicator in the top right-hand corner of your view indicates the recording is live.
 
 1. To stop recording, say "Stop recording." The video is saved to your **Camera Roll**. Use the **Start** menu to go to your camera roll.
 
-### Use the HoloLens hardware
+#### Use the HoloLens hardware
 
 1. Press and hold the volume-up and volume-down buttons simultaneously until a three-second countdown begins.
 
@@ -90,6 +92,18 @@ There are three ways to use the HoloLens operating system.
    - Connect to a PC with a USB-C cable: On a PC, access the internal storage through File Explorer. Go to **Pictures** > **Camera Roll folder** and copy your images or videos from this folder.
 
     [Learn more about taking photos and videos and getting them off the device](/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
+
+### Ask a Teams desktop user to use the Windows Game Bar
+
+Use this option when you want the recording to capture exactly what the Teams desktop user sees during the call. For example, you want to see the Teams user interface and call layout the Teams desktop user configures.
+
+1. Make sure the Teams Desktop is in focus, and then press **Windows logo key** + **G** to open the Game Bar.
+
+1. Select **Capture** and then select the **Start Recording** button (or press **Windows logo key** + **Alt** + **R**).
+
+1. To stop recording, select **Stop Recording**.
+
+Learn more about the [Windows Game Bar](https://support.xbox.com/help/friends-social-activity/share-socialize/record-game-clips-game-bar-windows-10).
 
 ## See also
 
