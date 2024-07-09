@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-Anyone who isn't part of a Microsoft Dynamics 365 Guides organization, but has a Microsoft Entra account, can be added as a guest user by a global admin. The user can then access Dynamics 365 Guides content in that organization **as an operator.** A "guest" is defined as someone who doesn't have a school or work account with the organization. For example, a guest could be a partner, vendor, supplier, or consultant.
+Anyone who isn't part of a Microsoft Dynamics 365 Guides organization, but has a Microsoft Entra account, can be added as a guest user. The user can then access Dynamics 365 Guides content in that organization **as an operator.** A "guest" is defined as someone who doesn't have a school or work account with the organization. For example, a guest could be a partner, vendor, supplier, or consultant.
 
 ## Limitations
 
