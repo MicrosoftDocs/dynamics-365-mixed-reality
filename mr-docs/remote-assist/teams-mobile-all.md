@@ -49,12 +49,6 @@ For more actions, select the ellipses icon. Other actions include:
 > [!NOTE]
 > Turn your phone horizonal to see more of the Dynamics 365 Remote Assist HoloLens user’s environment.
 
-## Use Teams mobile to annotate in a user's environment (preview)
-
-[!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
-
-<!--- This topic in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
-
 ## Send a text message
 
 Select the **Text icon** ![Graphic showing the text icon, which looks like a chat bubble.](media/TeamsMobile_Text.png) to open the text chat and send text messages. After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat.
