@@ -41,7 +41,7 @@ To complete the installation steps for the model-driven app, you need:
 
 - **A Dynamics 365 Remote Assist subscription** to create environments and install the app.
 
-- **The ability to manage environments in the Microsoft Power Platform admin center**. This article covers creating Dynamics 365 environments and installing apps. Admin access is required (Dynamics 365 service admin, global admin, or Power Platform service admin).
+- **The ability to [manage environments](/power-platform/admin/create-environment) in the Power Platform admin center**.
 
 - **Available database capacity**. If you're creating a new environment for Dynamics 365 Remote Assist, you'll need at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide default tenant capacity. More information: [New Dataverse storage capacity](/power-platform/admin/capacity-storage)
 
@@ -66,7 +66,7 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
 ### Create a new environment
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com).
 
 1. [Create an environments with a database.](/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center)
 
@@ -84,7 +84,7 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
 ### Use an existing environment
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com).
 
 2. In the left pane, select **Resources** > **Dynamics 365 apps**.
 
@@ -103,7 +103,7 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
 As new versions of the Dynamics 365 Remote Assist model-driven app are released, update the app by following the steps below to ensure that the latest features are available.
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com).
 
 2. In the left pane, select **Environments**, and then select the name of the environment that you want to update.
 
