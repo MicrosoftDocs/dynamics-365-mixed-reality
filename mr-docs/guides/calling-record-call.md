@@ -20,7 +20,7 @@ The Dynamics 365 Guides HoloLens user or the Teams user can start a cloud-based 
 
 Call recording isn't available to users [signed in to Dynamics 365 Guides as a guest](admin-add-guest-user.md).
 
-Don't record calls if the [explicit recording consent for Teams Audio Conferencing](/microsoftteams/conferencing-recording-consent) is enabled. This Teams feature isn't supported because users can't unmute themselves.
+If the [explicit recording consent for Teams Audio Conferencing](/microsoftteams/conferencing-recording-consent) is enabled and you record a call, some unexpected behavior might occur such as users can't unmute themselves.
 
 ### Start a recording from the HoloLens app
 

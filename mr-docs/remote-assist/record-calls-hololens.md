@@ -32,8 +32,6 @@ Exceptions include:
 
 - Call participant without the [required license](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording).
 
-- Calls where the [explicit recording consent for Teams Audio Conferencing](/microsoftteams/conferencing-recording-consent) is enabled.
-
 - Other exceptions described by [Microsoft Teams documentation](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording).
 
 Learn more about using [Teams desktop](https://support.office.com/article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24) to record the call.
@@ -42,6 +40,8 @@ Learn more about using [Teams desktop](https://support.office.com/article/Record
 > The recorder is the owner of the video. The owner needs to [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) the video to share the recording beyond people on the call.  
 
 ## Use cloud-based recording
+
+If the [explicit recording consent for Teams Audio Conferencing](/microsoftteams/conferencing-recording-consent) is enabled and you record a call, some unexpected behavior might occur such as users can't unmute themselves.
 
 1. Select the **Recording** button (![Start recording button.](media/RAHL_CallRecording_StartButton.png)).
 
