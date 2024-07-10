@@ -41,8 +41,6 @@ Learn more about using [Teams desktop](https://support.office.com/article/Record
 
 ## Use cloud-based recording
 
-If the [explicit recording consent for Teams Audio Conferencing](/microsoftteams/conferencing-recording-consent) is enabled and you record a call, some unexpected behavior might occur such as users can't unmute themselves.
-
 1. Select the **Recording** button (![Start recording button.](media/RAHL_CallRecording_StartButton.png)).
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the record button.](media/03.00-call.png)
@@ -58,6 +56,8 @@ After the recording is processed and saved, it appears in your Dynamics 365 Remo
 ## Cloud-based recording layout
 
 The layout of the cloud-based recording depends on the number of call participants, and the layout can't be configured. When using Dynamics 365 Remote Assist or Teams to record the call, the Dynamics 365 Remote Assist HoloLens user's view (their outgoing video feed) never occupies the entire recording unless the HoloLens user is the only person in a call or meeting.
+
+If the [explicit recording consent for Teams Audio Conferencing](/microsoftteams/conferencing-recording-consent) is enabled and you record a call, some unexpected behavior might occur such as users can't unmute themselves.
 
 If it's imperative that your recording captures as much of the Dynamics 365 Remote Assist HoloLens user's view as possible and as little of the Teams user's outgoing video feed or avatars, consider using [one of the alternative recording methods](#alternatives-to-cloud-based-recording).
 
