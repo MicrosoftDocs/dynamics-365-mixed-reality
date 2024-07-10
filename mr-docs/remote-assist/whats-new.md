@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 author: davepinch
 description: Overview of what's new in Dynamics 365 Remote Assist
 ms.author: davepinch
-ms.date: 06/07/2024
+ms.date: 07/10/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -13,6 +13,14 @@ ms.reviewer: v-wendysmith
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 This article describes details about the **current wave of features (April 2024 through September 2024)** for Dynamics 365 Remote Assist, organized by release date. To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/). You can also see a complete list of [features organized by previous waves](version-history.md).
+
+## July 31, 2024
+
+This version includes:
+
+- Text chat updates to align with changes made in Microsoft Teams ensuring that messages are received.
+
+- Bug fixes and stabilization changes.
 
 ## April 19, 2024
 
