@@ -2,7 +2,7 @@
 author: davepinch
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: davepinch
-ms.date: 02/16/2023
+ms.date: 06/07/2024
 ms.topic: conceptual
 title: Requirements for Dynamics 365 Remote Assist
 ms.reviewer: v-wendysmith
@@ -47,6 +47,8 @@ Individuals without the Dynamics 365 Remote Assist app can join a [Dynamics 365 
 > When you use Dynamics 365 Remote Assist on a non-Windows device, the operating system of the device processes some personal data to enable push and incoming call notifications. Microsoft may, accordingly, send data to the external, third-party notification services so users can see who is calling or be notified of a chat message. Google Firebase Cloud Messaging (FCM) and Apple Push Notification services are not provisioned in a dedicated data center for exclusive use by you and are governed by their own service-specific terms and privacy statements, which you should carefully review.
 
 ### Device options and requirements for a Teams user
+
+Dynamics 365 Remote Assist supports new Teams seamlessly. No migration required. Learn more: [New Microsoft Teams app](https://adoption.microsoft.com/en-us/new-microsoft-teams/).
 
 | Device                             | OS requirements                                             | Details                                                                                                                                                                                                                                                                                 |
 | ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

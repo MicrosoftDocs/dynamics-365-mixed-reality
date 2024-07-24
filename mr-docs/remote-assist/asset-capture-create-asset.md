@@ -3,7 +3,7 @@ title: Create a new asset record in Dynamics 365 Remote Assist
 author: davepinch
 description: Learn how to create new asset records in Microsoft Dynamics 365 Remote Assist.
 ms.author: davepinch
-ms.date: 04/30/2021
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 --- 
@@ -70,7 +70,7 @@ This tutorial will go through the steps of exporting existing asset data into th
 
 #### Download the template
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin or Power Platform service admin).
 2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select **More environment actions** ![More environment actions.](./media/ellipsis.png "More environment actions").
 3. Select **Settings**, and then select **Templates** > **Data import templates**.
 4. From the drop-down menu, select the **Customer Asset** record type.

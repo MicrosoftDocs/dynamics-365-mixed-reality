@@ -3,7 +3,7 @@ title: Restrict the ability for Dynamics 365 Remote Assist users on HoloLens fro
 author: davepinch
 description: Learn how to restrict users of Microsoft Dynamics 365 Remote Assist from signing out of the app. 
 ms.author: davepinch
-ms.date: 04/22/2022
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---

@@ -7,6 +7,7 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy](buy-remote-assist.md)
 ### [Deploy in your tenant](deploy-remote-assist.md)
+### [Set up a device license for multiple technicians](device-license-ra.md)
 
 ## HoloLens app
 ### Overview and basics
@@ -70,7 +71,8 @@
 
 ## Microsoft Teams and Dynamics 365 Remote Assist
 ### [Collaborate with Remote Assist user from Teams PC or Teams for Mac](teams-pc-all.md)
-### [Collaborate with Remote Assist user from Teams mobile](teams-mobile-all.md)
+### [Collaborate with any user from Teams mobile](teams-mobile-all.md)
+### [Use spatial annotatations through Teams mobile (preview)](teams-mobile-annotate.md)
 ### [Supported Teams policies](teams-policies.md)
 
 ## [Integrate Dynamics 365 Field Service](/dynamics365/field-service/remote-assist-hololens)

@@ -3,7 +3,7 @@ title: Add users to the Dynamics 365 Remote Assist model-driven app
 author: davepinch
 description: Learn how to add users to the model-driven Dynamics 365 Remote Assist app.
 ms.author: davepinch
-ms.date: 10/06/2021
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -30,13 +30,13 @@ To complete the steps in this article, you need:
 
 - **The ability to manage user licenses in the Microsoft 365 admin center**. To manage user licenses, you need to have an admin role for the Microsoft 365 admin center.
 
-- **Admin access to the environment that Dynamics 365 Remote Assist is installed in**. You manage security roles for users in the environment. A system administrator role (typically a Power Apps admin, Global admin, or Dynamics 365 admin) is required for the environment you're managing.
+- **Admin access to the environment that Dynamics 365 Remote Assist is installed in**. You manage security roles for users in the environment. A system administrator role (typically a Power Apps admin or Dynamics 365 admin) is required for the environment you're managing.
 
 ## Assign Dynamics 365 Remote Assist licenses
 
 Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mobile or accessing the Dynamics 365 Remote Assist model-driven app will need a Dynamics 365 Remote Assist license. If these users already have a Dynamics 365 Remote Assist license, you can skip this step.
 
-1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com) as an admin (User admin or Global admin).
+1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com).
 
 2. Go to **Billing** > **Licenses**.
 
@@ -108,7 +108,7 @@ The **Remote Assist - App User** and the **Remote Assist - Administrator** roles
 
 ### Assign a security role
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com).
 
 2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select !["More environment actions."](./media/ellipsis.png "More environment actions").
 

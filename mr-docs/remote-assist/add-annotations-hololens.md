@@ -1,9 +1,9 @@
 ---
 title: Add annotations in Dynamics 365 Remote Assist on HoloLens (contains video)
 author: davepinch
-description: Learn how to add and edit annotations in Dynamics 365 Remote Assist on HoloLens 
+description: Learn how to add and edit annotations in Dynamics 365 Remote Assist on HoloLens. 
 ms.author: davepinch
-ms.date: 08/26/2022
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -12,9 +12,9 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-Once a video call has connected, the Microsoft Teams user will see everything the HoloLens user sees in their spce – including holograms. 
+Once a video call connects, the Microsoft Teams user sees everything the HoloLens user sees in their space – including holograms. 
 
-Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it will remain anchored in your space until the person who placed the annotation deletes it. Adding annotations to files works the same way.
+Annotations are useful for pointing out different parts of your space, including parts that might be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it. Adding annotations to files works the same way.
 
 The gestures for adding arrows or drawing are the same for HoloLens and HoloLens 2.
 
@@ -35,9 +35,9 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 
 2. To position the arrow in space:
 
-    - If you're using HoloLens, use your gaze cursor to position the arrow. You'll see a ghost arrow on your gaze cursor.  
+    - If you're using HoloLens, use your gaze cursor to position the arrow. You see a ghost arrow on your gaze cursor.  
 
-    - If you're using HoloLens 2, use your hand ray to position the arrow. You'll see a ghost arrow at the end of your hand ray.
+    - If you're using HoloLens 2, use your hand ray to position the arrow. You see a ghost arrow at the end of your hand ray.
 
     > [!NOTE]
     > If [hand rays are turned off](hololens-hand-rays.md) in the HoloLens app, they're automatically turned back on again when you select the **Arrow** tool.
@@ -80,7 +80,7 @@ The above video shows how to draw using HoloLens gestures. If you’re using Hol
 
 ## Change arrow or ink color
 
-Select **Colors** ![Color](media/color-tool.PNG "Color") (or say “Remote Assist, Colors”), and then select the color you want (or say “Remote Assist, \<color\>”, for example, say "Remote Assist, Red"). The next annotation you place will be that color.
+Select **Colors** ![Color](media/color-tool.PNG "Color") (or say "Remote Assist, Colors"), and then select the color you want (or say “Remote Assist, \<color\>”, for example, say "Remote Assist, Red"). The next annotation you place will be that color.
 
 ## Erase annotations
 
@@ -90,11 +90,11 @@ To undo your most recent action, including **Erase All**, select **Undo** ![Grap
 
 ## PV camera render
 
-Enabling the **PV Camera Render** setting improves the alignment accuracy of annotations as seen by Microsoft Teams users. This ensures that annotations placed by the HoloLens 2 Remote Assist user are represented accurately in their environment for the remote expert. When this setting is turned off, annotations placed by the HoloLens 2 user might appear slightly out of place to the Microsoft Teams user.
+Enabling the **PV Camera Render** setting improves the alignment accuracy of annotations as seen by Microsoft Teams users. This rendering ensures that annotations placed by the HoloLens 2 Remote Assist user are represented accurately in their environment for the remote expert. When this setting is turned off, annotations placed by the HoloLens 2 user might appear slightly out of place to the Microsoft Teams user.
 
 ![Graphic showing the PV camera render setting.](media/RAHL_PVSetting.png).
 
-To accommodate the additional system resources required for utilizing the PV camera render, turning on the **PV Camera Render** setting limits the maximum outgoing video resolution of the HoloLens 2 to 720p. Turning off the **PV Camera Render** setting increases the maximum outgoing video resolution to 1080p.
+To accommodate the extra system resources required for utilizing the PV camera render, turning on the **PV Camera Render** setting limits the maximum outgoing video resolution of the HoloLens 2p to 720p. Turning off the **PV Camera Render** setting increases the maximum outgoing video resolution to 1080p.
 
 [Learn more about rendering from the PV camera](/windows/mixed-reality/develop/platform-capabilities-and-apis/mixed-reality-capture-for-developers#render-from-the-pv-camera-opt-in).
 
