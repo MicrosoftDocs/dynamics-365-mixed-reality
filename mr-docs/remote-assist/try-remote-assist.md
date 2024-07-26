@@ -4,7 +4,7 @@ description: Learn about the different types of free trials for Dynamics 365 Rem
 author: davepinch
 ms.author: davepinch
 ms.service: dynamics-365-remote-assist
-ms.date: 06/07/2024
+ms.date: 07/26/2024
 ms.topic: how-to 
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -74,17 +74,13 @@ With the license-free 90-day free trial, each user must download Dynamics 365 Re
 
 ## Option 2: 30-day Dynamics 365 Remote Assist trial license for organizations
 
-### Prerequisites
+The user installing the trial needs a Microsoft [billing account](/microsoft-365/commerce/manage-billing-accounts). Learn more: [Overview of the new Microsoft billing experience for business subscriptions](/microsoft-365/commerce/billing-experience-overview).
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). [Learn more about admin permissions](/microsoft-365/admin/add-users/about-admin-roles).
+1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/) using a billing account.
 
-1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/) using your organization’s admin account.
-
-1. In the left navigation bar, select **Marketplace**.
+1. In the left navigation bar, select **Billing** > **Purchase services**.
 
 1. Scroll or search for **Dynamics 365 Remote Assist**.
-
-   :::image type="content" source="./media/deploy-1.svg" alt-text="Navigate to Dynamics 365 Remote Assist subscription":::
 
 1. Select **Details**.
 
