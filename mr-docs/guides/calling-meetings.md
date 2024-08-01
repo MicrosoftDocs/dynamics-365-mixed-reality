@@ -1,9 +1,9 @@
 ---
 title: Join a Microsoft Teams meeting from Dynamics 365 Guides
-author: davepinch
 description: Learn how to join a Microsoft Teams meeting from Dynamics 365 Guides on HoloLens
-ms.author: davepinch
-ms.date: 03/31/2023
+author:  BogdanBerg
+ms.author: bogdanb
+ms.date: 07/05/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -13,7 +13,9 @@ ms.custom: bap-template
 
 You can join a Microsoft Teams meeting from Dynamics 365 Guides on HoloLens. A [Microsoft Teams meeting](/microsoftteams/quick-start-meetings-live-events) is a meeting **scheduled** with Teams that includes any number of participants.
 
-It's also possible to join a [Microsoft Teams live event](/microsoftteams/teams-live-events/what-are-teams-live-events) from Dynamics 365 Guides, but this scenario isn't officially supported.  
+Dynamics 365 Guides doesn't support most of the features offered in [Microsoft Teams Premium](https://support.microsoft.com/office/overview-of-microsoft-teams-premium-4b34cd18-fa16-4797-bae0-b96b13a54f52). Use of these features by another user, such as the meeting organizers, can cause problems in the meeting for the Guides user.
+
+Dynamics 365 Guides doesn't support joining a [Microsoft Teams live event](/microsoftteams/teams-live-events/what-are-teams-live-events).  
 
 ## Prerequisites
 
