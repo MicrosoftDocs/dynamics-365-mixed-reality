@@ -1,10 +1,10 @@
 ---
-author: davepinch
-description: Describes the new features in Dynamics 365 Guides, organized by release date.
-ms.author: davepinch
-ms.date: 07/10/2024
-ms.topic: conceptual
 title: What's new in Dynamics 365 Guides
+description: Describes the new features in Dynamics 365 Guides, organized by release date.
+author: prashantyvr
+ms.author: prashan
+ms.date: 08/12/2024
+ms.topic: conceptual
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
@@ -19,19 +19,22 @@ This page provides details about the latest release in the **current wave of fea
 
 If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
-## July 31, 2024
+## August 13, 2024
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app|  |
-|HoloLens app |  |
-|Solution|  |
+|PC app| 905.2407.11001.0 |
+|HoloLens app | 905.2407.11001.0 |
+|Solution| 900.4.0.1* |
 
-This version includes:
+### Bugs fixed and other improvements
 
 - Text chat updates to align with changes made in Microsoft Teams ensuring that messages are received.
 
 - Bug fixes and stabilization changes.
+
+> [!NOTE]
+> *This release requires an update to the PC and HoloLens applications only, but not the solution. The solution version 900.4.0.1 is compatible with the latest client applications.
 
 ## June 4, 2024
 

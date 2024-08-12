@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 description: Overview of what's new in Dynamics 365 Remote Assist
 author: prashantyvr
 ms.author: prashan
-ms.date: 07/29/2024
+ms.date: 08/12/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -16,7 +16,12 @@ This article describes details about the **current wave of features (April 2024 
 
 ## August 13, 2024
 
-This version includes:
+|Item|Version|
+|----|-------|
+|HoloLens 2 app | 315.2407.23002 |
+|Remote Assist model-driven app | 1.0.0.666|
+
+### Bugs fixed and other improvements
 
 - Text chat updates to align with changes made in Microsoft Teams ensuring that messages are received.
 
