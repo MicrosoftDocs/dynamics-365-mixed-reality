@@ -19,10 +19,6 @@ Dynamics 365 Guides supports deep links in two different formats:
 
 The Guides PC app generates links with the compressed format, but both the PC and HoloLens apps open links with either format. This example demonstrates the clear text option.
 
-The resulting Excel Link Manager for this example looks like this:
-
-:::image type="content" source="media/workflow1-excel-link-manager.PNG" alt-text="Screenshot of Excel Link Manager." lightbox="media/workflow1-excel-link-manager.PNG":::
-
 > [!NOTE]
 > You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
 
@@ -130,10 +126,6 @@ Now you’re ready to set up the actions that populate the Excel spreadsheet col
     |Created On|	Created On|
     |Guide ID	|Guide|
     |Created By	|User|
-
-    The following screenshot shows values filled in for the **Add a row into a table** action. 
-
-    ![Add a row into a table action with values filled in.](media/workflow1-add-row-into-table-action.PNG "Add a row into a table action with values filled in")
 
 ## Idea for further customization
 
