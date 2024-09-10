@@ -78,8 +78,6 @@ More information: [Assign licenses to users](/microsoft-365/admin/manage/assign-
     
 6. Select **Manage users in Dynamics 365** at the top of the page. 
 
-   ![Manage users in Dynamics 365 command.](media/manage-user-roles.PNG "Manage users in Dynamics 365 command")
-
 7. Select one or more users, and then select **Manage Roles** at the top of the page.
 
     ![Manage Roles button.](media/manage-roles.PNG "Manage Roles button")

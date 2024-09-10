@@ -31,8 +31,6 @@ Dynamics 365 Guides enable teams to capture usage statistics and detailed time-t
 
     - **Belongs To:** *[User name]*
 
-      :::image type="content" source="media/data-opt-out-filled-out-form.PNG" alt-text="Screenshot of New User Settings showing user settings filled out in the Guides model-driven app.":::
-
 1. Select **Save** at the top of the screen.
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
