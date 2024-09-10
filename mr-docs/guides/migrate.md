@@ -96,8 +96,6 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
 
     1. Select **Login**. If you don't select an organization to connect to, the tool connects to the last organization that was successful for both the source environment and the destination environment. If there is only one environment in the tenant, Windows PowerShell automatically connects to the default environment. In this case, skip to step 12.
 
-        ![PowerShell Interactive Login dialog box configured for the source environment.](media/migration-powershell-login-1.PNG "PowerShell Interactive Login dialog box configured for the source environment")
-
     1. In the **Starting Login Process** dialog box, select the source environment (organization) to connect to.
 
         ![Source environment selected in the Starting Login Process dialog box.](media/migration-source-instance.PNG "Source environment selected in the Starting Login Process dialog box")
@@ -117,8 +115,6 @@ We also highly recommend that you [back up the contents](/power-platform/admin/b
     1. In the **User Name** and **Password** fields, enter the user name and password for the Microsoft Dataverse environment that you want to connect to.
 
     1. Select **Login**.
-
-        ![PowerShell Interactive Login dialog box configured for the destination environment.](media/migration-powershell-login-2.PNG "PowerShell Interactive Login dialog box configured for the destination environment")
 
     1. In the **Starting Login Process** dialog box, select the destination environment (organization) to connect to.
 

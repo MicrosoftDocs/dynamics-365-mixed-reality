@@ -73,8 +73,6 @@ Dynamics 365 Guides enables customers to capture usage statistics and detailed t
 
    - **Belongs To**: [User name]
 
-   :::image type="content" source="media/powerapps-user-settings.png" alt-text="Screenshot of the User Settings for Guides in Power Apps.":::
-
 ## Next steps
 
 - [Access related apps form the Field Service mobile app](/dynamics365/field-service/access-related-apps-mobile-app)
