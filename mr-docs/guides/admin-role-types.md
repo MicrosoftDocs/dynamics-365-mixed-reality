@@ -4,7 +4,7 @@ description: Learn about the Author, Operator, Restricted Author, and Restricted
 author:  davepinch
 ms.topic: conceptual
 ms.date: 11/09/2023
-ms.author: davepinch
+ms.author: prashan
 ms.reviewer: v-wendysmith
 ---
 

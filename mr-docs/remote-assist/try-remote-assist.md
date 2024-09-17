@@ -1,8 +1,8 @@
 ---
 title: Try Dynamics 365 Remote Assist for free
 description: Learn about the different types of free trials for Dynamics 365 Remote Assist.
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms.service: dynamics-365-remote-assist
 ms.date: 07/26/2024
 ms.topic: how-to 

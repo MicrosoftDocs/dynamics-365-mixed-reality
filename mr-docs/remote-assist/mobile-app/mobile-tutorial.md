@@ -1,8 +1,8 @@
 ---
 title: Use the Dynamics 365 Remote Assist mobile tutorial
-author: davepinch
+author: prashantyvr
 description: Learn how to use the in-app tutorial for the Dynamics 365 Remote Assist mobile app.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith

@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 11/09/2023
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides

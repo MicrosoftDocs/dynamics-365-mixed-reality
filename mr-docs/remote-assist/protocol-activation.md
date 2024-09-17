@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Embed code in HoloLens, iOS, or Android app to launch Dynamics 365 Remote Assist (protocol activation)
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: article
 title: Launch Dynamics 365 Remote Assist from another app

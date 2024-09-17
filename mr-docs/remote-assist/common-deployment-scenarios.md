@@ -1,8 +1,8 @@
 ---
 title: Deployment scenarios overview 
-author: davepinch
+author: prashantyvr
 description: Deployment scenarios overview 
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: overview
 ms.reviewer: v-wendysmith

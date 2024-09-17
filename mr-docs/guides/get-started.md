@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn about all the resources available for getting started with Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 10/13/2023
 ms.topic: how-to
 title: Get started with Dynamics 365 Guides

@@ -1,8 +1,8 @@
 ---
 title: Security and compliance
-author: davepinch
+author: prashantyvr
 description: Learn about key security and compliance topics in Microsoft Dynamics 365 Guides.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 02/21/2023
 ms.topic: overview
 ms.reviewer: v-wendysmith

@@ -1,8 +1,8 @@
 ---
 title: Record a call in Dynamics 365 Remote Assist mobile
-author: davepinch
+author: prashantyvr
 description: Learn how to record a one-to-one call with a remote collaborator in Dynamics 365 Remote Assist mobile. 
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith

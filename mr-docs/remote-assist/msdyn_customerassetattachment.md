@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Customer Asset Attachment entity.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: article
 title: msdyn_customerassetattachment EntityType
