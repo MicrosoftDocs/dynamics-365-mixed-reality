@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to add a branch to a guide in Microsoft Dynamics 365 Guides to create a nonlinear workflow
-ms.author: davepinch
+ms.author: prashan
 ms.date: 08/03/2023
 ms.topic: how-to
 title: Add a branch to a guide in Dynamics 365 Guides to create a nonlinear workflow

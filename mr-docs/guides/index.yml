@@ -9,7 +9,7 @@ metadata:
   description: Dynamics 365 Guides is a mixed-reality application for Microsoft HoloLens that helps operators by providing holographic instructions when and where they're needed. # Required; product description that is displayed in search results. < 160 chars. 
   ms.topic: hub-page 
   author: v-wendysmith 
-  ms.author: v-wendysmith 
+  ms.author: mhart 
   ms.date: 09/27/2023 
   ms.custom: bap-template
   hide_bc: true

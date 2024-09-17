@@ -1,8 +1,8 @@
 ---
 title: Make or receive a call in Dynamics 365 Guides  
-author: davepinch
+author: prashantyvr
 description: Learn how to make or receive a call with a remote collaborator from Dynamics 365 Guides on HoloLens
-ms.author: davepinch
+ms.author: prashan
 ms.date: 03/25/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith

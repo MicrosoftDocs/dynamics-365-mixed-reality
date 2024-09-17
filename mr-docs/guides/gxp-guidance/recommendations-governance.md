@@ -3,8 +3,8 @@ title: Dynamics 365 Guides in GxP regulated industries overview
 description: Learn about the recommendations for using Dynamics 365 Guides in a regulated industry.
 ms.date: 04/17/2023
 ms.topic: overview
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---

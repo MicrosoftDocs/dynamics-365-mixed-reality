@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Assign an Author or Operator role to users in Microsoft Dynamics 365 Guides.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 11/09/2023
 ms.topic: how-to
 title: Assign an Author or Operator role to a user to control whether a user can author a guide or just view a guide

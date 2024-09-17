@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn about using rich text formatting in instruction card text for Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 03/01/2022
 ms.topic: article
 title: Use rich text formatting in instruction card text in Dynamics 365 Guides

@@ -3,8 +3,8 @@ title: Maintenance of the qualified and validated status
 description: Learn about maintaining the infrastructure and apps that have been qualified and validated.
 ms.date: 03/21/2023
 ms.topic: conceptual
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---

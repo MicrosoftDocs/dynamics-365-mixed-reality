@@ -4,8 +4,8 @@ description: Summary of the Dynamics 365 Remote Assist app on the Government Com
 ms.date: 06/07/2024
 ms.reviewer: v-wendysmith
 ms.topic: "article"
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ---
 
 # Dynamics 365 Remote Assist on Government Community Cloud (GCC)

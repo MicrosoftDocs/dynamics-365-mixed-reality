@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a QR code anchor
-ms.author: davepinch
+ms.author: prashan
 ms.date: 02/27/2024
 ms.topic: how-to
 title: Anchor a guide in Dynamics 365 Guides by using a QR code anchor

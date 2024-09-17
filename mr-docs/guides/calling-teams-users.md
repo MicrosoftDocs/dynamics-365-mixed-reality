@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to collaborate with a Dynamics 365 Guides user from Microsoft Teams
-ms.author: davepinch
+ms.author: prashan
 ms.date: 03/12/2024
 ms.topic: conceptual
 title: Collaborate with a Dynamics 365 Guides user from Microsoft Teams

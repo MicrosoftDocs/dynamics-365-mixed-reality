@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 04/05/2024
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides HoloLens app
