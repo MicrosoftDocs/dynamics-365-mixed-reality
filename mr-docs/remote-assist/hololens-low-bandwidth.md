@@ -1,8 +1,8 @@
 ---
 title: Use Dynamics 365 Remote Assist HoloLens in low-bandwidth situations
-author: davepinch
+author: prashantyvr
 description: How the Microsoft Dynamics 365 Remote Assist HoloLens app works in environments with poor network conditions. 
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith

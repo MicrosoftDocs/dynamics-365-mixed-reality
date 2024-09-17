@@ -1,6 +1,6 @@
 ---
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 description: Learn about supported file formats for 3D objects, images, and videos in Microsoft Dynamics 365 Guides.
 ms.date: 02/22/2024
 ms.topic: conceptual

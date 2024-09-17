@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Guides model-driven app overview
-ms.author: davepinch
+ms.author: prashan
 ms.date: 02/22/2024
 ms.topic: overview
 title: Guides model-driven app overview

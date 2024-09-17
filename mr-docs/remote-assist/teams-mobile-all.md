@@ -1,8 +1,8 @@
 ---
 title: Collaborate with any user through Microsoft Teams mobile
 description: Discover how users of Remote Assist, Guides, or Field Service can collaborate with other users through the Microsoft Teams mobile app.
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith

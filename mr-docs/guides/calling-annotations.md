@@ -1,8 +1,8 @@
 ---
 title: Use annotations with Dynamics 365 Guides
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen.
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms.date: 04/08/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith

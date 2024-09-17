@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Frequently asked questions about Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 08/01/2024
 ms.topic: faq
 title: FAQ about Dynamics 365 Guides

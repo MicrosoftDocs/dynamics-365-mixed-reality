@@ -1,8 +1,8 @@
 ---
 title: Monitor key metrics with the Guides Calls Dashboard
-author: davepinch
+author: prashantyvr
 description: Learn how to monitor key metrics with the Dynamics 365 Guides Calls Dashboard
-ms.author: davepinch
+ms.author: prashan
 ms.date: 08/02/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith

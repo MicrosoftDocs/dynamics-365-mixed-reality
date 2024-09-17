@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Add user accounts to a Microsoft Dynamics 365 Guides license.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 01/11/2024
 ms.topic: how-to
 title: Assign licenses to individual users

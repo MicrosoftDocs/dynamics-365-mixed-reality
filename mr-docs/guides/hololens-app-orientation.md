@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app UI if you're an author. 
-ms.author: davepinch
+ms.author: prashan
 ms.date: 11/08/2021
 ms.topic: article
 title: Get oriented with the Dynamics 365 Guides HoloLens app (for authors)

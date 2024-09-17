@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Describes older features for Dynamics 365 Guides, organized by release date
-ms.author: davepinch
+ms.author: prashan
 ms.date: 05/29/2024
 ms.topic: reference
 title: Version history for Dynamics 365 Guides

@@ -3,8 +3,8 @@ title: Test and deployment strategy
 description: Learn about using Power Apps and Microsoft Power Platform for testing and deployment.
 ms.date: 03/23/2023
 ms.topic: conceptual
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---

@@ -3,8 +3,8 @@ title: Access control and identity and access management strategy
 description: Learn about access control of Dynamics 365 Guides and identity and access management (IAM) in a regulated industry.
 ms.date: 03/24/2023
 ms.topic: conceptual
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---

@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn about the do's and don'ts for a successful mixed-reality guide created in Microsoft Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 10/17/2022
 ms.topic: article
 title: How to make a great mixed-reality guide in Dynamics 365 Guides

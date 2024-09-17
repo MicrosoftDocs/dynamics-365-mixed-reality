@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to invite a guest user to operate a guide in Microsoft Dynamics 365 Guides.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 04/24/2024
 ms.topic: how-to
 title: Invite a guest user to operate a guide in Dynamics 365 Guides
