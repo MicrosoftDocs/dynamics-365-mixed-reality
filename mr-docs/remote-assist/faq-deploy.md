@@ -67,5 +67,9 @@ Yes. Anyone that can sign in and use the Teams application on a Windows 10 PC or
 
 No.  Dynamics 365 Remote Assist licenses must be assigned to a Microsoft Entra account created in the tenant where Dynamics 365 Remote Assist will be used.
 
+## How do I manage Data Subject Requests for the GDPR and CCPA?
+
+To handle requests, you can follow the DSR process for content in Dataverse and system generated logs described in [Dynamics 365 Data Subject Requests for the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-dynamics365).
+
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
