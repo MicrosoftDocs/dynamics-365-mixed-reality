@@ -8,6 +8,7 @@ You can annotate in calls with Microsoft Teams mobile users if you have a Dynami
 
 - [Android phones and tablets with ARCore support](https://developers.google.com/ar/devices)
 - [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/devices#ios)
+- [Dynamics 365 Remote Assist requirements](../remote-assist/requirements.md)
 
 1. While in a Teams mobile call, select **Spatial Annotations**.
 
