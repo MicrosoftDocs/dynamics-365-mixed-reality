@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn what kind of call data is stored by Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/23/2023
 ms.topic: overview
 title: Call data stored by Dynamics 365 Guides

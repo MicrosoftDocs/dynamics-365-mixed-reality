@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn about Dynamics 365 Remote Assist now included with Dynamics 365 Guides 8.0 
-ms.author: davepinch
+ms.author: prashan
 ms.date: 08/08/2023
 ms.topic: overview
 title: Dynamics 365 Remote Assist features in Dynamics 365 Guides 8.0
@@ -33,5 +33,5 @@ The Dynamics 365 Guides 8.0 and later releases include many of the Microsoft Tea
 
 ## Next steps
 
-- [FAQ](faq.md#dynamics-365-guides-80-and-dynamics-365-remote-assist-faq)
+- [FAQ](faq.md)
 - [Guides 8.0 features](version-history.md#october-17-2022)

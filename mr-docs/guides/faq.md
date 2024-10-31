@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Frequently asked questions about Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 08/01/2024
 ms.topic: faq
 title: FAQ about Dynamics 365 Guides
@@ -10,9 +10,11 @@ ms.reviewer: v-wendysmith
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
 
-## Dynamics 365 Guides 8.0 and Dynamics 365 Remote Assist FAQ
+Frequently asked questions related to Dynamics 365 Guides.
 
-Frequently asked questions related to Dynamics 365 Guides 8.0.
+## How do I manage Data Subject Requests for the GDPR and CCPA?
+
+To handle requests, you can follow the DSR process for content in Dataverse and system generated logs described in [Dynamics 365 Data Subject Requests for the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-dynamics365).
 
 ## What licenses do I need to access the new collaboration features in Dynamics 365 Guides?
 

@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to access legal terms and notices for Microsoft Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 01/27/2022
 ms.topic: article
 title: Legal terms and notices for Dynamics 365 Guides

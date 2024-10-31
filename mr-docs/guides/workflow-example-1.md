@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to use Microsoft Power Automate to automatically generate deep links for the Dynamics 365 Guides PC and HoloLens apps
-ms.author: davepinch
+ms.author: prashan
 ms.date: 02/14/2024
 ms.topic: article
 title: Workflow example 1--Automatically generate deep links for the Dynamics 365 Guides PC and HoloLens apps
@@ -18,10 +18,6 @@ Dynamics 365 Guides supports deep links in two different formats:
 - Compressed, which uses a custom algorithm to shorten the length. For example: ms-guides:ms-guides://MY-ORG.crm4.dynamics.com/g/nl-tt6A_vUy1cGeU3HlhEQ where **nl-tt6A_vUy1cGeU3HlhEQ** is a compressed ID.
 
 The Guides PC app generates links with the compressed format, but both the PC and HoloLens apps open links with either format. This example demonstrates the clear text option.
-
-The resulting Excel Link Manager for this example looks like this:
-
-:::image type="content" source="media/workflow1-excel-link-manager.PNG" alt-text="Screenshot of Excel Link Manager." lightbox="media/workflow1-excel-link-manager.PNG":::
 
 > [!NOTE]
 > You must have the Environment Maker role (Power Platform) to create a Microsoft Power Automate flow.
@@ -130,10 +126,6 @@ Now you’re ready to set up the actions that populate the Excel spreadsheet col
     |Created On|	Created On|
     |Guide ID	|Guide|
     |Created By	|User|
-
-    The following screenshot shows values filled in for the **Add a row into a table** action. 
-
-    ![Add a row into a table action with values filled in.](media/workflow1-add-row-into-table-action.PNG "Add a row into a table action with values filled in")
 
 ## Idea for further customization
 

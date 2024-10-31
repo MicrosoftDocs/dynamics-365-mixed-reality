@@ -4,7 +4,7 @@ description: Learn how to share a guide or folder in Microsoft Dynamics 365 Guid
 author:  davepinch
 ms.topic: how-to
 ms.date: 02/26/2024
-ms.author: davepinch
+ms.author: prashan
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---

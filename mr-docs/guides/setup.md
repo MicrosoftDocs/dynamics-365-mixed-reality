@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Get an overview of the installation process for Microsoft Dynamics 365 Guides. 
-ms.author: davepinch
+ms.author: prashan
 ms.date: 10/12/2023
 ms.topic: how-to
 title: Install and set up Dynamics 365 Guides process

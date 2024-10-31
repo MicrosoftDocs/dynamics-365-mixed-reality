@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Overview of authoring in Dynamics 365 Guides, including PC authoring and HoloLens authoring
-ms.author: davepinch
+ms.author: prashan
 ms.date: 08/10/2023
 ms.topic: overview
 title: Authoring with the PC app and HoloLens app in Dynamics 365 Guides

@@ -1,7 +1,7 @@
 ---
 author: MattHoag-MS
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides HoloLens app.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 09/07/2023
 ms.topic: how-to
 title: Install and sign in to the Dynamics 365 Guides HoloLens app

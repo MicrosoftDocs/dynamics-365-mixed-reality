@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to set up a Dynamics 365 Guides device license for multiple operators on a single HoloLens device.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 04/25/2024
 ms.topic: how-to
 title: Set up a Guides device license for multiple operators

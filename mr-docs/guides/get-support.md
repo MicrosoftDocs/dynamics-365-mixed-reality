@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to contact Microsoft Support
-ms.author: davepinch
+ms.author: prashan
 ms.date: 09/13/2023
 ms.topic: how-to
 title: Contact Support

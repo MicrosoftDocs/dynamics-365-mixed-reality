@@ -1,8 +1,8 @@
 ---
 title: Restrict the ability to access OneDrive files in Dynamics 365 Remote Assist
-author: davepinch
+author: prashantyvr
 description: Learn how to restrict the ability to access OneDrive files in Microsoft Dynamics 365 Remote Assist
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith

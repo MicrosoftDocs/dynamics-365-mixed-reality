@@ -1,8 +1,8 @@
 ---  
 title: "Dynamics 365 Guides trial FAQ"
 description: "Solutions to common questions related to Dynamics 365 Guides trial setup and management. Learn how to resolve platform and app-specific issues."
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms.date: 06/15/2022
 ms.topic: faq
 ms.service: dynamics-365-guides

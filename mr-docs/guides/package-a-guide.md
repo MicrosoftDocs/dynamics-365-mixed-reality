@@ -1,6 +1,6 @@
 ---
-author: annitachow
-ms.author: anchow
+author: prashantyvr
+ms.author: prashan
 description: Learn how to package a guide and its content and share it with others in Dynamics 365 Guides. 
 ms.date: 03/04/2024
 ms.topic: how-to

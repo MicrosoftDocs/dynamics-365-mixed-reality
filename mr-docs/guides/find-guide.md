@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to find a guide with the HoloLens app in Microsoft Dynamics 365 Guides.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 10/09/2023
 ms.topic: how-to
 title: Find and open a guide in the Dynamics 365 Guides HoloLens app

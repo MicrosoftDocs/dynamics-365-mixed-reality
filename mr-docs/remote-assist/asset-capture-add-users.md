@@ -1,8 +1,8 @@
 ---
 title: Add users to the Dynamics 365 Remote Assist model-driven app
-author: davepinch
+author: prashantyvr
 description: Learn how to add users to the model-driven Dynamics 365 Remote Assist app.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
@@ -77,8 +77,6 @@ More information: [Assign licenses to users](/microsoft-365/admin/manage/assign-
         > When you add a user in this way, you trigger synchronization. The user is added to the instance within a few minutes.  
     
 6. Select **Manage users in Dynamics 365** at the top of the page. 
-
-   ![Manage users in Dynamics 365 command.](media/manage-user-roles.PNG "Manage users in Dynamics 365 command")
 
 7. Select one or more users, and then select **Manage Roles** at the top of the page.
 

@@ -1,8 +1,8 @@
 ---
 title: Make calls in Dynamics 365 Remote Assist on HoloLens 
-author: davepinch
+author: prashantyvr
 description: Make calls with someone inside or outside your organization in Dynamics 365 Remote Assist on HoloLens.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith

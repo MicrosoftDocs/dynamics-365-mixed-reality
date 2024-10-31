@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to convert a trial license of Dynamics 365 Guides to a paid license
-ms.author: davepinch
+ms.author: prashan
 ms.date: 11/11/2023
 ms.topic: how-to
 title: Convert a trial version of Dynamics 365 Guides to a paid version

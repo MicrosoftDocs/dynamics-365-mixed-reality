@@ -1,6 +1,6 @@
 ---
-author: annitachow
-ms.author: anchow
+author: prashantyvr
+ms.author: prashan
 description: Learn how to add a 3D object (for example, an arrow or a hand) to a step in the Dynamics 365 Guides PC app. 
 ms.date: 07/26/2023
 ms.topic: how-to

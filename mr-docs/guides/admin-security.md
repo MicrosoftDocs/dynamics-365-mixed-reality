@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to use security groups to control which users can access which environments in Microsoft Dynamics 365 Guides.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 04/24/2024
 ms.topic: how-to
 title: Restrict access to an environment in Dynamics 365 Guides by using security groups

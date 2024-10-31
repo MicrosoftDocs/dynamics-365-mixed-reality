@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn about the different parts of the QR code anchor provided with Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 09/15/2022
 ms.topic: conceptual
 title: Guides QR code anchor configuration
