@@ -21,7 +21,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
 - Call receivers with an iOS mobile device must **not** have the Microsoft Teams application on the device. Call receivers with an Android mobile device must choose Remote Assist Mobile for answering calls by [disabling Teams Mobile call notifications](remote-assist-mobile-to-teams-calls.md#what-happens-when-dynamics-365-remote-assist-mobile-and-teams-mobile-are-installed-on-the-same-device). 
 
-- Technicians must have a Dynamics 365 Remote Assist [free trial](../try-remote-assist.md) or [subscription](../buy-remote-assist.md).
+- Technicians must have a Dynamics 365 Remote Assist [subscription](../buy-remote-assist.md).
 
 - Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and a Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn how to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 

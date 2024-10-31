@@ -1,8 +1,8 @@
 ---
 title: Using Dynamics 365 Remote Assist mobile on non-AR capable devices 
-author: davepinch
 description: Guide for using Dynamics 365 Remote Assist mobile on devices without AR capabilities.
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
@@ -19,7 +19,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 ## Prerequisites
 
 - This article is designed to help users who have a mobile device without ARCore or ARKit support. [Learn about Dynamics 365 Remote Assist device requirements](../requirements.md). If your device isn't* listed on the [Android/ARCore supported devices list](https://developers.google.com/ar/discover/supported-devices) or [iOS/ARKit supported devices list](https://developers.google.com/ar/discover/supported-devices#ios), your device doesn't support augmented reality.
-- Technicians must have a [Dynamics 365 Remote Assist free trial](../try-remote-assist.md) or a [Dynamics 365 Remote Assist subscription](../buy-remote-assist.md).
+- Technicians must have a [Dynamics 365 Remote Assist subscription](../buy-remote-assist.md).
 - Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and a Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn how to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 
 ## How it works

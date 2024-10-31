@@ -1,8 +1,8 @@
 ---
 title: Dynamics 365 Remote Assist mobile overview
-author: davepinch
 description: Discover the features and functions of Dynamics 365 Remote Assist mobile app.
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: overview
 ms.reviewer: v-wendysmith
@@ -49,7 +49,6 @@ Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune'
 
 ## See also
 
-- [Try Dynamics 365 Remote Assist mobile for free](../try-remote-assist.md)
 - [Buy a Dynamics 365 Remote Assist subscription](../buy-remote-assist.md)
 - [Deploy Dynamics 365 Remote Assist](../deploy-remote-assist.md)
 - [How-to videos for Dynamics 365 Remote Assist mobile](../videos.md)

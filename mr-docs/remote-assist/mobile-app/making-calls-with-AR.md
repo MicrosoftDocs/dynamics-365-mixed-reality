@@ -1,8 +1,8 @@
 ---
 title: Making calls with AR in Dynamics 365 Remote Assist mobile
-author: davepinch
 description: Making calls from Dynamics 365 Remote Assist mobile with AR support 
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
@@ -27,7 +27,7 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
 ## Prerequisites
 
 - In order to follow along with this guide, you must use a mobile device with ARCore or ARKit support. [Learn about Dynamics 365 Remote Assist's device requirements](../requirements.md).
-- Technicians must have a Dynamics 365 Remote Assist [free trial](../try-remote-assist.md) or [subscription](../buy-remote-assist.md).
+- Technicians must have a Dynamics 365 Remote Assist [subscription](../buy-remote-assist.md).
 - Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). [Learn how to set up Dynamics 365 Remote Assist with Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 
 ## How it works
