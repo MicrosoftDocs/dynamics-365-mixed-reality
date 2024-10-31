@@ -4,6 +4,11 @@ You can annotate in calls with Microsoft Teams mobile users if you have a Dynami
 
 [!INCLUDE [public-preview-banner-note](../includes/public-preview-note.md)]
 
+## System requirements
+
+- [Android phones and tablets with ARCore support](https://developers.google.com/ar/devices)
+- [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/devices#ios)
+
 1. While in a Teams mobile call, select **Spatial Annotations**.
 
    :::image type="content" source="../guides/media/teams-mobile-spatial-annotations.png" alt-text="Screenshot of Teams on a mobile phone showing the Spatial Annotations selection":::

@@ -4,7 +4,6 @@
 
 ## Get started
 ### [Requirements](requirements.md)
-### [Get a free trial](try-remote-assist.md)
 ### [Buy](buy-remote-assist.md)
 ### [Deploy in your tenant](deploy-remote-assist.md)
 ### [Set up a device license for multiple technicians](device-license-ra.md)

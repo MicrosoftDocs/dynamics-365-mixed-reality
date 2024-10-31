@@ -82,7 +82,6 @@ Technicians and inspectors work even more effectively when they use Field Servic
 ### For administrators
 
 - Review the [technical requirements](requirements.md) for deploying and using Remote Assist.
-- Get a [free trial of Remote Assist](try-remote-assist.md).
 - [Buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 
 ### For technicians and inspectors
