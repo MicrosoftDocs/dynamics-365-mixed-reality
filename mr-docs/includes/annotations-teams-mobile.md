@@ -4,12 +4,6 @@ You can annotate in calls with Microsoft Teams mobile users if you have a Dynami
 
 [!INCLUDE [public-preview-banner-note](../includes/public-preview-note.md)]
 
-## System requirements
-
-- [Android phones and tablets with ARCore support](https://developers.google.com/ar/devices)
-- [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/devices#ios)
-- [Dynamics 365 Remote Assist requirements](../remote-assist/requirements.md)
-
 1. While in a Teams mobile call, select **Spatial Annotations**.
 
    :::image type="content" source="../guides/media/teams-mobile-spatial-annotations.png" alt-text="Screenshot of Teams on a mobile phone showing the Spatial Annotations selection":::
@@ -29,4 +23,10 @@ You can annotate in calls with Microsoft Teams mobile users if you have a Dynami
    > [!NOTE]
    > Each call participant can only undo and delete their own annotations.
 
-1. When you’re done annotating, close the toolbar. All annotations persist even after you stop editing.
+1. When you're done annotating, close the toolbar. All annotations persist even after you stop editing.
+
+### System requirements
+
+- [Android phones and tablets with ARCore support](https://developers.google.com/ar/devices)
+- [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/devices#ios)
+- [Dynamics 365 Remote Assist requirements](../remote-assist/requirements.md)
