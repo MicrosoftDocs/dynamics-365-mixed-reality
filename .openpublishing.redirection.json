@@ -194,6 +194,11 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/remote-assist/try-remote-assist.md",
+      "redirect_url": "buy-remote-assist",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/remote-assist/mobile-app/poor-network-connectivity.md",
       "redirect_url": "../hololens-low-bandwidth",
       "redirect_document_id": "false"

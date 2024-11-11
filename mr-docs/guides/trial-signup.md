@@ -20,7 +20,7 @@ Dynamics 365 Guides offers a free 60-day trial. After signing up for the trial a
 
 - PC and HoloLens device. [Learn more about device requirements](requirements.md).
 - [Microsoft Entra ID Free Trial.](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
-- For calling capabilities from the HoloLens, a free [Microsoft Teams license](https://products.office.com/microsoft-teams/free) or a [Dynamics 365 Remote Assist license](../remote-assist/try-remote-assist.md).
+- For calling capabilities from the HoloLens, a free [Microsoft Teams license](https://products.office.com/microsoft-teams/free).
 - OneDrive storage - sign up for a free trial at https://www.microsoft.com/microsoft-365/onedrive/free-online-cloud-storage/.
 
 ## Sign up for the trial
