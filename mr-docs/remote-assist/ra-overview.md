@@ -1,6 +1,6 @@
 ---
-author: prashantyvr
 description: Get an overview of the capabilities and benefits of the Dynamics 365 Remote Assist HoloLens and mobile apps.
+author: prashantyvr
 ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: overview
@@ -82,7 +82,6 @@ Technicians and inspectors work even more effectively when they use Field Servic
 ### For administrators
 
 - Review the [technical requirements](requirements.md) for deploying and using Remote Assist.
-- Get a [free trial of Remote Assist](try-remote-assist.md).
 - [Buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 
 ### For technicians and inspectors

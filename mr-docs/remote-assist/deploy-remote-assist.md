@@ -1,7 +1,7 @@
 ---
 title: Deploy Dynamics 365 Remote Assist
-author: prashantyvr
 description: Dynamics 365 Remote Assist users can deploy and set up Dynamics 365 Remote Assist on their devices. 
+author: prashantyvr
 ms.author: prashan
 ms.service: dynamics-365-remote-assist
 ms.date: 06/07/2024
@@ -20,7 +20,7 @@ Deploy Dynamics 365 Remote Assist to your organization. You can [deploy to multi
 
 ## Prerequisites
 
-- A [purchased Dynamics 365 Field Service license](/dynamics365/field-service/buy-fs), or a [trial](try-remote-assist.md) or [purchased Dynamics 365 Remote Assist license](buy-remote-assist.md).
+- A [purchased Dynamics 365 Field Service license](/dynamics365/field-service/buy-fs) or a [purchased Dynamics 365 Remote Assist license](buy-remote-assist.md).
 - Individuals have a [supported device](./requirements.md).
 
 ## Add users and assign licenses
