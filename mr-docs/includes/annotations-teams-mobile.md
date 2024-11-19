@@ -1,11 +1,6 @@
 [!INCLUDE [public-preview-banner-include](../includes/public-preview-banner.md)]
 
-Spatial annotations can greatly enhance your communication and collaboration, especially when working with remote teams. Use spatial annotations to:
-
-- **Quickly communicate detailed and complex instructions visually**: Enhance communication by using Remote Assist to engage remote collaborators through annotations.
-- **Bring critical information into view**: Remote collaborators can offer precise guidance for different parts, including hard-to-reach parts. Use drawings and arrows to refer to specific parts of a machine or asset.
-- **Solve problems in real time**: Technicians can share their real-time view with experts in remote locations to get the help they need, reducing travel time and cost.
-- **Knowledge sharing and training**: Use annotations, photos, and videos to share with the rest of your organization.
+You can annotate in calls with Microsoft Teams mobile users if you have a Dynamics 365 Guides, Remote Assist, or Field Service license. Microsoft Teams desktop users can annotate in a mobile user's space. Use the **Spatial Annotations** toolbar in Teams to add annotations.
 
 [!INCLUDE [public-preview-banner-note](../includes/public-preview-note.md)]
 
