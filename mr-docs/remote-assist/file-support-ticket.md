@@ -15,7 +15,7 @@ ms.custom: bap-template
 
 ## Issues with HoloLens
 
-[Review support and help options](https://support.microsoft.com/hololens)
+[Review support and help options for HoloLens](https://support.microsoft.com/hololens).
 
 ## Issues with Remote Assist
 
