@@ -50,12 +50,9 @@ When you restrict the ability to access OneDrive files:
     ![Screenshot of Optional settings section.](media/restricted-mode-files-optional-settings.jpg "Screenshot of Optional settings section")
 
 7. In the **Review and finish** section, make sure the information is correct, and then select **Finish adding** when you're ready.
-    
-    ![Screenshot of Review and finish section filled out.](media/restricted-mode-files-review.jpg "Screenshot of Review and finish section filled out")
 
-8. If you see the following confirmation screen, you'll know the user was added correctly. Select **Close**.
+8. The system confirms if the user was added correctly. Select **Close**.
 
-    ![Screenshot with user added highlighted.](media/restricted-mode-files-confirmation.jpg "Screenshot with user added highlighted")
     
 ## See also
 

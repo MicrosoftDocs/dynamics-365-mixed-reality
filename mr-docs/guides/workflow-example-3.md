@@ -88,8 +88,6 @@ You can use the Guides model-driven app to get the Step ID for a response step.
        ![Data menu with Export data selected.](media/workflow3-export-data.PNG "Data menu with Export data selected")
        
        The Step ID information is in column R of the Excel spreadsheet.
-
-       ![Downloadeded Excel spreadsheet with column R selected showing list of Step Ids.](media/workflow3-step-id-excel.PNG "Downloadeded Excel spreadsheet with column R selected showing list of Step Ids")
  
 3. Parse the **Step Id** column in the exported spreadsheet to check for the Step ID's. For example, the following Excel formula compares the event data in the exported **Guide Session Step Visit** spreadsheet to the Step Ids copied in the first step of this procedure. The formula returns a 1 if it matches an ID or a 0 if it doesn’t.
 
