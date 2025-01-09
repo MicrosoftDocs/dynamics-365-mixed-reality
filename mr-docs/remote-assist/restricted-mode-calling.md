@@ -53,8 +53,6 @@ To restrict calling, first you create a new Microsoft Teams policy, and then you
 
 4. In the left pane, select **Manage users**, and then select the user you want to assign the policy to. 
 
-    ![Screenshot highlighting Manage users command and selected policy.](media/restricted-mode-calling-assign-user.jpg "Screenshot highlighting Manage users command and selected policy")
-
 5. Select the **Policies** button, and then select **Edit**.
 
     ![Screenshot highlighting Policies button and Edit button.](media/restricted-mode-calling-edit.jpg "Screenshot highlighting Policies button and Edit button")
