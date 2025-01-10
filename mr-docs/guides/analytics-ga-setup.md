@@ -38,7 +38,7 @@ select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guid
      ![Files to download.](media/download-files.PNG "Files to download")   
   
 3.	Open the downloaded Guides Analytics Template.pbit file with [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop. Use your 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password if you're prompted to sign in to [!include[pn-power-bi](../includes/pn-power-bi.md)].  
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] credentials if you're prompted to sign in to [!include[pn-power-bi](../includes/pn-power-bi.md)].  
  
 4.	When prompted, paste the Environment URL into the text box. This is the same Environment URL you copied from the **Analyze** tab in the PC authoring app in step 1. 
  
@@ -46,7 +46,7 @@ select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guid
   
      ![Sign-in error.](media/sign-in-error.PNG "Sign-in error")
 
-     In that case, select **Sign in**, and enter your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password to connect the template 
+     In that case, select **Sign in**, and enter your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] credentials to connect the template 
      to your organization's secure [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
 
 5.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are 
