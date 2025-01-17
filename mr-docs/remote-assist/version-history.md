@@ -46,19 +46,6 @@ Only users with admin permission can [update the Remote Assist model-driven app]
 
 No version change. Dynamics 365 Remote Assist customers now have access to [Remote Assist in Microsoft Teams mobile](teams-mobile-all.md).
 
-## Locate your version number
-
-### HoloLens
-
-To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
-
-### Mobile
-
-To find which version of Dynamics 365 Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
-
-> [!div class="mx-imgBorder"]
-> ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
-
 ## 2023 Release Wave 2
 
 ## November 15, 2023
@@ -974,18 +961,5 @@ Fix for video freezing in the HoloLens app
 - The ‘Lost Tracking' pop-up is localized in our supported languages. 
 - The correct year is shown when users’ mobile device is set to the future in Thai. 
 - Error message improvements.  
-
-## Locate your version number
-
-### HoloLens
-
-To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
-
-### Mobile app
-
-To find which version of Dynamics 365 Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
-
-> [!div class="mx-imgBorder"]
-> ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -23,9 +23,22 @@ This article describes details about the **current release wave (October 2024 th
 
 ### Bugs fixed and other improvements
 
-- Fixed an issue in Government Community Cloud High (GCC) where Remote Assist HoloLens users couldn't make outgoing calls,
+- Fixed an issue in Government Community Cloud High (GCC) where Remote Assist HoloLens users couldn't make outgoing calls.
 
 - Bug fixes and stabilization changes.
+
+## Locate your version number
+
+### HoloLens
+
+To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
+
+### Mobile
+
+To find which version of Dynamics 365 Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
 
 ## See also
 
