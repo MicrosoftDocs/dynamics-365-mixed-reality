@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Guides
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 author: prashantyvr
 ms.author: prashan
-ms.date: 01/16/2025
+ms.date: 01/23/2025
 ms.topic: conceptual
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -23,12 +23,12 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 
 --->
 
-## January 2025
+## January 23, 2025
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 905.2407.11001.0 |
-|HoloLens app | 906.2501.11001 |
+|PC app| 906.2501.11001.0 |
+|HoloLens app | 906.2501.11001.0 |
 |Solution| 900.4.0.1* |
 
 ### Bugs fixed
@@ -38,7 +38,7 @@ If you have feature requests or suggested improvements, send them to the Dynamic
 - Other bug fixes and stabilization changes.
 
 > [!NOTE]
-> *This release requires an update to the HoloLens application only, but not the PC application nor the solution. The solution version 900.4.0.1 is compatible with the latest client applications.
+> *This release requires an update to the PC and HoloLens applications only, but not the solution. The solution version 900.4.0.1 is compatible with the latest client applications.
 
 ## Earlier releases
 
