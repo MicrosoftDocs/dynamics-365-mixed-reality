@@ -25,7 +25,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 ### Bugs fixed and other improvements
 
-- Text chat updates to align with changes made in Microsoft Teams ensuring that messages are received.
+- Text chat updates to align with changes made in Microsoft Teams to ensure that messages are received.
 
 - Bug fixes and stabilization changes.
 
