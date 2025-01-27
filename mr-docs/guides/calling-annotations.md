@@ -3,7 +3,7 @@ title: Use annotations with Dynamics 365 Guides
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen.
 author: prashantyvr
 ms.author: prashan
-ms.date: 04/08/2024
+ms.date: 01/27/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -15,11 +15,11 @@ Annotations are useful for pointing out different parts of your space, including
 
 If you're using Dynamics 365 Guides and you're on a call with another person or group, you can annotate in your environment in different ways. The primary way to use annotations is through Microsoft Teams.
 
-- If you're on a mobile device and have Microsoft Teams, [use Teams mobile to annotate the environment (preview)](#use-teams-mobile-to-annotate-in-a-users-environment-preview). Teams desktop users (PC or Mac) can annotate in a mobile user's space.
+- If you're on a mobile device and have Microsoft Teams, [use Teams mobile to annotate the environment](#use-teams-mobile-to-annotate-in-a-users-environment-preview). Teams desktop users (PC or Mac) can annotate in a mobile user's space.
 - If you're not on a mobile device but are using a HoloLens, [use your HoloLens to annotate the environment](#use-guides-hololens-to-annotate-in-your-environment).
 - If you're using Teams desktop (PC or Mac) and not a HoloLens, [use Teams desktop to annotate the environment](#use-teams-pc-or-mac-to-annotate-the-guides-users-environment).
 
-## Use Teams mobile to annotate in a user's environment (preview)
+## Use Teams mobile to annotate in a user's environment
 
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
 
@@ -63,7 +63,7 @@ When you join a call in Microsoft Teams (PC or Mac), the Dynamics 365 Guides col
 > [!NOTE]
 >
 > - The toolbar appears only when the video feed for the Dynamics 365 Guides user is active.
-> - The toolbar is disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides is not in the foreground).
+> - The toolbar is disabled if the Dynamics 365 Guides user isn't ready to receive annotations and files (for example, the user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides isn't in the foreground).
 > - The toolbar is disabled if the same Guides user is connected from Teams and Dynamics 365 Guides at the same time, regardless of the device used.
 
 ### Start annotations
