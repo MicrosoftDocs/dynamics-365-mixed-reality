@@ -161,7 +161,7 @@ On HoloLens 2, use either one hand or two hands to open the **Start** menu. If y
 
 1. With the index finger of your other hand, touch the Windows logo.
 
-    ![Video camera graphic.](media/video-camera.PNG) [Watch a video about opening the Start menu with two hands](https://www.microsoft.com/videoplayer/embed/RE3Wxng)
+    ![Video camera graphic.](media/video-camera.PNG) [Watch a video about opening the Start menu with two hands](https://learn-video.azurefd.net/vod/player?id=c8d9f560-4dc4-48b9-a853-d9fd82294c39)
 
 ## Gestures tutorial
 
