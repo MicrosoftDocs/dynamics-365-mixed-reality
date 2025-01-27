@@ -15,7 +15,7 @@ Annotations are useful for pointing out different parts of your space, including
 
 If you're using Dynamics 365 Guides and you're on a call with another person or group, you can annotate in your environment in different ways. The primary way to use annotations is through Microsoft Teams.
 
-- If you're on a mobile device and have Microsoft Teams, [use Teams mobile to annotate the environment](#use-teams-mobile-to-annotate-in-a-users-environment-preview). Teams desktop users (PC or Mac) can annotate in a mobile user's space.
+- If you're on a mobile device and have Microsoft Teams, [use Teams mobile to annotate the environment](#use-teams-mobile-to-annotate-in-a-users-environment). Teams desktop users (PC or Mac) can annotate in a mobile user's space.
 - If you're not on a mobile device but are using a HoloLens, [use your HoloLens to annotate the environment](#use-guides-hololens-to-annotate-in-your-environment).
 - If you're using Teams desktop (PC or Mac) and not a HoloLens, [use Teams desktop to annotate the environment](#use-teams-pc-or-mac-to-annotate-the-guides-users-environment).
 
