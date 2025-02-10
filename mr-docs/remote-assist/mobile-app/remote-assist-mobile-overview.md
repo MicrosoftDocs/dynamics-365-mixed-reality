@@ -32,7 +32,8 @@ Compare what features are available on Microsoft Teams mobile versus Remote Assi
 |Capture session history through call recordings|Yes|Yes|
 |Annotate and share in-call screenshots in low-bandwidth scenarios|Yes|Yes|
 |Availability on mobile devices without augmented reality (AR) support|Yes|Yes|
-|Integration with Microsoft Dynamics 365 for Field Service <br/>- Ability to link call history, in-call snapshots, and files shared during a Remote Assist mobile call to an associated Dynamics 365 Field Service work order.<br/>- Ability to start a call to a remote collaborator from the Dynamics 365 Field Service mobile app to the Remote Assist mobile app.|No|Yes|
+|Integration with Microsoft Dynamics 365 for Field Service: Ability to link call history, in-call snapshots, and files shared during a Remote Assist mobile call to an associated Dynamics 365 Field Service work order. |No|Yes|
+|Integration with Microsoft Dynamics 365 for Field Service: Ability to start a call to a remote collaborator from the Dynamics 365 Field Service mobile app in Teams.|Yes|Yes|
 
 ## Microsoft Intune support
 
