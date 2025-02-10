@@ -3,12 +3,14 @@ title: Group calls in Dynamics 365 Remote Assist mobile
 author: prashantyvr
 description: Group calling in Dynamics 365 Remote Assist mobile, Microsoft Teams desktop, and Dynamics 365 Remote Assist on HoloLens users 
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 
 # Group calling in Dynamics 365 Remote Assist mobile
+
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
 Many problems are easier to solve if you can bring together specialists from around the world with different knowledge sets. With the ability for three or more participants to join Microsoft Dynamics 365 Remote Assist mobile calls, technicians can collaborate with more than one specialist for guidance, validation, or knowledge-sharing purposes.
 

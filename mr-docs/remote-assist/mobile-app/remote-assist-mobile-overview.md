@@ -3,14 +3,14 @@ title: Dynamics 365 Remote Assist mobile overview
 description: Discover the features and functions of Dynamics 365 Remote Assist mobile app.
 author: prashantyvr
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Remote Assist mobile overview
 
-[!INCLUDE [ra-teams-mobile-include](../../includes/ra-teams-mobile.md)]
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
 Microsoft Dynamics 365 Remote Assist enables technicians with mobile devices to connect with a remote collaborator on Dynamics 365 Remote Assist mobile or Microsoft Teams (desktop or mobile). Using live video calling, mixed-reality annotations, and high-resolution snapshots, they can share what they see with the remote collaborator to troubleshoot problems together, faster.
 
