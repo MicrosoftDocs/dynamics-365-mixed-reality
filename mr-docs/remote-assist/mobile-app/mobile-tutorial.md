@@ -3,12 +3,14 @@ title: Use the Dynamics 365 Remote Assist mobile tutorial
 author: prashantyvr
 description: Learn how to use the in-app tutorial for the Dynamics 365 Remote Assist mobile app.
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 
 # Use the in-app tutorial on Dynamics 365 Remote Assist mobile
+
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
 Technicians can use the in-app, guided tutorial in Microsoft Dynamics 365 Remote Assist mobile to jump-start their ability to use the app's augmented reality (AR) capabilities. With AR, technicians can share their real-world environments and connect with remote collaborators to walk through repair or inspection processes. Both call participants can reference objects and provide instructions by placing mixed-reality annotations into the technician's shared environment.
 
