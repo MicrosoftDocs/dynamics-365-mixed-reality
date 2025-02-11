@@ -3,12 +3,14 @@ title: Use Dynamics 365 Remote Assist mobile in low-bandwidth situations
 author: prashantyvr
 description: Learn how the Microsoft Dynamics 365 Remote Assist mobile app works in environments with poor network conditions. 
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 
 # Use the Dynamics 365 Remote Assist mobile app in low-bandwidth situations
+
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
 Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth up/down of 1.5 Mbps or higher), technicians might experience difficulty troubleshooting and resolving problems in real time. Microsoft Dynamics 365 Remote Assist mobile gives technicians the ability to discuss, diagnose, and resolve issues with remote collaborators even in low-bandwidth scenarios.
 
