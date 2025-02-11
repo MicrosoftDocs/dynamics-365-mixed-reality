@@ -3,12 +3,14 @@ title: Join a meeting from the Dynamics 365 Remote Assist mobile app
 author: prashantyvr
 description: Learn how to join a meeting from the Dynamics 365 Remote Assist mobile app 
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 
 # Join a meeting from the Dynamics 365 Remote Assist mobile app
+
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
 You can join a scheduled Microsoft Teams meeting, which can involve any number of participants, from the Dynamics 365 Remote Assist mobile app. Meetings are useful for maintenance and repairs that are scheduled in advance. They're also useful for inspections and other recurring scenarios.
 

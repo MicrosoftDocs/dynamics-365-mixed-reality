@@ -3,12 +3,14 @@ title: Use Microsoft Intune to protect data in Dynamics 365 Remote Assist mobile
 author: prashantyvr
 description: Learn how to use Microsoft Intune to protect data in Dynamics 365 Remote Assist mobile by creating an app configuration policy for mobile devices.
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: article
 ms.reviewer: mhart
 ---
 
 # Use Microsoft Intune to protect data in Dynamics 365 Remote Assist mobile
+
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
 Microsoft Dynamics 365 Remote Assist mobile supports Microsoft Intune's app protection policies. These policies ensure that data remains safe and contained on the device through Intune policies.  
 

@@ -1,0 +1,2 @@
+> [!NOTE]
+> Dynamics 365 Remote Assist mobile will be deprecated March 25, 2025. But, existing customers can continue to get similar capabilities of Remote Assist mobile in Microsoft Teams mobile. Take advantage of all that Teams has to offer and [collaborate with other users](../remote-assist/teams-mobile-all.md)!

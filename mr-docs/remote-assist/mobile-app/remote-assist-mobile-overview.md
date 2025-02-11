@@ -3,14 +3,14 @@ title: Dynamics 365 Remote Assist mobile overview
 description: Discover the features and functions of Dynamics 365 Remote Assist mobile app.
 author: prashantyvr
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Remote Assist mobile overview
 
-[!INCLUDE [ra-teams-mobile-include](../../includes/ra-teams-mobile.md)]
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
 Microsoft Dynamics 365 Remote Assist enables technicians with mobile devices to connect with a remote collaborator on Dynamics 365 Remote Assist mobile or Microsoft Teams (desktop or mobile). Using live video calling, mixed-reality annotations, and high-resolution snapshots, they can share what they see with the remote collaborator to troubleshoot problems together, faster.
 
@@ -32,7 +32,8 @@ Compare what features are available on Microsoft Teams mobile versus Remote Assi
 |Capture session history through call recordings|Yes|Yes|
 |Annotate and share in-call screenshots in low-bandwidth scenarios|Yes|Yes|
 |Availability on mobile devices without augmented reality (AR) support|Yes|Yes|
-|Integration with Microsoft Dynamics 365 for Field Service <br/>- Ability to link call history, in-call snapshots, and files shared during a Remote Assist mobile call to an associated Dynamics 365 Field Service work order.<br/>- Ability to start a call to a remote collaborator from the Dynamics 365 Field Service mobile app to the Remote Assist mobile app.|No|Yes|
+|Integration with Microsoft Dynamics 365 for Field Service: Ability to link call history, in-call snapshots, and files shared during a Remote Assist mobile call to an associated Dynamics 365 Field Service work order. |No|Yes|
+|Integration with Microsoft Dynamics 365 for Field Service: Ability to start a call to a remote collaborator from the Dynamics 365 Field Service mobile app in Teams.|Yes|Yes|
 
 ## Microsoft Intune support
 
