@@ -3,14 +3,14 @@ title: Using Dynamics 365 Remote Assist mobile on non-AR capable devices
 description: Guide for using Dynamics 365 Remote Assist mobile on devices without AR capabilities.
 author: prashantyvr
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Remote Assist mobile calls on mobile devices without augmented reality support
 
-[!INCLUDE [ra-teams-mobile-include](../../includes/ra-teams-mobile.md)]
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
 Dynamics 365 Remote Assist mobile makes conducting repairs and remote inspections easy. It provides technicians with the ability to launch one-to-one and group video calls with remote collaborators inside or outside of their organization, even if users have mobile devices without ARCore or ARKit support.
 

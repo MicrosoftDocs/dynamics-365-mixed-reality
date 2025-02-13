@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist mobile.
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: article
 title: Dynamics 365 Remote Assist mobile frequently asked questions
 ms.reviewer: v-wendysmith
 ---
 
 # Frequently asked questions for Dynamics 365 Remote Assist mobile
+
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
 ## How can I tell what version I'm using?
 

@@ -3,7 +3,7 @@ title: Call another Dynamics 365 Remote Assist mobile user from Dynamics 365 Rem
 author: prashantyvr 
 description: Learn how calling between two Dynamics 365 Remote Assist mobile users works
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -11,11 +11,12 @@ ms.custom: bap-template
 
 # Call another Dynamics 365 Remote Assist mobile user from Dynamics 365 Remote Assist mobile
 
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
+
 Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and collaborate with their peers who are also using Dynamics 365 Remote Assist mobile. This article shows how to do one-to-one calls. See the following articles for different mobile app scenarios:
 
 - [Collaborate with colleagues on Microsoft Teams desktop or Teams mobile](remote-assist-mobile-to-teams-calls.md)
 - [Participate in group calls](group-calling.md)
-
 
 ## Prerequisites
 

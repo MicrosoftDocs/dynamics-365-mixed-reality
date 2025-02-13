@@ -3,16 +3,16 @@ title: Annotate the technician's environment in Dynamics 365 Remote Assist mobil
 author: prashantyvr
 description: How to add annotations to your environment in Dynamics 365 Remote Assist mobile 
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/10/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
 
 # Annotate the technician's shared environment
 
-[!INCLUDE [ra-teams-mobile-include](../../includes/ra-teams-mobile.md)]
+[!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
-Mixed-reality annotations give technicians and remote collaborators the power to visually specify an area or a particular asset in their environment to look at or manipulate. During a Dynamics 365 Remote Assist mobile video call, the technician shares their environment with the remote collaborator through their rear-facing camera. The technician can instantly place mixed-reality annotations in the shared environment. The remote collaborator  places mixed-reality annotations on a snapshot of the technician's shared environment. 
+Mixed-reality annotations give technicians and remote collaborators the power to visually specify an area or a particular asset in their environment to look at or manipulate. During a Dynamics 365 Remote Assist mobile video call, the technician shares their environment with the remote collaborator through their rear-facing camera. The technician can instantly place mixed-reality annotations in the shared environment. The remote collaborator  places mixed-reality annotations on a snapshot of the technician's shared environment.
 
 > [!NOTE]
 > Android devices that have a time-of-flight (ToF) sensor and support the [Depth API](https://developers.google.com/ar/discover/supported-devices) and iOS devices that have a LiDAR sensor [(see LiDAR sensor in the tables listed for iOS and iPadOS devices)](https://en.wikipedia.org/wiki/List_of_iOS_and_iPadOS_devices) are likely to have better accuracy with annotation placement.
@@ -20,6 +20,9 @@ Mixed-reality annotations give technicians and remote collaborators the power to
 ## Learn the annotation tools
 
 ### Mobile app
+
+> [!TIP]
+> [Use spatial annotations in Teams mobile](../teams-mobile-annotate.md).
 
 If you're using the Dynamics 365 Remote Assist mobile app, you see the following annotation toolbar.
 
