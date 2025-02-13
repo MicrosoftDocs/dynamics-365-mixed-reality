@@ -37,7 +37,7 @@ Object anchors for Dynamics 365 Guides has the following limitations:
 
 ## Prerequisites
 
-- An active Dynamics 365 Guides license (trial or paid)
+- An active Dynamics 365 Guides license
 
 - Dynamics 365 Guides solution version 900.0.0.1 (October 17, 2023) or later
 

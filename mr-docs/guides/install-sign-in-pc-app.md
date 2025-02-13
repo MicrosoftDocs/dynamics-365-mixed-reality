@@ -16,7 +16,7 @@ ms.custom: bap-template
 Use these instructions to install the Microsoft Dynamics 365 Guides PC app (if it hasn't already been installed for you) and to sign in. For information on technical requirements for the PC app, see [Device and licensing requirements](requirements.md).
 
 > [!NOTE]
-> You must have a license to install the Dynamics 365 Guides PC app. You can also sign up for a free trial. For more information, see [Setup overview](setup.md).
+> You must have a license to install the Dynamics 365 Guides PC app.
 
 ## Install the app
 

@@ -23,7 +23,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can call and colla
 
 - Technicians must have a Dynamics 365 Remote Assist [subscription](../buy-remote-assist.md).
 
-- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and a Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn how to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
+- Remote collaborators must have Dynamics 365 Field Service or Dynamics 365 Remote Assist and a Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn how to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 
 ## Call another Dynamics 365 Remote Assist mobile user
 

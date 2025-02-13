@@ -11,9 +11,9 @@ ms.custom: bap-template
 
 # Install the Dynamics 365 Guides solution
 
-After buying a Microsoft Dynamics 365 Guides subscription, create an environment where you can install the Guides solution.
+After buying a Microsoft Dynamics 365 Field Service subscription, create an environment where you can install the Guides solution.
 
-If you have a trial environment you want to convert to a production environment, go to [convert the trial to a paid version](convert-trial-to-paid.md). If you have another environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), skip to [**Install and configure the solution**](#install-and-configure-the-solution). Otherwise, perform the following steps to set up a production environment.
+If you have another environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), skip to [**Install and configure the solution**](#install-and-configure-the-solution). Otherwise, perform the following steps to set up a production environment.
 
 ## Prerequisites
 
@@ -25,9 +25,6 @@ If you have a trial environment you want to convert to a production environment,
 1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments).
 
 1. [Create a new environment](/power-platform/admin/create-environment#create-an-environment-with-a-database) and select **Production** for **Type** and **Yes** to **Add a Dataverse data store**.
-
-   > [!IMPORTANT]
-   > The Dynamics 365 Guides solution can also be installed on a trial environment. **We don't recommend that you use a trial environment, because that environment, together with all your content, is automatically disabled after the 30-day trial period expires.** You have a seven-day grace period to upgrade to a production environment or migrate your content to another environment.
 
 1. In the **Region** field, keep the default setting.
 
@@ -56,15 +53,12 @@ If you have an environment already created, perform the following steps to insta
 
 1. In the **Install Dynamics 365 Guides** dialog box, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
 
+   In the Power Platform admin center, the following message is shown: "Dynamics 365 Guides installation started at \<*time*\>, \<*date*\> by \<*name*\> Account."
+
+   While the solution is being installed, **Installing** appears in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
+
    > [!NOTE]
-   > If you don't see your environment and you have a valid Guides license, you might have installed Dynamics 365 Guides on a trial environment that has expired. You can go to the  [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and [switch it to a production environment](/power-platform/admin/switch-environment).
-
-    In the Power Platform admin center, the following message is shown: "Dynamics 365 Guides installation started at \<*time*\>, \<*date*\> by \<*name*\> Account."
-
-    While the solution is being installed, **Installing** appears in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
-
-    > [!NOTE]
-    > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page.
+   > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page.
 
 ## Microsoft platforms and Guides
 
