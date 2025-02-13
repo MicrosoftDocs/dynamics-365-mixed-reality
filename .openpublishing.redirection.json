@@ -748,6 +748,11 @@
       "source_path": "mr-docs/guides/convert-trial-to-paid.md",
       "redirect_url": "/dynamics365/mixed-reality/guides/buy-guides",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/trial-handoff.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/buy-guides",
+      "redirect_document_id": "false"
     }
   ]
 }
