@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Install the Dynamics 365 Guides solution
 
-After buying a Microsoft Dynamics 365 Guides or Field Service license, create an environment where you can install the Guides solution.
+After buying a Microsoft Dynamics 365 Field Service or Guides license, create an environment where you can install the Guides solution.
 
 If you have another environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), skip to [**Install and configure the solution**](#install-and-configure-the-solution). Otherwise, perform the following steps to set up a production environment.
 

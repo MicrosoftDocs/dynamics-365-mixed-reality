@@ -4,8 +4,7 @@
 ## [Welcome to Dynamics 365 Guides](overview.md)
 
 ## Get started
-### Buy a subscription
-#### [Buy a license](buy-guides.md)
+### [Buy a license](buy-guides.md)
 ### [Get started](get-started.md)
 
 ## What's new

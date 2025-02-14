@@ -45,5 +45,8 @@ Watch these videos to quickly learn the basics of Microsoft Dynamics 365 Guides.
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Set up a QR code anchor for your guide](https://youtu.be/NhdBG3emNUs)
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide (shows HoloLens 1 version)](https://aka.ms/guidesoperate)
 
+## What's next?
+
+- [Buy a subscription](buy-guides.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

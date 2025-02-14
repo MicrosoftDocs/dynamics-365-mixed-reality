@@ -40,7 +40,7 @@ Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mo
 
 2. Go to **Billing** > **Licenses**.
 
-3. Select **Dynamics 365 Remote Assist**.
+3. Select **Dynamics 365 Field Service or Remote Assist**.
 
 4. Select **Assign licenses**.
 

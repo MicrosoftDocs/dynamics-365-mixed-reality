@@ -20,12 +20,17 @@ Deploy Dynamics 365 Remote Assist to your organization. You can [deploy to multi
 
 ## Prerequisites
 
-- A [purchased Dynamics 365 Field Service license](/dynamics365/field-service/buy-fs).
+- A [purchased Dynamics 365 Field Service or Remote Assist license](buy-remote-assist.md).
 - Individuals have a [supported device](./requirements.md).
 
 ## Add users and assign licenses
 
 If you purchased Dynamics 365 Field Service, you can skip this step and have your users [download and install the app on their device](#download-and-install-the-app).
+
+If you purchased Dynamics 365 Remote Assist, determine the types of users:
+
+- Field service technicians who require a Dynamics 365 Remote Assist license, which also includes the required Microsoft Teams license.
+- Remote experts (who aren't in the field) require only a Microsoft Teams license.
 
 ### Prerequisites
 

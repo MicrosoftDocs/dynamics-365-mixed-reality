@@ -14,7 +14,7 @@ As an admin, perform the following steps to install and set up Dynamics 365 Guid
 
 ## Prerequisites
 
-- A [purchased Dynamics 365 Field Service license](/dynamics365/field-service/buy-fs).
+- [Purchase a Dynamics 365 Field Service or Guides license](buy-guides.md).
 - [Requirements](requirements.md) for installation are met.
 - Have your network admin review and set up the [network requirements](admin-network-requirements.md), if necessary.
 

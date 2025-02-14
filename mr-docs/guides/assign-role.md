@@ -21,7 +21,7 @@ Choose how you want to assign roles to users and perform the appropriate task.
 
 ## Prerequisites
 
-- You must have an [active Dynamics 365 Guides license](buy-guides.md).
+- You must have an [active Dynamics 365 Field Servie or Guides license](buy-guides.md).
 
 - The [Dynamics 365 Guides solution must be installed](upgrade.md).
 

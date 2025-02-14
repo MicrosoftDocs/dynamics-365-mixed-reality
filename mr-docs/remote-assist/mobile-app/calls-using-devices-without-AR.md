@@ -20,7 +20,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 - This article is designed to help users who have a mobile device without ARCore or ARKit support. [Learn about Dynamics 365 Remote Assist device requirements](../requirements.md). If your device isn't* listed on the [Android/ARCore supported devices list](https://developers.google.com/ar/discover/supported-devices) or [iOS/ARKit supported devices list](https://developers.google.com/ar/discover/supported-devices#ios), your device doesn't support augmented reality.
 - Technicians must have a [Dynamics 365 Field Service or Remote Assist subscription](../buy-remote-assist.md).
-- Remote collaborators must have Dynamics 365 Field Service or Dynamics 365 Remote Assist and a Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn how to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
+- Remote collaborators must have Dynamics 365 Field Service or Dynamics 365 Remote Assist subscription, and a Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn how to set up Dynamics 365 Remote Assist with [Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 
 ## How it works
 

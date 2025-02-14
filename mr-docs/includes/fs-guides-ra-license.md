@@ -1,2 +1,2 @@
 > [!NOTE]
-> [Buy a Dynamics 365 Field Service license.](/dynamics365/field-service/buy-fs) The Dynamics 365 Field Service license includes Dynamics 365 Guides and Dynamics 365 Remote Assist at no extra cost.
+> [Buy a Dynamics 365 Field Service license](/dynamics365/field-service/buy-fs). The Dynamics 365 Field Service license includes Dynamics 365 Guides and Dynamics 365 Remote Assist at no extra cost.
