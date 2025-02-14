@@ -29,7 +29,7 @@ Calls with Dynamics 365 Remote Assist mobile is available for calls between:
 ## Prerequisites
 
 - In order to follow along with this guide, you must use a mobile device with ARCore or ARKit support. [Learn about Dynamics 365 Remote Assist's device requirements](../requirements.md).
-- Technicians must have a Dynamics 365 Remote Assist [subscription](../buy-remote-assist.md).
+- Technicians must have a Dynamics 365 Field Service or Remote Assist [subscription](../buy-remote-assist.md).
 - Remote collaborators must have Dynamics 365 Field Service or Dynamics 365 Remote Assist or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). [Learn how to set up Dynamics 365 Remote Assist with Teams desktop](../teams-pc-all.md) and [Teams mobile](../teams-mobile-all.md).
 
 ## How it works

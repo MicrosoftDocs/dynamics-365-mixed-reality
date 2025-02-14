@@ -52,7 +52,7 @@ Users can install and use the Dynamics 365 Remote Assist app on their HoloLens 2
 
 ### Prerequisites
 
-- A [Dynamics 365 Remote Assist license **and** Microsoft Teams license assigned](#add-users-and-assign-licenses).
+- A [Dynamics 365 Field Service or Remote Assist license **and** Microsoft Teams license assigned](#add-users-and-assign-licenses).
 
 - A [Microsoft Teams account](https://teams.microsoft.com/start). Go to [Using Teams with Dynamics 365 Remote Assist](/dynamics365/mixed-reality/remote-assist/set-up-teams) for more information.
 

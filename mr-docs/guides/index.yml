@@ -40,6 +40,8 @@ additionalContent:
     items:
     - title: Install
       links: 
+      - url: buy-guides.md
+        text: Buy guides
       - url: setup.md
         text: Install
     - title: Set up 

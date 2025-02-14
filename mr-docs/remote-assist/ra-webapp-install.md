@@ -39,7 +39,7 @@ After installing the Dynamics 365 Remote Assist model-driven app, you'll be able
 
 To complete the installation steps for the model-driven app, you need:
 
-- **A Dynamics 365 Remote Assist subscription** to create environments and install the app.
+- **A Dynamics 365 Field Service or Remote Assist subscription** to create environments and install the app.
 
 - **The ability to [manage environments](/power-platform/admin/create-environment) in the Power Platform admin center**.
 
@@ -48,7 +48,7 @@ To complete the installation steps for the model-driven app, you need:
 ## Install the Dynamics 365 Remote Assist model-driven app
 
 > [!IMPORTANT]
-> To install the Dynamics 365 Remote Assist model-driven app, you must have the System Administrator role, and you must have a Power Apps license (or a license like a Dynamics 365 Remote Assist license that includes a Power Apps license). 
+> To install the Dynamics 365 Remote Assist model-driven app, you must have the System Administrator role, and you must have a Power Apps license (or a license like a Dynamics 365 Field Service or Remote Assist license that includes a Power Apps license). 
 > 
 > ![Screenshot showing Remote Assist license.](./media/remote-assist-license-1.jpg "Screenshot showing Remote Assist license")
 

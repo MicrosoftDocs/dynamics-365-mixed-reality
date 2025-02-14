@@ -19,7 +19,7 @@ Technicians using Microsoft Dynamics 365 Remote Assist mobile can diagnose and r
 
 ## Prerequisites
 
-- Technicians must have a [Dynamics 365 Remote Assist subscription](../buy-remote-assist.md).
+- Technicians must have a [Dynamics 365 Field Service or Remote Assist subscription](../buy-remote-assist.md).
 
 - Remote collaborators must have Dynamics 365 Field Service or Dynamics 365 Remote Assist and/or [Microsoft Teams free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). [Learn how to set up Dynamics 365 Remote Assist with Teams desktop](../teams-pc-all.md) or [Teams mobile](../teams-mobile-all.md).
 

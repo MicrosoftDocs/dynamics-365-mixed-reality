@@ -2,7 +2,7 @@
 author: prashantyvr
 description: In this step of the setup process, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: prashan
-ms.date: 02/27/2024
+ms.date: 02/13/2025
 ms.topic: how-to
 title: Install the Dynamics 365 Guides solution 
 ms.reviewer: v-wendysmith
@@ -11,14 +11,14 @@ ms.custom: bap-template
 
 # Install the Dynamics 365 Guides solution
 
-After buying a Microsoft Dynamics 365 Field Service subscription, create an environment where you can install the Guides solution.
+After buying a Microsoft Dynamics 365 Guides or Field Service license, create an environment where you can install the Guides solution.
 
 If you have another environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), skip to [**Install and configure the solution**](#install-and-configure-the-solution). Otherwise, perform the following steps to set up a production environment.
 
 ## Prerequisites
 
 - [System Administrator role](/power-platform/admin/database-security) in Power Platform admin center.
-- Assigned Dynamics 365 Guides license with a license that [allows environment creation](/power-platform/admin/create-environment#who-can-create-environments) such as Power Apps.
+- A license that [allows environment creation](/power-platform/admin/create-environment#who-can-create-environments) such as Power Apps.
 
 ## Set up a production environment
 

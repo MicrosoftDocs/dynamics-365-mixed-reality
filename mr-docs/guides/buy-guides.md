@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Buy a Dynamics 365 Guides subscription
 
-[Buy a Dynamics 365 Field Service license](/dynamics365/field-service/buy-fs). The Dynamics 365 Field Service license also includes Dynamics 365 Guides and Dynamics 365 Remote Assist at no extra cost.
+[!INCLUDE [fs-guides-ra-license](../includes/fs-guides-ra-license.md)]
 
 ## Next step
 

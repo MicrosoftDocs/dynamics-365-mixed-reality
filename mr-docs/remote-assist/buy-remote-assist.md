@@ -16,7 +16,7 @@ ms.custom: bap-template
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-Dynamics 365 Remote Assist gives workers tools to complete tasks more quickly, safely, and efficiently, on a HoloLens or mobile device. Dynamics 365 Remote Assist licenses include Microsoft Teams licenses.
+Dynamics 365 Remote Assist gives workers tools to complete tasks more quickly, safely, and efficiently, on a HoloLens or mobile device.
 
 ## Next step
 
