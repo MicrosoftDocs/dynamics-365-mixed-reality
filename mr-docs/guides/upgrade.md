@@ -18,7 +18,7 @@ Some releases of Microsoft Dynamics 365 Guides require an update to the Dynamics
 
 ## Prerequisites
 
-- You have a [System Administrator security group role](/power-platform/admin/database-security) and an [assigned Guides license](./add-users.md).
+- You have a [System Administrator security group role](/power-platform/admin/database-security) and an [assigned Field Servie or Guides license](./add-users.md).
 
 - The Dynamics 365 Guides PC and HoloLens apps are updated to the latest version from the Microsoft Store.
 

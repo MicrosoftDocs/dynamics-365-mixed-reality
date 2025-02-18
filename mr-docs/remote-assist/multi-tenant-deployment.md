@@ -31,7 +31,7 @@ In this scenario, a company uses multiple tenants through different organization
 
 In addition:
 
-- Each technician in Tenant Contoso1 and Tenant Contoso2 already has a Dynamics 365 Remote Assist license and Teams license.
+- Each technician in Tenant Contoso1 and Tenant Contoso2 already has a Dynamics 365 Field Service or Remote Assist license and Teams license.
 - Each expert in Tenant ABC already has a Teams license. Experts who use Teams don't need a Dynamics 365 Remote Assist license. 
 - Teams users in Tenant ABC want to search and collaborate with Dynamics 365 Remote Assist users in Tenant Contoso1, and vice versa.
 - Teams users in Tenant ABC want to search and collaborate with Dynamics 365 Remote Assist users in Tenant Contoso2, and vice versa.

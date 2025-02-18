@@ -3,7 +3,7 @@ title: Requirements for Dynamics 365 Remote Assist
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 author: prashantyvr
 ms.author: prashan
-ms.date: 11/08/2024
+ms.date: 02/14/2025
 ms.topic: conceptual
 ms.reviewer: v-wendysmith
 ms.service: dynamics-365-remote-assist
@@ -12,9 +12,9 @@ ms.custom: bap-templates
 
 # Requirements for deploying and using Dynamics 365 Remote Assist
 
-[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
+[!INCLUDE[try-fs-guides-ra-license](../includes/fs-guides-ra-license.md)]
 
-[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
+[!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 To deploy and use Dynamics 365 Remote Assist, make sure you meet the following technical requirements.
 
@@ -80,7 +80,9 @@ A Dynamics 365 Remote Assist license includes the following three products:
 | **Dynamics 365 Remote Assist and Teams**             | Use calling features through the Dynamics 365 Remote Assist app on HoloLens or mobile devices. Features include: </br> - Make a call </br> - Use mixed-reality annotations                                            |
 | **Microsoft Dataverse**                 | - Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Remote Assist call </br> - Create and share one-time call links </br> - See analytics and insights based on your call records |
 
-A Microsoft Entra account is also required for purchasing the Dynamics 365 Remote Assist subscription and for assigning licenses. You'll need a Microsoft Entra account for each licensed user. They'll use this account when signing in to the app.
+A Microsoft Entra account is required for assigning licenses. You'll need a Microsoft Entra account for each licensed user. They'll use this account when signing in to the app.
+
+[!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
 > [!Note]
 > The Dynamics 365 Remote Assist, Teams, and Dataverse licenses must be assigned to a native member of the tenant ([Microsoft Entra member](/azure/active-directory/fundamentals/users-default-permissions#member-and-guest-users) account). Dynamics 365 Remote Assist does not support [Microsoft Entra B2B](/azure/active-directory/external-identities/what-is-b2b); an individual cannot sign into Dynamics 365 Remote Assist using a Dynamics 365 Remote Assist license assigned to an Microsoft Entra guest account.
