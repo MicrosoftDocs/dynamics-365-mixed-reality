@@ -26,7 +26,7 @@ There are [many types of Remote Assist calls](./mobile-app/making-calls-on-remot
 Remote Assist users and Teams users who want to join the same Remote Assist call already have their respective licenses in the same tenant. Or, they're willing to deploy Field Service or Remote Assist licenses and Teams licenses in the same tenant. 
 After a [standard deployment of Remote Assist](deploy-remote-assist.md) and a [standard deployment of Teams](/MicrosoftTeams/user-access), individuals can use their respective apps to participate in a Remote Assist call.   
 
-## Scenario 2: Multitenant collaboration 
+## Scenario 2: Multi-tenant collaboration 
 A company has multiple organizations or business units, each with their own tenant, that want to collaborate via Remote Assist calls. Or, multiple companies want to collaborate via Remote Assist calls. People who want to use Remote Assist already have Field Service or Remote Assist licenses, or are willing to deploy Field Service or Remote Assist licenses. People who want to use Teams either already have Teams licenses, are willing to deploy Teams licenses, or are willing to be a guest in the Remote Assist user’s tenant. 
 Learn more about how to [set up multi-tenant collaboration](multi-tenant-deployment.md) using external access, guest access, or meetings.
 
