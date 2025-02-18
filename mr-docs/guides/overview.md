@@ -47,7 +47,6 @@ Watch these videos to quickly learn the basics of Microsoft Dynamics 365 Guides.
 
 ## What's next?
 
-- [Sign up for a free 60-day trial](trial-signup.md)
 - [Buy a subscription](buy-guides.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -18,7 +18,7 @@ To handle requests, you can follow the DSR process for content in Dataverse and 
 
 ## What licenses do I need to access the new collaboration features in Dynamics 365 Guides?
 
-You need a Dynamics 365 Guides license and a Microsoft Teams license. [Learn more about licensing requirements](requirements.md)
+You need a Dynamics 365 Field Servie or Guides license and a Microsoft Teams license. [Learn more about licensing requirements](requirements.md)
 
 ## Can I collaborate with Teams users in the same way as I do in Dynamics 365 Remote Assist?
 
@@ -73,7 +73,7 @@ There’s no built-in way to limit access in Dynamics 365 Guides to just calling
 
 To transition a specific user to Dynamics 365 Guides 8.0, you need to do two things:
 
-1. Assign the Dynamics 365 Guides license to that user.
+1. Assign the Dynamics 365 Field Servie or Guides license to that user.
 
 2. Assign one of Dynamics 365 Guides roles.
 
