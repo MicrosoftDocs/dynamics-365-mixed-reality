@@ -728,6 +728,31 @@
       "source_path": "mr-docs/new-and-planned-features",
       "redirect_url": "/dynamics365/mixed-reality/guides/overview",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/trial-signup.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/buy-guides",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/trial-faq.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/buy-guides",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/ra-features-in-guides-8.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/buy-guides",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/convert-trial-to-paid.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/buy-guides",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/guides/trial-handoff.md",
+      "redirect_url": "/dynamics365/mixed-reality/guides/buy-guides",
+      "redirect_document_id": "false"
     }
   ]
 }

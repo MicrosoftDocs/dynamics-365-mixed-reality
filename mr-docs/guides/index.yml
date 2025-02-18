@@ -38,13 +38,11 @@ additionalContent:
   sections:
   - title: Implement Guides
     items:
-    - title: Try, buy, and install
+    - title: Install
       links: 
-      - url: trial-signup.md
-        text: Sign up for a free trial
-      - url: setup-step-one.md
-        text: Buy
       - url: buy-guides.md
+        text: Buy guides
+      - url: setup.md
         text: Install
     - title: Set up 
       links:

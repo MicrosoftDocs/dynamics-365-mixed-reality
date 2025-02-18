@@ -3,7 +3,7 @@ title: Set up an environment and install the Microsoft Dynamics 365 Remote Assis
 author: prashantyvr
 description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 02/13/2025
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -39,22 +39,16 @@ After installing the Dynamics 365 Remote Assist model-driven app, you'll be able
 
 To complete the installation steps for the model-driven app, you need:
 
-- **A Dynamics 365 Remote Assist subscription** to create environments and install the app.
+- **A Dynamics 365 Field Service or Remote Assist subscription** to create environments and install the app.
 
 - **The ability to [manage environments](/power-platform/admin/create-environment) in the Power Platform admin center**.
 
 - **Available database capacity**. If you're creating a new environment for Dynamics 365 Remote Assist, you'll need at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide default tenant capacity. More information: [New Dataverse storage capacity](/power-platform/admin/capacity-storage)
 
-> [!IMPORTANT]
-> You can get a 30-day trial subscription of Dynamics 365 Remote Assist to try out the Remote Assist model-driven app. Make sure to follow [these instructions to create a **subscription-based trial environment**](/power-platform/admin/trial-environments#create-a-trial-subscription-based-environment-in-the-power-platform-admin-center). Note that you **can't use the standard trial instructions** for this purpose. 
-> In step 4 of the subscription-based trial environment instructions:
-> - For the **Enable Dynamics 365 apps** option, select **Yes**. 
-> - For the **Automatically deploy these apps** option, select **All enterprise applications**. If you select **Customer Service Pro** or **Sales Pro**, the Remote Assist model-driven app will **NOT** be installed.
-
 ## Install the Dynamics 365 Remote Assist model-driven app
 
 > [!IMPORTANT]
-> To install the Dynamics 365 Remote Assist model-driven app, you must have the System Administrator role, and you must have a Power Apps license (or a license like a Dynamics 365 Remote Assist license that includes a Power Apps license). 
+> To install the Dynamics 365 Remote Assist model-driven app, you must have the System Administrator role, and you must have a Power Apps license (or a license like a Dynamics 365 Field Service or Remote Assist license that includes a Power Apps license). 
 > 
 > ![Screenshot showing Remote Assist license.](./media/remote-assist-license-1.jpg "Screenshot showing Remote Assist license")
 
