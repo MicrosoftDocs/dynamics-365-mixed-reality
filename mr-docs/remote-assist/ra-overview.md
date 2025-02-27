@@ -2,7 +2,7 @@
 description: Get an overview of the capabilities and benefits of the Dynamics 365 Remote Assist HoloLens and mobile apps.
 author: prashantyvr
 ms.author: prashan
-ms.date: 02/05/2025
+ms.date: 02/28/2025
 ms.topic: overview
 title: Welcome to Dynamics 365 Remote Assist 
 ms.reviewer: v-wendysmith
@@ -14,11 +14,7 @@ ms.custom: bap-template
 Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens 2, Android, or iOS devices.
 
 > [!TIP]
-> Dynamics 365 Remote Assist mobile will be deprecated March 25, 2025. But, existing customers can continue to get similar capabilities of Remote Assist mobile in Microsoft Teams mobile. Take advantage of all that Teams has to offer and [collaborate with other users](../remote-assist/teams-mobile-all.md)! For the best calling experience on HoloLens, use Dynamics 365 Guides.
->
-> With Guides, the same remote experts can assist you through a problem while you have the holographic content of a Guide appearing before you.  
->
-> [Learn more](https://go.microsoft.com/fwlink/?linkid=2227374) and [try Guides](https://go.microsoft.com/fwlink/?linkid=2227510)!
+> Dynamics 365 Remote Assist mobile will be deprecated March 25, 2025. But, existing customers can continue to get similar capabilities of Remote Assist mobile in Microsoft Teams mobile. Learn more: [Collaborate with other users](teams-mobile-all.md) and [Use spatial annotations on Teams](teams-mobile-annotate.md).
 
 ![Simulated real-life photo of a field technician wearing a HoloLens and communicating with a remote expert.](media/RA_official_photo.png)
 
