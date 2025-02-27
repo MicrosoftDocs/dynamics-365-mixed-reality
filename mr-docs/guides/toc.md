@@ -4,13 +4,7 @@
 ## [Welcome to Dynamics 365 Guides](overview.md)
 
 ## Get started
-### Free trial
-#### [Sign up for a free trial](trial-signup.md)
-#### [Trial FAQ](trial-faq.md)
-### Buy a subscription
-#### [Buy a license](buy-guides.md)
-#### [Convert a trial version to a paid version](convert-trial-to-paid.md)
-### [Dynamics 365 Remote Assist features in Guides 8.0](ra-features-in-guides-8.md)
+### [Buy a license](buy-guides.md)
 ### [Get started](get-started.md)
 
 ## What's new

@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-To add users to Dynamics 365 Guides, first assign a Guides license to each new or existing user. Then, in the Power Platform admin center, configure the roles that the users will have access to (Author, Operator, or Admin).
+To add users to Dynamics 365 Guides, first assign a Field Service or Guides license to each new or existing user. Then, in the Power Platform admin center, configure the roles that the users will have access to (Author, Operator, or Admin).
 
 To assign licenses and add users, you can use the Microsoft 365 admin center, Microsoft Entra ID, or Microsoft Entra security groups.
 
@@ -22,7 +22,7 @@ To assign licenses and add users, you can use the Microsoft 365 admin center, Mi
 
 ## Prerequisites
 
-- You must have an [active Dynamics 365 Guides license](buy-guides.md).
+- You must have an [active Dynamics 365 Field Servie or Guides license](buy-guides.md).
 
 - The [Dynamics 365 Guides solution must be installed](install-guides.md).
 

@@ -26,7 +26,7 @@ This article shows you how to assign a Dynamics 365 Remote Assist license to use
 
 To complete the steps in this article, you need:
 
-- **A Dynamics 365 Remote Assist subscription**. The subscription enables you to assign licenses to users.
+- **A Dynamics 365 Field Service or Remote Assist subscription**. The subscription enables you to assign licenses to users.
 
 - **The ability to manage user licenses in the Microsoft 365 admin center**. To manage user licenses, you need to have an admin role for the Microsoft 365 admin center.
 
@@ -34,13 +34,13 @@ To complete the steps in this article, you need:
 
 ## Assign Dynamics 365 Remote Assist licenses
 
-Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mobile or accessing the Dynamics 365 Remote Assist model-driven app will need a Dynamics 365 Remote Assist license. If these users already have a Dynamics 365 Remote Assist license, you can skip this step.
+Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mobile or accessing the Dynamics 365 Remote Assist model-driven app will need a Dynamics 365 Field Service or Remote Assist license. If these users already have one of these licenses, you can skip this step.
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com).
 
 2. Go to **Billing** > **Licenses**.
 
-3. Select **Dynamics 365 Remote Assist**.
+3. Select **Dynamics 365 Field Service or Remote Assist**.
 
 4. Select **Assign licenses**.
 
