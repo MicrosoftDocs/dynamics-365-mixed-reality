@@ -11,13 +11,11 @@ ms.reviewer: v-wendysmith
 # Collaborate with any user through Microsoft Teams mobile
 
 > [!TIP]
-> Dynamics 365 Remote Assist customers now have access to Remote Assist in Microsoft Teams mobile. For the best calling experience on HoloLens, use Dynamics 365 Guides.
->
-> [Learn more](https://go.microsoft.com/fwlink/?linkid=2227374) and [try Guides](https://go.microsoft.com/fwlink/?linkid=2227510)!
+> Dynamics 365 Remote Assist customers now have access to Remote Assist in Microsoft Teams mobile.
 
 Users can initiate a Remote Assist call right in Teams mobile without switching apps to get support from a remote expert. Technicians can share their mobile camera view with a remote expert and have them annotate on their screen or Teams users can annotate in their own space and share with other collaborators.
 
-When you use Teams on mobile, you can collaborate using the Spatial Annotations toolbar in a call with anyone who is using HoloLens 2 or another Teams user on PC, Mac, or mobile device.
+When you use Teams on mobile, you can [collaborate using the Spatial Annotations toolbar](teams-mobile-annotate.md) in a call with anyone who is using HoloLens 2 or another Teams user on PC, Mac, or mobile device.
 
 ## Make a call
 
