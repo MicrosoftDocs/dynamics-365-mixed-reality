@@ -32,31 +32,6 @@
 ### [Turn hand rays off or on](hololens-hand-rays.md)
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
 
-## Mobile app
-### Overview and basics
-#### [Overview](mobile-app/remote-assist-mobile-overview.md)
-#### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
-### Make calls, join meetings, and send text messages
-#### [Overview of making calls](mobile-app/making-calls-on-remote-assist-mobile.md)
-#### [Calls in augmented reality](mobile-app/making-calls-with-AR.md)
-#### [Calls between Dynamics 365 Remote Assist mobile users](mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md)
-#### [Calls between Dynamics 365 Remote Assist mobile & Microsoft Teams users](mobile-app/remote-assist-mobile-to-teams-calls.md)
-#### [Calls without augmented reality support](mobile-app/calls-using-devices-without-AR.md)
-#### [Group calls](mobile-app/group-calling.md)
-#### [Calls in low-bandwidth situations](mobile-app/low-bandwidth-mode.md)
-#### [Join a meeting](mobile-app/join-meeting-mobile.md)
-#### [Send chat messages](mobile-app/send-chat-messages.md)
-### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
-### [Share your screen](mobile-app/share-screen.md)
-### Capture photos, videos, and asset conditions
-#### [Capture and annotate snapshots](mobile-app/annotate-snapshot.md)
-#### [Record calls](mobile-app/call-recording.md)
-#### [Capture asset conditions](mobile-app/asset-capture-mobile.md)
-#### [Share files](mobile-app/file-sharing.md)
-### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
-### [Use Microsoft Intune to protect data](mobile-app/intune.md)
-### [Provide feedback](mobile-app/provide-feedback.md)
-
 ## Do more with the model-driven app
 ### [Install the model-driven app](ra-webapp-install.md)
 ### [Add users](asset-capture-add-users.md)

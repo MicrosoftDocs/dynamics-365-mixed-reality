@@ -79,8 +79,6 @@ You can now use Dynamics 365 Remote Assist on your HoloLens 2. Next, [Learn how 
 
 1. Sign in to Dynamics 365 Remote Assist with your Microsoft Teams account. Your **Contacts** page displays.
 
-You can now use Dynamics 365 Remote Assist on your mobile device. Next, [Learn how to make calls](mobile-app/making-calls-with-ar.md).
-
 ## Next steps
 
 - [Set up Microsoft Teams on a PC or mobile for various scenarios](set-up-teams.md)

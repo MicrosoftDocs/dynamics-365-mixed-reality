@@ -12,12 +12,12 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-There are [many types of Remote Assist calls](./mobile-app/making-calls-on-remote-assist-mobile.md). Some calls include only Remote Assist app users such as a call between two Remote Assist mobile users. Some calls include Remote Assist app users and Teams app users such as a meeting between one Remote Assist HoloLens user and two Teams desktop users. The deployment required to enable users to join the same Remote Assist call depends on several factors. This article describes four common deployment scenarios and the deployment required for each.
+There are many types of Remote Assist calls. Some calls include only Remote Assist app users such as a call between two Remote Assist mobile users. Some calls include Remote Assist app users and Teams app users such as a meeting between one Remote Assist HoloLens user and two Teams desktop users. The deployment required to enable users to join the same Remote Assist call depends on several factors. This article describes four common deployment scenarios and the deployment required for each.
 
 ![Common deployment scenarios.](media/common-deployment-scenarios.png "Common deployment scenarios") 
 
 ## Key terms: 
--	Remote Assist user: Someone who uses the Remote Assist app on HoloLens or mobile devices.
+-	Remote Assist user: Someone who uses the Remote Assist app on HoloLens.
 -	Teams user: Someone who uses the Teams app on desktop or mobile devices.
 -	User with a Field Service or Remote Assist license: User who has been assigned the service plans that come with a Field Service or Remote Assist license. [Learn more about licenses](./requirements.md). 
 -	User with a Teams license: User who has been assigned a Teams service plan, which is available through many different licenses. [Learn more about licenses](./requirements.md). 

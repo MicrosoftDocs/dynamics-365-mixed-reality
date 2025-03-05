@@ -73,8 +73,6 @@ After you successfully create a one-time link, you can share the link in two way
 > [!IMPORTANT]
 > Anyone who receives the link can enter the lobby, so it's important for your organization to have a process and security strategy to minimize the chance of links being shared with unknown people.
 
-The customer can use the Dynamics 365 Remote Assist mobile app on [both AR and non-AR devices](./requirements.md#device-options-and-requirements-for-a-dynamics-365-remote-assist-user). However, some older mobile device objects might truncate SMS messages, making it difficult for your customer to receive the two links via SMS.
-
 ### Step 3: Admit your customer into the call
 
 After your customer launches the call and enters their name, they enter the call lobby. You can then admit them into the call. Your customer can't show you their environment and use annotations until you admit them into the call.

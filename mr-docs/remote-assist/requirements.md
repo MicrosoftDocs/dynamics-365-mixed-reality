@@ -44,9 +44,6 @@ Dynamics 365 Remote Assist supports new Teams seamlessly. No migration required.
 | Teams application on Mac|There are no OS requirements|A Macintosh computer running the Teams application can collaborate with a Dynamics 365 Remote Assist user on [supported devices](#supported-devices).|
 | Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with Dynamics 365 Remote Assist on [supported devices](#supported-devices). |
 
-> [!Note] 
-> Dynamics 365 Remote Assist may not be available in your country/region. For more information, see [Dynamics 365 Remote Assist mobile availability](./mobile-app/faq-mobile.md).
-
 ## Licensing and product requirements per role
 
 Review the licensing and product requirements by user role.
@@ -64,7 +61,7 @@ A Dynamics 365 Remote Assist license includes the following three products:
 
 | **Included with Dynamics 365 Remote Assist license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Dynamics 365 Remote Assist and Teams**             | Use calling features through the Dynamics 365 Remote Assist app on HoloLens or Teams mobile devices. Features include: </br> - Make a call </br> - Use mixed-reality annotations                                            |
+| **Dynamics 365 Remote Assist and Teams**             | Use calling features through the Dynamics 365 Remote Assist app on HoloLens or the Microsoft Teams app on mobile devices. Features include: </br> - Make a call </br> - Use mixed-reality annotations                                            |
 | **Microsoft Dataverse**                 | - Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Remote Assist call </br> - Create and share one-time call links </br> - See analytics and insights based on your call records |
 
 A Microsoft Entra account is required for assigning licenses. You'll need a Microsoft Entra account for each licensed user. They'll use this account when signing in to the app.
@@ -100,13 +97,6 @@ A Microsoft Entra account is required for assigning licenses. You'll need a Micr
 ## Network requirements
 
 Various network conditions, including bandwidth, latency, jitter, and packet loss, can impact your video calling experience. Although audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation.
-
-### Dynamics 365 Remote Assist mobile
-
-When using Dynamics 365 Remote Assist on mobile devices:
-- A minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15 fps.
-
-If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](./mobile-app/poor-network-connectivity.md#poor-network-connectivity-is-determined-by-the-following-conditions), it prompts the technician to share high-quality snapshots instead of transmitting a low-quality live video feed. For more information, go to [Calls in low bandwidth](mobile-app/poor-network-connectivity.md).
 
 ### Dynamics 365 Remote Assist HoloLens
 

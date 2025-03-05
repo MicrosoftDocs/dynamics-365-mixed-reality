@@ -58,8 +58,6 @@ Watch [this video](https://youtu.be/DQJWsCDNpb4?list=PLE8_akGzEn_z_qRTst3OFZf1fC
 * Share files
 * End call
 
-Learn more about [Dynamics 365 Remote Assist mobile features](mobile-app/remote-assist-mobile-overview.md).
-
 ## Use Microsoft Teams on PC 
 
 Watch these videos to learn how to use Teams on PC to collaborate with a Dynamics 365 Remote Assist user. You may also use Teams on mobile to collaborate with a Dynamics 365 Remote Assist user. 
