@@ -3,7 +3,7 @@ title: Dynamics 365 Remote Assist mobile overview
 description: Discover the features and functions of Dynamics 365 Remote Assist mobile app.
 author: prashantyvr
 ms.author: prashan
-ms.date: 02/10/2025
+ms.date: 03/04/2025
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
@@ -12,15 +12,19 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE [ra-mobile-deprecate-include](../../includes/ra-mobile-deprecate.md)]
 
-Microsoft Dynamics 365 Remote Assist enables technicians with mobile devices to connect with a remote collaborator on Dynamics 365 Remote Assist mobile or Microsoft Teams (desktop or mobile). Using live video calling, mixed-reality annotations, and high-resolution snapshots, they can share what they see with the remote collaborator to troubleshoot problems together, faster.
+Microsoft Dynamics 365 Remote Assist enables technicians with mobile devices to connect with a remote collaborator on Microsoft Teams (desktop or mobile). Using live video calling, mixed-reality annotations, and high-resolution snapshots, they can share what they see with the remote collaborator to troubleshoot problems together, faster.
 
 ![Simulated image of a technician using Dynamics 365 Remote Assist mobile to annotate their environment on a call.](./media/ram-overview.png "Dynamics 365 Remote Assist mobile Overview")
 
-Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCore support](https://developers.google.com/ar/discover/supported-devices) and [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/discover/supported-devices#ios). Additionally, Dynamics 365 Remote Assist is available on mobile devices **without** ARCore or ARKit support. To learn more, visit our [documentation on product requirements](../requirements.md).
+## Teams features
 
-## Features
+- [One-to-one and group chats](https://support.microsoft.com/en-us/office/first-things-to-know-about-chats-in-microsoft-teams-88ed0a06-6b59-43a3-8cf7-40c01f2f92f2)
+- [One-to-one and group calls](https://support.microsoft.com/en-us/office/first-things-to-know-about-calls-in-microsoft-teams-2b883a81-dd15-41bd-a6ba-39deef141027)
+- [Add spatial annotations](../teams-mobile-annotate.md)
+- [Share files](https://support.microsoft.com/en-us/office/first-things-to-know-about-files-in-microsoft-teams-4c1b6c25-3794-49f9-93aa-bf6fdc211299)
+- [Record a call or meeting](https://support.microsoft.com/en-us/office/record-a-meeting-in-microsoft-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24)
 
-Compare what features are available on Microsoft Teams mobile versus Remote Assist mobile.
+<!--- Remove this table 
 
 |Features|Available in Teams mobile|Available in Remote Assist mobile|
 |:----|:----|:----|
@@ -34,6 +38,7 @@ Compare what features are available on Microsoft Teams mobile versus Remote Assi
 |Availability on mobile devices without augmented reality (AR) support|Yes|Yes|
 |Integration with Microsoft Dynamics 365 for Field Service: Ability to link call history, in-call snapshots, and files shared during a Remote Assist mobile call to an associated Dynamics 365 Field Service work order. |No|Yes|
 |Integration with Microsoft Dynamics 365 for Field Service: Ability to start a call to a remote collaborator from the Dynamics 365 Field Service mobile app in Teams.|Yes|Yes|
+--->
 
 ## Microsoft Intune support
 

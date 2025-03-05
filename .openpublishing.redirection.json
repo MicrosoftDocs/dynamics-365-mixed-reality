@@ -753,6 +753,31 @@
       "source_path": "mr-docs/guides/trial-handoff.md",
       "redirect_url": "/dynamics365/mixed-reality/guides/buy-guides",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/annotate-shared-environment.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/annotate-snapshot.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/asset-capture-mobile.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/call-recording.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/calls-using-devices-without-AR.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
     }
   ]
 }

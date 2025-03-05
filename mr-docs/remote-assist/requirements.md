@@ -3,7 +3,7 @@ title: Requirements for Dynamics 365 Remote Assist
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 author: prashantyvr
 ms.author: prashan
-ms.date: 02/14/2025
+ms.date: 03/04/2025
 ms.topic: conceptual
 ms.reviewer: v-wendysmith
 ms.service: dynamics-365-remote-assist
@@ -16,7 +16,7 @@ ms.custom: bap-templates
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-To deploy and use Dynamics 365 Remote Assist, make sure you meet the following technical requirements.
+To deploy and use Dynamics 365 Remote Assist on a HoloLens, make sure you meet the following technical requirements.
 
 ## Device requirements
 
@@ -28,24 +28,11 @@ The Dynamics 365 Remote Assist application is supported on:
 
 - [HoloLens](/hololens/hololens1-hardware)
 - [HoloLens 2](/hololens/hololens2-hardware)
-- Qualifying [Android](https://developers.google.com/ar/discover/supported-devices) mobile phones or tablets
-- Qualifying [iOS](https://www.apple.com/augmented-reality/) mobile phones and tablets
 
-Individuals without the Dynamics 365 Remote Assist app can join a [Dynamics 365 Remote Assist call](./mobile-app/making-calls-on-remote-assist-mobile.md) using the Teams application on a [Windows 10 PC or Mac](teams-pc-all.md), or [mobile device](teams-mobile-all.md).
+Dynamics 365 Remote Assist on HoloLens or HoloLens 2 must be running 10.0.17134.0 (Windows 10 April 2018) build or later. We recommend [updating](/hololens/hololens-updates) HoloLens to newer versions when available.  [Manage updates to HoloLens](/HoloLens/hololens-updates) to use Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS).
 
-> [!NOTE]
-> Accuracy of annotations is highly dependent on the capabilities of the device. Use Android devices that have a time-of-flight (ToF) sensor and support the [Depth API](https://developers.google.com/ar/discover/supported-devices) and iOS devices that have a LiDAR sensor [(see LiDAR sensor in the tables listed for iOS and iPadOS devices)](https://en.wikipedia.org/wiki/List_of_iOS_and_iPadOS_devices) for a better augmented reality (AR) experience.
+Individuals without the Dynamics 365 Remote Assist app can join a Dynamics 365 Remote Assist call using the Teams application on a [Windows 10 PC or Mac](teams-pc-all.md), or [mobile device](teams-mobile-all.md).
 
-### Device options and requirements for a Dynamics 365 Remote Assist user
-
-| Device                                   | OS requirements                                                                                                                                                                                                          | Details                                                                                                                                                                                                                  |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Dynamics 365 Remote Assist on HoloLens or HoloLens 2 | HoloLens or HoloLens 2 running 10.0.17134.0 (Windows 10 April 2018) build or later. We recommend [updating](/hololens/hololens-updates) HoloLens to newer versions when available. | See [Manage updates to HoloLens](/HoloLens/hololens-updates) to use Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
-| Dynamics 365 Remote Assist on mobile devices          | Dynamics 365 Remote Assist mobile is available on all devices, including ARCore-enabled Android phones or tablets, ARKit-enabled iOS iPhones or iPads, and mobile devices without AR support. <p><p>**For Android devices, the minimum operating system required is Android 7.0. For iOS devices, the minimum operating system required is iOS 12.2.**                                                                              | See [Android AR-supported devices](https://developers.google.com/ar/discover/supported-devices), [iOS ARCore-supported devices](https://developers.google.com/ar/discover/supported-devices#ios), or [Dynamics 365 Remote Assist mobile calls on mobile devices without AR support](./mobile-app/calls-using-devices-without-ar.md).                                         |
-| Spatial annotations on Teams | - For Android devices, the minimum operating system required is Android 11.0. </br> - For iOS devices, the minimum operating system required is iOS 16. </br> - [Teams OS requirements](https://support.microsoft.com/en-us/office/system-requirements-for-microsoft-teams-free-dae0234b-839c-4f85-ae75-d14ad2baa978). | See [Android AR-supported devices](https://developers.google.com/ar/discover/supported-devices), [iOS ARCore-supported devices](https://developers.google.com/ar/discover/supported-devices#ios), or [Dynamics 365 Remote Assist mobile calls on mobile devices without AR support](./mobile-app/calls-using-devices-without-ar.md).  |
-  
-> [!IMPORTANT]
-> When you use Dynamics 365 Remote Assist on a non-Windows device, the operating system of the device processes some personal data to enable push and incoming call notifications. Microsoft may, accordingly, send data to the external, third-party notification services so users can see who is calling or be notified of a chat message. Google Firebase Cloud Messaging (FCM) and Apple Push Notification services are not provisioned in a dedicated data center for exclusive use by you and are governed by their own service-specific terms and privacy statements, which you should carefully review.
 
 ### Device options and requirements for a Teams user
 
@@ -77,7 +64,7 @@ A Dynamics 365 Remote Assist license includes the following three products:
 
 | **Included with Dynamics 365 Remote Assist license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Dynamics 365 Remote Assist and Teams**             | Use calling features through the Dynamics 365 Remote Assist app on HoloLens or mobile devices. Features include: </br> - Make a call </br> - Use mixed-reality annotations                                            |
+| **Dynamics 365 Remote Assist and Teams**             | Use calling features through the Dynamics 365 Remote Assist app on HoloLens or Teams mobile devices. Features include: </br> - Make a call </br> - Use mixed-reality annotations                                            |
 | **Microsoft Dataverse**                 | - Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](./asset-capture-overview.md) either within or outside a Dynamics 365 Remote Assist call </br> - Create and share one-time call links </br> - See analytics and insights based on your call records |
 
 A Microsoft Entra account is required for assigning licenses. You'll need a Microsoft Entra account for each licensed user. They'll use this account when signing in to the app.

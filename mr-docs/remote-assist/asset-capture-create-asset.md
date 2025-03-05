@@ -99,7 +99,6 @@ You can follow these next steps to learn how to view these assets in Dynamics 36
 After assigning security roles, you can check out the following articles to use the model-driven app:
 
 - [Capture asset data in HoloLens](./asset-capture-photos.md)
-- [Capture asset data on Mobile](./mobile-app/asset-capture-mobile.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
