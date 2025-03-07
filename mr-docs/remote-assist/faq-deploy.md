@@ -14,7 +14,7 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-Here are some answers to common questions about deploying Dynamics 365 Remote Assist on HoloLens, HoloLens 2, and mobile devices.
+Here are some answers to common questions about deploying Dynamics 365 Remote Assist on HoloLens 2 devices.
 
 ## Which Microsoft platforms is Dynamics 365 Remote Assist dependent on?
  
@@ -44,12 +44,9 @@ Enhancements and bug fixes associated with these features are recorded in [What'
 
 [Learn how to update the model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version)
 
-## Does Dynamics 365 Remote Assist mobile support conditional access policies?
+## Does Dynamics 365 Remote Assist on HoloLens support conditional access policies?
 
-Dynamics 365 Remote Assist mobile supports Azure Conditional Access policies through Microsoft Intune mobile application management (MAM). If a Conditional Access policy restricts file sharing for iOS devices, an error appears when the user selects the **Attach file** button in Dynamics 365 Remote Assist mobile, and then the **Attach file** button disappears. On Android, files will not upload when the restriction policy is set. Your organization may have older ["classic" Conditional Access policies](/azure/active-directory/conditional-access/policy-migration) that require managed apps, but Dynamics 365 Remote Assist mobile does not support classic Conditional Access policies. To work around this issue, replicate the classic policy as a new Conditional Access policy, and then delete the classic policy. [Learn more](/azure/active-directory/conditional-access/policy-migration).  
-
-> [!NOTE]
-> Conditional Access policies do not apply to Dynamics 365 Remote Assist on HoloLens.
+Conditional Access policies do not apply to Dynamics 365 Remote Assist on HoloLens.
 
 ## Can I use Dynamics 365 Remote Assist to collaborate with a Microsoft Teams user outside my tenant, or vice versa?
 

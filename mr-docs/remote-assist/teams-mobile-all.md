@@ -62,13 +62,11 @@ Select the **Text icon** ![Graphic showing the text icon, which looks like a cha
 > - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
 > - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
 
-You can display OneDrive files in the Dynamics 365 Remote Assist HoloLens user's space or send OneDrive files in the Dynamics 365 Remote Assist mobile text chat. For example, add a PDF of a diagram to assist with the call.
+You can display OneDrive files in the Dynamics 365 Remote Assist HoloLens user's space or send OneDrive files in a Teams text chat. For example, add a PDF of a diagram to assist with the call.
 
 Go to the call controls and select the ellipses icon [...]. Then select **Insert Files** and select whether to insert file from OneDrive or from Teams teams and channels. You can insert an image, still gif, video, or PDF.
 
 If you're collaborating with a Dynamics 365 Remote Assist HoloLens user, the file is uploaded to OneDrive and appear up as a new slate in the Dynamics 365 Remote Assist HoloLens user’s environment. The Dynamics 365 Remote Assist HoloLens user can save a file to their OneDrive by tapping the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat even after the call ends.
-
-If you're collaborating with a Dynamics 365 Remote Assist mobile user, the file is uploaded to OneDrive and sent in the Dynamics 365 Remote Assist mobile user’s text chat. A link to the file is available in the Teams chat even after the call ends.
 
 ## Share photo from device
 

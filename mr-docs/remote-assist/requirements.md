@@ -42,7 +42,7 @@ Dynamics 365 Remote Assist supports new Teams seamlessly. No migration required.
 | ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Teams application on Windows 10 (or later) PC | Any Windows 10 (or later) build.                                       | A Windows 10 (or later) PC running the Teams PC application can collaborate with Dynamics 365 Remote Assist on [supported devices](#supported-devices).                |
 | Teams application on Mac|There are no OS requirements|A Macintosh computer running the Teams application can collaborate with a Dynamics 365 Remote Assist user on [supported devices](#supported-devices).|
-| Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with Dynamics 365 Remote Assist on [supported devices](#supported-devices). |
+| Teams application on mobile device | Any iOS or Android phone or tablet running Teams. | A phone or tablet running the Teams mobile application can collaborate with Dynamics 365 Remote Assist on [supported devices](#supported-devices). |
 
 ## Licensing and product requirements per role
 

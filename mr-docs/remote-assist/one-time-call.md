@@ -22,10 +22,10 @@ As a Dynamics 365 Remote Assist user, you might want an external user without a 
 
 In these scenarios, the external user only needs to **join** a Dynamics 365 Remote Assist call on an ad-hoc, one-time basis. The external user doesn't need to initiate a call or use Dynamics 365 Remote Assist’s out-of-call asset capture functionalities.
 
-Any licensed Dynamics 365 Remote Assist user can use the Dynamics 365 Remote Assist model-driven app with their desktop (or mobile) browser to generate a one-time call link. The licensed Dynamics 365 Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Dynamics 365 Remote Assist mobile app (or, in some scenarios, the Teams desktop app). The external user can also view files sent from a Dynamics 365 Remote Assist user. To ensure external users can view shared files, the Dynamics 365 Remote Assist user needs to [adjust their OneDrive sharing settings](/sharepoint/turn-external-sharing-on-or-off).
+Any licensed Dynamics 365 Remote Assist user can use the Dynamics 365 Remote Assist model-driven app with their browser to generate a one-time call link. The licensed Dynamics 365 Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Teams desktop or mobile app. The external user can also view files sent from a Dynamics 365 Remote Assist user. To ensure external users can view shared files, the Dynamics 365 Remote Assist user needs to [adjust their OneDrive sharing settings](/sharepoint/turn-external-sharing-on-or-off).
 
 > [!NOTE]
-> Joining a one-time call without a Dynamics 365 Remote Assist account/license is supported only for Dynamics 365 Remote Assist mobile users. It's not supported for Dynamics 365 Remote Assist HoloLens users. Users joining the one-time call won't be shown on the Calls Dashboard.
+> Joining a one-time call without a Dynamics 365 Remote Assist account/license isn't supported for Dynamics 365 Remote Assist HoloLens users. Users joining the one-time call won't be shown on the Calls Dashboard.
 
 ## Requirements  
 
@@ -81,7 +81,7 @@ After your customer launches the call and enters their name, they enter the call
 
 [Dynamics 365 Remote Assist device requirements](./requirements.md) apply to your customer as well.
 
-**Step 1**: If your customer wants to join the call from their mobile device but didn't download the Dynamics 365 Remote Assist mobile app, they must select the first link to download the app.
+**Step 1**: If your customer wants to join the call from their mobile device, they must select the first link to download the app.
 
 **Step 2**: If your customer selects the second link using their mobile device, they join the call from the Dynamics 365 Remote Assist mobile app. If your customer selects the second link using their computer, they receive a prompt to join the call from the Teams desktop app. If they're already logged in to the app they're using, they join the call as an authenticated user.
 
@@ -109,13 +109,9 @@ No.
 
 No.
 
-**Can an agent use the Dynamics 365 mobile app, instead of the mobile browser, to create one-time call links?**
-
-No. You can only access the model-driven app through the desktop web browser or mobile web browser.
-
 **Can a one-time call user join the call from Dynamics 365 Remote Assist on HoloLens?**
 
-No. At this time, joining a one-time call without a Dynamics 365 Remote Assist account/license is supported for Dynamics 365 Remote Assist mobile users but isn't supported for Dynamics 365 Remote Assist HoloLens users.
+No. At this time, joining a one-time call without a Dynamics 365 Remote Assist account/license isn't supported for Dynamics 365 Remote Assist HoloLens users.
 
 **Can I embed the Dynamics 365 Remote Assist model-driven app in Teams?**
 
@@ -130,9 +126,6 @@ Each browser handles pop-ups differently. Refer to browser-specific instructions
 **Can an agent modify the instructions they copy and share with their customer?**
 
 Your organization’s administrator isn't able to modify the instructions that appear when an agent selects **Create a one-time call link**. However, after the agent copies the instructions, they can modify it before sharing it with their customer.
-
-> [!NOTE]
-> The instructions the agent copies when they’re using the Dynamics 365 Remote Assist desktop model-driven app differs slightly from the message they copy when they’re using the Dynamics 365 Remote Assist mobile app.
 
 When an agent sets up the call in a desktop browser and selects **Join the call** through the Teams desktop app, the customer can join the call only through the Dynamics 365 Remote Assist mobile app. The customer can't join through the Teams desktop because the Dynamics 365 Remote Assist app isn't available on the desktop. A Dynamics 365 Remote Assist call can't take place between two Teams desktop users.
 
@@ -160,18 +153,6 @@ Is the Dynamics 365 Remote Assist mobile app that a customer uses the same app t
 
 Yes.
 
-**How big is the Dynamics 365 Remote Assist mobile app?**
-
-Depending upon the device and platform (iOS or Android), the download size of the app (data transferred) is between 70 MB and 120 MB. Once the app is downloaded, the app package is decompressed and installed and the final size on the device might be larger.
-
-**If the customer has already downloaded Dynamics 365 Remote Assist mobile, can they skip downloading the app and directly select the second link to join the call?**
-
-Yes.  
-
-**If the customer is signed into Dynamics 365 Remote Assist when they select the call link using their mobile device, will they join the call as an authenticated user?**
-
-Yes.  
-
 **If the customer is signed into Teams when they select the call link using their computer, will they join the call as an authenticated user?**
 
 Yes.
@@ -196,7 +177,7 @@ No.
 
 **The call disconnected and the customer received a new link to join the call. When they select the link, they view the “Call ended” page instead of joining the new call. How can they join the new call?**
 
-Your customer must fully close the app and select the new link again. If they have Google Chrome or Microsoft Edge set as their default browser on their Android mobile device, they might have an extra step to join the call.
+Your customer must fully close the app and select the new link again.
 
 |     User action    |     Next step   |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|

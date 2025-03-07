@@ -110,9 +110,5 @@ If you join the call, remote collaborators are able to see what you see in your 
 
 If you're on a longer call in Dynamics 365 Remote Assist for HoloLens, the HoloLens device can become hot if it's using several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and wi-fi). To extend the length of the call and keep the device from overheating, Dynamics 365 Remote Assist gradually reduces outgoing video quality. A series of messages appear letting you know how and why the outgoing video quality is being adjusted. Learn more about how [Dynamics 365 Remote Assist adjusts video quality](hololens-thermal-adjusting.md).
 
-## See also
- 
-[Group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop](./mobile-app/group-calling.md)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

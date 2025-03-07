@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-After you [install the Microsoft Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md), you'll need to add users so they can use the Dynamics 365 Remote Assist client app on HoloLens or mobile to:
+After you [install the Microsoft Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md), you'll need to add users so they can use the Dynamics 365 Remote Assist client app to:
 
 - [Capture and view asset data](./asset-capture-overview.md).
 
@@ -34,7 +34,7 @@ To complete the steps in this article, you need:
 
 ## Assign Dynamics 365 Remote Assist licenses
 
-Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mobile or accessing the Dynamics 365 Remote Assist model-driven app will need a Dynamics 365 Field Service or Remote Assist license. If these users already have one of these licenses, you can skip this step.
+Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or accessing the Dynamics 365 Remote Assist model-driven app will need a Dynamics 365 Field Service or Remote Assist license. If these users already have one of these licenses, you can skip this step.
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com).
 
@@ -126,7 +126,7 @@ The **Remote Assist - App User** and the **Remote Assist - Administrator** roles
 
 ## Selecting the right environment from the client app
 
-After end users have been assigned licenses and security roles, they must also select the correct environment with the Dynamics 365 Remote Assist model-driven app installed to use related features within the HoloLens or mobile app. You can do this by selecting the **Settings** menu of the respective client apps and selecting the environment. By default, there is no environment associated with the client app.
+After end users have been assigned licenses and security roles, they must also select the correct environment with the Dynamics 365 Remote Assist model-driven app installed to use related features within the HoloLens app. You can do this by selecting the **Settings** menu of the respective client apps and selecting the environment. By default, there is no environment associated with the client app.
 
 ### Select the right environment in HoloLens
 
@@ -137,16 +137,6 @@ After end users have been assigned licenses and security roles, they must also s
 2. You'll see a list of environments with either Dynamics 365 Remote Assist or Dynamics 365 Field Service (or both) installed. To use Dynamics 365 Remote Assist related features, such as [asset capture](./asset-capture-photos.md) and the [Calls dashboard](./calls-dashboard.md), you'll need to select an environment with Dynamics 365 Remote Assist installed. To update [Field Service bookings](./update-field-service-booking-hololens.md), you'll need to select an environment with Dynamics 365 Field Service installed.
 
     :::image type="content" source="media/HololensSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu on the HoloLens.":::
-
-### Select the right environment on Android or iOS
-
-1. Go to the **Settings** menu and select the **Dynamics 365 environment**.
-
-    :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection01.png" alt-text="Remote Assist settings in the Mobile app.":::
-
-2. You'll see a list of environments. To use Dynamics 365 Remote Assist related features, such as [asset capture](./asset-capture-photos.md) and the [Calls dashboard](./calls-dashboard.md), you'll need to select an environment with Dynamics 365 Remote Assist installed. Select **Confirm** after selecting the right environment.
-
-    :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu in the Mobile app.":::
 
 ## Next steps
 

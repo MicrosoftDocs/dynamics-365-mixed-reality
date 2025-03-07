@@ -300,7 +300,7 @@ If you're in a group call or meeting, go to the call controls, select the **More
 
 - The Dynamics 365 Remote Assist call ends.
 
-If you're in a one-to-one call, ask the Dynamics 365 Remote Assist user (HoloLens or mobile) to initiate the recording.
+If you're in a one-to-one call, ask the Dynamics 365 Remote Assist user to initiate the recording.
 
 The person who initiates the recording owns the video. When a recording ends, it begins uploading to OneDrive or SharePoint. Once the video is uploaded, the recorder receives an email notification, and all call participants can view a link to OneDrive or SharePoint via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. 
 

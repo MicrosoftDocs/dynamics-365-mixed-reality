@@ -33,13 +33,6 @@ This article describes details about the **current release wave (October 2024 th
 
 To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
 
-### Mobile
-
-To find which version of Dynamics 365 Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
-
-> [!div class="mx-imgBorder"]
-> ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
-
 ## See also
 
 [Version history](version-history.md)

@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-There are many types of Remote Assist calls. Some calls include only Remote Assist app users such as a call between two Remote Assist mobile users. Some calls include Remote Assist app users and Teams app users such as a meeting between one Remote Assist HoloLens user and two Teams desktop users. The deployment required to enable users to join the same Remote Assist call depends on several factors. This article describes four common deployment scenarios and the deployment required for each.
+There are many types of Remote Assist calls. Some calls include only Remote Assist app users such as a call between two Remote Assist HoloLens users. Some calls include Remote Assist app users and Teams app users such as a meeting between one Remote Assist HoloLens user and two Teams desktop users. The deployment required to enable users to join the same Remote Assist call depends on several factors. This article describes four common deployment scenarios and the deployment required for each.
 
 ![Common deployment scenarios.](media/common-deployment-scenarios.png "Common deployment scenarios") 
 

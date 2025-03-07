@@ -53,7 +53,7 @@ Add and assign licenses to *individual users* or a *group of users* in your orga
 
 ## Download and install the app
 
-Users can install and use the Dynamics 365 Remote Assist app on their HoloLens 2 or mobile devices.
+Users can install and use the Dynamics 365 Remote Assist app on their HoloLens 2 devices.
 
 ### Prerequisites
 
@@ -70,14 +70,6 @@ Users can install and use the Dynamics 365 Remote Assist app on their HoloLens 2
 1. Sign in to Dynamics 365 Remote Assist with your Microsoft Teams account. Your **Contacts** page displays.
 
 You can now use Dynamics 365 Remote Assist on your HoloLens 2. Next, [Learn how to make calls](making-taking-calls-hololens.md).
-
-### Steps for mobile devices
-
-1. Go to the appropriate iOS or Android app store.
-
-1. Search for and download **Dynamics 365 Remote Assist** and launch the app.
-
-1. Sign in to Dynamics 365 Remote Assist with your Microsoft Teams account. Your **Contacts** page displays.
 
 ## Next steps
 

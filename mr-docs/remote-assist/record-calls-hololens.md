@@ -18,13 +18,7 @@ Read about the [layout](#cloud-based-recording-layout) of this type of call befo
 
 ## Overview of cloud-based recording
 
-The following chart explains which call participant can initiate a cloud-based call recording in each type of call.
-
-|     Type of call    |     Can a Dynamics 365   Remote Assist HoloLens user record?     |     Can a Dynamics 365   Remote Assist mobile user record?     |     Can a Teams desktop user record?    | Can a Teams mobile user record? | 
-|-----------------|------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------|-----------------|
-|     One-to-one call         |     Yes                                                          |     Yes                                                        |     Yes                                   | No |
-|     Group       |     Yes                                                          |     Yes                                                        |     Yes                                   | N/A| 
-|     Meeting     |     Yes                                                           |     Yes                                                       |     Yes                                   | N/A| 
+Remote Assist HoloLens users, Teams desktop, and Teams mobile users can initiate one-to-one and group calls and meetings.
 
 Exceptions include:
 
