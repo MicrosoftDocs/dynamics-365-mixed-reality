@@ -16,8 +16,6 @@ After you [install the Microsoft Dynamics 365 Remote Assist model-driven app](ra
 
 - [Capture and view asset data](./asset-capture-overview.md).
 
-- Create and share [one-time call links](./one-time-call.md).
-
 - Record call metrics for the [Calls dashboard](./calls-dashboard.md).
 
 This article shows you how to assign a Dynamics 365 Remote Assist license to users and set up security roles.

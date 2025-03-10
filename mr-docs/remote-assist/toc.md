@@ -36,7 +36,6 @@
 ### [Install the model-driven app](ra-webapp-install.md)
 ### [Add users](asset-capture-add-users.md)
 ### [Monitor key metrics with the Calls dashboard](calls-dashboard.md)
-### [Invite a user to join a one-time call](one-time-call.md)
 ### Capture data on assets
 #### [Overview](asset-capture-overview.md)
 #### [Create asset records](asset-capture-create-asset.md)
