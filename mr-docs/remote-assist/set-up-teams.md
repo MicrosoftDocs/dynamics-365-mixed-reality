@@ -16,12 +16,9 @@ A technician or inspector can use Remote Assist to work collaboratively with a r
 
 This document explains the deployment required for different scenarios.
 
-## Enable someone to join a Remote Assist call on a one-time basis using the Teams desktop app 
+## Enable someone to join a Remote Assist call on a one-time basis using Teams
 
-The licensed Remote Assist user can [set up a Teams meeting](./join-meeting-hololens.md) and invite the collaborator. Then, the licensed Remote Assist HoloLens user [joins the meeting using the Remote Assist HoloLens app](join-meeting-hololens.md). The Teams desktop user sees the meeting invitation in their Outlook calendar or Teams calendar. They right-click the meeting invitation and select **Join Teams meeting**. The web browser might launch and display options for joining the meeting. To join via Teams application, select **Launch it now**.
-
-> [!Note] 
-> Only a Remote Assist user and Teams desktop users can join a meeting. Remote Assist mobile users and Teams mobile users cannot join a meeting.
+The licensed Remote Assist HoloLens user can [set up a Teams meeting](./join-meeting-hololens.md) and invite the collaborator. Then, the licensed Remote Assist user [joins the meeting using the Remote Assist HoloLens app](join-meeting-hololens.md). The Teams user sees the meeting invitation in their Outlook calendar or Teams calendar. They right-click the meeting invitation and select **Join Teams meeting**. The web browser might launch and display options for joining the meeting. To join via Teams application, select **Launch it now**.
 
 ## Enable someone to make calls to and receive calls from a Remote Assist user long-term
 
