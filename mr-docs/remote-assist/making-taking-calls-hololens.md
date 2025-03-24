@@ -3,7 +3,7 @@ title: Make calls in Dynamics 365 Remote Assist on HoloLens
 author: prashantyvr
 description: Make calls with someone inside or outside your organization in Dynamics 365 Remote Assist on HoloLens.
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 03/24/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
@@ -48,6 +48,12 @@ With Dynamics 365 Remote Assist on HoloLens, you can collaborate with:
     > You don't have to select an environment to make a call. To start a call without selecting an environment, select **Launch call**. Learn about [storing data for the Calls dashboard](calls-dashboard.md).
 
 1. While you're on a call, you can mute yourself at any point if you need to. You can't mute the other participant in a one-to-one call, however.
+
+## Make a one-to-one call to a Teams user inside your tenant  
+
+A technician or inspector can use Remote Assist to work collaboratively with a remote colleague (typically an expert in a particular field) who uses Microsoft Teams in your tenant.
+
+The licensed Remote Assist HoloLens user can [set up a Teams meeting](./join-meeting-hololens.md) and invite the collaborator. Then, the licensed Remote Assist user [joins the meeting using the Remote Assist HoloLens app](join-meeting-hololens.md). The Teams user sees the meeting invitation in their Outlook calendar or Teams calendar. They right-click the meeting invitation and select **Join Teams meeting**. The web browser might launch and display options for joining the meeting. To join via Teams application, select **Launch it now**.
 
 ## Make a one-to-one call to a Teams user outside your tenant
 
