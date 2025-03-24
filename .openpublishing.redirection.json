@@ -858,6 +858,11 @@
       "source_path": "mr-docs/remote-assist/mobile-app/share-screen.md",
       "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/one-time-call.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/teams-mobile-all",
+      "redirect_document_id": "false"
     }
   ]
 }
