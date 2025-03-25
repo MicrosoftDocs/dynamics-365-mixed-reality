@@ -200,12 +200,12 @@ The following app versions include the above bug fixes.
 
 |Feature|How to|
 |-----------------------------------------------|---------------------------------------------------|
-|[Support for screen sharing in the mobile app](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-teams-desktop-mac)|[Share your screen in the mobile app](mobile-app/share-screen.md)|
+|[Support for screen sharing in the mobile app](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-teams-desktop-mac)|Share your screen in the mobile app|
 |[Restrict users from signing out of the HoloLens app](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/restrict-users-signing-out-hololens-app)|[Restrict users from signing out of the HoloLens app](restricted-mode-signout.md)|
 |[Adjust outgoing video quality to reduce HoloLens temperature](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/adjust-outgoing-video-quality-reduce-hololens-temperature)|[How Dynamics 365 Remote Assist adjusts HoloLens device temperature](hololens-thermal-adjusting.md)|
 |[New voice commands for navigating app settings and managing windows](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/new-voice-commands-navigating-app-settings-window-management)|[Voice commands for Dynamics 365 Remote Assist on HoloLens](voice-commands-hololens.md)|
 |[Disable file sharing by using a Microsoft Teams policy](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/disable-file-sharing-using-teams-policy)|[Microsoft Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md#file-sharing-policies)|
-|[Improvement to incoming call notifications on Android](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/improvement-incoming-call-notifications-android)|[Make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams](mobile-app/remote-assist-mobile-to-teams-calls.md#what-happens-when-dynamics-365-remote-assist-mobile-and-teams-mobile-are-installed-on-the-same-device)|
+|[Improvement to incoming call notifications on Android](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/improvement-incoming-call-notifications-android)|[Make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams]|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -519,7 +519,7 @@ Fix for video freezing in the HoloLens app
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|Support for low-bandwidth situations|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
+|Support for low-bandwidth situations|[HoloLens 2](hololens-low-bandwidth.md)<br><br>|
 |Support for meeting recordings on HoloLens|[Record calls in Dynamics 365 Remote Assist on HoloLens](record-calls-hololens.md)|
 |Improvement to the Microsoft Dataverse Environment selection||
 |Instinctual interaction improvements on HoloLens 2|[HoloLens voice commands and gestures](voice-commands-hololens.md#gestures)|

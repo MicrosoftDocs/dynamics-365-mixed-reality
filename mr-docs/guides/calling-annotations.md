@@ -35,10 +35,10 @@ You can annotate in calls with Microsoft Teams mobile users if you have a Dynami
 
 ### Use HoloLens to annotate
 
-If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams (PC, Mac, or mobile) or Dynamics 365 Remote Assist mobile, you and your remote collaborators can annotate in your environment. Call participants can also annotate [shared files or screens](calling-screen-sharing.md).
+If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams (PC, Mac, or mobile), you and your remote collaborators can annotate in your environment. Call participants can also annotate [shared files or screens](calling-screen-sharing.md).
 
 > [!NOTE]
-> A HoloLens user can draw in their environment but can't place arrows. The remote collaborator on Teams or Dynamics 365 Remote Assist mobile can draw **and** place arrows in the Dynamics 365 Guides user's environment.
+> A HoloLens user can draw in their environment but can't place arrows. The remote collaborator on Teams can draw **and** place arrows in the Dynamics 365 Guides user's environment.
 >
 > Annotations don't work well on black or reflective surfaces.
 

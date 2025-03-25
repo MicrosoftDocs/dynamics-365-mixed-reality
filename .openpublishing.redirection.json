@@ -753,6 +753,121 @@
       "source_path": "mr-docs/guides/trial-handoff.md",
       "redirect_url": "/dynamics365/mixed-reality/guides/buy-guides",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/annotate-shared-environment.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/annotate-snapshot.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/asset-capture-mobile.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/call-recording.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/calls-using-devices-without-AR.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/faq-mobile.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/file-sharing.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/fs-integration.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/group-calling.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/intune.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/join-meeting-mobile.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/low-bandwidth-mode.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/making-calls-on-remote-assist-mobile.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/making-calls-with-AR.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/mobile-tutorial.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/provide-feedback.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/remote-assist-mobile-overview.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/remote-assist-mobile-to-teams-calls.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/send-chat-messages.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app/share-screen.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/ra-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/one-time-call.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/teams-mobile-all",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/set-up-teams.md",
+      "redirect_url": "/dynamics365/mixed-reality/remote-assist/making-taking-calls-hololens",
+      "redirect_document_id": "false"
     }
   ]
 }

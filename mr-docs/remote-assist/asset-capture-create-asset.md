@@ -94,12 +94,11 @@ Depending on the number of records you're importing, this process might take a w
 
 In this tutorial, you learned how to create asset records and import an existing asset catalog to Microsoft Dataverse.
 
-You can follow these next steps to learn how to view these assets in Dynamics 365 Remote Assist on HoloLens or Mobile and capture asset data with spatial markup.
+You can follow these next steps to learn how to view these assets in Dynamics 365 Remote Assist on HoloLens and capture asset data with spatial markup.
 
 After assigning security roles, you can check out the following articles to use the model-driven app:
 
 - [Capture asset data in HoloLens](./asset-capture-photos.md)
-- [Capture asset data on Mobile](./mobile-app/asset-capture-mobile.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

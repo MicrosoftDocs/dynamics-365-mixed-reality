@@ -3,7 +3,7 @@ description: Learn which Microsoft Teams policies are supported by Dynamics 365 
 title: Microsoft Teams policies supported by Dynamics 365 Remote Assist
 author: prashantyvr
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 03/04/2025
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -46,16 +46,6 @@ If the user selects the **Video** button, they see the following message that ex
 
 ![HoloLens app screenshot showing video message.](media/teams-policies-hololens-video-message.PNG "HoloLens screenshot showing video message")
 
-### User experience in the mobile app
-
-When video is disabled, the **Video** button is unavailable and the Mixed Reality toolbar is also unavailable.
-
-![Mobile app screenshot with Video button disabled.](media/teams-policies-mobile-video-button.PNG "Mobile app screenshot with Video button disabled")
-
-If the user selects the **Video** button, they see the following message that explains why video is unavailable.
-
-![Mobile app screenshot showing video message.](media/teams-policies-mobile-video-message.PNG "Mobile app screenshot showing video message")
-
 ## Call-recording policies 
 
 Call-recording policies are used to control call-recording capabilities. This allows admins to disable call recording for privacy purposes. If call recording is disabled through policy, the Dynamics 365 Remote Assist user will not be able to start a recording.  
@@ -73,16 +63,6 @@ If the user selects the **Recording** button, they see the following message tha
  
 ![HoloLens app screenshot showing recording message.](media/teams-policies-hololens-call-recording-message.PNG "HoloLens screenshot showing recording message")
 
-### User experience in the mobile app
-
-When call recording is disabled, the **Start recording** command is unavailable.
-
-![Mobile app screenshot with Start recording button disabled.](media/teams-policies-mobile-call-recording-command.PNG "Mobile app screenshot with Start recording button disabled")
-
-If the user selects the **Start recording** command, they see the following message that explains why recording is not available.
-
-![Mobile app screenshot showing recording message.](media/teams-policies-mobile-call-recording-message.PNG "Mobile app screenshot showing recording message")
-
 ## Chat-messaging policies
 
 Chat-messaging policies are used to control which chat and channel messaging features are available to [users (owners and members)](/microsoftteams/assign-roles-permissions) in Microsoft Teams.  
@@ -99,16 +79,6 @@ If the user tries to enter text in the Chat window, they see the following messa
 
 ![HoloLens app screenshot showing chat message.](media/teams-policies-hololens-chat-message.PNG "HoloLens app screenshot showing chat message")
 
-### User experience in the mobile app
-
-When chat messaging is disabled, the Chat window and keyboard are disabled and the user sees **Chat disabled by admin** in the Chat window.
-
-![Mobile app screenshot showing Chat unavailable.](media/teams-policies-mobile-chat-unavailable.PNG "Mobile app screenshot showing Chat unavailable")
-
-If the user tries to enter text in the Chat window, they see the following message explaining why chat is unavailable. 
-
-![Mobile app screenshot showing xhat message.](media/teams-policies-mobile-chat-message.PNG "Mobile app screenshot showing chat message")
-
 ## File-sharing policies
 
 File-sharing policies are used to control whether a Dynamics 365 Remote Assist user or Microsoft Teams user can send files for a specific account. It doesn't affect whether they can receive files from other accounts. For example, you can disable the ability for a HoloLens user on a factory floor to send screenshots. If this same user logs into the Teams account that has file sharing disabled, the **Attach** button will be unavailable, so the user can't use Teams to send a file. 
@@ -122,16 +92,6 @@ When file sharing is disabled, a message appears above the **Snapshot** button t
 If the user selects the **Snapshot** button, they'll see another message that confirms that file sharing is unavailable.
 
 ![Screenshot of HoloLens app showing message that appears after button is selected.](media/hololens-app-file-sharing-message-2.jpg "Screenshot of HoloLens app showing message that appears after button is selected")
-
-### User experience in the mobile app
-
-When file sharing is disabled, the file-sharing buttons are grayed out in the mobile app user interface.
-
-![Screenshot of mobile app showing buttons that will be removed through Teams policy.](media/mobile-app-file-sharing-buttons.jpg "Screenshot of mobile app showing buttons that will be removed through Teams policy")
-
-The user will also see a message that says that file sharing is unavailable.
-
-![Screenshot of mobile app showing file sharing message.](media/mobile-app-file-sharing-message.jpg "Screenshot of mobile app showing file sharing message")
 
 ### Set up the policy (admins)
 

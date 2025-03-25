@@ -18,9 +18,7 @@ Empower technicians to solve problems faster by pairing Dynamics 365 Remote Assi
 - Automatically attach their call log to the Field Service work order that their booking is associated with.
 - Save snapshots to their booking so technicians and inspectors can more seamlessly document their work.
 
-With Field Service, technicians manage their assigned work orders, or the service work needed, and perform maintenance and inspections onsite at customer locations. With Remote Assist mobile, technicians, and inspectors can directly post essential call data and history to their Field Service work orders without opening their work order. 
-
-If your organization uses Dynamics 365 Field Service to manage field service work orders and bookings and has [set up Dynamics 365 integration](./mobile-app/fs-integration.md), you can view Field Service bookings from Dynamics 365 Remote Assist and call the collaborator assigned to the booking. This allows you to do heads-up, hands-free calling through HoloLens in the context of a Field Service booking, add snapshots from the call to the booking, and add files shared during the call to the work order associated with that booking.
+If your organization uses Dynamics 365 Field Service to manage field service work orders and bookings and has [set up Dynamics 365 integration](/dynamics365/field-service/remote-assist-hololens), you can view Field Service bookings from Dynamics 365 Remote Assist and call the collaborator assigned to the booking. This allows you to do heads-up, hands-free calling through HoloLens in the context of a Field Service booking, add snapshots from the call to the booking, and add files shared during the call to the work order associated with that booking.
 
 ## View a Field Service booking and call an assigned resource
 

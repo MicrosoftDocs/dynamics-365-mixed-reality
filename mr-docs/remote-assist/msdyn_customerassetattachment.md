@@ -97,7 +97,7 @@ The following solutions include the msdyn_customerassetattachment entity type.
 
 |Name|Description|
 |----------|-----------|
-|Remote Assist|Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens, Android, or iOS devices.|
+|Remote Assist|Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens.|
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
