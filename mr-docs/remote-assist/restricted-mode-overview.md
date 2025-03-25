@@ -24,15 +24,5 @@ Learn how to:
 
 - [Restrict the ability to sign out of the HoloLens app](restricted-mode-signout.md)
 
-## Which restrictions are available on HoloLens vs. the mobile app?
-
-The following table shows which restrictions are available for Dynamics 365 Remote Assist on HoloLens vs. the mobile app. 
-
-|Restriction|HoloLens|Mobile app|
-|-----------------------------------------------|-----------|----------|
-|Calling and contacts|Yes|No, but you can set up [one-time-calls](one-time-call.md) for mobile app users.|
-|OneDrive files|Yes|Yes|
-|Asset records|Yes|Yes|
-|Signing out|Yes|No|
 
 [Learn about Microsoft Teams policies supported by Dynamics 365 Remote Assist](/dynamics365/mixed-reality/remote-assist/teams-policies)

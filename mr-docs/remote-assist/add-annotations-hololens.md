@@ -19,13 +19,11 @@ Annotations are useful for pointing out different parts of your space, including
 The gestures for adding arrows or drawing are the same for HoloLens and HoloLens 2.
 
 > [!Note]
-> Multiple Teams users (desktop or mobile) can join a Dynamics 365 Remote Assist call, but only Teams desktop users can add annotations, regardless of whether the Dynamics 365 Remote Assist user is using HoloLens, HoloLens 2, or the mobile app.
+> Multiple Teams users (desktop or mobile) can join a Dynamics 365 Remote Assist call and can add annotations.
 >
 > The following combinations are supported:
 >
-> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Teams desktop user
-> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Teams mobile user
-> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Dynamics 365 Remote Assist mobile user
+> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Teams desktop or mobile user
 > - Group call with one or more Dynamics 365 Remote Assist HoloLens users and one or more Teams desktop or mobile users
 > - Meetings with one or more Dynamics 365 Remote Assist HoloLens users and one or more Teams desktop or mobile users
 

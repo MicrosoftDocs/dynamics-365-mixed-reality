@@ -71,11 +71,11 @@ To have access to the Calls Dashboard, you must have:
 
     ![Selecting the correct environment for the Calls Dashboard.](media/02.07-contacts-call-prompt.png)
 
-- End users can choose whether to give location permissions to the HoloLens or mobile app. If permission isn't granted, the location information doesn't appear in the call records for those specific users.
+- End users can choose whether to give location permissions to the HoloLens app. If permission isn't granted, the location information doesn't appear in the call records for those specific users.
 
 - If you want to enable or disable location services for all users on all devices, you can [set the **LetAppsAccessLocation** privacy policy](/windows/client-management/mdm/policy-csp-privacy#privacy-letappsaccesslocation). 
 
-- Location information is retrieved asynchronously from the HoloLens or mobile app only after a call starts. It might be missing if the call ends abruptly or if the call is too brief (0 - 10 seconds, for example).
+- Location information is retrieved asynchronously from the HoloLens app only after a call starts. It might be missing if the call ends abruptly or if the call is too brief (0 - 10 seconds, for example).
 
 - If column headers aren't translated for your users when they switch languages, see [Localization of metadata](/power-automate/dataverse/known-issues).
 
@@ -114,7 +114,7 @@ Let's take a look at the information that's provided by each of the visuals in t
 | Total calls | Total number of **unique** Dynamics 365 Remote Assist calls made. A phone call record is generated for each Dynamics 365 Remote Assist user participating in each call. No phone call record is generated for Microsoft Teams participants. Call records are disambiguated by the **RemoteAssistCallId** field in the Phone Call entity. So group calls with three or more Dynamics 365 Remote Assist users are **not** counted multiple times. |
 | Total call duration | Total time spent in Dynamics 365 Remote Assist calls aggregated across all phone call records. If there are multiple Dynamics 365 Remote Assist participants in the same call, the time spent by each participant in the call is added to the total. |
 | Average call duration | Average time spent in Dynamics 365 Remote Assist calls, averaged across all phone call records. |
-| Unique callers | Total number of **unique** users that participated in a call from the Dynamics 365 Remote Assist app on HoloLens or the mobile app. This total doesn't include the number of Microsoft Teams participants. |
+| Unique callers | Total number of **unique** users that participated in a call from the Dynamics 365 Remote Assist app on HoloLens. This total doesn't include the number of Microsoft Teams participants. |
 | Calls trend | Number of calls made over the selected duration. You can use the drill-down capabilities to see the data by year, month, week, or day. |
 | Call statistics by user | The number of calls made by and time spent in Dynamics 365 Remote Assist calls per user. |
 | Calls by location | Map view of the phone call records, available if the end user granted permission to share the location from their device. You can use the drill-down capabilities to see the number of calls by country/region, state, or city. |
