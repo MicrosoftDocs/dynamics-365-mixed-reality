@@ -45,7 +45,7 @@ To use the asset capture feature, see the following series of articles:
 1. [Install the model-driven app](./ra-webapp-install.md)
 2. [Add users to the environment](./asset-capture-add-users.md)
 3. [Import and create asset records](./asset-capture-create-asset.md)
-4. [Capture pictures and videos with spatial markup on HoloLens](./asset-capture-photos.md) and Mobile
+4. [Capture pictures and videos with spatial markup on HoloLens](./asset-capture-photos.md)
 5. [Review asset captures from the Dynamics 365 Remote Assist model-driven app](./asset-capture-review.md)
 6. [Create Power Automate flows to automate business processes with captured asset data](./integrate-power-automate.md)
 
