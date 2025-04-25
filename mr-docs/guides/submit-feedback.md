@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to submit feedback if you run into an issue with Microsoft Dynamics 365 Guides.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 03/14/2024
 ms.topic: how-to
 title: Submit feedback on Dynamics 365 Guides through the Feedback Hub

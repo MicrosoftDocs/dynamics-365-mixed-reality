@@ -1,6 +1,6 @@
 ---
-author: annitachow
-ms.author: anchow
+author: prashantyvr
+ms.author: prashan
 description: Learn how to add an image or video to a step in the Microsoft Dynamics 365 Guides PC app to help operators with a complex step.
 ms.date: 02/22/2024
 ms.topic: how-to

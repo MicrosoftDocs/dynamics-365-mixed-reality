@@ -1,9 +1,9 @@
 ---
 title: Overview of Dynamics 365 Remote Assist on HoloLens 2
-author: davepinch
+author: prashantyvr
 description: Overview of Dynamics 365 Remote Assist features and links to HoloLens 2 gestures.
-ms.author: davepinch
-ms.date: 05/08/2024
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-When you use Microsoft Dynamics 365 Remote Assist on HoloLens 2, you can collaborate with one or more Microsoft Teams desktop users or one Teams mobile user. 
+When you use Microsoft Dynamics 365 Remote Assist on HoloLens 2, you can collaborate with one or more Microsoft Teams desktop users or one Teams mobile user.
 
 ## Requirements
 

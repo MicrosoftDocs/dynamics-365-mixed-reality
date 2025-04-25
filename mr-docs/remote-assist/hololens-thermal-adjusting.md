@@ -1,9 +1,9 @@
 ---
 title: How Dynamics 365 Remote Assist automatically adjusts HoloLens temperature if the device overheats
-author: davepinch
+author: prashantyvr
 description: Learn how Dynamics 365 Remote Assist automatically adjusts HoloLens temperature by reducing outgoing video quality if the device overheats
-ms.author: davepinch
-ms.date: 06/10/2022
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---

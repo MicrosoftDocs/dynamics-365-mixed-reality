@@ -1,8 +1,8 @@
 ---
 title: Make or receive a call in Dynamics 365 Guides  
-author: davepinch
+author: prashantyvr
 description: Learn how to make or receive a call with a remote collaborator from Dynamics 365 Guides on HoloLens
-ms.author: davepinch
+ms.author: prashan
 ms.date: 03/25/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith
@@ -56,7 +56,7 @@ After you call a federated contact, they appear in your recent contacts list, so
 
 ## Start a group call
 
-A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user or Dynamics 365 Remote Assist mobile user. For more information, see [Group calls](calling-concepts.md#group-calls).
+A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user. For more information, see [Group calls](calling-concepts.md#group-calls).
 
 1. Call one person for a one-to-one call, and then select the **Open participants** button (or say "Guides, Open participants").
 

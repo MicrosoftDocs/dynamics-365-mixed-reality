@@ -1,9 +1,9 @@
 ---
 title: Restrict calling and the ability to search and access contacts in Dynamics 365 Remote Assist for HoloLens
-author: davepinch
+author: prashantyvr
 description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Remote Assist
-ms.author: davepinch
-ms.date: 04/13/2022
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -28,9 +28,6 @@ When you restrict calling for Dynamics 365 Remote Assist users, they can still:
 
 With this combination of restrictions and abilities, your company data stays safe and Dynamics 365 Remote Assist users can continue to join meetings to troubleshoot issues with colleagues on an ad-hoc basis. 
 
-> [!NOTE]
-> You can't restrict calling and the ability to search and access contacts for the Dynamics 365 Remote Assist mobile app, but you can [set up one-time calls](one-time-call.md). 
-
 ## Restrict calling
 
 To restrict calling, first you create a new Microsoft Teams policy, and then you assign that policy to the appropriate users. 
@@ -52,8 +49,6 @@ To restrict calling, first you create a new Microsoft Teams policy, and then you
     ![Screenshot highlighting description, Make private calls option, and Save button.](media/restricted-mode-calling-turn-off-private-calls.jpg "Screenshot highlighting description, Make private calls option, and Save button")
 
 4. In the left pane, select **Manage users**, and then select the user you want to assign the policy to. 
-
-    ![Screenshot highlighting Manage users command and selected policy.](media/restricted-mode-calling-assign-user.jpg "Screenshot highlighting Manage users command and selected policy")
 
 5. Select the **Policies** button, and then select **Edit**.
 

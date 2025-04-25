@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides PC app so you can start creating a guide.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 09/06/2023
 ms.topic: how-to
 title: Install the Dynamics 365 Guides PC app
@@ -16,7 +16,7 @@ ms.custom: bap-template
 Use these instructions to install the Microsoft Dynamics 365 Guides PC app (if it hasn't already been installed for you) and to sign in. For information on technical requirements for the PC app, see [Device and licensing requirements](requirements.md).
 
 > [!NOTE]
-> You must have a license to install the Dynamics 365 Guides PC app. You can also sign up for a free trial. For more information, see [Setup overview](setup.md).
+> You must have a Dynamics 365 Field Service or Guides license to install the Dynamics 365 Guides PC app.
 
 ## Install the app
 

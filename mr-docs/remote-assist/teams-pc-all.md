@@ -1,8 +1,8 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user with Microsoft Teams desktop for PC or Mac.
-ms.author: davepinch
-ms.date: 03/12/2024
+ms.author: prashan
+ms.date: 03/04/2025
 ms.topic: conceptual
 title: Collaborate with a Dynamics 365 Remote Assist user with Teams desktop for PC or Mac
 ms.reviewer: v-wendysmith
@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-When you use Microsoft Teams desktop for the PC or Mac, you can collaborate with people using Dynamics 365 Remote Assist on HoloLens (in this article, a "Dynamics 365 Remote Assist HoloLens user") or Dynamics 365 Remote Assist on a mobile device (in this article, a "Dynamics 365 Remote Assist mobile user").  
+When you use Microsoft Teams desktop for the PC or Mac, you can collaborate with people using Dynamics 365 Remote Assist on HoloLens.  
 
 Dynamics 365 Remote Assist supports new Teams seamlessly. No migration required. Learn more: [New Microsoft Teams app](https://adoption.microsoft.com/en-us/new-microsoft-teams/).
 
@@ -20,26 +20,6 @@ The features you can use to collaborate differ depending on which platform the D
 
 > [!NOTE]
 > At this time, Dynamics 365 Remote Assist does not support holographic annotations in [Teams for Virtualized Desktop Infrastructure (VDI)](/microsoftteams/teams-for-vdi). The Mixed Reality toolbar does not appear for VDI users. 
-
-## Collaborating with Dynamics 365 Remote Assist HoloLens users versus Dynamics 365 Remote Assist mobile users
-|Task                                                                                            |Teams desktop features available when collaborating with HoloLens user                 |Teams desktop features available when collaborating with mobile user                   |
-|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|                                                                                                     |                                                                                                     |                                                                                                     |
-|Make outgoing call                                                                                   |Yes                                                                                                  |Yes      |
-|Receive incoming call                                                                                |Yes                                                                                                  |Yes                                                                                                  |
-|Join a one-to-one call                                                                               |Yes                                                                                                  |Yes                                                                                                  |
-|Join a group call                                                                                    |Yes                                                                                                  |Yes                                               |
-|Join a meeting                                                                                       |Yes                                                                                                  |Yes                                                  |
-|Control outgoing video, outgoing audio, and incoming audio                                           |Yes                                                                                                  |Yes                                                                                                  |
-|Annotate Dynamics 365 Remote Assist user's environment                                                            |Yes                                                                                                    |Yes                                                                                                  |
-|Annotate 2D snapshot using arrows and ink                                                            |No                                                                                                   |Yes                                                                                                  |
-|Send a text message                                                                                  |Yes                                                                                                  |Yes                                                                                                  |
-|Share files from OneDrive or device                                                                  |Yes                                                                                                  |Yes  |
-|Record call                                                                                          |Yes, only in a group call or meeting. A one-to-one call can be recorded, but the HoloLens user must initiate the recording.      |A one-to-one call can be recorded, but the Dynamics 365 Remote Assist mobile user must initiate the recording.                  |
-|Share screen                                                                                         |Yes                                                                                                  |No, but you can send any file type to a Dynamics 365 Remote Assist mobile user.                                                                                                    |                               
-
-> [!NOTE]
-> [Learn about the platforms that Dynamics 365 Remote Assist is dependent on and how those dependencies can affect the app](faq-deploy.md)
 
 ## Key terms
 
@@ -82,8 +62,6 @@ You can search, call, or receive a call from a Dynamics 365 Remote Assist user i
 1. Start by calling one person, and then select **Open Participants** (![Graphic showing the participants icon.](media/Teams_Participants.png)). 
 
 2. Search for the person you want to call, and then call them.
-
-[Learn more about who can join a group call](mobile-app/making-calls-on-remote-assist-mobile.md).
 
 ## Schedule and join a meeting with a Dynamics 365 Remote Assist HoloLens user
 
@@ -227,13 +205,9 @@ When a Dynamics 365 Remote Assist user takes a snapshot, the video feed freezes.
 
 Annotations are displayed only during the snapshot session. When the Dynamics 365 Remote Assist user exits Snapshot mode, annotations from that snapshot session are removed. 
 
-For more information, check out the following links:
-
-- [Using snapshots](./mobile-app/annotate-snapshot.md)
+For more information, check out the following link:
 
 - [Low-bandwidth situations on HoloLens](hololens-low-bandwidth.md)
-
-- [Low-bandwidth situations with the mobile app](./mobile-app/low-bandwidth-mode.md)
 
 ## Share files  
 
@@ -260,16 +234,6 @@ When you share a file, it appears as a new window in the Dynamics 365 Remote Ass
 > [!Note]
 > After you share a file and it appears in the Dynamics 365 Remote Assist HoloLens user's space, you cannot move, delete, or resize the file.
 
-### Share files with a Dynamics 365 Remote Assist mobile user
-
-- From the Teams chat, select **Attach file** to share a file from OneDrive or your computer. When you share a file with a Dynamics 365 Remote Assist mobile user, it's sent in the Dynamics 365 Remote Assist mobile text chat.
-
-To access the file after the call: 
-
-- Any call participant can find the link to the file in the Teams chat. 
-
-- During the call, the Dynamics 365 Remote Assist HoloLens user can save the file to their OneDrive by tapping the OneDrive icon in the top-right corner of the window. The file is then automatically saved to a OneDrive folder called **HoloLens Received Files**. 
-
 ## Share your desktop or application window (with a Dynamics 365 Remote Assist HoloLens user only)
 
 You might want to share your desktop or application window with a Dynamics 365 Remote Assist HoloLens user. Sharing is useful if you want to communicate information that isn't in a supported file type (.jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.). For example, you might share an instructional video playing in your browser, or a series of instructions embedded in a PowerPoint presentation.  
@@ -293,7 +257,7 @@ You might want to record the Dynamics 365 Remote Assist call for documentation o
 
 | Recording type | What the recording captures|Who initiates the recording?|Pros |Cons |
 |--|--|--|--|--|
-|Create a cloud-based recording using Teams or Dynamics 365 Remote Assist|Teams desktop outgoing video feed (or avatar) and Dynamics 365 Remote Assist outgoing video feed (or avatar)| A Teams desktop user can only initiate a cloud-based recording in a group call or meeting. A Dynamics 365 Remote Assist user (HoloLens or mobile) can only initiate a cloud-based recording in a one-to-one call with a Teams desktop user. | Recording is automatically saved in OneDrive or SharePoint and link is available in Teams chat. If your admin configured the Dynamics 365 Field Service integration, you can post the recording link in a Field Service work order.| The layout of the recording depends on the number of call participants, and the layout can't be configured. The recording captures the outgoing video feed (or avatar) of up to four call participants and the recording screen is divided evenly among the call participants. The Dynamics 365 Remote Assist HoloLens user’s view never occupies the entire recording. Even if you primarily care about what the HoloLens user sees, you can't adjust the recording layout to only capture what the HoloLens user sees. This view might be confusing for a call with two participants (for example, one-to-one call or meeting with two participants); **during the call**, you see a **horizontal** section of the HoloLens user’s view, but because the Teams recording divides the recording screen into half, **in the call recording**, you see a **vertical section** of the HoloLens user’s view.|
+|Create a cloud-based recording using Teams or Dynamics 365 Remote Assist|Teams desktop outgoing video feed (or avatar) and Dynamics 365 Remote Assist outgoing video feed (or avatar)| A Teams desktop user can only initiate a cloud-based recording in a group call or meeting. A Dynamics 365 Remote Assist HoloLens user can only initiate a cloud-based recording in a one-to-one call with a Teams desktop user. | Recording is automatically saved in OneDrive or SharePoint and link is available in Teams chat. If your admin configured the Dynamics 365 Field Service integration, you can post the recording link in a Field Service work order.| The layout of the recording depends on the number of call participants, and the layout can't be configured. The recording captures the outgoing video feed (or avatar) of up to four call participants and the recording screen is divided evenly among the call participants. The Dynamics 365 Remote Assist HoloLens user’s view never occupies the entire recording. Even if you primarily care about what the HoloLens user sees, you can't adjust the recording layout to only capture what the HoloLens user sees. This view might be confusing for a call with two participants (for example, one-to-one call or meeting with two participants); **during the call**, you see a **horizontal** section of the HoloLens user’s view, but because the Teams recording divides the recording screen into half, **in the call recording**, you see a **vertical section** of the HoloLens user’s view.|
 |Record your Teams desktop screen using Windows Game Bar|The exact call layout you [configure](https://support.office.com/article/adjust-your-view-in-a-teams-meeting-9825091c-0e7d-4c2b-95f5-eba644f19175) during the call|Teams desktop user|Because the Teams desktop user is just recording their computer screen, the recording layout matches what the Teams desktop user sees during the call.|If the recording needs to be accessible to others, the Teams user must manually upload the video to a shared drive and share it with all call participants or other people.|
 |Record the HoloLens user's view using HoloLens OS|HoloLens user’s view| HoloLens user |The clarity of the HoloLens user’s field of view isn't impacted by the call connection quality.|If the recording needs to be accessible to others, the HoloLens user must manually upload the video to a shared location. Recording length might be limited by the HoloLens internal memory.|
 
@@ -336,7 +300,7 @@ If you're in a group call or meeting, go to the call controls, select the **More
 
 - The Dynamics 365 Remote Assist call ends.
 
-If you're in a one-to-one call, ask the Dynamics 365 Remote Assist user (HoloLens or mobile) to initiate the recording.
+If you're in a one-to-one call, ask the Dynamics 365 Remote Assist user to initiate the recording.
 
 The person who initiates the recording owns the video. When a recording ends, it begins uploading to OneDrive or SharePoint. Once the video is uploaded, the recorder receives an email notification, and all call participants can view a link to OneDrive or SharePoint via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. 
 
@@ -346,29 +310,27 @@ If your admin configured the Dynamics 365 Field Service integration, you can acc
 
 If it's imperative that your recording captures as much of the Dynamics 365 Remote Assist HoloLens user’s view as possible, and as little of the Teams user’s outgoing videos (or avatars) as possible, consider recording your desktop screen using the Windows Game Bar. 
 
-#### Initiate a recording of what the Teams desktop user sees during the call 
+#### Initiate a recording of what the Teams desktop user sees during the call
 
 1. Join a Dynamics 365 Remote Assist call using the Teams desktop application.
 
-2. Press the **Windows logo key** (![Graphic showing the windows logo key.](media/windows-logo-key.png)) + **G** to open the Game Bar.
+1. Make sure the Teams Desktop is in focus and then press the **Windows logo key** (![Graphic showing the windows logo key.](media/windows-logo-key.png)) + **G** to open the Game Bar.
 
-   ![Screenshot showing the game bar.](media/game-bar.png)
-
-3. Select the **Start Recording** button (or press **Windows logo key ![Windows logo key.](media/windows-logo-key.png "Windows logo key") + Alt + R**).
+1. Select **Capture** and then select the **Start Recording** button (or press **Windows logo key ![Windows logo key.](media/windows-logo-key.png "Windows logo key") + Alt + R**).
 
    A small recording menu appears that shows that the recording is in progress.
-   
+
    ![Screenshot showing the recording menu.](media/recording.PNG "Recording")
-   
-4. To stop recording, select **Stop Recording**.
+
+1. To stop recording, select **Stop Recording**.
 
    The video of the recording appears in your **Videos/Captures** folder.
-   
-[Learn more about the Windows Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
+
+[Learn more about the Windows Game Bar](https://support.xbox.com/help/friends-social-activity/share-socialize/record-game-clips-game-bar-windows-10).
 
 ### Record the HoloLens user's view using the HoloLens OS
 
-[Learn about how the HoloLens user can use the HoloLens OS to record what they see](./record-calls-hololens.md#use-the-hololens-os-to-record-only-what-you-see-in-the-hololens-what-you-hear-around-you-and-what-you-hear-through-the-hololens-speakers). 
+[Learn about how the HoloLens user can use the HoloLens OS to record what they see](./record-calls-hololens.md#use-the-hololens-operating-system). 
 
 ## Send a text message 
 

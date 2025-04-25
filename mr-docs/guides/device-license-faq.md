@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Dynamics 365 Guides license FAQ.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 03/08/2023
 ms.topic: conceptual
 title: Licensing FAQ

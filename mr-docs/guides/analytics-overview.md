@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 03/15/2024
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data
@@ -41,7 +41,7 @@ For best data capture results after an intermittent internet connection is resto
 
 ### MR App Session table
 
-Dynamics 365 Guides includes an MR App Session table that you can use to determine the overall usage of the product in your organization. Use this table to help you determine where to assign Dynamics 365 Guides licenses.
+Dynamics 365 Guides includes an MR App Session table that you can use to determine the overall usage of the product in your organization. Use this table to help you determine where to assign Dynamics 365 Field Servie or Guides licenses.
 
 The MR App Session table stores a record whenever a user signs into an environment. The table stores the following information: when the user signed in, the session type (sign-in or suspend, which tracks when a user resumes using the device), device class (PC or HoloLens), and the User ID. For more information, see the [Microsoft Dataverse table (entity) reference](developer-entity-reference.md).
 

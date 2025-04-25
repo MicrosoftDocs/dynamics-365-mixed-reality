@@ -35,7 +35,7 @@ This feature lets you:
 
 ## Prerequisites
 
-- An active Dynamics 365 Guides license, either a trial or paid.
+- An active Dynamics 365 Field Service or Guides license.
 
 - An environment with [Dynamics 365 Guides version 800.6.x installed](/power-platform/admin/manage-apps#install-an-app-in-the-environment-view). To use Guides and Field Service together in the mobile app, ensure both applications are installed on the same environment.
 
@@ -72,8 +72,6 @@ Dynamics 365 Guides enables customers to capture usage statistics and detailed t
    - **Record Guide Usage**: Yes
 
    - **Belongs To**: [User name]
-
-   :::image type="content" source="media/powerapps-user-settings.png" alt-text="Screenshot of the User Settings for Guides in Power Apps.":::
 
 ## Next steps
 

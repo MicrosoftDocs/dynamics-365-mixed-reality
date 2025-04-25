@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Get an overview anchoring holograms in Microsoft Dynamics 365 Guides, using a QR code anchor, circular code anchor, or holographic anchor.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 02/27/2024
 ms.topic: overview
 title: Overview of anchoring your guide to the real world in the Dynamics 365 Guides PC app

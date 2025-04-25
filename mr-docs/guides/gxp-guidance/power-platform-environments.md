@@ -3,8 +3,8 @@ title: Microsoft Power Platform environments
 description: Learn how to set up and maintain Microsoft Power Platform environments for use with Dynamics 365 Guides.
 ms.date: 03/21/2023
 ms.topic: conceptual
-author: davepinch
-ms.author: davepinch
+author: prashantyvr
+ms.author: prashan
 ms-reviewer: m-hartmann
 ms.custom: bap-template
 ---

@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to invite a guest user to operate a guide in Microsoft Dynamics 365 Guides.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 04/24/2024
 ms.topic: how-to
 title: Invite a guest user to operate a guide in Dynamics 365 Guides
@@ -13,7 +13,7 @@ ms.custom: bap-template
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 
-Anyone who isn't part of a Microsoft Dynamics 365 Guides organization, but has a Microsoft Entra account, can be added as a guest user by a global admin. The user can then access Dynamics 365 Guides content in that organization **as an operator.** A "guest" is defined as someone who doesn't have a school or work account with the organization. For example, a guest could be a partner, vendor, supplier, or consultant.
+Anyone who isn't part of a Microsoft Dynamics 365 Guides organization, but has a Microsoft Entra account, can be added as a guest user. The user can then access Dynamics 365 Guides content in that organization **as an operator.** A "guest" is defined as someone who doesn't have a school or work account with the organization. For example, a guest could be a partner, vendor, supplier, or consultant.
 
 ## Limitations
 
@@ -31,7 +31,7 @@ Anyone who isn't part of a Microsoft Dynamics 365 Guides organization, but has a
 
    The guest user receives a welcome email message that includes some information about the organization and what to expect as a member. The guest must accept the invitation by selecting **Accept Invitation** in the email message before they can access the organization and the organization's guides.
 
-1. [Assign a Dynamics 365 Guides license](/microsoft-365/admin/manage/assign-licenses-to-users) and [assign user roles](assign-role.md) to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Microsoft Entra ID and Microsoft 365 service limits.
+1. [Assign a Dynamics 365 Field Servie or Guides license](/microsoft-365/admin/manage/assign-licenses-to-users) and [assign user roles](assign-role.md) to the added guest accounts. Guest users are covered by the same compliance and auditing protection as other Microsoft 365 users. Guest access is subject to Microsoft Entra ID and Microsoft 365 service limits.
 
 1. Ask your network admin to include another endpoint to [the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers](admin-network-requirements.md).
 

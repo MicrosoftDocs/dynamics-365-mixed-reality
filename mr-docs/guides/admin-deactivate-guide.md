@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: As a Guides admin, learn how to activate, deactivate, or delete a guide, packaged guide, or guide content (video, image, or 3D part).
-ms.author: davepinch
+ms.author: prashan
 ms.date: 02/23/2024
 ms.topic: how-to
 title: Activate, deactivate, or delete a guide in Dynamics 365 Guides (admins)

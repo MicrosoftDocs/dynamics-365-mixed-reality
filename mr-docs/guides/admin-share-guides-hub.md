@@ -4,7 +4,7 @@ description: Learn how to share the Guides model-driven app to provide access to
 author:  davepinch
 ms.topic: how-to
 ms.date: 04/24/2024
-ms.author: davepinch
+ms.author: prashan
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---

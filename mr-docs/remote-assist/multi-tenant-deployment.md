@@ -1,8 +1,8 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Multitenant company deployments for Dynamics 365 Remote Assist.
-ms.author: davepinch
-ms.date: 05/06/2024
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: conceptual
 title: Multitenant company deployments
 ms.reviewer: v-wendysmith
@@ -31,7 +31,7 @@ In this scenario, a company uses multiple tenants through different organization
 
 In addition:
 
-- Each technician in Tenant Contoso1 and Tenant Contoso2 already has a Dynamics 365 Remote Assist license and Teams license.
+- Each technician in Tenant Contoso1 and Tenant Contoso2 already has a Dynamics 365 Field Service or Remote Assist license and Teams license.
 - Each expert in Tenant ABC already has a Teams license. Experts who use Teams don't need a Dynamics 365 Remote Assist license. 
 - Teams users in Tenant ABC want to search and collaborate with Dynamics 365 Remote Assist users in Tenant Contoso1, and vice versa.
 - Teams users in Tenant ABC want to search and collaborate with Dynamics 365 Remote Assist users in Tenant Contoso2, and vice versa.
@@ -42,9 +42,6 @@ In addition:
 Set up [**External access**](#solution-1-external-access-federation) or [**Guest access**](#solution-2-guest-access) to enable users in different tenants to collaborate with each other.
 
 ### Solution 1: External access (federation)
-
-> [!NOTE]
-> External access isn't supported for calls with Dynamics 365 Remote Assist mobile users.
 
 **External access** is a Teams feature that allows Teams users from an entire external tenant to use Teams to find, call, chat, and set up meetings with users in your tenant. For more information, go to [Manage external access](/microsoftteams/manage-external-access).
 

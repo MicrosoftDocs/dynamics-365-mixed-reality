@@ -1,9 +1,9 @@
 ---
-title: Add annotations in Dynamics 365 Remote Assist on HoloLens
-author: davepinch
+title: Add annotations in Dynamics 365 Remote Assist on HoloLens (contains video)
+author: prashantyvr
 description: Learn how to add and edit annotations in Dynamics 365 Remote Assist on HoloLens. 
-ms.author: davepinch
-ms.date: 08/26/2022
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -19,13 +19,11 @@ Annotations are useful for pointing out different parts of your space, including
 The gestures for adding arrows or drawing are the same for HoloLens and HoloLens 2.
 
 > [!Note]
-> Multiple Teams users (desktop or mobile) can join a Dynamics 365 Remote Assist call, but only Teams desktop users can add annotations, regardless of whether the Dynamics 365 Remote Assist user is using HoloLens, HoloLens 2, or the mobile app.
+> Multiple Teams users (desktop or mobile) can join a Dynamics 365 Remote Assist call and can add annotations.
 >
 > The following combinations are supported:
 >
-> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Teams desktop user
-> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Teams mobile user
-> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Dynamics 365 Remote Assist mobile user
+> - One-to-one call with one Dynamics 365 Remote Assist HoloLens user and one Teams desktop or mobile user
 > - Group call with one or more Dynamics 365 Remote Assist HoloLens users and one or more Teams desktop or mobile users
 > - Meetings with one or more Dynamics 365 Remote Assist HoloLens users and one or more Teams desktop or mobile users
 
@@ -49,7 +47,7 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 > [!TIP]
 > To use voice commands, select the arrow tool by saying "Remote Assist, Arrow." Then say "Remote Assist, Place arrow". You can't use voice commands to rotate the arrow before placing it. To redo, say "Remote Assist, Undo", and then place the arrow again.   
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qy]  
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=b09e1d85-1550-477c-b00e-ad3649a19be8]  
 
 
 The above video shows how to place an arrow using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and  position the arrow in space by using your hand ray. 
@@ -73,7 +71,7 @@ The above video shows how to place an arrow using HoloLens gestures. If you’re
 > To use voice commands, select the **Ink** tool by saying "Remote Assist, Ink." Then say "Remote Assist, Start inking" and "Remote Assist, Stop inking" to start and stop inking with your head gaze.   
 
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2F9qs]  
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=44ea1a45-f61d-46af-b556-d2ca18a9ddc1]  
 
 
 The above video shows how to draw using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Ink tool** by touching it directly, and you can use your hand rays to determine where to start your drawing. 

@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 11/07/2023
 ms.topic: how-to
 title: Update the Dynamics 365 Guides solution
@@ -18,7 +18,7 @@ Some releases of Microsoft Dynamics 365 Guides require an update to the Dynamics
 
 ## Prerequisites
 
-- You have a [System Administrator security group role](/power-platform/admin/database-security) and an [assigned Guides license](./add-users.md).
+- You have a [System Administrator security group role](/power-platform/admin/database-security) and an [assigned Field Servie or Guides license](./add-users.md).
 
 - The Dynamics 365 Guides PC and HoloLens apps are updated to the latest version from the Microsoft Store.
 

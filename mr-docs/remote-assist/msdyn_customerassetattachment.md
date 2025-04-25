@@ -1,8 +1,8 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Customer Asset Attachment entity.
-ms.author: davepinch
-ms.date: 06/09/2020
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: article
 title: msdyn_customerassetattachment EntityType
 ms.reviewer: v-wendysmith
@@ -97,7 +97,7 @@ The following solutions include the msdyn_customerassetattachment entity type.
 
 |Name|Description|
 |----------|-----------|
-|Remote Assist|Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens, Android, or iOS devices.|
+|Remote Assist|Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens.|
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

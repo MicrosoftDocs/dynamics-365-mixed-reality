@@ -1,9 +1,9 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Overview of Dynamics 365 Guides capabilities and apps
-ms.author: davepinch
+ms.author: prashan
 ms.date: 04/29/2024
-ms.topic: welcome
+ms.topic: overview
 title: Welcome to Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -47,7 +47,6 @@ Watch these videos to quickly learn the basics of Microsoft Dynamics 365 Guides.
 
 ## What's next?
 
-- [Sign up for a free 60-day trial](trial-signup.md)
 - [Buy a subscription](buy-guides.md)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

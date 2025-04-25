@@ -1,6 +1,6 @@
 ---
-author: annitachow
-ms.author: anchow
+author: prashantyvr
+ms.author: prashan
 description: Learn how to add a custom 3D part to a step in the Microsoft Dynamics 365 Guides PC app. 
 ms.date: 02/22/2024
 ms.topic: how-to

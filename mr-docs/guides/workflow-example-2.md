@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn how to use Microsoft Power Automate to create a 3D object collection for Microsoft Dynamics 365 Guides
-ms.author: davepinch
+ms.author: prashan
 ms.date: 06/23/2023
 ms.topic: how-to
 title: Workflow example 2--Create a Dynamics 365 Guides 3D object collection and add objects to the collection
@@ -55,11 +55,7 @@ In this example you'll learn how to:
 
 1. Copy the value in the **Parent ID** field.
 
-    ![Model-driven app screen with Parent ID selected.](media/workflow2-parent-ID.PNG "Model-driven app screen with Parent ID selected")
-
 1. In the **Add a new row** trigger in Power Automate, paste the copied text into the **Parent ID** field.
-
-    ![Power Automate screen with Parent ID pasted in the Parent ID field.](media/workflow2-add-new-row-parent-ID.PNG "Power Automate screen with Parent ID pasted in the Parent ID field")
 
 1. Fill out other fields in the **Add a new row** screen:
 
@@ -71,8 +67,6 @@ In this example you'll learn how to:
 1. Select **Save** in the upper-right corner of the screen.
 
 1. To test the flow, in the upper-right corner of the screen, select **Test**, select **Manually**, and then select **Test**. 
-
-    ![Test flow pane in Power Automate.](media/workflow2-test.PNG "Test flow pane in Power Automate")
 
 1. In the **Run flow** pane, select **Run flow**.
 

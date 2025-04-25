@@ -1,9 +1,9 @@
 ---
 title: Set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app
-author: davepinch
+author: prashantyvr
 description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
-ms.author: davepinch
-ms.date: 11/14/2023
+ms.author: prashan
+ms.date: 02/13/2025
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -12,11 +12,11 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-The Dynamics 365 Remote Assist model-driven app is built on the Microsoft Dataverse. The model-driven app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and used by Dynamics 365 Remote Assist.
+The Dynamics 365 Remote Assist model-driven app is built on the Microsoft Dataverse. The model-driven app is a companion to the Dynamics 365 Remote Assist app for HoloLens and enables new scenarios for managing data generated and used by Dynamics 365 Remote Assist.
 
 More information: [What are model-driven apps in Power Apps?](/powerapps/maker/model-driven-apps/model-driven-app-overview)
 
-The Dataverse is the central location for customers to store their organization-specific data. The Dynamics 365 Remote Assist client apps on HoloLens or mobile can send and receive data to the Dataverse, which can then be accessed through the model-driven app in a browser. This also allows other applications, such as Dynamics 365 Field Service, to share the same organizational data so you can gain further insights. You can even use [Microsoft Power Automate to create flows that use Microsoft Dataverse](/power-automate/common-data-model-intro) and make them available for third-party apps. The high-level architecture diagram below shows the various possible components for these scenarios. 
+The Dataverse is the central location for customers to store their organization-specific data. The Dynamics 365 Remote Assist client app on HoloLens can send and receive data to the Dataverse, which can then be accessed through the model-driven app in a browser. This also allows other applications, such as Dynamics 365 Field Service, to share the same organizational data so you can gain further insights. You can even use [Microsoft Power Automate to create flows that use Microsoft Dataverse](/power-automate/common-data-model-intro) and make them available for third-party apps. The high-level architecture diagram below shows the various possible components for these scenarios. 
 
 :::image type="content" source="media/ra-cds-architecture-diagram-2.PNG" alt-text="Architecture Diagram of a Remote Assist with CDS and companion apps." :::
 
@@ -29,9 +29,7 @@ The Dataverse is the central location for customers to store their organization-
 
 After installing the Dynamics 365 Remote Assist model-driven app, you'll be able to use any of the following features:
 
-- Use the Dynamics 365 Remote Assist client app on HoloLens or mobile to [capture and view asset data](asset-capture-overview.md).
-
-- Create and share [one-time call links](one-time-call.md).
+- Use the Dynamics 365 Remote Assist client app on HoloLens to [capture and view asset data](asset-capture-overview.md).
 
 - Monitor operational metrics through the [Calls dashboard](calls-dashboard.md).
 
@@ -39,22 +37,16 @@ After installing the Dynamics 365 Remote Assist model-driven app, you'll be able
 
 To complete the installation steps for the model-driven app, you need:
 
-- **A Dynamics 365 Remote Assist subscription** to create environments and install the app.
+- **A Dynamics 365 Field Service or Remote Assist subscription** to create environments and install the app.
 
-- **The ability to manage environments in the Microsoft Power Platform admin center**. This article covers creating Dynamics 365 environments and installing apps. Admin access is required (Dynamics 365 service admin, global admin, or Power Platform service admin).
+- **The ability to [manage environments](/power-platform/admin/create-environment) in the Power Platform admin center**.
 
 - **Available database capacity**. If you're creating a new environment for Dynamics 365 Remote Assist, you'll need at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide default tenant capacity. More information: [New Dataverse storage capacity](/power-platform/admin/capacity-storage)
-
-> [!IMPORTANT]
-> You can get a 30-day trial subscription of Dynamics 365 Remote Assist to try out the Remote Assist model-driven app. Make sure to follow [these instructions to create a **subscription-based trial environment**](/power-platform/admin/trial-environments#create-a-trial-subscription-based-environment-in-the-power-platform-admin-center). Note that you **can't use the standard trial instructions** for this purpose. 
-> In step 4 of the subscription-based trial environment instructions:
-> - For the **Enable Dynamics 365 apps** option, select **Yes**. 
-> - For the **Automatically deploy these apps** option, select **All enterprise applications**. If you select **Customer Service Pro** or **Sales Pro**, the Remote Assist model-driven app will **NOT** be installed.
 
 ## Install the Dynamics 365 Remote Assist model-driven app
 
 > [!IMPORTANT]
-> To install the Dynamics 365 Remote Assist model-driven app, you must have the System Administrator role, and you must have a Power Apps license (or a license like a Dynamics 365 Remote Assist license that includes a Power Apps license). 
+> To install the Dynamics 365 Remote Assist model-driven app, you must have the System Administrator role, and you must have a Power Apps license (or a license like a Dynamics 365 Field Service or Remote Assist license that includes a Power Apps license). 
 > 
 > ![Screenshot showing Remote Assist license.](./media/remote-assist-license-1.jpg "Screenshot showing Remote Assist license")
 
@@ -66,7 +58,7 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
 ### Create a new environment
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com).
 
 1. [Create an environments with a database.](/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center)
 
@@ -84,7 +76,7 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
 ### Use an existing environment
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com).
 
 2. In the left pane, select **Resources** > **Dynamics 365 apps**.
 
@@ -103,7 +95,7 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 
 As new versions of the Dynamics 365 Remote Assist model-driven app are released, update the app by following the steps below to ensure that the latest features are available.
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com).
 
 2. In the left pane, select **Environments**, and then select the name of the environment that you want to update.
 

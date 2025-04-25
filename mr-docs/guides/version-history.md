@@ -1,8 +1,8 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Describes older features for Dynamics 365 Guides, organized by release date
-ms.author: davepinch
-ms.date: 05/29/2024
+ms.author: prashan
+ms.date: 01/23/2025
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -11,6 +11,35 @@ ms.reviewer: v-wendysmith
 # Version history for Dynamics 365 Guides
 
 This article provides a version history for Microsoft Dynamics 365 Guides features for all waves. For the latest release, see [What's new in Dynamics 365 Guides](new.md). To see a comprehensive list of released and upcoming features for all waves, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+
+## 2024 Release Wave 1
+
+## August 13, 2024
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 905.2407.11001.0 |
+|HoloLens app | 905.2407.11001.0 |
+|Solution| 900.4.0.1* |
+
+### Bugs fixed and other improvements
+
+- Text chat updates to align with changes made in Microsoft Teams to ensure that messages are received.
+
+- Bug fixes and stabilization changes.
+
+> [!NOTE]
+> *This release requires an update to the PC and HoloLens applications only, but not the solution. The solution version 900.4.0.1 is compatible with the latest client applications.
+
+## June 4, 2024
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 904.2405.29002.0 |
+|HoloLens app | 904.2405.29002.0 |
+|Solution| 900.4.0.1 |
+
+This solution version includes miscellaneous fixes and improvements.
 
 ## 2023 Release Wave 2
 
@@ -463,7 +492,7 @@ Version 701.2201.31001 of the PC and HoloLens apps provides bug fixes for both a
 
 | Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
-| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/select-multiple-animations-customize-animation-settings" target="_blank">Select from multiple animations and customize animation settings</a>| Yes |<a href="/dynamics365/mixed-reality/guides/hololens-app-orientation#change-animation-options" target="_blank">- Change animation options</a><br><a href="https://doc.babylonjs.com/extensions/Exporters/3DSMax_to_glTF#single-animation-clip" target="_blank">- Work with multiple animations in a single 3DS MAX model</a>|
+| <a href="/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-guides/select-multiple-animations-customize-animation-settings" target="_blank">Select from multiple animations and customize animation settings</a>| Yes |<a href="/dynamics365/mixed-reality/guides/hololens-app-orientation#change-animation-options" target="_blank">- Change animation options</a><br>- Work with multiple animations in a single 3DS MAX model</a>|
 
 ####  Bugs fixed and other improvements
 

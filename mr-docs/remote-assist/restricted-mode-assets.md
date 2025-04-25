@@ -1,9 +1,9 @@
 ---
 title: Restrict the ability to access asset records in Dynamics 365 Remote Assist
-author: davepinch
+author: prashantyvr
 description: Learn how to restrict the ability to access asset records in Microsoft Dynamics 365 Remote Assist
-ms.author: davepinch
-ms.date: 04/13/2022
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -14,7 +14,7 @@ ms.reviewer: v-wendysmith
 
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Remote Assist users from [accessing asset records](asset-capture-overview.md). If you don't restrict the ability to access asset records, by default, users will be able to access them. 
 
-When you restrict the ability to access asset records, users of the Remote Assist model-driven app, and users of the HoloLens and mobile app will see a message that says they don't have the appropriate permisssions to access asset records. 
+When you restrict the ability to access asset records, users of the Remote Assist model-driven app, and users of the HoloLens app will see a message that says they don't have the appropriate permisssions to access asset records. 
 
 ## Restrict the ability to access asset records
 

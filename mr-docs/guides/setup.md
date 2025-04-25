@@ -1,8 +1,8 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Get an overview of the installation process for Microsoft Dynamics 365 Guides. 
-ms.author: davepinch
-ms.date: 10/12/2023
+ms.author: prashan
+ms.date: 02/13/2025
 ms.topic: how-to
 title: Install and set up Dynamics 365 Guides process
 ms.reviewer: v-wendysmith
@@ -10,10 +10,11 @@ ms.reviewer: v-wendysmith
 
 # Install and set up Dynamics 365 Guides process
 
-As an admin, perform the following steps to install and set up Dynamics 365 Guides after [purchasing a subscription](buy-guides.md).
+As an admin, perform the following steps to install and set up Dynamics 365 Guides.
 
 ## Prerequisites
 
+- [Purchase a Dynamics 365 Field Service or Guides license](buy-guides.md).
 - [Requirements](requirements.md) for installation are met.
 - Have your network admin review and set up the [network requirements](admin-network-requirements.md), if necessary.
 

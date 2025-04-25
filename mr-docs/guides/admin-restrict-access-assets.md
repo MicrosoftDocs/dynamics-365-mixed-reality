@@ -1,10 +1,10 @@
 ---
 title: Restrict access to assets
 description: Learn how to restrict access to specific assets Microsoft Dynamics 365 Guides.
-author:  annitachow
+author:  prashantyvr
 ms.topic: how-to
 ms.date: 07/24/2023
-ms.author: anchow
+ms.author: prashan
 ms.reviewer: v-wendysmith
 ---
 
@@ -19,7 +19,7 @@ To restrict access to certain assets (3D parts, images, videos, and object ancho
 
 - You must have Admin permission.
 
-- You must have an active Dynamics 365 Guides license. For more information, see [Buy a subscription or sign up a free trial](buy-guides.md).
+- You must have an active Dynamics 365 Field Service or Guides license. For more information, see [Buy a subscription](buy-guides.md).
 
 - The latest Dynamics 365 Guides solution must be installed. For more information, see [Update to the latest solution](upgrade.md).
 

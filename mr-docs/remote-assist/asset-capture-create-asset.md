@@ -1,9 +1,9 @@
 ---
 title: Create a new asset record in Dynamics 365 Remote Assist
-author: davepinch
+author: prashantyvr
 description: Learn how to create new asset records in Microsoft Dynamics 365 Remote Assist.
-ms.author: davepinch
-ms.date: 04/30/2021
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 --- 
@@ -70,7 +70,7 @@ This tutorial will go through the steps of exporting existing asset data into th
 
 #### Download the template
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin or Power Platform service admin).
 2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select **More environment actions** ![More environment actions.](./media/ellipsis.png "More environment actions").
 3. Select **Settings**, and then select **Templates** > **Data import templates**.
 4. From the drop-down menu, select the **Customer Asset** record type.
@@ -94,12 +94,11 @@ Depending on the number of records you're importing, this process might take a w
 
 In this tutorial, you learned how to create asset records and import an existing asset catalog to Microsoft Dataverse.
 
-You can follow these next steps to learn how to view these assets in Dynamics 365 Remote Assist on HoloLens or Mobile and capture asset data with spatial markup.
+You can follow these next steps to learn how to view these assets in Dynamics 365 Remote Assist on HoloLens and capture asset data with spatial markup.
 
 After assigning security roles, you can check out the following articles to use the model-driven app:
 
 - [Capture asset data in HoloLens](./asset-capture-photos.md)
-- [Capture asset data on Mobile](./mobile-app/asset-capture-mobile.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

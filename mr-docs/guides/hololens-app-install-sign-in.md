@@ -1,7 +1,7 @@
 ---
 author: MattHoag-MS
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides HoloLens app.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 09/07/2023
 ms.topic: how-to
 title: Install and sign in to the Dynamics 365 Guides HoloLens app
@@ -15,7 +15,7 @@ ms.custom: bap-template
 
 If you haven't already installed the Microsoft HoloLens app on your HoloLens device (or if it hasn't already been installed for you), you can install it from the Microsoft Store.
 
-You must have a license to install the Dynamics 365 Guides HoloLens app. You can also [sign up for a free trial of Dynamics 365 Guides](setup.md).
+You must have a license to install the Dynamics 365 Guides HoloLens app.
 
 [!INCLUDE [add-guest-user.md](../includes/add-guest-user.md)]
 

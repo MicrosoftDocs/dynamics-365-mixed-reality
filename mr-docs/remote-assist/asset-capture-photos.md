@@ -1,9 +1,9 @@
 ---
 title: Capture asset conditions with spatial markup in Dynamics 365 Remote Assist on HoloLens
-author: davepinch
+author: prashantyvr
 description: How to capture asset conditions with spatial markup in Microsoft Dynamics 365 Remote Assist on HoloLens
-ms.author: davepinch
-ms.date: 04/30/2021
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -20,7 +20,7 @@ In this tutorial, you'll learn how to use HoloLens to view asset records created
 
 To complete this tutorial, you need:
 
-- **Access to the environment Dynamics 365 Remote Assist is installed in**. The account you used to sign in to Dynamics 365 Remote Assist needs access to the environment created in the first step and an active Dynamics 365 Remote Assist license.
+- **Access to the environment Dynamics 365 Remote Assist is installed in**. The account you used to sign in to Dynamics 365 Remote Assist needs access to the environment created in the first step and an active Dynamics 365 Field Service or Remote Assist license.
 
 - **Dynamics 365 Remote Assist app on HoloLens**. Ensure you have downloaded the latest update to Dynamics 365 Remote Assist through the Microsoft Store. Ensure that you've selected the [correct environment from the app settings](./asset-capture-add-users.md#select-the-right-environment-in-hololens).
 

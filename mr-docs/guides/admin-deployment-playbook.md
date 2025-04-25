@@ -1,7 +1,7 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
-ms.author: davepinch
+ms.author: prashan
 ms.date: 11/09/2023
 ms.topic: article
 title: Basic concepts for deploying Dynamics 365 Guides
@@ -45,7 +45,7 @@ You can use the test or sandbox environment to validate any major updates before
 > [!NOTE]
 > In this case, the term "production environment" refers generally to the environment that your users access to do their daily work. It isn't the same as the Dataverse "production environment" that you select when you [install the Dynamics 365 Guides Dataverse solution](install-guides.md).
 
-Your Dynamics 365 Guides license lets you access as many Dataverse environments in your tenant as you require.
+Your Dynamics 365 Field Servie or Guides license lets you access as many Dataverse environments in your tenant as you require.
 
 ## Storage capacity
 
@@ -83,7 +83,7 @@ Minor updates are listed in [What's new](./new.md), through in-app notifications
 > [!IMPORTANT]
 > If you automatic updates set through the Microsoft Store and you haven't updated your production environments to the new major version before the minor version automatically updates, Guides stops working. It's important to ensure new major versions are tested and updated in your production environments before the next minor version is released.
 
-To [update the solution](./upgrade.md), a Dataverse **System Admin** security role and a valid Dynamics 365 Guides or Power Apps license must be assigned to you.
+To [update the solution](./upgrade.md), a Dataverse **System Admin** security role and a valid Dynamics 365 Field Servie or Guides license, or a Power Apps license must be assigned to you.
 
 ### PC and HoloLens app updates
 

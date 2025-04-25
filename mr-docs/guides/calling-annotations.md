@@ -1,9 +1,9 @@
 ---
 title: Use annotations with Dynamics 365 Guides
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen.
-author: davepinch
-ms.author: davepinch
-ms.date: 04/08/2024
+author: prashantyvr
+ms.author: prashan
+ms.date: 02/07/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -15,11 +15,13 @@ Annotations are useful for pointing out different parts of your space, including
 
 If you're using Dynamics 365 Guides and you're on a call with another person or group, you can annotate in your environment in different ways. The primary way to use annotations is through Microsoft Teams.
 
-- If you're on a mobile device and have Microsoft Teams, [use Teams mobile to annotate the environment (preview)](#use-teams-mobile-to-annotate-in-a-users-environment-preview). Teams desktop users (PC or Mac) can annotate in a mobile user's space.
+- If you're on a mobile device and have Microsoft Teams, [use Teams mobile to annotate the environment](#use-teams-mobile-to-annotate-in-a-users-environment). Teams desktop users (PC or Mac) can annotate in a mobile user's space.
 - If you're not on a mobile device but are using a HoloLens, [use your HoloLens to annotate the environment](#use-guides-hololens-to-annotate-in-your-environment).
 - If you're using Teams desktop (PC or Mac) and not a HoloLens, [use Teams desktop to annotate the environment](#use-teams-pc-or-mac-to-annotate-the-guides-users-environment).
 
-## Use Teams mobile to annotate in a user's environment (preview)
+## Use Teams mobile to annotate in a user's environment
+
+You can annotate in calls with Microsoft Teams mobile users if you have a Dynamics 365 Guides, Remote Assist, or Field Service license. Microsoft Teams desktop users can annotate in a mobile user's space. Use the **Spatial Annotations** toolbar in Teams to add annotations.
 
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
 
@@ -33,10 +35,10 @@ If you're using Dynamics 365 Guides and you're on a call with another person or 
 
 ### Use HoloLens to annotate
 
-If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams (PC, Mac, or mobile) or Dynamics 365 Remote Assist mobile, you and your remote collaborators can annotate in your environment. Call participants can also annotate [shared files or screens](calling-screen-sharing.md).
+If you're using Dynamics 365 Guides on HoloLens, and you're on a call with a remote collaborator using Microsoft Teams (PC, Mac, or mobile), you and your remote collaborators can annotate in your environment. Call participants can also annotate [shared files or screens](calling-screen-sharing.md).
 
 > [!NOTE]
-> A HoloLens user can draw in their environment but can't place arrows. The remote collaborator on Teams or Dynamics 365 Remote Assist mobile can draw **and** place arrows in the Dynamics 365 Guides user's environment.
+> A HoloLens user can draw in their environment but can't place arrows. The remote collaborator on Teams can draw **and** place arrows in the Dynamics 365 Guides user's environment.
 >
 > Annotations don't work well on black or reflective surfaces.
 
@@ -63,7 +65,7 @@ When you join a call in Microsoft Teams (PC or Mac), the Dynamics 365 Guides col
 > [!NOTE]
 >
 > - The toolbar appears only when the video feed for the Dynamics 365 Guides user is active.
-> - The toolbar is disabled if the Dynamics 365 Guides user is not ready to receive annotations and files (for example, the user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides is not in the foreground).
+> - The toolbar is disabled if the Dynamics 365 Guides user isn't ready to receive annotations and files (for example, the user's outgoing video feed is disabled, the user temporarily loses tracking, or Guides isn't in the foreground).
 > - The toolbar is disabled if the same Guides user is connected from Teams and Dynamics 365 Guides at the same time, regardless of the device used.
 
 ### Start annotations

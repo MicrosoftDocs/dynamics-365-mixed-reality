@@ -1,9 +1,9 @@
 ---
 title: Turn hand rays off or on in the Dynamics 365 Remote Assist HoloLens app
-author: davepinch
+author: prashantyvr
 description: Learn how to turn of hand rays (far-field communications) in the Dynamics 365 Remote Assist HoloLens app
-ms.author: davepinch
-ms.date: 08/09/2021
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---

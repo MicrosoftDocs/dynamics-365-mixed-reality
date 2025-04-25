@@ -1,9 +1,9 @@
 ---
 title: Restrict the ability to access OneDrive files in Dynamics 365 Remote Assist
-author: davepinch
+author: prashantyvr
 description: Learn how to restrict the ability to access OneDrive files in Microsoft Dynamics 365 Remote Assist
-ms.author: davepinch
-ms.date: 04/13/2022
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
@@ -14,10 +14,7 @@ ms.reviewer: v-wendysmith
 
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability for Microsoft Dynamics 365 Remote Assist users from accessing OneDrive files. Restricting the ability to access OneDrive files is also helpful in a situation where a service account is shared between users and you want to prevent users from accessing each other's files. 
 
-When you restrict the ability to access OneDrive files:
-
-- HoloLens users will see the **Files** tab, but no files will be visible and they'll see this message: "We can't connect to OneDrive."
-- Users of the mobile app will not be able to access OneDrive files. 
+When you restrict the ability to access OneDrive files, HoloLens users will see the **Files** tab, but no files will be visible and they'll see this message: "We can't connect to OneDrive."
 
 ## Restrict access to OneDrive files
 
@@ -50,12 +47,9 @@ When you restrict the ability to access OneDrive files:
     ![Screenshot of Optional settings section.](media/restricted-mode-files-optional-settings.jpg "Screenshot of Optional settings section")
 
 7. In the **Review and finish** section, make sure the information is correct, and then select **Finish adding** when you're ready.
-    
-    ![Screenshot of Review and finish section filled out.](media/restricted-mode-files-review.jpg "Screenshot of Review and finish section filled out")
 
-8. If you see the following confirmation screen, you'll know the user was added correctly. Select **Close**.
+8. The system confirms if the user was added correctly. Select **Close**.
 
-    ![Screenshot with user added highlighted.](media/restricted-mode-files-confirmation.jpg "Screenshot with user added highlighted")
     
 ## See also
 

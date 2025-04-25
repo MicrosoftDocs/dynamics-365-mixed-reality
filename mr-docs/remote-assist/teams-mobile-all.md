@@ -1,9 +1,9 @@
 ---
 title: Collaborate with any user through Microsoft Teams mobile
 description: Discover how users of Remote Assist, Guides, or Field Service can collaborate with other users through the Microsoft Teams mobile app.
-author: davepinch
-ms.author: davepinch
-ms.date: 04/10/2024
+author: prashantyvr
+ms.author: prashan
+ms.date: 06/07/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
@@ -11,13 +11,11 @@ ms.reviewer: v-wendysmith
 # Collaborate with any user through Microsoft Teams mobile
 
 > [!TIP]
-> Dynamics 365 Remote Assist customers now have access to Remote Assist in Microsoft Teams mobile. For the best calling experience on HoloLens, use Dynamics 365 Guides.
->
-> [Learn more](https://go.microsoft.com/fwlink/?linkid=2227374) and [try Guides](https://go.microsoft.com/fwlink/?linkid=2227510)!
+> Dynamics 365 Remote Assist customers now have access to Remote Assist in Microsoft Teams mobile.
 
 Users can initiate a Remote Assist call right in Teams mobile without switching apps to get support from a remote expert. Technicians can share their mobile camera view with a remote expert and have them annotate on their screen or Teams users can annotate in their own space and share with other collaborators.
 
-When you use Teams on mobile, you can collaborate using the Spatial Annotations toolbar in a call with anyone who is using HoloLens 2 or another Teams user on PC, Mac, or mobile device.
+When you use Teams on mobile, you can [collaborate using the Spatial Annotations toolbar](teams-mobile-annotate.md) in a call with anyone who is using HoloLens 2 or another Teams user on PC, Mac, or mobile device.
 
 ## Make a call
 
@@ -49,12 +47,6 @@ For more actions, select the ellipses icon. Other actions include:
 > [!NOTE]
 > Turn your phone horizonal to see more of the Dynamics 365 Remote Assist HoloLens user’s environment.
 
-## Use Teams mobile to annotate in a user's environment (preview)
-
-[!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
-
-<!--- This topic in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
-
 ## Send a text message
 
 Select the **Text icon** ![Graphic showing the text icon, which looks like a chat bubble.](media/TeamsMobile_Text.png) to open the text chat and send text messages. After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat.
@@ -70,13 +62,11 @@ Select the **Text icon** ![Graphic showing the text icon, which looks like a cha
 > - [Use guest access and external access to collaborate with people outside your organization](/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access)
 > - [Native chat experience for external (federated) users in Microsoft Teams](/microsoftteams/native-chat-for-external-users)
 
-You can display OneDrive files in the Dynamics 365 Remote Assist HoloLens user's space or send OneDrive files in the Dynamics 365 Remote Assist mobile text chat. For example, add a PDF of a diagram to assist with the call.
+You can display OneDrive files in the Dynamics 365 Remote Assist HoloLens user's space or send OneDrive files in a Teams text chat. For example, add a PDF of a diagram to assist with the call.
 
 Go to the call controls and select the ellipses icon [...]. Then select **Insert Files** and select whether to insert file from OneDrive or from Teams teams and channels. You can insert an image, still gif, video, or PDF.
 
 If you're collaborating with a Dynamics 365 Remote Assist HoloLens user, the file is uploaded to OneDrive and appear up as a new slate in the Dynamics 365 Remote Assist HoloLens user’s environment. The Dynamics 365 Remote Assist HoloLens user can save a file to their OneDrive by tapping the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder called "HoloLens Received Files." A link to the file is available in the Teams chat even after the call ends.
-
-If you're collaborating with a Dynamics 365 Remote Assist mobile user, the file is uploaded to OneDrive and sent in the Dynamics 365 Remote Assist mobile user’s text chat. A link to the file is available in the Teams chat even after the call ends.
 
 ## Share photo from device
 

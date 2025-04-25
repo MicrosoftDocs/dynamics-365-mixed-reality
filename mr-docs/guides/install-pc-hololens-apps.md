@@ -1,8 +1,8 @@
 ---
-author: davepinch
+author: prashantyvr
 description: Step 3 of the setup process for Microsoft Dynamics 365 Guides. In this step, you download and install the PC and HoloLens apps.
-ms.author: davepinch
-ms.date: 11/08/2023
+ms.author: prashan
+ms.date: 11/19/2024
 ms.topic: how-to
 title: Download and install the Dynamics 365 Guides apps (PC and HoloLens)
 ms.reviewer: v-wendysmith
@@ -12,8 +12,6 @@ ms.custom: bap-template
 # Download and install the Dynamics 365 Guides apps (PC and HoloLens)
 
 After your admin [installs the Dynamics 365 Guides solution](install-guides.md) and assigns licenses, set up the Guides PC authoring app and the HoloLens app. The HoloLens app has an **Author** mode and an **Operate** mode.
-
-If you can't access Microsoft Store because of company policies, contact your admin about distributing the app. If you're an admin, and your company uses [Microsoft Store for Business to distribute your apps](#distribute-the-apps-through-microsoft-store-for-business), you can have users install the apps either from your organization's private store or from an email link that you send.
 
 ## Prerequisites
 
@@ -41,21 +39,5 @@ We recommend that you update HoloLens to newer versions when they become availab
 
 > [!TIP]
 > You can make sure that the HoloLens app is automatically updated to be compatible with the latest Dynamics 365 Guides solution version by turning on the **Update apps automatically** setting in the Microsoft Store.
-
-## Distribute the apps through Microsoft Store for Business
-
-Follow these steps if you're an admin and your company uses Microsoft Store for Business to distribute your apps.
-
-1. Open [Microsoft Store for Business](https://businessstore.microsoft.com/store).
-
-2. [Get the apps](/microsoft-store/acquire-apps-microsoft-store-for-business).
-
-3. Select one of the following distribution methods:
-
-    - [Private store](/microsoft-store/distribute-apps-from-your-private-store)
-
-    - [Email link](/microsoft-store/assign-apps-to-employees)
-
-    - [Mobile device management](/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

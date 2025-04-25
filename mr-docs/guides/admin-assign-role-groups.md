@@ -4,7 +4,7 @@ description: Learn how to use Microsoft Entra groups and add users, assign licen
 author:  davepinch
 ms.topic: how-to
 ms.date: 04/24/2024
-ms.author: davepinch
+ms.author: prashan
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
@@ -19,7 +19,7 @@ For example, you have 15 Authors and 20 Operators. Create an Entra security grou
 
 ## Prerequisites
 
-- You must have an [active Dynamics 365 Guides license](buy-guides.md).
+- You must have an [active Dynamics 365 Field Servie or Guides license](buy-guides.md).
 
 - The [Dynamics 365 Guides solution must be installed](install-guides.md).
 
@@ -27,7 +27,7 @@ For example, you have 15 Authors and 20 Operators. Create an Entra security grou
 
 1. [Create a Microsoft Entra security group and add users.](/entra/fundamentals/how-to-manage-groups)
 
-1. [Assign Guides licenses to the Entra security group.](/entra/identity/users/licensing-groups-assign)
+1. [Assign Field Servie or Guides licenses to the Entra security group.](/entra/identity/users/licensing-groups-assign)
 
    > [!IMPORTANT]
    > Make sure each group is assigned Dynamics 365 Guides, Common Data Service, and PowerApps for Guides.
