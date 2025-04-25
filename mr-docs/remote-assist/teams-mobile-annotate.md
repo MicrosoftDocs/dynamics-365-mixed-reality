@@ -3,7 +3,7 @@ title: Use spatial annotations through Microsoft Teams mobile
 description: Discover how users with Microsoft Teams mobile can annotate in another user's enviornment.
 author: prashantyvr
 ms.author: prashan
-ms.date: 02/07/2025
+ms.date: 04/30/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
@@ -19,6 +19,16 @@ Spatial annotations can greatly enhance your communication and collaboration, es
 
 ## Use annotations
 
+<!--- This topic is in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
+
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
 
-<!--- This topic is in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
+## Make a one-time call with spatial annotations
+
+As a Dynamics 365 Remote Assist user, you might want an external user without a Dynamics 365 Remote Assist license to join a call on a one-time basis. Members outside of your organization must have a valid Microsoft Teams mobile license.
+
+1. Create a Teams meeting with the organizer and invite your participants to the meeting.
+
+1. Ensure the organizer joins the call first, then have the invited members join through the Teams mobile app.
+
+1. Members can [use spatial annotations](#use-annotations) through the Teams mobile app.
