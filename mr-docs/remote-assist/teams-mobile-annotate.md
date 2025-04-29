@@ -25,7 +25,7 @@ Spatial annotations can greatly enhance your communication and collaboration, es
 
 ## Enable a one-time call to use spatial annotations
 
-As a Dynamics 365 Remote Assist user, you might want an external user without a Dynamics 365 Remote Assist license to join a call on a one-time basis. Members outside of your organization can join a call and use spatial annotations if they have a valid Microsoft Teams mobile license. Make sure your Teams admin has [enabled meetings for external users](/microsoftteams/plan-meetings#meeting-options-for-guests-and-external-participants).
+As a Dynamics 365 Remote Assist user, you might want an external user without a Dynamics 365 Remote Assist license to join a call on a one-time basis. Members outside of your organization can join a call and use spatial annotations. Make sure your Teams admin has [enabled meetings for external users](/microsoftteams/plan-meetings#meeting-options-for-guests-and-external-participants).
 
 1. Create a Teams meeting with the organizer and invite your participants to the meeting.
 
