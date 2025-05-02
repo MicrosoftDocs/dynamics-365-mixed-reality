@@ -1,4 +1,4 @@
-1. While in a Teams mobile call, select **Spatial Annotations**.
+1. While in a mobile call, select **Spatial Annotations**.
 
    :::image type="content" source="../guides/media/teams-mobile-spatial-annotations.png" alt-text="Screenshot of Teams on a mobile phone showing the Spatial Annotations selection":::
 
@@ -23,4 +23,3 @@
 
 - [Android phones and tablets with ARCore support](https://developers.google.com/ar/devices)
 - [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/devices#ios)
-- [Dynamics 365 Remote Assist requirements](../remote-assist/requirements.md)
