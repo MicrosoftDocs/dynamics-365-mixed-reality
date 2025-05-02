@@ -3,7 +3,7 @@ title: Use spatial annotations through Microsoft Teams mobile
 description: Discover how users with Microsoft Teams mobile can annotate in another user's enviornment.
 author: prashantyvr
 ms.author: prashan
-ms.date: 04/30/2025
+ms.date: 05/02/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
@@ -25,10 +25,4 @@ Spatial annotations can greatly enhance your communication and collaboration, es
 
 ## Enable a one-time call to use spatial annotations
 
-You might want an external user without a Microsoft Teams license to join a call on a one-time basis. Members outside of your organization can join a call and use spatial annotations. Make sure your Teams admin has [enabled meetings for external users](/microsoftteams/plan-meetings#meeting-options-for-guests-and-external-participants).
-
-1. Create a Teams meeting with the organizer (one who has a Teams license) and invite your participants to the meeting.
-
-1. Ensure the organizer joins the call first, then have the invited members join through the Teams mobile app.
-
-1. Members can [use spatial annotations](#use-annotations) as long as the organizer is on the call.
+[!INCLUDE [annotations-teams-mobile-one-time-include](../includes/annotations-team-mobile-one-time.md)]
