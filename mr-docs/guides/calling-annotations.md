@@ -21,11 +21,22 @@ If you're using Dynamics 365 Guides and you're on a call with another person or 
 
 ## Use Teams mobile to annotate in a user's environment
 
-You can use spatial annotations in Microsoft Teams calls as long as one person has a Dynamics 365 Field Service, Guides, or Remote Assist license. Microsoft Teams desktop users can use spatial annotations in a mobile user's space. Microsoft Teams desktop users can annotate in a mobile user's space. Use the **Spatial Annotations** toolbar in Teams to add annotations.
+<!--- This topic in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
+
+You can use spatial annotations in Microsoft Teams calls as long as one person has a Dynamics 365 Field Service, Guides, or Remote Assist license. Microsoft Teams desktop users can use spatial annotations in a mobile user's space. Use the **Spatial Annotations** toolbar in Teams to add annotations.
+
+### Prerequisites
+
+To use this Augmented Reality (AR) feature, your mobile device must support it.
+
+- [Android phones and tablets with ARCore support](https://developers.google.com/ar/devices)
+- [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/devices#ios)
+
+For successful use of spatial annotations, go to [Best practices](#best-practices).
+
+### Use annotations
 
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
-
-<!--- This topic in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
 
 ### Enable a one-time call to use spatial annotations
 

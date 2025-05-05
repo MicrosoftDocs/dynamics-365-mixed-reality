@@ -10,6 +10,8 @@ ms.reviewer: v-wendysmith
 
 # Use spatial annotations through Microsoft Teams mobile
 
+<!--- This topic is in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
+
 Spatial annotations can greatly enhance your communication and collaboration, especially when working with remote teams. Use spatial annotations to:
 
 - **Quickly communicate detailed and complex instructions visually**: Enhance communication by using Remote Assist to engage remote collaborators through annotations.
@@ -27,8 +29,6 @@ To use this Augmented Reality (AR) feature, your mobile device must support it.
 For successful use of spatial annotations, go to [Best practices](#best-practices).
 
 ## Use annotations
-
-<!--- This topic is in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
 
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
 
