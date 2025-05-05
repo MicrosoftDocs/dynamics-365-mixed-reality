@@ -18,8 +18,3 @@
    > Each call participant can only undo and delete their own annotations.
 
 1. When you're done annotating, close the toolbar. All annotations persist even after you stop editing.
-
-### System requirements
-
-- [Android phones and tablets with ARCore support](https://developers.google.com/ar/devices)
-- [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/devices#ios)

@@ -21,7 +21,7 @@ If you're using Dynamics 365 Guides and you're on a call with another person or 
 
 ## Use Teams mobile to annotate in a user's environment
 
-You can annotate in calls with Microsoft Teams mobile users if you have a Dynamics 365 Guides, Remote Assist, or Field Service license. Microsoft Teams desktop users can annotate in a mobile user's space. Use the **Spatial Annotations** toolbar in Teams to add annotations.
+You can use spatial annotations in Microsoft Teams calls as long as one person has a Dynamics 365 Field Service, Guides, or Remote Assist license. Microsoft Teams desktop users can use spatial annotations in a mobile user's space. Microsoft Teams desktop users can annotate in a mobile user's space. Use the **Spatial Annotations** toolbar in Teams to add annotations.
 
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
 
@@ -30,6 +30,10 @@ You can annotate in calls with Microsoft Teams mobile users if you have a Dynami
 ### Enable a one-time call to use spatial annotations
 
 [!INCLUDE [annotations-teams-mobile-one-time-include](../includes/annotations-team-mobile-one-time.md)]
+
+### Best practices
+
+[!INCLUDE [annotations-teams-mobile-bp-include](../includes/annotations-team-mobile-bp.md)]
 
 ## Use Guides HoloLens to annotate in your environment
 
