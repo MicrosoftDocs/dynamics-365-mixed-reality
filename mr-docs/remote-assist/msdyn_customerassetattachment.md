@@ -3,7 +3,7 @@ author: prashantyvr
 description: Customer Asset Attachment entity.
 ms.author: prashan
 ms.date: 06/07/2024
-ms.topic: article
+ms.topic: reference
 title: msdyn_customerassetattachment EntityType
 ms.reviewer: v-wendysmith
 ---

@@ -2,7 +2,7 @@
 title: Existing Microsoft Power Platform engagement and Guides deployment strategy
 description: Learn about using an existing Microsoft Power Platform engagement to deploy Dynamics 365 Guides in a regulated industry.
 ms.date: 03/20/2023
-ms.topic: conceptual
+ms.topic: concept-article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

@@ -4,7 +4,7 @@ description: Describes the new features in Dynamics 365 Guides, organized by rel
 author: prashantyvr
 ms.author: prashan
 ms.date: 01/23/2025
-ms.topic: conceptual
+ms.topic: whats-new
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---

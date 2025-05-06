@@ -2,7 +2,7 @@
 title: Govern guides through Microsoft Power Platform environments and Power Apps
 description: Learn about using Microsoft Power Platform or Power Apps to separate guides according to their life cycle stage.
 ms.date: 03/20/2023
-ms.topic: conceptual
+ms.topic: article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

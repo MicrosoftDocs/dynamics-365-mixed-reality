@@ -3,7 +3,7 @@ author: prashantyvr
 description: These Microsoft Dynamics 365 Guides videos show you everything that you need to know to get started with authoring, operating, and analyzing guides.
 ms.author: prashan
 ms.date: 11/08/2021
-ms.topic: conceptual
+ms.topic: article
 title: Dynamics 365 Guides videos
 ms.reviewer: mhart
 ---
