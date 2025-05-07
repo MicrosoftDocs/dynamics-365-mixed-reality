@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn about known issues in Microsoft Dynamics 365 Remote Assist.
 ms.author: prashan
 ms.date: 06/07/2024
-ms.topic: article
+ms.topic: troubleshooting-known-issue
 title: Known issues in Dynamics 365 Remote Assist
 ms.reviewer: v-wendysmith
 ---

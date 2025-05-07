@@ -4,7 +4,7 @@ description:  Technical requirements for deploying and using Microsoft Dynamics 
 author: prashantyvr
 ms.author: prashan
 ms.date: 03/04/2025
-ms.topic: conceptual
+ms.topic: article
 ms.reviewer: v-wendysmith
 ms.service: dynamics-365-remote-assist
 ms.custom: bap-templates

@@ -3,7 +3,7 @@ author: RobertButterworthMS
 description: Describes, in tutorial format, how to use Pixyz Studio to prepare 3D objects for use in Microsoft Dynamics 365 Guides or Power Apps
 ms.author: robutter
 ms.date: 02/25/2024
-ms.topic: article
+ms.topic: how-to
 title: Use Pixyz Studio to prepare 3D objects for use in Dynamics 365 Guides or in mixed-reality components used in apps created with Power Apps
 ms.reviewer: v-wendysmith
 ---

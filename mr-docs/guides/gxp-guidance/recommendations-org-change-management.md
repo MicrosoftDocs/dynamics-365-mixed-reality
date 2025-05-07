@@ -2,7 +2,7 @@
 title: Recommendations for organizational change management
 description: Learn about change management and the role it plays when Dynamics 365 Guides is implemented in a regulated industry.
 ms.date: 03/21/2023
-ms.topic: conceptual
+ms.topic: article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

@@ -3,7 +3,7 @@ author: prashantyvr
 description: Multitenant company deployments for Dynamics 365 Remote Assist.
 ms.author: prashan
 ms.date: 06/07/2024
-ms.topic: conceptual
+ms.topic: article
 title: Multitenant company deployments
 ms.reviewer: v-wendysmith
 ---

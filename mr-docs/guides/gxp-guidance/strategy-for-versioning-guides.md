@@ -2,7 +2,7 @@
 title: Versioning guides strategy
 description: Learn about setting up a strategy for versioning guides in a regulated industry.
 ms.date: 03/21/2023
-ms.topic: conceptual
+ms.topic: concept-article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

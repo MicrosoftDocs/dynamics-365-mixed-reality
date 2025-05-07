@@ -2,7 +2,7 @@
 title: Segregate guides between organizational entities strategy
 description: Learn about ways to segregate guides between users or organizational groups.
 ms.date: 03/21/2023
-ms.topic: conceptual
+ms.topic: article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

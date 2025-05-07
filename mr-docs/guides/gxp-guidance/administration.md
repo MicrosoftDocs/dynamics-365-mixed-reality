@@ -2,7 +2,7 @@
 title: Administrative layers
 description: Learn about best practices for the administration of Dynamics 365 Guides in a regulated industry.
 ms.date: 03/21/2023
-ms.topic: conceptual
+ms.topic: article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

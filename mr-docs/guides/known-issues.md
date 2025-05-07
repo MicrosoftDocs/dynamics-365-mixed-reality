@@ -3,7 +3,7 @@ author: prashantyvr
 description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: prashan
 ms.date: 03/13/2024
-ms.topic: article
+ms.topic: troubleshooting-known-issue
 title: Known issues with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---

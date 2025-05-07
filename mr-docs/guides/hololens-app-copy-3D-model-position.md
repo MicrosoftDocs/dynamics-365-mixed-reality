@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn how to copy a 3D object's position (orientation and scale) in the Dynamics 365 Guides HoloLens app
 ms.author: prashan
 ms.date: 11/08/2021
-ms.topic: article
+ms.topic: how-to
 title: Copy a 3D object's position in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---

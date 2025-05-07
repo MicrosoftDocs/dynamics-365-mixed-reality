@@ -3,7 +3,7 @@ author: chantiff
 description: Learn about the permissions required to use the Dynamics 365 Guides HoloLens app
 ms.author: chantiffany
 ms.date: 02/16/2023
-ms.topic: conceptual
+ms.topic: article
 title: Permissions required to use the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

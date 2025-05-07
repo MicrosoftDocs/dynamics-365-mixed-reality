@@ -4,7 +4,7 @@ author: prashantyvr
 description: Send text messages in the Dynamics 365 Remote Assist app on HoloLens and adjust the text chat panel. 
 ms.author: prashan
 ms.date: 06/07/2024
-ms.topic: article
+ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
 

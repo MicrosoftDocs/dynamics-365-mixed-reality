@@ -4,7 +4,7 @@ author: prashantyvr
 description: Learn how to add and edit annotations in Dynamics 365 Remote Assist on HoloLens. 
 ms.author: prashan
 ms.date: 06/07/2024
-ms.topic: article
+ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
 

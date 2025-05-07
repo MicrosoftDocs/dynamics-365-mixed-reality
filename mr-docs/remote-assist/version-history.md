@@ -4,7 +4,7 @@ author: prashantyvr
 description: Find version history for earlier versions of Microsoft Dynamics Remote Assist, including a list of fixed bugs for each version.
 ms.author: prashan
 ms.date: 01/23/2025
-ms.topic: article
+ms.topic: release-notes
 ms.reviewer: v-wendysmith
 ---
 

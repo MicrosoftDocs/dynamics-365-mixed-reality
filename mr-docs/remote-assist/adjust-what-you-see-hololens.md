@@ -4,7 +4,7 @@ author: prashantyvr
 description: Adjust the Dynamics 365 Remote Assist window, switch displayed video feed, and view Teams user's desktop or mobile screen. 
 ms.author: prashan
 ms.date: 06/07/2024
-ms.topic: article
+ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
 

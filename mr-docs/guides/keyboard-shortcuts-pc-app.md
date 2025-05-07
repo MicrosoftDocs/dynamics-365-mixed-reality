@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn about the keyboard shortcuts for the Dynamics 365 Guides PC app.
 ms.author: prashan
 ms.date: 03/21/2024
-ms.topic: conceptual
+ms.topic: article
 title: Keyboard shortcuts for the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

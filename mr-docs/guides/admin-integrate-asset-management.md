@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn how to integrate Dynamics 365 Supply Chain Management with Dynamics 365 Guides for production processes and asset management.
 ms.author: prashan
 ms.date: 11/08/2021
-ms.topic: article
+ms.topic: integration
 title: Integrate Dynamics 365 Supply Chain Management with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
