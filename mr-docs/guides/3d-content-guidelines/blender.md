@@ -3,7 +3,7 @@ author: RobertButterworthMS
 description: Describes in tutorial form how to use the Blender open-source 3D creation suite to prepare 3D objects for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 10/22/2019
-ms.topic: article
+ms.topic: how-to
 title: Use Blender to prepare 3D objects for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
