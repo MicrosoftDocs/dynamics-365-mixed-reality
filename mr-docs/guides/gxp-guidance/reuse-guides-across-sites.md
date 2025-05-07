@@ -2,7 +2,7 @@
 title: Reuse guides across sites
 description: Learn about using guides across multiple sites in a regulated industry, and how to avoid issues.
 ms.date: 03/21/2023
-ms.topic: conceptual
+ms.topic: article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

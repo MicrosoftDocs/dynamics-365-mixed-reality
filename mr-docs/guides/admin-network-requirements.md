@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn about IP addresses and endpoints required for Dynamics 365 Guides.
 ms.author: prashan
 ms.date: 04/25/2024
-ms.topic: conceptual
+ms.topic: article
 title: Network requirements for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

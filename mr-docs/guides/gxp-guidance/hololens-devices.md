@@ -2,7 +2,7 @@
 title: HoloLens devices
 description: Learn about setting up and maintaining HoloLens devices in a regulated industry.
 ms.date: 03/21/2023
-ms.topic: conceptual
+ms.topic: article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

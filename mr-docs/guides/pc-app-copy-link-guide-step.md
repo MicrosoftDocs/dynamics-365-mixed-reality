@@ -3,7 +3,7 @@ author: prashantyvr
 description: Create and copy a guide link in Dynamics 365 Guides to embed in a QR code.
 ms.author: prashan
 ms.date: 06/29/2021
-ms.topic: article
+ms.topic: how-to
 title: Create or copy a link to a guide or step in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---

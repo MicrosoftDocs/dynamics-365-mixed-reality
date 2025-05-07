@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn how to use the built-in Text-to-Speech capabilities in HoloLens to have HoloLens read Dynamics 365 Guides instruction text out loud. 
 ms.author: prashan
 ms.date: 10/17/2022
-ms.topic: article
+ms.topic: how-to
 title: Have HoloLens narrate Dynamics 365 Guides instructions to keep your focus on your work
 ms.reviewer: v-brycho
 ---

@@ -2,7 +2,7 @@
 title: Guide content management
 description: Learn about assigning ownership or sharing a folder or a guide in Microsoft Dynamics 365 Guides.
 author:  prashantyvr
-ms.topic: conceptual
+ms.topic: article
 ms.date: 10/09/2023
 ms.author: prashan
 ms.reviewer: v-wendysmith

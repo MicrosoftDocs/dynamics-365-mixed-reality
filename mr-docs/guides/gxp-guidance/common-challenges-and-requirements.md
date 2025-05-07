@@ -2,7 +2,7 @@
 title: Common challenges and requirements
 description: Learn what you should consider about business and regulation requirements before you implement Dynamics 365 Guides.
 ms.date: 03/21/2023
-ms.topic: conceptual
+ms.topic: article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

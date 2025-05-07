@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn how to collaborate with a Dynamics 365 Guides user from Microsoft Teams
 ms.author: prashan
 ms.date: 03/12/2024
-ms.topic: conceptual
+ms.topic: article
 title: Collaborate with a Dynamics 365 Guides user from Microsoft Teams
 ms.reviewer: v-wendysmith
 ---
