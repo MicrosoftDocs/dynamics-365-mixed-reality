@@ -2,7 +2,7 @@
 title: Security and separation of environment access strategy
 description: Learn about restricted access, separate environments, and other security controls.
 ms.date: 03/24/2023
-ms.topic: conceptual
+ms.topic: article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

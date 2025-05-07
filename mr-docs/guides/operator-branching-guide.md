@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn how to use a branching (non-linear) guide if you're an operator using Dynamics 365 Guides.
 ms.author: prashan
 ms.date: 10/01/2020
-ms.topic: article
+ms.topic: how-to
 title: Use a branching (non-linear) guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---

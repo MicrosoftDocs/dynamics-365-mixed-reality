@@ -2,7 +2,7 @@
 title: User control and access strategy
 description: Learn about restricting access and user control.
 ms.date: 03/23/2023
-ms.topic: conceptual
+ms.topic: article
 author: prashantyvr
 ms.author: prashan
 ms-reviewer: m-hartmann

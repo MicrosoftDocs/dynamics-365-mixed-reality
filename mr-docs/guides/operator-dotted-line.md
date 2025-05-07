@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn how to use the dotted line in the Dynamics 365 Guides HoloLens app to find the focus area for a step
 ms.author: prashan
 ms.date: 11/08/2021
-ms.topic: article
+ms.topic: how-to
 title: Use a dotted line in the Dynamics 365 Guides HoloLens app to find the focus area for a step
 ms.reviewer: v-brycho
 ---

@@ -4,7 +4,7 @@ description: Determine whether your Dynamics 365 Guides solution is compatible w
 author: prashantyvr
 ms.author: prashan
 ms.date: 01/23/2025
-ms.topic: conceptual 
+ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 

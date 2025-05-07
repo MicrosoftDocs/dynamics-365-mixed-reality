@@ -4,7 +4,7 @@ author: prashantyvr
 description: Learn about the supported Dynamics 365 Guides call types and who can collaborate
 ms.author: prashan
 ms.date: 04/04/2023
-ms.topic: conceptual
+ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 

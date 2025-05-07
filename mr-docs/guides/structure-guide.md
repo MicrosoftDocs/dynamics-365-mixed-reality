@@ -3,7 +3,7 @@ author: prashantyvr
 description: Learn how to structure a guide by using the Outline page in the Microsoft Dynamics 365 Guides PC app.
 ms.author: prashan
 ms.date: 03/11/2024
-ms.topic: conceptual
+ms.topic: article
 title: Structure your guide in the Outline page
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

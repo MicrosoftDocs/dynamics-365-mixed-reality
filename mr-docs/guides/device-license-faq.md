@@ -3,7 +3,7 @@ author: prashantyvr
 description: Dynamics 365 Guides license FAQ.
 ms.author: prashan
 ms.date: 03/08/2023
-ms.topic: conceptual
+ms.topic: faq
 title: Licensing FAQ
 ms.reviewer: v-wendysmith
 ---
