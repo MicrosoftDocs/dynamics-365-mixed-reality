@@ -3,7 +3,7 @@ title: Use spatial annotations through Microsoft Teams mobile
 description: Discover how users with Microsoft Teams mobile can annotate in another user's environment.
 author: prashantyvr
 ms.author: prashan
-ms.date: 05/02/2025
+ms.date: 05/14/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
@@ -21,10 +21,7 @@ Spatial annotations can greatly enhance your communication and collaboration, es
 
 ## Prerequisites
 
-To use this Augmented Reality (AR) feature, your mobile device must support it.
-
-- [Android phones and tablets with ARCore support](https://developers.google.com/ar/devices)
-- [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/devices#ios)
+[!INCLUDE [annotations-teams-mobile-prereq-include](../includes/annotations-teams-mobile-prereq.md)]
 
 For successful use of spatial annotations, go to [Best practices](#best-practices).
 
