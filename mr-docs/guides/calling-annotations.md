@@ -3,7 +3,7 @@ title: Use annotations with Dynamics 365 Guides
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen.
 author: prashantyvr
 ms.author: prashan
-ms.date: 05/02/2025
+ms.date: 05/14/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -21,16 +21,11 @@ If you're using Dynamics 365 Guides and you're on a call with another person or 
 
 ## Use Teams mobile to annotate in a user's environment
 
-<!--- This topic in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
-
-You can use spatial annotations in Microsoft Teams calls as long as one person has a Dynamics 365 Field Service, Guides, or Remote Assist license. Microsoft Teams desktop users can use spatial annotations in a mobile user's space. Use the **Spatial Annotations** toolbar in Teams to add annotations.
+<!--- These topics are also in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
 
 ### Prerequisites
 
-To use this Augmented Reality (AR) feature, your mobile device must support it.
-
-- [Android phones and tablets with ARCore support](https://developers.google.com/ar/devices)
-- [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/devices#ios)
+[!INCLUDE [annotations-teams-mobile-prereq-include](../includes/annotations-teams-mobile-prereq.md)]
 
 For successful use of spatial annotations, go to [Best practices](#best-practices).
 

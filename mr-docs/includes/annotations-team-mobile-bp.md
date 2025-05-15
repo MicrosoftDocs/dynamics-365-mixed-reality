@@ -8,4 +8,4 @@ For best results, the person should do a quick scan of the area they want to ann
 - Ensure even lighting conditions to detect surfaces and objects clearly.
 - Use textured surfaces to provide more visual feature points to track, rather than uniform, shiny, or translucent surfaces.
 
-If something interrupts the camera, tracking might temporarily be lost and annotations are unavailable. The system can recover when the camera detects familiar feature points again. The message "Please wait while Mixed Reality user re-establishes tracking" appears. Wait a moment for the camera to re-establishe tracking so annotations are available.
+If something interrupts the camera, tracking might temporarily be lost and annotations are unavailable. The system can recover when the camera detects familiar feature points again. The message "Please wait while Mixed Reality user re-establishes tracking" appears. Wait a moment for the camera to re-establish tracking so annotations are available.
