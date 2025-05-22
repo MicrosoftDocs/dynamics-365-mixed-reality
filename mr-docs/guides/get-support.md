@@ -2,19 +2,20 @@
 author: prashantyvr
 description: Learn how to contact Microsoft Support
 ms.author: prashan
-ms.date: 09/13/2023
+ms.date: 05/22/2025
 ms.topic: how-to
 title: Contact Support
-ms.reviewer: mhart
+ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Contact Support
 
-If you're not able to use Microsoft Dynamics 365 Guides, or if you have an issue that isn't answered in the documentation, please contact Customer Support by using the following steps:
+Create a support request to get help from a Microsoft representative if you encounter an issue with Dynamics 365 Guides.
 
-1. Go to [https://dynamics.microsoft.com/support/.](https://dynamics.microsoft.com/support/)
+Try the following *before* submitting a support request to resolve the issue.
 
-2. Select **customer engagement apps**.
+- Search the [Guides documentation](index.yml)
+- Check out the [community forum](https://community.dynamics.com/)
 
-3. [Get Help + Support.](/power-platform/admin/get-help-support)
+Administrators can follow the instructions to create a support request. [Get Help + Support](/power-platform/admin/get-help-support).
