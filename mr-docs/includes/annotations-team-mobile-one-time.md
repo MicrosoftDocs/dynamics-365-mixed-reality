@@ -4,4 +4,4 @@ Make sure your Teams admin has [enabled meetings for external users](/microsoftt
 
 1. Create a Teams meeting or start a call with one participant having a Dynamics 365 Field Service, Guides, or Remote Assist license and invite your other participants.
 
-1. All participants can [use spatial annotations](../remote-assist/teams-mobile-annotate.md#use-annotations)  as long as one person on the call has a Field Service, Guides, or Remote Assist license.
+1. All participants can [use spatial annotations](../remote-assist/teams-mobile-annotate.md#use-annotations) as long as one person on the call has a Field Service, Guides, or Remote Assist license. The **Spatial Annotations** toolbar appears for all users on the call after a mobile user starts presenting.

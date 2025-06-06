@@ -3,7 +3,7 @@ title: Use annotations with Dynamics 365 Guides
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen.
 author: prashantyvr
 ms.author: prashan
-ms.date: 05/14/2025
+ms.date: 06/06/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -23,13 +23,17 @@ If you're using Dynamics 365 Guides and you're on a call with another person or 
 
 <!--- These topics are also in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
 
+Spatial annotations can greatly enhance your communication and collaboration, especially when working with remote teams.
+
+:::image type="content" source="./media/teams-mobile-annotation-example.png" alt-text="Screenshot of a mobile phone showing an example of spatial annotations":::
+
 ### Prerequisites
 
 [!INCLUDE [annotations-teams-mobile-prereq-include](../includes/annotations-teams-mobile-prereq.md)]
 
 For successful use of spatial annotations, go to [Best practices](#best-practices).
 
-### Use annotations
+### Use spatial annotations
 
 [!INCLUDE [annotations-teams-mobile-include](../includes/annotations-teams-mobile.md)]
 
