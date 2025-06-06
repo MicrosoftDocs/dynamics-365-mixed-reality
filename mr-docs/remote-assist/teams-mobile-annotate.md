@@ -12,7 +12,7 @@ ms.reviewer: v-wendysmith
 
 <!--- This topic is in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
 
-Spatial annotations can greatly enhance your communication and collaboration, especially when working with remote teams. Use spatial annotations to:
+Spatial annotations can greatly enhance your communication and collaboration, especially when working with remote teams. Teams desktop users (PC or Mac) can annotate in a mobile user's space. Use spatial annotations to:
 
 - **Quickly communicate detailed and complex instructions visually**: Enhance communication by using Remote Assist to engage remote collaborators through annotations.
 - **Bring critical information into view**: Remote collaborators can offer precise guidance for different parts, including hard-to-reach parts. Use drawings and arrows to refer to specific parts of a machine or asset.
