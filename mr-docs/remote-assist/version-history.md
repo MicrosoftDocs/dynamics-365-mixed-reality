@@ -14,7 +14,7 @@ ms.reviewer: v-wendysmith
 
 This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the **most recent wave of features**, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
-## 2024 Release Wave 1
+## 2024 Release Wave 2
 
 ## August 13, 2024
 
