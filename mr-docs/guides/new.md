@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Guides
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 author: prashantyvr
 ms.author: prashan
-ms.date: 01/23/2025
+ms.date: 06/09/2025
 ms.topic: whats-new
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -15,27 +15,19 @@ ms.custom: bap-template
 
 # What's new in Dynamics 365 Guides
 
-This page provides details about the latest release in the **current release wave (October 2024 through March 2025)** for Microsoft Dynamics 365 Guides, organized by release date. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
+This page provides details about the latest release in the **current release wave (April 2025 through September 2025)** for Microsoft Dynamics 365 Guides, organized by release date. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
-<!--- took out  To see a comprehensive list of released and upcoming features, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>.>
-
-If you have feature requests or suggested improvements, send them to the Dynamics 365 Guides team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
-
---->
-
-## January 23, 2025
+## June 10, 2025
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 906.2501.11001.0 |
-|HoloLens app | 906.2501.11001.0 |
+|PC app| 907.2505.29001.0 |
+|HoloLens app | 907.2505.29001.0 |
 |Solution| 900.4.0.1* |
 
-### Bugs fixed
+### Improvements
 
-- Fixed an issue where guide content would stop loading after using Mixed reality capture (MRC).
-
-- Other bug fixes and stabilization changes.
+- Migrated to a new authentication endpoint required for Teams capabilities
 
 > [!NOTE]
 > *This release requires an update to the PC and HoloLens applications only, but not the solution. The solution version 900.4.0.1 is compatible with the latest client applications.
