@@ -19,6 +19,8 @@ Spatial annotations can greatly enhance your communication and collaboration, es
 - **Solve problems in real time**: Technicians can share their real-time view with experts in remote locations to get the help they need, reducing travel time and cost.
 - **Knowledge sharing and training**: Use annotations, photos, and videos to capture and share with the rest of your organization.
 
+  :::image type="content" source="./media/teams-mobile-annotation-example.png" alt-text="Screenshot of a mobile phone showing an example of spatial annotations":::
+
 ## Prerequisites
 
 [!INCLUDE [annotations-teams-mobile-prereq-include](../includes/annotations-teams-mobile-prereq.md)]

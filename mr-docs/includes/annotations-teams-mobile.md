@@ -2,13 +2,17 @@ Use the **Spatial Annotations** toolbar in Teams to add spatial annotations. The
 
 1. While in a mobile call, select **Spatial Annotations**.
 
-   :::image type="content" source="../guides/media/teams-mobile-spatial-annotations.png" alt-text="Screenshot of Teams on a mobile phone showing the Spatial Annotations selection":::
+   :::image type="content" source="../guides/media/spatial-annotations-menu.jpg" alt-text="Screenshot of Teams on a mobile phone showing the Spatial Annotations selection.":::
 
-1. Start presenting. The toolbar displays for all users on the call.
+1. Start presenting.
 
-   :::image type="content" source="../guides/media/calling-annotations-spatial-annotation-toolbar.png" alt-text="Screenshot of the Teams Spatial Annotations toolbar":::
+   :::image type="content" source="../guides/media/spatial-annotations-present.jpg" alt-text="Screenshot of Teams on a mobile phone showing the Start presenting selection.":::
 
-1. Use the **Spatial Annotations** toolbar to place arrows or draw in your space for other callers to see or annotate in another user's space.
+   The **Spatial Annotations** toolbar displays for all users on the call.
+
+   :::image type="content" source="../guides/media/calling-annotations-spatial-annotation-toolbar.png" alt-text="Screenshot of the Teams Spatial Annotations toolbar.":::
+
+1. Use the toolbar to place arrows or draw in your space for other callers to see or annotate in another user's space.
 
    |Button|Description|
    |---------|----------------------------------------------------|
@@ -20,5 +24,7 @@ Use the **Spatial Annotations** toolbar in Teams to add spatial annotations. The
 
    > [!NOTE]
    > Each call participant can only undo and delete their own annotations.
+
+   :::image type="content" source="../guides/media/spatial-annotations-annotations.jpg" alt-text="Screenshot of spatial annotations in Teams mobile.":::
 
 1. When you're done annotating, close the toolbar. All annotations persist even after you stop editing.
