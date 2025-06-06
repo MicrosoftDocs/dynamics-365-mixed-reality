@@ -8,7 +8,7 @@ Use the **Spatial Annotations** toolbar in Teams. For others to view the toolbar
 
    :::image type="content" source="../guides/media/calling-annotations-spatial-annotation-toolbar.png" alt-text="Screenshot of the Teams Spatial Annotations toolbar.":::
 
-1. Use the toolbar to place arrows or draw in your space for other callers to see or annotate in another user's space.
+1. Use the toolbar to place 3D arrows or draw in your space for other callers to see or annotate in another user's space.
 
    |Button|Description|
    |---------|----------------------------------------------------|
