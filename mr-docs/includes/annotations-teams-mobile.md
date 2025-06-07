@@ -1,12 +1,14 @@
-You can use spatial annotations in Microsoft Teams calls as long as one person has a Dynamics 365 Field Service, Guides, or Remote Assist license. Microsoft Teams desktop users can use spatial annotations in a mobile user's space. Use the **Spatial Annotations** toolbar in Teams to add spatial annotations.
+Use the **Spatial Annotations** toolbar in Teams. For others to view the toolbar, a mobile user must select **Spatial Annotations** from the menu and start presenting. After presenting starts, everyone else on the call can view the toolbar.
 
 1. While in a mobile call, select **Spatial Annotations**.
 
-   :::image type="content" source="../guides/media/teams-mobile-spatial-annotations.png" alt-text="Screenshot of Teams on a mobile phone showing the Spatial Annotations selection":::
+   :::image type="content" source="../guides/media/spatial-annotations-menu.jpg" alt-text="Screenshot of Teams on a mobile phone showing the Spatial Annotations selection.":::
 
-1. Use the **Spatial Annotations** toolbar to place arrows or draw in your space for other callers to see or annotate in another user's space.
+1. Start presenting. The **Spatial Annotations** toolbar displays for all users on the call.
 
-   :::image type="content" source="../guides/media/calling-annotations-spatial-annotation-toolbar.png" alt-text="Screenshot of the Teams Spatial Annotations toolbar":::
+   :::image type="content" source="../guides/media/calling-annotations-spatial-annotation-toolbar.png" alt-text="Screenshot of the Teams Spatial Annotations toolbar.":::
+
+1. Use the toolbar to place 3D arrows or draw in your space for other callers to see or annotate in another user's space.
 
    |Button|Description|
    |---------|----------------------------------------------------|
