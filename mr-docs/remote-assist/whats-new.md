@@ -21,6 +21,9 @@ This article describes details about the **current release wave (April 2025 thro
 |HoloLens 2 app | 316.2505.28001 |
 |Remote Assist model-driven app | 1.0.0.666|
 
+> [!IMPORTANT]
+> This release is required to continue using Remote Assist and Teams capabilities. Otherwise, failures in sign in and/or calling capabilities might occur after June 30th.
+
 ### Improvements
 
 - Migrated to a new authentication endpoint required for Teams capabilities

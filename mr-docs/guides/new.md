@@ -25,6 +25,9 @@ This page provides details about the latest release in the **current release wav
 |HoloLens app | 907.2505.29001.0 |
 |Solution| 900.4.0.1* |
 
+> [!IMPORTANT]
+> This release is required to continue using Teams capabilities. Otherwise, failures in sign in and/or calling capabilities might occur after June 30th. If your organization doesn't use Teams, the update isn't required but recommended.
+
 ### Improvements
 
 - Migrated to a new authentication endpoint required for Teams capabilities
