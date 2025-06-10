@@ -22,7 +22,7 @@ This article describes details about the **current release wave (April 2025 thro
 |Remote Assist model-driven app | 1.0.0.666|
 
 > [!IMPORTANT]
-> This release is required to continue using Remote Assist and Teams capabilities. Otherwise, failures in sign in and/or calling capabilities might occur after June 30th.
+> This release is required to continue using Remote Assist and Microsoft Teams capabilities. Otherwise, failures in sign-in and/or calling capabilities might occur after June 30, 2025.
 
 ### Improvements
 
