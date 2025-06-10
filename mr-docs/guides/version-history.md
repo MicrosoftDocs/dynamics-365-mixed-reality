@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Describes older features for Dynamics 365 Guides, organized by release date
 ms.author: prashan
-ms.date: 01/23/2025
+ms.date: 06/09/2025
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -11,6 +11,25 @@ ms.reviewer: v-wendysmith
 # Version history for Dynamics 365 Guides
 
 This article provides a version history for Microsoft Dynamics 365 Guides features for all waves. For the latest release, see [What's new in Dynamics 365 Guides](new.md). To see a comprehensive list of released and upcoming features for all waves, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+
+## 2024 Release Wave 2
+
+## January 23, 2025
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 906.2501.11001.0 |
+|HoloLens app | 906.2501.11001.0 |
+|Solution| 900.4.0.1* |
+
+### Bugs fixed
+
+- Fixed an issue where guide content would stop loading after using Mixed reality capture (MRC).
+
+- Other bug fixes and stabilization changes.
+
+> [!NOTE]
+> *This release requires an update to the PC and HoloLens applications only, but not the solution. The solution version 900.4.0.1 is compatible with the latest client applications.
 
 ## 2024 Release Wave 1
 
