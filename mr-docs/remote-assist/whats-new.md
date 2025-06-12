@@ -20,10 +20,9 @@ This article describes details about the **current release wave (April 2025 thro
 |----|-------|
 |Remote Assist model-driven app | 1.0.0.865|
 
-This version removes the deprecated one-time calling feature. Go to [Enable a one-time call to use spatial annotations](teams-mobile-annotate.md#enable-a-one-time-call-to-use-spatial-annotations).
+This release supports [one-time calling to use spatial annotations](teams-mobile-annotate.md#enable-a-one-time-call-to-use-spatial-annotations) in Teams.
 
 Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
-
 
 ## June 10, 2025
 
