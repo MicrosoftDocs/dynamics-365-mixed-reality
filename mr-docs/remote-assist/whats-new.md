@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 description: Overview of what's new in Dynamics 365 Remote Assist
 author: prashantyvr
 ms.author: prashan
-ms.date: 06/09/2025
+ms.date: 06/12/2025
 ms.topic: whats-new
 ms.reviewer: v-wendysmith
 ---
@@ -13,6 +13,17 @@ ms.reviewer: v-wendysmith
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 This article describes details about the **current release wave (April 2025 through September 2025)** for Dynamics 365 Remote Assist, organized by release date. You can see a complete list of [features organized by previous waves](version-history.md).
+
+## June 12, 2025
+
+|Item|Version|
+|----|-------|
+|Remote Assist model-driven app | 1.0.0.865|
+
+This version removes the deprecated one-time calling feature. Go to [Enable a one-time call to use spatial annotations](teams-mobile-annotate.md#enable-a-one-time-call-to-use-spatial-annotations).
+
+Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
+
 
 ## June 10, 2025
 
