@@ -25,7 +25,7 @@ This release supports [one-time calling to use spatial annotations](teams-mobile
 Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
 
 > [!IMPORTANT]
-> This release is required to continue using Remote Assist and Microsoft Teams capabilities.
+> This release is required to continue using Remote Assist and Microsoft Teams capabilities. Otherwise, failures in sign-in and/or calling capabilities might occur after June 30, 2025.
 
 ## June 10, 2025
 
