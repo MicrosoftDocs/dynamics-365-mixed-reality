@@ -6,6 +6,7 @@ ms.date: 03/15/2024
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data
 ms.reviewer: v-wendysmith
+ms.custom: sfi-image-nochange
 ---
 
 # Overview of analyzing and integrating Dynamics 365 Guides usage data

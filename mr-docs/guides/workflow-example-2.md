@@ -6,7 +6,9 @@ ms.date: 06/23/2023
 ms.topic: how-to
 title: Workflow example 2--Create a Dynamics 365 Guides 3D object collection and add objects to the collection
 ms.reviewer: v-wendysmith
-ms.custom: bap-template
+ms.custom:
+  - bap-template
+  - sfi-image-nochange
 ---
 
 # Workflow example 2: Create a Dynamics 365 Guides 3D object collection and add objects to the collection

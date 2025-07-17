@@ -6,6 +6,7 @@ ms.date: 04/18/2024
 ms.topic: how-to
 title: Show a list of guides on a custom tab for a specific set of Dynamics 365 Guides users
 ms.reviewer: v-wendysmith
+ms.custom: sfi-image-nochange
 ---
 
 # Show a list of guides on a custom tab for a specific set of Dynamics 365 Guides users
