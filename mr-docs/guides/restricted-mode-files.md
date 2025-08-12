@@ -6,7 +6,9 @@ ms.author: prashan
 ms.date: 02/14/2022
 ms.topic: how-to
 ms.reviewer: v-wendysmith
-ms.custom: bap-template
+ms.custom:
+  - bap-template
+  - sfi-image-nochange
 ---
 
 # Restrict the ability to access OneDrive files in Dynamics 365 Guides

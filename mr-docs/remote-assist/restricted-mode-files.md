@@ -6,6 +6,7 @@ ms.author: prashan
 ms.date: 06/07/2024
 ms.topic: how-to
 ms.reviewer: v-wendysmith
+ms.custom: sfi-image-nochange
 ---
 
 # Restrict the ability to access OneDrive files in Dynamics 365 Remote Assist

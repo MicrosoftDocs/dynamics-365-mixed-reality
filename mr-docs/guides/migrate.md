@@ -6,6 +6,7 @@ ms.date: 10/04/2023
 ms.topic: how-to
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse environment to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-wendysmith
+ms.custom: sfi-image-nochange
 ---
 
 # Migrate Dynamics 365 Guides content from one Microsoft Dataverse environment to another using the Content Migration Tool (Public Preview)
