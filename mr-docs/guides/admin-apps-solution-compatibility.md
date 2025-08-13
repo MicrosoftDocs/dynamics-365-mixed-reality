@@ -6,6 +6,7 @@ ms.author: prashan
 ms.date: 01/23/2025
 ms.topic: article
 ms.reviewer: v-wendysmith
+ms.custom: sfi-image-nochange
 ---
 
 # Compatibility between Dynamics 365 Guides solutions and apps (PC and HoloLens)

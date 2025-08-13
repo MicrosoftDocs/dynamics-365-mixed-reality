@@ -6,6 +6,7 @@ ms.author: prashan
 ms.date: 03/24/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
+ms.custom: sfi-image-nochange
 ---
 
 # Make or take calls in Dynamics 365 Remote Assist on HoloLens

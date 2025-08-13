@@ -6,6 +6,7 @@ ms.date: 02/14/2024
 ms.topic: article
 title: Workflow example 1--Automatically generate deep links for the Dynamics 365 Guides PC and HoloLens apps
 ms.reviewer: v-wendysmith
+ms.custom: sfi-image-nochange
 ---
 
 # Workflow example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel Link Manager

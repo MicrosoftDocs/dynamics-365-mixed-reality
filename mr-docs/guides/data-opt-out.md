@@ -6,7 +6,9 @@ ms.date: 02/20/2024
 ms.topic: how-to
 title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 ms.reviewer: v-wendysmith
-ms.custom: bap-template
+ms.custom:
+  - bap-template
+  - sfi-image-nochange
 ---
 
 # Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
