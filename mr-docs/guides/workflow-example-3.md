@@ -6,6 +6,7 @@ ms.date: 11/08/2021
 ms.topic: article
 title: Workflow example 3--Collect response data for a nonlinear guide created in Dynamics 365 Guides
 ms.reviewer: v-brycho
+ms.custom: sfi-image-nochange
 ---
 
 # Workflow example 3: Collect response data for a nonlinear guide created in Dynamics 365 Guides

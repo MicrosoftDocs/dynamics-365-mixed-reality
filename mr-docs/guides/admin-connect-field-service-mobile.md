@@ -6,7 +6,9 @@ author: m-hartmann
 ms.date: 08/07/2023
 ms.topic: how-to
 ms.reviewer: v-wendysmith
-ms.custom: bap-template
+ms.custom:
+  - bap-template
+  - sfi-image-nochange
 ---
 
 # Set up embedded Guides in the Field Service mobile app (preview)
