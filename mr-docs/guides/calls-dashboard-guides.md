@@ -3,13 +3,16 @@ title: Monitor key metrics with the Guides Calls Dashboard
 author: prashantyvr
 description: Learn how to monitor key metrics with the Dynamics 365 Guides Calls Dashboard
 ms.author: prashan
-ms.date: 08/02/2023
+ms.date: 08/12/2025
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Monitor key metrics with the Guides Calls Dashboard
+
+> [!IMPORTANT]
+> The Calls Dashboard feature is deprecated as of May 25, 2025. Learn more in [Feature Deprecations](/dynamics365/field-service/deprecations-field-service).
 
 The Dynamics 365 Guides Calls Dashboard is a web-based tool that lets you monitor and analyze the calls made with Guides and Remote Assist. You can monitor key operational metrics, identify operational efficiencies, and gain insights into how your workers are using Guides to collaborate.
 
