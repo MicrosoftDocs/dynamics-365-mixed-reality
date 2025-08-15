@@ -39,7 +39,7 @@ An operator can access the QR code in two different ways:
 
     - [https://www.qr-code-generator.com/](https://www.qr-code-generator.com/)
 
-    - [https://www.the-qrcode-generator.com/](https://www.the-qrcode-generator.com/)
+    - [https://www.izoukhai.com/products/qrcode](https://www.izoukhai.com/products/qrcode)
 
    > [!NOTE]
    > - Your use of third-party QR code generators is subject to the third party’s terms and privacy policy. Please consult with your legal professionals before using. Microsoft doesn't endorse any particular third-party QR code generator and assumes no responsibility or liability for any third-party application you elect to use.
