@@ -8,7 +8,7 @@ Use the **Spatial Annotations** toolbar in Teams. For others to view the toolbar
 
    :::image type="content" source="../guides/media/calling-annotations-spatial-annotation-toolbar.png" alt-text="Screenshot of the Teams Spatial Annotations toolbar.":::
 
-1. Use the toolbar to place 3D arrows or draw in your space for other callers to see or annotate in another user's space.
+1. Use the toolbar to place 3D arrows or draw in your space for other callers to see or annotate in another user's space. Each call participant can only undo and delete their own annotations.
 
    |Button|Description|
    |---------|----------------------------------------------------|
@@ -19,6 +19,8 @@ Use the **Spatial Annotations** toolbar in Teams. For others to view the toolbar
    |:::image type="icon" source="../guides/media/calling-annotations-teams-erase-all-button.png":::|To delete all annotations that you added, select this button, and then select **Delete Annotations**. This action doesn't clear annotations made by other users.|
 
    > [!NOTE]
-   > Each call participant can only undo and delete their own annotations.
+   > If a participant joins a group call or meeting after spatial annotations have begun and can't annotate on the presenter's 3D space, the presenter can minimize and maximize their Teams mobile app to restore the edit annotation functionality.
+   >
+   > Alternatively, the presenter can stop and restart presenting spatial annotations. However, this action removes any annotations previously added to their 3D space.
 
 1. When you're done annotating, close the toolbar. All annotations persist even after you stop editing.
