@@ -1,9 +1,9 @@
 ---
 title: What's new in Dynamics 365 Remote Assist
 description: Overview of what's new in Dynamics 365 Remote Assist
-author: prashantyvr
-ms.author: prashan
-ms.date: 06/12/2025
+author: lmasieri
+ms.author: lmasieri
+ms.date: 09/17/2025
 ms.topic: whats-new
 ms.reviewer: v-wendysmith
 ---
@@ -19,8 +19,6 @@ This article describes details about the **current release wave (April 2025 thro
 |Item|Version|
 |----|-------|
 |Remote Assist model-driven app | 1.0.0.865|
-
-This release supports [one-time calling to use spatial annotations](teams-mobile-annotate.md#enable-a-one-time-call-to-use-spatial-annotations) in Teams.
 
 Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
 
