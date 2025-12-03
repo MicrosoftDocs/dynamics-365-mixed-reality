@@ -1,9 +1,9 @@
 ---
 title: Version history for Microsoft Dynamics 365 Remote Assist
-author: prashantyvr
 description: Find version history for earlier versions of Microsoft Dynamics Remote Assist, including a list of fixed bugs for each version.
-ms.author: prashan
-ms.date: 01/23/2025
+author: lmasieri
+ms.author: lmasieri
+ms.date: 12/01/2025
 ms.topic: release-notes
 ms.reviewer: v-wendysmith
 ---
@@ -14,7 +14,61 @@ ms.reviewer: v-wendysmith
 
 This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the **most recent wave of features**, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
+## 2025 Release Wave 1
+
+## June 12, 2025
+
+|Item|Version|
+|----|-------|
+|Remote Assist model-driven app | 1.0.0.865|
+
+This release supports [one-time calling to use spatial annotations](teams-mobile-annotate.md#enable-a-one-time-call-to-use-spatial-annotations) in Teams.
+
+Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
+
+> [!IMPORTANT]
+> This release is required to continue using Remote Assist and Microsoft Teams capabilities. Otherwise, failures in sign-in and/or calling capabilities might occur after June 30, 2025.
+
+## June 10, 2025
+
+|Item|Version|
+|----|-------|
+|HoloLens 2 app | 316.2505.28001 |
+|Remote Assist model-driven app | 1.0.0.666|
+
+> [!IMPORTANT]
+> This release is required to continue using Remote Assist and Microsoft Teams capabilities. Otherwise, failures in sign-in and/or calling capabilities might occur after June 30, 2025.
+
+### Improvements
+
+- Migrated to a new authentication endpoint required for Teams capabilities
+
+## May 5, 2025
+
+|Item|Version|
+|----|-------|
+|HoloLens 2 app | 315.2412.11003.0 |
+|Remote Assist model-driven app | 1.0.0.666|
+
+### Improvements
+
+- You can [collaborate using spatial annotations with an external user](teams-mobile-annotate.md#enable-a-one-time-call-to-use-spatial-annotations) who isn't a part of your organization provided one user has a Dynamics 365 Field Service, Guides, or Remote Assist license.
+- Added [best practices for using spatial annotations](teams-mobile-annotate.md#best-practices).
+
 ## 2024 Release Wave 2
+
+## January 23, 2025
+
+|Item|Version|
+|----|-------|
+|HoloLens 2 app | 315.2412.11003.0 |
+|Remote Assist model-driven app | 1.0.0.666|
+
+### Bugs fixed and other improvements
+
+- Fixed an issue in Government Community Cloud High (GCC) where Remote Assist HoloLens users couldn't make outgoing calls.
+
+- Bug fixes and stabilization changes.
 
 ## August 13, 2024
 
