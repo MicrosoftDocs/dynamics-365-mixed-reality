@@ -12,7 +12,7 @@ ms.custom: bap-template
 
 # Buy a Dynamics 365 Remote Assist subscription
 
-[!INCLUDE [fs-guides-ra-license](../includes/fs-guides-ra-license.md)]
+[!INCLUDE[remote-assist-guides-deprecate](../includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
