@@ -1,7 +1,7 @@
 ---
 title: User control and access strategy
 description: Learn about restricting access and user control.
-ms.date: 03/23/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # User control and access strategy
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When you implement Dynamics 365 Guides, we recommend that your organization considers how it will control users and their access. The business unit, [owner teams](/power-apps/developer/data-platform/use-access-teams-owner-teams-collaborate-share-information), and security roles that are assigned to a user affect what that user can access and do in Guides on a PC and a HoloLens device.
 

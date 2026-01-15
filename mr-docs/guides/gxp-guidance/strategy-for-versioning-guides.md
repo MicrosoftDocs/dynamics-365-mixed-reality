@@ -1,7 +1,7 @@
 ---
 title: Versioning guides strategy
 description: Learn about setting up a strategy for versioning guides in a regulated industry.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: concept-article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Versioning guides strategy
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 To manage changes that are made to guides, use a versioning strategy. We recommend that your organization distinguishes two types of versions: major and minor.
 

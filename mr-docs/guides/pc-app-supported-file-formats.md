@@ -2,7 +2,7 @@
 author: prashantyvr
 ms.author: prashan
 description: Learn about supported file formats for 3D objects, images, and videos in Microsoft Dynamics 365 Guides.
-ms.date: 02/22/2024
+ms.date: 01/15/2026
 ms.topic: article
 title: Supported file formats and limits for 3D objects, images, and videos
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Supported file formats and limits for 3D objects, images, and videos
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 In Microsoft Dynamics 365 Guides, you can use the PC app to add 3D objects, images, and videos to help operators with steps.
 

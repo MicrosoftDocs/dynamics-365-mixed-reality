@@ -3,12 +3,14 @@ title: Restrict access to assets
 description: Learn how to restrict access to specific assets Microsoft Dynamics 365 Guides.
 author:  prashantyvr
 ms.topic: how-to
-ms.date: 07/24/2023
+ms.date: 01/15/2026
 ms.author: prashan
 ms.reviewer: v-wendysmith
 ---
 
 # Restrict access to assets
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 To restrict access to certain assets (3D parts, images, videos, and object anchors) create a [new security role](/power-platform/admin/create-edit-security-role) in the Power Platform admin center.
 

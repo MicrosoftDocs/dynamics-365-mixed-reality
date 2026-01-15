@@ -1,7 +1,7 @@
 ---
 title: Electronic records and electronic signatures
 description: Learn about the use of electronic records and signatures when you implement Dynamics 365 Guides in a regulated industry.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Electronic records and electronic signatures
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When you implement Dynamics 365 Guides in a regulated company, electronic records and electronic signatures are required (to a greater or lesser extent) to ensure traceability and compliance with regulatory requirements.
 

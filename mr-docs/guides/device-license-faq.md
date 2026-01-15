@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Dynamics 365 Guides license FAQ.
 ms.author: prashan
-ms.date: 03/08/2023
+ms.date: 01/15/2026
 ms.topic: faq
 title: Licensing FAQ
 ms.reviewer: v-wendysmith
 ---
 
 # Licensing FAQ
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 - If you receive a sign-in error, confirm the shared account has been assigned the device license, and has been assigned the **Basic User** role and the **Operator** or **Restricted Operator** role.
 

@@ -2,7 +2,7 @@
 author: RobertButterworthMS
 description: Learn how to use a style to add emphasis (caution, outline, or obscure) to a hologram in the Dynamics 365 Guides HoloLens app.
 ms.author: robutter
-ms.date: 04/28/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Use a style to add emphasis to a hologram in the Guides HoloLens app
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Use a style to add emphasis to a hologram in the Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 By adding styles in the Dynamics 365 Guides HoloLens app, you provide visual cues for your holograms. For example, add the **Caution** style to indicate caution or the **Outline** style to indicate something that the operator should pick up. As your operators get used to the visual language that styles provide, their learning process speeds up.
 

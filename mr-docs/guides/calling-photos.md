@@ -3,13 +3,15 @@ title: Capture and share photos in Dynamics 365 Guides on HoloLens
 author: prashantyvr
 description: Learn how to take photos and share them between Dynamics 365 Guides users and Teams users
 ms.author: prashan
-ms.date: 11/30/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Capture and share photos in Dynamics 365 Guides on HoloLens
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Dynamics 365 Guides HoloLens users can take photos at any time. They can also share photos through chat during a call or meeting.
 

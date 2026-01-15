@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
 ms.author: prashan
-ms.date: 03/15/2024
+ms.date: 01/15/2026
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: sfi-image-nochange
 ---
 
 # Overview of analyzing and integrating Dynamics 365 Guides usage data
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When operators use the Microsoft Dynamics 365 Guides HoloLens app, data about the app and guide usage is automatically stored in your private and secure Dynamics 365 environment. This data can be analyzed in either of the following ways:
 

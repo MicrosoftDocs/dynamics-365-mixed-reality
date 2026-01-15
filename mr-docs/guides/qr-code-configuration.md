@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn about the different parts of the QR code anchor provided with Dynamics 365 Guides
 ms.author: prashan
-ms.date: 09/15/2022
+ms.date: 01/15/2026
 ms.topic: article
 title: Guides QR code anchor configuration
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Guides QR code anchor configuration
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 The following illustration shows the different parts of the QR code anchor provided with Dynamics 365 Guides:
 

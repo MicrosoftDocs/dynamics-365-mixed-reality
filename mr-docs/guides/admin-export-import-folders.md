@@ -2,7 +2,7 @@
 author: melissahellmund
 description: Learn how to export and import Dynamics 365 Guides folders between environments.
 ms.author: mehellmu
-ms.date: 04/24/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Export and import Dynamics 365 Guides folders between environments
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Export and import Dynamics 365 Guides folders between environments
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can export the folders you created in Microsoft Dynamics 365 Guides and import them into another environment to recreate your file structure. The guides, 3D content, and media associated with these folders aren't included in this process. However, you can use the [Content Migration Tool](migrate.md) to migrate this content after you import your folders.  
 

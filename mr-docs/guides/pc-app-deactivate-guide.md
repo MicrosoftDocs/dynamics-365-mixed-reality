@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to deactivate a guide or guide content (Microsoft Dynamics 365 Guides authors).
 ms.author: prashan
-ms.date: 06/29/2021
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Deactivate a guide in Dynamics 365 Guides (authors)
 ms.reviewer: v-brycho
 ---
 
 # Deactivate a guide or specific guide content (image, video, or 3D part) if you're a Dynamics 365 Guides author
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you're an author for Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can deactivate a guide if it's out of date or you want to prevent operators from accessing it. You can also deactivate specific guide content (image, video, or 3D part). 
 

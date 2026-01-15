@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: How to optimize your 3D (CAD) objects to use with Dynamics 365 Guides and Microsoft Power Apps.
 ms.author: robutter
-ms.date: 04/02/2024
+ms.date: 01/15/2026
 ms.topic: article
 title: Optimize your 3D objects to use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-wendysmith
 ---
 
 # Optimize your 3D objects to use with Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 For best rendering and best possible real-time performance, your 3D objects need to be converted and might need to be optimized before using with Dynamics 365 Guides or in an app created with Power Apps that includes mixed-reality components. Third-party applications that convert CAD files often have tools that can optimize content as well. 
 

@@ -3,12 +3,14 @@ title: Version history for Microsoft Dynamics 365 Remote Assist
 description: Find version history for earlier versions of Microsoft Dynamics Remote Assist, including a list of fixed bugs for each version.
 author: lmasieri
 ms.author: lmasieri
-ms.date: 12/01/2025
+ms.date: 01/15/2026
 ms.topic: release-notes
 ms.reviewer: v-wendysmith
 ---
 
 # Version history for Dynamics 365 Remote Assist
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 

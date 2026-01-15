@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to add a dotted line in the Dynamics 365 Guides HoloLens app to link a Step card to show an operator where to focus
 ms.author: prashan
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Add a dotted line in the Dynamics 365 Guides HoloLens app to link a Step card to a focus area
 ms.reviewer: v-wendysmith
 ---
 
 # Add a dotted line in the Dynamics 365 Guides HoloLens app to link a Step card to a focus area 
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can add a dotted line in the Microsoft Dynamics 365 Guides HoloLens app to link a Step card to the area where the work is done. Dotted lines are a very simple but powerful 
 feature; they show operators where to focus.

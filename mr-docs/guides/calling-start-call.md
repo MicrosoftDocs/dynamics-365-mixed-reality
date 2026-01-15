@@ -3,13 +3,15 @@ title: Make or receive a call in Dynamics 365 Guides
 author: prashantyvr
 description: Learn how to make or receive a call with a remote collaborator from Dynamics 365 Guides on HoloLens
 ms.author: prashan
-ms.date: 03/25/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Make or receive a call in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When you're working in Dynamics 365 Guides on HoloLens, you can make or receive calls on your HoloLens. Your admin must have the [**Enable Calling** setting enabled](admin-enable-calls.md) to make or receive calls.
 

@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn about the keyboard shortcuts for the Dynamics 365 Guides PC app.
 ms.author: prashan
-ms.date: 03/21/2024
+ms.date: 01/15/2026
 ms.topic: article
 title: Keyboard shortcuts for the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Keyboard shortcuts for the Dynamics 365 Guides PC app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can use any of the following keyboard shortcuts in the Microsoft Dynamics 365 Guides PC app.
 

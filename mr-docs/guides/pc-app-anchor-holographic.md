@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a holographic anchor
 ms.author: prashan
-ms.date: 09/15/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Anchor your guide in Dynamics 365 Guides by using a holographic anchor
 ms.reviewer: mhart
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Anchor your guide in Dynamics 365 Guides by using a holographic anchor
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Use a holographic anchor to anchor your guide to the real world in Guides. Review [best practices for holographic anchors.](pc-app-anchor-holographic-best-practices.md)
 

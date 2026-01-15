@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn about Microsoft Dynamics 365 Guides tables (entities) that you can use to extend Dynamics 365.
 ms.author: prashan
-ms.date: 04/05/2022
+ms.date: 01/15/2026
 ms.topic: reference
 title: Dataverse table (entity) reference for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
 # Microsoft Dataverse table (entity) reference for Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When a guide is created with the Microsoft Dynamics 365 Guides PC app, content and information in that guide are stored by using the 
 Dynamics 365 Guides [tables](/powerapps/maker/common-data-service/entity-overview) from [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro) that are listed later in this topic.

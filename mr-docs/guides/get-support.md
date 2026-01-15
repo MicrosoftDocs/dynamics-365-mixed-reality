@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to contact Microsoft Support
 ms.author: prashan
-ms.date: 05/22/2025
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Contact Support
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Contact Support
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Create a support request to get help from a Microsoft representative if you encounter an issue with Dynamics 365 Guides.
 

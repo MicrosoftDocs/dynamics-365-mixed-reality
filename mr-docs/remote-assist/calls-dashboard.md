@@ -3,12 +3,14 @@ title: Learn more about the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 description: Overview, enablement, and feature details for the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 author:  BogdanBerg
 ms.author: bogdanb
-ms.date: 08/12/2025
+ms.date: 01/15/2026
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Remote Assist Calls Dashboard
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 > [!IMPORTANT]
 > The Calls Dashboard feature is deprecated as of May 25, 2025. Learn more in [Feature Deprecations](/dynamics365/field-service/deprecations-field-service).

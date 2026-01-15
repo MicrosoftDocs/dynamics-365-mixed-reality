@@ -1,7 +1,7 @@
 ---
 title: Govern guides through Microsoft Power Platform environments and Power Apps
 description: Learn about using Microsoft Power Platform or Power Apps to separate guides according to their life cycle stage.
-ms.date: 03/20/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Govern guides through Microsoft Power Platform environments and Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Organizations must be in control of their data, and they must control who has access to what, and when. To govern guides, we recommend that regulated industry companies separate them according to their life cycle stage. For example, is a specific guide under development, or is it approved for everyday use? Depending on the life cycle stage of a guide, specific roles in your organization either should be allowed to access and edit the guide and its content, or should be restricted from accessing the guide at all.
 

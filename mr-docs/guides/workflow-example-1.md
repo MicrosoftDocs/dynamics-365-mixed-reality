@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to use Microsoft Power Automate to automatically generate deep links for the Dynamics 365 Guides PC and HoloLens apps
 ms.author: prashan
-ms.date: 02/14/2024
+ms.date: 01/15/2026
 ms.topic: article
 title: Workflow example 1--Automatically generate deep links for the Dynamics 365 Guides PC and HoloLens apps
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: sfi-image-nochange
 ---
 
 # Workflow example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel Link Manager
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This example shows how to create a Link Manager in Microsoft Excel to keep track of your guides and launch them quickly using a PC app deep link or a HoloLens QR code deep link. The same workflow could be used to add a link to a guide in an approval flow, embed QR codes with links to guides in a work order, or in a learning management system.
 

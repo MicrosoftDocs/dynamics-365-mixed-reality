@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Guides model-driven app overview
 ms.author: prashan
-ms.date: 02/22/2024
+ms.date: 01/15/2026
 ms.topic: overview
 title: Guides model-driven app overview
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Guides model-driven app overview
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When you create a guide in the PC authoring app, the content is stored in Microsoft Dataverse. The Guides model-driven app enables you to access and view guide content quickly from Microsoft Dataverse.
 

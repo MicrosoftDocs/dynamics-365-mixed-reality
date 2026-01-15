@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to add a website, email, guide, custom app, or Power Apps link to a step in Microsoft Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 03/11/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Add a website, email, guide, or app link to a step
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Add a website, email, guide, or app link to a step
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Create a seamless workflow for operators by adding a website, email, guide, custom app, or Power Apps link to a **Step** card or a custom **Completion** step card in Dynamics 365 Guides. If you configure an action link with a Uniform Resource Identifier (URI) scheme, the HoloLens opens the corresponding app or page when an operator activates the link.
 

@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to integrate Dynamics 365 Supply Chain Management with Dynamics 365 Guides for production processes and asset management.
 ms.author: prashan
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: integration
 title: Integrate Dynamics 365 Supply Chain Management with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
 # Integrate Dynamics 365 Supply Chain Management with Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can integrate Microsoft Dynamics 365 Supply Chain Management with Dynamics 365 Guides in two ways:
 

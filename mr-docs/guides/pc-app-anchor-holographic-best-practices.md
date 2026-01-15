@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn best practices for using holograms to anchor a guide in Dynamics 365 Guides
 ms.author: alwinv
-ms.date: 09/14/2023
+ms.date: 01/15/2026
 ms.topic: best-practice
 title: Best practices for holographic anchors
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Best practices for holographic anchors
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Keep the following points in mind when you work with holographic anchors:
 

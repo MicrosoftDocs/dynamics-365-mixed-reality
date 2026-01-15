@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Describes older features for Dynamics 365 Guides, organized by release date
 ms.author: prashan
-ms.date: 06/09/2025
+ms.date: 01/15/2026
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---
 
 # Version history for Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This article provides a version history for Microsoft Dynamics 365 Guides features for all waves. For the latest release, see [What's new in Dynamics 365 Guides](new.md). To see a comprehensive list of released and upcoming features for all waves, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 

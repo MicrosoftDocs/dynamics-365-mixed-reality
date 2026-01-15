@@ -1,7 +1,7 @@
 ---
 title: Maintenance of the qualified and validated status
 description: Learn about maintaining the infrastructure and apps that have been qualified and validated.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Maintenance of the qualified and validated status
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 After you've [qualified the infrastructure (Microsoft Power Platform)](purpose-of-validation-and-traceability.md#platform-qualification) and [validated the applications (Dynamics 365 Guides and Power Apps)](purpose-of-validation-and-traceability.md#application-validations), it's important to ensure that they are kept under control. The computer systems and infrastructure are dynamic in nature. Procedures must be in place to maintain the qualified/validated status when, for example, there are new system versions and infrastructure upgrades. These changes can directly or indirectly affect product quality, patient safety, data integrity, internal policies, regulatory compliance, or business.
 

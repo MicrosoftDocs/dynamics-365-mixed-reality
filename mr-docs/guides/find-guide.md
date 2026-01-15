@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to find a guide with the HoloLens app in Microsoft Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 10/09/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Find and open a guide in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Find and open a guide in the Dynamics 365 Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You use the [Main menu](main-menu.md) to find and open a guide in the Microsoft Dynamics 365 Guides HoloLens app.
 

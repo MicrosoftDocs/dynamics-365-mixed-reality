@@ -1,7 +1,7 @@
 ---
 title: Asset governance
 description: Learn what you should consider for governance of assets that are used in guides in a regulated industry.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Asset governance
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When you author guides, you use a range of assets, in addition to text, to create intuitive and effective instructions. The assets fall into three categories:
 

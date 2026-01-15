@@ -2,13 +2,15 @@
 title: Update a Dynamics 365 Field Service booking in Dynamics 365 Remote Assist on HoloLens
 author: prashantyvr
 description: View and update Dynamics 365 Field Service booking details from Dynamics 365 Remote Assist on HoloLens.
-ms.date: 06/07/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.author: prashan
 ---
 
 # Update a Dynamics 365 Field Service booking in Dynamics 365 Remote Assist on HoloLens
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 

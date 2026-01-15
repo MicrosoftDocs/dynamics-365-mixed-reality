@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Add user accounts to a Microsoft Dynamics 365 Guides license.
 ms.author: prashan
-ms.date: 01/11/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Assign licenses to individual users
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Assign licenses to individual users
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 

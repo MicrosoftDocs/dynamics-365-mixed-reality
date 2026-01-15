@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to work with the Step card as an operator in Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 04/05/2023
+ms.date: 01/15/2026
 ms.topic: overview
 title: Get oriented with the Step card as an operator in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Get oriented with the Step card as an operator in Dynamics 365 guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide](https://aka.ms/guidesoperate)
 
