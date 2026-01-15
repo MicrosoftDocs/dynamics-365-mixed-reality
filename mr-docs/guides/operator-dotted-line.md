@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to use the dotted line in the Dynamics 365 Guides HoloLens app to find the focus area for a step
 ms.author: prashan
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Use a dotted line in the Dynamics 365 Guides HoloLens app to find the focus area for a step
 ms.reviewer: v-brycho
 ---
 
 # Use a dotted line in the Dynamics 365 Guides HoloLens app to help you find the focus area for a step
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Step cards in Microsoft Dynamics 365 Guides are linked by holographic dotted lines to physical areas in your work area. These dotted lines help you find the area where you need to take action.
 

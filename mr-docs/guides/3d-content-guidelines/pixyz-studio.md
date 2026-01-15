@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: Describes, in tutorial format, how to use Pixyz Studio to prepare 3D objects for use in Microsoft Dynamics 365 Guides or Power Apps
 ms.author: robutter
-ms.date: 02/25/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Use Pixyz Studio to prepare 3D objects for use in Dynamics 365 Guides or in mixed-reality components used in apps created with Power Apps
 ms.reviewer: v-wendysmith
 ---
 
 # Use Pixyz Studio to prepare 3D objects for use in Dynamics 365 Guides or in mixed-reality components used in apps created with Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This tutorial outlines a general process for using Pixyz Studio (2020.1 Update 2 r16) to convert Computer-Aided Design (CAD) parametric assets into polygon-based [.GLB](https://www.khronos.org/gltf/) files that perform well in Microsoft Dynamics 365 Guides or in mixed-reality components used in apps created with Microsoft Power Apps. (See [Optimize your 3D objects](../../import-tool/optimize-models.md#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you might need to adjust the process accordingly. 
 

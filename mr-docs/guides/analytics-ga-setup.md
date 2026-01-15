@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to set up Guides Analytics Power BI reports for Microsoft Dynamics 365 Guides
 ms.author: prashan
-ms.date: 04/05/2022
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Set up Guides Analytics reports for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---
 
 # Set up Guides Analytics reports for Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can set up [Guides Analytics Power BI reports](analytics-guide.md) for Microsoft Dynamics 365 Guides through the PC authoring app.
 

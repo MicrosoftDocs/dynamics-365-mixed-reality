@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: This tutorial explains how to use Autodesk ReCap Photo to create 3D objects for Microsoft Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
-ms.date: 02/25/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Use Autodesk ReCap Photo to create 3D objects for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-wendysmith
 ---
 
 # Use Autodesk ReCap Photo to create 3D objects for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This tutorial guides you through the Autodesk ReCap Photo photogrammetry software to create 3D objects that can be used with Dynamics 365 Guides. The software can be used for mixed-reality components included in apps created with Microsoft Power Apps.
 

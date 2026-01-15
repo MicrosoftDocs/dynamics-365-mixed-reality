@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: Understand how to work with holograms as an operator in the Dynamics 365 Guides HoloLens app
 ms.author: robutter
-ms.date: 04/28/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Interact with holograms in the Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
 # Interact with holograms in the Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can work with the holograms placed in your view by understanding applied styles, grab, move, or rotate interactable holograms, or turn holograms off to focus on your real-world environment.
 

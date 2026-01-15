@@ -1,7 +1,7 @@
 ---
 title: Microsoft Power Platform environments
 description: Learn how to set up and maintain Microsoft Power Platform environments for use with Dynamics 365 Guides.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Microsoft Power Platform environments
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Learn how to set up and maintain [environments](/power-platform/admin/environments-overview) in Microsoft Power Platform.
 

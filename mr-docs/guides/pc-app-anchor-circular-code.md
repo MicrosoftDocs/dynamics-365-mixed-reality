@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a circular code anchor
 ms.author: prashan
-ms.date: 09/15/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Anchor a guide in Dynamics 365 Guides by using a circular code anchor
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Anchor a guide in Dynamics 365 Guides by using a circular code anchor
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Use a printed circular code anchor to anchor your guide to the real world in Guides. Review [best practices for circular code anchors.](pc-app-anchor-circular-best-practices.md)
 

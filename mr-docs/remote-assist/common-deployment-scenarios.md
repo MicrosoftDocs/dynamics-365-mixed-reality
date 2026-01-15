@@ -3,12 +3,14 @@ title: Deployment scenarios overview
 author: prashantyvr
 description: Deployment scenarios overview 
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 01/15/2026
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
 
 # Deployment scenarios overview 
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 

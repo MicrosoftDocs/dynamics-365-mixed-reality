@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to submit feedback if you run into an issue with Microsoft Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 03/14/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Submit feedback on Dynamics 365 Guides through the Feedback Hub
 ms.reviewer: v-wendysmith
 ---
 
 # Submit feedback on Dynamics 365 Guides through the Feedback Hub
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you run into an issue with Dynamics 365 Guides, you can report it through the Feedback Hub app (available for Windows devices). Use the Feedback Hub app to submit screenshots and provide extra telemetry to help Microsoft investigate a problem. Follow this process on the device you're having issues with (HoloLens or PC).
 

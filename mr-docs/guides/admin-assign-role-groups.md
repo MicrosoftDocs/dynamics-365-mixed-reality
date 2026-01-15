@@ -3,13 +3,15 @@ title: Add licenses, users, and roles to Microsoft Entra security groups
 description: Learn how to use Microsoft Entra groups and add users, assign licenses, and assign Author and Operator roles that link to a Dynamics 365 group team.
 author:  davepinch
 ms.topic: how-to
-ms.date: 04/24/2024
+ms.date: 01/15/2026
 ms.author: prashan
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Add licenses, users, and roles to Microsoft Entra security groups
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 

@@ -3,13 +3,15 @@ title: Use annotations with Dynamics 365 Guides
 description: Learn how to add annotations to a Dynamics 365 Guides HoloLens user's screen.
 author: prashantyvr
 ms.author: prashan
-ms.date: 08/22/2025
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Use annotations with Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Annotations are useful for pointing out different parts of your space, including parts that might be difficult to reach. All call participants can see each other's additions, and can make their own annotations. Once an annotation is placed, it remains anchored in your space until the person who placed the annotation deletes it or leaves the call.
 

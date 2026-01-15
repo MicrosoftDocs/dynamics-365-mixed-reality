@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn best practices for using object anchors to anchor a guide in Dynamics 365 Guides
 ms.author: alwinv
-ms.date: 09/14/2023
+ms.date: 01/15/2026
 ms.topic: best-practice
 title: Best practices for choosing a target object for your object anchor
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Best practices for choosing a target object for your object anchor
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Keep the following recommendations in mind when choosing a target object for your object anchor.
 

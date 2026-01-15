@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Remote Assist on HoloLens
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 01/15/2026
 ms.topic: tutorial
 title: How-to videos for Dynamics 365 Remote Assist
 ms.reviewer: v-wendysmith
 ---
 
 # How-to videos for Dynamics 365 Remote Assist on HoloLens 
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 

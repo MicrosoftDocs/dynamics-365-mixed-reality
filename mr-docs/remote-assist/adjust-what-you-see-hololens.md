@@ -3,12 +3,14 @@ title: Adjust what you see in Dynamics 365 Remote Assist on HoloLens
 author: prashantyvr
 description: Adjust the Dynamics 365 Remote Assist window, switch displayed video feed, and view Teams user's desktop or mobile screen. 
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
 
 # Adjust what you see in Dynamics 365 Remote Assist on HoloLens or Hololens 2
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 

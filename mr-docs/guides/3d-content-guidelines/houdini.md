@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: Describes, in tutorial format, how to use SideFX Houdini to prepare 3D objects for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
-ms.date: 03/20/2020
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Use SideFX Houdini to prepare 3D objects for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
 # Use SideFX Houdini to prepare 3D objects for use in Dynamics 365 Guides and mixed-reality components included in apps created with Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This tutorial provides step-by-step instructions that show you how to:
 

@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage data in Microsoft Dataverse, for privacy reasons.
 ms.author: prashan
-ms.date: 02/20/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 ms.reviewer: v-wendysmith
@@ -12,6 +12,8 @@ ms.custom:
 ---
 
 # Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Dynamics 365 Guides enable teams to capture usage statistics and detailed time-tracking information. This data is used to provide metrics for operator and author performance and to help you identify opportunities for process optimization. Administrators can turn off data collection for specific users if needed.
 

@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to change a setting in the Dynamics 365 Guides HoloLens app.
 ms.author: prashan
-ms.date: 03/25/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Change a setting in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Change a setting in the Dynamics 365 Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can use direct touch in Microsoft Dynamics 365 Guides to change a setting in the HoloLens app. The **Settings** screen includes the following settings:
 

@@ -1,7 +1,7 @@
 ---
 title: Existing Microsoft Power Platform engagement and Guides deployment strategy
 description: Learn about using an existing Microsoft Power Platform engagement to deploy Dynamics 365 Guides in a regulated industry.
-ms.date: 03/20/2023
+ms.date: 01/15/2026
 ms.topic: concept-article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Existing Microsoft Power Platform engagement and Guides deployment strategy
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Before you initiate deployment of Dynamics 365 Guides, we recommend that you investigate whether your organization already uses Microsoft Power Platform. If Microsoft Power Platform is well-established in your organization, consider whether you want to deploy Guides to new environments or let it coexist with other business applications, such as [Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/), in an existing environment.
 

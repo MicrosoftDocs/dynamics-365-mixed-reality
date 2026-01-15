@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn about using rich text formatting in instruction card text for Dynamics 365 Guides
 ms.author: prashan
-ms.date: 03/01/2022
+ms.date: 01/15/2026
 ms.topic: article
 title: Use rich text formatting in instruction card text in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---
 
 # Use rich text formatting in instruction card text in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 > [!NOTE]
 > This is an unsupported feature and is subject to change.

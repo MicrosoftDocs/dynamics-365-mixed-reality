@@ -2,7 +2,7 @@
 author: prashantyvr
 description: How to integrate Dynamics 365 Field Service with Dynamics 365 Guides so Field Service technicians can follow a guide while doing a work order
 ms.author: prashan
-ms.date: 11/08/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Integrate Dynamics 365 Field Service with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Integrate Dynamics 365 Field Service with Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 <!---
 > ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on integrating Dynamics 365 Field Service with Dynamics 365 Guides](https://www.youtube.com/watch?v=IzTU-6o1XqE) --->

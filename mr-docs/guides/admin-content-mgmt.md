@@ -3,13 +3,15 @@ title: Guide content management
 description: Learn about assigning ownership or sharing a folder or a guide in Microsoft Dynamics 365 Guides.
 author:  prashantyvr
 ms.topic: article
-ms.date: 10/09/2023
+ms.date: 01/15/2026
 ms.author: prashan
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Guides content management
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Authors or admins can organize guides and their assets (3D parts, images, videos, and object anchors) into folders. Then, assign owners to the folders or share them with others. If you don't need the benefits of a folder structure, you can assign guides to an individual or team.
 

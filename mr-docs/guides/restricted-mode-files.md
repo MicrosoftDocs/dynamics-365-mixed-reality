@@ -3,7 +3,7 @@ title: Restrict the ability to access OneDrive files in Dynamics 365 Guides
 author: m-hartmann
 description: Learn how to restrict the ability to access OneDrive files in Microsoft Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 02/14/2022
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom:
@@ -12,6 +12,8 @@ ms.custom:
 ---
 
 # Restrict the ability to access OneDrive files in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability of Microsoft Dynamics 365 Guides users to access OneDrive files. Restricting the ability to access OneDrive files is also helpful in a situation where users share a service account and you want to prevent them from accessing each other's files.
 

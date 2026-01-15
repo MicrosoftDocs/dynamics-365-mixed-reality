@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Get an overview of operating a guide in Microsoft Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: overview
 title: Overview of operating a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---
 
 # Overview of operating a guide in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide](https://aka.ms/guidesoperate)
 

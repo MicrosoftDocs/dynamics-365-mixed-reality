@@ -3,14 +3,14 @@ title: What's new in Dynamics 365 Remote Assist
 description: Overview of what's new in Dynamics 365 Remote Assist
 author: lmasieri
 ms.author: lmasieri
-ms.date: 12/19/2025
+ms.date: 01/15/2026
 ms.topic: whats-new
 ms.reviewer: v-wendysmith
 ---
 
 # What's new in Dynamics 365 Remote Assist
 
-[!INCLUDE[remote-assist-guides-deprecate](../includes/remote-assist-guides-deprecate.md)]
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This article describes details about the **current release wave (October 2025 through March 2026)** for Dynamics 365 Remote Assist, organized by release date. You can see a complete list of [features organized by previous waves](version-history.md).
 

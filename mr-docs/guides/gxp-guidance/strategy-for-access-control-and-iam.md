@@ -1,7 +1,7 @@
 ---
 title: Access control and identity and access management strategy
 description: Learn about access control of Dynamics 365 Guides and identity and access management (IAM) in a regulated industry.
-ms.date: 03/24/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Access control and identity and access management strategy
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 In a regulated industry, maintaining full control of access is key. We recommend that you use the principle of least privilege (PoLP). PoLP is an information security concept that states that users should be granted access only to the specific data, resources, or applications that they need to complete the required task.
 

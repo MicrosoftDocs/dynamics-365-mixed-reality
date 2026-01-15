@@ -3,7 +3,7 @@ title: Set up embedded Guides in the Field Service mobile app (preview)
 description: Learn about the preview features of embedded guides in the Dynamics 365 Field Service mobile app.
 ms.author: blairejackiw
 author: m-hartmann
-ms.date: 08/07/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom:
@@ -12,6 +12,8 @@ ms.custom:
 ---
 
 # Set up embedded Guides in the Field Service mobile app (preview)
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE [public-preview-banner](../includes/public-preview-banner.md)]
 

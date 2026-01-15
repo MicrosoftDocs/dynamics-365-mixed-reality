@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn about the Microsoft Teams policies supported by Dynamics 365 Guides
 ms.author: prashan
-ms.date: 02/14/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Manage Teams policies supported by Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Manage Teams policies supported by Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Dynamics 365 Guides supports the following Microsoft Teams policies and capabilities. One-to-one policies also apply to group calls.
 

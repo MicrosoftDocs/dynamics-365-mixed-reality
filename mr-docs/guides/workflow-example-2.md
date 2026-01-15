@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to use Microsoft Power Automate to create a 3D object collection for Microsoft Dynamics 365 Guides
 ms.author: prashan
-ms.date: 06/23/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Workflow example 2--Create a Dynamics 365 Guides 3D object collection and add objects to the collection
 ms.reviewer: v-wendysmith
@@ -12,6 +12,8 @@ ms.custom:
 ---
 
 # Workflow example 2: Create a Dynamics 365 Guides 3D object collection and add objects to the collection
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 In this workflow example, we’ll use Microsoft Power Automate to create a Microsoft Dynamics 365 Guides 3D object collection. 3D object collections appear as categories (such as **Arrows** or **Generic Tools**) in the Dynamics 365 Guides toolkit. Use Power Automate to create a new category for your 3D objects, and then add objects to the collection through the Guides model-driven app.
 

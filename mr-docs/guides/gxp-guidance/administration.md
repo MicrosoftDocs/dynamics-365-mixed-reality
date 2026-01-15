@@ -1,7 +1,7 @@
 ---
 title: Administrative layers
 description: Learn about best practices for the administration of Dynamics 365 Guides in a regulated industry.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Administrative layers
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 As a best practice, your organization should focus on three administrative layers when it implements Dynamics 365 Guides in a regulated industry:
 

@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Take a tour of Guides Analytics Power BI reports for Microsoft Dynamics 365 Guides
 ms.author: prashan
-ms.date: 04/05/2022
+ms.date: 01/15/2026
 ms.topic: article
 title: Take a tour of Guides Analytics reports for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---
 
 # Take a tour of Guides Analytics reports for Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Dynamics 365 Guides comes with two Power BI reports that you can use to analyze guide usage in your organization:
 

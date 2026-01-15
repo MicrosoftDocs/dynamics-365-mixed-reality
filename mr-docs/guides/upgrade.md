@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: prashan
-ms.date: 11/07/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Update the Dynamics 365 Guides solution
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Update the Dynamics 365 Guides solution
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Some releases of Microsoft Dynamics 365 Guides require an update to the Dynamics 365 Guides solution. When an update is required, a notification displays in the **What's new** panel.
 

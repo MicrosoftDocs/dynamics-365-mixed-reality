@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Microsoft Power Apps
 ms.author: robutter
-ms.date: 02/25/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Power Apps
 ms.reviewer: v-wendysmith
 ---
 
 # Use Autodesk 3ds Max to prepare 3D content for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps 
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When preparing CAD files for Microsoft Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps, you can run into numerous performance and quality roadblocks that prevent a smooth transition from CAD to real time. The 3ds Max program is a digital content creation (DCC) suite that has a unique ability to bridge parametric objects and real-time polygon modeling. This tutorial demonstrates how to use the 3ds Max conversion and optimization capabilities to prepare 3D CAD objects for use in mixed reality.  
 

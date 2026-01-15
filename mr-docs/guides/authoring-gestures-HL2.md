@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to use HoloLens 2 touch, hand rays, and gaze to navigate and manipulate holograms in Microsoft Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 05/01/2024
+ms.date: 01/15/2026
 ms.topic: concept-article
 title: HoloLens 2 gestures for authoring and navigating in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # HoloLens 2 gestures for authoring and navigating in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Hand-tracking in Microsoft HoloLens 2 provides instinctual interactions for authors. You can select and position holograms by using direct touch, like they're real objects. You can also use hand rays to interact with holograms that are out of reach.
 

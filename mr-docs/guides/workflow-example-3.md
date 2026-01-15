@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to use Microsoft Power Automate and Microsoft Excel to collect response data for a nonlinear guide created in Dynamics 365 Guides
 ms.author: prashan
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: article
 title: Workflow example 3--Collect response data for a nonlinear guide created in Dynamics 365 Guides
 ms.reviewer: v-brycho
@@ -10,6 +10,8 @@ ms.custom: sfi-image-nochange
 ---
 
 # Workflow example 3: Collect response data for a nonlinear guide created in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you have created a [nonlinear (branching) guide](pc-app-branching.md) in Microsoft Dynamics 365 Guides, you can collect the data on which responses are selected by the operator. For example, you might have a nonlinear guide that provides three choices, based on a gauge temperature reading. 
 
