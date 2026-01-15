@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: Learn how to make a hologram interactive in the Dynamics 365 Guides HoloLens app.
 ms.author: robutter
-ms.date: 04/28/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Enable operators to interact with holograms in the Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
 # Enable operators to interact with holograms in the Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you want operators to explore a 3D part, use the HoloLens app to place it in the real world, and then set it as interactable.
 

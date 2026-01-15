@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Get an overview of the installation process for Microsoft Dynamics 365 Guides. 
 ms.author: prashan
-ms.date: 02/13/2025
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Install and set up Dynamics 365 Guides process
 ms.reviewer: v-wendysmith
 ---
 
 # Install and set up Dynamics 365 Guides process
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 As an admin, perform the following steps to install and set up Dynamics 365 Guides.
 

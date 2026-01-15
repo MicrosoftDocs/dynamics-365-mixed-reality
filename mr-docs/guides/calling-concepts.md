@@ -3,12 +3,14 @@ title: Guides call types
 author: prashantyvr
 description: Learn about the supported Dynamics 365 Guides call types and who can collaborate
 ms.author: prashan
-ms.date: 04/04/2023
+ms.date: 01/15/2026
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 
 # Guides call types
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Dynamics 365 Guides supports the following types of calls:  
 

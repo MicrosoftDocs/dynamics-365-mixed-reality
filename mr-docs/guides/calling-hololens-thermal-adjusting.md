@@ -3,12 +3,14 @@ title: How Dynamics 365 Guides automatically adjusts HoloLens temperature if the
 author: prashantyvr
 description: Learn how Dynamics 365 Guides automatically adjusts HoloLens temperature by reducing outgoing video quality if the device overheats
 ms.author: prashan
-ms.date: 10/17/2022
+ms.date: 01/15/2026
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 
 # How Dynamics 365 Guides automatically adjusts HoloLens temperature if the device overheats
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you're on a longer call in Microsoft Dynamics 365 Guides, the HoloLens device can become hot if it's using 
 several device capabilities at the same time (for example, multiple cameras, Mixed Reality Capture, and Wi-Fi). To extend the length of the call and keep the device 

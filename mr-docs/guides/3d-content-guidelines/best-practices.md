@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: Learn about best practices for converting and optimizing real-time 3D objects for use with Dynamics 365 mixed-reality applications
 ms.author: robutter
-ms.date: 10/01/2019
+ms.date: 01/15/2026
 ms.topic: best-practice
 title: Best practices for converting and optimizing real-time 3D objects for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
 ---
 
 # Best practices for converting and optimizing real-time 3D objects for use in Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This topic covers best practices for converting and optimizing 3D objects to work with Dynamics 365 Guides and for apps created in Power Apps that include mixed-reality components.
 

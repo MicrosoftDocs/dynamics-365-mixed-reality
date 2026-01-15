@@ -3,13 +3,15 @@ title: Share a guide or folder in Dynamics 365 Guides
 description: Learn how to share a guide or folder in Microsoft Dynamics 365 Guides by using an access team.
 author:  davepinch
 ms.topic: how-to
-ms.date: 02/26/2024
+ms.date: 01/15/2026
 ms.author: prashan
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Share a guide or folder in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 

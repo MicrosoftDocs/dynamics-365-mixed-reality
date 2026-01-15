@@ -3,12 +3,14 @@ title: Launch Dynamics 365 Remote Assist on HoloLens
 author: prashantyvr
 description: How to launch the Dynamics 365 Remote Assist app on HoloLens
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 01/15/2026
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---
 
 # Launch Dynamics 365 Remote Assist on HoloLens
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 

@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Guides
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 author: prashantyvr
 ms.author: prashan
-ms.date: 12/19/2025
+ms.date: 01/15/2026
 ms.topic: whats-new
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -15,7 +15,7 @@ ms.custom: bap-template
 
 # What's new in Dynamics 365 Guides
 
-[!INCLUDE[remote-assist-guides-deprecate](../includes/remote-assist-guides-deprecate.md)]
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This page provides details about the latest release in the **current release wave (April 2025 through September 2025)** for Microsoft Dynamics 365 Guides, organized by release date. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 

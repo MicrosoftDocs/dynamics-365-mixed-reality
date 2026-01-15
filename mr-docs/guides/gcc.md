@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to use Dynamics 365 Guides US Government for government organizations.
 ms.author: prashan
-ms.date: 02/24/2024
+ms.date: 01/15/2026
 ms.topic: overview
 title: Dynamics 365 Guides US Government
 ms.reviewer: v-wendysmith
 ---
 
 # Dynamics 365 Guides US Government
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 In response to the unique and evolving requirements of the United States public sector, Microsoft has created Dynamics 365 Guides US Government, a plan for US government organizations. We recommend that you read this supplementary section alongside the [Guides documentation](./overview.md).
 

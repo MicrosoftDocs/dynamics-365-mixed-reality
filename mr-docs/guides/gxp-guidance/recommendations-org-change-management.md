@@ -1,7 +1,7 @@
 ---
 title: Recommendations for organizational change management
 description: Learn about change management and the role it plays when Dynamics 365 Guides is implemented in a regulated industry.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Recommendations for organizational change management
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Implementation and adoption of mixed reality (MR) in organizations requires strong orchestrating efforts. New hardware, new software, and new ways of working must be addressed, managed, and governed through controlled processes and well-executed organizational change management.
 

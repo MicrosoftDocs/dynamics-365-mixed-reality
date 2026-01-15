@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to use triggers as an operator in the Dynamics 365 Guides HoloLens app to move between steps
 ms.author: prashan
-ms.date: 10/01/2020
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Use a trigger in the Dynamics 365 Guides HoloLens app to move between steps
 ms.reviewer: v-brycho
 ---
 
 # Use triggers to move between steps in the Dynamics 365 Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Microsoft Dynamics 365 Guides includes triggers that you can use on HoloLens 2 to go to the next or previous step. Triggers are placed in the real world where you complete your tasks and steps. This saves you from having to gaze at the instruction card after you complete each step, which can disrupt the flow of your work. 
 

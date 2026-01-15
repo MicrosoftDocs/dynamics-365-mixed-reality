@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Step 4 of the setup process for Microsoft Dynamics 365 Guides. In this step, you set up Power BI reports.
 ms.author: prashan
-ms.date: 05/08/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Set up Power BI reports in Dynamics 365 Guides (last step in Setup process)
 ms.reviewer: v-wendysmith
 ---
 
 # Set up Power BI reports
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Microsoft Dynamics 365 Guides includes Power BI reports that you can use to analyze Guides processes. For information about how to open Guides Analytics by using the free [Power BI Desktop application](https://powerbi.microsoft.com/get-started/), see [Overview of Guides Analytics](./analytics-guide.md).
 

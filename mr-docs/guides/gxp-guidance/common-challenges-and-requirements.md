@@ -1,7 +1,7 @@
 ---
 title: Common challenges and requirements
 description: Learn what you should consider about business and regulation requirements before you implement Dynamics 365 Guides.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Common challenges and requirements
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../../includes/azure-ad-to-microsoft-entra-id.md)]
 

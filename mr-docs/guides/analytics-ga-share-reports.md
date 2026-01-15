@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to share Guides Analytics Power BI reports with other Microsoft Dynamics 365 Guides users
 ms.author: prashan
-ms.date: 04/05/2022
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Share Guides Analytics reports with other Dynamics 365 Guides users
 ms.reviewer: v-wendysmith
 ---
 
 # Share Guides Analytics reports with other Dynamics 365 Guides users
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, you can share your [Guides Analytics Power BI reports](analytics-guide.md) 
 within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with 

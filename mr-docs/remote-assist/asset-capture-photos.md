@@ -3,12 +3,14 @@ title: Capture asset conditions with spatial markup in Dynamics 365 Remote Assis
 author: prashantyvr
 description: How to capture asset conditions with spatial markup in Microsoft Dynamics 365 Remote Assist on HoloLens
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
 
 # Capture asset conditions with spatial markup in Dynamics 365 Remote Assist on HoloLens
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 

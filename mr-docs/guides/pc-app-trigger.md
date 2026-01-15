@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to create a trigger in the Dynamics 365 Guides PC app to automatically advance the operator to the next step based on detection of their hands in HoloLens 2.
 ms.author: prashan
-ms.date: 08/03/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Create a trigger for step navigation in the Dynamics 365 Guides PC app
 ms.reviewer: mhart
 ---
 
 # Create a trigger for step navigation in the Dynamics 365 Guides PC app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can create a trigger that automatically advances an operator to the next step based on detection of their hand(s). This provides a very natural way for operators to complete a task. Place the triggers in the real world where the work takes place. The operator doesn’t have to disrupt the flow of their work by gazing at a button on the instruction card after completing each step.
 

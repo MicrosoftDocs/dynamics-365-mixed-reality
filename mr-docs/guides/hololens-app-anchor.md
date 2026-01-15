@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to anchor a guide when you're using the Microsoft Dynamics 365 Guides HoloLens app in Author mode.
 ms.author: prashan
-ms.date: 02/27/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Anchor a guide as an author with the Dynamics 365 Guides HoloLens app 
 ms.reviewer: v-wendysmith
 ---
 
 # Anchor a guide in the Dynamics 365 Guides HoloLens app (for authors)
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app, the first thing that you see is the anchoring instructions that were created in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app. The method that you use to anchor the guide depends on the type of anchor that was created in the PC app. For more information about how to create an anchor, and the types of anchors, see [Anchor your guide to the real world in Dynamics 365 Guides PC app](anchor.md).
 

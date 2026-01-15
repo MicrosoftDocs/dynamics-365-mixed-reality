@@ -1,7 +1,7 @@
 ---
 title: Content and toolkit ownership strategy
 description: Learn about controlling access to guides content in the toolkit in a regulated industry.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Content and toolkit ownership strategy
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When guides are authored, assets such as images, videos, and 3D objects are at the author's disposal. A toolkit that is pre-installed includes standard objects, such as pointers and arrows. All other content, such as 3D objects of machine parts and approved company logos, is provided by your organization or its suppliers.
 

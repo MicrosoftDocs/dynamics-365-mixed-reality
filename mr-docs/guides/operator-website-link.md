@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to open a website, email, another guide, or custom app from the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: prashan
-ms.date: 02/23/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Open a website, email, guide, or custom app from the Guides HoloLens app
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Open a website, email, guide, or custom app from the Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **Link** button, you can go to the link by selecting the button. For example, there might be a link to a parts diagram, the HoloLens settings app, or email. Websites are opened in the Microsoft HoloLens Edge browser. When you close the browser, you go back to the step that you were working on.
 

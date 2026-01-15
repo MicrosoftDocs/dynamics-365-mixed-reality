@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Use the Help menu in Microsoft Dynamics 365 Guides to find out what's new and more.
 ms.author: prashan
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: article
 title: Get help with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
 # Get help and provide feedback
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Need help with Microsoft Dynamics 365 Guides? Select the **Help** (question mark) button in the upper-right corner of the PC app to find the help that you need.
 

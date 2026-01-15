@@ -3,12 +3,14 @@ title: Use spatial annotations through Microsoft Teams mobile
 description: Discover how users with Microsoft Teams mobile can annotate in another user's environment.
 author: prashantyvr
 ms.author: prashan
-ms.date: 08/22/2025
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
 
 # Use spatial annotations through Microsoft Teams mobile
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 <!--- This topic is in RA and Field Service. Field Service topic is annotations-teams-mobile.md --->
 

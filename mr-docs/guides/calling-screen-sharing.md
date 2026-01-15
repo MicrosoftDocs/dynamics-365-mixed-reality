@@ -3,12 +3,14 @@ title: Share your desktop or application screen with a Dynamics 365 Guides user 
 author: prashantyvr
 description: Learn how to share a desktop or application screen between Microsoft Teams users and Dynamics 365 Guides users on HoloLens
 ms.author: prashan
-ms.date: 04/03/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---
 
 # Share your desktop or application screen with a Dynamics 365 Guides user on HoloLens
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 A remote collaborator on Microsoft Teams (PC, Mac, or mobile) can share their desktop or application screen to help a Dynamics 365 Guides user identify and/or resolve a problem. For example, the remote collaborator might want to share a video or a series of instructions in a PowerPoint presentation. 
 

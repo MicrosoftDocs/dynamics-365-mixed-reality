@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 ms.author: robutter
 description: Learn how to review a 3D object after exporting it as a GLB file to make sure it meets performance targets for Microsoft Dynamics 365 Guides or Power Apps.
-ms.date: 02/02/2022
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Review a 3D object to use with Dynamics 365 Guides or Power Apps
 ms.reviewer: v-brycho
 ---
 
 # Review a 3D object to use with Dynamics 365 Guides or Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 After exporting a GLB file to use with Microsoft Dynamics 365 Guides or Power Apps, you can preview it with the Windows [3D Viewer](https://www.microsoft.com/p/3d-viewer/9nblggh42ths). Use 3D Viewer to visualize the individual texture channels and view stats. Information like triangle count and draw calls help confirm that the model [meets the recommended performance targets](optimize-models.md#performance-targets).
 

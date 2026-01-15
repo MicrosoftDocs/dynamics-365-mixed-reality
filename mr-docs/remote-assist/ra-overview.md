@@ -3,7 +3,7 @@ title: Welcome to Dynamics 365 Remote Assist
 description: Get an overview of the capabilities and benefits of the Dynamics 365 Remote Assist HoloLens.
 author: lmasieri
 ms.author: lmasieri
-ms.date: 12/19/2025
+ms.date: 01/15/2026
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Welcome to Dynamics 365 Remote Assist
 
-[!INCLUDE[remote-assist-guides-deprecate](../includes/remote-assist-guides-deprecate.md)]
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens 2.
 

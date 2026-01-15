@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: Overview of converting and optimizing 3D objects to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
-ms.date: 01/08/2020
+ms.date: 01/15/2026
 ms.topic: overview
 title: Overview of preparing 3D objects for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-wendysmith
 ---
 
 # Overview of preparing 3D objects for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you're using Microsoft Dynamics 365 Guides, or creating apps with mixed-reality components in Power Apps, you might want to import your own 3D objects for use as holograms. This article shows you how to prepare your 3D objects by using a combination of third-party tools.
 

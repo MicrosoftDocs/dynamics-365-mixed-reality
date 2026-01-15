@@ -1,7 +1,7 @@
 ---
 title: HoloLens devices
 description: Learn about setting up and maintaining HoloLens devices in a regulated industry.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # HoloLens devices
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Use of Dynamics 365 Guides in regulated industries requires two types of devices to run the relevant software: PCs and HoloLens devices. We recommend that the business maintains tight control over these devices. If Good \{industry\} Practice (GxP) requirements apply, work with the appropriate quality assurance (QA) staff to determine what level of validation is required for those devices.
 

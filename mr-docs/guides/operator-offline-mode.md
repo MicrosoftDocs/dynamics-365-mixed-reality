@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Work offline as an operator in Dynamics 365 Guides if you don't have an internet connection or you have an intermittent internet connection
 ms.author: prashan
-ms.date: 10/17/2022
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Work offline as an operator in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
 # Work offline as an operator in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 

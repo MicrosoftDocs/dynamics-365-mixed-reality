@@ -1,7 +1,7 @@
 ---
 title: Test and deployment strategy
 description: Learn about using Power Apps and Microsoft Power Platform for testing and deployment.
-ms.date: 03/23/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Test and deployment strategy
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 We recommend that you develop a governance strategy for testing and deploying the related components of Power Apps and Microsoft Power Platform with links to Azure DevOps and automation. Power Apps is a crucial part of the controls for content and approval that are required in regulated industries to support the rollout of Dynamics 365 Guides.
 

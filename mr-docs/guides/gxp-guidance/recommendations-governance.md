@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 Guides in GxP regulated industries overview
 description: Learn about the recommendations for using Dynamics 365 Guides in a regulated industry.
-ms.date: 04/17/2023
+ms.date: 01/15/2026
 ms.topic: overview
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Dynamics 365 Guides in GxP regulated industries overview
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Production companies in regulated industries such as life science, food science, medical devices, and cosmetics are increasingly looking into digital technology to optimize business processes. One excellent example of such digital technology is the use of [HoloLens](/hololens) devices together with the [Dynamics 365 Guides](../overview.md) software.
 

@@ -2,13 +2,15 @@
 author: prashantyvr
 ms.author: prashan
 description: Learn about using the Step Editor in the Microsoft Dynamics 365 Guides PC app to add 3D objects, 3D parts, images, videos, website links, and Power Apps links.
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: overview
 title: Overview of the Step Editor in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
 ---
 
 # Overview of the Step Editor in the Dynamics 365 Guides PC app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Steps are the central building block for creating a guide in Dynamics 365 Guides. A step is a short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
 

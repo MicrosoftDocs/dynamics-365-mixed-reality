@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn about the tables and fields that are required to create a guide (in Microsoft Dynamics 365 Guides) using Microsoft Power Automate.
 ms.author: prashan
-ms.date: 04/25/2024
+ms.date: 01/15/2026
 ms.topic: article
 title: Tables and fields required to create a guide in Power Automate
 ms.reviewer: v-wendysmith
 ---
 
 # Tables and fields required to create a guide in Power Automate
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When a guide is created with the Microsoft Dynamics 365 Guides PC app, all of the guide's content (instructions, 3D objects, 3D parts, and media) is stored in [Microsoft Dataverse](/powerapps/maker/data-platform/data-platform-intro). Using the out-of-the-box PC app that comes with Dynamics 365 Guides makes it easy to get started with authoring, but you can also create a guide programmatically with the [Microsoft Dataverse Web API](/powerapps/developer/data-platform/webapi/overview) or a [Microsoft Power Automate flow](/power-automate/getting-started#create-your-first-flow) by adding your own content in the right places in Microsoft Dataverse. This method is useful if you have existing text instructions in other systems or documents. You can just map the information to the appropriate Dataverse tables and fields to automatically generate a guide.
 

@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to embed a link in a QR code to make it easy for an operator to open a guide in Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 04/29/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Embed a link in a QR code to easily open a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Embed a link in a QR code to easily open a guide in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 A Microsoft Dynamics 365 Guides author can embed a link to a guide in a QR code to make it easy for operators to open the guide on Microsoft HoloLens. The link can open a guide or go to a specific step within a guide.
 

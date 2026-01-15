@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn about the device, licensing, and other requirements for installing and using Microsoft Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 03/12/2024
+ms.date: 01/15/2026
 ms.topic: article
 title: Device, licensing, and other requirements for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Device, licensing, and other requirements for Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Review the requirements for Dynamics 365 Guides.
 
