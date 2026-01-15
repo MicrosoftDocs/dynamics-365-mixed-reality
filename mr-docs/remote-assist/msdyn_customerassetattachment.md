@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Customer Asset Attachment entity.
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 01/15/2026
 ms.topic: reference
 title: msdyn_customerassetattachment EntityType
 ms.reviewer: v-wendysmith
 ---
 
 # msdyn_customerassetattachment EntityType
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 

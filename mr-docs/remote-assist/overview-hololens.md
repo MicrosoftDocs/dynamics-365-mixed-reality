@@ -3,12 +3,14 @@ title: Overview of Dynamics 365 Remote Assist on HoloLens 2
 author: prashantyvr
 description: Overview of Dynamics 365 Remote Assist features and links to HoloLens 2 gestures.
 ms.author: prashan
-ms.date: 06/07/2024
+ms.date: 01/15/2026
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ---
 
 # Overview of Dynamics 365 Remote Assist on HoloLens 2
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 

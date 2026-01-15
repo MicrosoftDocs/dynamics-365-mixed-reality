@@ -1,7 +1,7 @@
 ---
 title: msdyn_customerasset Entity Reference
 description: "Includes schema information for the msdyn_customerasset entity."
-ms.date: 06/07/2024
+ms.date: 01/15/2026
 ms.topic: reference
 author: m-hartmann
 ms.author: mhart
@@ -10,6 +10,8 @@ search.audienceType:
 
 ---
 # msdyn_customerasset Entity Reference
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Specify customer asset.
 
