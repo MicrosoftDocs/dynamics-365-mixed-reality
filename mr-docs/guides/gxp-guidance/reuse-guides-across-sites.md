@@ -1,7 +1,7 @@
 ---
 title: Reuse guides across sites
 description: Learn about using guides across multiple sites in a regulated industry, and how to avoid issues.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Reuse guides across sites
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you have similar production lines or machinery across factories or labs, you might find that a specific guide is applicable at multiple sites. However, if guide access is provided through [business units](/power-platform/admin/create-edit-business-units), you can encounter issues when you try to share the guide across sites.
 

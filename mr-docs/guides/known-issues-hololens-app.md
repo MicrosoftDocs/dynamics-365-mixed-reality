@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: prashan
-ms.date: 04/05/2024
+ms.date: 01/15/2026
 ms.topic: troubleshooting-known-issue
 title: Known issues with the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 ## HoloLens and Microsoft Teams users experience unexpected results while recording a call
 

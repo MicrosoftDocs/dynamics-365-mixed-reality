@@ -3,13 +3,15 @@ title: Compatibility between Dynamics 365 Guides solution and apps
 description: Determine whether your Dynamics 365 Guides solution is compatible with the apps.
 author: prashantyvr
 ms.author: prashan
-ms.date: 01/23/2025
+ms.date: 01/15/2026
 ms.topic: article
 ms.reviewer: v-wendysmith
 ms.custom: sfi-image-nochange
 ---
 
 # Compatibility between Dynamics 365 Guides solutions and apps (PC and HoloLens)
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 We recommend that you always update the Microsoft Dynamics 365 Guides solution at every release, so that you have access to the latest features and updates. However, if you suspect that you have an older solution version, and must verify that it's compatible with the PC and HoloLens apps that you're using, see the table that follows.
 

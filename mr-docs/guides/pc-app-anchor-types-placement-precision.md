@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn about different anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides. 
 ms.author: prashan
-ms.date: 09/15/2023
+ms.date: 01/15/2026
 ms.topic: article
 title: Effect of anchor types and placement on hologram precision in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Effect of anchor types and placement on hologram precision in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Even if an author or operator perfectly places a holographic anchor or perfectly aligns the green outline when scanning a QR code or circular code anchor in Microsoft Dynamics 365 Guides, an anchor's position will never be perfectly precise and exactly the same as a previous placement or alignment. Very small (invisible) variations are introduced every time a user anchors a guide. Especially for environments where the same guide is used on different devices and different users anchor the guide in different ways.
 

@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to copy a 3D object's position (orientation and scale) in the Dynamics 365 Guides HoloLens app
 ms.author: prashan
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Copy a 3D object's position in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith
 ---
 
 # Copy a 3D object's position in the Dynamics 365 Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When working with the Microsoft Dynamics 365 Guides HoloLens app, sometimes you might want to duplicate a 3D object and keep the same position, orientation, and scale for 
 different steps of a guide. This is especailly useful for fully digital guides where instructions are placed on top of the holographic versions of a machine that must be 

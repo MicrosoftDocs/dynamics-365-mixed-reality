@@ -3,13 +3,15 @@ title: Start a chat and share a file in Dynamics 365 Guides on HoloLens
 author: prashantyvr
 description: Learn how to chat and share files between Dynamics 365 Guides users and Teams users
 ms.author: prashan
-ms.date: 06/14/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Start a chat and share a file in Dynamics 365 Guides on HoloLens
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When a Dynamics 365 Guides user on HoloLens is on a call with remote collaborators on Microsoft Teams desktop, Teams mobile, or Dynamics 365 Remote Assist, call participants can chat with each other. One or more remote collaborators on Teams or Dynamics 365 Remote Assist can share files or page links in the **Chat** window. Remote experts can share a diagram or some other illustration to help the Dynamics 365 Guides user diagnose and/or solve a problem. Participants can also share deep links to guides in a chat. For example, a Dynamics 365 Guides author might want to collaborate with a remote user by [sharing a direct link to a specific guide or even a step within a guide](pc-app-copy-link-guide-step.md).
 

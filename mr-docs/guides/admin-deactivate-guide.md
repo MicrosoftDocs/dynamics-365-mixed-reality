@@ -2,7 +2,7 @@
 author: prashantyvr
 description: As a Guides admin, learn how to activate, deactivate, or delete a guide, packaged guide, or guide content (video, image, or 3D part).
 ms.author: prashan
-ms.date: 02/23/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Activate, deactivate, or delete a guide in Dynamics 365 Guides (admins)
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Activate, deactivate, or delete a guide in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If a [guide is deactivated](pc-app-deactivate-guide.md) in Guides, you can reactivate it. When you reactivate a guide, it immediately becomes available for authors to open or edit in the PC app. You can deactivate a guide or permanently delete it if you're sure that you no longer need it.
 

@@ -2,7 +2,7 @@
 author: prashantyvr
 ms.author: prashan
 description: Learn how to add a 3D object (for example, an arrow or a hand) to a step in the Dynamics 365 Guides PC app. 
-ms.date: 07/26/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Add a 3D object from the toolkit to a step in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Add a 3D object from the toolkit to a step in the Dynamics 365 Guides PC app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Microsoft Dynamics 365 Guides includes a library of predefined 3D objects that are optimized to work perfectly with HoloLens. The toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following illustration shows an example where holographic numbers, arrows, and zones are used to help operators complete a step.
 

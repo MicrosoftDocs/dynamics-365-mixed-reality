@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to add a branch to a guide in Microsoft Dynamics 365 Guides to create a nonlinear workflow
 ms.author: prashan
-ms.date: 08/03/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Add a branch to a guide in Dynamics 365 Guides to create a nonlinear workflow
 ms.reviewer: mhart
 ---
 
 # Add a branch in a guide in Dynamics 365 Guides to create a nonlinear workflow
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can add a branch to a guide in Microsoft Dynamics 365 Guides if your use case requires a nonlinear workflow. Branching points in the flow of the guide allows operators to make selections. Create workflows based on what the operator observes, the operator’s skill level, or different machinery objects.
 

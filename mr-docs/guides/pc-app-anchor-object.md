@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to anchor a guide in Dynamics 365 Guides by using object anchors
 ms.author: alwinv
-ms.date: 10/30/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Anchor a guide in Dynamics 365 Guides by using object anchors
 ms.reviewer: mhart
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Anchor a guide in Dynamics 365 Guides by using object anchors
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 > [!VIDEO https://www.youtube.com/embed/BXhMFjGFbTQ]
 

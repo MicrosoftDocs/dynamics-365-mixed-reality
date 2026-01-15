@@ -1,7 +1,7 @@
 ---
 title: Prerequisites for implementation and rollout
 description: Learn the prerequisites before you implement Dynamics 365 Guides in a regulated industry, and to help plan the rollout of the solution.
-ms.date: 03/09/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Prerequisites for implementation and rollout
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 As prerequisites for a successful Dynamics 365 Guides rollout in regulated industries, we recommend that you define the following elements in the initial phases of the implementation:
 

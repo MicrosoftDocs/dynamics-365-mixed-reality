@@ -1,7 +1,7 @@
 ---
 title: Anchor guide content through QR codes and embed deep links
 description: Learn about using QR codes and embedded QR code links to anchor guide content to pieces of equipment when you implement Dynamics 365 Guides in a regulated industry.
-ms.date: 09/14/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Anchor guide content through QR codes and embed deep links
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 One reason why Dynamics 365 Guides is attractive and effective as an instructional tool is that 3D content such as arrows can be used to nudge the user's attention toward specific points of interest on machinery.
 

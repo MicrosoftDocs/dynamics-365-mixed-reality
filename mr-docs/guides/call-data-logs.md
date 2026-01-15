@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn what kind of call data is stored by Dynamics 365 Guides
 ms.author: prashan
-ms.date: 06/23/2023
+ms.date: 01/15/2026
 ms.topic: overview
 title: Call data stored by Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Call data stored by Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When Microsoft Dynamics 365 Guides users make or receive calls in the HoloLens app, call information is stored in Microsoft Dataverse.
 

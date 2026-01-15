@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: Describes the third-party tutorials available for converting 3D objects for use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
-ms.date: 11/25/2020
+ms.date: 01/15/2026
 ms.topic: overview
 title: Overview of self-serve tutorials for converting 3D objects for use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-wendysmith
 ---
 
 # Overview of self-serve tutorials for converting 3D objects for use with Dynamics 365 Guides and in mixed-reality components included in apps created with Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Three-dimensional objects come in all shapes and sizes. Sometimes they're complex and require preparation before you can use them in mixed-reality scenarios. To make it easier to prepare your 3D objects, we've created tutorials for several third-party computer-aided design (CAD) and digital content creation (DCC) programs. The goal of these tutorials isn't for you to become an expert at using these programs, but to guide you through the process of preparing your 3D objects so you can achieve more with mixed reality.
 

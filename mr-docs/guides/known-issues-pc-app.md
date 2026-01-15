@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: prashan
-ms.date: 12/19/2023
+ms.date: 01/15/2026
 ms.topic: faq
 title: Known issues with the Dynamics 365 Guides PC app
 ms.reviewer: mhart
 ---
 
 # Known issues with the Dynamics 365 Guides PC app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 ## I can't find the guide that I created
 

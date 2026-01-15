@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Create and copy a guide link in Dynamics 365 Guides to embed in a QR code.
 ms.author: prashan
-ms.date: 06/29/2021
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Create or copy a link to a guide or step in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
 # Create and copy a link to a guide or step in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You might want to create and copy a link to a guide or a step in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] for one or both of these reasons:
 

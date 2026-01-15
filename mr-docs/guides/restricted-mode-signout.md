@@ -3,13 +3,15 @@ title: Restrict the ability for Dynamics 365 Guides users on HoloLens from signi
 author: m-hartmann
 description: Learn how to restrict users of Microsoft Dynamics 365 Guides from signing out of the app. 
 ms.author: prashan
-ms.date: 02/14/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Restrict Dynamics 365 Guides users on HoloLens from signing out of the app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you [have a scenario where you need to protect your company information](restricted-mode-overview.md), you can restrict the ability of Microsoft Dynamics 365 Guides users on HoloLens to sign out. This restricts their ability to change user accounts. You can do this by [setting up HoloLens as a kiosk](/hololens/hololens-kiosk). When you set up HoloLens in kiosk mode, Dynamics 365 Guides automatically prevents users from signing out of the app. You can also use kiosk mode to show just selected apps in the **Start** menu.
 

@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to open a guide in Dynamics 365 Guides, if you're an operator, by scanning a QR code.
 ms.author: prashan
-ms.date: 01/13/2021
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Open a guide in Dynamics 365 Guides by scanning a QR code
 ms.reviewer: v-brycho
 ---
 
 # Open a guide in Dynamics 365 Guides by scanning a QR code 
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 You can open a guide in Microsoft Dynamics 365 Guides by scanning a QR code that includes an embedded link to a guide. This can be a printed QR code or a digital QR code included in a digital document. 
 

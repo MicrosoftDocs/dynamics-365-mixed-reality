@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Overview of Dynamics 365 Guides capabilities and apps
 ms.author: prashan
-ms.date: 12/19/2025
+ms.date: 01/15/2026
 ms.topic: overview
 title: Welcome to Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -11,7 +11,7 @@ ms.custom: bap-template
 
 # Welcome to Dynamics 365 Guides
 
-[!INCLUDE[remote-assist-guides-deprecate](../includes/remote-assist-guides-deprecate.md)]
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 > [!VIDEO https://www.youtube.com/embed/V8c3pDKdHEc]
 

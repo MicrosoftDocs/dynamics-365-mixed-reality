@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse environment to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 10/04/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse environment to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: sfi-image-nochange
 ---
 
 # Migrate Dynamics 365 Guides content from one Microsoft Dataverse environment to another using the Content Migration Tool (Public Preview)
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 The Content Migration Tool (Public Preview) for Microsoft Dynamics 365 Guides is a [Windows PowerShell](/windows-server/administration/windows-commands/powershell) script that copies content from one environment of Microsoft Dataverse to another. You can migrate all the content in an environment or just specific types of content (for example, 3D objects, images, and videos). After the migration is completed, the content exists in both environments. The content in the source environment isn't changed in any way.
 

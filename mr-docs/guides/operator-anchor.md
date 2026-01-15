@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to anchor a guide in the Microsoft Dynamics 365 Guides HoloLens app if you're an operator.
 ms.author: prashan
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Anchor a guide in the Dynamics 365 Guides HoloLens app (operators)
 ms.reviewer: v-wendysmith
 ---
 
 # Anchor a guide in the Dynamics 365 Guides HoloLens app (for operators)
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When you open a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], the first thing that you see is the anchoring instructions for the guide. For example, if a QR code is used to anchor the guide, you see the **Scan QR code** page.
 

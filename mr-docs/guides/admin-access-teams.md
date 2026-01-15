@@ -2,7 +2,7 @@
 author: melissahellmund
 description: Learn how to create an access team to share a guide in Microsoft Dynamics 365 Guides.
 ms.author: mehellmu
-ms.date: 04/09/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Create an access team to share a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Create an access team to share a guide in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 [!INCLUDE [azure-ad-to-microsoft-entra-id](../includes/azure-ad-to-microsoft-entra-id.md)]
 

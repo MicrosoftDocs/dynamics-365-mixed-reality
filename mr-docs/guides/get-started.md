@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn about all the resources available for getting started with Dynamics 365 Guides
 ms.author: prashan
-ms.date: 10/13/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Get started with Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Get started with Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Ready to get started with Microsoft Dynamics 365 Guides? Find the learning path below that suits you best.
 

@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn about IP addresses and endpoints required for Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 04/25/2024
+ms.date: 01/15/2026
 ms.topic: article
 title: Network requirements for Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Network requirements for Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Dynamics 365 Guides might require your network admin add the IP addresses and/or endpoints that are required to connect to the Dynamics 365 servers to an approved list. The following list contains the minimum URL endpoints and TCP/UDP ports utilized by Dynamics 365 Guides.
 

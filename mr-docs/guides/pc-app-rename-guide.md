@@ -2,13 +2,15 @@
 author: prashantyvr
 description: How to rename a guide in Microsoft Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 06/29/2021
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Rename a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
 ---
 
 # Rename a guide in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 From the **Home** page in the PC app, you can rename a guide that was created in Microsoft Dynamics 365 Guides.
 

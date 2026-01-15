@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to structure a guide by using the Outline page in the Microsoft Dynamics 365 Guides PC app.
 ms.author: prashan
-ms.date: 03/11/2024
+ms.date: 01/15/2026
 ms.topic: article
 title: Structure your guide in the Outline page
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Structure your guide in the Outline page
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 After you [create a guide](create-guide.md) by using the Dynamics 365 Guides PC app, or when you open an existing guide, the **Outline** page appears. On the **Outline** page, you create a framework for your guide by adding as many *tasks* and *steps* as you need. Tasks are groups of steps. Steps are the short, separate work items that operators complete to perform the task. Steps are the central building blocks in Dynamics 365 Guides.
 

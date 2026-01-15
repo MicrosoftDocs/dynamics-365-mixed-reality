@@ -2,13 +2,15 @@
 author: prashantyvr
 description: Learn how to find a guide when you're using the Dynamics 365 Guides PC app
 ms.author: prashan
-ms.date: 06/09/2022
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Find a guide in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith
 ---
 
 # Find a guide in the Dynamics 365 Guides PC app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 To find a guide in the Microsoft Dynamics 365 Guides PC app, you can: 
 

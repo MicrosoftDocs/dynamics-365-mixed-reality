@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Step 3 of the setup process for Microsoft Dynamics 365 Guides. In this step, you download and install the PC and HoloLens apps.
 ms.author: prashan
-ms.date: 11/19/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Download and install the Dynamics 365 Guides apps (PC and HoloLens)
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Download and install the Dynamics 365 Guides apps (PC and HoloLens)
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 After your admin [installs the Dynamics 365 Guides solution](install-guides.md) and assigns licenses, set up the Guides PC authoring app and the HoloLens app. The HoloLens app has an **Author** mode and an **Operate** mode.
 

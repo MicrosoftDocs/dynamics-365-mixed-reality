@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to avoid and fix a corrupted guide in Dynamics 365 Guides
 ms.author: prashan
-ms.date: 02/15/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Fix a corrupted guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Fix a corrupted guide in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 A guide is considered corrupt when the underlying Dataverse data is not structured in a manner expected by the app. The most common cause of a corrupted guide is creating or modifying database records outside of the app. It can also happen if you give authors insufficient permission to save all data related to the guide.
 

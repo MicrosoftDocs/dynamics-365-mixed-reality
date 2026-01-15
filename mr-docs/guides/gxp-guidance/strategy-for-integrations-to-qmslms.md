@@ -1,7 +1,7 @@
 ---
 title: Integration with a quality management system or learning management system strategy
 description: Learn about integrating Microsoft Power Platform, a quality management system (QMS), and a learning management system (LMS) with Dynamics 365 Guides in a regulated industry.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Integration with a quality management system or learning management system strategy
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Integrations are useful if you want to automate the manual handover of data between systems such as Microsoft Power Platform and a quality management system (QMS). If you have a well-established approval workflow in your QMS, you can reuse it and its process triggers to automate approval flows.
 

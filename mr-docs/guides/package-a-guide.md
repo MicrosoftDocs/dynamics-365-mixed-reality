@@ -2,7 +2,7 @@
 author: prashantyvr
 ms.author: prashan
 description: Learn how to package a guide and its content and share it with others in Dynamics 365 Guides. 
-ms.date: 03/04/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Package a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Package a guide in Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Packaging a guide allows authors to create a self-contained, read-only file that contains a copy of all contents in a guide. Use a packaged guide to archive versions of a guide, easily migrate guides between environments, or quickly share content with others regardless of permission levels. The packaged guide can't be edited and can only be viewed with a HoloLens device in operator mode.
 

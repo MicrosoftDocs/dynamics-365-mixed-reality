@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to duplicate a 3D object in the Dynamics 365 Guides HoloLens app
 ms.author: prashan
-ms.date: 11/08/2021
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Duplicate a 3D object in the Dynamics 365 Guides HoloLens app 
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Duplicate a 3D object in the Dynamics 365 Guides HoloLens app
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 Sometimes when you're working with the Microsoft Dynamics 365 Guides HoloLens app, you might need multiple copies of the same 3D objects to point to similar items in the work area. Instead of adding new versions of a 3D object from the bin and setting the position and style each time, you can save time by duplicating the 3D object. The duplicates will have the same rotation and style settings as the original.
 

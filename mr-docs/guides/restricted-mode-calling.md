@@ -3,13 +3,15 @@ title: Restrict calling and the ability to search and access contacts in Dynamic
 author: m-hartmann
 description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 02/14/2023
+ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
 ---
 
 # Restrict calling and the ability to search and access contacts in Dynamics 365 Guides for HoloLens
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 If you [have a scenario where you need to protect company information](restricted-mode-overview.md), you can restrict users of Dynamics 365 Guides on HoloLens from:
 

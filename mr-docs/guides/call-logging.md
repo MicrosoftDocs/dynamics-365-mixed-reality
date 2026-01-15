@@ -2,7 +2,7 @@
 author: prashantyvr
 description: Learn how to view and access call data stored by Dynamics 365 Guides.
 ms.author: prashan
-ms.date: 02/22/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: View and access call data stored by Dynamics 365 Guides
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # View and access call data stored by Dynamics 365 Guides
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 When Microsoft Dynamics 365 Guides users make or receive calls in the HoloLens app, [call information](call-data-logs.md) is stored in Microsoft Dataverse. Users can view only their own calling data; administrators can view calling data from all users.
 

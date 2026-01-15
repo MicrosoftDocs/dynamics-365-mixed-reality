@@ -1,7 +1,7 @@
 ---
 title: Segregate guides between organizational entities strategy
 description: Learn about ways to segregate guides between users or organizational groups.
-ms.date: 03/21/2023
+ms.date: 01/15/2026
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Segregate guides between organizational entities strategy
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 In regulated industries, organizations can have several factories, labs, departments, and divisions. When you implement Dynamics 365 Guides in such organizations, make strategic decisions about how you will ensure that only the relevant entities and individuals can view and edit guides. You can use [folders](../admin-create-folders.md) and [business units](/power-platform/admin/create-edit-business-units) to segregate guides between organizational entities.
 

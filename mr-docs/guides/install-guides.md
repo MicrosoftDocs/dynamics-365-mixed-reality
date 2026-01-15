@@ -2,7 +2,7 @@
 author: prashantyvr
 description: In this step of the setup process, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: prashan
-ms.date: 02/13/2025
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Install the Dynamics 365 Guides solution 
 ms.reviewer: v-wendysmith
@@ -10,6 +10,8 @@ ms.custom: bap-template
 ---
 
 # Install the Dynamics 365 Guides solution
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 After buying a Microsoft Dynamics 365 Field Service or Guides license, create an environment where you can install the Guides solution.
 

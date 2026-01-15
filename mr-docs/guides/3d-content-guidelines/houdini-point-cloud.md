@@ -2,13 +2,15 @@
 author: RobertButterworthMS
 description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D objects for Microsoft Dynamics Guides and Microsoft Power Apps
 ms.author: robutter
-ms.date: 02/25/2024
+ms.date: 01/15/2026
 ms.topic: how-to
 title: Use SideFX Houdini to turn point clouds into optimized 3D objects for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-wendysmith
 ---
 
 # Use SideFX Houdini to turn point clouds into optimized 3D objects for Dynamics 365 Guides and for mixed-reality components in apps created with Power Apps
+
+[!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This tutorial provides step-by-step instructions for the following tasks:
 
