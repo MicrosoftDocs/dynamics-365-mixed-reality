@@ -3,6 +3,7 @@ author: prashantyvr
 description: Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 ms.reviewer: v-wendysmith

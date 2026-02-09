@@ -3,6 +3,7 @@ author: RobertButterworthMS
 description: Learn how to make a hologram interactive in the Dynamics 365 Guides HoloLens app.
 ms.author: robutter
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Enable operators to interact with holograms in the Guides HoloLens app
 ms.reviewer: v-wendysmith

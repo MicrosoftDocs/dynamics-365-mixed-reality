@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to open the Dynamics 365 Guides model-driven app if you're an admin or an author
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Open the model-driven app in Dynamics 365 Guides
 ms.reviewer: v-wendysmith

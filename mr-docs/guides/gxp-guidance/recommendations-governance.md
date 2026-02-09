@@ -2,6 +2,7 @@
 title: Dynamics 365 Guides in GxP regulated industries overview
 description: Learn about the recommendations for using Dynamics 365 Guides in a regulated industry.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 author: prashantyvr
 ms.author: prashan

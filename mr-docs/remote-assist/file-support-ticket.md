@@ -4,6 +4,7 @@ author: prashantyvr
 description: How to file a support ticket for Dynamics 365 Remote Assist
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

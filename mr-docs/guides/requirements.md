@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn about the device, licensing, and other requirements for installing and using Microsoft Dynamics 365 Guides.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Device, licensing, and other requirements for Dynamics 365 Guides
 ms.reviewer: v-wendysmith

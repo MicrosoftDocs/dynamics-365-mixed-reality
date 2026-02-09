@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to use Dynamics 365 Guides US Government for government organizations.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 title: Dynamics 365 Guides US Government
 ms.reviewer: v-wendysmith

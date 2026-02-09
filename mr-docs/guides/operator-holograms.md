@@ -3,6 +3,7 @@ author: RobertButterworthMS
 description: Understand how to work with holograms as an operator in the Dynamics 365 Guides HoloLens app
 ms.author: robutter
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Interact with holograms in the Guides HoloLens app
 ms.reviewer: v-wendysmith

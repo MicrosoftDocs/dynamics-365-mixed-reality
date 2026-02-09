@@ -2,6 +2,7 @@
 title: Microsoft Power Platform environments
 description: Learn how to set up and maintain Microsoft Power Platform environments for use with Dynamics 365 Guides.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

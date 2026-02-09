@@ -4,6 +4,7 @@ author: m-hartmann
 description: Learn how to protect company information in Microsoft Dynamics 365 Guides by restricting capabilities, including calling, access to OneDrive files, and the ability to sign out of the app.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

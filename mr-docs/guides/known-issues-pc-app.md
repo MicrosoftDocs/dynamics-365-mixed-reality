@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: faq
 title: Known issues with the Dynamics 365 Guides PC app
 ms.reviewer: mhart

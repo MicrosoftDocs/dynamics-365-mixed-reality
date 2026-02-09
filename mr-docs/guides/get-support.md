@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to contact Microsoft Support
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Contact Support
 ms.reviewer: v-wendysmith

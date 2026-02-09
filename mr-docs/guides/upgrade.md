@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Update the Dynamics 365 Guides solution
 ms.reviewer: v-wendysmith

@@ -6,6 +6,7 @@ ms.date: 01/15/2026
 ms.topic: faq
 title: Frequently asked questions for deploying Dynamics 365 Remote Assist 
 ms.reviewer: v-wendysmith
+ms.update-cycle: 1095-days
 ---
 
 # Frequently asked questions for deploying Dynamics 365 Remote Assist

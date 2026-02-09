@@ -2,6 +2,7 @@
 title: Maintenance of the qualified and validated status
 description: Learn about maintaining the infrastructure and apps that have been qualified and validated.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

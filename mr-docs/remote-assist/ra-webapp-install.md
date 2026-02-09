@@ -6,6 +6,7 @@ ms.author: prashan
 ms.date: 01/15/2026
 ms.topic: install-set-up-deploy
 ms.reviewer: v-wendysmith
+ms.update-cycle: 1095-days
 ---
 
 # Install the Dynamics 365 Remote Assist model-driven app

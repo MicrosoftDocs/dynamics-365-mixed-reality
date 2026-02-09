@@ -2,6 +2,7 @@
 title: Test and deployment strategy
 description: Learn about using Power Apps and Microsoft Power Platform for testing and deployment.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

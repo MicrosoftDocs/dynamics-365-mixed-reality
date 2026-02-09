@@ -2,6 +2,7 @@
 title: Purpose of validation and traceability
 description: Learn about the reasons for validation and traceability in a regulated industry.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

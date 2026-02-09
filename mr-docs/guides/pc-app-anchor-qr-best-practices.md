@@ -3,6 +3,7 @@ author: alwinv
 description: Learn best practices for using QR codes to anchor a guide in Dynamics 365 Guides
 ms.author: alwinv
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: best-practice
 title: Best practices for QR code anchors
 ms.reviewer: v-wendysmith

@@ -4,6 +4,7 @@ author: prashantyvr
 description: Learn about the supported Dynamics 365 Guides call types and who can collaborate
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---

@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to open a OneDrive for Business in Dynamics 365 Guides on HoloLens
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Open a OneDrive for Business file in Dynamics 365 Guides on HoloLens
 ms.reviewer: v-wendysmith

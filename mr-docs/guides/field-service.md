@@ -3,6 +3,7 @@ author: prashantyvr
 description: How to integrate Dynamics 365 Field Service with Dynamics 365 Guides so Field Service technicians can follow a guide while doing a work order
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Integrate Dynamics 365 Field Service with Dynamics 365 Guides
 ms.reviewer: v-wendysmith

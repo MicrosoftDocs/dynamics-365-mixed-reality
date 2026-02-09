@@ -3,6 +3,7 @@ author: prashantyvr
 description: Guides model-driven app overview
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 title: Guides model-driven app overview
 ms.reviewer: v-wendysmith

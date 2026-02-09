@@ -3,6 +3,7 @@ author: RobertButterworthMS
 description: Describes the third-party tutorials available for converting 3D objects for use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 title: Overview of self-serve tutorials for converting 3D objects for use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-wendysmith

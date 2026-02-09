@@ -4,6 +4,7 @@ description: Learn how to use Microsoft Entra groups and add users, assign licen
 author:  davepinch
 ms.topic: how-to
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.author: prashan
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

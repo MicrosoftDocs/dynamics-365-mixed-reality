@@ -4,6 +4,7 @@ description: Learn how to share the Guides model-driven app to provide access to
 author:  davepinch
 ms.topic: how-to
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.author: prashan
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

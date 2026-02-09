@@ -3,6 +3,7 @@ author: melissahellmund
 description: Learn how to point a small or closely spaced objects in Microsoft Dynamics 365 Guides
 ms.author: mehellmu
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Tips for pointing at small or closely spaced objects in Dynamics 365 Guides
 ms.reviewer: v-wendysmith

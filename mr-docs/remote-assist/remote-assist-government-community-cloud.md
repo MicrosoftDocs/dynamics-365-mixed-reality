@@ -6,6 +6,7 @@ ms.reviewer: v-wendysmith
 ms.topic: "article"
 author: prashantyvr
 ms.author: prashan
+ms.update-cycle: 1095-days
 ---
 
 # Dynamics 365 Remote Assist on Government Community Cloud (GCC)

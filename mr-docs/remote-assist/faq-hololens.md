@@ -7,6 +7,7 @@ ms.topic: faq
 title: Dynamics 365 Remote Assist HoloLens frequently asked questions
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
+ms.update-cycle: 1095-days
 ---
 
 # Frequently asked questions about Dynamics 365 Remote Assist HoloLens

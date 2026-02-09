@@ -4,6 +4,7 @@ description: Learn how to restrict access to specific assets Microsoft Dynamics 
 author:  prashantyvr
 ms.topic: how-to
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.author: prashan
 ms.reviewer: v-wendysmith
 ---

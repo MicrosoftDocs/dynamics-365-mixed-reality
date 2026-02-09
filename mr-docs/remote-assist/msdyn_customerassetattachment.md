@@ -3,6 +3,7 @@ author: prashantyvr
 description: Customer Asset Attachment entity.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: reference
 title: msdyn_customerassetattachment EntityType
 ms.reviewer: v-wendysmith

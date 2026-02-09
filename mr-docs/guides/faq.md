@@ -3,6 +3,7 @@ author: prashantyvr
 description: Frequently asked questions about Dynamics 365 Guides
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: faq
 title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-wendysmith

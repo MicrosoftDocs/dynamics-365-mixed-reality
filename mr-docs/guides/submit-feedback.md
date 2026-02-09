@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to submit feedback if you run into an issue with Microsoft Dynamics 365 Guides.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Submit feedback on Dynamics 365 Guides through the Feedback Hub
 ms.reviewer: v-wendysmith

@@ -3,6 +3,7 @@ author: prashantyvr
 description: Dynamics 365 Guides license FAQ.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: faq
 title: Licensing FAQ
 ms.reviewer: v-wendysmith

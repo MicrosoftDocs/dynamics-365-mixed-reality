@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to enable or disable calling in a Dynamics 365 Guides environment 
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Enable or disable calling for a Dynamics 365 Guides environment
 ms.reviewer: v-wendysmith

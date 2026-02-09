@@ -3,6 +3,7 @@ author: RobertButterworthMS
 description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Microsoft Power Apps
 ms.author: robutter
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Power Apps
 ms.reviewer: v-wendysmith
