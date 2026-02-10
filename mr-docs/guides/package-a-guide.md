@@ -3,6 +3,7 @@ author: prashantyvr
 ms.author: prashan
 description: Learn how to package a guide and its content and share it with others in Dynamics 365 Guides. 
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Package a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith

@@ -3,6 +3,7 @@ author: prashantyvr
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 title: Overview of analyzing and integrating Dynamics 365 Guides usage data
 ms.reviewer: v-wendysmith

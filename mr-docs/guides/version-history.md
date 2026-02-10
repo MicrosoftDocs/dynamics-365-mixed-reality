@@ -3,6 +3,7 @@ author: prashantyvr
 description: Describes older features for Dynamics 365 Guides, organized by release date
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
 ms.reviewer: v-wendysmith

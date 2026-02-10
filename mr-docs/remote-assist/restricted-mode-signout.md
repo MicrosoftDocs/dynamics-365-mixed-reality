@@ -4,6 +4,7 @@ author: prashantyvr
 description: Learn how to restrict users of Microsoft Dynamics 365 Remote Assist from signing out of the app. 
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---

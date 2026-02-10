@@ -6,6 +6,7 @@ ms.author: lmasieri
 ms.date: 01/15/2026
 ms.topic: release-notes
 ms.reviewer: v-wendysmith
+ms.update-cycle: 1095-days
 ---
 
 # Version history for Dynamics 365 Remote Assist

@@ -6,6 +6,7 @@ ms.author: prashan
 ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
+ms.update-cycle: 1095-days
 ---
 
 # Take a photo and save it to a Dynamics 365 Field Service booking

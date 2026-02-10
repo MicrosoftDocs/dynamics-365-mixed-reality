@@ -4,6 +4,7 @@ description: Learn about assigning ownership or sharing a folder or a guide in M
 author:  prashantyvr
 ms.topic: article
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.author: prashan
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

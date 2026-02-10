@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to add a branch to a guide in Microsoft Dynamics 365 Guides to create a nonlinear workflow
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Add a branch to a guide in Dynamics 365 Guides to create a nonlinear workflow
 ms.reviewer: mhart

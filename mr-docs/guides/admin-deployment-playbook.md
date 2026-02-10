@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn the basics about the deployment of Microsoft Dynamics 365 Guides, including architecture, environments, updates, and security.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: concept-article
 title: Basic concepts for deploying Dynamics 365 Guides
 ms.reviewer: v-wendysmith

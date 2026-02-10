@@ -3,6 +3,7 @@ author: melissahellmund
 description: Learn how to export and import Dynamics 365 Guides folders between environments.
 ms.author: mehellmu
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Export and import Dynamics 365 Guides folders between environments
 ms.reviewer: v-wendysmith

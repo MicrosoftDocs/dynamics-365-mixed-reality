@@ -3,6 +3,7 @@ author: prashantyvr
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Remote Assist on HoloLens
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: tutorial
 title: How-to videos for Dynamics 365 Remote Assist
 ms.reviewer: v-wendysmith

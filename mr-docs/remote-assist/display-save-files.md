@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to share and save files in Microsoft Dynamics 365 Remote Assist on HoloLens. 
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Share and save files in Dynamics 365 Remote Assist on HoloLens
 ms.reviewer: v-wendysmith

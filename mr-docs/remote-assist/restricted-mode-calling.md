@@ -4,6 +4,7 @@ author: prashantyvr
 description: Learn how to restrict calling and the ability to search for contacts and access contacts in Microsoft Dynamics 365 Remote Assist
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ms.custom: sfi-image-nochange

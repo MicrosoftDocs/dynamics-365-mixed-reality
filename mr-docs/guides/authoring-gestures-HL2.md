@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to use HoloLens 2 touch, hand rays, and gaze to navigate and manipulate holograms in Microsoft Dynamics 365 Guides.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: concept-article
 title: HoloLens 2 gestures for authoring and navigating in Dynamics 365 Guides
 ms.reviewer: v-wendysmith

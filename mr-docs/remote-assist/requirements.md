@@ -4,6 +4,7 @@ description:  Technical requirements for deploying and using Microsoft Dynamics 
 author: prashantyvr
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 ms.reviewer: v-wendysmith
 ms.service: dynamics-365-remote-assist

@@ -4,6 +4,7 @@ description: Learn about the Author, Operator, Restricted Author, and Restricted
 author:  davepinch
 ms.topic: concept-article
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.author: prashan
 ms.reviewer: v-wendysmith
 ---

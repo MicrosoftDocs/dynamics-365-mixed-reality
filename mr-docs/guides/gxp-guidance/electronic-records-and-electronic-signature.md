@@ -2,6 +2,7 @@
 title: Electronic records and electronic signatures
 description: Learn about the use of electronic records and signatures when you implement Dynamics 365 Guides in a regulated industry.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

@@ -2,6 +2,7 @@
 title: Prerequisites for implementation and rollout
 description: Learn the prerequisites before you implement Dynamics 365 Guides in a regulated industry, and to help plan the rollout of the solution.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

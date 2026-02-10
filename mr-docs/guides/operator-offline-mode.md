@@ -3,6 +3,7 @@ author: prashantyvr
 description: Work offline as an operator in Dynamics 365 Guides if you don't have an internet connection or you have an intermittent internet connection
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Work offline as an operator in Dynamics 365 Guides
 ms.reviewer: v-brycho

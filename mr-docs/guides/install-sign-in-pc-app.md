@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides PC app so you can start creating a guide.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Install the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith

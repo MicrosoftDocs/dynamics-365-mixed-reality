@@ -3,6 +3,7 @@ author: prashantyvr
 description: Overview of authoring in Dynamics 365 Guides, including PC authoring and HoloLens authoring
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 title: Authoring with the PC app and HoloLens app in Dynamics 365 Guides
 ms.reviewer: v-wendysmith

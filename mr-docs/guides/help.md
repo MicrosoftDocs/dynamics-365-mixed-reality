@@ -3,6 +3,7 @@ author: prashantyvr
 description: Use the Help menu in Microsoft Dynamics 365 Guides to find out what's new and more.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Get help with Dynamics 365 Guides
 ms.reviewer: v-brycho

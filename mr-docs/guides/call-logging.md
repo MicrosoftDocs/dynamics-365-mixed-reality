@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to view and access call data stored by Dynamics 365 Guides.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: View and access call data stored by Dynamics 365 Guides
 ms.reviewer: v-wendysmith

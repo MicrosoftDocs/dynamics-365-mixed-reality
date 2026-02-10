@@ -3,6 +3,7 @@ author: prashantyvr
 description: Known issues with Dynamics 365 Guides (general issues)
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: troubleshooting-known-issue
 title: Known issues with Dynamics 365 Guides
 ms.reviewer: v-wendysmith

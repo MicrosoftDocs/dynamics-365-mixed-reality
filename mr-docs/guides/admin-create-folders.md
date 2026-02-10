@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to organize guides and assets into folders in Dynamics 365 Guides.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Create folders in Dynamics 365 Guides to organize your guides and assets
 ms.reviewer: v-wendysmith

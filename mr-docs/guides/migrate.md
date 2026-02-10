@@ -3,6 +3,7 @@ author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse environment to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse environment to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-wendysmith

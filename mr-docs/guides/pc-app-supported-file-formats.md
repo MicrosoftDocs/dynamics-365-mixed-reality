@@ -3,6 +3,7 @@ author: prashantyvr
 ms.author: prashan
 description: Learn about supported file formats for 3D objects, images, and videos in Microsoft Dynamics 365 Guides.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Supported file formats and limits for 3D objects, images, and videos
 ms.reviewer: v-wendysmith

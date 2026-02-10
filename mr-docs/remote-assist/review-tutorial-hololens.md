@@ -4,6 +4,7 @@ author: prashantyvr
 description: Learn how to run the Dynamics 365 Remote Assist tutorial to learn about core features.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: tutorial
 ms.reviewer: v-wendysmith
 ---

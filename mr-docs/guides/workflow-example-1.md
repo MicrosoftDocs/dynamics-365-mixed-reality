@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to use Microsoft Power Automate to automatically generate deep links for the Dynamics 365 Guides PC and HoloLens apps
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Workflow example 1--Automatically generate deep links for the Dynamics 365 Guides PC and HoloLens apps
 ms.reviewer: v-wendysmith

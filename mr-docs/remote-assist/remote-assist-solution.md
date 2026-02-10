@@ -4,6 +4,7 @@ author: prashantyvr
 description: Dynamics 365 Remote Assist solution
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---

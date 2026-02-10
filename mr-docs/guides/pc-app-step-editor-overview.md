@@ -3,6 +3,7 @@ author: prashantyvr
 ms.author: prashan
 description: Learn about using the Step Editor in the Microsoft Dynamics 365 Guides PC app to add 3D objects, 3D parts, images, videos, website links, and Power Apps links.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 title: Overview of the Step Editor in the Dynamics 365 Guides PC app
 ms.reviewer: v-wendysmith

@@ -2,6 +2,7 @@
 title: Anchor guide content through QR codes and embed deep links
 description: Learn about using QR codes and embedded QR code links to anchor guide content to pieces of equipment when you implement Dynamics 365 Guides in a regulated industry.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

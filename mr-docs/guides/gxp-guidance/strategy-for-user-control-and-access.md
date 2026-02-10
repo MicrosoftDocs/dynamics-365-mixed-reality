@@ -2,6 +2,7 @@
 title: User control and access strategy
 description: Learn about restricting access and user control.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

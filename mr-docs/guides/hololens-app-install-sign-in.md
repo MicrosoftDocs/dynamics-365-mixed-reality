@@ -3,6 +3,7 @@ author: MattHoag-MS
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Install and sign in to the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-wendysmith

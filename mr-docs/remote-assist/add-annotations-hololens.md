@@ -6,6 +6,7 @@ ms.author: prashan
 ms.date: 01/15/2026
 ms.topic: how-to
 ms.reviewer: v-wendysmith
+ms.update-cycle: 1095-days
 ---
 
 # Add annotations in Dynamics 365 Remote Assist on HoloLens
