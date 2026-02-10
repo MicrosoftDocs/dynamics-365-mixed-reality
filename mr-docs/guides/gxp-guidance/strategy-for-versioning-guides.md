@@ -2,6 +2,7 @@
 title: Versioning guides strategy
 description: Learn about setting up a strategy for versioning guides in a regulated industry.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: concept-article
 author: prashantyvr
 ms.author: prashan

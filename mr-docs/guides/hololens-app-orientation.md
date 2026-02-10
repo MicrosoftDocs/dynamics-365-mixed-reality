@@ -3,6 +3,7 @@ author: prashantyvr
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app UI if you're an author. 
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Get oriented with the Dynamics 365 Guides HoloLens app (for authors)
 ms.reviewer: v-brycho

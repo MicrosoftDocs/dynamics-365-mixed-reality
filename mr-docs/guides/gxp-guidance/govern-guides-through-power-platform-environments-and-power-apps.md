@@ -2,6 +2,7 @@
 title: Govern guides through Microsoft Power Platform environments and Power Apps
 description: Learn about using Microsoft Power Platform or Power Apps to separate guides according to their life cycle stage.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

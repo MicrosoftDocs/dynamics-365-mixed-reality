@@ -2,6 +2,7 @@
 title: Platform qualification and app validation
 description: Learn about qualifying Microsoft Power Platform and validating the Dynamics 365 Guides and Power Apps applications.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

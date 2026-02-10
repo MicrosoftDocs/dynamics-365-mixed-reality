@@ -4,6 +4,7 @@ author: prashantyvr
 description: Learn about key security and compliance topics in Microsoft Dynamics 365 Guides.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ms.custom: bap-template

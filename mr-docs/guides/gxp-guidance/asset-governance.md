@@ -2,6 +2,7 @@
 title: Asset governance
 description: Learn what you should consider for governance of assets that are used in guides in a regulated industry.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan

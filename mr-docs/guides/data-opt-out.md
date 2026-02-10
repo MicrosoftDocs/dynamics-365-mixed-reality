@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage data in Microsoft Dataverse, for privacy reasons.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 ms.reviewer: v-wendysmith

@@ -4,6 +4,7 @@ description: Determine whether your Dynamics 365 Guides solution is compatible w
 author: prashantyvr
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 ms.reviewer: v-wendysmith
 ms.custom: sfi-image-nochange

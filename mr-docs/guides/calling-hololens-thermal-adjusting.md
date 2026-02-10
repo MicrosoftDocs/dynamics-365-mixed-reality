@@ -4,6 +4,7 @@ author: prashantyvr
 description: Learn how Dynamics 365 Guides automatically adjusts HoloLens temperature by reducing outgoing video quality if the device overheats
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 ms.reviewer: v-wendysmith
 ---

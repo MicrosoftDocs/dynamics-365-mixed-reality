@@ -6,6 +6,7 @@ ms.author: bogdanb
 ms.date: 01/15/2026
 ms.topic: overview
 ms.reviewer: v-wendysmith
+ms.update-cycle: 1095-days
 ---
 
 # Dynamics 365 Remote Assist Calls Dashboard

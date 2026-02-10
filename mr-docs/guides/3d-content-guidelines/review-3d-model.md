@@ -3,6 +3,7 @@ author: RobertButterworthMS
 ms.author: robutter
 description: Learn how to review a 3D object after exporting it as a GLB file to make sure it meets performance targets for Microsoft Dynamics 365 Guides or Power Apps.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Review a 3D object to use with Dynamics 365 Guides or Power Apps
 ms.reviewer: v-brycho

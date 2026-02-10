@@ -3,6 +3,7 @@ author: RobertButterworthMS
 description: Learn about best practices for converting and optimizing real-time 3D objects for use with Dynamics 365 mixed-reality applications
 ms.author: robutter
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: best-practice
 title: Best practices for converting and optimizing real-time 3D objects for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho

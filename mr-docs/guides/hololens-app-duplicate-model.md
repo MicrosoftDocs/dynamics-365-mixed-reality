@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to duplicate a 3D object in the Dynamics 365 Guides HoloLens app
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Duplicate a 3D object in the Dynamics 365 Guides HoloLens app 
 ms.reviewer: v-wendysmith

@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn about the different parts of the QR code anchor provided with Dynamics 365 Guides
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Guides QR code anchor configuration
 ms.reviewer: v-wendysmith

@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn everything that you need to know about using the PC authoring app to create a guide in Microsoft Dynamics 365 Guides.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 title: Overview of using the PC authoring app to create a guide in Dynamics 365 Guides
 ms.reviewer: v-wendysmith

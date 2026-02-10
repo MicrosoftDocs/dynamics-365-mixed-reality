@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a holographic anchor
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Anchor your guide in Dynamics 365 Guides by using a holographic anchor
 ms.reviewer: mhart

@@ -4,6 +4,7 @@ author: prashantyvr
 description: Learn how to share a desktop or application screen between Microsoft Teams users and Dynamics 365 Guides users on HoloLens
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---

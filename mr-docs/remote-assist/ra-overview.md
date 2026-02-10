@@ -7,6 +7,7 @@ ms.date: 01/15/2026
 ms.topic: overview
 ms.reviewer: v-wendysmith
 ms.custom: bap-template
+ms.update-cycle: 1095-days
 ---
 
 # Welcome to Dynamics 365 Remote Assist

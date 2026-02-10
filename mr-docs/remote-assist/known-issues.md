@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn about known issues in Microsoft Dynamics 365 Remote Assist.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: troubleshooting-known-issue
 title: Known issues in Dynamics 365 Remote Assist
 ms.reviewer: v-wendysmith

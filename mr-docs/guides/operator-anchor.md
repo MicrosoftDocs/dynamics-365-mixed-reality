@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to anchor a guide in the Microsoft Dynamics 365 Guides HoloLens app if you're an operator.
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Anchor a guide in the Dynamics 365 Guides HoloLens app (operators)
 ms.reviewer: v-wendysmith

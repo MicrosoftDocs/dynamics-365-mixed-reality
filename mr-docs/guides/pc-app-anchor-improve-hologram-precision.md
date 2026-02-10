@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn about things you can do to improve positional precision of holograms in Dynamics 365 Guides
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 title: Effect of calibration, prescanning, and environment on positional precision of holograms in Dynamics 365 Guides
 ms.reviewer: v-wendysmith

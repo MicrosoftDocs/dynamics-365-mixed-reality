@@ -3,6 +3,7 @@ author: prashantyvr
 description: Get an overview of the installation process for Microsoft Dynamics 365 Guides. 
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Install and set up Dynamics 365 Guides process
 ms.reviewer: v-wendysmith

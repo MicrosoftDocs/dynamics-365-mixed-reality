@@ -4,6 +4,7 @@ description: Discover how users of Remote Assist, Guides, or Field Service can c
 author: prashantyvr
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 ms.reviewer: v-wendysmith
 ---

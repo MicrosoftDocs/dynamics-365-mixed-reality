@@ -3,6 +3,7 @@ author: alwinv
 description: Learn how to anchor a guide in Dynamics 365 Guides by using object anchors
 ms.author: alwinv
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Anchor a guide in Dynamics 365 Guides by using object anchors
 ms.reviewer: mhart

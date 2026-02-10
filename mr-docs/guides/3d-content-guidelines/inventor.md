@@ -3,6 +3,7 @@ author: RobertButterworthMS
 description: Describes, in tutorial format, how to use Autodesk Inventor to prepare 3D objects for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Prepare Autodesk Inventor 3D objects for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho

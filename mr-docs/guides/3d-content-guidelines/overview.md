@@ -3,6 +3,7 @@ author: RobertButterworthMS
 description: Overview of converting and optimizing 3D objects to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: robutter
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: overview
 title: Overview of preparing 3D objects for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-wendysmith

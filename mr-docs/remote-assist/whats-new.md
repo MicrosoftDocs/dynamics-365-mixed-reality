@@ -4,6 +4,7 @@ description: Overview of what's new in Dynamics 365 Remote Assist
 author: lmasieri
 ms.author: lmasieri
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: whats-new
 ms.reviewer: v-wendysmith
 ---

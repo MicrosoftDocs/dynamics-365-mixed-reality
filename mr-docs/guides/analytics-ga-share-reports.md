@@ -3,6 +3,7 @@ author: prashantyvr
 description: Learn how to share Guides Analytics Power BI reports with other Microsoft Dynamics 365 Guides users
 ms.author: prashan
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to
 title: Share Guides Analytics reports with other Dynamics 365 Guides users
 ms.reviewer: v-wendysmith

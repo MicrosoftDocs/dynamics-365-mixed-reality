@@ -4,6 +4,7 @@ description: Learn how to buy a subscription of the Dynamics 365 Remote Assist H
 ms.author: prashan
 ms.service: dynamics-365-remote-assist
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: how-to 
 title: Buy a Dynamics 365 Remote Assist subscription
 ms.reviewer: v-wendysmith

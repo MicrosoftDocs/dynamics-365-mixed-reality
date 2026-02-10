@@ -2,6 +2,7 @@
 title: Content and toolkit ownership strategy
 description: Learn about controlling access to guides content in the toolkit in a regulated industry.
 ms.date: 01/15/2026
+ms.update-cycle: 1095-days
 ms.topic: article
 author: prashantyvr
 ms.author: prashan
