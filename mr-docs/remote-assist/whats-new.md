@@ -13,13 +13,13 @@ ms.reviewer: v-wendysmith
 
 [!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
-This article describes details about the **current release wave (October 2025 through March 2026)** for Dynamics 365 Remote Assist, organized by release date. You can see a complete list of [features organized by previous waves](version-history.md).
+This article describes details about the **current release wave (April 2026 through September 2026)** for Dynamics 365 Remote Assist, organized by release date. You can see a complete list of [features organized by previous waves](version-history.md).
 
-## December 3, 2025
+## April 27, 2026
 
 |Item|Version|
 |----|-------|
-|HoloLens 2 app | 317.2511.24001.0|
+|HoloLens 2 app | 318.2604.07001|
 |Remote Assist model-driven app | 1.0.0.865|
 
 Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
