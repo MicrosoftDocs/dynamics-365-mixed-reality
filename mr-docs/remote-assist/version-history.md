@@ -3,7 +3,7 @@ title: Version history for Microsoft Dynamics 365 Remote Assist
 description: Find version history for earlier versions of Microsoft Dynamics Remote Assist, including a list of fixed bugs for each version.
 author: lmasieri
 ms.author: lmasieri
-ms.date: 01/15/2026
+ms.date: 04/20/2026
 ms.topic: release-notes
 ms.reviewer: v-wendysmith
 ms.update-cycle: 1095-days
@@ -16,6 +16,20 @@ ms.update-cycle: 1095-days
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
 This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the **most recent wave of features**, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+
+## 2025 Release Wave 2
+
+## December 3, 2025
+
+|Item|Version|
+|----|-------|
+|HoloLens 2 app | 317.2511.24001.0|
+|Remote Assist model-driven app | 1.0.0.865|
+
+Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
+
+> [!IMPORTANT]
+> This release contains security and reliability updates and is required to continue using Remote Assist.
 
 ## 2025 Release Wave 1
 
