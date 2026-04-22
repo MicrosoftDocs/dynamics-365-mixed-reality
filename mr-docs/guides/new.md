@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Guides
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
 author: lmasieri
 ms.author: lmasieri
-ms.date: 04/24/2026
+ms.date: 04/22/2026
 ms.update-cycle: 1095-days
 ms.topic: whats-new
 ms.reviewer: v-wendysmith
@@ -20,7 +20,7 @@ ms.custom: bap-template
 
 This page provides details about the latest release in the **current release wave (April 2026 through September 2026)** for Microsoft Dynamics 365 Guides, organized by release date. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
-## April 27, 2026
+## April 22, 2026
 
 |Item|Version|
 |-------------------------|--------------------------------|

@@ -2,7 +2,7 @@
 author: lmasieri
 description: Describes older features for Dynamics 365 Guides, organized by release date
 ms.author: lmasieri
-ms.date: 04/24/2026
+ms.date: 04/22/2026
 ms.update-cycle: 1095-days
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
