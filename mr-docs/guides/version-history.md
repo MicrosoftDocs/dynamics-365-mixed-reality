@@ -1,8 +1,8 @@
 ---
-author: prashantyvr
+author: lmasieri
 description: Describes older features for Dynamics 365 Guides, organized by release date
-ms.author: prashan
-ms.date: 01/15/2026
+ms.author: lmasieri
+ms.date: 04/22/2026
 ms.update-cycle: 1095-days
 ms.topic: reference
 title: Version history for Dynamics 365 Guides
@@ -14,6 +14,26 @@ ms.reviewer: v-wendysmith
 [!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This article provides a version history for Microsoft Dynamics 365 Guides features for all waves. For the latest release, see [What's new in Dynamics 365 Guides](new.md). To see a comprehensive list of released and upcoming features for all waves, see <a href="/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+
+## 2025 Release Wave 1
+
+## June 10, 2025
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app| 907.2505.29001.0 |
+|HoloLens app | 907.2505.29001.0 |
+|Solution| 900.4.0.1* |
+
+> [!IMPORTANT]
+> This release is required to continue using Microsoft Teams capabilities. Otherwise, failures in sign-in and/or calling capabilities might occur after June 30, 2025. If your organization doesn't use Teams, the update isn't required but recommended.
+
+### Improvements
+
+- Migrated to a new authentication endpoint required for Teams capabilities
+
+> [!NOTE]
+> *This release requires an update to the PC and HoloLens applications only, but not the solution. The solution version 900.4.0.1 is compatible with the latest client applications.
 
 ## 2024 Release Wave 2
 

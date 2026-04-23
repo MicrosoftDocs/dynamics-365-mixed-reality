@@ -1,9 +1,9 @@
 ---
 title: What's new in Dynamics 365 Guides
 description: Describes the new features in Dynamics 365 Guides, organized by release date.
-author: prashantyvr
-ms.author: prashan
-ms.date: 01/15/2026
+author: lmasieri
+ms.author: lmasieri
+ms.date: 04/22/2026
 ms.update-cycle: 1095-days
 ms.topic: whats-new
 ms.reviewer: v-wendysmith
@@ -18,22 +18,22 @@ ms.custom: bap-template
 
 [!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
-This page provides details about the latest release in the **current release wave (April 2025 through September 2025)** for Microsoft Dynamics 365 Guides, organized by release date. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
+This page provides details about the latest release in the **current release wave (April 2026 through September 2026)** for Microsoft Dynamics 365 Guides, organized by release date. You can also <a href="/dynamics365/mixed-reality/guides/version-history" target="_blank">see a complete list of features organized by previous waves</a>.
 
-## June 10, 2025
+## April 22, 2026
 
 |Item|Version|
 |-------------------------|--------------------------------|
-|PC app| 907.2505.29001.0 |
-|HoloLens app | 907.2505.29001.0 |
+|PC app| 909.2604.9001.0 |
+|HoloLens app | 909.2604.9001.0 |
 |Solution| 900.4.0.1* |
 
 > [!IMPORTANT]
-> This release is required to continue using Microsoft Teams capabilities. Otherwise, failures in sign-in and/or calling capabilities might occur after June 30, 2025. If your organization doesn't use Teams, the update isn't required but recommended.
+> This release is required to continue using Microsoft Teams capabilities. Otherwise, failures in calling capabilities will occur after June 30, 2026. If your organization doesn't use Teams, the update isn't required but recommended.
 
 ### Improvements
 
-- Migrated to a new authentication endpoint required for Teams capabilities
+- Migrated to a new mechanism of establishing Teams calls (both incoming and outgoing).
 
 > [!NOTE]
 > *This release requires an update to the PC and HoloLens applications only, but not the solution. The solution version 900.4.0.1 is compatible with the latest client applications.
