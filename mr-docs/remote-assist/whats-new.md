@@ -3,7 +3,7 @@ title: What's new in Dynamics 365 Remote Assist
 description: Overview of what's new in Dynamics 365 Remote Assist
 author: lmasieri
 ms.author: lmasieri
-ms.date: 04/22/2026
+ms.date: 06/23/2026
 ms.update-cycle: 1095-days
 ms.topic: whats-new
 ms.reviewer: v-wendysmith
@@ -14,6 +14,18 @@ ms.reviewer: v-wendysmith
 [!INCLUDE[remote-assist-guides-deprecate](~/includes/remote-assist-guides-deprecate.md)]
 
 This article describes details about the **current release wave (April 2026 through September 2026)** for Dynamics 365 Remote Assist, organized by release date. You can see a complete list of [features organized by previous waves](version-history.md).
+
+## June 23, 2026
+
+|Item|Version|
+|----|-------|
+|HoloLens 2 app | 319.2606.8001.1|
+|Remote Assist model-driven app | 1.0.0.865|
+
+Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
+
+> [!IMPORTANT]
+> This release contains security and reliability updates and is required to continue using Remote Assist.
 
 ## April 22, 2026
 
