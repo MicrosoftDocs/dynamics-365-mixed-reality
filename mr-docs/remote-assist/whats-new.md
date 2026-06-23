@@ -19,7 +19,7 @@ This article describes details about the **current release wave (April 2026 thro
 
 |Item|Version|
 |----|-------|
-|HoloLens 2 app | 319.2606.8001.1|
+|HoloLens 2 app | 319.2606.8001.0|
 |Remote Assist model-driven app | 1.0.0.865|
 
 Only users with admin permission can [update the Remote Assist model-driven app](ra-webapp-install.md#update-the-model-driven-app-to-the-latest-version).
