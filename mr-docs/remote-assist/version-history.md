@@ -15,7 +15,7 @@ ms.update-cycle: 1095-days
 
 [!INCLUDE[try-guides-ra](../includes/try-guides-ra.md)]
 
-This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the **most recent wave of features**, see [What's new in Dynamics 365 Remote Assist](whats-new.md). To see a comprehensive list of released and upcoming features, see [Dynamics 365 and Power Platform release plans](/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+This article provides a version history for Microsoft Dynamics 365 Remote Assist features. For the most recent updates, see [What's new in Dynamics 365 Remote Assist](whats-new.md). Visit the <a href="https://aka.ms/AIatWorkroadmap" target="_blank">AI at Work roadmap</a> to discover upcoming capabilities, track rollout progress, and plan adoption.
 
 ## 2025 Release Wave 2
 
@@ -271,12 +271,12 @@ The following app versions include the above bug fixes.
 
 |Feature|How to|
 |-----------------------------------------------|---------------------------------------------------|
-|[Support for screen sharing in the mobile app](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/support-teams-desktop-mac)|Share your screen in the mobile app|
-|[Restrict users from signing out of the HoloLens app](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/restrict-users-signing-out-hololens-app)|[Restrict users from signing out of the HoloLens app](restricted-mode-signout.md)|
-|[Adjust outgoing video quality to reduce HoloLens temperature](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/adjust-outgoing-video-quality-reduce-hololens-temperature)|[How Dynamics 365 Remote Assist adjusts HoloLens device temperature](hololens-thermal-adjusting.md)|
-|[New voice commands for navigating app settings and managing windows](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/new-voice-commands-navigating-app-settings-window-management)|[Voice commands for Dynamics 365 Remote Assist on HoloLens](voice-commands-hololens.md)|
-|[Disable file sharing by using a Microsoft Teams policy](/dynamics365-release-plan/2022wave1/remote-assist/dynamics365-remote-assist/disable-file-sharing-using-teams-policy)|[Microsoft Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md#file-sharing-policies)|
-|[Improvement to incoming call notifications on Android](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/improvement-incoming-call-notifications-android)|[Make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams]|
+| Support for screen sharing in the mobile app |Share your screen in the mobile app|
+| Restrict users from signing out of the HoloLens app |[Restrict users from signing out of the HoloLens app](restricted-mode-signout.md)|
+| Adjust outgoing video quality to reduce HoloLens temperature |[How Dynamics 365 Remote Assist adjusts HoloLens device temperature](hololens-thermal-adjusting.md)|
+| New voice commands for navigating app settings and managing windows |[Voice commands for Dynamics 365 Remote Assist on HoloLens](voice-commands-hololens.md)|
+| Disable file sharing by using a Microsoft Teams policy] |[Microsoft Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md#file-sharing-policies)|
+| Improvement to incoming call notifications on Android |[Make calls between Dynamics 365 Remote Assist mobile and Microsoft Teams]|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -310,7 +310,7 @@ The following app versions include the above bug fixes.
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[New restriction capabilities prevent users from making private calls, and accessing files and assets](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/planned-features)|[Protect company information by restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)|
+| New restriction capabilities prevent users from making private calls, and accessing files and assets |[Protect company information by restricting capabilities in Dynamics 365 Remote Assist](restricted-mode-overview.md)|
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
@@ -356,7 +356,7 @@ Fixed problem with precision of remote annotations placed close to the HoloLens 
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[Support for spotlight and pinning for video feed on Microsoft Teams desktop](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-spotlight-pinning-remote-assist-video-feed-teams-desktop)|None|
+| Support for spotlight and pinning for video feed on Microsoft Teams desktop |None|
 
 ### Bug fixes and improvements
 
@@ -399,10 +399,10 @@ incorrectly.
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[One-time-call users can open files shared with them from the mobile app](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/one-time-call-users-open-files-shared-them)|[Invite a user to join a one-time call](one-time-call.md)|
-|[Support for a subset of Microsoft Teams policies](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-subset-teams-policies)|[Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md)|
-|[Accuracy improvements for mixed-reality annotations on mobile](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/accuracy-improvements-mixed-reality-annotations-mobile)|None|
-|[Support for spotlight and pinning for video feed on Microsoft Teams desktop](/dynamics365-release-plan/2021wave2/remote-assist/dynamics365-remote-assist/support-spotlight-pinning-remote-assist-video-feed-teams-desktop)|None|
+| One-time-call users can open files shared with them from the mobile app |[Invite a user to join a one-time call](one-time-call.md)|
+| Support for a subset of Microsoft Teams policies |[Teams policies supported by Dynamics 365 Remote Assist](teams-policies.md)|
+| Accuracy improvements for mixed-reality annotations on mobile |None|
+| Support for spotlight and pinning for video feed on Microsoft Teams desktop |None|
 
 ### Bugs fixed
 
@@ -462,7 +462,7 @@ incorrectly.
 
 |Feature|How to|
 |-----------------------------------------------|----------------------------------------------------|
-|[Turn hand rays off or on](/dynamics365-release-plan/2021wave1/service/dynamics365-remote-assist/turn-hand-rays-off-or)|[Turn hand rays off or on](hololens-hand-rays.md)|
+|Turn hand rays off or on |[Turn hand rays off or on](hololens-hand-rays.md)|
 
 #### Bugs fixed
 
