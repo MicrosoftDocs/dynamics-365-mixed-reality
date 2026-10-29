@@ -47,7 +47,7 @@ It's critical that you have governance for software compatibility and a well-est
 
 ### Feature roadmap
 
-To stay on top of upcoming Microsoft Power Platform features and potential changes to your governance structure, familiarize yourself with the current [Microsoft Power Platform release plan](/dynamics365/release-plans/).
+To stay on top of upcoming Microsoft Power Platform features and potential changes to your governance structure, visit [the roadmap](https://aka.ms/AIatWorkroadmap).
 
 ## Next steps
 
